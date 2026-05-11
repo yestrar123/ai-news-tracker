@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>文章归档 - AI 热点新闻</title>
+<meta name="description" content="AI 热点新闻历史归档">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <header class="site-header">
+        <div class="header-top">
+            <h1 class="site-title">&#x1F4C2; 文章归档</h1>
+            <div class="header-actions">
+                <a href="index.html" class="archive-link">&#x2190; 返回首页</a>
+                <a href="https://github.com/your-username/your-repo/actions/workflows/update.yml" class="refresh-btn" target="_blank">&#x21BB; 手动刷新</a>
+            </div>
+        </div>
+        <p class="site-subtitle">所有历史文章按日期归档</p>
+        <p class="update-info">共 <span id="totalDates">2</span> 个归档日期 · <span id="totalArticles">20</span> 篇文章</p>
+    </header>
+
+    <main class="archive-list" id="archiveList">
+        <div class="empty-state" id="archiveEmpty">
+            <div class="empty-icon">&#x1F4E1;</div>
+            <h2>暂无归档</h2>
+            <p>等待首次数据更新。</p>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <p>由 GitHub Actions 定时驱动 · AI 总结由 AI 生成</p>
+        <p><a href="index.html">返回首页</a> · <a href="https://github.com/your-username/your-repo/actions/workflows/update.yml" target="_blank">手动触发更新</a></p>
+    </footer>
+</div>
+
+<script>
+var ALL = [{"id": "1", "title": "Star Fox Switch 2 amiibo Compatibility Confirmed, Here's What You Can Unlock - Nintendo Life", "url": "https://www.nintendolife.com/news/2026/05/star-fox-switch-2-amiibo-compatibility-confirmed-heres-what-you-can-unlock", "source": "Nintendo Life", "publishedAt": "2026-05-10T00:00:00Z", "summary": "任天堂确认《星际火狐》Switch 2版将支持amiibo功能，玩家可使用对应角色amiibo解锁游戏内特殊道具与内容。官方提示玩家可重新启用Fox等amiibo获取额外奖励，具体解锁物品尚未完全公布，但已确认包含皮肤、武器等增强体验的要素。该作将是Switch 2首发重要作品之一。", "fetchDate": "2026-05-11"}, {"id": "2", "title": "Takashi Tezuka Reinvented The Legend Of Zelda Without Overthinking It - Kotaku", "url": "https://kotaku.com/takashi-tezuka-reinvented-the-legend-of-zelda-without-overthinking-it-2000694600", "source": "Kotaku", "publishedAt": "2026-05-09T19:01:25Z", "summary": "长期担任任天堂制作人的手冢卓志宣布退休。他分享了自己重新构思《塞尔达传说》系列时独特的创作理念：不刻意追求复杂思考，而是凭借直觉与外部艺术启发（如电影、音乐）来设计游戏体验。这种异于常人的思维方式使系列焕发新生，其退休标志任天堂一个创意时代的落幕。", "fetchDate": "2026-05-11"}, {"id": "3", "title": "New Subnautica 2 gameplay teaser has just dropped and if you weren't excited before, you will be now - Eurogamer.net", "url": "https://www.eurogamer.net/new-subnautica-2-gameplay-teaser-has-just-dropped-and-if-you-werent-excited-before-you-will-be-now", "source": "Eurogamer.net", "publishedAt": "2026-05-09T18:17:08Z", "summary": "《深海迷航2》发布了全新游戏实机预告片，距离正式发售仅数日。预告片展示了玩家将探索的海底世界壮丽景象与全新生物，延续前作生存探索核心。开发团队通过光影和音效营造沉浸感，新作预计在画面和玩法上有显著提升，令系列粉丝期待不已。", "fetchDate": "2026-05-11"}, {"id": "4", "title": "Fans Think New GTA 6 Emails From Sony Signal Something Big - Kotaku", "url": "https://kotaku.com/sony-is-emailing-ps4-owners-and-telling-them-to-buy-a-ps5-for-gta-6-and-fans-think-its-the-start-of-something-2000694579", "source": "Kotaku", "publishedAt": "2026-05-09T17:30:51Z", "summary": "有迹象显示Take-Two与索尼正为《侠盗猎车手6》筹备大规模营销活动。部分玩家收到索尼发送的神秘电子邮件，暗示即将公布重大消息。结合此前传闻，粉丝认为GTA 6的宣传即将全面启动，新预告或发布日期信息可能很快公布，引发社区热议。", "fetchDate": "2026-05-11"}, {"id": "5", "title": "Fan Updates Nirvanna The Band’s Wii Shop Song For Current Gen - Kotaku", "url": "https://kotaku.com/fan-updates-nirvanna-the-bands-wii-shop-wednesday-song-for-games-available-on-the-switch-2000694589", "source": "Kotaku", "publishedAt": "2026-05-09T17:00:27Z", "summary": "一名粉丝将Nirvanna the Band乐队在Wii时代创作的经典商店音乐重新编排并适配现代主机。原曲因Wii商店通道而知名，更新版本保留了怀旧旋律，同时优化音质和长度。此举致敬了该乐队与任天堂Wii的紧密联系，也让新一代玩家体验复古游戏文化的魅力。", "fetchDate": "2026-05-11"}, {"id": "6", "title": "Here’s why I’m optimistic about iOS 27 and Apple’s renewed focus on stability - 9to5Mac", "url": "https://9to5mac.com/2026/05/09/ios-27-focus-on-stability-why-im-optimistic/", "source": "9to5Mac", "publishedAt": "2026-05-09T16:35:00Z", "summary": "传闻苹果将在iOS 27中大幅提升系统稳定性与性能，并对代码进行清理优化。除引入更多Apple Intelligence智能功能外，系统将减少漏洞和卡顿，提升用户体验。这一举措反映出苹果在功能迭代后重新重视底层质量，预计在WWDC上公开具体变化。", "fetchDate": "2026-05-11"}, {"id": "7", "title": "Explosive co-op shooter Aliens: Fireteam Elite gets a sequel, and it's coming soon - Eurogamer.net", "url": "https://www.eurogamer.net/explosive-co-op-shooter-aliens-fireteam-elite-gets-a-sequel-and-its-coming-soon", "source": "Eurogamer.net", "publishedAt": "2026-05-09T15:54:00Z", "summary": "合作射击游戏《异形：火力小队》的续作《异形：火力小队2》已正式公布，将于今年晚些时候发售。新作延续前作第三人称合作模式，玩家将组建小队对抗异形威胁。官方承诺加入新武器、新职业以及更丰富的关卡设计，为粉丝带来更激烈的战斗体验。", "fetchDate": "2026-05-11"}, {"id": "8", "title": "Get more space and solid performance with this MacBook Pro for under $500 - Mashable", "url": "https://mashable.com/article/may-9-apple-macbook-pro-i5", "source": "Mashable", "publishedAt": "2026-05-09T15:46:56Z", "summary": "一款MacBook Pro机型正以低于500美元的价格促销，提供更大的存储空间和稳定性能。该机型适合处理文件、应用和项目，性价比突出。虽然未明确具体配置，但促销消息吸引了预算有限但需要苹果生态生产力的用户关注。", "fetchDate": "2026-05-11"}, {"id": "9", "title": "Yuji Horii reveals Dragon Quest stream for 40th anniversary with next big game reveal - My Nintendo News", "url": "https://mynintendonews.com/2026/05/09/yuji-horii-reveals-dragon-quest-stream-for-40th-anniversary-with-next-big-game-reveal/", "source": "My Nintendo News", "publishedAt": "2026-05-09T15:06:06Z", "summary": "《勇者斗恶龙》系列制作人堀井雄二透露，为庆祝系列40周年，Square Enix将于5月27日举办特别直播活动，届时将公布系列下一款重磅新作。粉丝期待新作继承经典JRPG元素，同时带来创新内容。消息引发社区对40周年纪念作品的热烈讨论。", "fetchDate": "2026-05-11"}, {"id": "10", "title": "It Seems ‘Destiny 2’ And ‘Marathon’ Cannot Properly Co-Exist At Bungie - Forbes", "url": "https://www.forbes.com/sites/paultassi/2026/05/09/it-seems-destiny-2-and-marathon-cannot-properly-co-exist-at-bungie/", "source": "Forbes", "publishedAt": "2026-05-09T14:00:44Z", "summary": "索尼对Bungie的收购减值损失已达7.65亿美元，暴露出Bungie同时运营《命运2》和新作《马拉松》的困境。分析认为，在规模缩减的情况下，公司难以同时维持两款大型在线游戏，未来可能不得不做出取舍，影响玩家社区和开发资源分配。", "fetchDate": "2026-05-11"}, {"id": "11", "title": "Windows 11 is changing how Windows Update works — here are the 5 things Microsoft says will matter most - Windows Central", "url": "https://www.windowscentral.com/microsoft/windows-11/5-things-you-need-to-know-about-changes-coming-to-windows-update-on-windows-11", "source": "Windows Central", "publishedAt": "2026-05-09T13:55:36Z", "summary": "微软宣布Windows 11的Windows Update将迎来五项重大改进：减少重启次数、提供更精细的控制选项、更智能的修复机制、缩短更新安装时间以及优化后台下载。这些变化旨在缓解用户长期对更新打断工作的不满，提升系统维护体验。", "fetchDate": "2026-05-11"}, {"id": "12", "title": "Fury Erupts After Google Chrome Sneakily Installs 4 GB AI Model On Users’ PCs - Futurism", "url": "http://futurism.com/artificial-intelligence/fury-google-chrome-ai-model", "source": "Futurism", "publishedAt": "2026-05-09T13:45:00Z", "summary": "Google Chrome浏览器被发现在未明确征得用户同意的情况下，悄悄在用户电脑中安装了一个约4GB大小的AI模型。此举引发用户强烈不满，指责侵犯隐私和占用磁盘空间。Google尚未正式回应，但安全专家建议用户检查并管理浏览器存储设置。", "fetchDate": "2026-05-11"}, {"id": "13", "title": "ASUS Republic of Gamers Announces Strix OLED XG34WCDMS and Strix XG129C - ASUS Pressroom", "url": "https://press.asus.com/news/press_releases/strix-oled-xg34wcdms-xg129c-gaming-monitors/", "source": "Asus.com", "publishedAt": "2026-05-09T13:23:48Z", "summary": "华硕玩家国度（ROG）发布两款新显示器：34英寸Strix OLED XG34WCDMS，采用RGB Tandem QD-OLED面板，支持280Hz高刷新率；以及12.3英寸Strix XG129C触摸式副屏，可用于扩展显示或快捷操作。两款产品均面向高端游戏玩家，提升视觉与操作体验。", "fetchDate": "2026-05-11"}, {"id": "14", "title": "The Best Turn-Based Strategy Games To Play If You Love XCOM and XCOM 2 - Strategy and Wargaming", "url": "https://strategyandwargaming.com/2026/05/09/the-best-turn-based-strategy-games-to-play-if-you-love-xcom-and-xcom-2/", "source": "Strategyandwargaming.com", "publishedAt": "2026-05-09T13:03:25Z", "summary": "文章推荐了多款适合XCOM爱好者的回合制策略游戏，并指出2012年《XCOM：未知敌人》重制版复兴了该类型。列举游戏包括《凤凰点》《纷争终结者》等，强调战术深度、小队管理和随机要素。这些作品继承了XCOM的核心玩法，同时加入独特创新。", "fetchDate": "2026-05-11"}, {"id": "15", "title": "Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem - WSJ", "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a", "source": "The Wall Street Journal", "publishedAt": "2026-05-09T13:00:00Z", "summary": "苹果基于超过5.7万名iPhone用户数据的听力研究显示，听力损失与走路速度减慢存在关联。研究发现，即使排除膝盖等关节问题，听力不佳的人走路更慢。这一结论提醒公众关注听觉健康，耳朵问题可能影响身体活动能力。", "fetchDate": "2026-05-11"}, {"id": "16", "title": "Is Xbox Game Pass finally making sense? - Windows Central", "url": "https://www.windowscentral.com/gaming/xbox/gen-z-shift-toward-xbox-game-pass-has-me-rethinking-how-we-buy", "source": "Windows Central", "publishedAt": "2026-05-09T13:00:00Z", "summary": "文章探讨Xbox Game Pass订阅服务正逐渐被市场接受。随着游戏库扩充、云游戏完善以及第一方作品首发入库，Game Pass模式越来越具吸引力。虽然仍有定价争议，但用户开始认可其价值，Xbox多年来布局的订阅生态正迎来转折点。", "fetchDate": "2026-05-11"}, {"id": "17", "title": "Top Stories: iOS 26.5 Coming Soon, Goodbye $599 Mac Mini, and More - MacRumors", "url": "https://www.macrumors.com/2026/05/09/top-stories-ios-26-5-coming-soon/", "source": "MacRumors", "publishedAt": "2026-05-09T13:00:00Z", "summary": "苹果即将发布iOS 26.5等小幅更新，为6月WWDC上公布的iOS 27做铺垫。同时，经典599美元Mac mini或将停产，预示着产品线调整。用户期待iOS 27带来全新功能和设计，而iOS 26.5将包含一些小幅改进。", "fetchDate": "2026-05-11"}, {"id": "18", "title": "Immortal snail meme turned into desktop game where you only get one life - Dexerto", "url": "https://www.dexerto.com/gaming/immortal-snail-meme-turned-into-desktop-game-where-you-only-get-one-life-3362903/", "source": "Dexerto", "publishedAt": "2026-05-09T12:59:32Z", "summary": "源自网络的“不朽蜗牛”梗被改编成桌面游戏《别碰蜗牛》。游戏中一只蜗牛会在桌面持续追踪光标，玩家一旦触碰即游戏结束。游戏强调唯一生命机制，结合紧张追逐感，将网络幽默转化为极简主义的互动体验，吸引病毒式传播。", "fetchDate": "2026-05-11"}, {"id": "19", "title": "Canon EOS R6 V & RF 20-50mm f/4L IS USM PZ Pricing Info and More - Canon Rumors", "url": "https://www.canonrumors.com/canon-eos-r6-v-rf-20-50mm-f-4l-is-usm-pz-pricing-info-and-more/", "source": "Canonrumors.com", "publishedAt": "2026-05-09T11:49:43Z", "summary": "佳能将于2026年5月13日发布EOS R6 V相机及RF 20-50mm f/4L IS USM PZ电动变焦镜头。相机具备视频优化特性，镜头支持平滑变焦，适合拍摄。两者可单独购买或作为套装销售，定价信息已部分曝光，面向专业视频创作者。", "fetchDate": "2026-05-11"}, {"id": "20", "title": "Asking Eric: Adopted daughter’s birth grandmother has questions - MLive.com", "url": "https://www.mlive.com/advice/2026/05/asking-eric-adopted-daughters-birth-grandmother-has-questions.html", "source": "mlive.com", "publishedAt": "2026-05-09T11:00:00Z", "summary": "专栏“Ask Eric”收到一位养女生祖母的来信，她希望与养女建立联系并了解家庭背景，但因收养关系复杂而困惑如何沟通。专栏作者建议尊重养女和其养父母的意愿，以温和开放的方式逐步建立信任，处理这类敏感的家族关系问题。", "fetchDate": "2026-05-11"}];
+
+function _f(pub) {
+    if (!pub) return '';
+    try { var d = new Date(pub.replace('Z','+00:00')); return d.toISOString().slice(0,10)+' '+d.toISOString().slice(11,16); } catch(e) { return pub.slice(0,16); }
+}
+function _e(s) {
+    if (!s) return '';
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function _h(text, kw) {
+    if (!kw) return _e(text);
+    var re = new RegExp(_re(kw), 'gi');
+    return _e(text).replace(re, function(m) { return '<mark class="hl">'+m+'</mark>'; });
+}
+function _re(s) {
+    return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+
+function ra() {
+    var gr = {}, keys = [];
+    ALL.forEach(function(a) {
+        var d = '\u672a\u77e5\u65e5\u671f';
+        try { d = new Date(a.publishedAt.replace('Z','+00:00')).toISOString().slice(0,10); } catch(e) {}
+        if (!gr[d]) { gr[d] = []; keys.push(d); }
+        gr[d].push(a);
+    });
+    keys.sort().reverse();
+    document.getElementById('totalDates').textContent = keys.length;
+    document.getElementById('totalArticles').textContent = ALL.length;
+    document.getElementById('archiveEmpty').style.display = 'none';
+
+    var list = document.getElementById('archiveList');
+    list.innerHTML = keys.map(function(d) {
+        var aa = gr[d];
+        var cards = aa.map(function(a) { return _card(a, ''); }).join('');
+        return '<div class="archive-group">'
+            + '<div class="archive-group-header" onclick="tg(this)">'
+            + '<span class="archive-date">'+d+'</span>'
+            + '<span class="archive-count">'+aa.length+'\u7bc7</span>'
+            + '<span class="archive-toggle">\u25B6</span>'
+            + '</div>'
+            + '<div class="archive-group-body">'+cards+'</div>'
+            + '</div>';
+    }).join('');
+}
+
+function tg(h) {
+    var b = h.nextElementSibling;
+    var to = h.querySelector('.archive-toggle');
+    b.classList.toggle('expanded');
+    to.textContent = b.classList.contains('expanded') ? '\u25BC' : '\u25B6';
+}
+
+
+function _card(a, kw) {
+    return '<article class="news-card">'
+        + '<div class="card-header"><span class="card-source">'+_e(a.source)+'</span><span class="card-time">'+_f(a.publishedAt)+'</span></div>'
+        + '<h2 class="card-title"><a href="'+_e(a.url)+'" target="_blank" rel="noopener noreferrer">'+_h(a.title, kw)+'</a></h2>'
+        + '<p class="card-summary">'+_e(a.summary||'暂无摘要')+'</p>'
+        + '</article>';
+}
+
+ra();
+</script>
+</body>
+</html>

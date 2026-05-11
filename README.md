@@ -18,11 +18,13 @@
 ├── scripts/
 │   ├── fetch_news.py              # 从 NewsAPI 抓取新闻
 │   ├── summarize.py               # 调用 DeepSeek API 总结
-│   └── generate_site.py           # 生成静态 index.html
+│   └── generate_site.py           # 生成静态页面（数据库管理 + 首页 + 归档）
 ├── data/
 │   ├── raw_news.json              # 原始新闻数据
-│   └── news_data.json             # 总结后的新闻数据
-├── index.html                     # 生成的网站主页
+│   ├── news_data.json             # 总结后的新闻数据
+│   └── articles.json              # 历史文章数据库（自动去重追加）
+├── index.html                     # 首页（分页展示 + 搜索功能）
+├── archive.html                   # 归档页（按日期分组，可折叠展开）
 ├── style.css                      # 网站样式
 └── README.md
 ```
@@ -77,11 +79,14 @@
 ```
 NewsAPI (抓取英文新闻)
     ↓
-fetch_news.py (筛选 AI 相关新闻，保存为 raw_news.json)
+fetch_news.py → data/raw_news.json
     ↓
-summarize.py (调用 DeepSeek V4 生成中文总结，保存为 news_data.json)
+summarize.py → data/news_data.json (AI 中文总结)
     ↓
-generate_site.py (读取数据，生成 index.html)
+generate_site.py
+  ├── 追加新文章到 data/articles.json（自动去重）
+  ├── 生成 index.html（分页 + 搜索）
+  └── 生成 archive.html（日期归档，折叠展开）
     ↓
 GitHub Actions (git commit + push)
     ↓
