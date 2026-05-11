@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-从 NewsAPI 获取最近6小时的科技热点新闻。
+从 NewsAPI 获取最近6小时的 AI 热点新闻。
 
 环境变量:
     NEWS_API_KEY: NewsAPI API 密钥
@@ -22,13 +22,17 @@ if not API_KEY:
     print("ERROR: NEWS_API_KEY environment variable not set")
     sys.exit(1)
 
-# 请求 NewsAPI 头条新闻（科技类别）
+# 计算6小时前的时间
+since_time = (datetime.utcnow() - timedelta(hours=6)).strftime("%Y-%m-%dT%H:%M:%S")
+
 try:
     response = requests.get(
-        "https://newsapi.org/v2/top-headlines",
+        "https://newsapi.org/v2/everything",
         params={
-            "category": "technology",
-            "country": "us",
+            "q": "AI OR artificial intelligence OR ChatGPT OR OpenAI",
+            "from": since_time,
+            "language": "en",
+            "sortBy": "popularity",
             "pageSize": 20,
             "apiKey": API_KEY,
         },
@@ -41,7 +45,6 @@ try:
         print(f"API error: {data.get('message', 'Unknown error')}")
         sys.exit(1)
 
-    # 提取需要的字段
     articles = []
     seen_urls = set()
 
@@ -58,7 +61,6 @@ try:
                 "content": (article.get("content") or "").strip(),
             })
 
-    # 按发布时间排序
     articles.sort(key=lambda x: x.get("publishedAt", ""), reverse=True)
 
     with open(RAW_NEWS_FILE, "w", encoding="utf-8") as f:
