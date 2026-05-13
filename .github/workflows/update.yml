@@ -2,7 +2,8 @@ name: AI News Auto Update
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 每6小时运行一次
+    - cron: '0 */6 * * *'   # 每6小时运行一次（更新）
+    - cron: '0 2 * * *'     # 每天凌晨2点运行（清理）
   workflow_dispatch:          # 支持手动触发
 
 env:
@@ -55,5 +56,31 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto update: AI news summary $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          fi
+
+  cleanup:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Clean expired articles
+        run: python scripts/clean_expired.py
+
+      - name: Commit and push cleanup
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ index.html archive.html
+          if git diff --staged --quiet; then
+            echo "No cleanup changes"
+          else
+            git commit -m "cleanup: remove expired articles"
             git push
           fi

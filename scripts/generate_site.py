@@ -11,6 +11,7 @@ from datetime import datetime, date
 DATA_DIR = "data"
 NEWS_DATA_FILE = os.path.join(DATA_DIR, "news_data.json")
 ARTICLES_DB_FILE = os.path.join(DATA_DIR, "articles.json")
+DELETED_QUEUE_FILE = os.path.join(DATA_DIR, "deleted_queue.json")
 INDEX_FILE = "index.html"
 ARCHIVE_FILE = "archive.html"
 ITEMS_PER_PAGE = 20
@@ -45,6 +46,18 @@ def save_articles_db(articles):
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(ARTICLES_DB_FILE, "w", encoding="utf-8") as f:
         json.dump({"articles": articles, "total": len(articles)}, f, ensure_ascii=False, indent=2)
+
+
+def load_deleted_urls():
+    """从 deleted_queue.json 加载已删除的文章 URL 集合。"""
+    if not os.path.exists(DELETED_QUEUE_FILE):
+        return set()
+    try:
+        with open(DELETED_QUEUE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return {entry["url"] for entry in data.get("deleted", []) if entry.get("url")}
+    except (json.JSONDecodeError, FileNotFoundError):
+        return set()
 
 
 def merge_articles(existing, new_articles):
@@ -109,6 +122,16 @@ function _h(text, kw) {
 function _re(s) {
     return s.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\$&');
 }
+function _del(btn) {
+    var url = btn.getAttribute('data-url');
+    if (!confirm('确定要删除这篇文章吗？')) return;
+    navigator.clipboard.writeText(url).then(function() {
+        alert('网址已复制！请在打开的页面中选择 action=delete，粘贴网址后执行。');
+        window.open(MANAGE_URL, '_blank');
+    }).catch(function() {
+        alert('复制失败，请手动复制链接：' + url);
+    });
+}
 """
 
 
@@ -117,7 +140,7 @@ def _render_article_js():
     return """
 function _card(a, kw) {
     return '<article class="news-card">'
-        + '<div class="card-header"><span class="card-source">'+_e(a.source)+'</span><span class="card-time">'+_f(a.publishedAt)+'</span></div>'
+        + '<div class="card-header"><span class="card-source">'+_e(a.source)+'</span><span class="card-time">'+_f(a.publishedAt)+'</span><button class="delete-btn" data-url="'+_e(a.url)+'" onclick="_del(this)" title="删除">&#x1F5D1;&#xFE0F;</button></div>'
         + '<h2 class="card-title"><a href="'+_e(a.url)+'" target="_blank" rel="noopener noreferrer">'+_h(a.title, kw)+'</a></h2>'
         + '<p class="card-summary">'+_e(a.summary||'暂无摘要')+'</p>'
         + '</article>';
@@ -146,6 +169,7 @@ def generate_ssr_first_page(articles):
         <div class="card-header">
             <span class="card-source">{source}</span>
             <span class="card-time">{pub}</span>
+            <button class="delete-btn" data-url="{url}" onclick="_del(this)" title="删除">&#x1F5D1;&#xFE0F;</button>
         </div>
         <h2 class="card-title"><a href="{url}" target="_blank" rel="noopener noreferrer">{title}</a></h2>
         <p class="card-summary">{summary}</p>
@@ -157,7 +181,7 @@ def generate_ssr_first_page(articles):
     return "\n".join(cards)
 
 
-def build_index(articles, updated_at, actions_url):
+def build_index(articles, updated_at, actions_url, manage_url):
     """生成首页 HTML"""
     total = len(articles)
     total_pages = max(1, math.ceil(total / ITEMS_PER_PAGE))
@@ -217,6 +241,7 @@ def build_index(articles, updated_at, actions_url):
 <script>
 var ALL = {articles_json};
 var PS = {items_per_page};
+var MANAGE_URL = '{manage_url}';
 var cp = 1;
 var fa = ALL;
 
@@ -280,12 +305,13 @@ document.getElementById('searchInput').addEventListener('input', function() {{
         empty_html=empty_html,
         articles_json=articles_json,
         items_per_page=ITEMS_PER_PAGE,
+        manage_url=manage_url,
         globals=_js_globals(),
         card_func=_render_article_js(),
     )
 
 
-def build_archive(articles, actions_url):
+def build_archive(articles, actions_url, manage_url):
     """生成归档页面 HTML"""
     total = len(articles)
     articles_json = json.dumps(articles, ensure_ascii=False)
@@ -341,6 +367,7 @@ def build_archive(articles, actions_url):
 
 <script>
 var ALL = {articles_json};
+var MANAGE_URL = '{manage_url}';
 {globals}
 
 function ra() {{
@@ -387,6 +414,7 @@ ra();
         total_dates=total_dates,
         total=total,
         articles_json=articles_json,
+        manage_url=manage_url,
         globals=_js_globals(),
         card_func=_render_article_js(),
     )
@@ -403,14 +431,24 @@ def main():
     all_articles.sort(key=lambda a: a.get("publishedAt", ""), reverse=True)
     save_articles_db(all_articles)
 
+    # 过滤已删除的文章
+    deleted_urls = load_deleted_urls()
+    if deleted_urls:
+        before = len(all_articles)
+        all_articles = [a for a in all_articles if a.get("url") not in deleted_urls]
+        filtered = before - len(all_articles)
+        if filtered:
+            print(f"Filtered {filtered} deleted articles")
+
     repo = os.environ.get("GITHUB_REPOSITORY", "your-username/your-repo")
     actions_url = f"https://github.com/{repo}/actions/workflows/update.yml"
+    manage_actions_url = f"https://github.com/{repo}/actions/workflows/manage.yml"
 
     with open(INDEX_FILE, "w", encoding="utf-8") as f:
-        f.write(build_index(all_articles, updated_at, actions_url))
+        f.write(build_index(all_articles, updated_at, actions_url, manage_actions_url))
 
     with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
-        f.write(build_archive(all_articles, actions_url))
+        f.write(build_archive(all_articles, actions_url, manage_actions_url))
 
     print(f"OK: index.html ({len(all_articles)} articles, {added} new)")
     print(f"OK: archive.html ({len(all_articles)} articles)")
