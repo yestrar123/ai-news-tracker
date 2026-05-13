@@ -1,69 +1,76 @@
 {
-  "updatedAt": "2026-05-13 07:11:16 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-05-13 07:55:09 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "\"If self-driving cars and artificial intelligence (AI) changed the world, the next innovation would be 'Bio Digital Twin'.\" - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RT0NMVWp1SmkzM2M0ZWc2VmRXQXFycmtjUFI3NWYtclFhczRrcnhZZUFNUHJaRlhGVldmM0JUYVdPNEdfN1JrTzJpTEthTUQyb2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-13T07:19:26Z",
+      "summary": "生物数字孪生（Bio Digital Twin）被视为继自动驾驶和人工智能后的下一项重大创新。该技术通过构建人体或生物系统的精确数字模型，实现健康监测、疾病预测和个性化治疗。据매일경제报道，其潜力可能超越之前的技术变革，为医疗健康领域带来革命性影响，但具体应用和实现路径尚待探索。"
+    },
     {
       "title": "AI songs top music charts – NZ creatives fear losing control - 1News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZE1TNkpiZUYwdG5ORldFTU9DbkFySDNOdTA2TjVLYVNMVzJxQkN3VldaTHo1ZHJhU1RIX0Z6d1RNRjhkeW80cHFYYXR4V2thQ2xqOUJwSFZ6OTJveF9PM1dObkQzaWFma0hiRXA2aVNFTERnUEpfVkdpb2w2MENPNWsxUy04NF9tZVM4RVFRVV80WU41bThqWi1n?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-13T06:52:18Z",
-      "summary": "人工智能生成的歌曲已成功登上新西兰音乐排行榜，引发当地创作者对失去创作控制权的担忧。这些AI作品通过算法分析流行旋律和歌词模式自动生成，虽在商业上取得突破，但艺术家们担心这会导致原创性丧失和收入减少，并呼吁行业建立更严格的监管框架以保护人类创作权益。"
+      "summary": "AI生成的歌曲近日登上音乐排行榜前列，引发新西兰创意产业人士的担忧。他们认为AI可能抢走人类音乐人的创作空间，导致作品原创性下降和版权归属不清。1News报道指出，尽管AI在音乐创作上展现了惊人效率，但艺术家们担心失去对作品的控制权，呼吁建立相应监管框架以保护创意价值。"
+    },
+    {
+      "title": "Albany Med using new AI-powered platform for complex brain surgeries - WRGB",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS2JBdnFHdV9jUUFkczJBb0EwXzF5TEhVWmYxU2I1Z3RPY1BES1hxaFdpeGV6dHh5eHFMQl9LWEVtaHpJdnhGbDRCaXNLamFSc0xpRDBtZ0o1MTVhUmFZTk53RHBzNUlMbzg2OVVJQl93YjZXZ0Z6WV9qUlEzS1FTNHhqQlVFcXBtQTU3NHZuOTlQYVpYM3dwSVBlaDZqMk16STRJQnV0ZVpLemR1VDM3cm85T3lQaEczTmFFNmQ4d2o4RUF1SXRpOGZhUG1nSnJhTFZF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-13T06:40:49Z",
+      "summary": "奥尔巴尼医学中心引入一款AI驱动的新平台，用于辅助复杂脑部手术。该平台通过分析术前影像、实时导航和风险预测，帮助外科医生提高手术精准度和安全性。WRGB报道称，这项技术有望降低并发症风险，缩短手术时间，是AI在神经外科领域的重要突破，未来或推广至更多高难度手术。"
     },
     {
       "title": "Potholes Cost Cities Millions Every Year, AI May Have Found The Solution - NDTV",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSVlBME5FbWFKV3NfaWQtR0ZhempBd0RvMnF3bnNCNFQybjQxZEY4M3htZF9fbTNUbmY4amNCbTJrWV9HX2NHT1hrcEtCZDRiLXc1UEc3dVdzcmlXTGhiSDBZajNWbU53c3EtU0xRWUZVWEJwS3FRVUpJTFZnRnc5OVhxdDFob2M3SVJlSm1jdG9NZ19lWXhUTS1DSG1xM0pJYzdPS0ZBd2w4U1N2RXRyb0U5MlNDS1BZeDU3bWF5TWJvZ1nSAcsBQVVfeXFMT1BKaWU0YjdKNFYxeHotRG5hWGl5bE9ZS2g5dklydGJ3SVNwM2lNTnpBaVVyb1NrTC1pMU9tdHF3aXFCLXdQOGg1VWx6V3J4S2VfWXV1ekFwWmNoZWdrZXNiaXdTaHNaYzB6dWJqVEF4NHZza2dyS3kyLUtoZzEzWVBtZDBVS0lvZ1piSmlZMzVraTY0ckdLV0VHOWZqb2xZQkdyTENSTWZCc2hGQXUwSHB0aFJCR211bnVrOUhJZkl6cW1JYVBsZmdPYVk?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-13T06:02:18Z",
-      "summary": "路面坑洼问题每年给城市造成数百万美元经济损失，人工智能或已找到解决方案。通过部署搭载计算机视觉的巡检车辆或无人机，AI系统能自动识别路面裂缝、凹陷等缺陷，并评估修复优先级。该技术利用深度学习模型分析实时影像，准确率超过90%，可显著降低人工巡检成本并缩短响应时间，有望成为城市基础设施维护的新标准。"
+      "summary": "城市道路坑洼每年造成数百万美元的经济损失，而AI技术可能提供解决方案。NDTV报道指出，通过计算机视觉和机器学习算法，AI能够自动检测路面损坏、预测维修时机并优化资源分配。该方案已在部分城市试点，显著降低了修复成本和对交通的影响，为基础设施维护带来全新模式。"
     },
     {
       "title": "What Is Artificial General Intelligence? How AGI Could Change the Future - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMzZkQ1ctT0tCNGdMa1h5SmF6cUtzQk10S04zMXVCa3RCR21ZTVpoV2J2MGJJWDZrV2ZzcnkzU3Q0RG5IenlKY1BlSHg5eWhRVWVEeWY5V0hsYXRlM2g0aEplSmdrRUlkMWNxMVE4OTVTeUNyeGc2TzZJOF9tMHdYSElRWVc4M0hreUZVUDhSR3Qzb1ExYTNMaElERTUzRTJCNFlnY2plUFV1c0tKeEZ1eXZrc19Wd0toSkpV?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-13T05:35:27Z",
-      "summary": "人工通用智能（AGI）是一种能够执行任何人类智力任务的理论AI系统，与当前专注于特定领域的弱AI不同。AGI具备自主学习、推理和跨领域迁移能力，一旦实现将彻底改变医疗、科研、经济等领域。然而，其发展也面临伦理、安全和控制难题，专家们呼吁在技术突破前建立全球性治理框架，以确保AGI造福人类。"
+      "summary": "通用人工智能（AGI）被定义为具备人类水平认知能力的AI系统，能够像人一样学习和推理。Tech Times文章探讨了AGI可能如何改变未来，包括自动化复杂决策、推动科学发现、重塑经济结构等。同时也警示了潜在风险，如就业替代、伦理困境和失控问题，呼吁在研发中提前设立安全准则。"
     },
     {
       "title": "First Coders, Now Lawyers? Anthropic Unveils Claude's New Legal AI Tools - NDTV",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaFRNSWg1bGJRODd6eVJwNzJPRjVyMnlJOGUyMEZ2N0Ywd2lvRk5TOU5lbFZjSXFLVXl1MXBCallucm9zM28tTFJ2R0xLOTFRY1hyUnJDZmN1UWtGVDVyaEloelQ3YUNpd01yZmlKQ0pKazU1Z0dhSVFEMTV3M2RfSlN6OXpkRGl1TlgxaHlxNXJfRmE0R09LQW9ha0hPcnpZMmx5LWdxbFpJR1FiT2xJQTF4bzd5UWdMU3RhZGxnUGPSAcgBQVVfeXFMT2h6VW1LMlkyOUhaX0lCSG9uN0hMbS1WQS1rb1JFT2sySkl6MGpyR3ZaNGNiLUh2VjM1WC1oU1NwWHJjYk15cHdqUVZQd29kLVhQZWw5aTJkVVU2dmt5TlotdUF3bEJWaGpDZnNtRG9EZ0Y0Ulh1d0hkZTAzenFaTWl6MmtOUXJlaVJRckRzM2ZLWXlxZnNuZ0JWUjRKU2VWNWlrUkttUnJvN1BJazBieUpjUFhyX1BiTUJ4SGxCWllBVi1oc1JISUs?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-13T03:46:04Z",
-      "summary": "继编程领域后，AI正进军法律行业。Anthropic公司为Claude模型推出全新法律AI工具，可辅助律师进行合同审查、法律研究、文书起草等任务。该工具基于大语言模型，能快速分析海量判例并提炼关键条款，但不会取代人类律师的最终判断。这标志着AI在专业服务领域的应用进一步扩展，但也引发对法律行业就业结构变化的讨论。"
+      "summary": "继AI辅助编程后，Anthropic公司推出了针对法律行业的Claude新工具，可处理合同分析、案例检索和法律研究等任务。NDTV报道指出，AI在律师领域的应用引发了对职业冲击的讨论，但同时也可能提高效率、降低成本。专家建议法律专业人士应主动拥抱AI，而非被动抵制。"
     },
     {
       "title": "Expert outlines Africa’s tech future at summit - The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONUprckVtSXZBU0tudlpEUzhNNVdZWngzZHE3YXlROGgyZmxjYmd1WkxYcTVqMm1mRjMyR3Z5RmhoVHpsZ1F4MndQNlc3a19SUHcwSVlYVDlGMVl0VU9BQmk2QkdjcUNCeFdXbHgyUkp3T2VacFdmc0VHV2NGUjE4eHVUWQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-13T03:43:17Z",
-      "summary": "在非洲技术峰会上，专家们概述了非洲大陆的科技未来：重点发展人工智能、数字支付、农业科技和可再生能源。非洲凭借年轻人口结构和移动互联网普及优势，有望在AI应用、金融科技等领域实现跨越式发展。同时需要改善数字基础设施、加强人才培养并制定包容性政策，以避免技术鸿沟扩大并确保本土创新受益于全球AI浪潮。"
+      "summary": "在近日举行的科技峰会上，专家概述了非洲的科技发展前景，指出AI、移动支付和数字基础设施将是关键驱动力。The Guardian Nigeria News报道称，非洲可以利用跳跃式发展机遇，通过AI解决教育、医疗和农业等领域的难题，但需克服数字鸿沟、技能短缺和基础设施薄弱等挑战。"
     },
     {
       "title": "AI rivalry overshadows push for guardrails at Xi-Trump talks: experts - Digital Journal",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFNkSVBKd2toZThzLUttOVNDYXVMaUNpUUtMTlhqMVNMaHFVMVFpQml6NjhOb2NKWHZFTDBlWGtnVldvS1V2Vnptc3NFQ2l2Nk5jY1NtSEx6OTMwQ2hfNVpXWDlBVGczbmFrcGRqSEJZcFJJR1hybTYxcjNMamhlRzlRTUVFSm1qT2p6TTh0cS1ZRTBleDN0bzUtQ2FTTm9FazZBR2FtTGw3MWE3RjRpVV85aw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-13T03:28:47Z",
-      "summary": "在中美领导人会晤中，人工智能竞争成为核心议题，甚至掩盖了建立技术安全护栏的呼声。专家指出，两国在AI芯片、大模型等领域的技术角力加剧了地缘紧张，而全球亟需就AI发展制定共同准则以防止失控。双方虽表达合作意愿，但实际进展有限，凸显出在技术主权与风险管控之间寻求平衡的复杂局面。"
+      "summary": "专家分析称，中美领导人会晤中，人工智能领域的激烈竞争掩盖了双方对AI安全护栏的推动。Digital Journal报道指出，尽管两国都意识到AI风险并呼吁国际合作，但地缘政治对抗使得实际进展缓慢。未来全球AI治理需平衡竞争与协作，避免技术脱钩带来的风险。"
     },
     {
       "title": "Artificial intelligence in education: teaching for, about, and with AI - Demócrata",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdGtrMGtOd0xTcmlTem9icm82RVRnaEMtYWUwRkJobDF6bkc1RnZDOEhyX1FyanMxa3I4MjdUZ0d2Q0RQeUE2Q1A4TVVncmhzRlFidXhxZ2p4c1gyeUprQjdCX2dnbmUzTlo0ZEpJbHBsZGE4MTdPbTd4dEFHV0JZWnRGTGFSNmtZbFJ1cTJDWXMyRTlLZmItaTY0aWZFQWRDQmFQT284ZXUtQlFtNE1sUzNtMHBJVlpZNkpTYWljazE5LWlhRmlFT0FXTGpEclRHUFHSAdcBQVVfeXFMTl84UWdVNDljOFVuQmJHbW1MQXp1Rm1tX3Jzd2wwb0gtQ05tRTV2bEJVcmJlZ2lfMFhMdmRlQlE0X1c5Y01MM2Z2dmFFYmNXdy1LUlZtV2ZpemxKNDhFRmo2Vm1xUW5mNXhubkJPeEpYb1EyYmtlZ0FPMEVXaUQ1ejhxTkYwbWFTTndpc1dFSTJFa0hmUzluLVpwRm4xRmNJUnhCdlVlUkkzckxEVld2OGgtMjdKeUpCUTdwd2l1Q2dSZ2R4aC12cmwwMUVWV2d4TkZsQ1hIZFU?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-13T03:00:00Z",
-      "summary": "人工智能在教育领域呈现三种应用模式：教授AI知识（关于AI）、借助AI工具教学（用AI）、以及培养与AI协作的能力（为AI时代做准备）。专家建议学校应整合AI课程，同时利用自适应学习系统个性化教学，并强调批判性思维和数字素养的重要性。这要求教师角色从知识传授转向学习引导者，以让学生在未来人机协同社会中具备竞争力。"
+      "summary": "文章探讨了人工智能在教育中的三重角色：为AI而教（培养AI人才）、关于AI的教（普及AI知识）和用AI来教（借助工具辅助教学）。Demócrata报道强调，AI能个性化学习路径、提供即时反馈，但也带来数据隐私和教师角色重塑等问题。教育系统需主动适应，以便充分利用AI潜力。"
     },
     {
       "title": "AI is ready to take over Python programming, but not much else - cio.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUh5Q1llWlJsTWZoVlVXYzM5ZGVtWUFlZXczeUxHbVFFSkJwd1REQWd4QmlaWU1OQUlRSTY2eEJQaGtqNkk5SFdRdm9sV2JUdEFONy1xZ0N2QnY5UWRwRnNjWGxJZDYtMjFyZ0VtQ040T09EeUs1SDY5bU0xRThwVzgtbG5QcGtKaUVVWHY0NWppT3dHMWROSnRSMVJVU05GVkhvaQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-13T02:33:43Z",
-      "summary": "当前AI已具备接管Python编程任务的能力，但泛化能力仍然有限。研究表明，AI在代码生成、bug修复和简单脚本编写方面表现出色，可大幅提升程序员效率。然而，对于复杂系统设计、非标准库应用以及需要深层业务理解的场景，AI仍无法替代人类。因此，AI更适合作为辅助工具而非完全替代开发者，未来人机协作将成为主流工作模式。"
-    },
-    {
-      "title": "Albany Med using new AI-powered platform for complex brain surgeries - WRGB",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS2JBdnFHdV9jUUFkczJBb0EwXzF5TEhVWmYxU2I1Z3RPY1BES1hxaFdpeGV6dHh5eHFMQl9LWEVtaHpJdnhGbDRCaXNLamFSc0xpRDBtZ0o1MTVhUmFZTk53RHBzNUlMbzg2OVVJQl93YjZXZ0Z6WV9qUlEzS1FTNHhqQlVFcXBtQTU3NHZuOTlQYVpYM3dwSVBlaDZqMk16STRJQnV0ZVpLemR1VDM3cm85T3lQaEczTmFFNmQ4d2o4RUF1SXRpOGZhUG1nSnJhTFZF?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-13T01:43:12Z",
-      "summary": "奥尔巴尼医学中心引入全新AI驱动平台，用于复杂脑部手术。该系统通过术前MRI等影像数据训练AI模型，能在手术中实时分析患者脑部结构，精准识别肿瘤边界、关键神经束和血管，辅助神经外科医生制定最优切除路径。该技术有望提高手术准确性、降低术后并发症风险并缩短康复时间，标志着AI在神经外科领域的临床落地迈出重要一步。"
+      "summary": "cio.com文章指出，AI在Python编程领域已展现出强大能力，能够自动生成代码、修复错误和优化性能，甚至超越初级程序员。然而，在其他复杂任务如架构设计、需求分析和跨领域创新上，AI仍力不从心。这意味着开发者应专注于更高层次的思考，同时利用AI提升编程效率。"
     }
   ]
 }
