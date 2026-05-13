@@ -400,6 +400,7 @@ def main():
 
     db_articles = load_articles_db()
     all_articles, added = merge_articles(db_articles, new_articles)
+    all_articles.sort(key=lambda a: a.get("publishedAt", ""), reverse=True)
     save_articles_db(all_articles)
 
     repo = os.environ.get("GITHUB_REPOSITORY", "your-username/your-repo")

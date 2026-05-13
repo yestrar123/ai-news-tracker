@@ -12,6 +12,7 @@ import os
 import json
 import sys
 import math
+import time
 import shutil
 from datetime import datetime
 
@@ -94,37 +95,47 @@ def build_batch_prompt(batch_articles, batch_start_idx):
 ]"""
 
 
-def call_api(prompt):
-    """调用 DeepSeek API，返回解析后的 summaries list。"""
-    resp = requests.post(
-        API_URL,
-        headers={
-            "Authorization": f"Bearer {API_KEY}",
-            "Content-Type": "application/json",
-        },
-        json={
-            "model": MODEL,
-            "messages": [
-                {"role": "system", "content": "你是专业的AI新闻编辑助手，严格按用户要求的JSON格式输出。"},
-                {"role": "user", "content": prompt},
-            ],
-            "temperature": 0.3,
-            "max_tokens": 4096,
-        },
-        timeout=120,
-    )
-    resp.raise_for_status()
-    body = resp.json()
+def call_api(prompt, retries=2):
+    """调用 DeepSeek API，返回解析后的 summaries list。失败时重试。"""
+    last_exc = None
+    for attempt in range(1 + retries):
+        try:
+            resp = requests.post(
+                API_URL,
+                headers={
+                    "Authorization": f"Bearer {API_KEY}",
+                    "Content-Type": "application/json",
+                },
+                json={
+                    "model": MODEL,
+                    "messages": [
+                        {"role": "system", "content": "你是专业的AI新闻编辑助手，严格按用户要求的JSON格式输出。"},
+                        {"role": "user", "content": prompt},
+                    ],
+                    "temperature": 0.3,
+                    "max_tokens": 8192,
+                },
+                timeout=120,
+            )
+            resp.raise_for_status()
+            body = resp.json()
 
-    raw = body["choices"][0]["message"]["content"]
+            raw = body["choices"][0]["message"]["content"]
 
-    # 提取 JSON（处理可能包裹在 markdown 代码块中的情况）
-    if "```json" in raw:
-        raw = raw.split("```json")[1].split("```")[0].strip()
-    elif "```" in raw:
-        raw = raw.split("```")[1].split("```")[0].strip()
+            # 提取 JSON（处理可能包裹在 markdown 代码块中的情况）
+            if "```json" in raw:
+                raw = raw.split("```json")[1].split("```")[0].strip()
+            elif "```" in raw:
+                raw = raw.split("```")[1].split("```")[0].strip()
 
-    return json.loads(raw)
+            return json.loads(raw)
+        except Exception as e:
+            last_exc = e
+            if attempt < retries:
+                wait = 2 ** attempt
+                print(f"  API attempt {attempt + 1} failed, retrying in {wait}s...")
+                time.sleep(wait)
+    raise last_exc
 
 
 # 备份旧数据
