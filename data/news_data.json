@@ -1,139 +1,160 @@
 {
-  "updatedAt": "2026-05-14 09:39:50 UTC",
-  "totalArticles": 19,
+  "updatedAt": "2026-05-14 10:38:44 UTC",
+  "totalArticles": 22,
   "articles": [
     {
+      "title": "If AI can translate instantly, why learn another language? - The Federal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenBOTWVFWW9ZM3Z5OUpfYmN2NEJwekRleEVkRTRFWlNBLU5pejBqeGhUMTd2TTI5TTJjMDVYV1VrZHZ1a2pYQmlGeUJ3QnhMcGJLcHF4Nzl3TS01UDFMamRsN2dxMkpoTVkxcl85MHRWbHEyWVhPSXl6aDNRY3BZWXRiZkR0Xy1VMUFPU0FUTTZYVXhpeGpFODhrblRodU9ZWXk4TUFodXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-14T10:13:47Z",
+      "summary": "本文探讨了AI即时翻译技术兴起后，学习外语是否仍有必要。尽管AI翻译工具日益精准，但作者认为语言学习承载着文化理解、认知训练和人际连接等不可替代的价值。技术可以翻译词汇，却难以传递语境、情感和思维方式的微妙差异。文章呼吁在拥抱AI便利的同时，不应放弃深度语言学习带来的人文素养和跨文化交流能力。"
+    },
+    {
+      "title": "Physical AI moves closer to factory floors as companies test humanoid robots - AI News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTjRpTXlnOTJNM0ZaN0lRMWt1UDFFb2RGamxfQ0JiUTV1c2M2UzkwbHFCVGRwYmh5aGxQci1VempPOUhOQXdjWjVhblNTbE9qOWtnVm9RTENqS2dNZ015ZFdvekNKcmI5WEFkNkM0NGtmaGZoM3lISjBpc09DYmUxeXNsNVdHajhnQk1VVlY0N0Y?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-14T10:00:20Z",
+      "summary": "随着多家公司开始测试人形机器人，“物理AI”正逐步向工厂场景推进。这些机器人具备感知、决策和操作能力，有望在装配、搬运等重复性工作中替代人类。然而，实际部署仍面临稳定性、成本和安全等挑战。文章指出，尽管技术尚未成熟，但人形机器人在制造业的落地试验标志着AI从虚拟进入物理世界的重要一步。"
+    },
+    {
+      "title": "Why Denmark Is Less Afraid Of AI-Linked Job Losses And Can India Follow - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjh0aHctN3NFdXVXSlNXWDRyWVFWU2xkYVBOWm9FbUFwV1lwRlJJazhrRlh5OVQtcGhVZDl5aWxxTTA1Rk0yYTFHR2RQdjBaZVBuUGpvZ2Q1LXZET2lWZDJLelJVZ0pVcnNLNlV5VW5JSC1BOUNjOWR4TUVYdi14YnlGVDBWQUE3SjlMNUdxbjYyZ3FLa3d4dHpBS2FmWm9vRGxzaE9zSmliakZqVll5SXlPRFB6bDdiS3ZvSlhCLVVxS181bDljQU1KWm4tMUJDa0oxMEo2UGRFd9IB4gFBVV95cUxPcWFWeWFTWUxpNnBUQlU4X0JfUGg1blBWaU9qMm5DbzA0RmhmUTEzZ2ZIMzA2MHI0dG04enlZWFFYUjdrc2VMZjNGRnZBZ0wtd0hNdjZmRmNWMTdjS2FXT1E5bVd4Y3U5QzVQOE01Qkk3N2hpR0d3QUtacXJ5R19fSE9PVlRjX3FCVm9abTY1RHhXdnV3WHdVS1ROLWpVQ3h2Z2dPLVdRSUpPd0U1UUF4Mm1oTDNId3hGQWI2Snc4V1ZhcHRscjZ6UWVIS3JVb3ZVdGRCZ1JaVDM3bEU5OWdXQTR3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-14T10:00:11Z",
+      "summary": "丹麦因拥有完善的社会保障体系、积极的劳动力市场政策以及持续的职业培训机制，对AI引发的失业风险表现出较低担忧。相比之下，印度面临庞大非正规就业、技能缺口和福利覆盖不足等挑战，难以直接复制丹麦模式。文章认为，印度需结合国情，加强教育体系与产业需求对接，并建立更灵活的社会安全网。"
+    },
+    {
       "title": "Graduating students may ‘boo’ every mention of AI but still need timeless advice as jobs turn scarce - Mint",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaWN3NEMwdk9GWDRNRXAzY2lWUkJSSnF6Ynd2YzBRSFY1MGxEVTU0TWVHazFKQzZBWmV6UlJNc21FckxEOVFocVUtbEtpTFZUSWo1ZlYxcFF3SlFvdHNhMFloNU5vcjJpRlJIS0c5QVNXZkxoakxOQzRVT215b2x4VGtFT0RIYWF6dEgtSHpkZ2pqbUdfUVNxenhrQmtXYmlNdVFGdHRSeko1VTlVOEl6UHBFOGVCdXNRV01MUjU4R1BlR1JYams0c1pDTDVvdFV0bnlxX1pQc1ZnZ2R5X0FQT2thSzhOd2VET3hyOXl0YlRPLVgyLWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaWN3NEMwdk9GWDRNRXAzY2lWUkJSSnF6Ynd2YzBRSFY1MGxEVTU0TWVHazFKQzZBWmV6UlJNc21FckxEOVFocVUtbEtpTFZUSWo1ZlYxcFF3SlFvdHNhMFloNU5vcjJpRlJIS0c5QVNXZkxoakxOQzRVT215b2x4VGtFT0RIYWF6dEgtSHpkZ2pqbUdfUVNxenhrQmtXYmlNdVFGdHRSeko1VTlVOEl6UHBFOGVCdXNRV01MUjU4R1BlR1JYams0c1pDTDVvdFV0bnlxX1pQc1ZnZ2R5X0FQT2thSzhOd2VET3hyOXl0YlRPLVgyLWfSAfsBQVVfeXFMTU9ZaGZUWjFSYklJaEFMNGQtNlZFT0lHU0FHZVRaZk5LSk52LUJGZnUxbWluaHB2RUVLM2FMdGhQeWpHamtVa3pnM2VEUG5rM01CQjdRY1hxTlQ5WmdfbVBLZ3piWllpV2d1cUFBczcwdXBKMmpLRjRpY0ZLeU1uSVVMMHM3eVRHOUstdUJUcjVINWNLU0xkcU4yRl85QXBVT21XbC1rT3k4dmhhb1hJcnBvbWdxMjJFdVJRbXlLX2U3X0NnVi1WU3VUU1lEUUdqSWIwSWI4QUdfZUM0SURJSDdHQ09sWmU4eENwYXJqeTMtTHR4QkNsVGZUejQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T09:30:16Z",
-      "summary": "随着AI技术普及，毕业生对AI话题感到厌倦甚至抵触，但面对就业市场萎缩，他们仍需要传统职业指导建议。文章强调，尽管AI冲击就业，但核心的求职技能如沟通、适应力和终身学习依然至关重要，毕业生应平衡对AI的警惕与对基本职业素养的重视。"
+      "summary": "面对就业市场萎缩和AI冲击，应届毕业生虽对AI话题表现出反感情绪，但仍需重视传统职业建议。文章指出，技术变革使部分岗位消失，但软技能、适应能力和终身学习依然关键。建议毕业生保持开放心态，培养跨领域能力，并关注人机协作趋势，而非单纯抵制技术。同时提醒，基础职业素养在任何时代都不可或缺。"
+    },
+    {
+      "title": "Cisco Earnings and Revenue Beat Estimates On Strong AI Demand. Its Shares Surge. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rYTdsalpuSmJKb1VwajUtZFA3QzNQS0lTUmtjc19fT3pPQS1WVnRJcFE4SUo4dmxiTEctZlA2ZXh0VC1jSXk1VV82QmhjeWdIQVc2ZnZpT2t1Wm9ZVmJyUXJ6VnZkOWY5dnQ2cEV3cUpuNzdsSjFz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-14T09:05:00Z",
+      "summary": "思科最新财报显示，营收和利润均超出市场预期，主要得益于人工智能相关网络设备需求的强劲增长。随着企业加速AI部署，对高性能网络基础设施的需求激增，推动思科核心业务回升。财报发布后公司股价大幅上涨，反映出投资者对AI驱动下网络设备市场前景的乐观态度。"
     },
     {
       "title": "‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdEpYdkFweHVVWjFCVW1sMWZQdERJb1FFT2NmVENKcXdGOC1jLVpnNkRwMDBwb2dEam1id29YUEt4UXlfRlZYaDJ0SWM0enlBMUY0UnFMemFyejZOT3lDVjdHdmVsbHdyLWxZTG9LNlI4bmpRcTROTUNpeTJmWDJ3cG9ZRDJUeHE5RWRIVEJ3NHlnaHIwWlJneTRFa3NEdw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T09:01:00Z",
-      "summary": "AI电影制作工具Gossip Goblin引发了行业内对创作规则的讨论。该工具允许用户通过文本生成短片，打破了传统电影制作的边界。文章指出，AI正在重塑电影创作流程，但缺乏明确的规则和伦理框架，创作者和观众需要共同探索新规范。"
+      "summary": "AI电影制作进入新阶段，以《Gossip Goblin》为代表的作品引发关注。该片完全由AI生成，从剧本、角色到画面均突破传统电影制作规则，展示了AI在创意领域的巨大潜力。文章指出，AI电影缺乏明确监管和伦理指南，带来了关于版权、真实性以及艺术价值的争议。但另一方面，它也为低成本、个性化创作开辟了新可能。"
     },
     {
       "title": "While major group companies that are building artificial intelligence (AI) value chains are reorgani.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fbVlCUXpyaHJaM2ViTU8zajFZUFRyU0VEUFI3LUh4S0VSZ1BvOFFWTXNKazQtM1M2QWZndGRteFpOT1hoM0NLTHdlS3c2Zzg?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T08:46:27Z",
-      "summary": "韩国主要财团企业正加速重组其AI价值链，以应对市场变化。这些公司通过整合上下游资源、推动AI技术研发与应用，试图在竞争激烈的AI产业中占据主导地位。此举预计将推动韩国AI产业生态的优化与升级。"
+      "summary": "大型集团企业正围绕AI价值链进行重组。韩国主要财阀如三星、SK等纷纷调整组织架构，将AI研发与业务整合，以抢占技术制高点。重组涉及芯片设计、云服务、数据中心及行业解决方案等领域。此举旨在通过内部协同和资源集中，加速AI商业化，并应对全球竞争。分析认为，这种结构性变革将重塑企业竞争力格局。"
     },
     {
       "title": "The advent of the artificial intelligence (AI) era is shaking the KOSPI market as it changes the ind.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HcWNnQWhSZHYzQzNlZFRlRHB6aUNwc0h6dFk3MEZ4TkhidGh1Zl80cEVMWVEtaVVMb1VRUzlfT3ppUnJKc0VSSzVsdVZHV1E?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T08:46:27Z",
-      "summary": "AI时代的到来正在深刻改变韩国KOSPI市场的行业格局，引发市场震荡。AI技术渗透到传统产业，催生新投资热点，同时也导致部分板块重新洗牌。投资者需关注AI对上市公司业绩和估值的影响，调整投资策略。"
+      "summary": "AI时代的到来正改变行业格局，对韩国KOSPI市场产生显著冲击。AI相关板块如半导体、数据中心、软件等股价波动剧烈，传统行业面临转型压力。投资者重新评估企业价值，聚焦于AI技术布局和盈利能力。市场分析认为，AI将加速产业结构调整，推动资金向技术领先企业集中，同时淘汰难以适应变革的公司。"
     },
     {
       "title": "Hoban Construction will consider applying artificial intelligence (AI)-based robot technology to cra.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wLXFiaUpiLUVnd2k4LVJfclM5RjB2UGhRMktpV1JyN2xNSkxYbGZpdVpMTUZjSDdwX0VLbmQ3YlI0NkNSamVrOE5hYzE2Q2hJY24yLUhn?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T08:41:46Z",
-      "summary": "韩国Hoban Construction公司计划在施工现场引入基于AI的机器人技术，以提高作业效率与安全性。该技术可应用于枯燥或危险的施工任务，降低人工成本和事故风险。此举标志着建筑行业对AI应用的探索进入新阶段。"
+      "summary": "韩国霍班建设公司考虑将AI基机器人技术应用于起重机等施工设备，以提升工地自动化水平。该技术可通过计算机视觉和路径规划实现材料搬运、精准吊装等作业，减少人力依赖和事故风险。文章指出，建筑行业面临劳动力短缺和安全压力，AI机器人有望成为解决方案之一。但实际应用还需解决成本、法规和现场适配等问题。"
     },
     {
       "title": "Amazon, a big tech company that has entered the artificial intelligence (AI) hegemony war, has signe.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52RC1zb00wSkwtNkp0ZVNnbnZJZlhfR0NFLUhOdjFBaUNlY2FXdlE4NkhCZWE0SnBKMnpIYk9fUkhEM1JWZ3lhblVmVQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T08:35:55Z",
-      "summary": "在AI争霸战中，亚马逊已与相关合作伙伴签署协议，进一步扩大其AI布局。亚马逊作为科技巨头，正通过投资和合作强化AI能力，以争夺市场主导权。该动向将加剧AI领域的竞争，影响全球科技产业链。"
+      "summary": "亚马逊在AI霸权竞争中进一步加码，签署多项协议以强化其AI技术布局。具体涉及云计算、AI芯片、大模型以及行业解决方案等领域。通过投资与合作，亚马逊旨在巩固其作为AI基础设施提供商的地位，并应对微软、谷歌等对手的挑战。文章认为，亚马逊的激进策略将加剧科技巨头间的AI争夺战，并影响未来技术生态演变。"
     },
     {
       "title": "World First: Babies Screened for Blindness Using Artificial Intelligence - The AI Journal",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0JwVWY1aVYzYlU3OFQtdm9YU1VQXzEwbWV5X3dKVlJjYjdnY2pRZ1NRenI3N2I0TndQU1Z1OG9aQ0FjQ1FJbjFCVWJvT29FRjViTlRQcnp2Y0pSX05qeHJVaHVadUpPOElsUUJDNVVxS2dodDZNTzBnNGQwRmJUa1Z0cHhCV2lNdDRWeXhieFBHT19FM2tZ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T08:10:12Z",
-      "summary": "全球首次使用AI技术对新生儿进行先天性眼盲筛查的试验获得成功。该AI系统能够通过分析眼底图像快速、准确检测出可能致盲的疾病，实现早期干预。这一突破有望显著降低儿童失明率，推动AI在医疗筛查领域的应用。"
+      "summary": "全球首次利用人工智能对婴儿进行失明筛查取得突破。该技术通过分析眼部图像，可早期发现视网膜病变等致盲疾病，显著降低儿童失明率。AI模型经大量数据训练，具备高准确率和快速处理能力，为新生儿眼科检查提供了更高效、可及的解决方案，有望成为常规筛查手段。"
     },
     {
       "title": "AI Shopping Agents Put New Pressure on Payments Companies - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUkxbHlBSE1XVnM0b2tCazBuN0h6YjVSQ3VtSWpqVDA2T2xQNm12ZlZGS0dtSnJET0F4OENZdWtHWDBwamZnVF9QME9qT2RhQS0tb3g5U1hMRzJ3Ni1UUnU0UnhiVTlUN3FKWnQ0S0dpbG1kWE1CNV85WS1yVVdXcW93XzU5YUM4dTdxY1R6YnF5UkdIeXctNFNFMG5EbXJWaDZQTVM3VmdXNWlmYi05Wkt3?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T08:06:04Z",
-      "summary": "AI购物代理的兴起给支付公司带来新的压力。这些智能代理能自动比较价格、完成结账，要求支付系统具备更高的集成度、安全性和实时响应能力。支付公司需要升级技术基础设施，以应对AI驱动的购物行为变化。"
+      "summary": "AI购物代理的兴起给支付行业带来巨大压力。这类智能代理能自主比价、下单甚至管理付款，要求支付系统具备更强的兼容性、安全性和实时处理能力。传统支付企业面临被边缘化的风险，需加速技术升级以应对AI驱动的支付新范式，否则将失去市场份额。"
     },
     {
       "title": "Europe’s New War on Corruption: Can AI Succeed Where Politicians Failed? - EU Reporter",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUWNMZUpJcFZZdmg4WmNSUGtEUl9hTDItQ0dvaE9MUEhROUNfbWtvbUtLTDdtTjZhcWtHM2pVTUx6QXRiVGpHeng3OEFPbGdmMUY4dTdHbFhpS1o2SWowZHVIYWZXV1VxbTZzRVNERUVLNkVMZ2czUWdkN29wU2haT1d6RUF5WnpORmhCWFV1OHVoanJ4Q1ZwQUlaRE15Z292bUZhOFo4NlhKY0dBV3c4V3ZCOWVybUlxaGJ2bnNmSEpJSVRGVFdwZFBvR1hPQlJyTW5LSzdNcHctUQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T07:51:39Z",
-      "summary": "欧洲正尝试利用AI技术打击腐败，以弥补传统政治手段的不足。AI可通过大数据分析、异常检测和监控系统发现腐败线索，提高透明度和执法效率。但AI在应用中也面临隐私、偏见等伦理挑战，能否成功尚待观察。"
+      "summary": "欧洲启动新一轮反腐行动，尝试用AI技术弥补政治手段的不足。AI可通过分析交易数据、公共记录和社交媒体，发现异常模式和利益冲突，提高反腐效率。然而，数据隐私、算法偏见等问题仍是挑战，AI能否真正成功取代或辅助传统反腐手段仍有待验证。"
     },
     {
       "title": "Artificial Intelligence Threat To Crypto Underestimated, Says This Influential Analyst: Security Becoming - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeDVMWFhhWkl4NWo5N3ZLZGVQTmlLRjF3Z3RBa3RoSWRqOFEtRlNGQ1J3amx5WjRMMW5PYzl4SlVpSmQ2a3FWam4wSnpmX0JpRTZGYWpiZzJLZW9GU21ZMnh6bEFuRzFkdzBXSGtJX0VGR3RHbzBDVGI3djZTZ2RVeHFqUFRxTHRuZ3JxZEdQLW00czdibnNhSi1EbEE4S3JiNHc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T07:34:29Z",
-      "summary": "一位有影响力的分析师警告，人工智能对加密货币行业的威胁被低估。随着AI能力增强，利用AI进行的网络攻击、智能合约漏洞利用等安全风险上升。分析师呼吁加密项目加强安全防护，采用AI驱动的防御措施以应对新挑战。"
+      "summary": "有影响力的分析师警告称，AI对加密货币的威胁被市场低估。AI可被用于发动更复杂的攻击，如深度伪造、智能合约漏洞利用及量化交易操纵，使加密资产安全面临严峻考验。业界需加强AI驱动的防御机制，否则未来攻击频率和破坏力将大幅上升。"
     },
     {
       "title": "The government has decided to use \"Solar Open,\" an artificial intelligence (AI) model developed by U.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56bVIwV0dfZDBYOWk1TE82VUNuRm5nT0JOZEJLNzVRUXMwaVFkWi1EWV9WZUhpbjZpNWI5cVhiektTTDZNSXluQjdMTQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T06:17:53Z",
-      "summary": "韩国政府决定采用由Upstage公司开发的AI模型“Solar Open”，该模型在语言理解和生成方面表现优异，具备开源特性。此举旨在提升政府行政效率，推动公共服务智能化转型，可应用于政务数据处理、文档自动化等场景，为政府部门提供更高效、精准的AI支持。"
+      "summary": "某国政府决定采用由U..公司开发的“Solar Open”AI模型，计划将其应用于公共服务领域，如行政自动化、数据分析及政策模拟。该模型的开源特性有助于降低部署成本并推动国内AI生态发展，但具体实施细节和数据安全性仍需进一步评估与保障。"
     },
     {
       "title": "It has been warned that cyberattacks using artificial intelligence (AI) will become the new standard.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iSnJZSWFJRF9rblowR0Q4NFpfN3FFOE4zSTF1cm00SXUtWHBtbG1sV0Y5SDJRVzluVWlEMmMzdUphNTBUTEwtUC1jTQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T06:15:22Z",
-      "summary": "专家警告，利用人工智能的网络攻击正成为新常态。AI技术降低了攻击门槛，使钓鱼邮件、深度伪造和自动化漏洞利用等手法更加隐蔽高效。攻击者可借助AI生成逼真的社交工程内容或自动扫描系统弱点。企业和个人需加强AI驱动的安全防御，提升检测与响应能力以应对这一趋势。"
+      "summary": "安全专家警告，利用AI的网络攻击即将成为新常态。攻击者可借助AI自动扫描漏洞、生成逼真钓鱼邮件、自适应规避防御系统。企业和组织必须紧急升级安全策略，部署AI驱动的防护体系，否则将面临更频繁、更隐蔽、更难防范的威胁。"
     },
     {
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
       "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-14T06:05:31Z",
-      "summary": "前Meta新闻负责人Campbell Brown指出，硅谷对AI内容生成的讨论与消费者的实际关切存在巨大鸿沟。她认为，AI输出内容的决策权应由谁掌握——程序员、企业还是用户——是亟需透明探讨的问题。行业应重视伦理与责任，确保技术服务于大众利益，而非仅由少数精英主导。"
+      "summary": "前Meta新闻主管Campbell Brown指出，硅谷技术讨论与消费者对AI内容决策的认知存在巨大鸿沟。人们日益关注AI生成内容的真实性、偏见和透明度。谁来决定AI的回答框架将深刻影响信息生态，这引发了对AI伦理和治理机制的广泛思考。"
     },
     {
       "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
       "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-14T05:24:39Z",
-      "summary": "法律科技公司Clio实现5亿美元年度经常性收入（ARR）里程碑，凸显法律行业数字化转型需求激增。与此同时，AI公司Anthropic加大投入，可能推出更强模型参与竞争。Clio的成功反映了AI在合同分析、法律研究等领域的广泛应用，而Anthropic的发力预示着法律AI市场将更加激烈。"
+      "summary": "法律科技公司Clio实现5亿美元年度经常性收入（ARR），恰逢AI公司Anthropic加大投入。这凸显法律行业对AI工具的强劲需求，包括案例分析、文档审核和合同管理。Clio的成功表明AI正深刻改变传统法律服务模式，并吸引更多科技巨头入局。"
     },
     {
       "title": "London AI office space leases rise tenfold in year - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpOUE4d0EtN1FmR0JRbkxjYTV6STNCdF9DOFIzUmhiZ0xqWlZLamZFN1gtdWdPM0JLUXJ1SjV4Qm14VUIwUnJ1emVJbm95Z1lYYVhxc0I0M013dw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T05:02:02Z",
-      "summary": "BBC报道称，伦敦人工智能公司的办公空间租赁量在一年内增长十倍。这一现象表明AI行业在伦敦的迅猛发展，吸引了大量初创公司和科技巨头扩张。伦敦凭借人才、资本和政策优势成为欧洲AI中心之一，快速增长也带来租金上涨压力，但整体市场情绪乐观。"
+      "summary": "伦敦对AI相关办公空间的需求激增，过去一年租赁面积增长十倍。这反映了AI行业的快速扩张，众多初创企业和科技巨头在伦敦扩大布局。良好的政策与人才储备推动了这一趋势，但也给商业地产市场带来新的供需平衡挑战。"
     },
     {
       "title": "Breakingviews - How German philosophy can beat the SaaSpocalypse - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFVKdnhtY1VUTmV5S01ybkVLY0ZTVXFIenpEYWU4Y18zblF4MTVCaF80R2ZOT0hkUExzSG1MN3R0T2lWd1Q4dVZ0el9XSXRaZXFzZGM3WnhIQ2tLa1JlTWREUGt6eHpGY0xiSmhlN3cxTzZoU2UteWsxZV9jQkhOWk80OFRRUGhkZm5NRXFDZDVKV2dBcnpNdHhvNURoeEI0NkliRUF2TUE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T05:00:00Z",
-      "summary": "路透Breakingviews专栏探讨德国哲学思维如何应对SaaS行业面临的“SaaSpocalypse”（增长放缓、利润压缩困境）。文章强调德国哲学的严谨、长期主义和系统思维，能帮助软件公司摆脱短期逐利模式，专注于可持续创新与客户价值，从而在行业变革中脱颖而出。"
+      "summary": "路透社专栏分析认为，德国哲学中的务实主义与长期思维可帮助企业抵御SaaS行业寒冬（SaaSpocalypse）。通过专注产品深度、客户价值和可持续增长，而非盲目追求用户规模，企业能构建更稳固的护城河，为科技创业者提供了另类战略参考。"
     },
     {
       "title": "‘What happened?’: Why Gen Z workers are revolting against AI - SMH.com.au",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEMyQmQwYVM1SGlIVDE3MW9oOHZSRFpEa3VYbC1JQmkwa2VQWXpsOE5teXByNkxkSHBRYjFxdm5KNVBtd1ZwMDRacXpKMlN4am1XMVVUUERhcGFBY3MwaXowQTdnMlZTQzhKSDB5S1FPQm5ibVZWLU8ySmxsblg1cXlBMm1VX0k2UXlYQ2RrWi0wSHRUX2ktMXo3SzNQY0VmWUdwRllCVGUwd28wQ015UXNDVzZvOGVFVW5F?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T05:00:00Z",
-      "summary": "调查显示，Z世代员工对工作中引入AI技术表现出强烈抵触。原因包括对失业的担忧、缺乏信任、以及认为AI削弱人际关系和创造力。他们尤其担心AI监控和决策不透明。企业需加强沟通，提供AI教育，设计人机协作模式，以缓解年轻团队对技术替代的焦虑。"
+      "summary": "Z世代员工正掀起一场对AI的‘反抗’浪潮。据SMH.com.au报道，年轻一代对工作场所引入AI技术普遍持抵触态度，主要担忧包括岗位被替代、算法偏见以及缺乏人文关怀。他们质疑AI决策的透明度与公平性，认为企业过度追求效率而忽视员工福祉。这一趋势折射出技术落地中代际价值观的冲突，也提醒企业需在推广AI时兼顾员工参与和伦理考量，否则可能加剧职场矛盾与人才流失。"
     },
     {
       "title": "Kakao streamlines public bookings as AI assistant now includes voice recognition - The Korea Times",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMGFtQnRrZDNKdGFqLVRVcVEwYWJxZkMySXp3WE1MTEt5aGM1M0ZyN3c0ODFWcWxYbkE0WmRDbXhDSXRHSDdQQV9helEyNGxpdFRYLWVRVW5BUHl2Rmo2QTVaRGh3UmRFaVh2REFQa1duOU5tWGdiQ0ZqMm5la08wUjJiRXpCQ3VwSlZORjhvVXdqNnN1amRwMDZIYXp6ejk0ZUNZNjlVMmR3Q2xEMkUzWkJqZTFPOWdCTmtzbUg3ODZSVFEzV3VIaHZNOC0ycUI5OUpZ0gHYAUFVX3lxTE9tV0w5UFpOaGVmNktpNThyMVdrUzA2YXU5V2pUejI5QkI2TWUwX1RPVTdIN212WWZMNExqd0FqaG94bU9uMW1yQXJlSkpsTVpPVkdtZndzY05PdVllZ1JmRWhHS1FpUktxbUxwdkxVNFVRSkxkV2Y4S3FWejE3UVNDUENMakFtQXZBVFc1V0hLRTNzUG5ZR3YzNG44d1R4VEdSbktsUkE0Q1U5dTlWS3FTak9SUE9HVlE4cmlDUU5tT1FtLUVmdXA2T05kMWVUTHFGaGExaWtPUw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T04:54:03Z",
-      "summary": "韩国科技巨头Kakao宣布其AI助手新增语音识别功能，并优化公开预约服务流程。用户可通过语音指令完成餐厅预订、票务等操作，显著提升便利性。此举是Kakao在AI语音交互领域的重要进展，旨在与谷歌助手、苹果Siri等竞争，巩固其在韩国日常生活中的主导地位。"
-    },
-    {
-      "title": "Silver Harbor Brewing hosts ‘Democracy Brewing’ for community to discuss artificial intelligence with experts - WNDU",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0VyblRVbk9GZURWMzJIcUZmb1hWQV9yR0FvUWxmejlFTk10aGFfZ1VQekp3ZUttWkllVkhSeHllMkZvQXhRQ0V0UkdWQkxNbG0wLXF2MUZldzRSSTZqRVItd1BHV3VZc0VGSXRHdVNzV3hLSzhZNXY3UVEySGdwcmZDY0RRQlYwS1ZvU1dXdVllWVk3S05BY2Q2aV9CUHh3R2lkNTNaY0NOQW5oczlKQmVJcFhaY3pFMmE5cVJsd2llVFh0dnBtRjREUnpuUdIB4gFBVV95cUxPYjJ2Q3c3bHhjb3pHQnJoU0d6a3ZHcHVLOGdUYzZZdHlqQl9BN2Zrdy1HSEd0Q1BOWEh6eTc0c3RKcGJldUx4dlFyX01ZYVpMVmFQZDlEM2Ztalg3ZWpMSVBXSG5od3YxTy1mQXo2VlcwcmlXb3gwU25IMG9WWDRVMVcxNnBscUNkX0p0dDljLVF3b2RvT1Y3aEp2OXBPTTl0bjVfb3AyODRlUkNHeTFKRVFDa2ZXRzBnZnZJeXRpbThhcVJ6Ny1Hd0RucjNuWktQWXVSSlQzbGVUQlZjdkdSYWNn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-14T04:31:00Z",
-      "summary": "密歇根州的Silver Harbor Brewing酒吧举办“民主酿造”活动，邀请AI专家与社区居民共同探讨人工智能的影响。活动以轻松形式促进公众对AI伦理、隐私、就业等议题的讨论，旨在弥合专家与普通民众之间的知识差距，推动民主化的技术对话，增进社区对AI的理解与参与。"
+      "summary": "韩国科技巨头Kakao升级其AI助手，新增语音识别功能，用于简化公共预约服务。据《韩国时报》报道，该功能允许用户通过自然语音指令完成图书馆、博物馆等公共设施的预订，减少手动操作步骤。技术层面，系统集成了先进的语音转文本与意图解析模型，支持多轮对话和上下文理解，能够处理复杂预约请求（如时间、人数变更）。此举旨在提升公共资源使用效率，降低数字鸿沟，尤其为老年及残障用户提供更便捷的访问入口。"
     }
   ]
 }

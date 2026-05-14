@@ -1,12 +1,57 @@
 {
   "articles": [
     {
+      "id": "80",
+      "title": "If AI can translate instantly, why learn another language? - The Federal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenBOTWVFWW9ZM3Z5OUpfYmN2NEJwekRleEVkRTRFWlNBLU5pejBqeGhUMTd2TTI5TTJjMDVYV1VrZHZ1a2pYQmlGeUJ3QnhMcGJLcHF4Nzl3TS01UDFMamRsN2dxMkpoTVkxcl85MHRWbHEyWVhPSXl6aDNRY3BZWXRiZkR0Xy1VMUFPU0FUTTZYVXhpeGpFODhrblRodU9ZWXk4TUFodXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-14T10:13:47Z",
+      "summary": "本文探讨了AI即时翻译技术兴起后，学习外语是否仍有必要。尽管AI翻译工具日益精准，但作者认为语言学习承载着文化理解、认知训练和人际连接等不可替代的价值。技术可以翻译词汇，却难以传递语境、情感和思维方式的微妙差异。文章呼吁在拥抱AI便利的同时，不应放弃深度语言学习带来的人文素养和跨文化交流能力。",
+      "fetchDate": "2026-05-14"
+    },
+    {
+      "id": "81",
+      "title": "Physical AI moves closer to factory floors as companies test humanoid robots - AI News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTjRpTXlnOTJNM0ZaN0lRMWt1UDFFb2RGamxfQ0JiUTV1c2M2UzkwbHFCVGRwYmh5aGxQci1VempPOUhOQXdjWjVhblNTbE9qOWtnVm9RTENqS2dNZ015ZFdvekNKcmI5WEFkNkM0NGtmaGZoM3lISjBpc09DYmUxeXNsNVdHajhnQk1VVlY0N0Y?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-14T10:00:20Z",
+      "summary": "随着多家公司开始测试人形机器人，“物理AI”正逐步向工厂场景推进。这些机器人具备感知、决策和操作能力，有望在装配、搬运等重复性工作中替代人类。然而，实际部署仍面临稳定性、成本和安全等挑战。文章指出，尽管技术尚未成熟，但人形机器人在制造业的落地试验标志着AI从虚拟进入物理世界的重要一步。",
+      "fetchDate": "2026-05-14"
+    },
+    {
+      "id": "82",
+      "title": "Why Denmark Is Less Afraid Of AI-Linked Job Losses And Can India Follow - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjh0aHctN3NFdXVXSlNXWDRyWVFWU2xkYVBOWm9FbUFwV1lwRlJJazhrRlh5OVQtcGhVZDl5aWxxTTA1Rk0yYTFHR2RQdjBaZVBuUGpvZ2Q1LXZET2lWZDJLelJVZ0pVcnNLNlV5VW5JSC1BOUNjOWR4TUVYdi14YnlGVDBWQUE3SjlMNUdxbjYyZ3FLa3d4dHpBS2FmWm9vRGxzaE9zSmliakZqVll5SXlPRFB6bDdiS3ZvSlhCLVVxS181bDljQU1KWm4tMUJDa0oxMEo2UGRFd9IB4gFBVV95cUxPcWFWeWFTWUxpNnBUQlU4X0JfUGg1blBWaU9qMm5DbzA0RmhmUTEzZ2ZIMzA2MHI0dG04enlZWFFYUjdrc2VMZjNGRnZBZ0wtd0hNdjZmRmNWMTdjS2FXT1E5bVd4Y3U5QzVQOE01Qkk3N2hpR0d3QUtacXJ5R19fSE9PVlRjX3FCVm9abTY1RHhXdnV3WHdVS1ROLWpVQ3h2Z2dPLVdRSUpPd0U1UUF4Mm1oTDNId3hGQWI2Snc4V1ZhcHRscjZ6UWVIS3JVb3ZVdGRCZ1JaVDM3bEU5OWdXQTR3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-14T10:00:11Z",
+      "summary": "丹麦因拥有完善的社会保障体系、积极的劳动力市场政策以及持续的职业培训机制，对AI引发的失业风险表现出较低担忧。相比之下，印度面临庞大非正规就业、技能缺口和福利覆盖不足等挑战，难以直接复制丹麦模式。文章认为，印度需结合国情，加强教育体系与产业需求对接，并建立更灵活的社会安全网。",
+      "fetchDate": "2026-05-14"
+    },
+    {
       "id": "61",
       "title": "Graduating students may ‘boo’ every mention of AI but still need timeless advice as jobs turn scarce - Mint",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaWN3NEMwdk9GWDRNRXAzY2lWUkJSSnF6Ynd2YzBRSFY1MGxEVTU0TWVHazFKQzZBWmV6UlJNc21FckxEOVFocVUtbEtpTFZUSWo1ZlYxcFF3SlFvdHNhMFloNU5vcjJpRlJIS0c5QVNXZkxoakxOQzRVT215b2x4VGtFT0RIYWF6dEgtSHpkZ2pqbUdfUVNxenhrQmtXYmlNdVFGdHRSeko1VTlVOEl6UHBFOGVCdXNRV01MUjU4R1BlR1JYams0c1pDTDVvdFV0bnlxX1pQc1ZnZ2R5X0FQT2thSzhOd2VET3hyOXl0YlRPLVgyLWc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-14T09:30:16Z",
       "summary": "随着AI技术普及，毕业生对AI话题感到厌倦甚至抵触，但面对就业市场萎缩，他们仍需要传统职业指导建议。文章强调，尽管AI冲击就业，但核心的求职技能如沟通、适应力和终身学习依然至关重要，毕业生应平衡对AI的警惕与对基本职业素养的重视。",
+      "fetchDate": "2026-05-14"
+    },
+    {
+      "id": "83",
+      "title": "Graduating students may ‘boo’ every mention of AI but still need timeless advice as jobs turn scarce - Mint",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaWN3NEMwdk9GWDRNRXAzY2lWUkJSSnF6Ynd2YzBRSFY1MGxEVTU0TWVHazFKQzZBWmV6UlJNc21FckxEOVFocVUtbEtpTFZUSWo1ZlYxcFF3SlFvdHNhMFloNU5vcjJpRlJIS0c5QVNXZkxoakxOQzRVT215b2x4VGtFT0RIYWF6dEgtSHpkZ2pqbUdfUVNxenhrQmtXYmlNdVFGdHRSeko1VTlVOEl6UHBFOGVCdXNRV01MUjU4R1BlR1JYams0c1pDTDVvdFV0bnlxX1pQc1ZnZ2R5X0FQT2thSzhOd2VET3hyOXl0YlRPLVgyLWfSAfsBQVVfeXFMTU9ZaGZUWjFSYklJaEFMNGQtNlZFT0lHU0FHZVRaZk5LSk52LUJGZnUxbWluaHB2RUVLM2FMdGhQeWpHamtVa3pnM2VEUG5rM01CQjdRY1hxTlQ5WmdfbVBLZ3piWllpV2d1cUFBczcwdXBKMmpLRjRpY0ZLeU1uSVVMMHM3eVRHOUstdUJUcjVINWNLU0xkcU4yRl85QXBVT21XbC1rT3k4dmhhb1hJcnBvbWdxMjJFdVJRbXlLX2U3X0NnVi1WU3VUU1lEUUdqSWIwSWI4QUdfZUM0SURJSDdHQ09sWmU4eENwYXJqeTMtTHR4QkNsVGZUejQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-14T09:30:16Z",
+      "summary": "面对就业市场萎缩和AI冲击，应届毕业生虽对AI话题表现出反感情绪，但仍需重视传统职业建议。文章指出，技术变革使部分岗位消失，但软技能、适应能力和终身学习依然关键。建议毕业生保持开放心态，培养跨领域能力，并关注人机协作趋势，而非单纯抵制技术。同时提醒，基础职业素养在任何时代都不可或缺。",
+      "fetchDate": "2026-05-14"
+    },
+    {
+      "id": "84",
+      "title": "Cisco Earnings and Revenue Beat Estimates On Strong AI Demand. Its Shares Surge. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rYTdsalpuSmJKb1VwajUtZFA3QzNQS0lTUmtjc19fT3pPQS1WVnRJcFE4SUo4dmxiTEctZlA2ZXh0VC1jSXk1VV82QmhjeWdIQVc2ZnZpT2t1Wm9ZVmJyUXJ6VnZkOWY5dnQ2cEV3cUpuNzdsSjFz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-14T09:05:00Z",
+      "summary": "思科最新财报显示，营收和利润均超出市场预期，主要得益于人工智能相关网络设备需求的强劲增长。随着企业加速AI部署，对高性能网络基础设施的需求激增，推动思科核心业务回升。财报发布后公司股价大幅上涨，反映出投资者对AI驱动下网络设备市场前景的乐观态度。",
       "fetchDate": "2026-05-14"
     },
     {
@@ -712,5 +757,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 79
+  "total": 84
 }
