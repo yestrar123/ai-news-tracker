@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "107",
+      "title": "AI is not replacing workers on a large scale so far, says Bank of Canada - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNk1YNGluNkRha0pRWTBwdUFzNVltbE9IaVNES3JxcVkzSnVFTURlMXRBc1JHNGFpbnFHbk1heFpzUWFHdUVlSmRKOWpnVXhORHNsSHdkUkZRdWRKZDlUbUN2V2FiVHZpR21BSXh2azkxd0xMT0hseG1vM3dhQmdwRERDaXpxandOYXlDaU9wYXNRQ19iR243UDNBbFpQVGxkWTlZYVFxUkhHQmlTT0ZrWE1uRGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-15T09:39:33Z",
+      "summary": "加拿大央行发布报告指出，目前人工智能尚未大规模取代人类工作岗位。研究显示，AI对就业市场的影响更多体现在任务重组而非岗位消失，部分行业因AI辅助提升了效率，但整体就业率未出现显著波动。该结论为政策制定者和劳动者提供了参考，表明AI的就业替代效应需长期观察。技术发展仍以人机协作为主，企业应关注技能升级而非单纯裁员。",
+      "fetchDate": "2026-05-15"
+    },
+    {
+      "id": "108",
+      "title": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Down 24% and 46% Before They Soar - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2VFejZBNVJCdEsyaG1aT0dZZnRRY0pBU0dUTEJwdlZjaFFFNlplTmRrdFV6UFFaUG5aX3FQNVUyN0J2ZlNDQlJwYU5uTUtNd1hUc1g0cEl4alpzSnppUHZiMlBfTEdSTEVRTHRPVjRlZ2VJeXJ6ajJlMW1MZkdkNFlzMWpZM0VGMFdZOWR3QUxyTlk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-15T09:08:59Z",
+      "summary": "知名财经评论员吉姆·克莱默（Jim Cramer）建议投资者买入两只股价分别下跌24%和46%的人工智能股票，称其即将迎来反弹。克莱默认为市场过度反应导致这两只优质AI股票被低估，后续随着技术商业化落地和业绩回暖，股价有望大幅攀升。他提醒投资者把握低位布局机会，但需注意AI行业的高波动性及估值风险。",
+      "fetchDate": "2026-05-15"
+    },
+    {
+      "id": "109",
+      "title": "A new hacking bypass technique using artificial intelligence (AI) has been discovered in MacOS, whic.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKVFJzS0g4Vm55Z05RUFNJWVNHTm1VTkRYQlgza0haZXdWNUM5Y0xtb0ZwMmFfblBvMk8wWHNlckFFdjB2S21wSm9zNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-15T08:47:33Z",
+      "summary": "安全研究人员发现一种利用人工智能的新型黑客绕过技术，专门针对macOS系统。该技术通过AI生成恶意代码或伪装攻击模式，可规避传统安全检测机制，对用户数据构成威胁。苹果公司已获悉相关漏洞，正在开发修复补丁。专家建议用户及时更新系统、谨慎安装来源不明的软件，并启用高级安全防护功能以降低风险。",
+      "fetchDate": "2026-05-15"
+    },
+    {
+      "id": "110",
+      "title": "Banks Discover AI’s Best Trick Is Boring - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGJYV0pVcHV3TVpEMjhEZHlLMnRvaGdIQmNJUUtqbi1ZVW9BY0hiMGxvYXhxV1VjZjVnMVRhRHBqaDlsWDNqQjhVUVBQR3U5c3JtZ1huV2ZWRXN3NW5Ba0MtM1ljRjlNRi1ucTZhSW1NTnRrQTB5Z3loZTRocFZ3emNsWjMybEhyV19hQTdfemY4UEhBQW9mbUV5MWZ0UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-15T08:04:59Z",
+      "summary": "银行业发现AI最有效的应用并非炫酷的聊天机器人或创新功能，而是枯燥的后台自动化。通过AI处理合规检查、欺诈检测、文档分类等重复性任务，银行大幅降低了运营成本并提升了准确性。这种“无趣”的AI应用正成为行业主流，因其带来的稳定收益和风险控制效果远超花哨的客户界面创新。",
+      "fetchDate": "2026-05-15"
+    },
+    {
+      "id": "111",
+      "title": "Generative Artificial Intelligence (AI) in Retail Stores - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmRYZl9hWWFHUGxJeExlQ2RZWlhoam5mMFRUaHpmZmNETWZXTmZPc1MxRU9aaGloZVBvZWlkR1RLVXZ0TXpELVdfSUk0VDRyY2dEazl0T0o4d2ZVWk5UeE01LWFmTnl2QkI4X0lIVWFtRklQYkhDVmF0ZkYwblpDSEZWN0x6SG9tNXN0bnV6eW55RFll?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-15T07:58:12Z",
+      "summary": "生成式人工智能正加速进入零售业，改变传统购物体验。例如，AI可根据消费者偏好实时生成个性化穿搭推荐、虚拟试衣效果，并自动优化商品陈列与促销文案。零售商利用生成式AI实现库存动态调整和客户互动自动化，显著提升转化率与客户满意度。不过，数据隐私和算法偏见仍是需要关注的技术挑战。",
+      "fetchDate": "2026-05-15"
+    },
+    {
+      "id": "112",
+      "title": "The trouble with emotion-reading AI - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcTNMakVTYS1aZjZEUmlTbUtCOXg2UUR3eGo3S3k3dzloZjhvSWx0VHBtOWNCdWc5M3QwYnpJck1aRGtsVUhDbzFKVGFXVFZRUHBaV2JfQUFlMVR4b05DVlgxRS1FMHBCZUZuR25NdWNINmtHbjlJWEJ2WFFZd0gxU09KYWFYQ1NCYThfQWJKcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-15T07:04:12Z",
+      "summary": "情感识别AI技术面临多重困境。研究表明，现有系统无法准确解读人类复杂情绪，不同文化背景下的表情与语调差异常导致误判。此外，隐私顾虑和伦理争议（如是否允许雇主利用AI监控员工情绪）阻碍了技术推广。专家呼吁在技术精度提升之前，应审慎限制此类AI在敏感场景中的滥用，并建立监管框架。",
+      "fetchDate": "2026-05-15"
+    },
+    {
+      "id": "113",
+      "title": "The artificial intelligence (AI) alliance between Apple and OpenAI is shaking. OpenAI is reportedly - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMeXkwQjhWMnpYX3Rta0hoUDUzSnNGQkdMUDlTQUdwNDYwMjBXeXJkTHhONGtLT05tQjhhUDRNZUhyT09HamJrWVBQYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-15T06:43:47Z",
+      "summary": "苹果与OpenAI的人工智能联盟出现裂痕。据透露，OpenAI可能因战略分歧或股权条款不满，正在重新评估与苹果的合作关系。双方在AI功能集成、数据权限及商业模式上存在分歧，未来或导致iPhone、Mac等设备上的AI服务调整。行业关注这一变动对生态格局的影响，其他科技巨头或趁机争夺合作机会。",
+      "fetchDate": "2026-05-15"
+    },
+    {
+      "id": "114",
+      "title": "Will artificial intelligence solve wealthy nations' debt woes? - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObDBPT3NtTVdtMVQxd3Zva2tac3lJaTN1Nk5xUVNoR2YzRVQ2dHBPb25ZS251ckNGY052eEhaV2Ftc0JrSmtGTFFJMGtTSjZtZDlnalpQeWxhb1FnZjJhZXpRZEhIMFAxMlp6Q2JWek5TMGl5QktwZlJ5RnE0Q2pRdGRnYjY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-15T06:35:00Z",
+      "summary": "关于AI能否解决富裕国家债务问题的讨论升温。部分经济学家认为，AI通过提升生产效率和推动新产业增长，可增加税收并缓解财政压力；但另一些人指出，AI自动化可能加剧失业与不平等，反而扩大社会福利支出。目前尚无定论，各国需在技术红利与社会保障之间找到平衡，而非单纯依赖AI化解债务危机。",
+      "fetchDate": "2026-05-15"
+    },
+    {
+      "id": "115",
+      "title": "\"F*** AI\": Why Hollywood And Creative Artists Are Pushing Back - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNbXdHd213RmxjbnpKZFVDaGF4MDlSaDYyd29idTFQMFpFVFVCTmlLeU9pWGU5MnRNTjY2VHZHNDE2ajhkLVdoYUdyS1JnYjNpU185SVM4dHlIeFhDX1ZLMGYzUmhRdXo2WXVkSzBINFlzdHNxSXVDNm9NbE9UV05fMUduQmNOWU9fbzF0MnpWcHpRZUxWMlNOdzdwLVFjbG5mdGJZSlpkb1Jrei1nWkNSYUl0aHJDb3hLVW5ta3FoM2ZNT1JWSG9VRWlfWVhfWWMyQWFKY0hxVE83ZGZXM0paNE1TTWpuY2tvOXZpMHNRRG53SXFQYllsZUJUN3o4eWVzRnV5anp0OFRpTThpZ0NrTFNXTVJKRG1wci1jLV9rMTJJdnlSdEFDbzhIbXnSAbQCQVVfeXFMTURtY19CZFdqSzFDU2JYQW12ZGpyOGNZQXJtSzFPdkdXSm5Zbk9tV1VyaENfOXRoOTREN0VDUGxnQUZhazdSTEgyWDk1ZjhWbUdWdWhvQl9vdVlsRzhSVFB1M2M1eFRkYS05MGpyaFBHOGFXMTlQY2JkTjBaYVpnSjl5YlE0am5WZ3pOZkliUWY4eGJwWWQ1Ykx0TmR4ZjBtNFp0S3pJN0FtRHZnLV9IWWtpZVVFY3Rpa19Ma0dzQXAxRzI2NDlJWWxvbjlJWDBqQ2ZSbm9ycXVTYjlyekJORXE0MUZUUXFmZnJaaHJIVWwxQ0sxRjlESDNlWElqMFowLVFxeXV1RjB1X1lyb3ZwN0puMTVHNnlpQklIV1AzaW5OMExMOHlucmNzdzdSY2RGa0RpSHQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-15T06:05:29Z",
+      "summary": "好莱坞及创意艺术家掀起强烈抵制AI的浪潮，口号直指“去你的AI”。他们认为生成式AI未经授权使用演员肖像、编剧剧本等受版权保护的内容，冲击了传统创作生态。工会组织抗议并要求法律明确AI生成作品的版权归属，确保艺术家权益不受侵害。这场冲突折射出技术发展与人文价值之间的深层矛盾。",
+      "fetchDate": "2026-05-15"
+    },
+    {
       "id": "85",
       "title": "2 Artificial Intelligence (AI) Stocks Poised to Win Big From SpaceX's $1.75 Trillion IPO - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWE1SXy1iQ1JKQmxPN2dHTDM4bEIzQjBlU0lIcExfbk8zWVRXU2NIanhUQzZiODRIRXh3UXlkcXQ2UTc2U2JER0VNQ3VtcENJdE42ZnhiRG44ckNyek9pcFotajJaODlwRWFXQVk2QlBhNnpnN09sRU5tLXlQeS1zWUpUUFNHUWVEdWREQUl4N3IyVlF4X1Bz?oc=5",
@@ -955,5 +1036,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 106
+  "total": 115
 }
