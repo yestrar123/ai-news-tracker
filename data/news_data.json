@@ -1,97 +1,55 @@
 {
-  "updatedAt": "2026-05-16 15:38:45 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-05-16 20:32:28 UTC",
+  "totalArticles": 7,
   "articles": [
     {
-      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
+      "title": "The haves and have nots of the AI gold rush",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-16T20:17:16Z",
+      "summary": "人工智能领域的淘金热正呈现出明显的赢家与输家分化。尽管科技行业整体热情高涨，但当前AI热潮的氛围并不理想，即便是行业内部也弥漫着不安情绪。技术巨头凭借算力和数据优势占据主导，而中小企业和开发者则面临生存压力。资本的涌入加剧了竞争，同时也暴露出技术落地的瓶颈。文章指出，这场淘金热并非人人受益，资源分配不均可能导致行业马太效应进一步加剧。"
+    },
+    {
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-16T18:54:28Z",
+      "summary": "知名学术预印本平台ArXiv宣布，若发现作者在论文中完全依赖AI工具（如大语言模型）完成写作而缺乏人类实质性贡献，将实施为期一年的发表禁令。这一举措旨在遏制科研领域对AI的滥用，尤其是部分研究者将机器生成的文本直接充当研究成果。ArXiv强调，AI辅助写作本身并非禁止，但必须明确标注并确保人类作者对内容负责。此举将提升学术诚信，但也可能引发关于AI在科研中合理边界的讨论。"
+    },
+    {
+      "title": "Carl Nolte: I asked AI to write like me. I wish I hadn’t - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0RBQ283TWxiQ3FkSTRtdDA2YzMwcEtiMHFwOU5xRGZ1a2ttR2I3WjJzVk0xZFY4VWJUa1NQbjhYd2l0RDFXRjBEQ2cxSmUxUTFZcENEMFNGYVdBa0pCemd0RzJ5bTBqT0hLbnRjMlktV00zZ2Z1bTZfOFhNQTZvYndfYW1zRVZBZFN0QWdR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-16T17:04:08Z",
+      "summary": "《旧金山纪事报》专栏作者Carl Nolte进行了一项实验：让AI模仿自己的文风撰写专栏文章。结果令他深感后悔——AI生成的文字虽然语法通顺，却缺乏他特有的个人视角、幽默感与情感温度。Nolte指出，AI能复制风格却无法复制灵魂，这让他在反思人工智能对新闻业冲击的同时，更加珍视人类写作者的独特价值。他警告，过分依赖AI可能导致内容同质化，削弱新闻报道的真实性与感染力。"
+    },
+    {
+      "title": "Is AMD a top artificial intelligence (AI) stock to buy? - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTm5HMm5YNnFMYnVjbnV4b2JPcXF0bnhLMW96cEd1dlZrd3JIMThRUkVRNUdoU0RuMl93T0xXWnJrQ3pPVjRoSGNRSVUzdFlWazFteGU1RWlrMkxaamRVXzRIUEt5TG9NMG96bFJRRnlNQzRYVGlEeEFkLTlNVTlnLWFGOHo0RUJwMjQtVWxIMHZENE5rTlVWd2JEdTN0b3hVdklpVDlRM0lZX1djQ3VEbWNOQzdTY0I3V3l3RVhpX3MyY1FvSmdHMFZNSGM2VWVmS1R3WmVnRWg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-16T15:59:34Z",
+      "summary": "MSN刊发分析文章探讨AMD是否值得作为顶级AI股票买入。文章认为，AMD凭借MI300系列AI加速器和与NVIDIA的竞争格局，在数据中心市场逐步扩大份额。其CPU与GPU协同布局及与软件生态的兼容性为增长提供支撑。然而，NVIDIA在AI训练领域的绝对优势和AMD面临的产能瓶颈仍是潜在风险。投资者需权衡AMD在AI推理市场的潜力与当前估值，短期波动可能较大。"
+    },
+    {
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
       "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-16T15:33:33Z",
-      "summary": "OpenAI联合创始人Greg Brockman据报道将负责产品战略，这是公司近期重组的一部分。同时，OpenAI计划将ChatGPT与编程产品Codex合并，以整合AI对话与代码生成能力。这一举措旨在优化产品线，提升AI在编程领域的应用效率，体现OpenAI在AI产品化方向上的战略调整。"
+      "summary": "OpenAI联合创始人Greg Brockman正式接管产品战略部门，负责统筹公司产品方向与商业化落地。此次人事调整正值OpenAI计划将对话式AI产品ChatGPT与编程辅助工具Codex进行整合，打造统一的开发与交互平台。Brockman的回归被视为强化产品创新与市场竞争力的举措，旨在加速AI应用的规模化部署。分析人士认为，这一变动可能意味着OpenAI将更注重从研究到产品的转化效率。"
     },
     {
       "title": "Is AMD a Top Artificial Intelligence (AI) Stock to Buy? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMzRmdzZ1Z0xHMXlPQUxIWnE1SEZQWTVRNUlrUE0wLW0tR09fR1hxcW1ocVhrNnpwNjlwZkhKWXBzN3RXaERWTWFqMU05aGhxM01Xd1c4ZEtCNVktSWF3dV9OQ0Y2c1Nxc09GdXFwRWY0ei0xekx5c1lnTEF0OUVWRnNwTnNicWlUalJyNDhKWWhaeURqWWc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-16T15:09:58Z",
-      "summary": "AMD是否值得作为人工智能（AI）股票买入？分析指出，AMD凭借其GPU和CPU产品在AI计算领域占据重要地位，尤其是MI300系列加速器与英伟达竞争。然而，市场对AMD的AI业务增长预期需结合财报、技术路线和行业需求综合判断。文章从投资角度评估AMD在AI硬件市场的潜力与风险。"
+      "summary": "The Motley Fool发布投资分析，探讨AMD在当前AI浪潮中的投资前景。报告指出，AMD的Instinct系列GPU在AI推理工作负载中表现突出，其开放的ROCm软件平台正在吸引更多开发者。但考虑到NVIDIA在训练市场的统治地位以及AI芯片领域新玩家的涌入，AMD需要持续提升产品性能并降低功耗。长期看好其数据中心业务，但短期股价可能受行业竞争和宏观环境影响出现震荡。"
     },
     {
       "title": "Is AMD a Top Artificial Intelligence (AI) Stock to Buy? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTBlZnZHVUxsSDlaMUhiazVWSDQ2bENPZ1RPUVpFQ3ZzME5XcXQtcWZJbFo1V1o4N3lpbkhpUGRNczlXM2t3RThLdnU2LXN3SFZKZzIxZEQxcDVfRThodVBLSmFJR0d3THFRMm9kc19MekttdmlQRjc2NlJkZ211aUgtZmMycHB5bGFNcGFLUDBmWFFrcDExZ3NEd1lCTldD?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-16T15:05:00Z",
-      "summary": "AMD是否为顶级AI股票？雅虎财经报道探讨了AMD在AI领域的竞争力。AMD的GPU和CPU被广泛应用于AI训练与推理，MI300系列是其关键产品。但投资者需关注其与英伟达的竞争态势、客户采用率以及财务表现。文章建议审慎评估AMD在AI市场中的长期增长前景。"
-    },
-    {
-      "title": "AI job screeners prefer AI-written resumes over human ones, researchers find - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTWhUZnFpbWt3UnNpWHVuU3hkZ2hkS2pQb3QtQXc1aVlWeGlCVzI3eUY4QkhoTEJralZjNmNVQnB4TnRGQ0JTYlE2TWZzckdFRnd5eHNCaWp3QnhaU2tpd2xuZC1EV0pyQ2I3UzlVbk5naEtNc3BqSGhFU3F5SE43TnVrNUZESzJlZjdhUUVNeG16X0l3NWhENGhlZW80S29SY1hha1FsbEIyblVoQ3JQbzU1UDgtNGtTMkp4Rm1xbko1dnoyVWZwQXBSSmkxVHJm?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-16T12:11:00Z",
-      "summary": "研究发现，AI招聘筛选系统更偏好AI生成的简历而非人工撰写的简历。这意味着求职者使用AI工具优化简历可能获得更高通过率。这一结果引发对AI在招聘中公正性的讨论，以及人类文书能力与AI工具之间的博弈。研究者警告，过度依赖AI生成内容可能削弱个人独特性。"
-    },
-    {
-      "title": "Leading Companies Enhancing Their Presence in the Artificial Intelligence (AI)-Powered Meeting Assistants Market - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdlBsQlFxRlhwVFJEV1dvS05UUTgtVHF5ckx4aFh3N0tXd21Zc2xTVWZlbFJmODBDVlVDSHhFYkxPOWQ2SzYtZjF6OFozZmFVX0tuekNwSUhYc0RfZUxpUXZSM1FFV3puMU0xNnZjSlR6UjBJY0E2bVppOUZCS2dLTDlJNXp6aGJISDQteHNndzUzOWQzcmV3d2UyUnk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-16T11:50:59Z",
-      "summary": "多家领先企业正加强在AI会议助手市场的布局。该市场利用自然语言处理、语音识别等技术，提供会议记录、摘要生成、任务分配等功能。主要参与者包括微软、谷歌、Zoom等。随着远程办公常态化，AI会议助手需求增长，竞争加剧，技术升级成为关键驱动力。"
-    },
-    {
-      "title": "Pope creates artificial intelligence study group as Vatican prepares to release his first encyclical - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXo5aXNpejR6NzNSTlFibDg5Y3p5MVVLeGtJTU93aUxzOTNuWDV6Rm9hd3M1UjFRR3RGQVVDRy1nMTNvdEttMTNwZWY3b2V0V2lyNnJyWjFpXzZyX29zX2phZ0lGMTNJc2lnS0REYVlvb0ozVDAtdlZZR2VmT2pxYzZSN0N0aldpMmxVbk9HR3FGN3VZUk9LTnNJT2JOYUhEa0dpbWg4RUIwUUo4TTVLb2VZZi0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-16T11:49:00Z",
-      "summary": "教皇方济各成立人工智能研究小组，同时梵蒂冈准备发布其首部通谕。此举显示教会对AI伦理问题的关注。研究小组将探讨AI的道德影响、社会公平及对人类尊严的挑战。教皇此前多次呼吁负责任地发展AI，此次成立小组是将其理念制度化的重要一步。"
-    },
-    {
-      "title": "Emerging Sub-Segments Transforming the Artificial - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOenVLZzBraXhPcWg1dWZxdjhSRHlhRVZNRWg0SVVhellVMjl2Tk84MFNJQmNBTXBfTExuNWJWUmF6RWNTRy0zQWRBREtrMnhwZEFnSUVzdno3SngteFU1YmVlOS1VS0VieGZmTnA2Mm5GRzdBX3ZhXzVvWGpsZWhDWUNWdE9FOU9yY2FhTS13?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-16T11:45:55Z",
-      "summary": "人工智能领域出现多个新兴子细分领域，正在改变行业格局。这些子细分包括特定行业AI应用、边缘AI、AI安全等。报告分析了各子市场的增长动力、技术突破和竞争态势，指出企业在细分领域的专业化布局将带来新机遇。投资者需关注这些高增长子领域的动态。"
-    },
-    {
-      "title": "Analysis of Segments and Major Growth Areas in the Artificial Intelligence (AI) Powered Face Generator Market - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTk4RzNIZWhTaDk5ZFdXVjlFY1hfNS1US2J1Z3hlOGlEUTZOcF9UZ2JBVlk3R05LS29jb3ZlcmlYQmozNDdtYlVCYWsxcmVhSV8wNEhSOGxMbFBNU05KdjhIVEZnSXBNVllIaWVUcFFxRzlmMTc5M29XdHVzYVFzRVdEazQtM3BuWFN0UkhyaHp3TUwwcWt3OHQ3a2dTQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-16T11:40:00Z",
-      "summary": "AI人脸生成器市场正经历细分领域分析，主要增长点包括生成对抗网络（GANs）改进、实时渲染、个性化表情合成等。应用场景覆盖娱乐、安全、医疗等。报告评估了市场主要参与者、技术趋势和区域分布，预计生成对抗网络和扩散模型将成为核心技术，推动市场快速扩张。"
-    },
-    {
-      "title": "Emerging Sub-Segments Transforming the Artificial Intelligence (AI) in Podcasting Market Landscape - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVVrc0hDUGFWcGVKajFwRDkxWW5ObWJ2d1FjTmdFYXBDQndFV1FQZXRWZ3NteldUdU9EclVzX3NIQzI3UlJMcTliTW5zcF9zS2hjZ292VVZDZ2pFWFlUQUpqdlE2TEFJX1g3aFl1NWdEdlZIUjQ5Z05sRHY2ejNfd2xGZW9kQW5EdzVxbEp3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-16T11:37:07Z",
-      "summary": "AI在播客市场中的新兴子细分正在改变行业格局，包括AI音频编辑、自动转录、智能推荐、语音合成等。这些技术帮助播客创作者提高效率，同时提升听众体验。市场参与者包括音频处理公司和科技巨头，竞争聚焦于精准度、自然度和实时性。报告预测该市场将保持高速增长。"
-    },
-    {
-      "title": "Artificial Intelligence (AI) in Customer Relationship - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnR0a3drREFPRTgxOUpST2ZyTndFd1M1MDFnTWRfeFFlWGY1T0RfR1NUSjEyeS1pWlNKVnUzXzNSd01teXNKQy1TTGtnLTltQ0dDSm5pT28zZWlPUndDMjgwVFV3YW8ybTNhUHRpRUxpRm9jcjdiMk1XaGJ4YTFLQXFQbENvQ2NDQ2JtYlU2Wks?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-16T11:32:41Z",
-      "summary": "AI在客户关系管理（CRM）中的应用正重塑行业，包括智能客服、销售预测、个性化营销、情感分析等。通过机器学习和自然语言处理，企业能优化客户互动和提升转化率。市场领导者如Salesforce、Oracle等正整合AI功能。报告分析了主要细分市场、技术成熟度和未来趋势，强调AI赋能CRM的潜力。"
-    },
-    {
-      "title": "Segment Analysis and Primary Growth Areas in the Artificial Intelligence (AI) 3D Printing Market - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLXEwN3dNc0FCMWt1djFINTNESXJKQ3dnTWwzNnlHSHc2WXVLMlVwR3N5NVN2YWUxVmhJRUZwOVdjSU9YaW5EMlRHSDBudXo2TnkxUUZjLWRldjJ6MHdqX3BvV0MtZk1OZWkwcHdqT1BQdHBvcW45bTF1VldkaVlINndKQ2xzcHBtakpHOHZhZU5DdnV6Qkw5Rjk4OA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-16T11:31:10Z",
-      "summary": "该报告对人工智能（AI）在3D打印市场中的应用进行了细分分析，并指出了主要增长领域。AI技术通过优化设计、预测维护、实时监控和自适应打印参数，显著提升了3D打印的效率与精度。市场细分涵盖硬件、软件和服务，增长动力来自制造业、医疗、航空航天等行业的定制化需求。报告还分析了AI算法在材料选择和缺陷检测中的作用，认为深度学习与生成设计是未来关键趋势，推动市场持续扩张。"
-    },
-    {
-      "title": "Emerging Growth Trends Driving Expansion in the Artificial Intelligence (AI) Dataset Search Platform Market - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmZVTmZscEgyM2tGLVVwQnBvcFRKdDc3WDMwUk1JNXFhOU9TeDd3dklTcGZCaEFPbGJoQVJPaWR2SWx5MzZFSUdqRUNnX0NrV2V2U3RzZlRqaWlBZUYxajI1VExrNlBCd1hadG9aMlp0Y0txNXAtUmcyNS1QMnNqdFRZa2NQdVBsSGF3QkxyWnlZZkFicXZQM1F3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-16T11:29:38Z",
-      "summary": "人工智能（AI）数据集搜索平台市场正呈现新兴增长趋势，主要受数据驱动型AI应用需求激增推动。该平台帮助开发者、研究人员高效发现和获取高质量训练数据，涵盖图像、文本、语音等多模态数据集。增长驱动力包括企业数字化转型、AI模型复杂化以及数据合规性要求提升。报告指出，自动标注、数据增强和隐私保护技术成为平台竞争核心，预计未来几年市场将加速扩张，尤其在医疗、自动驾驶和自然语言处理领域。"
-    },
-    {
-      "title": "What’s Working: Distributors trade tips on artificial intelligence during Denver event - The Colorado Sun",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1ozVjI5MVlrOWhWeDRLVzF3T2M1SkhtaFpDa0dXNDROWU9ocHkxQnZLeGp6Z0xIbERxd0xVQjN2WE9RTmItcUxtT2JVaThmMmRVVXQtRjAzcFpBZkVZR1lZR3hXZVk0MmxDRExGdDhRazJ0YWRNSWp1aEY1V1FvVmdjUi1ZbHN3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-16T10:00:00Z",
-      "summary": "在丹佛举办的行业活动中，分销商们分享了将人工智能融入业务流程的实战技巧。与会者探讨了AI在库存管理、需求预测、客户服务自动化及物流优化中的应用，强调了数据质量和模型可解释性的重要性。多位分销商展示了通过机器学习实现动态定价和供应链风险预警的成功案例。活动还讨论了中小分销商如何低成本接入AI工具，以及员工培训与伦理考量，凸显了AI赋能传统分销行业的实际路径与挑战。"
+      "summary": "雅虎财经就AMD是否为值得买入的顶级AI股票展开讨论。分析认为，AMD在AI加速器市场已取得显著进展，MI300X芯片获得多家云服务商订单，其与CPU的融合架构在数据中心提供差异化优势。然而，NVIDIA在软件生态（CUDA）上的壁垒以及AMD自身营收对PC市场的依赖构成不确定性。建议投资者关注AMD明年AI相关收入占比变化，并注意技术迭代速度与市场需求的匹配度。"
     }
   ]
 }

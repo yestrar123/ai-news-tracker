@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "154",
+      "title": "The haves and have nots of the AI gold rush",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-16T20:17:16Z",
+      "summary": "人工智能领域的淘金热正呈现出明显的赢家与输家分化。尽管科技行业整体热情高涨，但当前AI热潮的氛围并不理想，即便是行业内部也弥漫着不安情绪。技术巨头凭借算力和数据优势占据主导，而中小企业和开发者则面临生存压力。资本的涌入加剧了竞争，同时也暴露出技术落地的瓶颈。文章指出，这场淘金热并非人人受益，资源分配不均可能导致行业马太效应进一步加剧。",
+      "fetchDate": "2026-05-16"
+    },
+    {
+      "id": "155",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-16T18:54:28Z",
+      "summary": "知名学术预印本平台ArXiv宣布，若发现作者在论文中完全依赖AI工具（如大语言模型）完成写作而缺乏人类实质性贡献，将实施为期一年的发表禁令。这一举措旨在遏制科研领域对AI的滥用，尤其是部分研究者将机器生成的文本直接充当研究成果。ArXiv强调，AI辅助写作本身并非禁止，但必须明确标注并确保人类作者对内容负责。此举将提升学术诚信，但也可能引发关于AI在科研中合理边界的讨论。",
+      "fetchDate": "2026-05-16"
+    },
+    {
+      "id": "156",
+      "title": "Carl Nolte: I asked AI to write like me. I wish I hadn’t - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0RBQ283TWxiQ3FkSTRtdDA2YzMwcEtiMHFwOU5xRGZ1a2ttR2I3WjJzVk0xZFY4VWJUa1NQbjhYd2l0RDFXRjBEQ2cxSmUxUTFZcENEMFNGYVdBa0pCemd0RzJ5bTBqT0hLbnRjMlktV00zZ2Z1bTZfOFhNQTZvYndfYW1zRVZBZFN0QWdR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-16T17:04:08Z",
+      "summary": "《旧金山纪事报》专栏作者Carl Nolte进行了一项实验：让AI模仿自己的文风撰写专栏文章。结果令他深感后悔——AI生成的文字虽然语法通顺，却缺乏他特有的个人视角、幽默感与情感温度。Nolte指出，AI能复制风格却无法复制灵魂，这让他在反思人工智能对新闻业冲击的同时，更加珍视人类写作者的独特价值。他警告，过分依赖AI可能导致内容同质化，削弱新闻报道的真实性与感染力。",
+      "fetchDate": "2026-05-16"
+    },
+    {
+      "id": "157",
+      "title": "Is AMD a top artificial intelligence (AI) stock to buy? - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTm5HMm5YNnFMYnVjbnV4b2JPcXF0bnhLMW96cEd1dlZrd3JIMThRUkVRNUdoU0RuMl93T0xXWnJrQ3pPVjRoSGNRSVUzdFlWazFteGU1RWlrMkxaamRVXzRIUEt5TG9NMG96bFJRRnlNQzRYVGlEeEFkLTlNVTlnLWFGOHo0RUJwMjQtVWxIMHZENE5rTlVWd2JEdTN0b3hVdklpVDlRM0lZX1djQ3VEbWNOQzdTY0I3V3l3RVhpX3MyY1FvSmdHMFZNSGM2VWVmS1R3WmVnRWg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-16T15:59:34Z",
+      "summary": "MSN刊发分析文章探讨AMD是否值得作为顶级AI股票买入。文章认为，AMD凭借MI300系列AI加速器和与NVIDIA的竞争格局，在数据中心市场逐步扩大份额。其CPU与GPU协同布局及与软件生态的兼容性为增长提供支撑。然而，NVIDIA在AI训练领域的绝对优势和AMD面临的产能瓶颈仍是潜在风险。投资者需权衡AMD在AI推理市场的潜力与当前估值，短期波动可能较大。",
+      "fetchDate": "2026-05-16"
+    },
+    {
       "id": "141",
       "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
       "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
@@ -1369,5 +1405,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 152
+  "total": 156
 }
