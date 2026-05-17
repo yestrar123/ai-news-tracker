@@ -1,55 +1,34 @@
 {
-  "updatedAt": "2026-05-16 20:32:28 UTC",
-  "totalArticles": 7,
+  "updatedAt": "2026-05-17 08:34:36 UTC",
+  "totalArticles": 4,
   "articles": [
     {
-      "title": "The haves and have nots of the AI gold rush",
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-16T20:17:16Z",
-      "summary": "人工智能领域的淘金热正呈现出明显的赢家与输家分化。尽管科技行业整体热情高涨，但当前AI热潮的氛围并不理想，即便是行业内部也弥漫着不安情绪。技术巨头凭借算力和数据优势占据主导，而中小企业和开发者则面临生存压力。资本的涌入加剧了竞争，同时也暴露出技术落地的瓶颈。文章指出，这场淘金热并非人人受益，资源分配不均可能导致行业马太效应进一步加剧。"
-    },
-    {
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-16T18:54:28Z",
-      "summary": "知名学术预印本平台ArXiv宣布，若发现作者在论文中完全依赖AI工具（如大语言模型）完成写作而缺乏人类实质性贡献，将实施为期一年的发表禁令。这一举措旨在遏制科研领域对AI的滥用，尤其是部分研究者将机器生成的文本直接充当研究成果。ArXiv强调，AI辅助写作本身并非禁止，但必须明确标注并确保人类作者对内容负责。此举将提升学术诚信，但也可能引发关于AI在科研中合理边界的讨论。"
-    },
-    {
-      "title": "Carl Nolte: I asked AI to write like me. I wish I hadn’t - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0RBQ283TWxiQ3FkSTRtdDA2YzMwcEtiMHFwOU5xRGZ1a2ttR2I3WjJzVk0xZFY4VWJUa1NQbjhYd2l0RDFXRjBEQ2cxSmUxUTFZcENEMFNGYVdBa0pCemd0RzJ5bTBqT0hLbnRjMlktV00zZ2Z1bTZfOFhNQTZvYndfYW1zRVZBZFN0QWdR?oc=5",
+      "title": "As Claude and ChatGPT, which are representative artificial intelligence (AI) services, suffer from a.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSm9USUdrVDhFbVIxN2xfaG5uZmhiSXJkR0NyZ2N5NEJHZEk3RFJ6U2NFdzEtSFRiRzQwQWVHMzc0RUJPc3phTE5OOA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-16T17:04:08Z",
-      "summary": "《旧金山纪事报》专栏作者Carl Nolte进行了一项实验：让AI模仿自己的文风撰写专栏文章。结果令他深感后悔——AI生成的文字虽然语法通顺，却缺乏他特有的个人视角、幽默感与情感温度。Nolte指出，AI能复制风格却无法复制灵魂，这让他在反思人工智能对新闻业冲击的同时，更加珍视人类写作者的独特价值。他警告，过分依赖AI可能导致内容同质化，削弱新闻报道的真实性与感染力。"
+      "publishedAt": "2026-05-17T08:15:17Z",
+      "summary": "代表性AI服务Claude和ChatGPT近期遭遇服务中断或性能问题，引发用户广泛关注。据报道，这两款主流AI聊天机器人出现故障，导致部分用户无法正常使用。具体原因尚未明确，但此类事件凸显了依赖单一AI服务可能带来的风险，以及AI基础设施稳定性的重要。业内专家呼吁加强AI服务的冗余设计和应急响应机制，以保障用户体验和数据安全。"
     },
     {
-      "title": "Is AMD a top artificial intelligence (AI) stock to buy? - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTm5HMm5YNnFMYnVjbnV4b2JPcXF0bnhLMW96cEd1dlZrd3JIMThRUkVRNUdoU0RuMl93T0xXWnJrQ3pPVjRoSGNRSVUzdFlWazFteGU1RWlrMkxaamRVXzRIUEt5TG9NMG96bFJRRnlNQzRYVGlEeEFkLTlNVTlnLWFGOHo0RUJwMjQtVWxIMHZENE5rTlVWd2JEdTN0b3hVdklpVDlRM0lZX1djQ3VEbWNOQzdTY0I3V3l3RVhpX3MyY1FvSmdHMFZNSGM2VWVmS1R3WmVnRWg?oc=5",
+      "title": "South Africa cancels policy on Artificial Intelligence after discovering part of it was written using AI - Tribune Online",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMUJTNUFXX2JMR1RhWDk2eEZTeU8zM2d6SmQybVBiMHY2SmZZc2RCcGtJeDBQUGI4VUlNQ3A1ZVFsNnc1bjdzZUVGcUlIRElybFR6eXhseF9xODdCZmNOV3ZKYk1pNE1hdm1ZWVVUaTE4VnRhVVJvYU51MmNNVGxpT2RFNGphR2s0eVZYZlZ5ck1yTXZPcmZZZ2RJRmtrcmE4Nm8weDhpd2JpMTlXa2NBWkd5TExxd00yS0ctM05vSlhwaG12c0RiWFZ4eUEtQdIBngNBVV95cUxNcldzMUxQYmU4dWdZRFg5cXJrZzRoZUVaQzhwX2FmNTdIRDBOaUFVX0g1SVN4aHdoLW05Sy14UUp6YU45WkFWclpiU3Y1VlB5UGhqcmR6RklEUDZYZUl4dTJXS1kzSF9QdW5xeFl1ek5rdzlHaDJlM2R6bjF0X0dDWEJPQ09MWFpHMmF3am50dWlYWGhYdXJXUk9PX2RPTzVEN2VoeXNwMUw3cTczdXpNQlhFbl83X0VweGRuTnNVOS1RSkhkakprcmN3Q2hKc0FFRENXMGhMOTlhOW9pdU0tY0VabzFDRVhIQWp6OUpMdHVPWkhRWVNKU1hwUnJMMkRxUzB5RDI0UUx3THlsQmxRMFlZdldndnVoRE52c2NEOEdKZXZYYTctRGhQZGloMHI5ZWpWVjhsRG9JRUMtbmU5S1dVUC0ydW1kTnlmYmVPNXFFZlZqTFBmWHpKei1pVWhVT1lRbTFQMlhwek1GMzk2ZnVSQVl5SWRGR1NGeHJSZ2REcl9pSFZBUVJ6UzRMY203RXFzczloc3A3UGViOWc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-16T15:59:34Z",
-      "summary": "MSN刊发分析文章探讨AMD是否值得作为顶级AI股票买入。文章认为，AMD凭借MI300系列AI加速器和与NVIDIA的竞争格局，在数据中心市场逐步扩大份额。其CPU与GPU协同布局及与软件生态的兼容性为增长提供支撑。然而，NVIDIA在AI训练领域的绝对优势和AMD面临的产能瓶颈仍是潜在风险。投资者需权衡AMD在AI推理市场的潜力与当前估值，短期波动可能较大。"
+      "publishedAt": "2026-05-17T05:05:00Z",
+      "summary": "南非政府近日取消了一项关于人工智能的政策，原因是在审核过程中发现该政策文档的部分内容竟由AI工具生成。这一发现引发了对政策制定严谨性和AI伦理的质疑。相关部门表示，AI应作为辅助工具而非替代人类决策，使用AI撰写政策文件违背了透明和问责原则。此举也警示各国在推进AI治理时需确保人类主导，避免技术滥用导致公信力下降。"
     },
     {
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-16T15:33:33Z",
-      "summary": "OpenAI联合创始人Greg Brockman正式接管产品战略部门，负责统筹公司产品方向与商业化落地。此次人事调整正值OpenAI计划将对话式AI产品ChatGPT与编程辅助工具Codex进行整合，打造统一的开发与交互平台。Brockman的回归被视为强化产品创新与市场竞争力的举措，旨在加速AI应用的规模化部署。分析人士认为，这一变动可能意味着OpenAI将更注重从研究到产品的转化效率。"
-    },
-    {
-      "title": "Is AMD a Top Artificial Intelligence (AI) Stock to Buy? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMzRmdzZ1Z0xHMXlPQUxIWnE1SEZQWTVRNUlrUE0wLW0tR09fR1hxcW1ocVhrNnpwNjlwZkhKWXBzN3RXaERWTWFqMU05aGhxM01Xd1c4ZEtCNVktSWF3dV9OQ0Y2c1Nxc09GdXFwRWY0ei0xekx5c1lnTEF0OUVWRnNwTnNicWlUalJyNDhKWWhaeURqWWc?oc=5",
+      "title": "AIE Singapore Day 2: DeepMind, Cloudflare, and AI's Future - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc1pBcDItNjBxQmY2dDRuWTZhcGtYSlVJS0N4S0ZWVkszenNyWWZWV0NnbEpEMi04c1FDVktYM2gwTzN6UDhVN2VPRjA5UVVUeE5ZdzRqZ1hhakV6LVlCUUtRVFJfdTlXMGFRSE5Ya3ItQU9hVjcwMHZvdnpZb1BpZjFIeXVmRGlIR3VNdWc3Z3NtYWNLcV9RdTRhVDhZdXBQdXNKR25UV3RNbmZjVWd6LTZIS2pCOU9BVmc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-16T15:09:58Z",
-      "summary": "The Motley Fool发布投资分析，探讨AMD在当前AI浪潮中的投资前景。报告指出，AMD的Instinct系列GPU在AI推理工作负载中表现突出，其开放的ROCm软件平台正在吸引更多开发者。但考虑到NVIDIA在训练市场的统治地位以及AI芯片领域新玩家的涌入，AMD需要持续提升产品性能并降低功耗。长期看好其数据中心业务，但短期股价可能受行业竞争和宏观环境影响出现震荡。"
+      "publishedAt": "2026-05-17T03:01:32Z",
+      "summary": "AIE新加坡大会第二天聚焦DeepMind、Cloudflare等科技巨头的AI战略与未来趋势。DeepMind展示了其在大模型和强化学习领域的最新进展，强调将AI从实验室推向实际应用；Cloudflare则分享了借助边缘计算和AI优化网络安全与性能的方案。与会专家还探讨了AI在医疗、金融等行业的落地挑战，以及构建负责任的AI生态的重要性，为行业发展提供前瞻性视角。"
     },
     {
-      "title": "Is AMD a Top Artificial Intelligence (AI) Stock to Buy? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTBlZnZHVUxsSDlaMUhiazVWSDQ2bENPZ1RPUVpFQ3ZzME5XcXQtcWZJbFo1V1o4N3lpbkhpUGRNczlXM2t3RThLdnU2LXN3SFZKZzIxZEQxcDVfRThodVBLSmFJR0d3THFRMm9kc19MekttdmlQRjc2NlJkZ211aUgtZmMycHB5bGFNcGFLUDBmWFFrcDExZ3NEd1lCTldD?oc=5",
+      "title": "AI cannot replace judges! - The Hans India",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTVqN01KZXpSWXJpWXNycXNVaHVkdXRWRkRFa1JvSDI1Tjl3S2xpaWhGQnJKaFQzQ2VpMnJQd1hiZm16UjdZQS02ZWFMSHlvZXVFcVR6QjZTcFFkanRCUGRxWUlia0t6WG9CbEJOcEpGcjNhN0FzTE8xRWdnLU1xS1NCbXpoNkFQTEHSAY8BQVVfeXFMTWNxM2ZFdHA0a0FNLUFQeGxXVzE5bm5rMEoyaHdFWFY3eThpb1RvSlRITmp4VjE4YnduM0ZRWXlTUXJPZGcxMm1qOHlrTHZ2UGpIQjNqRXZmemhmZWFXc014MDRKUWxfR3ZoMUcwWFJZb1hwaXJTQi1PbHJOR0Uxejk1bERrSWQ2UDhjdkxNMTg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-16T15:05:00Z",
-      "summary": "雅虎财经就AMD是否为值得买入的顶级AI股票展开讨论。分析认为，AMD在AI加速器市场已取得显著进展，MI300X芯片获得多家云服务商订单，其与CPU的融合架构在数据中心提供差异化优势。然而，NVIDIA在软件生态（CUDA）上的壁垒以及AMD自身营收对PC市场的依赖构成不确定性。建议投资者关注AMD明年AI相关收入占比变化，并注意技术迭代速度与市场需求的匹配度。"
+      "publishedAt": "2026-05-17T02:42:54Z",
+      "summary": "法律界人士重申AI不能取代法官的核心立场。尽管AI在法律检索、文书起草等辅助工作中展现高效，但在司法裁判中，法官需基于伦理、社会价值、个案情境进行综合判断，这是AI无法复制的。专家指出，AI可能引入偏见且缺乏人类同理心，过度依赖将损害司法公正。司法系统应谨慎使用AI作为工具，而非替代人类决策，确保法律温度与人性化守护。"
     }
   ]
 }
