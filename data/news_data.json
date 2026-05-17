@@ -1,34 +1,20 @@
 {
-  "updatedAt": "2026-05-17 08:34:36 UTC",
-  "totalArticles": 4,
+  "updatedAt": "2026-05-17 09:15:28 UTC",
+  "totalArticles": 2,
   "articles": [
     {
       "title": "As Claude and ChatGPT, which are representative artificial intelligence (AI) services, suffer from a.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSm9USUdrVDhFbVIxN2xfaG5uZmhiSXJkR0NyZ2N5NEJHZEk3RFJ6U2NFdzEtSFRiRzQwQWVHMzc0RUJPc3phTE5OOA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-17T08:15:17Z",
-      "summary": "代表性AI服务Claude和ChatGPT近期遭遇服务中断或性能问题，引发用户广泛关注。据报道，这两款主流AI聊天机器人出现故障，导致部分用户无法正常使用。具体原因尚未明确，但此类事件凸显了依赖单一AI服务可能带来的风险，以及AI基础设施稳定性的重要。业内专家呼吁加强AI服务的冗余设计和应急响应机制，以保障用户体验和数据安全。"
+      "summary": "据《每日经济》报道，代表性AI服务Claude和ChatGPT遭遇故障或服务中断，影响用户正常使用。此次事件凸显了大语言模型在稳定性和可靠性方面仍面临挑战，尤其在高并发场景下，系统易出现响应延迟、访问失败等问题。目前相关公司正加紧排查原因，以尽快恢复服务并防范类似情况再次发生。"
     },
     {
       "title": "South Africa cancels policy on Artificial Intelligence after discovering part of it was written using AI - Tribune Online",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMUJTNUFXX2JMR1RhWDk2eEZTeU8zM2d6SmQybVBiMHY2SmZZc2RCcGtJeDBQUGI4VUlNQ3A1ZVFsNnc1bjdzZUVGcUlIRElybFR6eXhseF9xODdCZmNOV3ZKYk1pNE1hdm1ZWVVUaTE4VnRhVVJvYU51MmNNVGxpT2RFNGphR2s0eVZYZlZ5ck1yTXZPcmZZZ2RJRmtrcmE4Nm8weDhpd2JpMTlXa2NBWkd5TExxd00yS0ctM05vSlhwaG12c0RiWFZ4eUEtQdIBngNBVV95cUxNcldzMUxQYmU4dWdZRFg5cXJrZzRoZUVaQzhwX2FmNTdIRDBOaUFVX0g1SVN4aHdoLW05Sy14UUp6YU45WkFWclpiU3Y1VlB5UGhqcmR6RklEUDZYZUl4dTJXS1kzSF9QdW5xeFl1ek5rdzlHaDJlM2R6bjF0X0dDWEJPQ09MWFpHMmF3am50dWlYWGhYdXJXUk9PX2RPTzVEN2VoeXNwMUw3cTczdXpNQlhFbl83X0VweGRuTnNVOS1RSkhkakprcmN3Q2hKc0FFRENXMGhMOTlhOW9pdU0tY0VabzFDRVhIQWp6OUpMdHVPWkhRWVNKU1hwUnJMMkRxUzB5RDI0UUx3THlsQmxRMFlZdldndnVoRE52c2NEOEdKZXZYYTctRGhQZGloMHI5ZWpWVjhsRG9JRUMtbmU5S1dVUC0ydW1kTnlmYmVPNXFFZlZqTFBmWHpKei1pVWhVT1lRbTFQMlhwek1GMzk2ZnVSQVl5SWRGR1NGeHJSZ2REcl9pSFZBUVJ6UzRMY203RXFzczloc3A3UGViOWc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-17T05:05:00Z",
-      "summary": "南非政府近日取消了一项关于人工智能的政策，原因是在审核过程中发现该政策文档的部分内容竟由AI工具生成。这一发现引发了对政策制定严谨性和AI伦理的质疑。相关部门表示，AI应作为辅助工具而非替代人类决策，使用AI撰写政策文件违背了透明和问责原则。此举也警示各国在推进AI治理时需确保人类主导，避免技术滥用导致公信力下降。"
-    },
-    {
-      "title": "AIE Singapore Day 2: DeepMind, Cloudflare, and AI's Future - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc1pBcDItNjBxQmY2dDRuWTZhcGtYSlVJS0N4S0ZWVkszenNyWWZWV0NnbEpEMi04c1FDVktYM2gwTzN6UDhVN2VPRjA5UVVUeE5ZdzRqZ1hhakV6LVlCUUtRVFJfdTlXMGFRSE5Ya3ItQU9hVjcwMHZvdnpZb1BpZjFIeXVmRGlIR3VNdWc3Z3NtYWNLcV9RdTRhVDhZdXBQdXNKR25UV3RNbmZjVWd6LTZIS2pCOU9BVmc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-17T03:01:32Z",
-      "summary": "AIE新加坡大会第二天聚焦DeepMind、Cloudflare等科技巨头的AI战略与未来趋势。DeepMind展示了其在大模型和强化学习领域的最新进展，强调将AI从实验室推向实际应用；Cloudflare则分享了借助边缘计算和AI优化网络安全与性能的方案。与会专家还探讨了AI在医疗、金融等行业的落地挑战，以及构建负责任的AI生态的重要性，为行业发展提供前瞻性视角。"
-    },
-    {
-      "title": "AI cannot replace judges! - The Hans India",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTVqN01KZXpSWXJpWXNycXNVaHVkdXRWRkRFa1JvSDI1Tjl3S2xpaWhGQnJKaFQzQ2VpMnJQd1hiZm16UjdZQS02ZWFMSHlvZXVFcVR6QjZTcFFkanRCUGRxWUlia0t6WG9CbEJOcEpGcjNhN0FzTE8xRWdnLU1xS1NCbXpoNkFQTEHSAY8BQVVfeXFMTWNxM2ZFdHA0a0FNLUFQeGxXVzE5bm5rMEoyaHdFWFY3eThpb1RvSlRITmp4VjE4YnduM0ZRWXlTUXJPZGcxMm1qOHlrTHZ2UGpIQjNqRXZmemhmZWFXc014MDRKUWxfR3ZoMUcwWFJZb1hwaXJTQi1PbHJOR0Uxejk1bERrSWQ2UDhjdkxNMTg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-17T02:42:54Z",
-      "summary": "法律界人士重申AI不能取代法官的核心立场。尽管AI在法律检索、文书起草等辅助工作中展现高效，但在司法裁判中，法官需基于伦理、社会价值、个案情境进行综合判断，这是AI无法复制的。专家指出，AI可能引入偏见且缺乏人类同理心，过度依赖将损害司法公正。司法系统应谨慎使用AI作为工具，而非替代人类决策，确保法律温度与人性化守护。"
+      "summary": "南非政府取消了一项新制定的人工智能政策，原因是在审核过程中发现政策文本部分内容系使用AI工具撰写。此举引发对政策制定透明度与原创性的争议，也暴露了政府机构在利用AI辅助工作时的合规风险。南非相关官员表示，将重新起草该政策，并严格审查撰写流程，确保核心决策体现人类智慧与责任。"
     }
   ]
 }
