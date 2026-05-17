@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "164",
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-17T20:15:00Z",
+      "summary": "苹果计划对Siri进行重大改版，其中可能加入自动删除聊天记录功能。这一举措旨在强化隐私保护，将成为新版Siri的核心主题之一。随着用户对隐私问题的日益关注，苹果在AI助手领域将隐私作为差异化竞争优势，通过自动清理对话内容减少数据留存风险，但具体实现方式和覆盖范围尚未公布。",
+      "fetchDate": "2026-05-17"
+    },
+    {
+      "id": "165",
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-17T19:46:34Z",
+      "summary": "在埃隆·马斯克与OpenAI的诉讼案即将结束之际，信任问题成为庭审焦点。争论的核心在于OpenAI首席执行官萨姆·奥尔特曼是否值得信赖。该案涉及OpenAI从非营利组织转向营利性实体的争议，以及马斯克对奥尔特曼领导诚信的质疑，反映出AI行业内部对创始人权力和承诺可靠性的深层分歧。",
+      "fetchDate": "2026-05-17"
+    },
+    {
+      "id": "166",
+      "title": "New free training in artificial intelligence offered by the government promises to train thousands of public service professionals with online classes, automation tools, predictive analysis, and strategic use of AI to accelerate digital transformation in Brazil. - CPG Click Petróleo e Gás",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTmFjSFlwQ0RVdi1YRHRlTVFpWldHaF9LZ2lrV3p6ak1zRmgxWWpuZEs2UTRuWWdSRzYyanlmeTV4bER1Um5uODdHVF9WZ3R1endHMDJxZV9pcVRUSVJXcFUzMTFOSWk2WnhFQzlRSjFRRlJsMFg1dTd3bmloX2xzSjRfQ3cwaXV1bkdzb2ZtT2xJblVIclVvdnZ4ZThlVl8zVTRkWWRrMHRyakU5N09UVXl5OGdXTWhhUm1scnptZzBkWjdZS2RTNlliQ0ttVFY1Y05Da0p1UWJKbExYWHpYZnVkSUVMSlo1cUoyTzktbUZSY0dHU2NwYjZsYVlrcE5KZ1laVm1kSVVpcldQR1kzNlB3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-17T18:13:00Z",
+      "summary": "巴西政府推出免费人工智能培训项目，旨在通过在线课程、自动化工具、预测分析等技术手段，培训数千名公共服务专业人员，加速国家数字化转型。该培训强调战略性使用AI，提升政府效率和服务质量，体现了发展中国家在公共管理领域主动拥抱AI、缩小数字鸿沟的努力。",
+      "fetchDate": "2026-05-17"
+    },
+    {
+      "id": "167",
+      "title": "Artificial intelligence is coming to medicine. But will it help? - Sudbury Star",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0JzbGlENVZyLUFJd1FwMHVDdjZ5UkNYMkR2MjJTM3BVamxrbmFLSGFJUUxqNkliSWR3MWFfOUFGVC1ScnJNZEVXUEpnZURYWHNRLWo2TzlUOVg5MEwyQjhHd2k4OElTemJCQXZfRzdYUjcxYUUxcmFpTnVGVnVJU1ZJSVBDZXRXbURpNHZtSDBzWlVYUWt2SG1IRE9nMnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-17T17:45:30Z",
+      "summary": "人工智能正在进入医学领域，但其实际效用仍存争议。文章探讨了AI在诊断、治疗规划、药物研发等方面的潜力，同时指出数据隐私、算法偏见、临床验证不足等挑战。专家呼吁在推广AI医疗应用时需谨慎评估其能否真正改善患者预后，避免技术炒作脱离临床实际需求。",
+      "fetchDate": "2026-05-17"
+    },
+    {
+      "id": "168",
+      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEkxS0Z6QXJFMWY2TVA4WDlPMC1QZlFXR2MtcnRxaHFBZVNYd1VpcDFBSlpWcGc4eVY2b2UwWDBMaXdTYzdWTjhCVTdGRnBJMjhjMmRxZUlyMDdJUWR2ZUpKN0oxdzVMRVo2MzA3Z2w4LWJxTkh1dWgwQTVGYjVLTXN5WmNZYmRtWVQ2U1pZWmppcmVDanZWdklJalh3V0h0SFRQMGp4T3VoM2xtM0s3NlgzMUswcHpfUjZCRXoxTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-17T17:22:23Z",
+      "summary": "在亚利桑那大学的毕业典礼上，前谷歌CEO埃里克·施密特因大力鼓吹人工智能前景而遭到学生嘘声。这一事件反映出部分年轻一代对AI技术可能带来的就业冲击、社会不平等问题持怀疑态度，甚至对过度渲染AI未来的言论产生抵触情绪，揭示了公众与科技精英在AI叙事上的认知鸿沟。",
+      "fetchDate": "2026-05-17"
+    },
+    {
+      "id": "169",
+      "title": "AI For Good: Can artificial intelligence become a force for humanity? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNTM4aW80bC10SENCZDFXVVVic2s1eVR1VmY5Uk55eXRCWnNzM2dKZlM3enFkcW9ib2hVTF9KeThRc3Ixc0NRTmxCNWM2QzZyQWRiZzk1SHk3TzdiLTBCRllsRGVMSm1GTndoMjNDOENraEw1Y09iMWRiVVlZdi1vV0JGUnRtNmlramtRZFRTVG8wUHZhVkhHVnJZTS0zblFTLWRnWExIS0lEdURTaGxSakVrS0xlYmJyQWlyU0kwTUxLb0RW0gHKAUFVX3lxTE9JSnU0RU1uSmFMRGRHeXN5dlZzNGRyY0JrWjhnbHJmMXhBX0RrcngyQWt4VlBfQTVPaF9lM1NjRTVPZmpVTnJCQWhyM2JtYTJXZW9ZZE1oTzk2Q0xENW55SUs2SjlCaFh0LW1MaS1vZE5SR3htZlZYNHJCMi1MTUZRcFdyNFF2UEprZG5KM1lUZUJBS19kcGQ0cVN4aFEzWFVsTFJZZks5ZDFwS2NvdEZlNmNxLXYxVGFZajBmQ1dTek9ZQ3ZTQUhFeWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-17T16:55:23Z",
+      "summary": "文章探讨了人工智能是否能成为造福人类的力量。通过分析AI在医疗、教育、气候变化等领域的积极应用案例，强调其解决全球性问题的潜力。同时指出，要真正实现‘AI向善’，需要建立负责任的治理框架，防范算法歧视、隐私侵犯等风险，确保技术发展服务于全人类福祉。",
+      "fetchDate": "2026-05-17"
+    },
+    {
+      "id": "170",
+      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-17T16:32:04Z",
+      "summary": "评论指出，到2026年发表毕业演讲时最好避免提及人工智能。当前的毕业生群体对AI形塑的未来普遍缺乏热情，甚至感到焦虑。演讲者若强行推销AI乐观论调可能适得其反。建议毕业生更关注人文关怀、批判性思维等不可替代的人类特质，以应对技术变革的不确定性。",
+      "fetchDate": "2026-05-17"
+    },
+    {
+      "id": "171",
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-17T16:05:00Z",
+      "summary": "汽车行业正面临一场AI技能军备竞赛。随着自动驾驶、智能座舱、车联网等技术的快速发展，企业对掌握机器学习、计算机视觉、数据处理等AI技能的人才需求激增。传统车企与科技公司展开激烈人才争夺，行业培训体系和招聘策略正在快速调整以应对这一趋势。",
+      "fetchDate": "2026-05-17"
+    },
+    {
+      "id": "172",
+      "title": "Tech giants sued over ‘stealing’ voices of well-known journalists, voice actors to train AI - Capitol City Now",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUzFuak1QT2NSWFRJdmg0SG56ZVM5dzRPNEVyTXZNNkQzdXcxWHJzaFJUOEpvczh1YVJCeXNsT1VsdjFseUV4ZGF0TEJ6R3g5RkN6dlQ1Wm1uQzNiUm1SbGREa2gtNzc3dmlSVmZJVFF4LTNwb3pLRkpMOGVCYU9oME9PYmFhMy00dFcteDhQNnZxSWpiUmsweC1YR0J2ZFQyRE1kdlBjajVFVmt5U3VRZmY2R0NHOHY4b2JmaWR1YlNKMnB5MHBr?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-17T14:58:47Z",
+      "summary": "多家科技巨头因涉嫌未经授权使用知名记者和配音演员的声音数据训练AI模型而被起诉。原告指控这些公司通过克隆或模仿声音的方式侵犯了个人肖像权和版权。此案凸显了生成式AI在声音合成领域引发的法律与伦理争议，可能推动更严格的数据采集和授权监管。",
+      "fetchDate": "2026-05-17"
+    },
+    {
       "id": "162",
       "title": "If My Dead Son Returned as an AI Boy... Another Question from Hirokazu Kore-eda [2026 Cannes Film Festival] - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HbmZXTjJJb0xDcF9qMFBvaUZjVDRZQ0kza3RwNE1rVjhGcHpkRFpPdl9UcXpiTGotQm85V3FfbF9OeWJKX3VRMkNzcDBBNXNneVE?oc=5",
@@ -1459,5 +1540,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 162
+  "total": 171
 }
