@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "192",
+      "title": "\"Will be brilliant if AI can knead dough, clean table...\": Kunal Kapur welcomes artificial intelligence as assisting tool in food industry - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOclhjMkRWN1haamZjNnVta3FKeVV1T1BzRzZFOUtKNUMtVWFQeE1qd0hfdFdwTkNGaTV2YnU4V19CWnhsNS1WZURVNTZ3dkZ3MkJvdWVqVlRCUXR2MlllaFRZQ2JhajdpNU5ubklGVjV2eUNycDNJRkdtSHhsQ2Z2ZkFCcEM3T0Uxb1pxT21RMEgyUU1FUTFWOUk2aGw1cUw2VVowbmxyb1NXd3VuZTVwRTUxdGhYWVhMX0xmU1FaYkFpLXJUSDIwZGxiWUtRS19PT1IwaE9oNFEtdGpwc0JZR2pDeHAtYm1tQmNkNWlvb1VxWXVFMG0wc1RlWnVhOHMwRUVhQ3lDU0RJMnRaSlpqTnR4cVgzZk1HTk45MDhDZ0ZTYTA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T13:37:00Z",
+      "summary": "知名厨师Kunal Kapur对AI在餐饮业的应用表示欢迎，认为AI作为辅助工具潜力巨大。他期待AI能承担揉面、清洁餐桌等重复性劳动，从而解放厨师双手，提升厨房效率与卫生标准。Kapur强调，AI不应取代厨师创意，而是作为协作伙伴，帮助优化流程并减少人力负担。这一观点反映了餐饮行业对技术赋能持开放态度，但需平衡自动化与手工技艺的传承。",
+      "fetchDate": "2026-05-18"
+    },
+    {
+      "id": "193",
+      "title": "Scaling Intelligence: The Security Foundations Beneath America's AI Ambitions Are Cracking - Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWhEdWdLNWJMSmZNVW41SHphRm1Ea2ljazZfcGM1dGIySnEzMjVBRUZMRHV3cUloSUR4a013MDNaNWFObkFnN285b2o0ejRENWc0bXQtNjcyTkVCTDhPSm9DelkzdlRKOWtNWHRpY0hqMWpCSkxJd3E2SG5wX2hDSUI5bTNRM3ZHUkF6Y1FnSERLM3c4OURhcW5wMjI3Vy10d3ZiUTdlYlRWYUExc19Vc2h0OUNsejBi?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T13:16:21Z",
+      "summary": "美国外交关系协会报告指出，支撑美国AI野心的安全基础正出现裂痕。随着AI规模持续扩展，其底层基础设施、数据供应链及算法鲁棒性面临风险，包括网络攻击、模型漏洞和地缘政治博弈。若不加固安全根基，美国在AI领域的全球领导地位将受动摇。报告呼吁政府与企业合作构建弹性架构，在加速创新的同时优先保障系统安全，否则可能因安全漏洞导致重大战略失利。",
+      "fetchDate": "2026-05-18"
+    },
+    {
+      "id": "194",
+      "title": "New image-based prompt injection attack targets multimodal AI models - csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEJ2Zk80dVNTUlNaaTNta3NPTDdkYk9IUEJmeHJWVU9xX3ktWXpwVDRHcXpDeDBXd0JPMDg5amRuVDdzMkpjTWZibTZNdkJDVnVmZ2tzTWM3OXoyZWlHaXhFQW5EcUFxUWZxajh4TkV3MnVJYUlISjlUUEdScjhmNlZSeHVnaTBWdm1fZmlMV1d1aXUzWWJCNFNxMHZ0cmpVdlBsZnRCTDFBNjFKSlI5QUI4cXkzQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T12:58:35Z",
+      "summary": "安全研究人员发现一种新型图像提示注入攻击，专门针对多模态AI模型。攻击者通过向模型输入包含恶意指令的图片，诱使其生成错误输出或泄露敏感信息。此类攻击利用多模态模型对视觉与文本的联合理解弱点，可绕过传统文本过滤机制。专家建议开发者加强输入验证与对抗训练，并部署扫描工具识别图像中的隐藏指令，以防范针对视觉-语言模型的新兴威胁。",
+      "fetchDate": "2026-05-18"
+    },
+    {
+      "id": "195",
+      "title": "5 ways to curb AI sprawl without stifling innovation - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdG5qVkVnck1xLU02ckFhc3BveWNLMEhKVmljbDVZMTdjYWoxb0xwcVBaQXpPQy1ZX3N1X2xYZ0hUaVQ2U1ZfUXpveDl1MmlpUlNibVZ3NVpiT014QlhwRVVUZk9YVy1OZHRubG9MYVY3cG9lV0NtOVJpOHNtS2Q4REZJWU9OQ2xUU05XeFRiaDlySm5QOXBCWUZSS3UyZERSSmtGT2J3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T11:32:57Z",
+      "summary": "计算机世界杂志提出五项策略，帮助企业在AI快速部署中避免混乱而不抑制创新：建立集中式AI治理委员会、优先标准化工具与数据管道、限制未经批准的试点项目、强化员工培训与透明度、定期审计模型性能与合规性。通过划定安全实验范围并实施分级管控，组织可在控制风险的同时保持敏捷创新节奏。文章强调平衡是关键，过度管控会扼杀创造力，而放任自流则导致资源浪费与安全盲区。",
+      "fetchDate": "2026-05-18"
+    },
+    {
       "id": "173",
       "title": "Key Trends and Emerging Changes Shaping the Quantum Artificial Intelligence (AI) Market Landscape - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGhWVWZtR0ZjQUNvWE9aOWFxdnEzcHhnUnozUGpaNGF4aEFvQ0NUQ3ppa0N6Zl90NVYyUUlHZHA4dEZyamJwamZxX1dhdm01T3NzS3ctZkpnSEZRLVVOblduZnV5TlllY2poc0t5R0NLbnVNRC1CTHZHaG5yRmVvblo0VDh1Zmk3a1BSMHRwQV9oRXE0N1hVMEg5c1BULXc?oc=5",
@@ -1711,5 +1747,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 190
+  "total": 194
 }
