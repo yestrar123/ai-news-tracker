@@ -1,69 +1,139 @@
 {
-  "updatedAt": "2026-05-17 20:35:05 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-05-18 12:52:23 UTC",
+  "totalArticles": 19,
   "articles": [
     {
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "title": "Key Trends and Emerging Changes Shaping the Quantum Artificial Intelligence (AI) Market Landscape - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGhWVWZtR0ZjQUNvWE9aOWFxdnEzcHhnUnozUGpaNGF4aEFvQ0NUQ3ppa0N6Zl90NVYyUUlHZHA4dEZyamJwamZxX1dhdm01T3NzS3ctZkpnSEZRLVVOblduZnV5TlllY2poc0t5R0NLbnVNRC1CTHZHaG5yRmVvblo0VDh1Zmk3a1BSMHRwQV9oRXE0N1hVMEg5c1BULXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T11:21:12Z",
+      "summary": "量子人工智能市场正经历关键趋势与新兴变化，包括量子计算与AI算法的深度融合、专用量子硬件的突破以及混合计算架构的兴起。这些变化推动市场格局重塑，金融、制药、物流等行业加速探索量子AI在优化、模拟和安全方面的应用，预示着一个高效、可扩展的量子AI生态系统正在形成。"
+    },
+    {
+      "title": "Anthropic to share Mythos cyber flaw findings with global finance watchdog - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcU5wb3BXTVA1SUpZT3ZhSV9CU1REQzN0Um9IczZ1aTktRkJ4Rmp3dHFHYm0yRUZvYVBZU0pPbWdHSzJLZ1NORmZwTXY5V3kzYVNEaU1iOWlqUXlPNV9velJqSjlSbXI2V2dCUE53QVRXejV1ZmlEbWdnOXRPaFdxUjNUMWt5OTYyaXF4NjBZYjRCWTBFamRZaUFGWk1BRWtyVHVKdWF6WkI4VlpEaGxoaTZyZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T11:20:00Z",
+      "summary": "AI安全公司Anthropic宣布将把其发现的‘Mythos’网络安全漏洞详细信息分享给全球金融监管机构。这一举措旨在帮助金融行业提前防范潜在攻击，体现了AI研究机构与监管部门协同应对新型网络威胁的趋势，同时也凸显了负责任AI披露机制的重要性。"
+    },
+    {
+      "title": "South Korea’s LetinAR is building optics behind AI glasses",
+      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-17T20:15:00Z",
-      "summary": "苹果计划对Siri进行重大改版，其中可能加入自动删除聊天记录功能。这一举措旨在强化隐私保护，将成为新版Siri的核心主题之一。随着用户对隐私问题的日益关注，苹果在AI助手领域将隐私作为差异化竞争优势，通过自动清理对话内容减少数据留存风险，但具体实现方式和覆盖范围尚未公布。"
+      "publishedAt": "2026-05-18T11:00:00Z",
+      "summary": "韩国初创公司LetinAR正在开发一种拇指大小的光学镜片，专为AI眼镜设计。该镜片采用独特波导技术，在极紧凑体积内实现高质量图像投射，有望成为未来AI眼镜的光学核心。其轻量化和高集成度特性，或加速增强现实设备的普及。"
     },
     {
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-17T19:46:34Z",
-      "summary": "在埃隆·马斯克与OpenAI的诉讼案即将结束之际，信任问题成为庭审焦点。争论的核心在于OpenAI首席执行官萨姆·奥尔特曼是否值得信赖。该案涉及OpenAI从非营利组织转向营利性实体的争议，以及马斯克对奥尔特曼领导诚信的质疑，反映出AI行业内部对创始人权力和承诺可靠性的深层分歧。"
-    },
-    {
-      "title": "New free training in artificial intelligence offered by the government promises to train thousands of public service professionals with online classes, automation tools, predictive analysis, and strategic use of AI to accelerate digital transformation in Brazil. - CPG Click Petróleo e Gás",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTmFjSFlwQ0RVdi1YRHRlTVFpWldHaF9LZ2lrV3p6ak1zRmgxWWpuZEs2UTRuWWdSRzYyanlmeTV4bER1Um5uODdHVF9WZ3R1endHMDJxZV9pcVRUSVJXcFUzMTFOSWk2WnhFQzlRSjFRRlJsMFg1dTd3bmloX2xzSjRfQ3cwaXV1bkdzb2ZtT2xJblVIclVvdnZ4ZThlVl8zVTRkWWRrMHRyakU5N09UVXl5OGdXTWhhUm1scnptZzBkWjdZS2RTNlliQ0ttVFY1Y05Da0p1UWJKbExYWHpYZnVkSUVMSlo1cUoyTzktbUZSY0dHU2NwYjZsYVlrcE5KZ1laVm1kSVVpcldQR1kzNlB3?oc=5",
+      "title": "Emerging Sub-Segments Transforming the Responsible Artificial Intelligence (AI) Platform Market Landscape - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHJnWkNHUHhMckZ3UzBfWTU3Slp5Z0NnbENseFp1VkIySWROajVqZkFqTC02VE10cGEzWGxUWHFpdWxwSWIwdy14VG5LSTgtc0pYZklTYnA1WkM0cXo5aW5ZR1M3cldkSlQwd0JQUTl2OHBNcm02czNQU09vSmFoalhDY3VoM0VCTEVIR08zQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-17T18:13:00Z",
-      "summary": "巴西政府推出免费人工智能培训项目，旨在通过在线课程、自动化工具、预测分析等技术手段，培训数千名公共服务专业人员，加速国家数字化转型。该培训强调战略性使用AI，提升政府效率和服务质量，体现了发展中国家在公共管理领域主动拥抱AI、缩小数字鸿沟的努力。"
+      "publishedAt": "2026-05-18T10:37:38Z",
+      "summary": "负责任AI平台市场正涌现新的细分领域，包括可解释性AI、公平性评估、隐私保护审计等模块。这些子领域通过提供标准化评估工具和合规框架，帮助企业构建可信赖的AI系统，推动市场从概念验证走向规模化部署。"
     },
     {
-      "title": "Artificial intelligence is coming to medicine. But will it help? - Sudbury Star",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0JzbGlENVZyLUFJd1FwMHVDdjZ5UkNYMkR2MjJTM3BVamxrbmFLSGFJUUxqNkliSWR3MWFfOUFGVC1ScnJNZEVXUEpnZURYWHNRLWo2TzlUOVg5MEwyQjhHd2k4OElTemJCQXZfRzdYUjcxYUUxcmFpTnVGVnVJU1ZJSVBDZXRXbURpNHZtSDBzWlVYUWt2SG1IRE9nMnc?oc=5",
+      "title": "'Artificial Intelligence doesn’t have all the medical answers' - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUkNzTXd2QnduSy1uWk51dmFnaWdPZER3bDYtRlhKd2ptQkdjS1B4V0ROR3JneldaN2RmZGhISjFTUlREWG4zZnhaNEk1cUllSFlCYlo5YW5vSFF0MWNZclZjd3lXQmhfUmdmMXZESjVKQjhVV1BydHJBTWhQTDlEQWRfZW8zcFlkRThlTkZucm51c3pNeC0xYW1iZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-17T17:45:30Z",
-      "summary": "人工智能正在进入医学领域，但其实际效用仍存争议。文章探讨了AI在诊断、治疗规划、药物研发等方面的潜力，同时指出数据隐私、算法偏见、临床验证不足等挑战。专家呼吁在推广AI医疗应用时需谨慎评估其能否真正改善患者预后，避免技术炒作脱离临床实际需求。"
+      "publishedAt": "2026-05-18T10:30:23Z",
+      "summary": "文章指出，尽管人工智能在医疗影像分析、药物研发等方面展现出潜力，但它并不能完全替代医生的专业判断。AI仍存在数据偏差、缺乏常识推理等局限，在临床决策中只能作为辅助工具，人类医生的经验和同理心不可替代。"
     },
     {
-      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbEkxS0Z6QXJFMWY2TVA4WDlPMC1QZlFXR2MtcnRxaHFBZVNYd1VpcDFBSlpWcGc4eVY2b2UwWDBMaXdTYzdWTjhCVTdGRnBJMjhjMmRxZUlyMDdJUWR2ZUpKN0oxdzVMRVo2MzA3Z2w4LWJxTkh1dWgwQTVGYjVLTXN5WmNZYmRtWVQ2U1pZWmppcmVDanZWdklJalh3V0h0SFRQMGp4T3VoM2xtM0s3NlgzMUswcHpfUjZCRXoxTQ?oc=5",
+      "title": "Outlook for the Personal Knowledge Base Artificial - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUndGOU9YNE9Ib2prUVM3NDdzSndaY0lERmRVemo0OF9lT2RuSHNkUTlSX2xKc3dOaTI0YzVLWEJZcVhoX1dUcjF2aWJEbEpSd255N0x4dDkxS084SkprTXJIQ1VhSnBKUXFUUVpSRUJCQng1OGt4Q2pQUVFtYjNCYnVpMmtPRVhiTmtWZS1oQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-17T17:22:23Z",
-      "summary": "在亚利桑那大学的毕业典礼上，前谷歌CEO埃里克·施密特因大力鼓吹人工智能前景而遭到学生嘘声。这一事件反映出部分年轻一代对AI技术可能带来的就业冲击、社会不平等问题持怀疑态度，甚至对过度渲染AI未来的言论产生抵触情绪，揭示了公众与科技精英在AI叙事上的认知鸿沟。"
+      "publishedAt": "2026-05-18T10:11:10Z",
+      "summary": "个人知识库人工智能市场前景广阔，这类系统利用自然语言处理和知识图谱技术，帮助用户自动整理、关联和检索个人信息。随着大模型的普及，未来个人知识库AI将更精准地理解用户需求，成为高效学习和工作的智能化助手。"
     },
     {
-      "title": "AI For Good: Can artificial intelligence become a force for humanity? - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNTM4aW80bC10SENCZDFXVVVic2s1eVR1VmY5Uk55eXRCWnNzM2dKZlM3enFkcW9ib2hVTF9KeThRc3Ixc0NRTmxCNWM2QzZyQWRiZzk1SHk3TzdiLTBCRllsRGVMSm1GTndoMjNDOENraEw1Y09iMWRiVVlZdi1vV0JGUnRtNmlramtRZFRTVG8wUHZhVkhHVnJZTS0zblFTLWRnWExIS0lEdURTaGxSakVrS0xlYmJyQWlyU0kwTUxLb0RW0gHKAUFVX3lxTE9JSnU0RU1uSmFMRGRHeXN5dlZzNGRyY0JrWjhnbHJmMXhBX0RrcngyQWt4VlBfQTVPaF9lM1NjRTVPZmpVTnJCQWhyM2JtYTJXZW9ZZE1oTzk2Q0xENW55SUs2SjlCaFh0LW1MaS1vZE5SR3htZlZYNHJCMi1MTUZRcFdyNFF2UEprZG5KM1lUZUJBS19kcGQ0cVN4aFEzWFVsTFJZZks5ZDFwS2NvdEZlNmNxLXYxVGFZajBmQ1dTek9ZQ3ZTQUhFeWc?oc=5",
+      "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes - AI News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORExaWVlNaUxlVGRoMHd6LTFBV0xXNzFESV9QVndVSUEwZXU5cW9iMC1kWHVlUklmaGhaSHZMTXNlT19RM0hDcDdvRlZIVUVTUHBDTjBhOG9HS0tyWGF4WDZaWUFqTGI1UzFPMDcxQlpWNjFKUVc3X3hPMjBFblVoVWZkdGxldnl3SFItRlN5SDFXQXJlcDhNaGRn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-17T16:55:23Z",
-      "summary": "文章探讨了人工智能是否能成为造福人类的力量。通过分析AI在医疗、教育、气候变化等领域的积极应用案例，强调其解决全球性问题的潜力。同时指出，要真正实现‘AI向善’，需要建立负责任的治理框架，防范算法歧视、隐私侵犯等风险，确保技术发展服务于全人类福祉。"
+      "publishedAt": "2026-05-18T10:00:59Z",
+      "summary": "亚马逊推出全新购物助手Alexa for Shopping，同时将原有AI购物助手Rufus转移至后台。新功能支持语音查询、实时比价和个性化推荐，进一步提升购物体验。此举强化了Alexa在电商场景的入口地位，背后是AI在自然语言理解和商品匹配方面的持续进步。"
     },
     {
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-17T16:32:04Z",
-      "summary": "评论指出，到2026年发表毕业演讲时最好避免提及人工智能。当前的毕业生群体对AI形塑的未来普遍缺乏热情，甚至感到焦虑。演讲者若强行推销AI乐观论调可能适得其反。建议毕业生更关注人文关怀、批判性思维等不可替代的人类特质，以应对技术变革的不确定性。"
-    },
-    {
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-17T16:05:00Z",
-      "summary": "汽车行业正面临一场AI技能军备竞赛。随着自动驾驶、智能座舱、车联网等技术的快速发展，企业对掌握机器学习、计算机视觉、数据处理等AI技能的人才需求激增。传统车企与科技公司展开激烈人才争夺，行业培训体系和招聘策略正在快速调整以应对这一趋势。"
-    },
-    {
-      "title": "Tech giants sued over ‘stealing’ voices of well-known journalists, voice actors to train AI - Capitol City Now",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUzFuak1QT2NSWFRJdmg0SG56ZVM5dzRPNEVyTXZNNkQzdXcxWHJzaFJUOEpvczh1YVJCeXNsT1VsdjFseUV4ZGF0TEJ6R3g5RkN6dlQ1Wm1uQzNiUm1SbGREa2gtNzc3dmlSVmZJVFF4LTNwb3pLRkpMOGVCYU9oME9PYmFhMy00dFcteDhQNnZxSWpiUmsweC1YR0J2ZFQyRE1kdlBjajVFVmt5U3VRZmY2R0NHOHY4b2JmaWR1YlNKMnB5MHBr?oc=5",
+      "title": "AI could make humans less intelligent, warns Royal Observatory - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JUmVublVESGdLUHVucFA4RDM1VENxTmNPbXVzVmg2cU9FYlB3U1VpaFRkUTJURmpvUmltbTdHOWd1MjBjTG12LWtjSkYycC1scjk3NlZvdWJCZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-17T14:58:47Z",
-      "summary": "多家科技巨头因涉嫌未经授权使用知名记者和配音演员的声音数据训练AI模型而被起诉。原告指控这些公司通过克隆或模仿声音的方式侵犯了个人肖像权和版权。此案凸显了生成式AI在声音合成领域引发的法律与伦理争议，可能推动更严格的数据采集和授权监管。"
+      "publishedAt": "2026-05-18T09:33:53Z",
+      "summary": "英国皇家天文台专家警告，过度依赖AI可能削弱人类本身的智能，尤其是批判性思维、记忆力和问题解决能力。他们指出，当人们习惯性地将决策交给AI时，大脑的认知功能会逐渐退化，呼吁在技术应用中保持平衡。"
+    },
+    {
+      "title": "Top 7 Real-time Data Pipeline Platforms for AI Applications - AI News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkVWZHFPSTFPVzBkby1kQ01hTXZTXzVKdjZNU3ZOSW5JMVhaSDJsTjdBTGt0TVNQdlFfcExyVnkzZWJYaFRJekZZMHo5a19wNG82al9kdTF4dmZBeGNuNm1KVVlQeFJ5bGxLZ21jQ2lPOVNDMHRCbjUxNW1BaEdNdDhLdHAzYUg3bnV6TV83ZHFRVnRDQXZRbDEtZ3FBdXgwRkFvanh3NGJqalpqY0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T09:13:56Z",
+      "summary": "文章盘点七大实时数据管道平台，包括Apache Kafka、Amazon Kinesis、Google Cloud Pub/Sub等，这些平台专为AI应用设计，支持流式数据采集、处理与模型实时推理。随着物联网和实时决策需求增长，高效的数据管道成为AI系统落地的关键基础设施。"
+    },
+    {
+      "title": "Major global institutional investors have increased the proportion of artificial intelligence (AI) a.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VV3QwazIxSlMtdnppZHFkczhqU1hHUUh3UWxSajRYTlRBOUZvN2dud21ISVNmUV9ad3FyQjYzeHNpU29MYURZTjEtWTlUZjA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T08:54:07Z",
+      "summary": "全球主要机构投资者近期显著增加了对人工智能领域的资产配置比例，涵盖AI芯片、大模型初创公司及AI应用企业。此举反映出资本市场对AI长期增长的强烈信心，预计将加速技术商业化进程并推动行业整合。"
+    },
+    {
+      "title": "Recently, investor sentiment has been concentrated on artificial intelligence (AI) and semiconductor.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rRktfMEZrMzAyN0FmMUJaOEh1OHoyUjAwa1liNU43TEdYZVI0LXZtd095NWhEcjkyTEtFa2k2UlU2UUlVVmk4Rmt1MDJWam8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T08:54:07Z",
+      "summary": "近期投资者情绪高度集中于人工智能和半导体领域。市场资金持续涌入这两大板块，反映出业界对AI技术商业化前景和芯片算力需求的强烈信心。半导体作为AI基础设施的核心，其投资热度与AI应用落地深度绑定，预计短期内这一趋势仍将延续。"
+    },
+    {
+      "title": "India must aim higher: cost optimization must not define the country’s tryst with artificial intelligence - Mint",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaHl4YlZfYWp5TDdMZGNxY2M0YXI1UWlLUGtIUFhfT3hnZ180U1YwTHBCT2FNUVBSdjBsMndwR1VsQjEzT2ZzUk9pY0d2UnRlUDVIRWVQS3Z3T3RGOGgwZm83S043LTRMekpHdDgwSkkzcnZxZjZpTXEwOEdEX09TUGRCck8wSzhfQ2pEblAzNW4yZkdlTUNMbGdDVkhmVGVLeE1jaHJfSDMyQnNyV3pHMTNCZUFNemM0MnhMaklvVi10dU9RNlNYRHdjUGJnNnVFNndtbVQ1MkpGbVFfTVhNanFRY0hETHRxSHIxa3BsVHl3UWx50gH6AUFVX3lxTE11cEdmSXdlY2RiZnVzV1BmR0t6STJobDdmYkpuZTlmRjN2OC02WmFyU0p0MWM0UG41UGxvRDR0MVVfakUtVDhpdnJ0aTVnWVlENVJSNHlucDIyTTR4cEhoT3lLSWotdDh2eG0wbjNzcW9adWZISk9RRUt5WjhUanA0QWZQNEx3UWZJZGRJWElzQ3l1TEVhcXA2MDhZcEQwWmhVYzVtM1c3MlNKVXJfVWRVaElEV1hRTGZGSlFTTFlwODc0VUtoLVBiM21fbjNQR0JwNTNhMzczdWM1QWhfRkhhejg3WVVwU2g3MWpJRUV5cm9qZzc2OTVBcFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T08:30:15Z",
+      "summary": "印度媒体呼吁该国在人工智能发展中应设定更高目标，不应仅以成本优化作为与AI结合的定义。文章指出，印度若仅聚焦于通过AI降低运营成本，将错失成为全球AI创新领导者的机遇。建议印度加大在基础研究、人才培养和本土AI系统上的投入，以实现从成本中心到价值中心的转变。"
+    },
+    {
+      "title": "Oppstar, Tokyo Artisan Intelligence collaborate on AI chip development - The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2NUJtbDFXcl9HTjBLVVBlOXVEVzRrT29xd2l2aWlOVWhGR0NRX0doQ00ycEtUbWVCdDFwRlJpU09vSWdVS3FqOXVyMzB5OWda?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T08:10:31Z",
+      "summary": "马来西亚公司Oppstar与日本Tokyo Artisan Intelligence宣布合作，共同开发人工智能芯片。双方将整合各自在芯片设计、算法优化及制造工艺上的专长，旨在推出面向边缘计算和云端推理的高效AI芯片。此次合作有望加速东南亚地区在AI硬件领域的自主创新步伐。"
+    },
+    {
+      "title": "AI Agents Turn Open Banking Into an Accountability Test - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWllwbTRGckJKVXFNMG5yVUFhZ0htOHQxSnhXb3RkazVUdm9wWGhoSXVQQUxFWmt0azhzbXRKRll4U1dVdVBfQm5QeG5fS0M2czYzTlp2Y1EwN3JEWkk5SGRldFlEdXFlUlJLZEZKaXNUM0hkT2RnMDNkTXByRmlYQkdIX3NfMFg2cHlTYzJWLXQ2dllNaHI2SFcwUnVfemtrUTQzSzNBVDNXT1BhLTZF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T08:05:07Z",
+      "summary": "AI代理技术正在将开放银行体系转变为一场责任性测试。随着智能代理自主执行金融交易和数据处理，传统的责任归属框架面临挑战。文章强调，银行和监管机构需要重新定义AI代理的行为边界，确保在出现错误或欺诈时能够明确问责主体，从而保障用户资金安全。"
+    },
+    {
+      "title": "From AI to DeepTech: India Innovation Day by TiE Delhi-NCR showcases nation's push for sovereign Artificial I - India.Com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONFRpZDNDdmx3LVBTeG1GVm1qMjl6blFnUXpBNFVqVXRlU3g3eGZpQ0RQNEdkRmdGMUhYbk5xdTZDOUROTS1yTzdtaFNrUDFKTmdEc3BGOHYwM0FVcHNTV1NmbDkwQTduSGhLVi03MW5MOHRWZkRxZWpwSHN4aGk5emVLMU9PTmxvZkR5Q3VCR0VmWGp5Qm4wV1l3aVlyT0dOMG1KSU9qakVCcE41cS1WbzhpdHhoY0lEV3BfSWg0ZVZmLWtDV2pHT0NKOWVqOTBtYmFMMUVTRmptSm9fVVl0aUY2N3c5eGd0U0pLN0RkUVB6d9IB9wFBVV95cUxQVEhSYUJ5S3JiVzRjZVRaZ1hac0JmUTU5NFVjeGFObF9tcFV0M2FQcHFVZXpkdmtheldmblRIcXpvTVFVMjdjV0ZZY25iVExZc3dYZ1B2aVNUY2oxS3FhOTZUbzd2bWkybEJJeXY5N21acTBCdzNpcUs4ZVV3dmE3WWZmeVJGTERhVC1UMEp6T1Jic0F1Y0VkNzFHQWtUaHExZUVOWl9pUDI5bGowOTVjWk5TS212MWhQSUF2R3dvWmR6eGtxLTBUNWt2bk5qN2RtbHhUSm9PVnVZdTNVQ2JzLW11RGNwQ193a1JWMjhUU2d0VGlINjR3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T07:49:56Z",
+      "summary": "TiE Delhi-NCR举办的印度创新日聚焦从AI到深度科技的国家自主实力。活动展示了印度在主权人工智能、量子计算、生物技术等前沿领域的突破性进展，强调减少对外部技术依赖的战略意图。通过政企学研协同，印度正加速构建完整的深科技生态系统，以提升全球竞争力。"
+    },
+    {
+      "title": "If generative artificial intelligence (AI) changed the world of text and knowledge, the industry's a.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wYlRJeGdaeDRzLW5YbDVzdk9xeHkxZzYtcmZJQ0FhYkhUMFZwV0xEazNQei1uSTNhV1F0N1QwY2ZLUm54UnBJd0hjRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T07:19:49Z",
+      "summary": "生成式AI已经深刻改变了文本与知识处理方式，但行业关注的焦点正转向下一阶段——即从内容生成向智能决策与自动化工作流的演进。业界预计，未来生成式AI将更多地与行业专业知识结合，在医疗、法律、金融等领域提供可验证、可追溯的智能服务。"
+    },
+    {
+      "title": "The era of extensive artificial intelligence (AI) experiments is now shifting to a new phase. In a m.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LUU1HMlJVZFFqT1k1SDlLMkJzcUh6aHY5OG1WY0FTR1p4ejlYYkJFQTVPUHdYR2VLTnRhWnl3NkpVSGRUZjFQR1dWTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T07:19:49Z",
+      "summary": "人工智能大规模实验的时代正进入新阶段，行业重心从探索性研究转向实际部署与商业落地。企业不再满足于概念验证，而是要求AI解决方案具备可重复性、可扩展性与成本效益。这一转变推动AI公司更注重工程化能力、数据质量以及与现有业务流程的深度融合。"
+    },
+    {
+      "title": "Generative artificial intelligence (AI) companies are targeting the corporate market by sending engi.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4YkdUQUpCNjNtT3NLdHpHTXNRMWk3RXlyZXpuSTBJdDVHMWVjNzZlOFpWYmN0Nlo2MHFRM2xDcUVrTTFYM3J2dWhCOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T07:17:09Z",
+      "summary": "生成式AI公司正通过向企业客户派驻工程师的方式来抢占企业市场。这种“嵌入”式服务帮助客户快速定制和部署AI模型，缩短价值实现周期。相比通用API，该模式能应对企业内部特有的数据隐私和合规需求，从而建立更紧密的客户关系，推动生成式AI从工具向解决方案升级。"
+    },
+    {
+      "title": "Thanks to artificial intelligence (AI), the threshold for start-ups is being lowered. With the use o.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qeVFPQUI3dy1MLWxRbEhLTUtYRWpTbGtielgzTzRsN0t3Tlo5NVh4TENxcndmSzhqa0FLZWRxQVRXb3JwallfaDZmYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T07:15:49Z",
+      "summary": "人工智能正大幅降低创业门槛，使个人和小团队能够借助AI工具快速验证想法并推出产品。从代码生成、市场分析到用户支持，AI辅助贯穿创业全流程。这不仅减少了初期对大量人力和资金的需求，还加速了创新迭代速度，预计将催生更多由AI驱动的微型初创企业。"
     }
   ]
 }
