@@ -1,97 +1,111 @@
 {
-  "updatedAt": "2026-05-18 14:40:42 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-05-18 21:54:39 UTC",
+  "totalArticles": 15,
   "articles": [
     {
-      "title": "\"Will be brilliant if AI can knead dough, clean table...\": Kunal Kapur welcomes artificial intelligence as assisting tool in food industry - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOclhjMkRWN1haamZjNnVta3FKeVV1T1BzRzZFOUtKNUMtVWFQeE1qd0hfdFdwTkNGaTV2YnU4V19CWnhsNS1WZURVNTZ3dkZ3MkJvdWVqVlRCUXR2MlllaFRZQ2JhajdpNU5ubklGVjV2eUNycDNJRkdtSHhsQ2Z2ZkFCcEM3T0Uxb1pxT21RMEgyUU1FUTFWOUk2aGw1cUw2VVowbmxyb1NXd3VuZTVwRTUxdGhYWVhMX0xmU1FaYkFpLXJUSDIwZGxiWUtRS19PT1IwaE9oNFEtdGpwc0JZR2pDeHAtYm1tQmNkNWlvb1VxWXVFMG0wc1RlWnVhOHMwRUVhQ3lDU0RJMnRaSlpqTnR4cVgzZk1HTk45MDhDZ0ZTYTA?oc=5",
+      "title": "This Nvidia-Backed Artificial Intelligence (AI) Infrastructure Company Is Solving a Key Problem. It Could Easily Become a Multibagger Stock in the Next 3 Years - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0hxeElhLTBBOUR0NmtoUFFXVG5jWlAtd1hkSGpneWhqenBmbHR5Vnp3T2FLZVZfM3RhbExBMC0zNFFtdTlLTWYxa3VKenpHUFBYaXZaekNHQlNKTDZMemd3LTZlS3k1cmxfUkNSSVBYWkxUbGZ3eEh4SHpIcGlUR1FKZ3hSN0NMdjBkdmNyWS1CN1F2TnVBXw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-18T13:37:00Z",
-      "summary": "知名厨师Kunal Kapur对AI在餐饮业的应用表示欢迎，认为AI作为辅助工具潜力巨大。他期待AI能承担揉面、清洁餐桌等重复性劳动，从而解放厨师双手，提升厨房效率与卫生标准。Kapur强调，AI不应取代厨师创意，而是作为协作伙伴，帮助优化流程并减少人力负担。这一观点反映了餐饮行业对技术赋能持开放态度，但需平衡自动化与手工技艺的传承。"
+      "publishedAt": "2026-05-18T21:51:33Z",
+      "summary": "一家由英伟达支持的AI基础设施公司正在解决AI计算中的关键瓶颈，例如算力分配与数据中心效率问题。凭借英伟达的技术背书和市场地位，该公司有望在未来三年内实现股价大幅增长，成为多倍股。其核心价值在于优化AI工作负载的底层架构，降低企业部署AI的成本与复杂度。"
     },
     {
-      "title": "Scaling Intelligence: The Security Foundations Beneath America's AI Ambitions Are Cracking - Council on Foreign Relations",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWhEdWdLNWJMSmZNVW41SHphRm1Ea2ljazZfcGM1dGIySnEzMjVBRUZMRHV3cUloSUR4a013MDNaNWFObkFnN285b2o0ejRENWc0bXQtNjcyTkVCTDhPSm9DelkzdlRKOWtNWHRpY0hqMWpCSkxJd3E2SG5wX2hDSUI5bTNRM3ZHUkF6Y1FnSERLM3c4OURhcW5wMjI3Vy10d3ZiUTdlYlRWYUExc19Vc2h0OUNsejBi?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-18T13:16:21Z",
-      "summary": "美国外交关系协会报告指出，支撑美国AI野心的安全基础正出现裂痕。随着AI规模持续扩展，其底层基础设施、数据供应链及算法鲁棒性面临风险，包括网络攻击、模型漏洞和地缘政治博弈。若不加固安全根基，美国在AI领域的全球领导地位将受动摇。报告呼吁政府与企业合作构建弹性架构，在加速创新的同时优先保障系统安全，否则可能因安全漏洞导致重大战略失利。"
-    },
-    {
-      "title": "New image-based prompt injection attack targets multimodal AI models - csoonline.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEJ2Zk80dVNTUlNaaTNta3NPTDdkYk9IUEJmeHJWVU9xX3ktWXpwVDRHcXpDeDBXd0JPMDg5amRuVDdzMkpjTWZibTZNdkJDVnVmZ2tzTWM3OXoyZWlHaXhFQW5EcUFxUWZxajh4TkV3MnVJYUlISjlUUEdScjhmNlZSeHVnaTBWdm1fZmlMV1d1aXUzWWJCNFNxMHZ0cmpVdlBsZnRCTDFBNjFKSlI5QUI4cXkzQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-18T12:58:35Z",
-      "summary": "安全研究人员发现一种新型图像提示注入攻击，专门针对多模态AI模型。攻击者通过向模型输入包含恶意指令的图片，诱使其生成错误输出或泄露敏感信息。此类攻击利用多模态模型对视觉与文本的联合理解弱点，可绕过传统文本过滤机制。专家建议开发者加强输入验证与对抗训练，并部署扫描工具识别图像中的隐藏指令，以防范针对视觉-语言模型的新兴威胁。"
-    },
-    {
-      "title": "5 ways to curb AI sprawl without stifling innovation - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdG5qVkVnck1xLU02ckFhc3BveWNLMEhKVmljbDVZMTdjYWoxb0xwcVBaQXpPQy1ZX3N1X2xYZ0hUaVQ2U1ZfUXpveDl1MmlpUlNibVZ3NVpiT014QlhwRVVUZk9YVy1OZHRubG9MYVY3cG9lV0NtOVJpOHNtS2Q4REZJWU9OQ2xUU05XeFRiaDlySm5QOXBCWUZSS3UyZERSSmtGT2J3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-18T11:32:57Z",
-      "summary": "计算机世界杂志提出五项策略，帮助企业在AI快速部署中避免混乱而不抑制创新：建立集中式AI治理委员会、优先标准化工具与数据管道、限制未经批准的试点项目、强化员工培训与透明度、定期审计模型性能与合规性。通过划定安全实验范围并实施分级管控，组织可在控制风险的同时保持敏捷创新节奏。文章强调平衡是关键，过度管控会扼杀创造力，而放任自流则导致资源浪费与安全盲区。"
-    },
-    {
-      "title": "Key Trends and Emerging Changes Shaping the Quantum Artificial Intelligence (AI) Market Landscape - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGhWVWZtR0ZjQUNvWE9aOWFxdnEzcHhnUnozUGpaNGF4aEFvQ0NUQ3ppa0N6Zl90NVYyUUlHZHA4dEZyamJwamZxX1dhdm01T3NzS3ctZkpnSEZRLVVOblduZnV5TlllY2poc0t5R0NLbnVNRC1CTHZHaG5yRmVvblo0VDh1Zmk3a1BSMHRwQV9oRXE0N1hVMEg5c1BULXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-18T11:21:12Z",
-      "summary": "量子人工智能市场正经历关键变革，主要趋势包括量子机器学习算法突破、量子计算云服务普及、以及传统AI与量子计算协同应用的商业化加速。新兴变化涉及硬件成熟度提升、行业合作增多，以及政府加大对量子AI研发投入。市场参与者正从学术研究转向工业解决方案，预计在金融、制药和材料科学等领域率先落地。报告指出，尽管当前量子AI仍处早期，但其对复杂问题的求解能力将重塑AI能力边界。"
-    },
-    {
-      "title": "Anthropic to share Mythos cyber flaw findings with global finance watchdog - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcU5wb3BXTVA1SUpZT3ZhSV9CU1REQzN0Um9IczZ1aTktRkJ4Rmp3dHFHYm0yRUZvYVBZU0pPbWdHSzJLZ1NORmZwTXY5V3kzYVNEaU1iOWlqUXlPNV9velJqSjlSbXI2V2dCUE53QVRXejV1ZmlEbWdnOXRPaFdxUjNUMWt5OTYyaXF4NjBZYjRCWTBFamRZaUFGWk1BRWtyVHVKdWF6WkI4VlpEaGxoaTZyZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-18T11:19:00Z",
-      "summary": "人工智能公司Anthropic宣布将向全球金融监管机构分享其发现的名为Mythos的网络漏洞详情。该漏洞可能影响AI系统的安全性，尤其在金融领域应用中导致数据泄露或决策操纵。Anthropic通过内部安全审计锁定漏洞，并选择主动披露以促进行业防御升级。此举凸显AI企业需超越自身产品安全，与监管机构协同构建行业级风险应对机制。金融监管机构表示将评估漏洞影响并推动相应防护标准。"
-    },
-    {
-      "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-18T11:00:00Z",
-      "summary": "韩国初创公司LetinAR正在研发可用于AI眼镜的光学镜头，尺寸仅有指甲盖大小。其专利光学设计通过微结构实现轻量化与高清晰度，有望成为AI眼镜的光学核心。公司目标是为增强现实和AI可穿戴设备提供低成本、大批量生产的镜片方案，解决当前主流光学方案体积大、成本高的痛点。若成功量产，LetinAR将推动AI眼镜从原型走向消费级产品，加速智能穿戴设备普及。"
+      "publishedAt": "2026-05-18T21:29:31Z",
+      "summary": "SandboxAQ将其先进的AI药物发现模型集成到Anthropic的Claude平台中，用户无需深厚的计算科学背景即可使用。该公司认为，药物发现领域的主要障碍并非模型性能，而是可及性。通过与Claude结合，SandboxAQ旨在让更多科研人员轻松调用AI进行分子模拟与候选药物筛选，从而加速新药研发进程。"
     },
     {
-      "title": "Emerging Sub-Segments Transforming the Responsible Artificial Intelligence (AI) Platform Market Landscape - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHJnWkNHUHhMckZ3UzBfWTU3Slp5Z0NnbENseFp1VkIySWROajVqZkFqTC02VE10cGEzWGxUWHFpdWxwSWIwdy14VG5LSTgtc0pYZklTYnA1WkM0cXo5aW5ZR1M3cldkSlQwd0JQUTl2OHBNcm02czNQU09vSmFoalhDY3VoM0VCTEVIR08zQQ?oc=5",
+      "title": "“Yes, AI Chef!”: A Recipe for Insuring Physical Artificial Intelligence - Hunton Andrews Kurth LLP",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0xsQzd5MjJEaEdXRG4wNmREYjlxWXlRRkJmSlVVV3ZjX1JFRzZCdk5BbWNhcDdHUzQtaDdSLVlHTmgyOUVBaTVRWEtqZUM4b3NYZEx4c25wWUw0UjlBdFp0aHNpcGhETzRTVzdYWnlqb0FxbWlNVHpBVEFjLWNkXzl6MFNqNlNGdzlmWnkwV21DR1pkZVFINWI3em8wVV9iRDl6aWk3NURBQnp5bTNISFhBUjlJdzBIUEc4Ng?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-18T10:37:38Z",
-      "summary": "负责任AI平台市场出现新兴子板块，正在改变行业格局。这些子板块包括可解释性工具、偏见检测与缓解系统、以及隐私合规自动化解决方案。企业为满足日益严格的监管要求和公众信任，开始投资专门针对AI伦理的模块化平台。市场参与者通过提供全生命周期治理功能，帮助开发者从数据收集到模型部署持续保持合规。分析人士认为，这些子板块将推动负责任AI从概念走向标准化实践，成为企业AI战略的关键组成部分。"
+      "publishedAt": "2026-05-18T20:32:37Z",
+      "summary": "随着物理人工智能（如AI厨师）的普及，保险行业面临新的挑战与机遇。Hunton Andrews Kurth律师事务所撰文探讨如何为实体AI设备设计保险方案，涵盖责任归属、安全风险与数据隐私等问题。文章提出需要制定专门的保险条款，以应对物理AI在操作中可能造成的财产损失或人身伤害。"
     },
     {
-      "title": "'Artificial Intelligence doesn’t have all the medical answers' - The Herald",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUkNzTXd2QnduSy1uWk51dmFnaWdPZER3bDYtRlhKd2ptQkdjS1B4V0ROR3JneldaN2RmZGhISjFTUlREWG4zZnhaNEk1cUllSFlCYlo5YW5vSFF0MWNZclZjd3lXQmhfUmdmMXZESjVKQjhVV1BydHJBTWhQTDlEQWRfZW8zcFlkRThlTkZucm51c3pNeC0xYW1iZw?oc=5",
+      "title": "Georgia Tech President: AI Is Reshaping Higher Education - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWmd3S1hVWWlYcFo4LWtVN1RRaFNvUDNtLWdIU2xOWURWNmh3VEZmdlhqVmZITFZVUXZoZ0FIcDZ4MUJGQkZsRnBfWHVuQmUwbldycjdPb3MzVlA1ajRwVjFJTlNmb3czMHl4NDl0QW9WUVVZSXBmOG1DSlVBd2hIM2thTUt5NG4yTjR3bmdVN245cm1PZ1MyUDlXeWd5a2pnZlZaT3dhLU96LVJJTG1jWmR2T09hcWFfTmc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-18T10:30:23Z",
-      "summary": "《先驱报》文章指出，医疗领域不宜盲目依赖人工智能。专家强调，AI虽能辅助诊断、分析影像或推荐治疗方案，但无法取代临床医生的综合判断、同理心及对复杂病情的动态把握。AI模型可能因训练数据偏差或罕见病例而给出错误建议，且缺乏对患者社会心理因素的理解。文章呼吁将AI定位为工具而非决策者，必须保持人类监督，并持续验证其医疗场景下的可靠性，避免因过度信任导致误诊或伦理风险。"
+      "publishedAt": "2026-05-18T20:02:04Z",
+      "summary": "佐治亚理工学院校长表示，人工智能正在深刻重塑高等教育格局。AI不仅改变了教学内容与方法，还推动了个性化学习与行政流程自动化。学校需要重新设计课程体系，培养学生的AI素养，同时利用AI优化科研与校园管理。校长强调教育机构应主动拥抱AI变革，而非被动适应。"
     },
     {
-      "title": "Outlook for the Personal Knowledge Base Artificial - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUndGOU9YNE9Ib2prUVM3NDdzSndaY0lERmRVemo0OF9lT2RuSHNkUTlSX2xKc3dOaTI0YzVLWEJZcVhoX1dUcjF2aWJEbEpSd255N0x4dDkxS084SkprTXJIQ1VhSnBKUXFUUVpSRUJCQng1OGt4Q2pQUVFtYjNCYnVpMmtPRVhiTmtWZS1oQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-18T10:11:10Z",
-      "summary": "个人知识库人工智能市场正迎来新展望，该技术旨在通过AI自动收集、整理并关联个人数据（笔记、文档、邮件等），构建可查询的智能知识中枢。关键技术包括自然语言处理与知识图谱，能够理解用户上下文并主动推荐信息。未来趋势是向更个性化、跨平台集成发展，同时需解决隐私保护与数据孤岛问题。市场预测显示，随着远程办公和终身学习需求增长，个人AI知识库有望成为生产力工具的重要赛道。"
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-18T19:27:52Z",
+      "summary": "AI安全公司Anthropic收购了纽约初创公司Stainless，后者专注于自动化软件开发工具包（SDK）的创建与维护，客户包括OpenAI、Google和Cloudflare。此次收购将加强Anthropic在开发者生态中的工具链能力，使其能够更高效地为AI模型提供API接口和客户端库，降低第三方开发者的集成门槛。"
     },
     {
-      "title": "AI could make humans less intelligent, warns Royal Observatory - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JUmVublVESGdLUHVucFA4RDM1VENxTmNPbXVzVmg2cU9FYlB3U1VpaFRkUTJURmpvUmltbTdHOWd1MjBjTG12LWtjSkYycC1scjk3NlZvdWJCZw?oc=5",
+      "title": "Musk v. Altman proved that AI is led by the wrong people - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUJSQl9VN01PQjJpSVRDME1ieWxobi16WGNZa1FDVHZVbEhVMVBqM203bkl5N0p1aWtoYU4wWWRlNUVrNlJrMmJoYnBGaDlfclFDQjlXWXZnTnZTbjdhQ0V3aFdfeVprdWZMTnJiQTM0WXRkcnBsUnoxbldHSXdMQXhKdzBheDJLRXdCZ2UtSXJBY2VYOXFGRmNEbG9DY29QLVZEUzM3c3B4cDc5VXJuM2tSa3M?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-18T09:33:53Z",
-      "summary": "英国皇家天文台发出警告，指出人工智能可能削弱人类智慧。该机构担忧过度依赖AI系统会导致人类认知能力退化，例如批判性思维、创造力和决策能力下降。报告强调，AI工具虽然能提升效率，但若不加节制地使用，可能让人类变得“更愚蠢”，并建议在技术发展中保持人类的主导地位。"
+      "publishedAt": "2026-05-18T19:00:00Z",
+      "summary": "《The Verge》评论认为，马斯克与奥特曼之间的法律纠纷暴露了AI行业领导层的缺陷。双方在AI发展理念、安全治理与商业利益上的冲突，反映出行业缺乏统一且负责任的领导者。文章指出，这种个人争斗可能阻碍AI的健康演进，呼吁更多关注技术本身的伦理与社会影响。"
     },
     {
-      "title": "Major global institutional investors have increased the proportion of artificial intelligence (AI) a.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VV3QwazIxSlMtdnppZHFkczhqU1hHUUh3UWxSajRYTlRBOUZvN2dud21ISVNmUV9ad3FyQjYzeHNpU29MYURZTjEtWTlUZjA?oc=5",
+      "title": "OpenAI Taps Dell for On-Prem AI - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWRwYXpFR2kxYVhkZnhWQTl1bjlXb2Z2ZWpobHpTckJRemhYNVlLVFk2QlY4U0pjSEVHbkVsVEpaM0paUVl6RmhyRVVmdGg4LUFRRExZekdrX2EzalMzQkFPbXZIcDVEM2FzaXBiYmxJUHhoT18zZ3YxYzV3b055OUl6Sy1SNnMyZEZKRnhPeC0za0JRRXV1ZGRn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-18T08:54:07Z",
-      "summary": "据《每日经济新闻》报道，全球主要机构投资者正大幅增加对人工智能领域的投资比例。随着AI技术在商业、医疗、金融等领域的应用加速，投资者对AI的长期增长潜力信心增强，纷纷调整资产配置以捕捉这一新兴机遇。此举反映出市场对AI驱动产业变革的高度认可。"
+      "publishedAt": "2026-05-18T18:07:51Z",
+      "summary": "OpenAI选择与戴尔合作，为企业客户提供本地化（on-premises）AI部署方案。此举旨在满足金融、医疗等对数据隐私与延迟敏感的行业需求。通过戴尔的硬件与基础设施支持，OpenAI的模型能够在客户自有数据中心运行，从而兼顾强大AI能力与合规要求。"
     },
     {
-      "title": "Recently, investor sentiment has been concentrated on artificial intelligence (AI) and semiconductor.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rRktfMEZrMzAyN0FmMUJaOEh1OHoyUjAwa1liNU43TEdYZVI0LXZtd095NWhEcjkyTEtFa2k2UlU2UUlVVmk4Rmt1MDJWam8?oc=5",
+      "title": "Eoin Mulgrew on 'Rewiring the State' with AI - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVFTc0hfQnlsTWxYcEdCTXRkVVZGNTRxWEY1MW5qWUZyWTU4MnRkYVBodXBxVW5lVTZjRGdLdGc0SFZpR05vQmMzbnR2NlBQOElvMjJRcUlOT2t2R1gtMU1rcC10MkJnNWlQQVgwQ0k1aVY2YXFFeHhjTGlKdnVZblk3bkszWl9fRkc4amdWUEdodFREZkNPVGpyVnJpeHJvcWlKbnVxOEI?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-18T08:54:07Z",
-      "summary": "近期，投资者情绪高度集中于人工智能和半导体行业。受AI算力需求爆发及芯片技术突破推动，资本市场对这两个领域的关注度持续升温。分析认为，AI与半导体的深度绑定将成为未来投资主线，资金正从传统科技板块向AI相关产业链加速转移，预示新一轮技术投资浪潮的到来。"
+      "publishedAt": "2026-05-18T18:02:42Z",
+      "summary": "Eoin Mulgrew在访谈中阐述了利用AI“重新架构政府”的理念，即通过智能化手段改造公共服务、行政流程与决策机制。他强调AI可以提升效率、减少官僚主义，但也需要谨慎处理公平性与透明度问题。该观点代表了AI在公共治理领域应用的前瞻性思考。"
+    },
+    {
+      "title": "How China’s Super-App Ecosystem Is Accelerating AI Adoption - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3NTMzh6UE5iODJmamRsTVJXMjcxaC04cVZXeEVwdUcyZ3kxczljbnFBczRDUnRIOG5zLXJ6X0xIUFBkbXRqV1l3YjFNZjdPNXF2TEY1cnlURThLb0NjeGdsQUduM3JCYjJNYmFCMnlSZzlDS0VvdFk2bjRmMXF0TEN6cU15emkxaEp2WldDWW1RWjhxaVVNTXNnQzdqdnRSUS1ONHI4UUlpSlAyVHRLSnFOdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T17:40:08Z",
+      "summary": "中国超级应用生态（如微信、支付宝）正在加速AI技术的普及。这些平台将语音识别、图像处理、智能推荐等AI功能无缝嵌入日常场景，用户无需额外安装即可享受智能服务。文章指出，超级应用的低门槛与高频使用特性为AI提供了大规模真实数据反馈，从而形成快速迭代的闭环。"
+    },
+    {
+      "title": "Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkZpcWhiU2hPd09oOG1uVEFrNE9NS2NFa0YxSzR6dUc2YWhKZXhsNXprZW5GX1FJTTI0eDV1X0dPelphZEVPMEZXRGlTaTNVRlJrY29VYl9IZlh6RTR5aWQybm1uT1RuU1luQkdkOGxWbjhTOEZDVUFXa3dWLTVyTUpTY0Q5em5wcHl4LUFodzFKMkNuWl9z?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T17:37:00Z",
+      "summary": "美国陪审团裁定Sam Altman和OpenAI在与Elon Musk的法律诉讼中获胜。此案涉及OpenAI从非营利向盈利转型的争议，以及马斯克对其领导层的批评。判决支持OpenAI的运营合法性，认为其并未违反原始使命。此次胜利巩固了Altman和OpenAI在AI领域的地位，但外界对治理结构的讨论仍在继续。"
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-18T17:34:43Z",
+      "summary": "埃隆·马斯克起诉OpenAI联合创始人山姆·奥特曼及公司一案遭遇败诉。加州九人陪审团一致裁定，马斯克声称自己在共同创立OpenAI期间受到不公正对待的指控因诉讼提交时间过晚而无法受理。法院认为，马斯克的诉讼已超过法定时效期限，故驳回其全部诉求。这一判决标志着马斯克与奥特曼之间持续的法律纠纷告一段落，但未对OpenAI的运营或AI行业格局产生实质性影响。"
+    },
+    {
+      "title": "Olaopa tasks Nigeria to strengthen administrative capacity amid AI revolution - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXFEUW13N0VCdk9LLVVaRHBSendBNG1ITGJRLVRLTXhzUXVKdHNsSldWTXZIeHBLZXh0TU1VNS1hWEhSUkhRZlNKQXNTU1FQOGNITVdfemVGR2I1eF9QNEljenU5MnV0d1VjWDlvdmN0d0JscG1QSnZKbFdmUnVDcEpXNmhZTnpnRU5tbTBhV0s3VEsxdXVOcUFVWkRFS3hEN3ozdnNn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T17:22:00Z",
+      "summary": "尼日利亚学者奥拉奥帕呼吁政府在全球人工智能革命浪潮中加强行政能力建设。他指出，AI技术的快速迭代对公共治理提出了新挑战，尼日利亚需通过提升公务员数字素养、优化决策流程以及完善监管框架来适应变革。奥拉奥帕强调，若不及时强化行政体系，尼日利亚可能错失AI带来的发展机遇，并面临治理效能落后于技术进步的风险。该呼吁引发了对非洲国家如何平衡AI创新与治理能力的讨论。"
+    },
+    {
+      "title": "AI Stocks Outpacing Reality Amidst Geopolitical and Economic Headwinds - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTFdsVl9NY3dzNEpiYkJENWZ0b0RCRkY0YjlnS0tMN1g4d0FLT1pYMi04MjRiVktxYWNlNlVFdWdVS2t1TTJ6MGx5S3hvYWZ4Tk82TnlOYmUxMU9fQm1fU2E5djU3d2Itd1ZFWDAyWnJSN1M5YjVDU1Baa1BNZ1R3Q3JFVW9lY2h3Wm9DaHRpZ2EzdjN2czFSc1hNYUtwR1N2RVY3dFhJMUR0cERLSmVaaHVuREthMjY3dTdBZHF2TlBzUl9XX0pRUkRfVWlMUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T17:02:04Z",
+      "summary": "分析指出，当前人工智能股票的市场表现已超出其实际业务价值，在地缘政治紧张和经济逆风双重压力下，AI板块存在过热风险。尽管投资者对AI商业化前景抱有极高期待，但多数公司尚未实现可持续盈利，且面临监管不确定性、技术瓶颈及竞争加剧等挑战。专家警告，AI股估值与基本面之间的脱节可能引发市场回调，建议投资者理性评估风险，避免盲目追高。"
+    },
+    {
+      "title": "College students drown out AI-praising commencement speeches with boos — 'deal with it' one speaker fires back as students heckle positive pitches for AI's role - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQk5fWGlSNE42X0h5bUNIV24wV3JwS05VbkdORjdoMl9nQzNhTUxkVlRNRDgtVmtNZVVITy16V0pVc2pTLWJnUkVwSmJpSndGQ09MZVRUUjc1NXlGWVhuYlBMekI0VUdiOWVaWFlOLWMtOEVsOEVmbTlQQjhIZklCdVkxSjB5Yy0wM0QzWWNQTWx1R3pEWXhIT3I2Z2xpNmpsYk9tcURpVWhOMUl6Wkd6a3RMLW9aXzBpdDJPZ3ZkVFBWTDFCeml1X3g1dmR2VHdzMUxqLU1qLTJZNmxHb01UZ0d5Mi1hcW85cU1JVUJsdzhCQW8zLVBuSnhNc1JwWWFxZUxJb19OSWhza21nd2JDOXBRZ2psblVDMF9CT2xLTzVfYjRqQVFpLUx5OVpkNFNNNk1sU0FJQ3o1U3M2WV9LVzRSbi0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T16:33:48Z",
+      "summary": "美国某大学毕业典礼上，当演讲者盛赞人工智能将带来的积极变革时，现场学生报以嘘声表达不满。演讲者随即回击称“你们得接受现实”，进一步激化对立情绪。这一事件折射出年轻一代对AI抢占就业岗位、加剧社会不平等的担忧，以及学术圈对AI伦理问题的分歧。校方事后未发表评论，但该冲突在社交媒体引发广泛讨论，凸显公众对AI发展的复杂态度。"
+    },
+    {
+      "title": "Pope Leo XIV to publish encyclical on artificial intelligence May 25 - Angelus News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCRTVsbjR2TFMtUHNiYVdNcHNCVC1CMC1Pc2wtc2VRazN1OFVjc3hUckV4M2lUVDZTUW91eHFWNmlMNWlYM1p4R1RqVWlCdEc1aVhBNVhsWk9INWRnUFZsWXFJLUNoRGZlTnJLS1JRa1lFRjBL?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-18T16:19:35Z",
+      "summary": "梵蒂冈宣布，教皇利奥十四世将于今年5月25日正式发布关于人工智能的通谕。这是天主教会最高领袖首次就AI议题颁布教义文件，预计将涵盖技术伦理、人类尊严、社会公正及全球合作等核心内容。通谕旨在引导信徒和公众以人文主义视角审视AI发展，呼吁在创新中坚守道德底线。此举表明梵蒂冈正积极介入科技治理议题，试图为AI的规范发展提供精神指引。"
     }
   ]
 }
