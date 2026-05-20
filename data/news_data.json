@@ -1,237 +1,118 @@
 {
-  "updatedAt": "2026-05-19 18:27:04 UTC",
-  "totalArticles": 33,
+  "updatedAt": "2026-05-20 10:38:44 UTC",
+  "totalArticles": 16,
   "articles": [
     {
-      "title": "Google’s Genie world model can now simulate real streets with Street View",
-      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:51:39Z",
-      "summary": "Google DeepMind将街景（Street View）整合进Genie世界模型，能够模拟真实街道环境，生成沉浸式交互世界。该技术可应用于机器人训练、游戏开发和虚拟旅行，让用户探索不同环境、天气变化及罕见场景，为模拟与学习提供更真实的动态数据。"
-    },
-    {
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:51:30Z",
-      "summary": "谷歌在年度开发者大会上发布Gemini 3.5 Flash，这是其最强大的编码与智能体（agentic）AI模型。该模型能自主执行复杂任务，并从头开始构建软件，标志着谷歌AI战略重心从聊天机器人转向能独立行动的智能体。"
-    },
-    {
-      "title": "How to use Google’s new information agents",
-      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:50:00Z",
-      "summary": "谷歌推出基于AI的“信息智能体”，能在后台持续监测特定话题，并主动向用户推送更新与变化提醒。用户无需频繁手动搜索即可实时掌握动态，适用于新闻跟踪、市场监测等场景，提升信息获取的主动性与时效性。"
-    },
-    {
-      "title": "Google Search as you know it is over",
-      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:46:00Z",
-      "summary": "谷歌搜索正在进行重大转型，从传统的链接列表转变为AI驱动体验，包含对话式回答、自主智能体和交互式界面。这一变革可能进一步减少对网页出版商的流量，重塑用户获取信息的方式。"
-    },
-    {
-      "title": "Samsung Electronics' first artificial intelligence (AI)-based smart glass has been unveiled. In the - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YRF9vS3lhQk5oSUdWWmxrZnY0cVVwc0dtd1JtbVF6bEdQOXVIdWNLQnRYaWM4UG43amdIV0lYT1RSVXNUZ29qcXdIbw?oc=5",
+      "title": "OpenAI Expands Global Education AI Push - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHJfSWhZOGhFU3Q5cXhod25iRkVreW5vRG1IQnFuTUgyMVc2TERVTnBuckt6QnlJM3A2cWtjTV94YkxYX3ZwYkhlSzMxT2RJeV96cUtLOC1CLW9YWEs0a19fYmE0QTl5WERpMktuVnFFbUpKUk43U1hpbV9qd0d5YnNfcHVDME9ULTdmOXZQTTlockJfek1fRkEwTGRGaGl4NG56dA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "三星电子首次推出基于人工智能的智能眼镜。该设备融合AI技术，旨在提供增强现实体验。目前具体功能细节尚未完全公开，但标志着三星在可穿戴AI设备领域迈出重要一步，与苹果、Meta等厂商展开竞争。"
+      "publishedAt": "2026-05-20T10:01:42Z",
+      "summary": "OpenAI宣布扩大其全球教育领域的AI推广计划。该公司正通过合作与产品部署，将AI工具引入各级教育场景，旨在提升教学效率、个性化学习体验及教育公平性。此举包括为教师提供AI辅助教学工具，以及为学生设计智能辅导系统。OpenAI强调，教育是AI最具影响力的应用方向之一，其战略重点在于推动AI在教育中的负责任使用，并确保技术能够惠及全球各地的学习者。这一扩张标志着AI在垂直行业的渗透进一步深化。"
     },
     {
-      "title": "Google’s AI now lets you talk to your Gmail inbox",
-      "url": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "谷歌扩展Gmail的AI收件箱功能，新增对话式语音搜索。用户可以通过语音指令让Gemini查找邮件中隐藏的详细信息，无需手动翻阅，极大提升邮件检索效率和便捷性。"
-    },
-    {
-      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
-      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "谷歌推出基于AI Studio的新型网页端AI工具，使任何人都能在几分钟内生成原生安卓应用。该工具简化了应用开发流程，降低编程门槛，进一步推动AI辅助软件开发的普及。"
-    },
-    {
-      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
-      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "谷歌发布Android CLI（命令行界面）工具，支持与Claude Code、OpenAI Codex等AI编码代理协同工作。开发者或其AI助手可更快地通过命令行构建安卓应用，提升开发效率并增强智能体编程能力。"
-    },
-    {
-      "title": "Google adds voice-based prompting to Docs and Keep",
-      "url": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "谷歌为文档（Docs）和记事本（Keep）新增语音交互功能。用户可通过语音指令创建草稿、记录笔记以及搜索邮件。这一更新属于Workspace系列升级，旨在提升办公效率与多模态交互体验。"
-    },
-    {
-      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
-      "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "谷歌推出Gemini Omni多模态模型，能同时处理文本、图像、音频和视频，并通过简单对话生成和编辑视频。该模型以Omni Flash版本首发，展现了跨模态推理与内容创作的强大能力，为视频制作带来全新方式。"
-    },
-    {
-      "title": "OpenAI is making it easier to check if an image was made by their models",
-      "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "OpenAI宣布两项新举措以提升AI生成图像的检测能力：一是加入开放C2PA标准，为图像添加数字凭证；二是在其产品中集成谷歌的SynthID技术。这些措施旨在帮助用户识别图片是否由AI模型生成，增强内容来源透明度，应对深度伪造和虚假信息问题。"
-    },
-    {
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
-      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "谷歌发布Antigravity 2.0，带来更新后的桌面应用和命令行工具。同步推出新的AI Ultra订阅计划，定价100美元/月，提供比AI Pro计划高出5倍的使用额度。此举旨在满足重度用户对更高AI算力资源的需求，进一步扩展其AI服务生态。"
-    },
-    {
-      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
-      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "谷歌推出Universal Cart功能，允许用户购物车跨网站、跨设备同步。该功能旨在解决消费者在不同零售商、多设备间反复比价的痛点，让购物车跟随用户浏览整个互联网，提升购物连续性，强化谷歌在电商生态中的角色。"
-    },
-    {
-      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
-      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "在Google I/O开发者大会上，谷歌推出全天候智能助手Gemini Spark。该助手基于Gemini基础模型构建，并整合了谷歌Antigravity的智能体框架，深度集成Gmail，可主动执行任务、管理日程、回复邮件，标志着谷歌在AI代理方向上的重要布局。"
-    },
-    {
-      "title": "Google updates its Gemini app to take on ChatGPT and Claude",
-      "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "谷歌对Gemini应用进行全面更新，以对标ChatGPT和Claude。更新策略将Gemini从独立聊天机器人转变为多功能AI中心，集成搜索、创作、分析等能力，旨在打造一站式AI服务平台，强化其在消费级AI市场的竞争力。"
-    },
-    {
-      "title": "Google just declared itself a contender in AI design",
-      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "summary": "谷歌借AI设计领域最新成果宣布自身成为重要竞争者，新应用强调低门槛易用性，面向教师、小企业主等普通用户。这表明谷歌正将AI设计工具从专业领域扩展到大众市场，力图以简单直观的交互降低AI创作门槛。"
-    },
-    {
-      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by Year-End. Here's How You Can Buy It Now for Just $50. - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUE1kVkhEWjBVcFdRenZCVkhDUGxoOWxkYU9CZ2EyUmZJS3dhRWlLNVhkVWx6YkJuU3REc0QzZ3FJRDdHYjVJVjlEX3RMbUgwaDZYLTJJYkM1MHlXODlnRVdFNExNVndCQUNRMVdCUVhlZ0txVlZGZEV2OThmY1E5UUhaUkk5MUE2RlZPSF9JTWJjWjJEeVRSc1hyMA?oc=5",
+      "title": "Artificial Intelligence (AI) in De Novo Drug Design Market 2026-2030: Exploring Growth Trends and Recent Updates - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3FSZ1JsTWpwRFlBSjI5VlNPTVNjN0FWaHgtN2thaTVVRXRZYjNrOGhuY2xsYjJ0S3MyZWFBSlB1X2NXS0NCeURaSVgzRTNYX2FYUlJYUVdWdThxaWZkV19OdkMzRUxYMm1tT0ZIYVdoRjFpdDBEaVd2eFZSU3NLQ2xsUUg5b2I0MjVwSF9IRno0QlpEOVZ3?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T17:30:24Z",
-      "summary": "AOL.com预测，某人工智能半导体股票有望在年底前加入万亿美元市值俱乐部。报道指出，投资者目前可仅以50美元的价格买入该股。该预测基于AI芯片需求的爆发式增长，以及该半导体公司在AI硬件领域的领先地位。"
+      "publishedAt": "2026-05-20T10:01:32Z",
+      "summary": "市场研究报告显示，AI在全新药物设计（De Novo Drug Design）领域正经历快速增长，预计2026至2030年将迎来重要发展机遇。AI技术能够通过生成式模型和强化学习，从头设计具有理想药理特性的新分子结构，大幅缩短药物研发周期并降低成本。报告分析了该市场的增长趋势、主要参与者及技术创新，指出深度学习、生成对抗网络和分子模拟等技术的融合正在重塑制药业。传统药企与AI初创公司的合作日益紧密，推动AI辅助药物设计从概念验证走向规模化应用。"
     },
     {
-      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by Year-End. Here's How You Can Buy It Now for Just $50. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1ZJb2JHYVdobC0tdkNTMDltck9PS0djUndWOXZ2T3BCMVA1UllfNzZYNmc0cGdVdGxTMG5TUEhJaUpucUlXOVlod0JQZHZyT1l1cTdiaXFOZURQQjlsWVpyMVlCOHBhYVYtWndYRVNfMjhLQVhUMEpraC1RdklndmZlVUJyMVhBTWNDYWNGVFRLY2MtcEZB?oc=5",
+      "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about - AI News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWl1UGwtakVXZjVrRkNQczhncF9jcTNKQ2pYVTQyeHl2R3c0TkFHNmkyWnJQYkdkX0x0RUNhOGlSMm84V3BQTDR4dm81QXREMUM5UlY4alVSRnphdGJ6c0x6bkJNTWdKYndqcmkxUldQM2FIV25hTHlUQVVsYUpUeV9PVkM2M3VteUxkOHNtZWpzU0VzYkE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T17:06:09Z",
-      "summary": "据The Motley Fool预测，一家专注于人工智能的半导体公司股票有望在年底突破万亿美元市值。文章强调当前该股价格实惠，投资者仅需50美元即可买入。分析认为，AI算力需求持续攀升将推动该公司业绩与估值大幅增长。"
+      "publishedAt": "2026-05-20T10:01:16Z",
+      "summary": "阿里巴巴正围绕AI智能体（Agent）设计专用芯片，这一策略可能改变整个AI芯片赛道的竞争本质。传统AI芯片多面向训练任务，而阿里巴巴的新芯片架构针对智能体的推理、规划与实时交互需求进行优化，旨在提高能效比和响应速度。此举表明，随着AI从大模型训练转向智能体应用，芯片设计也需要从通用计算转向场景专用。阿里此举可能促使行业重新定义AI芯片的性能指标，从关注算力转向关注任务完成效率与用户体验。"
     },
     {
-      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by Year-End. Here's How You Can Buy It Now for Just $50. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1N6THF3YzRSTkJPaEpOVEF1QWtjeWFuNGs3QTdEVndDT3N0S3dCN1NZZ2RBcDZBcUxwRHA0dzNLRFdvNTBaRmNELURPOEFmcXBFcHVPSTFCQl9JN2NGUFJCVGUxczE4UWdDZTg5Zi1la2JwbXoyVnNhZ3Y0Mm94eEcyc0lyQ1JMY3BEUGlvYzdYWDFrX3JMbGJXMF95Sjh2djB1dWtCQm5IdThidGtzbEo1YXMxT28?oc=5",
+      "title": "Google I/O 2026: Gemini AI 3.5 launch, Universal Cart & Intelligent Eyewear revealed - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMWExUm9VbjNiN09iN1k0eHZ2ZHVrU04taUpOLWJ3WTBFb0o5Ni1xUmM4TlY2elhrMmZDS3lyS0hFR3ctZDkyMnl5MHhCZzRXZ1ZXbXdacW5IdHRTSW9kajRwZGdCV2hSQjI3ajRqcVR0ZzF4YWlUd0dkQWNROHFTZEk3UDZkZFUtamI4OU9WeUdxTWdwQUxYSGE1Y2lfWUFpOC0zZEIyTWdjZ2xjbFZUX1JwZUsycnVRNURLNlY1aWJPVmJneWlQU2NjZEU?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T17:05:00Z",
-      "summary": "Yahoo Finance发布预测报告指出，某AI半导体股票将在年内跻身万亿美元俱乐部，当前入场门槛低至50美元。市场普遍看好该股在AI芯片市场的统治地位及未来增长潜力，认为其有望复制英伟达等巨头的市值跃升轨迹。"
+      "publishedAt": "2026-05-20T09:55:01Z",
+      "summary": "在Google I/O 2026开发者大会上，谷歌发布了多项AI重磅产品：新一代大模型Gemini AI 3.5亮相，性能大幅提升；推出“Universal Cart”（通用购物车）功能，支持跨平台统一购物体验；同时展示了“Intelligent Eyewear”（智能眼镜），集成实时翻译、导航和信息提示等AI能力。这些产品体现了谷歌将AI深度嵌入操作系统、搜索和硬件的战略，旨在打造无缝的智能生态。Gemini 3.5的重点是多模态理解和自主任务执行能力。"
     },
     {
-      "title": "Graduates Are Booing Pep Talks on AI at College Commencements - U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYTFwMF94ZXNNUmZOQktTbnQtQ3ZBdzJfSVdyVUlXRnNmd0lHUTZjZFFxWmJqTl9pYzJmRzZRY09OVkdkYWlhQktnaGQxUkNwdUZjOE1NWVE3aVBnazlYeGRWcW1aWDd5d0ZoLWVoVV9HYktPb0RiNkw1dFc1UEswUU5sQ3JIN0tKTFhSY3BxR3pvV3RkTUJodEdqbTRrUjlQaGJza1ZmMU1MSVpPRUVNeXZJRWtBZmVMVVFNaQ?oc=5",
+      "title": "Artificial Intelligence (AI)-Assisted Variant - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2FudEdOMWJiTWxZazRWOFlEQ255eXNrY3dsSU9iV2NJa2wta09pc2FLdWxWVm16UGZpTjNOM2FnRkczUFRwRFdkaTRhRzRMX2hZWDFBMWlPa2FEd1IxNDQ5eDFDOXpDWFltWE9MM3NoLXphdG53VnEwSWRrdEFXeE84Q3ZqZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T16:45:00Z",
-      "summary": "据U.S. News & World Report报道，多所大学毕业典礼上，毕业生以嘘声表达对校方邀请AI主题演讲者的不满。学生们对AI可能取代就业、加剧不平等感到焦虑，认为毕业致辞应更关注人性关怀，而非鼓吹技术乐观主义，反映出年轻一代对AI的复杂情绪。"
+      "publishedAt": "2026-05-20T09:38:08Z",
+      "summary": "关于AI辅助变异检测（AI-Assisted Variant）的技术报告指出，人工智能正被广泛用于基因组学中的变异识别与分类。通过深度学习模型，AI能够从海量测序数据中快速、准确地检测出致病基因变异，辅助遗传病诊断和个体化医疗。该技术不仅提升了变异检测的敏感性，还降低了假阳性率。报告还分析了该领域的市场趋势，包括AI工具与临床工作流的整合、监管进展以及主要参与者的布局。AI辅助变异分析正成为精准医疗的重要支柱。"
     },
     {
-      "title": "Healthcare AI firm Commure valued at $7 billion, raises $70 million - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcnA4ZWdrdTJvQy10VFJGRGhEamV0VGs1NlF6dDkzMF91TzdYeDFrM2g5aHVJQnh5NGY3dmlpbi16OEdSLUFRTHJ5cG5RcGhudDUyS3U3QTdkOEVfLUpzS3gxRjF5Y0xDaEZSZ25BLUhab3l6dFBxcnpDYXItaDdSMFlFZnNEOHYyZ3NOQnpnbEtpa1Z0cnlFeHdpQkQ3RXBkU2hGdFRYRWFNTzktUC02U01MZjdidXRqWUFLOUIwakJnV1BacmZ5RVdBNDhEUQ?oc=5",
+      "title": "Tell us: have you used an AI chatbot to make a significant decision – and regretted it? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTQ4MXJKRkFrUVF1SmF4SVR0OGhkemxWYUxkaWd2THFVVWJBeUdFRWQ4VVJmYzhjYWozSHdHYUhTaTU2bVZIY1ZaZlBvSkdwcGxHcm5tUVYxcHZhbFV6QVdWYnhJbXhMdHcwYW16YnlfbXA4djcwdEo1VmZ4Q2dvZW83V20welZoWnl1MXJfczE3Q2x1ekt6aGhlZy0wN09EYjdTYmdleEMyRThnc3NWUGZNMmNzamVCM3c?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T15:56:12Z",
-      "summary": "医疗AI公司Commure完成7000万美元融资，估值达70亿美元。该公司专注于医疗保健领域的人工智能应用，此次融资反映了市场对医疗AI解决方案的高度认可。资金将用于进一步开发其AI平台，以提升医疗效率与诊断准确性。这一估值水平也表明投资者对医疗AI赛道的长期信心。"
+      "publishedAt": "2026-05-20T08:43:00Z",
+      "summary": "英国《卫报》发起了一项读者调查，邀请用户分享使用AI聊天机器人做出重大决策后是否感到后悔。该报道反映了社会对AI在关键生活领域（如财务、健康、职业选择等）介入的担忧。尽管AI工具能提供快速建议，但其可能存在的偏见、不准确的信息或缺乏情感理解，容易导致决策失误。调查旨在收集真实案例，引发公众对AI决策可靠性及伦理边界的讨论。此举凸显了在AI普及背景下，人类对技术信任度的深层质疑。"
     },
     {
-      "title": "Artificial Intelligence researcher urges responsible AI use at high-level United Nations Forum - MyJoyOnline",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXy1xREV6akhubVdLQmNLOURoTGJfSEltc2RLc1hON3czZUc1YmlnRmo2T0diOGZRMjJKbFNLemgtTUdlczFSOEktWGlvOHZmUW5xZ2xEdG5WV0NnSjRha3VQSHZ3REFEeHVtWEtpelE1bjJ5MFlCcUFsYkdoUlVrRmZJamQ1QTNYaHZhR3I1MHhkd2M5VS1PMmViS0QybmlfdHlOWDRpZ1FmR0R6UmhUdEU0NWJBWWRWcVprUkExN0E?oc=5",
+      "title": "Study Finds AI Adoption Rises as Consumers Stop Noticing It - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDU4TjdCc2tnZnJCUWdWT1Y5alYtYjBhN195XzNsaWdkMzBDZW5IU2lBb2hUMzA4X2hhRFpIT2J5cC1MdzRHTG5NM1RUMTZFalI4UlAzUWxqWmtQdEhBZ0YxUDZiMWJkcHFzWlZCbVUyXzhSdlMxOG1Pb0RzMlE4TTBjZ3VBbU11R3ZYY2FTSWlzb0VvUzlnVFR2MEhNcnRNQ1RrUW1tZzB2ZlBkOXI1bjRjU3dSNG52?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T15:54:58Z",
-      "summary": "一位人工智能研究者在联合国高级别论坛上呼吁负责任地使用AI。他强调，AI技术发展迅猛，但必须建立伦理框架和监管机制，防止滥用和偏见。论坛讨论了AI在推动可持续发展目标中的潜力与挑战，呼吁国际社会合作制定全球AI治理标准，确保技术进步惠及全人类。"
+      "publishedAt": "2026-05-20T08:03:47Z",
+      "summary": "一项新研究发现，AI技术的采用率正在持续上升，但消费者对AI的感知度却逐渐下降。随着AI融入日常产品和服务（如推荐算法、智能助手、自动客服），用户已习惯这些功能，不再刻意将其标记为“AI”。这种“隐形化”趋势表明AI技术正从新奇工具变成基础设施。研究指出，用户对无感AI的接受度更高，但同时也要求更高的可靠性和隐私保护。企业应注重将AI能力自然嵌入体验，而非刻意宣传技术本身。"
     },
     {
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-19T15:43:04Z",
-      "summary": "OpenAI联合创始人Andrej Karpathy加入Anthropic的预训练团队，负责大规模训练运行，这是赋予Claude核心知识与能力的关键阶段。预训练是构建前沿模型中最昂贵、计算最密集的环节之一。此次人事变动凸显Anthropic在基础模型研发上的持续投入，以及Karpathy对AI安全与能力提升的贡献。"
-    },
-    {
-      "title": "The Real Reason Companies Are Struggling to Scale AI - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVluejZVUVN0d1ZBZ3JDVi05WVlFOEotR0lta2dmWEJwUXRhZjk3eW1RSk5EeHA3MWYzVmdJX3YybHpwTjlpZTNsTk9kYndoOFZxNG96aGxYQVRXY1NRSjZkZUMzdlFsbmd5Ukh0T0lsblJGbXhrbDFfaDJOeUgzai1lWkk5REVOc3FjZk5FZ2c3SVJFY19pUktLQkkwc1pCdjlreU1NSVJMQTA?oc=5",
+      "title": "Meta Tracked \"Really Smart\" Staff To Train AI Before Layoffs, Hints Viral Clip - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWFJSelpJbFpVZVNZOHZmZG1MLXItSHhobUVHOGxGNnd1N1FEbzZzZXh3TlU1TnFScW9HRmFybUJxTGNjQjhhMHkwMGpLSVM0RDRPcklFckpsWGRmcDdfQlNCMVZXUEdGMVdXdHlaRnVCNXN1T1FvYXVMMDZRTkR5RUdEN0tUNUhtT0JGQTVmNmFaTS1qX183Tmh2bjlQMVBuOE1hS1M3RnJ3c3VLQ2VqZ0RXaXF1MktMTUN2cnRnM3ZlNmhWNDNoYXdpMzlkWW5yMHF3ZWdzc3l3eVNadXZ2V3NpVFB0RWNUcWfSAfIBQVVfeXFMT09tOVY5SlIxb3A3MnBRSlJnM19NWDlFeklyaWdRNXc4TWg1X2NkMDNQLVJuUFZHNG1ZMWZLRmhYeFNaa1psT0czSTRPNTNXSnhMakJlNE1XajZUSlVtWXUzZ1J4aVVSYnFhSmE1R0xIeGxXcWV4SllveWRxaEFGS3lITTlNSnZ5bWpDU3EtR01kd3ZUQXlfMDVmZ0hON1dhd09ILXBlcXo3eHF2UFlycHp6SjN1ZWNaWEJUa2poV1prcC1iQXVwX3hDRmZpZUhwdDhTUFFRT3h3VEpyeHFHWWotUHNYRUV6U1NCYW9wdlJWbWc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T15:27:44Z",
-      "summary": "企业规模化AI应用面临真实障碍：数据孤岛、人才短缺、技术集成复杂以及管理层对AI投资的回报不确定性。文章指出，许多公司低估了数据治理与跨部门协作的重要性，导致AI项目难以从试点走向大规模部署。要突破瓶颈，需建立清晰战略、培养数据文化并投资于可解释性AI工具。"
+      "publishedAt": "2026-05-20T06:41:01Z",
+      "summary": "一段病毒视频暗示，Meta（原Facebook）在裁员前曾追踪其“最聪明”的员工，利用他们的行为和知识来训练AI模型。报道指出，Meta可能在裁员过程中，通过监控高绩效员工的数据（如内部通讯、代码贡献等）来提炼专家知识，以便将关键能力迁移到AI系统中。此举引发了关于隐私、劳动伦理和数据所有权的争议。批评者认为，这种做法可能侵犯员工权益，并导致知识产权的模糊边界。Meta尚未对此做出正式回应。"
     },
     {
-      "title": "PA-AI Introduces HIL™ The Human Intelligence Layer for Artificial Intelligence - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTWpDeFh6QTBTOVo2MkhDZXN6MTVjYk9ZckVQQnJFdTN1SzYxVkw5NWEyX1ZQRmdMRWUyNEZzSHNscVJiMHhod3NNS2ZBXzhJem4zVlA2UHh1WkRpeHVtR1QxcXgyVFJNcnZyMGhqZ1M0WVJzeTJhN1g4WVpJOGpTTmltelZhZEMzLUJJb3F3ejEzRVVQN3R3eFpKUFcyLTZfeV9DZkpKYm9qRGRqOU04Z2hDWXRaSk1xOFBBdTh6NnNVZEJXVjd5MXI3cDhpZw?oc=5",
+      "title": "The number of regular users of Google's artificial intelligence (AI) chatbot \"Gemini\" exceeded 900 m.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLNXh1eDVkVENFemJVVXIyS1p0ZkkzMjBqWFB1a1N0V3pGWGNLR0ZreXRRNzBHT1YtRGFKYXZocGJPNzIyZ3hhci1tUQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T14:45:00Z",
-      "summary": "PA-AI推出HIL™（人类智能层），旨在将人类判断与AI系统结合，提升决策质量与可解释性。该技术层通过人机协作机制，弥补纯AI在复杂场景下的不足，尤其适用于医疗、金融等高风险领域。此举标志着AI行业向更透明、可审计的混合智能方向发展。"
+      "publishedAt": "2026-05-20T06:35:35Z",
+      "summary": "据韩国《每日经济新闻》报道，谷歌AI聊天机器人Gemini的月活跃用户数已突破9亿。这一里程碑标志着Gemini在推出后迅速获得全球用户认可，成为与ChatGPT等产品竞争的重要力量。Google将Gemini深度整合到其搜索、邮箱、地图等生态服务中，降低了用户使用门槛。分析指出，Gemini的增长受益于谷歌庞大的用户基础和多模态功能（如图像识别、实时信息查询）。未来，如何保持用户粘性并推动付费转化是关键。"
     },
     {
-      "title": "Incyte inks deal with Edison to train AI through drug discovery - Fierce Biotech",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbENMTlR6Z2RPQjdpVTZkdW1PZzRBSTRkWkV6TzMxNnp2ZWFSNUUzVDhKRHdHRnR2NWVGczR4bk9WT3d2NGNLUmd3VTNObFVxUTZzak1ZOEFTcHMtMzFfWC1nOGxVQnpFNXdIeWo3bnF3a3U5WXZpRlB0aC00a3NYTFhNTzJVTFB1bFZrcWcyZ0RyNnBxV2V1WTFiX1JjajJJR1Q1NENaTQ?oc=5",
+      "title": "AI bots are coming and the young are booing, not applauding - Bangkok Post",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN1hQS3haTmE2cEtxMjNUc1VuVTV4LWZfUGpvQVNEVy01RDJOUkhrdDFveDVkUGlxc21Ca2JieTlJSE5fc05zdWROcWRfUlRIUEpwR3dMVk5zMkpEblRFeFc1TGhEbjBXUlhQMWdtTk9QOGVnc29NZTdJeVpVaFF3cElmRWNRazZtTmpOWnZjeE9rRHkzM1BWSmtkMzI2Z3B0cDFTM0NSeFRoMHFsSGVPNW9ScXdsOUM0ZkVGQlFyQk5sa0tYTEZvSnVaeVI?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T14:30:00Z",
-      "summary": "生物制药公司Incyte与Edison达成协议，利用Edison的AI平台加速药物发现。合作将结合Incyte的疾病知识库与Edison的机器学习能力，优化候选药物筛选与分子设计。该交易延续了AI赋能新药研发的趋势，有望缩短药物开发周期并降低成本，推动精准医疗进展。"
+      "publishedAt": "2026-05-20T06:16:00Z",
+      "summary": "《曼谷邮报》报道指出，尽管AI机器人的普及势不可挡，但年轻一代对此表现出明显的抵触情绪。调查显示，青年人对AI带来的失业风险、隐私侵蚀以及人类自主性丧失感到担忧。他们不欢迎AI在教育、社交和创意领域的过度渗透，认为这可能导致人际关系疏离和思维退化。报道分析，年轻人并非反对技术进步，而是呼吁建立更严格的监管框架和伦理准则。这种“倒彩”声音提醒科技公司和社会需倾听代际诉求，平衡创新与人文关怀。"
     },
     {
-      "title": "China Wants A.I. to Flourish, but Not at the Expense of Jobs - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84SDFYdDgySDh3Si14SDJ4ZElTQWsxUE9vQ2Vva1M1TWRRVWtDR2luS0JqdUl2VUxUdDZuQ2xhMmdtWTVUMGJiMWZTQnh6Q25xYnhVTXpYdktyN2x1anYxbm5SbTVXT21UaEVna2FDcEpTYzhWNWhPQUdB?oc=5",
+      "title": "The Genomic Variant Prioritization Artificial Intelligence - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUUxQlM5d3BuVGh3QlAtdXZSZUVVbG1oWThhSXhoOURjWE11NGkzTkFUMzFIUm4wbkJRSWhSUmlmZUVqc1Rnc21aZi1TY0Q4VlpHR2xNcktwblQyMlVCdVVCR09maTFBejAyZ1ZFV25wdndVcGRIUmJTSVpId2VVOXMzanpiLWVNV2JsNHkzWUtXU1NrQVFzZVdR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T14:29:11Z",
-      "summary": "中国希望在促进AI繁荣发展的同时，避免大规模失业。政府采取审慎策略，通过技能再培训、社会保障体系调整以及扶持新兴产业，平衡技术创新与就业稳定。文章指出，中国AI应用场景丰富，但政策制定者优先考虑社会公平，而非单纯追求效率提升，这与其他国家形成对比。"
+      "publishedAt": "2026-05-20T06:07:04Z",
+      "summary": "该新闻介绍了基因组变异优先级排序人工智能（AI）的应用。该技术通过深度学习算法，从海量基因组测序数据中自动筛选和排序具有致病潜力的基因变异，帮助研究人员和临床医生快速锁定与疾病相关的关键突变，从而加速遗传病诊断和个性化医疗方案的制定。"
     },
     {
-      "title": "Pope Leo XIV's First Encyclical to Address Artificial Intelligence and Human Dignity - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ29RbHdnMW9UOVY4UGhJSnFtOENvR0NCajdva0ZBTkhnSnBaRGFHUlkzX0QtU3IwWlR0eVFCaGJIdG1hUE9nMGVEc1ZCeFNUOWRFX2FOQzZqcnNMSUY3SU90MzBkdU43SVZ0bjlveVhDNDJCVnV1WTZTTzRiWUsyQ3VsRTgwMW5IVnRBbG9RblZQMXdTSzUxRHVsTQ?oc=5",
+      "title": "As the AI Golden Time, in which artificial intelligence (AI) thinks and acts on its own, has begun i.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jU0Y1Z0lDUTdtY1hFMGdDUnJsSmdBaXJURXdvTEhkc1puWFlDRXZUNkRzMkxDcUhBNS15aDNXOFBQaUhXenFkRmRydw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T14:00:00Z",
-      "summary": "教皇方济各（Leo XIV）的首份通谕将聚焦人工智能与人类尊严，探讨AI发展对伦理、社会公正及劳动的挑战。通谕预计呼吁技术开发应尊重人类基本权利，防止算法歧视和自主武器系统带来的风险。此举显示宗教界积极参与全球AI治理讨论，强调技术应以人为本。"
+      "publishedAt": "2026-05-20T06:04:35Z",
+      "summary": "韩国媒体指出，人工智能已进入“黄金时刻”——即AI能够自主思考并采取行动的新阶段。这标志着AI从简单的工具向具备自主决策能力的智能体转变，未来可能在工业、医疗、金融等复杂场景中独立执行任务，对传统工作流程和社会结构产生深远影响。"
     },
     {
-      "title": "AI-powered technologies redefine workplace productivity as businesses embrace automationn - Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRU1ObGotZE4xQXJMU1VYVVJMTE1BTDdqWC1nLTlsR0xGLTJMdnQ4SENTZGFRVmF6MEFNNHo2SmVWUk5jXzNldzRtaVhDdmg0SE1ZRXZuMWJTa3V2OXpSRkZFU3dhdDBsUDU5ZEtVZFgtYTkzenRkYlJZSFlvT2Z6V2hsTG9sRWt0Y0NIOW1TY1RLWUVnOWZWVmVvcjE3a1c0UWlwOElZRzhQMndZRmkxSXJEczRrTXJJNElVS2hzTEtvalZ3M3VWcVdmeko?oc=5",
+      "title": "Market Size, Share, and Trend Analysis Report of Artificial Intelligence (AI)-Driven Network Operations by Product - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWUyTlc2NDBBTnluSlFhQlhvcmd6UTlQNVcwVTVXRWZVanI3ai00RXcwT1VuaGFJVkxrdDhkQ0ZCYkUxd1Q3Mm9ETEI0SUctVkFyVG1seTR3dzQwXzlWSXk0U1JEa3p3ZmdlMjFVZm1pVnMzTnJEQjRRdzR0LVdCRnJ0OWhOQnR5ZTdVQl85XzRWc3p6MG9Gdw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T13:26:35Z",
-      "summary": "AI技术正重新定义工作场所生产力，企业积极拥抱自动化以提升效率。从智能客服到流程机器人，AI工具帮助员工处理重复任务，释放创造力。然而，企业也面临员工技能转型与数据安全挑战。报告指出，成功部署AI需综合考量技术适配、组织变革和人才培训。"
+      "publishedAt": "2026-05-20T05:12:43Z",
+      "summary": "该报告分析了AI驱动的网络运维（AIOps）市场规模、份额与趋势。报告指出，随着5G、云计算和物联网的普及，利用AI进行网络故障预测、自动修复和资源优化成为主流，推动该市场快速增长。预计未来几年内，各大电信和云服务商将加大AI运维投入。"
     },
     {
-      "title": "Artificial intelligence tsunami hits Cannes Film Festival sparking fierce debate - Indy100",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0aXhidTkyYTdQZjl3TTItdm5PTnNaWklkMGRRNVpNWHRtQk9GWV9xUlFQNkNKb3RTOXBvbjJteHRrUVJoWWZGd0RUTGU4UGVkdFBDMTBJNmRVdGVmVi13MHdvLUItZUdjSXdCX1RnYkZ3cmZTQmVCSA?oc=5",
+      "title": "Artificial Intelligence (AI) in Trusted Computing Market: - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmJSUm5HdkNkSE5WN0hsRk5Hd0pGWklNdzZ3c1ZlMkFDV1JGQmI5NVRrTFRWY3kyQnlGUUllRWNocTJwLXRnb184UGtSdVdhVUE4bkJWZGdwNXlYVWZjZ3pqZW8wWUJyeDJndVF0Qk5rMHRjMXkwcFRicU1LSzVyNUUwUDZ2Zm9RUnZvbWtUMURkV2xy?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T13:12:16Z",
-      "summary": "人工智能在戛纳电影节引发激烈辩论，被称为“AI海啸”。制片人、导演和演员担忧AI工具可能替代创意工作者，侵犯版权或影响电影艺术本质。也有与会者认为AI能辅助剧本写作、特效制作，降低门槛。电影节成为行业探讨AI对影视产业深远影响的前沿阵地。"
+      "publishedAt": "2026-05-20T05:11:23Z",
+      "summary": "本报告聚焦AI在可信计算技术领域的市场应用。可信计算通过硬件和软件协同构建安全执行环境，而AI的引入进一步增强了威胁检测、身份认证和数据隐私保护能力。报告估算了当前市场规模，并预测随着零信任架构的推广，AI在可信计算中的渗透率将持续攀升。"
     },
     {
-      "title": "Pope Leo approves creation of interdicasterial commission on AI - The Catholic Register",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUI5S2R5YTBsdHlDN29JSy1DaGRKdHNWdWs3WGc5LXRiN1pBZVN4QURkYURYc2RnRU1oVjVqQVZ3R1huX0ZXakt4UVQ1bHlXVTVkdWdaSC05c2lXUTlPM3FnQlRNa3dMb0ZFeUNiaVNTUkdTck01aEljMXQ2a2FFZTdRZGE1T2UwLVk4ZVd3Tmt0WFV5ZjRNVWZNb2RveENubW9veVNJU013dw?oc=5",
+      "title": "Google's AI Boss Hints Bots May Surpass Human Intelligence Soon - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQM0l4cWlsYTJ6ekZxeENsTWF2WHVNMXloZ0wwdG1aVHNISjBIYnBFNzNQMUZwYmgyYm5ndkItWjhpblpjY3VGUmdtQl9vRVdDU0hUWHF3UzVCYWw5V2daTzRYR0pBRUh2dXd1anJWVVk4cVNFYVZRMUNGdTNaUUtrdVpmVkluRHRCRDZaR043N2puU3JTUnhrV3JrRmc1amxZb0lQZlphVlg3aThjeVV3bUFNYjNLYi13amJUR2w5aElfcm9IeDlzZG5UcllJczhiTm9ZNkpFaFczRHBlVXo0aGRROFEzMmRETldrallyMGFTZHdVU1dGUEFSY9IBgwJBVV95cUxORzNwdmZ0eUFPY2NEbVpKWHUyYjhqbnFiOTl3ZVc0Uk1UVlNuR1FxME1KdEZHbDdldWxlQW5TQVEtb1pISmZHQkxxQWpYZ3lSVFdTWmdTVV9NYU5YdDZKWEJ5amlmZ1J6TEhmZGFhMElBZFI1bjhSQklGV0Mwd3BKMXh4YnpMNjNPVm8zSWRBT2djUnVISms4S09ZbXpZU3BlanVoRTktdFE1dDUxNTFMVGVvektpQ3JRQ0JKNmJEWlZrcC1aYm4tbEpBVENtbkw0OGZ4aWxXeDBDa0xSRGpZQVhCb0cxb1RyeHh5Zlg0dTZ1U1pfUzAxTTU4c3VlbGFiTG5J?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T12:43:30Z",
-      "summary": "教皇利奥批准成立人工智能跨部门委员会，旨在协调梵蒂冈各机构在人工智能伦理、法律和社会影响方面的工作。该委员会将整合教廷多个部门的资源，研究AI技术对人类社会、道德和宗教的深远影响，并制定相关指导原则。此举体现了天主教会对AI技术发展的密切关注，以及希望在技术快速演进中坚守人文与伦理底线的态度。委员会将重点探讨AI与人类尊严、隐私、就业等议题，为全球AI治理贡献宗教界的视角。"
+      "publishedAt": "2026-05-20T04:57:37Z",
+      "summary": "谷歌AI负责人在采访中透露，当前AI发展速度远超预期，未来几年内机器人可能超越人类智能水平。他强调，虽然AGI（通用人工智能）的突破仍面临挑战，但大语言模型和强化学习的进展已使AI在多项认知任务上接近或达到人类表现，需提前应对伦理和安全问题。"
     },
     {
-      "title": "Former Google CEO gets booed at graduation ceremony over remarks about AI - Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1BJam1xVWNnNFh1R2I1akwtNjJMN2NsSGx0UGRRQ3h5RTNnSC16NXNoN2RmRHNuOVVzNmpzUkU4Ujg3UDgxNG53eFJTaFZiUUE3bE10WWJ6SHpsV0Etb2FTck5sWlNOSUdETTU5WHRMS1FmSUJiR0tSa0diRmVWcEJqMV83UFFuU2hISUQxRHdESjVKeWlENGREWGJkbU9MOWNTLVlpWHFzQzBFRWp1QUt1akw?oc=5",
+      "title": "Artificial Intelligence (AI) in Insurance Market Size, Share & Trends, 2035 - Market Growth Reports",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbTRvWExRWU0xZTRpMGV3c05TMFhxcjFVaW1RVC1qREhOVmtkTWptWHBNbXpCVDB2a0xkbm15TnR2Z2dNUk1SbWZ5c05Fci1nWWozaVBOVS1KalplbDJXRFNQeVVEVm1YbG9ReDIyRkp0NXUxT09WeTdkdG9KTkVOVHctY0JLQ3JqTDZBWUNkYnpiNTljYV95eE0yZEtVQlN2VGcyMGNpWQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-19T12:42:39Z",
-      "summary": "前谷歌CEO埃里克·施密特在大学毕业典礼上发表关于人工智能的言论时遭现场观众嘘声。据悉，施密特在演讲中强调AI将深刻改变就业市场和社会结构，并呼吁毕业生积极适应技术变革。然而其某些观点可能被认为过于乐观或忽视AI带来的风险，引发部分听众不满。这一事件反映出公众对AI态度分化：一方面期待技术进步，另一方面担忧失业、隐私等问题。施密特的表态再次引发关于科技领袖应如何负责任地讨论AI影响的讨论。"
-    },
-    {
-      "title": "Cyber Security & Cloud Expo Europe 2026 - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMVhTYzJqTVh6M3l5aEg3MmRTc0ZMUXRWV0tHY1VrYnN2VWxYYnJQTUpjbm83bDEzbzFzWE54d1MxWHViV0kwR2I2R1FHdHhDN1hfaXdURzhzOEpIa0FBdmpndjJnd0VfN3JlWFFXSUw0ckVNang3VDNQMlR0NjRqTktuRE9PYTMzSnc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-19T12:30:49Z",
-      "summary": "2026年欧洲网络安全与云博览会将于欧洲举办，聚焦网络安全与云计算领域的创新技术与行业趋势。作为专业展会，它将汇聚全球顶尖安全专家、云服务提供商和企业决策者，探讨AI驱动的威胁检测、零信任架构、多云环境安全、数据隐私保护等热点议题。博览会设置主题演讲、技术研讨和产品展示环节，旨在促进跨国合作，应对日益复杂的网络攻击和云安全挑战。活动将推动企业数字化转型中的安全策略升级，为欧洲乃至全球网络安全生态建设提供交流平台。"
+      "publishedAt": "2026-05-20T04:51:00Z",
+      "summary": "这份市场报告研究了AI在保险行业的应用现状与未来趋势。报告指出，AI正在重塑承保、理赔、反欺诈和客户服务等环节，通过大数据分析和自然语言处理提升效率。预计到2035年，AI保险市场规模将呈现显著增长，驱动因素包括数据可用性提升和监管逐步明确。"
     }
   ]
 }
