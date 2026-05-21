@@ -1,153 +1,69 @@
 {
-  "updatedAt": "2026-05-20 19:56:00 UTC",
-  "totalArticles": 21,
+  "updatedAt": "2026-05-21 11:56:32 UTC",
+  "totalArticles": 9,
   "articles": [
     {
-      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-      "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20T19:47:20Z",
-      "summary": "由吴恩达（Andrew Ng）投资的创业公司IrisGo，推出一款名为“AI桌面管家”的智能助手。该产品能够持续监控用户的桌面操作，通过自动学习用户的日常行为模式，逐步掌握并代为执行重复性任务，如文件整理、应用启动等。其核心技术在于无需手动编程，即可通过观察完成个性化流程定制。IrisGo旨在成为用户“从未察觉自己需要的桌面伙伴”，标志着AI辅助工具从被动响应向主动服务的演进。"
-    },
-    {
-      "title": "How Artificial Intelligence is Shaping the Future of Global Sports - The AI Journal",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFJxTFFHM0F2aHM3M0FUcFAtY3lfQnNnTF9kYktSWkVHMmNIUGpmUXVRdkhZOWZxSHFXS1NRcDBuMmttWXk3eVNqU1lNRHBwcjlvcHI4QjVaOHBUczdpM1J5bnZzVExVRUV6WTIxejNsNWVHRS1ROFNhVGtPMVZrLXpDbHVYUThaMHdiaXZFVEQ?oc=5",
+      "title": "UP govt plans nearly ₹600 crore investment to strengthen AI ecosystem - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSVJwaW9BTC1vTE5RSzB2RlRnTUhzQW44cmY4bG5TdVBnZFBrRVlpanhSdENzVHpiZDBuZmRDWXNvR3FaZHg1dERtUmo4NDJ0VV9DWExsY29BVXVnOVhGMGY3dFlCRi1YdkZUcDc2WllIUENFV1hRVVRfaUxlTjlvY0VmQllHSV9ja1VhbTlnQWtvMWhnWW1hMy1ZVFBHc0xQNGktZEpKN0RUOEUyT1BVNHFkbk5DeU04TUQxcm42eG96VEFGZE9pTllMVWJQQWJDM0HSAdcBQVVfeXFMUGNBalZpdFFUVXB2LTNSRjdVN203RHYycTI4VkIzVzdud0xFM0xFN25hMWQ4OHpkM3FVUzlIS0hQblIwZzhfS216OHNHQUdBbU15cTF6T1ZlOHhuMUpVdnI0ZV9MTXRpY0thM1hVbHVtOE51U002LTh6OURSaGt2dzRyOWVTV1VNaFh1UFh4U09rSXBOQkwtWlZqYktqeGVXMEc3MHlKdUFqNkZDaDZtNEFfaGRHaHpHbTBTZWJUSlptalpyZmhpNFNmMjVGdjlyRUJJTWVncGc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-20T19:36:29Z",
-      "summary": "《The AI Journal》刊文探讨人工智能如何重塑全球体育未来。AI通过分析海量运动数据，优化运动员训练方案、预测比赛走势、辅助裁判判罚，并提升观众观赛体验。例如，计算机视觉可实时捕捉动作细节用于战术分析，机器学习模型能评估球员价值与伤病风险。同时，AI在赛事转播中自动生成精彩集锦，为体育产业带来效率与商业价值的双重提升，但也引发数据隐私与公平性的讨论。"
+      "publishedAt": "2026-05-21T11:10:58Z",
+      "summary": "印度北方邦政府计划投入近6亿卢比（约合人民币5.2亿元）以强化人工智能生态系统。此举旨在通过建设AI基础设施、推动初创企业孵化、促进产学研合作及培养AI人才，将北方邦打造为印度AI创新中心。该投资涵盖数据中心、研究实验室及技能培训项目，预计将加速AI在农业、医疗和智慧城市等领域的应用落地，进一步巩固印度在全球AI竞争中的地位。"
     },
     {
-      "title": "AI is interviewing thousands of Kiwi job seekers — so I gave it a try - 1News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmFNM1FJNV94SG9ZTlZWQ0FDaXNvNWQyR19vVm1BTl9DalpZZm9PNTVWR3NVN3dUUEk1bXEtQnBtNlptUXJzU2l6WE1JOXFpclNGQnFFVFcwRVA2SlRmWmlpbVlUMnc5b01UbTJSbFZQcDJkWGxlSF81WW5OeXhmQUFkbzFXWTZVNlZvdTJuSXp5aHlRODJOWFdSRTJQTDVQOVUwcU5R?oc=5",
+      "title": "Visual-Inertial Odometry Artificial Intelligence (AI) - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDhvM18tdS03LUYzNzNOUGpPZ1I2QXBIMm5SdFdUY3RuRm5fampfVjFfN0VBeUhPYUJyRkxjSkxraEtwYVdDMHBjeTRta0JfaDBmQTY0dEdWakJVd0JpRmlGNm9LbFVFVmFkVWxJc1NVOTkxWnZubGo0WldWYkphdGlBRmNrQ0RJUmpsaFJHam0?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-20T18:40:52Z",
-      "summary": "新西兰媒体1News报道，数千求职者正在经历由AI主导的面试流程。记者亲身体验后发现，AI面试系统通过分析语音、表情和关键词，对候选人进行初步筛选。系统能同时处理大量应聘者，大幅缩短招聘周期，但会因算法偏见、无法理解复杂语境或文化差异而产生误判。报告指出，AI面试虽提升效率，却可能忽略人类软技能，求职者需适应这种新型评估方式，而企业也需谨慎审核算法的公平性。"
+      "publishedAt": "2026-05-21T11:03:31Z",
+      "summary": "视觉惯性里程计（Visual-Inertial Odometry）AI技术迎来新进展。该技术融合视觉传感器（摄像头）与惯性测量单元（IMU）数据，通过AI算法实现高精度、低延迟的自主定位与运动估计，尤其适用于GPS信号弱或室内环境，如机器人导航、增强现实和自动驾驶。最新研究聚焦于提升算法在复杂动态场景下的鲁棒性，降低计算功耗，推动其向移动终端和嵌入式系统渗透。"
     },
     {
-      "title": "Artificial intelligence was supposed to reduce prices. Instead AI is boosting inflation. - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYXNrOGg3ZkdpNEdsOVJOZ01hN1RReHZDZzBWV1h5eFpIZHVtTkN0eEJ0YnFCRDVaUUhOR21oT2lnNWFaUmtJeldhdlc2QVNTRWJJMHNHelJMdEM2NmhKV3E1OG9vVlI5ZVRPTzIwSDJZaktaSWpYMWtrTlNkSDZwTkNMXzVCbFdBYjM1Y0huM3pRRHZha196ZFI3OV9zcGRWakRsLTBsMjJyQ1JrcWJvckNVcFE3b2ZybmQwN3JiWVRraVhXVlVSMA?oc=5",
+      "title": "Filmmakers stress creative benefits of artificial intelligence at Cannes’ Kling AI panel - Screen Daily",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNXzNmR1VTT1I3SmJ5V3JOeXFBNXgxSUY4cmY1N0ZDODdnNWc0ZmVjaFJERjlFWWRsblJ2MEUxTWhqdEo1cWlhNjJkSmJPa1Z4MU40Q285WUQ3cVM5VjBKdUJtREhKbURzV2NJY0c2X2VnSldSUDV5ZmxtNEMzZXE5RGNUNDlicElVN28xdllBb0lkWWpMVC05ZkxCQVJPVUNfYXZseDZlVTFpbkEyRU1KU3o2U3dNUm9wam40ZjdQTmM5Nlh3WGdKWm5pNDlUemc4dS1ObW9ubzFucnBBR1Aw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-20T17:51:00Z",
-      "summary": "MarketWatch发文指出，原被预期会降低成本的AI技术，反而加剧了通货膨胀。原因在于：企业为部署AI投入巨额硬件（如GPU）与能源成本，并将这些开销转嫁至消费者；同时AI驱动的高频交易与定价算法可能引发市场波动，推高商品与服务价格。此外，AI替代人工导致部分行业薪资下降，但总体需求未减，形成结构性价格上涨。文章警示，AI的短期通缩效应可能被长期通胀压力所掩盖。"
+      "publishedAt": "2026-05-21T10:08:36Z",
+      "summary": "在戛纳电影节Kling AI专题研讨会上，多位电影制作人强调人工智能对创意产业的积极影响。他们指出AI工具在剧本生成、视觉特效、剪辑和声音设计等方面能大幅提升效率，降低制作成本，同时激发新的叙事可能性。与会者认为AI并非替代创作者，而是作为协作伙伴，帮助艺术家突破传统技法限制，探索超现实影像与个性化内容生产，但需警惕版权与伦理风险。"
     },
     {
-      "title": "DataDome Launches a Virtual Waiting Room for AI Shoppers - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dxcHFfY2Q5MHJBcUhWMUdBUzVXWGRCaFRBSFlkT2lnQ2JxWjBwcG5idWZld2FSd0ZCbFRVUnZEVzVsQmxPWWV3T1FfelhHRC1YM2U5cjVhUEUzd2N2MDVlaFBZTnBvSEdkMFdOUXFvWVJOejlDdFd2aGNNZ2Z0U0xuYkpLd0l1aHZtdGJIRXFJVGg1ZEZSX0lHcHBTeVVQS3NRcFE1eWxwUWF2cVUtag?oc=5",
+      "title": "Telemedicine Triage Artificial Intelligence (AI) Market 2026-2030: Exploring Growth Trends and Recent Developments - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUZzZzd3Z3BueGJaQzdmSmR2MVF0LUx3UGlld2tlcFlLSWJjQ1JlQTNtYTJjQ1lqYXVDSWFMZHdNRnhfekpaNVY0RVRMY2pfNHpNMU9lc3BRTmhDTzF2RC1BTV9VWVRBOUdaX1ZaOXprRW5UVDRLamVicDRyUUZ6TXR1TTRTbFN3TXcwRmowWmJ2Tjg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-20T17:44:13Z",
-      "summary": "网络安全公司DataDome推出专为AI购物机器人设计的“虚拟等候室”，旨在管理电商平台上由自动化程序（如抢购机器人）产生的流量。该技术通过行为分析识别AI购物者，并将其导向排队系统，确保真实用户获得公平购买机会。此举针对黄牛使用AI批量抢购稀缺商品的现象，保护正常购物体验与商家库存。DataDome强调其方案可无缝集成，在不影响真实用户的同时，有效缓解服务器压力。"
+      "publishedAt": "2026-05-21T09:38:23Z",
+      "summary": "远程医疗分诊人工智能市场（2026-2030年）研究报告发布，揭示了该领域强劲增长趋势。AI分诊系统通过自然语言处理与机器学习分析患者症状、病史和实时数据，能快速给出初步诊断建议和就医优先级，缓解医疗资源紧张。报告指出技术进步（如多模态AI、可穿戴设备整合）和远程医疗普及是主要驱动力，预计市场将保持年复合增长率超20%，北美和亚太地区占据主导份额。"
     },
     {
-      "title": "OpenAI barrels toward IPO that may happen in September",
-      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20T17:24:24Z",
-      "summary": "OpenAI正加速筹备首次公开募股（IPO），最快可能于今年9月进行。此前，埃隆·马斯克针对OpenAI公司架构、领导层及财务问题的诉讼被法院驳回，为IPO扫清了主要法律障碍。报道称，OpenAI已重启上市准备工作，计划通过IPO筹集资金以支撑其大规模模型训练与商业化扩张。此举将使其成为最具价值的AI上市公司之一，并可能加剧科技巨头的AI投资竞赛。"
-    },
-    {
-      "title": "AI Boom Pressures Fed's Bond Market Stance - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmdyWXpKZXNQMXBGdWw3WC1tN0Z1cjdmaXJZT0FMQ1RESUgtMmJiTUU4cC1IRTdOakJ6T2RiVHFKQlhTVkxQbndIN0dwWE1FNTBITEdmVXA5WWRVMlVmUHE2dHRxNHlfR3VZanVYZ2VtVW9ERnFTNTRqWkNURjFDZERsQTg3bFBMZXRFYnJtT1VqVjVsb19OUnphR1p3WWRmdURXMkUycnA?oc=5",
+      "title": "The Great Rotation Created a Rare Buying Window on the Nasdaq. Here Are the 2 Best Artificial Intelligence (AI) Growth Stocks to Buy. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekl0aWpianM0ZDNBcUwwbGp2cE9MajlNNHBMVFdkOHV0dXZKUWV0SzFrZ1l2QzMtNFFSbl9rT2lHd1A5N1BfN3d1VTJfZWNTVlo3WWh2QzFNcDJlcF9sLXMtXzl2aVFxbzRYX2FoX1ZYVm1sbFRWTGNHVlpRRDhObXlRNWt5YVQ3cEZxazdQVnc1SkQ3NWtqMQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-20T17:02:31Z",
-      "summary": "AI产业的迅猛发展正对美联储的债券市场立场形成压力。StartupHub.ai分析指出，数据中心、芯片制造等AI基建需要大量融资，推高了长期利率预期；同时AI驱动的自动化可能改变就业与通胀格局，影响美联储的货币政策调整节奏。投资者预期美联储将被迫维持高利率以抑制由AI投资引发的过热经济，但过紧的政策又可能抑制创新。债券市场因此陷入对AI长期影响的博弈之中。"
+      "publishedAt": "2026-05-21T09:03:00Z",
+      "summary": "美股市场近期出现的‘大轮动’行情为纳斯达克创造了罕见的买入窗口。分析指出，资金从部分热门板块流向AI领域，使得两家AI成长股迎来布局良机。其中一家专注于企业级AI软件和云计算服务，另一家则在生成式AI和机器学习芯片领域占据领先地位。长期看好其盈利增长前景，建议投资者把握当前估值回调时机，布局具备技术护城河和商业化能力的AI公司。"
     },
     {
-      "title": "Pope Leo XIV Creates AI Working Group and Prepares First Encyclical on Artificial Intelligence - The European Times",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcVJkc24tZW44NlpCR1lEcGNQLUhCS0lnTDhiYWxXVTVhTl9xQTJRLWNDaVMxQnQ4VjI3T3dfbTl1ZE1kUkRBZHR1Wm1TcUNhZVJoa25Ma2hZMm1Vc1FvOHdQdTZkRWkwdmV0ZWV0WXAzaFdkdElKQld2U1pDZWNCZkZYM0g1aWNsTnFxaXNrUF9qTzV3c0pnemd6QkFsU1U4bGM0TEx1RVBtWlBqMUxtQlMwVU5RMG9WWkFtX3psZ1YxLVZiQjJsQVFn?oc=5",
+      "title": "Tamil Nadu becomes second state to have dedicated ministry for Artificial Intelligence - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSk5uV1NWLTZRQXBoeGZuQ0loMC1QRElLWDlaOWdMTmwxZzNzNmstbExjbVA4dzFBM0pFTlpqbXNNNnN0UW05d1Z2NzZSVVM5UGJSTFFPTjIyMFRoUVhkd3M5eXVTNUppOWhLNUFFUk5ZbnpNZk1KSUtmcnFvNnhtalowVlFiaVpUMktDTGYzTlFKWDdOam04Z1dJdGxxOGZvYjl3dVdzMnhGRVZhRW82aTZpVVBOb3F4VDQ3UnowYjdicndBLWtmSmlTeDNFVkhWWUFqdVF6QQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-20T16:52:30Z",
-      "summary": "教皇利奥十四世宣布成立人工智能工作组，并着手准备首份关于AI的通谕。此举标志着梵蒂冈正式将AI伦理纳入教义关注范畴，工作组将聚集神学家、科学家与伦理学家，集中探讨AI在医疗、战争、隐私等领域对人性尊严与社会正义的冲击。通谕预计会呼吁负责任的技术发展，强调“人本智能”优于纯粹效率。这一动向反映了全球主要宗教力量对AI治理的迫切态度，或影响多国立法导向。"
+      "publishedAt": "2026-05-21T08:58:24Z",
+      "summary": "印度泰米尔纳德邦宣布成立专门的人工智能部，成为继特伦甘纳邦后印度第二个设立AI专部的行政区。该部门将统筹AI政策制定、产业促进、人才培养和伦理监管，重点推动AI在制造业、农业和公共服务中的深度应用。此举标志着印度地方政府对AI战略的重视升级，通过建立专门的治理架构加速技术落地，并计划设立AI创新园区以吸引全球投资。"
     },
     {
-      "title": "Healthrise in Farmington Hills Launches Navigator AI to Improve Hospital Cash Flows - DBusiness Magazine",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2xWTlNBQnVEUDhwMHRyUTdHeURwd0NoamhfUjBoN2dsSC02czJTSDBYQ1FTNDZrNC1jYXozYUctODZiSHRYM3JWd1JJSW1ydlNoQ09VSkp1SGtfMmp0d1haQk9lRmxIeGdpZWRxT0RsNWV3OW0yaWh5LXFMU0phUUJoUjBIOC05VW9YSVYxXzgzd1JWd3VvakNESUNTbDE0anRESmF5a1d3WTR5d0JmdUd5amgyejFlcTV1TC1n?oc=5",
+      "title": "In Japan, companies that hire artificial intelligence (AI) new employees have emerged to solve the s.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GaTdlOWlWQjlRaGgtRHduaXVnaHZaYVQza0g0OGluU3VNQVViblVTdWJDQnNzQjdrR3IzbTZhNFdmQVh0ZW5ROHkwdDY5Nnc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-20T16:05:24Z",
-      "summary": "位于密歇根州法明顿希尔斯的Healthrise公司发布“Navigator AI”系统，专为医院设计以优化现金流管理。该AI工具通过分析患者账单、保险理赔及付款周期等财务数据，自动识别延迟付款与报销漏洞，提供实时现金流预测和优化建议。系统还能模拟不同收费策略对收入的影响，帮助医院在合规前提下加速资金回笼。这一技术旨在解决医院普遍面临的运营资金紧张问题，提升财务健康度。"
+      "publishedAt": "2026-05-21T07:41:54Z",
+      "summary": "日本企业为解决日益严峻的劳动力短缺问题，开始雇佣AI作为‘新员工’。这些AI系统能自动化处理数据录入、客服应答、文档审核等重复性工作，甚至参与初级决策。部分企业还开发了‘数字员工’平台，支持自然语言交互和业务流程集成。此举不仅降低人力成本，还通过24小时不间断工作提升效率，但企业同时面临员工抵触和管理变革挑战，需平衡人机协作。"
     },
     {
-      "title": "ChatGPT and other AI bots made huge errors before Scottish election, study finds - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeGZCWU5UNkhtb3JTMHBwVFZ5NGw1VmNCUnk3MEtiQUJDY3lOUDU1a2NVdWx5NmQyZk5KRUVucjhvSEd0enRPQm1TdUg4XzVLMFNGQ2V5MmNmZWo0S1VzOHM5MVNYamNxNHpMRmVNcHBHU0pzSldMRlN4OEo2eFFvakxNWlluRDhUUW84bTdxa0Rhb0RRUmVDT1UzOWNpaUFPY3FyeEdOV0F1TWRjMjFlQ3kwQ0s1MHpJcjhzbFZnMmxrRldac2I2SA?oc=5",
+      "title": "Artificial intelligence leads Nvidia to sign one of the biggest quarterly profits in business history - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNclJkMUVXanhVNWtqQWhWZVhEMWxBSDlETGtxdl9BWG9yU0VUenFRU1JSeEdIMEg3NzM3R0t6d1BaQWhMVFMtTnRFOHhFcGpFaGk0U1hINnNJeE11WGlpY0ZWc0EzaEd2NGhmdlQxZURDY2ZLelBPazJ4X2lQOW80eVg5TkRoYXhwZ2toRWNVOUV1WTJmV3N1b3VBVTVQSDVqOEZoZWhYMVpMZDFIYUlyc00xVE1Qc1ZaT2N2bHowanJPVzNJNTRlUE5mODRnRzQxQkpyM3IyblHSAd4BQVVfeXFMTlhzSGF0aHRaUFNWNEd6OEJhRXNGZ0dkd19MNjB0cWE1UklvMHcwRkRWRFg0UFhTRnFYUVRPTWZYZnZrQjJoYnZjTUY5TzZCdFB6YmI2UkxoNi1VVHMtd0xReEdsQmtuVzc5b1dESFJsYU9pYXAtcll1aEd3aVN3ZVE0cFluZEZKQU1fU0R5Y3ZBYUNKZzl5RElKSldGWTRUTUQwX0UwQVFMNmpHa19rWWs1ZGJEdXhIZ1M1SXYyNjY2aW1ialNEc2NwRE5fbkdlM2owZEV2b0FDeTRrM0Fn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-20T15:32:00Z",
-      "summary": "《卫报》报道，一项新研究发现ChatGPT等AI聊天机器人在苏格兰大选前提供信息时出现大量严重错误。这些错误包括虚构候选人、歪曲政党立场、引述不存在的新闻来源等。研究指出，AI模型因无法准确获取实时政治数据，易产生“幻觉”并传播误导性内容，可能影响选民判断。研究人员呼吁在政治敏感时期暂停使用此类AI工具，或强制标注其局限性，以维护民主选举的信息真实性。"
+      "publishedAt": "2026-05-21T07:09:00Z",
+      "summary": "人工智能热潮推动英伟达（Nvidia）实现商业史上最大的季度利润之一。得益于AI训练和推理对GPU的旺盛需求，其数据中心业务营收同比暴增，带动整体净利润创下历史新高。英伟达凭借CUDA生态和高端AI芯片（如H100、B200）的垄断地位，持续从大模型训练和云服务增长中获益。分析师认为，AI基础设施投资仍处早期阶段，英伟达有望保持强势增长。"
     },
     {
-      "title": "Rhino.ai: Artificial Intelligence for businesses - KPMG Angola - KPMG",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSVVZZUUMtTFZ6VlBRVVhLZ3Zfb2E3cWwzbVFBLXlBcG5JeGJReExVdUhBZkJCbk9BLUg0TWRhUmc1WG9zX3E4X3F1OGNzZWJmdk5BVXNCcS1GNklkRDRMeEU0bGVxZw?oc=5",
+      "title": "In the fourth week of May, promising K-fashion and artificial intelligence (AI) marketing companies - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OS05sb3BScUh5UkdKUjJ3MVlaRUdiejlOVUV1TjRoTmxnNHVpaS1HWjN4SEhDLU9jWkxkUGo5QWwybnpCQ3JMdkNBUFk5RHhVTlE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-20T15:29:51Z",
-      "summary": "KPMG安哥拉分部推出了Rhino.ai，这是一款面向企业的人工智能解决方案。该产品旨在帮助企业在数据分析、流程自动化和决策支持等领域应用AI技术，提升运营效率和竞争力。KPMG作为全球专业服务机构，此次发布标志着其进一步拓展AI服务领域，为安哥拉及周边地区的企业提供数字化转型支持。Rhino.ai结合了KPMG的行业专长与AI技术，有望在金融、能源、医疗等多个行业发挥重要作用。"
-    },
-    {
-      "title": "Inside the 'glass box': Why one physician thinks AI in medicine must show its work - Healthcare IT News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnRuTDE3SW1PbFJBWHpCZS1xT0hUWDFWaVJCSmJicTRVTHdOMmpubHBtc0JhUlVOUEJ4TjlfejVQZ1NVa0lmdmtXSHI2cXlTQUZZZTN4V3NFakhacTdVVTBZRmlKZWlDcmlQRjU4ZzduTUEwOW1vTWJCSEx4bG1yZ1djbXlTWktTTUY1UlpmY3F2d2RJUnpYM3NuRmdOM2x6WnNOSUltTG9UNk14UVRR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-20T15:24:37Z",
-      "summary": "一位医生提出，AI在医疗领域的应用必须像“玻璃盒”一样透明，展示其决策过程。不同于黑箱模型，可解释性AI（XAI）能让医生理解AI诊断或治疗建议的依据，从而建立信任并确保安全。该观点强调，医疗AI不仅要提供准确结果，还要能够解释推理路径，以便临床医生验证和纠错。这有助于避免因AI误判导致的医疗事故，同时促进监管接受和临床应用。未来，透明性将成为医疗AI发展的关键方向。"
-    },
-    {
-      "title": "AI search startups are blowing up",
-      "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20T15:04:45Z",
-      "summary": "AI搜索初创公司正在迅速崛起，成为消费级AI领域中备受关注的赛道。这些公司利用大语言模型和检索增强生成等技术，提供更智能、更精准的搜索体验，挑战传统搜索引擎。投资者和创业者纷纷涌入，推动了一批创新企业快速发展。AI搜索不仅改进了信息检索方式，还能理解用户意图、生成聚合答案，展现出巨大的市场潜力。未来，随着技术成熟，AI搜索有望重塑整个搜索行业格局。"
-    },
-    {
-      "title": "Stability AI releases a new audio model that can create 6-minute songs",
-      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20T15:00:00Z",
-      "summary": "Stability AI发布了新的音频模型Stability Audio 3.0，该模型能够生成长达6分钟的完整歌曲，其小型版本甚至可以在本地设备上运行，生成两分钟长的音轨。这一技术突破为音乐创作、音频内容生成等领域提供了强大工具，用户无需专业设备即可快速生成高保真音乐。Stability Audio 3.0的发布进一步拓展了生成式AI在音频领域的应用边界，有望推动个性化音乐制作和音频内容生产的民主化。"
-    },
-    {
-      "title": "AI layoffs: Artificial Intelligence will destroy certain jobs, says HSBC CEO, urges staff to ‘not resist the change’ - Mint",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRFQ0NzJxdlVRdkxKVm9oT2JOeUx2V0dmelZZVEdXYjluTlc1NUZkZ1poNlpCVGN3enBmd0NoX0otc0pXWXMtNFVMS1hYdE8xeHh6YjF3MUEwOXU1cGliZVBQLXlyR2U3bmJHZlNXaWpJQnVKUTY4QTEwWFE3NGp2a0hJTm9EcHVGS3lFaTQwd2VMMmJ3LUVNTnRBMmRyTzlGQXotb3E5ZUpxN2tJRFl6MmlpQ3BXVjVhQTVkWmZjMnE4cmhwcmJwVUhIa2gyM2h6S25qQldqM3BuQTVMZUpQMHllUWhZVWx6cWJ5a1oxS2VJZ9IB9wFBVV95cUxOLU9PMk82NldONmtIM1haR21LWkM4eXBuSW1EZ2dUTTdVRmxRcjhsdGZaVlRjN29adWFZZEYtRkVVZFk5MVZWcTNDWEIzOVRQTkJCdUR0Zm5EbldWMS1NakRmQUpIUTh6SzFUblFyeTVWZnlQVDlxRXJZRGdoVnlfRWtuRmNmdjBzc1laQlBUTC1ES0dOOGMtOWJuY0lKRlJoX3pxeGdQNVJJYUVIMUZDXy1FYnRhLTFjVkQ2WXlBWXZiQ0xUWm51elhxaEl6TmJXSFNSOVVKVXhEclRpSk5rb0Fsay0zajU5Q1BqNl9TQjNCNGJDckJz?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-20T14:43:57Z",
-      "summary": "汇丰银行CEO警告称，人工智能将摧毁某些工作岗位，并敦促员工“不要抗拒变化”。他指出，AI在自动化数据处理、客户服务和风险管理等领域将替代部分传统职位，但同时也会创造新的就业机会。管理层呼吁员工主动学习新技能，适应AI带来的行业变革。这一言论反映了金融行业对AI冲击的普遍担忧，也提示个人和组织需提前布局，通过培训和教育实现职业转型。"
-    },
-    {
-      "title": "Russia's Sberbank wants Chinese chips for its GigaChat AI in the face of Western sanctions — faces a long wait behind ByteDance and Alibaba - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSkljeFBfbE5IeG5yNDRqV0lyLTB0UkdxNFVBajBBaXB0WU1JSzhaWDVIYV9GaGhJZUZSajdiSWc5YmExb1owaDFraUtCOVRFYWV2SFVIX1hkVUpvTG9DM3UwSS1QOTNKWXhQM0RvSnRBTXJ2T0tqYUhOSncyaXlNeDlzWHplbzFiVzVRQ1pqMEwwa2NySTBaT1Jlb1lxZ3ZjcUFPc0pSV2hKNldGTllKVHpJbW54SXhyQmY0eVduSUs?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-20T14:22:57Z",
-      "summary": "俄罗斯联邦储蓄银行（Sberbank）正寻求获取中国制造的芯片，以支持其GigaChat人工智能模型的运行，以应对西方制裁带来的限制。然而，由于字节跳动和阿里巴巴等中国科技巨头已优先订购了大量产能，Sberbank可能面临漫长的等待。该事件凸显了全球AI芯片供应链因地缘政治因素出现的紧张局势，以及俄罗斯在高端芯片获取方面面临的困境。这或促使俄罗斯加速本土芯片研发，但短期内仍依赖外部供应。"
-    },
-    {
-      "title": "Incyte pays Genesis $80M to expand AI-fueled drug discovery pact - Fierce Biotech",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclhKdURRQTZNcW5mMzE1dUN2SXB1bzRSYWZ2eHhuVHhXSTlDQ29UY3hjeHVYdTF3c1pXMXRpT1NEdUpYeGNDTFhDNUlROVVVZEZDRk9SUHdXVTZwMWhkem9Td2J6REhxclNiWFk3M1otLXhPM1lJdkZDZnNCbEprMlA2clZrTnM3N0tKX29MdFVPUnhhYnBieU5CNW1CVVk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-20T14:22:00Z",
-      "summary": "生物制药公司Incyte向Genesis Therapeutics支付8000万美元，以扩大双方在AI驱动的药物发现领域的合作。这笔资金将用于推进针对多个疾病靶点的创新药物研发，利用Genesis的AI平台加速候选药物的筛选和优化。此次合作升级表明AI在药物发现中的价值日益受到行业认可，通过机器学习预测分子活性、优化化合物性质，可显著缩短研发周期并降低成本。Incyte的追加投资反映了其对AI赋能新药研发的信心。"
-    },
-    {
-      "title": "It’s make or break time for AI labeling systems - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUZWcll2eGxnanJVQk5fbE43UkxGZlJ5eHpwNXdxdy1VM0tJTkpmNDFPN3Nhc3Z4aWo3UE9KRDJVc25CZ25YYkNyUzVLMDVVTEV5XzhiTWlZeVlVNGJPUW14Y2JEeEpoSW1CdGIyeFp1d3UyOUJuSF9VWHZmZWxUU1NXU2czNGJUc0VwNzFqZHBNUVBkMXRnUEJXcXVwOEVZQUdBTDZ0UVZma0tqYlJGSnJVSVk4WTJUMEdB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-20T14:12:54Z",
-      "summary": "AI生成的虚假信息和内容泛滥问题日益严重，系统化的AI内容标注机制正处于关键转折点。业界呼吁建立统一、可信的标签标准，以区分人工制作与AI生成的内容，从而维护信息生态的透明度。然而，当前标注系统面临技术实施困难、企业执行意愿不足以及用户认知偏差等挑战。若不及时解决，虚假信息风险将进一步放大。监管机构和科技公司正加快合作，试图在“假标签”和“无标签”之间找到平衡。"
-    },
-    {
-      "title": "Mark Zuckerberg’s Meta kicks off major bloodbath with 8,000 layoffs as AI roils tech giant - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOEtZUDlfM1NiZGNQeWhNalJucE9CaHV3ZkVudkh4bVBjZ2NCQUhpWnJ1U2VEMmFFYmpMUU1WYjZidlpfSmdOS1o4OUhvX3V4ZmhvUEJRaG5ER0hHQWtoMDVDV1I1TFNWMFZRLVR4ZS1JNm82MXZhOW5xS3lJa3A0OV9fSmNGLUIwQ3FseE5YWGE5UmtlemQ4VzBiSTNSQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-20T14:01:00Z",
-      "summary": "Meta（原Facebook）CEO马克·扎克伯格宣布裁减约8000名员工，这是该公司因AI技术变革而进行的大规模重组的一部分。裁员涉及多个部门，旨在优化组织结构并集中资源投入AI等前沿领域。此次“血洗”反映了科技巨头在AI浪潮下的战略调整：通过削减传统岗位，腾出资金和人力投资AI研发。尽管引发争议，但Meta认为这是保持长期竞争力的必要举措，同时承诺为受影响的员工提供补偿和再就业支持。"
-    },
-    {
-      "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
-      "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20T14:00:00Z",
-      "summary": "TechCrunch Disrupt大会的Startup Battlefield 200创业竞赛申请窗口将于5月27日关闭，仅剩一周时间。该活动面向全球最有潜力的早期创业公司，入选者可在大会上展示项目，获得投资者关注，并有机会赢取10万美元奖金及其他规模化资源。申请者可自荐或推荐他人。这场竞赛历来是初创企业获得曝光和融资的重要平台，今年特别强调AI等热点领域，鼓励创新项目积极参与。"
-    },
-    {
-      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20T14:00:00Z",
-      "summary": "NanoClaw的创建者拒绝了2000万美元的收购要约，转而获得了1200万美元的种子轮融资。NanoClaw是作为OpenClaw的安全替代品开发的，旨在帮助Cohen兄弟的AI营销公司，该公司利用智能代理完成大部分工作。与直接在计算机上运行不同，NanoClaw在沙箱容器中运行，增强了安全性。这一决策显示了创始人对产品独立发展和长期价值的信心。"
+      "publishedAt": "2026-05-21T07:03:18Z",
+      "summary": "五月第四周，韩国时尚（K-fashion）与AI营销领域的多家公司展现出投资潜力。这些企业通过AI技术优化服装设计趋势预测、个性化推荐和虚拟试穿，同时借助生成式AI实现自动化内容生产和精准投放。报告指出，结合韩国潮流文化的AI营销解决方案在年轻消费者中接受度高，并已拓展至海外市场。投资者可关注具备数据资产和算法优势的细分龙头，把握时尚科技融合带来的增长机遇。"
     }
   ]
 }
