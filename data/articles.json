@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "350",
+      "title": "Don pushes for AI, digital twins in future structural safety systems - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWJndFdJUV9oSjY5MVFRYjNhOHQzWFVxUDhXbmliN29fTXdxMmNuc2pFRW9uMkpGMVYwVW83VjVsbllmRHYxNkd2d21iSzhhRDE2OUhQWXhad1NObWUwemk4c3VEeUwteGgyclg0RTBRbW1fQXZSdy04Z2R1WEpZdXJkVVlFbmVXejd5UGEtUEZrMjZTMUFBZg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T11:59:14Z",
+      "summary": "尼日利亚一位教授（Don）呼吁在未来的结构安全系统中引入人工智能和数字孪生技术。他指出，数字孪生可以实时模拟建筑结构的物理状态，结合AI预测潜在风险，从而提升抗震、抗风等灾害应对能力。该倡议旨在通过智能监测与预警，减少传统人工巡检的盲区，为基础设施安全提供更高效、精准的解决方案。",
+      "fetchDate": "2026-05-22"
+    },
+    {
       "id": "342",
       "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework - AI News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWVSQWNZV2FGVENmemp0dWM0aFROd181VWMyN0Y3dWpGR0p3Wm82RkV2N2JjQmo1YWFJLWFacjMwbnE4cks4aE9LbVROWHE2NmpMRk92c18xczd0ejNOWjhtV21HVTJUMmM1cWNhR1lsSGRzWFVTdWlnd21TWGNNZWV3dVhQem5SNnk5QXU0UDMwRXJpZ0NvUi1WS1JkR1ZX?oc=5",
@@ -16,6 +25,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-05-22T10:02:59Z",
       "summary": "中国利用人工智能技术成功绘制了全国可再生能源电网的全景图，首次实现了对风、光、水等清洁能源发电设施的全面数字化映射。该技术通过AI算法优化能源调度与预测，显著提升了电网的稳定性和消纳效率。这一成果不仅为中国的碳中和目标提供了关键支撑，也为全球能源转型提供了可复制的范例。各国应关注其背后的AI驱动能源管理方法论，以加速自身可再生能源的整合与利用。",
+      "fetchDate": "2026-05-22"
+    },
+    {
+      "id": "351",
+      "title": "Ivor Novello winner Linda Perry tells songwriters to ‘embrace’ artificial intelligence - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORkp4Sjc1SEFvZ1hfdk1PVE95a19mejk2NVduaGtQNXpFcjdLOElQc3hHZ2xFdlplOVdweEw2cEI3TF81eUlSMl81WU1oMWNxSjE4VkdEYnFRZ200NnVMRGFxZ0JKaFF3MGxqOHpuTXhCX0FyWVFTOHpQeGdjV3RHRUJnWWdwZnhLb1RRcWl0cmUwT2RLQnRTd0RrNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T09:51:00Z",
+      "summary": "艾弗·诺韦洛奖得主、著名音乐人琳达·佩里（Linda Perry）鼓励词曲作者积极拥抱人工智能。她认为AI并非威胁，而是创作工具，可以帮助生成旋律、和弦进行甚至歌词灵感，尤其能打破创作瓶颈。佩里建议音乐人将AI视为协作伙伴，利用其快速迭代能力探索新风格，同时保持对作品情感内核的掌控。",
       "fetchDate": "2026-05-22"
     },
     {
@@ -3133,5 +3151,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 348
+  "total": 350
 }
