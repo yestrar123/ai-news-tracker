@@ -1,237 +1,62 @@
 {
-  "updatedAt": "2026-05-21 18:28:06 UTC",
-  "totalArticles": 33,
+  "updatedAt": "2026-05-22 10:37:32 UTC",
+  "totalArticles": 8,
   "articles": [
     {
-      "title": "Trump delays executive order on AI oversight hours before planned signing - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHhraVdVR1lSNWxJWlVqVkxKMktkcmZua1I4Q1I4dHZuNHl2MzhVWWFnWG1zZ1NSaVBPSzR2anpXendaUHhRN3V1WW1SYzN2eFJQZ25JSURWZEluUnZWSmNGTFUxaUNmeWNLemt0Z2ZIT2FOWHN2TF9hREpiY193SnVaWnhhYzNXMnFFbXhDWDRwVFVVTHRINVY2Q1hCZnBzSmV4TFVpRUpYZmVFNG1ibUE4aHE?oc=5",
+      "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework - AI News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWVSQWNZV2FGVENmemp0dWM0aFROd181VWMyN0Y3dWpGR0p3Wm82RkV2N2JjQmo1YWFJLWFacjMwbnE4cks4aE9LbVROWHE2NmpMRk92c18xczd0ejNOWjhtV21HVTJUMmM1cWNhR1lsSGRzWFVTdWlnd21TWGNNZWV3dVhQem5SNnk5QXU0UDMwRXJpZ0NvUi1WS1JkR1ZX?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-21T17:53:33Z",
-      "summary": "据《华盛顿邮报》报道，美国总统特朗普在计划签署AI监管行政令数小时前突然推迟。该行政令原要求AI模型在发布前接受政府安全审查，但特朗普对命令措辞表示不满。这一决定引发外界对AI监管政策走向的关注，白宫尚未公布新的签署时间表。"
+      "publishedAt": "2026-05-22T10:03:02Z",
+      "summary": "OpenAI在新加坡设立AI实验室，标志着其亚洲布局的进一步拓展。与此同时，新加坡资讯通信媒体发展局（IMDA）更新了人工智能治理框架，旨在平衡创新与风险管理。该实验室的开设将加强OpenAI与亚太地区研究机构的合作，推动AI安全与伦理标准的发展。IMDA的框架更新则为企业提供了更清晰的AI应用指南，确保技术发展符合社会价值观。此举反映了全球AI治理趋向区域化、协作化的新趋势。"
     },
     {
-      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
-      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T17:30:45Z",
-      "summary": "特朗普在解释推迟AI安全行政令时称：“我不想阻碍AI领先发展。”该行政令原要求AI模型接受政府预发布安全审查。特朗普的言论表明其优先考虑保持美国在AI领域的竞争力，而非强化监管。科技界对此反应不一，部分企业担忧缺乏监管可能带来安全风险。"
-    },
-    {
-      "title": "Trump postpones signing artificial intelligence order out of concern it would hurt the AI industry - Times Colonist",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMy1HOEd6a0pNQUlReVplRlB4b0xTQnh5WjZkMEgya0piNjcxRlJveGJsU1lHMHZVbDFWenY3ZnJ3QXozekJvai1La3ZuVFJRZ0NlRm80aWdLOVRYa2djZE1hU0gtV2hfZkY3cEloWHQ5dlJkTzA1czBIcjcyYXJYT1Z6M05jTUxrRFZ3emNIZDZWZkoyMWlSNmRYMWJQdHB3VGF0aGY4MWQ5MmRGV0VoanVRcjdrZlhQdWozcWU3TG9DQTdsVjBvSHRKbE01WDdOYnJmbFlkZHZkUElmY25Vd2FieGJiZEhVbEFj?oc=5",
+      "title": "China's AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention - AI News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWllQ1EtNTZXR3RsZlZPOUlsOC1CRFJYd3lNZEFzVEx4cnZwOGVmYXIwRzd0UTdieDBoZGlrOHJjRy1wU2tHT0dIMVViZU52S3JMd0xld3FMXzZOSkdnRERmNGliZGdSeFo0M1U3eUVvSWY0RHVaYnBRaHFmcHJjNWlwVUQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-21T17:12:41Z",
-      "summary": "据《泰晤士殖民者》报道，特朗普推迟签署AI行政令的主要原因是担心该命令会损害AI产业发展。行政令原定要求AI模型发布前进行政府安全审查，但特朗普认为这会抑制创新。此举凸显了特朗普在AI政策上的产业友好倾向，未来监管路径仍不明朗。"
+      "publishedAt": "2026-05-22T10:02:59Z",
+      "summary": "中国利用人工智能技术成功绘制了全国可再生能源电网的全景图，首次实现了对风、光、水等清洁能源发电设施的全面数字化映射。该技术通过AI算法优化能源调度与预测，显著提升了电网的稳定性和消纳效率。这一成果不仅为中国的碳中和目标提供了关键支撑，也为全球能源转型提供了可复制的范例。各国应关注其背后的AI驱动能源管理方法论，以加速自身可再生能源的整合与利用。"
     },
     {
-      "title": "Trump calls off plan to sign artificial intelligence order due to concern it could hurt the industry - Orlando Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00VFB2TGx4NVVyN25CTmMxUmlSaWJEdE5qeVZ2bTYwX3g3S3JUVkU5V1NRcXUyZEVUc0Fhdzh4Zmd2N2RGZDE4M3YzY0V1cExCRExRMEY5ak9Ub09RNmlaM2UtTEQ0aWZLUnNrSldpc0dBcUR4ekZn?oc=5",
+      "title": "Trump Delays AI Executive Order Amid Fears US Could Lose Ground to China in Artificial Intelligence Race - Modern Diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc3lNT1ViencwZXpaS1lqQ1Z4MFl2b0VnVHkwa1FJdmZmWUdESFBELXBncmVHSW1tMFktYnlpYlhsOFVDbE1JUlROV0VORWJ4U05YUGJ3S25PLXJOSjhBNWRSM1pjREdNb1dGN0daMUZVOURGLVFVWlI1RHdXanhnSXVGZDRuRTdaUm9LYzBod2hxdDU4VGozUjFLR0NUN2l1T2ZXM0wxMUctanFIY2MwWm9GVEtZeGc2c3ZiUF83NjRza2U2d1lqQzZmOG5Wc2FZNERNMFhuMHBWMHc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-21T17:05:54Z",
-      "summary": "《奥兰多哨兵报》称特朗普取消了签署AI行政令的计划，理由是其可能伤害AI产业。该行政令旨在加强对AI系统的安全审查，但特朗普在权衡后决定暂缓。这一决定被解读为对AI行业的支持，但也引发安全倡导者的批评。白宫未说明是否将修订后重新推进。"
+      "publishedAt": "2026-05-22T09:29:44Z",
+      "summary": "美国总统特朗普宣布推迟签署一项关于人工智能的行政命令，理由是担忧监管过严可能导致美国在AI竞赛中输给中国。此举反映了美国政界对AI领先地位的高度敏感，以及平衡创新与安全的艰难抉择。推迟令给科技企业留下了更多的游说空间，但也可能延缓联邦层面的AI标准化进程。分析认为，中美在AI领域的竞争正从技术层面向政策层面延伸，未来双方的博弈将更加激烈。"
     },
     {
-      "title": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTVnSjdhUW1qa1dLaXBJTHFQQS0wdXFYMnhtdWhqRzFhRGt5bm5FcUVjbFhkc0FzZENKTWRTZ1FlNDlJaDBlTllWNVJ0ZnZDSGpwdzFCTFlBR1VucmhGUDZqU1ZHdnBpVU5rMVRkbW1iTkVPWlN0MW1LR01zbkswSkNTcjJmTDFyZE44Uk1mSTB5aTVxeXlkUklR?oc=5",
+      "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakVFTERNV1drTE1WV0xJbGdVM0JGQ0xMTnFoWEFWc1hzc0pTQzdLdGo3R3JkcnlEWExtMWdZV0JTLXRDT0ppMF93LU1xNHdpZ3h1cjNMdWY4OEhZV1VaamJETlNNODVJQ2RyTUd3ZThLOHFvYVZUY2NXMk5ZVENhbkdWX3VxdW5VT3ZIXzRySURfcnVFbnMxSWdMcDdjTmd5Nl9Td0RrcTk?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-21T17:03:58Z",
-      "summary": "路透社独家报道，AI编程基础设施初创公司Modal Labs估值达46.5亿美元，反映AI编码工具市场火热。Modal Labs提供云端高性能计算服务，支持开发者高效构建AI应用。此轮融资凸显资本对AI基础设施赛道的押注，预计将加速AI编程工具的商业化进程。"
+      "publishedAt": "2026-05-22T09:11:15Z",
+      "summary": "据AI News报道，科技巨头埃隆·马斯克和马克·扎克伯格成功游说特朗普总统，促使其废除了一项目前仍在酝酿中的人工智能行政令。两位领袖从不同角度提出了反对意见：马斯克强调过度监管会扼杀创新，扎克伯格则担忧法规会削弱美国企业的全球竞争力。该事件凸显了科技界对AI监管政策的分化态度，也表明大公司对白宫决策的直接影响。最终废除令使AI领域的规则制定权重新回到行业手中。"
     },
     {
-      "title": "Nvidia's AI Opportunity Beyond Hyperscalers - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2Q0LUpReHduUGZkblpfaDNscWgwSWowRXNBSzJGOG91clVQNFhNUGhEQWlOV01sZXpnTnhqbGp1U2hYQzBMVU9sdk55MzVqVnBCMlNsVlZqQ0FWZkxCTVZtZDFlalppRU5JN1VSb2lmVkNRMnhsV0ZpLWtUTHMxR0xiMHljcmRQel9aOUt1UHVIUi10TkpjZ0lrdEdiNUhHRk1fWUlPSUNWQQ?oc=5",
+      "title": "‘Keep your friends close, keep your AI closer’: Information, Technology and Consulting office publishes guidelines for ‘safe’ workplace artificial intelligence use - The Dartmouth",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPdW42R3dGd193ZENqUnd2QWRQbW5jLTNPNXJUUWF6TXlPWjZBdDFDWmZtUjJsU3E2RUl5dUlqVmhSNHZKXzd4QUMwWms3cThjYzF2eE1JZFBHSncxa0ZSazFIT0d3Q09ycU5FUmpTc3VhQmZSd25EZVVSLWdrVUxNS0pBN0daMlEtYlQ1NFk2TTRhTDVoYnJTeTI4WTFQdEhqOVNBTlQ1TlI4TUdKMGpRWnNPMFFZaGFEeU5UZnR5U1p6T01MMGpiYm83dFJCTzVQcTg4VUZrWnNfMkxKM3p6S1A1TjNWOFh3MVNwd2IxdWZ0bXZodW1xWThReUc4SVNubHljcHIyZVhoUElEbWx5djlUa09QRUZWcGdxNi1IYWRmRkN3Ny1XNEQ3OVBiZ3c?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-21T17:01:43Z",
-      "summary": "StartupHub.ai分析指出，英伟达的AI机遇不止于面向超大规模云服务商。随着边缘计算、自动驾驶及企业级AI部署需求增长，英伟达正将芯片和软件生态扩展到中小型客户。这一策略有助于分散收入来源，并巩固其在AI计算领域的全面领导地位。"
+      "publishedAt": "2026-05-22T09:07:31Z",
+      "summary": "达特茅斯学院的信息技术与咨询办公室发布了旨在规范工作场所人工智能使用的安全指南，标题借用了“近友近AI”的谚语，强调信任与距离的平衡。指南建议员工在与AI工具互动时保持警惕，避免过度依赖；同时明确了数据隐私、偏见防范和问责机制等关键原则。该指南为高校及企业提供了一个务实框架，在提升效率的同时规避了技术滥用风险，体现了教育机构在AI伦理教育上的先行作用。"
     },
     {
-      "title": "‘I didn't like certain aspects’: Trump postpones AI executive order - Politico",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVR5UFdlM29FMVRwLThYQWFXUEkxWFBVeXZxZEJwTkU0N3R3TEVjNUoxbDJkbWYwUU5uSWEySkJpNUJKWXJJU1IwcjJ4TWZXVm00R0pzLW10R04zc3hvdVpmLUhMcHFhTXRWTVpKZE5vMmh0ZTN3ZG1wd3hrWkg5Tlh2dnlocmp2MWFVUEgyME9NRTZnWDduQTdQVlhaZUU?oc=5",
+      "title": "This Artificial Intelligence (AI) Stock That Has Run Circles Around Nvidia in the Past Year Still Has 39% Upside, According to a Wall Street Analyst - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWdBRHJNQXpSWUF2bUtUanQtNXlHdXBGX3BsQzN3MUt2X05nZm9QdFBXQkd6UzBOam9GMlE2emwzMGxJT2ViUEZsajVuY0lVZktMSjNXVk9tTUZ1aTlNY3NpRldWUmdlOUFobTRXUlVBWkNDTjJrNkdVRjZrcDd5ZktDeFlTbkVwby1xR0JKdGNjU1Vkb091RQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-21T16:58:17Z",
-      "summary": "据Politico报道，特朗普直言“不喜欢行政令的某些方面”，因此推迟签署AI监管令。该行政令要求AI模型发布前接受安全审查。特朗普的评论暗示白宫内部对AI监管力度存在分歧。观察人士预计，修改后的版本可能更侧重行业自律而非强制审查。"
+      "publishedAt": "2026-05-22T08:12:08Z",
+      "summary": "华尔街分析师指出，某只人工智能股票在过去一年中的涨幅远超英伟达，且当前仍有39%的上涨潜力。该股票可能属于一家专注于AI芯片、软件或应用的新锐公司，其技术突破和市场份额增长支撑了高估值。尽管英伟达长期占据AI硬件主导地位，但细分领域的竞争者正通过差异化策略迅速崛起。投资者应关注那些在特定场景中实现超预期的公司，它们可能成为下一个增长引擎。"
     },
     {
-      "title": "Trump says he’s postponing signing an executive order on AI out of concern it would hurt AI industry - WTOP",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQanJZU1Z1UVlERmwtSzAwZDBKQkJJaklFdFJ6NnpDa0RtNFJlX214LVMzbnUwZWppN3NEN3h3dU12UnR0b1ZCWXlxd2hreU1RU1lWWG1iOGdTOV9nSUlSQzROUVJxcWRLR0Y1R3Ixcll6emdBRnQ3UEl1cXdrMlR0S2dwQ0w0aE9sSWVJdnNKLTQyRVJtWTRxLU1RTzl1WTBudlY1MFZ6RW5jb21HWFZsNWVQY3JZcGVrcmthaE4yTzBkSEdvdjRhZElB?oc=5",
+      "title": "If Australia is home to an AI gold rush, let’s not squander it. Let’s fjord a different path | Peter Lewis - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2N6d01oN0pKTVJYTFRmMHNPM0FrbnVJcEJEMUc2TDU5RDRmaE9nTjgydC1ZbkgxRGpiTHJSVUVjU3ZFWXNVWEsyV3g1b0Foek9NeC1IN2hpbzhYRzBVeTlXOHBIWmVrWVNIRWJWMHRqR29ZNFdYOXJ0OUpxZFF0Vi1GZ1lTVTFIVUNHUzZkN1ZyazAtZzJRazYwNkJuY1FtSG1HV2lVSFNnTHlBeENaWmZpWQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-21T16:46:19Z",
-      "summary": "WTOP报道，特朗普表示推迟签署AI行政令是出于对AI产业的保护。行政令原计划要求对AI系统进行预发布安全审查，但特朗普认为这会阻碍创新。这一延迟反映特朗普政府在AI治理上更倾向于放任发展，而非严格管控。"
+      "publishedAt": "2026-05-22T06:39:00Z",
+      "summary": "评论员Peter Lewis在《卫报》撰文指出，澳大利亚正面临一场人工智能“淘金热”，但若盲目跟从硅谷模式，很可能浪费这一历史机遇。他呼吁政府和科技界不要陷入短视的逐利陷阱，而应规划一条适合本国国情的独特路径，例如优先发展公共服务AI、加强本土伦理研究以及建立多元化人才库。Lewis强调，澳大利亚有潜力成为AI治理的典范，关键在于能否在狂热中保持战略定力。"
     },
     {
-      "title": "A musical Turing test for AI consciousness | Letters - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUdfeVJJSzJXVjYydm9jYzRpVEk0Nnh1LWtHMmNLaXZuWFFlRDFoQTF2R0JZS2lwYXdKNHowRUVuNTZRR1dQZHVZbUJrTVBOcVZocGp0Y1RvUE9GN1otcVFCTFBYcUdCeUU0SWtMMjlGSzdJWVZpSXRjSWJEakRLeEwwYjZiVjZYcUE2TFMybkYzOUcxT3hNRA?oc=5",
+      "title": "Trump postpones AI executive order, cites need to compete with China - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkxfV1VwVTdHMmpBS3BvQ09lZEpPdlBBeENRazhBM0pOYmxqaWNvYWVNenJoUTlIa3dGc2o4RFFob3RtT2FZcUFlcVJVZzRWR2RCNkNibTlEVHF1Y196ZUx4Rm9Ya0ZOMERrT3NRSGlMdTEwZnJkM1I3TWFvYlZrUmN6N1dRVF8zdU5ROTYwWXFLODlmTzlObnhkMVdqMGFYZzdsY3J3N1p1czRTekZ5dFQtM1RlcFNQVnFj?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-21T16:36:00Z",
-      "summary": "《卫报》读者来信提出用音乐图灵测试评估AI意识。传统图灵测试基于语言对话，而音乐涉及情感与创造力，更适合检测AI的自主意识。作者建议让AI即兴创作音乐，若听众无法区分人机作品，则表明AI可能具备初步意识。这一设想引发学界关于AI意识评估方法的讨论。"
-    },
-    {
-      "title": "Trump postpones long-awaited artificial intelligence order signing - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81TWptSFE1OVZrLWk5SXRjS1pxN1RhUExzQUhwZXNfYThXMEVtOWdrNEZpcFNJRFpfM0R0NUlrMEdDdHFKWjhOcXpFYXpuWHlYcThzempDZlltU0V5anI2dm1rSGxUVU1hemhLVnRPSmRNWjhqNW42d0I5SGUyQdIBgwFBVV95cUxQak5VSHExdFdweDBhNjJ5YWRQSFFVdDhfajlMYmw1bGRCbmlOcDdhZjNnbmpUS3VTRVFnTXI5NE15M3BPT0dNc2dSakxNZm9kM3pJeXJVODg0NzVZdDljb0JfdjVqbklDVjM3WlVnRWNmRWRQb2p3bWdxXzJ2NlZ2WXlmTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T16:32:00Z",
-      "summary": "《国会山报》称特朗普推迟了备受期待的AI行政令签署。该行政令原定位为美国AI监管的里程碑，但特朗普因对条款不满而叫停。此举使美国AI政策陷入不确定期，行业希望获得更宽松的监管环境，而安全专家则呼吁尽快出台标准。白宫表示正在重新评估措辞。"
-    },
-    {
-      "title": "Trump postpones AI executive order signing: 'I didn't like certain aspects' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uU2VtSWVRazhoNGlIY3lVcmtOQkJ5Qi15UTdmeVZUelJkTng3bnYwclB1U2NscUM4dTkydWIycTZXRHlfZ1pWanZ5bVpRZVA2N29YWDR2VDZpZjhreE1adHY5MGxLcVFxaFhjRGRySVFEamZfeU5mT3N0NNIBgAFBVV95cUxNeWdxWGEteGdLRlBXclhCVFJqMkJMVXVpSDhlSmNFTHVZVUU5b0h4dWVPX0pHMUpnZG81MGpLZmNUN0JBOGRnTmotSUhILWVmcEZIV3Z3a0ZIVnRBQUxyZlNxWkdIMnhFMVJmeEpjUGlnM0lzNnoyNno5WGctbFdpZg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T16:29:51Z",
-      "summary": "美国总统特朗普推迟签署AI行政令，表示对某些方面不满意。此举引发外界对AI政策方向的关注，反映出当前美国在AI监管领域的争议与不确定性。特朗普未具体说明不满意的内容，但这一延期可能影响美国AI产业的政策导向和全球AI治理格局。"
-    },
-    {
-      "title": "Microsoft and EY Team to Promote Corporate AI Adoption - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlNLVzJlZDdINlZWc1NYR2prN1haYlpQTGZ6ckRfbDFRTUszWGd5ejh5MXNHYUFoSTlaaGVWRmJaVmVLcmVFclB5ajhyaTNyTGx6WFNKa3NkZ0prWnUwZXhadEpwclFVY1ZBT1VlX1MwWUlwYnVyRXJKRzVVdEpMaGxwS3RsZ3lKdU12Um51azg2NzJRVm1XY0hTNHhmUlRXb0hXRjcwMTkya0l6ZFE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T16:24:29Z",
-      "summary": "微软与安永（EY）宣布合作，共同推动企业级AI的采用。双方将结合微软的Azure AI平台与安永的行业咨询能力，为企业提供定制化AI解决方案，加速AI在财务、供应链等领域的落地，帮助企业提升运营效率和决策智能化水平。"
-    },
-    {
-      "title": "Scaling AI Agents on Kubernetes with OpenClaw - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUxHX2ZDdUtRa1VLVmt6TkFtMVg3end2NjAxa29ieldFdFAwcU1KZ1FhMFYyX2V0TlNaZXluanJ5bG1KZV9yV2JZc1BkQXFMLUJhSm14QjlmcERSVTloUWRpdkpJMGFOSW9SamZsVzZOeVg4VkpKSFFkOHVMUUEzcWtaU09oQWp2WWpFYzVTZUNMVjVoS2tjdEh5RV9MOE1lQVhpMVhNWktrNU5B?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T16:03:09Z",
-      "summary": "初创公司OpenClaw推出基于Kubernetes的AI代理（AI Agents）扩展方案，旨在解决大规模部署AI代理时的编排与资源管理难题。通过将AI代理容器化并利用Kubernetes的弹性伸缩能力，可提升代理的运行效率与稳定性，支持生产级AI应用。"
-    },
-    {
-      "title": "Build an AI-powered recruitment assistant using Amazon Bedrock - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTm1mVE13cmV0UGEyMFNVQU5YR2t1dml3emJYTWJHeUdvOHFVOEhENWFiVHJYWU1sVnFIRHViTHRxelZESzNyRVdPXzJVLS1fbHFxWl9jQVdHOXI4OTZsUmNFSUxZNW9Fd3JBYkNlTGFtMEh5dW1MclVZbXVLVDlKZHNhLUpIOGcyUVdFeUJWTGQwaXlpZGJNUnBRTU9Vc0JnY0lucThiMEx1VE1pUXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T16:00:30Z",
-      "summary": "亚马逊云服务（AWS）发布使用Amazon Bedrock构建AI招聘助手的技术指南。该助手利用基础模型（如Claude、Llama）自动解析简历、筛选候选人并生成面试问题，可集成至现有招聘系统，降低人工筛选成本并提高匹配效率。"
-    },
-    {
-      "title": "State lays out AI Framework to educate in artificial intelligence - WAPT",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWljUzJhT1RuM1hhMDBRQzNhZWN4Y1EzWHZVcTNFTjBNM0dOS1FLbVdMbmxoQ3YzS0N2OWZQOGlxdGN2TkpsaFRWdWM2UkFVVEJLMEl6ZWpqaEN3cXprNE5RRjZPcDVnTjBLUmthb1lDY3ZfQ1NrU0wtZENKMVR3SHdhU01nanZOZTJJbENVQ3hlUVFUTU80RVpfZVhxcFphUHF4OGdn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T15:55:00Z",
-      "summary": "美国某州公布人工智能教育框架，旨在将AI知识系统性地融入K-12及高等教育课程。框架涵盖AI基础原理、伦理规范、工具使用等内容，强调培养学生在AI时代的批判性思维与创新应用能力，为未来劳动力储备技术素养。"
-    },
-    {
-      "title": "Artificial Intelligence (AI) As A Service Market 2026-2030: Unveiling Growth Developments with the Latest Updates - The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREZCd3NMdEl5NTl6UE83S1ppSGtleldqZ20tQVhyQXFIbFBBTGJ6VFFPZ2llQl9qenJvd2FxcDE4WkY1QllqRDlzTzhfTC1zd2NVOVpuOW45ZUtYQUR2UE55UkwydFEwU3hueHI4bU00a3VJYzJWaldjTXFodDJlbGd4bnlzeW9FX2hpaTZ4Z1VRWVVNZGZJSVJfXzg0bFRKTkRVSDZ3dnBGWHk1?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T15:53:46Z",
-      "summary": "《人工智能即服务（AIaaS）市场2026-2030》报告揭示该领域预计高速增长，主要受企业数字化转型需求驱动。报告分析了AIaaS在模型部署、API服务、自动化工具等方面的创新，指出金融、医疗等行业将率先大规模采用，同时强调数据隐私与合规性挑战。"
-    },
-    {
-      "title": "White House postpones Trump's AI signing ceremony, say sources - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T15:53:22Z",
-      "summary": "据消息人士透露，白宫推迟了原定由特朗普主持的AI行政令签署仪式。此举与特朗普本人对AI政策部分内容的不满有关，导致签署时间未定。分析认为，政策延迟可能影响美国在AI国际竞争中的节奏，并加剧国内关于AI监管的分歧。"
-    },
-    {
-      "title": "How Supply Chains Can Responsibly Implement Agentic AI at Scale - Supply Chain Brain",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNODhreHBidDFKbDN2Q0dibWZQcW9ycUxOcy12WFVaaEREWlA0U3NYTVBzcEVoUjV4Z1h5b0VRX1d2UDRVNTNmUEdNZlU2VmlVTnNvZFNOUGMyVGV3U3ZlYmVGTnBqanFvWE9JdzF0ZzlJck1CTnlYdkxKNnU3ZzVTTGVkNUVZNTlYd0dQSmVnWXJ3akhmd2lWaEZjWHVtLU1rZUFIOXo1YnlHNVU1MHFwQzF0dS1FYmV6Ymk0Z1luWUM0M0c0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T15:45:00Z",
-      "summary": "文章探讨供应链如何负责任地大规模实施代理型AI（Agentic AI），强调需解决透明度、可解释性、数据安全等关键问题。建议企业在部署AI代理时建立明确的责任边界与监控机制，通过人机协同确保决策合规，同时利用自动化优化库存管理、物流调度等环节。"
-    },
-    {
-      "title": "Boo of Jobs: Real anger about Artificial Intelligence at US convocations - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbDI2ckdMbnVMMTVoSW9pTEZsYWZ1RHpxdjY5QVN1dkg5UHgzR2JyRzF4UWNkbDdxdy1BQnl3N1E5NWlnQmRNb3d2QjB2dC1pZzVyNVQ3T2k4YkhzWENuTVZnQVNwSDJGM2JCd0ZjbkdjNnlCbXRKcFNiMUxVNkJjVVpzalpIeFRTS2IzSHNIU0ZaRzNJdkFFTWdXWmx6cnJibGw3dHZYMHBPcVJKZDVoMEhvTWlYeFRLN0V6WmVjYkw1bjllZzRxbnNXYmNaczQ1RWo5aHJPNE5XUdIB3wFBVV95cUxQeVFuZkU0aVdhSGVoOXQ5U09MQzZFTmdsSTh2RzVaLTNpZVJlekVpZ0RyeWNmemxrTmNkMm91R3RHdjdBSmJOdDZhMWJtSDAyLVpQRGxuMWQ3SGhCMVluY2F0ei1iTU5pN1FOQjBWTVU5ZnpfUXlHaF9wU2x5SkEtSUNwamFMR3VoZ052eEx0VVJjdmRHXzM4Snl5bUU3LS02T3hTSlh1bEZEZF9MQ2N5dmtINTNidjNSVnZnWTlGU0tqcmlPNjk4MVZvYWNQMGJPWjF5WUlVdk5hTlBMck04?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T15:43:00Z",
-      "summary": "美国多所大学毕业典礼上出现针对人工智能的抗议活动，学生和部分教职工表达对AI取代工作岗位、加剧不平等及伦理失范的愤怒。抗议者要求高校在课程中加强AI伦理教育，并呼吁企业暂缓某些高风险AI应用。事件反映了公众对AI快速发展的担忧。"
-    },
-    {
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T15:27:00Z",
-      "summary": "Spotify推出由ElevenLabs提供技术支持的AI有声书创作工具，允许创作者利用语音合成技术将文本快速转化为高质量有声书。该工具计划于今年晚些时候随新订阅方案一同发布，旨在降低有声书制作门槛，丰富音频内容生态。此举可能改变传统有声书出版模式。"
-    },
-    {
-      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T15:27:00Z",
-      "summary": "Spotify为其播客功能增加了AI驱动的问答和简报生成功能。用户现在可以根据自己的提示，生成每日或每周的播客简报，从而快速获取感兴趣的要点内容。这一创新利用AI技术自动提炼播客精华，提升用户的收听效率和个性化体验，进一步巩固Spotify在音频内容领域的领先地位。"
-    },
-    {
-      "title": "Spotify takes on Google’s NotebookLM with its new app",
-      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T15:27:00Z",
-      "summary": "Spotify推出了一款新桌面应用，直接对标谷歌的NotebookLM。该应用以研究预览形式在超过20个市场上线，旨在通过AI技术帮助用户更好地管理和利用知识内容。Spotify此举意在扩展其AI服务生态，从音乐和播客流媒体延伸到更广泛的知识管理场景，提升用户的日常生产力。"
-    },
-    {
-      "title": "Gov. Gavin Newsom to Sign Executive Order Aimed at A.I. Job Loss - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2ZucEtVWTZFOVIzczhnSklJTVhxNUN2eWNqeHBZMnhEVVFjMHQtTE9DVjJ5N2cwbkJhbC1sa1I4c01mLXFVaG1BcjNUQTQ5Y3ZfNlZkUWdza0psWTY0cW1VWFZSRFJ1MmxHWlJDRWVpdlZHS3lZTVZtbmlValQ1bWN5SlZ2YjdGRXBvTE9wWFo?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T15:26:58Z",
-      "summary": "加州州长纽森将签署一项针对AI导致失业问题的行政命令。该命令旨在应对人工智能技术快速部署可能带来的就业结构冲击，保护工人权益并推动再培训计划。此举反映了美国地方政府对AI社会影响的高度关注，试图在技术创新与劳动力保障之间寻求平衡，为其他地区提供政策参考。"
-    },
-    {
-      "title": "Mathematicians stunned by AI's biggest breakthrough in mathematics yet - New Scientist",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVJ0RVEzanhYeDdTYV9QREMxSm1WTkFZeDdpNFhMcXFJeVRuRDhCd3ZzcnZfbG1KV0k1RW02LUltUmdhT1NHWWREam5SWVhMYzBZOHE1TjA1ZEdoRnpzTmJnZGI5SmVCS0R2ODNIaERBd2NwVzRpMWpjekN1ZEUwcHNYaG5ZcE1tRHlnai10bDJETW9XVV8wckhGN1ZBanVFaGhNRXAtU1ZPN0xoM0tpUHVvSWpJQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T15:13:12Z",
-      "summary": "数学家们对AI在数学领域取得的巨大突破感到震惊，称其为迄今为止最重大的进展。新科学家报道指出，这一突破展示了AI在解决复杂数学难题上的惊人能力，可能深刻改变数学研究的范式。AI不仅加速了证明过程，还能发现人类数学家未曾想到的新思路，标志着AI在科学发现中进入全新阶段。"
-    },
-    {
-      "title": "UChicago researchers develop Quicksilver, browser extension to identify AI music - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGFxUDZwdHpUa2U3ekxMYVFlb0tfNWk3WDRDVzg5M3NRU21FaEdsNkpiYzBxenZnNUJYenVIYVF3U2lNdFpPX2h0R2pvNzMxdmdRUEFCTG9mRm04bjJVd0h4NFd0X3FsRWV2T3BYWXBTX0hicUxuclVWNnJMSGZZa0w2NG9uQzZVSDJwTmlWNFBLR3pqRHhnTUV3dXR6QQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T15:07:30Z",
-      "summary": "芝加哥大学的研究人员开发了一款名为Quicksilver的浏览器扩展，能够识别AI生成的音乐。该工具旨在帮助用户区分人类创作与AI生成的内容，维护音乐创作的原创性和版权。随着AI音乐生成工具的普及，这一技术为鉴别和标注AI内容提供了实用解决方案，引发对数字内容真实性的进一步讨论。"
-    },
-    {
-      "title": "Kerala creates separate AI portfolio to boost artificial intelligence sector - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3BiSWdsQWdxLUZhRWZBdWdONkxJLU9kc1g4Y1RxOGVCQ2NybU1jeVl6RGNYYVRUcFVQQWV2amsxdm9NeFozVjZEcG5Ka3A2WTFVLW5zQ3JabVBxOVd4WTJWaTQ2bVU1QXpkelZnRkVEel85TGFMSlF4Yzh4UEl1aW9VU2NVSDVnVzdzSm10OERIZW1Uc0dEaTItYTVSaDNyaVVYdW9IVWhPXzZlNWZPSmZkbjdMVFU0QnI1WHR3bDdza3g0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T15:04:04Z",
-      "summary": "印度喀拉拉邦政府设立了独立的人工智能部门，以推动AI产业的发展。这一举措表明地方政府正积极通过政策支持来培育AI生态系统，吸引投资和人才。喀拉拉邦希望通过此举在健康、教育、农业等领域应用AI技术，促进经济增长并创造就业机会，成为印度AI发展的先行者。"
-    },
-    {
-      "title": "WiseTech begins redundancies – but omits ‘AI’ from emails to Chinese employees, workers say - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmw0SEhDMmgtZUxRYjFyVDV3dUk2X1BXLTI0SnlsbDlBNFZ6Mkt6alZhV2ZQWUpHaEFqeGpMdE1MMFl1U3ZVRnh3MUVmUFpWcEZiSHhsaXlMZHl0Wk1hcmdrY1Y0VzlvUDlpSi1uZDU1YWhoeWs1TlZqTnVCSWJLeTcyVW4zRTJiM0ZJLUdub1hIMmZIZkJQa0lQeUloVkZzQ3BtaXMtejVrb0owWnlhY2FORlhEVlI1X01MZmxJbHRxUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T15:01:00Z",
-      "summary": "澳大利亚科技公司WiseTech开始裁员，但员工反映发给中国员工的邮件中刻意省略了“AI”一词。这一做法引发了关于企业沟通透明度和对中国员工区别对待的争议。分析认为，这可能与中美技术竞争及对中国市场的敏感态度有关，暴露了跨国公司在传播信息时面临的复杂文化政治考量。"
-    },
-    {
-      "title": "Nvidia’s Profit Hits $58.3 Billion as A.I. Boom Gathers More Steam - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xYW55bVF5aGlIRmI1T0tQa2ZIZXM5d05NQTYyV2RaanpYeURsOUc4cTNxOGdCQ3lXRWl4TWVubG5BMGJMVHBYUVVyREFxNkNaWDl0TDZIOEtIZW90WXh5TTVzVC1TVkFSeklwV2pvR1BqUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T14:30:00Z",
-      "summary": "英伟达财报显示其利润达到583亿美元，彰显AI热潮持续升温。作为AI芯片的绝对领导者，英伟达受益于全球数据中心对强大算力的迫切需求。这一创纪录的业绩进一步巩固了其在AI基础设施的核心地位，同时也预示着AI产业投资和扩张势头不减，成为科技行业的重要风向标。"
-    },
-    {
-      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T14:00:00Z",
-      "summary": "神秘AI初创公司Hark宣布完成7亿美元A轮融资，用于开发“通用”AI界面。公司计划今年夏天发布首个多模态模型，该模型将驱动一个能兼容现有产品与服务的个人AI平台，后续还会推出专用硬件设备。如此巨额融资显示了投资者对其“通用AI”愿景的高度期待，可能重塑人机交互方式。"
-    },
-    {
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T14:00:00Z",
-      "summary": "由托尼·罗宾斯和Calm前员工创立的The Path公司，旨在提供更安全的AI心理治疗服务。其AI模型在心理健康安全基准测试Vera-MH中得分95，远超消费级聊天机器人的最高分65。这表明该公司致力于降低AI在心理支持中的风险，通过严格的安全评估来赢得用户信任，推动AI在心理健康领域的负责任应用。"
-    },
-    {
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T13:52:23Z",
-      "summary": "谷歌在年度I/O开发者大会上重点推介了面向消费者的AI代理生态系统，试图让用户通过AI代理以全新方式使用网络。然而，这项被视为最有望创新之一的发布，却因概念复杂、应用场景模糊而让消费者感到困惑，可能难以获得广泛接受。尽管意图打造智能化的网络交互体验，但谷歌仍需解决用户认知与使用门槛问题。"
-    },
-    {
-      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-      "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T13:38:42Z",
-      "summary": "受全球铝价上涨20%的刺激，多家回收初创企业正积极部署人工智能技术，以提高铝等关键矿物的回收效率。通过AI驱动的分拣、识别与流程优化，这些公司旨在从废料中大规模回收高纯度铝金属，一方面降低对原生矿产的依赖，另一方面在金属价格高位期获取更高利润。AI正成为循环经济中提升资源回收率的核心工具。"
-    },
-    {
-      "title": "How AI could help Atlanta build faster as the metro area grows - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQlk2a25obDdERjFyd2ZCbGVGakZxWHMxS0xmZkktTFRyZDhONzk2RkNGQkNpbTJGaVFYRUh3U1V5ajFWdU9LSmVBRmVBa3hldE1TQXVWNHVsN1lKcWwzTUwwMmFPbVRlTnE3aENmVURfR0FGbWRIbGVfUWQzdDZzRlVLXzNjYlBZM3FyUmVDSDBRak9EbzgtNmxNTWxUdk5udXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-21T12:29:59Z",
-      "summary": "随着亚特兰大都市区人口持续增长，当地建筑行业面临效率瓶颈。据CBS新闻报道，人工智能技术正被引入城市规划与施工流程，通过优化设计、自动化项目管理、预测材料需求等方式，帮助加快基础设施建设速度。AI的应用有望缩短审批周期、减少资源浪费，从而在快速城市化进程中提升建设效率，缓解住房及交通压力。"
+      "publishedAt": "2026-05-22T04:57:42Z",
+      "summary": "据《香港标准》报道，特朗普政府推迟了一项原定签署的人工智能行政令，理由是美国需要集中精力与中国在AI领域展开竞争。该令原本旨在设立联邦层面的AI安全标准，但白宫内部存在分歧：一些人认为立即推行法规会削弱灵活性，另一些人则担心中国凭借举国体制加速追赶。推迟决定意味着美国AI政策将继续保持相对宽松，以鼓励企业快速迭代，但也增加了缺乏统一监管带来的风险。"
     }
   ]
 }
