@@ -1,62 +1,104 @@
 {
-  "updatedAt": "2026-05-22 12:03:34 UTC",
-  "totalArticles": 8,
+  "updatedAt": "2026-05-22 18:21:01 UTC",
+  "totalArticles": 14,
   "articles": [
+    {
+      "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+      "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-22T18:17:07Z",
+      "summary": "SpaceX提交了S-1文件，正式启动IPO，估值目标高达1.75万亿美元，有望成为美国史上最大规模IPO。文件显示总可寻址市场达28万亿美元，马斯克的薪酬方案与建立火星殖民地挂钩，风险因素长达36页，彰显其超越火箭的宏大野心。这一估值和市场预期反映了投资者对太空商业化前景的极度看好。"
+    },
+    {
+      "title": "AI/R Launches Platform to Bring Visibility to Artificial Intelligence Spending Across Organizations - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcXY4UktsNTRXXzJiSkpDaXZZcFZLdUUxc21UeXFDa1E3dkx1UWxkT3FXelBZRmdiN1BpZEVLa3VSS0I0NE5NVl9mQ1h5cXlLMzJwVmw1SGNlVTVicHRIVWJwczJKbW92ZmFsenVveVYzZjMwSVZsVEdtbzdHYk55SHd3d01LVzM2TjgyeHdCTC0xcVZkUEQxZU1vRVh3RlpJUnljNzZ5ZjJrTzVfT3pzdFd2dkRXTHZzLVRmd0g3R0NNX1NkMUNXdnRUY1NiS1RKMHRXSDhMQ2xJUVZZOWJSU2FDN1RWbURmeEJua3k2RnFEWG9SdzZOZUhR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T17:24:00Z",
+      "summary": "AI/R公司推出全新平台，旨在帮助组织全面了解其人工智能支出的具体情况，提升AI投资透明度。该平台能够追踪、分析并可视化AI相关花费，使企业能够更精准地规划预算、评估回报，从而优化AI战略部署，推动更高效的资源分配。"
+    },
+    {
+      "title": "You can no longer Google the word ‘disregard’",
+      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-22T16:16:48Z",
+      "summary": "谷歌搜索AI更新后，输入单词“disregard”会导致搜索界面出现异常，无法正常返回结果。这一问题源于AI更新对特定词汇的处理失误，暴露了搜索算法在语义理解上的潜在漏洞，引发用户对搜索可靠性和AI系统稳定性的担忧。"
+    },
+    {
+      "title": "Salesforce CEO Defends AI Ads as Standard Tech Marketing - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTnVrUTNsU2RLbkVwdUdtYTRaQXZZVkhLZTluOUVrWll4QUliOGZUaENraDVUSTVROGlvMEU4Q0VVZ3lIbzJYc3plSVBPT2xpUV80dlFKTkkwRjV4dlBwVVBsNnJTLVVaZlBvUlRSeHFZbGtzdHhzUmEyZS1Ga2JPQWxCY0JRMWl3azNyZFdsTjF0N3RsVVJzeGdyd0tQLUZxalRPZ3Z5U2VsbXNnNVN6NUNib1o?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T16:09:31Z",
+      "summary": "Salesforce CEO为公司的AI营销广告进行辩护，称这些广告属于标准的技术推广行为，旨在展示产品能力而非过度炒作。他强调，在激烈市场竞争中，利用广告宣传AI功能是合理的商业策略，不应被误解为虚假宣传或误导消费者。"
+    },
+    {
+      "title": "Judge says lawyers' AI use risks ‘career-altering’ consequences - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmM4Y2pQODVaVElTdG9fR3dKR2pKaEw3UDFXOG42aW85c3c5cTVhWC1sTVVIRkxYZGJjMW13WDBKTWJLRWtwNkhQZG1SNl9VcjRJd1VCU3Nhd2Rqd19jMWhXcjdCT280S0hkemQxVk5LLWtQVkVUQUg1RU9YUldnSWtvUkFpRGhPV2ZJX3BQTEk4RUV2U0dIM1YyNmpodGJQVzl5Y2JmTy1NdTA0ZWtiaUtxaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T15:48:35Z",
+      "summary": "一名法官发出严厉警告，指出律师不当使用人工智能可能带来“改变职业生涯”的严重后果。这包括因依赖AI生成的不准确法律文书而面临职业责任、声誉受损甚至吊销执照的风险，提醒法律从业者在采用AI工具时必须保持谨慎和审查。"
+    },
+    {
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-22T15:37:15Z",
+      "summary": "谷歌展示了搭载Gemini AI的原型Android XR眼镜，能够将翻译、导航等信息实时叠加在用户视野中。实测体验接近成熟，翻译准确度和导航流畅性令人印象深刻，但仍需在佩戴舒适度、电池续航等方面进一步优化，距离消费级产品仅一步之遥。"
+    },
+    {
+      "title": "Read Trump's unsigned AI executive order - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2pQMFlGektfYXBfTmMxM205ZEx0ZjF1ZHVnQ2R0ZjNfaFRUdm43TDJNSWxZMExWcWh2S3J1SWRTSmRpYldoLVhEb0dvOHk3VEkyN0RNeVp6VWM1S1FFYUVtVVMxNzk4V2VSWWZoM0NYUGFJZ3FJdDMwRUpuZm5GSDZxLUNfdm5jWlJzMm1tRkF3aHZIQ3A0WXR1bUR1OVd4clVF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T15:26:50Z",
+      "summary": "美国前总统特朗普发布了一项尚未正式签署的人工智能行政令，内容涉及AI发展原则、监管框架及联邦政府应用方向。该命令虽未生效，但释放了政策信号，引发业界对AI监管走向的讨论，尤其是对技术创新与伦理约束之间平衡的关注。"
+    },
+    {
+      "title": "Opinion: The Class of 2026 rains boos down on AI - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMG45eXVhejF6dU54LXc1RUNhQlhUTi1QN241bURoUUpwMEM2UjJueXpuZU9uWm5xRkx2WF90TUZ5emVsODFyeWlBdmxON1pzdnVNZFl1UVY4UUVfaVItSWpZY3VvUW5SM09MNlgtenF2OVhBUWNTa2JfSFdkTl9KMkRjazJFd3ZwOTlGeWE0X1h1V0wxaXNjcHFpeUF2UThSeGpLMDlFRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T15:00:00Z",
+      "summary": "一篇评论文章指出，2026届大学生对人工智能持强烈反对态度，在校园活动中以嘘声表达不满。这反映了年轻一代对AI可能带来的就业替代、隐私侵犯及伦理问题的深切担忧，同时也对教育体系如何应对AI影响提出了挑战。"
+    },
+    {
+      "title": "OpenAI’s AI solves 80-year-old maths problem, marking major breakthrough for artificial intelligence - The Indian Panorama",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wZUhvbnpDUUNTR0s4QXRLalg4MjVMV3FZcVlHS0VyZ3hNdkNIMTVzLVhIQWlDVHhOc01NV1o5Z1A5aDFSN2puSDZTRV9FU0RGMUVhSTFYOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T14:25:38Z",
+      "summary": "OpenAI的AI系统成功解决了一个困扰数学界80年的难题，标志着人工智能在高级数学推理领域取得重大突破。该成果展示了AI在符号逻辑、模式识别和复杂证明方面的非凡能力，为科学研究和理论发现提供了全新工具，有望加速数学前沿探索。"
+    },
+    {
+      "title": "CoreWeave vs. Nebius: Which Artificial Intelligence (AI) Infrastructure Stock Is a Better Buy in 2026? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTFFBSTZDWXFNMFR6bGpvUXBuNDhXeklHYkJkRDhhdFE1VWQ2VnFLcy16MzVQcVNySUZSUTFLNlIwMS1ncm5lUnNad283cE04VEtJTzRMSC1sWXNqOEpKYlRpdXZTVUdoTHRBUDlscmYyMlcwWmVmY3JqZXp6VHJ1U0J3RGp4dENhd2tnUjYtcWNDM1JTcDRkME9EdXdRZ2Q3YVJ6ZGx6cFN0d1Azd0p5UFJ6ZnI2NmRwZ2RoUTZhZm5VZ0JaTmEyd2k0Q1RzX1dsLUlTLW82eF93a2VKODNLaVFXUHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T14:25:00Z",
+      "summary": "市场分析文章对比了CoreWeave和Nebius两家AI基础设施公司，探讨哪只股票在2026年更具投资价值。CoreWeave专注云计算和GPU租赁，受益于AI算力需求爆发；Nebius则侧重边缘计算与分布式架构。文章从营收增长、技术壁垒和客户结构等维度展开分析，帮助投资者做出决策。"
+    },
+    {
+      "title": "AI Summit highlights classroom uses for artificial intelligence - School News Network",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcExlZEZwMWRRQzBqQ19VLUtIMGRWS2h5YmhndXB1QldNRm9XOVRyemh1SzQtQWdvZy1ibV91UzlDOEhxTmhYaE9zSjlzenNRX05GR3R1TTdCQjhNMDhUSFE0RzFlOW92SG01VG5YVVNyeDhSazk3cGdoTTlMNUprMldhQlRkbS1tTTV1TndMRlAwcTJ6NVJ3bGM5aXJ0QzFLNmY3eVBGdmxOT0U4U1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T13:59:50Z",
+      "summary": "近日举行的AI峰会重点探讨了人工智能在课堂教学中的实际应用。会议展示了AI如何辅助教师进行个性化教学、自动批改作业以及实时分析学生学习数据，从而提升教学效率。技术要点包括自然语言处理驱动的智能问答系统、计算机视觉用于课堂行为分析，以及基于机器学习的自适应学习平台。专家指出，AI并非取代教师，而是作为工具帮助教师更好地关注每个学生的需求，同时强调了数据隐私和伦理使用的重要性。"
+    },
+    {
+      "title": "Bank boss sorry after describing workers as 'lower value human capital' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vOU93S3NQRmJCR0lCNDFFbUthRHhHQ0NuRm9UTGxRLWs3eUhBa0hFN0NEdVRFeEdUSlFnaUJoZTBEa2t6Z3Y5UG5mNzJFLVc1UEJOa0oxN3VmU3Jl?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T13:45:56Z",
+      "summary": "某银行高管因在内部会议上将部分员工称为“低价值人力资本”而引发舆论批评，随后公开道歉。该言论被指贬低员工价值，暴露了企业对人才管理的冷漠态度。事件反映出在AI与自动化浪潮中，部分企业过度强调效率与成本削减，忽视了人的尊严。银行方面表示将加强管理层培训，并重新评估人力资源策略。此事件也引发了对企业如何平衡技术升级与人文关怀的广泛讨论。"
+    },
+    {
+      "title": "Media Company's AI Sprint: Upskilling for the Future - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHN2ZzU5MlZXMUJIUjd0bTVZc09JUF9wM3VLV0xQbmNVNmVtY21ObDZqN3BzVUlrb18yMGdWUW1UeGVBbWRtM2RSMWlEZEhkNDRudkZhTUJ6YjVzRkFvZlpSb3llUHU0V29ERm53Zm1JNGRGTWVtMWFYdVg4OWt6NWRsNkJmRnZlMndYeXlxZ3A5WVotY3VzUTFFZk5PaVB3ME5YSC0tUDNIY2s3QXF4aEpRTS0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-22T13:01:20Z",
+      "summary": "一家媒体公司启动“AI冲刺”计划，旨在通过系统化培训帮助员工掌握人工智能工具，以适应行业数字化转型。该计划涵盖AI内容生成、数据分析、自动化编辑等技能，并要求全员参与。公司表示，此举不仅是为了提升效率，更是为了在内容创作与分发中利用AI优化用户体验，同时保持编辑判断力。培训采用实战项目与微认证结合的方式，预计年底前实现核心团队AI技能全覆盖。"
+    },
     {
       "title": "Don pushes for AI, digital twins in future structural safety systems - The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWJndFdJUV9oSjY5MVFRYjNhOHQzWFVxUDhXbmliN29fTXdxMmNuc2pFRW9uMkpGMVYwVW83VjVsbllmRHYxNkd2d21iSzhhRDE2OUhQWXhad1NObWUwemk4c3VEeUwteGgyclg0RTBRbW1fQXZSdy04Z2R1WEpZdXJkVVlFbmVXejd5UGEtUEZrMjZTMUFBZg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-22T11:59:14Z",
-      "summary": "尼日利亚一位教授（Don）呼吁在未来的结构安全系统中引入人工智能和数字孪生技术。他指出，数字孪生可以实时模拟建筑结构的物理状态，结合AI预测潜在风险，从而提升抗震、抗风等灾害应对能力。该倡议旨在通过智能监测与预警，减少传统人工巡检的盲区，为基础设施安全提供更高效、精准的解决方案。"
-    },
-    {
-      "title": "China's AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention - AI News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWllQ1EtNTZXR3RsZlZPOUlsOC1CRFJYd3lNZEFzVEx4cnZwOGVmYXIwRzd0UTdieDBoZGlrOHJjRy1wU2tHT0dIMVViZU52S3JMd0xld3FMXzZOSkdnRERmNGliZGdSeFo0M1U3eUVvSWY0RHVaYnBRaHFmcHJjNWlwVUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-22T10:02:59Z",
-      "summary": "中国利用人工智能技术完成了全国可再生能源电网的完整地图绘制，覆盖风能、太阳能等分布式能源的并网节点与传输路径。这一成果通过AI算法整合卫星遥感、地面传感器与电网数据，实现了对可再生能源发电能力的动态评估与调度优化。该技术有助于提升电网稳定性，并为全球清洁能源转型提供了可借鉴的数字化管理范例。"
-    },
-    {
-      "title": "Ivor Novello winner Linda Perry tells songwriters to ‘embrace’ artificial intelligence - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORkp4Sjc1SEFvZ1hfdk1PVE95a19mejk2NVduaGtQNXpFcjdLOElQc3hHZ2xFdlplOVdweEw2cEI3TF81eUlSMl81WU1oMWNxSjE4VkdEYnFRZ200NnVMRGFxZ0JKaFF3MGxqOHpuTXhCX0FyWVFTOHpQeGdjV3RHRUJnWWdwZnhLb1RRcWl0cmUwT2RLQnRTd0RrNA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-22T09:51:00Z",
-      "summary": "艾弗·诺韦洛奖得主、著名音乐人琳达·佩里（Linda Perry）鼓励词曲作者积极拥抱人工智能。她认为AI并非威胁，而是创作工具，可以帮助生成旋律、和弦进行甚至歌词灵感，尤其能打破创作瓶颈。佩里建议音乐人将AI视为协作伙伴，利用其快速迭代能力探索新风格，同时保持对作品情感内核的掌控。"
-    },
-    {
-      "title": "Trump Delays AI Executive Order Amid Fears US Could Lose Ground to China in Artificial Intelligence Race - Modern Diplomacy",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc3lNT1ViencwZXpaS1lqQ1Z4MFl2b0VnVHkwa1FJdmZmWUdESFBELXBncmVHSW1tMFktYnlpYlhsOFVDbE1JUlROV0VORWJ4U05YUGJ3S25PLXJOSjhBNWRSM1pjREdNb1dGN0daMUZVOURGLVFVWlI1RHdXanhnSXVGZDRuRTdaUm9LYzBod2hxdDU4VGozUjFLR0NUN2l1T2ZXM0wxMUctanFIY2MwWm9GVEtZeGc2c3ZiUF83NjRza2U2d1lqQzZmOG5Wc2FZNERNMFhuMHBWMHc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-22T09:29:44Z",
-      "summary": "美国前总统特朗普决定推迟签署一项人工智能行政命令，此举引发外界担忧：美国可能在AI竞赛中进一步落后于中国。报道指出，推迟源于对监管过严可能抑制创新的权衡，以及国会内部对AI安全与发展的分歧。分析认为，美国若不能迅速制定战略性政策，将难以应对中国在AI基础设施、人才和产业应用上的快速发展。"
-    },
-    {
-      "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakVFTERNV1drTE1WV0xJbGdVM0JGQ0xMTnFoWEFWc1hzc0pTQzdLdGo3R3JkcnlEWExtMWdZV0JTLXRDT0ppMF93LU1xNHdpZ3h1cjNMdWY4OEhZV1VaamJETlNNODVJQ2RyTUd3ZThLOHFvYVZUY2NXMk5ZVENhbkdWX3VxdW5VT3ZIXzRySURfcnVFbnMxSWdMcDdjTmd5Nl9Td0RrcTk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-22T09:11:15Z",
-      "summary": "据AI News报道，埃隆·马斯克和马克·扎克伯格联合向特朗普施压，成功说服其废除已初步起草的AI行政命令。两人认为该行政令可能过度限制AI研发自由，阻碍美国企业在全球市场中的竞争力。此举引发科技界分裂：一方支持宽松监管以加速创新，另一方担忧缺乏伦理框架将带来安全风险。"
-    },
-    {
-      "title": "‘Keep your friends close, keep your AI closer’: Information, Technology and Consulting office publishes guidelines for ‘safe’ workplace artificial intelligence use - The Dartmouth",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPdW42R3dGd193ZENqUnd2QWRQbW5jLTNPNXJUUWF6TXlPWjZBdDFDWmZtUjJsU3E2RUl5dUlqVmhSNHZKXzd4QUMwWms3cThjYzF2eE1JZFBHSncxa0ZSazFIT0d3Q09ycU5FUmpTc3VhQmZSd25EZVVSLWdrVUxNS0pBN0daMlEtYlQ1NFk2TTRhTDVoYnJTeTI4WTFQdEhqOVNBTlQ1TlI4TUdKMGpRWnNPMFFZaGFEeU5UZnR5U1p6T01MMGpiYm83dFJCTzVQcTg4VUZrWnNfMkxKM3p6S1A1TjNWOFh3MVNwd2IxdWZ0bXZodW1xWThReUc4SVNubHljcHIyZVhoUElEbWx5djlUa09QRUZWcGdxNi1IYWRmRkN3Ny1XNEQ3OVBiZ3c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-22T09:07:31Z",
-      "summary": "美国达特茅斯学院的信息技术与咨询办公室发布了《工作场所人工智能安全使用指南》，强调“亲近朋友，更要亲近AI”。指南涵盖数据隐私保护、AI工具权限管理、结果验证流程等内容，要求员工在使用AI生成内容时注明来源，并定期审计算法偏差。该指南旨在平衡效率提升与伦理风险，为机构推广AI提供可操作的规范。"
-    },
-    {
-      "title": "This Artificial Intelligence (AI) Stock That Has Run Circles Around Nvidia in the Past Year Still Has 39% Upside, According to a Wall Street Analyst - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWdBRHJNQXpSWUF2bUtUanQtNXlHdXBGX3BsQzN3MUt2X05nZm9QdFBXQkd6UzBOam9GMlE2emwzMGxJT2ViUEZsajVuY0lVZktMSjNXVk9tTUZ1aTlNY3NpRldWUmdlOUFobTRXUlVBWkNDTjJrNkdVRjZrcDd5ZktDeFlTbkVwby1xR0JKdGNjU1Vkb091RQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-22T08:12:08Z",
-      "summary": "据华尔街分析师预测，一只在过去一年涨幅远超英伟达的AI股票仍有39%的上涨空间。该股票所属公司在AI芯片或软件细分领域表现突出，受益于企业AI部署需求激增。分析师基于其强劲的营收增长、毛利率改善及未来市场份额扩大给出目标价，但未具体提及公司名称，提示投资者应关注行业竞争与估值风险。"
-    },
-    {
-      "title": "If Australia is home to an AI gold rush, let’s not squander it. Let’s fjord a different path | Peter Lewis - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2N6d01oN0pKTVJYTFRmMHNPM0FrbnVJcEJEMUc2TDU5RDRmaE9nTjgydC1ZbkgxRGpiTHJSVUVjU3ZFWXNVWEsyV3g1b0Foek9NeC1IN2hpbzhYRzBVeTlXOHBIWmVrWVNIRWJWMHRqR29ZNFdYOXJ0OUpxZFF0Vi1GZ1lTVTFIVUNHUzZkN1ZyazAtZzJRazYwNkJuY1FtSG1HV2lVSFNnTHlBeENaWmZpWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-22T06:39:00Z",
-      "summary": "专栏作家彼得·刘易斯在《卫报》撰文指出，澳大利亚不应在AI浪潮中盲目追逐短期利益，而应开辟独特发展路径。他呼吁政府、企业与学术界共同制定以公共利益为导向的AI战略，避免数据垄断和算法歧视，同时投资本土人才培养与伦理框架建设。刘易斯强调，只有采取兼容创新与责任的差异化路径，才能将AI机遇转化为可持续的国家优势。"
+      "publishedAt": "2026-05-22T12:55:00Z",
+      "summary": "一位大学教授呼吁将人工智能与数字孪生技术整合到未来的结构安全系统中。他指出，通过AI实时分析传感器数据并结合数字孪生模型，可以提前预测桥梁、建筑等结构的潜在故障，实现主动维护。技术要点包括基于深度学习的异常检测算法、高精度仿真建模，以及物联网边缘计算架构。该方案有望大幅降低人工巡检成本，提高结构安全响应速度。目前研究团队已在实验室中验证了概念可行性。"
     }
   ]
 }
