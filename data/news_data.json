@@ -1,76 +1,132 @@
 {
-  "updatedAt": "2026-05-25 12:50:02 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-05-25 13:51:40 UTC",
+  "totalArticles": 18,
   "articles": [
     {
-      "title": "Pope Leo denounces ‘culture of power’ driving rise of AI - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRW5OY0J5WTgyZHNoNEFkcEoxa2VRa0p5bHdBcmxvMGRRSjBsQnd1blVqZ2FfbEFkRXZGYm1TZ0lIelFDdUhZRkN4eTUzaU15X1BZZEp6dEZjeGhBTmg5TTFCWmIybmhpMWdQaVFqVjA2WGd5VG5iRjlzaFVENzdNdUZuc1QzMXJmS0stTXZxeXJGVFUwSzF6N0NJQUtvWjBzSFE?oc=5",
+      "title": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0NpOEozbTRIZHBLZXhtUGl0UVNuRVJHUDFjcUNrbWNHOXl5d0szU0JCVTBIYXZUd1NBdnQ2SG9JUloxWk1WM3luZ1VjQ0JTY0pEa1dDaVZHNjZwNVo4RWtRRUllZmY3RFZGYzdwN19zQ1JqNHBiLWlHLW1Nd1BCZlZ0SXpNSUU4am1LQlozMkprMHZCNlNrTWE4UHBVRkF2YlU4dDlMbjFaVG9BSWVZ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-25T12:23:00Z",
-      "summary": "教皇方济各近期在一份声明中严厉批判了推动人工智能发展的“权力文化”。他指出，当前AI领域的快速扩张并非单纯出于技术进步或人类福祉，而是受制于少数精英对控制和统治的欲望。这种文化可能导致技术被滥用，加剧社会不平等与伦理危机。教皇呼吁国际社会反思AI背后的权力结构，并倡导将人文关怀置于技术发展的核心，以避免人类沦为算法的附庸。"
+      "publishedAt": "2026-05-25T13:38:23Z",
+      "summary": "《纽约时报》报道指出，在人工智能时代，网络安全专家的需求不降反升，成为少数逆势增长的职业之一。随着AI系统在各行各业广泛应用，黑客攻击手段更加复杂化、自动化，企业亟需专业人才防御数据泄露与模型劫持。该岗位不仅要求掌握传统安全技术，还需理解AI算法漏洞与对抗性攻击原理，推动行业从被动防御转向主动预测与智能响应。"
+    },
+    {
+      "title": "Berkshire Hathaway Just Loaded Up on This Genius Artificial Intelligence (AI) Stock - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQREtBSWFXZ2ptVzRpZkM5amZPUnBybG9NRm1nT0V4b3QzYjMwQnRKQzc4SXVzVml2VUh6bEwyTWV2eVNnVjVibi1GNjR4emdua3pGdVdLSnNfcXZ3UzFTTFdfeG9qQU01eEtOTnhyUk5XRllKX3Q1aHF0alg0WW16Z29CSENtZno5WF9GakZyZlZZeTkwQ1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-25T13:32:24Z",
+      "summary": "伯克希尔·哈撒韦在最新季度中大幅增持了一只人工智能股票，引发市场关注。尽管具体标的未被披露，但分析师推测这家投资巨头正押注于AI基础设施或应用层的龙头企业。此举被视为对AI长期商业价值的强烈信心，也反映出传统价值投资者开始拥抱技术变革，可能带动更多主流资本涌入AI赛道。"
+    },
+    {
+      "title": "Berkshire Hathaway Just Loaded Up on This Genius Artificial Intelligence (AI) Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQm5fX1VlMzl6bUVVUnZteE1sYmNGbHdjWlFtWXpVRWFFR05mMzhuNVV5WU1hSllSckRBLWhjY2ZxU1pBbjEzYjhzNUlYMVYzWGFUdlROV0RaSkxIamlUMXpqLVRQaFVQU2RBNTRPWVJtZlEwRWlkcjZpbDZxUVdsTk9RSi1QbUtPOFNXQnZBSTMwanZ2cXFiVm5TNFZHUG41a1ltcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-25T13:20:00Z",
+      "summary": "雅虎财经转引报道称，伯克希尔·哈撒韦重仓买入某AI股票，仓位显著提升。该消息在金融界引发讨论：巴菲特一贯偏好成熟企业，如今转向AI领域，暗示该板块已具备稳健盈利潜力。市场预期此举将加速机构投资者对AI相关资产的配置，进一步推高头部AI公司的估值。"
+    },
+    {
+      "title": "Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkZk1GU1R3R1lXb1ZMYnJ3S3N1RlBnR0c0Y1FWbU54d2dUd1RjREdpeUY3TGNvM1VQYjNxcmprRmkwX3BPcVZQakVVb0pFTXBFMHlUWEJoOTRsUEp0SXN0YTlwRGh2Sm5UQjhfbElLOWpkcTBsUkticW1ZVU0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-25T12:27:46Z",
+      "summary": "教皇Leo在一份长达42,300字的通谕中严厉警告AI带来的风险，指出其可能加剧社会不平等、侵蚀人类尊严并威胁民主制度。通谕从伦理、劳动、战争等多个维度剖析AI的影响，强调技术发展必须服务于人类整体福祉，而非少数利益集团。这是梵蒂冈迄今对AI发表的最全面声明，呼吁全球加强合作监管。"
     },
     {
       "title": "Pope, urging AI regulation, warns some weapons now beyond human control - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWko0ZE13QUlLMHNBWGhlS2NMV0JIQ0FZOFRwRE1uRzhsREgxN3RoVHpEZVFOVi16Q2VkWVZHNE9hb0drNEx1V1V5SFd0SVlYbk13N2IzUUJ3TjdYeXdueVB4OGJMM01fblh5LTRyOTRJT3RTNWpIRXlCNklZdVR4TmJxMGltZF9VZEh0eDBIcUJ4MEx3Y0Y3cnVGSWRXWXMwWWFZcmo3dWxoa3dyMHB0R25YNFNFTlU?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-25T12:17:37Z",
-      "summary": "教皇方济各在最新公开讲话中敦促各国尽快制定人工智能监管框架。他特别警告称，某些致命自主武器系统已经发展到超出人类有效控制的程度，这给全球安全带来前所未有的风险。教皇强调，缺乏伦理制约的AI武器可能引发军备竞赛，并导致冲突升级时无可挽回的后果。他呼吁各国领导人优先考虑人类安全与道德责任，而非单纯追求军事技术优势。"
+      "summary": "路透社报道，教皇Leo在公开呼吁中敦促国际社会对人工智能实施严格监管，特别指出某些自主武器系统已超出人类有效控制。他警告称，若缺乏透明度与问责机制，AI驱动的武器可能在毫秒内做出生死决策，导致不可控的冲突升级。教皇还呼吁各国签署约束性协议，禁止开发完全自主的杀伤系统。"
     },
     {
-      "title": "Mississippi Gov. Reeves releases AI guidance - Mississippi Today",
+      "title": "DeepSeek’s steep V4-Pro price cut escalates AI pricing war - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXhPbVpqN2w4RkExZjdzME1mVDJTOVkwVDJCWXkyWkVXakFJT0czeTluaG0xZXl5ZHhFR0dfZjM3c0dQTkxNUHQ2el9lUi1QRjFpUVdiLXhKcXFJWlQzMVlPRTZJcWk1c0lfSGM2UnlBd3ZpeXBQLW1yRTJUMTNiQVZWNEtkSldhQUNvRFBQTE1NMVBaOURNTGVvSi1jWldSTUg1elpSOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-25T11:59:21Z",
+      "summary": "DeepSeek宣布对其旗舰大模型V4-Pro实施大幅降价，直接点燃AI领域的价格战。据InfoWorld分析，该模型在性能上与GPT-4 Turbo相当，但价格仅为竞争对手的几分之一。此举旨在抢占中小企业市场份额，同时倒逼行业优化成本结构。降价潮可能加速AI服务普及，但也将挤压中小型AI创业公司的生存空间。"
+    },
+    {
+      "title": "Pope calls for robust regulation of AI in manifesto that ponders the future of humanity - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVjMxWVlpUUhJb1JjYnFPRXpkeE1qaTc3aDNQQXltRWZYNmo4T1dmN095X3R6bDY5NmkxdHBwTERrNkg1ajFIZDFZR09VQzd6a2oyalZTM2tkcjRwMFVyXzM5RUhkZWNQQ216cExQbkI1OGN0RS1CazVJV1dvTV9aYUt2cVVsc3Z6LVJDanZySTdMOHdEWmlIVTI4VVI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-25T11:47:00Z",
+      "summary": "美联社报道，教皇Leo在一份类似宣言的文件中呼吁对AI进行强力监管，强调人类必须掌握技术发展的主导权。文件思考了AI对就业、教育、隐私及全球治理的深远影响，提出建立国际AI伦理框架的紧迫性。教皇特别批评了科技巨头以利润为中心的做法，主张将公共利益置于AI创新的核心位置。"
+    },
+    {
+      "title": "Pope Leo calls to 'disarm' AI in major document, warns of technologic threats to humanity - National Catholic Reporter",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYXg0bHRtNUhCNFNmTXlNVzU5ZTNKWF93QjFTY3JpUXB1Y21uS1ppWXlFRzdsR3N2X1FJaHNzWEVnamJLMkx6TTJNM1NpR3hpbWxqMkFRcno3cTYybDR2U3hMVUtTcXpWYUFTNUlvSjZIVU5SNGR6dzBpV3JKMDBoOVROQ2JtRkxfMVR1UGM4OERwNFFsdksyRUhJRWJkQUppN01hZzlPSmlMX01Y?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-25T11:45:12Z",
+      "summary": "在国家天主教记者报道中，教皇Leo在重磅文件中发出‘解除AI武装’的呼吁，警告技术对人类文明构成根本性威胁。文件聚焦于军事应用，指出AI武器化可能使战争脱离道德约束，并导致全球军备竞赛。教皇主张建立类似核不扩散的多边机制，严格限制AI在武器系统中的应用，并加强对算法透明度的审查。"
+    },
+    {
+      "title": "Gov. Reeves releases Mississippi artificial intelligence guide - Mississippi Today",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaHNsM0hGQ2QxbUVfR20zZ3RSTVp3a2hNUEVPNFhGVXRiRkFCdXpPTXFRdjQ5VzAySUJwS3BSa0VVYzhYdHBMeWN0aFBPYThCMmZfWW9id2NOamlXUnRCZHFvVzJLblg5NGJrTWFmdWxkVnlFNjRSZFNsQXhLVW44OWxVYjhLUQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-25T11:00:00Z",
-      "summary": "美国密西西比州州长塔特·里夫斯（Tate Reeves）近日发布了州级人工智能指导方针。该指南旨在为州政府机构在采用和应用AI技术时提供明确框架，涵盖数据隐私、公平性、透明度及问责制等关键原则。此举标志着密西西比州开始系统性地应对AI带来的治理挑战。州长表示，该指南有助于确保AI工具服务于公众利益，同时防止技术滥用。"
+      "summary": "密西西比州州长Reeves正式发布州级人工智能使用指南，旨在规范政府部门及公共机构对AI技术的应用。该指南涵盖数据隐私、算法偏见、透明度与问责制等关键领域，要求各机构在部署AI系统前进行风险评估，并建立人工审核流程。此举标志着美国州政府开始积极应对AI带来的治理挑战，为其他州提供了参照样本。"
+    },
+    {
+      "title": "Pope Leo denounces ‘culture of power’ driving rise of AI - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRW5OY0J5WTgyZHNoNEFkcEoxa2VRa0p5bHdBcmxvMGRRSjBsQnd1blVqZ2FfbEFkRXZGYm1TZ0lIelFDdUhZRkN4eTUzaU15X1BZZEp6dEZjeGhBTmg5TTFCWmIybmhpMWdQaVFqVjA2WGd5VG5iRjlzaFVENzdNdUZuc1QzMXJmS0stTXZxeXJGVFUwSzF6N0NJQUtvWjBzSFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-25T10:54:00Z",
+      "summary": "《卫报》报道，教皇Leo在最新讲话中谴责驱动AI崛起的‘权力文化’，指出人类对控制欲和效率的盲目追求正在将技术引向危险方向。他认为AI不应仅仅被视为工具，而是反映人类价值观的镜像。教皇呼吁拒绝技术决定论，回归以人为本的科技伦理，避免让少数人借助AI巩固权力、扩大鸿沟。"
     },
     {
       "title": "Pope calls for ‘disarming’ of AI, technology should be ‘human friendly’ - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTVsUllPSzZlcHlPdlc4ZmlZMXhKczVtR1VDNkZMVHRNNFpnWmJ0R3E3QlFjNm4tMTlpdWRjSVBubWFjdEROQW54eVFydjhrVy1RTlJrSm5YNk5icVF1eTRFY1ROQUp4X0ZxQVhadkpqdTQxc3VGUkwzQnZKTjFHMkNEV0s1UUxMNU12NHliV2ZkR3Q0bUdLRUVTZGRHdTNtMjZVVVZtUnByTUNKQ0c1ZEdrX1XSAbQBQVVfeXFMTXVmbkxfaUlnenZqS04waHA5SXZLM0FOV3N4NXctYWpBQ2ZWdlRQa3NCV0MzYjY4ZUE4V09ZVmZhM0Y0ZzNHSnA5Ti1zYTlWa2Zja2FRRkw0YjBueWZZa0U3ZDFsRjk3a3dyZl83dDBvR2laTF9rUXBUanI2SHdXTU5VbVhWcHBGMEpHemx1azROSFlSVkRVc2QzZ0lkV1NkWFJWdGN6MGlKV3p1dUtQamdCaHlK?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-25T10:31:07Z",
-      "summary": "教皇方济各在多个场合呼吁对人工智能进行“彻底解武装”，强调技术必须保持“人类友好”的本质。他批评当前AI发展往往优先考虑效率与利润，而忽视了对人类尊严与共同利益的保护。教皇主张建立国际性的伦理约束机制，确保AI系统设计始终以服务人类为中心，避免技术凌驾于人性之上。这一呼吁在全球科技伦理讨论中引发广泛共鸣。"
+      "summary": "教皇方济各在近日讲话中呼吁对人工智能进行‘去武化’，强调技术发展应以人为本，符合‘人类友好’原则。他指出，AI在军事等领域的滥用可能带来伦理风险，全球应携手制定规范，确保科技服务人类共同福祉，而非加剧分裂或冲突。"
     },
     {
       "title": "Over Half of Billionaire Chase Coleman's Portfolio Is Invested in 7 Brilliant Artificial Intelligence (AI) Stocks - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFVZcTNIbEpUNmk2LVJtemZ1UGI2bWxFMWVqLUVVaE1UZXJPV2lhMEhVLXZ1SUlCMEpLSUN3WS1LX09ydmRSc2NoTG4xYzV2TDZEQWpIcVhJLUo1U1g1X01mTzF3TnpRb3pWWHdybE9OcUdOdU5MR2RSdXRvX011UmFOZUk2VGhLMjBNV05ib3FxbHJGclhUTQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-25T09:56:09Z",
-      "summary": "据《The Motley Fool》报道，亿万富翁投资者蔡斯·科尔曼（Chase Coleman）的投资组合中超过一半资金集中投向7只人工智能股票。这些公司涵盖了AI芯片、云计算、企业软件和自动化等核心领域，反映出顶级资本对AI长期增长潜力的强烈信心。科尔曼的重仓布局也向市场传递了一个信号：尽管存在监管与伦理争议，AI产业仍被视为未来十年最具投资价值的赛道之一。"
+      "summary": "亿万富翁投资者蔡斯·科尔曼的投资组合中，超过半数资金集中于7只人工智能股票，显示出其对AI领域的高度看好。这一配置反映了他对AI技术长期增长的信心，涵盖从基础设施到应用的多个细分赛道，凸显机构资金在AI领域的战略性布局趋势。"
     },
     {
-      "title": "Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkZk1GU1R3R1lXb1ZMYnJ3S3N1RlBnR0c0Y1FWbU54d2dUd1RjREdpeUY3TGNvM1VQYjNxcmprRmkwX3BPcVZQakVVb0pFTXBFMHlUWEJoOTRsUEp0SXN0YTlwRGh2Sm5UQjhfbElLOWpkcTBsUkticW1ZVU0?oc=5",
+      "title": "Pope Leo takes aim at big tech in sweeping encyclical on AI - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLW1reVd0UjZIOUhWQThOR0JTQnd1OHJqRVNSaGg4eTZCNzkwRV9iVFRROU1Rb3locGsxZlU3SGFaVXFKUGN2b1V4eFJSYjZvMWhoTXlKWkNJUF9YRGIzTjVSWHdOd29tU2o1ZXdKeWhtQkZ4TGpBVHdvSV95dE5GeEVDVWtaUmthWnI2NWZVd3pKM2F4bmp0MThXQzByY2ZWMHZOX2dHVU5tVHZnbjkwMFVwQV80Q1hvTXhB?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-25T09:30:42Z",
-      "summary": "教皇方济各发布了一份长达42300字的宗座通谕，系统性地警告人工智能可能带来的风险。这份文件被誉为梵蒂冈迄今对AI伦理最全面的阐述，涉及隐私侵犯、就业替代、偏见固化以及人类自主性丧失等议题。教皇强调，AI不能被视为纯粹的技术进步，而应置于道德与精神价值的审视之下。通谕中呼吁全球决策者采取“预防原则”，在技术失控前建立严格规范。"
+      "publishedAt": "2026-05-25T09:32:58Z",
+      "summary": "教皇利奥在一份影响深远的通谕中对大型科技公司提出严厉批评，聚焦人工智能的伦理与社会影响。通谕指出，技术巨头在AI研发中缺乏足够的人文关怀，可能导致权力垄断与劳动者权益受损，呼吁建立全球治理框架以保障技术发展的公平性与透明度。"
+    },
+    {
+      "title": "Pope Leo warns of AI fueling warfare in first major theological document - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ1RzVkZBaTgyenVRc2Q0TlNuVTRqNUhGN2VZS1k3U1JVbTVhbDNDZndTdFBxLVczTUN6Y1JldEhQNy0zMGk2b3FVVy12bkNUWWdqQkxseGFhdGxXWi1rQ1ZaNHFLVzNKcWM3al84VUp3SlExLVlFR2E3ZzNWSEdtMmJQaC1uN3RRRFYtODBn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-25T09:30:58Z",
+      "summary": "教皇利奥在其首份重要神学文件中警告，人工智能可能被用于加剧战争与冲突。文件强调，自主武器系统等AI应用存在失控风险，国际社会需尽快制定条约加以限制，以避免技术沦为暴力工具，危及全球和平与人类尊严。"
     },
     {
       "title": "AI/R Launches Platform to Bring Visibility to Artificial Intelligence Spending Across Organizations - AiThority",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT3RVR2I4cFRpQXROeXVwYzNETUxJTGxjUGFMcmo0c1VJMzNZSk1zdktSekFGX0U2UlJVM0lTcjdwdHl6UmpfR2VQV1h3WGtMd3dVSmU4bTlpWHJKWS1lNlpteE9wSzh5OGI3NjZxbFhDZGxSSEF1MV9NclYwYUNmQVktZ0xuOVN0d1NUNkpNa0ZlQnBXWm5ka3JPUjRfaUJUOExhMnJUZ01ockd1ODVNc18wRER2S01JZWNlTGxRRHNnQXhERmxtUjVsbGM4LWtDZy15VlF3?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-25T09:21:41Z",
-      "summary": "AI风险管理公司AI/R正式推出一款新平台，旨在帮助企业透明化地追踪和分析内部人工智能支出。该平台能够跨部门汇总AI相关成本，包括云服务、模型训练、人才雇佣等，并提供可视化报表。此举回应了企业AI投资激增但缺乏统一监控的痛点。AI/R表示，通过提高支出可见性，组织可以优化资源配置、避免预算浪费，并确保AI项目与商业目标对齐。"
+      "summary": "AI/R公司推出新平台，旨在帮助企业组织清晰掌握内部人工智能支出情况。该平台通过可视化工具和数据分析，为管理者提供AI投资的全景视图，助力优化预算分配、评估回报率，并提升决策透明度，应对日益增长的AI管理需求。"
     },
     {
       "title": "AI still needs humans - InfoWorld",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sdHlxTnhXMVdpRlVaU2paaHBTakM1bzFUNVlQb0ZDcHRLbWF2OFdmTEN5QWNrOUlpNXdzNVVBVXV3OXhqSkZvTWFXM3VUcU9PV3FtQWpOcklEUk9RZjZoY3hFYWxGV0RzU2h4QWFKNWJjQ3FDWDVR?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-25T09:02:35Z",
-      "summary": "InfoWorld刊文指出，尽管人工智能能力不断提升，但它仍然离不开人类的参与。文章强调，当前AI在理解上下文、处理模糊性和道德决策等方面存在根本局限，完全自主的AI系统难以可靠运行。人类在数据标注、模型校准、结果解释以及应对意外情况中扮演着不可替代的角色。因此，企业应避免盲目追求全自动化，而是构建人机协作的增强型工作模式。"
+      "summary": "InfoWorld发表评论指出，尽管AI技术快速发展，但人类仍然不可或缺。文章强调，AI在创造力、伦理判断和复杂场景决策方面存在局限，人类需持续监督、训练和调校AI系统，确保其产出符合实际需求，人机协作才是未来方向。"
+    },
+    {
+      "title": "UK Companies Accused of ‘AI Washing’ as Businesses Overstate Artificial Intelligence Use - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR2xlUUcyc0tjZl9BWF9TeDd1bzI2TC1nNHpIQnJ4NWtma3piM2dSdVhpM3hpa1ZIa0xRcGEtdldvN1pWZVpsR2Noc2ZJTnBES3RRRm5mQzBoNjhJbHpPVDhpa1d5SGh6WElTSDlNS1dfY3Y1TlYxNC1hTGVsN3JybUZPaFpBZEJGSWtkOHdiTHlLNzlhd2VzN1VoNmt1VTZPOGx4M25yRk00aUh2TnZ0QjF6aUhGdTBjTUsycHQtaG53X2l2di1UUmlqdEFWZEF6?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-25T09:00:19Z",
+      "summary": "据Tech Times报道，英国多家企业被指控‘人工智能洗白’，即夸大或虚假宣称自身使用AI技术以吸引投资和消费者。监管机构警告，此类行为可能误导市场，破坏公信力，并呼吁建立更严格的披露标准以保护投资者权益。"
     },
     {
       "title": "Is it possible to beat artificial intelligence (AI) only 1 in 20 or at most 1 in 10 humans. Even thi.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKbVBkNzJJOF8tMzZ0MmFaMUVPM3RKMFRqeXBBelFLSmhzU2dCS1JaVWpYbm1FQ1FvNU0tRzFONW9XNk1qdHAzQXd6MXB5bndtWEJ3YnFn?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-25T08:02:40Z",
-      "summary": "韩国《每日经济》报道了一项引发热议的观点：在特定领域的对抗性任务中，普通人类战胜人工智能的概率极低——只有二十分之一，甚至十分之一。这意味着AI在策略、计算和反应速度上已远远超越人类。然而文章也指出，人类在直觉、创造力和情感理解上仍具优势。该讨论折射出AI能力快速迭代背景下，人类对自身独特价值的重新审视。"
-    },
-    {
-      "title": "AI and the Judgment Trap: How Artificial Intelligence Is Reshaping Human Judgment, Leadership and Decision-Making - Open Magazine",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56M2xDQnp5ZnZEX21EVV82MWVMVzZVbVFBc3djR0VWUzhkdk9sUDB2SkExdTd2c3VFcWNBcy1haklWUFJNR2o1WE9VTnVOa1lGZHo5R2ttai1nWHBBOWg1bGJuTzM0OTNKOUZTSA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-25T06:52:06Z",
-      "summary": "Open Magazine发表题为《AI与判断陷阱》的文章，探讨人工智能如何正在改变人类的判断、领导力和决策模式。文章警告，过度依赖AI分析可能导致“判断陷阱”：人们习惯于算法给出的“最优解”，逐渐丧失批判性思维和情境化判断能力。领导者尤其需要警惕，保持对人类直觉与伦理考量的信任。文章呼吁在智能工具普及的同时，重新强调人类判断的核心价值。"
+      "summary": "《每日经济》报道称，最新研究显示，人类在与人工智能的对抗中胜率极低，仅为5%至10%。即便顶尖专家也难以在特定任务中超越AI，这一结论引发对AI能力边界及人类角色转型的讨论，提示社会需重新审视人机协作的平衡。"
     }
   ]
 }
