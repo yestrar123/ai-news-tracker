@@ -1,153 +1,118 @@
 {
-  "updatedAt": "2026-05-26 19:34:49 UTC",
-  "totalArticles": 21,
+  "updatedAt": "2026-05-27 12:33:39 UTC",
+  "totalArticles": 16,
   "articles": [
     {
-      "title": "This artificial intelligence (AI) chip stock just joined Nvidia, Broadcom, Taiwan Semiconductor, and Samsung in the $1 trillion club. Is it a buy now? - MSN",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQak9CNHNHMHBTVE9teUlWbUVmNktaNG84ZXZxaGpSSzREYUdOLTFMcjZoek00YnFqSUNKcG9aZlRFTWZ4YWpZLVNteEJFODFRLTA5R2FrUjJiU3drS2pnWGxYLThvZHk1ZHI3eDNkbF9kZEhiRFdhaXZjNkhfcklUeGxoaTY2MWlPTi11SG9ISkI0Vlg4QnZjRVdsRDI0NFpoNVBNUFUwVEVFRXUxcC1HX0hsQzhraGJBel9oRTZTVzJVQW9KLWV2VUpqR0xweFVobS0zeGZUdUVzMTJZNnltZGYzdzN4cTZqa0UzMFIwdEZaV291RWZOVl9uR3VHQUxISW5XOFJVMGpYS2FWcmpIRHVQSnZsMWhsTVFYcFYtM09GQm1PZkdkblMyM3NHak9XQ2xkUmtyRXVobjNPbUduMHRlLU8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-26T19:07:30Z",
-      "summary": "某AI芯片公司市值突破1万亿美元，加入英伟达、博通、台积电、三星组成的万亿美元俱乐部。这一里程碑反映了市场对AI芯片需求持续高涨的预期。该公司在AI加速器、数据中心芯片等领域保持强劲增长，但面临竞争加剧和估值泡沫风险。投资者需权衡其技术壁垒、订单前景与行业周期性波动，审慎判断当前买入时机。"
-    },
-    {
-      "title": "‘We can stitch together our past’: the AI-generated time-travellers vlogging from history - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUjFOV29Pbk83VVNsT1NZOHhyc3U2dlNJTjdQVGFtdXZvVEJ2Qmg5M0pJdUpvbkVtZ0k3RVNUZ08xZEJ3S3ppZldrWjBVdGdkYkZDU0tLTHdNUFBGc1d6bXNXRzhPLUlYVndYVU1fY2o2aEtGUWJCbDVqWTBrRGwxRlduMHRVdlMwRG14UmNZVnJiVEtWb2tIU0hCem9iWDFLTDJKRU9NZ3lkdlFQajIzY3dSOHFLZXNRbkRwOWxOa3JkNUllQ1lkRzVlc1hPUmRGbWVF?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-26T18:34:00Z",
-      "summary": "AI技术催生了一种新创作形式：生成历史人物的时间旅行Vlog。通过训练模型学习历史影像、文字资料，AI可以模拟历史人物的面貌、动作和口吻，制作出仿佛穿越到现代的视频博客。这种“拼接过去”的方式引发了对历史教育、真实性、伦理边界的讨论。尽管技术尚不完美，但它为叙事和文化遗产呈现提供了全新维度。"
-    },
-    {
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-26T18:33:01Z",
-      "summary": "AI模型网关服务商OpenRouter在一年内估值翻倍至13亿美元，并完成1.13亿美元B轮融资，由CapitalG领投。该公司过去六个月使用量增长5倍，表明企业和开发者正从单一模型转向多模型协作范式。OpenRouter通过统一接口聚合多种AI模型，降低切换成本，其快速增长印证了多AI模型生态已进入主流应用阶段。"
+      "publishedAt": "2026-05-27T12:30:00Z",
+      "summary": "Robinhood推出新功能，允许用户为AI代理创建独立交易账户，并预先存入资金，供AI代理自主进行股票交易。这一举措旨在将人工智能与投资理财深度结合，用户可通过设定策略让AI代理执行买卖操作，降低人工盯盘成本。技术核心在于API接口与风控隔离，确保代理仅操作专户资金，不触及主账户资产。此举标志着Robinhood在AI金融应用领域的进一步探索，为散户提供自动化交易工具，但同时也引发对算法风险与监管的讨论。"
     },
     {
-      "title": "Frontier AI at Home: EXO Labs Discusses Future AI - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmN3SlNnSVl0OHd0Nk54bzQ2YUx2Z0l0VnVJVFBWWllfUHpHaE1XWkw0ZlRuOGZMMGpDUGJZdV96ZTU2UElPYjJCcUNnVS01Mjh2SFhUcWlBLUhEdUhiZVhFaFZFWnFNSkhqbHdMT2FDUHM3U3BrMWhVOUJ1T2taemRXcVBhOFZnM1Q4bWxnRzZNVXNYSkZqS19wNEI2dFdweUNCMjRjQ0xwcnhYRUlOVQ?oc=5",
+      "title": "Pope Leo presents 'Magnifica humanitas’ calling for disarmament of AI - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUdBZG1NcERtUDFmMlp6Y05zY1VCNjhoOVFjMThkSnRURDJuUnZoZWRCY3RQaVBHaFJ3bGNBcURvOHpTSnVTQ2RDMDBnRng1SXNHNDVEM3ltYWNoYmN6Y3RxY0ZzZ0QxMmpiaWNaQkJnNGs1cDU0WDV6YndhNGpTa01kRVVGR3pSNFp0VnAzcjRxYWpVQUpCOFpXOWM0YVpyc2pvWTZHa0h6R0pYaWxRSk9lTQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T18:01:41Z",
-      "summary": "EXO Labs探讨了将前沿AI能力部署到家庭环境的前景。该公司专注于开发高效、可本地运行的AI模型，旨在降低对云计算的依赖，同时保护用户隐私。未来AI将更加贴近个人生活，实现智能家居、个人助理等应用的离线智能。然而，在功耗、算力和模型压缩方面仍存在技术挑战。"
+      "publishedAt": "2026-05-27T12:16:03Z",
+      "summary": "教皇利奥发布名为《Magnifica humanitas》的文告，呼吁全球对人工智能进行“裁军”，即限制并规范AI在军事等高风险领域的应用。文告强调AI发展应遵循人类尊严与伦理原则，反对将自主武器系统或算法决策凌驾于人类控制之上。教皇指出，AI的快速迭代可能加剧不平等与冲突，国际社会需制定具有约束力的条约。该呼吁受到梵蒂冈官方媒体报道，引发宗教界与科技伦理领域对AI治理的广泛关注。"
     },
     {
-      "title": "Wall Street Bankers Learn AI: The Cost of Automation Skills - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcTJQVjc4cTQxRlh0UmxvVV8yR29SQm1Od2tRZXRHYTg1T0Z5QXY3OWh5ZzZ4RmlVblYwX2pQa3Q2VTJWRlJ4VGNkZDZrMzJLbDlheGNyX1B3M3puU3MtMzljZl9MSGpCQzdoeEMyMm9HUk1XalVSRG9zblBBWWR6aFUwb2QySGdFakE1TEo4QXlERW9YVlhxbmxjSUNuakx1bllUVFVCdnhDN3U5MllWQk91d0lXWG9MWHhtbWZB?oc=5",
+      "title": "Forget Cerebras at $256. Buy This AI ETF Instead for Just $62. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2QxODlFZ254Q0ZsQ3FQa2lFVjFERHRuNE1vc3gwUHZlQ0ZSeTRNMjRNVUV4MllhOHlxM3hXX2pzYU41S29QZUIzVU9ZdHZCOVh0dEcwVlE3bzZlaFg5NGFJcmpVWHhIcDl1YzY1ZEk3cVI3Q1J6VlBGdldsT3pIMXRjN3hFVUFtRk90b1B3ZkFOXzlRNWZxVw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T18:00:44Z",
-      "summary": "华尔街银行家们正积极学习AI技能以应对自动化浪潮，但这一转型成本高昂。传统金融岗位面临被算法替代的风险，银行要求员工掌握机器学习、数据分析等能力。然而，培训投入、时间成本以及岗位重新分配的压力不容忽视。AI自动化在提高效率的同时，也引发了金融从业者的职业焦虑。"
+      "publishedAt": "2026-05-27T11:46:31Z",
+      "summary": "投资分析网站Motley Fool建议投资者放弃以256美元价格买入芯片公司Cerebras的股票，转而选择仅需62美元的人工智能ETF（交易所交易基金）。文章认为Cerebras虽然专注AI芯片，但估值偏高且竞争激烈；而AI ETF分散投资多只头部科技股，费用更低且风险更小。这一建议反映了当前市场对AI主题投资的两种路径：押注单一明星公司或通过指数化工具获取行业整体增长，后者在性价比和安全性上更优。"
     },
     {
-      "title": "This Artificial Intelligence (AI) Chip Stock Just Joined Nvidia, Broadcom, Taiwan Semiconductor, and Samsung in the $1 Trillion Club. Is It a Buy Now? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3FRWWdodXJ1ZWRIVWhTRE9zU19jLUpndnVwNVg3RHpqYS01WG9xY3lhTGlGdGdoX2xERnNCZ284VHhtVkg0aUlYWGpDaWRsazF2M0tnZEVfS3BVMWJyUUg4VVhXaU1UWWNlY0xhRWtBTFdTLUJURUFFcy1KbmpJUllfTGFzWFFZ?oc=5",
+      "title": "Louisville Business First names 20 People to Know in AI - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUlSUDBCRXNmR09MQWtmREVocE9ENkVqOHg2Uk4tckd0aUduUTBJSDVpOHVseFdnU0prUmMtdFh3dlNCUGFKYnhzQS1qOWkwY184ajhSZWdUbGc3b3NSZTJyMDYzQ3ZER0lFMHc5SnlaV0NCbk1Hck1tb3lkM21zTHhrSlRiV1BadFphYklBS2F2QzZydzZMUmlB?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T17:49:19Z",
-      "summary": "又一家AI芯片公司跻身万亿美元市值俱乐部，与英伟达、博通、台积电、三星并列。该公司的核心业务集中在AI推理芯片和定制化加速器，受益于大模型部署的爆发。分析师指出，其技术路线和客户粘性是关键优势，但宏观经济下行、供应链风险及竞争对手追赶可能影响增长。投资者需关注其长期护城河。"
+      "publishedAt": "2026-05-27T10:46:00Z",
+      "summary": "路易斯维尔商业杂志《Business First》评选出20位在人工智能领域值得关注的人物。该榜单涵盖当地企业高管、学者、创业者及创新者，他们分别在AI应用落地、算法研发、伦理治理等方面做出贡献。评选旨在突出区域AI生态的活跃力量，为投资与合作提供参考。这些人物来自医疗、金融、制造等多个行业，展示了AI技术从实验室走向产业化的多元化路径，也反映了美国中部地区在AI人才方面的崛起。"
     },
     {
-      "title": "From algorithms to atoms: How artificial intelligence is accelerating the discovery of next-generation energy materials - EurekAlert!",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sS0hsdnRHaUNlX2tyUUlUbkRMREtUSHhtY1B2Y05VYUliODdZUFgyNUphbnJsX01IMjdHMU1YdUk5YXFiMzQzUWhtbHBqcmQ2VjBXYWpHLUJfZG93?oc=5",
+      "title": "Are your AI investments building intelligence? | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0JWZWhBSlpBU281RXpQYnZ6VVp0Ym9Ja1ByTUdWS2dWTFEwME9FVUFOREU5TGNObDRYYXE1ekVQcXBHV1M2NkpaZFZFUlZ0c2V6RDR3cDdmN2Roai15VHhxOUdXcmM2RkwtZlRsMHpHRElWeFZpWXowU3BDUXQzdXlMNmZ3cUJBeXJVWFBNV2hnN0ZIb2JJM1BWcktHSlpVTFdac3A1VmpURUFoZDg2ajNvRjRGREFJMDByMtIBwgFBVV95cUxQaVNvYmtOWEZuNkdyWnB1VWhHTTA5clRmMzBzTTlFbjB1b0tOUjBtRG1OYlhXckk5U0otbmZtem16cDc3eFRFZFAzTnBsU1Z2c1N6aEdwT3BVSmFrdG9CeGNsTVQ1T3B4Ymk5ZThCM2FXMEMtMUFFX2pZUE5CUVRLLVh2NndTckx0MG1kMHlOX3ZhQmRnQVprYTROTmNDUjFnUzNyWXRJaUY0OWI4YmVhQXZpRmQ5V2VRVEtiY0p3Y3VDQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T17:18:24Z",
-      "summary": "人工智能正在革新能源材料的发现流程，实现从算法模拟到原子级设计的跨越。传统材料研发依赖大量实验试错，耗时费力。AI通过高通量计算、机器学习预测和逆向设计，可大幅缩短探索周期，快速筛选出高效催化剂、电池电极、光伏材料等候选。此方法已催生多种有潜力的下一代能源材料，加速清洁能源转型。"
+      "publishedAt": "2026-05-27T10:16:45Z",
+      "summary": "《印度斯坦时报》发表分析文章，质疑当前AI投资是否真正推动了“智能”的进步。文章指出，许多企业过度关注软件销售和模型迭代，却忽视了基础研究、数据质量与伦理框架的投入。作者认为，真正的智能应具备可解释性与适应性，而当前多数投资集中在算力和应用层，存在泡沫风险。文章呼吁投资者审视AI项目的技术深度与长期价值，而非盲目追逐热点。该评论引发了对AI行业投资结构合理性的思考。"
     },
     {
-      "title": "From idea to AI app: Creating intelligent research assistants with Strands - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUEc0dlMxUV8xdmJFMmRvQlBVVzZpN1Q1cllqOU5lTmx4UUJOTktIdl91UnZBT0g0N095bzM0Y1JPWkxBQ1o0X21RdTEwdjVSZUF1OFc5cVV3YVQ3MVg3WGVjdFFTZmtMU2R0SHRvMG50SjB5ZUdnOEF2d3BoTDI3V2tsUXkyelA1MnVVeHg3Q3hCd0NucjZON0JYOTRGYS1rOFRtbnc2REMzZjBHRmsyaXNIV0QxUkgyTzVqXw?oc=5",
+      "title": "Suspended officials used artificial intelligence to translate, edit national AI policy - EWN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmhpdXEzUVVuMzZvMzROVmVtaF9XV1pvS2VlVXY5N2RiU2lpcVNaU2ZkR2RwcUhfZUpFTXJTVVFTcG5CVkIxeFlqOVJSQ25CUEhwZlhHOEFuc1kwclhhUlVLOXl1MGZBMUM3UkU1Y1lrdkNGZVFKcGJlZ3BkMnp2RnFkaGRXTDJ0R2cxSnIzdWltWkh1MjhfWW5vdEwtUnlyNHMtTnFyeHg0UzY2?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T16:28:08Z",
-      "summary": "亚马逊云科技（AWS）展示了如何利用其Strands服务快速构建智能研究助手应用。Strands提供模块化AI组件，支持自然语言处理、知识检索、文档分析等功能。开发者可通过低代码方式集成这些能力，打造面向科研、企业调研等场景的助手。该方案降低了AI应用门槛，使非技术团队也能快速将想法转化为实际工具。"
+      "publishedAt": "2026-05-27T10:02:30Z",
+      "summary": "据南非媒体EWN报道，部分被停职的政府官员涉嫌使用人工智能工具翻译和编辑国家AI政策文件。这些官员在停职期间仍接触敏感政策内容，并利用AI简化工作流程，引发对其安全合规性的质疑。技术层面，AI被用于多语言转换与文本润色，但若未经过人工审核，可能导致政策偏差或泄密。事件暴露了AI在政务场景中使用的监管漏洞，有关部门已介入调查，或将推动出台更严格的使用规范。"
     },
     {
-      "title": "Chinese AI experts in private firms now required to secure approval before international travel — Beijing enforces policy to secure top-tier talent, expands measures beyond government - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUnc4SGNnUVFiRzRIWTduc0tsbWJLYmRKeDByeUxEMkJMMGlCdDFwWHJaWnpFY21TS0NOWWNnVGdZLUQ2VjQtUDJ5SU5oc0ZLUnVQbG1MREw1cjhHUXVTY2NVa1dKdFhDXzM5QmNKaDdJMVB2cTBxM2NGQlJCdzl6R3pnYVVCVTQ3QWhJa3NRc3puZ3RCaUJ0Tmh3Q2c2UVlYYWxWNnM3T2VRQTVhQ1ItOXdKWFhfRzZJSVl5aFQtVWJrdndCVVczWjRvcGhDdHhjSFJya0NfQmpTWHBhVE1QY2h4OXFES3FwTm85UWhLUmZuaGc1cXZCX0szakRGZkpHbkVpTkp5TVFscmo5UU5uQVNUNTh0enNPQlhNVmpSeWFHTC1TZFpGUkRtbVBOVkVxeTlxTDVwd1VKeE94Q1dLNVpoQUpMMXN5YW0ycXdmVUVXejlOenZ5eHdTdVBMbFhORTNqeExn?oc=5",
+      "title": "What the Pope Said About A.I. - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TTG1vUm9YNExKNlhuUmpUT3FQZm1vb3ZFRmZucm5JWEFVT0hRSDM5d3JDdmppM1Y5TUZPYjhmWTZDTUF4RXo2eWZmbVpwZGNmc2VsdFdIVG9wMjNPQ2Y0ZlpLamNrLTd1VGVOWTFvSFh6MFNPOUZlTlQwTQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T16:09:28Z",
-      "summary": "中国加强顶尖AI人才管控，要求私企中的AI专家在出国前必须获得政府批准。此政策此前主要针对政府或国企人员，现已扩大到私营领域，旨在防止关键技术人才流失和技术泄露。措施包括更严格的护照管理和出境审批流程。此举反映出全球AI人才竞争加剧，各国均采取手段保护核心科技优势。"
+      "publishedAt": "2026-05-27T10:00:00Z",
+      "summary": "《纽约客》杂志刊文详细阐释教皇关于人工智能的最新言论。教皇在多个场合强调AI的发展必须以人类福祉为核心，反对将机器赋予道德判断权，尤其警惕AI在武器、医疗和信息传播领域的失控风险。他呼吁全球领导人建立伦理框架，确保AI辅助而非取代人类决策。文章指出，教皇的立场融合了宗教人文关怀与科技理性，其发言不仅影响天主教徒，也为国际AI政策辩论提供了独特的道德视角。"
     },
     {
-      "title": "This startup is betting India’s gig economy can train the world’s robots",
-      "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-26T16:00:00Z",
-      "summary": "初创公司Human Archive利用印度庞大的零工经济，训练全球机器人。他们雇佣工人佩戴摄像头帽子和传感器，在真实环境中执行日常任务（如搬运、装配），录制大量动作数据。这些物理训练数据对于机器人学习精细操作和适应现实世界至关重要。该策略成本低廉且数据多样，可能成为机器人研发的关键资源。"
-    },
-    {
-      "title": "1 No-Brainer Artificial Intelligence (AI) Stock to Buy With $150 Right Now - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGhvVGxhSUNzMEpIN1N5TmdfclR2RnZPWXFFRERmNUJwNGdyZUd1RU1uT3E2NXdVRmQzZ3Zmbmd0bXVvbl8ycFpvaTRDc1VJdE9SSW5PdkltaXFLakpMdmpBcWplZ3c2aW1TVUhXLXZ0MkpzeDY3S25SbFBva0RIYkUxRkxfRUVWX0kyT2UyQTg0RzFUTUxZ?oc=5",
+      "title": "What Happens Inside AI's Mind Is \"Mysterious, Unsettling\": Anthropic Co-Founder - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVRjZF82V0JNVkRaclQ5a0RlR2w4azJLbUNYNWN5d0ROYXB3NVlKWkhNNkRLQlI0Zkcxa1JsOWNZd2NudEk0a2dyLVZrcWV4M3ZlMkV3OFE4UXA3QjZmdldJS244emt4d1gyeGVZaHAyc2hXY0QyZDdzM1p6b1hjejRrRHkybUYtNXpMZHJBOUZMTzdXdjhSdDhRWE5pTlpFLVFuOGZtTG5RcmZJb1JSc3N2dXRfWXl3STlMMjNhb1dpX2llaEpB0gHPAUFVX3lxTFBZRHNfeXVuVlhEQ25xaS1OcUY2R2pDRUhjZDNKQnRTa2ZxMUpDdXk0WDRXNFRNemVDWm52TjQ0RmM2dk9rTlNXWFJtVXdGMGNabmZ5VzZPN3RaVjZuaFF0c0w3U05XcHNDak1yZFVEZkZGTTVGcnMzVVpldGNHS05Jb0VEVWxISWRMSFg3MTdSUlFfSGhIQkRYOFFibU1pLTVqWmJJYVhmcGIwUjRlOFlYcTJMVi1hMWFzOGFKc2xlTTZvLURBbmhZSk1TTHFxRQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T15:30:00Z",
-      "summary": "The Motley Fool推荐了一款当前仅需150美元即可入手的AI股票，认为该投资具有“无需思考”的确定性。文章聚焦于一家在人工智能领域具有显著竞争优势的企业，其业务涵盖机器学习、深度学习及自动化解决方案。分析指出，该公司凭借强大的技术壁垒、稳定的现金流以及在AI基础设施中的关键角色，有望在行业爆发期持续受益。对于小额投资者而言，以当前价位介入被视为低风险高回报的策略，体现了AI概念股在资本市场的持续吸引力。"
+      "publishedAt": "2026-05-27T09:51:42Z",
+      "summary": "Anthropic联合创始人表示，AI模型内部的运作机制“神秘且令人不安”。他指出，尽管模型能生成类人输出，但研究人员难以完全解释其内部决策过程，存在“黑箱”问题。这种不可解释性可能导致不可预测的行为，尤其在安全关键场景中构成风险。Anthropic致力于通过可解释性研究提升AI透明度，但创始人坦言当前进展有限。此番言论再次引发业界对AI系统可理解性与可控性的讨论，呼吁加强基础研究以应对潜在危害。"
     },
     {
-      "title": "Why Corporate Treasuries Are Increasing AI Investments - Global Finance Magazine",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82a2Q0ZzFJZW52a1ZVenJzLXV2ZFg1aWlTRnJPcHFKOWJVOVc0QnI5MTE0SEZKWmN6bXFFQUpLcTF2X3FmY3lhS1ZqVFdEanJCa2Vtd3R2OTcxU1NhM1p0cGg4SF9YWmxNR1B5djFYeU52a0k?oc=5",
+      "title": "I Recently Bought an Artificial Intelligence (AI) Stock That I Predict Will Double by the End of 2026 - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQb0JrQUhYWC10d2JvRno1RzZacXhlOGNvWDhvaTZzQ2p6dWIteXNhalZlc3ZOV1RiOGRrVXBTLU5kcFhSMlJDcGNIaHJiMkpRUGhORmRxM1ozY2x5VG1DWHRGQnB0bUZob1VtMVhvbmxia3JEend4TEpfRUxaTmRsbWljWmZiUU1UN1VpVnFCelZ1Z05YNGstbFk2TWUwTXF6Rkc1LS1IWXg5ZGF0cmpjQ05Ua3pMNF9ITmloVU4tSk1pVWdnQlVSQjkwOHg2RHhnSVN4Z1lEYUVmdTZhajF4UlhFdEpwQ3ZKMW1uTkhKUGpFMlBpM3BlM3hraUhNMU5idndveUZSQVVaQXVzLXRSM0xaRQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T15:23:34Z",
-      "summary": "Global Finance Magazine报道了企业资金管理领域正加速AI投资的新趋势。文章指出，随着全球经济不确定性增加，企业财务部门开始利用人工智能优化现金流预测、风险管理及流动性管理。AI技术能够实时分析海量数据，识别市场异常并自动化执行交易策略，从而提升资金使用效率。此外，监管合规压力也促使企业采用AI进行反欺诈监测。报道认为，这一转变将重新定义财务职能的角色，推动企业从被动记账向主动战略决策转型。"
+      "publishedAt": "2026-05-27T09:20:10Z",
+      "summary": "一位投资者在《环球邮报》分享其近期买入的一只人工智能股票，并预测到2026年底该股价格将实现翻倍。尽管未披露具体公司，但分析指出其选择标准包括：垂直领域技术壁垒高、商业化路径清晰、现金流稳定。投资者强调AI行业仍处于早期扩张阶段，部分细分市场（如自动化运维、智能客服）增长潜力巨大。该预测反映了市场对AI赛道的乐观情绪，但也提醒需关注估值泡沫与竞争加剧的风险。"
     },
     {
-      "title": "Marc Andreessen AI Bets: How a16z Went All-In on Artificial Intelligence - Social Life Magazine",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZTmM3emEyN0tuZU9WRm9VNTh6eXhLMkk2eVEzMTFmODItRG1kWk9Cend0MzdUbnhVaUx0QjV6MTBQa00tS3lWdjl2cHlEQW9ZQnhRZ01iTy1wUVNIN2hDUlI0UVpTZTlvUFJTSVp3Q0VoTUhHb3Vvbk5BNGI?oc=5",
+      "title": "Canadians may ask AI for medical advice but don't want it replacing humans, poll suggests - CBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ZVBwQ21MUTFYNGNPSVptVGJpMXFDWmpscEpjbVBpMlJxX3hzUEtjZmNCQzNmNjNRZlNKVGdvWjgtQUpBZTEtSGhhek9wN2w2cUVsX0JOeldNNHJSWHhnblhicHd6ZFlVbTN6cDFpYWtYRV9yWDJPVg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T15:19:27Z",
-      "summary": "Social Life Magazine深度剖析了知名风险投资人Marc Andreessen及其创投机构a16z全面押注人工智能的战略。文章指出，a16z近年来将大部分资本集中在AI初创企业，涵盖大语言模型、AI芯片、医疗AI及自动化工具等领域。Andreessen坚信AI将彻底重塑所有行业，其投资组合体现了对技术拐点的前瞻性判断。报道还提及a16z通过内部孵化、深度投后管理以及政策倡导等方式，试图主导AI生态的下一波创新浪潮。"
+      "publishedAt": "2026-05-27T09:00:00Z",
+      "summary": "一项民调显示，大多数加拿大人愿意向人工智能咨询基础医疗建议，但坚决反对用AI完全取代人类医生。受访者认为AI在症状筛查、用药提醒等方面有便利性，但担心缺乏同理心与临床判断力。技术与伦理的平衡是关键：AI可作为辅助工具提升效率，但最终决策权应留给人。调查还发现年轻人更接受AI医疗，而老年人更依赖传统就医模式。该结果对医疗服务数字化建设具有指导意义，提示需明确人机协作边界。"
     },
     {
-      "title": "‘Magnifica Humanitas’ a reminder of ‘moral responsibility’ in AI oversight, expert says - OSV News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaERXdzJIYm9FRmFKSWJrRGtoS29fWkFoWVVvLTZvdWc0ak1ULUdjNzNwdlRCNzYxQU45UjI3NEIxNzRqZlVZNGJOVTBLY1lfeXl3eHc3MTc3SVhObmtISnJCWkFicGxXVGxrQllXelJiTWZYeGVVNmt3WmJIUWdqVEtBQmJoMkR0Y1RBY2I1ODdVMElWSWU3eWNfUVVadmxxQ0RFeVNoWGEwQm8?oc=5",
+      "title": "In order for artificial intelligence (AI) to provide customized information for users' situations - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lT1A5UFNWbzZOSF9aNHd2QThMTGdVWkxTN3ktY1hrZTNSeFhlelNob0JLTEVmVXlVcVh3aXMwWUpHTmFsU3Ffelh0bw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T15:13:30Z",
-      "summary": "OSV News引用专家观点称，梵蒂冈文件《Magnifica Humanitas》提醒人们在AI监管中坚守道德责任。该文件强调，人工智能的发展不能脱离人性尊严与伦理框架，尤其在决策透明度、偏见消除及人权保护方面需建立严格规范。专家指出，当前全球AI治理多侧重于技术效率，而忽视了算法对社会公平和民主制度的潜在威胁。文章呼吁政策制定者将“道德责任”纳入AI系统设计全周期，避免技术失控导致的人文危机。"
+      "publishedAt": "2026-05-27T08:55:50Z",
+      "summary": "韩国《每日经济》报道指出，为了让人工智能（AI）根据用户所处情境提供定制化信息，技术攻关聚焦于情境感知与个性化推荐。通过分析用户位置、时间、行为等实时数据，AI系统需构建动态用户模型，并确保隐私保护与响应速度的平衡。这一方向对智能助手、精准营销等领域具有关键意义，但如何避免信息过载和算法偏见仍是挑战。"
     },
     {
-      "title": "OpenAI’s Sam Altman Retracts AI Job Cut Prediction - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUVpX1J3VU9QMXZURXluZUYxVXVhMlNVZzVUVzhYTjl1dlhBZl92Uk1nUHFMaF9EYXlRN1VQaXpMOEdHS0RxTG91bzllN3EySk43Y2MyWjBQNDYwdGRuU0wweXNldmoxdl92dGVUNnFqUzdvSkFzUElLelZuVEFSSXJWNFNicTBfb3A0bTdiMktEOEEwWjE2UnBveUpmMXZwZGF1a19SYw?oc=5",
+      "title": "Artificial Intelligence: China overhauls world's biggest surveillance network with advanced AI - Golem.de",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVHktal9MUHBJYzkwUjRtLVAzWDVXOEVyRXQ1bUxHUGZYMEplR0xzOUlBbUdEd0V1eHVQUEVfby1FaGx0QmN2WEU2VUR3Mk11R2hfdVQyaER1OTFqN3AwYy1CTVhpSmxJa0ttejVQM05jc1JzYVFSYVptVXo1bFJ6dHZlYTNMNTBfSUZKWUgxeF9ZYkZLWjd1aEtXQ3dINEdodVBQblJjREp1Z2NsR3p3NFZMdTdoRjRvekpsczVBZGRKMmFRVzhzVzdvV2tDdm1xTkE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T15:09:55Z",
-      "summary": "PYMNTS.com报道称，OpenAI首席执行官Sam Altman近期收回了他之前关于AI将大规模取代人类工作的预测。此前Altman曾警告AI可能导致大量岗位消失，但最新表态转向强调人机协作与技能重塑的可能性。Altman认为，当前AI更多是增强人类能力而非完全替代，同时呼吁政府和企业投资于再培训计划。这一立场转变反映了科技行业对AI社会影响的复杂认知，也引发了对劳动力市场未来走向的重新讨论。"
+      "publishedAt": "2026-05-27T08:45:02Z",
+      "summary": "德国Golem.de报道称，中国运用先进人工智能技术对全球最大的监控网络进行全面升级。新型AI系统整合了计算机视觉、行为分析和云边协同技术，大幅提升了视频分析的准确性与实时性，能够快速识别异常事件和特定目标。此举在强化公共安全的同时，也引发了对隐私权和数据治理的讨论。中国正致力于在安全与隐私之间寻求技术平衡。"
     },
     {
-      "title": "AI is ‘going to break down millions of careers,’ Gartner analyst says - HR Dive",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbF92VzF2dm9fVEhiR3R0dHdWU253NWN5RmJqS2hSeWFIb0xrZVlTM2RiYm9nQTNGR1lBZHpON0VuVHJzdmNXcmZMVTJHdGEycWZYeXdGMWdzMnNmV20zdjFBYkRzcXRYcU9BMTdZUFE5c1RXTHNkWDZDU3BJSTdiOXBKZHpuNUQ3T3o0OC1ZYw?oc=5",
+      "title": "I'm here to see Korea's advanced artificial intelligence (AI) technology. I'm going to listen to st.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GdG0tZnVvSUI4dWQ3RzVxV3JDN1RpUU1CdktoUG9GTlQ5U09UNjNUQkcyY1dEek1zcUtoSHBBTTA1X0xOMUhMaXJqN3lQaFE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T14:58:09Z",
-      "summary": "HR Dive援引Gartner分析师的观点警告，人工智能正在“摧毁数百万人的职业生涯”。分析指出，AI将首先冲击白领岗位，包括客户服务、法律文书、数据分析及初级编程等重复性高、模式化的工作。与以往工业革命不同，本次变革速度更快且波及范围更广。Gartner建议企业立即启动员工技能重塑计划，同时调整招聘策略，优先聘用具备批判性思维、创意与情感智能的人才。文章还强调，若无主动干预，AI可能加剧社会不平等。"
+      "publishedAt": "2026-05-27T08:24:34Z",
+      "summary": "韩国《每日经济》消息，多位国际访客前往韩国参观其领先的人工智能技术成果，包括智能芯片、自然语言处理和机器人等应用。韩方重点展示了AI在制造业、医疗和公共服务领域的落地案例，并计划听取行业专家关于技术创新与商业化的建议。此举旨在加强国际合作，巩固韩国在AI领域的竞争力。"
     },
     {
-      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-26T14:55:05Z",
-      "summary": "TechCrunch报道，环球音乐集团（UMG）与TikTok续签协议，共同打击未经授权的AI生成音乐。协议要求TikTok强化内容审核机制，利用AI识别并下架侵犯版权的合成音乐，同时禁止使用受版权保护的录音训练AI模型。UMG此前一直向流媒体平台和AI公司施压，推动更严格的政策。此次合作标志着音乐行业在AI侵权问题上达成共识，但也引发关于合理使用与创作自由的争议。"
-    },
-    {
-      "title": "1 No-Brainer Artificial Intelligence (AI) Stock to Buy With $150 Right Now - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcFlBWlRzcWhfdTVFbnhsTEdIcHVwcFJhVlFoN1R2ajJ6TWFTTWJHQW4wdEdPUE8xUVl4T1IzZXluajIxTmpzRUItTi1KNnU4endPeTJFQ0lFMG1mMW5Mek1rUTMwTzRuX0s0VXBRbjBVdU9CZGlnUWxUVFJyVHNHbldqb2NkVVh1U1pPN2tsZ2J1V2pmTDh6VXFjOFpueFNVYkt1V1JyOElVMGd3RldkVEUxd1NsOHZDMDllR0l0S05ONkxkcWY4cnBFM1RyQnI1NFlXaGRHMnUxb3M5bHlfQkpfMzd5Wm5rMHc5bg?oc=5",
+      "title": "Artificial Intelligence May Contribute up to 7 Per Cent of Hungary’s GDP - Hungarian Conservative",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2NpOE4yc1JtTndVeExiSjM3R3JkZ0JCTFh1RHFZR3R1MS02TG80Sk1yZEk5eEIxVGxxSUtPdmZES3MzQnBqVnVMSnFhdlczaHBZNFZUOUFxVVFqZWtFRHR3cU0xS2xfUjFPTWQ1aXVMbjQ3UGd6RG5hRFpaYm1iRkdrSzFONXp5bW9QTVVUcUQ2RXJGX2dCeg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T14:51:11Z",
-      "summary": "The Globe and Mail报道了一款当前仅需150美元即可买入的AI股，称其为“无需思考”的投资选择。文章推荐一家在人工智能基础设施领域占据主导地位的企业，其业务涵盖云计算、AI芯片及开发者工具。凭借强大的技术护城河和持续增长的营收，该公司被视为AI浪潮中的核心受益者。对于小额投资者而言，当前估值提供了绝佳入场机会，长期持有有望分享行业爆发红利。"
+      "publishedAt": "2026-05-27T07:53:05Z",
+      "summary": "匈牙利《保守派》杂志援引研究报告指出，人工智能有望为匈牙利国内生产总值（GDP）贡献高达7%的增长。该报告分析了AI在制造业、金融和物流等领域的深度融合，认为自动化与智能决策可显著提升生产效率、降低成本。匈牙利政府正积极制定AI战略，通过税收优惠和人才引进措施吸引投资，同时关注技术转型带来的就业结构调整。"
     },
     {
-      "title": "MDOT Global Secures Multi-Five-Figure TECH Grant and Launches AI Ethics Initiative to Transform How School Districts Implement Artificial Intelligence - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOaWhsdVdQYWtySEZIT21uMTVULVZYMENxYUxmYkFQNWZzX2hnS0gzWkxvSDVlQlNma0w3NzBuT0hGV0RBZU1hWkpWZVJkNEYzenVRa1ROQ1F3SnBwZF94RnNRbmdvWENtRjA2VDRyTW9VX1ZpWXlJNFMxNlFPczRpMWtSc3g4MzM2ZmVicWFzR3NQNEc0RWRXNF8wVEtMaVJzUFFZNzB5NmlyaUNsNDg3Z1o5Y0NsZ2FFRlN2dVNvMjZfck1Ja01HOE1DRHA2SVgwaTE0Tjd6UGtsWFBQV0VQamlValU2ZFZMb3Q0ZDFMbDltR2FZRE5fazNCMjdDbzVXT3J0VzJFNHIyaWt1aF9YbjlJRVBOZTZvdE1zTjVVU0I3SGdkTG9BYWRrR0ZSdEF5OFl2eXpSZlY3WjhpZ2Yxcmw3QUFUVjTSAcwCQVVfeXFMUFdxV0JmMkl1VmEyQmEtVWFaS1pFV1JUdUpZSGJxaTA0Z2RkTHFJOWVCY1MwdUhSY0U4blg2ajRwcUF5M1FxcEtvSEFjd2FHZ3Y0dk80LVpyQ093enVVVDYtS2JHR2hJbW16ODUwRW1vdENKYlRQNmxmYXA1TzNLOFdXclVtYVZLYlNoZ3NQMzBzbXRGeXVCOFFsLUxpS2xqaWhHbTFadkRiOHNPZGl3XzdiaU9JZHpmU0JuNjVlcGJYN0kyd2RRTzY4SmJMd3plZldPcVB6THFsbkQ4cUxjcFluY3hlUGx0M0F0NWFldEVNdUFlb05uSmlJSE5FZ1Exd1lEb2xqMTNFX1dtZ29NUXVMVEhmMlNSUTl0Y0RXMWFDRlZTdktuVGp0VnJSdG5BcGhGakZEVEpJT3l2c1VUU0lXeDJfTDFLRk1vU1I?oc=5",
+      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41VXVpWVF6amtneW91VU9ObDkzcks4emE2TXRLY0NwREtnQ2FHakxpV0NqNmN0MzNyQ25ZSUhMRzJwbUw0X2hRN0VmamlwbTE4bVdSeHhwdEx4M2JROVZtMnltaUx2cUpaTGpjMmRuaVliTEVhOUdKYWt6ZHRLUjA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T14:08:13Z",
-      "summary": "The Manila Times报道，MDOT Global获得一笔五位数的技术拨款，并正式启动AI伦理倡议，旨在变革学区实施人工智能的方式。该倡议将开发可操作的伦理框架，指导学校在教学中负责任地使用AI工具（如个性化学习系统、自动评估工具），确保算法公平、数据隐私及学生权益。MDOT Global还将为教育者提供培训资源，并推动社区参与监督。此举反映了教育领域对AI伦理治理的迫切需求。"
+      "publishedAt": "2026-05-27T07:45:00Z",
+      "summary": "《黑客新闻》发布安全警告，称部分AI聊天机器人在推荐链接时被恶意利用，将用户重定向至加密货币劫持（cryptojacking）恶意软件站点。攻击者通过操纵推荐系统或植入恶意广告，诱使用户点击后自动下载挖矿脚本，占用设备算力。安全专家建议用户对聊天机器人推荐的第三方链接保持警惕，并启用浏览器防护插件。此次事件暴露了AI推荐系统的安全薄弱环节。"
     },
     {
-      "title": "Stop Babysitting AI Agents: Build a Context Engine - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDZ2c2dPLWFxQnFxN3ZkWWdXZnFuZy1Ha0I3ZFJsN3dld0hBNWdONl8wWUdfQjh6TkJPZ2VVdjdCbzN5bTd0VVhBeVZIT0h1N00tbEMtdHBZZDUtSUZILUFjODlHc0lTMzFpcE9Jd3NmSmxIa0c0TWVuMXlQajBVcVljcDB1b0hxTDhld01FSzZqeXdPMFFiZmtaVG5qX05GSlBWYkkxRVdjVlktdjlPTDZn?oc=5",
+      "title": "Pope Leo on centering human dignity in the age of AI - The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlVPSC1fMmtDTXVDeWFoNWxBTVlIQVp1NEUyRXhPRS1TVWpYbUYtOUJ5NUlXWDZtVkNKN3pKdEQ5Zzd6bkRVeEQ0ZGZ1RFY5YWp2aTZ0aEtPWE5tMWY3b1FueTFiLUNJTkR3Wks1MEpuV2FEY0gtVzZBakhIaVV4MWtuWF9saG5ubFhOZGJDa3R4ejBSdml1Vms0Q0RGc0dkNGc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-26T14:01:56Z",
-      "summary": "StartupHub.ai发表文章，主张不应被动“保姆式”监控AI代理，而应构建专门的上下文引擎。文章指出，当前许多组织在部署AI代理时依赖人工反复纠正错误，效率低下。作者提出设计一种能够持续跟踪对话历史、任务状态和用户意图的上下文引擎，使AI代理能够自主推理、记忆并自我修正。这不仅能降低人工干预成本，还能提升复杂任务的完成准确率。文章提供了架构设计与实施建议，旨在推动AI代理从“半自动”迈向“全自主”阶段。"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
-      "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-26T14:00:00Z",
-      "summary": "TechCrunch Disrupt 2026大会的早鸟票优惠将于5月29日太平洋时间晚11:59截止。在价格上调前购买，可节省高达410美元。该科技盛会将在旧金山举行，现正开放注册。有意参会者需抓紧时机锁定优惠票价。"
+      "publishedAt": "2026-05-27T07:08:35Z",
+      "summary": "《波士顿环球报》报道，教皇方济各（Pope Leo）在最新讲话中强调，人工智能发展必须坚持以人类尊严为中心。他指出AI技术应在伦理框架内服务于公共利益，避免加剧不平等或侵犯隐私。教皇呼吁国际社会制定以人为本的AI治理准则，确保算法决策透明且可问责。其观点反映了宗教界对科技伦理的高度关注，也为全球AI政策讨论注入了人文视角。"
     }
   ]
 }

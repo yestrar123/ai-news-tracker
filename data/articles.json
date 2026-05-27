@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "id": "463",
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T12:30:00Z",
+      "summary": "Robinhood推出新功能，允许用户为AI代理创建独立交易账户，并预先存入资金，供AI代理自主进行股票交易。这一举措旨在将人工智能与投资理财深度结合，用户可通过设定策略让AI代理执行买卖操作，降低人工盯盘成本。技术核心在于API接口与风控隔离，确保代理仅操作专户资金，不触及主账户资产。此举标志着Robinhood在AI金融应用领域的进一步探索，为散户提供自动化交易工具，但同时也引发对算法风险与监管的讨论。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "464",
+      "title": "Pope Leo presents 'Magnifica humanitas’ calling for disarmament of AI - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUdBZG1NcERtUDFmMlp6Y05zY1VCNjhoOVFjMThkSnRURDJuUnZoZWRCY3RQaVBHaFJ3bGNBcURvOHpTSnVTQ2RDMDBnRng1SXNHNDVEM3ltYWNoYmN6Y3RxY0ZzZ0QxMmpiaWNaQkJnNGs1cDU0WDV6YndhNGpTa01kRVVGR3pSNFp0VnAzcjRxYWpVQUpCOFpXOWM0YVpyc2pvWTZHa0h6R0pYaWxRSk9lTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T12:16:03Z",
+      "summary": "教皇利奥发布名为《Magnifica humanitas》的文告，呼吁全球对人工智能进行“裁军”，即限制并规范AI在军事等高风险领域的应用。文告强调AI发展应遵循人类尊严与伦理原则，反对将自主武器系统或算法决策凌驾于人类控制之上。教皇指出，AI的快速迭代可能加剧不平等与冲突，国际社会需制定具有约束力的条约。该呼吁受到梵蒂冈官方媒体报道，引发宗教界与科技伦理领域对AI治理的广泛关注。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "465",
+      "title": "Forget Cerebras at $256. Buy This AI ETF Instead for Just $62. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2QxODlFZ254Q0ZsQ3FQa2lFVjFERHRuNE1vc3gwUHZlQ0ZSeTRNMjRNVUV4MllhOHlxM3hXX2pzYU41S29QZUIzVU9ZdHZCOVh0dEcwVlE3bzZlaFg5NGFJcmpVWHhIcDl1YzY1ZEk3cVI3Q1J6VlBGdldsT3pIMXRjN3hFVUFtRk90b1B3ZkFOXzlRNWZxVw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T11:46:31Z",
+      "summary": "投资分析网站Motley Fool建议投资者放弃以256美元价格买入芯片公司Cerebras的股票，转而选择仅需62美元的人工智能ETF（交易所交易基金）。文章认为Cerebras虽然专注AI芯片，但估值偏高且竞争激烈；而AI ETF分散投资多只头部科技股，费用更低且风险更小。这一建议反映了当前市场对AI主题投资的两种路径：押注单一明星公司或通过指数化工具获取行业整体增长，后者在性价比和安全性上更优。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "466",
+      "title": "Louisville Business First names 20 People to Know in AI - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOUlSUDBCRXNmR09MQWtmREVocE9ENkVqOHg2Uk4tckd0aUduUTBJSDVpOHVseFdnU0prUmMtdFh3dlNCUGFKYnhzQS1qOWkwY184ajhSZWdUbGc3b3NSZTJyMDYzQ3ZER0lFMHc5SnlaV0NCbk1Hck1tb3lkM21zTHhrSlRiV1BadFphYklBS2F2QzZydzZMUmlB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T10:46:00Z",
+      "summary": "路易斯维尔商业杂志《Business First》评选出20位在人工智能领域值得关注的人物。该榜单涵盖当地企业高管、学者、创业者及创新者，他们分别在AI应用落地、算法研发、伦理治理等方面做出贡献。评选旨在突出区域AI生态的活跃力量，为投资与合作提供参考。这些人物来自医疗、金融、制造等多个行业，展示了AI技术从实验室走向产业化的多元化路径，也反映了美国中部地区在AI人才方面的崛起。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "467",
+      "title": "Are your AI investments building intelligence? | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0JWZWhBSlpBU281RXpQYnZ6VVp0Ym9Ja1ByTUdWS2dWTFEwME9FVUFOREU5TGNObDRYYXE1ekVQcXBHV1M2NkpaZFZFUlZ0c2V6RDR3cDdmN2Roai15VHhxOUdXcmM2RkwtZlRsMHpHRElWeFZpWXowU3BDUXQzdXlMNmZ3cUJBeXJVWFBNV2hnN0ZIb2JJM1BWcktHSlpVTFdac3A1VmpURUFoZDg2ajNvRjRGREFJMDByMtIBwgFBVV95cUxQaVNvYmtOWEZuNkdyWnB1VWhHTTA5clRmMzBzTTlFbjB1b0tOUjBtRG1OYlhXckk5U0otbmZtem16cDc3eFRFZFAzTnBsU1Z2c1N6aEdwT3BVSmFrdG9CeGNsTVQ1T3B4Ymk5ZThCM2FXMEMtMUFFX2pZUE5CUVRLLVh2NndTckx0MG1kMHlOX3ZhQmRnQVprYTROTmNDUjFnUzNyWXRJaUY0OWI4YmVhQXZpRmQ5V2VRVEtiY0p3Y3VDQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T10:16:45Z",
+      "summary": "《印度斯坦时报》发表分析文章，质疑当前AI投资是否真正推动了“智能”的进步。文章指出，许多企业过度关注软件销售和模型迭代，却忽视了基础研究、数据质量与伦理框架的投入。作者认为，真正的智能应具备可解释性与适应性，而当前多数投资集中在算力和应用层，存在泡沫风险。文章呼吁投资者审视AI项目的技术深度与长期价值，而非盲目追逐热点。该评论引发了对AI行业投资结构合理性的思考。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "468",
+      "title": "Suspended officials used artificial intelligence to translate, edit national AI policy - EWN",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmhpdXEzUVVuMzZvMzROVmVtaF9XV1pvS2VlVXY5N2RiU2lpcVNaU2ZkR2RwcUhfZUpFTXJTVVFTcG5CVkIxeFlqOVJSQ25CUEhwZlhHOEFuc1kwclhhUlVLOXl1MGZBMUM3UkU1Y1lrdkNGZVFKcGJlZ3BkMnp2RnFkaGRXTDJ0R2cxSnIzdWltWkh1MjhfWW5vdEwtUnlyNHMtTnFyeHg0UzY2?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T10:02:30Z",
+      "summary": "据南非媒体EWN报道，部分被停职的政府官员涉嫌使用人工智能工具翻译和编辑国家AI政策文件。这些官员在停职期间仍接触敏感政策内容，并利用AI简化工作流程，引发对其安全合规性的质疑。技术层面，AI被用于多语言转换与文本润色，但若未经过人工审核，可能导致政策偏差或泄密。事件暴露了AI在政务场景中使用的监管漏洞，有关部门已介入调查，或将推动出台更严格的使用规范。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "469",
+      "title": "What the Pope Said About A.I. - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TTG1vUm9YNExKNlhuUmpUT3FQZm1vb3ZFRmZucm5JWEFVT0hRSDM5d3JDdmppM1Y5TUZPYjhmWTZDTUF4RXo2eWZmbVpwZGNmc2VsdFdIVG9wMjNPQ2Y0ZlpLamNrLTd1VGVOWTFvSFh6MFNPOUZlTlQwTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T10:00:00Z",
+      "summary": "《纽约客》杂志刊文详细阐释教皇关于人工智能的最新言论。教皇在多个场合强调AI的发展必须以人类福祉为核心，反对将机器赋予道德判断权，尤其警惕AI在武器、医疗和信息传播领域的失控风险。他呼吁全球领导人建立伦理框架，确保AI辅助而非取代人类决策。文章指出，教皇的立场融合了宗教人文关怀与科技理性，其发言不仅影响天主教徒，也为国际AI政策辩论提供了独特的道德视角。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "470",
+      "title": "What Happens Inside AI's Mind Is \"Mysterious, Unsettling\": Anthropic Co-Founder - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRVRjZF82V0JNVkRaclQ5a0RlR2w4azJLbUNYNWN5d0ROYXB3NVlKWkhNNkRLQlI0Zkcxa1JsOWNZd2NudEk0a2dyLVZrcWV4M3ZlMkV3OFE4UXA3QjZmdldJS244emt4d1gyeGVZaHAyc2hXY0QyZDdzM1p6b1hjejRrRHkybUYtNXpMZHJBOUZMTzdXdjhSdDhRWE5pTlpFLVFuOGZtTG5RcmZJb1JSc3N2dXRfWXl3STlMMjNhb1dpX2llaEpB0gHPAUFVX3lxTFBZRHNfeXVuVlhEQ25xaS1OcUY2R2pDRUhjZDNKQnRTa2ZxMUpDdXk0WDRXNFRNemVDWm52TjQ0RmM2dk9rTlNXWFJtVXdGMGNabmZ5VzZPN3RaVjZuaFF0c0w3U05XcHNDak1yZFVEZkZGTTVGcnMzVVpldGNHS05Jb0VEVWxISWRMSFg3MTdSUlFfSGhIQkRYOFFibU1pLTVqWmJJYVhmcGIwUjRlOFlYcTJMVi1hMWFzOGFKc2xlTTZvLURBbmhZSk1TTHFxRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T09:51:42Z",
+      "summary": "Anthropic联合创始人表示，AI模型内部的运作机制“神秘且令人不安”。他指出，尽管模型能生成类人输出，但研究人员难以完全解释其内部决策过程，存在“黑箱”问题。这种不可解释性可能导致不可预测的行为，尤其在安全关键场景中构成风险。Anthropic致力于通过可解释性研究提升AI透明度，但创始人坦言当前进展有限。此番言论再次引发业界对AI系统可理解性与可控性的讨论，呼吁加强基础研究以应对潜在危害。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "471",
+      "title": "I Recently Bought an Artificial Intelligence (AI) Stock That I Predict Will Double by the End of 2026 - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQb0JrQUhYWC10d2JvRno1RzZacXhlOGNvWDhvaTZzQ2p6dWIteXNhalZlc3ZOV1RiOGRrVXBTLU5kcFhSMlJDcGNIaHJiMkpRUGhORmRxM1ozY2x5VG1DWHRGQnB0bUZob1VtMVhvbmxia3JEend4TEpfRUxaTmRsbWljWmZiUU1UN1VpVnFCelZ1Z05YNGstbFk2TWUwTXF6Rkc1LS1IWXg5ZGF0cmpjQ05Ua3pMNF9ITmloVU4tSk1pVWdnQlVSQjkwOHg2RHhnSVN4Z1lEYUVmdTZhajF4UlhFdEpwQ3ZKMW1uTkhKUGpFMlBpM3BlM3hraUhNMU5idndveUZSQVVaQXVzLXRSM0xaRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T09:20:10Z",
+      "summary": "一位投资者在《环球邮报》分享其近期买入的一只人工智能股票，并预测到2026年底该股价格将实现翻倍。尽管未披露具体公司，但分析指出其选择标准包括：垂直领域技术壁垒高、商业化路径清晰、现金流稳定。投资者强调AI行业仍处于早期扩张阶段，部分细分市场（如自动化运维、智能客服）增长潜力巨大。该预测反映了市场对AI赛道的乐观情绪，但也提醒需关注估值泡沫与竞争加剧的风险。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "472",
+      "title": "Canadians may ask AI for medical advice but don't want it replacing humans, poll suggests - CBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95ZVBwQ21MUTFYNGNPSVptVGJpMXFDWmpscEpjbVBpMlJxX3hzUEtjZmNCQzNmNjNRZlNKVGdvWjgtQUpBZTEtSGhhek9wN2w2cUVsX0JOeldNNHJSWHhnblhicHd6ZFlVbTN6cDFpYWtYRV9yWDJPVg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T09:00:00Z",
+      "summary": "一项民调显示，大多数加拿大人愿意向人工智能咨询基础医疗建议，但坚决反对用AI完全取代人类医生。受访者认为AI在症状筛查、用药提醒等方面有便利性，但担心缺乏同理心与临床判断力。技术与伦理的平衡是关键：AI可作为辅助工具提升效率，但最终决策权应留给人。调查还发现年轻人更接受AI医疗，而老年人更依赖传统就医模式。该结果对医疗服务数字化建设具有指导意义，提示需明确人机协作边界。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "473",
+      "title": "In order for artificial intelligence (AI) to provide customized information for users' situations - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lT1A5UFNWbzZOSF9aNHd2QThMTGdVWkxTN3ktY1hrZTNSeFhlelNob0JLTEVmVXlVcVh3aXMwWUpHTmFsU3Ffelh0bw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T08:55:50Z",
+      "summary": "韩国《每日经济》报道指出，为了让人工智能（AI）根据用户所处情境提供定制化信息，技术攻关聚焦于情境感知与个性化推荐。通过分析用户位置、时间、行为等实时数据，AI系统需构建动态用户模型，并确保隐私保护与响应速度的平衡。这一方向对智能助手、精准营销等领域具有关键意义，但如何避免信息过载和算法偏见仍是挑战。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "474",
+      "title": "Artificial Intelligence: China overhauls world's biggest surveillance network with advanced AI - Golem.de",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVHktal9MUHBJYzkwUjRtLVAzWDVXOEVyRXQ1bUxHUGZYMEplR0xzOUlBbUdEd0V1eHVQUEVfby1FaGx0QmN2WEU2VUR3Mk11R2hfdVQyaER1OTFqN3AwYy1CTVhpSmxJa0ttejVQM05jc1JzYVFSYVptVXo1bFJ6dHZlYTNMNTBfSUZKWUgxeF9ZYkZLWjd1aEtXQ3dINEdodVBQblJjREp1Z2NsR3p3NFZMdTdoRjRvekpsczVBZGRKMmFRVzhzVzdvV2tDdm1xTkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T08:45:02Z",
+      "summary": "德国Golem.de报道称，中国运用先进人工智能技术对全球最大的监控网络进行全面升级。新型AI系统整合了计算机视觉、行为分析和云边协同技术，大幅提升了视频分析的准确性与实时性，能够快速识别异常事件和特定目标。此举在强化公共安全的同时，也引发了对隐私权和数据治理的讨论。中国正致力于在安全与隐私之间寻求技术平衡。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "475",
+      "title": "I'm here to see Korea's advanced artificial intelligence (AI) technology. I'm going to listen to st.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GdG0tZnVvSUI4dWQ3RzVxV3JDN1RpUU1CdktoUG9GTlQ5U09UNjNUQkcyY1dEek1zcUtoSHBBTTA1X0xOMUhMaXJqN3lQaFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T08:24:34Z",
+      "summary": "韩国《每日经济》消息，多位国际访客前往韩国参观其领先的人工智能技术成果，包括智能芯片、自然语言处理和机器人等应用。韩方重点展示了AI在制造业、医疗和公共服务领域的落地案例，并计划听取行业专家关于技术创新与商业化的建议。此举旨在加强国际合作，巩固韩国在AI领域的竞争力。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "476",
+      "title": "Artificial Intelligence May Contribute up to 7 Per Cent of Hungary’s GDP - Hungarian Conservative",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2NpOE4yc1JtTndVeExiSjM3R3JkZ0JCTFh1RHFZR3R1MS02TG80Sk1yZEk5eEIxVGxxSUtPdmZES3MzQnBqVnVMSnFhdlczaHBZNFZUOUFxVVFqZWtFRHR3cU0xS2xfUjFPTWQ1aXVMbjQ3UGd6RG5hRFpaYm1iRkdrSzFONXp5bW9QTVVUcUQ2RXJGX2dCeg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T07:53:05Z",
+      "summary": "匈牙利《保守派》杂志援引研究报告指出，人工智能有望为匈牙利国内生产总值（GDP）贡献高达7%的增长。该报告分析了AI在制造业、金融和物流等领域的深度融合，认为自动化与智能决策可显著提升生产效率、降低成本。匈牙利政府正积极制定AI战略，通过税收优惠和人才引进措施吸引投资，同时关注技术转型带来的就业结构调整。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "477",
+      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41VXVpWVF6amtneW91VU9ObDkzcks4emE2TXRLY0NwREtnQ2FHakxpV0NqNmN0MzNyQ25ZSUhMRzJwbUw0X2hRN0VmamlwbTE4bVdSeHhwdEx4M2JROVZtMnltaUx2cUpaTGpjMmRuaVliTEVhOUdKYWt6ZHRLUjA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T07:45:00Z",
+      "summary": "《黑客新闻》发布安全警告，称部分AI聊天机器人在推荐链接时被恶意利用，将用户重定向至加密货币劫持（cryptojacking）恶意软件站点。攻击者通过操纵推荐系统或植入恶意广告，诱使用户点击后自动下载挖矿脚本，占用设备算力。安全专家建议用户对聊天机器人推荐的第三方链接保持警惕，并启用浏览器防护插件。此次事件暴露了AI推荐系统的安全薄弱环节。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "478",
+      "title": "Pope Leo on centering human dignity in the age of AI - The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlVPSC1fMmtDTXVDeWFoNWxBTVlIQVp1NEUyRXhPRS1TVWpYbUYtOUJ5NUlXWDZtVkNKN3pKdEQ5Zzd6bkRVeEQ0ZGZ1RFY5YWp2aTZ0aEtPWE5tMWY3b1FueTFiLUNJTkR3Wks1MEpuV2FEY0gtVzZBakhIaVV4MWtuWF9saG5ubFhOZGJDa3R4ejBSdml1Vms0Q0RGc0dkNGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T07:08:35Z",
+      "summary": "《波士顿环球报》报道，教皇方济各（Pope Leo）在最新讲话中强调，人工智能发展必须坚持以人类尊严为中心。他指出AI技术应在伦理框架内服务于公共利益，避免加剧不平等或侵犯隐私。教皇呼吁国际社会制定以人为本的AI治理准则，确保算法决策透明且可问责。其观点反映了宗教界对科技伦理的高度关注，也为全球AI政策讨论注入了人文视角。",
+      "fetchDate": "2026-05-27"
+    },
+    {
       "id": "442",
       "title": "This artificial intelligence (AI) chip stock just joined Nvidia, Broadcom, Taiwan Semiconductor, and Samsung in the $1 trillion club. Is it a buy now? - MSN",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQak9CNHNHMHBTVE9teUlWbUVmNktaNG84ZXZxaGpSSzREYUdOLTFMcjZoek00YnFqSUNKcG9aZlRFTWZ4YWpZLVNteEJFODFRLTA5R2FrUjJiU3drS2pnWGxYLThvZHk1ZHI3eDNkbF9kZEhiRFdhaXZjNkhfcklUeGxoaTY2MWlPTi11SG9ISkI0Vlg4QnZjRVdsRDI0NFpoNVBNUFUwVEVFRXUxcC1HX0hsQzhraGJBel9oRTZTVzJVQW9KLWV2VUpqR0xweFVobS0zeGZUdUVzMTJZNnltZGYzdzN4cTZqa0UzMFIwdEZaV291RWZOVl9uR3VHQUxISW5XOFJVMGpYS2FWcmpIRHVQSnZsMWhsTVFYcFYtM09GQm1PZkdkblMyM3NHak9XQ2xkUmtyRXVobjNPbUduMHRlLU8?oc=5",
@@ -4150,5 +4294,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 461
+  "total": 477
 }
