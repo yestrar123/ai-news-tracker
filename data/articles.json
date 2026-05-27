@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "479",
+      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
+      "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T14:15:00Z",
+      "summary": "Startup Battlefield 200申请今日截止，太平洋时间23:59前可申请或提名初创公司。入选者将有机会赢得10万美元无股权资金，获得全球曝光、直接对接投资者，并在TechCrunch Disrupt舞台发布产品。创业者应抓住最后时机提交申请。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "480",
+      "title": "ElevenLabs’s new music generation model can switch genres mid-track",
+      "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T14:14:10Z",
+      "summary": "ElevenLabs推出新型音乐生成模型，支持在歌曲中途切换音乐风格。用户可重新生成特定段落而不影响其他部分，为AI音乐创作提供更高灵活性，拓展了生成式AI在音乐领域的应用边界。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "481",
+      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
+      "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T14:00:00Z",
+      "summary": "睡眠科技初创公司SOND获得700万美元融资，从隐身模式亮相。该公司由Bose前睡眠产品负责人领导，主打AI驱动的睡眠耳塞，旨在通过人工智能技术优化睡眠质量，进入快速增长的可穿戴健康市场。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "482",
+      "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
+      "url": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T14:00:00Z",
+      "summary": "TechCrunch Disrupt 2026早鸟票优惠仅剩3天，将于5月29日太平洋时间23:59结束。购票可节省最高410美元。该大会是年度重要科技盛会，建议尽早锁定门票以避免价格上涨。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "483",
+      "title": "China is increasingly keeping its best AI talent to itself",
+      "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T13:48:41Z",
+      "summary": "中国AI产业蓬勃发展，培养出世界级人才，但北京政府正日益倾向于留住这些人才，限制其向海外流动。此举旨在增强国内AI竞争力，减少人才流失，反映中国在全球AI人才争夺中的战略调整。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "484",
+      "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+      "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T13:04:20Z",
+      "summary": "数据库提供商ClickHouse年度经常性收入翻三倍至2.5亿美元，并规划未来几年内进行首次公开募股（IPO）。其高速增长表明市场对实时分析数据库的强劲需求，公司正为公开上市做准备。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "485",
+      "title": "Investors stay calm as AI capex boom eclipses dotcom mania - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRHduSXhpVDRyZk1KaktVUHFlX3JqWmhPTUI1dldCVmpNMEU3dGhTVVpucmRHN3JCemdXazJPR3ZXVWNFRTN5SjFCT1VQTUZFNzN0WTF0S0ctMk9Wbjd0bW1HLVNKWVNieTd2WnVxaDF5WlZ1XzYtMHFZaWNmRlhxSXMtY3g3VHRkYzFIWDdpLXNtOVJ5dGd2YzNDT1ZpQzZUenUxX0hTSzVBNlNGMUFBQVZZN2gxbDZaQjNtMFBTaG1YUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T13:03:11Z",
+      "summary": "据路透社报道，尽管AI领域的资本支出热潮规模已超过2000年互联网泡沫时期，但投资者保持冷静，未出现当年般的狂热。这表明市场对AI投资更成熟理性，关注长期价值而非短期炒作。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "486",
+      "title": "YouTube will now automatically label AI videos",
+      "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T13:00:00Z",
+      "summary": "YouTube宣布将自动标记使用显著逼真AI生成的视频，取代之前主要依赖创作者自行披露的做法。同时AI标签将更加醒目，以增强内容透明度，帮助观众识别合成或修改过的视频内容。",
+      "fetchDate": "2026-05-27"
+    },
+    {
       "id": "463",
       "title": "Robinhood now lets your AI agents trade stocks",
       "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
@@ -10,12 +82,30 @@
       "fetchDate": "2026-05-27"
     },
     {
+      "id": "487",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-27T12:30:00Z",
+      "summary": "Box CEO Aaron Levie认为科技公司CEO们正患上“AI精神病”，对AI提升生产率抱有不合理的信仰。这种近乎宗教般的狂热可能扭曲决策，提醒业界需理性看待AI的实际能力和局限。",
+      "fetchDate": "2026-05-27"
+    },
+    {
       "id": "464",
       "title": "Pope Leo presents 'Magnifica humanitas’ calling for disarmament of AI - Vatican News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUdBZG1NcERtUDFmMlp6Y05zY1VCNjhoOVFjMThkSnRURDJuUnZoZWRCY3RQaVBHaFJ3bGNBcURvOHpTSnVTQ2RDMDBnRng1SXNHNDVEM3ltYWNoYmN6Y3RxY0ZzZ0QxMmpiaWNaQkJnNGs1cDU0WDV6YndhNGpTa01kRVVGR3pSNFp0VnAzcjRxYWpVQUpCOFpXOWM0YVpyc2pvWTZHa0h6R0pYaWxRSk9lTQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-27T12:16:03Z",
       "summary": "教皇利奥发布名为《Magnifica humanitas》的文告，呼吁全球对人工智能进行“裁军”，即限制并规范AI在军事等高风险领域的应用。文告强调AI发展应遵循人类尊严与伦理原则，反对将自主武器系统或算法决策凌驾于人类控制之上。教皇指出，AI的快速迭代可能加剧不平等与冲突，国际社会需制定具有约束力的条约。该呼吁受到梵蒂冈官方媒体报道，引发宗教界与科技伦理领域对AI治理的广泛关注。",
+      "fetchDate": "2026-05-27"
+    },
+    {
+      "id": "488",
+      "title": "The Pope isn’t AGI-pilled - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa1l2ZFQxYnRvQ3BkZ3FKTGNyMmxBY2t3RXRVRE0taW1DYVNCb09kWkgzci1BdzhjLTlOSkJhSzhVVkJnLWF6Y1QzcEQxdUdxeHZuUXlRLTJsODhkT0dxN3RzalJZd1hhMmIyWjNDOVM2S09ZNFlSaXNBR2JGdUtjSjNzbGNxeWJzOGtrZnR2U0o0RFQzNktnVGhHdGNlUGpJOVZz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "summary": "《The Verge》评论指出，教皇方济各对通用人工智能（AGI）保持清醒态度，并未盲目追捧技术乐观主义。文章分析教皇在AI议题上更关注人类尊严与伦理责任，强调AI发展应以服务全人类为宗旨，警惕技术至上论带来的社会分化。教皇的立场与部分科技领袖的狂热形成对比，提醒公众在追求AI能力提升的同时，不可忽视其潜在的风险与道德边界。",
       "fetchDate": "2026-05-27"
     },
     {
@@ -4294,5 +4384,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 477
+  "total": 487
 }
