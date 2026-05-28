@@ -1,111 +1,167 @@
 {
-  "updatedAt": "2026-05-28 12:49:36 UTC",
-  "totalArticles": 15,
+  "updatedAt": "2026-05-28 14:54:12 UTC",
+  "totalArticles": 23,
   "articles": [
+    {
+      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:45:13Z",
+      "summary": "苹果计划在iOS 27中对Siri进行重大AI升级，推出重新设计的Siri体验和独立的Siri应用，以与ChatGPT等竞品抗衡。根据最新渲染图，新Siri将具备更强大的对话能力和功能集成，标志着苹果在AI助手领域的战略转型，旨在提升用户体验并扩大生态系统影响力。"
+    },
+    {
+      "title": "RSI is the new AGI — and it’s just as hard to pin down",
+      "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:30:17Z",
+      "summary": "一批新兴AI实验室正聚焦递归自我改进（RSI），将其视为新的通用人工智能（AGI）路径。然而，RSI目标依然难以实现，类似于AGI的模糊定义和挑战。该领域进展缓慢，反映出自我改进模型在理论、算法和工程上的复杂性与不确定性。"
+    },
+    {
+      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:30:00Z",
+      "summary": "在2026年TechCrunch Disrupt大会上，Databricks联合创始人指出，企业AI交易正进入新阶段：企业不再仅评估AI的吸引力，而是关注其能否安全广泛部署。部署安全、合规与风险管理成为企业决策的关键因素，扼杀了许多AI项目落地。"
+    },
+    {
+      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+      "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:28:47Z",
+      "summary": "YouTube推出多项播客新功能，包括AI推荐工具和自动速度调节（Auto speed），以增强播客收听体验。此举表明YouTube正积极与Spotify、Apple Podcasts等平台竞争，利用AI技术个性化推荐并优化播放速度，吸引更多播客创作者和听众。"
+    },
+    {
+      "title": "Steven Spielberg warns AI is no ‘substitute for the soul’ - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1lILWVzNVlITFlFVWNPVzVvUzZwckFOdktLbWdOd09DSmllb2RVRWFCWlB3UFh1ZmNlUlBubHdwSlBub213Y3p2a1N0UHZCRVdhT1Z2Y2VpRzczNndsTzVEMHpEd3BFbkxJV1FtR1VLMDBCZ3h6bHFib1VyZE9telBnWE5Yd01MMGdtQUphcnVheE5lUnd3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T14:06:00Z",
+      "summary": "著名导演史蒂文·斯皮尔伯格警告称，AI无法替代人类的灵魂。他在接受《独立报》采访时强调，尽管AI在创作工具上带来便利，但真正的情感、艺术灵魂仍需人类赋予。这一观点引发对AI在创意产业中角色和伦理边界的讨论。"
+    },
+    {
+      "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:00:00Z",
+      "summary": "2026年TechCrunch Disrupt大会门票优惠进入最后两天，截止至5月29日太平洋时间晚11:59，可节省高达410美元。大会将于10月13日至15日在旧金山举行，预计吸引超过10000名科技领袖参会。提醒感兴趣者抓紧注册以享受折扣。"
+    },
+    {
+      "title": "Visa invests in Replit to power agentic payments for developers",
+      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:00:00Z",
+      "summary": "Visa投资AI编程平台Replit，旨在为开发者提供基于智能代理的支付能力。Visa透露已有超过1000名员工使用Replit进行原型开发和软件构建。此次合作将推动AI代理在支付领域的应用，简化开发流程并增强支付自动化。"
+    },
+    {
+      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaEJoSDRJQVBQZi1JcUxJaGRaREZ2OFVjZnNSa2VPX0lKQ0w0Z1BFMlpnVmNLYUNfTkFhSHBfSjlXOU5SOW9nNFVJYzVxZ2ExSXlxUUVVMnZJZ3M0XzUzX2Z3alpkMlBoUG1LbDhDMU5HWkVvRmxfalUtXzhtYnRIUVdORDBHalNJbTJydEQ0Y0hGUWkyci15SFIyazFhal9WaVIwQVU3bEJmQk8zdXpRRE5Nb3NpTXJQdmhDY3FHeE1PRkdrclpRaE5XUUVQVXlHd2F0M0VXONIB3wFBVV95cUxQNEZIWi1MTWlfX0ZmbzJyUGJTN1NucjRXV1RmWXBObmp5VEgyQ2dQOW5ONWlkVHFOcnZWdm0tenZKSmMzTURXRC13R2xUdkp2MGdzaUV4M2ZLSTFlYnNCSkNaWktTenp1dnVwVFpBbklKTW9HVmtpNWp4YVVNTFNuZ0ZuY0pRNm5NeWptbGN2UkVaTmwzSE1iZ2JrUFViTWU0UzExSEJfWDhBcmVJLUkzRmJQMEtKNWk3QzNMNUdlQ3RrbFJHUUl3a2RfVm9mX2ZFT0M4aFE5N1hPdGpreUtF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T13:46:26Z",
+      "summary": "OpenAI基金会承诺投入2.5亿美元，帮助工人和经济体应对AI带来的颠覆影响。该资金将用于培训、再技能提升、社会保障等项目，支持因AI自动化而受到冲击的行业和群体。此举旨在缓解AI对就业市场的冲击，促进包容性增长。"
+    },
+    {
+      "title": "AI-powered vehicle delivery monitoring tool launched - Fleet News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFF5b0t1MkNJNmdUYVVVWE9fd2NQWHNhQ29VenpVZ3BHM0J1MURPLVlTQm1VbnhuQVZFOGNKaUNWdDNabjI2UW14R0xqd3lsSzEtMkU3MTRFa3J1NE9wd3Zha2Qtd0dfTXo4OHFhT2dzSWpvNVc4LW9vOEhiQXkwZ2loUGhEY2RiVjJGNm5n?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T13:03:32Z",
+      "summary": "一款基于AI的车辆交付监控工具正式发布，旨在提升车队管理效率。该工具利用AI分析车辆交付过程中的数据，实时监控运输状态、检测异常并优化路线。据《Fleet News》报道，该技术可帮助物流企业降低延误风险，提高交付准确性和客户满意度。"
+    },
+    {
+      "title": "Are hurricanes getting stronger? What the science — and AI — say about the future of storm forecasting - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZDNBa2I1TjRZcnJDbVNNVDRHa0cwalJxeG5vUEx5QjVSa2hTaEhLblluM1FVeW9CdUd1RlBrQjBRVE5XOHctZG51TTdsYWJDRkJjRGFLU2dfVThtQlVtWGQ5SWg2RVlZa2xMVnV1dFZhNTJ0S1QySjRZeTE5dkZlaEtNLThwUGFvaTlpTWdieDBjOXlhNXBsOVE1VnhFbHU0aXk0dm5PRkpQQ21hT3FJWjFEZmVaVlE5SFJITkxxa25yQVNub2lEYkVwa21Cb2hyNktadE1KcExfdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T13:00:00Z",
+      "summary": "关于飓风是否因气候变化而增强的讨论中，AI正改变风暴预报的未来。科学家利用AI模型分析历史气象数据与实时观测，更精准地预测飓风强度、路径和潜在破坏力。AI辅助预报有望提前预警，减少灾害损失，但其仍需与物理模型结合以确保可靠性。"
+    },
+    {
+      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+      "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T13:00:00Z",
+      "summary": "在AI计算需求激增的背景下，General Compute公司押注SambaNova将成为下一个突破性芯片制造商。SambaNova以其创新的可重构数据流架构和针对AI训练与推理优化的专用处理器，被视为可能挑战英伟达等现有巨头的新兴力量。这一动向反映了AI硬件市场的激烈竞争与持续演变。"
+    },
     {
       "title": "Multi-Agent AI: Why One Brain Isn't Enough - StartupHub.ai",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYjJvdVRLbWpicHN3N19vTXZhaE9xT1Z6MFRxNzdFQkVXN00wSkpzZGpHUTlBb1kzNGw5Zm1fTEdROVFvWGNjUHVpWFlWZzR4M2gydFFJVHhXOHZtTWhLbDdrT1d4R0sxMGdTSC01bkV0dmIzNDBfTWF5OXlIckpYWlpWbFB6Tm1jZDdwcnd1Tlo1MjZISFRWQjNSOUVrYXJDYV9uaVpYZw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-28T12:01:26Z",
-      "summary": "多智能体AI系统正在成为技术发展新趋势。与单一AI模型相比，多个AI智能体通过协作、分工和竞争，能够处理更复杂的任务，提升整体性能。例如，在软件工程、机器人协作等领域，多智能体架构可模拟人类团队合作，克服单个模型的认知局限。该技术强调“一个大脑不够”，通过分布式决策和动态交互，实现更高效率和鲁棒性。StartupHub.ai探讨了多智能体AI的原理、应用场景及其对未来AI系统设计的启示。"
+      "summary": "多智能体AI（Multi-Agent AI）兴起，强调“一个大脑不够用”的理念。通过多个独立AI系统协同工作，能够处理更复杂的任务，提升决策鲁棒性与适应性。该技术模仿人类团队协作模式，已在自动化、博弈、机器人等领域展现潜力，成为AI发展的新方向。"
     },
     {
       "title": "What is your perspective on AI? The Denver Post wants to know - The Denver Post",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNWR6UHdzUm1EWjQ3N0FRcUZKSU5TbkkwbmZGZlN6NEJsQXdYMi1Kc1dMY01xdnFJeWw2bkw1VFlkb01Xc29NX0otWTVwRXlsdVlqVlBIcGZnZ0NsZlVacWd3UnZxNjRRRlNib1Y3ZFpiaEVodHFuZXFKcjU4ZnVBbmRpUVZweFpSM3NsNjdWYw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-28T12:00:24Z",
-      "summary": "《丹佛邮报》发起了一项关于人工智能的读者民意调查，旨在收集公众对AI发展的看法和态度。调查内容涵盖AI对就业、隐私、伦理以及日常生活的影响，希望了解读者对技术进步的风险与机遇的认知。该报表示，公众意见对于塑造负责任的政策和推动技术普及至关重要。此次调查反映了媒体对AI话题的关注度提升，也体现了公众参与科技讨论的意愿。"
+      "summary": "《丹佛邮报》发起了一项读者调查，邀请公众分享对人工智能的看法。该媒体希望通过收集不同视角，了解社区对AI技术影响社会、就业、隐私等方面的态度，并用于后续报道与讨论。此举体现了传统媒体对AI议题的重视与公众参与意图。"
     },
     {
       "title": "AI proverb of the day: “Artificial intelligence is no match for natural stupidity” — life lessons on huma - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxObkNKeFNKa0dZWW5GRFF2TDBodlpzSHJ3X3lWWWdyaUJrM19vREt3cHdQQk5PMWF1Mnpnak1ZTTJyMFBHcHRXNUdTWWpqVzhWeHBlTi1hWUlIWWgxSFdudkV4aU53VWZUUlN1QTh4V3pHUTJKM3BqcnVDbnlMWm5IU3d3b3diOUdUNUhZVC1wT0NCQXYtdHlUZ3RWMHlrLWtBTEo5SF9MSnBTdHVlMFVVaHhGU1NOLWxKZzFQU1g2Z3gxaXNOTFpOb2VHOGg1SFRxQzgtZFRRaGlwbnY3NHpQYmpscmdkWTJub3FaVndySFppXzl0Z0VralNlcWRDU3pFcVp0WjZxVWEydjcxd2JIcVJ2RzM0Yjk4aGlocjJZQ2JVSHdKMWZSWHlYVVdLVVVnSU4tSWFReTR4LVhrcEhBVnQ0ODhrT054LVljSDFDR3AwNkktU2c2c0ZkRGFKWFpRcjdoT1FwUlVZOW1vNDVyM2Z5c1Y4bW9wNGFncmVjRW15NkJBNjZWeV83ei1lN1kyUEpYRW85QU44RXfSAaADQVVfeXFMTzRicEdmMlpmOGdudmVVNFZDcFJ5VXRxNVRRWXVzRUlZU1NGaGh2NldicXp5TWwtcFlBMk5NVXhxVUdLeV9WSlJVNWxoZHMtRUVwNG1XNWp6U2RiYmJoczVISmowanFLaTVwWjN5ZmozWDV0MjVTVWZtWldEM25TMmJkNzloYnZxazJHWFBSTy03VU8tclJQbmJpS05kUU9WYmxsRXUyUlBQQld1ZjNqMkF0akloYkZ4ci1CMUFYeWJaMkNJdWxobGtlNzVwb19TUk1Ic2s3RUhwUFlCdDdseUtsOXZOU1lHckZ5UHJKSGhBb1JUOUVadjlGTnZzemtISmxPamJCM2pObGJwanBMZmZSb0tXeFpzRlNIbXlmWS0xWmtTLWFTaUx6QmZldC1rWUItX3d5Q3U5THpGeFNuSnQxakZiWm9DYndTZXZDY3lxVzdtLW4xUkw2OUlOUmNSRjA1UHVNQ3JiVHFGclV6RDV0V09ZdjdfM05UNXZjdmRXZWJwV1l2SW1OQlVzYjZzNDhNWk5GeWROY1YxVHJRY2M?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-28T11:50:00Z",
-      "summary": "《印度时报》分享了每日AI谚语：“人工智能无法匹敌天然愚蠢”，引发对人类与AI关系的思考。该谚语幽默地指出，尽管AI在计算和逻辑上表现卓越，但人类天生的非理性、直觉和情感智慧仍难以被模仿。文章借此探讨人类错误、创造力和适应力的价值，强调不要过度神化AI。在技术快速发展的当下，保持对人性弱点的清醒认识，是避免技术崇拜的关键。"
+      "summary": "《印度时报》刊出一则AI谚语：“人工智能无法对抗自然愚蠢”，以幽默方式提醒人们警惕人类自身的认知局限。文章引申出生活教训：技术再先进也无法弥补人类判断失误、偏见或非理性行为，强调培养批判性思维与智慧的重要性。"
+    },
+    {
+      "title": "AI Hiring Bias in India: How Artificial Intelligence Is Worsening Youth Unemployment - Legal Service India",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNelVMM2YtaDRyRFRUcTRYUVJWU2NVWXlJaVRxd3FZdWJZMFBNbTVFcnVCM1c3ZEJTSjJnVzNHNEdPb1llblNtRjd5V1BuWVQzTjBjRWFUNnNXMGJjTTQzM3Jwb090azFLUkVzSmVZUFE0X3p2RVA0bzJJNDR6NWhJX0JILUdnOVhTLW1SckRWOHhPeElLMDYxNQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T11:08:10Z",
+      "summary": "AI招聘偏见在印度加剧青年失业问题。研究表明，训练数据中的历史偏见会导致AI筛选简历时歧视特定群体，如女性、低种姓或非名校毕业生，从而放大就业不公。法律专家呼吁加强算法透明度和反歧视监管，以保障青年就业公平。"
     },
     {
       "title": "AI Surpassing Humans Debate Heats Up As Google AI Boss Tightens Timeline - NDTV",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZFpVRGZtNXJQU2pWZmNrVy02YVU0NERpdV9qbEt6U1FWdVd5ZHluUjNsQkhJcC03d2RUX1ZKSEZPREE3YjFUcHZhX083NnNYaG9LbHhzVlN1QThuaVVrYmtVYTJkeGREWGt5a0hReXQ0NlBhQUR6M3BxZ3Znak9FSlpaelpfZFY0Q2YwWXpGaDg5cS14Q2Nud3J2NzBsdzlpM1A1d0twSWRwVlhSQ192Mmk4djRWakphWjVZUjBBbU92Rl9kRXE0MUk4eHhWLUFxVWJyVFNneHgxcWlKemxPZW5tRkpHbkJxOW1OTDFIUdIB9wFBVV95cUxNQWxnZEJzSVFUb3FsRVZYWGdZUlVjUE1NSzlrZ1BRdFVOOXpobXAtVDR6eHktNURyQjhSQVdVNXRwTUxfdl9tazJzejRtYWhxQ1laaHlJOW0waXZ4amkySTgwbEV4U1hzVDh3cU1MRkltdHlZbkx3UnhiWV85dWpMNjYzeGszY3NVOXVSamxGT1ZjblZqNERqem9DbDd6aVF6NVd5TVlwcWdzMDNLc3V0XzlqZzIxdGFkTXBUVkthamwyUkkzM21aeVF6YjM3ckxRTU9iSlc2RUpuTGJITUloeFlOZHhINGVWR0dvaHRsVDFjUERkaXBZ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-28T11:04:45Z",
-      "summary": "围绕AI超越人类的辩论再次升温，谷歌AI负责人预测人工通用智能（AGI）的来临时间比此前预期更早。这一表述引发了业界对AI能力跃迁的激烈讨论，包括AI何时能在所有认知任务上超越人类。支持者认为加速发展将带来革命性进步，质疑者则担忧伦理失控和社会失业。NDTV报道指出，时间线的收紧反映了谷歌在AI领域的激进态度，也促使监管和伦理框架加速完善。"
+      "summary": "关于AI超越人类的争论持续升温，谷歌AI负责人收紧了对通用人工智能（AGI）实现时间的预测。他认为技术进步加速，AGI可能在几年内而非几十年内到来。这一言论引发学界和业界热议，担忧和期待并存，也推动了对AI安全与伦理的更多讨论。"
+    },
+    {
+      "title": "Anthropic Is Playing Both Sides of the AI Spirituality Debate - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckdCV0dJdjRXR0liQXlzaGlRWVdDVE9oWkFsNnBUN2JZbGhUUk9RSE1rX1AtMlhhRGkta0pnNlBvUzJvQmlrT3FqTjM5bnYxaEdCMy1hVTQtN0tSZ2NZSkoxQjdZSDZPUkUwemNJcVR1Q29hb3JVZldkMVVBRm5PRHd2OUxXajRTMXFxTDkzWEZXaWpXdnpv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T11:00:32Z",
+      "summary": "Anthropic公司在AI灵性辩论中表现出模棱两可的立场。一方面，其CEO发文探讨AI可能产生类似宗教体验的潜力；另一方面，公司又强调避免过度拟人化。这种“双面”态度反映了科技公司面对AI意识、灵性等敏感话题时的谨慎与策略性。"
     },
     {
       "title": "Israeli website creator Wix.com cuts 1000 jobs due to strong shekel, growth of AI - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjlQcmp5blhjVEFOUl9jbFZiYmd2UkkydG9hU3J0MUtVT25hM1ZmTHdUZ2poZ0d2TWZPanpjc0hvUHBiRWtRNkVrTHNBcXNnZkdaa1U5ZUNQZVk5NlgyT1AzV19aOU0zZXJZdldwenVNUW1DblhSRnhoMkI2WHNxLXlocHBuVWFGbkh0cEVnaGNvUm8wQk5oMndNTmlkZGdNQXlWdXNHZ2VHeElJVDZ6UTFxVWszdmtZd2FVVUhSYU42N1BpQTI0bmZRT1g?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-28T10:40:06Z",
-      "summary": "以色列网站构建平台Wix.com宣布裁员1000个岗位，相当于员工总数的约12%。公司解释裁员主因是以色列货币谢克尔持续走强，增加了运营成本，同时人工智能工具的增长使得部分人工任务被自动化替代。Wix表示将优先投资AI驱动的网站设计和客户支持能力，以提高效率。此次裁员是科技行业因AI影响而进行结构调整的最新案例，凸显了宏观经济和新技术对就业的综合冲击。"
+      "summary": "以色列网站创建平台Wix.com宣布裁员1000人，原因是新谢克尔走强提高了运营成本，同时AI工具的增长降低了客户对人工建站服务的需求。这是科技行业在宏观经济压力和技术变革双重作用下调整结构的典型案例。"
     },
     {
       "title": "Protecting Humanness from AI - National Review",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9adGxZVTBYVHJ4MlVoN0plQVFHdlVpdy16Y1VXZkhTaDNqem94NXdDSHl6TDcwWjk3dTdnWHR2djZxYzk5RGQ1QWoyVkRGbVJYb3QxR0JzUEptZEtBbEpMYUZINXoxaXpLNzF1YllVU2R3SlVnak1F0gF8QVVfeXFMUEtTYURpOWxXMXc1TWtOVERUbEM4U09VQ1ctbHNmeXpsR0VPN3JnZDctZmtaandmbWswb0pKek02ODNjdlJnUEJneEJJVXhPNGw1SmkwYm4wNVdjVDRPNDNYMnVtS25TeHJyOWRvWVNBMGhSWGV3SFBZc0w1cA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-28T10:30:59Z",
-      "summary": "《国家评论》发表文章探讨如何在AI时代保护人性。文章指出，AI在替代人类工作、模拟情感和决策时，可能侵蚀人类独有的价值——如同理心、直觉和道德判断。作者呼吁建立伦理边界，防止算法过度主导社会交往、教育甚至司法。保护“人性”意味着在技术应用中保留人的主动判断和情感连接，避免将人类降格为数据处理单元。文章强调，AI应是工具而非主宰。"
+      "summary": "《国家评论》发表文章探讨如何保护人性免受AI侵蚀。作者认为AI的广泛应用可能削弱人类的创造力、同理心和独特价值，呼吁在技术发展中坚守伦理底线，注重人文教育，避免让工具理性取代人的主体性。"
     },
     {
       "title": "Steven Spielberg: AI is not a substitute for the soul - London Evening Standard",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcjZXZEJFUWJIbzVxX0dNQzloWndsZklBeGNfczBxMDd1UEM5THJNSzJoUzZ1R3haOHRGVTJtaHM0M3F2c3U2blU0cFdmLUMyMUpCeEl2Q1hVWTVmNVpDYTZmclFLcU1jSXNYUloyTDZITWhXZ2xPMExnMkVkcE1LS1pGOGU5c1B2MGZzY0VNR3FMeklyTnZuRUxTQkJnSHM1cmphaUNXN1o0dDFvdFN3SHVFeTRxeVBXcGFBNTBINjlWaUlLa3drR3lfcjQ2WDQ5?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-28T10:16:41Z",
-      "summary": "著名导演史蒂文·斯皮尔伯格在接受采访时表示，人工智能无法替代人类的灵魂。他认为AI可以模仿创作形式，但缺乏真正的意识、情感和深层创造力。斯皮尔伯格以其经典科幻电影（如《人工智能》）的经验指出，技术再先进也无法复制人的灵性和生命体验。他强调，人类应该警惕将AI过度拟人化，并保护艺术与人文精神的核心价值。该观点为AI热潮中的理性反思提供了声音。"
-    },
-    {
-      "title": "NBA plans AI system for automatic out-of-bounds calls - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQmh4YnZhMnB1NWZ0ZVc1ekpkbFZOQkxKZ3lZSUdfcWFLNlp4aGxtcm96SjBaUF9oWWh6ODhIMm1NaEItbmE5d2VuZ3VUbGM3RXVsVFgzb1ppVWEtTGtsSGtUb2pQT2pPLURHaGQ1M2VsWHhGMEpRd1FlWHZsLWN5NFVR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-28T10:02:01Z",
-      "summary": "美国职业篮球联赛（NBA）计划引入基于人工智能的自动出界判罚系统。该系统利用球场多角度摄像头和深度学习算法，实时追踪球员和篮球位置，在发生出界时自动判断球权归属。与传统依赖裁判肉眼判断相比，AI系统能减少争议和误判，提升比赛公平性。NBA希望通过这一技术提升观赛体验和裁判效率，目前正处于测试阶段，预计将在未来赛季部分试运行。"
+      "summary": "著名导演史蒂文·斯皮尔伯格表示，AI无法替代灵魂。他认为技术可以模拟创作，但缺乏真实情感、生命体验和灵性内核。斯皮尔伯格强调，艺术和人类联系的核心是灵魂层面的东西，AI只是工具，不应被神化。"
     },
     {
       "title": "Airbus partners with Mistral AI to strengthen the use of artificial intelligence in sovereign aerospace applications - Airbus",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc09ZWEhvR1F6YjRqblB1Q25iWXhENWo1UXZzOXpvYlBHcDFnZmxWYVZWM2pQQ3NYZndZYkh6THF1a2J3Tk5oS3F1eTl6d3l6YVdsaXR6Q3lVYnZlZlJaSkVYaEFCQk9aZlBoOHlQdk5fU1NJSjhVY3lzbWoxaUVaV0pqaFZER1pVWnEtOHE4ZUJWZmY5QmlRQWRRTFVJN3V1NU14bzJycnQySVBSRzhNcUsxbEI1blRHLS1Nb1pTR29Rc3hESzRZalpyOUpKaDA5VnoxeFdCYW5lcGtMUTBrRURGbmF6QQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-28T10:00:00Z",
-      "summary": "空客（Airbus）宣布与法国人工智能初创公司Mistral AI建立合作伙伴关系，旨在增强在主权航空航天应用中人工智能的使用。双方将共同开发用于飞机设计、制造、飞行操作和安全监控的AI解决方案，特别强调数据主权和自主可控。空客表示，Mistral AI的大语言模型技术将帮助提高工程效率、优化维护流程，并确保敏感数据在欧盟境内处理。此次合作是欧洲航空业推进自主AI战略的重要一步。"
+      "summary": "空客公司与法国AI初创企业Mistral AI宣布合作，旨在将先进人工智能技术应用于主权航空航天领域。双方将共同开发基于大语言模型的解决方案，以提升飞机设计、制造、运营及维护等环节的智能化水平，同时确保数据主权和安全性。此次合作标志着欧洲在航空航天领域自主AI能力建设的重要进展，Mistral的开放模型特性将有助于空客在关键任务中实现可控且可信的AI部署。"
     },
     {
       "title": "Plots, love letters and remedies: The medieval secrets being revealed by AI - BBC",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0JidEJDOUVYRDF0UWhvbGcxbFhoT1lFNjAtbXdiQzFxME5mU283S3BKVTRNd1Q3THd6M2t2a2p6VG4wZ0JzbDhRMmlxUVlwYUtzY1pQckZ5THVWU29UTS1wZ3pBN3JHRk1CcWtURFlJSlV0dThqb2VabXdJWmhQTXcxZkc0S1N6dVY5cnBNcGlWamZMb0NlS3RpN2hTSlNTb2wzb3RjWDBmaWJtdjVOdV9zLTd0MzAtMkE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-28T09:34:57Z",
-      "summary": "BBC报道，人工智能正在揭示中世纪手稿中隐藏的秘密，包括阴谋、情书和医疗药方。通过先进的手写识别和自然语言处理技术，AI能够快速转录、翻译和分析大量古文字，发现被遗忘的历史细节。例如，AI从磨损的羊皮纸上恢复了被擦除的文字，揭露了政治密谋和私人情感。这一应用不仅加速了历史研究进程，还让学者能够以前所未有的规模探索中世纪社会的生活与文化。"
+      "summary": "英国广播公司报道，人工智能正在助力学者破译中世纪手稿中隐藏的秘密。通过AI图像识别和自然语言处理技术，研究人员能够快速识别并翻译古文献中的情节叙述、情书和医疗配方，不仅大幅提升了文本转录速度，还发现了以往被忽略的历史细节。这项技术让原本需要数年才能完成的手稿解读工作缩短至数周，为研究中世纪社会、文化和医学提供了全新视角。"
     },
     {
       "title": "Mistral rejects Pope Leo criticism of AI military use - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGpwbVBydXdPY0ROcGdKZFp1X21lenBkOVBqT3k3Ui1tLW5JcE5QZjBQTG5XX0VWMWlPT2FOVF9CYjBOT3dfYTZiekF4bUdGUi1Da0xBZUE4UmxxcXVZU1Y1dk1lMHZncHdqY0o1VURsQkRpWDBfMFhUMVRWQWpLOVN0aURkdXdFWlRaYm9WM3h5clFLQU9vcnh5X3V4TmttSGhMRkhxLUN4ZU10U2tvYg?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-28T09:14:53Z",
-      "summary": "法国AI公司Mistral公开拒绝了教皇利奥（Pope Leo）对人工智能军事用途的批评。该公司认为AI技术本身是中立的，不应受到过度限制，尤其在全球安全竞争加剧的背景下，AI在国防领域的应用具有重要价值。Mistral强调，负责任地发展AI军事技术比完全禁止更符合现实需求，这一立场引发了关于AI伦理与国家安全的新一轮讨论。"
-    },
-    {
-      "title": "Saltlux, a generative artificial intelligence (AI) service company, creates a digital market where a.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aNXlROGwxNFNhSzJ5RnVwbHVVaDJQWFFDR2pyQkhpOVFGUVNkTFdhd3p0bWpYNi1MQXA2YUhRN21vN2dEZk0tTk5ndw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-28T08:32:17Z",
-      "summary": "韩国生成式AI服务公司Saltlux正在创建一个数字市场，旨在为企业和开发者提供便捷的AI模型交易与部署平台。该市场整合了多种AI工具和服务，使客户能够快速找到适合自身业务的生成式AI解决方案，并实现即用付费模式。此举有望降低AI应用门槛，推动韩国本土AI生态的商业化与普及化。"
-    },
-    {
-      "title": "A Study to Assess the Awareness and Attitudes Towards Artificial Intelligence (AI) Tools Among Medical Trainees and Practitioners - The Cureus Journal of Medical Science",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWnItYUpZamhCM19QZDBsNmFJSlh1d29kaUxEYlNNamRWaHJ0V09lbVZMQUIxT3FuSXQtLWJtajdzazNGSnotNE5pdFZJUU9GTmp1S2tsSFl4eFRmdGtEUVhwNU0tYlI0aVBWQzUyRHNNQXAyVGNlaXZmTnpIbWNEMENmdXhOZ0JBQmhsaHRTMC1ha182enFjcTVFVnJ3bmx3S1Yta1M3bGg5dEFCT1htc29XejI0YVNTN2htM2RGai1MZTNVcklueHlENlZQRGFOaVNvZjh4NE02dHo3X1N4YWZyRmlUUW5OYzk1ei1ady1MVjZRY19XNU5B?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-28T07:45:13Z",
-      "summary": "《Cureus医学科学杂志》发表了一项关于医学实习生和执业医师对人工智能工具认知与态度的研究。调查显示，大多数受访者对AI在辅助诊断、医学影像分析等方面的潜力持积极态度，但同时也普遍担忧数据隐私、算法偏见以及可能对医疗工作岗位带来的冲击。研究建议加强AI教育，以促进医疗领域的人机协作。"
-    },
-    {
-      "title": "Alibaba, a Chinese big tech company, is launching an artificial intelligence (AI) agent service and - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80cUtBS2dQUWJzSzBqU21feGRtZGNjZXRpWGxOWTkwYWs1SU5tYUFwVTF2OEJpVlFjYUFEa0M2Z01zNzlwSDY2ejhWcmhLQ1hHclR3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-28T07:21:03Z",
-      "summary": "中国科技巨头阿里巴巴正式推出AI代理服务（AI agent service），助力企业实现业务流程自动化。该服务融合了自然语言处理、任务规划与多系统集成能力，可让用户通过简单指令自动完成数据查询、报告生成等重复性工作。此举标志着阿里巴巴在AI企业级应用领域的进一步布局，意在提升B端客户运营效率。"
-    },
-    {
-      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-28T07:00:00Z",
-      "summary": "奢侈手机品牌Vertu推出一款起价6880美元的AI折叠屏手机，目标用户群体为企业CEO。该设备基于开源Hermes项目构建，集成了AI代理工作流、企业级应用接口以及超高端奢华材质。用户可通过手机内置的AI助手管理公司运营、处理决策数据，实现“从折叠屏运行企业”的理念，将奢侈品属性与AI生产力深度融合。"
+      "summary": "针对教皇利奥关于反对人工智能军事化应用的批评，法国AI公司Mistral明确表示拒绝接受这一立场。Mistral强调AI技术在国防领域的合法使用有助于提升安全防御能力，并指出技术的伦理责任在于使用者而非开发者。该公司认为完全禁止军事应用可能阻碍技术创新，主张在遵守国际法规的前提下，保留AI在军事辅助决策、后勤优化等非致命领域的应用空间。"
     }
   ]
 }

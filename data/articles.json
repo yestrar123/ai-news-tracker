@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "518",
+      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:45:13Z",
+      "summary": "苹果计划在iOS 27中对Siri进行重大AI升级，推出重新设计的Siri体验和独立的Siri应用，以与ChatGPT等竞品抗衡。根据最新渲染图，新Siri将具备更强大的对话能力和功能集成，标志着苹果在AI助手领域的战略转型，旨在提升用户体验并扩大生态系统影响力。",
+      "fetchDate": "2026-05-28"
+    },
+    {
+      "id": "519",
+      "title": "RSI is the new AGI — and it’s just as hard to pin down",
+      "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:30:17Z",
+      "summary": "一批新兴AI实验室正聚焦递归自我改进（RSI），将其视为新的通用人工智能（AGI）路径。然而，RSI目标依然难以实现，类似于AGI的模糊定义和挑战。该领域进展缓慢，反映出自我改进模型在理论、算法和工程上的复杂性与不确定性。",
+      "fetchDate": "2026-05-28"
+    },
+    {
+      "id": "520",
+      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:30:00Z",
+      "summary": "在2026年TechCrunch Disrupt大会上，Databricks联合创始人指出，企业AI交易正进入新阶段：企业不再仅评估AI的吸引力，而是关注其能否安全广泛部署。部署安全、合规与风险管理成为企业决策的关键因素，扼杀了许多AI项目落地。",
+      "fetchDate": "2026-05-28"
+    },
+    {
+      "id": "521",
+      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+      "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:28:47Z",
+      "summary": "YouTube推出多项播客新功能，包括AI推荐工具和自动速度调节（Auto speed），以增强播客收听体验。此举表明YouTube正积极与Spotify、Apple Podcasts等平台竞争，利用AI技术个性化推荐并优化播放速度，吸引更多播客创作者和听众。",
+      "fetchDate": "2026-05-28"
+    },
+    {
+      "id": "522",
+      "title": "Steven Spielberg warns AI is no ‘substitute for the soul’ - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1lILWVzNVlITFlFVWNPVzVvUzZwckFOdktLbWdOd09DSmllb2RVRWFCWlB3UFh1ZmNlUlBubHdwSlBub213Y3p2a1N0UHZCRVdhT1Z2Y2VpRzczNndsTzVEMHpEd3BFbkxJV1FtR1VLMDBCZ3h6bHFib1VyZE9telBnWE5Yd01MMGdtQUphcnVheE5lUnd3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T14:06:00Z",
+      "summary": "著名导演史蒂文·斯皮尔伯格警告称，AI无法替代人类的灵魂。他在接受《独立报》采访时强调，尽管AI在创作工具上带来便利，但真正的情感、艺术灵魂仍需人类赋予。这一观点引发对AI在创意产业中角色和伦理边界的讨论。",
+      "fetchDate": "2026-05-28"
+    },
+    {
+      "id": "523",
+      "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:00:00Z",
+      "summary": "2026年TechCrunch Disrupt大会门票优惠进入最后两天，截止至5月29日太平洋时间晚11:59，可节省高达410美元。大会将于10月13日至15日在旧金山举行，预计吸引超过10000名科技领袖参会。提醒感兴趣者抓紧注册以享受折扣。",
+      "fetchDate": "2026-05-28"
+    },
+    {
+      "id": "524",
+      "title": "Visa invests in Replit to power agentic payments for developers",
+      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T14:00:00Z",
+      "summary": "Visa投资AI编程平台Replit，旨在为开发者提供基于智能代理的支付能力。Visa透露已有超过1000名员工使用Replit进行原型开发和软件构建。此次合作将推动AI代理在支付领域的应用，简化开发流程并增强支付自动化。",
+      "fetchDate": "2026-05-28"
+    },
+    {
+      "id": "525",
+      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaEJoSDRJQVBQZi1JcUxJaGRaREZ2OFVjZnNSa2VPX0lKQ0w0Z1BFMlpnVmNLYUNfTkFhSHBfSjlXOU5SOW9nNFVJYzVxZ2ExSXlxUUVVMnZJZ3M0XzUzX2Z3alpkMlBoUG1LbDhDMU5HWkVvRmxfalUtXzhtYnRIUVdORDBHalNJbTJydEQ0Y0hGUWkyci15SFIyazFhal9WaVIwQVU3bEJmQk8zdXpRRE5Nb3NpTXJQdmhDY3FHeE1PRkdrclpRaE5XUUVQVXlHd2F0M0VXONIB3wFBVV95cUxQNEZIWi1MTWlfX0ZmbzJyUGJTN1NucjRXV1RmWXBObmp5VEgyQ2dQOW5ONWlkVHFOcnZWdm0tenZKSmMzTURXRC13R2xUdkp2MGdzaUV4M2ZLSTFlYnNCSkNaWktTenp1dnVwVFpBbklKTW9HVmtpNWp4YVVNTFNuZ0ZuY0pRNm5NeWptbGN2UkVaTmwzSE1iZ2JrUFViTWU0UzExSEJfWDhBcmVJLUkzRmJQMEtKNWk3QzNMNUdlQ3RrbFJHUUl3a2RfVm9mX2ZFT0M4aFE5N1hPdGpreUtF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T13:46:26Z",
+      "summary": "OpenAI基金会承诺投入2.5亿美元，帮助工人和经济体应对AI带来的颠覆影响。该资金将用于培训、再技能提升、社会保障等项目，支持因AI自动化而受到冲击的行业和群体。此举旨在缓解AI对就业市场的冲击，促进包容性增长。",
+      "fetchDate": "2026-05-28"
+    },
+    {
+      "id": "526",
+      "title": "AI-powered vehicle delivery monitoring tool launched - Fleet News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFF5b0t1MkNJNmdUYVVVWE9fd2NQWHNhQ29VenpVZ3BHM0J1MURPLVlTQm1VbnhuQVZFOGNKaUNWdDNabjI2UW14R0xqd3lsSzEtMkU3MTRFa3J1NE9wd3Zha2Qtd0dfTXo4OHFhT2dzSWpvNVc4LW9vOEhiQXkwZ2loUGhEY2RiVjJGNm5n?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T13:03:32Z",
+      "summary": "一款基于AI的车辆交付监控工具正式发布，旨在提升车队管理效率。该工具利用AI分析车辆交付过程中的数据，实时监控运输状态、检测异常并优化路线。据《Fleet News》报道，该技术可帮助物流企业降低延误风险，提高交付准确性和客户满意度。",
+      "fetchDate": "2026-05-28"
+    },
+    {
+      "id": "527",
+      "title": "Are hurricanes getting stronger? What the science — and AI — say about the future of storm forecasting - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZDNBa2I1TjRZcnJDbVNNVDRHa0cwalJxeG5vUEx5QjVSa2hTaEhLblluM1FVeW9CdUd1RlBrQjBRVE5XOHctZG51TTdsYWJDRkJjRGFLU2dfVThtQlVtWGQ5SWg2RVlZa2xMVnV1dFZhNTJ0S1QySjRZeTE5dkZlaEtNLThwUGFvaTlpTWdieDBjOXlhNXBsOVE1VnhFbHU0aXk0dm5PRkpQQ21hT3FJWjFEZmVaVlE5SFJITkxxa25yQVNub2lEYkVwa21Cb2hyNktadE1KcExfdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T13:00:00Z",
+      "summary": "关于飓风是否因气候变化而增强的讨论中，AI正改变风暴预报的未来。科学家利用AI模型分析历史气象数据与实时观测，更精准地预测飓风强度、路径和潜在破坏力。AI辅助预报有望提前预警，减少灾害损失，但其仍需与物理模型结合以确保可靠性。",
+      "fetchDate": "2026-05-28"
+    },
+    {
+      "id": "528",
+      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+      "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-28T13:00:00Z",
+      "summary": "在AI计算需求激增的背景下，General Compute公司押注SambaNova将成为下一个突破性芯片制造商。SambaNova以其创新的可重构数据流架构和针对AI训练与推理优化的专用处理器，被视为可能挑战英伟达等现有巨头的新兴力量。这一动向反映了AI硬件市场的激烈竞争与持续演变。",
+      "fetchDate": "2026-05-28"
+    },
+    {
       "id": "503",
       "title": "Multi-Agent AI: Why One Brain Isn't Enough - StartupHub.ai",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYjJvdVRLbWpicHN3N19vTXZhaE9xT1Z6MFRxNzdFQkVXN00wSkpzZGpHUTlBb1kzNGw5Zm1fTEdROVFvWGNjUHVpWFlWZzR4M2gydFFJVHhXOHZtTWhLbDdrT1d4R0sxMGdTSC01bkV0dmIzNDBfTWF5OXlIckpYWlpWbFB6Tm1jZDdwcnd1Tlo1MjZISFRWQjNSOUVrYXJDYV9uaVpYZw?oc=5",
@@ -28,12 +127,30 @@
       "fetchDate": "2026-05-28"
     },
     {
+      "id": "529",
+      "title": "AI Hiring Bias in India: How Artificial Intelligence Is Worsening Youth Unemployment - Legal Service India",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNelVMM2YtaDRyRFRUcTRYUVJWU2NVWXlJaVRxd3FZdWJZMFBNbTVFcnVCM1c3ZEJTSjJnVzNHNEdPb1llblNtRjd5V1BuWVQzTjBjRWFUNnNXMGJjTTQzM3Jwb090azFLUkVzSmVZUFE0X3p2RVA0bzJJNDR6NWhJX0JILUdnOVhTLW1SckRWOHhPeElLMDYxNQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T11:08:10Z",
+      "summary": "AI招聘偏见在印度加剧青年失业问题。研究表明，训练数据中的历史偏见会导致AI筛选简历时歧视特定群体，如女性、低种姓或非名校毕业生，从而放大就业不公。法律专家呼吁加强算法透明度和反歧视监管，以保障青年就业公平。",
+      "fetchDate": "2026-05-28"
+    },
+    {
       "id": "506",
       "title": "AI Surpassing Humans Debate Heats Up As Google AI Boss Tightens Timeline - NDTV",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZFpVRGZtNXJQU2pWZmNrVy02YVU0NERpdV9qbEt6U1FWdVd5ZHluUjNsQkhJcC03d2RUX1ZKSEZPREE3YjFUcHZhX083NnNYaG9LbHhzVlN1QThuaVVrYmtVYTJkeGREWGt5a0hReXQ0NlBhQUR6M3BxZ3Znak9FSlpaelpfZFY0Q2YwWXpGaDg5cS14Q2Nud3J2NzBsdzlpM1A1d0twSWRwVlhSQ192Mmk4djRWakphWjVZUjBBbU92Rl9kRXE0MUk4eHhWLUFxVWJyVFNneHgxcWlKemxPZW5tRkpHbkJxOW1OTDFIUdIB9wFBVV95cUxNQWxnZEJzSVFUb3FsRVZYWGdZUlVjUE1NSzlrZ1BRdFVOOXpobXAtVDR6eHktNURyQjhSQVdVNXRwTUxfdl9tazJzejRtYWhxQ1laaHlJOW0waXZ4amkySTgwbEV4U1hzVDh3cU1MRkltdHlZbkx3UnhiWV85dWpMNjYzeGszY3NVOXVSamxGT1ZjblZqNERqem9DbDd6aVF6NVd5TVlwcWdzMDNLc3V0XzlqZzIxdGFkTXBUVkthamwyUkkzM21aeVF6YjM3ckxRTU9iSlc2RUpuTGJITUloeFlOZHhINGVWR0dvaHRsVDFjUERkaXBZ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-28T11:04:45Z",
       "summary": "围绕AI超越人类的辩论再次升温，谷歌AI负责人预测人工通用智能（AGI）的来临时间比此前预期更早。这一表述引发了业界对AI能力跃迁的激烈讨论，包括AI何时能在所有认知任务上超越人类。支持者认为加速发展将带来革命性进步，质疑者则担忧伦理失控和社会失业。NDTV报道指出，时间线的收紧反映了谷歌在AI领域的激进态度，也促使监管和伦理框架加速完善。",
+      "fetchDate": "2026-05-28"
+    },
+    {
+      "id": "530",
+      "title": "Anthropic Is Playing Both Sides of the AI Spirituality Debate - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckdCV0dJdjRXR0liQXlzaGlRWVdDVE9oWkFsNnBUN2JZbGhUUk9RSE1rX1AtMlhhRGkta0pnNlBvUzJvQmlrT3FqTjM5bnYxaEdCMy1hVTQtN0tSZ2NZSkoxQjdZSDZPUkUwemNJcVR1Q29hb3JVZldkMVVBRm5PRHd2OUxXajRTMXFxTDkzWEZXaWpXdnpv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-28T11:00:32Z",
+      "summary": "Anthropic公司在AI灵性辩论中表现出模棱两可的立场。一方面，其CEO发文探讨AI可能产生类似宗教体验的潜力；另一方面，公司又强调避免过度拟人化。这种“双面”态度反映了科技公司面对AI意识、灵性等敏感话题时的谨慎与策略性。",
       "fetchDate": "2026-05-28"
     },
     {
@@ -4645,5 +4762,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 516
+  "total": 529
 }
