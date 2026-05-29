@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "569",
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "summary": "韩国芯片初创公司Xcena获得1.35亿美元融资，押注人工智能领域最大的瓶颈并非算力，而是内存。该公司认为，当前AI模型的性能提升受限于内存带宽和容量，而非处理器速度。Xcena专注于开发新型存储架构或内存计算技术，旨在突破这一瓶颈，为AI训练和推理提供更高效率。这一融资表明业界正重新审视AI硬件中的存储环节。",
+      "fetchDate": "2026-05-29"
+    },
+    {
       "id": "550",
       "title": "2 Dirt Cheap Artificial Intelligence (AI) Stocks That It's Time to Buy the Dip On - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWV3blFRZjFPWmdIR0hZTTBLZGY5cGxlTVh0UnRkOVJKekgtOGdvU2pMMmFjZ1JORWZWZ3ctUE4wNWdOWUJMTDVFNWtPZUtXbS02STNfWTZVMDZMWkUtdzE1OE40Qk5NUzFLRXpOMFMxbkZOMUZMR1VpMHo5dDB0Zjloc2Vxc19qbHAtWUM0dHZZVGswZmw0cw?oc=5",
@@ -5104,5 +5113,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 567
+  "total": 568
 }

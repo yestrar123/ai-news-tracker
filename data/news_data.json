@@ -1,139 +1,125 @@
 {
-  "updatedAt": "2026-05-29 11:58:42 UTC",
-  "totalArticles": 19,
+  "updatedAt": "2026-05-29 12:37:16 UTC",
+  "totalArticles": 17,
   "articles": [
+    {
+      "title": "A.I. Doesn’t Have to Mean Layoffs - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXZ3cWNGY01ZMWl5LWoxWnFRa0tpcHZ2TmotSVZUY1ZTdmxPR2hyaEdDMHJtRGo4UklCR1RzY3ZpUEItOG1RWmctWm04LUYta2FoeVRJZk5NYjNLdnloZTJHN0ttUFJCMlR6NDJGZ0I4R1VQMjRybVlmQXNsWXpWck14RQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-29T12:07:25Z",
+      "summary": "《纽约时报》文章指出，人工智能并不必然导致大规模裁员。企业若能合理部署AI，将其作为增强人类能力的工具而非替代品，反而能提升生产力并创造新岗位。关键在于重新设计工作流程，注重人机协作，同时加强员工培训与技能升级，使劳动者适应AI时代的新角色。文章呼吁避免恐慌性裁员，而应探索AI与人类共生的可持续发展模式。"
+    },
+    {
+      "title": "Workers need greater say over AI rollout, says TUC-backed report - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmRQcTBFb2tIY0tjcHlWWGp6cUhKSlA2akNIazNIR3ZMWDdkSmVYT0RlY3NlNEtrdGtFNk9OYUNmd0ZKTVNqa3I1OWNvbzhVcGFmc0JNV1lEZTdKcTRBQ1JwRzlyX09MeG9vY25sWVZZcjRFSHNOTHNydnJoeFBnQm9kRWU0VEpIRnJ6V2tUZlZyQ3ZCeU9WZEx5dnBGT0lPZEw0ejBObWZFMGRiWUYxa1lLaEo1S21hYnNGZ0Z5c1MtNzdfMGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-29T12:01:00Z",
+      "summary": "英国工会大会（TUC）支持的一份报告强调，工人在人工智能的推广过程中应拥有更大发言权。报告指出，当前AI部署往往由管理层单方面决定，忽视了劳动者的权益与意见。建议通过立法或集体谈判，确保员工参与AI系统的设计、引入和监管，防止技术滥用导致失业、歧视或工作条件恶化。报告认为，赋予工人话语权有助于实现更公平、更有效的AI转型。"
+    },
+    {
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "summary": "韩国芯片初创公司Xcena获得1.35亿美元融资，押注人工智能领域最大的瓶颈并非算力，而是内存。该公司认为，当前AI模型的性能提升受限于内存带宽和容量，而非处理器速度。Xcena专注于开发新型存储架构或内存计算技术，旨在突破这一瓶颈，为AI训练和推理提供更高效率。这一融资表明业界正重新审视AI硬件中的存储环节。"
+    },
     {
       "title": "2 Dirt Cheap Artificial Intelligence (AI) Stocks That It's Time to Buy the Dip On - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWV3blFRZjFPWmdIR0hZTTBLZGY5cGxlTVh0UnRkOVJKekgtOGdvU2pMMmFjZ1JORWZWZ3ctUE4wNWdOWUJMTDVFNWtPZUtXbS02STNfWTZVMDZMWkUtdzE1OE40Qk5NUzFLRXpOMFMxbkZOMUZMR1VpMHo5dDB0Zjloc2Vxc19qbHAtWUM0dHZZVGswZmw0cw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T11:43:01Z",
-      "summary": "美国财经媒体The Motley Fool发文分析指出，当前人工智能领域有两支股票价格极低，正处于买入良机。文章认为，尽管AI行业长期前景光明，但部分优质公司因市场短期波动被低估。投资者可关注这些在回调中呈现高性价比的AI股票，利用低价位布局未来增长。核心逻辑在于AI技术落地加速，相关企业业绩有望持续改善，当前低价提供了安全边际。"
+      "summary": "The Motley Fool发文推荐两只被低估的人工智能股票，认为当前是逢低买入的良机。文章指出，尽管AI板块整体估值较高，但部分优质公司因市场过度反应而股价承压，其基本面依然强劲。推荐的两只股票分别专注于AI基础设施和应用领域，具备长期增长潜力。投资者应抓住回调机会，布局这些被错杀的AI标的。"
     },
     {
       "title": "Opinion | How America can remain the world’s AI superpower - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTUIwOG9hZTZ3YzU5VExlNFdiekR5T0tYNUJrSWZVRzlNZ3JsUnkyWlM1eWx2eFl3Qm1mUU96djM4MkRRdzZGQVFfMW5wQUNfUHdzLXN6ekQtNE41Y1hkREZqZGFlVTJHLUxPRmhwNWMtQzVhQUhjUGoteVNmYUZUU1lucmN3UlBsR1V3NFQwalhaSWt5bW1wUUxsdnYxWEdzZldHc3ZVV2V3dTh1RzRmblRBU3J1UFQ4dEphYngzMkVjUUU?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T11:32:42Z",
-      "summary": "《华盛顿邮报》发表评论文章，探讨美国如何维持全球人工智能超级大国的地位。文章认为，美国需在基础研究、人才培养、产业政策及国际合作等方面持续投入。关键技术要点包括：保持对AI基础模型的领先研发、构建开放创新生态、制定灵活监管框架以平衡发展与安全。同时要应对中国等国家的竞争，通过公私合作确保技术主权和经济优势。"
-    },
-    {
-      "title": "Give staff more say over AI to ensure they share benefits, UK thinktank urges - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmRQcTBFb2tIY0tjcHlWWGp6cUhKSlA2akNIazNIR3ZMWDdkSmVYT0RlY3NlNEtrdGtFNk9OYUNmd0ZKTVNqa3I1OWNvbzhVcGFmc0JNV1lEZTdKcTRBQ1JwRzlyX09MeG9vY25sWVZZcjRFSHNOTHNydnJoeFBnQm9kRWU0VEpIRnJ6V2tUZlZyQ3ZCeU9WZEx5dnBGT0lPZEw0ejBObWZFMGRiWUYxa1lLaEo1S21hYnNGZ0Z5c1MtNzdfMGc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-29T10:36:00Z",
-      "summary": "英国智库呼吁赋予员工更多对人工智能的决策权，确保他们能共享AI带来的利益。该建议认为，企业应建立员工参与AI部署的机制，如通过工会协商或员工代表参与算法设计、数据使用等决策。核心目的是防止AI扩大不平等，让劳动者不仅承受变革的冲击，也能从效率提升和利润增长中获益。这需要政策引导和法律保障。"
+      "summary": "《华盛顿邮报》观点文章探讨美国如何持续保持全球人工智能超级大国地位。作者建议加大政府研发投资、完善人才培养体系、放宽移民政策以吸引顶尖AI人才，并建立灵活的监管框架以平衡创新与风险。同时，美国需加强国际合作与联盟，应对来自其他国家的竞争。文章认为，战略投资和政策创新是维持领先优势的关键。"
     },
     {
       "title": "Lawyers, meet your AI 'twin' - Reuters",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3VFQ0ptcHpYblF6Tk5XeWlpUkFXbUszTjh6X1B1bFpEdUF3RU1ISDVaQTM0RVVRdnJvYmNyWDU1SkJMYld4S1NWQ2JxclV3UWE5VWc4bXJjV1pFOEFrX1dYY0ZBNTAxbWNsWmFfQzRVY1VJQ2hTUUdmbGs0NDE1UllPVmU?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T10:10:45Z",
-      "summary": "路透社报道了人工智能在法律领域的创新应用——AI‘双胞胎’助手。这类AI系统能够模拟律师的思维模式，自动审阅合同、检索判例、撰写法律文书，大幅提升工作效率。技术关键是自然语言处理和知识图谱的融合，使AI理解法律语境。律师可将重复性工作交给AI双胞胎，专注于策略和客户沟通，实现人机协作新模式。"
+      "summary": "路透社报道了AI在法律领域的创新应用——律师的AI“数字孪生”系统。该AI助手能够模拟资深律师的思维模式，辅助进行法律研究、合同审查、案例预测等工作。它通过学习大量判例和法律文书，提供精准建议，大幅提升律师工作效率。尽管AI不能完全替代人类判断，但作为协作工具，它能减少重复劳动，让律师更专注于高价值事务。"
     },
     {
       "title": "Why I’m grateful to the Pope for his encyclical on AI | Francine Prose - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yeTJVMWdQQ0VQb3J1OXVTM2RnQWJId2JudGUzblU0TnJ6ZWV4eGhBN2c5OWdPVFdieUR0MWV1R2JxNHVxZ0FpXzlJUUtRVHgtYnU4OEhfM2lwemNhMzY1cE1rWEpXajdiSkJrcFpqX3RmZEtsRUFvN0QxYlY?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T10:10:00Z",
-      "summary": "作家Francine Prose在《卫报》撰文感谢教皇方济各关于人工智能的通谕。教皇在通谕中强调了AI发展必须遵循伦理原则，保护人类尊严和共同利益。文章认为，教皇的呼吁为技术狂潮中迷失方向的公众提供了道德锚点。AI的快速发展需要人文精神的引导，教皇的介入有助于推动全球对AI伦理的重视，避免技术失控。"
+      "summary": "《卫报》作者弗朗辛·普罗斯表达了对教皇方济各发布人工智能通谕的感激。教皇在通谕中呼吁AI发展应始终以人类尊严和共同利益为中心，警惕技术被用于操控、歧视或加剧不平等。文章赞赏教皇将伦理道德置于AI进步的核心，提醒世人关注算法偏见、隐私侵犯和失业风险。作者认为，这份通谕为AI时代提供了重要的道德指南。"
     },
     {
       "title": "As the artificial intelligence (AI) server market explodes, MLCC stocks, called the \"rice of the ele.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UOTdzc1lwU2hpRVczc3lNeUtKeC0zazJLSFh6ajM4ckc2RHE1d3lNQkVlV01JWHRoOWZCZFNzbXhvSXFsMmJDWDFHeFpoZFk?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T09:52:32Z",
-      "summary": "韩国《每日经济》报道，随着AI服务器市场爆发，MLCC（多层陶瓷电容）作为‘电子工业的大米’需求激增。MLCC是服务器电源管理、信号处理的关键元件，AI服务器高功耗、高算力特性使MLCC用量大幅提升。相关股票因此受到投资者追捧。技术要点：AI服务器需要更高容量和可靠性的MLCC，推动厂商技术升级和产能扩张。"
+      "summary": "据韩国《每日经济》报道，随着人工智能服务器市场爆发式增长，被称为“电子业大米”的多层陶瓷电容（MLCC）相关股票受到关注。MLCC是服务器、GPU等AI硬件的关键元件，AI算力需求井喷带动了MLCC的用量激增。供应商产能紧张，价格有望上涨。投资者看好MLCC供应链中的龙头企业，认为其将受益于这一结构性增长趋势。"
     },
     {
       "title": "Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQV0hVVlFtTXYwNEY2RzkxeXhzYmppWGRUX2MxRVpSSENkTWdqT0dPdkw2bGJpTExyb2hmc2NpekMycF91SnBiaGYzb256dm11QkxSeExqS3E3YkpBUERxMElsbGU1WjRRM3V2QWNwQmpDYW1LeGtha21VU2Y3RHlNeGliSmdJZ2dabUpXdjliSmd0WklfLUlwMmpyTTVBeDJicWs1Nl9kZFZ5Zmp5WnVkZlkwQ3o2bkVXbTAyclNyVTlqX2VrU2hjRWxSY1JRdzROQWNYQ2Y1alEyZzItVEppLWJGVlhPejZjeE1Vc0hMa216QjNtUkFLR01NOWpYdkZucjAydlVWWVZkVWxkVG5rdFI3bWgtdElZcU42QnRIZDA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T09:44:01Z",
-      "summary": "Tom's Hardware披露，某神秘公司因未对员工使用Anthropic的Claude AI设置许可限制，一个月内意外花费5亿美元。这凸显了企业部署AI工具时必须重视成本管控。技术要点：AI服务通常按调用量或时长计费，缺乏上限设置可能导致费用失控。事件警示企业需建立预算预警、用量监控和权限管理机制，避免类似财务灾难。"
-    },
-    {
-      "title": "A.I. Doesn’t Have to Mean Layoffs - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXZ3cWNGY01ZMWl5LWoxWnFRa0tpcHZ2TmotSVZUY1ZTdmxPR2hyaEdDMHJtRGo4UklCR1RzY3ZpUEItOG1RWmctWm04LUYta2FoeVRJZk5NYjNLdnloZTJHN0ttUFJCMlR6NDJGZ0I4R1VQMjRybVlmQXNsWXpWck14RQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-29T09:11:19Z",
-      "summary": "《纽约时报》发表观点文章指出，人工智能不一定导致裁员。通过实施有效的再培训和岗位重新设计，企业可以将AI作为辅助工具提升员工生产力，而非简单替代。核心策略包括：识别AI增强型岗位、投资技能升级、建立人机协作流程。文章强调，技术创新与就业保护可以兼得，关键在于管理层的规划和对员工的投入。"
+      "summary": "Tom's Hardware披露，某神秘公司因未给员工设置AI使用限制，一个月内意外花费5亿美元用于Claude AI服务。据悉，该公司为所有员工购买了无上限的许可证，导致大量无节制调用，费用失控。这一事件凸显了企业部署AI时设置预算和权限管理的重要性，提醒其他组织在引入生成式AI工具前需建立严格的监控和限额机制。"
     },
     {
       "title": "Artificial intelligence inherits human bias, reinforcing gender stereotypes - ynetnews",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdVg0dmZILUVwb3l5aDFDUFQzVi1LTUVaZms4a1FtRUduQ214QWV3RlZxb3FIQ3diblR0OHlhUjZkUi1UUGJPdVZEaFA1WHRmSEw1a2g3OG5Ic1hGbDd0bVp4RUtPYWJfUjR0MQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T08:49:38Z",
-      "summary": "研究指出人工智能会继承人类数据中的偏见，从而强化性别刻板印象。例如，AI招聘系统可能因历史数据偏好男性求职者，图像识别模型可能将女性与家务关联。技术根源在于训练数据包含社会偏见，且算法难以自动识别和纠正。文章呼吁在AI开发中引入多样性团队、开展偏见审计，并使用去偏技术确保公平性。"
+      "summary": "ynetnews报道指出，人工智能系统会继承人类社会的偏见，进而强化性别刻板印象。研究显示，AI模型在语言处理、图像识别和招聘决策中，常常依据带有偏见的训练数据产生性别歧视的输出，例如将领导力与男性关联、将护理角色与女性关联。这一现象要求开发者在数据收集、模型训练和评估环节更积极地消除偏见，确保AI的公平性。"
     },
     {
       "title": "How DW uses Artificial Intelligence in journalism - corporate.dw.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT2ZGR3ZMMk1tZXRoTUlnVTlQZWxtS3JwLWtsVE05MGhpYnYtNkxaLVo5VnY3Y05UbHZVUlVnaG1HZ25kT0xlN2RKTzliN3NlbkxBOW5LbnVKVmdhUHVnYzd0Z0s2QVBUNVR0cWUxUkNGTGllYzJxN2ZWTUdfSXdYRnhnOEpxM2JSSFlsY0FOWk13UQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T08:33:03Z",
-      "summary": "德国之声（DW）介绍了其在新闻业中应用人工智能的实践。DW利用AI进行多语言内容自动转录、事实核查、个性化推荐以及新闻稿的初步生成。关键技术包括自然语言处理和机器学习模型，帮助记者快速处理海量信息、发现数据模式。DW强调AI是辅助工具，旨在提升效率和质量，同时保持编辑监督以确保新闻准确性和伦理标准。"
+      "summary": "德国之声（DW）正积极将人工智能融入新闻生产流程，涵盖内容生成、数据分析和自动化报道等领域。该媒体强调，AI技术主要用于提升工作效率和内容多样性，同时确保新闻伦理与准确性。通过AI辅助，记者可更专注于深度报道和调查，而机器处理重复性任务。DW的实践表明，传统新闻机构正探索人机协作的新模式，以应对数字时代的信息需求。"
     },
     {
       "title": "Parents A are using generative artificial intelligence (AI) as a 'childcare mentor' these days. He a.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02a2R0UTFmbEFNa1BLbnVMV1pFQlhsby1fVFdzT01pOTJadG12Z0FGOUp5UFh4ZDA2UkpRN3g2MXJkWWZGemp1YmtHZw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T08:32:37Z",
-      "summary": "越来越多的家长将生成式AI用作“育儿导师”。这类AI工具可随时提供育儿建议、解答儿童问题，甚至能在深夜与孩子对话，满足即时互动需求。家长认为AI比人类更有耐心、知识更全面，能有效辅助日常育儿。这一趋势反映了生成式AI在家庭场景中的深度渗透，从教育到情感陪伴，AI正在重塑传统育儿模式。"
+      "summary": "越来越多家长开始将生成式AI视为“育儿导师”，利用其即时响应和知识库解决育儿难题。这些AI系统能随时回答孩子的问题、提供教育建议，甚至在深夜与家长对话，弥补传统育儿资源的不足。尽管AI无法完全替代人类情感关怀，但其便捷性和丰富性正改变家庭互动方式。专家提醒，家长需合理控制使用边界，避免过度依赖技术。"
     },
     {
       "title": "71.6% of Nvidia's Portfolio Is Invested in These 2 Top Artificial Intelligence (AI) Stocks - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0ExQjFVVXJocEg5TnRuanBDbGd2ZXo3UGhJYmlua2R2SUZlQWYwdmZiN0xyZ2VndUU4TFNuanU1UnNRWWJqbHNoTDRiS2JTZ0dWT1MtbnRfcjFtX2xlcEVqVU5Wai1VaGdQVERhM3M5NUVGZkl0cjE3S0ZfWGlGVzNPWWpSdThPRmtRTE55Tmd4UXZlaEctOA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T08:30:00Z",
-      "summary": "英伟达的投资组合中，高达71.6%的资产集中于两只顶级人工智能股票。这一高集中度凸显了英伟达对AI领域的坚定看好，也反映出AI赛道在资本市场中的核心地位。尽管具体持仓未披露，但市场普遍推测这两只股票可能为AI芯片或云计算领域的头部企业。英伟达的此举或预示着AI产业将继续引领科技投资浪潮。"
+      "summary": "英伟达（Nvidia）的投资组合中高达71.6%的仓位集中在两只顶级人工智能股票上，显示出其对AI赛道的高度信心。作为AI芯片巨头，英伟达通过战略持股进一步布局产业链上下游。分析人士指出，这种集中投资策略既反映公司对AI长期增长的判断，也暗含潜在风险——若相关标的表现不及预期，可能对整体收益产生显著冲击。"
     },
     {
       "title": "Many people say that kind artificial intelligence (AI) is better than humans. We can talk even at 2 - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlUGw5TFJtd2NwVzBjdGpRRU1rTXh5VHgtUzNZOEh2N2kxaDV4b3FEekpyTVBVWmNPb0dDWlVUZVNmWU44TTRoazB3RFlrTm1FdnB4bThtTVU?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T08:25:45Z",
-      "summary": "许多用户表示，某些类型的AI在互动体验上已超越人类。它们不仅知识渊博、反应迅速，还能24小时在线，即使在凌晨2点也能提供有深度的对话。这种AI被描述为“友善且耐心”，不会因疲劳或情绪影响交流质量。该现象表明，AI在情感陪伴和知识服务场景中正在获得广泛认可，甚至开始替代部分人际交互。"
+      "summary": "许多用户认为，某些人工智能在交流能力上已超越人类，尤其是能随时陪伴对话，即便在凌晨2点也能响应。这类AI聊天系统凭借耐心、知识广度和无情绪波动等特点，获得部分人群的青睐。然而，专家也指出，AI缺乏真实情感和共情能力，长期依赖可能削弱人际交往技能。技术发展的同时，需要平衡机器便利与人类关系维护。"
     },
     {
       "title": "71.6% of Nvidia's Portfolio Is Invested in These 2 Top Artificial Intelligence (AI) Stocks - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVHFXTXJUa29YcjVZWlFoVTIybm9xWVJjVWlxUzVIcUs2WkRXaV9BWUFlX1lMa2hmX3NWenZTYnhYdUZKX2pQTElpSm1LWnM5d3huUGxhNjVZWm1hZzYwNk5XSGxVaEJVbUJZZWl5WVZtS0YxZnUtanZhclA1Qm03cmdxUzlFSTl0VjFjeHhXUGR4M0Yzd3Q5Mmx6d1VGMWdnS1pXRFRRQS10eEk3QzROazlWeU1PX1RCNEE4dWtBTEVGWThZSzBhdHNhMUpvNW1DazJ2dU5uVlZhLXJvQTk4ekRLSnQ3WFZ3RkwyQmJUY21pQkY4SUdsaXZaSUhwQQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T08:21:01Z",
-      "summary": "英伟达将其投资组合的71.6%配置于两只人工智能股票，展现了对AI产业的极度信心。尽管具体标的未公开，但分析认为这可能涉及AI芯片、数据中心或大型语言模型企业。英伟达作为AI基础设施的领导者，其投资策略具有风向标意义，暗示AI领域未来仍有巨大增长空间，资本正加速向头部AI公司集中。"
+      "summary": "根据《环球邮报》报道，英伟达将其投资组合的71.6%集中于两只顶尖人工智能股票，展现了它对AI领域未来增长潜力的极大信心。英伟达自身作为AI计算硬件龙头，此布局既是对行业趋势的押注，也通过持股巩固生态影响力。市场观察人士提醒，高度集中投资虽可能在上升周期获得超额回报，但也需警惕行业波动带来的集中风险。"
     },
     {
       "title": "A warning to Hollywood: Steven Spielberg doesn't even use AI for his research | blue News - blue News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZl9FNldjQm1NbXU0UjVoeVZNcGNlOTdBb0NFaVZkcXgxd3pmTjE5SGNLekFGeVhFQkRManU3T0xRNG5kUnlBXzVmY2xQMExrd09MS0syQzREYTNWelhpNUxDUmlxajBLQnJLT241SmYxdlNuWTBsVi14VVlsMXJfNVo2OExYYUlXb2dmVGRBVHF5Mm1SRk92ZDNRVzdzalY0cmdwMXRNOXA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T07:53:00Z",
-      "summary": "著名导演史蒂文·斯皮尔伯格向好莱坞发出警告：他本人甚至不使用AI进行研究。这一表态反映了创意产业对AI的警惕态度。斯皮尔伯格认为，过度依赖AI可能削弱人类创造力与艺术独特性。尽管AI在电影制作中日益普及，但顶级创作者仍坚持手工工作，倡导在技术浪潮中保持人文价值。"
+      "summary": "知名导演史蒂文·斯皮尔伯格对好莱坞发出警告，明确表示自己连研究工作中都不使用AI，强调人类创意和直觉的不可替代性。他指出，电影创作需要情感、文化敏感性和个人经验，这些是算法无法复制的。斯皮尔伯格的立场引发行业反思：在效率至上的时代，如何平衡AI工具与人性表达，防止技术侵蚀艺术的独特价值。"
     },
     {
       "title": "The National Tax Service, which is driving the AI (Artificial Intelligence) tax administration, has - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CZnUxOUR5a3NoaVNNWkVBTFJGSW1EU1RWNERrVWVla1BjalJpdFhMSnpRY0xSbXdMamRqc1VNRW9HallLSmlyY0NJbVVkLXRUSkE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-29T07:06:05Z",
-      "summary": "韩国国税厅正积极推进基于AI的税务管理体系。AI技术被用于税务稽查、数据分析及逃税预警，大幅提升了行政效率与准确性。该系统能够自动识别异常申报、预测风险行为，并优化纳税服务。此举标志着税务管理向智能化转型，AI有望成为打击税务犯罪和提升合规性的关键工具。"
-    },
-    {
-      "title": "Artificial Intelligence in Diagnostics Market to Surpass US$ 6.52 Billion by 2033 as AI Revolutionizes Global Healthcare - vocal.media",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUU85dVlNNlMyUE1ycmZWMnpDa0pQVnlNdW9tNjJjbzhieWNEOEE2bGhOM1Z2R3huSkM1VmoxcG1GcmJscWtSRzZkX1o5TmFtOEpDVW5SelpDa0MtSGtWY2VUY1NqZGpPV3ZkWkVVb1h3cDFaWEN3QkNITEVhQms3NjMxNko0aHRyNzdRZy1rOS1YT04zMGdOejZCVG12Wmw0VDR0eFMwOWxtai02RERmczJpWUlFUDFUWjZnNXo4S1h4Tkx1MUxkMEpSUDZsTThFbmFPT0FnX1dyMzZJN3BSMGFn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-29T06:30:06Z",
-      "summary": "全球人工智能诊断市场预计将在2033年突破65.2亿美元，AI正彻底改变医疗行业。从影像分析到病理检测，AI诊断系统展现出高精度与高效率，尤其在早期癌症筛查和罕见病识别中表现突出。随着算法迭代和数据积累，AI诊断将覆盖更多科室，降低医疗成本并提升全球诊疗水平。"
-    },
-    {
-      "title": "As cyber threats at the level of hackers using artificial intelligence (AI) increase rapidly, the go.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81UDZUYlB6TzBRc0psZ3ZKSE5ockRmZ2FwYXRVeW91N2lUQkstWlE0d3hlQWRPVHMwUkUxWUgtMUZIeG5uZHkzakstdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-29T06:29:27Z",
-      "summary": "利用人工智能的黑客发起的网络攻击正在快速增长，其攻击手段更隐蔽、自动化程度更高。传统防御体系面临严峻挑战，政府与企业亟需采用AI驱动的安全方案以对抗AI威胁。专家呼吁加强国际合作与法规建设，应对这一新型网络安全风险。AI在攻防两端的应用，正使网络安全博弈进入全新阶段。"
-    },
-    {
-      "title": "New alliance is insurance as AI reaches ‘defining moment’: UK - AFR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0x1dDlUdHN2Z1dRVzVuR3l0Y2dBX3ZCNHZSVE40N1JaYnBSMXU2dWg0XzExZTd2eHV6SXBJaDFHVGp4QUdIMncxQzNzcE5HNUpfQjRacFh3UGlNZmkwUnVxc2NiTHY5OGo1ZVFkV29KVE15OFFjSWVWN0RsS0tIMU93ZE93T2FTWWh2TzNPV2ZZVlNsZkFrM0xtOGxyR09TeXVWcVEyWGZheVRCMmVJVw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-29T06:00:00Z",
-      "summary": "英国指出人工智能已到达“决定性时刻”，并推动建立新的联盟式保险机制。该机制旨在为AI应用中的潜在风险提供保障，包括算法失误、数据泄露等。随着AI在关键行业深入部署，保险成为风险管理的重要一环。英国此举或引领全球AI保险标准，促进AI技术安全、可持续地发展。"
+      "summary": "韩国国税局正大力推进基于人工智能的税务管理体系，利用AI技术提升税收征管效率与准确性。该系统通过数据分析、异常检测和自动化流程，帮助税务人员更快速识别逃税行为，优化纳税服务。此举标志着政府机构对AI应用的重视，有望减少人为错误并提高合规性。不过，数据隐私与算法透明度仍是实施过程中需要关注的关键问题。"
     }
   ]
 }
