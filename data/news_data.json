@@ -1,69 +1,83 @@
 {
-  "updatedAt": "2026-05-30 15:54:15 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-05-30 21:37:08 UTC",
+  "totalArticles": 11,
   "articles": [
-    {
-      "title": "As students protest artificial intelligence, Pitt professor cautions: ‘We cannot delay the AI adoption’ - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdzhNdFpsc1FiSUtXR3dmTXBtZnJGTG1BTEdyM21RMjZyS0t2aDEzWGI2NGlaWHZmRUFBREdKU0l3NFZjUnJ2Wl9jcXN5MHBRX0pVUnBkSy1zanFkYl9IN1M1QWtYZ0dMckI5U0VzUk04QmxwLWItMVZCQnhRaUhEWVpHakxKeEx0RWxGSUVCTXpqR3N1SnhUUVg1cExRUTJsNU5laWpLQkVGb3pEWFJ3el9mVHhBeW9YTEJNWnFyVUhDX2hLMzg5b0RkT2FlWFhs?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-30T15:30:15Z",
-      "summary": "匹兹堡大学学生发起针对人工智能的抗议活动，但该校一位教授警告称，我们无法推迟AI的采用。教授认为尽管存在伦理和就业担忧，但AI技术发展势不可挡，高校应积极引导学生理解和适应AI，而非抵制。抗议活动反映了学生对AI可能取代人类工作的焦虑，但教授强调，延迟采用AI将使学生在未来就业市场中处于劣势，教育机构需平衡技术推广与人文关怀。"
-    },
-    {
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T15:30:00Z",
-      "summary": "TechCrunch体验了谷歌推出的全天候AI助手Gemini Spark，发现其实用性超出预期。该工具能够自动处理收件箱摘要、本地活动规划等日常任务，显著提升效率。不过，文章质疑谷歌为何将其作为独立产品发布，而非整合进现有服务中。Gemini Spark的亮点在于其持续运行的特性，能实时响应用户需求，但差异化定位尚不明确，可能面临与谷歌其他AI产品重叠的挑战。"
-    },
     {
       "title": "A.I. Doesn’t Have to Mean Layoffs - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXZ3cWNGY01ZMWl5LWoxWnFRa0tpcHZ2TmotSVZUY1ZTdmxPR2hyaEdDMHJtRGo4UklCR1RzY3ZpUEItOG1RWmctWm04LUYta2FoeVRJZk5NYjNLdnloZTJHN0ttUFJCMlR6NDJGZ0I4R1VQMjRybVlmQXNsWXpWck14RQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-30T15:13:14Z",
-      "summary": "《纽约时报》发表观点文章，指出人工智能不必然导致大规模裁员。作者认为，AI更可能重塑工作内容而非完全取代岗位，企业可通过人机协作提升生产力。关键在于组织如何设计转型路径：将AI用于增强人类能力而非替代，投资员工再培训，并重新定义工作流程。文章呼吁警惕将AI与裁员直接挂钩的简单化叙事，强调技术进步应服务于人类福祉。"
+      "publishedAt": "2026-05-30T21:13:18Z",
+      "summary": "《纽约时报》报道指出，人工智能的普及并不必然导致大规模裁员。文章认为，企业可通过人机协作的方式，将AI用于提升员工效率而非取代岗位，同时注重技能重塑和岗位转型，从而在技术变革中实现劳资双赢。这一观点为当前AI引发的就业焦虑提供了冷静思考。"
     },
     {
-      "title": "Prediction: This Artificial Intelligence (AI) Inference Specialist Is Going to Soar After June 3 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0lGcGFhRW9oMUFCcXhHUWQtTHpfWElTRzlWbzYyZ3F5a3c0aTc1Y3VoaFc3Y1dfMVkwN2Jja2Y5RDQzTGxaWE0xeTdESkItdE4zcEYwdHd1LTlHZVdtTGFfbk1wYkxWbXgtOTJDenh0ZUM3d3BaWkR4cDJxaUlKTEZyNTBRRThNTVVrMk1CTmJJa2ttdm9SLQ?oc=5",
+      "title": "These artificial intelligence (AI) stocks have crushed Nvidia in 2026 with gains of 67% and 121%. They can still soar higher - MSN",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOamhjbF9td2ZiS3NsUFhiVWRpZzZUTnYwZ0d2bklJRTQ3SE1DOFNlRnJpNktwWGR2Z2Q1NjFrUEswT1Q0LWFCbUdySEJVdlZ1YWJTd0JOMmlRdzVRZTgzYkZyQlVHcUJmV3dPTmdIU3M2NEV0TzU3b1B2WGlDM0RtVGpJS2J6Tjc0dXBNd3poaU9JQ2VuRTFLbXgybG5abEI4MDRNbkRkaGxfWDNNTDJqX2NuV2p4dkZMVUlocDVuamRnWHp2T05EaG53bGFEdno1ZTZSWFBXbTF2LVVKTXZjOGlzVTdNUFphWEJ2YXNFODVHX2ZRWWR5U0ZYUmJaUHVYVGlCZVg4eG1hZC1SNm4ybDFHZnpxb0VTQmNKYm9XSDFWUXBPTEE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-30T13:59:38Z",
-      "summary": "投资网站Motley Fool预测，一家专注于人工智能推理（AI Inference）的公司将在6月3日后股价大幅上涨。AI推理是在训练完成后实际运行模型的过程，随着生成式AI应用爆发，推理环节需求激增。分析指出，这家公司掌握关键推理优化技术，能从企业大规模部署AI中受益。具体公司名称未透露，但文章暗示投资者应关注边缘计算和模型压缩领域的专业厂商。"
+      "publishedAt": "2026-05-30T20:13:00Z",
+      "summary": "MSN报道称，截至2026年，有两支人工智能股票以67%和121%的涨幅大幅超越行业巨头英伟达。文章分析认为，这些公司在AI细分领域（如自动驾驶、企业级AI应用）拥有核心技术优势，未来仍有较大的增长空间。投资者可关注这些具备持续创新能力的AI企业。"
     },
     {
-      "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtQ1dPalp2Z1F6NlROVWxWVjB5Zk9WTnI3QnRCQUFHb1ZQSUpuczJMUE9oRVBYWlA1SlRWdlE4ckViR1hZQzBzTVdDWGZGcmJoaWNpdUFiTUFlOW5hN0hLWFM2bW1kZGNBM0Y2X2JJNUMtLTBWUEFkMnBpWDU?oc=5",
+      "title": "As students protest artificial intelligence, Pitt professor cautions: ‘We cannot delay the AI adoption’ - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdzhNdFpsc1FiSUtXR3dmTXBtZnJGTG1BTEdyM21RMjZyS0t2aDEzWGI2NGlaWHZmRUFBREdKU0l3NFZjUnJ2Wl9jcXN5MHBRX0pVUnBkSy1zanFkYl9IN1M1QWtYZ0dMckI5U0VzUk04QmxwLWItMVZCQnhRaUhEWVpHakxKeEx0RWxGSUVCTXpqR3N1SnhUUVg1cExRUTJsNU5laWpLQkVGb3pEWFJ3el9mVHhBeW9YTEJNWnFyVUhDX2hLMzg5b0RkT2FlWFhs?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-05-30T13:01:00Z",
-      "summary": "AI公司Anthropic与教皇方济各就人工智能危害问题结盟，引发外界质疑这是真诚合作还是“梵蒂冈洗白”。教皇一直关注AI伦理，尤其担心深度伪造和技术滥用。Anthropic以开发安全AI著称，其Claude模型强调伦理对齐。批评者认为，大型科技公司寻求与宗教领袖结盟可能意在转移监管压力。支持者则认为，跨领域对话有助于制定负责任的AI发展准则。"
+      "publishedAt": "2026-05-30T20:01:32Z",
+      "summary": "匹兹堡大学学生抗议在校园内过度使用人工智能，但该校一位教授警告称，社会不能因恐惧而延迟AI的采用。他指出，AI技术已深刻影响教育、医疗等领域，回避只会导致竞争力下降，应通过合理监管和伦理规范来引导AI健康发展。"
     },
     {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "title": "These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%. They Can Still Soar Higher - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmcxMU5ILW5UQVdpTmVYVGlVTHBaM05Wby1CODNJQ3Ffb1lfUmR6WlBReTNqUzlHZGRVdUluMG5WSUNOSFcyd0wzcE9qQWNjLWVKaHJwc2dkaVJIRU5hdWZ6cEpRbkNQemZ6S1NQWGtkRWlNaFFSaXRmWVJUbkRKdTZPOVVtOER0VTJxTkl3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-30T19:49:32Z",
+      "summary": "AOL.com报道，截至2026年，有两支人工智能股票以67%和121%的涨幅超越英伟达。文章强调，这些公司专注于AI芯片优化、自然语言处理等关键技术，并已获得大型客户订单，预计未来营收将持续增长，投资者可考虑长期持有。"
+    },
+    {
+      "title": "These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%. They Can Still Soar Higher - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjdZRFB0VXc2bWVQcTNiYU5xaTdNcDdPVkd4dlRMZFd4ZlZPSW5xcGsyLTNkTWFKZF9EZ3NEaEk3dXhfNHNmWWNfRG8zYUJkRWNrQ0F0YU8yYjZBdUdMX0RBc2xSdWtaSExoZ1pZLWd5UHJyd0lmSDA1OXM0MEplT3BjT1ROaF9JdHdsa0ZaTng4T194Y3hUYg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-30T19:32:19Z",
+      "summary": "The Motley Fool分析称，截至2026年，有两支AI股票涨幅达67%和121%，远超英伟达。这些企业通过差异化技术路线（如边缘AI、生成式AI应用）迅速占领市场，且具备高毛利率。文章认为，尽管股价已大幅上涨，但基于其技术壁垒和行业趋势，仍有进一步攀升的潜力。"
+    },
+    {
+      "title": "Generation AI: Schools in Asia are embracing artificial intelligence - Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUV81X1ItY21vVmtNd1V5ZzJwV3AtVjFWVkViX0VfRHQzZUlURkltTVRwT0F1MzNTM3k5bEoyaW55WWhNOUowNFpNMlRrckUyMGRVVC0wWk05amlNUXBrQ3ZITFBjTzhCdU1HcmJPaUMxWHBzSUZ3dmx5ME83RTZJV00tRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-30T19:12:22Z",
+      "summary": "澳大利亚广播公司报道指出，亚洲多国学校正积极拥抱人工智能教育。从AI辅助教学系统到个性化学习平台，教育机构利用AI提高教学效率、弥补师资不足。同时，部分地区也开始设置AI伦理和编程课程，培养下一代的数字素养，标志着“AI一代”的崛起。"
+    },
+    {
+      "title": "This is the artificial intelligence (AI) stock I'd buy if the market crashed tomorrow - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbkJkdXV4Z1QwUkpKaDZmblNYVWsyOTFreGxMejY4Slh0SFc0REVPY1NVMFhCaDU1a1JEQjJSeVhfRW1NSzZMUWRRSU9kRXB4SEZ1LS1lWGVYeHRPbHg5ajlyS1JsMThXMUxKM1IyNnJVWElicXJWSnhrVmJiMG1Tc1E2MnI1SHdFNGJwOVp4MDhUbjNya3l6bi1fTVNlOTN6OHFnMW5RMkRjbVY0V3cwTGUyRHQxYTJtb0FlX21taUx3VnZGVU4yX3lVZ0JNN3pDWGVZMkYtaldHNlN2amNVbEpTd21EQVFNQXpGWFVROGNCOFBtc3NicHBlTS1Wd3JqcGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-30T17:45:00Z",
+      "summary": "MSN专栏文章建议，如果市场明天崩盘，最值得买入的AI股票是专注于数据中心和云计算基础设施的企业。文章认为，这类公司提供AI训练和推理所必需的计算资源，需求刚性且护城河深厚，市场动荡时反而能以低价获得优质资产，长期回报可期。"
+    },
+    {
+      "title": "Woman Alarmed When Her Trusted Therapist Starts Recording Her With AI - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRlFsalNoUHE5UTFGUVhfeEQ5R0QxTmZNZHlNX2t5Y3laSGJyWkhkS0g4bzJSZEFGVnJQMXE5MTJPbW5VVnE0S2ZydUZPdkkyZktzRmIwZzZxUl82cVlsVTdhb3phdXJCa2N3MzJrSVJtckFEQ3NrOTZOTnA0TmwyZnBYMWs0VVRM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-30T17:30:00Z",
+      "summary": "Futurism报道了一位女性患者在心理咨询中发现，她信赖的治疗师未经其同意便使用AI录音软件记录会话内容。该事件引发了对AI在心理健康领域应用的隐私和伦理争议。专家指出，AI虽能辅助诊断，但必须建立严格的知情同意和数据保护机制。"
+    },
+    {
+      "title": "This Is the Artificial Intelligence (AI) Stock I'd Buy if the Market Crashed Tomorrow - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX29WZDEzZ2JzZDVCb3JxVGJPNVJ6QnlZX1haa3ZkZ2IxdmoyRVVWdWZhVFl3cFJIUUh6ZFBsd0NscXd6dnBkT0VoRnZkejdRY1IwdlZnTU9DSUlXRTY3SXNsUkNIWFlsXzhSZHlTRURjNjNjMkFnM254VFk1UXpoVUpTc2lucGhaUjZlM2NNQmR2LV8zcHNkZmVqdWVJa2UxdXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-30T17:05:00Z",
+      "summary": "雅虎金融专栏指出，如果市场崩盘，最值得买入的AI股是某家拥有自研大模型和垂直行业解决方案的公司。文章强调，该企业已实现AI产品的商业化闭环，客户黏性强，且当前估值受市场情绪拖累，下跌反而提供了安全边际，适合逆向布局。"
+    },
+    {
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T13:00:00Z",
-      "summary": "浏览器大战升温，2026年多款替代Chrome和Safari的新兴浏览器崭露头角。文章列举了包括Arc、Brave、Vivaldi等在内的热门选项，这些浏览器在隐私保护、自定义功能、性能优化和创新界面方面各具特色。例如Arc采用侧边栏标签管理，Brave内置广告拦截和加密货币钱包。随着用户对数据主权和个性化体验需求增长，传统浏览器主导地位正面临挑战。"
+      "publishedAt": "2026-05-30T16:30:00Z",
+      "summary": "TechCrunch报道，微软GitHub Copilot推出基于token的新型计费模式，引发开发者强烈不满。许多用户认为新收费方式将大幅增加成本，且使用场景受限，直言“这像个笑话”。这一变动可能影响Copilot的普及率，并促使竞争对手加速抢占开发者工具市场。"
     },
     {
-      "title": "Just How Ubiquitous Will Artificial Intelligence Get? - Black Enterprise",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcTIzZkYybS11SnFuajFxWnd3Z3NHc2x0M3VBY3ltUHN1NmJuTFV1aENaVWRQR2ZlOHotU0JuWm1MTnl5X2hPV0VoWXkzeGRXTlRieDYyLWxFVFZqMDNSX244dDVkMUhLTnhHcV9RejFhVDRfRDVPa2NTS1IyWVZ6QUw4ZUNaRDVfRTlVZWhvUGc3TTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-30T11:48:05Z",
-      "summary": "Black Enterprise探讨人工智能将变得多么无处不在。文章指出，AI正在从科技行业渗透到日常生活的各个角落，包括医疗诊断、教育辅导、金融服务和创意产业。然而，普及也伴随数字鸿沟风险，少数族裔和低收入群体可能被边缘化。作者呼吁政策制定者确保AI发展惠及所有人群，避免加剧社会不平等。同时，企业应优先开发透明和公平的AI系统。"
-    },
-    {
-      "title": "Biblioracle: The AI scandal around ‘The Future of Truth: How AI Reshapes Reality’ - Chicago Tribune",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmJsNXptRVpOOGt5Zk1CTXdOaXhTN1M1Rnl6enMyVHA3cS1NWmc4a3ljUl9weUh0Q29fbFMwMHVYR2tVUTd2eHZMMUZKd01UbE9iNlhLSlREcDJKTjVnUF9xcElfSklzNzFuZmo3WkxQa2hiM1loQ3RfdktkQ2dibGNPZC1GbTE2MTNhRzhRa1hiRUxOcnBWRTV3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-30T11:00:18Z",
-      "summary": "芝加哥Tribune专栏揭露围绕《The Future of Truth: How AI Reshapes Reality》一书的AI丑闻。该书声称探讨AI如何重塑真相，但被指控存在剽窃和内容由AI生成的问题。作者Biblioracle指出，这一事件讽刺地反映了AI时代的信任危机：即使是批判AI的作品也可能借助AI伪造。讨论引发关于学术诚信和AI作品署名规则的更广泛争议。"
-    },
-    {
-      "title": "Can Catholics as consumers drive a better AI future? - OSV News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXVpa2QyS0JXbWgxcENIdUdsN2ZIcGJBTE1XRy1rU2pBVUFBSTNzVExaR2FKN1R0d3YxbXZ3MVNUcHlqaU5MZWt3LTRtdUE1eVRUNzRTTTd5QVZyb1RYUWNpekcxdmNmUjhJLTU1SG85WTk2TGU5eFN5QmFUUFlIOE9n?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-05-30T10:00:00Z",
-      "summary": "OSV News探讨天主教消费者能否推动更美好的人工智能未来。文章认为，作为庞大消费群体，天主教徒可以选择支持符合伦理价值观的AI产品，例如注重隐私、公平性和人类尊严的技术。教会领袖呼吁消费者用购买力投票，抵制利用AI进行歧视或操纵的行为。同时，天主教社会教导中的“共同福祉”原则可作为AI发展的道德指南针。"
+      "title": "Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30T15:59:58Z",
+      "summary": "据TechCrunch报道，Meta正在开发一款AI挂坠设备，标志其在AI硬件领域持续加大投入。这款可穿戴产品或将集成语音助手、摄像头等传感器，利用Meta的AI模型实现实时交互与环境感知。尽管具体功能尚未披露，但该举措反映出科技巨头对随身智能终端的探索，试图将AI能力从手机扩展到更多生活场景。"
     }
   ]
 }
