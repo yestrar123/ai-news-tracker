@@ -1,48 +1,55 @@
 {
-  "updatedAt": "2026-05-31 09:58:23 UTC",
-  "totalArticles": 6,
+  "updatedAt": "2026-05-31 10:23:48 UTC",
+  "totalArticles": 7,
   "articles": [
+    {
+      "title": "A.I. Doesn’t Have to Mean Layoffs - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTXZ3cWNGY01ZMWl5LWoxWnFRa0tpcHZ2TmotSVZUY1ZTdmxPR2hyaEdDMHJtRGo4UklCR1RzY3ZpUEItOG1RWmctWm04LUYta2FoeVRJZk5NYjNLdnloZTJHN0ttUFJCMlR6NDJGZ0I4R1VQMjRybVlmQXNsWXpWck14RQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T10:22:58Z",
+      "summary": "《纽约时报》文章指出，人工智能（AI）的普及并不必然导致大规模裁员。技术变革虽然会淘汰部分旧岗位，但能通过人机协作创造新机会。关键在于企业主动进行员工再培训与技能升级，而非简单削减人力。AI作为增效工具，可辅助决策、优化流程，最终提升整体生产力。文章呼吁社会以更积极的态度应对AI带来的劳动力转型，强调政策支持和终身学习的重要性。"
+    },
     {
       "title": "Gwangju's three high-tech districts, which combine artificial intelligence (AI) and advanced medical.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XNklwdll0MXFDRWs4Vi1WanJpX0FjbTJCWlBOcEU0dXJCNzMwRU1tYlZUdS16d1IyajRCX25MN3c0U053MFVJTEdlRFpEdU03V0E?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-31T08:17:55Z",
-      "summary": "韩国光州市宣布打造三个融合人工智能（AI）与先进医疗技术的高科技园区。该项目旨在通过AI技术赋能医疗健康领域，推动精准诊断、智能诊疗和个性化医疗的发展。园区将集中研发AI驱动的医疗设备、数据分析平台及远程医疗服务，并与当地医院、研究机构合作，形成产学研一体化生态。此举有望提升光州在AI医疗领域的国际竞争力，并为全球智慧医疗提供创新范例。"
+      "summary": "韩国光州市正规划建设三个融合人工智能（AI）与尖端医疗技术的高科技园区。这些园区将聚焦AI辅助诊断、个性化治疗和医疗数据分析，旨在打造智能医疗产业集群。通过整合AI算法与临床资源，推动精准医疗、远程手术和药物研发等领域的突破。光州市希望以此为引擎，吸引全球医疗科技企业入驻，形成产学研协同创新生态，助力韩国在AI医疗领域抢占先机。"
     },
     {
       "title": "Amid a surge in demand for servers for artificial intelligence (AI) data centers around the world, U.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HeWFhV0ZLb0tLVFJxNnNKeDBkQl95ZlJmQmZJLVdUcy1TM1ZkRGtFZXp5ZW5DblZqNHFxUmZ5Mk0zSTlqTVctaXJfb1U5dUU?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-31T08:17:02Z",
-      "summary": "全球对人工智能数据中心服务器的需求急剧攀升，美国相关企业正加速扩张产能。为满足大模型训练和推理的算力需求，服务器制造商、云服务商及芯片公司纷纷加大投资。供应链面临挑战，包括高性能芯片短缺、能源消耗激增以及数据中心选址竞争。分析师预计，未来几年AI服务器市场将持续高速增长，推动整个ICT产业链升级。"
+      "summary": "全球人工智能数据中心对服务器的需求激增，引发美国相关企业的产能紧张与供应链调整。随着云计算、大模型训练等场景持续扩张，高性能服务器成为AI基础设施核心。文章分析当前供需矛盾，指出制造商正通过扩建工厂、优化芯片设计来应对订单压力。同时，能源消耗和散热技术也成为关注焦点，行业需在算力提升与可持续性之间寻求平衡。"
     },
     {
       "title": "As the corporate value of Anthropic, which provides generative artificial intelligence (AI) \"Claude\".. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qdVZET1AtZWtIQWFLSWRwazlweVZiRGJnQ1ByYmxGdjUtSjhySlVjVFptN203Z3pYWjdyRHB0V0JmZGdpaHNpbWh5TQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-31T08:07:00Z",
-      "summary": "生成式人工智能公司Anthropic（旗下拥有大模型Claude）的企业估值显著攀升。随着市场对安全、可靠AI系统的需求增长，Anthropic凭借其注重伦理对齐的技术路线获得投资者青睐。该公司近期完成新一轮融资，估值大幅提升，反映出资本对前沿AI实验室的持续看好。Claude在代码生成、文本分析等领域的表现也为其商业落地奠定基础。"
+      "summary": "随着生成式人工智能模型“Claude”的市场影响力扩大，其开发商Anthropic的公司估值持续攀升。Claude在对话理解、逻辑推理和安全性方面的突出表现，吸引了大量企业客户与投资机构关注。Anthropic通过持续优化模型架构与强化学习技术，巩固了在AI安全领域的领先地位。此次估值上涨反映了投资者对高性能、负责任AI商业前景的高度认可。"
     },
     {
       "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock Right Now, This Would Be It. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3haVHhzeVk5LUJhdTQwS2JKOVhra0ttdDdvYzZaanJHdGJQY1VsQzVEcmEtelVGVWhFZi02V3JZQlNjZ2h4NGY2d1J4R1VQMmIySUtGUkVWUWdGOUNGMnVVdURUbENnNEpTRmtaT05CcVVqX0NKYzNqRTN2bzB6T0lOOXJLbHBZcWFMdjVVMFgtQkdNcHJFQg?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-31T05:30:00Z",
-      "summary": "金融媒体The Motley Fool发表投资分析称，在当前市场环境下，如果只能选择一只人工智能股票进行投资，它将是某特定标的。文章认为，该公司在AI基础设施、应用或芯片领域占据核心地位，具备强劲的营收增长和护城河。尽管AI板块波动较大，但该标的凭借技术优势和客户粘性，被视为长期持有的优质选择。"
+      "summary": "Motley Fool发表文章认为，在众多AI股票中，若只能选择一只，应优先考虑具备全栈AI能力、深厚护城河和持续创新动能的龙头企业。这类公司不仅在芯片、云服务或大模型领域占据主导，还能将AI技术转化为多元收入。文章强调投资需关注企业研发投入、市场份额及长期盈利模式，建议聚焦那些能真正推动AI产业变革的核心标的。"
     },
     {
       "title": "If I could only buy 1 artificial intelligence (AI) stock right now, this would be it - MSN",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZnZoSXl0TG5TUDdZeWlfN1lSU2ZKa3NJVkhUUjBMa05JUWo0V2dPa2JkSjhOUGxUSTZqYzhfVHNza010aHpDdWVBc1hXQkl2dU9MMk9wV3RncnZ3UkU2dTNPWmtHYUk1bDV4OXE3SHlNOUJHeTJGR1o0YmRTYllLSUpvdVNza2lGNWxDZHBXY1pnNG1BVHFYQnI4ZkdXYzhBWndrN3FjSkppNktPN0FHZi0zYndBZmNJNzIzTzBoejNxN0R0ZVp4R2wtcS1UbUJQemxoN2U3RUYzY0dNT2U1STE3Smh1dGNYbWJZSkNtS0l2QVU?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-31T05:30:00Z",
-      "summary": "MSN转载投资分析指出，若只能买入一只人工智能股票，某家公司应是首选。该分析强调，AI产业正从概念走向大规模商业化，而这家企业在算力、模型或应用层拥有不可替代的竞争力。其财报显示AI相关收入高速增长，且管理层对未来发展充满信心。投资者应关注其技术迭代能力和市场份额变化。"
+      "summary": "MSN转载的投资分析指出，当前人工智能领域虽机会众多，但若仅选一只股票，应锁定拥有强大AI生态系统和广泛客户基础的公司。这类企业掌握从底层算力到上层应用的完整链条，能抵御行业波动。文章认为，AI商业化正处于爆发前夜，具备数据、算法和场景优势的领导者将获得超额回报，投资者需着眼长期持有而非短期投机。"
     },
     {
       "title": "As students protest artificial intelligence, Pitt professor cautions: ‘We cannot delay the AI adoption’ - Pittsburgh Post-Gazette",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdzhNdFpsc1FiSUtXR3dmTXBtZnJGTG1BTEdyM21RMjZyS0t2aDEzWGI2NGlaWHZmRUFBREdKU0l3NFZjUnJ2Wl9jcXN5MHBRX0pVUnBkSy1zanFkYl9IN1M1QWtYZ0dMckI5U0VzUk04QmxwLWItMVZCQnhRaUhEWVpHakxKeEx0RWxGSUVCTXpqR3N1SnhUUVg1cExRUTJsNU5laWpLQkVGb3pEWFJ3el9mVHhBeW9YTEJNWnFyVUhDX2hLMzg5b0RkT2FlWFhs?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-05-31T04:39:09Z",
-      "summary": "面对学生群体对人工智能的抗议活动，匹兹堡大学教授发出警示：我们无法推迟AI的采纳。教授指出，尽管AI可能带来就业冲击、伦理挑战等问题，但技术变革不可逆转，高校应积极引导学生适应并参与AI创新，而非单纯抵制。他呼吁教育机构将AI素养纳入课程，培养具备批判性思维和跨学科能力的人才，以应对未来工作环境的变化。"
+      "summary": "匹兹堡大学学生发起抗议，担忧AI会取代工作岗位、引发伦理风险。但该校教授警告，高校和社会不应因此延误AI的采用与教学。教授认为，AI是未来生产力基石，教育机构有责任引导学生正确使用工具，培养批判性思维和适应能力。他呼吁在保障就业公平前提下积极推广AI，通过课程改革和产教融合帮助学生掌握新技术，迎接智能时代挑战。"
     }
   ]
 }
