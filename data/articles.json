@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "624",
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-31T21:05:14Z",
+      "summary": "环境活动家艾琳·布罗克维奇将矛头指向数据中心行业的保密问题。她认为，数据中心作为AI时代的核心基础设施，其能耗、水资源消耗及碳排放等信息被运营商刻意隐藏，阻碍了公众监督与环境保护。布罗克维奇呼吁提高透明度，要求公开数据中心的真实环境影响，并质疑科技巨头在建设过程中绕开正常环境审查的做法。此举可能推动更严格的监管政策，对AI产业的可持续发展产生深远影响。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "625",
+      "title": "This is my best artificial intelligence (AI) stock to buy in June (hint: it's not Micron Technology) - MSN",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdjk3UWctbm5JYTd3MU5HQnZxSTZlNzR5dGV6UXZ2eVZEQTNxb0p2Y3Z5WjR2akdJZEFmS3NIcHFPQjhtdHpBeE5MUFk1NDJxQzRpUzJ5amVteXpqMXlncXpWdzRINzlpVG1mMzJELVlWUDhBNXo4d05MNzJIbzVwSFZrNFg4UmRrbURQME81THg1a2JGLU9GRm1yMGJhMTRESjg1SGVhcUVwSTYtbnY0M00wUkxtdHJVZk1uN3RrWU1meVlnbmtZbkQ4X3pJMjMwNFNkLTN1dnNWQWp0QmlXZDZfR1kwSVNmRzlJWkpwZnBPNWV4WVFRd1VnaTRBM1JOZ2x6UDA3NHhaWlo2bmk5TlV3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T19:23:00Z",
+      "summary": "据MSN分析，作者认为6月最佳AI投资标的并非美光科技，而是另一家在AI领域具有核心竞争力的公司。文章指出，尽管美光在存储芯片方面占据重要地位，但AI浪潮的真正受益者可能来自AI芯片、云计算或软件服务等细分赛道。投资者应关注那些在AI基础设施、大模型训练和边缘计算中占据护城河的企业，而非单纯受硬件需求拉动的公司。具体推荐需结合财报与行业趋势判断。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "626",
+      "title": "Can LLMs Generate Enterprise-Quality Code? - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzN0elliTTlfSHROTk0wTUszNlhhaHFaRWw3MDhDMHkxZ3NCSjFITHRjMW1hMFBQOGM2cDFzYV9BdG14cXU3bmQxOVQtX1JUbmlROExpb1FLTWQ1M241SUxnV0g5V1Jsb2lHRlRESUJsT3h3bmJuOV9EZTdKSVRYeVpENG9DY05WWEpIUlBqUUx3OXNfWmUxSWtLMWRNMVNvcTItX3lmcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T19:02:12Z",
+      "summary": "StartupHub.ai探讨了大型语言模型（LLM）能否生成企业级代码的问题。当前LLM在代码补全、简单函数编写和bug修复方面表现优异，但面对复杂系统、高安全性和可维护性要求的企业项目时仍存在局限。文章指出，LLM生成的代码缺乏全局架构意识，且易产生逻辑错误和安全隐患。未来需结合形式化验证、混合专家模型和人工审查，才能将LLM真正融入企业软件开发流程。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "627",
+      "title": "This Is My Best Artificial Intelligence (AI) Stock to Buy in June (Hint: It's Not Micron Technology) - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUUpzcElxMGdjZ3Y0eHZCOG03LVhUekxEVXZ1b3BtZnRtaHpGazBpOXRldjhZTi05eHNKcFVQcEFoeWxCeXVtOTlvSVV4WnRTek1FUWJLc29ubVJjeURaa0lvZEExTWhoczNpMjMzSGFJM1pBRmwwUjRYY2p4S19ESUdCbjI1UXNGWVVzR2JCb2htWmowVTU4RzJqcUJzVk1MVVZUOHk1S21KNXM0aUhuOWFIRXdaT3JCLVQxaTE2LUJzdmpvVHY0Vi1vNkk4TnVVSk04eUhUU1RjTGlHR2Z6RnN0MTRJWjZEa0VVNEJRWmY5bUV2V1B3R3JDRUVfTm5rYU85bEk3MFQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T18:46:14Z",
+      "summary": "《环球邮报》发布AI股票推荐，作者明确表示6月首选并非美光科技。分析认为，AI产业链正从硬件向软件和应用端转移，芯片厂商的周期性波动可能抑制其长期回报。相反，具备强大AI平台、数据生态和客户粘性的企业（如大型云计算公司或AI应用巨头）更具投资价值。文章建议投资者超越传统硬件思维，关注那些能直接通过AI服务变现的公司。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "628",
+      "title": "Internet, Artificial Intelligence and the UN: How different is AI Governance from Internet Governance? - CircleID",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUR3XzNOckVCRWcxMGZfT29aTkdjaldzZjZqdWlfOE9JdlVtY25Qd3NRcEItLU16QUZXMTloeko0LXJrMXBqd19kcWVDX3V3b0Z6WUt5R21iMVJnSllqdkZTZDdSTDQtWW1FbjJrbXpJSFN3bVUyRDJRSW9NMGJZV3c1Sm93OGhpXzNuZW40VzEwQmR2emVpRjJoTlF6VkFBOU9RaUlIZndnMEdzWjNVTkE2ZkVEb0I4cEtIM3FTT3V3X1ho?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T18:40:16Z",
+      "summary": "CircleID发表评论文章，对比AI治理与互联网治理在联合国框架下的异同。文章指出，互联网治理强调多方参与、去中心化和技术中立，而AI治理则更关注算法偏见、透明度、安全风险及伦理问题，需要更强的集中式规则。联合国在AI治理中面临更大挑战：缺乏统一技术标准、各国利益分歧巨大，同时还要平衡创新与监管。文章呼吁借鉴互联网治理经验，但必须针对AI独特性建立新多边机制。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "629",
+      "title": "This Is My Best Artificial Intelligence (AI) Stock to Buy in June (Hint: It's Not Micron Technology) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMDI2aUhicnZsOFR0bWkySmhXUFdIRDJYdDdvMkJDT09QNktzSUgxUGsyRU5IR3FTZG8xT0dLa2RZSVlGMW9hNFNHVndlaHI1SWlHeVhOb09fYVVhdDBWY1lmUWFwYlpRMUk1enBHVTdlM05DUDdJV3B3M3JMbm1jYTBqRjZKbi1YNGx3M0dRcnl6SWozdzdYRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T18:34:19Z",
+      "summary": "The Motley Fool的AI股票推荐文章再次强调，6月最佳买入选择不是美光科技。虽然美光受益于HBM（高带宽内存）需求，但存储器价格波动和行业周期性风险较高。文章认为，拥有独特AI算法、数据优势或网络效应的公司（如拥有大规模AI云服务的科技巨头）更具增长确定性。通过对比PE、增长率及AI收入占比，作者给出具体标的建议，供投资者参考。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "630",
+      "title": "Major Teachers Union Pleads With Elementary Schools to Stop Giving Young Kids AI - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYjNhdjREcmt0TlpnRTk2SFVQSml1Z2lpSXUzNFZOZ1dTX1NWTVNNNTlESkJ1Uk1XbjJzU3JuUmlBUlVWMmNfSzlzdWZpejluVmtjN3lSd0xkdzBnS0gyNElsaHo1NDNVVF9rTG1JS21nX1p3cDlRdWVvSllVOFA0eA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T17:00:00Z",
+      "summary": "美国一家主要教师工会呼吁小学停止向低龄儿童引入AI工具，担心过早使用会削弱基础读写能力、社交技能和批判性思维。工会指出，当前AI教育产品缺乏针对儿童认知发展的科学设计，且存在隐私泄露和算法偏见风险。他们建议学校在高中阶段再逐步引入AI，并确保教师接受充分培训，以平衡技术赋能与教育本质。这一表态可能影响学区采购AI产品的决策。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "631",
+      "title": "After the AI binge, companies balk at soaring bills - Kuwait Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTRpc2tUN0QwVXFnS08yd3ZvNHBPdEdZQzd5VjZmNnRRNTE5WDF0OWJ1NGgxd0VmaUlzQnBUbmtsdElzOW5vb01iT3lPX1VKOUZXVUxKa19YNzNGTnFFT0VZTFpfcmh2aDF5NU9HUl93cUhOemRXeHp6S3BCZWR4blBCd3Fyak5WemZJWTRIZmZjTjFMTjZHWm1BSTNOQWfSAaMBQVVfeXFMTlAwbGZ5Ty16T1h4djFMVTlLeVB1UGozTlNLSXhMVTBKUnExYkRWRFkzNFVCS2EzRUhEdXZWNVNoUTAxTzV0Slp4ZUZFU2ktV2p0TkpITVlJS3RUdUxvS3lHUXhEaGhWYUZnZGJSeTN3R1I0cFlsVWF6Qm4wcXoxci13T0hkOVZZMXVFRDBTdGRwQWlJRVFXeXJZVFJsOEt4TWlVMA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T16:50:15Z",
+      "summary": "科威特时报报道，在经历一轮AI投资热潮后，企业开始对高涨的运营费用感到震惊。大规模部署AI需要巨额资金用于算力采购、模型训练和专家聘请，但许多公司发现投入产出比远低于预期。部分企业被迫减少AI项目，转向更精细化的成本管控。分析师警告，若无法在一年内看到明确商业回报，AI泡沫风险将进一步加剧，企业需重新评估AI投入策略。",
+      "fetchDate": "2026-05-31"
+    },
+    {
       "id": "615",
       "title": "Making sense of the debate over AI psychosis",
       "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
@@ -5599,5 +5671,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 622
+  "total": 630
 }
