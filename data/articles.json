@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "615",
+      "title": "Making sense of the debate over AI psychosis",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-31T15:30:00Z",
+      "summary": "TechCrunch的《Equity》播客节目围绕科技CEO是否更易陷入“AI精神病”展开辩论。所谓“AI精神病”指部分高管对人工智能的过度乐观或恐慌性认知，可能导致决策失当。节目探讨了这种思维偏差背后的技术、商业及心理因素，强调理性看待AI发展的重要性。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "616",
+      "title": "AI vs humans in battlefield: Pentagon divided over use of artificial intelligence in war | World News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcnNYM1JraWZrMENLQzNCLUY5VzhtdEo4UVlKVnN6X1ZtS1NtbVBVNHU3MmVDbkRKTUt3X21CMXlKZ1JNOEprMXExYnBDc0hmWThIbEh3cEFLdE9OX0FNYWxJaXBxWFFpTmtzVUFfbXQ2Y3lNY0hTZFVlc1pDdW9IYVN6aVJrVEw4VWxQcWlFLWF2RGEwc1NyM3VHcmRxQ0FsMGhGSV9URTBjOUFWTmVQejBtSDk0ZHBsNkNoRng3d0FUdXV4YTlJdE45VlNsTXh0bi11RlZQM01rTWNEMW9hTVhURlTSAeoBQVVfeXFMTlA5Z3p0eUdBb2taY1lpblhydlpwTVg1U2RQNXQxTHlnQ0drdmNaMldTMDIycWhOT25qTWVSR1EyM1VRb2laVVo1Rmtvb3ZEN1pWaEp3aGdSX3VNSGNWNVh2U1c0X0s4dWNET2pkZGFITW8xVi14WFU1S21hbWJvZ0hfN0NOOVJQS3laYkR6TS1iNXA0M09EZ2JfS0dzWHVScXhiZEduS1dyZDV6RHJicnQzcXYwaDdoZlAtZ3ppeUdIb0FSVjFoSzJHbTlybjNfdUdPUHdWejdVczR2UkpjQmYwX1ZfMUhJeGxR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T14:58:33Z",
+      "summary": "美国五角大楼内部对人工智能在战场上的应用存在严重分歧。支持者认为AI可提升作战效率、降低士兵伤亡；反对者则担忧自动化武器失控、伦理风险及敌方利用AI发动攻击。这场争论反映出军方在推进AI军事化过程中面临的技术可靠性与道德枷锁的双重挑战。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "617",
+      "title": "Nvidia Shares Dropped After Stellar Earnings. Is This a Sign of What's Coming for Artificial Intelligence (AI) Stocks? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGZCZS1DWk1SUnB3SktiWHY1bWRXclA3M19qMjhVOUhuU3F6QkJ0Yk1fWm1DTXo0dUlsMk1HTWxsMDNrbGRVQS1wYXRsTmVIWE9Da0oyOTU2UW9QTElQWGtkc1FwQVZ0dGthX3VsNzE1UW0xaTlSQnF4bXFwVFhkQVZVbmw1N2lUMjc2anF5TXNYbDI3enJ5cQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T14:45:18Z",
+      "summary": "尽管英伟达发布超预期的财报，其股价却出现下跌，引发市场对人工智能股票估值泡沫的担忧。部分投资者认为利好已提前消化，而AI行业的高投入和盈利周期不确定性可能成为未来风险。该事件被视为AI板块短期调整的信号，但长期增长逻辑仍被看好。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "618",
+      "title": "AI Cranks Out 380 Academic Finance Papers in 12 Hours That Could Fool Peer Review Checks - StudyFinds",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0pkU2k4aWEtWXlYMWVPeXVjNEFGQzFCa05mRWV1ZEhnV2NYRHh0b0ZZZk11aUwwZVFHVkpaSW95WWRwWE9GLVAydGVJcFNNeGd4LWpvZkxzeEpJVWFKd0FmWTVUc2Z4aVhTS3dVaDF4cEJ2Qmx0REowZnNiRUJENVEtRnpIaWM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T14:10:38Z",
+      "summary": "一项测试显示，人工智能在12小时内生成了380篇金融学术论文，且质量足以通过同行评审。这些论文在数据、图表和论证格式上高度逼真，暴露出当前学术审查系统对AI生成内容的脆弱性。研究警告，AI可能被用于大规模制造虚假学术成果，威胁科研诚信。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "619",
+      "title": "Nvidia recently plowed $3.8 billion into these 2 artificial intelligence (AI) stocks - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTldzMGNiaXdfVldNdWRyS2p1Z2xMQ2pyRmJTWm5zdEsxcDVqdTlMNFc2bDZMRWlzYzhaaVVkQWRUUy1zRXUxeFk0ZkhuRHhpcTNSRGFtbWt3eF9FOGkxVWNYeEprMThLbVp6OG9CMUdzV3F5aWlsalRyNC03cFo4Yk5fbWhmZzR6VlNwV0hLU3FUZlU5SlZIdWRoUGJvam54eVYzOGtLUVhnb1k1bzFscGNTWnYxb1E3MTN0WG8wYktVR2lpSXJKQ3FkVnVOblZWRVdrd2ZYejZ6QkhjeXZTdDFMOXl5LVk0V05pM0FLSzZyRUlmQzB5SW1vd29rRUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T13:39:52Z",
+      "summary": "英伟达近期斥资约38亿美元重仓两只人工智能股票，显示其从芯片巨头向AI投资生态的扩张。此举不仅巩固了其在AI硬件领域的地位，也反映了对自动驾驶、AI软件等细分赛道的战略布局。投资者关注英伟达能否通过资本运作持续放大AI产业优势。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "620",
+      "title": "Nvidia Recently Plowed $3.8 Billion Into These 2 Artificial Intelligence (AI) Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXd0VWx0dnl0YVBsdXd2YURISmM2bVk1aXpPOGtqenNhM1pRTlcwMUNxRVNOaFkxNkxMSzhnZ2VnRGpWM09XNm56SzZsU204UGhNNHVRSmNKbm5nUnhaRGJJMlhzd2tibFZkdFlVMDZ2WlNZOEV2dGkxcU02M3FFZDlqT1JYeU5PejhCQVczZ092ZGRVR0FpeA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T13:25:00Z",
+      "summary": "英伟达近期的投资动向显示，其将38亿美元投向两只AI股票，重点押注于AI基础设施及垂直应用领域。这笔投资既是财务布局，也意在通过资本纽带强化与生态伙伴的协同。市场分析认为，英伟达的激进投资策略可能进一步推动AI产业整合与创新加速。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "621",
+      "title": "Nvidia Recently Plowed $3.8 Billion Into These 2 Artificial Intelligence (AI) Stocks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnUxd3kyZ25RY19QZ2o2RjFRbTRhUU5tUWJ2Ui1MdlRxVE5DX0drclpiVWFiNXc4aThtaXhOQlNIME94dnJLUEczR0hBaG9MSHVVRXhQZmlvamZxWFFIOW1oTTlHSUpKbkpoNkhabzg4MW13U0pkYVJ0R24xTlhfd0M2b0h2RGhHMjFra0tXVDQ2RXZYUnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T12:45:00Z",
+      "summary": "英伟达在财报后宣布向两家人工智能公司投入总计38亿美元，此举引发广泛关注。被投公司分别专注于AI芯片与自动驾驶技术，与英伟达主业高度互补。投资金额之大凸显英伟达对AI长期增长的信心，同时也加剧了市场对AI行业竞争白热化的预期。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "622",
+      "title": "Are ‘mind children’ the future of reproduction? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0U4aFhnQmFobmR4MUN4UEdWMjVuSDAyeG94OHRJZzZ5VGEwRTNMRGR3NEZsNXpPNmo4a2NCTkZwblVkOTdmdHN5ZHphMEd3X3FKZjNLbXJVMjUwb19lSzhHVFRfZ2QwZlp6LVZhQmlWMTBZdGRfcDNaaEdVLUN3WDZqRHhDdTlvODhvMDZFNHN2Qjk2?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T12:17:00Z",
+      "summary": "《卫报》文章探讨“思维孩子”这一未来生育概念，即通过脑机接口或AI技术将人格、记忆等数字信息“繁殖”出新个体。这涉及意识上传、数字永生等前沿科技，但也引发伦理争议：数字后代是否拥有权利？传统家庭与生育制度将面临颠覆性挑战。",
+      "fetchDate": "2026-05-31"
+    },
+    {
+      "id": "623",
+      "title": "The AI Race That Really Matters Is Who Opposes It First - WhoWhatWhy",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAwbF9vTUFXWHFUaHU0dmc0cWtpU3lQNXEweXpzZEYwazV1UGUxc1dXc2JTM3Foc0hFMXU1MVJEZm1QMEx0ZFBN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-31T12:03:04Z",
+      "summary": "WhoWhatWhy评论指出，当前AI竞赛中最关键的不是谁能先开发出最强模型，而是谁先提出有效的反对与监管方案。各国政府、研究机构和社会团体应抢先制定AI伦理准则与安全框架，否则技术失控可能带来不可逆风险。真正的胜负在于人类能否为AI设置边界。",
+      "fetchDate": "2026-05-31"
+    },
+    {
       "id": "610",
       "title": "Gwangju's three high-tech districts, which combine artificial intelligence (AI) and advanced medical.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XNklwdll0MXFDRWs4Vi1WanJpX0FjbTJCWlBOcEU0dXJCNzMwRU1tYlZUdS16d1IyajRCX25MN3c0U053MFVJTEdlRFpEdU03V0E?oc=5",
@@ -5518,5 +5599,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 613
+  "total": 622
 }
