@@ -1,12 +1,228 @@
 {
   "articles": [
     {
+      "id": "665",
+      "title": "Amazon faces class action lawsuit over Ring facial recognition feature",
+      "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T17:47:28Z",
+      "summary": "亚马逊旗下Ring因面部识别功能遭集体诉讼。弗吉尼亚州居民Charles Sigwalt在西雅图提起诉讼，指控Ring的“熟悉面孔”功能未经同意擅自存储路过行人的图像，涉嫌侵犯隐私。该案件聚焦于科技公司在部署AI视觉识别技术时，是否充分保障了公众的知情与同意权。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "666",
+      "title": "Robinhood Launches Agentic Artificial Intelligence (AI) for Stock Trading. Here's Why It Might Not Move the Stock. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQxc0JkeVJaSXNLZGdwYmx4WWo2UmRCNXNyX1NGTGJfSTZyZmpqTzhDN0dLcURwcUx0ZFlUTms0dUhNeWZYTGc2aXkyTEVvVkFHaWVQQmxpZzI3OWgxdzIxT1VDbzJhdUpSanhJaC15amt6azVBcU9qZU1Sa2M4UV9Ld25IcnVWNnFBWHEtdTBTRXdT?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T17:44:00Z",
+      "summary": "Robinhood推出用于股票交易的自主人工智能代理，旨在帮助用户基于AI分析做出投资决策。然而，The Motley Fool分析认为，该功能可能难以对Robinhood的股价产生显著影响，原因是市场竞争激烈且AI交易工具尚未完全证明其相较于传统策略的持续优势。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "667",
+      "title": "AI beats law professors in Stanford tutoring study - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSzRRS2ZtUUdIeEpEajdVZ3B3akotWVNxTnBIZUdmUDhpTkJDdmpJTzdJQkFTRWZYSXE3MDRKWHdEWHhoWXRGem94TVFKUVF2YVJYS251TDh3OVdRcU1TOWhyejd2N3I3MjdRN0NNa0E0b3J5bUdiR0YtSTdUaG92d04yNDYtdk5JbFZ1dHB0dWNPMHZRUUlPVVh2YUczRzRCZXNCUjB3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T17:13:59Z",
+      "summary": "斯坦福大学一项最新辅导研究显示，AI系统在法律知识辅导方面的表现超越了法学教授。该研究对比了AI工具与人类教授对学生学习效果的提升，结果发现AI在提供个性化、即时反馈和知识覆盖面上更具优势，引发了关于AI在教育领域替代传统教学角色的讨论。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "668",
+      "title": "SoFi Launches AI Coach to Personalize Financial Planning - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb29YR2dhd1ltSWNGMjBRNzJDTTB5dVJxUF9QZURha2pfaG1odlBIX2V2SEw3dlQtcEpjWWJLbnVfaFlWVW9iV1JKMDdDRjVEQlY4SXRMYXZlajlOa1ZILW9qSFhNeVdTZ2FnSWo0eW9NbnV1V3NENVUtazhKSENaLTIxMG9ybG9oRjA2LUE5VEZiYUxYN2t6OGtzWDB5bkJlU05ubENaQXZSNVZaWWN3Wg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T17:00:34Z",
+      "summary": "金融科技公司SoFi推出AI理财教练，旨在通过人工智能技术为用户提供个性化的财务规划服务。该AI教练能根据用户收入、支出和目标自动调整投资建议与储蓄方案，降低传统理财顾问的高门槛，让更多用户获得定制化财务指导。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "669",
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T16:23:08Z",
+      "summary": "特朗普签署了一份范围缩小的AI监管行政令，要求对高级AI模型进行自愿性的上市前政府审查。此前业内因强制审查条款提出强烈反对，新令将审查改为自愿性质，并侧重于国家安全和关键基础设施领域，体现了监管与行业发展之间的妥协。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "670",
+      "title": "Trump Signs Executive Order Granting Oversight of A.I. Models - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVkRGajdRcnVMNE5FT1RwMklmNFlXVm5CRF9FSDRibkRDOHJrdGl5dm16RUl6VTR4Y19tMGR1dUtiNW15V3JHLXRyaUFqMDBGcEM2d3FTMXpGazFURDdsbllNM3dzajBjbkswdWpRZzlUTUZoNGJkN2hWd3dOWkI4Zg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T16:21:02Z",
+      "summary": "特朗普签署行政令，授权政府对人工智能模型进行监管。该命令旨在建立对高级AI系统的监督框架，要求开发者在推出模型前进行风险评估并告知政府。此举被解读为在促进AI创新与防范潜在风险之间寻求平衡，但部分科技界人士担忧可能影响研发速度。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "671",
+      "title": "Forget C3.ai: Buy This Unstoppable Artificial Intelligence Security Anchor Under $20 Instead - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQTc1N2tTQ3Zxck9JRkM5clUxSk55Qlc5THViLTQ3Q1g5N0RIenJ3OFhac0xnRHc3ZG1qZUNNYlBxRXJyRHM3NFVkNkpnbE8wZFc0MUZaMUdmYzBGdEo5eElLU2s0Snh3MlZrTEdQUjZHV0U3cWFncm8tVVhuUVVSVjBUWGh5dzZSeE5Pcll3SFVFTzVyQzNkbA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T16:11:48Z",
+      "summary": "Yahoo Finance分析文章建议投资者放弃C3.ai，转而关注一只股价低于20美元、在AI安全领域具有“不可阻挡”潜力的股票。该文认为安全锚点公司在AI驱动的网络安全和防护方面拥有核心技术优势，市场前景更稳定，是当前更具性价比的投资选择。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "672",
+      "title": "Group fights Shell Oil bid for AI prompts used in climate lawsuit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEY3VXpwTmN0WEFHdjdzWFctNEt6NVdJOWhXdGRPT1FYaTJrUHN3b2d6WF9ZTjRBTmZMaUdpZWhHVXZwUzFOcHNnSUVTdlA0UnByR194OGtveHRKcmswRVoySTRUMzJSYUpYcUFZbnJLQ0VkUzFQbnhwM3c3RUw2Tk1SYTFTbGtPZ1ZJR1B1MXFvTXhOWlNDenE3ZjgybG1Qa3ZuSVJMREN2aDhYZFNZYg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T16:11:44Z",
+      "summary": "一个气候维权组织正反对Shell石油公司要求披露其在气候诉讼中所使用AI提示词的请求。该组织认为，Shell试图通过获取AI交互记录来干扰诉讼进程，而AI提示词属于受保护的工作成果。此案涉及AI在司法证据中的边界问题，引发广泛关注。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "673",
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T16:00:00Z",
+      "summary": "OpenAI发布Codex新工具集，旨在拓展该智能代理在白领工作中的应用场景。新工具支持自动化编写代码、生成报告、管理项目等任务，同时OpenAI发布内部报告显示，Codex在知识工作领域的用途已远超编程辅助，正逐步渗透至数据分析、文档处理等环节。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "674",
+      "title": "Titan Network hits 4 million devices on its crowdsourced AI-compute network - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUhPczRadURZWmMteHhfSTNHU0FNR2dkTEg1UXJhNWFnN3VMbFM2OWFDMXVlZnphRGlXellURnA1dTZDNjUwYW9lRjFXUzUwNFB5WjhOUERuWjFwOTd5VW04T0lYS0hWZFNGd2EySkhYaE9YWHlDWWVfTnhyQlpsTkNWY0d1RGNHcXdtdGJUaHhrMWptNmQ0RDJVVXhrbU1OT21lTVR2dmV5U1dxRTBUQWFObmtPMkpkb1p3OHBNMGN4RU44akFVMA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T15:39:40Z",
+      "summary": "Titan Network宣布其众包AI算力网络已接入400万台设备。该网络利用用户闲置的计算资源进行分布式AI训练与推理，通过区块链技术实现任务分配与激励。这一里程碑标志着去中心化计算在降低AI算力成本方面取得实质性进展，吸引了更多开发者和企业参与。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "675",
+      "title": "Artificial intelligence enhances hurricane forecasting, says National Hurricane Center - WFTV",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNTRCZGxhNjl6cW1FNGFwelVHU0paQ1A0Vlo2U2ZLaXNPVW5IMS1MbXdhaWZ3LXpjWHpJY3JPR3NCYkllcWc4eVBWY3hZOXR1UktpOFBQbUNkM3pBX1cwY1pjM1kzMUF5ODA1QnZ5czduV1cyaFdtcDV3aFZhUDFsMkdfTEhjdjc2MlNiZFFJZlo0eHhZZHlhRzFobkQtNTdlUkVjSmJ4Skp2aEhVa2owZHJyZE5OcFo2SEQ3azlTdlRxalg3Q29wRUVfenRPLURkZnY1YTZsX1VLZ2dVaGfSAfIBQVVfeXFMTUh4VURBWGdQMEJVSFVhNk5UdnBMUXRYd3ZXaDI5cU9NTXRlUFlsb05jcTFJcWFWOWJrSV9CaUVhMlVEZlo0SURIRlNSS1BNTHp2UEtFQk44YTBaU0pabjlKdWJwOUNaVnZWbVN1WWZhS0FUU090ZGkwZm04a1k0S0FwekZab0Q5Nmdna3dfSGZfNHZEdG1xMldKNXRvX2loVHl0eUFmeFF4elY1ZEF1QzNJRjZxM1BHN0lkVXNaMElUVWlOc1ZiVU9tT3luZkRRZVdBc05OSFVxNGc2THVQNHVxTkZtT0FTaXpyeTBfejgwRXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T15:38:55Z",
+      "summary": "美国国家飓风中心表示，人工智能技术正在显著提升飓风预报能力。通过分析海量气象数据，AI能够识别传统模型难以捕捉的复杂模式，从而在风暴路径、强度和登陆时间预测上提供更高精度。该中心强调，AI并非取代人类预报员，而是作为辅助工具增强判断，尤其在快速变化的飓风情景中，AI可实时更新预报并降低不确定性。这一进展有望为防灾减灾争取更多准备时间，减少人员伤亡和财产损失。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "676",
+      "title": "New Berkshire Hathaway CEO Greg Abel Has Now Plowed $26.6 Billion Into This Artificial Intelligence (AI) Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV0lOdEdOSlZpZUlpY2RodTl0dU91dXJQMjNIb2swVVJtTElKVDd1RUQyRE5NenFNQ09QOGY3VUR1NmZrcHVna1BfSzRTVE9xQ3FLZGc5X21pbmx6aXB6dS1nbENHN0c4Z2NxMklKRFJZRnhmTUh4a1JkZWRpeVFOY0RsUUtMUVBSeGNIQmluTWVjUGw3TURfYmZ6M0Rydw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T15:12:39Z",
+      "summary": "伯克希尔哈撒韦新任CEO格雷格·阿贝尔已向一只人工智能股票投入266亿美元，引发市场关注。这笔巨额投资反映出阿贝尔对AI行业长期增长潜力的信心，也延续了巴菲特一贯的长期价值投资理念。尽管具体股票未公开，但此举表明伯克希尔正加速布局AI赛道，将其视为未来核心增长引擎。分析人士指出，阿贝尔的首笔重大投资选择AI领域，或意味着公司将更深入地参与前沿科技变革。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "677",
+      "title": "Hong Kong securities regulator warns licensed firms of AI-driven cyber threats - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQampzaXp5bmRRNUJHSE0xMjg2bDd4TWg5U3VwUWtjRnExQ1NzQ09QX0FDRjNkVkU4MGtNQXNGdEctcGRkbWNYSHlUUmVCdWFlQmdaQ2x6ZHZCb21vOFU5Zm9ON0padzJsamdkNjY0TEdsSDg0cWtfMnQ0ZU5YLWRWUFVVTnBxOGpZVVJNZWJaM3k2aWlhRU4tdExMemNaRExMbXYyRVlKZVl3eTlLbzNHN0p1d21LU2ZfNnA0Q1Fob1k1eF9BdHRR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T14:49:33Z",
+      "summary": "香港证券及期货事务监察委员会向持牌公司发出警告，指出人工智能驱动的网络威胁日益严峻。这些威胁包括AI生成的深度伪造邮件、自动化的社会工程攻击以及智能恶意软件，能够模拟人类行为规避传统安全措施。监管机构要求持牌机构加强网络安全防护，更新应急响应机制，并对员工进行识别AI攻击的培训。此举旨在保护投资者资产和金融市场稳定，防止新技术被滥用。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "678",
+      "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T14:44:21Z",
+      "summary": "Anthropic公司将其AI安全项目Project Glasswing和Claude Mythos模型扩展至15个国家的150个组织，重点覆盖电力、水务、医疗和通信等关键基础设施领域。该项目旨在识别和修复AI系统中的安全漏洞，防止可能影响数亿人的大规模网络攻击。通过向关键基础设施运营方提供先进AI防护能力，Anthropic希望构建一个更安全的全球AI生态系统，提升对潜在灾难性风险的防御力。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "679",
+      "title": "4 tips for building a strong finance AI bench: Gartner - CFO Dive",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORUdxLUlUcUwtcF9ydTVKVzN5dFAxU3VtQzhfRDM0NXNYOGdPSmU1YWRXVElDMDJNUVlQSkhGbXVacFVvLWNFbWdrQzAwWU83dmFwMUVBR3BxT2d5S1hZUXR5QnBtR0RtdG1FQTlTdjZreUMxUXNOZm1FeWhDT0pORFJ1RExRNUlaaVU4dkxFZzM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T14:27:21Z",
+      "summary": "Gartner为首席财务官提出了构建强大金融AI团队的四个关键建议：一是投资数据基础设施，确保高质量、可访问的训练数据；二是招募兼具金融与AI技能的复合型人才，避免纯技术或纯业务倾向；三是建立跨部门协作机制，让AI团队与财务、风控等部门紧密配合；四是制定渐进式实施路线，从低风险场景试点再逐步扩展。这些建议旨在帮助金融企业通过AI提升预测准确性和运营效率。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "680",
+      "title": "Demand for forward deployed engineers surges as companies adopt AI - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcTdYNWFEdFYwN3BCb0c3SXhuZ2hLU2RPZzhQUkF0LTZUYzlIQTRKaG5zX292LXV3MEJKejZQeWRTYlMtUWVRVDRvXzNOdVA4aktGdHVMZHZHaE5ORktpQ1hTalhPZnE0QWpkYU9JRkdueENIV2t0cjRKZUVOeWk2dHNuQzJkMHZOaVQ2RG1oLVpqUHpvX0dIcGVWbDNpbzBkS1VBejRWVUhtRW5oOVBxMFlFeW9QV0VxbWtBdlkyWms3ZXJtTGhpbzlQTG1SdmpIcmNDSFNEU3DSAd4BQVVfeXFMTzlJTzJscXgzN1hMT1BxQjVWMFgxOUFUMmlNX3BWQU9VYkl3Uy1OWE5fR3RtVGZFRkJNWHdEOVhReHlUUi1wQnVudFA0Nk80Y0RXT2tMQXZRZ0I2V0VGeS1XVlpJWnJzeGd3YlBFbGxMQnlUQUc0d3NWSDgzbXVOT3VjV01PRG4ycjJOTUZhdS10c2k0X2VITW5qcVkyT21DLVdDZ1U3UWFGc0FkUnlyRUhPVVZRVk5vM2ZXYS1qZ05JbVA1bFVQeUlOb2NNaE5Zd25pSnp4YTBhd1JTNFFB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T14:25:34Z",
+      "summary": "随着企业加速采用人工智能，对前向部署工程师的需求激增。这类工程师不仅需精通AI模型开发，还要能深入客户现场，将定制化AI解决方案快速集成到实际业务环境中。他们负责协调技术团队与业务需求，解决部署中的拉格问题，并培训用户。行业报告显示，具备端到端AI项目经验的人才薪资增长迅速，企业正通过内部培养和外部招聘双管齐下，以应对这一新兴岗位的短缺。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "681",
+      "title": "Governor Lamont Signs Legislation Establishing Youth Online Safety Protections, Regulations Over Artificial Intelligence, and Initiatives to Upskill Connecticut’s Workforce - CT.GOV-Connecticut's Official State Website (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUE8zY2RKd1VicGtNQVJodzBINENRYmRsMERVSnJ0QmtiV19Dejd6WGhEclBXTGs2VWwxMzhTYnpDMjFmOW9ycl9LMXd4b0ZiUHRPSmx0clB2eG1TUU56Sk51NWNvU3FWS1V0RnVuUFBsMWEzNlZQTEZYV0Z4RzFuRmVRQVFhZzU3WjRTZV9qXzJ0WEc5aTZYcWk2YkxqcTlubXpTdXdkcmRBb1podF81MVh2VnNaS1NNOEk0R2hKVER2N2lDaDNrZ2RFQTZoWHdfQ1J1OHVUWXVkZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T14:13:51Z",
+      "summary": "康涅狄格州州长拉蒙特签署了一项综合性立法，涉及青少年网络安全保护、人工智能监管及劳动力技能提升。新法要求社交媒体平台加强年龄验证和内容审查，防止青少年接触有害信息；同时为AI系统建立透明度和问责机制，防止算法歧视和隐私侵犯。此外，州政府将拨款开展培训项目，帮助劳动者掌握AI时代所需技能，并鼓励企业在AI应用中优先考虑员工再培训而非裁员。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "682",
+      "title": "EXCLUSIVE: Jimmy Jam On Using Artificial Intelligence in Music - The Root",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0g1NFFXMllZZWdZWmlYUThqc0pNaWNnNmtMVi1zSkVRV3FmQ0RRQm44ZmJKNWxXWENDbk1uSEFxcV94MDQ1YXNiZ1JIUVNzZWZVeVNkYnRVTEpkTHVEckpOY1pGbm4zSmV1TkhpQ0p4MVpPN0FvcXFadDNGdzNCakp5TXRFLTZ3UDdtSC1FUV85clU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T14:13:46Z",
+      "summary": "传奇音乐制作人Jimmy Jam在独家采访中分享了他在音乐创作中运用人工智能的经验。他认为AI可以作为一种协作工具，帮助音乐人快速生成和弦进程、编曲灵感甚至歌词草稿，从而突破创作瓶颈。但Jam强调，AI无法替代人类的情感和艺术直觉，最终决定权仍在创作者手中。他建议年轻音乐人学习使用AI辅助创作，同时保持对音乐灵魂的追求，避免过度依赖技术导致作品同质化。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "683",
+      "title": "Artificial intelligence and natural stupidity - Philenews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUm9MbE1mV1F2S2pjTC0yTUVSblpmb3BnNm11LWI1UlQ3aWppajBvQ3BFd2U1Z0ZWT1RiZHFyTzRtQzZqamVWRTMxaTBSaDdIc1Q4eTZnSTc2RVl5c21DcDA4ZG1LTS1TRFJqQmYyUFVKMExtZFNkbzBtUzJWcl9STFJBYXUxQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T13:38:46Z",
+      "summary": "一篇评论文章探讨了“人工智能与自然愚蠢”的悖论，指出当人类用AI做决策时，可能反而放大了自身的认知偏见。作者认为，AI虽然强大，但若训练数据本身包含偏见或使用场景不当，就会产生“自然愚蠢”的后果——例如算法推荐加剧社会分化、自动化系统忽略伦理考量等。文章呼吁在部署AI时保持谦逊，重视人类判断力的不可替代性，避免将复杂问题简单化交给技术处理。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "684",
+      "title": "Wolters Kluwer Health survey examines AI use and concerns among clinicians, patients in 2026 - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaUd0TzFJUDE2MDZIUGhISkUwalYxZklTbnBYa1FBTGNlaGJMbkhibWpvemt4TjRRSUtSeDA5Qk1pd3k5OVVvVXU5OEJMaEdOeExYOTk3a1lqYjZBZVlRUXB3a1VfUjAxa182RXE2UXpYNzM2WXBWUlFQTFBFUFVzZ2hDaVVQU3R1Y3V3LXI3aHJTV0Z3X2VYZ0NYSkVfZzNCLUVRTG8wTUNaRm5JTFdORExNbW5uRWI1VmdMNVRWd2YzQnM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T13:30:00Z",
+      "summary": "Wolters Kluwer Health的一项最新调查显示，到2026年，临床医生和患者对AI在医疗中的应用既表示期待也心存担忧。调查发现，AI在辅助诊断、提高工作效率方面展现出巨大潜力，但同时，数据隐私、算法透明度和责任归属等问题成为主要关切点。受访者普遍认为，AI应当作为辅助工具而非替代医生决策，确保患者安全与数据安全仍是核心原则。该调查为未来医疗AI发展提供了重要参考。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "685",
+      "title": "Martin Scorsese Is Embracing A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOHZhNVdqXzUzbHloU2FxVlZzX2dRM1hidUJ3NlR5ZlMyam1ibUVpaHZVRkQzU2dXTHBWMTcwd0wwdU1LUTZodk9VZll5cFRsY1I4SU8wMnY1aFF5QUxVNUgwNGtCbTlzMW1ycHN6MEVKcFk5UFRCUW53aVRMTFdnekJ2dVZQZUFacjhWUjlYZVpac1IzR1VQc3JB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T13:00:07Z",
+      "summary": "著名导演马丁·斯科塞斯宣布将拥抱人工智能技术，用于电影制作和后期处理。他认为AI能帮助实现以往难以完成的视觉效果和叙事创新，同时强调AI应作为创意工具而非替代导演的审美判断。斯科塞斯此前对AI保持观望态度，此次表态标志着好莱坞重要导演对AI技术从怀疑转向尝试。这一转变可能推动电影行业对AI的进一步探索和应用。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "686",
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjd4YkhxRnRmSXRfS2xEZ2VPM1YxZ1hyS3BKQTVTNjU3X2xHUUxScEdwUHNBWE84RFl2dy11c3pIelRUcFV3STZOc1RfdExJN0dpbzJKdEwxekNXUVJxVjg4VWp5MFowYmVNU0QxZlo3emhLeWdhYWpIUVQ5M1RmVzRrX1lER0c5MWlhYV9VRml6SFczXzJsTF9B?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T12:38:08Z",
+      "summary": "科技媒体The Verge记者亲身体验了谷歌推出的Gemini Spark AI助手，称其为“既令人印象深刻又令人恐惧的AI体验”。Gemini Spark能够通过语音实时完成复杂的多步骤任务，如预订餐厅、规划行程并同步日历，其自然语言理解和执行能力远超以往AI助手。但记者担忧其过度依赖云端、隐私风险以及可能取代人类决策的潜在问题，认为这是AI能力的巨大跃升，也引发了更深层的伦理思考。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "687",
+      "title": "DuckDuckGo's ‘no-AI’ search feature gains more traction, expands to new regions - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS0Z0R2tLOXpqZDBsOTR2WTM0UnJ6V2N5cm1CV2Z4Q1Y4Q1Q4Y21oaFljSjJDWUlNejVlNnl4NlZJeGNJaGZEWmgzdUpzTzJvTVFSUE0xcUZyQ0w3NF9uU2lRTzZldUtWXzdYcTZ6U2NlQ2wwcm90NEpzaFZFaTR5WXFaX2xtejRVODJYZVFiTUU5cGc3SzhhVVBFTGpRR0tZN1R1WnVtR3B5dDVNdHpYMGpqR0hOdk93d0hULU5odVZUNFYwM3VxdmtyZERUMFRjMWRES2Ixa0Naak1UUmJmcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T12:33:58Z",
+      "summary": "隐私搜索引擎DuckDuckGo推出的“无AI”搜索功能正在获得更多用户青睐，并已扩展至更多国家和地区。该功能明确避免使用AI生成摘要或个性化推荐，坚持提供传统、直接且无干扰的搜索结果。在AI搜索日益普及的背景下，DuckDuckGo的差异化策略满足了那些对AI算法不信任、注重隐私控制的用户需求。此举也反映出市场对“简单、透明”搜索体验的持续需求。",
+      "fetchDate": "2026-06-02"
+    },
+    {
       "id": "653",
       "title": "ZeroDrift raises $10 million to protect AI models from themselves",
       "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-02T12:32:59Z",
       "summary": "AI合规初创公司ZeroDrift完成1000万美元融资，旨在保护AI模型免受自身输出风险。该公司提供一项中间件服务，部署在AI模型与终端用户之间，实时检测并替换可能引发合规问题的消息，如不当内容、偏见言论或违反监管要求的回复。该技术核心在于构建一个智能过滤层，在不影响模型性能的前提下，确保所有对外交互符合企业政策和法律法规。这笔资金将用于扩大团队及深化合规引擎的研发，以应对日益严格的AI治理需求。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "688",
+      "title": "Artificial Intelligence for Prognostic Modelling and Adaptive Treatment Monitoring in Radiation Oncology - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ201U2FKR0dudjBSY3NGeUlFY3dEbURENUxFTHdLNFRuOUJ5NWZQTHczUWtxZVVybmNIempXRkFaYmdKWTZIWFd3a2RodHRoVEV2QkIxdGlhMFB5c2k2YXZNbWdycXZfdk90eFFRT0J2bkpseGlPRGZuTzYzWnM4QmZ3WldNTHQwalN6ZWtyT0ZmNFhyYzRtTDZvZk1rM0JGck9tMldaU0FFWERYUU1UUkV1d1JucmZKWGZoMjJVNHI2RDlCV3VNVFJwQm84OUpRaWlQd2NmaU81STQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T12:30:56Z",
+      "summary": "一篇发表在Cureus上的研究综述探讨了人工智能在放射肿瘤学中的预后建模和自适应治疗监测应用。AI通过分析大量影像和临床数据，能够更准确地预测治疗反应和患者预后，并实时调整放疗计划以适应肿瘤变化。该方法有望提高放疗的精准度和疗效，减少对正常组织的损伤。研究者指出，尽管AI在放射肿瘤学领域前景广阔，但仍面临数据标准化、模型可解释性及临床验证等挑战。",
       "fetchDate": "2026-06-02"
     },
     {
@@ -5968,5 +6184,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 663
+  "total": 687
 }
