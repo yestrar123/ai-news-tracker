@@ -1,146 +1,90 @@
 {
-  "updatedAt": "2026-06-01 19:59:25 UTC",
-  "totalArticles": 20,
+  "updatedAt": "2026-06-02 12:58:11 UTC",
+  "totalArticles": 12,
   "articles": [
     {
-      "title": "US AI Lead on China: 18 Months, Says Expert - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcV84WURNTjY5QW5sU0RoYWtZVnd1NHNPZENCNzhVR01HN3BvX28zQ0FienN0N1M4eFoxQ2JDVnQ3TEZKLWl1YkQyTDFXSFlqQWJTdzFBRjhzc0lPdS1WTnRkc1BBRnMwdkJOX1VYNVh4a00zeGVsSmJSNFN2ZnhLN0p4S21TbUprWUI4cjBxWVRlR2dXbXZiLUxxRXlGNVVLSTU5S25uWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-01T19:03:33Z",
-      "summary": "专家指出，美国目前在人工智能领域领先中国约18个月，这一差距体现在基础研究、人才储备和关键算法方面。尽管中国在AI应用规模上快速追赶，但美国仍保持技术优势。该评估引发了对全球AI竞争格局的讨论，也凸显了持续投资和创新的重要性。"
-    },
-    {
-      "title": "Travelers Insurance Taps OpenAI for AI-Powered Claims - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnJXazU2UV9IbGs2NXMwTVFmNmZ5VkJydjVTNDJXNldyREdvRWdHem9idFh1eDhPYjJnelhSWTJiTE4tekZCNGw1aGFpelNZd2owNkN3eUdxTDVjNUZta2tKd0VOTlNUYkJnSVF6dkNRNTJTN2JrODlTSHFLdlZUMmdTaFUxRnBrX1ZoZzRGVEJPemRZS1pxVUhkb1ZLNkxLaEtOT1FsMG9odjhHQ1A3WFh1QXFUazA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-01T19:02:52Z",
-      "summary": "旅行者保险公司宣布与OpenAI合作，利用人工智能技术优化理赔流程。通过AI模型实现自动索赔评估、文档审核和欺诈检测，旨在提升效率、降低成本并改善客户体验。此举体现了保险行业对生成式AI的积极采纳，可能带动更多金融机构探索AI应用。"
-    },
-    {
-      "title": "AI debt sales reshape global corporate bond markets - The Journal Record",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEtXZ0VfUFVLcndLbkY1cFp4VWlqTGtZYlY1Zzc2WEpnaFVwOG01elhaUDkzOGFVbUNiai13dVJfRFVPUUpxc0h0NzJrWk9hc3dwaUhrbGZISjJrXzVJQkR4OHF0eERIdU9kZGY4SU0wNEd3Rm4zX1ZGV19oNUtMUXc3QUYwWFMxbUJkbkFydDE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-01T18:49:34Z",
-      "summary": "人工智能技术正在重塑全球公司债券市场，AI驱动的债务销售日益普遍。算法在债券定价、风险评估和交易执行中发挥核心作用，提高了市场效率和流动性。然而，对数据的过度依赖和模型风险也引发监管关注，市场参与者需平衡创新与风险管理。"
-    },
-    {
-      "title": "AI giant Anthropic files paperwork for an IPO - 90.5 WESA",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjY5c3VER1N6SFRwT0FWbE5CX0N1bm1PcjBYZ3ZNcDVNNEJOX3Z3MjdVandhdUQ1UHJyZXdTblRVYS1DQ05WRFplcVlmZ081Q1dtRWVVM0ZnbzhlYzhFZ2dKNHBrckdXN0ZDQ2ZqMjIxWFBYU1BWc0Y0bWVmMDFrUm5VUUs1THExbVFLWElscmFRbEpScERaZHU2bDhKX1F3ZWtESDdjQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-01T18:27:00Z",
-      "summary": "AI公司Anthropic已秘密提交首次公开募股（IPO）文件，计划在资本市场上市。该公司以开发安全可靠的Claude系列模型闻名，此次IPO旨在募集资金用于研发扩张和商业化。此举反映了市场对AI初创公司的高估值预期，也标志着行业进入资本化新阶段。"
-    },
-    {
-      "title": "Water access is now a risk factor in SpaceX’s IPO",
-      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-01T18:19:53Z",
-      "summary": "SpaceX在其IPO文件中将水资源获取列为重要风险因素，指出数据中心冷却需要大量水资源，而获得充足且廉价的水供应面临挑战。这凸显了AI与云计算基础设施对环境资源的依赖，可能影响公司运营成本与未来扩张计划，也提醒业界关注可持续发展的资源约束。"
+      "publishedAt": "2026-06-02T12:32:59Z",
+      "summary": "AI合规初创公司ZeroDrift完成1000万美元融资，旨在保护AI模型免受自身输出风险。该公司提供一项中间件服务，部署在AI模型与终端用户之间，实时检测并替换可能引发合规问题的消息，如不当内容、偏见言论或违反监管要求的回复。该技术核心在于构建一个智能过滤层，在不影响模型性能的前提下，确保所有对外交互符合企业政策和法律法规。这笔资金将用于扩大团队及深化合规引擎的研发，以应对日益严格的AI治理需求。"
     },
     {
-      "title": "Cathie Wood just loaded up on this sizzling artificial intelligence (AI) semiconductor IPO stock - MSN",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbnpXSHRiSEhUcmR4LVFjN00yS09zV2xkdmwxUzZjRkktcXotYkdxY0hyb085TDY4aks0OTVKOWVYTS1JZXBLWWN3S1VtcE40NFROcTV2MFlJZVZtdldGOVhmbXlwNTJZQTlOOEVybVBkTDdJTUx4NldwWEY3dkR6NkVrRk12MWRTa2R6cDFWX0dmMzFTSThVWUhWV3oyRXplRkZPdHNDbUhvQ3BOWDBOdWUzemFpOEpId0U0cnpWek5CdDFfN3QyWWF0SnBQaEl3ODhNRlk3V0kxZjFVdlh4RnlHbjEwd0JPVWhzVXF0VlF4VlY3a0E4SWtWdGJVSERlOG5PSw?oc=5",
+      "title": "ThinkMarkets launches ChelseaAI, bringing live CFD trading into Artificial Intelligence (AI) assistants - CXO Digitalpulse",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVZVRzhqUXhQSHpyeHZYbV9LS3ZLUVo3YzZWaXVGR1M2Y1pIUlBRY3BFYkNFRE9LYVRBdnBlZ1NOZndCTElxdVJWSG96VldEMEwxMDRocVByZnhYdk1KNW9JTl8wN0dJV3pfZHhycEkzWFlvbjNOZHBXVTNKZ0xsWHE3cElnb0h1S2xyTmdtVXdQc0lqUnd2Ni1rOGotVkRnWFN5bDRoQ2YtLWtDLUgtQzRSQTNRSG1wWkl2NDJyaEJ3eC1VbW01WjBfbGJqUQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-01T18:15:00Z",
-      "summary": "知名投资人凯西·伍德旗下基金大量增持一只热门AI半导体IPO股票。该股票所属公司专注于AI芯片设计，受益于算力需求爆发。伍德的举动表明其对AI硬件领域增长前景的强烈看好，也提振了市场对相关IPO的信心，可能引导资金流向半导体板块。"
+      "publishedAt": "2026-06-02T12:29:00Z",
+      "summary": "金融科技公司ThinkMarkets推出名为ChelseaAI的新服务，将实时差价合约（CFD）交易功能整合进人工智能助手中。用户现在可以通过自然语言与AI助手交互，直接执行交易指令、查询市场数据和管理仓位。该技术利用大型语言模型解析复杂交易意图，并连接后端交易系统实现毫秒级响应。此举标志着AI在金融交易领域从分析工具向执行代理的跃迁，为零售投资者提供更便捷的交易体验，同时也面临风控和合规方面的挑战。"
     },
     {
-      "title": "Draft federal AI strategy aims to scale up adoption, offer literacy training by 2031 - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQTl0aTV4SkJ2dHBHRXlfcnlXMnd6Z0NSMl94MTViWDI0RTl2TG82N3JnWUZzUVZ1T0hFeTJXMzNQaWl0WXluQVlIcExfVmpvWUpJUTZFeEpscVRQdUR2b3BPd1dueVpGVmRIYUtlMGJ4TjdBdVZoSmtqRDJQVFNwYTMyN0I4b2Nta3hr?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-01T18:00:25Z",
-      "summary": "加拿大政府公布联邦AI战略草案，目标到2031年大幅提高AI采用率并为公民提供AI素养培训。计划涵盖支持研发、促进产业应用、制定伦理框架等内容，旨在增强加拿大在AI领域的竞争力，同时管理技术风险。该战略体现了政府对AI发展的系统性规划。"
-    },
-    {
-      "title": "Artificial Intelligence-Driven Virtual Reality in Physical Rehabilitation: A Review of Machine-Learning Kinematics, Educational Scaffolding, and Treatment Adherence Strategies - Cureus",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNSG9WLWJ3RGxhakNSaFpuLU5qLXM4S05QWTlCTHpNUVVYU2RFLWw1Y0xqT2xFODRYRFEzdElQd3lNSzMwRjFJMWdXbU5MU1RTaFB1X18yMVlJY1VTTFFBWGxlWHZfMlZCTDNNUVVvdnZWYTY2TmRCV1kzOFhueXgtaHktZjBIYjJ4M1NoaHhWd24tVzBkcFBTMldKZGVmcGJnb1VfM3NWOF9UbWJidHhyRnhvbno3Z3JDUzMxZF9pdHFHRVZKQkdrTkliUHlZWkd5R21BcXJzZnZJLXIwRWVBT3BjWEd5ZldZVlByOHlDZk84RDJaUmV2Tl9tek9CcU9tTk91Z1hEaGJHZFRSZXpEaV9nOGhwN2IxOHpFMkF0ekp4aDdFU0drRVUzbWNFMUdmWFBOVUFB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-01T17:59:58Z",
-      "summary": "一篇综述论文探讨了AI驱动的虚拟现实（VR）在物理康复中的应用，重点分析机器学习运动学分析、教育脚手架和治疗依从性策略。研究显示，AI+VR能够实现个性化康复训练、实时反馈并提高患者参与度，但也面临技术成本、数据隐私和临床验证等挑战，未来需进一步优化。"
-    },
-    {
-      "title": "Cathie Wood Just Loaded Up on This Sizzling Artificial Intelligence (AI) Semiconductor IPO Stock - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM3lQWi0yWTAxdXFKUE80SkkxdHB4bXc2eldVQTNldDFIeDVJOGZzcDgzMGVsY0FaNWN5UWVBQjdVQ3lEVkZLNTdyc0RCSjlBLWt0VWhucHBubVVyMUdSbDQ3cWFtTEJOeExvSmxFZ1VrS2NfN3A1NHVoU3pGZ2JmTEhYTVN4anFOMkN2LW1Sd0QtQ3VGdVJDWG0ydGRRUzdnZFdTZnhUM2FHRi1QbGJRT1gwYW53bXl3YTZPeTE1NE5UZWw5elc3VWctaUtnM0RuNFlwZzJJOTJabVFjZV9EZW5HRkFfOFl0djUyVzE0N21lblNjYnlOWVVlWVYtQURuNGpncmhhcmh1YXJJ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-01T17:59:48Z",
-      "summary": "据《环球邮报》报道，凯西·伍德再次加仓一只炙手可热的AI半导体IPO股票。该股票代表AI芯片领域的新兴力量，伍德的持续买入反映其对细分市场的长期信心。市场关注此举可能带动投资者对AI硬件板块的关注，并推动相关公司估值上升。"
-    },
-    {
-      "title": "Cathie Wood Just Loaded Up on This Sizzling Artificial Intelligence (AI) Semiconductor IPO Stock - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjc4bGNUbGtZazdqOEZZQXNzLTJzT0N5NjJjeGVCNm03VWIxWF93X1pKVnVtcVhHUHU2d2pmbDFTQVBySUktN1owbDdqdWJnUVI0YlhENEJpdFBTR1R5eXo0bDNXdVlZejJzRlBvOVlWM3BxQmhOaEtXeEo2dUYwellpVkZueHpDNmd6VFI2Njh1Y2ZHY2hKcw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-01T17:45:24Z",
-      "summary": "The Motley Fool报道指出，凯西·伍德近期大量买入一只AI半导体IPO股票，虽然未披露具体名称，但分析认为其投资逻辑聚焦于AI计算需求增长。伍德的行动常被视作风向标，可能吸引更多资金涌入AI芯片领域，进一步催化半导体行业创新与竞争。"
-    },
-    {
-      "title": "AI in Private Credit: Key Considerations for Market Participants - The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbV9RQy1nUGNPalRpSERLRDhPdG51UzQtX3VzVG1OMkc2TVVIZUozWTk1eFdnbVdYRUZ0eHlETDRDcnJrTkh0dDZOTXpEeXJ1dkptWHBkUVZaWlFPMERwckhDUGdhZkpnSnFBd3l5ekZVNFRnS2lYRGFoSG84SU5EdWNqa2FUR254QlNGemdoZDdPWlnSAZgBQVVfeXFMTV9SQW4xUDBqYnpubjlHWmxIaUN2Z3FnVTRQcURDb0lUMEwwcVBPM0RsLTFTcVFTUnpub0NPNkFjUTFyYnltdWx6RXpwNEw3QWxUUVFQSVdMUVA3aGpocG9uZFI5cEJsNWFxdHAtdm94Sy1lNGIwcEp3TWV6dTUtNDdvZXYtRFQ4aUVDanhjRWdiYjQ2b2VsajM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-01T16:58:55Z",
-      "summary": "文章聚焦AI在私募信贷领域的应用，指出市场参与者需重点关注数据隐私、模型可解释性、算法偏差及监管合规等关键因素。随着AI技术渗透到信用评估、风险管理和投资决策中，机构需平衡技术创新与潜在风险，确保模型透明且符合法律要求。"
-    },
-    {
-      "title": "Anthropic files to go public",
-      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-01T16:36:55Z",
-      "summary": "人工智能初创公司Anthropic宣布已秘密提交首次公开募股（IPO）申请。此举标志着公司准备公开上市，以筹集资金扩大研发规模。Anthropic以开发安全、可控的AI系统著称，其上市动向反映了AI领域商业化的加速趋势，以及投资者对前沿AI公司的持续兴趣。"
+      "publishedAt": "2026-06-02T12:00:00Z",
+      "summary": "火箭发动机初创公司Impulse宣布获得5亿美元融资，但其总裁Eric Romo强调，这笔资金主要用于招聘人类工程师而非投资AI。Romo指出，物理系统工程（如火箭推进器）仍高度依赖人类的创造力、直觉和现场经验，AI目前无法替代顶尖人才在材料选择、热力学调试和故障排除中的核心作用。Impulse计划利用资金扩大团队规模，加快下一代火箭发动机的研发，并坚持将人类专家作为技术创新的第一驱动力的理念。"
     },
     {
-      "title": "Why opera is embracing AI – even as some musicians feel ‘miserable’ about it - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFFZOTFnb01XaWxaZ2xZbHh5SUM4MmlpNUtLdGU3THdBRk9wcFZkazJjNkF5YW5vbkE5ZGUwcDRHc2FzLVlrTjh1Yy0xWWhkRk9lS2M2UDlqRWhZaVJqaGppN3BCdUFNREN4TlhkVU1FQWxURWx2c214ZmV5SURpQ2gydmhJY21fbmI4NDI0aEpHLXlmWVpuYg?oc=5",
+      "title": "Bitcoin's slide may have more to do with AI than Strategy - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2x6WTdSRmc2R2x1Z0lTTk1DZDlDOEFvTGFENTFGU3FiRGJGdDctWUV5dzZyRVdHVEREcWFyMU1Ec0pRYldwVzFYVEFKdHZZMGwzYmo4OFFBd1FXYlV0UXpWYVFMTHhYb2VzWW9sV3lfZlVJZF80aE9SS0g5LUdBbi1QUUhGenpNZ2JKYkhnbWpBZ25aRVpGVkF6NF9iNnNrbGhhelpsVQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-01T16:25:00Z",
-      "summary": "歌剧界正逐步接纳AI技术，用于创作辅助、表演增强和观众体验优化。然而，部分音乐人对此感到不安，认为AI可能弱化艺术的人性内涵。文章探讨了传统艺术形式与新技术之间的张力，以及歌剧如何在创新与保留本质之间寻求平衡。"
+      "publishedAt": "2026-06-02T11:19:38Z",
+      "summary": "CoinDesk分析指出，近期比特币价格下滑可能更多与人工智能产业资本外流有关，而非加密货币策略本身的因素。随着AI领域投资热潮持续升温，大量机构资金从风险资产（包括比特币）抽离，转向AI初创公司和算力基础设施。这种资金转移导致的流动性收紧，对比特币价格形成了新的下行压力。文章认为，市场参与者需关注宏观经济中AI板块对数字资产的挤出效应，这可能是比特币波动性增大的一个新变量。"
     },
     {
-      "title": "AI Stock Rally: Drivers and Risks Explored - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGZoRnBJeHpqZmhURkN1eUtvYlVMLVYwS0I2RlNtb3EzcU9TTTVQbXRpOEZIYWYtY2ZzeTQ4V2YxOUJuVjNrendsSUNRVjlER3FUaG1GaG9RRGI2c0p6V0V1b0hjaTQ2dUMzRERTUGpTaEl3cEJCSjQxZnBjREtvM2pGdVgzSHNjMWlIUWliVDJFMmk5Nm1DVVBUVmZGQkZwU005akwtUQ?oc=5",
+      "title": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork - Georgia Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREtHbkxXNU12dERKNXJKUkU0eVpmVDJQMEY4UEFDRjc0dW5VdUdsdDB0OERlLVpTbjdvLXBZRXVaZHo5SDNjUjJERmVkejg1VlZoUDE5THB4cmVuLTdoZDJiQ01SNHUzdnhmZnBQYjZOY2QzNWM3bWJnS3lDUTVYd2NLYXFLcFpROXhLb2pFek5ybkZtTGtIcHY0NFAwamxBYUNWOUItcEpCNnNqZi1xTnA5TXJaY3ct?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-01T16:03:10Z",
-      "summary": "文章分析了近期AI板块股价上涨的主要驱动因素，包括技术突破、企业应用落地及资本追捧。同时指出潜在风险：估值泡沫、监管不确定性、商业化瓶颈及竞争加剧。投资者需警惕非理性繁荣，关注公司基本面与长期技术路线图。"
+      "publishedAt": "2026-06-02T10:50:07Z",
+      "summary": "人工智能巨头Anthropic已提交初步IPO文件，准备向公众发售股票。这一举措标志着AI行业从私有化融资向公开市场迈进的重要一步。Anthropic以其开发的高安全性、可解释性AI模型（如Claude系列）著称，其IPO将吸引大量投资者关注AI伦理和治理领域的商业潜力。公司尚处于快速扩张阶段，此次上市旨在筹集资金用于研发、扩大算力规模及应对日益激烈的市场竞争，同时面临盈利能力与监管审查的双重考验。"
     },
     {
-      "title": "This AI weather startup is out-forecasting government agencies",
-      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-01T16:00:00Z",
-      "summary": "AI天气初创公司WindBorne凭借自主研发的预测模型和全球气球数据采集网络，在短期天气预报上超越政府机构。目前约有400个气象气球从15个发射点持续升空，实时收集大气数据。其模型精度的提升关键来自于如何高效地将气球传感器数据融入算法，实现更精准的预测。"
-    },
-    {
-      "title": "AI is devoid of meaning and humanity. That’s why its vapid voice suits this political moment | Nesrine Malik - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOU5oNHZ2cE5lNWpzbHNOS3NmakJ5S1lXY1FUUUo1NUlRYWUzWm1GVzdwUWZSd1NhRWk5MUxuRWJJNnAyZkQ5Vzh3TWg2RXIweUJTRE9hSVVuc2RMcWRGMjk4YXVJTVNNcWRaV0xfVnJEczMtTWdxSjNYWmNIZFRDZ05NUGkyWl9aZlNub2o1b0VrUHVsakYzTGNxRWZsV0RJQWNoS2NzOVpac2VMbExndFJLMVhUZ05G?oc=5",
+      "title": "Maryland schools to implement AI guidance, training under new law taking effect Monday - WBAL News Radio",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHpEU3JqVnpleF9qNUhZRTJEVG1LZDNKT1hqTDVKZFhRTTVzeDNlbFV0ZU15Ri1kc1R1WjJ6RjJkNDcwNi1DWjRYeW9sM0toZnlGRVJHNHVEVlBOVjQ1OUxoZ3psb3FYZ3gzUlZvMUhZMGNLenIwMG5oOFdWcWtxbmd6bDV3Z0RCZGt6eGZXOWduaU10MEg2Vl9nT09HaFJaT0lFbWdMVmdjdw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-01T15:31:00Z",
-      "summary": "评论文章指出，AI本质缺乏人性与意义，其输出流于空洞。然而，这种“无意义”的特性恰好契合当前政治话语中追求表面正确、回避深层次讨论的氛围。文章借此批评了技术在公共讨论中被滥用的现象，呼吁警惕AI对社会思维方式的负面影响。"
+      "publishedAt": "2026-06-02T10:49:32Z",
+      "summary": "美国马里兰州一项新法律将于周一生效，要求该州中小学校实施AI指导与培训计划。该法律旨在帮助教育工作者和学生理解AI技术的原理、应用场景及潜在风险，并制定相应的课堂使用规范。学校需提供教师专业发展课程，培训其如何将AI工具融入教学同时避免数据隐私和算法偏见问题。此举反映了美国教育系统对AI普及化趋势的积极应对，通过自上而下的政策引导，确保下一代具备负责任的AI素养。"
     },
     {
-      "title": "Investment firm Permira taps Thoma Bravo veteran Mike Hoffmann as part of AI dealmaking push - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFd5Q3pQMUxKYW53ZExBMUdHQ0tEWm1HSGU4Rno2bkJoc3NoRnM5UHlyTlBqbDZCN3dLc3Z5VjY2MnlDYnF6eXRHbUlQT2VnWnRfNmFoQnlrSG4zOFpLQWlvUGVtbVp4TXRiVWVsQUdPWjczdm5YZ3lhSHZQczNDN2YzVDJIb2o1NHN1Nmt6dFpuS0Fad1lQd0ZlLUhJd1otd3daSUdjZU11R2tTZHlrVVRFYUtKa25DLU4ya1pPTlNseVpI?oc=5",
+      "title": "Recently, as the fashion industry actively utilizes artificial intelligence (AI) in advertising and - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xMU94NWkzZmF2NUFoSmM0dTFQbGhoTEdhbC1qYWlDT01BcWVDZi0xakdyNFJXYlF5X0x4Vl9yejhvMWl5dGdtUV9jNF9lMFdiMFVB?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-01T14:58:09Z",
-      "summary": "投资公司Permira聘请前Thoma Bravo高管Mike Hoffmann，以强化其在人工智能领域的并购交易能力。Hoffmann拥有丰富的科技行业投资经验，此次人事任命表明Permira正积极布局AI赛道，希望利用专业人才推动相关交易，抓住AI产业快速增长带来的机会。"
+      "publishedAt": "2026-06-02T10:44:44Z",
+      "summary": "时尚行业正加速将人工智能应用于广告创作与投放中。品牌利用AI生成模特图像、设计虚拟服装、个性化推荐以及自动优化广告文案和视频内容。这种技术能够大幅降低制作成本，同时实现超个性化的营销触达。然而，业界也面临真实性与伦理挑战，如虚拟模特可能加剧身体形象焦虑，以及AI生成内容在版权和消费者知情权方面的法律灰色地带。未来，AI与时尚广告的融合需在创新与责任之间寻找平衡。"
     },
     {
-      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-01T14:49:10Z",
-      "summary": "随着用户对AI集成搜索的担忧增加，隐私搜索引擎DuckDuckGo推出针对Chrome和Firefox的“无AI”扩展，强调搜索过程不涉及AI模型。此举旨在吸引偏好无AI干扰、更注重隐私保护的用户群体，其流量已显著增长，反映出市场对传统搜索体验的需求。"
-    },
-    {
-      "title": "Is A.I. Replacing Tech Workers or Providing an Excuse for Job Cuts? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Yc0ozZ2pHY0VSZnh0WlBPanFiUDhIaHliX3JvUmYzb1dJNkpFd2dXTExnN0dTbjFSbjBOYTgwV05YS2pYWmhIU29saE00V3FTSjE1bWZ6b1g2ajNQUUlhYWNqTndVVHJzTzFRbHFnU25zTUV3QVE?oc=5",
+      "title": "USC Salkehatchie offering free artificial intelligence (AI) summer classes - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1ViZDdwQzc2UG1PaGdrRUpaX1RXX04tVEtvNV9aWGo5U2x1T3Q5U183Tk5VaWJTMGJnRzMxRzJySmlRVHlFTmR5Q21XSnl3N1l4ZXpoWHRsLUJPVk91TW5DS1FuYzcwRzg0bHBtUFdZU2lSS0hKaERjYmVNeDhyOF9KSFJKS2xy?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-01T14:14:27Z",
-      "summary": "文章探讨AI究竟在替代技术工人，还是为企业提供裁员的合理借口。一方面，AI自动化确实削弱了部分岗位需求；另一方面，一些科技公司利用AI浪潮剥离人力成本。文章认为，需要区分实质性技术替代与战略性裁员，并关注对就业结构和社会公平的长远影响。"
+      "publishedAt": "2026-06-02T10:43:30Z",
+      "summary": "南卡罗来纳大学Salkehatchie分校宣布提供免费的AI暑期课程，面向社区开放。课程内容涵盖人工智能基础、机器学习入门、Python编程以及AI伦理讨论，旨在让更多不同背景的学习者掌握前沿技术。该计划通过政府资助和企业合作免除学费，帮助缩小数字技能鸿沟，尤其惠及低收入家庭学生和转行人士。这被视为高等教育机构推动AI民主化的务实举措，为区域经济培育合格的AI人才储备。"
     },
     {
-      "title": "Joe Reeve: Talking to Statues with AI - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWhHZnRCOGd0MXdkdmlwWE1CNk5WaXJYTXU0Qk1JRGIxQzBZMDRFVEhyMC1YQjc5b3Y2X1B3RElDa2pLT1RodjdYYmxIdjFvTGNOTW85N3hTR1dHWHZfUEU4TTRBTHhCM3JTdlRaTGI4WEVRdXNiM0hpZkhVa0M4TkcxaGdoV0hrMmwzVHNoeWlqa093WWFobXNTOW5PX0xi?oc=5",
+      "title": "USC Salkehatchie offering free artificial intelligence (AI) summer classes - Bluffton Today",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNklrTjJXUjIyT0hHNFpwWkxXTWd3c2xFTDN5SU1KS19oRHNBQ25IS19xbUhRV3J6c25pOHVmbUFoTVNCV0FIM0lBMHdUSHNXOGV1dklqSHdsdmV5OFJsUmhCOG9zcDBkUXBTVDhHczRaYy1ydDhVVEhfZ25RdmhlSHZuM1BVcHZkV3lvODcyTm91eUVyLXA5YlktTXktVExTaFl2a2pqcll1Tjg1aTcxNFN3NDJSS2xwbVRDc3VoNm10ZkJPV0hVdm5sWHdvWUZ2akxqUnVZQktQY1E?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-01T14:02:37Z",
-      "summary": "艺术家Joe Reeve通过AI技术赋予雕像对话能力，打造互动艺术体验。项目利用自然语言处理和语音合成，让参观者与历史人物雕像进行实时交流。这种跨界融合为文化遗产展示和公共艺术带来新方向，但也引发关于技术是否改变艺术本质的讨论。"
+      "publishedAt": "2026-06-02T08:59:00Z",
+      "summary": "据Bluffton Today报道，南卡罗来纳大学Salkehatchie分校提供免费人工智能暑期班，面向所有年龄段学生和在职人员。课程设计兼顾理论讲授和实践项目，包括使用主流AI框架完成图像识别、自然语言处理等任务。主办方表示，希望借此激发公众对AI的兴趣，并为当地社区提供可负担的技能提升渠道。该项目的免费性质与灵活学时安排受到广泛关注，报名人数已超出预期。"
+    },
+    {
+      "title": "Claude is Offline: Anthropic's AI Chatbot Hits a Global Wall - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWtObjN6R1JKbm1SbnNKN2pVZlRDeTU2Umt1WmNnbGhlakN3NXFjUEY4blhPczY4X1hPVG5yTG1zTXBHVTZTTEF0Z2d6REdmb1R1NDB2dF9XLWRickV4Nkd2NXY3SnZ1MzlRd2o0Y3VITC1iZ2gxUzNFMzNVZFRuUzRROU9sZXhXQXk5OVRfUkZUMl9GejIxWFlLczYyRmYxbHdjdklMcC1JMUV3WlNQR2JJSE93X0JGYkZXWThJUkZMam41blNVUk8tdGZmNVUzRUHSAdoBQVVfeXFMUGxjaW9UVWk4eEEwWnpyTzl6ODdObFhQd3BKdnByUHVQUUowcDd0R041aEtvcVZRc1pNRmVBSXZ6RVp4YzhTUFJjZnY1ZDNYZ2pJaTBMQmFwbjBSeFVDMWZTT2NOTDg0WUpxNllBbEkwTEQ5Z3dCRUVvenhPTldyODJWUW1fMnB6czBVUVdlejVJNGVHWXJOMXBqV3FOSVktbkRYQ1E2TWpqR2dybExvOGo5NTBOTnpVYVNNbFB3VHJWa2xIN0FRN0hMU1RJR0ZfLWNhT0dvbGNYT3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T08:57:25Z",
+      "summary": "人工智能聊天机器人Claude遭遇全球性服务中断，用户无法正常访问。Anthropic公司确认其AI助手Claude处于离线状态，并称正在紧急修复。此次故障可能由服务器过载或底层模型更新中的错误引发，影响了通过网页和API接入的全球用户。作为主流的AI对话产品之一，Claude的长时间宕机引发对AI服务可靠性和冗余机制的讨论。Anthropic尚未公布恢复时间表，但表示将加强基础设施的容错能力。"
+    },
+    {
+      "title": "Career Paths after B.Tech (CSE – Big Data and AI Analytics) - LPU",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRW1vWjZNUlZpRVBJV2ROQWxQYWN6Wmkzb0tWZnU4VVRRNTZTWnF2OXhVc2JfVDhjRDRHaU1OR3dWNnp6cGh0d0NIN0JSaUZJZE1JUHFmNlFfQV8wVTdJNFdGNkVfczVDRWNNcWswWUJmeWFyT3NSdmEzTzlocjZPeTVsYmctX2M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T08:11:06Z",
+      "summary": "这篇报道探讨了在完成B.Tech（计算机科学与工程专业，主修大数据与AI分析）后的职业发展方向。毕业生可从事数据科学家、机器学习工程师、AI解决方案架构师、大数据分析师等热门职位。LPU（洛夫利专业大学）强调其课程注重实践技能与行业需求对接，学生具备处理海量数据、构建智能模型及优化算法能力，可在科技、金融、医疗等多领域发展。此外，继续深造或创业也是可行路径。"
+    },
+    {
+      "title": "The geopolitics of Artificial Intelligence - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ25FbWptRFNUNzJNejNlWllnd2s1Z0NseDVKYTFCMlM1TkZidWtPR1dZczJiOC02MmtjVGdMNGNEb1VHVVB4VTUxWjhpcm90Z2EwcDFsVm5GYmhnWUN6VWd6dGwtZTdLLXhudmJkZWJkVjZ6dk1tOENnXzVvV1lETzRBdnhhNy01VnlTTUR4RUU2R0tXRzV5RUlDaVhtRGFoMzFrcXF0TU5uakJvbXotdWpfUy0xbEI2?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T08:09:58Z",
+      "summary": "本文聚焦人工智能技术引发的地缘政治博弈。各国竞相在AI领域抢占技术制高点，以提升经济与军事竞争力。美国、中国、欧盟等主要力量通过政策扶持、技术封锁和数据主权争夺影响全球AI格局。AI的军事化应用如自主武器系统带来安全风险，而技术标准制定权成为新战场。文章呼吁国际合作以平衡创新与安全，避免技术分裂加剧全球不稳定。"
     }
   ]
 }

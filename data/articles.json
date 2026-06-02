@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "id": "653",
+      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T12:32:59Z",
+      "summary": "AI合规初创公司ZeroDrift完成1000万美元融资，旨在保护AI模型免受自身输出风险。该公司提供一项中间件服务，部署在AI模型与终端用户之间，实时检测并替换可能引发合规问题的消息，如不当内容、偏见言论或违反监管要求的回复。该技术核心在于构建一个智能过滤层，在不影响模型性能的前提下，确保所有对外交互符合企业政策和法律法规。这笔资金将用于扩大团队及深化合规引擎的研发，以应对日益严格的AI治理需求。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "654",
+      "title": "ThinkMarkets launches ChelseaAI, bringing live CFD trading into Artificial Intelligence (AI) assistants - CXO Digitalpulse",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObVZVRzhqUXhQSHpyeHZYbV9LS3ZLUVo3YzZWaXVGR1M2Y1pIUlBRY3BFYkNFRE9LYVRBdnBlZ1NOZndCTElxdVJWSG96VldEMEwxMDRocVByZnhYdk1KNW9JTl8wN0dJV3pfZHhycEkzWFlvbjNOZHBXVTNKZ0xsWHE3cElnb0h1S2xyTmdtVXdQc0lqUnd2Ni1rOGotVkRnWFN5bDRoQ2YtLWtDLUgtQzRSQTNRSG1wWkl2NDJyaEJ3eC1VbW01WjBfbGJqUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T12:29:00Z",
+      "summary": "金融科技公司ThinkMarkets推出名为ChelseaAI的新服务，将实时差价合约（CFD）交易功能整合进人工智能助手中。用户现在可以通过自然语言与AI助手交互，直接执行交易指令、查询市场数据和管理仓位。该技术利用大型语言模型解析复杂交易意图，并连接后端交易系统实现毫秒级响应。此举标志着AI在金融交易领域从分析工具向执行代理的跃迁，为零售投资者提供更便捷的交易体验，同时也面临风控和合规方面的挑战。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "655",
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T12:00:00Z",
+      "summary": "火箭发动机初创公司Impulse宣布获得5亿美元融资，但其总裁Eric Romo强调，这笔资金主要用于招聘人类工程师而非投资AI。Romo指出，物理系统工程（如火箭推进器）仍高度依赖人类的创造力、直觉和现场经验，AI目前无法替代顶尖人才在材料选择、热力学调试和故障排除中的核心作用。Impulse计划利用资金扩大团队规模，加快下一代火箭发动机的研发，并坚持将人类专家作为技术创新的第一驱动力的理念。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "656",
+      "title": "Bitcoin's slide may have more to do with AI than Strategy - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2x6WTdSRmc2R2x1Z0lTTk1DZDlDOEFvTGFENTFGU3FiRGJGdDctWUV5dzZyRVdHVEREcWFyMU1Ec0pRYldwVzFYVEFKdHZZMGwzYmo4OFFBd1FXYlV0UXpWYVFMTHhYb2VzWW9sV3lfZlVJZF80aE9SS0g5LUdBbi1QUUhGenpNZ2JKYkhnbWpBZ25aRVpGVkF6NF9iNnNrbGhhelpsVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T11:19:38Z",
+      "summary": "CoinDesk分析指出，近期比特币价格下滑可能更多与人工智能产业资本外流有关，而非加密货币策略本身的因素。随着AI领域投资热潮持续升温，大量机构资金从风险资产（包括比特币）抽离，转向AI初创公司和算力基础设施。这种资金转移导致的流动性收紧，对比特币价格形成了新的下行压力。文章认为，市场参与者需关注宏观经济中AI板块对数字资产的挤出效应，这可能是比特币波动性增大的一个新变量。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "657",
+      "title": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork - Georgia Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNREtHbkxXNU12dERKNXJKUkU0eVpmVDJQMEY4UEFDRjc0dW5VdUdsdDB0OERlLVpTbjdvLXBZRXVaZHo5SDNjUjJERmVkejg1VlZoUDE5THB4cmVuLTdoZDJiQ01SNHUzdnhmZnBQYjZOY2QzNWM3bWJnS3lDUTVYd2NLYXFLcFpROXhLb2pFek5ybkZtTGtIcHY0NFAwamxBYUNWOUItcEpCNnNqZi1xTnA5TXJaY3ct?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T10:50:07Z",
+      "summary": "人工智能巨头Anthropic已提交初步IPO文件，准备向公众发售股票。这一举措标志着AI行业从私有化融资向公开市场迈进的重要一步。Anthropic以其开发的高安全性、可解释性AI模型（如Claude系列）著称，其IPO将吸引大量投资者关注AI伦理和治理领域的商业潜力。公司尚处于快速扩张阶段，此次上市旨在筹集资金用于研发、扩大算力规模及应对日益激烈的市场竞争，同时面临盈利能力与监管审查的双重考验。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "658",
+      "title": "Maryland schools to implement AI guidance, training under new law taking effect Monday - WBAL News Radio",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOHpEU3JqVnpleF9qNUhZRTJEVG1LZDNKT1hqTDVKZFhRTTVzeDNlbFV0ZU15Ri1kc1R1WjJ6RjJkNDcwNi1DWjRYeW9sM0toZnlGRVJHNHVEVlBOVjQ1OUxoZ3psb3FYZ3gzUlZvMUhZMGNLenIwMG5oOFdWcWtxbmd6bDV3Z0RCZGt6eGZXOWduaU10MEg2Vl9nT09HaFJaT0lFbWdMVmdjdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T10:49:32Z",
+      "summary": "美国马里兰州一项新法律将于周一生效，要求该州中小学校实施AI指导与培训计划。该法律旨在帮助教育工作者和学生理解AI技术的原理、应用场景及潜在风险，并制定相应的课堂使用规范。学校需提供教师专业发展课程，培训其如何将AI工具融入教学同时避免数据隐私和算法偏见问题。此举反映了美国教育系统对AI普及化趋势的积极应对，通过自上而下的政策引导，确保下一代具备负责任的AI素养。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "659",
+      "title": "Recently, as the fashion industry actively utilizes artificial intelligence (AI) in advertising and - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xMU94NWkzZmF2NUFoSmM0dTFQbGhoTEdhbC1qYWlDT01BcWVDZi0xakdyNFJXYlF5X0x4Vl9yejhvMWl5dGdtUV9jNF9lMFdiMFVB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T10:44:44Z",
+      "summary": "时尚行业正加速将人工智能应用于广告创作与投放中。品牌利用AI生成模特图像、设计虚拟服装、个性化推荐以及自动优化广告文案和视频内容。这种技术能够大幅降低制作成本，同时实现超个性化的营销触达。然而，业界也面临真实性与伦理挑战，如虚拟模特可能加剧身体形象焦虑，以及AI生成内容在版权和消费者知情权方面的法律灰色地带。未来，AI与时尚广告的融合需在创新与责任之间寻找平衡。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "660",
+      "title": "USC Salkehatchie offering free artificial intelligence (AI) summer classes - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1ViZDdwQzc2UG1PaGdrRUpaX1RXX04tVEtvNV9aWGo5U2x1T3Q5U183Tk5VaWJTMGJnRzMxRzJySmlRVHlFTmR5Q21XSnl3N1l4ZXpoWHRsLUJPVk91TW5DS1FuYzcwRzg0bHBtUFdZU2lSS0hKaERjYmVNeDhyOF9KSFJKS2xy?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T10:43:30Z",
+      "summary": "南卡罗来纳大学Salkehatchie分校宣布提供免费的AI暑期课程，面向社区开放。课程内容涵盖人工智能基础、机器学习入门、Python编程以及AI伦理讨论，旨在让更多不同背景的学习者掌握前沿技术。该计划通过政府资助和企业合作免除学费，帮助缩小数字技能鸿沟，尤其惠及低收入家庭学生和转行人士。这被视为高等教育机构推动AI民主化的务实举措，为区域经济培育合格的AI人才储备。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "661",
+      "title": "USC Salkehatchie offering free artificial intelligence (AI) summer classes - Bluffton Today",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNklrTjJXUjIyT0hHNFpwWkxXTWd3c2xFTDN5SU1KS19oRHNBQ25IS19xbUhRV3J6c25pOHVmbUFoTVNCV0FIM0lBMHdUSHNXOGV1dklqSHdsdmV5OFJsUmhCOG9zcDBkUXBTVDhHczRaYy1ydDhVVEhfZ25RdmhlSHZuM1BVcHZkV3lvODcyTm91eUVyLXA5YlktTXktVExTaFl2a2pqcll1Tjg1aTcxNFN3NDJSS2xwbVRDc3VoNm10ZkJPV0hVdm5sWHdvWUZ2akxqUnVZQktQY1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T08:59:00Z",
+      "summary": "据Bluffton Today报道，南卡罗来纳大学Salkehatchie分校提供免费人工智能暑期班，面向所有年龄段学生和在职人员。课程设计兼顾理论讲授和实践项目，包括使用主流AI框架完成图像识别、自然语言处理等任务。主办方表示，希望借此激发公众对AI的兴趣，并为当地社区提供可负担的技能提升渠道。该项目的免费性质与灵活学时安排受到广泛关注，报名人数已超出预期。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "662",
+      "title": "Claude is Offline: Anthropic's AI Chatbot Hits a Global Wall - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWtObjN6R1JKbm1SbnNKN2pVZlRDeTU2Umt1WmNnbGhlakN3NXFjUEY4blhPczY4X1hPVG5yTG1zTXBHVTZTTEF0Z2d6REdmb1R1NDB2dF9XLWRickV4Nkd2NXY3SnZ1MzlRd2o0Y3VITC1iZ2gxUzNFMzNVZFRuUzRROU9sZXhXQXk5OVRfUkZUMl9GejIxWFlLczYyRmYxbHdjdklMcC1JMUV3WlNQR2JJSE93X0JGYkZXWThJUkZMam41blNVUk8tdGZmNVUzRUHSAdoBQVVfeXFMUGxjaW9UVWk4eEEwWnpyTzl6ODdObFhQd3BKdnByUHVQUUowcDd0R041aEtvcVZRc1pNRmVBSXZ6RVp4YzhTUFJjZnY1ZDNYZ2pJaTBMQmFwbjBSeFVDMWZTT2NOTDg0WUpxNllBbEkwTEQ5Z3dCRUVvenhPTldyODJWUW1fMnB6czBVUVdlejVJNGVHWXJOMXBqV3FOSVktbkRYQ1E2TWpqR2dybExvOGo5NTBOTnpVYVNNbFB3VHJWa2xIN0FRN0hMU1RJR0ZfLWNhT0dvbGNYT3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T08:57:25Z",
+      "summary": "人工智能聊天机器人Claude遭遇全球性服务中断，用户无法正常访问。Anthropic公司确认其AI助手Claude处于离线状态，并称正在紧急修复。此次故障可能由服务器过载或底层模型更新中的错误引发，影响了通过网页和API接入的全球用户。作为主流的AI对话产品之一，Claude的长时间宕机引发对AI服务可靠性和冗余机制的讨论。Anthropic尚未公布恢复时间表，但表示将加强基础设施的容错能力。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "663",
+      "title": "Career Paths after B.Tech (CSE – Big Data and AI Analytics) - LPU",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRW1vWjZNUlZpRVBJV2ROQWxQYWN6Wmkzb0tWZnU4VVRRNTZTWnF2OXhVc2JfVDhjRDRHaU1OR3dWNnp6cGh0d0NIN0JSaUZJZE1JUHFmNlFfQV8wVTdJNFdGNkVfczVDRWNNcWswWUJmeWFyT3NSdmEzTzlocjZPeTVsYmctX2M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T08:11:06Z",
+      "summary": "这篇报道探讨了在完成B.Tech（计算机科学与工程专业，主修大数据与AI分析）后的职业发展方向。毕业生可从事数据科学家、机器学习工程师、AI解决方案架构师、大数据分析师等热门职位。LPU（洛夫利专业大学）强调其课程注重实践技能与行业需求对接，学生具备处理海量数据、构建智能模型及优化算法能力，可在科技、金融、医疗等多领域发展。此外，继续深造或创业也是可行路径。",
+      "fetchDate": "2026-06-02"
+    },
+    {
+      "id": "664",
+      "title": "The geopolitics of Artificial Intelligence - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ25FbWptRFNUNzJNejNlWllnd2s1Z0NseDVKYTFCMlM1TkZidWtPR1dZczJiOC02MmtjVGdMNGNEb1VHVVB4VTUxWjhpcm90Z2EwcDFsVm5GYmhnWUN6VWd6dGwtZTdLLXhudmJkZWJkVjZ6dk1tOENnXzVvV1lETzRBdnhhNy01VnlTTUR4RUU2R0tXRzV5RUlDaVhtRGFoMzFrcXF0TU5uakJvbXotdWpfUy0xbEI2?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T08:09:58Z",
+      "summary": "本文聚焦人工智能技术引发的地缘政治博弈。各国竞相在AI领域抢占技术制高点，以提升经济与军事竞争力。美国、中国、欧盟等主要力量通过政策扶持、技术封锁和数据主权争夺影响全球AI格局。AI的军事化应用如自主武器系统带来安全风险，而技术标准制定权成为新战场。文章呼吁国际合作以平衡创新与安全，避免技术分裂加剧全球不稳定。",
+      "fetchDate": "2026-06-02"
+    },
+    {
       "id": "651",
       "title": "US AI Lead on China: 18 Months, Says Expert - StartupHub.ai",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcV84WURNTjY5QW5sU0RoYWtZVnd1NHNPZENCNzhVR01HN3BvX28zQ0FienN0N1M4eFoxQ2JDVnQ3TEZKLWl1YkQyTDFXSFlqQWJTdzFBRjhzc0lPdS1WTnRkc1BBRnMwdkJOX1VYNVh4a00zeGVsSmJSNFN2ZnhLN0p4S21TbUprWUI4cjBxWVRlR2dXbXZiLUxxRXlGNVVLSTU5S25uWQ?oc=5",
@@ -5860,5 +5968,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 651
+  "total": 663
 }
