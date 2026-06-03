@@ -1,195 +1,139 @@
 {
-  "updatedAt": "2026-06-02 17:56:36 UTC",
-  "totalArticles": 27,
+  "updatedAt": "2026-06-03 00:14:10 UTC",
+  "totalArticles": 19,
   "articles": [
     {
-      "title": "Amazon faces class action lawsuit over Ring facial recognition feature",
-      "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+      "title": "Perplexity CEO on AI Boom and \"Hybrid Local\" Future - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOEVKckRjOTVpenAwQTdkeXdPbEgtR1VEZ1BVSVRZYjFoWm1xWkdCN053SW1tVnRnTzBzZGpsMnNaWVM4NEdIX182NlJWOUpHYndEdThXSmRQbG5QcTZ2S3p5OXVqRmgwZHo0TlVCZ1BfZk5VekljRUxfR19Cakt1VXZjVjhxWG1pY192V29JcE9JYmdZZ0NOc0gzcU5JS0kyZERJeUtnWGVQNjUyLUJZOUdB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T23:03:13Z",
+      "summary": "Perplexity首席执行官在访谈中探讨了AI行业的蓬勃发展趋势，并提出了“混合本地”的未来愿景。他指出，在云端AI能力不断增强的同时，本地化计算与边缘设备将扮演关键角色，实现更高效、隐私保护更优的AI应用。该模式旨在融合云端算力与本地即时响应，为企业和用户提供灵活、安全的AI解决方案，标志着AI基础设施部署思路的重大转变。"
+    },
+    {
+      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T17:47:28Z",
-      "summary": "亚马逊旗下Ring因面部识别功能遭集体诉讼。弗吉尼亚州居民Charles Sigwalt在西雅图提起诉讼，指控Ring的“熟悉面孔”功能未经同意擅自存储路过行人的图像，涉嫌侵犯隐私。该案件聚焦于科技公司在部署AI视觉识别技术时，是否充分保障了公众的知情与同意权。"
+      "publishedAt": "2026-06-02T22:50:56Z",
+      "summary": "网络安全公司Cyera尽管仍处于运营亏损状态，但凭借高达80倍年经常性收入（ARR）的估值，正寻求120亿美元的估值。该公司接近完成由Evolution Equity Partners领投的3亿美元融资轮，反映出投资者对AI驱动的网络安全解决方案的强劲需求，即便在盈利前景尚不明朗的情况下，高增长潜力仍吸引资本入场。"
     },
     {
-      "title": "Robinhood Launches Agentic Artificial Intelligence (AI) for Stock Trading. Here's Why It Might Not Move the Stock. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlQxc0JkeVJaSXNLZGdwYmx4WWo2UmRCNXNyX1NGTGJfSTZyZmpqTzhDN0dLcURwcUx0ZFlUTms0dUhNeWZYTGc2aXkyTEVvVkFHaWVQQmxpZzI3OWgxdzIxT1VDbzJhdUpSanhJaC15amt6azVBcU9qZU1Sa2M4UV9Ld25IcnVWNnFBWHEtdTBTRXdT?oc=5",
+      "title": "Australia's Megaport secures four new AI infrastructure contracts, to raise $594 million - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQk5uUG5jVEZ2ZWFkZGtGc1loaVZGUEtIU09CS3hKdzBXWXJjcGNJTzhyVnFEVkNwUmJ2LXVXUXYwWktDODd0UDdVYm5oSGF0RnRFVzBMZWR4Z0dwanU1V0dRODNycFBsa2FYV25lNk11SzlOOTlzZGlWek42UlljQ2tqcUFSX1Y1Uml2ai1HSUJXTTlpLW1BZ1FJaGxvQ0gtMTUwQVAyQmQxNkFhVDBncTIyNldmbDA0UE9HSjRWdzI3Mnp1TjFWeg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-02T17:44:00Z",
-      "summary": "Robinhood推出用于股票交易的自主人工智能代理，旨在帮助用户基于AI分析做出投资决策。然而，The Motley Fool分析认为，该功能可能难以对Robinhood的股价产生显著影响，原因是市场竞争激烈且AI交易工具尚未完全证明其相较于传统策略的持续优势。"
+      "publishedAt": "2026-06-02T22:37:03Z",
+      "summary": "澳大利亚网络连接服务商Megaport宣布获得四项新的AI基础设施合同，并计划通过融资筹集5.94亿美元。这些合同将支持其扩展数据中心互联和云连接能力，以满足AI工作负载对高带宽、低延迟网络的需求。此次融资将用于建设更多网络节点和提升基础设施容量，巩固其在AI时代网络服务领域的地位。"
     },
     {
-      "title": "AI beats law professors in Stanford tutoring study - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSzRRS2ZtUUdIeEpEajdVZ3B3akotWVNxTnBIZUdmUDhpTkJDdmpJTzdJQkFTRWZYSXE3MDRKWHdEWHhoWXRGem94TVFKUVF2YVJYS251TDh3OVdRcU1TOWhyejd2N3I3MjdRN0NNa0E0b3J5bUdiR0YtSTdUaG92d04yNDYtdk5JbFZ1dHB0dWNPMHZRUUlPVVh2YUczRzRCZXNCUjB3?oc=5",
+      "title": "Google Mystery: Why Tap Equity Instead Of Adding Debt To Fund AI? - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2t4SFFBV3FLRXk0bUtBUW1XNk5RVHNPMFEzM0kyeU4xODhydWUtdVJsQjRXQ1N5X3FYWm4yakxEcjVjVFo1U2JNTktiSjhSaXVlVVpzZ01Lek53MTcxVjB4T2ExZFExNGViMENNdEV1TTFpeDVCaUJoSEM5RGhUUnVLeV9yOUZha21MNGVjZW0wbl9QMmVBMTNsdFdYcWlJQkVkTllnUkxWTXdhWXFoSUZXMA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-02T17:13:59Z",
-      "summary": "斯坦福大学一项最新辅导研究显示，AI系统在法律知识辅导方面的表现超越了法学教授。该研究对比了AI工具与人类教授对学生学习效果的提升，结果发现AI在提供个性化、即时反馈和知识覆盖面上更具优势，引发了关于AI在教育领域替代传统教学角色的讨论。"
+      "publishedAt": "2026-06-02T21:37:00Z",
+      "summary": "谷歌选择通过增发股权而非举债来筹集资金用于AI项目，这一策略引发市场疑惑。分析师认为，尽管债务融资可避免股权稀释，但谷歌可能出于对长期利率风险、财务灵活性的考虑，或认为当前股价对利用股权融资有利。此举也反映出该公司在巨额AI投入与资本结构优化之间的权衡，投资者需关注其长期回报。"
     },
     {
-      "title": "SoFi Launches AI Coach to Personalize Financial Planning - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb29YR2dhd1ltSWNGMjBRNzJDTTB5dVJxUF9QZURha2pfaG1odlBIX2V2SEw3dlQtcEpjWWJLbnVfaFlWVW9iV1JKMDdDRjVEQlY4SXRMYXZlajlOa1ZILW9qSFhNeVdTZ2FnSWo0eW9NbnV1V3NENVUtazhKSENaLTIxMG9ybG9oRjA2LUE5VEZiYUxYN2t6OGtzWDB5bkJlU05ubENaQXZSNVZaWWN3Wg?oc=5",
+      "title": "Federal government’s new AI strategy will emphasize trust, minister says - NanaimoNewsNOW",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMU00S3paRXJwZmVsM1JqMGNwN2JKcjFxUGtMeHZXcEZJbkI2OTNkektsbjFraE1leEgwdENEdDdDaWtlaHJKU1ZQcXM5cmx0Tkk0VENUempzS1E4WTk4ZWVDV2FDd05iY0hqd0RhWENBU1RkSnFUdGlEcFE4N1V0eC15M29BTDFiN1VPVjlaZWI2aldmOWMwcFEwR3htWmdEeDFaT0g2QzFCZVBiQlE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-02T17:00:34Z",
-      "summary": "金融科技公司SoFi推出AI理财教练，旨在通过人工智能技术为用户提供个性化的财务规划服务。该AI教练能根据用户收入、支出和目标自动调整投资建议与储蓄方案，降低传统理财顾问的高门槛，让更多用户获得定制化财务指导。"
-    },
-    {
-      "title": "Trump signs narrower executive order on AI oversight after industry objections",
-      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T16:23:08Z",
-      "summary": "特朗普签署了一份范围缩小的AI监管行政令，要求对高级AI模型进行自愿性的上市前政府审查。此前业内因强制审查条款提出强烈反对，新令将审查改为自愿性质，并侧重于国家安全和关键基础设施领域，体现了监管与行业发展之间的妥协。"
-    },
-    {
-      "title": "Trump Signs Executive Order Granting Oversight of A.I. Models - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVkRGajdRcnVMNE5FT1RwMklmNFlXVm5CRF9FSDRibkRDOHJrdGl5dm16RUl6VTR4Y19tMGR1dUtiNW15V3JHLXRyaUFqMDBGcEM2d3FTMXpGazFURDdsbllNM3dzajBjbkswdWpRZzlUTUZoNGJkN2hWd3dOWkI4Zg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T16:21:02Z",
-      "summary": "特朗普签署行政令，授权政府对人工智能模型进行监管。该命令旨在建立对高级AI系统的监督框架，要求开发者在推出模型前进行风险评估并告知政府。此举被解读为在促进AI创新与防范潜在风险之间寻求平衡，但部分科技界人士担忧可能影响研发速度。"
-    },
-    {
-      "title": "Forget C3.ai: Buy This Unstoppable Artificial Intelligence Security Anchor Under $20 Instead - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQTc1N2tTQ3Zxck9JRkM5clUxSk55Qlc5THViLTQ3Q1g5N0RIenJ3OFhac0xnRHc3ZG1qZUNNYlBxRXJyRHM3NFVkNkpnbE8wZFc0MUZaMUdmYzBGdEo5eElLU2s0Snh3MlZrTEdQUjZHV0U3cWFncm8tVVhuUVVSVjBUWGh5dzZSeE5Pcll3SFVFTzVyQzNkbA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T16:11:48Z",
-      "summary": "Yahoo Finance分析文章建议投资者放弃C3.ai，转而关注一只股价低于20美元、在AI安全领域具有“不可阻挡”潜力的股票。该文认为安全锚点公司在AI驱动的网络安全和防护方面拥有核心技术优势，市场前景更稳定，是当前更具性价比的投资选择。"
+      "publishedAt": "2026-06-02T21:04:39Z",
+      "summary": "加拿大联邦政府部长表示，即将出台的新AI战略将把“信任”置于核心位置。该战略旨在通过建立透明、负责任的AI应用框架，提升公众对技术的信心，同时兼顾创新与伦理安全。政府将加强监管以防范AI风险，并推动行业自律，确保AI发展符合社会价值观，为全球AI治理提供参考。"
     },
     {
       "title": "Group fights Shell Oil bid for AI prompts used in climate lawsuit - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEY3VXpwTmN0WEFHdjdzWFctNEt6NVdJOWhXdGRPT1FYaTJrUHN3b2d6WF9ZTjRBTmZMaUdpZWhHVXZwUzFOcHNnSUVTdlA0UnByR194OGtveHRKcmswRVoySTRUMzJSYUpYcUFZbnJLQ0VkUzFQbnhwM3c3RUw2Tk1SYTFTbGtPZ1ZJR1B1MXFvTXhOWlNDenE3ZjgybG1Qa3ZuSVJMREN2aDhYZFNZYg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-02T16:11:44Z",
-      "summary": "一个气候维权组织正反对Shell石油公司要求披露其在气候诉讼中所使用AI提示词的请求。该组织认为，Shell试图通过获取AI交互记录来干扰诉讼进程，而AI提示词属于受保护的工作成果。此案涉及AI在司法证据中的边界问题，引发广泛关注。"
-    },
-    {
-      "title": "OpenAI launches new Codex tools for white-collar work",
-      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T16:00:00Z",
-      "summary": "OpenAI发布Codex新工具集，旨在拓展该智能代理在白领工作中的应用场景。新工具支持自动化编写代码、生成报告、管理项目等任务，同时OpenAI发布内部报告显示，Codex在知识工作领域的用途已远超编程辅助，正逐步渗透至数据分析、文档处理等环节。"
-    },
-    {
-      "title": "Titan Network hits 4 million devices on its crowdsourced AI-compute network - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUhPczRadURZWmMteHhfSTNHU0FNR2dkTEg1UXJhNWFnN3VMbFM2OWFDMXVlZnphRGlXellURnA1dTZDNjUwYW9lRjFXUzUwNFB5WjhOUERuWjFwOTd5VW04T0lYS0hWZFNGd2EySkhYaE9YWHlDWWVfTnhyQlpsTkNWY0d1RGNHcXdtdGJUaHhrMWptNmQ0RDJVVXhrbU1OT21lTVR2dmV5U1dxRTBUQWFObmtPMkpkb1p3OHBNMGN4RU44akFVMA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T15:39:40Z",
-      "summary": "Titan Network宣布其众包AI算力网络已接入400万台设备。该网络利用用户闲置的计算资源进行分布式AI训练与推理，通过区块链技术实现任务分配与激励。这一里程碑标志着去中心化计算在降低AI算力成本方面取得实质性进展，吸引了更多开发者和企业参与。"
-    },
-    {
-      "title": "Artificial intelligence enhances hurricane forecasting, says National Hurricane Center - WFTV",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNTRCZGxhNjl6cW1FNGFwelVHU0paQ1A0Vlo2U2ZLaXNPVW5IMS1MbXdhaWZ3LXpjWHpJY3JPR3NCYkllcWc4eVBWY3hZOXR1UktpOFBQbUNkM3pBX1cwY1pjM1kzMUF5ODA1QnZ5czduV1cyaFdtcDV3aFZhUDFsMkdfTEhjdjc2MlNiZFFJZlo0eHhZZHlhRzFobkQtNTdlUkVjSmJ4Skp2aEhVa2owZHJyZE5OcFo2SEQ3azlTdlRxalg3Q29wRUVfenRPLURkZnY1YTZsX1VLZ2dVaGfSAfIBQVVfeXFMTUh4VURBWGdQMEJVSFVhNk5UdnBMUXRYd3ZXaDI5cU9NTXRlUFlsb05jcTFJcWFWOWJrSV9CaUVhMlVEZlo0SURIRlNSS1BNTHp2UEtFQk44YTBaU0pabjlKdWJwOUNaVnZWbVN1WWZhS0FUU090ZGkwZm04a1k0S0FwekZab0Q5Nmdna3dfSGZfNHZEdG1xMldKNXRvX2loVHl0eUFmeFF4elY1ZEF1QzNJRjZxM1BHN0lkVXNaMElUVWlOc1ZiVU9tT3luZkRRZVdBc05OSFVxNGc2THVQNHVxTkZtT0FTaXpyeTBfejgwRXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T15:38:55Z",
-      "summary": "美国国家飓风中心表示，人工智能技术正在显著提升飓风预报能力。通过分析海量气象数据，AI能够识别传统模型难以捕捉的复杂模式，从而在风暴路径、强度和登陆时间预测上提供更高精度。该中心强调，AI并非取代人类预报员，而是作为辅助工具增强判断，尤其在快速变化的飓风情景中，AI可实时更新预报并降低不确定性。这一进展有望为防灾减灾争取更多准备时间，减少人员伤亡和财产损失。"
-    },
-    {
-      "title": "New Berkshire Hathaway CEO Greg Abel Has Now Plowed $26.6 Billion Into This Artificial Intelligence (AI) Stock - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV0lOdEdOSlZpZUlpY2RodTl0dU91dXJQMjNIb2swVVJtTElKVDd1RUQyRE5NenFNQ09QOGY3VUR1NmZrcHVna1BfSzRTVE9xQ3FLZGc5X21pbmx6aXB6dS1nbENHN0c4Z2NxMklKRFJZRnhmTUh4a1JkZWRpeVFOY0RsUUtMUVBSeGNIQmluTWVjUGw3TURfYmZ6M0Rydw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T15:12:39Z",
-      "summary": "伯克希尔哈撒韦新任CEO格雷格·阿贝尔已向一只人工智能股票投入266亿美元，引发市场关注。这笔巨额投资反映出阿贝尔对AI行业长期增长潜力的信心，也延续了巴菲特一贯的长期价值投资理念。尽管具体股票未公开，但此举表明伯克希尔正加速布局AI赛道，将其视为未来核心增长引擎。分析人士指出，阿贝尔的首笔重大投资选择AI领域，或意味着公司将更深入地参与前沿科技变革。"
+      "publishedAt": "2026-06-02T20:18:09Z",
+      "summary": "一环保组织正在抵制壳牌石油公司试图获取用于气候诉讼的AI提示词。壳牌希望通过这些提示词了解AI工具如何生成支持其诉讼立场的文本，但反对者认为此举侵犯商业秘密和言论自由，且可能开创AI辅助司法调查的先例。此案凸显AI在司法应用中的边界与数据保护争议。"
     },
     {
       "title": "Hong Kong securities regulator warns licensed firms of AI-driven cyber threats - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQampzaXp5bmRRNUJHSE0xMjg2bDd4TWg5U3VwUWtjRnExQ1NzQ09QX0FDRjNkVkU4MGtNQXNGdEctcGRkbWNYSHlUUmVCdWFlQmdaQ2x6ZHZCb21vOFU5Zm9ON0padzJsamdkNjY0TEdsSDg0cWtfMnQ0ZU5YLWRWUFVVTnBxOGpZVVJNZWJaM3k2aWlhRU4tdExMemNaRExMbXYyRVlKZVl3eTlLbzNHN0p1d21LU2ZfNnA0Q1Fob1k1eF9BdHRR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-02T14:49:33Z",
-      "summary": "香港证券及期货事务监察委员会向持牌公司发出警告，指出人工智能驱动的网络威胁日益严峻。这些威胁包括AI生成的深度伪造邮件、自动化的社会工程攻击以及智能恶意软件，能够模拟人类行为规避传统安全措施。监管机构要求持牌机构加强网络安全防护，更新应急响应机制，并对员工进行识别AI攻击的培训。此举旨在保护投资者资产和金融市场稳定，防止新技术被滥用。"
+      "publishedAt": "2026-06-02T20:16:01Z",
+      "summary": "香港证券及期货事务监察委员会向持牌金融机构发出警告，指出由人工智能驱动的网络威胁日益增多。这些威胁包括AI生成的深度伪造、自动化钓鱼攻击以及利用机器学习算法进行的欺诈活动。监管机构要求公司加强网络安全防护，升级检测系统，并提升员工对AI攻击的识别能力，以保障投资者资产安全。"
     },
     {
-      "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "title": "The AI House Hunter Meets a Skeptical Market - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTEtPcE15UzhYcG1waXU3a1k4Z2pXQlNBWFFJRE5KZThkQjBWTGNmTng0bmx4bjMzYnFQWXNGM0FHRjlUMmlhYjZmMzdoTm9Qc3A4U2FRYldOajJNNk9fdUkxazQ1QWRmMmxLNk92cWJrYXFMRGIzOTJBb1lMNHhvQjk3NTZPM3pCWC1EX3oxSVdyc1lvOVkwTWxuVnNBdEhL?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T20:00:59Z",
+      "summary": "AI房产搜索工具在市场中遭遇消费者怀疑。尽管这些工具声称能通过算法快速匹配房源、精准分析价格趋势，但许多买家对AI的推荐逻辑不信任，担心其缺乏对传统交易细节的理解。市场反应表明，AI在房地产这类高价值、高情感投入领域仍需通过透明度和实际效果赢得用户信任。"
+    },
+    {
+      "title": "Trump signs executive order that allows voluntary federal vetting of top AI models for national security risks - PBS",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSk1SV2lqUlNMa1QweEt5Qm5YOUx4dlRMcWt1R2hhWjRLYklaV0lobldWSzNqaDhsa05XdWxWd3o3QkFneDR1VUpjSmxfck9aa2tlZVN2NkFsSEpmalRVTTNiQU9fUTBKek1BLV9CU29KQkhUalR4MzNicmltVlF5c2RFT1F0NTNiN3ZuZTFiRHN3NzhOd3lYMjREWmtjTFVLUUxmLWxHdmZVRDgyTUZJSlRjZTBMQUhBNnN3eFBRcFczNEp4cThYdzAtRGZiaWZ2T1ZxZmh4OEtycmprLXZj?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T19:58:10Z",
+      "summary": "特朗普签署行政命令，允许联邦政府对顶级AI模型进行自愿性国家安全风险审查。该命令为AI企业提供可选流程，以评估其模型是否可能被恶意利用或对国家安全构成威胁。此举旨在在促进AI创新的同时，建立早期预警机制，但未强制要求，体现了促进发展与风险防控的平衡。"
+    },
+    {
+      "title": "Young Americans’ anti-AI sentiment a gift to China - Washington Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzIzdEp5S0s4LWs0YVNEdEY0bGFQSWxEeTYwUHhnUGJaWkNqUjNqbm1HaGw5d1U1dFBnUzVXcHdfck14V3dnb2dhVUZaWkliNmRhNURiTlFLZEYzdm1CelVDTkU3TVVJSTRnTHM0dzdoa084MXk2RDFHbF9SRjFIdW9KNTcxSks2TnN2TmtRT0xMNGhTejhEYQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T19:38:36Z",
+      "summary": "报道指出，美国年轻人中普遍存在的对AI技术的抵触情绪，可能阻碍国内AI创新与应用，从而在全球竞争中为中国创造优势。年轻一代对AI导致失业、隐私侵犯等问题的担忧，导致其抵制新技术。这种反AI情绪若持续，可能减少人才流入和资本投入，使美国在AI领域落后于积极拥抱技术的中国。"
+    },
+    {
+      "title": "Trump signs order seeking early access to powerful AI models before release - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTA5azZHaWhwS0c0WmMtS1ZTVVRvSDRMbTc3VllvbWVhV1VzUHVxS2d1VnF5XzdPa3hqU0E5bTA2SUswN0ZvMFV5Sm1fZ0dTeTJjb2VPTmlCWFpIcEdLTlpmb0lvbXBEaklmVm5GRllLWUdQTjJic3Jxc2NpM01Vdi1zcmJmUUVYdXNfSXBONVF3dTlWRlBnRkpsZWNybmFfUWpySg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T19:32:51Z",
+      "summary": "特朗普签署行政令，要求AI公司在发布强大模型前向政府提供早期访问权限，以便评估潜在风险并确保国家安全。此举旨在加强对前沿AI技术的监管，但可能引发业界对创新自由的担忧。该命令覆盖模型训练、测试及部署环节，要求企业配合联邦机构的审查工作。"
+    },
+    {
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T14:44:21Z",
-      "summary": "Anthropic公司将其AI安全项目Project Glasswing和Claude Mythos模型扩展至15个国家的150个组织，重点覆盖电力、水务、医疗和通信等关键基础设施领域。该项目旨在识别和修复AI系统中的安全漏洞，防止可能影响数亿人的大规模网络攻击。通过向关键基础设施运营方提供先进AI防护能力，Anthropic希望构建一个更安全的全球AI生态系统，提升对潜在灾难性风险的防御力。"
+      "publishedAt": "2026-06-02T19:11:48Z",
+      "summary": "Uber在鼓励员工广泛使用AI工具后，因4个月内AI相关支出严重超预算，被迫设定员工AI使用上限。这一举措反映出企业内部AI应用成本失控的挑战，也凸显出企业在推动AI普及时需平衡效率与预算管控。Uber的调整可能影响其AI驱动的业务创新节奏。"
     },
     {
-      "title": "4 tips for building a strong finance AI bench: Gartner - CFO Dive",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORUdxLUlUcUwtcF9ydTVKVzN5dFAxU3VtQzhfRDM0NXNYOGdPSmU1YWRXVElDMDJNUVlQSkhGbXVacFVvLWNFbWdrQzAwWU83dmFwMUVBR3BxT2d5S1hZUXR5QnBtR0RtdG1FQTlTdjZreUMxUXNOZm1FeWhDT0pORFJ1RExRNUlaaVU4dkxFZzM?oc=5",
+      "title": "Delta High School grad leads push for AI policy frameworks in education - Santa Cruz Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLURLR3pZaXNNR2tFQWlaNzdjdFZFWkNxTzI1R0I1VmMzVjN2a0p1VDdnQS0xcm1tYldOc2gxZkRkQXJhZ0xOZWFtOS1kNjRTWlhhcVhZN2JXb1BQSGxCLWd4NE8tZHU2YW5QMFV1QXVDZmE5a2Z6YVJvc1YxQ1Q3SWNPMG9Lcm5XaWk2cUZudlpNSFQxTnVjQ05kb2pFX1ppN0MzZEpZM2xZN05tMjlGVUdLVVo3Tmc2?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-02T14:27:21Z",
-      "summary": "Gartner为首席财务官提出了构建强大金融AI团队的四个关键建议：一是投资数据基础设施，确保高质量、可访问的训练数据；二是招募兼具金融与AI技能的复合型人才，避免纯技术或纯业务倾向；三是建立跨部门协作机制，让AI团队与财务、风控等部门紧密配合；四是制定渐进式实施路线，从低风险场景试点再逐步扩展。这些建议旨在帮助金融企业通过AI提升预测准确性和运营效率。"
+      "publishedAt": "2026-06-02T19:04:53Z",
+      "summary": "一位Delta高中毕业生正积极推动教育领域的AI政策框架制定，旨在规范AI在课堂和学校管理中的应用，确保技术使用的伦理性和公平性。该倡议强调需建立透明、可问责的准则，以保护学生数据隐私并避免算法偏见，同时充分发挥AI辅助教学的优势。"
     },
     {
-      "title": "Demand for forward deployed engineers surges as companies adopt AI - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcTdYNWFEdFYwN3BCb0c3SXhuZ2hLU2RPZzhQUkF0LTZUYzlIQTRKaG5zX292LXV3MEJKejZQeWRTYlMtUWVRVDRvXzNOdVA4aktGdHVMZHZHaE5ORktpQ1hTalhPZnE0QWpkYU9JRkdueENIV2t0cjRKZUVOeWk2dHNuQzJkMHZOaVQ2RG1oLVpqUHpvX0dIcGVWbDNpbzBkS1VBejRWVUhtRW5oOVBxMFlFeW9QV0VxbWtBdlkyWms3ZXJtTGhpbzlQTG1SdmpIcmNDSFNEU3DSAd4BQVVfeXFMTzlJTzJscXgzN1hMT1BxQjVWMFgxOUFUMmlNX3BWQU9VYkl3Uy1OWE5fR3RtVGZFRkJNWHdEOVhReHlUUi1wQnVudFA0Nk80Y0RXT2tMQXZRZ0I2V0VGeS1XVlpJWnJzeGd3YlBFbGxMQnlUQUc0d3NWSDgzbXVOT3VjV01PRG4ycjJOTUZhdS10c2k0X2VITW5qcVkyT21DLVdDZ1U3UWFGc0FkUnlyRUhPVVZRVk5vM2ZXYS1qZ05JbVA1bFVQeUlOb2NNaE5Zd25pSnp4YTBhd1JTNFFB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T14:25:34Z",
-      "summary": "随着企业加速采用人工智能，对前向部署工程师的需求激增。这类工程师不仅需精通AI模型开发，还要能深入客户现场，将定制化AI解决方案快速集成到实际业务环境中。他们负责协调技术团队与业务需求，解决部署中的拉格问题，并培训用户。行业报告显示，具备端到端AI项目经验的人才薪资增长迅速，企业正通过内部培养和外部招聘双管齐下，以应对这一新兴岗位的短缺。"
-    },
-    {
-      "title": "Governor Lamont Signs Legislation Establishing Youth Online Safety Protections, Regulations Over Artificial Intelligence, and Initiatives to Upskill Connecticut’s Workforce - CT.GOV-Connecticut's Official State Website (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUE8zY2RKd1VicGtNQVJodzBINENRYmRsMERVSnJ0QmtiV19Dejd6WGhEclBXTGs2VWwxMzhTYnpDMjFmOW9ycl9LMXd4b0ZiUHRPSmx0clB2eG1TUU56Sk51NWNvU3FWS1V0RnVuUFBsMWEzNlZQTEZYV0Z4RzFuRmVRQVFhZzU3WjRTZV9qXzJ0WEc5aTZYcWk2YkxqcTlubXpTdXdkcmRBb1podF81MVh2VnNaS1NNOEk0R2hKVER2N2lDaDNrZ2RFQTZoWHdfQ1J1OHVUWXVkZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T14:13:51Z",
-      "summary": "康涅狄格州州长拉蒙特签署了一项综合性立法，涉及青少年网络安全保护、人工智能监管及劳动力技能提升。新法要求社交媒体平台加强年龄验证和内容审查，防止青少年接触有害信息；同时为AI系统建立透明度和问责机制，防止算法歧视和隐私侵犯。此外，州政府将拨款开展培训项目，帮助劳动者掌握AI时代所需技能，并鼓励企业在AI应用中优先考虑员工再培训而非裁员。"
-    },
-    {
-      "title": "EXCLUSIVE: Jimmy Jam On Using Artificial Intelligence in Music - The Root",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0g1NFFXMllZZWdZWmlYUThqc0pNaWNnNmtMVi1zSkVRV3FmQ0RRQm44ZmJKNWxXWENDbk1uSEFxcV94MDQ1YXNiZ1JIUVNzZWZVeVNkYnRVTEpkTHVEckpOY1pGbm4zSmV1TkhpQ0p4MVpPN0FvcXFadDNGdzNCakp5TXRFLTZ3UDdtSC1FUV85clU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T14:13:46Z",
-      "summary": "传奇音乐制作人Jimmy Jam在独家采访中分享了他在音乐创作中运用人工智能的经验。他认为AI可以作为一种协作工具，帮助音乐人快速生成和弦进程、编曲灵感甚至歌词草稿，从而突破创作瓶颈。但Jam强调，AI无法替代人类的情感和艺术直觉，最终决定权仍在创作者手中。他建议年轻音乐人学习使用AI辅助创作，同时保持对音乐灵魂的追求，避免过度依赖技术导致作品同质化。"
-    },
-    {
-      "title": "Why opera is embracing AI – even as some musicians feel ‘miserable’ about it - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFFZOTFnb01XaWxaZ2xZbHh5SUM4MmlpNUtLdGU3THdBRk9wcFZkazJjNkF5YW5vbkE5ZGUwcDRHc2FzLVlrTjh1Yy0xWWhkRk9lS2M2UDlqRWhZaVJqaGppN3BCdUFNREN4TlhkVU1FQWxURWx2c214ZmV5SURpQ2gydmhJY21fbmI4NDI0aEpHLXlmWVpuYg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T14:10:00Z",
-      "summary": "歌剧界正积极拥抱人工智能技术，利用AI生成背景音乐、分析观众情绪甚至创作新剧本。然而，一些传统音乐家对此感到“痛苦”，认为AI侵犯了艺术创作的独特性和权威性。支持者则指出，AI能帮助歌剧吸引更年轻观众，降低制作成本，并为表演者提供实时反馈。这场争论折射出科技与艺术之间的张力，但多数业内人士同意，AI应作为辅助工具而非替代品，关键在于如何平衡创新与传承。"
-    },
-    {
-      "title": "Artificial intelligence and natural stupidity - Philenews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUm9MbE1mV1F2S2pjTC0yTUVSblpmb3BnNm11LWI1UlQ3aWppajBvQ3BFd2U1Z0ZWT1RiZHFyTzRtQzZqamVWRTMxaTBSaDdIc1Q4eTZnSTc2RVl5c21DcDA4ZG1LTS1TRFJqQmYyUFVKMExtZFNkbzBtUzJWcl9STFJBYXUxQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T13:38:46Z",
-      "summary": "一篇评论文章探讨了“人工智能与自然愚蠢”的悖论，指出当人类用AI做决策时，可能反而放大了自身的认知偏见。作者认为，AI虽然强大，但若训练数据本身包含偏见或使用场景不当，就会产生“自然愚蠢”的后果——例如算法推荐加剧社会分化、自动化系统忽略伦理考量等。文章呼吁在部署AI时保持谦逊，重视人类判断力的不可替代性，避免将复杂问题简单化交给技术处理。"
-    },
-    {
-      "title": "Wolters Kluwer Health survey examines AI use and concerns among clinicians, patients in 2026 - Fierce Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaUd0TzFJUDE2MDZIUGhISkUwalYxZklTbnBYa1FBTGNlaGJMbkhibWpvemt4TjRRSUtSeDA5Qk1pd3k5OVVvVXU5OEJMaEdOeExYOTk3a1lqYjZBZVlRUXB3a1VfUjAxa182RXE2UXpYNzM2WXBWUlFQTFBFUFVzZ2hDaVVQU3R1Y3V3LXI3aHJTV0Z3X2VYZ0NYSkVfZzNCLUVRTG8wTUNaRm5JTFdORExNbW5uRWI1VmdMNVRWd2YzQnM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T13:30:00Z",
-      "summary": "Wolters Kluwer Health的一项最新调查显示，到2026年，临床医生和患者对AI在医疗中的应用既表示期待也心存担忧。调查发现，AI在辅助诊断、提高工作效率方面展现出巨大潜力，但同时，数据隐私、算法透明度和责任归属等问题成为主要关切点。受访者普遍认为，AI应当作为辅助工具而非替代医生决策，确保患者安全与数据安全仍是核心原则。该调查为未来医疗AI发展提供了重要参考。"
-    },
-    {
-      "title": "Martin Scorsese Is Embracing A.I. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOHZhNVdqXzUzbHloU2FxVlZzX2dRM1hidUJ3NlR5ZlMyam1ibUVpaHZVRkQzU2dXTHBWMTcwd0wwdU1LUTZodk9VZll5cFRsY1I4SU8wMnY1aFF5QUxVNUgwNGtCbTlzMW1ycHN6MEVKcFk5UFRCUW53aVRMTFdnekJ2dVZQZUFacjhWUjlYZVpac1IzR1VQc3JB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T13:00:07Z",
-      "summary": "著名导演马丁·斯科塞斯宣布将拥抱人工智能技术，用于电影制作和后期处理。他认为AI能帮助实现以往难以完成的视觉效果和叙事创新，同时强调AI应作为创意工具而非替代导演的审美判断。斯科塞斯此前对AI保持观望态度，此次表态标志着好莱坞重要导演对AI技术从怀疑转向尝试。这一转变可能推动电影行业对AI的进一步探索和应用。"
-    },
-    {
-      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjd4YkhxRnRmSXRfS2xEZ2VPM1YxZ1hyS3BKQTVTNjU3X2xHUUxScEdwUHNBWE84RFl2dy11c3pIelRUcFV3STZOc1RfdExJN0dpbzJKdEwxekNXUVJxVjg4VWp5MFowYmVNU0QxZlo3emhLeWdhYWpIUVQ5M1RmVzRrX1lER0c5MWlhYV9VRml6SFczXzJsTF9B?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T12:38:08Z",
-      "summary": "科技媒体The Verge记者亲身体验了谷歌推出的Gemini Spark AI助手，称其为“既令人印象深刻又令人恐惧的AI体验”。Gemini Spark能够通过语音实时完成复杂的多步骤任务，如预订餐厅、规划行程并同步日历，其自然语言理解和执行能力远超以往AI助手。但记者担忧其过度依赖云端、隐私风险以及可能取代人类决策的潜在问题，认为这是AI能力的巨大跃升，也引发了更深层的伦理思考。"
-    },
-    {
-      "title": "DuckDuckGo's ‘no-AI’ search feature gains more traction, expands to new regions - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS0Z0R2tLOXpqZDBsOTR2WTM0UnJ6V2N5cm1CV2Z4Q1Y4Q1Q4Y21oaFljSjJDWUlNejVlNnl4NlZJeGNJaGZEWmgzdUpzTzJvTVFSUE0xcUZyQ0w3NF9uU2lRTzZldUtWXzdYcTZ6U2NlQ2wwcm90NEpzaFZFaTR5WXFaX2xtejRVODJYZVFiTUU5cGc3SzhhVVBFTGpRR0tZN1R1WnVtR3B5dDVNdHpYMGpqR0hOdk93d0hULU5odVZUNFYwM3VxdmtyZERUMFRjMWRES2Ixa0Naak1UUmJmcw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-02T12:33:58Z",
-      "summary": "隐私搜索引擎DuckDuckGo推出的“无AI”搜索功能正在获得更多用户青睐，并已扩展至更多国家和地区。该功能明确避免使用AI生成摘要或个性化推荐，坚持提供传统、直接且无干扰的搜索结果。在AI搜索日益普及的背景下，DuckDuckGo的差异化策略满足了那些对AI算法不信任、注重隐私控制的用户需求。此举也反映出市场对“简单、透明”搜索体验的持续需求。"
-    },
-    {
-      "title": "ZeroDrift raises $10M to protect AI models from themselves",
-      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T12:32:59Z",
-      "summary": "AI合规初创公司ZeroDrift宣布获得1000万美元融资，旨在开发保护AI模型“免受自身影响”的解决方案。该公司推出的服务位于AI模型与最终用户之间，能够实时监测并拦截可能违反合规规则的输出内容，并自动替换为安全信息。随着AI应用日益广泛，模型产生有害、偏见或不合规回复的风险增加，ZeroDrift的技术为企业和机构提供了关键的合规保障层，确保AI输出的安全性与合规性。"
+      "publishedAt": "2026-06-02T19:02:21Z",
+      "summary": "微软发布开源框架Adaptive Spec-driven Scoring for Evaluation and Regression Testing，允许开发者仅用文本描述即可快速生成AI行为测试。该工具显著降低了AI评估的门槛，支持自动化回归测试和性能评分，帮助开发者在模型迭代中更高效地发现行为偏差和错误。"
     },
     {
-      "title": "Artificial Intelligence for Prognostic Modelling and Adaptive Treatment Monitoring in Radiation Oncology - Cureus",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ201U2FKR0dudjBSY3NGeUlFY3dEbURENUxFTHdLNFRuOUJ5NWZQTHczUWtxZVVybmNIempXRkFaYmdKWTZIWFd3a2RodHRoVEV2QkIxdGlhMFB5c2k2YXZNbWdycXZfdk90eFFRT0J2bkpseGlPRGZuTzYzWnM4QmZ3WldNTHQwalN6ZWtyT0ZmNFhyYzRtTDZvZk1rM0JGck9tMldaU0FFWERYUU1UUkV1d1JucmZKWGZoMjJVNHI2RDlCV3VNVFJwQm84OUpRaWlQd2NmaU81STQ?oc=5",
+      "title": "Banks and FinTechs Are Sitting on the Most Powerful AI Dataset in Finance - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRlRIeGJYWUk2V2x2Vk1ncGlFM0lyX3A0dDFHa1QyUUU3M2VXT3g2ejZaLU4zaHNkdEtMemF1MVlVZVBYbXdrMFBSdm1YWjAxRXp2cnZMcWJWMHRLcmV3cS01MEp2bkwyLXUtdkNQNGxrRW5wd3A3aHdXdmZZZ0hISDAyc3MzQi1yNjl2Mlp4eDJhYUNyZWVjMHN0TDV5aGIzVE1LUUJuMXllLWQ0S0Q0OVQyNjdNNWllVExqRjBKamt5N2xYTE5B?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-02T12:30:56Z",
-      "summary": "一篇发表在Cureus上的研究综述探讨了人工智能在放射肿瘤学中的预后建模和自适应治疗监测应用。AI通过分析大量影像和临床数据，能够更准确地预测治疗反应和患者预后，并实时调整放疗计划以适应肿瘤变化。该方法有望提高放疗的精准度和疗效，减少对正常组织的损伤。研究者指出，尽管AI在放射肿瘤学领域前景广阔，但仍面临数据标准化、模型可解释性及临床验证等挑战。"
+      "publishedAt": "2026-06-02T18:40:59Z",
+      "summary": "文章指出银行和金融科技公司握有金融领域最强大的AI数据集，这些交易、信用和用户行为数据对训练风控、投顾等模型极具价值。然而，数据隐私法规、伦理限制以及技术短板阻碍了其潜力的充分发挥。行业需在合规前提下挖掘这一数据资产的核心优势。"
     },
     {
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "title": "Trump signs voluntary executive order on artificial intelligence - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3BVZ0RZRno0Y0V0eEpkcDlUSHhXQzJNY1BpRGNLYUVEVHhYNnBScUJMTmRVVkQ0M1NEWFZTeFNpYlRFRGVKM2VPZ3hSVzFLMXZfSG9DUExodUlkTjUxS2l5TWJFYjVNT3RGTjFzdG5ibmhLdnluUEs1Wl9PZ3JsNElsVjPSAYoBQVVfeXFMUHZ0eWVVVHF0a0xwVnhVRmpJNjdnUlJ2bzd4Vk5ZOXlXbDZiano5ZTFtSUwtemkxTTNjNWRhd28tOXhMSjRTVjhicW42U2hxdHpDQ3A5X0R5VDNGeElZT3lyZU92Z2xDS3FaZVZRZ1hNU3YzUWhKZlE4amFjbGV3YjNGckJBSjB5bUtn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T18:34:30Z",
+      "summary": "特朗普签署一项自愿性人工智能行政令，鼓励行业自律而非强制监管，旨在平衡技术创新与国家安全。该命令不具法律约束力，但呼吁企业遵循安全标准并分享测试结果。分析认为，此举反映了政府在AI领域采取轻触式监管的倾向，以维持美国的技术领先地位。"
+    },
+    {
+      "title": "Microsoft debuts an expansion of its model families and agentic AI intelligence for developers - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjk5ZXdWQ3RwbVZXdmNaTmdpTXVKQVVlcFk0d3d4dmNDZF9LeVBCWkg4MVNtVHZEX21TcklkSWlaX1hTcHBIVll4WlNNaEtDZ2RXbmc0Mk9NMFhzcE9lZHVkWC1aNU9YVjMwZGZwZkJERkRKeHBfbzVuNEFQZHJ2R253S2diRTlwUkQwbWQzdmtGYkRPYlZwRUZGcTF3d0NFUzhFczFEMUk4NEpuY0tUT2Q5aw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T18:20:23Z",
+      "summary": "微软推出AI模型家族扩展和面向开发者的智能体AI能力升级，新工具使开发者能构建自主决策、多步推理的智能体应用。这些模型支持自然语言交互和复杂任务编排，旨在加速企业级AI解决方案的落地。微软强调其平台在安全与可控性方面的增强。"
+    },
+    {
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T12:00:00Z",
-      "summary": "火箭发动机初创公司Impulse Space宣布获得5亿美元融资，资金将主要用于招聘人类工程师而非投资AI自动化。公司总裁Eric Romo表示，在工程物理系统领域，人类人才的创造力、经验和判断力仍然不可替代，特别是在火箭发动机等复杂系统设计中。此举与当前许多企业纷纷押注AI的趋势形成鲜明对比，凸显了高端制造业中人的核心价值。Impulse计划利用这笔资金扩大团队，加速下一代火箭发动机研发。"
+      "publishedAt": "2026-06-02T18:16:53Z",
+      "summary": "著名导演马丁·斯科塞斯成为好莱坞最意想不到的AI支持者，但仅限于将AI用于电影故事板制作。他承认AI在快速可视化创意场景方面的效率，但坚持认为其无法替代人类导演的艺术直觉。这一表态引发了对AI在创意产业中谨慎应用的讨论。"
+    },
+    {
+      "title": "Robinhood launches agentic artificial intelligence (AI) for stock trading. Here's why it might not move the stock. - MSN",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTUx6TzlNMUxkQ2diczE0QXlrS0dEM25RaUZQbExQZ2VsbWNlbEliNTJRRXppVzJXOVVGR2x3M1I2SUx4V1RZeUdTMmd5X213YWd0N2phZl9tX2RQNktLUVRvZlRLQ1FMaGRrX3RvbVc1dVAtTEZtSUlUUWgzbzFDcGdLYlBnOU9fWHJvZ0E4S1JGNWFfRGUzZXIxSWU2WVUwTlJLUy1LUFNoR2RkRU9JWXdxVzItOXhiMHFKS3VnTDhwX1EzWUxtdGV2V0wyb29qYm96N1BMUHE1eU9MWFlISTlZQk51NzNvdG1FdV9kWUN2dFlmaW02TlRDRUtpWWFjS2RDeE82YWdWVmRub091N2dMNDA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-02T18:14:00Z",
+      "summary": "Robinhood推出用于股票交易的智能体AI，可基于市场数据自动执行策略。然而市场分析认为，该功能可能不会显著提振股价，因为投资者更关注盈利能力而非工具创新。智能体AI的实用性和用户接受度仍有待检验，短期内对Robinhood业务影响有限。"
     }
   ]
 }
