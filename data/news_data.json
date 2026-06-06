@@ -1,48 +1,62 @@
 {
-  "updatedAt": "2026-06-06 15:59:12 UTC",
-  "totalArticles": 6,
+  "updatedAt": "2026-06-06 21:43:53 UTC",
+  "totalArticles": 8,
   "articles": [
     {
-      "title": "AI Will Consume as Much Water as a Billion People By 2030, UN Report Estimates - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVWUwdXM4SE9MbGJMMGF4NFRzOHotT0MwT2t3THNfZzVVb2tEQmdJTWJMdlBBT1VIdE1XQUtHa21RMGJYLU91VFZ5LWMzWVpKbkFFTHpkbGFWQjh3ZHd2Ujk2Q2FveEx1VFVPSDV4T0MtZ3ZnYnZkZXF5TFFpY2ZqNkdB?oc=5",
+      "title": "Top Trump artificial intelligence adviser to leave the White House - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY19XYkFYVmEtbHhNbFdhUFlCQTdnMWc3NDdKUW8yaFMtc2Q3dkYwaUxkVXVodWJGZWJ1clNFS3YxZE43NHJmMkZoQlQ1Z1RSZnFKSWdmRXV6N2owSWpKc3A2ZnByTi1PUXp3NjhEMFRIRG1BSTdkTTR0Xy1aQXFnOFpzUzBhdzROSjFpTW10M29oalVNc0ww?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-06T15:30:00Z",
-      "summary": "联合国最新报告预计，到2030年人工智能技术的用水量将达到相当于10亿人口的规模。随着AI数据中心的快速扩张，其冷却和运行所需的淡水资源消耗急剧上升，对全球水资源构成严峻挑战。报告指出，若不采取高效节水措施和水资源管理方案，AI发展可能加剧部分地区的水资源短缺危机，引发环境与社会的双重压力。专家呼吁科技公司在追求算力提升的同时，优先考虑水资源的可持续利用。"
+      "publishedAt": "2026-06-06T21:00:27Z",
+      "summary": "据《华盛顿邮报》报道，特朗普政府的一名高级人工智能顾问即将离开白宫。该顾问在制定和实施AI相关政策方面发挥了重要作用，其离职可能对特朗普政府的AI战略产生影响。目前尚不清楚其离职的具体原因及后续职位安排，但此变动被视为白宫AI政策团队的一次重要调整。"
     },
     {
-      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUc4RUtEb3pUdi10NDNhZDhPUy1zeGtaam8xcWZvZUdGT3VaYWtGTnk3dVBOd3JjUEc4bjhleF9XSUdiV3FVcXR0VjJWYWo1U09xR09mX0M1N0V0Nkl5T1BtTzlFbUFjTV9POFpGNU1zSHNjdzRhUDN6aXZlNWtoY05MMDVSU2RMME14VTV6UjE2RE9VSXduUTVmOEpGLVZaa0Z6WVJpR0I4N29oeGk4?oc=5",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-06T20:32:24Z",
+      "summary": "OpenAI推出了名为“Lockdown Mode”的新安全功能，旨在保护敏感数据免受提示注入攻击。该模式通过限制模型对特定指令的响应方式来降低数据泄露风险。但OpenAI承认，即使开启此模式，ChatGPT仍可能面临提示注入漏洞，其核心目标是最大程度减少敏感信息在交互过程中被分享的可能性。"
+    },
+    {
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-06T18:13:36Z",
+      "summary": "苹果将在2026年WWDC大会上展示多项重大更新，其中Siri的全面改版备受期待，同时还将推出Apple Intelligence功能升级。这些更新旨在提升Siri的智能化水平和用户体验，并进一步整合AI能力到苹果生态系统中，预计将引发业界广泛关注。"
+    },
+    {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-06T17:42:15Z",
+      "summary": "白宫AI顾问Sriram Krishnan宣布离职。据报道，Krishnan计划创办一个新的机构，以继续影响特朗普政府的AI政策走向。他在任期间参与了多项AI政策制定，离职后将通过新平台推动AI相关倡议，保持对政策方向的持续影响力。"
+    },
+    {
+      "title": "Grindr CEO: AI is Key to Our Future - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQTJyRC1LQTFQdUIwVkVvQ0VQOTE0MHdWbExROWx6dlRGSWFWdE5JVFVHdFZLZ3FZSVV0bGpLeE5INl9RUmN0VUZiNEpjeFI0VXhUcy0tWVc2aDBzOGVMaHJtVWh4MmNMYzJTMGlZa0FGSnM2UDFoTFE2LXVTME9KU3VyYjBoQ0ZyTWFqY3JvSDJiVkNONzl5cjNneng4dw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-06T15:05:00Z",
-      "summary": "美国印第安纳州谢尔比维尔市市长在公开场合发表争议言论，称只有住在‘破房子’里的人才反对在当地建设大型数据中心。该市计划引入数据中心项目以促进经济发展，但部分居民担忧数据中心对电网、水资源和社区环境造成负面影响。市长的言论引发舆论批评，认为其轻视正当的社区关切，缺乏对民众意见的尊重。事件折射出数据中心建设与地方利益之间的典型矛盾。"
+      "publishedAt": "2026-06-06T17:02:59Z",
+      "summary": "Grindr首席执行官表示，人工智能是公司未来发展的关键。他认为AI技术将深刻改变社交平台的用户体验和运营模式，Grindr正积极将AI融入产品和服务中，以提升个性化推荐、内容审核及用户互动效率，从而在竞争激烈的社交市场中保持领先地位。"
+    },
+    {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-06T16:17:21Z",
+      "summary": "有报道称，特朗普政府可能考虑收购OpenAI的股权。特朗普总统表示，他正在讨论相关交易，目的是确保美国民众能从人工智能的成功中获益。如果成行，此举将使美国政府直接参与AI企业的利益分配，并可能影响未来AI产业的监管方向。"
+    },
+    {
+      "title": "OpenAI and the White House have competing visions for regulating artificial intelligence - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3otTjBXbGlsQXJBNkQ4ejBLVllkakR3S2NPcExBWmwyUk9iNjBrQVFncXFWd3Q0bnB4SEVqZGJ3Z0R5a0lYUDNvQ05DdGRiWGhMVHhZc3lYTXNMNVl2S0FoRDY2eXBSMGVSQmx5UnJtMlRIZ2ktNVAwV0NNZG5BRg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-06T16:00:58Z",
+      "summary": "据Mashable报道，OpenAI与白宫在人工智能监管问题上持有不同愿景。OpenAI倾向于更加灵活、鼓励创新的监管框架，而白宫则更强调安全、公平和风险控制。双方的分歧反映了当前AI治理领域的核心争议，可能影响未来美国AI相关立法和政策走向。"
     },
     {
       "title": "4 surprising ways AI is making your life more expensive - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZEhpSXYyNFZOSVNqNzZ6WDlpY0FBdmJ5bzU4dC1QalRJMldsOVJoOW5SQU9XRzlSc19icG1wSjY1Q01TY1d3S0NnQWVteUdILTZBQ1VqOEJvLXc0WEZUNldwNEJVNEtTODAxRmpOekY1bVhXSVFxcXRTd3hpVEdoYzhIV3FoX0hHNHdLTm5YZy05SkFkSVpWTDVHaVlIZEZYZXd5Ym9YSkZSajFITHFRNTZDYzM3Z3drdmJfNWZGa1loS2s?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-06T15:02:34Z",
-      "summary": "《华盛顿邮报》列举了人工智能推高生活成本的四种出人意料的方式：一是数据中心电力需求激增导致居民电费上涨；二是AI培训所需的芯片供应链紧张推高电子产品价格；三是企业利用AI算法进行动态定价，使日常商品和服务价格更易上涨；四是AI驱动的自动化导致部分行业用工减少，压低工资水平。文章指出，这些隐性成本正逐步渗透到消费者的日常生活中。"
-    },
-    {
-      "title": "Which Is the Better Artificial Intelligence (AI) ETF, Roundhill's CHAT or State Street's XLK? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjhPNnhIbXI4SUJUTnhtNzBJdVh2RUExSVYxWkxsZGlSa2FNLVZQNkJueElHMVc3TFZ4Z3JIc3ExZlg1RHFUbGlndkxJbEdRMDJaQ3Q1SHoybWtTcVhWeVNZWTFxV2lDUU41LUhYTm5BbWIzcnlLLWdGZE5RZlFyYVVTQXlIVk5DY05JX3EwcndqYl9SbDZ0SnptdTFyNTVXQ2J3TGNVUl9YaG1ZNVU2OW5vVzZsaGFlU2llN3E4cXVBSG9wN1M1V0tYQ3NoVTlTemc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-06T14:42:55Z",
-      "summary": "针对投资者关注的AI主题ETF，Roundhill的CHAT与State Street的XLK各有侧重。CHAT专注于纯AI概念股，涵盖芯片、软件和云服务商，投资更集中、波动性较高；XLK则作为科技行业宽基ETF，包含大量传统科技巨头，虽AI敞口混合但风险分散。分析认为，追求高增长投资者可选CHAT，而偏好稳定与综合科技配置的适合XLK。两者无绝对优劣，取决于个人风险偏好与投资目标。"
-    },
-    {
-      "title": "Prediction: This Artificial Intelligence Semiconductor Stock Will Outperform Nvidia Over the Next 5 Years - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVhnZ29MaXpjdVV6QUZXQzRqdnBOZ2pTeVkwemxwT05YWTZVcTVrd3c3aUduZHhYOXhmWFlmYjNHbjRYTjFud09qSEV0Qm50cEZGR3NfTE1CTi1KNFJ0TGZZLVNUN29MTWloRmI0NDZ4VV9yVVd1dXVKcERmdVkxaEtXaGU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-06T11:02:00Z",
-      "summary": "有分析师大胆预测，一家尚未指明具体名称的AI半导体公司将在未来五年内超越英伟达的市场表现。英伟达当前在AI训练芯片领域占据主导地位，但竞争对手如AMD、英特尔以及新兴芯片初创企业正加速追赶。分析指出，下一代AI推理需求、专用芯片架构创新以及客户分散化趋势可能为其他厂商带来超车机会。投资者需密切关注这家潜在黑马的研发进展与市场订单。"
-    },
-    {
-      "title": "CrewAI: Taming AI Agent Costs - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSV9nM0dQek5yYWhfdzlOMTc5Y09pT1VHZkZiYjBQek5LQlNfeTBSQUVvT2xXYkdibUxEOGphVmdkeHFqVm5nNzBNTDM1eVFEYWdpejlmNDNaOUlmZ2U0QWtZeTg3Qm85eS1CczlvNmFQUVI3cjR1X2I4Z3RJeUU2R2hFZnZuRXlFTlhGWnU0QXJnbm1pTXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-06T10:37:30Z",
-      "summary": "StartupHub.ai报道了CrewAI平台如何帮助企业降低AI代理的运营成本。CrewAI提供一套智能编排工具，通过优化多代理协作流程、减少不必要的API调用和计算资源浪费，可将AI代理的整体费用降低30%以上。其核心技术包括动态任务分配、缓存复用和模型路由，尤其适合需要频繁调用大语言模型的商业场景。该方案有望让更多中小企业以可控成本部署AI代理，推动应用落地。"
+      "publishedAt": "2026-06-06T16:00:00Z",
+      "summary": "《华盛顿邮报》指出，人工智能正以四种出人意料的方式推高生活成本。例如，动态定价算法导致商品和服务价格波动更大；AI驱动的个性化推荐促使消费者购买更贵产品；自动化在某些领域减少就业机会，压低工资；以及企业将AI研发成本转嫁给消费者。这些因素共同加剧了通胀压力。"
     }
   ]
 }
