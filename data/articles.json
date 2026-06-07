@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "845",
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-07T20:26:13Z",
+      "summary": "大型人工智能公司计划首次公开募股（IPO），预计将引发新一轮价格上涨。业内人士认为，这可能预示着“Tokenpocalypse”（代币末日）的来临。随着AI企业估值飙升和市场资本涌入，投资者需警惕潜在泡沫风险。这一趋势不仅影响AI领域的融资生态，也可能重塑整个科技行业的资本格局。",
+      "fetchDate": "2026-06-07"
+    },
+    {
+      "id": "846",
+      "title": "MY TWO CENTS: AI, write a parody of artificial intelligence ruling the world - Aldergrove Star",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQllyTURIcEdGNU9SWXNPdHF6ZUNXTXJSWEJBMUNvR3o4UGhTQmE3bW5mTEJIWUpvYU1pdGV4azBIUHIxV0h6a3Q3Wm4yQkpjMUNPaGstQnI3YVJ0S21OeUp6NGZXSHB1bnRiMVhvQ0ZhT0Q4WXowNkRMdzg1Z0UzUC0zT1FWbGcxSkxBSzNhajFBTkY3UGtObzlycEQwV25uNEdPeXcwcEVBeEpfWmI0XzVjRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-07T18:49:45Z",
+      "summary": "《Aldergrove Star》发表专栏文章，要求人工智能创作一篇关于“AI统治世界”的讽刺模仿作品。该举动反映出公众对AI日益强大的复杂心态：既担忧技术失控，又试图通过幽默化解焦虑。文章通过AI自我戏仿的独特形式，探讨了机器智能与人类创造力之间的微妙关系。",
+      "fetchDate": "2026-06-07"
+    },
+    {
+      "id": "847",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-07T17:56:22Z",
+      "summary": "Notion在经历服务中断后，已恢复对人工智能公司Anthropic的访问权限。Notion产品负责人对此次事件在社交平台上的广泛传播感到惊讶。此次中断影响了部分使用Anthropic AI功能的用户，凸显出第三方AI服务在集成平台中的稳定性重要性。",
+      "fetchDate": "2026-06-07"
+    },
+    {
       "id": "837",
       "title": "A New Ad Campaign Tries to Make A.I. a Little Less Scary - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWkwX1plLS1fY0JPZFc0eThwRDFVWDdKRkF0aWowOFhhQ3k0TVBKOXNiM2lMWnUtX3hjWk5TRzB1NUU0QUJDZWVTVnAwOVFDYU9ZRWh5UEtPdzRCdFVJb2xzb0piOGFDWnJvaFFDeFZtSHNnOGVpSXdiT1VLSVdhUHJWUmoxZTFQR3pVVDkwSUZDYjZpTlBxajJTal9GREU?oc=5",
@@ -7588,5 +7615,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 843
+  "total": 846
 }
