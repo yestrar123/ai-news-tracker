@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "837",
+      "title": "A New Ad Campaign Tries to Make A.I. a Little Less Scary - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWkwX1plLS1fY0JPZFc0eThwRDFVWDdKRkF0aWowOFhhQ3k0TVBKOXNiM2lMWnUtX3hjWk5TRzB1NUU0QUJDZWVTVnAwOVFDYU9ZRWh5UEtPdzRCdFVJb2xzb0piOGFDWnJvaFFDeFZtSHNnOGVpSXdiT1VLSVdhUHJWUmoxZTFQR3pVVDkwSUZDYjZpTlBxajJTal9GREU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-07T16:28:00Z",
+      "summary": "《纽约时报》报道了一项新广告宣传活动，旨在缓和公众对人工智能的恐惧。该活动通过正面形象和日常应用场景展示AI的实用价值，强调其作为辅助工具而非威胁的角色。广告重点突出AI在医疗、教育等领域的积极影响，试图打破科幻作品中常见的反乌托邦叙事，以更亲民的方式建立公众信任。",
+      "fetchDate": "2026-06-07"
+    },
+    {
+      "id": "838",
+      "title": "OpenAI is still working on that ‘super app’",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-07T16:23:22Z",
+      "summary": "OpenAI高级员工声称“聊天已死”，暗示公司正全力打造一款整合多种功能的“超级应用”。该应用可能超越传统对话界面，融合搜索、办公、创作等能力，成为用户日常交互的核心入口。这一战略延续了OpenAI从单一聊天机器人向平台化生态转型的野心，尽管具体形态尚未公开，但已引发行业对AI应用形态重塑的广泛讨论。",
+      "fetchDate": "2026-06-07"
+    },
+    {
+      "id": "839",
+      "title": "AI Rebuilds the CHRO Stack - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSldxRjFINktxcHJEU1VMSDVaSnpDOHVBRmNaTFBNWTNPWFBsWUs0MG5kbHZkYTFzSFYtQnNhaFJITVROQnlSZVVOcFRRMFlRRXJDZWlYQl95OFNTcWVuTENWUGR0U29CX0JmVWRlNVhheGdmenlwQ1NIOVRBM2N3TzhUOUxRRG8taGI3ZTcwUDFDRHM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-07T14:17:40Z",
+      "summary": "AI正从招聘、绩效管理到员工体验等环节彻底重构首席人力资源官（CHRO）的技术栈。通过自动化筛选简历、预测离职风险、个性化培训推荐，AI将HR从行政事务中解放，转向战略决策。初创公司利用自然语言处理和机器学习模型优化人才管理流程，使企业能更快匹配岗位与候选人，同时提升员工满意度与留存率。",
+      "fetchDate": "2026-06-07"
+    },
+    {
+      "id": "840",
+      "title": "Opinion | Human intelligence will win out over artificial intelligence - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREJsN2RmaFVCN1VFNU14WVpnTnhHOGE5WUp1aWNJdU5aQzZXREh2NHczM285cGNZVnlOSXlFRHNsX2otMWFtaDBDQ1FFVmZIbUZQT1VHQkNIYWhvM2RhUllncVBienFUeklWcU9vbGZzZnc3VEdKQl9tXzhVSXhsc2hvUVBrOU1rQ0cwWXFJU0d0ZEltT3lkVkVjZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-07T14:17:04Z",
+      "summary": "《华盛顿邮报》评论文章指出，人类智能终将战胜人工智能。作者认为AI虽在模式识别和计算上超越人类，但缺乏真正的意识、情感和创造力。人类独有的直觉、道德判断和适应未知情境的能力无法被算法复制。文章呼吁平衡AI发展，确保技术服务于而非取代人类智慧，强调人文价值在决策中的不可替代性。",
+      "fetchDate": "2026-06-07"
+    },
+    {
+      "id": "841",
+      "title": "How artificial intelligence got better at building itself - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWw2RV82VHJEUTRrR0RCSDNJUTVTX2puRzhwUnNXblhkT19qMm92bHhEQWFtX1VOQktuZXdoaUczYVVpeG1UdEI3RjY2OG5IcUxKcV9UdTFxblVQYThtNXJzTUwyUHJ0R2lRakpOakQwX013anJEUlZDdmRSRzQycDVsUlltbjBtRm55ajRpRWhYc1BjUjZqcTByOHhDWVFLNl9pVS0wUjlYMkpuX052NkV4Ml9DQ1pm?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-07T14:15:40Z",
+      "summary": "《经济学人》探讨了AI自我构建能力的提升。通过神经架构搜索（NAS）和自动化机器学习（AutoML），AI系统能自主设计优化自身模型，减少人工干预。例如，强化学习驱动的算法可寻找更高效的网络结构，在图像识别和自然语言处理任务中超越人类设计。这一趋势加速了AI迭代，但也引发了对失控风险和可解释性的关切。",
+      "fetchDate": "2026-06-07"
+    },
+    {
+      "id": "842",
+      "title": "Naver, Nvidia to deepen AI factory alliance in sovereign AI push - KED Global",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UY0JMRXI4T0ZaVGFoVVp6aE5SRmhodjVOVE16N3lNcGVzN3hDenowRzE0VTdmUFFFSlBmanZzc2JfSzhkOGc1aXRMQ2tNTmp2dHRCNFNoWVFJWE9fTzB0UTlLbkVKTHI3UVlVclF2Ti04T0Q5Z1RCU0JDZnUwOG8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-07T13:19:00Z",
+      "summary": "韩国Naver公司与英伟达深化“AI工厂”联盟，共同推进主权AI战略。双方将合作建设基于GPU的高性能计算基础设施，支持Naver的Hyperscale AI模型训练。此举旨在减少对外国云服务依赖，强化韩国在AI领域的自主能力。合作涵盖优化AI芯片、构建超大规模数据中心，并推动本地化AI生态发展。",
+      "fetchDate": "2026-06-07"
+    },
+    {
+      "id": "843",
+      "title": "iPod/iPhone Father on AI, Taste, and Creativity - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQl9JdGlUYkVySEJBUGhmT3ZNTGlrWVFLZWZzeGtoSERKUVNaX2NVMFdsd0NLb3E5M2lmdDlQNVVNZDk5UVdVVGpfREw4UDJOaUJfUXhScDFPTmJtTWFiUDhRNHVpWGcxNEV3azFDZDJ1N2Q5cEdUczVPN2c4ZTREQnpkLUlocXRGWEt2bkg2R1pWU1JKZ095cWJaX2ozQUViSEJlR3Y5d25kai1D?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-07T13:03:11Z",
+      "summary": "iPod和iPhone设计之父托尼·法德尔（Tony Fadell）分享了对AI、品味与创造力的看法。他认为AI应作为创意工具而非替代者，真正的创新仍需人类对美学的敏感和对用户需求的理解。法德尔强调，品味源于经验与直觉，AI能加速重复劳动，但无法取代人对“好”与“坏”的直觉判断，创造力才是未来的核心竞争力。",
+      "fetchDate": "2026-06-07"
+    },
+    {
+      "id": "844",
+      "title": "Billions spent and hypothetical returns: the AI boom explained with six charts - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2xHTDYxZVZuTExBeGRfM3psWmk5Z3hGVXlsa3lubU5fLWRYbmdnSnRxWW9Wd3Q1WFM2Z3NXOVpBSk5mT0QyLUlLZnFFMWphMmlaOVZQejFHX3VIbUZ2RGM2bENZN3AtU3I0Wk9rTDNpalcwRHJOU0pBLURaQlpPMXhHQUtQUnJNNEl5SFZUcElJaVR2aTF0ZWFCM1phWWxGQzhrZkVGMTFocHVKSFliT2d0aDA1Nm9RcEdIcVBuWWxoUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-07T11:00:00Z",
+      "summary": "《卫报》通过六张图表解析AI投资热潮：各大科技公司投入数百亿美元用于研发和基础设施建设，但实际商业回报仍高度不确定。图表显示AI初创企业估值飙升，但盈利模式尚未成熟；算力成本激增与能源消耗成为隐忧。文章指出，当前AI市场类似早期互联网泡沫，长期赢家可能屈指可数，过热投资面临回调风险。",
+      "fetchDate": "2026-06-07"
+    },
+    {
       "id": "833",
       "title": "5 solid artificial intelligence (AI) stocks that also pay dividends - MSN",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ0NtRmtSb0NQd2tSVGpUYTRldVZoVjZLa1U2S1Zqelk5V09aOElabnFJUmVORFFDN1g1MDQzOGcwc2MxZmNQekJkU2lxQ19NTm9hNTJUM0RNWEZsb2JTNEppZnh0OEhQMWVDLWNRTnlSRGJ4eC1LVzJCNnp3TlRkblVSTFFFZ2UxWTRHdnVNMERJWFBZYmRCbkR5OGg5VWZTS0NTTVFCRklCaVlwNWhkTnQ1TDNXalpLS29zRzVMd1doRk5Xbk9DVl9PMkcwVTNPenJlTzdpcnRqNEhPVnc?oc=5",
@@ -7516,5 +7588,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 835
+  "total": 843
 }
