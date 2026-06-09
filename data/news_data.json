@@ -1,97 +1,146 @@
 {
-  "updatedAt": "2026-06-09 12:26:19 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-06-09 19:35:12 UTC",
+  "totalArticles": 20,
   "articles": [
     {
-      "title": "New AI coach 'Ask Oscar' trains hospital staff on feeding tubes - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORV9BNzBIZ1dnUm9oc2JzeWpUQ1EydDBkejR3cDNzYWM4cWEwSFhUXzltdEthdFZtRWdXMlV5bVQydlNLdUg4cVdpaUpiRHlibGVzU1lJMG4xVGdzMG9uTmdZS0c1UXg5MnMxQnVXUzFMVW9vV3lZUjJiUm8wN255RGpNYS15OGE2dnQ3R1k1SnQxWE1raXFqZXFLZkIyQnhBcGhTZFpleFNtUzZTcFVhTWwwVGRxamFrRkMwckdMaTM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-09T12:17:00Z",
-      "summary": "一款名为‘Ask Oscar’的新型AI教练系统被用于培训医院工作人员正确使用鼻饲管。该系统旨在通过模拟对话和即时反馈，帮助医护人员掌握插管、喂养操作及并发症处理等关键技能，在降低操作失误风险的同时提升培训效率。此举显示了AI技术在医疗培训细分场景中的应用价值，有助于改善患者护理质量。"
-    },
-    {
-      "title": "How an e-scooter founder raised $5 million to build space data centers",
-      "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-09T12:00:00Z",
-      "summary": "曾创立电动滑板车公司Spin的创业者Euwyn Poon，为其新项目Orbital成功筹集500万美元，计划在太空部署大规模数据中心。Orbital的目标是发射多达10,000个太空数据中心，利用太空的低温环境和太阳能实现高效运算，并缓解地球数据中心能耗问题。这一大胆创新融合了航天与算力需求，或为未来AI计算基础设施提供新方向。"
+      "publishedAt": "2026-06-09T18:56:09Z",
+      "summary": "探讨科技公司是否应接受更便宜的AI模型。文章指出，如果更便宜的模型能在不影响质量的前提下处理与昂贵模型相同的AI工作负载，将带来AI经济学的重大转变。这意味着企业可大幅降低AI部署成本，推动更广泛的行业应用。但业界需评估模型性能与成本之间的平衡，以决定是否转向性价比更高的方案。"
     },
     {
-      "title": "Canada’s National Artificial Intelligence Strategy: AI for All - ised-isde.canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNFlUSWFWQ1d1aDJUODg0YjlBZDFtZXA4U3V1TkZqNkVhOE5ZcW8zbV9qNDRpalk2LUxCNFpsclVObXZuNzc2Y3I1VzZ4WEFZVmpLV0xtLVpIVVkxeU1lWFhSS2VyZnZIQkVTVmNZdmFnX0FTamhoalBOY2t1TWF0V01Kd0xOUUx1bFprN1BBVnhvR0ZrcXZjVkdod2NEUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-09T10:14:20Z",
-      "summary": "加拿大政府正式发布‘全民AI’国家人工智能战略，旨在推动AI技术在各行业的普惠应用。该战略聚焦于提升公民数字素养、促进中小企业AI转型、加强伦理监管以及保障社会公平，确保AI发展成果惠及所有群体。此举标志着加拿大在AI治理与普及方面迈出关键一步，也为其他国家提供了政策参考。"
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09T18:04:24Z",
+      "summary": "苹果在WWDC 2026上发布了多项AI相关更新，重点改进了Siri助手体验，并推出iOS 27和Apple Intelligence平台。Siri融入更强AI能力，增强了自然语言理解和任务执行效率。其他公告包括系统级智能功能、开发者工具等，整体展示苹果致力于通过AI提升用户交互和生态整合。"
     },
     {
-      "title": "China prepares US$295 billion plan to fund nationwide AI buildout, Bloomberg News reports - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcnJBekF3TUNnSVV5VC1TcFJjTVBGdWNPdmgweTR1Q0FNVzdLMVI1RzJwd0NUYW1zbldzZm9ZbWdUbk1TVU04LXRKUWx6NG44Wi1vb2FPam10eGhMVVIzcFJzYVBkRGw0LW1jTWVyeDBVZGNuUlFHZGgxNS1QaXlLekN6UnAxX3J5cVk2eXA4ekhlekROR0MwUnpZYUs5TVZKYlhyTmg5NGI4dXhnTVowSUJMdFNSU2t5aEhKY1ZiX0l0Nl9RRjZndjdLeVZYVi1raTJndmpoWEFMRm81?oc=5",
+      "title": "Claude Mythos: Anthropic releases version of AI tool despite risk concerns - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fZ3FHQlREamtDU3UwYzRrTnVzalBKVGxNUU1XT09xSjVlV2NnekE2V0JpbHRVNTA1WXJUdXJGUUZFTllLbnNGcDIxWFJTX0t3c18zUlRHZUFMQ29s?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-09T09:30:18Z",
-      "summary": "据彭博社报道，中国计划投入高达2950亿美元（约合2.1万亿元人民币）的国家级资金，用于大规模建设人工智能基础设施。该计划涵盖算力中心、数据平台及AI芯片等关键领域，旨在加速AI技术与实体经济的融合，支撑产业升级。这一庞大投资方案凸显了中国在全球AI竞争中的战略决心与资源优势。"
+      "publishedAt": "2026-06-09T17:54:35Z",
+      "summary": "尽管存在安全风险担忧，Anthropic仍发布了其AI工具Claude Mythos版本。该模型具备强大能力，但引发关于潜在滥用和伦理问题的讨论。BBC报道关注Anthropic在风险管控与技术创新之间的平衡，以及此次发布对AI行业监管的启示。"
     },
     {
-      "title": "Connecticut colleges race to add AI programs as students rethink careers - CT Insider",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUm1UNUhhU3ZfQVpGTE8wUFdRYW1nS3lpblRYckM3eFJvVTV2US16Z1lHQXFSMW1kWUpxaUVWcE5ObGw3TFd3Ymp0OGIxcmxWSWpHOHNUTnJWU2pRS3VhYUZPVkhzQ3FodnRiMmpFc3pKNGlzX01VRXJmOWpBbWNKWWJ6Vmg4Zl9FekgwX2IwVGM4SjBreUpjWTJGdWRZSFNObUY3OHgtQWdBVHVjOW9lcXl3?oc=5",
+      "title": "Judge rules both sides in lawsuit misused AI, disqualifies lawyers - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHl4ZXhjM29Zb3gwaDNhb0lFcEdsb1dqV182bEpwX2lWbUdCSWc2VmZOZy16bkd6VjRBeFQ0bDF4eUQwZ1dkTDZxTW1WbXJCLWRORXV5c0JlNDE1UGlqWWxIeWc4WGU1RFhTU2VkS0hpa0d3OXZ1bGdQMXp0NHVPMWdMZDhEdFRVblZ6aVJ6anZWdFBnNG9pNzBRQ0NuNE1iX3JRaElsYTNNZmVvMkVsUjNQSXRXZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-09T09:04:46Z",
-      "summary": "面对AI技术对就业市场的重塑，美国康涅狄格州多所高校正紧急增设人工智能相关学位课程及职业培训项目。学生们也纷纷调整专业选择，转向机器学习、数据科学等方向以增强竞争力。教育机构与产业界合作搭建实训平台，帮助学生掌握AI实际应用能力，以应对未来职场变革。"
+      "publishedAt": "2026-06-09T17:41:43Z",
+      "summary": "一名法官裁定，在一起诉讼中双方律师因滥用AI工具而受到处罚，被取消代理资格。路透社报道指，AI使用不当（如生成虚假法律引用或证据）导致司法程序受损。该案例凸显法律界需明确AI使用规范，防止类似违规行为。"
     },
     {
-      "title": "[Photo] Nonghyup 銀 Declares Artificial Intelligence (AI) Transition - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50U24zQXdVb0RlMlRDUXAxQi1mWExvNGxOdklOTXRqTDZlT0x3bXNYenRaS1dtQnU0Tm9KcFFucEQ3MnA0RGlHRzBpQlJLUXdnWkE?oc=5",
+      "title": "Nokia Unveils Deepfield Genome Shield To Strengthen DDoS Defense In The AI Era - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnYxUzZmZWI2V25lUDJ0VUstODI5OVl1cG9qd3hwU2dKYU1LTThLY1QtMTZPSnBmckE0b2dFOWZlYmJ6YW03R3RKQ0twVWx2T05pcG9qR2JsWVAxZEJrMGJfVXlKTDJNTl9NUlhENGJzRnlWT1EyMnctc3RvRWJCbUF2V3FfbFFHVVRZcFFvbTUwVnZZNzVGckM2OFFJcGwxb09meWFxMFBmMjlxRVRvNVR1Z2l1OVBKZHc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-09T08:51:45Z",
-      "summary": "韩国Nonghyup银行正式宣布全面向人工智能转型，计划将AI技术深度融入日常运营、客户服务及风险管理等核心环节。该行将借助智能客服、自动化审批和AI风控模型提升效率与安全性，并打造‘AI原生银行’新模式。此举反映了传统金融机构加速拥抱AI的行业趋势。"
+      "publishedAt": "2026-06-09T17:40:41Z",
+      "summary": "诺基亚推出Deepfield Genome Shield，旨在利用AI技术增强对分布式拒绝服务（DDoS）攻击的防御能力。该解决方案通过深度分析和机器学习，实时识别并缓解大规模网络威胁，适应AI时代日益复杂的攻击模式，提升网络安全韧性。"
     },
     {
-      "title": "Let's use data and artificial intelligence (AI) to lower the barriers to Korean food so that anyone.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1acm8wZ3lJN0ZYSDJneHo1OURUM3ByWjJ1Nk1YSUVaUXVFY0dvc29LZEV3M1JScXoxRnNBLTk1dnBLLWs0WlVJcFdqdjNmckJabEE?oc=5",
+      "title": "AI Helping Modernize Trade Across Asia And The Pacific, Though Adoption Gaps Remain - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdlSVpUWTRUTUNUclFSXzZpT0Z4amRtRXdPWnBoRFJqYXJGWE5IdWZYRG1WSVNWcS1Fc2Y0N1lWcXpaM2ppV25tUElNQmh2Z3dtYkZUWVdkNGJBOHdTZE4zNlpQQ3pJU2tzWlVoSEdOeTFnVnhkc2RfcHhiWUNSeXJKckVLZjZLZ0VsUEVtR1N0SVJPQ0w1YUZRVTZSclRVQ2U0RTFaNDhSd2NnU2VQUlJqNGpkOXlnb1hES0t0RQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-09T08:39:52Z",
-      "summary": "相关机构提出利用大数据与人工智能技术降低韩国料理的烹饪门槛，让更多人能够轻松制作正宗韩餐。通过AI食谱生成、智能厨具联动及风味分析系统，帮助用户简化烹饪流程。该方案旨在推广韩国饮食文化，同时展现AI在餐饮领域的具体应用潜力。"
+      "publishedAt": "2026-06-09T17:34:35Z",
+      "summary": "AI技术正助力亚太地区贸易现代化，涵盖海关流程自动化、供应链优化和贸易金融智能化等领域。但报道指出，不同国家和地区之间的AI采用差距依然存在，部分经济体面临基础设施、人才和政策挑战，需缩小鸿沟以充分释放AI红利。"
+    },
+    {
+      "title": "AI is boosting accuracy for clinicians, Philips North America CEO says - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHZiVDd0c0Nsb0w2bjVFS3dIeFJHQWZMYWZrUDhxWW85Y3NkdDRoeVhsRnlDT2JQTzhqblBjTEdxT1gxeUZxTWlwZ3FvSElEWHp0Q1lkb0x0cXpROS1leFBrbXMyaDhRU3FvbnRudF9ndjVnNkgwRml4SF9Wa295M2IxRGE1Q00?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-09T17:07:47Z",
+      "summary": "飞利浦北美CEO表示，AI正在提升临床医生的诊断和治疗准确性。通过分析大量医疗数据，AI辅助工具帮助医生减少误诊、优化决策。他强调AI在医疗领域的应用前景，但亦需确保技术可靠性和与临床流程的无缝整合。"
+    },
+    {
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09T17:00:00Z",
+      "summary": "Anthropic发布Claude Fable 5，这是首个面向公众的Mythos级模型。模型内置安全护栏，主动屏蔽涉及网络安全、生物学等高风险领域的响应，以防止潜在滥用。该发布标志着Anthropic在能力与安全之间寻求平衡，推动负责任的AI部署。"
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Go Parabolic in June (Hint: It's Not Nvidia) - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmdOcUhidEJIQ19vUTNfbmtpTEluTEl0T0JmV1lCcmVGckh2ek9JWDJBZU1CZFVZS3ZqRDVYdU4wMjR5QU9YMXBfWXByNHloNjducnRKQ0RSSk1nZWh4a0tBRmtmMUFaTzZGa0VhQzFYOHFhSEo4RHNRcTFwNFpkT05oR1lWZzFMejVHbVN2UHA0bDI1MTBPaFA5UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-09T16:56:59Z",
+      "summary": "有预测称，某家人工智能半导体公司的股票将在6月出现抛物线式上涨，且明确提示该股票并非英伟达。市场分析重点关注非英伟达的AI芯片厂商，认为其可能因独特技术或市场需求爆发而获得超额收益。投资者需关注相关企业的技术进展和订单动态。"
+    },
+    {
+      "title": "Maryland Moves To Make AI Literacy A Requirement For Public School Students - Black Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYXB6eUVmUnBJbTV1aWVuN3F2VklRSEcwb3lFZXNTbDM5NV9BNVBQTWZETHJTaXZJcXlqSVd2MXVFelNESE40WmhyWEJ6WU1OTEpYZXZ5NC10ZnZmdjF5VlRsY1Rld2o2Xy1Na2dzckd2bERyTzE3ODdDWVBRR1FWcWRB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-09T16:48:58Z",
+      "summary": "马里兰州推动将AI素养纳入公立学校学生的必修课程，旨在培养学生理解、使用和评估AI技术的基本能力。该举措反映教育界对AI普及的重视，帮助学生为未来社会做好准备。法案通过后，课程设置和教师培训将陆续展开。"
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Go Parabolic in June (Hint: It's Not Nvidia) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmdqWnp1aFRfNzgtYUFIczhYaHVOZUVzVEdZOEF6QzhZNFQyeW9fR0psWWhoX0tHMHdOSFpQMVR2ZktqOC1rU216SHBhNE8wYW5oTWRVREthWm1JWkZERjdiNWtzVUFqckN1U0pJQU4tTXFDcXhjck1mcjFlT3VwMDRvbkdrNDV6RnZNOU5ZSDZUd0Mwa0V6dC1lbGpKMUVCWndYM1VGbm5wS3YxcGJLQnFOUEN1X28?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-09T16:31:00Z",
+      "summary": "Yahoo Finance预测，一款非英伟达的AI半导体股票将在6月出现抛物线式上涨，即价格急剧攀升。市场关注点从英伟达转向其他具备潜力的AI芯片公司，建议投资者密切关注技术突破与供应链动态，但需谨慎评估短期波动风险。"
+    },
+    {
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09T16:09:14Z",
+      "summary": "TechCrunch指出，随着SpaceX、Anthropic和OpenAI等公司筹备大规模公开上市，科技行业正从FAANG时代迈向MANGOS时代。新缩写代表新兴巨头，预示新一轮IPO浪潮和行业权力重构，投资者和从业者需适应这一格局变化。"
+    },
+    {
+      "title": "Law firms are subsidizing their clients. Most haven't noticed. - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWVrTEtQVTN5c2ZjUEJIcTNfcTdXcW1WNUpKNV90YjN0UFVCQnlGYkZ1R2ZXRzN6OEY1bDhVeDY2TnpFREMtTzZ0VkYxRGNRdDJxYUt0bUlER2o0Q2M5MER1bFZjYS1wa3ZwTXFrSUdlZlJrZWNqYmZlazJFZElzUEJmTWdsVmJ3NDBmZE4yT1JBQlphM3JzcVpfaXZCaDR0cFo4R0ZHN0pQbEFybUNUV1ljLUtxemNLZnU1VDVIZXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-09T15:41:34Z",
+      "summary": "路透社报道，律师事务所正在以补贴形式降低客户成本，例如通过折扣或内部效率优化转移部分费用，但多数客户并未察觉。这种做法可能重塑法律行业定价模式，律所借此获取长期合作，客户应审视账单明细以评估真实价值。"
+    },
+    {
+      "title": "Artificial Intelligence Is Too Important For Government To Own - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDB2RzhGOEFmemw1YjBvbVJFWDB5ajNFOWg1anQyRUpDM0NfZFJLamNPVU5zQWEwX0pzbGgtcGYwSUVQNTJvcHo3OHFlaHBMTWVPWURCc0R2MHB6YWVOQzB0Y2tnY1N5c3NlTVRhYV9EU1d1TDJndGZ2OGVVWkhWenRWRl9NYi1UOFB2d2FlbXpoRHpnWGFoMElkblJZR1dDbDZJd0c3SjlZWlpJNkJxMEV6WQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-09T15:30:25Z",
+      "summary": "福布斯评论文章认为，人工智能的重要性决定了它不应由政府独家掌控。政府垄断可能抑制创新、限制多样性，并带来集中风险。多方参与、公私协作更能保障AI的健康发展与广泛利益，推动负责任的治理框架。"
+    },
+    {
+      "title": "Artificial intelligence is booming, but Americans remain skeptical about it - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb2tlV3RLNm1LUWI5LTRKLS02cUREWnBPd1pjbU1xREFYNXBwSTgzc1FhUFRRaGdZemE1X3V3cktJampVeGo2VnZpTTZyelg2WjhtZk9TNmpOMmdZeEpYSEZHVkxjVHpFRDhyNWJiX0R6SlZVY2lWM25NcmFXcVRlSGk4TUVoZDYzRVkxVkQ4STU3bWxVR1I4cUIwNHFqYW8tbURFb1BMOU9Ma2hRZHJBcTIzZ2VLUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-09T15:22:36Z",
+      "summary": "尽管AI行业蓬勃发展，但《巴尔的摩太阳报》调查显示美国民众仍持怀疑态度，担忧隐私泄露、工作岗位替代及伦理问题。公众信任不足可能阻碍技术落地，需要加强透明度、教育和监管以弥合认知差距。"
     },
     {
       "title": "AI saves clinicians time but most lack training, survey finds - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmpVWndBTzFOc0k1cHk0TUV2NDc3emJ6aHdiQWhKdkJVaEFsY2ZHc3ZlX3RScFliNF9wTlN0eWZSVnR6UGlLdkIxTDV4XzdxcjNuZmRSUGZvQlBJS0hJMng1UmxjTENqQmNCUzdEbnhza240dU4xcGVhOTZSMG96azU1R0VMdDI2bm1jbm41bmZfUE9GMC1QenE5Z2VaREFyQmdYWkNieVVuN1ZZVDJIbnUtRjBib2RtSlgwVGpNRHFEUFVheElF?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-09T08:31:42Z",
-      "summary": "路透社一项调查显示，超过半数的临床医生表示AI辅助工具能有效节省医疗文书和诊断时间，但大部分医生缺乏使用AI的系统培训。报告指出，医院在引入AI工具时需同步提供操作指导和伦理教育，以确保技术切实提升诊疗质量而非增加负担。培训缺失已成为医疗AI落地的关键瓶颈。"
+      "publishedAt": "2026-06-09T15:03:43Z",
+      "summary": "路透社一项调查发现，AI工具能有效节省临床医生时间，但多数医生缺乏相关培训，导致潜力未能充分发挥。医疗系统需推动AI教育、改进工作流整合，以避免误用并提升诊疗效率与质量。"
     },
     {
-      "title": "Mercury CEO Says AI Is Breaking the Old Startup Model - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTWtnMUdhcm42b0p1U0JxOEZ1UVlKRzl3VnF5WERBM283S2x4MzNzU05QOU0talI3d0s5cEJXNHYwUEZpU3VTNDRpRmRoblUtV3Nfa1ZSTThid19HeXlUdGdBM2MwV2g2ZEQtOFJmRDR5dnJXckZMTy1VTmRNc013eHg0UWNXWlRPcll4Qmdma3FWY1VVaUxOeVlTc0RZZlhLUEpvUWZPRXhXMnZ5?oc=5",
+      "title": "New Krantz Institute for Artificial Intelligence, Ethics, and Humanity - Boston College",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUkFGbm9oZHBjUE55NzVFMnh3blpjVTVuUnpXazBycmQ4dnotVVdPZ1BuMWlIUERDOUhxaTFPRThJcDFCRFMwZFFLNzRMb3VkWVE4dDRNdDQxZG5FZnNDZWxHbG9ZQjM5ZFNteXVIc0gzRlJWOVhUdDJVSnVjNzRwQ2k4YmpjaTlVNVEwRzBLaFJvZGhTblF4MXo0WHFpRTFtdGtKT0syRmhwOUQ2U0VpSjExSlpGU0lDU2xWQWZJWThpWjhvQ25jNnc2X3FHc0ZhQ1JhbEhETExGRVdCUmZqdExrS2ZzUQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-09T08:07:11Z",
-      "summary": "数字银行Mercury的首席执行官指出，AI技术正在彻底颠覆传统的初创企业增长模式。他认为，AI使得小型团队能实现过去需要大型团队才能完成的任务，降低了创业门槛，但也要求创始人更快适应技术迭代。AI驱动的自动化、低代码平台和智能工具正重塑从产品开发到营销的全链条。"
+      "publishedAt": "2026-06-09T14:31:55Z",
+      "summary": "波士顿学院成立Krantz人工智能、伦理与人类研究所，聚焦AI伦理、社会影响及人机关系研究。该机构旨在引导技术发展符合人类价值观，提供跨学科视角应对算法偏见、隐私和自动化带来的挑战。"
     },
     {
-      "title": "FinTechs Lag Credit Unions on the Next AI Banking Test - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOczcyNUF5TEpNUHBYdjVNQ2ZKWFhkcExUM1JGZDU5X3cyZHZxR0VhWGg2LWU0VDZpUWZwVUlsMElBTXFaVjh4a0VZelh4Mk9Od255cDBCQjB3cld4WW1rRDdZT2gwbDdGVTd6aW9wTHZxalVXaHNyT29kSDlkXy02d2lJX1R6eWRCTG5ZazVtQnIyZkg3bE9KTVNhYms3bk9fTU9mbUlPT0J0eXJMbEE?oc=5",
+      "title": "Bureaucracy stifles Israel’s AI growth despite national tech strength - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ra3VDSE1UUjBIdzladGFSVENSd25CQmJVaDI1Tmt1MUEtM0JGNnZUdGpCZENmcm1NT2stSHo1eE5DbFJfdGRwVDJZSHRKY2twWndITHJKdHppd2Z2?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-09T08:02:53Z",
-      "summary": "最新研究显示，在下一代AI银行应用测试中，传统信用合作社的表现优于多数金融科技公司。尽管金融科技企业擅长用户体验创新，但在核心银行服务（如信贷决策、反欺诈）中整合AI模型的深度和准确性上仍有差距。这表明信用合作社凭借数据积累和业务专注度，在AI银行竞赛中占据先机。"
+      "publishedAt": "2026-06-09T14:06:38Z",
+      "summary": "《耶路撒冷邮报》指出，尽管以色列科技实力雄厚，但官僚主义严重阻碍了AI产业发展。繁琐审批、监管不确定性压制了初创活力，业界呼吁简化流程、优化政策环境以释放本土创新潜能。"
     },
     {
-      "title": "AI for Impact: The Role of Artificial Intelligence in Social Innovation in Asia - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOEo2X2MtTi14MHd5QnVzdGY3RDJyRk5CVUNTUmc2ckI5U2NzUEJ6dUxHcjkwXzBwT09fUDVobjR3cDlfTjFNNjQ4S20tWW1XSjBXdl94U0FhZEtSOWtvRkVNTXFnTjBlenJqWmdyR3ZWWXZUS1k5MElIb204QS1qZEdKT0QtQUsyTFRieDBMNVVncW5ZbEo5U3FXNWY4VVZoeUEzSlotNnpDOU5MUWM5enlFOXhlQW8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-09T07:21:35Z",
-      "summary": "世界经济论坛发布文章探讨人工智能在亚洲社会创新中的作用。AI技术正被应用于解决教育、医疗、农业和环境保护等关键社会挑战，例如通过智能诊断扩大医疗覆盖、利用机器学习优化农作物产量、以及部署AI预警系统应对自然灾害。文章强调，要实现可持续的积极影响，需要跨部门合作、负责任的AI治理框架，并确保技术发展惠及边缘群体。亚洲各国正积极推动AI与社会创新融合，但数据隐私、算法偏见和数字鸿沟等问题仍需重点关注。"
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09T13:47:25Z",
+      "summary": "法律科技公司Sandstone完成3000万美元A轮融资，距红杉领投的种子轮仅6个月。其AI平台专注于企业内部法务团队，自动化合同审查、合规监控等工作，旨在降低法律成本、提升效率，吸引市场关注。"
     },
     {
-      "title": "If Australian data centres are going to power the AI revolution, we deserve a fair return | David Pocock - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRGRxbkZnNHhPczJBQ2VCbVBjaW01RURlSHlOTTRzS2lkSlFTOWtVcTdxSnR1ak5haWh5OTNqUDNxeHJSZ3NWX0NxYzktZWhXRC1wSXBUQk54Vno1VTYta1hjQktld1NSSFZ4SzM3Yl9ubkR3Z2dPS29jY1E5d1M1R0dqcDVTM3VfVnJDM0hrb2dqems5LVdRQ1VtUTMzTnhxM3l4N0pELWw2QlpaZEJFRmxGTUlpNjdrQVNsNS0xMlpvTEtTU3NhTnJQQQ?oc=5",
+      "title": "Bridging Movement and Machine Learning: How Clinicians Can Harness AI in Practice - MedCity News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFlBV2luZVNrY0lVSHdIWFBvY1lZbkxPOWpJVXVLS3VFVmV3OEotdDkzRXRIT09KSmZnSW5CWVNlMVRMaHctRHdGbUt5cFMtVHpVWGV3TkZfR2UxdjRXRkphUDNKdmtQeHFXaElEZnNmaF9TZDk4LThqU0l4d2FkRlZvUmdqTC1EbmNsbFZNWG9xZ1V4cjZKblFsdTJNZ0UxZDBnXy01c0hkZDhGWHJYd0M0NA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-09T06:40:00Z",
-      "summary": "澳大利亚参议员David Pocock在《卫报》撰文指出，随着AI革命对算力需求的激增，澳大利亚数据中心正成为关键基础设施。然而，这些设施消耗大量水资源和电力，却未能为当地社区带来公平的经济回报。文章呼吁政府制定政策，要求数据中心运营商支付合理的水电使用费，并将部分收益用于支持可再生能源发展和社区基础设施改善。Pocock强调，澳大利亚不应仅作为AI革命的“能源仓库”，而应确保公民从中获得实质性利益。"
-    },
-    {
-      "title": "Apple Executive Says Some Firms Are Building AI Without Regard For Humans - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkF6ZlpuZ19PeTRyUUpjUG1sdFpqMzBLQW5JSXFoWG9WOUNkUGx4bmg4dzJTM3lITzJTemRUeUNNcGhQS3ZTaXBvZG9ENDhWREZ4dHlTUTdhTk5HUGo2Q3JEZDQ4bFlqZnJEb1E1ZXZrd2k4dGFMX0FONkM4b19vQkhjVWJ4ZHNpMnJJSm83dktyTFdzZ2lzYVlPLV9yRjdQQTlFTXA2OEF5MmwyUU5RSklwVDBlRWRMYlhHa2xvUzJSSi1FU1ExMNIB0AFBVV95cUxOd0s3amZzalFYTjVOZHJRRi1iaHVMZmY0TFhkYkREanozZXlucGRGNnY0UXRLTjhCWV83ZmxCdDFkNy1LT3cxclZOMEtUUGRPUVFhNGV1aDlIRXVRT0F5M0ZvZUhsOF9tVk9MZHRlaHBESzZwblBlVkUwVlE1YnJsY0JWQ3d2ekdRNFVnTk84TjE2cmJpdkpMQjY2Vmd1M2t5Y3NRWXlmb1hpZGpSdVJYWjlvLVJfNW9vQXlhVUsyZ0xUOVlOMHpIWkl3NXZGRV9f?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-09T06:26:23Z",
-      "summary": "苹果公司一位高管在接受NDTV采访时批评部分科技企业开发人工智能时缺乏对人类影响的考量。他指出，这些公司为了追求速度和商业化，忽视了AI可能导致的隐私侵犯、就业替代以及社会偏见放大等风险。苹果始终坚持“以人为本”的AI开发原则，在产品中融入隐私保护、用户控制和透明度设计。高管呼吁行业建立更严格的伦理标准，确保AI技术进步真正服务于人类福祉，而非成为不受约束的技术竞赛。"
+      "publishedAt": "2026-06-09T13:43:44Z",
+      "summary": "MedCity News探讨运动分析与机器学习的结合，为临床医生提供AI实战指南。通过可穿戴设备和算法，医生可精准评估患者运动模式、辅助康复方案制定，提升个性化医疗水平，强调技术与临床经验的协同。"
     }
   ]
 }
