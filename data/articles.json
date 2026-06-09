@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "910",
+      "title": "New AI coach 'Ask Oscar' trains hospital staff on feeding tubes - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORV9BNzBIZ1dnUm9oc2JzeWpUQ1EydDBkejR3cDNzYWM4cWEwSFhUXzltdEthdFZtRWdXMlV5bVQydlNLdUg4cVdpaUpiRHlibGVzU1lJMG4xVGdzMG9uTmdZS0c1UXg5MnMxQnVXUzFMVW9vV3lZUjJiUm8wN255RGpNYS15OGE2dnQ3R1k1SnQxWE1raXFqZXFLZkIyQnhBcGhTZFpleFNtUzZTcFVhTWwwVGRxamFrRkMwckdMaTM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-09T12:17:00Z",
+      "summary": "一款名为‘Ask Oscar’的新型AI教练系统被用于培训医院工作人员正确使用鼻饲管。该系统旨在通过模拟对话和即时反馈，帮助医护人员掌握插管、喂养操作及并发症处理等关键技能，在降低操作失误风险的同时提升培训效率。此举显示了AI技术在医疗培训细分场景中的应用价值，有助于改善患者护理质量。",
+      "fetchDate": "2026-06-09"
+    },
+    {
+      "id": "911",
+      "title": "How an e-scooter founder raised $5 million to build space data centers",
+      "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-09T12:00:00Z",
+      "summary": "曾创立电动滑板车公司Spin的创业者Euwyn Poon，为其新项目Orbital成功筹集500万美元，计划在太空部署大规模数据中心。Orbital的目标是发射多达10,000个太空数据中心，利用太空的低温环境和太阳能实现高效运算，并缓解地球数据中心能耗问题。这一大胆创新融合了航天与算力需求，或为未来AI计算基础设施提供新方向。",
+      "fetchDate": "2026-06-09"
+    },
+    {
       "id": "899",
       "title": "TechEx Europe 2026 - AI News",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sS0VLZkhuNzRfYVl0cC1jazF4MmdaRWNUd0oyWDRjWDNibmNINVNXQUJpN1ctWENCZlYzaE1WMTZRRkdLTUgtY1M5aFNCek5XS0JqZUxjYmRYckpPejFlZFhnNjFfT2FKMUVOOGllbURvSWs?oc=5",
@@ -8173,5 +8191,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 908
+  "total": 910
 }
