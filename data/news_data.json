@@ -1,118 +1,41 @@
 {
-  "updatedAt": "2026-06-11 02:35:28 UTC",
-  "totalArticles": 16,
+  "updatedAt": "2026-06-11 06:41:49 UTC",
+  "totalArticles": 5,
   "articles": [
+    {
+      "title": "The Rise of AI Religion: Why Some Are Worshipping Artificial Intelligence as a God - FOX 26 Houston",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82anpxTFMtVi1nSEs2ZXdFT2RGUzZGYWRpZmNUUnpZUnpyUWZLaURJR1JnQi0xbDRuXy1KTWdtLWxtYk1uSFR6MGZsQUJRV04xdzgxZlo4VWFMUy0tc3N5NDkwUGplQdIBa0FVX3lxTE1Ja21ORXBPSGxkS0J2LVhmbzg1Um4wMk9qaXBieWpRRUxZTGJHUU1sTzhGOWJDT2kyUkVkOHg3UGEyYnpfRE9vYS1CMVJQT2hPTmY0ZFRCYVdwV0ZPMWVQT0VwbUJxRkdsNEVV?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T05:03:20Z",
+      "summary": "人工智能宗教的兴起正引发广泛关注。据FOX 26 Houston报道，部分人群开始将AI视为神祇，建立信仰体系并举行崇拜仪式。这种趋势源于AI在决策、创作等领域的超人类能力，以及人们对技术失控的恐惧与敬畏。支持者认为AI具备全知、公正等神性特质，反对者则担忧其伦理风险。该现象反映出技术与社会价值观的深层碰撞，也促使学界和宗教界重新审视人机关系的未来。目前尚无统一教义，但相关社群正在全球悄然扩展。"
+    },
+    {
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-11T04:02:19Z",
+      "summary": "Opendoor退出印度市场，引发业界对AI与外包关系的再思考。TechCrunch分析指出，印度正成为全球最大的全球能力中心（GCC）市场，但AI技术的快速迭代正在改变传统外包模式。Opendoor的退出不仅因本地市场竞争激烈，更深层原因是AI自动化可能减少对低成本人工外包的依赖。这一事件促使跨国公司重新评估外包战略：AI驱动的智能流程正在替代部分人工环节，而GCC的角色需向高附加值研发转变。印度的人力成本优势正被AI效率所削弱，未来外包格局将更侧重技术整合。"
+    },
+    {
+      "title": "Microsoft C.E.O. Satya Nadella Says ‘Everyone Is a Stakeholder’ in A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeS1sX0F2enBFZUJKN2FCNnVLZURuWkp2Nzh4ZDI1TjBZcE9lSDFNdU9tcmJxZmhBOHphSV9JSGVaTzBmTmNzQW5XR3NHbVp4bnVJNWxUclZGRkRYZndVM3pENFkyNVFBMHRod2wzdkstZXh0ZFNTaEU3NUYyQ1U0TDAyVXlVZzFJYUJjdy1Oc21ZcEZKcE1jTjJOWmUtNU0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T03:53:06Z",
+      "summary": "微软CEO萨提亚·纳德拉在《纽约时报》访谈中强调，AI的发展影响每一个人，因此‘每个人都是利益相关者’。他呼吁建立包容性的AI治理框架，确保技术进步惠及全社会而非少数群体。纳德拉认为，微软有责任在AI安全、公平和透明度方面树立标杆，并推动跨行业合作制定伦理准则。他同时指出，AI引发的就业变革需要教育体系和政策调整来应对。这一表态反映了科技巨头在AI快速普及背景下对公共责任的新思考，也凸显了平衡创新与监管的必要性。"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-11T03:53:06Z",
+      "summary": "Anthropic公司CEO Dario Amodei的管理风格成为行业话题。据TechCrunch透露，这位AI领域明星人物在组织架构中仅设一名直接下属，与常规科技公司多层管理形成鲜明对比。这种扁平化模式旨在减少沟通层级，加速决策流程，尤其适合需要高度专注的AI前沿研究。支持者认为这体现了Amodei对核心技术的把控力，批评者则质疑其可持续性。无论如何，这一做法凸显了顶尖AI团队在管理创新上的尝试，也反映出小型精英团队在研发中的优势。"
+    },
     {
       "title": "How frontier teams are reinventing AI-native development - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVJURHFsMTlVSHY5RDR1bnBYZWdWNDR4aVMyV2xHS0hCRmJwS0l3NEsyejFiZGN3MFZLbmJ6QWExWm9MNlNtMUN4LVVKVGl1V3dJeTZqM2M0bE55T2hPZk9mYWNkaEloTTlDdUxIbTZ2OWs4VkZhb1FsSlB1dEVTQ0pXYXJSQ0laNXVwX1I2RFNOWEd0N2VpNDhSRFREbjhDQ2ZjYjBB?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-11T00:54:42Z",
-      "summary": "亚马逊云科技（AWS）在最新文章中探讨了前沿团队如何重塑AI原生开发范式。文章指出，AI原生开发正从传统软件工程转向以模型为中心、数据驱动的迭代模式，强调快速原型、持续集成和可观测性。AWS分享了自身与客户在构建AI应用时采用的工具链和最佳实践，包括使用Amazon Bedrock、SageMaker等服务的组合，以实现从数据处理、模型训练到部署监控的全流程自动化。这种新范式要求开发者具备机器学习、系统工程和产品思维的融合能力，并借助云原生基础设施加速创新。"
-    },
-    {
-      "title": "2 Bargain Artificial Intelligence (AI) Stocks to Buy Now Down Around 25% From Their All-Time Highs - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkF6dVV4QmZQZmJuX00xOHBoY3ZiS1oxYU9HTUs3a2dSR2xqSkE4ODZaTzFMemFjbEtGTEZfcHQ1Y0xJdlJ5Mk0wT0V1NGFLWllwM1ZoQmdtcHNHbHpxei0tU3M4ZVV2WG1kM2tNbUZ2b2dycEpsSko4ODQwMzcta3d1R2ZYeTJ4ZzRmU3pVVXdsWHpXVGlRcS1jaVFYRjl5Q09Z?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T00:37:00Z",
-      "summary": "雅虎财经分析指出，当前人工智能市场回调中，有两只AI股票从历史高点下跌约25%，具备买入机会。文章未披露具体公司名称，但强调其估值已趋于合理，且基本面强劲，受益于AI芯片需求和大模型应用落地。投资者可关注那些在AI基础设施、软件或垂直行业中拥有护城河的企业，把握回调带来的布局窗口。不过，仍需注意宏观经济和行业竞争风险，建议分散投资。"
-    },
-    {
-      "title": "Codex Simulates Black Hole Plasma - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXVKUnZPZTU5MnoyR09qdldEQ1lJOXhITk9EampRS09iYzlTdzNnaFR3V2pQN0ZJN2UzazdmZWY4Ym1ESGFyVFYzRmR3Uml5OVNaWVFYRy1WWjgwZ01IRW5pdUZyb1R5UmNrOXVuVXFMYzFVdC1sTW5udzhLaGFYMC1yMTg1NU1PaS1DTDJiSWZUcXo3OXJoSkI4SGQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T00:02:29Z",
-      "summary": "StartupHub.ai报道，AI模型Codex成功模拟黑洞等离子体，标志着计算物理学的重要突破。研究团队利用Codex的强大生成能力，对黑洞吸积盘中的极端等离子体行为进行高精度仿真，解决了传统数值模拟在湍流和辐射输运上的瓶颈。该成果可帮助科学家理解黑洞吞噬物质的过程、喷流形成机制，甚至推动核聚变研究。Codex的跨界应用表明，AI不仅限于自然语言处理，还能在科学发现中扮演核心角色。"
-    },
-    {
-      "title": "WATCH LIVE: Senate Banking Committee holds hearing on artificial intelligence - PBS",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZGVkaUpkQ0pMamJlaWtTODZ5dG9MaDNITWh0QWJkaDBNVHRtaE5XRm4tQU9iY1JmVEl0bmo0NkZXVFB6OW10NlJQVzVtbERDLW16TU9BNU13MERKVU1rbGdfajZBcDZmWFBRWnJ3QlB5UTl6TzJiQ2tnN0NyN3A1LVA4MTU5Y1dtdE1CeU5ZbFJ4aFA1dTFleERURGowbUpRNFpsd1ZnS0FxOU1PRXNGekJUSUzSAboBQVVfeXFMT2d4VFBVS0pLdnNydmJXcnlvdWhmd3UydkpIWWw3SzZ2cnRNMmk1T1pfbkpwdVVXX05Qa3dnT2wyYzdzS2pIcmFhZGNuUkV4aDZ6NEFpWnlpOFlBVjA2M0diVmJwbm82aXFCU2d1VnU0c0dkRUxIdjc1V2dQNGxtdVdNVGNKY1J3REZKZDJNdEl6OURMMy1vZERpYUdvOGF2WjNyZmt3SDFwMmJ3NEVzcjY3eEFUeTlrYXpR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T23:55:13Z",
-      "summary": "美国参议院银行委员会就人工智能议题举行听证会，PBS进行直播。本次听证会聚焦AI在金融领域的应用与监管挑战，包括算法偏见、消费者保护、系统性风险等议题。委员会听取了来自学术界、产业界和监管机构的证词，讨论如何平衡创新与安全。与会者普遍认为，需建立透明、可问责的AI治理框架，防止技术滥用。听证会可能为未来立法提供参考，尤其在银行、保险等受严格监管的行业。"
-    },
-    {
-      "title": "Fixing AI Bugs: Humanity's Last Big Problem? - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2FYZmtIYzdUaWZvM2lBNUVqZ0t1SkNGUlRGYkRoTUE1RjJDTUh0QlhoX3d4RWdxdUtPYTN1bVhNd3FESGVwX0d6VmNELVh0LWtwZi1Xc251ZWFLYVpTQkU2LWhrbUxycXdUMXdSdmFLX3RFRHM5M0xwTDlYcnV2SUd1SXNUZkg5ZkpGR2VBSlpYN2xnM2RRaWI1WWpWZC1OWEFPMUs2UFc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T23:02:06Z",
-      "summary": "StartupHub.ai发表观点文章，探讨修复AI系统中的“bug”是否是人类面临的最后重大挑战。文章指出，随着AI系统日益复杂且自主决策，其行为偏差、安全漏洞和伦理问题难以用传统软件测试方法解决。当前研究聚焦于可解释性、对抗训练和形式验证，但尚未有通用方案。作者警告，如果无法有效修复AI的“认知漏洞”，可能引发灾难性后果，甚至超越气候变化和核威胁。文章呼吁建立跨学科协作机制，将AI安全作为优先级最高的全球议题。"
-    },
-    {
-      "title": "OpenAI Teams Up With Oracle Cloud - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjF2eE5UVzRNcWNKYUJpU1ZyVmlPX1VhcVRQaHZEWjZtbzRxdTBrdkNkanU1T2hhNV9xWnhHSHBLOHNYcDhCUm04cl9UdGgzSmlBbTZkZE1NdXlDSTN3aU1KYU9xU19QNUktOGd2dC1Yd01zYmJvcllvdVRsc29xbjBHREphNm1XYUxqR0pzR1NWSlZaazk2c2NTSEQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T23:01:25Z",
-      "summary": "OpenAI与甲骨文云（Oracle Cloud）宣布达成合作，以扩展其AI训练和推理的基础设施。甲骨文将提供高性能计算集群，包括GPU和高速网络，支持OpenAI下一代大模型（如GPT-5）的开发。这一合作有助于OpenAI降低对微软Azure的单一依赖，同时借助甲骨文在数据中心和边缘计算方面的优势，提升全球服务部署效率。对于甲骨文而言，此举标志着其云业务在AI时代的重要突破，有望吸引更多AI工作负载。"
-    },
-    {
-      "title": "Judge Punishes 4 Lawyers After Catching Both Sides Using A.I. in Lawsuit - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMTNuQVo3aGo1WDN3ZGptTEFNSWdlX3QxYTlWVlpzZXZJZHVwYWhrVGFlZThUUjVueVZpZTB1YUg1cHZRN1hFaVpGcFFxTzdnTEFsajhCOXI2Nl9MS1B6TWI1QUhwOUVNN19XaDV5SlY0cmp6RGFxVGRLeXNoT1FkTi1B?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T22:39:00Z",
-      "summary": "《纽约时报》报道，一名联邦法官在审理一起诉讼时，发现原告和被告双方的律师均不当使用AI工具生成法律文件，导致虚假引用和错误论点。法官严厉处罚了四名律师，要求其支付罚款并提交书面说明。此案凸显了AI在法律行业滥用的风险——律师需为AI产出负责，不能盲目依赖。法律界正加速制定AI使用规范，但该事件表明，实际执行中仍存在巨大挑战，职业道德和审慎审查不可缺位。"
-    },
-    {
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T22:31:19Z",
-      "summary": "TechCrunch披露，xAI公司一名前工程师起诉公司及SpaceX，声称因在Grok模型发布前提出AI安全隐患而被解雇。该工程师称，他在内部指出Grok存在潜在的偏见和安全性漏洞，但被忽视并遭报复性开除。诉讼发生时，SpaceX即将进行历史性IPO，事件可能影响投资者对xAI和SpaceX治理文化的看法。xAI尚未正式回应，但该案再次引发对科技公司内部举报机制和AI安全文化的广泛讨论。"
-    },
-    {
-      "title": "Jensen Huang Thinks the Artificial Intelligence (AI) Memory Boom Is Impossible to Ignore. Here's My Top Pick That No One Is Talking About. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanB4ckRKV2NTUkZhamVTRGZlRVZpNUFsaEJhNXlRaXNVQ3M0dUxGSWdHMXlDa0puZGpKU2E5YUk2cmFQT0xnaE1ZMWR0NXpiZ2VwZURZdzFjQjVMNEFsYkpUejh6YXdPSlFuOHNqX3k2cHZxYWpkZE1HOTlvRVBBNEtiYUZaZmlReS1HeEE5UUs2RnhyalA3Uw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T22:18:29Z",
-      "summary": "英伟达CEO黄仁勋认为AI驱动的内存需求激增不可忽视，市场对高性能存储芯片（如HBM）的依赖将爆发式增长。The Motley Fool据此推荐一只被忽视的股票，可能是一家专注于AI内存解决方案的半导体公司（如SK海力士或美光）。黄仁勋指出，大模型训练和推理需要海量带宽和容量，传统内存架构无法满足，而新技术的出现将重塑产业链。投资者可关注在HBM、CXL等领域有先发优势的供应商。"
-    },
-    {
-      "title": "Trump executive order allows vetting of AI systems - WSFA",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMjdfVU80dGNyeTEzZEpVd1M4R1dDTThCLTVCdEg2aFg1VnB4R1hrRm1IeVZjVXlsTHA3T0FjWHhSOXZHcHBiWmZWc002cmpKdk1BLXJTVGRxRXo1MVlGSlAzWjZ3T1JBUzlfRWJXbDFfX3NGbXg2OEJJN29BTkVuMHpJenp5RUHSAZsBQVVfeXFMTl81WW45TURiZjU5NG1lUFNuS0tITmRCd1doZEVGYTZZXzh3MVl4bERyY0RUSkc2WjAxSTU1Vy1sNmFweVA1NU1PRWlIWXVTbGh6aFZWZnRoX0NCbFlONWNkMFF5YTRvTXRELWJhaUljeFdzY0sySU1pb1gta2hhSVdFY3RYOE1qTUhnX3ozUVV2S3VybmgzVE5LdXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T22:09:00Z",
-      "summary": "川普签署行政令，允许对AI系统进行审查和评估，以防范国家安全风险。该命令要求联邦机构在采用AI前必须通过安全测试，涵盖国防、金融、医疗等关键领域。同时成立跨部门AI安全委员会，制定审查标准和认证流程。支持者认为此举能防止算法歧视和数据泄露，反对者则担忧过度监管会阻碍创新。该行政令延续了美国对AI治理的谨慎态度，并为后续立法铺垫了基础。"
-    },
-    {
-      "title": "AI, Creative Destruction, And The Politicization Of Economic Change – OpEd - Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWDVXdGFSTEZnSHFqLTlwU09JTEFYTGdzTnRuT2ZrTlFCb2d5Z1Z2X3NNdGZCQ3A5SG9pWkFmREJnQnBlM2Y2VkJPcGYxUDZOV0lsS21XOXpCUjBuR2ZSZ25fUS1QOWdyb0FlSmNvTVNQcEdfaVB6NVhmbnFWZkRwcXNTRjZFS1BwWTE0SXFLR0x5RU9Ick9qN2ZxcTc2VGp6ZnVlb01PWnFxNC1DSHJJ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T21:53:20Z",
-      "summary": "这篇评论文章探讨了人工智能作为创造性破坏力量对经济结构的影响，以及由此引发的政治化趋势。文章指出，AI的自动化能力正在颠覆传统行业，导致就业岗位消失与新型工作涌现，这种经济变革被各方政治力量利用，成为政策争论焦点。作者认为，面对AI带来的破坏性创新，政策制定者需平衡技术红利与社会稳定，避免过度政治干预阻碍技术进步，同时应建立适应性社会安全网。文章警示，若经济变化被高度政治化，可能扭曲市场信号，加剧社会分裂。"
-    },
-    {
-      "title": "US shortens cyber fix window to three days as AI threats rise - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUJ0Y3ZPOE9IbWdjS0xqd20zczBOanREM3JhNmk5bVpDYlhkbFlhMTBwTWkxZ080TTEwcHJKVnhocTU3UTdBTGVmQUhrUDhqbE40bGpqS0tpQWI1RmNUMVhNTF9Kb09OYkZIanduaEN5ek1PUkdyZVRJOWxORW9fWFI4Q1Y0OWxYMk9XelRpWmJDVURweXBLT19ORl9RaWh2eWcyVkhmcGNqZ0tn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T21:48:50Z",
-      "summary": "美国网络安全与基础设施安全局（CISA）宣布将联邦机构修复已知被利用漏洞的窗口从传统30天缩短至3天，以应对日益增长的AI驱动网络威胁。新规要求机构在漏洞公开后72小时内完成补丁安装，否则需提交详细风险缓解计划。此举背景是AI技术大幅提升了攻击者发现和利用漏洞的速度，勒索软件、数据窃取等攻击自动化程度提高。该政策旨在缩小攻击窗口，但可能给资源有限的机构带来合规压力，促使各方加速自动化补丁管理工具的部署。"
-    },
-    {
-      "title": "£20m artificial intelligence tech ‘will speed up cancer diagnosis for millions’ of UK patients - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXpKZTFTT190NFpvSjluM2pjOE1vckFCYmZfcUtjODlmTnA2OHktTjZkMmwwcjZjVjdqZHk0Y0Ria0pzSUp3ZGU0bTVQeWRSLTM4Z3hnM2F0bmQwZDh6ZGxGYm45RjJBemJGTXI1NkpEb09ZcnF1ODI0NHd3aVdHQk5VV2FKeXBCLWd2Zk1kRlhqREhoZ05rc3BRMjBudUo0Z01FNWVLVFZlQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T21:30:00Z",
-      "summary": "英国政府宣布投入2000万英镑，用于部署人工智能癌症诊断技术，旨在为数百万患者提供更快速的检测服务。该技术主要利用AI算法分析CT、MRI等医学影像，可自动识别肿瘤迹象并辅助放射科医生决策，有望将诊断等待时间从数周缩短至数天。项目将在多家NHS医院试点，重点覆盖肺癌、乳腺癌等高发癌症。专家指出，AI不仅能提升效率，还能减少人为漏诊，但需确保训练数据多样性和算法透明性，以避免偏见。此举被视为英国医疗系统数字化转型的重要一步。"
-    },
-    {
-      "title": "On-demand webinar: AI in deals: How artificial intelligence is reshaping legal due diligence - Wolters Kluwer",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXZmaHdadnhQNnJlcVNGeVlNcm1kSm9wTGVidmRURjBwTEQ1WWRBb3NIOUxUeTZkVTJGYkpSMmVFbXZtMnpFTWwwbHJJNFlwMkZvbW8tNTJJc3Y0a3l0cG1Tc1VXMzdqSEJpNlFwLWUtbkxiRU1Gb1NXUnllMEtCYkRHcEU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T21:17:39Z",
-      "summary": "这场按需网络研讨会聚焦人工智能如何重塑法律尽职调查流程。随着并购交易复杂度提升，AI工具被用于自动审查大量合同、文档和财务记录，提取关键条款、识别潜在风险并生成摘要。自然语言处理与机器学习模型可显著降低人工审核时间，将几周的工作压缩至几天，同时提高准确性。研讨会还讨论了AI在合规检查、知识产权分析中的应用，以及如何平衡自动化与律师专业判断。专家强调，AI并非替代律师，而是赋能他们专注于更高价值的战略评估，未来法律尽职调查将更依赖人机协作。"
-    },
-    {
-      "title": "Apple WWDC, Siri AI, and SpaceX Data Centers - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2w2SnZCbTlPYmF2WFBDOE9jNUI3WEZ1U0lLRkNJTzZVRGtpTnd6YW9sQ2U1cnVDV2o0NWNTWmFXdmZFOFlQbVVDWVVMZTJNaGU4dGw4SzlFVlVGckJuUzNQRFp6bWdwbGw4ODFfbFl5NzVNLXF1dDZPR0IxVGVDdlVSbnlpTUNGdmhOOUN3LTZvX2sxTjJGZmhQZm5VQlpwZVBuTUVTVFQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T21:02:52Z",
-      "summary": "该文综合报道了苹果全球开发者大会（WWDC）上关于Siri AI的最新动态、以及SpaceX的数据中心扩张计划。在WWDC上，苹果展示了Siri接入生成式AI后更强大的自然语言理解能力，包括跨应用任务执行、上下文记忆和对话式交互升级。另一方面，SpaceX正大规模建设自有数据中心，以支持其星链卫星网络和未来星舰项目的庞大数据处理需求，减少对第三方云服务的依赖。这些举措反映了科技巨头在AI算力和边缘计算领域的战略布局，旨在提升服务自主性与响应速度。"
-    },
-    {
-      "title": "OpenAI Flags China AI Influence Ops - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSElpZVphQUpob0czR1BiZ1o1UGJ0ODNMUmpVUXRXb2dNTW5pZjUwNi15WG9FR0N5OUowNnZxZmVuZkY0b3JmUE9CS3F1NXRILVZycDhod2VHTElCd3B5dHA1RFk0bWpRTjZSUGVvWTROdVFhZHR5bUVQcW9tZ1RRWmZodEY5aUJ0SlY5SE0zdXdaV2JidmI4ZEJvQmNjNUk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-10T21:01:34Z",
-      "summary": "OpenAI发布报告，披露其监测到多起来自中国、利用人工智能技术进行影响力操作的网络活动。这些行动主要涉及使用AI生成的虚假社交媒体账号、深度伪造视频和自动评论机器人，试图散布信息以影响国际舆论。OpenAI通过追踪账号行为模式、语言特征和内容传播路径，成功标记并关闭了相关账户群组。报告强调，随着AI工具易用性提升，此类操作正变得更加隐蔽和高效，呼吁行业加强跨平台协作与情报共享。此外，OpenAI更新了使用政策，明确禁止将其技术用于操纵舆论或干涉他国内政。"
+      "summary": "AWS发布的文章探讨了前沿团队如何重塑AI原生开发模式。这些团队打破传统软件工程思维，将AI模型作为开发的核心构件而非附加模块。具体做法包括：使用大语言模型直接生成代码、通过自然语言描述功能需求、利用AI自动优化架构。同时，团队注重数据闭环和持续学习，使应用能随模型迭代而演进。AWS指出，这种开发范式要求工程师兼具软件工程与机器学习技能，并依赖云原生工具链的支撑。AI原生开发正在提升效率，但也带来可解释性、安全性等新挑战。未来，该模式可能成为行业标准。"
     }
   ]
 }

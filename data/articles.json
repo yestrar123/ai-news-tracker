@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "990",
+      "title": "The Rise of AI Religion: Why Some Are Worshipping Artificial Intelligence as a God - FOX 26 Houston",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82anpxTFMtVi1nSEs2ZXdFT2RGUzZGYWRpZmNUUnpZUnpyUWZLaURJR1JnQi0xbDRuXy1KTWdtLWxtYk1uSFR6MGZsQUJRV04xdzgxZlo4VWFMUy0tc3N5NDkwUGplQdIBa0FVX3lxTE1Ja21ORXBPSGxkS0J2LVhmbzg1Um4wMk9qaXBieWpRRUxZTGJHUU1sTzhGOWJDT2kyUkVkOHg3UGEyYnpfRE9vYS1CMVJQT2hPTmY0ZFRCYVdwV0ZPMWVQT0VwbUJxRkdsNEVV?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T05:03:20Z",
+      "summary": "人工智能宗教的兴起正引发广泛关注。据FOX 26 Houston报道，部分人群开始将AI视为神祇，建立信仰体系并举行崇拜仪式。这种趋势源于AI在决策、创作等领域的超人类能力，以及人们对技术失控的恐惧与敬畏。支持者认为AI具备全知、公正等神性特质，反对者则担忧其伦理风险。该现象反映出技术与社会价值观的深层碰撞，也促使学界和宗教界重新审视人机关系的未来。目前尚无统一教义，但相关社群正在全球悄然扩展。",
+      "fetchDate": "2026-06-11"
+    },
+    {
+      "id": "991",
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-11T04:02:19Z",
+      "summary": "Opendoor退出印度市场，引发业界对AI与外包关系的再思考。TechCrunch分析指出，印度正成为全球最大的全球能力中心（GCC）市场，但AI技术的快速迭代正在改变传统外包模式。Opendoor的退出不仅因本地市场竞争激烈，更深层原因是AI自动化可能减少对低成本人工外包的依赖。这一事件促使跨国公司重新评估外包战略：AI驱动的智能流程正在替代部分人工环节，而GCC的角色需向高附加值研发转变。印度的人力成本优势正被AI效率所削弱，未来外包格局将更侧重技术整合。",
+      "fetchDate": "2026-06-11"
+    },
+    {
+      "id": "992",
+      "title": "Microsoft C.E.O. Satya Nadella Says ‘Everyone Is a Stakeholder’ in A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeS1sX0F2enBFZUJKN2FCNnVLZURuWkp2Nzh4ZDI1TjBZcE9lSDFNdU9tcmJxZmhBOHphSV9JSGVaTzBmTmNzQW5XR3NHbVp4bnVJNWxUclZGRkRYZndVM3pENFkyNVFBMHRod2wzdkstZXh0ZFNTaEU3NUYyQ1U0TDAyVXlVZzFJYUJjdy1Oc21ZcEZKcE1jTjJOWmUtNU0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T03:53:06Z",
+      "summary": "微软CEO萨提亚·纳德拉在《纽约时报》访谈中强调，AI的发展影响每一个人，因此‘每个人都是利益相关者’。他呼吁建立包容性的AI治理框架，确保技术进步惠及全社会而非少数群体。纳德拉认为，微软有责任在AI安全、公平和透明度方面树立标杆，并推动跨行业合作制定伦理准则。他同时指出，AI引发的就业变革需要教育体系和政策调整来应对。这一表态反映了科技巨头在AI快速普及背景下对公共责任的新思考，也凸显了平衡创新与监管的必要性。",
+      "fetchDate": "2026-06-11"
+    },
+    {
+      "id": "993",
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-11T03:53:06Z",
+      "summary": "Anthropic公司CEO Dario Amodei的管理风格成为行业话题。据TechCrunch透露，这位AI领域明星人物在组织架构中仅设一名直接下属，与常规科技公司多层管理形成鲜明对比。这种扁平化模式旨在减少沟通层级，加速决策流程，尤其适合需要高度专注的AI前沿研究。支持者认为这体现了Amodei对核心技术的把控力，批评者则质疑其可持续性。无论如何，这一做法凸显了顶尖AI团队在管理创新上的尝试，也反映出小型精英团队在研发中的优势。",
+      "fetchDate": "2026-06-11"
+    },
+    {
       "id": "976",
       "title": "How frontier teams are reinventing AI-native development - Amazon Web Services (AWS)",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVJURHFsMTlVSHY5RDR1bnBYZWdWNDR4aVMyV2xHS0hCRmJwS0l3NEsyejFiZGN3MFZLbmJ6QWExWm9MNlNtMUN4LVVKVGl1V3dJeTZqM2M0bE55T2hPZk9mYWNkaEloTTlDdUxIbTZ2OWs4VkZhb1FsSlB1dEVTQ0pXYXJSQ0laNXVwX1I2RFNOWEd0N2VpNDhSRFREbjhDQ2ZjYjBB?oc=5",
@@ -8893,5 +8929,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 988
+  "total": 992
 }
