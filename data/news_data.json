@@ -1,118 +1,160 @@
 {
-  "updatedAt": "2026-06-11 15:32:52 UTC",
-  "totalArticles": 16,
+  "updatedAt": "2026-06-11 20:09:35 UTC",
+  "totalArticles": 22,
   "articles": [
+    {
+      "title": "Steven Spielberg Explains Why He Chose 'A.I.: Artificial Intelligence' Over Directing 'Harry Potter' - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRUhLYUxXRUZiVFBnRDFjTjJzMm9obnROZXNMbHVFc0JVODF1MHhIaXVsYzJLYlM1dzAzRF96d0pZRl9XeG9SeEpUdHdMNU55dFMzTHE0V3pEN3YtZTgzUk90MVZsTTd3TWQ0cHZXTmZlRlIyUzJuamx3VERYSml4OXpaUHlIUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T20:04:07Z",
+      "summary": "著名导演史蒂文·斯皮尔伯格近日解释了他为何选择执导《人工智能》而非《哈利·波特》系列。斯皮尔伯格表示，他被《人工智能》中关于未来世界与情感连接的深刻主题所吸引，认为这部电影更能发挥他在科幻和人性探讨方面的专长。尽管《哈利·波特》是一个极具影响力的奇幻系列，但他更倾向于通过《人工智能》探索技术与人性的边界。这一选择也体现了他对原创故事和哲学思考的偏爱。"
+    },
+    {
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-11T19:58:01Z",
+      "summary": "SpaceX的SPV（特殊目的载体）投资者在公司上市后将面临诸多不确定性。由于IPO后的锁定期安排，这些投资者无法立即知晓自己真实的持股情况。此外，次级SPV投资者还可能遭遇隐性费用、漫长的支付延迟甚至欺诈风险。这一现象揭示了SPV结构在太空探索等高风险投资领域的复杂性，投资者需谨慎评估潜在风险。"
+    },
+    {
+      "title": "Opinion | How AI can revolutionize conservation - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3pxY1lrVDRzSmJXSWNtWi1QTnJQQUpwdVR6cmdpcXNzbWtPSk9BaWxsR2dzVHhmVGpqcy1yTDhEYmt5X2dxWURPcUNQMmVGXzdRdEFobTU4RktoZzRpS1k1OTd0emdTUUJWT29SN0d2bEMtVEZEb3I4bkFkN28wZXRhS3d5cG5WX254MTFkVHZOUm8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T19:53:01Z",
+      "summary": "《华盛顿邮报》观点文章指出，人工智能有望彻底改变自然保护领域。AI技术能够高效处理大量生态数据，例如通过图像识别监控野生动物种群、预测气候变化对栖息地的影响，以及优化反盗猎巡逻路线。与传统方法相比，AI可以大幅降低成本并提高精度，为保护濒危物种和生态系统提供前所未有的工具。然而，文章也提醒需关注数据隐私和算法偏见等挑战。"
+    },
+    {
+      "title": "Got $1,500? 3 No-Brainer Artificial Intelligence (AI) Semiconductor Stocks to Buy Before They Soar Once Again - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVE82bkNlZlpQY1V0cGdwVVVuRVZ4UTVQUGs2ODdOeUx5R1VkNHB3N0lDS3hOWUpaM3pVMm4tQVk4Z2RfSzhtR2ZYR1pBZ3UzMl9HcW1CUmRva0IzeWV5eDhIOTFRUEhLRDBGNlFSLTBTZ2dPVXpCWXhRMldxYS1vcElIemx0ZV9xcXROUXRpc3E4UUpyVFdLQg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T18:49:54Z",
+      "summary": "投资网站Motley Fool推荐了三只“无需思考”的AI半导体股票，认为在下一轮上涨前值得买入。这些公司专注于为人工智能工作负载提供关键芯片，包括高性能计算、数据中心和边缘设备。文章指出，随着AI应用爆发式增长，对算力的需求持续攀升，半导体企业将直接受益。投资者仅需1500美元即可布局该领域，但需注意市场波动和行业周期风险。"
+    },
+    {
+      "title": "Subtle Medical wins FDA clearance for CT image enhancement software - AuntMinnie",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSHlsR3VHaXhBeV9TcldwRlpsM1d4VnZCSlVPbG5XbW5Vek9aeHNCdTlhT0VuS3piMnBxYU1mVnU5OU5hb01mT28tcC1jTVNIanJDZUUxLWV6bEp2TERTQlFlNlBjY3pUME9mdERIS2tpcVJWWHB0QU0zR3o4REdjam1hSWotLXJkMkF2NHQ0T0NHZng0SzY3dnkzU0g3ZmZVbXpOcEpIM1JhQTRzYmhWNlVnOThZOEZ3Ul8xbC0xT2lRcGZjUFV1d3Z5cWxKNXJqbDdldmJ4VzNqd29LN094S1BOeGFvU00?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T18:37:36Z",
+      "summary": "医学影像AI公司Subtle Medical的CT图像增强软件已获得美国FDA批准。该软件利用深度学习算法，能够在低剂量CT扫描中显著提升图像质量，同时减少患者辐射暴露。这一技术有助于更准确地诊断疾病，尤其适用于需要频繁影像检查的慢性病患者。此次获批标志着Subtle Medical在AI医疗影像领域迈出重要一步，加速了其商业化和临床落地进程。"
+    },
+    {
+      "title": "DataFirst launches imaging classification, normalization platform - AuntMinnie",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1ptdG00bEUxMHd2dWdBOWwzYVdsamdLRXFnRDZ1MTBNVmQ0aVVuNDFuLTVlN3VPcmstamhTby1XVTZaWmVDZE1JdXlPWXptOG02R29yaVVHQTYwdGdvem5OTXpLc2NQcGdSbzhJZGlqV1RCbmhlNW93MDJpcnRPZ1JTRXBNSS15M3JOeG02WVUxd1gtc3RjSDhUeFE2ak13a2pTTWw2WVpYZWtCakRzZlF3VE1VWXh2UWFyRHMyLVgxaWpEeUV3d0kwOU5aMW1HZnFyb1FFMUdVbUJ0VkdLYTdHNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T18:37:36Z",
+      "summary": "医疗数据公司DataFirst推出了一款全新的影像分类与标准化平台。该平台旨在解决医疗机构数据格式不统一、标注混乱等问题，能够自动对各类医学影像进行分类，并将其转换为标准格式以便于跨机构共享和分析。通过AI驱动的自动化处理，平台可显著提高影像管理效率，降低人工成本，为精准医疗和临床研究提供可靠数据基础。"
+    },
+    {
+      "title": "AI use is surging across HHS, jumping 148% at the FDA in 2025, Bipartisan Policy Center data finds - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcjhELUdUeFc5UDIyRy05YS1RRzVqN01scWlqV3R6X3JvX1F0MVBpc1ZncHpyOUs5ZHh6aWhPODI1OHRkdWlaajdDRGk4OFpMNU1mOWpXR2NpSnB3TjBwYlN4a1lpR3hDMmZQV2VBQTh6QmZsRVc4ei11dTM1VE5XbWVSRUhNUmFBWnpWQUgySXVyMFl5WDMyUGpWd25OWm8tVUJLME1kWjhOelY2RHQtdlZLdFViVEZ2bXNBMWgtQTcxcGZsSC1jU1E3a18?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T18:00:00Z",
+      "summary": "两党政策中心数据显示，2025年美国卫生与公众服务部（HHS）内AI使用激增，其中FDA的AI应用同比增长148%。AI被广泛应用于药物审评、不良事件监测、临床试验设计及医疗产品监管等环节。这一趋势表明，美国联邦卫生机构正加速拥抱人工智能以提升监管效率和决策质量。但专家也担忧，过快部署可能带来算法透明度及安全性方面的隐患。"
+    },
+    {
+      "title": "Abridge picks up strategic investment from Eli Lilly, expands payer, research workflows - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVVXMk02aTliaXJLSTVfNEttVGtzbjNIMDd1QmNhLVRqczN1N3dNaloyVHEzMzhvc29jamJxMmZ6U2o1OVM0bURwZ2V1MkF0WjhVUTRhQzhZZTFvVTBaTGV3dWdfaHhSbVhVbWRMYUtfQUdJLW4tclBXaE5aSjBFZW5WOG5qVVM4eENhdno5SkpsMzVocDFab0ZMTXZzUmo0TGhrekItQXdCZi1EMVhROHRvdUZhRWg0bzZrQWU1UHk5RExHRWw2eGZ3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T17:01:00Z",
+      "summary": "医疗AI初创公司Abridge获得了制药巨头礼来（Eli Lilly）的战略投资。Abridge专注于利用AI改善医疗文档和临床工作流程，此次投资将用于拓展其在支付方和研究领域的功能。通过与礼来的合作，Abridge有望加速AI在药物研发、真实世界证据生成以及保险理赔等场景的应用，进一步巩固其在医疗AI市场的地位。"
+    },
+    {
+      "title": "Artificial Intelligence (AI) ETF Showdown: Vanguard's VGT vs. the iShares SOXX - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEEyZTZ0a05nVXFKZERLZXBzaHUtRlNid01uR2VEV1haNmpjWUpESmdUZldUakk1VnFwYXRWZHo3QmgxMkNRUmxIYUhURmxOa3U1ZzlmR1puaUYxTjZ3bVp1Vl94LXlaSDFpdXp4MXdka3U2NHJ1OEIweldOZzJVN1UzLTVJZV8yYXYzbGhHMUhsVFRGYkpGSllHZHlHZGM5OVZUR0lFVHdYRU1rbTlvYVBYVWc1YVI0aVF6ejVB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T16:58:29Z",
+      "summary": "投资网站Motley Fool对比了两只热门AI ETF：先锋集团的VGT与iShares的SOXX。VGT覆盖广泛科技公司，包括苹果、微软等AI应用巨头；SOXX则专注半导体，如英伟达、英特尔等芯片制造商。文章分析了两者在费用率、持仓集中度及历史收益上的差异，认为投资者应根据自身风险偏好选择：看好AI软件生态可选VGT，押注硬件算力则SOXX更佳。"
+    },
+    {
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-11T16:36:20Z",
+      "summary": "音乐流媒体平台Deezer推出一款创新工具，能够从Spotify、Apple Music等平台扫描歌单，识别其中由AI生成的音乐。该工具通过分析音频特征和元数据，鉴别出非人类创作的曲目。此举旨在应对AI音乐泛滥可能导致的版权和透明度问题，帮助听众辨别真实创作。Deezer表示该功能将逐步推广，并计划与其他平台合作完善识别机制。"
+    },
+    {
+      "title": "BVI Finance's Fintech on the Seas 2026 focuses on AI and digital assets - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUI0eENnb0dhU3o3SjUyUjNZdUk3YmR6QzNHOEhwbjk3SDFKS1JRQVRvZFJ6aTdfcHJDMVNVNzY1WmYwck5SaDE1YTMxUF9SOW9OWXJvVFh0QzdIN3Z2cVk3V1JkT00xNjNxOEVHOWFURXF2U0VqVmxiM092RjF4UkdINTRzcC04NWtTNy1XZHhfZ1RMYzJ4SHhwTGxhYjBlQ3JvQXR1VWh5UERxNE14WEVYS3o?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T16:33:03Z",
+      "summary": "BVI Finance举办的Fintech on the Seas 2026会议聚焦人工智能与数字资产两大前沿领域。该活动旨在探讨金融科技如何在离岸金融中心融合AI技术与加密货币、代币化资产等新兴业态，推动行业创新与合规发展。会议将吸引全球金融科技领袖、监管者及投资者参与，共同展望AI驱动的数字金融未来。"
+    },
+    {
+      "title": "4 Artificial Intelligence (AI) Companies Are Planning to Raise More Capital Than the Entire U.S. IPO Market Did Over the Past 5 Years. Investors Should Consider 2 of the Stocks and Put the Other 2 Aside. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb3ZBRzFvQUdlU3RQdGlwVFR2ODZxQVZMSEpkTVJpTi1YN2lzZlRVbHhNMnA3YVBrbEZuSDl1d18xZG84bXFLSnM3NlZEY2toU1RVWm5DM0FXelpsTWRUMjFtN3N3V0F6d3kzY19PcWxPUlRxTXFsZXFCWm9pUXNfLTBiV0ZtWURjLVpjR1FRTExsQVpnaXo0Qg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T16:23:21Z",
+      "summary": "据The Motley Fool报道，四家AI公司计划融资总额将超过过去五年美国整个IPO市场的融资规模，凸显AI行业资本密集度急剧攀升。分析师建议投资者重点关注其中两家股票，认为其具备更稳健的商业模型和增长潜力，而另外两家则因估值过高或技术路线不清晰需谨慎回避。这一现象反映了AI产业对资本的巨大渴求及市场分化趋势。"
+    },
+    {
+      "title": "Jensen Huang Just Told Investors to Buy This Under-the-Radar Artificial Intelligence (AI) Chip Stock (Hint: It's Not Marvell) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1B2WUxzSVl4QXNrNmpKWGJtbWlfQkdJWXR1aF9FbXlFY1J6VlVLcTI0ZkZLNWJRX0RBOWQ5X3l5WW5KekxKdzA2Z2Fac1FlOGZTMmo0dUVaMmNEVDdHUGlWR2dheGtFQXpYTEx5b3dsVTVzUWhyUDEwWTdVMEx5R0JSSmhXODU4cERrTzljY1BwM3NRZkY4RWZINzhLZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T16:13:00Z",
+      "summary": "英伟达CEO黄仁勋公开暗示投资者应关注一只被市场忽视的AI芯片股，并明确提示并非Marvell Technology。这一表态引发市场对该未具名股票的广泛猜测，分析师认为黄仁勋的推荐可能指向一家在边缘计算或推理芯片领域具有独特技术优势的初创公司。该消息推动相关板块股价波动，彰显了AI芯片行业竞争格局的微妙变化。"
+    },
+    {
+      "title": "Deezer launches free AI music detector for users of major streaming platforms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZTRUWEJDRElfMzZlSzhNUnlEWUc3RUVleTVXcXJHbmhOVGFPSFhYczNfUUFJaUxkWjJVVktJam50bnR6VlpGeXlyYmtzYnRlaG1UUFVGMWFJUkdsQlU4TC1FZTF1SnBoRGhMT09oNkVIck44WnYybDNSMmVwWjBOYzNzOHIzdXYzU0NRaWd0d254RE83d2dGdkxnY196OENJU294YzJoVVVaN2hKZ3ZCQVR6S28zd2Etd0R0YkhlZzk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T15:42:09Z",
+      "summary": "音乐流媒体平台Deezer发布了一款免费的AI音乐检测工具，面向主流平台用户开放。该检测器可识别由AI生成或合成的音乐内容，帮助用户区分人类创作与AI作品。此举旨在应对AI在音乐制作领域日益泛滥所带来的版权和真实性挑战，为行业提供透明度工具。Deezer表示该技术基于深度音频分析模型，准确率较高。"
+    },
     {
       "title": "Pool’s new app turns your screenshots into something useful",
       "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-11T15:30:00Z",
-      "summary": "Pool推出新应用，可自动将截图归类到个性化收藏中，并追踪截图背后的原始链接，帮助用户重新发现之前保存的商品、食谱、旅行灵感等内容。该应用解决了截图堆积无用的痛点，让用户高效管理并找回有价值的信息。技术核心在于利用AI自动识别截图内容，建立分类和链接追溯。该应用提升了数字内容的可复用性和组织效率，尤其适合购物、美食和旅行爱好者的需求。"
+      "summary": "新创公司Pool推出了一款创新型应用，能够自动整理用户设备中的截图，并将其分类至个性化收藏夹。该应用还可追踪截图内容背后的原始链接，帮助用户重新发现之前保存的产品、食谱、旅行灵感等信息。Pool旨在解决截图堆积成灾的痛点，通过AI视觉识别和链接映射技术，将碎片化信息转化为可复用的实用资源。"
     },
     {
       "title": "AI absolutism is breaking our brains. The apocalyptic future we’re being sold isn’t inevitable - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSWc4aWFjWUFGdjhMYlp1UDJkemlXdzJnY2l0RHpxQWJaaV9OMG5OVXB1TC1qQXM1SXppVUxhRXJydmV0dzZkVTNNY2VMQ3hOaTZKNmozeXI3UkwzQUc0enpoWkVBSkdPbFdXcXJiOTd3TzRKeUpFTzJZYmczcWswRC1GRUEzUTF3WEFv?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-11T14:38:00Z",
-      "summary": "《卫报》发文批判AI绝对主义思潮，指出其正在损害人类思维，但警告人们不必被宣传的末日未来所吓倒。文章认为，AI发展带来的极端叙事并非不可避免，呼吁社会理性看待技术，避免陷入非黑即白的思维定式。作者强调通过政策引导和公众讨论，可以塑造更可控、更公平的AI未来。这是一篇对AI恐惧情绪的重要反驳，强调人类能动性。"
+      "summary": "《卫报》发表评论文章，批评当前社会中蔓延的“AI绝对主义”思潮——即认为AI发展必然导致末日或不可逆的负面后果。作者指出，这种叙事正在扭曲人们的认知，但人类仍有能力通过政策、伦理和集体行动引导技术走向。文章呼吁公众不要被动接受被贩卖的恐惧未来，而是积极参与塑造AI发展方向。"
+    },
+    {
+      "title": "AI Isn't Replacing Us; It's Consuming Us - Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1B5OXBSZUdkajVweV85VF9aWjVDa1BFTVBjVWxxRzdEd1lhMWtQRUVxbUgyU0Zvdm95TENHalByQ2JkWVZUMG1OWEtrcWdSMFpEUHRNbG1La19UUDZrc21FdE1kYWEwVzNITzVMRFZqNmlpdGZuM0N2T3hjRzVwaWRuMlJTOXJqZWZaMnVlSWx0aEtQR2trcnpNWWFqSDdHLXI4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T14:33:18Z",
+      "summary": "《今日心理学》刊文探讨AI对人类心理的深层影响，提出AI并非简单地取代人类工作，而是以更隐蔽的方式“吞噬”我们的注意力、决策过程和情感体验。文章从认知负荷、算法推荐和社交互动等角度分析，认为AI正在重塑人类的行为模式和心理边界，提醒人们警惕技术依赖带来的自我异化风险。"
     },
     {
       "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
       "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-11T14:23:43Z",
-      "summary": "DoorDash推出名为Ask DoorDash的AI聊天机器人，支持用户使用自然语言或上传照片来搜索餐厅和商品，无需手动浏览菜单即可完成点单。该功能利用AI理解用户意图，直接推荐匹配选项，大幅简化订餐流程。此举旨在提升用户体验和下单效率，同时为DoorDash探索更智能的AI交互模式，有望推动外卖行业向对话式、视觉化搜索方向发展。"
+      "summary": "外卖平台DoorDash推出名为Ask DoorDash的新型AI聊天机器人，用户可通过自然语言提示或上传照片来搜索和下单。该机器人理解用户用口语化描述的需求（如“想吃辣的东西”），并自动匹配餐厅和商品，省去了传统浏览菜单的步骤。这一功能显著提升了点餐效率，也代表了对话式AI在本地服务平台落地的趋势。"
+    },
+    {
+      "title": "Better Artificial Intelligence (AI) Stock: Marvell Technology vs. Broadcom - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTERydnp1c3M5X3YwX0ZzQXRVTlR4LTN1QW1SUmN1QVBTeTVMWU1LTTBKMlZFcnhwUWc2LUJoZGRZeHBUMklhUEtwZlRabHE1clBwdkJTZ1VhelFuUm94MDUxX0Vpcy1wZGhKRk1TM2FsVzZWZ2dhRUtvLUVwWkpaMG1rRGNYQzQzSW1UcG1MMGc4UTZNYk5xZg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T14:23:00Z",
+      "summary": "The Motley Fool分析了Marvell Technology与Broadcom两家AI芯片公司的投资价值。Marvell在数据中心网络和数据基础设施领域表现强劲，受益于AI训练对高速互联的需求；Broadcom则凭借定制AI芯片（TPU类）和网络方案占据优势。文章从营收增长、市场地位和估值对比两者，认为Broadcom在规模和客户粘性上更胜一筹，而Marvell在特定细分市场具备弹性。"
     },
     {
       "title": "AI will create more jobs than it disrupts, says Microsoft India chief - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEw3ZUtuSEhsT2hrZVpnbkRtY2RJMmtUQkxSbDZMMlZ4MFlHUDFkSDUwazRqcUhWWklGZTF1Ymsydm9ybFEtTm96Qm8tSHhmb0ZMMFg1aHRCcU5zbUVNUW9mRXZkWU1pOHVjbjFkeEROcXRmS1FRd3o3STBfcEtyYUpOSUxfZC1PLWQ0U0N2SXUwajhPSmlkcENqTEJ2ZjNMMVEyNVJwSGFjYU9haDAtb0hOeDhqQUw1TWFKQTI5WDBKal9QTFNJTUxkUFNTcktRbE56b0NwT3lVRGlndUZfVzNMeFFBMERZZ3F0blZR0gHzAUFVX3lxTE9aM09yTEx6UjlZb0JpVVh6SzF0RVU4NlpPYk54b3hCSlFKX2ZBMTdURW83ZWVYemc1cjFjQ1BzMnFSZTA4dUh1dUpBNWVnWVYzNVVReVJzenlWemJhQVUxZTRrMlpYMzUtVVpkMDBFUkl4SjdUOE91Z0w2N1YzZHNkTnZwc1dXWHFudGcwWmp3ZFBJd2JJell0UkdXRlJaa084Z01MUnhDYzIwd3FMY0N6ckVpZ2pOTk9rUVI0R2pQU0lyR0p5cHJmZWEzZm45cEx4akpBMVNhbWNBSlBrS09UbGRtOGp1c3IyZC1VRGVuaWNPbw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-11T14:21:57Z",
-      "summary": "微软印度负责人表示，AI创造的就业机会将超过其取代的岗位，强调AI对劳动力市场的积极影响。他认为，AI将催生新职业和岗位，同时提升现有工作效率，关键在于通过教育和培训让劳动力适应变革。该观点与传统AI威胁论形成对比，为印度及全球企业拥抱AI提供了信心支撑。微软正推动AI工具普及，以赋能更多行业。"
+      "summary": "微软印度负责人发表观点称，人工智能技术最终将创造比其取代的更多就业岗位。他强调，历史技术变革规律表明，新工具会催生新工种和产业，AI也不例外。同时呼吁政府与企业加强技能培训，帮助劳动者适应AI协作型工作环境。该言论试图缓解公众对AI导致大规模失业的担忧，并倡导积极拥抱技术变革。"
     },
     {
       "title": "Open-source artificial intelligence is reshaping the future of humanity: Scientists question, if the world is ready - EurekAlert!",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xQml4TXIzczFsTTFaTHFfc3pHV2ZUX2dlRGNjbFBINWZuMVhSNWY0RGxwdzJuSUw0Q1phY0huN2I4X3VpLVQ1RTI4ektOeGNnV3pieGw5cjAteHdC?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-11T14:17:14Z",
-      "summary": "科学家警告，开源AI正迅速重塑人类未来，但世界可能尚未准备好应对其带来的深远影响。开源AI降低了技术门槛，加速创新，但也引发了安全性、伦理和治理方面的挑战。研究者呼吁全球合作建立监管框架，确保开源AI的发展符合人类利益。文章指出，在享受开源AI带来的进步之前，必须认真考虑潜在风险，并与时俱进地调整社会制度。"
+      "summary": "开源人工智能正以前所未有的速度重塑人类未来，但科学家对此提出质疑：世界是否已做好充分准备？开源模式加速了AI技术的普及与创新，推动医疗、教育、能源等领域的变革，然而其双刃剑效应也引发担忧，包括算法偏见、就业冲击和恶意滥用等风险。专家呼吁建立全球性的法规与伦理框架，确保技术发展可控且有益。若缺乏前瞻性治理，开源AI可能加剧社会不平等与安全威胁，人类必须审慎应对这一技术浪潮带来的深远影响。"
     },
     {
       "title": "AI Productivity Gains Precede Expeditors International’s Uncharacteristic Layoffs - WWD",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQTNsdkF5bU9QaXpkcFdJM1FObkhfNkxHV1FyYjVneFNST3oyaW9OdGk1MFktSTBtT0tqVU5GTGpSc2hpRi0yLVJXZE1RWG9SY1l3VlhDX0ZSTFE2bTRoQm54YnlsUlc3dE9zTC10dVYwY24xcTQ3YTR2eDh6Wk1NS0xBaXowZk5HbnVTWjg2Mm94TXVKOGR4UHQwaTY2RDhrM0J6YVBlekl5OU9tWGtETHNULXh4RF92STFSdkI4aWZtcHl5emc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-11T14:13:28Z",
-      "summary": "物流公司Expeditors International因AI带来的生产力提升而进行了罕见的裁员。公司通过AI优化运营、减少人工需求，实现了效率飞跃，但也导致部分岗位消失。这标志着AI在物流行业的应用已从辅助工具变为取代部分人力。报道分析，企业需在追求效率与保障员工权益间寻求平衡，AI引发的就业结构性变化值得关注。"
-    },
-    {
-      "title": "Half of Indian firms plan AI-powered payroll rollout in next year: ADP - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVkN2QXBiWWdOa0pSUmpqY0gzYVM3RmRtbmdXVVFRekhDczlwTm45Z2gwOEJVUUhFZGRvcU5MQ0RfTFNpTVpSOWdCQnNWQlZpeDVGd21lVTJUS1BBbnpUbmxkQ1NTQkdpb0FzbzlBbUZObVRpY3dBRVVZdV9rYkRHTVFZMzF1d0JUcE92em80VDUwd3hWY0c3clR5QVE0SzcxX3JfeXgxbTFoX25TNzRYR095bG81cjExa2JLaFZObmROclkzOHhMZmh3WWd4QnotWGFOTGhjejNYdFBud3dYUHZWR0laZUUwTXpuLU1KWdIB9AFBVV95cUxPdVBUTHN6dWc3S0tRT1BZdm5LYTNNWkU0TDFLZ1h0N0ZEZDhZN0NWcUZHNFBVTW81M0pTelFLRWRxXzBaTzBISjh3anhnSndDYnFlMlNWWjlnbVVFSFdnNjlsQlFNUE1EWWdSWGlQZlBaMlNwcGZMa2VmcjM2RGoxeGpXaEZReUZqRlc5a1lUREYxT1FTa1JlY2stRlpIYTdaNjVhczZkTzJYcFVYeTJUQV9TWll1UGhhWDVpajVWLW1JWW9IbXJCTndBb0phZGRCM2lSa0hFQUQ3WEF2R25RREVaRzZDVnJLRFJrU2p4SmN2akJy?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T14:04:28Z",
-      "summary": "据ADP调查，约半数印度企业计划在未来一年内推行AI驱动的薪资管理系统。这些系统利用AI自动化处理工资计算、税务合规和数据审计，可提升效率、减少错误。此举反映了印度企业加速数字化转型的趋势，AI在人力资源管理中的应用正从辅助走向核心。但同时也带来数据隐私和算法公平性的隐忧，需谨慎部署。"
-    },
-    {
-      "title": "Jeff Bezos Wants to Build an ‘Artificial General Engineer’ - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeUpUUl9lcDUwVDctMUNOSGZWYnh4bkZtM0NDVmRvbU1DbllKY0RLTk5LYWdwM1g3dUF6cnhSNTNDZ3VoM09ja19XZk9VVzlzWEwyR1dvTnMzTWdwNmJGOFlTTnZ5QU5kOWVRMmVpZWVhR3RLLVRmS1FLa2dneFVid2xueXdpQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T14:00:05Z",
-      "summary": "杰夫·贝索斯提出构建“通用人工智能工程师”的愿景，旨在打造能够自主完成工程任务的AI系统。与追求通用人工智能不同，该概念更聚焦于工程实践中的设计、编程和调试能力。贝索斯认为这样的AI将极大加速技术研发，并可能成为未来AI竞争的焦点。这一想法引发了关于AI能力边界和未来工作形态的讨论。"
-    },
-    {
-      "title": "Can we move from individual aspirations to ambitious impact? - Psychology Today",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXBCc0ZsbExGZjFlXzl6c0F2NDRuS25EMDFTNVlSd3dpOU5ieGROTEg1UVktQUszYld3YlRvZ0xwSHp4NGdnMlZsWHNyWkprUnZLSUFzY1lsRVZLQjBGMWZxYW1wSWN1QVhBNUJhbWVmdUJqMkRTOXdvMUdXcUo5SmI4M1JybjVJZG1nQXhNdG9FekRWUDNkd194SjlRam9lTGdJaG40b013Q21VSThmZlgyNnBmSk16b1I5ejR30gHDAUFVX3lxTFBBenRwZXRxM0lBaEQzc3lnNno4aWRadm9fdEJ1cG9TeHpoWUtpTHBFRjdCUDBEZlk4WGZaekhDYTZRZWx1S215c2dCWncxbWhwbjZDTlZKTHFHTVhaV2c2Qm5OcGpLT1ZCdU9jem5nM0dnRGRtYWtpRFpmbEJjc3B2dTl1REVvS2VheFRFQ2RybFc0b2VuNjdfWUgxc3JKZjA1N0Vfdi12cFZzaGhNanJ6anhHZ1NGbFFIV2NtRFZrOUVOcw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T13:59:08Z",
-      "summary": "《今日心理学》文章探讨如何将个人抱负转化为具有影响力的集体行动。作者分析，许多人虽有远大理想，却因心理障碍（如恐惧、拖延）或缺乏资源而止步不前。文章提出通过建立协作网络、明确共同目标和利用社会动力，可以实现从“我”到“我们”的跨越。文章强调，个人成长与社会进步并不矛盾，关键在于巧妙结合。"
-    },
-    {
-      "title": "Better Artificial Intelligence (AI) Stock: Marvell Technology vs. Broadcom - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTERydnp1c3M5X3YwX0ZzQXRVTlR4LTN1QW1SUmN1QVBTeTVMWU1LTTBKMlZFcnhwUWc2LUJoZGRZeHBUMklhUEtwZlRabHE1clBwdkJTZ1VhelFuUm94MDUxX0Vpcy1wZGhKRk1TM2FsVzZWZ2dhRUtvLUVwWkpaMG1rRGNYQzQzSW1UcG1MMGc4UTZNYk5xZg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T13:28:40Z",
-      "summary": "投资网站对比Marvell Technology与Broadcom两只AI芯片股，分析二者在AI市场中的表现和前景。Marvell在定制AI芯片和网络解决方案上具备优势，而Broadcom凭借数据中心和云连接领域的强大地位更显稳健。文章从营收增速、研发投入和客户依赖度等角度对比，指出两者各有千秋。投资者需根据自身风险偏好选择，同时关注AI芯片需求的长期增长趋势。"
-    },
-    {
-      "title": "25 years later, Steven Spielberg finally reveals one of his biggest sci-fi movie regrets - Polygon.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEdXamxpMWFfSmR4a0owYzJnVFJWZE1pQ3dOeWgzb2J0Tm9kVU0zdXZELUVPeGpkNmZRS0l3a3RvSm9UWGNIejRaWlhhc1dUemY5WXJaNTJQLUw2S3ZFTDlNc0R2UEc2Y3pBRG5uUVdUc1A2V2tWX3I2V0FHOE16S1A0c1Z1Wndua2ZOUUZWZTJIWEZzUFJZV3hR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T12:00:21Z",
-      "summary": "在电影《人工智能》上映25年后，导演史蒂文·斯皮尔伯格终于公开承认了其科幻电影生涯中最大的遗憾之一。他反思自己当年未能坚持更忠于库布里克的原初构想，从而影响了影片的深度与情感表达。这一告白不仅揭示了两位电影大师合作背后的艺术权衡，也引发了业界对经典科幻电影创作决策的重新审视，展现了技术想象力与人文关怀之间的永恒张力。"
-    },
-    {
-      "title": "As artificial-intelligence capital expenditures rise, so do the risks for AI stocks, Goldman Sachs tells investors - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM1FOZkNWYzRkU1hDbjFSRXAyUGtXaEhlNHM3aWh6aE5uY0x2VUdscHVuNkctUjdxb04wblU5aU95dWNDRjBleFRLaUpfcFNSaWJESnBkcU1MRUhyTC0tQjNVa1paN0h3VW5ESXA3Y3h3RC1YRDdfRHlvUUktbUVZcF9MSDlRNlpUXzhMaXpfdWxJTGJ4eTBFSml2MW1haUlSSG0xem85RlNoWno5NWFsSFBVODhwUW1ERV96bHhkeEliSWcwZklXSXVnMWpSYUlvakl6emExMzdxOTk5bGZSaWhDR2pyYzAyTWVZ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T11:56:00Z",
-      "summary": "高盛向投资者发出警告：随着人工智能领域资本支出持续攀升，AI股票所面临的风险也在同步增加。报告指出，尽管AI技术前景广阔，但高昂的基础设施投入、激烈的竞争以及不确定的回报周期使得投资风险日益积聚。这种‘烧钱换增长’的模式若无法转化为可持续的盈利能力，可能引发市场估值修正。投资者需警惕过度乐观预期与实际商业落地之间的差距。"
-    },
-    {
-      "title": "John R. Dearie: America needs a consistent national approach to AI regulation - Chicago Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV0FxaDNaWENSaklHMERfUEtQOFU2bFB5M0dFbXd6WXg3aUdCcGtIOURHejJKNnlrZjgzajB1SDYwdnJZS2s2X0JnbmY2NmlwUUVxWG9QcjV4UUpMY2FLWEJGUGlIRmJ5aUFmZFlNRUliSVJmNFZMRTYzUTZZSG1lZ2xn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T11:00:32Z",
-      "summary": "约翰·R·迪里在《芝加哥论坛报》撰文呼吁，美国急需建立统一、连贯的国家级人工智能监管框架。他指出当前各州碎片化的立法不仅增加了企业合规成本，也阻碍了AI技术的健康发展。迪里主张联邦政府应牵头制定兼顾创新与安全的底线规则，包括透明度、问责制和偏见消除等核心原则，以在全球AI竞争中保持美国的技术领导地位，同时防范潜在风险。"
-    },
-    {
-      "title": "US real estate firm Opendoor shuts India operations, lays off 250 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSy1aaE1Zc1V2TGEzRmVzSG01dThsVjhvTkFIcDJoTFNyMV9nTWxJVDRlUXRQTnlXSGs3YURnWWk3bWNZRFE2MHA0OWxzVldJM0RQaWs2eWh3dUZrQThQS1JDRUFFZXJWdlBWSGZTbzJmbE9YQWlubjY0d1dSUXFsWjlQY3NpSEo1M1Jhamx4eHBzY0VlZjdhcmNfQW5UV0RlS1RTdGZhLXIyMmZSSWhGZll3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T10:37:54Z",
-      "summary": "美国房地产科技公司Opendoor宣布关闭其在印度的全部业务运营，并裁减约250名员工。这一决策是公司全球重组计划的一部分，旨在缩减成本、聚焦核心市场。Opendoor曾以在线房屋买卖模式闻名，但近年来面临市场波动和盈利压力。此次退出南亚市场反映出地产科技行业在宏观经济不确定性下的收缩趋势，也凸显了跨境运营在成本控制与战略聚焦之间的艰难抉择。"
-    },
-    {
-      "title": "IBA launches Artificial Intelligence Institute to focus on responsible AI governance - The Global Legal Post",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYzNqM1pLYVh4WEpOT1NVQ2NCQnpnNTlRZXJiVFVrclJ0RkREamQ4VmpoZDhhY1NxbzIyNjZ3bDYxZlZaSGVDdEJVNWZMdW5YYzA5UmtiU3hMUnRiYjJhYlI4M0tqbVVzZGxwNEpuN0VuLXZUaVc0VzZjeWxQd0hOejVzd3hmNFpKX3JlNmZic0hEMnBGOU5sVUxaN1hTMVJiQUFyejBRbW1NSl81Wm90bW1TNlJ1R0pwTXNDQi1hNExmclhSQ05hWXlsbw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T10:30:05Z",
-      "summary": "国际律师协会（IBA）宣布成立人工智能研究所，专注于推动负责任的AI治理。该机构将汇集法律、技术和政策专家，研究AI在司法、合规及道德层面的挑战，旨在制定全球通用的最佳实践指南。IBA强调，随着AI在法律服务领域的应用加深，必须建立清晰的问责机制和透明度标准，以防止算法偏见并保护基本人权。这一举措标志着法律行业对AI治理的主动介入。"
-    },
-    {
-      "title": "Deezer launches free AI music detector for users of major streaming platforms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZTRUWEJDRElfMzZlSzhNUnlEWUc3RUVleTVXcXJHbmhOVGFPSFhYczNfUUFJaUxkWjJVVktJam50bnR6VlpGeXlyYmtzYnRlaG1UUFVGMWFJUkdsQlU4TC1FZTF1SnBoRGhMT09oNkVIck44WnYybDNSMmVwWjBOYzNzOHIzdXYzU0NRaWd0d254RE83d2dGdkxnY196OENJU294YzJoVVVaN2hKZ3ZCQVR6S28zd2Etd0R0YkhlZzk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T09:58:09Z",
-      "summary": "流媒体音乐平台Deezer推出一款免费的AI音乐检测工具，可供Spotify、Apple Music等主流平台的用户使用。该工具能够识别出由人工智能生成的曲目，帮助听众分辨真实人类创作与AI合成作品。此举旨在提升音乐行业的透明度，应对AI浪潮下版权归属与艺术原创性的争议。Deezer表示，该工具基于先进的音频分析算法，未来将持续优化以覆盖更多语种和音乐类型。"
+      "summary": "全球物流巨头Expeditors International近期实施罕见的裁员计划，背后原因是AI生产力提升导致业务模式调整。公司通过部署自动化流程和智能分析系统，显著提升了运营效率，部分原由人工完成的任务被算法替代。尽管AI带来成本节约和效率优化，但短期内也造成岗位冗余。这一反常裁员反映出传统行业在拥抱人工智能时面临的转型阵痛：技术进步与劳动力结构之间的冲突亟需平衡，企业需同步推进员工技能重塑与职业过渡计划。"
     }
   ]
 }
