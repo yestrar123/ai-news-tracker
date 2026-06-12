@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "1040",
+      "title": "Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3pVUi0zQTJkVzRYRlFXY2tjdTExalR4UGxNZ2ZBOVRrYkg4eGdDajZmTzdLdUdNRHpKSDhmOUUtcTVrMjBSZGN4OUdSLUpiT0lnLWY3QWNsWmNkdWJ6bWtEcTNOX2dRNXdWM3BfblEyQlgxTUJsUURPaHRBeWFrTk02eDVGVzJuZTNFVUJDR0pycVgzbGpiLUpaMk1DR200Z2N3WGVYZHVxU0tKX2ttUlRVZERJdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T09:05:43Z",
+      "summary": "美国银行监管机构正加强对金融公司使用人工智能的审查力度。据路透社独家报道，监管机构担心AI在贷款审批、风险评估和客户服务等环节可能带来偏见、合规风险和系统性问题。此举旨在确保金融机构在采用AI技术时遵守现有法规，并防范潜在的系统性风险。监管机构将重点关注AI模型的透明度、公平性和可解释性，以及数据隐私和安全保护措施。这标志着美国金融监管对AI应用的态度正从观望转向主动干预，可能影响未来金融科技的发展方向。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1041",
+      "title": "Amazon Founder Jeff Bezos' Bet to Build \"Artificial General Engineer\" - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeDhROFlxRnA4ZTVnal9hMHh2aXBvd2JDTGN4cDV5bE8zdy1DQmRaWFdYY2ZqMmFidC1YdXNtSi1MaDhOWEFUTEluTFRFRzF6MC1fbW1USUhqaGc2VjJYanpUVEVaNmtmbVpvUGJDeUtqVWFaTXFnMTFiUWpjd0hOVEtlbW1Da3V2VERpM0Q4cVM3emFwZFBtbjFxUlY3TnZZYWR3Q2tJaWxDanN1S0Y5Z2F2OExZczN6eS1UYVlpUFBLMm9DSWdxWUl6bU9NUDdQelhuN1dUZ0xTbnBxc0NYSDRYS2gwbllXcUdHQmotMNIB9wFBVV95cUxPbkhxU3dnOE1qblR2M1NJOWw2MGlpbV96cjBlTi1TZFNVMDA2VmkycWc5d1BTcmVpMmJjNTBjVmZPZVphbmFVQ2dkdUl4S1R3dm9WUnpqcldEOXh3QU9sUHdjdXpaWlhfWWdIOGpFN0NHZ2pSaDRQblo1WkJvc3k3dExaOVAzcWFsVmdVa2xkNG9kU3ZyQmJFZEx4N2x6TFV4NW8wQWZ1ejVZZWtpRXdFQTVoYnRIeFVURXJLS2FuVE83Zy1wamRtNnFpNk1GOHo0azN1dll1QjFiLVB0T3ZZWHJ2dTdjc3VScFRDV3czYWRBd085R3o0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T09:01:46Z",
+      "summary": "亚马逊创始人杰夫·贝佐斯宣布押注构建“通用人工智能工程师”（AGI工程师），旨在开发能够自主完成工程任务的AI系统。这一项目不同于传统的通用人工智能（AGI）概念，更侧重于工程实践能力，让AI不仅能理解问题，还能设计、编程和测试解决方案。贝佐斯认为这种专用型AGI将在软件开发、硬件设计等领域产生颠覆性影响。虽然具体技术路径尚未公开，但该项目被认为融合了大语言模型、强化学习和自主推理等前沿技术，目标是实现AI在复杂工程场景中的自主决策和执行能力。",
+      "fetchDate": "2026-06-12"
+    },
+    {
       "id": "1037",
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
       "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
@@ -9343,5 +9361,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 1038
+  "total": 1040
 }
