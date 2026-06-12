@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "1028",
+      "title": "The nation's first smart construction base, which combines artificial intelligence (AI) and robot te.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtWWxocGNTdGRkMC1wSmdRV0Q0SlVsT3I0b3NWSHZDX0N0MGNoVEpXcmNBTzk3OEd2OUhfSlNhTmNnRGNnNTk2c1FTbDVnbkNtbGtv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T02:19:40Z",
+      "summary": "韩国建成全国首个智能建筑基地，深度融合人工智能与机器人技术，旨在推动建筑行业的自动化和智能化转型。该基地集成了AI驱动的施工管理系统、自主作业机器人及智能监控平台，可显著提升施工效率与安全性。这一举措标志着建筑领域向数字化、无人化迈进的重要里程碑。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1029",
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-12T01:48:07Z",
+      "summary": "机器人初创公司Theker完成8500万美元融资，致力于开发非专用化的可重构工厂机器人。与固定形态的人形机器人不同，该机器人可根据生产需求灵活调整功能模块，实现多任务通用性。这一设计理念旨在降低工厂自动化成本，提升产线适应能力，有望重塑制造业的柔性生产模式。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1030",
+      "title": "Small businesses get AI-powered support from government through funding boost - Reseller News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR1JSb255eUpMWjZKTExmVVlfT1JfX0doMmx2MGlnT0ZDQzdxZUJKMzFyZ0pyWmotRlpSc0NZdUtHMU9IZU9uNW1Fd0h0UlM5Q1NBelJWbEszTW1pODRhcm1DazN0bFJmbVhUX2lOQktDN0dObzFtdHBHdHFoMnVfTGZGOEd6NUhlaVF4OURGWkUxRVYwdW1TUzFXWUN3RjhNM01kTmVpdEhGWmw1bWJNSjhQUTVDUWRTUUd2aWUxbm1heE0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T01:08:23Z",
+      "summary": "政府通过资金支持计划为小企业提供AI赋能服务，帮助其利用机器学习、自动化工具等先进技术优化运营。此举旨在降低中小企业数字化门槛，提升其市场竞争力。资助范围包括AI咨询、定制化软件开发和员工培训，体现了政策层面对技术普惠的重视。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1031",
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-12T01:04:38Z",
+      "summary": "由杰夫·贝佐斯支持的AI初创公司Prometheus完成120亿美元融资，估值达410亿美元。该公司目标打造“通用人工智能工程师”，专注于自动化重型工程和药物设计等物理世界任务。此轮融资凸显资本市场对实体AI应用前景的强烈信心，有望加速工业自动化和新药研发进程。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1032",
+      "title": "Middle East boards lead world on AI governance and future readiness, global study finds - Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHpkdUVJLTdabzd1SGlVR3hkYVhGWFlVYUJjZlBCZ2FEQVhKNHM2ZDR0Y2VicTRacG1sb2tWSV92aFZNNmFXVk01ZXlXbGJwaHVUSk0zOHVCMS16OEpmVVdfN285SnBhUE9CcnRQWkhvVW5FdXZuN2tQeE1XaUdnbHpPLTVwVTZueUdrd2VCSlFGcXg2MEx5RDhOY01fTmpaa2hlWFF3Wnk0VzBPZTd4Y0kzSDkxRmVvbjU2Qmd1b24zby1ldjYtX2JBbUtaREE0OGFDaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T00:58:13Z",
+      "summary": "一项全球研究显示，中东地区企业在人工智能治理和未来准备方面领先世界。该地区董事会积极制定AI伦理框架、投资人才培训并建立风险管控机制，为技术稳健落地奠定基础。这一领先地位源于对数字经济战略的坚定投入，为其他地区提供了治理范本。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1033",
+      "title": "OpenAI's Creative Specialist on Using Codex for Design - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWDBkcmljUnBjZGdGSnFaQkVCOGFGUkY2WlBJX2tPb1IzUmdMOG1heVdmSnF3NGo3QzQ0Qm5yOF96cXJJWDBod29jRzlueF9EWmtuS2o1ekFHWHozWVQ3M0V6czNVaElzaXVOeUlBalFXZHB4OFM3eEs2REwweTJuUnluRXNnUWZXXzJvZWwzSEU0NFI4ZU85aDA4cFZOdW1HWnhjTy1fdlNqZ0hRNEt0dlRMQUdLTW9I?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T22:03:01Z",
+      "summary": "OpenAI创意专家分享了利用Codex进行设计的实践经验，强调AI代码生成工具在设计工作流中的潜力。Codex可辅助生成界面原型、自动化重复任务，并激发设计师的创作灵感。专家建议将AI视为协作伙伴，而非替代品，以实现人机协同的设计创新。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1034",
+      "title": "US Congress warned: AI race winner will rule world, and it must not be China - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEE1ZzFhSUZucXBjNUgwMUFJUW9TU3kzdXhVUFRuR2N1cDlpVi0weGNtVDM3MVVnZ1FKc1hkSm9IUXFjVlU0Tjh2RWVqS3hsaEhfUFZrNWk3aFR6WmRYVXdnc2ZHczBKY3dsOWpaeDBQbFVCaTJOYVZKYjhYUV9tUlE2MWtzUFlyVFFrcE5vMTJVems5X21oT0ZkN2FZazctb1lQQS00SzVYa1pfdE5KUllZT1h1UTZNM2twUHZpZ9IBvwFBVV95cUxNRy1RNUtMOFY2cE1FTFJSekxGejZMVE9FbTdHd09oQmsxeGR6SUhlM1M2dnU1VkVrQTBxelhPeDZVdU9kMDBWemdfZkxENmdrbkprS0ZNYVA3d2hyYkdGNlkzbTVrQUdHMmY0Q281a0s2QTdMLU83SDBxRTFDRG1tQXkyTWNhb2xTcUtLdEpWM2hLclRtV3FwRTNreWlZd1h2NUkxaVdyWExJcXhiZGtBV1UyN2h2VTdIY2FxUlg2VQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T21:51:25Z",
+      "summary": "美国国会听证会警告称，人工智能领域的竞赛胜出者将主导全球未来格局，并强调必须防止中国赢得这场竞赛。与会专家呼吁加强AI研发投资、完善出口管制并构建盟友技术联盟。这一表态折射出地缘政治竞争已延伸至尖端科技领域，引发广泛讨论。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1035",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-11T20:33:10Z",
+      "summary": "SpaceX正式将其股票发行价定为每股135美元，启动历史上规模最大的首次公开募股（IPO）。此次上市标志着商业航天巨头进入公开资本市场，投资者可分享其星链、星际飞船等项目的未来收益。定价细节反映出市场对航天商业化前景的高度期待。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1036",
+      "title": "AI models are absorbing antisemitism from humans, study says - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ25iR2puRWVUbEF3cGQ2U2h0dmFRaW5STTBXcVZhQjQxS19SdzNDa2o5TUlpMDhZMnhRUy12OFhFUGxFSHFYT202a0J6Qk9Jc1lmRXhYcF92T1ZVM1Z5TUlOS0R2U2NpSzMza1VJcUI3dUNCSzVkVjFtM2N1eWJVZDZhdFZPX2hsaXZRVy15aFlJMW1T0gGaAUFVX3lxTFBmVm1tRHhKck5VQVpqNHFDc1Y0aEh0d0J3bVVWMVk2dDNXblQtTktQdGxZS200MUlIMEFlYXl4OGlCczZsY1Q4VllZbVVXWWdjVGF6U3pJMFd5SWsyT3RJcG5nc2wwRTFWLWtOWVhqcU9hVFFEenYtSW9tZlRMeXNiVXFhVzJZdXdaMmo5VGE0R001Q2xJY0VUQ3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-11T20:33:00Z",
+      "summary": "一项新研究表明，AI模型在训练过程中从人类数据中习得了反犹太主义等有害偏见。研究指出，大语言模型生成的文本中反复出现针对犹太群体的刻板印象和仇恨内容，凸显了数据清洗和价值观对齐的紧迫性。研究者呼吁加强AI伦理审查与偏见缓解措施。",
+      "fetchDate": "2026-06-12"
+    },
+    {
       "id": "1014",
       "title": "Steven Spielberg Explains Why He Chose 'A.I.: Artificial Intelligence' Over Directing 'Harry Potter' - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRUhLYUxXRUZiVFBnRDFjTjJzMm9obnROZXNMbHVFc0JVODF1MHhIaXVsYzJLYlM1dzAzRF96d0pZRl9XeG9SeEpUdHdMNU55dFMzTHE0V3pEN3YtZTgzUk90MVZsTTd3TWQ0cHZXTmZlRlIyUzJuamx3VERYSml4OXpaUHlIUQ?oc=5",
@@ -9235,5 +9316,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 1026
+  "total": 1035
 }
