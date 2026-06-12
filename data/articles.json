@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "1042",
+      "title": "SpaceX IPO: Everything you need to know",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-12T14:08:54Z",
+      "summary": "TechCrunch整理了SpaceX IPO的全面指南，回顾了该公司从初创、挣扎到成功的历程。文章分析了IPO中的赢家与输家、上市前交易以及S-1注册文件中的关键细节，为投资者提供决策参考。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1043",
+      "title": "Governor Moore announces senior AI advisor for State of Maryland - nottinghammd.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWVBpQkFqTkloMXZFTGh6Rk9BbHI0cm04c0FadzFMdkxCaER2MVlKZVVYYU10bHAyQ19lTWdTMm4wcXg4QTZPNElfbW43YTNFaVh3TTlmb3l3LVZtNExLYVRGSjhUb3AtdkcxMGlfQXdkTTFtQU9lN185ZEd2Vk1CVWdRNkxvLUZYYXlQTFJvRTU3dUdZLUkzZjF2d29zTXF4ZWNv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T13:00:00Z",
+      "summary": "马里兰州州长Moore任命了一位高级AI顾问，旨在推动该州在人工智能领域的战略布局。此举体现了州政府对AI技术的重视，希望通过专业指导提升政府效率和公共服务水平。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1044",
+      "title": "You Might Be Able To Get Religious Exemption From Using AI At Work - 2oceansvibe News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzhxYXBITkpSWldMV0o2WkFvdFA3NEVDYmtXWUdDZ3d0YTBLakZObjRvUE8yUWEwOUVjM0NkWDFZN0dVTkJpWVNBc0FYNGNCcURtT0YzTThDdjNZdlluQlZQcndUTU54ZlUyYnRXN1BxbXZwT1hZN1N6dHNUUDVDczZKM2ROVFc5Z3pyVV9taGtNc185VWM3TzdXM240Y3Z3emJXNTZSeHJRSTFGLUZoTmdxSWJLMEhTdGtR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T12:47:32Z",
+      "summary": "报道指出，员工可能因宗教原因获得在工作场所不使用AI的豁免权。这一议题引发了关于技术伦理、宗教自由与工作规范之间平衡的讨论，目前相关政策尚在探索阶段。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1045",
+      "title": "The University of Utah plans to offer the state’s first bachelor’s in A.I. — a subject it’s taught about since 1973 - The Salt Lake Tribune",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzF0VnRIaWl6NHhJM1NrNGc0V1JnU0lJd3JmUERHcFIwZm5LT2NaTXU4ckVGSU5mUTZPWTlsZXlSaWhRTnI4MzdQTHlzVGViM0UtV3R4OHBZcDNHNWh5Qk04U1lpa1dIQ2o2WktpTW5Vd2doSEdnMmtMUGFYczRxa1A1V1o3MXM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T12:06:05Z",
+      "summary": "犹他大学计划开设该州首个AI本科专业，该校自1973年起便教授AI相关课程，拥有深厚积累。新专业旨在培养AI领域的专业人才，满足产业对高素质AI人才的迫切需求。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1046",
+      "title": "Although semiconductors are driving exports to Korea in the AI (artificial intelligence) era, there - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DeVlPdmxpWFR6Q1V6dEF3TFVOUDhyMHA3V2V3Q1lhdm85YWpiVVluWDU0bTg3X3NfY3YxbFA4ZDBhMEVLS3RiRU0zWUFlb2s?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T11:40:45Z",
+      "summary": "尽管在AI时代半导体成为韩国出口的主要驱动力，但有分析指出，韩国仍面临技术依赖和供应链挑战。文章探讨了韩国在AI半导体领域的机遇与潜在风险。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1047",
+      "title": "Amazon Founder Calls AI Pessimism Wrong, Blames \"Smart\" People - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY1VGSGVmRU1MNDViX0JHeG1vaTlTRnpXN1FFaEVnZ2VCR3JnUkZyRTFGOVc2MTZ0Y3JjSVVfU0JYY2xsMnFuWk5GV3UyN0MyTi1MaHVmRmVYN2Rma0JwOVV2NHNSMXVVWHV6LURCdG55VzQzV0VfNm9yT2JIdDVKU05iQ3JSRGdrT0ZoMmQyRkdwcDktamJqT2xfSVc5Mk9mbkU0M3ZlNEZ4QWZ0aVM4VVkxQnJFbU1SS2lldFZVUE42enM5YU9KYVpzLU5wbVlC0gHYAUFVX3lxTFBaRHJQMzBYWklmWWdpOXcwNWtqd3ZLRXowZnpGQmVmRG5MNi11bjhKQlJGU19qYzB2OENNZHJYNVkyd09YcS1zbEVUQlA2emt1Z0MxZVZaNlo3M2VhbFhnYzJMUDRhZ1Bha0paaXVtWTdTNWp3QVFoZUowd2J3dnhiVk5KWTRQYlFKUHdRVjdvSk1LdmMwWTkxMHdJaVgwblZfMk02RjYxdGJIajdRWjlJS3ZxMzVtVUVuSlFJVE5aZ2xYYXowQXV3c0dDQ2JldUQ4Y2p6bXgwbg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T11:14:59Z",
+      "summary": "亚马逊创始人杰夫·贝佐斯批评了人工智能悲观论，认为这种看法是错误的，并指责一些“聪明人”散布恐慌。他主张理性看待AI的发展潜力，而非过度担忧其负面影响。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1048",
+      "title": "Artificial Intelligence Market Set for Explosive Growth as Automation, Generative AI, and Intelligent Decision-Making Transform Industries - vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOTNrNU1PMm5kX3hqVURxVG1TSEVpeXRHT1MyWDJManJrRThCQS1wWDFwWEQ4M0dKdXJ6WjBkUlVKZk8yVnVQTHM0Q2tjal8tOGUtQzF5Z0RPN01nY2JRLUVCNzRtazN1RTBhUzk3T1hUbDFZbmtiVkFJSUpEalV1TjNNSGM4RWlZejVFV1U2bUxPakVBb2NkUTRwUG14cWF3b25VcUhlSFR6TXcyVGhudDFWdFR2bF84ZzFESl9qVUJGWURkaU1HZWhaeWJ6all0V0xUckJKdEpaR3h6ZzVWV2daNmd3SDNHVHN4WEM4S1A?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T10:32:46Z",
+      "summary": "人工智能市场预计将迎来爆发式增长，自动化、生成式AI和智能决策正在重塑各行各业。报告指出，这一趋势将推动企业效率提升和创新，但同时也带来人才和伦理方面的挑战。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1049",
+      "title": "Canada's move to rein in AI chatbots, spurred by school shooting, faces doubts over loopholes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVgxb25iX3BXNXFIR09OWkdwY09FNEIxSFZWbnk3UU9GTTBZVEdJMkp1OFNnd2lJcVEyamE0RmVkZlA4TXhMNHd4bTBhd3BLczBlN3dWeE9OMWJOT1JUcTM5OVdwOC1FSWEwMzFOdl80bExNTE5vRXlLNGU0WWpJY0l3ZnItcE1oTTR3cHA0VDB5UWg0RnRYdDkwT05zbGlLWHdLUm5CcGo0eHY0eGNaV0ZiSVNmdTJ5djZtS1JJNkFDNWhVdUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T10:27:53Z",
+      "summary": "加拿大因一起校园枪击事件引发对AI聊天机器人监管的讨论，但新规面临存在漏洞的质疑。批评者认为，仓促出台的监管措施可能无法有效解决问题，需进一步完善法律框架。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1050",
+      "title": "Some German firms see AI reducing need for degrees, Ifo says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFdMVzJMY1p3QlU1ZksycXN0YnpCZ3ZyRTlkenRfemFlT1RGV0Q1VWUtWEtURjFXSXVzT21wVVBXZmo2QkhjdkhHUGtfS0tjTDlMTHo2ZHlBR1VmWld2X0dBaldnZl9Velp2LU5FV0tMWERHdkNaTG1UOHVKSUZWMDZUSFl1dWUzRFBBTjVVVy1hcUhIM3JWR0ZwcVl4bXdpQ3VDSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T09:43:59Z",
+      "summary": "德国Ifo研究所调查显示，部分德国企业认为AI的发展将降低对员工学历的要求。这意味着未来招聘可能更注重实际技能而非正规学位，对教育体系和企业用人模式产生深远影响。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1051",
+      "title": "Jeff Bezos rejects fear that AI will take humans’ jobs - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUWlXTVVIbkhTUU9UVTN0UlE0ZzJ5TTI1S0lkNGgwNlNKQnVVSlNjcVZKaTV3bW5PNzB5XzNaZUtyM0UzZG9jNHE1MnBqTUVQU3lxc1pNc1lmLXZoZ0hHVWN2LXctUzR5V0VfWHFRTV9jZVFnX3NpX0ZEY0RHTi1qSF9zVVVRdEdQUnpyTDVGQnVleW05THdqb0V0N2lHcXdIN3NFNVQxbDlMeXJud3BJZi0yd3FYTUdhNFlYanNn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T09:20:00Z",
+      "summary": "杰夫·贝佐斯再次公开表态，拒绝接受AI会取代人类工作的恐惧论调。他强调技术将创造新就业机会，而非摧毁岗位，呼吁社会以积极态度应对AI变革。",
+      "fetchDate": "2026-06-12"
+    },
+    {
       "id": "1040",
       "title": "Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3pVUi0zQTJkVzRYRlFXY2tjdTExalR4UGxNZ2ZBOVRrYkg4eGdDajZmTzdLdUdNRHpKSDhmOUUtcTVrMjBSZGN4OUdSLUpiT0lnLWY3QWNsWmNkdWJ6bWtEcTNOX2dRNXdWM3BfblEyQlgxTUJsUURPaHRBeWFrTk02eDVGVzJuZTNFVUJDR0pycVgzbGpiLUpaMk1DR200Z2N3WGVYZHVxU0tKX2ttUlRVZERJdw?oc=5",
@@ -9361,5 +9451,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 1040
+  "total": 1050
 }
