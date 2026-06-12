@@ -1,12 +1,30 @@
 {
   "articles": [
     {
+      "id": "1037",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-12T04:30:00Z",
+      "summary": "Avataar AI推出专为印度市场设计的蒸馏视频模型，以极低成本（每秒0.005美元）实现视频生成，并融入文化感知能力。该模型旨在满足印度大规模内容生产需求，通过优化算法降低计算成本，同时保持视频质量与本地化适配性，为企业和创作者提供高效、经济且文化贴合的AI视频解决方案。",
+      "fetchDate": "2026-06-12"
+    },
+    {
       "id": "1028",
       "title": "The nation's first smart construction base, which combines artificial intelligence (AI) and robot te.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtWWxocGNTdGRkMC1wSmdRV0Q0SlVsT3I0b3NWSHZDX0N0MGNoVEpXcmNBTzk3OEd2OUhfSlNhTmNnRGNnNTk2c1FTbDVnbkNtbGtv?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-12T02:19:40Z",
       "summary": "韩国建成全国首个智能建筑基地，深度融合人工智能与机器人技术，旨在推动建筑行业的自动化和智能化转型。该基地集成了AI驱动的施工管理系统、自主作业机器人及智能监控平台，可显著提升施工效率与安全性。这一举措标志着建筑领域向数字化、无人化迈进的重要里程碑。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1038",
+      "title": "Merkley, Padilla Lead Effort to Fight Back Against Voter Suppression and Misuse of Artificial Intelligence in U.S. Elections - Merkley (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVHU2Z3FUSEVxZlRfcXZpX2xSQ2xfRzVFTl9RaFVZb25jUzBzbXNicV8zejJrRDhzM2lWQzFSRllCRGdQX01OSmVHUi1JcjgxVUZELXAxUm1DZElURmxJNFBDNVhOcFluR1RvZnNoSHk1R1BpNk1ZcFVxN1RleWpjbldpNFNPUmRsZEpQUU1uMkxWb2FoYUFQVTVrQVpxbFA4VkQwQU5vb1Y1ZlEwa0xZZlNWRlNFZnR3bmVVNjJLN0xIVW5DbnZudE9Kdm1YUUJsaFdEejdvaXd2UkJvWUJnU1EtWHRybFZzZFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T01:59:12Z",
+      "summary": "美国参议员Merkley和Padilla联合发起立法行动，旨在打击利用人工智能进行选民压制和选举干预的行为。该提案聚焦于AI生成虚假信息、深度伪造内容及算法歧视等问题，要求平台透明化并强化问责机制，以保护选举公正性，防止技术滥用破坏民主进程。",
       "fetchDate": "2026-06-12"
     },
     {
@@ -34,6 +52,15 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-12T01:04:38Z",
       "summary": "由杰夫·贝佐斯支持的AI初创公司Prometheus完成120亿美元融资，估值达410亿美元。该公司目标打造“通用人工智能工程师”，专注于自动化重型工程和药物设计等物理世界任务。此轮融资凸显资本市场对实体AI应用前景的强烈信心，有望加速工业自动化和新药研发进程。",
+      "fetchDate": "2026-06-12"
+    },
+    {
+      "id": "1039",
+      "title": "PIMCO's Clarida on AI's Economic Impact - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1JnMUJDeHNCT01UVWpHWngwYkRQYjQ1MHQtY3BFYWR5eFBKU3diVUNnM0RXdk9IUmh2NS13cGNWWGtEa252ai1XLW52eW8tOVFUaFhjYzhneEVWX0stUElYR2huMzdRc3NxN081SEx5Z0VMQnZneUo0dDRPTm43ajJuVVhOUjZHaUhJdjdRRmlIZDBOZGlrWk1sdzh2QzVMNVdMVA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T01:02:44Z",
+      "summary": "太平洋投资管理公司（PIMCO）经济学家Clarida分析人工智能的经济影响，指出AI将显著提升生产率，但可能导致就业结构剧烈调整和收入不平等加剧。他强调政策需提前布局技能培训与社会保障，以缓冲冲击。同时，AI在金融、医疗等领域的应用将加速，但监管需平衡创新与风险。",
       "fetchDate": "2026-06-12"
     },
     {
@@ -9316,5 +9343,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 1035
+  "total": 1038
 }

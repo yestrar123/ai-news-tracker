@@ -1,76 +1,62 @@
 {
-  "updatedAt": "2026-06-12 02:30:08 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-06-12 06:26:32 UTC",
+  "totalArticles": 8,
   "articles": [
+    {
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-12T04:30:00Z",
+      "summary": "Avataar AI推出专为印度市场设计的蒸馏视频模型，以极低成本（每秒0.005美元）实现视频生成，并融入文化感知能力。该模型旨在满足印度大规模内容生产需求，通过优化算法降低计算成本，同时保持视频质量与本地化适配性，为企业和创作者提供高效、经济且文化贴合的AI视频解决方案。"
+    },
     {
       "title": "The nation's first smart construction base, which combines artificial intelligence (AI) and robot te.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtWWxocGNTdGRkMC1wSmdRV0Q0SlVsT3I0b3NWSHZDX0N0MGNoVEpXcmNBTzk3OEd2OUhfSlNhTmNnRGNnNTk2c1FTbDVnbkNtbGtv?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-12T02:19:40Z",
-      "summary": "韩国建成全国首个智能建筑基地，深度融合人工智能与机器人技术，旨在推动建筑行业的自动化和智能化转型。该基地集成了AI驱动的施工管理系统、自主作业机器人及智能监控平台，可显著提升施工效率与安全性。这一举措标志着建筑领域向数字化、无人化迈进的重要里程碑。"
+      "summary": "韩国建成全国首个融合人工智能与机器人技术的智能建筑基地。该基地集成了AI调度、自动化施工与机器人协作系统，旨在提升建筑行业的效率与安全性。这一里程碑式项目标志着建筑领域数字化转型的重要进展，未来有望推广至更多工程场景，为智能建造提供标杆案例。"
+    },
+    {
+      "title": "Merkley, Padilla Lead Effort to Fight Back Against Voter Suppression and Misuse of Artificial Intelligence in U.S. Elections - Merkley (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVHU2Z3FUSEVxZlRfcXZpX2xSQ2xfRzVFTl9RaFVZb25jUzBzbXNicV8zejJrRDhzM2lWQzFSRllCRGdQX01OSmVHUi1JcjgxVUZELXAxUm1DZElURmxJNFBDNVhOcFluR1RvZnNoSHk1R1BpNk1ZcFVxN1RleWpjbldpNFNPUmRsZEpQUU1uMkxWb2FoYUFQVTVrQVpxbFA4VkQwQU5vb1Y1ZlEwa0xZZlNWRlNFZnR3bmVVNjJLN0xIVW5DbnZudE9Kdm1YUUJsaFdEejdvaXd2UkJvWUJnU1EtWHRybFZzZFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-12T01:59:12Z",
+      "summary": "美国参议员Merkley和Padilla联合发起立法行动，旨在打击利用人工智能进行选民压制和选举干预的行为。该提案聚焦于AI生成虚假信息、深度伪造内容及算法歧视等问题，要求平台透明化并强化问责机制，以保护选举公正性，防止技术滥用破坏民主进程。"
     },
     {
       "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
       "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-12T01:48:07Z",
-      "summary": "机器人初创公司Theker完成8500万美元融资，致力于开发非专用化的可重构工厂机器人。与固定形态的人形机器人不同，该机器人可根据生产需求灵活调整功能模块，实现多任务通用性。这一设计理念旨在降低工厂自动化成本，提升产线适应能力，有望重塑制造业的柔性生产模式。"
+      "summary": "机器人初创公司Theker完成8500万美元融资，开发可重构的通用工厂机器人。与波士顿动力等固定形态人形机器人不同，Theker的机器人能根据任务需求灵活改变构型，适应装配、搬运、质检等多种工序。这种非专精化设计降低了工厂自动化成本，有望重塑制造业产线布局。"
     },
     {
       "title": "Opinion | How AI can revolutionize conservation - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3pxY1lrVDRzSmJXSWNtWi1QTnJQQUpwdVR6cmdpcXNzbWtPSk9BaWxsR2dzVHhmVGpqcy1yTDhEYmt5X2dxWURPcUNQMmVGXzdRdEFobTU4RktoZzRpS1k1OTd0emdTUUJWT29SN0d2bEMtVEZEb3I4bkFkN28wZXRhS3d5cG5WX254MTFkVHZOUm8?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-12T01:21:39Z",
-      "summary": "《华盛顿邮报》观点文章指出，人工智能有望彻底革新环境保护领域。通过机器学习分析生态数据、实时监测物种迁徙、预测气候变化影响，AI可大幅提升保育行动的科学性与效率。但同时也需警惕算法偏见和数据鸿沟，确保技术公平应用于全球生态系统。"
+      "summary": "《华盛顿邮报》观点文章探讨人工智能如何革新自然保护领域。AI技术可用于实时监测濒危物种、分析卫星图像打击盗猎、预测生态变化趋势，并优化保护区管理资源。通过机器学习处理海量数据，AI显著提升了保护行动的精准度和效率，为全球生物多样性保护提供新工具。"
     },
     {
       "title": "Small businesses get AI-powered support from government through funding boost - Reseller News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR1JSb255eUpMWjZKTExmVVlfT1JfX0doMmx2MGlnT0ZDQzdxZUJKMzFyZ0pyWmotRlpSc0NZdUtHMU9IZU9uNW1Fd0h0UlM5Q1NBelJWbEszTW1pODRhcm1DazN0bFJmbVhUX2lOQktDN0dObzFtdHBHdHFoMnVfTGZGOEd6NUhlaVF4OURGWkUxRVYwdW1TUzFXWUN3RjhNM01kTmVpdEhGWmw1bWJNSjhQUTVDUWRTUUd2aWUxbm1heE0?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-12T01:08:23Z",
-      "summary": "政府通过资金支持计划为小企业提供AI赋能服务，帮助其利用机器学习、自动化工具等先进技术优化运营。此举旨在降低中小企业数字化门槛，提升其市场竞争力。资助范围包括AI咨询、定制化软件开发和员工培训，体现了政策层面对技术普惠的重视。"
+      "summary": "政府通过专项资助计划为小企业提供AI技术支持，帮助其实现数字化转型。资金将用于开发简便易用的AI工具，涵盖客户分析、库存管理、营销优化等场景，降低中小企业应用门槛。此举旨在提升小微企业的竞争力，促进经济普惠发展，并推动AI技术生态蔓延至基层商业领域。"
     },
     {
       "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
       "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-12T01:04:38Z",
-      "summary": "由杰夫·贝佐斯支持的AI初创公司Prometheus完成120亿美元融资，估值达410亿美元。该公司目标打造“通用人工智能工程师”，专注于自动化重型工程和药物设计等物理世界任务。此轮融资凸显资本市场对实体AI应用前景的强烈信心，有望加速工业自动化和新药研发进程。"
+      "summary": "杰夫·贝佐斯支持的物理AI初创公司Prometheus完成120亿美元融资，估值达410亿美元。公司目标构建“人工通用工程师”，能够自动化重工程设计与药物研发等复杂物理任务。该技术将融合深度学习、仿真模拟与机器人控制，有望颠覆传统工业生产与科研流程，加速物质世界创新。"
     },
     {
-      "title": "Middle East boards lead world on AI governance and future readiness, global study finds - Arabian Business",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHpkdUVJLTdabzd1SGlVR3hkYVhGWFlVYUJjZlBCZ2FEQVhKNHM2ZDR0Y2VicTRacG1sb2tWSV92aFZNNmFXVk01ZXlXbGJwaHVUSk0zOHVCMS16OEpmVVdfN285SnBhUE9CcnRQWkhvVW5FdXZuN2tQeE1XaUdnbHpPLTVwVTZueUdrd2VCSlFGcXg2MEx5RDhOY01fTmpaa2hlWFF3Wnk0VzBPZTd4Y0kzSDkxRmVvbjU2Qmd1b24zby1ldjYtX2JBbUtaREE0OGFDaw?oc=5",
+      "title": "PIMCO's Clarida on AI's Economic Impact - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1JnMUJDeHNCT01UVWpHWngwYkRQYjQ1MHQtY3BFYWR5eFBKU3diVUNnM0RXdk9IUmh2NS13cGNWWGtEa252ai1XLW52eW8tOVFUaFhjYzhneEVWX0stUElYR2huMzdRc3NxN081SEx5Z0VMQnZneUo0dDRPTm43ajJuVVhOUjZHaUhJdjdRRmlIZDBOZGlrWk1sdzh2QzVMNVdMVA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-12T00:58:13Z",
-      "summary": "一项全球研究显示，中东地区企业在人工智能治理和未来准备方面领先世界。该地区董事会积极制定AI伦理框架、投资人才培训并建立风险管控机制，为技术稳健落地奠定基础。这一领先地位源于对数字经济战略的坚定投入，为其他地区提供了治理范本。"
-    },
-    {
-      "title": "OpenAI's Creative Specialist on Using Codex for Design - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWDBkcmljUnBjZGdGSnFaQkVCOGFGUkY2WlBJX2tPb1IzUmdMOG1heVdmSnF3NGo3QzQ0Qm5yOF96cXJJWDBod29jRzlueF9EWmtuS2o1ekFHWHozWVQ3M0V6czNVaElzaXVOeUlBalFXZHB4OFM3eEs2REwweTJuUnluRXNnUWZXXzJvZWwzSEU0NFI4ZU85aDA4cFZOdW1HWnhjTy1fdlNqZ0hRNEt0dlRMQUdLTW9I?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T22:03:01Z",
-      "summary": "OpenAI创意专家分享了利用Codex进行设计的实践经验，强调AI代码生成工具在设计工作流中的潜力。Codex可辅助生成界面原型、自动化重复任务，并激发设计师的创作灵感。专家建议将AI视为协作伙伴，而非替代品，以实现人机协同的设计创新。"
-    },
-    {
-      "title": "US Congress warned: AI race winner will rule world, and it must not be China - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEE1ZzFhSUZucXBjNUgwMUFJUW9TU3kzdXhVUFRuR2N1cDlpVi0weGNtVDM3MVVnZ1FKc1hkSm9IUXFjVlU0Tjh2RWVqS3hsaEhfUFZrNWk3aFR6WmRYVXdnc2ZHczBKY3dsOWpaeDBQbFVCaTJOYVZKYjhYUV9tUlE2MWtzUFlyVFFrcE5vMTJVems5X21oT0ZkN2FZazctb1lQQS00SzVYa1pfdE5KUllZT1h1UTZNM2twUHZpZ9IBvwFBVV95cUxNRy1RNUtMOFY2cE1FTFJSekxGejZMVE9FbTdHd09oQmsxeGR6SUhlM1M2dnU1VkVrQTBxelhPeDZVdU9kMDBWemdfZkxENmdrbkprS0ZNYVA3d2hyYkdGNlkzbTVrQUdHMmY0Q281a0s2QTdMLU83SDBxRTFDRG1tQXkyTWNhb2xTcUtLdEpWM2hLclRtV3FwRTNreWlZd1h2NUkxaVdyWExJcXhiZGtBV1UyN2h2VTdIY2FxUlg2VQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T21:51:25Z",
-      "summary": "美国国会听证会警告称，人工智能领域的竞赛胜出者将主导全球未来格局，并强调必须防止中国赢得这场竞赛。与会专家呼吁加强AI研发投资、完善出口管制并构建盟友技术联盟。这一表态折射出地缘政治竞争已延伸至尖端科技领域，引发广泛讨论。"
-    },
-    {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-11T20:33:10Z",
-      "summary": "SpaceX正式将其股票发行价定为每股135美元，启动历史上规模最大的首次公开募股（IPO）。此次上市标志着商业航天巨头进入公开资本市场，投资者可分享其星链、星际飞船等项目的未来收益。定价细节反映出市场对航天商业化前景的高度期待。"
-    },
-    {
-      "title": "AI models are absorbing antisemitism from humans, study says - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ25iR2puRWVUbEF3cGQ2U2h0dmFRaW5STTBXcVZhQjQxS19SdzNDa2o5TUlpMDhZMnhRUy12OFhFUGxFSHFYT202a0J6Qk9Jc1lmRXhYcF92T1ZVM1Z5TUlOS0R2U2NpSzMza1VJcUI3dUNCSzVkVjFtM2N1eWJVZDZhdFZPX2hsaXZRVy15aFlJMW1T0gGaAUFVX3lxTFBmVm1tRHhKck5VQVpqNHFDc1Y0aEh0d0J3bVVWMVk2dDNXblQtTktQdGxZS200MUlIMEFlYXl4OGlCczZsY1Q4VllZbVVXWWdjVGF6U3pJMFd5SWsyT3RJcG5nc2wwRTFWLWtOWVhqcU9hVFFEenYtSW9tZlRMeXNiVXFhVzJZdXdaMmo5VGE0R001Q2xJY0VUQ3c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-11T20:33:00Z",
-      "summary": "一项新研究表明，AI模型在训练过程中从人类数据中习得了反犹太主义等有害偏见。研究指出，大语言模型生成的文本中反复出现针对犹太群体的刻板印象和仇恨内容，凸显了数据清洗和价值观对齐的紧迫性。研究者呼吁加强AI伦理审查与偏见缓解措施。"
+      "publishedAt": "2026-06-12T01:02:44Z",
+      "summary": "太平洋投资管理公司（PIMCO）经济学家Clarida分析人工智能的经济影响，指出AI将显著提升生产率，但可能导致就业结构剧烈调整和收入不平等加剧。他强调政策需提前布局技能培训与社会保障，以缓冲冲击。同时，AI在金融、医疗等领域的应用将加速，但监管需平衡创新与风险。"
     }
   ]
 }
