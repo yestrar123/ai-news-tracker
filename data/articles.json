@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "1081",
+      "title": "Why Anthropic Disabled Its Most Powerful AI Model Days After Launch - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTmtQWUdhOTJwaU9Oa3hYM1VMYWY0ODZSbkRMX0wyZ2FYTVl0cThkd1laYklVZHFobWFmTzhveTkxWDBKMDVCT0RrbEx4VDk0N3pzNUw4UjljRWVuZWdaaVlEYmMwWmNJdm9LYzJWdjR2ZUdLbmJ0S2U4eTN3d1JkYU1NRFU3eG11dVBINFRjSTJzcXN1SXZmSjZhWHU0Q1o4WlBDcDNwa0Q1V3puTU9RRUxfVHdLRElwa2YyZy1yMU5kLWt5ZERzVlNlOXpjdW1oRG94SjBaZWxKN3VYVFduT2Rnd1VrQVlDSVhkZVdDY2Nsd29lS1FCYzhB0gGCAkFVX3lxTE1qWFZEZ3hteU4xd18yMjItT3RaVklwSGYwMTE2LU1MSHVZNi1wY1JxOEZGUWkxal8xNUlhWk94b0V5dmJhYkg2XzBsTHFlWUFwQzRyV1F4RndhWHNwSENDdVRQVVFxY0NHcWhtTmVfZHNQbnlzZzRQOVNabzBxal9YSl9uOEhJSzl3R3VVS1RlS09Ub044X3hDX2N1MXE5aUNKRmNTLWxwZ09FcXpNQTVLMDBGUG1ZSGFSQUxaaXVyQ0hocEZnMlJMRzkxeFBEUmZESHVQUmZKcnY1czROaEtyZGMtWDVidnMwRnRUM2o0d1hCTGo2VE5IOXVBTk43dXVZUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-13T07:00:21Z",
+      "summary": "人工智能公司Anthropic在推出其最强大AI模型数天后便将其禁用。虽然官方未公布具体原因，但业内推测可能涉及模型安全性风险、意外行为或伦理隐患。此举凸显了当前尖端AI研发中安全性与先进性之间的平衡难题，也反映出行业对潜在风险的审慎态度。",
+      "fetchDate": "2026-06-13"
+    },
+    {
+      "id": "1082",
+      "title": "AI is in classrooms — one expert says the real risk is pretending otherwise - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMUtxYUd3Q3h1S3I0SmNXUjdRYm5OODFfSGIxQW5vNjdXcTgwVVRuSW1XSUdxNEg0UDk5aUhVaXZZNmt1TG1POTFockw4X3V4YzNWaFhFMV9GT3dzamFJSFhUTTI4Xzk5OTNhOHk2TzY0QkRUeTNvUV9uM3FQWkwyQjNiaTVmczgzNWk4cnRNT0ZIOWM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-13T05:08:26Z",
+      "summary": "随着人工智能进入课堂，教育领域正面临新的挑战。一位专家指出，真正的风险并非AI本身，而是教育系统假装它不存在、拒绝正视其影响。忽视AI在教学中的实际作用，不仅会错失辅助学习的机遇，更可能加剧教育鸿沟。专家呼吁教师和政策制定者积极引导AI的合理使用，而非回避现实。",
+      "fetchDate": "2026-06-13"
+    },
+    {
       "id": "1076",
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
@@ -9712,5 +9730,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 1079
+  "total": 1081
 }

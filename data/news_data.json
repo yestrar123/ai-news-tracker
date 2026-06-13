@@ -1,55 +1,27 @@
 {
-  "updatedAt": "2026-06-13 06:09:22 UTC",
-  "totalArticles": 7,
+  "updatedAt": "2026-06-13 08:46:02 UTC",
+  "totalArticles": 3,
   "articles": [
+    {
+      "title": "Why Anthropic Disabled Its Most Powerful AI Model Days After Launch - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTmtQWUdhOTJwaU9Oa3hYM1VMYWY0ODZSbkRMX0wyZ2FYTVl0cThkd1laYklVZHFobWFmTzhveTkxWDBKMDVCT0RrbEx4VDk0N3pzNUw4UjljRWVuZWdaaVlEYmMwWmNJdm9LYzJWdjR2ZUdLbmJ0S2U4eTN3d1JkYU1NRFU3eG11dVBINFRjSTJzcXN1SXZmSjZhWHU0Q1o4WlBDcDNwa0Q1V3puTU9RRUxfVHdLRElwa2YyZy1yMU5kLWt5ZERzVlNlOXpjdW1oRG94SjBaZWxKN3VYVFduT2Rnd1VrQVlDSVhkZVdDY2Nsd29lS1FCYzhB0gGCAkFVX3lxTE1qWFZEZ3hteU4xd18yMjItT3RaVklwSGYwMTE2LU1MSHVZNi1wY1JxOEZGUWkxal8xNUlhWk94b0V5dmJhYkg2XzBsTHFlWUFwQzRyV1F4RndhWHNwSENDdVRQVVFxY0NHcWhtTmVfZHNQbnlzZzRQOVNabzBxal9YSl9uOEhJSzl3R3VVS1RlS09Ub044X3hDX2N1MXE5aUNKRmNTLWxwZ09FcXpNQTVLMDBGUG1ZSGFSQUxaaXVyQ0hocEZnMlJMRzkxeFBEUmZESHVQUmZKcnY1czROaEtyZGMtWDVidnMwRnRUM2o0d1hCTGo2VE5IOXVBTk43dXVZUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-13T07:00:21Z",
+      "summary": "人工智能公司Anthropic在推出其最强大AI模型数天后便将其禁用。虽然官方未公布具体原因，但业内推测可能涉及模型安全性风险、意外行为或伦理隐患。此举凸显了当前尖端AI研发中安全性与先进性之间的平衡难题，也反映出行业对潜在风险的审慎态度。"
+    },
+    {
+      "title": "AI is in classrooms — one expert says the real risk is pretending otherwise - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMUtxYUd3Q3h1S3I0SmNXUjdRYm5OODFfSGIxQW5vNjdXcTgwVVRuSW1XSUdxNEg0UDk5aUhVaXZZNmt1TG1POTFockw4X3V4YzNWaFhFMV9GT3dzamFJSFhUTTI4Xzk5OTNhOHk2TzY0QkRUeTNvUV9uM3FQWkwyQjNiaTVmczgzNWk4cnRNT0ZIOWM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-13T05:08:26Z",
+      "summary": "随着人工智能进入课堂，教育领域正面临新的挑战。一位专家指出，真正的风险并非AI本身，而是教育系统假装它不存在、拒绝正视其影响。忽视AI在教学中的实际作用，不仅会错失辅助学习的机遇，更可能加剧教育鸿沟。专家呼吁教师和政策制定者积极引导AI的合理使用，而非回避现实。"
+    },
     {
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-13T04:14:19Z",
-      "summary": "前美国总统候选人杨安泽认为，降低生活成本是下一个重大创业机会。他列举了美国人在住房、食品、无线通信等方面的过度支出，指出初创公司应致力于将这些多花的钱返还给消费者。杨安泽强调，通过技术创新和商业模式优化，降低基本生活开支将成为新一轮创业热潮的核心方向，有望释放巨大市场价值。"
-    },
-    {
-      "title": "U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHRjTk4ySzZxRVVlTnA4LXdBSzZ3RzFEX0puLW1ZTVhxNXRSTmN3ZEVhV0phNWF5YzhfMVhZWGhnR0RlMzhDeUx6RkhuWXRYR0YyTWVTdU1EX3ZZV3l5S3MtRW5LbHczR2VlWDRVSjlVcnRKVTY4Y0ZmZ1V5bWdpb1dVQXBTLTdTMUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-13T03:48:18Z",
-      "summary": "美国出台新规，禁止外国用户使用Anthropic公司最先进的人工智能模型。这项限制措施引发了业界对AI技术出口管制和全球化应用的广泛讨论。Anthropic作为领先的AI安全研究公司，其最先进的模型在自然语言处理和推理方面具有显著优势，此次政策调整将直接影响国际用户获取前沿AI技术的能力，也反映出美国在AI安全与地缘政治之间的权衡。"
-    },
-    {
-      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-13T02:26:30Z",
-      "summary": "Anthropic公司的安全警告可能适得其反，美国政府已叫停其最强大的AI模型。Anthropic对此表示不满，称政府以“狭窄的越狱漏洞”为由召回一款已部署给数亿用户的商业模型是不合理的。该公司在博客中强调，模型存在轻微安全风险不应导致全面召回，这一事件凸显了AI安全监管与企业商业化之间的深层矛盾。"
-    },
-    {
-      "title": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI) - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2huZHFIRTAzcnhNUWllRk1HTDNjcTVtdmZvZXFYMUllazgwSnZqLW9CRjczU0pNRk96LU1icGxWZmstbzRTSktTbnM4TDZxOV9hQUhvNjZPU2h5WWV2dHFOVC1ja2pTMkJmb3hnTlhVS0cyUTJpSGxMQ0JUdFBtY3o4eE5ZUUFHWFRqNHFWeXYwckItYW1BRw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-13T02:14:00Z",
-      "summary": "据The Motley Fool报道，两家新兴公司正在挑战云计算巨头在人工智能领域的统治地位。这些后来者通过创新的AI架构和高效的计算方案，试图在云端AI服务市场打破亚马逊AWS、微软Azure和谷歌云等巨头的垄断。它们专注于降低AI推理成本、提升训练效率，为中小企业提供更具性价比的AI解决方案，有望重塑云计算AI竞争格局。"
-    },
-    {
-      "title": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2dsUG9pcHNzSGRzSG5KVW9JQUhKSU1zbWNpN29lLVZ4eWN5QVpyZFRVZHppUlBDR2xRTXVYTXJaSGV2bUV0LW5ON21kVHZRWVltVllRRnI2MkVGMkxpTlQzRjdmU1pmdzdUVzJLRTFZWEpTNzVwUzVNVVJDVFBXY1N4bEp0UQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-13T01:49:00Z",
-      "summary": "英特尔、AMD、Arm等半导体公司的AI相关股票今日集体上涨。市场分析认为，这一波上涨源于投资者对AI芯片需求持续增长的乐观预期，以及多家公司近期在AI硬件领域的技术突破。英特尔的新一代AI加速器、AMD的Instinct系列GPU和Arm的Neoverse平台均获得积极关注，表明传统芯片厂商正加速追赶英伟达，在AI计算市场争夺更多份额。"
-    },
-    {
-      "title": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI) - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa1ltZW1jT3JrTTBxSXh6VTF3c21zbkNtRkJVMVFsQkhkT0NicFhuZV90SUE2MFplTFBDWGxjSmEwSTRxUkw2cElqNWlDWm85MkU5WnZDUElkNTVPVklpUEdSb0RoVE4tdHJxYUcwUDlkVm9kN1ZiTFBocnpUS2hNX3NiTEpvMWpZYUpra0VhZ3hhYUNMQkh5WTFFa0FPTlVLU0cwTGxjMDZWbERuUWdmTzNaRnNWYTRMNmgyMEVSbHFoSmpaR1Q3MzZfVUl2VGxmdlpZd29TaklQSG1YX3JiSTJpbVhKMjd4THkyRkxubTd1akVDNXc2amtSaDI?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-13T01:39:25Z",
-      "summary": "据《环球邮报》报道，两家新兴AI公司正挑战传统云计算巨头。这些新玩家采用差异化策略，专注于边缘计算、AI模型优化和专用硬件集成，试图在AI云服务领域开辟新赛道。它们通过降低AI训练与推理的总体拥有成本，以及提供更灵活的按需服务模式，吸引了大量寻求避免被主要云厂商锁定的客户，预示着AI云计算市场正进入多元竞争时代。"
-    },
-    {
-      "title": "Forget the \"Magnificent Seven\": These 3 Hypergrowth Artificial Intelligence (AI) Stocks Are Just Getting Started - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnV4Vlc0U0FGZHh4d2twWnBwTGZSSnBqWE9odVVHYWJLODk1bkdWTkxuZzFkLWkteG83YTR5VlBjelpvdkFIb29BUk1hRVNrdXRRajZpckE2bHFPdjZoRmtncFhjd284OWw2ZUVMVG5KS2tlSU1qeHh5eFBUWTlJU2VkTElMeDJ0dGZkdUlLWUdUVkpmVUhDdkpSYTRjdUVtTmRvbXVB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-13T00:35:00Z",
-      "summary": "雅虎财经指出，投资者应关注三只处于高速增长初期的人工智能股票，而非仅限于“七巨头”科技股。这些公司分别在AI芯片、AI应用软件和AI基础设施领域展现出超乎寻常的增长潜力。分析师认为，随着AI技术向各行各业渗透，具备独特技术壁垒和快速商业化能力的公司将获得超额回报，而市场对AI的长期乐观情绪正推动这些新兴企业股票持续走高。"
+      "summary": "企业家及前总统候选人杨安泽认为，降低生活成本将是下一个重大创业风口。他列举了美国人在住房、食品和无线通信等领域的高额支出，指出这些领域存在巨大的优化空间。杨安泽鼓励创业者聚焦于“把钱还给消费者”，通过创新商业模式和技术减少不必要的开支，从而抓住新一波创业热潮。"
     }
   ]
 }
