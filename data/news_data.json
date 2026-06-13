@@ -1,90 +1,55 @@
 {
-  "updatedAt": "2026-06-13 02:11:04 UTC",
-  "totalArticles": 12,
+  "updatedAt": "2026-06-13 06:09:22 UTC",
+  "totalArticles": 7,
   "articles": [
     {
-      "title": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI) - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYlVyaWRJQXBDenJOLXYtNkhiYy0xUl92N0lTLWk2T0g5X1Q3MWtQSmVZWmtWLUhGVTF3Szd0VGh3a1JJYkZlWTVvS2NhSGdwblIwcWQySkZVVHJsRW1JTmFhMi1OMzJDcU4zaElmVi1fS2hiNjRSTWhIU09JdjRIU1dfeks0aUtzZGxna0EweDJNdkdpZzNXZEdFQU5NWlE1SW9LWkNzSmM2LXZHWUxhbXY1RmIyRks3NlNLSU5rczRRY3FJWDlXRXA0VXRBNDB2Y1BkcU05MFZqcFZaM2k3X1ZVSG9Yb0xhMS03MWRMZnRUdkxsN2ZGUVVXZHBnQWRuOC1CNXN3?oc=5",
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-13T04:14:19Z",
+      "summary": "前美国总统候选人杨安泽认为，降低生活成本是下一个重大创业机会。他列举了美国人在住房、食品、无线通信等方面的过度支出，指出初创公司应致力于将这些多花的钱返还给消费者。杨安泽强调，通过技术创新和商业模式优化，降低基本生活开支将成为新一轮创业热潮的核心方向，有望释放巨大市场价值。"
+    },
+    {
+      "title": "U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHRjTk4ySzZxRVVlTnA4LXdBSzZ3RzFEX0puLW1ZTVhxNXRSTmN3ZEVhV0phNWF5YzhfMVhZWGhnR0RlMzhDeUx6RkhuWXRYR0YyTWVTdU1EX3ZZV3l5S3MtRW5LbHczR2VlWDRVSjlVcnRKVTY4Y0ZmZ1V5bWdpb1dVQXBTLTdTMUE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-13T01:45:55Z",
-      "summary": "文章报道了两家新兴科技公司正在人工智能领域挑战亚马逊、微软和谷歌等云计算巨头。这些初创企业通过创新的AI模型和计算架构，试图打破巨头在云AI服务上的垄断。文章分析了它们的技术优势、市场策略以及可能对行业格局产生的影响，强调AI竞争已从云平台延伸至更广泛的智能计算领域。"
+      "publishedAt": "2026-06-13T03:48:18Z",
+      "summary": "美国出台新规，禁止外国用户使用Anthropic公司最先进的人工智能模型。这项限制措施引发了业界对AI技术出口管制和全球化应用的广泛讨论。Anthropic作为领先的AI安全研究公司，其最先进的模型在自然语言处理和推理方面具有显著优势，此次政策调整将直接影响国际用户获取前沿AI技术的能力，也反映出美国在AI安全与地缘政治之间的权衡。"
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-13T02:26:30Z",
+      "summary": "Anthropic公司的安全警告可能适得其反，美国政府已叫停其最强大的AI模型。Anthropic对此表示不满，称政府以“狭窄的越狱漏洞”为由召回一款已部署给数亿用户的商业模型是不合理的。该公司在博客中强调，模型存在轻微安全风险不应导致全面召回，这一事件凸显了AI安全监管与企业商业化之间的深层矛盾。"
     },
     {
       "title": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI) - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2huZHFIRTAzcnhNUWllRk1HTDNjcTVtdmZvZXFYMUllazgwSnZqLW9CRjczU0pNRk96LU1icGxWZmstbzRTSktTbnM4TDZxOV9hQUhvNjZPU2h5WWV2dHFOVC1ja2pTMkJmb3hnTlhVS0cyUTJpSGxMQ0JUdFBtY3o4eE5ZUUFHWFRqNHFWeXYwckItYW1BRw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-13T01:44:44Z",
-      "summary": "本文聚焦于两家新锐企业，它们在人工智能赛道上对传统云计算巨头构成直接竞争。报道指出，这些公司专注于差异化AI解决方案，例如高效推理芯片或专用训练框架，从而在成本、性能或场景适配性上取得突破。投资者正密切关注这些挑战者能否重塑AI基础设施市场。"
+      "publishedAt": "2026-06-13T02:14:00Z",
+      "summary": "据The Motley Fool报道，两家新兴公司正在挑战云计算巨头在人工智能领域的统治地位。这些后来者通过创新的AI架构和高效的计算方案，试图在云端AI服务市场打破亚马逊AWS、微软Azure和谷歌云等巨头的垄断。它们专注于降低AI推理成本、提升训练效率，为中小企业提供更具性价比的AI解决方案，有望重塑云计算AI竞争格局。"
     },
     {
       "title": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2dsUG9pcHNzSGRzSG5KVW9JQUhKSU1zbWNpN29lLVZ4eWN5QVpyZFRVZHppUlBDR2xRTXVYTXJaSGV2bUV0LW5ON21kVHZRWVltVllRRnI2MkVGMkxpTlQzRjdmU1pmdzdUVzJLRTFZWEpTNzVwUzVNVVJDVFBXY1N4bEp0UQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-13T01:16:25Z",
-      "summary": "英特尔、AMD、Arm等芯片股今日集体上涨，主要受人工智能需求持续升温的推动。市场看好这些公司在AI训练与推理芯片领域的布局，尤其是数据中心处理器和边缘AI芯片的潜在增长。此外，行业对算力基础设施的乐观预期以及对定制芯片设计的关注，共同促成了此轮股价上扬。"
+      "publishedAt": "2026-06-13T01:49:00Z",
+      "summary": "英特尔、AMD、Arm等半导体公司的AI相关股票今日集体上涨。市场分析认为，这一波上涨源于投资者对AI芯片需求持续增长的乐观预期，以及多家公司近期在AI硬件领域的技术突破。英特尔的新一代AI加速器、AMD的Instinct系列GPU和Arm的Neoverse平台均获得积极关注，表明传统芯片厂商正加速追赶英伟达，在AI计算市场争夺更多份额。"
     },
     {
-      "title": "Forget the \"Magnificent Seven\": These 3 Hypergrowth Artificial Intelligence (AI) Stocks Are Just Getting Started - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNczlWem5zR2Q2UVFrRGJXYkZCVWVvN3lRTV9KTjh3OWI2emE2ampRcnRCaWt2VjRBRFhqQ0JDSF9JRmtEX0lzWW5TWUJkZkFMSFhFaUpyekF5Qk05azJISDc1WFFuZEdlQVFWOFUxd3hYUTJjdDBLdmNDNEhBVmFzZUxjSDVQZ1BBUDlXTjNkeWpyNERXYXQ4Mw?oc=5",
+      "title": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI) - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa1ltZW1jT3JrTTBxSXh6VTF3c21zbkNtRkJVMVFsQkhkT0NicFhuZV90SUE2MFplTFBDWGxjSmEwSTRxUkw2cElqNWlDWm85MkU5WnZDUElkNTVPVklpUEdSb0RoVE4tdHJxYUcwUDlkVm9kN1ZiTFBocnpUS2hNX3NiTEpvMWpZYUpra0VhZ3hhYUNMQkh5WTFFa0FPTlVLU0cwTGxjMDZWbERuUWdmTzNaRnNWYTRMNmgyMEVSbHFoSmpaR1Q3MzZfVUl2VGxmdlpZd29TaklQSG1YX3JiSTJpbVhKMjd4THkyRkxubTd1akVDNXc2amtSaDI?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-13T00:48:23Z",
-      "summary": "文章建议投资者暂时忽略“美股七巨头”，转而关注三只正处于高速增长期的AI股票。这三家公司在生成式AI、企业级AI应用或AI基础设施方面展现出超强潜力，且尚未被市场充分定价。作者分析了它们的业务模式、营收增速及技术壁垒，认为其长期回报空间更大。"
+      "publishedAt": "2026-06-13T01:39:25Z",
+      "summary": "据《环球邮报》报道，两家新兴AI公司正挑战传统云计算巨头。这些新玩家采用差异化策略，专注于边缘计算、AI模型优化和专用硬件集成，试图在AI云服务领域开辟新赛道。它们通过降低AI训练与推理的总体拥有成本，以及提供更灵活的按需服务模式，吸引了大量寻求避免被主要云厂商锁定的客户，预示着AI云计算市场正进入多元竞争时代。"
     },
     {
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-12T23:15:14Z",
-      "summary": "TechCrunch持续跟踪SpaceX的IPO进程，提供最新动态及深度分析。报道涵盖IPO的潜在受益者与落后者、Pre-IPO交易细节，以及S-1注册文件中的关键信息。SpaceX作为商业航天和卫星互联网领域的领导者，其上市被视为科技界标志性事件，但具体时间表仍取决于市场条件及公司内部决策。"
-    },
-    {
-      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-12T23:00:54Z",
-      "summary": "据内部报告，Meta成立仅数月的AI部门（约6500人）正陷入严重士气危机。工程师形容工作环境如同“精神压榨的集中营”，高强度的项目压力、模糊的目标导向以及管理层与基层的沟通断裂，导致员工濒临集体反抗。报道指出，若问题持续，可能影响Meta在AI竞赛中的竞争力。"
-    },
-    {
-      "title": "3 Core Artificial Intelligence (AI) Stocks to Buy With $1,000 Right Now and Hold for the Next Decade - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjhsY09xWUVqUU9KZllEckFxMDV4ckQ4RUJ5YVRtNXhuSDdKZUN6UXhSYWtrZ2RZRXFjYzBiNW9pLVV6V1c0b3V1VUQxUDBTRW1kYklOc1hrODY5WmN0a0V1VVhIWjVzX1dBR1JvVXU0VjJwMGVodnZJMDRLRUxPN21SbkpTbjMxdWtZZ05BUUg5UHZUYWRuZA?oc=5",
+      "title": "Forget the \"Magnificent Seven\": These 3 Hypergrowth Artificial Intelligence (AI) Stocks Are Just Getting Started - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnV4Vlc0U0FGZHh4d2twWnBwTGZSSnBqWE9odVVHYWJLODk1bkdWTkxuZzFkLWkteG83YTR5VlBjelpvdkFIb29BUk1hRVNrdXRRajZpckE2bHFPdjZoRmtncFhjd284OWw2ZUVMVG5KS2tlSU1qeHh5eFBUWTlJU2VkTElMeDJ0dGZkdUlLWUdUVkpmVUhDdkpSYTRjdUVtTmRvbXVB?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-12T22:38:00Z",
-      "summary": "本文推荐了三只适合长期持有的核心AI股票，建议投资者以1000美元起步并持有十年。这些公司分别在AI芯片、云计算平台和垂直行业应用中建立护城河，受益于AI渗透率提升的长期趋势。作者强调，相较于短期波动，核心持仓的确定性增长、强劲现金流和技术领先性是关键考量因素。"
-    },
-    {
-      "title": "My Top 5 Artificial Intelligence (AI) Stocks to Buy Right Now - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3FqSWx2dV9UTnh4bHhVRENVNk1IWnBxWEZYaEROTGY1MXFhVUJSTHBfdXZsVlBwSG9QREhUX1RERWVBSkpsQlRhMEtnMU9aNGstTHFXNGVEcTE2QTctYjJHR2x2d2tSRFh1LWp0cnBNdTZtTVNEaHFBOUwwdHNleXN1RUhPbnlHTHhKM0Y3a18wb0JiYzVF?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-12T21:36:00Z",
-      "summary": "作者精选出当前最值得买入的五只AI股票，涵盖从基础设施层到应用层的代表性企业。这些公司均在生成式AI、自动化决策或智能硬件领域占据领先地位，且近期财报显示营收与研发投入双增。文章还指出，AI行业竞争加剧，选择具有独特数据优势或生态绑定能力的公司更为稳妥。"
-    },
-    {
-      "title": "AI Powers Investment Thesis Analysis with OpenAI Codex - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYzJwY1dsamNvejBaQjhRTVR1bTItbVNkeUwtdzRXWnl3S1NfdVdzRmFoWk5qaW5aVjR4NjI5RFVXQ0ZqOHVZTHRSemliWkJ3ZFFsQUtERXpTLXRjTGpmdXRCSW9mNWNfMHVaVDFsOWFJU1FydVoxaHVUaklnb19KNHdqQ3NQOVJEa2dWYVZhc08tb2NPdk5mRzRpMC0wQ3JuN0FvTGNZRk5HejBiTGlCN2dsNWFoZ21U?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-12T21:02:20Z",
-      "summary": "StartupHub.ai报道，一家初创公司利用OpenAI的Codex模型自动化投资分析流程，大幅提升投资论文的生成效率。该方案通过自然语言交互分析财务数据、市场趋势和风险因子，辅助分析师快速构建量化模型。此举展示了AI在金融领域的落地潜力，但准确性和可解释性仍是后续挑战。"
-    },
-    {
-      "title": "Mistral Seeks $3.5 Billion to Build European AI Infrastructure - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRTlBbWVvTTVCcFFPc1VtanQzLW9DaW00d19xZ2F1dVRoSkJDODM4ZGNzR0lsRXFlTXRDWjJIdnk5cEwwSXljM1p0NkRPbFVjQy02cnM2VFJKUWtUSWM4LTVrSlV6NDVNNUF2cWxLZHgxbzhFSkdzWnVRQjRrbTBPY3I2Q2dsT0xEcjY1ckE5Z3NaZGpDWXpCenFqSlJtQTZVTFl0am82SkFiQlhtWVhVaWdLRGdlQnJkMWFOZ0RJMA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-12T20:55:52Z",
-      "summary": "法国AI初创公司Mistral AI宣布启动35亿美元融资，用于建设欧洲自主的AI基础设施，包括大型语言模型训练集群和边缘计算节点。该计划旨在减少对非欧洲云计算供应商的依赖，并推动本土AI生态发展。Mistral自成立以来已多次获得大额投资，其开源模型策略吸引了众多企业客户。"
-    },
-    {
-      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-12T20:38:09Z",
-      "summary": "谷歌近日对名为“Outsider Enterprise”的中国网络犯罪团伙提起诉讼，指控其利用人工智能技术实施大规模短信诈骗。该团伙在短短两周内发送了约250万条诈骗短信，导致数十万人受害。谷歌表示，该团伙通过AI生成的虚假信息诱导受害者提供个人信息或转账，严重违反了相关法律及平台政策。此案凸显了AI技术被滥用于网络犯罪的新趋势，也反映了科技公司在打击新型诈骗中面临的挑战。"
-    },
-    {
-      "title": "Derbyshire police officer investigated over AI-generated ‘evidential material’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGZ3ZzZ1eTZxRnlPQ1VqOHEyWG5QcjJqVW5BYi1jU1dmVWk2R25WeTByWklYTWVCZ1R2Z3dOVDVZMlJLYXhnTFF6OFg0a2ZkM081NThtY3p2VFp1NFdHQk1QWjhSQVFPOXRFQ2hfenA2a09tQlhYZ0JHSWlFaW5OaFRJS1ZyWmd4cGYzRmtILWZSaHlUVmlfRUQ5S3c0REdfdXJWT1VFcXlFMjlqdjVVRzN0RlNZY0Mz?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-12T20:12:00Z",
-      "summary": "英国德比郡一名警察因涉嫌使用人工智能生成“证据材料”而接受调查。据《卫报》报道，该警察可能利用AI工具伪造或篡改案件相关的证据文件，此举引发了对执法过程中技术伦理和法律边界的关注。目前调查仍在进行中，尚未公布具体细节。此事件凸显了AI在司法领域应用的潜在风险，尤其是其可能被用于制造虚假证据，影响案件公正性。"
+      "publishedAt": "2026-06-13T00:35:00Z",
+      "summary": "雅虎财经指出，投资者应关注三只处于高速增长初期的人工智能股票，而非仅限于“七巨头”科技股。这些公司分别在AI芯片、AI应用软件和AI基础设施领域展现出超乎寻常的增长潜力。分析师认为，随着AI技术向各行各业渗透，具备独特技术壁垒和快速商业化能力的公司将获得超额回报，而市场对AI的长期乐观情绪正推动这些新兴企业股票持续走高。"
     }
   ]
 }

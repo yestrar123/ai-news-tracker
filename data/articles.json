@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "1076",
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-13T04:14:19Z",
+      "summary": "前美国总统候选人杨安泽认为，降低生活成本是下一个重大创业机会。他列举了美国人在住房、食品、无线通信等方面的过度支出，指出初创公司应致力于将这些多花的钱返还给消费者。杨安泽强调，通过技术创新和商业模式优化，降低基本生活开支将成为新一轮创业热潮的核心方向，有望释放巨大市场价值。",
+      "fetchDate": "2026-06-13"
+    },
+    {
+      "id": "1077",
+      "title": "U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHRjTk4ySzZxRVVlTnA4LXdBSzZ3RzFEX0puLW1ZTVhxNXRSTmN3ZEVhV0phNWF5YzhfMVhZWGhnR0RlMzhDeUx6RkhuWXRYR0YyTWVTdU1EX3ZZV3l5S3MtRW5LbHczR2VlWDRVSjlVcnRKVTY4Y0ZmZ1V5bWdpb1dVQXBTLTdTMUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-13T03:48:18Z",
+      "summary": "美国出台新规，禁止外国用户使用Anthropic公司最先进的人工智能模型。这项限制措施引发了业界对AI技术出口管制和全球化应用的广泛讨论。Anthropic作为领先的AI安全研究公司，其最先进的模型在自然语言处理和推理方面具有显著优势，此次政策调整将直接影响国际用户获取前沿AI技术的能力，也反映出美国在AI安全与地缘政治之间的权衡。",
+      "fetchDate": "2026-06-13"
+    },
+    {
+      "id": "1078",
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-13T02:26:30Z",
+      "summary": "Anthropic公司的安全警告可能适得其反，美国政府已叫停其最强大的AI模型。Anthropic对此表示不满，称政府以“狭窄的越狱漏洞”为由召回一款已部署给数亿用户的商业模型是不合理的。该公司在博客中强调，模型存在轻微安全风险不应导致全面召回，这一事件凸显了AI安全监管与企业商业化之间的深层矛盾。",
+      "fetchDate": "2026-06-13"
+    },
+    {
       "id": "1065",
       "title": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI) - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYlVyaWRJQXBDenJOLXYtNkhiYy0xUl92N0lTLWk2T0g5X1Q3MWtQSmVZWmtWLUhGVTF3Szd0VGh3a1JJYkZlWTVvS2NhSGdwblIwcWQySkZVVHJsRW1JTmFhMi1OMzJDcU4zaElmVi1fS2hiNjRSTWhIU09JdjRIU1dfeks0aUtzZGxna0EweDJNdkdpZzNXZEdFQU5NWlE1SW9LWkNzSmM2LXZHWUxhbXY1RmIyRks3NlNLSU5rczRRY3FJWDlXRXA0VXRBNDB2Y1BkcU05MFZqcFZaM2k3X1ZVSG9Yb0xhMS03MWRMZnRUdkxsN2ZGUVVXZHBnQWRuOC1CNXN3?oc=5",
@@ -19,6 +46,15 @@
       "fetchDate": "2026-06-13"
     },
     {
+      "id": "1079",
+      "title": "Meet the 2 Newcomers Challenging the Cloud Computing Titans in Artificial Intelligence (AI) - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa1ltZW1jT3JrTTBxSXh6VTF3c21zbkNtRkJVMVFsQkhkT0NicFhuZV90SUE2MFplTFBDWGxjSmEwSTRxUkw2cElqNWlDWm85MkU5WnZDUElkNTVPVklpUEdSb0RoVE4tdHJxYUcwUDlkVm9kN1ZiTFBocnpUS2hNX3NiTEpvMWpZYUpra0VhZ3hhYUNMQkh5WTFFa0FPTlVLU0cwTGxjMDZWbERuUWdmTzNaRnNWYTRMNmgyMEVSbHFoSmpaR1Q3MzZfVUl2VGxmdlpZd29TaklQSG1YX3JiSTJpbVhKMjd4THkyRkxubTd1akVDNXc2amtSaDI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-13T01:39:25Z",
+      "summary": "据《环球邮报》报道，两家新兴AI公司正挑战传统云计算巨头。这些新玩家采用差异化策略，专注于边缘计算、AI模型优化和专用硬件集成，试图在AI云服务领域开辟新赛道。它们通过降低AI训练与推理的总体拥有成本，以及提供更灵活的按需服务模式，吸引了大量寻求避免被主要云厂商锁定的客户，预示着AI云计算市场正进入多元竞争时代。",
+      "fetchDate": "2026-06-13"
+    },
+    {
       "id": "1067",
       "title": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2dsUG9pcHNzSGRzSG5KVW9JQUhKSU1zbWNpN29lLVZ4eWN5QVpyZFRVZHppUlBDR2xRTXVYTXJaSGV2bUV0LW5ON21kVHZRWVltVllRRnI2MkVGMkxpTlQzRjdmU1pmdzdUVzJLRTFZWEpTNzVwUzVNVVJDVFBXY1N4bEp0UQ?oc=5",
@@ -34,6 +70,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-06-13T00:48:23Z",
       "summary": "文章建议投资者暂时忽略“美股七巨头”，转而关注三只正处于高速增长期的AI股票。这三家公司在生成式AI、企业级AI应用或AI基础设施方面展现出超强潜力，且尚未被市场充分定价。作者分析了它们的业务模式、营收增速及技术壁垒，认为其长期回报空间更大。",
+      "fetchDate": "2026-06-13"
+    },
+    {
+      "id": "1080",
+      "title": "Forget the \"Magnificent Seven\": These 3 Hypergrowth Artificial Intelligence (AI) Stocks Are Just Getting Started - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnV4Vlc0U0FGZHh4d2twWnBwTGZSSnBqWE9odVVHYWJLODk1bkdWTkxuZzFkLWkteG83YTR5VlBjelpvdkFIb29BUk1hRVNrdXRRajZpckE2bHFPdjZoRmtncFhjd284OWw2ZUVMVG5KS2tlSU1qeHh5eFBUWTlJU2VkTElMeDJ0dGZkdUlLWUdUVkpmVUhDdkpSYTRjdUVtTmRvbXVB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-13T00:35:00Z",
+      "summary": "雅虎财经指出，投资者应关注三只处于高速增长初期的人工智能股票，而非仅限于“七巨头”科技股。这些公司分别在AI芯片、AI应用软件和AI基础设施领域展现出超乎寻常的增长潜力。分析师认为，随着AI技术向各行各业渗透，具备独特技术壁垒和快速商业化能力的公司将获得超额回报，而市场对AI的长期乐观情绪正推动这些新兴企业股票持续走高。",
       "fetchDate": "2026-06-13"
     },
     {
@@ -9667,5 +9712,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 1074
+  "total": 1079
 }
