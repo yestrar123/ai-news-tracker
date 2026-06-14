@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-06-13 19:06:08 UTC",
-  "totalArticles": 2,
+  "updatedAt": "2026-06-14 02:33:54 UTC",
+  "totalArticles": 3,
   "articles": [
     {
-      "title": "OpenAI faces investigation from state attorneys general",
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-13T16:47:18Z",
-      "summary": "OpenAI正面临来自美国多个州检察长的调查，尽管具体参与州尚未明确。调查重点涵盖OpenAI的广告政策及健康数据处理方式，涉及对AI企业合规性的深入审查。此举反映了监管部门对AI行业数据隐私和商业行为的关注，可能对OpenAI的业务运营带来法律挑战，并影响其数据治理策略的调整。"
+      "publishedAt": "2026-06-14T00:03:49Z",
+      "summary": "据TechCrunch报道，Meta正在着手撤销其20亿美元收购Manus的交易，起因是北京方面要求终止该收购案。此举标志着Meta在全球AI领域布局遭遇重大政策阻力。Manus是一家专注于AI技术的公司，此次收购的逆转可能影响Meta在相关技术领域的竞争策略，也凸显了跨国AI交易面临的监管挑战。"
     },
     {
-      "title": "Apple Is Mostly Sitting Out the AI Spending Arms Race. With AI Stocks Selling Off, That Suddenly Looks Smart. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUQwSlEwY00xQ3R4YmprcmpDTG9Ha3ZNZldQVG5PRFV3azQ2RGx3cTVFSjFtek9HZDJsZmpmSVh1TEpXVEdvWXpYcEZIWkF4dWVPNUJ0NXZ1M0JBNmpjMzg3cmlJUEZXQnNMeXFSUmFJd21TS2NseUZIVUFyVFBOOXF1V0xyT2NFQVNIbTJvNEJrU0o5QmVlYQ?oc=5",
+      "title": "Artificial Intelligence, Wealth Creation and the Debate on State Intervention - Greater Kashmir",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQlBhLWVrVzBCZXViVkkyQXdaQ09iY2dlLTh4M3haTzVINWduaGFnc1FzdndRNVZHTWhlTkUwUnBIR1pPVFMwU1d6OWI1VUVCSzhtdHdOTEhjbDVHcHRuTkk3ZnpuMmtkOThWRGVJRFJ1enNDMnYtRUpoU3lRLWJReUpBSHl3MVZ4NGh3OEstclprS3pYZnA3RDdVWUloZFdIMUdqQk9ydmdBMVFzN2xEUWhMNWd5YkJ0OUV5bzFNdXp1Z9IBxwFBVV95cUxNRmlfZFRHdXcwOWxsR243OHdScDA3alJGcy01SHo5Ukd5UGxrdlNRZHVQMHlXYkZKQjgtaU01VTFYc09pbEd6a21ucjlBR2N0X3pZWjRPUmtKWDJURVBYX0RRNUEzcl9EN1hLMERwbVdnam1GVEZEV2VqNmtjZGhxMkJWVTNVWkJpNjRZX2psX2JrbkRRSjNoeW1SSGVXNk9ZQ1c5SE1VYnVQOFVxbWk5RHdHQUtXQ0JCOU1GWnVuQXF3N3YtQ2lr?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-13T14:08:54Z",
-      "summary": "苹果在AI领域采取谨慎策略，未积极参与行业巨额投资竞赛。随着近期AI概念股集体下跌，这一保守做法反而显现出前瞻性，规避了高投入高风险资产波动。此举显示苹果更注重长期技术整合与财务稳健，而非盲目追逐AI热潮，其战略在市场回调中显得尤为明智，或将为投资者提供更稳定的价值支撑。"
+      "publishedAt": "2026-06-13T23:41:19Z",
+      "summary": "Greater Kashmir发表文章，探讨人工智能在财富创造中的作用以及国家干预的必要性。文章指出，AI技术正成为经济增长的新引擎，但同时也带来财富分配不均、就业替代等社会问题。围绕政府是否应介入AI发展、如何平衡创新与监管，文章引发了关于国家干预在AI时代合理边界的辩论，强调需在鼓励技术突破的同时确保社会公平。"
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-13T20:42:31Z",
+      "summary": "毕马威（KPMG）因明显的内容幻觉问题，主动撤回了一份关于AI使用情况的报告。该报告在分析AI应用时出现了事实性错误，再次暴露出AI在自我认知和传播信息方面的局限性。这一事件凸显了即便专业机构使用AI工具时也需谨慎验证输出内容，以免因模型幻觉导致误导性结论，对行业声誉和决策造成潜在风险。"
     }
   ]
 }

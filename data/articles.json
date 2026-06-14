@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "1087",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-14T00:03:49Z",
+      "summary": "据TechCrunch报道，Meta正在着手撤销其20亿美元收购Manus的交易，起因是北京方面要求终止该收购案。此举标志着Meta在全球AI领域布局遭遇重大政策阻力。Manus是一家专注于AI技术的公司，此次收购的逆转可能影响Meta在相关技术领域的竞争策略，也凸显了跨国AI交易面临的监管挑战。",
+      "fetchDate": "2026-06-14"
+    },
+    {
+      "id": "1088",
+      "title": "Artificial Intelligence, Wealth Creation and the Debate on State Intervention - Greater Kashmir",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQlBhLWVrVzBCZXViVkkyQXdaQ09iY2dlLTh4M3haTzVINWduaGFnc1FzdndRNVZHTWhlTkUwUnBIR1pPVFMwU1d6OWI1VUVCSzhtdHdOTEhjbDVHcHRuTkk3ZnpuMmtkOThWRGVJRFJ1enNDMnYtRUpoU3lRLWJReUpBSHl3MVZ4NGh3OEstclprS3pYZnA3RDdVWUloZFdIMUdqQk9ydmdBMVFzN2xEUWhMNWd5YkJ0OUV5bzFNdXp1Z9IBxwFBVV95cUxNRmlfZFRHdXcwOWxsR243OHdScDA3alJGcy01SHo5Ukd5UGxrdlNRZHVQMHlXYkZKQjgtaU01VTFYc09pbEd6a21ucjlBR2N0X3pZWjRPUmtKWDJURVBYX0RRNUEzcl9EN1hLMERwbVdnam1GVEZEV2VqNmtjZGhxMkJWVTNVWkJpNjRZX2psX2JrbkRRSjNoeW1SSGVXNk9ZQ1c5SE1VYnVQOFVxbWk5RHdHQUtXQ0JCOU1GWnVuQXF3N3YtQ2lr?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-13T23:41:19Z",
+      "summary": "Greater Kashmir发表文章，探讨人工智能在财富创造中的作用以及国家干预的必要性。文章指出，AI技术正成为经济增长的新引擎，但同时也带来财富分配不均、就业替代等社会问题。围绕政府是否应介入AI发展、如何平衡创新与监管，文章引发了关于国家干预在AI时代合理边界的辩论，强调需在鼓励技术突破的同时确保社会公平。",
+      "fetchDate": "2026-06-14"
+    },
+    {
+      "id": "1089",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-13T20:42:31Z",
+      "summary": "毕马威（KPMG）因明显的内容幻觉问题，主动撤回了一份关于AI使用情况的报告。该报告在分析AI应用时出现了事实性错误，再次暴露出AI在自我认知和传播信息方面的局限性。这一事件凸显了即便专业机构使用AI工具时也需谨慎验证输出内容，以免因模型幻觉导致误导性结论，对行业声誉和决策造成潜在风险。",
+      "fetchDate": "2026-06-14"
+    },
+    {
       "id": "1085",
       "title": "OpenAI faces investigation from state attorneys general",
       "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
@@ -9766,5 +9793,5 @@
       "fetchDate": "2026-05-11"
     }
   ],
-  "total": 1085
+  "total": 1088
 }
