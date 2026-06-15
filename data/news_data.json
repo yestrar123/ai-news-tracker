@@ -1,97 +1,76 @@
 {
-  "updatedAt": "2026-06-15 16:54:37 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-06-15 20:43:57 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "Artificial Intelligence (AI) key in maritime training, says Katana - KBC Digital",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkFHM2ZYSFItcjl6UmJJaVBnY1BGOHBwd1Nmc3llY1FnaFNlUlNtcFpJZllxaXpJUGd3VTl5TG1JQ2ZvZXlBbXM1bjFTVWxLUzl3bVpOQUR4LVh5bDNHWlRxLVZXSUF2U2RpcVRaQ1VIeThQSjM0c3ZzY1RzVW15dGxrV3pfdHJxYjBFMzVSNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-15T19:12:51Z",
+      "summary": "航海培训公司Katana指出，人工智能正成为航海培训的关键技术。通过AI驱动的模拟系统，可以更真实地再现海上复杂环境，帮助学员提升应急反应与决策能力。AI还能分析大量航行数据，个性化调整培训计划，显著降低培训成本并提高效率。这一趋势表明，AI正在重塑传统航海教育模式，推动行业走向更高安全标准。"
+    },
+    {
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15T18:30:58Z",
+      "summary": "Meta宣布在Facebook上推出名为“AI模式”的新功能，该模式能够抓取Meta旗下各平台的公开信息（如Instagram、WhatsApp等）来丰富对话和推荐。这是Meta在AI竞赛中追赶对手的重要举措，旨在通过更智能的交互提升用户黏性和参与度。该功能标志着社交平台进一步融合跨平台数据，但也引发对隐私和数据使用的关注。"
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-15T18:30:34Z",
+      "summary": "SpaceX完成首次公开募股（IPO），TechCrunch为其后续发展发布全面分析包，涵盖从初创到成功的全过程。报道指出，SpaceX IPO为早期投资者和马斯克带来巨大收益，同时披露了预IPO交易细节及S-1注册文件中的关键信息。投资者需关注其后续火箭发射计划、星链商业化进展以及星际飞船的研发风险。"
+    },
+    {
+      "title": "Better Artificial Intelligence (AI) Inference Stock: AMD vs. Intel - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEh6eS1yZnFjQkFwV250QVZGU1h5dy1DcVhtdGNWMUNzZl9PSEpqRFB4RF9XNXBRR0l4SXpyRkxkdUxsYlVpM3hrWk40UVdpZm9jMVVMNnJuYmV1Uk9nazdiSGtybnY2Z0hZUXdRczRLVDdxb2VGdmhfRGxlazZSWEE2Q2ZhUmRFMTcwTEVtT0gxOUFyajZERHZIbUhtb2pBSmlhZU5zTHZqSFpS?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-15T18:05:00Z",
+      "summary": "Yahoo Finance从AI推理芯片需求角度对比AMD与Intel的投资价值。AMD凭借MI300系列加速器在AI推理市场占据优势，能效和性价比表现突出；而Intel则通过Gaudi加速器和至强处理器组合布局，但生态成熟度仍有差距。分析认为，短期内AMD在AI推理领域更具增长潜力，但Intel的全面布局和传统客户基础也不容忽视。"
+    },
+    {
+      "title": "Which Is the Better Tech ETF for Artificial Intelligence (AI) Stocks, State Street's XLK or Vanguard's VGT? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNzkwU1lLOWJHN3FsLXpvWFBBTGdDYUVqNGNQQnZuMV8yS0R0bnNwSkVtNkYxdHBCb1Z0akdaUXduTkd5OWg4OWQ5Yi1IaFM4SEpFcTJrWkw4aVNPYXJZeWEzbjBIb01YTVBRbzcwVkx3WWNfNkNDaWJ6QzhHcDhzNTRNNHNlcDVTVWhPcXZWUU96MDlVYUVXZkpiUlh2ZnJLTXdDX2MzOF9nQ3hCRXMwajVWZkdfNy1NTENoc2o4N29rcW44Q204Rm53UDQ0VV9LS0ZSeE84TDk1dEVISnp5RkZ2V3U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-15T17:33:52Z",
+      "summary": "The Motley Fool比较了State Street的XLK与Vanguard的VGT两只科技ETF在AI股票上的投资优劣。XLK偏重苹果、微软等巨头，AI相关比例适中；VGT则更广泛覆盖科技细分领域，AI初创公司占比更高。对于希望集中获取AI头部企业收益的投资者，XLK可能更合适；而想分散风险、布局整个AI生态链的投资者，VGT或许更优。"
+    },
+    {
+      "title": "Which Is the Better Tech ETF for Artificial Intelligence (AI) Stocks, State Street's XLK or Vanguard's VGT? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPalhmWC1RSVVqVDVfSU5jZmZHUzdqa1d3VkZWSnZjWUtHZVpLQ0RqNERTN3pha1c3NUQyc3FLbk42UFFMUWxOUEQ0Z0MwaXYwQXh5TS1GWFg5QWw0YW13QUdDajNZVGFJeExUTUpldFVvbWUxYXBJUWNuQUJ5RHhNc0p6MlNKX1UxLUtIVDVTWGpMTVd1amd2TVY3QTFBV2k5M254Yk5lc2tsZG44ZFNRaWY2TzNkMnNOampuLUxwbjJwZGFmeUM1c2p4VjA5bEJITWxCTlRZUnFrekdrRFlsdER5Tzh6ZFdlMkQ1blc1QXAtdnd4OUo5eFdid013RlJ6clE0VHp4ajlWX1drU2J2S3MyQmE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-15T17:25:00Z",
+      "summary": "The Globe and Mail分析了State Street的XLK与Vanguard的VGT这两只科技ETF，探讨它们谁更适合投资人工智能股票。两者均持有大量AI相关公司，但侧重点不同：XLK权重集中于大型科技股，对AI龙头企业敞口更大；VGT覆盖面更广，中小型AI公司占比更高。投资者应根据自身风险偏好和对AI细分领域的判断做出选择。"
+    },
     {
       "title": "Edge AI Market Growth: Nvidia and Ambarella Compete in Real-World AI Applications - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcjNIamJyVTVPd012QkJjOURtY2c3cWk0MzZKaWx3TjZESmd4eXpOaks0Vzhza3VQb3VRRlRHVm4zbk9MVXV5Q0JsTlpfVVFhZlhhMUFCVGRJeU5OZ2VGMU1udlhteUxlNldhRnM4NFZBT3VNakpmQmJVUWE1N1c3cXRXZDJnd3BDM19lME96QlpiQ0l6enZJWDA5RTlkS3hvLW5raWtxdGo?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-15T15:40:00Z",
-      "summary": "边缘AI市场快速增长，Nvidia与Ambarella在现实世界AI应用中展开竞争。Nvidia凭借GPU和CUDA生态在云端AI占优，而Ambarella聚焦低功耗边缘推理芯片，适用于智能监控和机器人等场景。双方推出专用硬件和软件推动AI从云端向终端迁移，工业自动化、智慧城市、自动驾驶等需求激增，竞争格局将影响技术路径与市场份额。"
+      "summary": "边缘AI市场持续增长，Nvidia与Ambarella在真实世界AI应用领域展开激烈竞争。Nvidia凭借Jetson平台和强大的GPU生态，占据高端边缘计算市场；Ambarella则以其低功耗AI芯片和视频处理优势，主打安防、机器人等垂直场景。双方均加速推出面向边缘推理的新产品，推动AI从云端走向设备端，实现更低延迟的实时处理。"
     },
     {
       "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
       "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-15T15:29:51Z",
-      "summary": "数十名网络安全专家联名致函白宫，抗议美国政府将Anthropic的最强模型Fable和Mythos列入出口管制清单。专家认为这一禁令会削弱网络防御者的安全能力，因为这些模型能提升漏洞检测、威胁分析和自动响应效率。限制出口让攻击者利用其他开源模型，而防御工具受限，呼吁政府重新评估政策。"
+      "summary": "数十名网络安全专家联名致信白宫，强烈抗议美国政府将Anthropic的最强AI模型Fable和Mythos列入出口管制清单。专家认为，这一禁令“危险”地削弱了网络安全防御者利用先进AI保护软件和产品的能力，可能使美国在AI安全应用领域落后。Anthropic对此表示遗憾，重申其模型旨在促进安全研究，不应因技术能力而受限制。"
     },
     {
       "title": "‘Any industry that was built on selling intelligence or talent is essentially getting reinvented.’ But that does not mean knowledge workers are finished. Wald AI's CEO and co-founder, Vinay Goel highlights the massive transition facing professionals as AI moves f - LinkedIn",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWtSRDMzMXNNLS0yelRQXzd4Z1F6VXlIRWluUEt1YmMtV3FrZmJZamZmRFB5VE1UYmlWWXpHX0luZTladkdtTmhyZld0cWxuNklmZml0dXV2REJPOThiVFBxNmRvRWtFNGk0eHBtaWF0RHdMeDBwZXJLcVJDWGlVZTdfYWhFWklqVXlYVERjbTZtRXdpMmRBV0xuazFMVkFqWTJxdFNUNzU2MkpjazMyVFgxX3ZmMkpi?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-15T15:22:16Z",
-      "summary": "Wald AI CEO Vinay Goel指出，任何基于出售智力或才能的行业都将被AI重塑，但知识工作者不会消亡。他强调专业人士面临巨大转型，需从重复性任务转向创造性、策略性工作。AI将成为协作工具而非替代者，关键在于适应新角色，将AI融入工作流以提升产出质量。"
+      "summary": "Wald AI首席执行官Vinay Goel指出，任何依赖出售智力或人才的行业都将被AI重新定义，但这并不意味着知识工作者被淘汰。他认为，AI将承担重复性推理任务，释放人类创造力，知识工作者需要转型为“AI协调者”，掌握提示工程、数据解读等新技能。这场变革对教育、咨询、法律等领域冲击最大，但也带来新的职业机会。"
     },
     {
       "title": "Strategic change management in the age of generative AI - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ050VXhKd0U0LS1sSVU3T2ZkNGR1ZWVrS1YzWnMtN3I4MjBUdkxXVUlsZ2FxVWtkb2NoS0lHbl9wTTJIY2JwUjI3VmtwUWV3VnVobTBUajJJVUtoc09sa3RXQVc0TEpvS3dQMVBrYlQtR2xqUkVDTXpDU0RBRFhMQjkxUVJBeVpKNlJYRm9lSEdjVU04d1hiVnZXdm45TnJ3VlE4ZkNrTTBxbU9FQ2c?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-15T14:55:54Z",
-      "summary": "路透社文章探讨生成式AI时代的战略变革管理。生成式AI不仅改变技术栈，还影响组织架构、人才策略和决策流程。企业需建立跨部门变革领导小组，顶层设计AI应用场景，注重数据治理和伦理合规。同时培养员工AI素养，鼓励创新试错，将AI战略与业务目标对齐，实现技术与组织协同进化。"
-    },
-    {
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
-      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T14:34:45Z",
-      "summary": "Salesforce以36亿美元收购AI客服平台Fin，旨在利用其团队和技术增强企业平台Agentforce。Agentforce可构建自定义AI智能体，自动化客户服务、销售和营销任务。Fin在自然语言处理和对话AI方面有深厚积累，收购将加速Salesforce在AI驱动客户体验领域的布局，巩固其CRM市场领导地位。"
-    },
-    {
-      "title": "Andhra Pradesh, Google to form task force for AI and digital governance - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWEhmNTloVVhGRXluRXE3eVB5aUlLeW0zQWxFUUl2MlgxaWJuaGF2NHc0eE5DVWcxVS1PVC1admxwNUZxR3BqNVplbDMtU2RvTW9Ha3QtMFQ0am4zWUlYNDJLNnFIVTg1REsxSzJMVTZpVGwtYzRWa2RMbUowMUpXbVI1eHNDSGZTemxjek1aQWp3Q3VSdzBaaGlHN2M5NS1PMGRvSjk0XzZfVm9kNHBtT0VHWUs0TFVteG41azQ4azFWYzJTVTlXak5pa0JTbFVLTFRiR3kwZ2hKbGNCZy1zSEl4TUN2c2haZnFkaVBXVTbSAfYBQVVfeXFMTkxlUXQzb3NCRU93UTFjTHAxWENEdm9EUG1memgyMFFJUHl5R094M2FJSEswLXJrZHJRRk9EUmZPV0J3TlhacnVIXzVaT0tIQjBneXV3WE4wU3RMYnRzTFRzX3dueEdtdm8wT24tQ3VZNnNMdV9UQUJSenpqa0pwNG1mYjRQcEZDaWJuRXhpUVpyTm9UTzJVMEJfWWx6XzJoRF9PMTgxVC1yWDZaYnFpRDNsT3ZrYW5IeERGNmlWSWkyRjZjbWxMc2Zvb0FFWVpzSTdMSWV4RnZCSFliM01yWVJmc0VFM3hKalJxTm9yV0taZndvSlpR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-15T13:54:30Z",
-      "summary": "印度安得拉邦政府与谷歌联合成立工作组，推进人工智能和数字治理合作。工作组将聚焦利用AI优化政府服务、提升公共部门效率、建设数字基础设施。双方计划在农业、教育、医疗、交通等领域开发AI解决方案，并建立数据共享和隐私保护框架，标志着印度地方政府在AI治理方面的积极探索。"
-    },
-    {
-      "title": "AI-driven digital services, intelligent networks to po wer global mobile industry growth - Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMVBiRjNGOHNWWWNwV3NmckZ4UUdScGQ2aVpMUzIyR2NFQ3JrWnljMEpuTFBOYXA4VUl3bTR2YWp5ZFNpSHNJZXFsRGhNVUlFSkhjLUNnTXdQRXBQaVlxU0VsMjYxTDRzY1lqcFBGcE0zUkdGTXJyei1LX2g1dk4wdGZUZjRBQWtTQm1mR0hJTjNJSk12WFZkS0ktNE9qd2UwWWZuSFNXb0RhRUNpZmJNYWlpaV9zQkVPTmNwMmw1YzJ6T3BYekVaRHBR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-15T13:48:31Z",
-      "summary": "报告指出AI驱动的数字服务和智能网络将成为全球移动通信行业增长新引擎。运营商利用AI优化网络资源分配、预测流量、自动修复故障，同时推出个性化内容推荐和虚拟助手等增值服务。5G与AI深度融合催生工业物联网、远程医疗、自动驾驶等新场景，预计AI在移动网络渗透率将显著提升，带动行业收入增长。"
-    },
-    {
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T13:46:08Z",
-      "summary": "印度AI初创公司Sarvam完成2.34亿美元融资，由HCLTech领投1.5亿美元，成为最新AI独角兽。Sarvam专注于主权AI，开发本土化、安全可控的AI模型，服务政府和企事业客户。资金将用于扩大团队、加强算力基础设施，深化自然语言处理和多语言AI研究，体现国际资本对印度本土AI发展的信心。"
-    },
-    {
-      "title": "Sovereign AI startup Sarvam raises $234 mn from HCLTech, Bessemer - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRHpfOUlKVFU4X09yN0NTRHhFUEYta3FJUFJiMHJNdW9wVXdZWDFMa0taeW03SWVrMjlRelBsN01mWi05OWNCdjNYY2dRSjBubjN0d3pCRFBIdm94SzAzcnhnWFZscFNHdlFrN3NKTmdyRnZrZkJUYWkwc1h4Qk9BVDBQdXlzdnB4Y3liNXFZYW9wUjFaQzBGVWJmallzbF9QQkxjaTJ2bm5vVEFpbG4wZDk1MDVoLW5KNnlyWEN5SllQTDU5eTg5d1QzUldfbHZBbDdva1pOVlh3QkZiWVFPWUtvVHZ4QkHSAewBQVVfeXFMUGJNa2h3MzJJb1FvdjVBSU5RUkJ5eXI3Z1N4by12M1A3RzRVRUdvdlFTd09CcjlzMEItS005YjRtN2wtaDQ0bzhyT3J4Sm1MSllRQmlwTmFlY0YxZTE5S0YtZGZOVmo1NjJWVThqbDJGRVNwMDVIeW43ZUpsTzA5TnBmTU93TXJPQ085VWFHSlpyRDVYQlBmd0lCbXMtaVYwVHg1WGF5UzRiNnNpZkRUNm9Ta2VIN3VldkxNVW8tX1JqSkJqang2enMzakgtUm84ZjVxaFdGdTF4Z0dIVkVvRFNKMnVuNVFkWEgxbTE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-15T13:33:17Z",
-      "summary": "主权AI初创公司Sarvam从HCLTech和Bessemer融资2.34亿美元，致力于打造符合印度数据安全和主权要求的AI解决方案，聚焦本地语言理解与生成。HCLTech作为战略投资者，将帮助其AI技术集成到企业IT服务中。此轮融资显示国际资本看好印度本土AI发展潜力。"
-    },
-    {
-      "title": "Cedar’s voice AI agent has handled nearly 400K patient calls since April 2025 launch - Fierce Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVgwaV93ZWlWY29GdzJrTzUteTczWEVpVnl3Q2hvejB1cm1XRkx1MExhMDFGZy1aM2JHeGNGS0NuTFE5czNIeFhsRUdCTmtiVmhWd09BMUZrVERtRlRkVkhhZGUxSmpIRF9NbzFuTzR5STlLcU1YRk5zODZHdWxPYTNkWEdWXzNYWV94amMzOWZhdnk2ZXNjeEV4SjFhSGQ1andUUG5JbGFPVGtGQTktZW04X3VKbzcyX25TR3JzODFTZkhMLVE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-15T13:00:00Z",
-      "summary": "医疗科技公司Cedar的语音AI智能体自2025年4月上线以来处理近40万通患者电话，自动完成预约确认、账单查询、症状预筛选等任务，显著减轻人工客服负担。系统在理解患者意图和提供准确回复方面表现良好，并持续通过机器学习优化，展示了AI在医疗客服领域的潜力，有助于提升患者满意度和运营效率。"
-    },
-    {
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T13:00:00Z",
-      "summary": "企业级AI安全初创公司NewCore近日完成6600万美元融资，致力于为AI代理人提供数字身份管理方案。该公司指出，随着AI代理人逐渐成为企业“员工”，未来网络安全的核心挑战将不再是管理人类用户，而是确保AI实体的身份认证、权限控制和行为审计。NewCore的平台通过创建可验证的AI身份凭证，帮助企业应对自动化工作流中可能出现的越权访问、数据泄露等风险。这笔巨额融资反映了市场对AI治理基础设施的迫切需求，尤其是在多代理协作场景下，身份管理将成为企业安全架构的关键一环。"
-    },
-    {
-      "title": "A satellite just learned to find things on its own — here’s what that means",
-      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T12:00:00Z",
-      "summary": "今年4月，一颗地球观测卫星首次实现了完全自主的目标搜索任务，标志着太空人工智能技术的重大突破。该卫星不再依赖地面指令，而是利用机载AI算法实时分析图像数据，自动识别并定位特定目标物体或现象，例如自然灾害痕迹或非法捕鱼船只。这一能力类似于自动驾驶汽车的环境感知，但应用于轨道高度。自主搜索大幅缩短了从数据采集到信息传递的延迟，使卫星能够在数分钟内主动上报异常情况，对紧急响应和环境监测领域具有革命性意义。"
-    },
-    {
-      "title": "HarmonyOS 7 steps into the AI gap Apple left open in China - AI News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXZCSDNsU2JYVFFpUzJsMnMtSEs0cVBTQjVEemRIZGYzWjRMTDFEQVhEODQzRVlLbk9yMGpUZEtYOXo4NkhFN192b3V1ckhEcWJxeFRPS1RKcXlJZGNsX1NOWENjZXNxNl9JNHQwX0ZwTXNBWkFJV0loaFREMW9LNlk5ZmoyRzQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-15T11:00:35Z",
-      "summary": "华为正式发布HarmonyOS 7操作系统，在AI功能方面大步追赶并填补了苹果因监管限制在中国市场留下的技术空白。新系统深度融合了端侧大模型能力，支持多模态交互、智能语义理解和个性化服务推荐，同时优化了跨设备协同的AI调度效率。相比苹果iOS在中国缺乏本地化AI创新（如Siri的有限升级和Apple Intelligence推迟落地），鸿蒙7以更开放的生态和更强的本土场景适配性赢得了用户关注。这一升级被视为华为巩固高端市场份额、重塑智能体验的重要举措。"
+      "summary": "路透社指出，生成式AI正在迫使企业重新思考战略变更管理。传统变革模型已无法应对AI带来的快速迭代与不确定性；企业需要建立敏捷的变更框架，包括试点测试、跨部门协作、持续学习机制。领导者应关注员工技能重塑与文化适应，而非单纯技术部署。成功的变革管理将成为企业在AI时代保持竞争优势的关键。"
     }
   ]
 }
