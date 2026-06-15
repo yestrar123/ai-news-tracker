@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "1170",
+      "title": "AI driving 'two-track' labour market - Irish Examiner",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vdE1MZ19yc3pIY2pnWnpXTGF4aWJaU1V5b3hMZVhaRmJvcVk2X2lJUWZzY3lPLUJDdkNTU2g3d3lNWk82dU82YlEyMFptUW1mcWJTcEY1ZTNTSmxFUm0yRXI2d01pUnNSbGFNVlRTWHRmZ0kyYlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-15T05:00:00Z",
+      "summary": "《爱尔兰观察家报》报道，人工智能正在推动劳动力市场出现‘双轨制’分化。一方面，高技能、擅长与AI协作的劳动者需求激增，薪资与就业机会持续增长；另一方面，从事重复性、低技能工作的群体面临岗位替代风险，就业前景趋紧。这种分化加剧了技能鸿沟，政策制定者需加强再培训与教育体系，以应对AI带来的结构性劳动力市场变革。",
+      "fetchDate": "2026-06-15"
+    },
+    {
+      "id": "1171",
+      "title": "Can S&P 500 AI Momentum Drive Microsoft’s Cloud Growth Higher? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzBHSW5fcUhidFNWZ21jT3RhUzREeEh4Rlluak5vb09RVHRodmtleW13cEVfazkyZU9lRjdnX1Y0TkNxTW9GSno0NVZaOVBFakVVWVhGSGl3a29CVnBpRXJBc205VWdyRlExcXdyNmZsakdiWHRPdEh6S25QQ2QwVlB1MmFUcVZhdS1rSDdVMmcwMG82OUZUUUxFbDV1S0dNd3hnWFRVQVM5a3o4emo2cjR2WHhpb1lEbXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-15T04:23:00Z",
+      "summary": "Kalkine Media分析指出，标普500指数中人工智能板块的强劲势头，可能助推微软云业务进一步增长。微软凭借Azure云平台与AI服务（如Copilot）的深度整合，正从企业AI布局中获益。随着S&P 500 AI概念股持续获得资本青睐，微软的云计算收入有望加速提升，但需关注市场竞争与宏观环境对增速的潜在影响。",
+      "fetchDate": "2026-06-15"
+    },
+    {
       "id": "1165",
       "title": "Sundar Pichai, Google's CEO, virtually avoided mentioning artificial intelligence (AI) in his gradua.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1ak5iOFdpYkZUNXFUbFhYeDlFNXBBMERpem1HTUlyMDdhLUNuTG9LeWZESGswd0VuN0M1d2NwaVJoaFpoaWFKU3pucw?oc=5",
@@ -10513,5 +10531,5 @@
       "fetchDate": "2026-06-14"
     }
   ],
-  "total": 1168
+  "total": 1170
 }
