@@ -1,76 +1,69 @@
 {
-  "updatedAt": "2026-06-16 02:41:46 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-06-16 07:15:35 UTC",
+  "totalArticles": 9,
   "articles": [
+    {
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16T06:59:00Z",
+      "summary": "马来西亚AI初创公司Respond.io完成6250万美元融资，该公司专注于开发基于AI代理的消息应用，能够自动处理海量客户咨询，采用按对话而非按席位计费的模式，有效降低企业客服成本。本轮融资将用于加速产品研发和拓展市场，并计划通过收购增强技术实力与市场份额。这表明东南亚AI创业生态正获得全球资本关注。"
+    },
+    {
+      "title": "France to invest €655 mln in AI, set up common chatbot for all state services - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDhBdFc3RnlUUzV4RHFVRVNNRm9BUF9nN0d2UENOcnhWMkc4VTA0em1xRU10SHcwNzltSG04OVZDTl9iS3BFcjV6TlI2NnQxNzBzSGRPa1pFSXJWc2Q5clpWQVZDR3g5c1o1Q2hocUhMQXluZmJ0a1p2TFVodGtRUEdNdk1rb2xPXzdDNGZ3ZVZqbWxxcHdlbmdXejJoV3dnQlR5UGRLLXNqSTBFa3M0Yl9R?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T06:58:00Z",
+      "summary": "法国政府宣布投资6.55亿欧元用于人工智能发展，并计划为所有国家公共服务部门部署统一的AI聊天机器人，以提升行政效率和用户体验。该投资涵盖基础研究、人才培养及产业应用，标志着法国在AI领域的战略性投入。统一聊天机器人将整合多个部门服务，简化市民办理流程，是欧洲政府数字化转型的重要举措。"
+    },
+    {
+      "title": "The VA and Artificifial Intelligence - Small Wars Journal",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGJsUThHLWl0d3J6bVlNTlJFd3F5SkZwUktXejRZYlh1ZkpxUlp6YmpNcVVoRkNUTFFVRkR1dVZ1U29GX0tlUEdjNXUxVTFSOWg4WVN1VkdVUlEwdWozcWttX3EtSGFPOS12ZFVIaHRtM3poSkdWRW5lTmNCX3JNQWpCSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T06:37:10Z",
+      "summary": "Small Wars Journal发表文章探讨美国退伍军人事务部（VA）在人工智能方面的应用。文章分析AI如何帮助VA优化医疗诊断、福利发放及心理健康支持等流程，提高服务效率和精准度。同时指出数据隐私、算法偏见及系统整合是主要挑战。该报道凸显了政府机构利用AI改善公共服务的前景与风险，为政策制定提供参考。"
+    },
+    {
+      "title": "As demand for high-bandwidth memory (HBM) for artificial intelligence (AI) servers has soared, the p.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54S3lEMkhuYy1YYzQ3YlhjU01uSTRMMTVUTnRMamdTVXRSaFpfOXJoLWdKVlpIeUYxeGhzb1daX2Y2b0dEWm5HNzkwRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T06:17:24Z",
+      "summary": "随着人工智能服务器需求爆发，高带宽内存（HBM）市场急剧升温。HBM作为AI训练和推理的关键部件，其高带宽、低功耗特性使之成为GPU等加速器的标配。供需紧张促使三星、SK海力士等厂商扩大产能，并推动技术迭代。该趋势反映AI算力需求对半导体产业结构的深远影响，未来HBM市场将持续高速增长。"
+    },
+    {
+      "title": "China's DeepSeek closes over $7 billion funding with unusual deal structure, the Information reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWC1qLTlZNklzYmsxRE9OZlhGVkZPc3lzSGh3OGplNFBYcDQ0OWl0WGJDOEVDUm5lVFItUldTaklPdHlxdEZKQ2EzT0x2MjJ6WHN5YW83NnZZczlLR1JoWThFN0VtNHVSbDkwWUV3djdIa2VPN1JIQmhxZFJGNVJFMzVLMng1aDJxaUtHVVlwX0swZ3NySDNIWVozY3JiYUJNRWdWNXVDWDA1Ti1MTnYyZDBHMGdvRFo4Snd5TlBxRjVVUmtRXzNF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T06:05:00Z",
+      "summary": "中国AI公司DeepSeek完成超过70亿美元融资，但采用不寻常的交易结构，引发业界关注。据悉该交易涉及多方投资者及特殊条款，具体细节尚未公开。巨额融资显示资本对中国AI领域的信心，DeepSeek可能在基础模型或垂直应用上有独特优势。此事件也反映了当前AI行业融资模式创新的趋势。"
+    },
+    {
+      "title": "The era has come when artificial intelligence (AI) makes game programs and graphics just by inputtin.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RMk84aVFDdW92dXUzSFk0RWlnTGFvUDU2QUJ3U0lpY1A5alZXaVZMOUpqa1BFNHluMVVMSFJkcXRiN2FRRHliazhWUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T05:59:06Z",
+      "summary": "人工智能已进入仅靠文本输入即可自动生成游戏程序和图形的时代。通过大模型和生成式AI，开发者只需描述需求，系统便能产出完整游戏逻辑与视觉内容，大幅降低开发门槛和成本。这一突破将改变游戏产业的生产方式，促进个人创作者和小团队创新，也引发对AI生成内容版权和质量控制的讨论。"
+    },
+    {
+      "title": "When the amount and cycle of automatic transfer are set, artificial intelligence (AI) has launched a.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pZDQ3SDJzN2JoYmZvc05xblVRSVdYa1F4UDd5ZFpteU5lMndxbW9fbXBaNFlxMjlMeEx1cklMWHEtbDBGX3BYNXVVYkx3WDRNeUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T05:54:59Z",
+      "summary": "一款新型AI服务上线，用户可设置自动转账的金额和周期，由AI自主执行转账操作。该应用利用机器学习优化资金调度，避免逾期或遗漏，适用于定期理财、缴费等场景。其核心在于AI对用户行为模式的理解和自动化决策，提升金融效率，同时需保障交易安全和隐私。这代表了AI在个人金融管理领域的实用化进展。"
+    },
+    {
+      "title": "‘AI is the key to global power status’: Inside China's race to militarise artificial intelligence - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbXR1MXVEY0FKbTdDUE01SXBIX05venp2QmZnN1pvX21pWUdKWEJualowZ2lhNmxRMi0wSzI5aUNlRWdFZ2N5YjZ6aUxhUWZDQk0xSFdISy1RbE5jOU5zX1JoMWM4LU41UnRLTXRGaWZIQ29qRkVZc0NUVVBXNHR4WC1uSGdiSzZTTnFITGdTQkhVTWdQeF9taWRidEROYS1ZbnlrS3ZlVElqeVZnbkRGMjktRXMzVXpoZ1NfWGh6VF9SOWo2Z1FsQTB2QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T05:00:13Z",
+      "summary": "Euronews报道指出，中国将人工智能视为获取全球权力地位的关键，正加速推进AI军事化应用。文章揭示中国在AI辅助指挥、自主武器、情报分析等领域的研发进展，以及军民融合战略对技术转化的推动。这一竞赛引发国际社会对安全与伦理的关注，专家呼吁建立全球AI军控规则以防范风险。"
+    },
     {
       "title": "Exclusive: Lumenci launches AI platform for portfolio analysis - Managing Intellectual Property",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFVoNWtTVXhqOE9WeXpZWEtJR0Q1ajBsUXZqTzlnOWZ0VG5xSlk1Ync2dzBVbWpTMnc3TUVabVQ3eFJtZ0pSTkxxblpNdTUtMThOc2ZEWGJDakxxZWdFZFNwYmtUd2FGRE9QcDZ5ZGp5dTV6ZVV5MDZqclMyS2p3VzNkNzlGZmpnSENLME01X1p2UHZ3cUllYWlvZF9TbGVVOGV3YUxVZmYzc09xQ2pBV1k3bWhzU3I1SGtNQUVLTVZWZjJv?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-16T02:22:52Z",
-      "summary": "知识产权管理公司Lumenci推出了一款基于人工智能的投资组合分析平台。该平台旨在利用AI技术自动化和优化专利组合的分析与管理流程，帮助法务团队更高效地评估专利价值、识别潜在侵权风险以及制定诉讼策略。通过机器学习算法，平台能够处理大规模专利数据，提供深度洞察和可操作建议，从而提升知识产权管理的整体效率与准确性。这项发布标志着AI在知识产权领域应用的新进展，尤其适合需要处理复杂专利组合的企业和法律机构。"
-    },
-    {
-      "title": "Build iOS Apps Without Leaving Codex - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFFPdVNfcXFWU0ZtdEZ5Z21qYzJMY2xxRS1HR05Ucmx4YzY0NnF1MWN0RHNIMTlwZm5zSE0zQXl1emYzWUdlbVlFRVU3OENVWmhDTUFTUmxqMlpNb0M4cnBsT2FXZWFEOHRURFlLdWVINDJNWjdDZ2xtNENxclYyYzVFYTVId0J4bGl1SGg0VjhrNld6TGkyQmhCWGV0LXVn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-16T00:01:57Z",
-      "summary": "StartupHub.ai报道了一项突破：开发者现在无需离开Codex平台即可直接构建iOS应用。Codex是OpenAI推出的AI代码生成工具，此次更新将其能力扩展至原生iOS开发，允许用户通过自然语言描述来生成完整的SwiftUI代码、界面布局和功能逻辑。这一集成极大降低了移动应用开发的门槛，使得非专业程序员也能快速原型化iOS应用。同时，它也为专业开发者提供了高效的辅助工具，有望加速App Store上的应用迭代速度。"
-    },
-    {
-      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T23:51:44Z",
-      "summary": "在斯坦福大学毕业典礼上，谷歌CEO桑达尔·皮查伊遭遇嘘声和部分学生离场抗议。抗议焦点是谷歌与美国国防部及移民海关执法局（ICE）的合同关系，特别是这些合同中涉及AI技术的军事与监控应用。学生们认为谷歌的技术正在助长侵犯人权和战争行为。此次事件延续了近年来大学校园对AI伦理问题的关注趋势，凸显科技公司与政府合作所引发的道德争议，以及公众对AI在军事领域应用的强烈抵制情绪。"
-    },
-    {
-      "title": "Climate crisis is changing when plants flower, artificial intelligence study finds - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORmZVTUM2QzU4SFVIS3lGelJ1ZDhaRmhKY2poM2tCTkxWYmNSN3RQWVNxTXVlSzZvdmItd1lLYlYxanNyNTZLQ3N1UWIxYU9oZllZMDlkS3hCcmFGdHlCM0tXOF9wQU5BUDVKY1g0UVRkQWZYbEFJanZlcXJzQ3Q2LVF6R2plbm5ueFRmbVVTRy03Q3c5YVgwMENkMW1CUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-15T23:01:00Z",
-      "summary": "《独立报》报道了一项利用人工智能开展的研究，揭示了气候变化正在改变植物的开花时间。研究人员通过训练机器学习模型分析大量历史物候数据，发现全球变暖导致许多植物提早开花，从而打乱生态系统的自然节律。这种变化可能影响传粉昆虫、农作物产量以及整个食物链的稳定性。AI技术在此次研究中发挥了关键作用，能够从海量数据中识别出细微的季节性变化规律，为应对气候危机的生态适应策略提供了科学依据。"
-    },
-    {
-      "title": "Washington Policy Pulse: US-Iran Deal & AI Rules - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVU5GVktoVHlNQUoxSWx5UkpSQnJtVU5EdU8wLW5KOWlMbVBoRUFvRVpvNml3ZVdHbGxMb1Q0S1A3Ukg1X1RBaFNBanNjYXF2dU52UmVFaHRXU0tlYzhTb0xUcC10VkE4MzlWTjY5YW0wZHFTYlpmQjNsaEctOWVNMEZvYlBrRzV5TFczN1dMODBvZVZCbnBGckd3TWR4NkEwbUVVVWZDc1ZHd0pi?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-15T22:03:08Z",
-      "summary": "StartupHub.ai发布的《华盛顿政策脉搏》报告聚焦美国在伊朗核协议与AI监管方面的最新动向。报告指出，美国政策制定者正同时推进两项复杂议题：一方面重启或调整对伊朗的核协议谈判，另一方面加速制定人工智能的行业规则。AI监管方面，国会与行政机构围绕算法透明度、数据隐私、国家安全风险等核心问题展开辩论，企业面临合规压力。这两项政策走向将对国际关系与科技创新产生深远影响。"
-    },
-    {
-      "title": "This artificial intelligence (AI) infrastructure stock has been crushing Nvidia on the market. Its latest deal could send the stock even higher - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOaUVlRngyUjlGYXAxOHpNV3lYNE5vRDNaVmFBZUxabU85aHZWejgycWo1TzlqNkp6Y0JEbHlLOVYxMk5ELWdtaUtxeE5rQVE0eV9NLVpldlVKbE9feEtKRVlkUTZHVVA1ZW81NEM2M09fbW5TcVE5dER1akFWSXdCMEtTWEVVc3J1OV9wUEtpRDdGZ3NpdXZIX1hkTmY0WXg2azZTbi1LSjNMTE9GOUxXbF91bVBZX3BLNTgyel9LVkFsTGVUeVZDS25Db2doYVNFSXM2QUdicW9rZ2JkOTYwUE5qLWdHQXM0RF9ZSl9UNFVkczNVZFJVYUl6UFhsaFdDV2g0UEdMaTBUY3NWVHdrbDVLUlhROXh4d1ctTXRIWDdNZkNTamlXX2x5NGd4dElaZUk1ZkJpODd6Y0hvcVFXb0V3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-15T21:58:00Z",
-      "summary": "MSN报道，某AI基础设施股票在市场上表现抢眼，涨幅甚至超过了芯片巨头英伟达。这家公司专注于为AI训练和推理提供数据中心、服务器、网络设备等底层设施。其最新达成的合作协议被分析师认为将大幅提升营收预期，可能推动股价进一步攀升。随着AI应用全面爆发，基础设施提供商正成为资本市场的明星，该公司的成功表明：除了芯片制造，构建AI算力平台同样具有巨大的增长潜力。"
-    },
-    {
-      "title": "AWS WAF Lets You Charge AI Bots - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOODdNZzdjV0pjZU9sYkZ4cmJ6ZENwc2dmcTFEOXk0Y2dsVnpmWXhod0ZIMjVERVpJZjF5eVBIZEVXR2dBWmN1MUZNT0hQMUVrejh1Y0xxYkotMmRJdG92OENXamU1eWg1N2k3Ylg0Q3pfVG9teDNwWVNLcThfaGJ4QzJ6d3NicnI3bTBxQml0cW5FMHVkZ0FvOXFn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-15T21:51:23Z",
-      "summary": "AWS推出了一项新功能：允许用户对其Web应用防火墙（WAF）设置自定义规则，对访问网站或API的AI机器人进行收费。这一机制使得网站所有者能够识别来自自动化爬虫、AI训练数据采集等非人类流量，并根据请求次数或资源消耗向机器人运营方收取费用。该功能旨在帮助企业和开发者更好地控制流量成本，同时保护内容不被大规模抓取。这也反映了云服务商在应对AI爬虫泛滥问题上的商业化探索。"
-    },
-    {
-      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-15T21:50:21Z",
-      "summary": "TechCrunch分析指出，美国政府迫使Anthropic撤回其最新网络安全模型的行为，并非单纯针对所谓的“AI越狱”漏洞。这一决定更可能是特朗普政府对Anthropic的政治报复或反应性措施，显示AI公司无法免于政府干预。Anthropic此前曾因模型安全立场与政府部门产生摩擦。此事件向整个AI行业发出明确信号：即便在技术前沿，企业的商业行为也必须考虑政治因素，而政府可能有能力直接干预模型发布。"
-    },
-    {
-      "title": "This Artificial Intelligence (AI) Infrastructure Stock Has Been Crushing Nvidia on the Market. Its Latest Deal Could Send the Stock Even Higher - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTYxV2RLVUFXbThUQjRMYVZtVm16R0Y1ZEVZeVRsakFTdnpjYU15YThVMzh4Q04yM18xcGMzYjJoT0ZhcnNnakNzcHNvRnZ1dThxaXpNN0cwWU1SZnFONUR6eHUxWktvdWozd2FZU05tNU5KbkVDX2pfbnRBRkFNYUtPdDhkSE90RWsxTzZIbkxnT2l1YzJPdjkxZW11VHN5M2EyZUhJVlh5eVhKYVpXMg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-15T21:18:00Z",
-      "summary": "雅虎财经报道称，一只人工智能基础设施股票在市场上的表现持续优于英伟达，成为AI赛道的新宠。该公司专注于AI算力所需的硬件和软件基础设施，其最新签署的重大合作项目预计将显著提升业绩。投资者看好该公司在数据中心建设、高性能网络等方面的布局，认为其能够抓住AI部署浪潮的长期红利。此次交易不仅巩固了其市场地位，也进一步拉大了与竞争对手的差距，股价有望借此再创新高。"
-    },
-    {
-      "title": "How Africa can thrive with agentic AI - The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QeERWNm9rZEJ3NmZDSndYOXFqeVI1ZGI3Q3ViX09QUElvc0RMLUdqa3NlWkhENGJyYzBSblVkd2lKZ3RTUjRPMVRMTTU5TXc4UGhpYzNqZUVKakpJR3ZNNzRSMkhDUjJXdXFsX1VPaFlpZlVjOEEwX1hLV0ItMXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-15T20:41:24Z",
-      "summary": "世界经济论坛发表文章探讨非洲如何借助代理型人工智能（Agentic AI）实现跨越式发展。代理型AI是指能够自主决策、执行复杂任务的智能系统，可应用于农业精准灌溉、医疗诊断、教育个性化学习等领域。文章认为，非洲可以通过跳过传统基础设施的积累，直接利用移动终端和云服务部署AI代理，解决教育、医疗、交通等关键社会挑战。同时，需要建立本地化数据治理框架和人才培养体系，确保AI技术惠及更多民众并推动经济转型。"
+      "summary": "知识产权管理公司Lumenci推出基于AI的投资组合分析平台，旨在帮助企业高效评估专利、商标等无形资产的价值与风险。平台利用自然语言处理和机器学习，自动解读法律文书、识别技术趋势和竞争格局，辅助战略决策。此次发布标志着AI在知识产权领域从辅助检索向深度分析迈进，有望提升行业自动化水平。"
     }
   ]
 }
