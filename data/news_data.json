@@ -1,69 +1,97 @@
 {
-  "updatedAt": "2026-06-16 07:15:35 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-06-16 10:52:00 UTC",
+  "totalArticles": 13,
   "articles": [
+    {
+      "title": "Google rolls out 'search agent' feature to AI Mode that can track information for users at all times - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQ1V3dnU1cWlkVkJ3c1JEUTNfTm9aY0JXaTU4blBXMFowaVRaN1pUU3FnZXV1VXhqUDRGRnNnT2dSOFc0Uzh6Z0wzcU54QXJZcF9XY0Z2ZV9aUTk2TXpqVjFIbUp4SjFEc19VX2E4ZVdBTVpSOU1pQV9LNjZaVzFZT3hVTms3MUhQMDAwWWpPNC1ubjJ5cEJ4a1hJRUtrYkpQMFF2UGhzNkhfMFdYZ3JtUmdhY192TF9FT2lpakU3b3B0YTA3d1lTRVBlTFFzRXM4N1VoY1pCRkFiWEZiWXdqZ2xmd2QxRG0wdlRfYlhhelNyNHRFT2FDcmtQdExVTmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T09:04:16Z",
+      "summary": "谷歌在AI模式中推出‘搜索代理’功能，该功能可持续跟踪用户信息，为用户提供实时、个性化的搜索结果。这一特性标志着搜索从被动问答向主动服务的转变，通过AI代理持续观察用户需求并动态更新信息，有望显著提升搜索效率与用户体验。"
+    },
+    {
+      "title": "AI Red Teaming Explained: What It Is and Why You Need It - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWFMYmVXNTRMYUo5S2xJSWJFT2FiQXFHWkJPbUU5dERzeHBIU083ZWo4Wjd4dnVhSm9qOXhyXzF4bWZzMFhvUDRBelpicEV0Mzk2a0Fpckh2azM2cEFCUjk1Q1ZQYlowdXVmN1JaNVFZUlRKT2dZYi1TTmJsREdXbWRxS2FMRXFaeWIzYXV5YVZUMzVnbGZzbU5qTlBrLWJ6WGswNWtjT1I?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T08:07:27Z",
+      "summary": "AI红队测试是一种模拟攻击方法，旨在系统性地评估AI模型的漏洞、偏见及安全风险。通过组织内部或第三方团队对AI系统进行压力测试，企业可在部署前发现潜在问题，确保模型符合伦理与合规要求。该流程对于构建可信、安全的AI至关重要。"
+    },
+    {
+      "title": "The era has come when artificial intelligence (AI) makes game programs and graphics just by inputtin.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WcWpBQ3BCdmhFQ0pyMEVVZHJ1aEd5WXkyeHJOcGdnczMwQmhzMU1CdTYwd1dQUVROSjVWZlB4ZnljNVEzZ01tMzRPTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T08:04:43Z",
+      "summary": "人工智能技术取得突破性进展，如今仅需输入文字或简单指令，AI即可自动生成完整的游戏程序代码与图形资源。这标志着游戏开发进入新征程，大幅降低制作门槛，使非技术人员也能快速创建原型，有望推动游戏产业创新与效率提升。"
+    },
+    {
+      "title": "As demand for high-bandwidth memory (HBM) for artificial intelligence (AI) servers has soared, the p.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ReFN1SVY1YXhQQkp0MWdSYmpRMmthZXpZYXpxZHhvLU9qRWhIWnZmNEdMNVBkZ3BKMWs0cEtxLUt1TXFRam42WWpQdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T08:04:42Z",
+      "summary": "随着AI服务器对高带宽内存（HBM）需求急剧攀升，相关产业链面临供需紧张格局。HBM凭借高带宽、低功耗优势成为AI训练核心部件，其产能扩张与技术迭代直接影响AI硬件成本与性能。业界正加快投资HBM产线以应对持续增长的市场需求。"
+    },
+    {
+      "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3JOVWlKNHQtaFJwTWdLVWdUdUVfWDBJRm9nSTM4MXdjbHk1UVZwRzlGLWpmSUU0VHBkNDFCNnV5SXhXeHhkbDZFY2xibnRlb0JkUHBDX21TeUVySG1pMXc1a2dyaFA0dmZXcnZGNUFtak5vdWtCQ3VJd2E5djFmVm5HelJEcUxyaS1USk54WlZoN0l3YWpaN3J5bjBWcTBFdzM2ZmNNRUhiTlZSZDdJdHFfM3RLdm9FS1h5empZek5Vczg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T07:50:14Z",
+      "summary": "集成AI功能的内容管理系统正重塑企业内容运营方式。通过自然语言处理、智能标签、自动生成摘要与个性化推荐，AI-CMS平台可大幅提升内容创建、管理及分发效率，降低人工成本，并实现精准的内容交付，从而增强企业在数字化时代的竞争力。"
+    },
     {
       "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
       "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-16T06:59:00Z",
-      "summary": "马来西亚AI初创公司Respond.io完成6250万美元融资，该公司专注于开发基于AI代理的消息应用，能够自动处理海量客户咨询，采用按对话而非按席位计费的模式，有效降低企业客服成本。本轮融资将用于加速产品研发和拓展市场，并计划通过收购增强技术实力与市场份额。这表明东南亚AI创业生态正获得全球资本关注。"
+      "summary": "马来西亚AI代理驱动的消息应用Respond.io完成6250万美元融资，并计划进行收购。该平台利用AI代理处理大规模客户咨询，采用按对话次数而非座位数的收费模式，有效降低企业客服成本。此次融资将用于全球扩张及产品迭代，巩固其在AI客服领域的领先地位。"
     },
     {
-      "title": "France to invest €655 mln in AI, set up common chatbot for all state services - Reuters",
+      "title": "French domestic spy agency ditches Palantir for local rival, PM says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDhBdFc3RnlUUzV4RHFVRVNNRm9BUF9nN0d2UENOcnhWMkc4VTA0em1xRU10SHcwNzltSG04OVZDTl9iS3BFcjV6TlI2NnQxNzBzSGRPa1pFSXJWc2Q5clpWQVZDR3g5c1o1Q2hocUhMQXluZmJ0a1p2TFVodGtRUEdNdk1rb2xPXzdDNGZ3ZVZqbWxxcHdlbmdXejJoV3dnQlR5UGRLLXNqSTBFa3M0Yl9R?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-16T06:58:00Z",
-      "summary": "法国政府宣布投资6.55亿欧元用于人工智能发展，并计划为所有国家公共服务部门部署统一的AI聊天机器人，以提升行政效率和用户体验。该投资涵盖基础研究、人才培养及产业应用，标志着法国在AI领域的战略性投入。统一聊天机器人将整合多个部门服务，简化市民办理流程，是欧洲政府数字化转型的重要举措。"
+      "summary": "法国内政部下属的国内情报局决定放弃美国Palantir的数据分析平台，转而采用法国本土供应商的解决方案。此举反映了法国对数据主权和本地化技术安全的重视，也表明欧洲国家在关键领域正加速推进技术独立，以减少对外部供应商的依赖。"
+    },
+    {
+      "title": "France to invest €655 million in AI, set up common chatbot for all state services - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3J5bUljQ1dRMHN0WU42ZG5JMnlqRmZmMHQ2QXhTUy14MFRzb0FBZDBud08yQUlTcWtOWXJNN1dGUXVMSWp2Z21ERmRDQllDLXlCdDV3M1RUNkRLQjBYM3BQN0tmbnlsbTJoN050OS1ybnI1LVY5UWk2eTVhLVIySTdsaU1rSmRMcC0yaHhB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T06:58:00Z",
+      "summary": "法国政府宣布投资6.55亿欧元推动人工智能发展，并计划为所有国家服务部门建立统一的聊天机器人平台。该举措旨在利用AI提升公共服务效率，实现政府办公自动化，同时确保数据安全与主权。投资将重点支持研发、初创企业及人才培养。"
     },
     {
       "title": "The VA and Artificifial Intelligence - Small Wars Journal",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGJsUThHLWl0d3J6bVlNTlJFd3F5SkZwUktXejRZYlh1ZkpxUlp6YmpNcVVoRkNUTFFVRkR1dVZ1U29GX0tlUEdjNXUxVTFSOWg4WVN1VkdVUlEwdWozcWttX3EtSGFPOS12ZFVIaHRtM3poSkdWRW5lTmNCX3JNQWpCSQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-16T06:37:10Z",
-      "summary": "Small Wars Journal发表文章探讨美国退伍军人事务部（VA）在人工智能方面的应用。文章分析AI如何帮助VA优化医疗诊断、福利发放及心理健康支持等流程，提高服务效率和精准度。同时指出数据隐私、算法偏见及系统整合是主要挑战。该报道凸显了政府机构利用AI改善公共服务的前景与风险，为政策制定提供参考。"
-    },
-    {
-      "title": "As demand for high-bandwidth memory (HBM) for artificial intelligence (AI) servers has soared, the p.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54S3lEMkhuYy1YYzQ3YlhjU01uSTRMMTVUTnRMamdTVXRSaFpfOXJoLWdKVlpIeUYxeGhzb1daX2Y2b0dEWm5HNzkwRQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-16T06:17:24Z",
-      "summary": "随着人工智能服务器需求爆发，高带宽内存（HBM）市场急剧升温。HBM作为AI训练和推理的关键部件，其高带宽、低功耗特性使之成为GPU等加速器的标配。供需紧张促使三星、SK海力士等厂商扩大产能，并推动技术迭代。该趋势反映AI算力需求对半导体产业结构的深远影响，未来HBM市场将持续高速增长。"
+      "summary": "美国退伍军人事务部（VA）正积极探索AI在医疗记录分析、福利申请审查及心理健康支持等场景的应用。通过引入机器学习与自然语言处理，VA旨在加快服务响应速度，减少人工处理时间，并提高对退伍军人需求的个性化识别能力，从而改善整体服务质量。"
     },
     {
       "title": "China's DeepSeek closes over $7 billion funding with unusual deal structure, the Information reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWC1qLTlZNklzYmsxRE9OZlhGVkZPc3lzSGh3OGplNFBYcDQ0OWl0WGJDOEVDUm5lVFItUldTaklPdHlxdEZKQ2EzT0x2MjJ6WHN5YW83NnZZczlLR1JoWThFN0VtNHVSbDkwWUV3djdIa2VPN1JIQmhxZFJGNVJFMzVLMng1aDJxaUtHVVlwX0swZ3NySDNIWVozY3JiYUJNRWdWNXVDWDA1Ti1MTnYyZDBHMGdvRFo4Snd5TlBxRjVVUmtRXzNF?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-16T06:05:00Z",
-      "summary": "中国AI公司DeepSeek完成超过70亿美元融资，但采用不寻常的交易结构，引发业界关注。据悉该交易涉及多方投资者及特殊条款，具体细节尚未公开。巨额融资显示资本对中国AI领域的信心，DeepSeek可能在基础模型或垂直应用上有独特优势。此事件也反映了当前AI行业融资模式创新的趋势。"
-    },
-    {
-      "title": "The era has come when artificial intelligence (AI) makes game programs and graphics just by inputtin.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RMk84aVFDdW92dXUzSFk0RWlnTGFvUDU2QUJ3U0lpY1A5alZXaVZMOUpqa1BFNHluMVVMSFJkcXRiN2FRRHliazhWUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-16T05:59:06Z",
-      "summary": "人工智能已进入仅靠文本输入即可自动生成游戏程序和图形的时代。通过大模型和生成式AI，开发者只需描述需求，系统便能产出完整游戏逻辑与视觉内容，大幅降低开发门槛和成本。这一突破将改变游戏产业的生产方式，促进个人创作者和小团队创新，也引发对AI生成内容版权和质量控制的讨论。"
+      "summary": "中国AI初创公司DeepSeek（深度求索）以独特的交易结构完成超过70亿美元融资。该结构可能涉及股权与债务组合或特殊对赌条款，引发市场关注。此轮融资规模庞大，资金将用于升级大模型训练基础设施及拓展商业化应用，进一步加剧全球AI竞赛。"
     },
     {
       "title": "When the amount and cycle of automatic transfer are set, artificial intelligence (AI) has launched a.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pZDQ3SDJzN2JoYmZvc05xblVRSVdYa1F4UDd5ZFpteU5lMndxbW9fbXBaNFlxMjlMeEx1cklMWHEtbDBGX3BYNXVVYkx3WDRNeUE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-16T05:54:59Z",
-      "summary": "一款新型AI服务上线，用户可设置自动转账的金额和周期，由AI自主执行转账操作。该应用利用机器学习优化资金调度，避免逾期或遗漏，适用于定期理财、缴费等场景。其核心在于AI对用户行为模式的理解和自动化决策，提升金融效率，同时需保障交易安全和隐私。这代表了AI在个人金融管理领域的实用化进展。"
+      "summary": "韩国《每日经济》报道，人工智能已推出自动转账功能，用户可设定转账金额与周期，由AI自动执行。该技术简化了传统银行转账的繁琐操作，通过智能算法优化资金调度，提升转账效率与用户体验。此举标志着AI在金融自动化领域的又一应用突破，有望进一步推动无现金支付和智能财务管理的发展。"
     },
     {
-      "title": "‘AI is the key to global power status’: Inside China's race to militarise artificial intelligence - Euronews",
+      "title": "The dawn of ‘Tokenmaxxing’ and the 2026 AI hangover - roger montgomery",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVER2amVjQzhjTjhCcURfZjQtUVBPU3JHNFBHUk5rdTAzYk93ZEZMQzQ1V0ZaZFFVTVpFRWxfeE9jNll2S3R3Y2N5SmpvX2szNWNPeVJJcEpLcFcxbWdxbzVOd3locmNTelJ6bjVQODVEWVd0UmgyZjJpMEx0eU9LRmxucS0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T05:24:17Z",
+      "summary": "罗杰·蒙哥马利发文探讨'Tokenmaxxing'概念兴起及2026年可能出现的AI泡沫后遗症。'Tokenmaxxing'指通过最大化代币化资产与AI结合实现价值捕获，但过度投机可能导致市场过热。作者警告，若缺乏实质性应用支撑，AI与代币化领域可能在2026年迎来泡沫破裂，引发行业调整与信心危机。"
+    },
+    {
+      "title": "‘AI is the key to global power status’: Inside China's race to militarise artificial intelligence - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbXR1MXVEY0FKbTdDUE01SXBIX05venp2QmZnN1pvX21pWUdKWEJualowZ2lhNmxRMi0wSzI5aUNlRWdFZ2N5YjZ6aUxhUWZDQk0xSFdISy1RbE5jOU5zX1JoMWM4LU41UnRLTXRGaWZIQ29qRkVZc0NUVVBXNHR4WC1uSGdiSzZTTnFITGdTQkhVTWdQeF9taWRidEROYS1ZbnlrS3ZlVElqeVZnbkRGMjktRXMzVXpoZ1NfWGh6VF9SOWo2Z1FsQTB2QQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-16T05:00:13Z",
-      "summary": "Euronews报道指出，中国将人工智能视为获取全球权力地位的关键，正加速推进AI军事化应用。文章揭示中国在AI辅助指挥、自主武器、情报分析等领域的研发进展，以及军民融合战略对技术转化的推动。这一竞赛引发国际社会对安全与伦理的关注，专家呼吁建立全球AI军控规则以防范风险。"
-    },
-    {
-      "title": "Exclusive: Lumenci launches AI platform for portfolio analysis - Managing Intellectual Property",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFVoNWtTVXhqOE9WeXpZWEtJR0Q1ajBsUXZqTzlnOWZ0VG5xSlk1Ync2dzBVbWpTMnc3TUVabVQ3eFJtZ0pSTkxxblpNdTUtMThOc2ZEWGJDakxxZWdFZFNwYmtUd2FGRE9QcDZ5ZGp5dTV6ZVV5MDZqclMyS2p3VzNkNzlGZmpnSENLME01X1p2UHZ3cUllYWlvZF9TbGVVOGV3YUxVZmYzc09xQ2pBV1k3bWhzU3I1SGtNQUVLTVZWZjJv?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-16T02:22:52Z",
-      "summary": "知识产权管理公司Lumenci推出基于AI的投资组合分析平台，旨在帮助企业高效评估专利、商标等无形资产的价值与风险。平台利用自然语言处理和机器学习，自动解读法律文书、识别技术趋势和竞争格局，辅助战略决策。此次发布标志着AI在知识产权领域从辅助检索向深度分析迈进，有望提升行业自动化水平。"
+      "summary": "欧洲新闻台报道，中国正加速将人工智能军事化，视AI为获取全球大国地位的关键。中国在AI武器系统、自主决策平台和战场数据分析等领域投入巨资，试图以技术优势重塑国际安全格局。此举引发西方警惕，担忧可能加剧军备竞赛和伦理风险，并推动各国重新评估AI治理框架。"
     }
   ]
 }
