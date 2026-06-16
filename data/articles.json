@@ -1,6 +1,213 @@
 {
   "articles": [
     {
+      "id": "1224",
+      "title": "Insurers pivot AI strategy toward core risk underwriting - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlo3T0ozelg3NE1sX096RjVpd2kxNHBwUWdxVzRnUlhRZUhiUDFQLVpORWgyUWdJdDBJV1NZeDZrX29TdEFtY1JlcUZkanI1SHJlajJNVU93QzgtcWZlaDNHTngzdlQ4S3dqbjFHUno4Zi10RUE0Vjd1ZkdyZkh4Y0RQamNaQWRZdkhKMG9DY0t6UXUtZWFicEt4ZURlbW4wM2NMZEZ5SGdCdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T15:55:48Z",
+      "summary": "保险公司正将AI策略重点转向核心风险承保领域。传统上，AI在保险业多用于营销和客户服务，但如今企业开始利用机器学习模型优化精算定价、欺诈检测和理赔预测。这一转型旨在提升承保精准度与效率，降低风险敞口。通过分析海量历史数据，AI能识别复杂风险模式，辅助动态定价。然而，实施过程中也面临数据质量、模型可解释性及监管合规等挑战。整体趋势表明，保险业正从试验性AI应用迈向深度嵌入核心业务流程的新阶段。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1225",
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16T15:53:12Z",
+      "summary": "SpaceX正式公开上市，TechCrunch汇总了IPO后的关键信息。该公司从初创、挣扎到成功，如今进入新阶段。此次IPO相关报道涵盖潜在赢家与输家、上市前交易安排，以及其S-1注册文件中披露的细节，包括财务数据、业务风险与未来规划。投资者关注其星链、星舰等项目的商业化前景。SpaceX的上市标志着商业航天领域的一个重要里程碑，但其高估值和持续的技术挑战仍需市场检验。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1226",
+      "title": "Our Own AI Studs! Indian Stock Markets Not Devoid Of Winners From Artificial Intelligence Boom - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM2wzclFVbGYtTUs1YmtubE5BWDdiOVVlUWp3eG5XV2lvRy1OczdBYmdfRF9MTWV0RWVQX1htRlVTOHVFeFlZYnhUOHFGc3BLOXdjMGZrSkVXb0d3ZEotNlliNU82eW9oQ0ZEU3VCaVdOd1E2M1JUME9ldktzU3FNOFluYlp2Z2dqZmxPSlJPUkRQV2xQQXIxTTJSSjdLbE9Qa1NtdWV5b1d0aC1rZXgxd1htSktQdk5JOUdOQUUwbFd5VUFsZ0c5LUUxUjM3ejJhYmtj0gHbAUFVX3lxTE85U2xTNzBUdzB0UnlIaGdKUno4di1wTmtYa3YzcWF6WDhPb29INjVZZ1lIdDRrdnl6VjZTVjhNYmZBVWExbElfR2NoSUN6V2Z6My1jVU9kWHN5V3ZQLW9IU3FicW9lNkhWMzJRd3ZGVTlWV2luY2lUSi1uWjN2bHZCNWc2YVhPdGstWHNyZE1jQlBneG1iM05VUnZnX2U0WmtXNjlkN1lTd2JySVVpMkh1R1Y1TTJucHlWZS1YTXpVU2I1dHhMamMzTWl3cnExa0ZvX3ItS1diNGowOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T15:23:10Z",
+      "summary": "印度股市在人工智能热潮中并非缺乏赢家。报道指出，印度本土公司也涌现出AI领域的“明星股”，得益于企业数字化转型、AI技术应用及政府政策支持。这些公司涵盖IT服务、分析、自动化等多个领域，通过提供AI解决方案或自身采用AI提升竞争力。虽然国际巨头主导了硬件层，但印度在软件和服务层的AI创新正在吸引资本。投资者应关注那些具备数据优势、技术壁垒和明确商业化路径的本土AI企业。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1227",
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16T15:05:03Z",
+      "summary": "美国司法部声称，xAI公司未经许可运行燃气涡轮机构成国家安全、经济和能源安全问题。司法部表示，五角大楼需要xAI持续使用这些涡轮机。这涉及到AI算力基础设施的能源供应矛盾——xAI的AI训练需要大量电力，但涡轮机许可问题可能影响其运营。事件的焦点在于，关键AI基础设施的能源需求与监管合规之间的冲突如何解决，以及政府部门在其中的角色和立场。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1228",
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16T15:00:00Z",
+      "summary": "AI笔记应用Plaud宣布其软件业务年经常性收入（ARR）突破1亿美元，已累计出货超过200万台AI记事本。在竞争激烈的AI会议记录市场中，Plaud通过硬件+软件结合模式（AI辅助录音设备）脱颖而出。其成功表明，即便市场已有众多同类产品，专注特定场景（如会议、采访）并提供高质量转录和摘要功能的工具仍有增长空间。Plaud的快速增长也验证了AI在提升工作效率方面的商业价值。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1229",
+      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16T14:50:09Z",
+      "summary": "Robinhood宣布裁员10%，但其CEO Vlad Tenev在内部通知中并未将裁员归因于AI应用。这与许多科技公司形成对比——后者常以重组拥抱AI为理由进行大规模裁员。Robinhood的裁员更可能与业务调整、成本控制或市场环境有关。此举暗示，尽管AI被广泛用作裁员借口，但未必是真实原因。Robinhood的坦白反而揭示了行业掩盖真实裁员动机的倾向，也提醒投资者需理性看待AI对就业的影响。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1230",
+      "title": "Berkshire Hathaway Has Plowed Over $21 Billion Into This Artificial Intelligence (AI) Stock Since Warren Buffett Stepped Down - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXFjbmZWc2FrUmZmbjR6Y2lLWm5qZmtBSElOSWNoX3MyM0NZcHRXVVB2SWI3d2MtSDR2c1RrTEZya2JQX3JveU5fcW1vZXFPZ1k5Nm91bWd5QnkzSi1ONHhxSFZxQUdIbXplXzFmUl9FSmxTMUxzUTJLMUR3RmdGamREM1NHLTVIRmZlMWFEM0o3elBZVFUwSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T14:33:20Z",
+      "summary": "沃伦·巴菲特卸任后，伯克希尔·哈撒韦已向某人工智能股票投入超过210亿美元。尽管巴菲特本人对科技股持谨慎态度，但其继任者（可能是投资经理）正积极押注AI领域。这笔巨额投资显示，伯克希尔认同AI的长期增长潜力，并选择通过核心持仓（如苹果等）间接参与。具体标的未明，但暗示了传统价值投资巨头对AI战略价值的认可。此举可能引发市场对AI板块的进一步关注。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1231",
+      "title": "Dairy Council NI chief stresses perks of artificial intelligence for sector - Agriland",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1VFYmd3VkNMSmx0anVrbWtNXy1nLVZMOV81bF9XcW5yYkt1b0EyTEpWbG9VU3VQbThMU1lJVE9ud20tV0t2aGdrYTNpdzQ5QkxiSXhCODBKcEpQb2Q1am0ydXktMnlPSGVQdjlEbVVHWmZGWHlEYzN5N19GM1FZZjBJTHNmZUZUWDh4S0tKb0dnNnlWTGljU1duMGs5M0Nzb1BzQV9WYTdYOTJrZ2JwVWZYdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T14:30:00Z",
+      "summary": "北爱尔兰乳品协会负责人强调人工智能能为乳业带来诸多益处。AI技术可应用于牧场管理（如监测牛群健康、优化饲料）、生产流程自动化、质量控制和供应链优化。通过分析传感器数据，AI能提前预警疾病、提高产奶效率，并减少浪费。该负责人呼吁行业积极采用AI以提升竞争力，应对劳动力短缺和可持续性挑战。这表明传统农业正加速与AI融合，从精细化运营中获取新增长动力。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1232",
+      "title": "AI defensibility — What it means, why it matters, and how diligence and deal documents are catching up - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORlAtX0V3UGI3QlQtVjdIeW1WdUQ1YTZYNkdPZ1RselBGQkthbTNLNDMyMUVhaENiRjlqeFlpVWRRUlo4QWxHTnNISVhRVmxTQjlqUldIN2xDM2pRUzFSdGtXeGlrVDNLTzBLUkRwbEM5TGx1RUpsdXg1ME55MGR1ZmRSNTdtWHBfQkpMSEt5YWQ5cUlMcHpUaU94WDdrbG4zX3dfWVJFN1F3UUNGckpsaXJLeEx2RG0yVTQ2MDJFUEp6YlNISnFUV0ctRzlTZVpDOXJMeUdRTno4Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T14:11:23Z",
+      "summary": "文章探讨了“AI可防御性”的概念——即AI系统在技术、法律和商业层面的对抗风险能力。随着AI应用普及，企业进行尽职调查和交易文件时开始关注此类问题，包括数据权属、算法公平性、模型鲁棒性、偏见与合规等。法律和投资条款正在更新以涵盖这些新风险。可防御性成为AI创业公司估值和并购决策的关键考量，投资者需评估目标AI资产的抗挑战能力，确保长期价值不受技术或监管颠覆。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1233",
+      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
+      "url": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16T13:48:37Z",
+      "summary": "SpaceX估值飙升至2.7万亿美元，超越亚马逊，成为全球市值最高公司之一。自其股票上周五开始交易以来，市值增加了1万亿美元。这一暴涨反映了投资者对太空商业前景的高度乐观，尤其是星链卫星互联网业务和星舰重型火箭的潜力。尽管SpaceX尚未完全公开财务数据，但市场对其颠覆性技术和市场主导地位给予了极高溢价。对比亚马逊的云服务和电商帝国，SpaceX的估值显示资本对新兴太空经济的强烈押注。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1234",
+      "title": "Should You Buy the Dip in These 2 Beaten-Down Artificial Intelligence (AI) Stocks? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFRVOEJGY1I5WTdNaHVFQ29DSEZyeEZ3ZTh2NXhpZWFfMWVha0VmcTRKZk8ybktMa09Cb2o5QV9QRlJzVDdyVEZRZ3dNTnhZb2ZjV183MkxFbk9ZdF9yODVuZTZwY2hvRFNLTEx3aS1sMVZwWEtrNng2cTZaZlgxTl9xcUdqakxRQXU0X0ZoREdpdmVSdTcteQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T13:30:00Z",
+      "summary": "The Motley Fool分析两只近期下跌的AI股票，探讨是否应趁低买入。文章评估这些公司的基本面、技术优势和市场前景，指出尽管股价回调，但长期增长逻辑可能仍在，投资者需根据风险偏好和估值水平做出决策。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1235",
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16T13:15:09Z",
+      "summary": "创业公司Probably完成900万美元融资，旨在构建更可靠的AI系统。该公司专注于解决大语言模型的幻觉和事实错误问题，通过技术手段使AI输出达到与确定性系统相当的准确性，从而提升用户信任度和应用安全性。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1236",
+      "title": "Nvidia's Huang Pledges AI Will Boost Manufacturing Jobs. A Test Will Come in Texas - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY1hxLUJlOXlTd0REQm9LRGVlUmhETkIzN1NVaFFUYzM1T3d6NV9XeDV4eWRnWGZxREdXdkJNY2h5eHNjTEo4SkxINnNmbkk0WjE0YzlXeVBueW9QcXZkYzJCV2hRUWI3QWVRMFdwRlpoLU5QbW5uczlwYnhKYzhUc0piSFpaRncwdWk3WmxHdTVUVW9DMWRVMkp1dEpiLWt6aC0xelRLQWw2R2NYZmxrcDhPbHdWV3p5TGFYel9wQm1NT1doaHI3dFFidHVzQ2Jwa2pLYzJkWDJXTDRKamZr?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T13:03:00Z",
+      "summary": "英伟达CEO黄仁勋承诺AI将促进制造业就业增长，而非取代工人。他计划在德克萨斯州进行试点测试，通过AI优化生产流程并创造新岗位。此举旨在验证AI对实际就业的积极影响，并可能推广至更多制造基地。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1237",
+      "title": "AI ready or left behind: Why every student must embrace artificial intelligence - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFpVc1Vkdkp3V1hBMjRiclBpSTgxT2staHhOUlVkcWlxa3BSZkxmbmp4Y2stbVBTSkxmbFlrUUx5aTlrbi1EYld0Y25sbzBMWlVibDZxVGNRWV9FR0FZblJxbllyZzhxaVRqazloSTJjT0oyZlhxYzFXenRJWUp3S2NqVTgtSUo4UFhvQ2VLNVg1RkJmWjdRSEFxNDhRU1RJcFIwMnhXY1VvZ0VOTV9sU296ZWhzOXhUMmt0b3R4bk1SQdIBxwFBVV95cUxQOHk3WHhZTnJqZlZselM2R0d4eFMxZEFlTjJqMlpqNjl5cGRncVdwTGV5NUJPaTFJRWlaU0xwMEZzcHRacnNKZjdXM1ZUeFh6UzE5eDVLUzkyaFZPNFdOVXdnSlc5d1FNNmkzVUhMVE1ORXltbmVDVjBBWmdFcEpDRjFhX2xhLW51WXp1OG1YYXZydDgzY1JJOE5IRW5rVGNQVGFhcFNkRU1ocm9jQkJsMGdkOTBrblhJMEs3clN2cGpOZEtFdFNV?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T12:52:52Z",
+      "summary": "文章强调在AI时代，每位学生必须主动拥抱人工智能技术，否则将面临被淘汰的风险。教育体系需要改革，将AI素养纳入核心课程，培养批判性思维和技术应用能力，以应对未来职场挑战。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1238",
+      "title": "Should You Buy the Dip in These 2 Beaten-Down Artificial Intelligence (AI) Stocks? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTDZiUFRhb3duYUpPMFZXMVAxalRBSzJJWllnQXJTeDU2UTgyS3FSbklLbGI5MXRycWg2cVZ2T0lyWGFXeFd5bHp1a0o2N0J0RXV1eHcxcVhCaklMZ0U1V29vLWNhSmtKWENveThObVdFUWxLX0V4WVlicFliWWFWbkJ4TzZ3cTZqOThPQWF3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T12:50:00Z",
+      "summary": "Yahoo Finance报道与Motley Fool类似观点，聚焦两只遭受重挫的AI股票。文章分析其估值回调后的投资机会，强调在AI行业长期增长背景下，逢低买入可能获得超额收益，但需注意行业竞争和技术迭代风险。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1239",
+      "title": "Prediction: This Artificial Intelligence (AI) Infrastructure Stock Will Skyrocket in June (Hint: It's Not Micron Technology) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTEpQMzVkUXJHdnkzUFRBQmdxbmZMUzlSU3ItampiVkViWF9ROWlxMVBiSjBuTkZubnBzb1ZrdTZPcWxJa3cxc1Z5WlZjUl94Szc4LUZtZXZ2emh4LTVnWXFrVGRlSzVOSU9UX012OVBlUkZIb0VRZXV6cFYzWEFwRVYxcDEySnJXZUMxQlQ1RFlHMjRHZnJWYk10Z3Z1c1dZaDRwVUQ0Q1pYMldLdUI1WUI1SVBONGM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T12:35:00Z",
+      "summary": "Yahoo Finance预测某只AI基础设施股票将在6月大幅上涨，并暗示该股并非美光科技。文章认为，受益于数据中心建设和AI算力需求激增，相关硬件供应商（如英伟达）有望迎来强劲表现。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1240",
+      "title": "AI startup backed by Nocera lets campaigns test messages before spending - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWwxbFc0QndwbUY5V04wa04tMk1tTTQtT2VCWmlaV0lKLWxlaDFLVEp0X0VwSkRDNGxpN1FqMjFXN3FZY1d0WHpTODFiRzZpa1pUdVZZMGt6ZS1LbnFZSWR4RHg5N2FxMy15Rk9Rd0plNFpsNE02ZDd2bG84UXhhYlBPU3NkUWlvR25uUnNaRUVZMnI3UGtoaUdud3dfQkh5RG8yUVAyaV9jNU1GR1NaUU5QLWhKV3dlaXh3ZjR3N2M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T12:17:28Z",
+      "summary": "Nocera支持的人工智能初创公司CampaignPulse.ai推出新服务，允许政治竞选活动在正式投入资金前测试信息效果。该工具利用AI模拟选民反应，优化广告策略，提升竞选效率并降低试错成本。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1241",
+      "title": "Nocera Announces Strategic Investment in CampaignPulse.ai, Expanding Artificial Intelligence Portfolio and Advancing Nocera Holdings Growth Strategy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOejFwWFdxOWdlX2NuUGg5Ulh1emg1TEhZa3BVRTlFS2E0RjRGUW5PTHhmNFoxUm1hajVKekxmcFhOYTV6OFQ3VDlJN1NRYU05UjdyLW5vcjhFRnNIbjJKTXY4MS1zQW8wMUg3SWZRYkR1WUJlR2F3NmdZbDBQZ1BySjdXakExcWllRUhId2dwb1l3c2plSy1JZDdTZmpxMl9RYjRrdnJ2T3RHTVV2dElTVUc2clJ5Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T12:15:00Z",
+      "summary": "Nocera宣布对CampaignPulse.ai进行战略投资，以扩大其人工智能领域投资组合。此次投资符合Nocera Holdings的增长战略，旨在通过AI技术赋能政治咨询与营销行业，创造协同效应。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1242",
+      "title": "What steps remain for the AI gigafactory in Móra la Nova to be a reality? - Diari ARA",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXRpRmVaRmlRNEhNMmY1V3VSRG5YUWZKUVF0aFBYNkp4T2JJLXJCNkVaVVZtb1dWbUUzUXBMbTBqN0RYblhGYUtFbVhqSjVCNVNheVJwU1BoMlI5WXYwNkkwNVN3VWQ4QTFWZHZydVFRQ05fcFA3ZEcxTGtTVEY3TUl0YU15eHNwX2Nrd2tLeEVmNVRyT3ZRSTNCaG1Wb2lYS3RmNFI2MDYzTDAxbElzU1pwUdIBuAFBVV95cUxNSWhPMmZscVJPb19mdjd0ejFQVTBTWG5ZU1VqNDNnTGpXaGd4bDlNMzQ4Wmhkbmk5MVNrUDJsakNNem5EcmZSOFpaNUJyN1J5YklOdkM1NzZrSVIzamplb0dMNlIweElrN1ZYVDJaQU5HVjZ2ZFQ1RDBBeG9oN1IzVS1oeGFVMVhFWkhEQlpiS1FaUzRSV251UWNSVzJ1R3hPd2Y3QUlLOS15MEI5clNTX1RvV0MyLUl1?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T11:52:51Z",
+      "summary": "文章探讨西班牙Móra la Nova建设AI超级工厂的进展情况。目前仍面临环评审批、能源供应和基建配套等关键步骤。项目若成功落地，将为欧洲AI产业提供强大算力支持，但需克服资金和监管障碍。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1243",
+      "title": "Fast-tracked power plants fuel AI boom, with little public scrutiny - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZWl6Q1JzZGdvTTBfaTFrNjdiU3QxcEc1Q3dxek56bkRmNjd6eURFdV9JcnFNdWVCY1N6dmljY2FXZEc3M085dTJTY3hhZGFzREhhVWdtSnZIVjlidTlQM1hQYzZPX2hzSjZRNzBCTlVTU01YX1VDQ1ZJQmlHYXU0VFV4Qi05THNCaHBpU1JPakZRTjlyRU5mODZZZmlWdXFDakVXanFMV1E5aVpqRGxKdUFVWGhpM3NSc3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T11:23:08Z",
+      "summary": "为满足AI发展对电力的巨量需求，多座发电厂被快速审批建设，但这一过程缺乏充分的公众监督和环境影响评估。专家担忧此举可能导致过度依赖化石能源，并忽视对社区和生态的长期影响。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1244",
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-16T11:21:41Z",
+      "summary": "SpaceX宣布将以600亿美元股票收购AI初创公司Cursor，交易发生在Cursor首次公开募股后数日。此举旨在提振SpaceX陷入困境的AI部门。SpaceX在向IPO投资者介绍时表示，其AI业务瞄准的潜在市场规模高达26万亿美元，显示出对AI领域长期增长前景的强烈信心。该收购将整合Cursor的AI技术与SpaceX的硬件及数据优势，但整合风险与市场波动仍存不确定性。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1245",
+      "title": "AI in Hungary could unlock productivity gains of €15 billion, McKinsey says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWFsSEZyZEtuYkFJOVpEcXJpNnllMDNNWXlKdW1mdjNRdU5XaW13UEpCOWtvNmpyaS1mWXl6cE4wS1VBcFpuY3BBT2J1ZG4tcjdjeGVKTm9tR210eFVvZVRubEdUUm40d0RrejZKNEZTYV9tY2JfSUtUcXhFb3dWVV9nbU8xUXl4cFM4Q0xtVVlrSzdpWWtlNGFVdl9vWkthTnpaUGwwZVZqT1Q5ZWdmYWwtODF1TzluYVB0SQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T11:08:27Z",
+      "summary": "麦肯锡最新研究报告指出，人工智能技术的广泛应用有望为匈牙利带来高达150亿欧元的生产力提升。该分析覆盖制造业、医疗、金融等多个关键行业，认为AI驱动的自动化与智能决策能显著优化流程效率并降低成本。不过，报告也提示需同步推进技能培训与政策调整，以确保经济增长成果的普惠性及劳动市场的平稳转型。",
+      "fetchDate": "2026-06-16"
+    },
+    {
+      "id": "1246",
+      "title": "Even AI's Biggest Names Say Your Job Anxiety Is Justified - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdy1INk16ajZFUnRUOHdRTDROU2xRSVl5YmpUUW5WQWRSdG5pTUJzSi1TX1lGYVN6dk4zSFJKWEdZTzQ1Z3FkaHpuaVcwVnhwaXM3MXFwZ1pIalEtRjNKd3E1aTNueUc1dUZLR0RvUEk5b1Nhb3RSUmdGeG1vM0dhYXhsZVJnSnNOcUhjZ1FVTS1TY1YyVTB1TFM5NVBtOHRDSWZVTkoxYWNNUWx3LS0tSHo2MnpvLVM0UWNMQW1rZm5oMXJzX1pZWEhOTXZaM2VTczdoTEN2dzc0Y3FVam40bGUxeF9QWWNGVDdF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-16T10:46:35Z",
+      "summary": "多位AI行业顶尖人物近期公开表示，公众对AI技术可能取代工作岗位的焦虑是合理且值得重视的。这些专家指出，生成式AI等前沿工具的快速普及正深刻改变职业结构，部分重复性岗位面临淘汰风险。他们呼吁企业、政府及教育体系加速构建再培训机制与社会安全网，同时强调AI也将创造新就业机会，关键在于主动适应变革而非被动等待。",
+      "fetchDate": "2026-06-16"
+    },
+    {
       "id": "1217",
       "title": "Google rolls out 'search agent' feature to AI Mode that can track information for users at all times - Deccan Herald",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQ1V3dnU1cWlkVkJ3c1JEUTNfTm9aY0JXaTU4blBXMFowaVRaN1pUU3FnZXV1VXhqUDRGRnNnT2dSOFc0Uzh6Z0wzcU54QXJZcF9XY0Z2ZV9aUTk2TXpqVjFIbUp4SjFEc19VX2E4ZVdBTVpSOU1pQV9LNjZaVzFZT3hVTms3MUhQMDAwWWpPNC1ubjJ5cEJ4a1hJRUtrYkpQMFF2UGhzNkhfMFdYZ3JtUmdhY192TF9FT2lpakU3b3B0YTA3d1lTRVBlTFFzRXM4N1VoY1pCRkFiWEZiWXdqZ2xmd2QxRG0wdlRfYlhhelNyNHRFT2FDcmtQdExVTmc?oc=5",
@@ -10999,5 +11206,5 @@
       "fetchDate": "2026-06-14"
     }
   ],
-  "total": 1222
+  "total": 1245
 }
