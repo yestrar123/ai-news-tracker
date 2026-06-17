@@ -1,90 +1,160 @@
 {
-  "updatedAt": "2026-06-17 14:48:42 UTC",
-  "totalArticles": 12,
+  "updatedAt": "2026-06-17 19:57:50 UTC",
+  "totalArticles": 22,
   "articles": [
+    {
+      "title": "This Nvidia-Backed Company Is Bringing Artificial Intelligence (AI) Into the Physical World. Its Stock Could Jump 3x - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjRMUXI5UWFwZ2h0aUNSejdhc1pweGo0UG9HSmNMSkZhWV90XzlxWUZJVkxVZU9veXFhMU5MVjhIYUc3RzNOUklTLWR3dDUzRmFISHVmTDlnMVlwVV9vS1IwNjdJREhJTjZIMEVKcVpMYkNldERXNmxYc0d1dTVJY3RNQ2VfR203TEpvMG5ZdXpydFB3TG53?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T19:46:46Z",
+      "summary": "一家由英伟达支持的初创公司正致力于将人工智能从数字世界带入物理世界，涉及机器人、自动驾驶等领域。该公司的技术路线被分析师看好，预测其股价有望实现三倍增长。市场对其在物理世界应用AI的潜力给予高度期待，认为这将是AI产业的下一个重要突破口。"
+    },
+    {
+      "title": "French president urges US to share cutting-edge AI and democracies to cooperate on regulation - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEthanlWb0x3bXcteVRGODdpR3p2by11eldKVzNMVWdldndDSDBHOWsxUkVMVmlnVEt0YzV2UXFTQTB6bGtiLW1pcVllMi1WXzdid2lZeUlBbTRGYXNzNFBXSXQxN2VycGo5eHZhM212d1Z3a0FtX2xXN01XWHNnbXpZY3EtUlgwaThnaA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T19:40:00Z",
+      "summary": "法国总统马克龙在公开场合呼吁美国分享最前沿的人工智能技术，并建议民主国家在AI监管领域加强合作。他指出，技术垄断可能带来地缘政治风险，各国应共同制定规则以确保AI发展符合民主价值观。这一表态反映了欧洲对AI治理话语权的争取，以及对技术自主性的担忧。"
+    },
+    {
+      "title": "Artificial Intelligence Cheat Sheet: Best AI Tools, Major Trends, and What’s Next - eWeek",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oWGh6LVhJZ2cyWHp2UjBwZGlKbXNlWkRDTHFuRmZYRlA2SjFSR3laN3dRWXZYNmt1Rll4aUlOSmRWUTRNRDdZQndTSEtMUUVZRU1IRGNGWXl6OHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T19:25:41Z",
+      "summary": "eWeek发布AI速查指南，汇总当前最热门的人工智能工具、主要技术趋势及未来发展方向。涵盖大语言模型、生成式AI、自动化工具等，并分析各领域的竞争格局与前沿突破，为从业者提供快速参考。指南指出，多模态模型、AI代理和行业专用AI将是下一阶段重点。"
+    },
+    {
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17T19:01:19Z",
+      "summary": "在G7峰会上，法国总统马克龙和印度总理莫迪对美国可能随时切断AI服务表示担忧。他们认为，过度依赖美国AI技术存在政治风险，近期Anthropic的关停事件更印证了这一疑虑。各国呼吁建立更平衡的AI生态，避免单点控制，并推动技术共享与多边监管框架。"
+    },
+    {
+      "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17T18:30:56Z",
+      "summary": "人工智能初创公司Anthropic成为首家加入前沿碳清除联盟的AI企业。该联盟近期获得9.15亿美元新承诺资金，用于投资碳移除项目。此举表明AI行业正积极承担气候责任，将技术发展与碳中和目标结合，通过资金和技术支持推动碳清除解决方案的商业化。"
+    },
+    {
+      "title": "A Primer on the Great American Artificial Intelligence Act - Cato Institute",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOEU5czI5Vld0eUhoaEJGV1l0aHhKQU9ZNXRnNHJvR0VPTFUyY1BWWVNHN1NaS2xLdTE5Ui16Wkk2SVFGTnNjUkhfbVUyQVdmcW1wNm9weVMtOVYyeUEzektfT1pTM0prMHcwVDdrY291Y25yZC1BX2ptVkt2WkpkNw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T18:21:22Z",
+      "summary": "卡托研究所发布《伟大的美国人工智能法案》入门指南，解析该法案的核心内容与监管逻辑。法案旨在建立联邦层面的AI治理框架，平衡创新与安全，重点关注算法透明度、风险评估和行业自律。指南认为，该法案可能成为美国AI政策的重要基石，但需警惕过度监管抑制技术进步。"
+    },
+    {
+      "title": "Social media’s next evolution: user-controlled algorithms",
+      "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17T18:19:48Z",
+      "summary": "社交媒体平台正迎来算法控制权的转移。Threads、Instagram和TikTok纷纷推出功能，让用户能够直接调整推荐算法，自主选择内容偏好和曝光逻辑。这一趋势旨在增强透明度与个性化，减少算法黑箱带来的负面体验，标志着社交媒体从平台主导转向用户参与式内容分发。"
+    },
+    {
+      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+      "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17T17:43:07Z",
+      "summary": "世界模型初创公司Odyssey完成新一轮融资，估值高达145亿美元，投资方包括亚马逊等知名机构。世界模型被视为超越大语言模型的下一代AI技术，能够模拟真实世界的物理规则和因果关系。Odyssey凭借这一前沿方向，成为AI领域最具潜力的初创公司之一。"
+    },
+    {
+      "title": "Legal AI startup Eve hit with patent infringement lawsuit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeC13U1l6NkhycTZLUllMeU91VFB1RTZSdHF0LXY2MHc5dzZRa3lvckQ3LUNYV19MZzBnLXV1aF91Tl9RSElRTi1sbEotMVpuYV9rREhJa05jMmR1eU5DTUFxdXRxVEZJdk13MUZJc1hoQTVVbnlRczJLTVJFa3U4V0NWOVNrWVVJLVRncXdKVVlQaS1zWEoweGl4Tk5BajMyWHhHSFliNXVRNDhaOXFRS3BnWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T17:37:44Z",
+      "summary": "法律AI初创公司Eve遭遇专利侵权诉讼，面临知识产权纠纷。该案凸显AI在垂直行业（如法律服务）商业化过程中，技术专利保护的重要性。随着AI应用加速落地，类似的法律风险可能成为行业常态，企业需加强创新合规与专利布局。"
+    },
+    {
+      "title": "Context intelligence for your data and AI agents at scale - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUVneXVlSGUzcHA3Ri1GblNHVFFvVGlsdV9XaXQ1cnZfM2M3YW1lV3lHNmZpQzlfd01JUVhkcmdKdDdrYllvTDhIUGNCUWRBTFdEclYyWFdaTFRnc1RaSDBQT1JJd3BVNkJYVGIxcXFwUy1KRFVLOUxTTkVMdjNGcFpNbDhqWURCemlTOEk4SjJ6ckVRek1qZzhUZ2o3Uk1NT04yZ3hQOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T17:17:37Z",
+      "summary": "亚马逊AWS推出上下文智能服务，旨在为大规模数据和AI代理提供更精准的上下文理解能力。该工具整合知识图谱、向量检索等技术，帮助企业在处理复杂业务场景时提升决策质量与自动化水平。这标志着云服务商开始将上下文感知能力作为AI基础设施的关键组件。"
+    },
+    {
+      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17T17:00:01Z",
+      "summary": "皮尤研究中心最新调查显示，仅16%的美国人认为AI会对社会产生积极影响。尽管华尔街对AI热情高涨，但普通民众的乐观程度显著偏低。这项研究揭示了公众对AI技术发展的担忧与行业热捧之间的巨大落差，反映出在技术普及过程中，信任与认知问题亟待关注。"
+    },
+    {
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
+      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17T16:30:09Z",
+      "summary": "谷歌押注Gemini大模型以重塑智能音箱品类。新推出的Google Home Speaker售价99.99美元，摒弃了谷歌助手时代的刚性指令交互，转而采用更自然的对话式Gemini交互。此举旨在通过生成式AI为日益疲软的智能音箱市场注入新活力，提升用户体验。"
+    },
+    {
+      "title": "Google’s Gemini-powered AI home speaker goes on sale June 25 - The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTldqa1h0dGpRMDdhUTcwZEp2UTNVSFdieHRuSU9kU1pZZmZORW1Id3U1MTdIZW5oZXJZRW9ZUGI5cVpzWmJuTlNBOVFtdEM1RVJYaVRYQkxXQ2JhYTBNMEhLTWFFa1BYbFQ1RzJCVHZWTzZxR0xPQ1NiT3J3Z3BoVDlYaWlyWVR2NjdXY210d1lKemZRamxpdTlYZnd3cUpJ0gGmAUFVX3lxTFA3cEFab3g1dVBzMFZIeVFnS05Hai1yeTZjNXc2WnhiNWpSeDk5U3QtS2JLX3dKOVR1Q2xtdXlkVUg2UjVVOXJmUVhTcC1BWkM5RHktaE40VDQyN2Z6Zk1GeTJTeTdtczZEZDBLLWVmM3ZnVl9iZ2ZaWFkzY0VRdXRZdjJ5Z1B0NENiMzIwU0RwbHl5a0dwQUdZR1lENHAzVXpuVEdGdXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T16:19:45Z",
+      "summary": "搭载谷歌Gemini大模型的新款智能音箱将于6月25日正式开售。该产品由谷歌推出，定价99.99美元，旨在以生成式AI的对话能力替代传统智能音箱的指令式交互，标志着智能家居设备从‘助手’向‘对话伴侣’的进化。"
+    },
+    {
+      "title": "Here's how AI could help astronomers unlock new secrets about meteors - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMTJXQ3R1YnZqTHdfVzJiT2pmQUNLWGdqbkRTYm1zVEFySEdhMHpiX21heUdCNWZYdGhQMDl6cTExNmNEdjVKcnBaYWpWYVpNMm8yaWZGMUppU05SckFGVXFwaXBVYktlMFhVc193ZW9IZExyY3liMXlxYmRnOUVGT3dFMXpyTjlzZ0FEUmlUMm50R3A4bGJUQnZPN2lTT0trY0tNTWI0My13a0NTa0FJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T15:32:00Z",
+      "summary": "天文学家正探索利用AI技术深入分析流星数据，以揭示更多关于流星起源、成分和运动轨迹的奥秘。AI能够高效处理海量观测数据，识别传统方法难以捕捉的细微模式，从而助力科学家更准确地理解这些宇宙碎片背后的科学信息。"
+    },
+    {
+      "title": "Toronto lawyer who filed AI ‘gibberish’ must pay $31K in costs - Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOVVF3ZVJJRUdlclVBSTdXTjNVN09waE9iajE4dDR6ZHotRGlvbm4zaHp5OFZBbkdJM19EVXpBNC0yX1dSQXllTUh4YkIzdXFzOGl5WGhYdU9DeXh4STNxV3ZKVzBrUmFIeGozUm1ZeEhaUUV2cVpGSDNDVHFpdnBkXzdWR0tRcDRHSl9XSXVRY2xBRGI1NWlZZ2kxVkMtdnlkbGx1LV8yVHVndF8wemtydjduNk1SM01XWlBHeFg1Tjg5UVQ5XzJCcl9TUlJaOGZOclJBUVJaWXBGeFJrNmpKWkZnV05hU05uQVFOZXNJNk51cmhtMG43bENlTzd6WVdSdVNCdHo0WUcwbW9xX2c1QVBqQkdmOGhZblBicmRWaWU3TTB6eW1vYkdKM0ZwdDdnNzJJcG14OUk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T15:30:00Z",
+      "summary": "多伦多一名律师因在法庭文件中提交由AI生成的‘胡言乱语’内容，被法院判定支付约3.1万美元的诉讼费用。此案例凸显了滥用生成式AI工具的法律风险，警示从业者必须对AI输出内容进行审慎核查，避免因技术盲从导致严重职业后果。"
+    },
+    {
+      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+      "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17T15:24:41Z",
+      "summary": "一场名为‘慢科技’的革命正在兴起，旨在帮助人们摆脱手机成瘾、重拾注意力。其核心理念是设计更克制、更专注的技术产品，让用户重新掌控自己的时间和生活。这一趋势反映了公众对数字疲劳的厌倦以及对有意义连接的渴望。"
+    },
+    {
+      "title": "India's GenAI boom hits talent wall with 83% skills gap: Quess Corp - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMEE5dWYzSnNMS2FBazNZMG1QMEx6TTU1ZXZDSm9KZllHUzZ5aUNYX2w1MG1YU2FXUFdHbnVtMW5KNHBTQ0NuY2dWVDFlckJudWlsY2xhN09nOFlGYVpJRDk5d2FqdlJINWZBNC1HWlNaaW5CZkFscEhnVEVWLXN6NE5ybkdwR1JVWEU0dkpYQjE4dzY4S1prQXVlSks4UlJmZ2t6TF9fUE9RUmE5SkNsRG1MOGk5VlU5SlJEOF9iVWMyYWQyOUlOMHZEQjJMQVAtdFVvdGNXcW4tU2c2aGNhSnZFaUJRWkFVeGfSAe8BQVVfeXFMTi1pbUx1ZHB6NFRGSjFMOW9Sc18wd2kyenk1dkJIQU9jeWdOSDFleDhWejV2cjhtQ25yZzlPZUZ1aTZ2bUVqc0tqV3huNUl3aXZ5ZVJCRk40eFFLWmxveUg4bnRQRUV3YTd0VWpKanFua3A4VzJLaTVTNmJUaVBpZVJSa3dnSHJBaTZWdFAtdnowSXJMbEN5VnNqZnVnZHNIa3ZMNERxa3J1MVRJZm94Qm1aUmpranRqQlVqdVdrSUU5eTZMZWcwYmdjOUw1djJLWFRqS2JKTWg4aUp1MVVlbGRyeGtFR3JpWVM1VzhNZlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T15:19:34Z",
+      "summary": "印度人才服务公司Quess Corp报告指出，印度生成式AI领域面临严重的人才短缺，技能缺口高达83%。尽管行业投资和创业热情高涨，但具备AI开发、部署和优化能力的专业人才极度匮乏，成为制约GenAI产业进一步扩张的关键瓶颈。"
+    },
+    {
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-17T15:00:00Z",
+      "summary": "为物理AI系统收集训练数据是一项艰苦且不光彩的工作，但却是实现机器人能力突破的必要条件。目前，一些AI实验室已开始付费给XDOF（可能指外包数据采集平台或个人）来执行此类任务。这一现象反映出，在追求大语言模型同等水平成就的过程中，数据采集环节的短板亟待解决。"
+    },
+    {
+      "title": "As G7 wraps, OpenAI and Anthropic meet with world leaders to discuss the future of AI - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1pGbW9vQkF5ZzZrQWN4RGR3d3hzcDg0UTF1cW9RbTVtWkdFMFRNTmVlQmFBUThRU0dJOXB4aVVoR3Y1am5vbUw5WEpNamNpVjFxNGQ3aElnaHI4UEE5SUFwcTlURzRLcVNrQzUxdjR5cnduY1ZtSFhDWU5pWVdaajJKRmozcEJrUm9mZXo2WE5MQThScTJSQjA1QWEyUElV?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T14:49:44Z",
+      "summary": "七国集团峰会结束后，OpenAI和Anthropic两家领先AI公司的代表与世界领导人会面，就人工智能的未来发展进行讨论。此次会谈聚焦于AI治理、安全风险及国际合作框架，表明顶级AI实验室正积极介入政策制定层面，以促进负责任的技术创新。"
+    },
+    {
+      "title": "Researchers build brain-like memory device for AI sensors that may improve energy efficiency — phototransistor device combines light sensing, memory, and processing to cut data movement - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOV3dLSXhwanhHUjR4UEVfc0tGZnJaMkpXZS04elBiMDhGX19VQ0ViQTJoZWVvNkRaeWRmSTlsa2pMeTVHcDItdWtYaDBMYlJPdWxkTk82TUUxamFzYk1mR21uelNFNk91RjluS3lqeHNkRGpqVlYxTTlxdmtiTnJ6UVpoS2FMUldBS3M3WWZMSDZRRjJDYlFOZzExM1ZBQWlOY1RHNnFtRUxjVVJWbzBVbUdUcHRkSTJxUTFyRWpuT0xGemh4dGxqZk14VldEQWhzeXo1OXQzOTQybk1iS1B0LW50RU9aVjQ4ZXJRdGFFdUdhOUE0UUREOWRMQmVUTjktRDk0Y3U1VDVXenNVOHo2bDRUZnFlc1Z4dTBUenFaMVpyc256a1A2NHEyOGhIRWwyRTBZOXl1QzBubXp1NVpldF9zTllObXdqOUZaTm1KbDBRZGtHTHdOZXlMOWhLc0VVVFBRT0Z4OA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T14:19:33Z",
+      "summary": "研究人员开发出一种类脑存储装置，专为AI传感器设计，有望大幅提升能效。该光电晶体管器件将光感、存储和处理功能集成于一体，减少了数据在不同组件间的频繁移动。这种仿生架构模仿人脑信息处理方式，为低功耗边缘AI设备提供了新的技术路径。"
+    },
     {
       "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
       "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-17T14:15:22Z",
-      "summary": "Pramaana Labs 获得 Khosla Ventures 提供的 2700 万美元种子轮融资，致力于将形式化验证技术引入 AI 领域。该公司将重点服务法律、药物发现和税务准备等高度敏感行业，这些领域错误成本高昂且对可靠性要求极高。形式化验证能够通过数学方法确保 AI 系统的行为符合预期，从而降低关键场景中的风险。"
-    },
-    {
-      "title": "Open-Source AI Models Are Eating the Frontier: Where Value Goes - ETF Database",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFNQTUltQ09xbHlvdGg2WURhZTFyakowaW0xdG1LMktrVmJGazZWeGdncGdNdXNqd0FuN2FYYnRNamdXV1BBcG5QYkxpQVh0YUZvMEVvTVlqN2tqbExwMWpkRE9Ta0hfWjJuVXRFSkQyTnVrcGcyaHNDOGlEMDYyald6OWtwZ0lVU1ZZU3FKNk5tWDQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-17T13:17:58Z",
-      "summary": "据 ETF Database 报道，开源 AI 模型正在迅速抢占技术前沿，并对商业价值分布产生深远影响。随着 Meta 的 Llama、Mistral 等开源模型性能逼近闭源产品，企业应用和投资方向正从单一模型转向生态与工具链。开源模式降低了 AI 准入门槛，但也引发了对商业化路径和可持续性的讨论。"
-    },
-    {
-      "title": "AI set to influence home and motor insurance renewals as consumers turn to digital agents, Accenture finds - Reinsurance News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVF3MGQ0clBnYlVaSTdxTll6X2laTjJYdHd0RlFLMFV2SnNqdEVPci1VdGhPb0V3Skk3eGZxek5ESGRsTnhjQmZHNkJ5SXZVSzU3MDZJU0NQUWlvbl9YSGFLN19SRE45NnRaYkNjckFKQmZ6cHVNa2REMjBycjFsWmFoU2lhNFdObDJFZkhmTXNjM1E1Tk9ObHZEQmJ6MzdtN01TTWZVd2xaaUM1UXkyUlc3UktsUTZabWswWTZ2N3FBcXdMN1BHdy1XSkxOeVk4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-17T13:05:46Z",
-      "summary": "埃森哲报告指出，AI 技术正显著影响家庭和汽车保险的续保流程，消费者越来越多地使用数字代理进行决策。保险公司利用 AI 分析用户行为、风险偏好和历史数据，实现个性化定价和自动续保。这种趋势推动行业从传统代理模式向智能化、实时化转型，提升了效率但也带来数据隐私等新挑战。"
-    },
-    {
-      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17T12:38:09Z",
-      "summary": "加拿大养老金巨头加入印度 AI 驱动数据中心建设竞赛，将收购本土科技公司 CtrlS 8.2% 的股份。CtrlS 在印度运营超过 15 个数据中心，受益于印度数字经济和 AI 应用的快速增长。该投资反映了全球长期资本对亚洲 AI 基础设施前景的看好，也预示着数据中心行业将迎来新一轮扩张。"
-    },
-    {
-      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17T12:14:44Z",
-      "summary": "机器翻译公司 DeepL 宣布收购实时音频流和翻译平台 Mixhalo，以增强其现场活动领域的技术能力。同时，DeepL 在旧金山开设办公室，加速拓展美国市场。此次收购将 Mixhalo 的低延迟音频技术与 DeepL 的高质量翻译引擎结合，有望为音乐会、会议等场景提供实时多语言体验。"
-    },
-    {
-      "title": "Nvidia reveals AI robots that taught themselves to install GPUs into motherboards — video shows robot ‘solve high-precision tasks like… installing GPUs all by itself’ - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPRFIzWDlOVUxzWF9MekZEV1pCZXpndUE4X2tVN1ZmX25XYzhNaVZENXF6ZnppOHBwdTlIQmR2Mml6TVZzckFDM0kzbnplUHRIVHVZVDkyeGZVQ2NxLXg3Q1plNmNxQkp0Mk9vd0JyX09lTFQxUDVLT3pjRFkyOG5JVHY0NXpfZnItS09YWS03bWw2Yzc3VFc3S3pFRjFYckJvanhPY3FGckMyOUFjd2xnX0EwNEd3Sl9fVXVkRjJ6bXNhYmZQc29VUmdPY0xzSFQwdlJtUDdndjV3djNnM2lONHlBT0FtRnFob042RVhvUWNOU3ZON2YzeWh2bFJ4cjVXUzIwZ1hsRDhJM3RxSy12Y0pRbnRHODdsMlFQR1ltVHA0cVFIQzZhcXd0WHJPQnN6cFNrTW5YWFh4ZzR6SGRnZVBybUlMT0QzRnc5OQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-17T12:06:48Z",
-      "summary": "英伟达展示了一款自学 AI 机器人，能够自主将 GPU 安装到主板上。视频中机器人通过强化学习等算法掌握高精度操作，无需人工编程即可完成复杂装配任务。该技术展示了 AI 在精密制造领域的潜力，有望缓解电子行业劳动力短缺并提高生产一致性。"
-    },
-    {
-      "title": "AI will lead to labour shortages, Bezos says in optimistic talk - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWWt2cm5oZzJpdXI3bmN3VHR6ajE2QVhtdEZpWUhSSlRKc21CUjRpaXd5NFdjUjZXTGpWVmpQRXVRUnZjLWpoRlZ5UHdqdktOSDdpRlFJekhiUFpncENfTTFQdVR2LTJCcmhFdGE1eERRVlZ1d1ktb3E0dm91bWUtOFRsSWVEb2JpbWMwQTZHZXVBXzdvcHUzZGZQeVVjU09aWG9fQllwd2RMT3NnQkl6ZHd4WHlmWktrOVlsOWRnLVhmeGdUeGFscVFDYWs1S2VY?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-17T11:44:00Z",
-      "summary": "亚马逊创始人贝索斯在乐观演讲中表示，AI 将导致劳动力短缺而非失业。他认为 AI 会创造大量新岗位，同时提升生产效率，使社会能更专注于创新和高端服务。贝索斯强调政府和企业需提前投资教育和技能培训，以适应 AI 驱动的劳动力市场结构变化。"
-    },
-    {
-      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-      "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-17T11:00:00Z",
-      "summary": "Pinterest 推出名为“Ask Pinterest”的实验性 AI 购物应用，用户可通过对话式界面获取产品推荐和灵感。该应用利用自然语言处理和图像识别技术，理解用户需求并匹配相关内容。此举是 Pinterest 探索 AI 与社交电商融合的尝试，旨在提升购物体验的个性化和互动性。"
-    },
-    {
-      "title": "The Indian workers training AI robots to take their jobs - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG5WWmRBdE1xMTNCMlpSSmktRVdTdDBaMjlLOEp6ZHFkeDhTWjZJU0c0ZkVTQ0tqQW04SXRUY2c5akp2MzdnMERzd0RHd3BtenQ1cFdCNHNDdFg5VHFGaWV5Y1prTFhzZ0dWYWtTZlJReTdiM0tzQ05aM2k2RUIxbDRfZ1JEeTFmUGdaNExPUjNnNk9JX2pjSdIBoAFBVV95cUxPa1RQNW1QYnUwQWx2YWlTOEp1YmwyMTdMc2Eyd245YWtZeS03MHBKLUJCc2N3YThYTmVHUUg0QXh5R203bHlwbmpTMXFtN09MdWJOSTdHZjB4aWdkRERJLVdkc20zMnpWRlFreTB5aHFZTXFfMmRQSUNzcDhiUGZpeGdLalo1NjN3QnJHQ1JENUVYM1pfQ0VOVmxMY2c4ZHlx?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-17T09:33:28Z",
-      "summary": "《The Express Tribune》报道了印度工人正在训练 AI 机器人，而这些机器人最终可能取代他们的工作。这些工人为数据标注、模型训练等提供基础支持，却面临自动化带来的就业风险。文章反映了 AI 发展中劳动力结构性矛盾的典型场景，呼吁全球关注技术伦理与再培训问题。"
-    },
-    {
-      "title": "AI-powered cameras to help control wildfires in French forests - The Connexion",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNVNWQmhQVkx4LXMtay1nc0VEZ1JZd2dGOUhybmJ5N2tiaDRTY3M0dG1xa05ielZtSi1rWlZXNWQ3Y3N1NlJUVlJLOE82MmRMTmhHbm9IVG1Bb1RVWjF3SDdraEhNT3RlbFpPbzZyc0J6WTVhdUhTXzN4bUVIdDQ4VGRVTzFtTHdKN0dzRUltcXdiS2pEUjc4cHVBS3VRX3llSFZPb2xCaDdvQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-17T09:23:19Z",
-      "summary": "法国森林引入 AI 摄像头系统以加强野火防控。该设备利用计算机视觉和机器学习算法，实时监测烟雾、温度变化等火灾早期信号，比传统瞭望塔更高效精准。系统还能自动定位火源并通知消防部门，为应急响应争取时间。这一技术有望在气候变暖背景下提升森林防火能力。"
+      "summary": "Pramaana Labs 获得 Khosla Ventures 领投的 2700 万美元种子轮融资，致力于将形式化验证技术应用于人工智能领域。该技术通过数学证明来确保 AI 系统在关键任务中的可靠性和无错误性，特别针对法律、药物发现和税务准备等高度敏感且容错率低的行业，旨在解决因 AI 错误导致的高昂成本问题，提升行业对 AI 的信任度。"
     },
     {
       "title": "Korea’s LG Innotek to ride AI boom to boost substrate profit eightfold - KED Global",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5TXlfRXVzSHB5MmEyTGt2YjQyYm9hN1VuVmtfM09paC1FT0dtRC0xa3doeUc4RGttUWtuVGlhNEVOLVhsVzhNdWVRcDEzRkpzWF96UjZJbThpWmxzRE9XNkpSMVdfOU1HaTY2ZGlGblNpaTNsc3ZnTExGZzdxMjQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-17T09:04:00Z",
-      "summary": "韩国LG Innotek计划借助人工智能（AI）产业的蓬勃发展，将其基板（substrate）业务的利润提升八倍。该公司作为全球领先的电子元件制造商，正积极扩大用于AI服务器和数据处理的高性能基板产能。随着AI大模型训练与推理需求激增，对高端基板的要求显著提升，LG Innotek有望通过技术升级和产线优化，抓住市场机遇实现利润大幅增长。此举也反映出韩国半导体产业链向高附加值方向转型的趋势。"
-    },
-    {
-      "title": "Why Spielberg Refused 'Harry Potter': The Director Chose Another Legendary Project - Inbox.lv",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmhxdk92RWhlQ3dLel9abFhrWERpa3FabHlNaU5zRmxrdmlMWHItbTFsYmExQm1oTXNHZGltQks5bEMzTUpvWWlSWHg4ZFlMVHk3RW00WHdfd0xfcUpTVVlESEsyNDZJSWR3N1ozTTZJX0lFeDA5aE1rbG11TDFoQ0NiZEhkaWxMQVVjRHRHdVJfMC1sMkFuMmlNWU50V3NBNzRwUE9US29NSWw2RHotbzNtQUZoT05Fa3c1OTdB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-17T09:01:46Z",
-      "summary": "著名导演史蒂文·斯皮尔伯格曾拒绝执导《哈利·波特》系列电影的首部作品，原因是他选择了另一个传奇性的电影项目。当时斯皮尔伯格正筹备《人工智能》（A.I. Artificial Intelligence），该片由他接替斯坦利·库布里克完成，被视为更具挑战性和艺术野心的项目。虽然《哈利·波特》商业潜力巨大，但斯皮尔伯格更倾向于探索科幻与人性的深度主题，这一决定也体现了他在项目选择上对个人创作理念的坚持。"
+      "publishedAt": "2026-06-17T14:05:00Z",
+      "summary": "韩国 LG 伊诺特（LG Innotek）正借助人工智能热潮，计划将其基板（substrate）业务利润提升八倍。作为电子组件制造商，该公司预计 AI 对高性能芯片和封装基板的需求将大幅增长，通过扩大先进封装基板产能和技术升级，抓住数据中心、AI 加速器等领域的机遇，实现利润的显著飞跃，巩固其在全球供应链中的竞争优势。"
     }
   ]
 }
