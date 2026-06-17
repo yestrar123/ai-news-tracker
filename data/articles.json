@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "1271",
+      "title": "The Indian workers training AI robots to take their jobs - The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG5WWmRBdE1xMTNCMlpSSmktRVdTdDBaMjlLOEp6ZHFkeDhTWjZJU0c0ZkVTQ0tqQW04SXRUY2c5akp2MzdnMERzd0RHd3BtenQ1cFdCNHNDdFg5VHFGaWV5Y1prTFhzZ0dWYWtTZlJReTdiM0tzQ05aM2k2RUIxbDRfZ1JEeTFmUGdaNExPUjNnNk9JX2pjSdIBoAFBVV95cUxPa1RQNW1QYnUwQWx2YWlTOEp1YmwyMTdMc2Eyd245YWtZeS03MHBKLUJCc2N3YThYTmVHUUg0QXh5R203bHlwbmpTMXFtN09MdWJOSTdHZjB4aWdkRERJLVdkc20zMnpWRlFreTB5aHFZTXFfMmRQSUNzcDhiUGZpeGdLalo1NjN3QnJHQ1JENUVYM1pfQ0VOVmxMY2c4ZHlx?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T09:33:28Z",
+      "summary": "印度工人正在为AI机器人进行数据标注和训练工作，这些机器人未来可能取代他们自身的岗位。这一现象凸显了AI技术对就业结构的冲击：低级重复性劳动岗位面临被自动化替代的风险，同时催生新的技能需求。报道指出，工人通过参与AI训练虽然获得短期收入，但长期职业前景仍存不确定性，需关注技能转型与产业政策配套。",
+      "fetchDate": "2026-06-17"
+    },
+    {
+      "id": "1272",
+      "title": "Korea’s LG Innotek to ride AI boom to boost substrate profit eightfold - KED Global",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5TXlfRXVzSHB5MmEyTGt2YjQyYm9hN1VuVmtfM09paC1FT0dtRC0xa3doeUc4RGttUWtuVGlhNEVOLVhsVzhNdWVRcDEzRkpzWF96UjZJbThpWmxzRE9XNkpSMVdfOU1HaTY2ZGlGblNpaTNsc3ZnTExGZzdxMjQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T09:04:00Z",
+      "summary": "韩国LG Innotek宣布将借助人工智能热潮，使其半导体基板业务利润提升八倍。该公司计划扩大用于AI芯片的高端基板产能，以满足英伟达等厂商的强劲需求。此举反映了AI产业对上游材料与封装技术的拉动效应，LG Innotek通过技术升级和产能扩张，试图在AI供应链中占据关键席位，预计2025年基板利润将大幅增长。",
+      "fetchDate": "2026-06-17"
+    },
+    {
       "id": "1267",
       "title": "IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme to Build Enterprise-Ready AI Talent - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNcFJQS2w5dE14ZW1YcTJUYmJjMU9hN2F0MUVjNkg5LXpNamlxdkZCSEhTSEg5UEdZMDBoMzBVWjQweWloU1U4LWZ1TGROcnNCdzN0eVBvRTVIYlBYV3FoNXBudWg1S1lSdkNqM1haTVJZVEs2OFpyZFFCS0p1cEhCN19vU19xX1RtUU9IV3JRNTd6bVo0ZFNuTkNXSW5jdERCSVFJT2FKd3dsbm1UX1lpWk1pbXFqX3RmcXZxeldkbkduNXkyWVM0RUhGc09ZUlFJZjBQVzBRSlVrY3BhWWxmRWdqQjBYczJkVG9ScU9WRmJKRldVMjZkcXVReU01U1oxOVM5QmxSbEo1U3Jj0gGQAkFVX3lxTFBGMC11RGYwQlFHeEhpekdvQWwyQ2ZwQy02SkwtaUJLUkZOVjN0dHhpYXNISkJHSlowS254ZmJudUZRTEdGSkxya1NpTTh1WThENmlRYkhBRklIY2gxOUF4TlpZWmM0V2lQMGM3VXhLWjlkcVg1YXphVzdOeVd6XzBfMUdveXdMTXlPNGFwa0ZwVElaV1YyQWdGRGtLNURIRnpaaE1WZVJDaTU4TFBoLVhlUUh3Y3JlQW13eWFmV0xka2lYRFYwZ1hlZkpTZHNiYUZxZVQ4dTRWSHN0dnUzajF5UVJ1Uklpckx0dldZNkcwOGh2OW44b1VhLWR1T0wyZFBBdV94ZHVuRkdqZFJ3UDA2?oc=5",
@@ -11422,5 +11440,5 @@
       "fetchDate": "2026-06-14"
     }
   ],
-  "total": 1269
+  "total": 1271
 }
