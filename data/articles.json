@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "1303",
+      "title": "How to turn off AI in your Google Docs",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-18T01:23:51Z",
+      "summary": "本文介绍了如何在Google Docs中关闭AI助手功能。用户可前往“工具”菜单中的“偏好设置”，取消勾选“显示‘使用Gemini写作’建议”选项，从而消除烦人的弹窗提示。该操作适用于希望减少AI干扰、回归传统文档编辑体验的用户，无需复杂技术步骤即可快速完成设置。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1304",
+      "title": "Judge signals AI recruitment tool vendors like Workday may not escape liability for discrimination - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZzZ1eFp2ZVN0R1VUaW1HWFRVRXhKMVJqV2RzSDJoNGZidW4tVVFNbTZ1dlBmTGhtVE83VkhKQURLUXdwdVlkbjJrZzlJdnVDNVRWM0ZPZzFyaVFjQkhZMUZiRU1uZ0JkTElzcld3TGZhdlJGQlRWN1BqaS1rTURkbmtzVHhKU2ZWanJiS2Q2d25vSmVHQ19DeURlSDdZTGstV2l2Sk1sOG45MU51c2RvbkZkQm1fVXdxZXNNNTNaamRxNExsc1h0cnlLakZpaHhZRFRBRnpSX0FQT0I1WTctQXhLM1ktZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T01:22:43Z",
+      "summary": "美国法官在最新裁决中暗示，AI招聘工具供应商如Workday等可能无法完全免除歧视责任。尽管企业常以算法黑箱为由抗辩，但法院倾向于将AI决策视为雇主行为的延伸。此案可能为未来AI招聘领域的反歧视诉讼奠定重要先例，要求供应商和雇主共同承担合规审查义务。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1305",
+      "title": "AI: Artificial Intelligence, or Artificial Inflation? - echo.net.au",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmNXRkNONlphX09HNFdTVVhIQ3ozYk94M0xXb0dMeVlDcVhpb2lhQ3htRzdDMWp3cE1KLU56YnN0eTBrNlhBWmV6aDhVV2dmWXpJZ21vSTNUWE9YS0RsR3k0My1SMlRrU1R0XzB6T1pxWWNDNDRwSlRXLUVPdWRSVXB1ajNiQktvR05N?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T23:32:25Z",
+      "summary": "本文质疑当前AI热潮是否存在“人为通胀”现象。作者指出，许多AI产品实际效果被夸大，投资泡沫风险加剧，大量初创公司缺乏可持续盈利模式。文章呼吁投资者理性看待AI技术真实能力，警惕过度营销带来的市场扭曲，并建议关注基础研究而非短期应用炒作。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1306",
+      "title": "Part 161, “Use of Artificial Intelligence”: What It Might Mean for Attorneys Who Use AI and Generative AI - New York State Bar Association",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSEF2cHB3a0thczloOWNhVUc0TDNMLUVSc2pybWJCdFZMR3lydGlQOEt6UmNiMDlqMHFRME1FYThKSjY5S2pFUkFYRDZWbkJMZ3hMT0h3NFVJNFNjRC1TUlc2WWVValFGSEE4aUtQaTFLNEFmODg2VVBGU1I5a0J5ZFlXa0VSRk5Ebl9zWFVqYzVJNEhELWI3NG5LaF9HRVBmdm1la0Z5dnZTT2h3Z0VLVWZJVWFWcXhIN3ozcVpVWmx4TWRSZUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T23:29:53Z",
+      "summary": "纽约州律师协会发布第161号规则，明确律师使用AI及生成式AI的规范要求。该规则强调律师必须对AI输出结果负责，不得完全依赖未经人工审核的机器生成内容，同时需向客户披露AI使用情况。此举旨在平衡技术效率与职业道德，确保法律服务质量不受影响。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1307",
+      "title": "Hugging Face, known as the global open-source artificial intelligence (AI) platform, will hold its f.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85TVJDRDRZMTc1eENxVV92ckZNRUgteTRKeGFfb1BmRDdhM1lBa3VFbG5qdW12YzczallHVEpnd1NOenVuVmlxaEN1UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T23:23:39Z",
+      "summary": "全球知名开源AI平台Hugging Face宣布将举办首届线下大会，汇聚开发者、研究者和企业代表。会议主题涵盖模型部署、数据集管理、社区协作等核心议题。作为AI开源生态的核心枢纽，Hugging Face此举旨在进一步推动技术共享与标准化，加速AI民主化进程。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1308",
+      "title": "Towards autonomous medical artificial intelligence agents - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XYlNlQTFZYmI0QUc5c1hrZTVNWFVUVHAyOHJodDFZN2thU1dxR2tDMWtWU1hzQUkwWGRtMHhaUk5oTjdIYWg0bGNlWHZwYWVkV3Nqdi0zd0ZqNHV0aFJB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T22:55:21Z",
+      "summary": "《自然》杂志发表前瞻性文章，探讨自主医疗AI代理的发展路径。这类系统能独立完成诊断分析、治疗建议及患者随访等任务，其核心在于强化学习与多模态数据融合。尽管技术潜力巨大，但当前面临可解释性、安全验证和临床准入等挑战，需多学科协作突破。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1309",
+      "title": "The Heat: Artificial Intelligence | How AI can help the Global South - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YWW8zT2ZWNlFFTzU0SjdNa2lhUUg3OEtLMUNia0p0VU9LczJ3Tnl5bi1YcFkwUHA0NWRnbG1ieTJacE5IVlhxcWRVd3JOUXlQcG5na1dhMy1rdnJLWjJZaEx30gFcQVVfeXFMUEFfUlNZS29lelZKNGVJRU5IbXl1MGZ4R1VpQVo5em5rX09oY0lPa1MzWDl0bHY2dnlQdVBLdTdMVnUxOU0yU3pXWlVXVHVLRTl6elZSQ1dsWE03N2U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T22:45:33Z",
+      "summary": "本文探讨AI技术如何助力全球南方国家发展。案例包括：利用AI优化农业精准灌溉、通过低资源语言模型提升教育公平、以及借助遥感AI监测公共卫生风险。文章强调需避免技术殖民，提倡本地化数据训练和开源工具共享，使AI真正成为缩小南北数字鸿沟的桥梁。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1310",
+      "title": "Rhode Island joins states issuing AI rules for lawyers - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWRVU0piQy1sRTBhaERjb0xUaEVpNU00V0RRY3hMbjA0WkVXcS12cDZuUE1ueFdzTUFFLXIya1gxNFZBenVxSEtVNUlUT3FraUtBY0ZoekRNMkw3U3o2UUxiUnlsVnlKanF3NzV1UzdFYlpUR29EaWUzaWtkQW1lZEpET1NobHBZLUdGNTl1U3RwNTdFQTAzMFFlWG1oYlFPMGwzWktn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T21:02:53Z",
+      "summary": "罗德岛州加入美国多个州的行列，正式发布针对律师使用AI的监管规则。新规要求律师在使用生成式AI起草文件或进行法律研究时，必须进行人工复核并披露技术使用情况，同时禁止完全依赖AI做出专业判断。此举反映法律行业对AI风险的高度警惕，旨在维护职业伦理与客户权益。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1311",
+      "title": "OpenAI Unveils LifeSciBench - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2xHTjgzN2FoRjEweV9RcmE1WEFxcUFrRUszdVotVXFVR2tZMjlSNGl5NWU3RF9zejY3OWVfaGZVMEdXRTlZdnJGS0liS0xsb1YzYkFRVFR3M0RLMkRZY3AzbXd5ajA1TTJZOGx4Z3p0Y3dVaGx0c2s4R2lseHZvODFMa1JSOHNpQ3hjeVhxa1FBQ2FY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T21:01:36Z",
+      "summary": "OpenAI近日发布了名为LifeSciBench的新基准测试工具，旨在评估人工智能在生命科学领域的性能。该工具专注于衡量AI模型在生物、化学、药物研发等复杂任务中的表现，包括分子结构预测、蛋白质折叠分析等关键技术指标。LifeSciBench的推出填补了AI在生命科学领域标准化评估的空白，有助于推动AI辅助科研的进步。OpenAI希望通过这一基准促进更可靠、可复现的AI研究成果，加速从基础研究到临床应用的转化。目前该工具已对外开放，供研究者和开发者使用。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1312",
+      "title": "Amazon SageMaker AI Async Inference now supports inline request payloads - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbkVYVXl3T2tZaUhJbTd1ZzRNMk9nUWxuVWFhOHZZNlBjSmxzNEx5Q1hFRkl1RzZHZ2dvbDNMM1BkOFE1RjE2bGlnT2lwanhyeG5QeUxpSEFOUnVlOUNJd3ZBMWFBQk9zS3VlWDRwdE91RzZScjVKanlIQldUVS05LVdkQkZwdXd0WTh2enk1d0wyT011YjBoTUJ1OVJTajJiVzFFSjZqb0JNdnh5NTdnVlBuLUZJQ0JFY28w?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T20:56:36Z",
+      "summary": "亚马逊云服务宣布Amazon SageMaker AI异步推理功能现已支持内联请求负载。这一更新允许用户在异步推理请求中直接嵌入数据负载，无需预先将数据存储在S3等外部存储中，从而简化了工作流程并减少延迟。新功能特别适用于处理带有元数据或小批量数据的推理场景，如图像分类、文本生成等。用户可通过API直接发送JSON或二进制格式的请求，SageMaker将自动处理排队和结果返回。此次升级进一步提升了SageMaker在实时与异步推理间的灵活性和易用性。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1313",
+      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcU5KcFBZVnVkQzYyd0xCanhLLTlvTkdqTUsybks4MW9iMDlEYTJlMnRMa2YxVjNzZkpRc1ZkUmxGWURIbFpfb1YxNlNZT3ZFYzROV09ZYzYzRVVnSFp2WnkwQ280LXlkZWVONHdqRTJHMTZNcHRvVTRnWTRuUlY3U2pFN2VUQWZKeF9TRVo5RG0xNlZkcld1U294TTZUVkVMMkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-17T20:50:00Z",
+      "summary": "雅虎财经近期推荐了两只适合长期持有的AI股票，预计在未来十年内将受益于人工智能技术的持续渗透。文章强调，投资者应关注具有强大技术壁垒、稳定现金流和广泛行业应用的公司。其中一家是数据中心芯片巨头，另一家则是云计算和AI服务综合平台。尽管未直接点名，但分析指出这两家企业分别在AI基础设施和AI应用层面占据主导地位，且估值合理，具备抗周期能力。建议投资者逢低布局，长期持有以分享AI产业增长红利。",
+      "fetchDate": "2026-06-18"
+    },
+    {
       "id": "1283",
       "title": "This Nvidia-Backed Company Is Bringing Artificial Intelligence (AI) Into the Physical World. Its Stock Could Jump 3x - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjRMUXI5UWFwZ2h0aUNSejdhc1pweGo0UG9HSmNMSkZhWV90XzlxWUZJVkxVZU9veXFhMU5MVjhIYUc3RzNOUklTLWR3dDUzRmFISHVmTDlnMVlwVV9vS1IwNjdJREhJTjZIMEVKcVpMYkNldERXNmxYc0d1dTVJY3RNQ2VfR203TEpvMG5ZdXpydFB3TG53?oc=5",
@@ -11710,5 +11809,5 @@
       "fetchDate": "2026-06-14"
     }
   ],
-  "total": 1301
+  "total": 1312
 }
