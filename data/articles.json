@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "1314",
+      "title": "While the U.S. government has restricted exports of advanced artificial intelligence (AI) due to nat.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCaXJubmJlMXAyUjFYRjYzWDRxM3ZpLWMwZFFKZFlIZXVjdFlYbmk4ZlA0TmNwTkhyQjcxdTNuUWo5T0dYaldkMEVVNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T05:57:53Z",
+      "summary": "美国政府出于国家安全考量，对先进人工智能技术实施出口限制。这一政策旨在防止敏感技术外流，维护美国在AI领域的战略优势。限制措施可能影响全球AI产业链的分工与合作，促使其他国家加速自主研发，同时引发业界对技术封锁效果的讨论。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1315",
+      "title": "AI influx threatens corporate networks: 73% of firms expect to hit capacity by 2028 - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVlJNdEpqQWFWVUxjUjJZNnVGemZxc0NQaEN1SV9BVmZJLTVKSGl3OFBMOFhsNnJCRTNVeUxFZVRsSE9CeXhtaXZ0VGk1Zi00Wl9xdjk2MXFpc0VqQVNZVEtLV0NOVEQtczUtbTNiSE1hMjBRZDZHLWE3V1BWNkNicEJmSEFvUF9zU1p2UnJWSVBIai1iRlJoRGZ0UGlFN092aVBRN25XeUlFQTA3eEYtRnlqNGcxdjctZ1FpNHRxQkwtcmNtaG1VcnB6SEZ2N1NocnNWY0xPOFRXWVhHSTdLeVZWbG8zLXR4T2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T05:15:02Z",
+      "summary": "AI应用的爆发式增长正给企业网络带来严峻挑战。一项调查显示，73%的企业预计到2028年现有网络容量将无法满足需求。AI工作负载对带宽、延迟和计算资源要求极高，企业亟需升级网络架构、部署边缘计算和优化数据流，以避免性能瓶颈影响业务运营。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1316",
+      "title": "Ohio can help America win the artificial intelligence race | Opinion - Cincinnati Enquirer",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ28zd3dKWVlUOFZnVTNQZ0djYjhRclh6c2E2UGtHMm9GR3RDcVhpRW9pTUJ2QmhBak5uSjZWNDBEZ1VEMjBUTmNxWXBwTDdSaTMyNWVRcjlVb01iWWlTU3VWNE8wQ3NEdEFRSUNxemcwaWp3emFZZzlxRWFlWFMtRHlzZ2tSWFc4bVFqbjhtcFF5SHlldDZmYS1rZDRVMU51Z1UzcTFIR3R1Z19JcVAzQVgxZU5aUFc5Q0FuQXFyZ2NZSDFWTUJxbGFyUmRwQ1Jp?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T04:05:00Z",
+      "summary": "《辛辛那提询问者报》评论文章指出，俄亥俄州凭借其深厚的制造业基础、强劲的科研实力和丰富的人才储备，可在人工智能领域为美国提供关键支撑。该州在自动驾驶、先进制造和数据处理等细分领域具备独特优势，有望助力美国赢得全球AI竞赛。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1317",
+      "title": "PwC ties higher productivity to Artificial Intelligence - The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEJDc1V6UmdoS1NPcWFLdW80R0duNW5Cb214NnhGNWRHWnRLcWg5R215c3lwU2RVZlNHRkE1MTBnZS1ERmNVMFhiTk81YUYyUUN3OUxPaEIwbkh4YVYyVmZMcEZRTzkza09WTnAxNHVpMW1UdUFwbHd6Q25vZS1EWHlQOWRpVDMyeG9IaHI5RQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T03:33:36Z",
+      "summary": "普华永道发布报告指出，人工智能与生产率提升之间存在紧密关联。研究显示，采用AI技术的企业能够显著优化运营流程、降低错误率并加速决策，从而节省成本、提高产出。报告建议企业积极拥抱AI以保持竞争力，并注意在实施过程中解决数据隐私和技能培训等问题。",
+      "fetchDate": "2026-06-18"
+    },
+    {
       "id": "1303",
       "title": "How to turn off AI in your Google Docs",
       "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
@@ -16,6 +52,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-06-18T01:22:43Z",
       "summary": "美国法官在最新裁决中暗示，AI招聘工具供应商如Workday等可能无法完全免除歧视责任。尽管企业常以算法黑箱为由抗辩，但法院倾向于将AI决策视为雇主行为的延伸。此案可能为未来AI招聘领域的反歧视诉讼奠定重要先例，要求供应商和雇主共同承担合规审查义务。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1318",
+      "title": "AI's most powerful bosses deliver message to world leaders - and it's not very reassuring - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOGlkbExEd2VjMVhKeDVELUphTzA5Ui1CZE12TExzR1ZYTTBUZnQ3V2tyUGRVOTdBbDZfRVRwczF1SThzc2prX2FhT0xRSmVWXzQzV0pxSnpKcVEzYTB3Z2VyVk1KejhYUGRCMGhVZkFIYkFkQ3Y3QzJxazdCbEZyMEZYZVNqb3ZMaTVXSG0tTXdDdWNJeUxxdlFzQ1dTdUQ5aVliOXJhX1lzODNyZ1p0Q0xfVUlubVlJTGV3ekJB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T01:11:33Z",
+      "summary": "多位全球顶尖AI企业的高管联合向世界领导人传递信息，警告人工智能技术快速发展可能带来的严峻挑战，包括大规模就业替代、伦理困境以及安全失控风险。他们呼吁各国加强监管协作，但整体基调并不乐观，暗示目前治理框架远不足以应对AI带来的系统性冲击。",
       "fetchDate": "2026-06-18"
     },
     {
@@ -11809,5 +11854,5 @@
       "fetchDate": "2026-06-14"
     }
   ],
-  "total": 1312
+  "total": 1317
 }
