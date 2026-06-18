@@ -1,55 +1,83 @@
 {
-  "updatedAt": "2026-06-18 06:45:02 UTC",
-  "totalArticles": 7,
+  "updatedAt": "2026-06-18 10:03:32 UTC",
+  "totalArticles": 11,
   "articles": [
     {
-      "title": "While the U.S. government has restricted exports of advanced artificial intelligence (AI) due to nat.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCaXJubmJlMXAyUjFYRjYzWDRxM3ZpLWMwZFFKZFlIZXVjdFlYbmk4ZlA0TmNwTkhyQjcxdTNuUWo5T0dYaldkMEVVNA?oc=5",
+      "title": "‘AI slop’ resolution seeks to reel-in city’s use of artificial intelligence - AJC.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUZCOE9qc1VhT1BXMUJ5ekloLWRZM09FZWZlNjJMX0N3TjhWWWJxTFlFdGtEYm55elN6VHJMVDcyNmxYeGk0SEJpRzBwaWphU2w4Wk5lZXRJZXhXNm9oLVp3MHNZUjRQbmx0X0poaHpUZWw2SjNOWWkyLXFBYWJIYlFKY3o5NE5JTXdhWFZUSnVXM0d1S3hXU1Y2RmQxRjFmWkRncmxTazVjUQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-18T05:57:53Z",
-      "summary": "美国政府出于国家安全考量，对先进人工智能技术实施出口限制。这一政策旨在防止敏感技术外流，维护美国在AI领域的战略优势。限制措施可能影响全球AI产业链的分工与合作，促使其他国家加速自主研发，同时引发业界对技术封锁效果的讨论。"
+      "publishedAt": "2026-06-18T09:01:29Z",
+      "summary": "美国亚特兰大市一项名为“AI slop”的决议旨在限制市政府对人工智能的使用，以防止低质量AI生成内容泛滥。该决议针对政府部门使用AI可能产生的不可靠、低价值输出（俗称“AI slop”）进行监管，要求制定更严格的审查和部署标准。此举反映了地方层面对AI技术滥用的担忧，力求在创新与风险之间取得平衡。"
+    },
+    {
+      "title": "The heads of leading artificial intelligence (AI) companies in the United States have proposed to th.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FLVBQblV3UVZhNkxiNkgzdnNxdnRLZF9GOVBQeHZydkVzTVVfRlZKUEtLdkdSbHhtaF96VzlIVE5jOFlPNjdEZHhUbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T08:41:27Z",
+      "summary": "美国多家领先人工智能公司的高管向政府提出建议，内容涉及AI安全、监管和产业发展方向。提案可能聚焦于建立行业自律框架、防范潜在风险，并推动国家层面的AI战略。鉴于AI技术快速演进，企业界主动参与政策制定，旨在平衡创新速度与负责任发展。"
+    },
+    {
+      "title": "China announces measures to promote AI integration with consumption - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnlocThjRE80VDlzbnFpU05Lc1FfdGZ2V21rS2dveUp4ZEFBaG85WG1nR3hZbGxvTWNScWZNOFpsdm9CaEdoOE9TY1p4NktQRENzbklzWXVaOXBra0x0LWtqT1JCUU5lak95a1dvWEdrOXdwUkIzeS1zTDNzcTBxMTNpcHh0djg1eExKSllkWTdYRXBzNHlnMFdyVUZIeFVXRzhuNDVTZURuR0lWeVl1QkJ6emw0T0JGcHd1ZEZfNms?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T08:39:22Z",
+      "summary": "中国宣布一系列促进人工智能与消费领域深度融合的措施，旨在通过AI技术激活内需市场。具体包括推动智能终端升级、优化线上线下消费体验、发展AI驱动的零售和文旅应用等。此举是扩大内需战略的一部分，利用AI提升消费效率与个性化水平，同时为AI企业创造更多商业化场景。"
+    },
+    {
+      "title": "Korea emerges as global AI battleground as Anthropic launches Seoul office - KED Global",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lNDktNEF1ZzRMb0NOMFUzVTEybzNicHg5cFMwSHJncUwyMHFSRkp4UE4zaXRyYUJpdU9feXIxdXNNWHdvMThJYXZELU5hOHRzNV9jRlpTZmdpdnlRV1hlbnhBV3lBUXIxNGNHQTl5N0tobU14TDVvaDh6aUhUVjg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T08:23:00Z",
+      "summary": "人工智能公司Anthropic在韩国首尔设立办公室，标志着韩国成为全球AI竞争的关键战场。Anthropic以其安全导向的AI模型著称，此次扩张意在争夺亚洲市场人才与资源。韩国强大的半导体产业和AI基础设施吸引了全球巨头，未来AI技术竞争将更加国际化。"
+    },
+    {
+      "title": "These 4 Core Artificial Intelligence (AI) Hyperscalers Are Screaming Buys Today - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0FDRXhUR25ONjZ6c1djVUVRbHpsNGU0b2dzMVdHd1ZDejlYUmVzTk9jREdoRDlocEZNWkUxbHEyV01zQVl1Tnc0Y1RFMkRiLTNTZUpSLWI5b2lBM3pHbGdDMDVlYlRobVNGWlBWQUhIeDY0ZjFCdm5OdlBMck1oRGpwX3Z4UkxXazF1MnplRlJKUTVGWmdOYg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T08:22:29Z",
+      "summary": "投资分析指出，四大核心AI超大规模企业（Hyperscalers）当前具有极高买入价值。这些公司凭借巨大的算力、数据和资本优势，在AI基础设施建设中占据主导地位。随着企业AI部署加速，它们有望持续受益，被市场视为确定性较高的长期增长标的。"
+    },
+    {
+      "title": "I completely disagree with the conventional wisdom that artificial intelligence (AI) will eliminate.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10ZkFCMWV1R2Y2ZjJmbnRLRkRBMVhDeGVDVFc5dENNWHI2TVJoMmE5SmZvUE9HdVFuc0tvanFUMUxmQVBPZlh3U1BhWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T08:19:02Z",
+      "summary": "有专家公开反对“AI将大规模取代人类工作”的传统观点，认为AI更可能增强而非消灭人类能力。通过自动处理重复性任务，AI将为人类释放创造力与决策时间。未来人机协作将成为主流，就业结构将重新调整而非全面萎缩，技术适应性和终身学习是关键。"
+    },
+    {
+      "title": "While the U.S. government has restricted exports of advanced artificial intelligence (AI) due to nat.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KX0xYdk4tVmhKVTlDTFlhQllqbHI1Y09TVTgtcHNncGpEbVB0WHpEUE5YUmxka05kMU40aVV3LWYwZXk1N09Ta1NMZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T08:19:01Z",
+      "summary": "美国政府出于国家安全考虑限制高端AI技术出口，此政策引发多国产业影响。出口管制涵盖先进芯片、算法及云计算服务，旨在阻止敏感技术被竞争对手获取。然而，此举也可能倒逼其他国家发展自主AI生态，加速全球AI产业链的碎片化与多元化。"
+    },
+    {
+      "title": "Japan is considered to be far from the artificial intelligence (AI) startup craze. However, Lee Jin - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GcVBWOUJEUVcybFM0TlR4U29zN2RuMUZOYUJqWFAzbTFRSnB5eHlHUUtJRXYyQy1nZUlVVGF0ZFcxMXZ0bjdxb0kwTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T08:05:49Z",
+      "summary": "日本在全球AI创业热潮中看似落后，但李进（Lee Jin）等观察家指出，日本深厚的制造业和机器人技术基础为AI落地提供了独特土壤。传统大企业正通过内部创新和投资初创公司推进AI应用，尤其在工业自动化、医疗健康等领域。日本也在尝试优化监管以吸引AI人才。"
+    },
+    {
+      "title": "Gig workers are endlessly exploited. AI could make more of us share their fate - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVGF6akdqei1tVmlibDEyMUtscGNtYzFqOVRsM0l1ajJSRVdXaUhKdWNGY0s2X2RHZnI0TmM0SFVjWGI1NjJfRkgwUHUyODQ4U052S0VmTjRxblowelZWcUl2MHg3S0RrR0xmXzNoTk01V3FXS1hrYkFYMDNUQlRJVk40OA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T08:01:00Z",
+      "summary": "《卫报》评论指出，零工经济从业者长期遭受剥削，而AI的普及可能让更多人面临类似命运。AI通过自动化任务、精准监控和算法管理，加剧了工作不稳定性和收入不确定性。文章呼吁社会各界关注技术伦理，确保AI发展不以牺牲劳动者权益为代价。"
+    },
+    {
+      "title": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEsyOXlNZ1hlb2FRM2NxcGVPd3VBYmt2S0pfbmFYZDkxbDVwczZzMkUyWmhIY0J3bGtHVnJMcVppRFFXbExzWXRCYWJzYTIzZklXYmhMSG9qUkJOY3V2WFBIRTVnT1U1NEk4cjVOWmNEMUZ4bnl2YlhZWEJSM3NGQURyMTRwY1g0MkFVMkw1c1lLdHQwaFhPYUVTVC1MYzBVcmtZVENGaWtFNEtEdHVSOUZ6c1AzZFhnN1kxb05XYlBLV2Z3Rl92X19HaWotUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T07:45:15Z",
+      "summary": "日本银行业协会发出警告，AI赋能的网络攻击可能对银行系统造成服务中断。攻击者利用AI自动化漏洞扫描、生成钓鱼邮件和模拟交易行为，传统防御手段难以应对。协会呼吁金融机构加强AI安全防护，开展跨行业协作，并制定应急响应预案以防范系统性风险。"
     },
     {
       "title": "AI influx threatens corporate networks: 73% of firms expect to hit capacity by 2028 - Escudo Digital",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVlJNdEpqQWFWVUxjUjJZNnVGemZxc0NQaEN1SV9BVmZJLTVKSGl3OFBMOFhsNnJCRTNVeUxFZVRsSE9CeXhtaXZ0VGk1Zi00Wl9xdjk2MXFpc0VqQVNZVEtLV0NOVEQtczUtbTNiSE1hMjBRZDZHLWE3V1BWNkNicEJmSEFvUF9zU1p2UnJWSVBIai1iRlJoRGZ0UGlFN092aVBRN25XeUlFQTA3eEYtRnlqNGcxdjctZ1FpNHRxQkwtcmNtaG1VcnB6SEZ2N1NocnNWY0xPOFRXWVhHSTdLeVZWbG8zLXR4T2c?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-18T05:15:02Z",
-      "summary": "AI应用的爆发式增长正给企业网络带来严峻挑战。一项调查显示，73%的企业预计到2028年现有网络容量将无法满足需求。AI工作负载对带宽、延迟和计算资源要求极高，企业亟需升级网络架构、部署边缘计算和优化数据流，以避免性能瓶颈影响业务运营。"
-    },
-    {
-      "title": "Ohio can help America win the artificial intelligence race | Opinion - Cincinnati Enquirer",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ28zd3dKWVlUOFZnVTNQZ0djYjhRclh6c2E2UGtHMm9GR3RDcVhpRW9pTUJ2QmhBak5uSjZWNDBEZ1VEMjBUTmNxWXBwTDdSaTMyNWVRcjlVb01iWWlTU3VWNE8wQ3NEdEFRSUNxemcwaWp3emFZZzlxRWFlWFMtRHlzZ2tSWFc4bVFqbjhtcFF5SHlldDZmYS1rZDRVMU51Z1UzcTFIR3R1Z19JcVAzQVgxZU5aUFc5Q0FuQXFyZ2NZSDFWTUJxbGFyUmRwQ1Jp?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-18T04:05:00Z",
-      "summary": "《辛辛那提询问者报》评论文章指出，俄亥俄州凭借其深厚的制造业基础、强劲的科研实力和丰富的人才储备，可在人工智能领域为美国提供关键支撑。该州在自动驾驶、先进制造和数据处理等细分领域具备独特优势，有望助力美国赢得全球AI竞赛。"
-    },
-    {
-      "title": "PwC ties higher productivity to Artificial Intelligence - The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEJDc1V6UmdoS1NPcWFLdW80R0duNW5Cb214NnhGNWRHWnRLcWg5R215c3lwU2RVZlNHRkE1MTBnZS1ERmNVMFhiTk81YUYyUUN3OUxPaEIwbkh4YVYyVmZMcEZRTzkza09WTnAxNHVpMW1UdUFwbHd6Q25vZS1EWHlQOWRpVDMyeG9IaHI5RQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-18T03:33:36Z",
-      "summary": "普华永道发布报告指出，人工智能与生产率提升之间存在紧密关联。研究显示，采用AI技术的企业能够显著优化运营流程、降低错误率并加速决策，从而节省成本、提高产出。报告建议企业积极拥抱AI以保持竞争力，并注意在实施过程中解决数据隐私和技能培训等问题。"
-    },
-    {
-      "title": "How to turn off AI in your Google Docs",
-      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-18T01:23:51Z",
-      "summary": "Google Docs中集成的AI写作助手“Gemini”会在编辑时弹出建议，部分用户希望关闭此功能。本文提供操作指南：用户可点击菜单栏的“工具”选项，进入“偏好设置”，在“常规”选项卡中取消勾选“显示Gemini写作建议”，即可禁用AI辅助弹窗，减少干扰。"
-    },
-    {
-      "title": "Judge signals AI recruitment tool vendors like Workday may not escape liability for discrimination - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZzZ1eFp2ZVN0R1VUaW1HWFRVRXhKMVJqV2RzSDJoNGZidW4tVVFNbTZ1dlBmTGhtVE83VkhKQURLUXdwdVlkbjJrZzlJdnVDNVRWM0ZPZzFyaVFjQkhZMUZiRU1uZ0JkTElzcld3TGZhdlJGQlRWN1BqaS1rTURkbmtzVHhKU2ZWanJiS2Q2d25vSmVHQ19DeURlSDdZTGstV2l2Sk1sOG45MU51c2RvbkZkQm1fVXdxZXNNNTNaamRxNExsc1h0cnlLakZpaHhZRFRBRnpSX0FQT0I1WTctQXhLM1ktZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-18T01:22:43Z",
-      "summary": "美国法官在审理一起涉及AI招聘工具的歧视案件时表示，像Workday这样的供应商可能无法逃避法律责任。若算法在筛选简历时因种族、性别等因素产生歧视性结果，供应商需承担相应后果。这一信号要求AI招聘工具必须确保算法透明和公平，否则将面临诉讼风险。"
-    },
-    {
-      "title": "AI's most powerful bosses deliver message to world leaders - and it's not very reassuring - Sky News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOGlkbExEd2VjMVhKeDVELUphTzA5Ui1CZE12TExzR1ZYTTBUZnQ3V2tyUGRVOTdBbDZfRVRwczF1SThzc2prX2FhT0xRSmVWXzQzV0pxSnpKcVEzYTB3Z2VyVk1KejhYUGRCMGhVZkFIYkFkQ3Y3QzJxazdCbEZyMEZYZVNqb3ZMaTVXSG0tTXdDdWNJeUxxdlFzQ1dTdUQ5aVliOXJhX1lzODNyZ1p0Q0xfVUlubVlJTGV3ekJB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-18T01:11:33Z",
-      "summary": "多位全球顶尖AI企业的高管联合向世界领导人传递信息，警告人工智能技术快速发展可能带来的严峻挑战，包括大规模就业替代、伦理困境以及安全失控风险。他们呼吁各国加强监管协作，但整体基调并不乐观，暗示目前治理框架远不足以应对AI带来的系统性冲击。"
+      "summary": "最新报告指出，人工智能应用的爆发式增长正对企业网络容量构成严峻挑战。调查显示，高达73%的企业预计其现有网络基础设施将在2028年前达到承载极限。随着AI模型训练、推理及数据传输需求激增，企业亟需评估并升级网络架构，以应对即将到来的流量瓶颈和延迟问题。这一趋势凸显了提前规划网络扩容、部署更高效路由与安全策略的紧迫性，否则可能影响AI业务部署与运营效率。"
     }
   ]
 }
