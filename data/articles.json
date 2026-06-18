@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "id": "1339",
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-18T19:59:22Z",
+      "summary": "OpenAI在IPO前加速人才布局，一周内先后引入Transformer联合发明人Noam Shazeer（来自Google DeepMind）以及前特朗普政府AI政策官员Dean Ball。Shazeer是Transformer架构的核心贡献者，将极大增强OpenAI在基础模型研发上的技术实力；Ball则带来政策与监管经验，有助于公司应对IPO前后的合规挑战。此举表明OpenAI正从技术和政策双线蓄力，为公开上市做全面准备。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1340",
+      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-18T18:51:46Z",
+      "summary": "据Match集团调查，约47%的美国单身人士对AI在约会中的应用持负面态度，担心虚假信息或隐私问题。然而，许多用户愿意接受AI辅助优化个人简介和生成对话开场白，认为这类功能能提升匹配效率。调查反映了公众对AI的复杂情绪：既警惕其滥用，又期待其帮助改善社交体验。平台需在功能设计中兼顾实用性与用户信任。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1341",
+      "title": "Opinion: AI has a trust problem. Chicago can help solve it. - Crain's Chicago Business",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0pGeXEwVUNHdWJGeHVuUGpId1d5TEY4dUJ6aVhTZ0dhQlRxVV93WXRsQzFCdVkxUTFfS3lrNmJSSkZEUy1qUmQtdUIzM1dQd3lPNS01OEQyMFY1ZzFtVEVSNGdhdnFzZWFzX0NoLVZaaVVScEw3a3RmUng3a0JnMU1wMkhoWTVTYXNhOFJfQ0NsYmpobnEwQ0NaRkZIaEhsekdOV3NiTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T18:34:00Z",
+      "summary": "评论文章指出，当前AI面临严重的信任危机，民众对算法偏见、数据滥用和虚假内容感到担忧。芝加哥凭借其多元化的社区、强大的学术机构（如芝加哥大学）以及企业与政府合作的传统，有望成为AI伦理与治理的试验田。通过制定透明标准和社区参与机制，芝加哥可以示范如何建立负责任的AI生态系统，从而缓解公众疑虑。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1342",
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-18T18:22:13Z",
+      "summary": "亚马逊AWS正积极推进自研AI芯片的商业化，计划向其他数据中心销售Trainium和Inferentia等产品，直接挑战Nvidia在AI芯片市场的主导地位。CEO安迪·贾西称该市场机会高达500亿美元。此举将降低客户对单一供应商的依赖，并推动AI算力成本下降，但也面临生态兼容性和性能优化的挑战。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1343",
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-18T17:49:23Z",
+      "summary": "美国联邦能源监管委员会（FERC）发布指令，要求电网运营商为AI数据中心提供快速并网通道，以缓解算力需求激增带来的连接延迟。然而，该指令未解决电力供应短缺的根本问题，可能导致局部电网负荷过重，甚至影响居民用电。政策虽加速了数据中心接入，但需配合电力扩容规划才能可持续支撑AI发展。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1344",
+      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-18T17:16:30Z",
+      "summary": "智能手机时代导致注意力碎片化，用户难以抵抗算法驱动的信息流。Slowtech运动应运而生，提倡设计简化、减少干扰的技术产品，帮助用户夺回时间掌控权。例如专注计时器、极简手机等工具正在流行。创业者指出，人们愿意尝试任何能恢复生活自主性的方案，这为反潮流科技提供了市场空间。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1345",
+      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-18T16:55:04Z",
+      "summary": "《粉雄救兵》明星生活教练Karamo Brown推出健康应用Kē，核心功能是基于其自身一年半的健身、营养、冥想、戒酒及人际关系实践而产生的AI数字克隆。用户可通过与AI克隆互动获得个性化指导。Brown表示希望借助AI让健康建议更易获取，但同时也需面对数字人格的真实性和隐私保护问题。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1346",
+      "title": "ChapsVision says ethics panel can veto deals deemed risky - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEpJVmY1SGNkYW1ZTVdibTd6ekg0SWNUU18tOFFFUHd6N012aWVqOWFMWm9QdG0xbVh6SnJIZmJqNWV5YmxtMUlvamJhZEgyZlQzXzRTU2JWRHEzcEdyam9zOFBDa3RGY1NBMDhORTNaUVJkMTdSU2pqMWtJUFdMYW1UdVE5Sk94ZnYwU2RzamMyQWdjcHJqemhOakNhaDJRcy1GcTVhaFJnQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T15:56:23Z",
+      "summary": "法国AI公司ChapsVision宣布设立内部伦理委员会，该委员会有权否决任何被视为高风险或违背伦理的商业交易。此举旨在主动管理AI技术可能带来的偏见、隐私和滥用风险，增强客户与监管方的信任。ChapsVision强调，伦理审查应在交易初期介入，而非事后补救，这为AI行业治理提供了新范例。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1347",
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-18T15:20:37Z",
+      "summary": "具身智能初创公司General Intuition正洽谈新一轮融资，计划以约20亿美元估值筹集3亿美元。该公司利用来自千万月活用户的Medal数据集（每年20亿段视频）训练具身AI模型和世界模型，旨在通过海量真实交互数据推动机器人自主决策能力的突破。此轮融资若完成，将进一步加速其在具身智能领域的研发与商业化落地。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1348",
+      "title": "Sanders proposes tax on artificial intelligence stocks - WCAX",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ3U3LXg3bDFZVGJLYzRoWktBSGE3YnFZaXJEdVEydkhlUERKSThaenRfNkhjY0dQV0JSUWFweFpybVRfVmNmYWpUWTdUN1IyVnRicnJ2Uk9tYVpPOGhRRjl5MjUzenJ2Q2xBV2RwYndnbXRoOTdJVGkyUmhYZnNsZVpsR2dwLXoyRC1vMdIBoAFBVV95cUxOTUNDTFFuQnRtTlNDRzhRMGlybjFwTmhObGVZUHBkUjRQMFN4M2FKbzZXbWtDWjRacnJHc08yZDM5NVNlenBocmhYamdUdU90NzFCN2VQZ0hvbkNlMUZub2lzenhzaDhlakVEanNkUjIySko1cTZGbzA1NHNTM1JRMW1ZdG5lUGNuMHJXZG5uU2hxMm1KdlhzX3FHTEFtbkJi?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T15:17:00Z",
+      "summary": "美国参议员伯尼·桑德斯提出一项针对人工智能股票的征税提案，旨在对AI行业相关股票交易征收特别税。该提案的潜在目的是利用税收调节AI领域的过度投机，并将部分收益用于支持受AI技术冲击的劳工群体或公共福利。此举引发了科技界与金融市场的广泛讨论，反映了政策层面对AI产业加速扩张潜在风险的关注。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1349",
+      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-18T15:13:21Z",
+      "summary": "由科技从业者支持的政治行动委员会Guardrails发起了一场“以小博大”的募捐活动，计划以500万美元对抗大型科技公司投入的1亿美元政治游说资金。该组织定位为民粹主义政治运动，主要依靠AI行业一线从业者的小额捐款，旨在推动更公平的技术政策，减少大公司对AI治理的垄断影响，体现了基层科技工人对行业权力失衡的担忧。",
+      "fetchDate": "2026-06-18"
+    },
+    {
+      "id": "1350",
+      "title": "Embrace the New AI Trend: Global Ticket Sales for World Artificial Intelligence Conference (WAIC) 2026 Now Open! - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91YkxYa2Q2RmJmS0ZWR0xRU1Q1LVpqV2lDRU5UZzBTZFlOdmdGcGJFYk5xTGF0WndSOVd5cVJKaEFhX2ZqbFF5ZldzNDBRcEdRWXQ4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T14:52:10Z",
+      "summary": "2026年世界人工智能大会（WAIC）现已开放全球门票销售，标志着这一顶级AI行业盛会正式进入筹备阶段。WAIC作为全球人工智能领域的重要交流平台，将汇聚顶尖学者、企业领袖与创新成果，展示从大模型到具身智能等前沿趋势。门票开售预示大会将延续往届规模，为全球AI从业者提供合作与思想碰撞的机会。",
+      "fetchDate": "2026-06-18"
+    },
+    {
       "id": "1329",
       "title": "Artificial Intelligence company CEO says AI is having lasting impacts in the United States - WFAA",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWGlRUV9za0xWbGJHelNGMmFrdHhyVTR5alYxMm1YSkIzNXN6QjJlRVhmaTcydDlXYVNtMFVfSFBXYnkyd2t1c19tb0sybkZ2SEdQZGk5ZVM2ZWNEbndhVVAwX2lpekppT3hCeW56YjdEZ1I5eU5hZHhFa0czcGlrWHJpY2dGS2lSZWk4Q2dybDk3bVhfZzhZWmR5Yk5uR081dEpiWUxKbGZQeEgyWHh0anludXJGSklHaWMxMTJkSjktZm4tc0ZrZ3pRTk16U01XdGRkbmdmbWk1VEROdXRNOE5EbnhseFZrQ3QxUWoyQ1FhbFpxbDF6bnhDWWI1eEpl?oc=5",
@@ -12034,5 +12142,5 @@
       "fetchDate": "2026-06-14"
     }
   ],
-  "total": 1337
+  "total": 1349
 }
