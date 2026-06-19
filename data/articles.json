@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "1351",
+      "title": "AI coding agents may be getting bad instructions from ‘smelly’ config files - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTG8wdkJjcjIwZGcxSlBKcUVyaDhFZlZBWFBwbkNKWHN3a2pVeGVIMTFuWE5wT3FocnpPckJlR1l4VDNtMi0wb2NHQnM0VWxLaTZISmMtejBjRVN4MFRFZUtFT1kxZXV0a281UXBMMzcxQXJfMzNiamRVQ1hPVGlUd09CQVd3WGxjLUFRem5IY25wbmczS25XTnlXU0Q0ZkNTVjdrYmJrbkdkTzA2N3B0Y0Vmd1NNUWFFSjlwOQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T02:07:10Z",
+      "summary": "安全研究指出，AI编码代理可能因配置文件存在缺陷（即“有异味”）而接收错误指令，导致代码生成质量下降。此类“有味”配置文件常包含冗余、不一致或过时的设置，误导模型理解项目规范和依赖关系。开发团队需重视配置文件的规范化与定期审查，以确保AI编码工具能准确执行编程任务，避免产生潜在漏洞或逻辑错误。",
+      "fetchDate": "2026-06-19"
+    },
+    {
+      "id": "1352",
+      "title": "Ukraine is approaching the use of swarms of Ruta cruise missiles with combat AI – Defense Express - Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1ZVZnVSRTVrZUpzakFwMmpzUjFZVEhFc3NzVzhnNUtneFp6M3dtdXZHSXgybWpjdU9iUU9NbGtaT0VCd1hqVERRNDM3R1dYUkxjR2N0VUpQd2JvZHBpeDZGTFIxaGFaU2ZuaVlxSzZRUlllYTNpbnFjYl92UW9hNGZWS24xRkVnd2drX1RVNENVS1RhZk45VkhkNUtNUjE4dkQweF9BSUotNzBxZDdsWE1YWUVmbHkwRGfSAbgBQVVfeXFMTzZEemhicENmeDYwZTVvZ0tGUkR4MW05dnRoZzItaExQaWw1aDZNVUJMdWEyc3dIam9LMVloZUZyT25sS3MwTHNPTVV2U3dPcEh1WS0wQTFQcjBLTklzaUpGSE5qR2F4Mk9FcXpMU0JGSnI5dDJpeWFvS25RU0RQR19oTkZOWVdSak9RVFNYUjFsbjBJUW5LS2VFc2Z5WDBreXZ1TG9CVG5Qalp5NWg2T3lTaHY3akNqSw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T00:57:02Z",
+      "summary": "乌克兰国防工业正接近部署搭载战斗AI的Ruta巡航导弹蜂群系统。该技术允许多枚导弹通过AI协同算法自主规划攻击路径、识别目标和动态调整战术，以提升对高价值目标的饱和打击能力。AI的加入使导弹蜂群能应对电子干扰和防空系统，实现更高效的战场决策。这一进展标志着乌克兰在无人自主武器领域迈出关键一步。",
+      "fetchDate": "2026-06-19"
+    },
+    {
+      "id": "1353",
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-19T00:51:11Z",
+      "summary": "Elastic（Elasticsearch母公司）宣布以最高8500万美元收购AI初创公司DeductiveAI。DeductiveAI成立于三年前，主要利用人工智能自动检测并修复软件中的错误和漏洞。该技术通过分析代码库和运行时数据，提供可解释的修复建议。此次收购将增强Elastic在智能运维和代码质量保障领域的能力，为其打造更全面的开发工具链。",
+      "fetchDate": "2026-06-19"
+    },
+    {
+      "id": "1354",
+      "title": "UCLIX, a company specializing in artificial intelligence (AI) and data, announced on the 19th that i.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tUWZjYi1DdzBVVTU5NDVWRHpsMldsNnVNRERFdjVSNkJ2ak9Cckd3T0h4dTJfWnk2VVZ6YlV6cWJydVRId2gtWW1xdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T00:44:29Z",
+      "summary": "人工智能与数据专业公司UCLIX于19日宣布推出一项基于AI的智能数据解决方案。该方案结合机器学习算法与大规模数据处理能力，旨在帮助企业从复杂数据中提炼业务洞察并自动化决策流程。UCLIX表示，该应用已在金融、医疗等领域试运行，显著提升了数据处理效率和预测准确性。",
+      "fetchDate": "2026-06-19"
+    },
+    {
+      "id": "1355",
+      "title": "SpaceX IPO, Anthropic's AI Bets, and Roku - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGF6MV9nN1VjN3laNVhDNXVocmg3dW5oT0t5MTlnMFdtUTZSOVZXYUVqb0N5cW1vbk1ZSS1BaFFWeGYtTUU0MjM0MFZsRENpNU9SSmNBNFo0ZU1qb2tvZ3B3WFEyOFVlZUhHM1NSa1FlM3E0ZVlVQlJRbzhuaVJ0ajh5LUpMbG1tZHpFZ01GYll3S3NJZUtZczFscnM5eHRadFlJTg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T23:02:56Z",
+      "summary": "StartupHub.ai在一篇综合报道中分析了多项科技动态：SpaceX IPO传闻引发市场关注，其星链和星舰项目的高估值或推动上市进程；Anthropic持续加注AI安全研究，近期获得大额融资以开发更可控的AI模型；Roku则面临流媒体广告市场竞争加剧的挑战。这些动向折射出AI、航天和流媒体领域当前的投资热点与风险。",
+      "fetchDate": "2026-06-19"
+    },
+    {
+      "id": "1356",
+      "title": "Japan is considered to be far from the artificial intelligence (AI) startup craze. However, Lee Jin - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wRXAzdDlncVRIcHZhMnhlcVJ2RHBCdThNQnhTbzZsN05GbWlEODczVlBVMUkzblFGMzBQcGNFQkQxQWFIYl9pMVhTbC14ZkI5a0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-18T22:00:04Z",
+      "summary": "尽管日本在全球AI初创热潮中显得相对滞后，但韩国投资人Lee Jin指出，日本在机器人、半导体和硬科技等领域的深厚积累，为AI应用提供了独特土壤。他认为日本不应盲目追随硅谷模式，而应发挥其在制造、医疗和老龄化社会中的数据优势，通过“务实型AI”实现差异化突破。该观点引发对日本AI发展路径的重新思考。",
+      "fetchDate": "2026-06-19"
+    },
+    {
+      "id": "1357",
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-18T21:20:13Z",
+      "summary": "AI推理初创公司Baseten据传正在以130亿美元估值筹集15亿美元新一轮资金，距其上一轮巨额融资仅数月。Baseten专注于为大模型提供高性能推理基础设施，被誉为“推理黄金 rush”的代表企业。本轮融资凸显市场对AI推理服务的迫切需求，也预示着该赛道竞争将进一步白热化。",
+      "fetchDate": "2026-06-19"
+    },
+    {
       "id": "1339",
       "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
       "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
@@ -12142,5 +12205,5 @@
       "fetchDate": "2026-06-14"
     }
   ],
-  "total": 1349
+  "total": 1356
 }
