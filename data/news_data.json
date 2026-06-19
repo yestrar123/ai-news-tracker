@@ -1,76 +1,62 @@
 {
-  "updatedAt": "2026-06-19 14:40:42 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-06-19 19:24:24 UTC",
+  "totalArticles": 8,
   "articles": [
+    {
+      "title": "Smaller AI models likely powering India's escalating deepfake menace - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVm40WTREbVNiSWRXRkJURjhhaEFnNFB6QXF3NHFoTWs2X2lkUE1fUEI4Nno1X1hlYl9felZCOTdZdExmLTRvR1JuTEFSajNpT1hiMS1seks5MmlOQUs5WmdGc0FEZkpPVGFlZ3JEd3RqamZ6dFh6N2RkTnRNeE9xdmNHUXlxcTFQaUJyNnN1VEhMSEVOckJLQWNLWllIUnlGZTRqYlQxcnFCb2VqQ1lha3lhT2lXeTJoakhFOUV1SDNpR09ORndORVFPTXpxc25LU0ZNLW4xUVF1UlBDX1ZNbmhUQ1VTUUpCNmVwLWZn0gHzAUFVX3lxTE1kaEZ3UDQzcnV4S1lDbG9HcDBVZEJPQkJRRWdjM0RDN1dlSFV0dGFEV3BTbGdpek95U0hndGttam4wY2IxX3hROE9jTzBDX3lNNkVYMENxdHpQYndCcGdlTnhUZWlnTk94VVQ0eTAxT3A3LWxJcno5N1RxY24wSE1DWlgya1AxQ2lxTGJTdUY0UjgtdTR6VC01RFBNNEluV3JmNUxJZ2ZDX2NlRFpzSFh0cUxzREZjYUl4bXZTTEFaRm9UYWlMUkl6a2JaTGNyNXExM1NUS2p3VXJETWoyT3RiS1ZhbmdwZHdkaUdLalVNeXpEWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T18:39:09Z",
+      "summary": "印度深度伪造威胁日益严重，小型AI模型被认为是主要推手。这些模型参数规模较小，易于获取和部署，降低了技术滥用门槛。不法分子利用开源或低成本的小型模型生成逼真的虚假视频和音频，用于诈骗、造谣和身份伪造。相比大型模型，小型模型监管更难，计算资源需求低，传播范围更广。专家呼吁加强模型分发管控和检测技术研发，以遏制深度伪造在印度的泛滥趋势。"
+    },
+    {
+      "title": "US should take 50% stake in major AI firms, says Bernie Sanders - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXRoamtqMWNhU1F6emdtNmM2a2pQMndTd25taEpVV0Zqbnptb3dTb2pSNG1EVC1oU1FBZGZfODJZQXZ1THVCS0N5clVUclFIWS1WZEd4UHBpRkdDNlBYYkptR0Y4V2VQcEt3cE9pU283VU1tRTR0WkNFU0lWZm1TbEZIWkdNTmJVc1A1QXNuZGI3MEEwNmV1dnJrTTY0SWs4WWxUclF0b2JTWFhuMmtUS1V3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T16:32:25Z",
+      "summary": "美国参议员伯尼·桑德斯提出激进监管建议：政府应持有主要AI公司50%的股份。他认为AI技术具有巨大社会影响力，私人控制可能带来垄断和安全隐患。通过政府持股，可确保AI发展符合公共利益，包括防止滥用、保障就业和分配技术收益。该提议引发激烈讨论，支持者称可平衡创新与责任，反对者则担忧国有化风险和创新抑制。目前尚未形成立法动议。"
+    },
+    {
+      "title": "OpenAI gets the attention it needs from AI researcher Noam Shazeer - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMUN1Z01ueVB2WTR4d1NIV2ZHa21FVFpXUF9LVWdOLWhsaVVMbFRSemdCWGZSOVRXZnFIR1BzYlg4VnZqSDBlU05DdkVoNjY2QUdGTzVlUFFMSXc0dnRfTjl4LUVZWUl5aWVsMm82RFFXZTNKY3Q5WENWRmlGZHRxUU1VM21KMHktLXoyNjE5d1N0UmhELW9CVFBBTVROYzV5QjFkQmplNnVYU25Lblk4alZWdmJDdFk2?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T16:23:42Z",
+      "summary": "AI研究员Noam Shazeer正在获得OpenAI的高度关注。Shazeer是Transformer架构论文《Attention Is All You Need》的作者之一，曾在谷歌领导LaMDA等关键项目。他的专业领域包括注意力机制和大型语言模型。OpenAI希望借助他的技术洞察力推动新一代模型研发，特别是在安全对齐和推理能力方面。Shazeer的参与可能加速OpenAI在AGI领域的突破，但其具体角色尚未正式披露。"
+    },
+    {
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-19T16:08:17Z",
+      "summary": "美国政府强制Anthropic撤回新模型Fable 5和Mythos 5，理由是亚马逊研究人员发现可绕过Fable 5的安全护栏，构成国家安全风险。然而，网络安全研究者签署公开信批评该禁令“危险”，Anthropic也指出相同漏洞存在于其他模型中，独禁Anthropic有失公平。此举反而让Anthropic品牌更受关注，引发关于“禁令是否无意中为其做免费营销”的讨论。"
+    },
+    {
+      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-19T16:01:03Z",
+      "summary": "尽管美国政府以国家安全为由禁止Anthropic发布Fable 5模型，但市场数据和用户关注度并未受显著影响。Anthropic表示漏洞在其他模型中同样存在，禁令缺乏公正性。网络安全界对此反应两极：部分支持严格监管，部分认为过度反应损害AI创新。分析人士指出，禁令可能反而提升Anthropic的知名度，其品牌影响力在争议中不降反升。"
+    },
+    {
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-19T15:23:28Z",
+      "summary": "印度亿万富翁穆克什·安巴尼（信实集团）计划将AI深度整合到其电信服务中，覆盖超过5亿用户。目标是让AI融入每一次通话、每一个应用程序和每一个家庭场景，实现语音助手、智能客服和个性化推荐等全面智能化。安巴尼认为AI是印度数字基础设施的关键，信实正投资自研大模型和边缘AI技术，旨在打造全球最大的AI原生电信网络之一。"
+    },
+    {
+      "title": "Google, Microsoft offer specs to help you prove your AI is behaving nicely - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWjlCUDBzd2dOQzRWNzg1U2MtT2FMQTg2QVJGQS10MGZLWVB2bHRPU1dzd2VrZjFVbWNyUjdlMU5iUk5GNVJpNlBoS0lVWG1ja1B6bHU2RDl0Z0JlVHZwUmc3YXNSRm84VzFJWDQ0VnVxcDNCMzVnUjZNRUdCZi1lZXdKM0NVUDA5TTJMbVUweDVkenFHQThGWm5DLWdZR0Eya3dHMUYzVWh1Z0JFeV9CbWpPMFdiSWVSaGxPSVBkQXJmdllF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T14:55:50Z",
+      "summary": "谷歌和微软联合发布了一套技术规范，帮助企业和开发者证明其AI系统行为安全、合规。规范涵盖透明度、可解释性、鲁棒性测试和偏见评估等维度，提供标准化验证方法。两家公司希望通过统一标准降低监管不确定性，增强公众对AI的信任。此举被视为科技巨头主动迎合全球AI治理趋势，避免碎片化的各国法规影响产业创新。"
+    },
     {
       "title": "Elon Musk Sees SpaceX Hitting $1 Trillion in Revenue by 2030. It Could Be Beaten to That Mark by This Artificial Intelligence (AI) Stock - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHJtdFlSd0lfdjU1Z2oxdmdUUFhNVTBvdjFaX2dYWUpsX24xaE9nLUdTb29oZ3Q2Mjl0RFpBMHhlUzlkdkY3VjJJZU5INFhQektiNWxfZE1SOTd6MVdraWoyZ3liWFJfZmx1OE9Gb1B4OW1yT0RRLU9jTzg3NnRaNDlrNlhiTVlXRk9weGxLTGg0UHZQMlB1YQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-19T14:24:48Z",
-      "summary": "Elon Musk预测SpaceX将在2030年实现1万亿美元营收，但市场分析指出，某人工智能股票可能更早达到这一里程碑。马斯克对SpaceX的乐观预期基于其星链和星际飞船项目，而AI领域的高增长潜力使得相关龙头企业有望先于SpaceX突破万亿市值。投资者正关注AI赛道的长期回报。该对比凸显了AI产业正成为全球资本追逐的新焦点，其增长速度和规模可能超越传统航天领域。"
-    },
-    {
-      "title": "Artificial Intelligence Keynote Speakers: AI #1 Scott Steinberg - futuristsspeakers.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlR1X2pUMnhXaFZNbXRLdXhqem9KQl9zQURyZHR4bWQxLXFfRWYxRFVvbWVLaGFuZV9LYW9hWGdxZ25ZMmtocWc3RE5qSzdqbGRDMm5xeXNfbFVGZElHVHVtSHdDWGZUV1JkaTJQMldGemtUU3l3b2ZJUnNrSzRpNGJpcw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-19T13:17:06Z",
-      "summary": "著名未来学家、畅销书作者Scott Steinberg被列为AI主题演讲者的首选人物。他长期专注于人工智能趋势的前瞻性分析，擅长为企业解读AI技术如何影响商业战略、创新管理以及行业变革。Steinberg的演讲内容涵盖机器学习、自动化决策和AI伦理等热点议题，帮助组织把握技术浪潮，制定前瞻性规划。他在全球科技大会上的影响力使其成为AI领域最具代表性的思想领袖之一。"
-    },
-    {
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
-      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-19T13:00:00Z",
-      "summary": "鞋履品牌Allbirds新成立的AI业务由一位仅有的CEO领导，目前没有其他员工。该公司已获得大规模种子轮融资，但未来发展路径尚不明朗。Allbirds试图通过AI技术推动可持续材料和供应链创新，但仅凭创始人一人运营且缺乏团队支持，能否将计划落地存有疑问。这一举动反映了传统消费品牌对AI转型的急迫性，但资源和人力的严重不足可能成为其AI业务成功的关键挑战。"
-    },
-    {
-      "title": "\"Reliance Intelligence is building trusted, affordable, multilingual AI services designed to be accessible in 22 Indian languages,\" Akash Ambani said at Reliance Industries' AGM. Ambani said these services will be powered by Reliance's sovereign, green and s - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOG8xZVJoRWhZUTBDNFJqU0d3NDIyelE4V2xyRGVoVkNEOGIyNk5NMF9kbGxVWWhvWFlnRnRVRGViOU5DN1RucEZCMWxjRjNEbmZrUXdHOFpUNmVVWDhab3ZlSVB4M1ZXNE8ycmxoMTFodVJ2eks1UXdFV0lnSW50SHdXVVdBN1dvUl92ZGwzYS1IQkZzeHhSX3lCR1dTTWlUaktIWmUwclN6cGhQMHJn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-19T12:49:27Z",
-      "summary": "Reliance Industries在股东大会上宣布推出Reliance Intelligence，致力于构建可信、平价的多语言AI服务平台，覆盖22种印度本地语言。Akash Ambani表示，该服务将由公司主权掌控的绿色可持续计算能力驱动，旨在降低AI使用门槛，促进印度各地区的数字化转型。此举体现了Reliance在AI领域的战略布局，重点解决语言多样性和成本问题，为大规模普及奠定了基础。"
-    },
-    {
-      "title": "Red Lobster CEO Damola Adamolekun aims to make chain ‘most AI-forward restaurant company’ - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwLVBUMVNyUFFXekk0MllTSTFUZUFlbTFlcjNJal9ya3Z4UTlZNXg2eTJyelhRTFBNdVFLdzQtZlZHemNCaTZlWkhjX0JLN2U1V2YwU1dRdWE1OV96MmlPdFpMSFAza08tVExJck9jb3dNS25OY1ItYnZYaHN0T2c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-19T12:21:16Z",
-      "summary": "Red Lobster新任CEO Damola Adamolekun提出将公司打造为‘最AI向前’的餐饮企业。计划通过人工智能优化前厅服务、后厨流程和供应链管理，提升顾客体验和运营效率。他希望通过AI技术实现个性化推荐、智能点单和库存预测，从而在竞争激烈的餐饮市场中脱颖而出。这一战略标志着传统连锁餐厅正积极拥抱AI，以数据驱动的方式重塑业务模式。"
-    },
-    {
-      "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments - AI News",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcVBMb0VVUll6X0ltNGR3d3JNTlNqQ3hYSDg1VHA1SVRibjVkNUtlODhmWEZRanBqMVlFZFNBM2VEdVJNemVqcko4a0pEbWtSdE9CUFNqcU5rbGlRUmROekdsMkNzdnROM3g5VXlEWlV6XzBfNHlDQVNVcFVrWm9CNXZMTzBJOEVjUEQzdlNLV0t0b2ZmVmQ1V2hqbVEzSVVHRHZ0STdSVjFfTUtWamtja2c4ZFN2OHd4c0tUYXZqRW5KdGlkRE1XOWxwMmRNajZmSld4eG9ETU9lUkk2UXN4OE9tYWI5Zlp3cFhlNGJKbDBra1FkQlZIX2ZJbGE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-19T10:00:54Z",
-      "summary": "网络安全公司e2e-assure推出Cumulo平台，这是英国首个主权级、AI驱动的零日安全运营中心（SOC）。该平台专为保护IT和OT环境而设计，利用人工智能实时检测并响应未知威胁，且数据完全在英国本土处理，满足主权合规要求。Cumulo的发布填补了英国在零日攻击防御领域的安全空白，为关键基础设施提供了自主可控的智能防护方案。"
-    },
-    {
-      "title": "Reliance unveils AI-first strategy at AGM 2026; Mukesh Ambani says India must become a global leader - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb0JsRWxrdUtPU2JHWC10dU5sNTNaSk42VnJvWlBKMVNNWEZXS1hOdmFBWHFSM2QzdTBwc0xkZHljb3NzZS0yUlA5VVRLOEd6RWV2YUl1anl2a2JwekFjOF8yTVk1WDVGMWxsRDBxeXBGRTBkbFRPWkJJLVJTR2JPay1tQVNYUUExenZMODJ0TlVScGxFTDhxbTRSbjZRQ3ZZR3RaTHE5ZzdFTF9SbFBUT3paRl9oNGJkZnZ4aTBPa3pwZ09CSURKdThhVDFYay1M0gHXAUFVX3lxTE9Ld1F3ZloxWmthaEFmd05DelhKNWJRZWVXZ0lXclptS2RqblUxaTNZcm1sU0NSMzFvRUMzcmJtUjl3NlU2ZFppcU1uNk42ejFtUjZEN3pIVFRKQzFFM2tWYkNiR1BpTEF5THphcnFrQURmbm45dVh6NFhZOTJEbjE0NHVvZEV6cGRiaHgtZGlVcDlJLTA5ZktMcmZ0TnNXUXZzTTVEV09ueG5sbE91eHBIbzZXOHpMVTVGdnhQODNlYjdfX25tU0JFVVhzQzVYQjBUUnZuX2hj?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-19T09:55:54Z",
-      "summary": "Reliance Industries在2026年股东大会上正式发布AI优先战略，董事长Mukesh Ambani强调印度必须抓住机遇成为全球AI领导者。集团计划在云计算、数据中心和人工智能应用领域大规模投资，构建自主生态。Ambani认为AI将彻底改变医疗、教育、农业等核心产业，印度应利用人口红利和技术创新实现跨越式发展。这一战略标志着印度最大商业集团全面转向以AI为核心的新增长引擎。"
-    },
-    {
-      "title": "AI-generated ads should be exempt from EU transparency rules, retail association says - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlhCNU1jeXc3U2R4VTJ5c3JjOWVIdHQwdnlaWG9pQTRUcUxjQkhuV1dYVzFmNWxBaFhWdDVnU0pKTVpBdFNneFJJbXpvcW5jR1FoUWU1aWhtUlAzTWUxaVJwcXAwWkNMeHVSYXpSVVRObVMtUGVMdEJacTRJS3FVYVA3N3pudHZvZ0xZWXlzSWNoRWdsM3hlNGQxS3AzaVdFN2hsUTB5MGJkQXpWZENzcXVPdjVUM0dXMUtWZXNwdm1BVi14eF9BQmcyWVY1c2xsMEE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-19T09:09:49Z",
-      "summary": "欧洲零售协会呼吁欧盟应豁免人工智能生成广告的透明度规则。该协会认为，现行法规要求广告必须标注‘AI生成’可能抑制创意表达和商业创新，增加中小企业合规成本。他们主张AI广告与传统广告应适用同一标准，除非内容涉及敏感领域。这一提案反映了产业界对AI内容监管的不同声音，未来欧盟数字政策可能在促进创新与保护消费者之间寻求平衡。"
-    },
-    {
-      "title": "AMD vs. NVDA: Which Artificial Intelligence (AI) Semiconductor Stock Dominates the Next Phase of CPUs, GPUs, and Robotics? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclBVSElJZjBXOUNZM3hNUk4xNHRiUk9SM1NhWDlKZEtiUThHWENyTkJaTUFEelduY1RodWVtRFNMTHltdTVnUVh0NEpmTG15cUdROWpadnp1VzRZM1hZblZIT2ZpYkpNcWlOd0c5S2ZBLTB1VTFmR0hIQ3NuRXVZVGFhcUpZYWNtZjJ5bGw3SUxocFA0cHZNcg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-19T09:02:00Z",
-      "summary": "市场分析对比AMD与NVIDIA在人工智能半导体领域的竞争态势。NVIDIA凭借强大的GPU生态和CUDA软件栈在AI训练和推理市场占据主导，而AMD则通过CPU与GPU整合能力以及开放策略在机器人、边缘计算等新领域发力。双方在下一代CPU性能、GPU算力及机器人专用芯片上的争夺将决定未来AI硬件格局。投资者密切关注两家公司谁能在AI浪潮中实现长期领先。"
-    },
-    {
-      "title": "\"Artificial intelligence (AI) for India means 'All Inclusive'.\" Indian Prime Minister Narendra Modi - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QSVdOMlNtSXJpSy0yMzJJYVRiSGhFalZDMWh6a241Y2pnWHhmVEJjcGJOT2FQeDhIYktSQ184cE8yR1dSTFRlT09zSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-19T08:40:28Z",
-      "summary": "印度总理莫迪在公开场合阐释‘AI for India’的内涵，表示‘AI’对印度而言意味着‘All Inclusive’（包容一切）。他强调人工智能应服务于社会各个层面，包括农村地区和弱势群体，缩小数字鸿沟。莫迪认为AI技术必须以人为本，推动包容性增长，赋能教育、医疗和农业。这一表述凸显印度政府将AI作为普惠工具的战略方向，而非单纯的效率工具。"
+      "publishedAt": "2026-06-19T14:49:00Z",
+      "summary": "埃隆·马斯克预测SpaceX营收将在2030年达到1万亿美元，但华尔街分析指出，某只AI股票可能比SpaceX更早触及这一里程碑。该AI公司凭借大语言模型和云计算业务的爆发式增长，营收增速远超预期。马斯克虽对SpaceX的星链和星舰项目充满信心，但AI行业因应用落地快、资本密集度高而更具短期财务爆发力。最终谁能率先突破万亿营收，取决于技术商业化和市场扩张速度。"
     }
   ]
 }
