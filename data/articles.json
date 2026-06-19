@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "1362",
+      "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments - AI News",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcVBMb0VVUll6X0ltNGR3d3JNTlNqQ3hYSDg1VHA1SVRibjVkNUtlODhmWEZRanBqMVlFZFNBM2VEdVJNemVqcko4a0pEbWtSdE9CUFNqcU5rbGlRUmROekdsMkNzdnROM3g5VXlEWlV6XzBfNHlDQVNVcFVrWm9CNXZMTzBJOEVjUEQzdlNLV0t0b2ZmVmQ1V2hqbVEzSVVHRHZ0STdSVjFfTUtWamtja2c4ZFN2OHd4c0tUYXZqRW5KdGlkRE1XOWxwMmRNajZmSld4eG9ETU9lUkk2UXN4OE9tYWI5Zlp3cFhlNGJKbDBra1FkQlZIX2ZJbGE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T10:00:54Z",
+      "summary": "英国网络安全公司e2e-assure推出Cumulo平台，号称英国唯一的主权化、AI驱动、零日安全运营中心（SOC）平台，专为IT和OT环境提供安全防护。该平台利用人工智能技术实时检测和响应零日威胁，确保数据主权留在英国境内，满足政府和企业对敏感信息合规性的需求。Cumulo的推出标志着英国在自主可控的网络安全领域迈出关键一步。其核心亮点在于结合AI的主动防御能力与对工业控制系统（OT）的深度支持，填补了市场空白。",
+      "fetchDate": "2026-06-19"
+    },
+    {
+      "id": "1363",
+      "title": "AMD vs. NVDA: Which artificial intelligence (AI) semiconductor stock dominates the next phase of CPUs, GPUs, and robotics? - MSN",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQYmh4QnY4MWI1VFV2ckNabFg1WllkWEJDTDFGa2RYdDFZa3JTUTBmODJNaWZTQ2IyX0ZoZXpjdFd5bVM5T1JQRWo1d1FLVEkweUNKWWIzQ3luSTlVZEZFRkNVaWhHeDFKREVhdU4tRUJHRHNXZER2Sk01YUVvdVBiTS10eC03QncwSDF5TGhINnpDYWd5Zm5BRmtyWnoyXzRoTGpjQ09KbzVtTzI5MHVSTVVWMTZjbmtRTEhoQ2hCZnF3Z01vNmZES3RFNzZDNlEzSTFIX2ZHRWZlcVY0NVFmdDNyOTNtVGh2ZmRWekV3dmNETUhLRy0xeWVMQWdYVDNZbVo4cUN5VHdPczBPdERCV09tZDZJTnloU29nM2FBdGI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T09:02:00Z",
+      "summary": "AMD与英伟达（NVDA）在AI半导体领域的竞争聚焦于CPU、GPU和机器人技术的下一阶段发展。AMD凭借其高性能CPU和Instinct GPU系列，在数据中心和AI推理市场占据一席之地；而英伟达则凭借CUDA生态和强大的GPU算力主导AI训练市场，并积极布局机器人硬件。分析认为，两家公司在不同细分领域各有优势，英伟达在训练端领先，AMD则在推理和通用计算领域追赶。未来胜负取决于技术迭代速度、生态建设及客户采纳情况。",
+      "fetchDate": "2026-06-19"
+    },
+    {
+      "id": "1364",
+      "title": "\"Artificial intelligence (AI) for India means 'All Inclusive'.\" Indian Prime Minister Narendra Modi - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QSVdOMlNtSXJpSy0yMzJJYVRiSGhFalZDMWh6a241Y2pnWHhmVEJjcGJOT2FQeDhIYktSQ184cE8yR1dSTFRlT09zSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T08:40:28Z",
+      "summary": "印度总理莫迪在公开场合强调，人工智能对印度意味着‘全包容’（All Inclusive）。他提出AI技术应服务于社会各阶层，推动数字鸿沟的弥合，并确保印度在AI发展中不落下任何群体。莫迪的讲话反映了印度政府将AI视为促进经济增长和社会公平的工具，注重在医疗、教育、农业等领域的普惠应用，同时加强本土AI基础设施建设，以在全球AI治理中发挥领导作用。",
+      "fetchDate": "2026-06-19"
+    },
+    {
+      "id": "1365",
+      "title": "AMD vs. NVDA: Which Artificial Intelligence (AI) Semiconductor Stock Dominates the Next Phase of CPUs, GPUs, and Robotics? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclBVSElJZjBXOUNZM3hNUk4xNHRiUk9SM1NhWDlKZEtiUThHWENyTkJaTUFEelduY1RodWVtRFNMTHltdTVnUVh0NEpmTG15cUdROWpadnp1VzRZM1hZblZIT2ZpYkpNcWlOd0c5S2ZBLTB1VTFmR0hIQ3NuRXVZVGFhcUpZYWNtZjJ5bGw3SUxocFA0cHZNcg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T08:31:06Z",
+      "summary": "The Motley Fool发表分析文章，对比AMD与英伟达（NVDA）在AI半导体领域的竞争力。文章指出，英伟达凭借其强大的GPU生态和CUDA平台，在AI训练和推理市场占据主导地位；AMD则通过收购赛灵思和推出MI系列加速器，在CPU和GPU融合计算方面寻求突破。双方在机器人、自动驾驶等新兴领域的布局也各有侧重。投资者需关注两家公司在制程工艺、产品路线图及云客户订单方面的进展，以判断长期投资价值。",
+      "fetchDate": "2026-06-19"
+    },
+    {
+      "id": "1366",
+      "title": "AMD vs. NVDA: Which Artificial Intelligence (AI) Semiconductor Stock Dominates the Next Phase of CPUs, GPUs, and Robotics? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU2RleWFVT2RORVJ6TFBHQm1mWW5VcGlSSFlZRU4tY3FuMW5kUjVqeVdkTGRVMTlJZDVjLWZMcm9qenRZUXd6LUNqdEhLT3RfcnlCdGN2WUNrYW5Ia2JUV3NUdkpwS2hhNmJXYWNnaktsVW5yMWNJWWZFX014Y2FKTEFoVXZtM0c3eEYyaTRNanJ4TmpyWkpDTWhGUlpHSU1udVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-19T08:22:00Z",
+      "summary": "Yahoo Finance报道了AMD与英伟达（NVDA）在AI半导体领域的竞争态势。文章指出，英伟达在AI训练芯片市场拥有绝对优势，其H100和B100 GPU需求旺盛；AMD则凭借EPYC CPU和Instinct GPU的组合，在推理和边缘计算场景获得增长。两家公司均积极布局机器人市场，英伟达推出Jetson平台，AMD则通过自适应计算方案发力。尽管英伟达市值领先，但AMD的追赶速度和性价比策略不容小觑。",
+      "fetchDate": "2026-06-19"
+    },
+    {
+      "id": "1367",
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-19T07:59:12Z",
+      "summary": "美国方面声称荷兰光刻机巨头ASML最先进的极紫外（EUV）光刻设备可能已被中国客户获取，引发出口管制担忧。但ASML坚决否认，表示严格遵守出口许可证规定，并无证据显示其顶级设备流入中国。分析认为，ASML面临商业逻辑与地缘政治的双重压力：一方面，中国市场对其营收重要；另一方面，冒险违规将导致失去全球其他关键市场。此事凸显半导体设备出口管制中的信息不对称与信任危机。",
+      "fetchDate": "2026-06-19"
+    },
+    {
       "id": "1358",
       "title": "India's RMZ to ramp up data center capacity with $35 billion push, exec says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3VPd1JWMkdSQkM2c1hrcWFSS1V2MDdYaWpFVVFJaDQwUG9MUVkzYUZka1ppRU9FMzU0Z09lVjA4cHpyanpMNmtTX1RiSXF3NHR1LWxuODdHUUxaX0NENkRITG5VTFJXUlR5M29PRU53dmJzdk1tZVdJSjN3ZUtPenliWVNwS3pSb0tQNnRBOG1fMlNPTDVKUVAzUW5oVVcxNngtRnpMa2tGR25IMnpCOE9KelBsWjlrNlE?oc=5",
@@ -12241,5 +12295,5 @@
       "fetchDate": "2026-06-14"
     }
   ],
-  "total": 1360
+  "total": 1366
 }
