@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "1431",
+      "title": "How AI created an HOA controversy in Ahwatukee - AZ Family",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGFNSFA5djFRSG5EZzVwNFh6QWZFMjhZNjVtSV9NLWRGbmRDdzJQYUdPUldFcXprVDMwS25IemRWRlVvLXNwbXNoMGVNUXluVk9nb0xsUy1yeThJVDBOYkd0eDdvZDlFZlEzVGtGdTRET1FQOEo1LXNQUlIzam1qcU9CSTJXczDSAZsBQVVfeXFMTlA4SklfNkt2MHpoVnlaVWgyZ2oyMVlYbGcyWGxLUHBCTE5tUmpvMUpEdEFBSGYybkpseUl0SDRlYm44UEdXVGctU3AtUVdnTk5vNzkxM01ZOG5hczVzblFCLXk3cVFaQTI5ZUVEaHJtTHFBTGppN2lYc1J0eTV0T1ZaZVJaYWx4MU03Rl9NblMxVlJCYXlJOW91TlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-20T04:53:00Z",
+      "summary": "亚利桑那州Ahwatukee社区因AI技术引发了业主协会（HOA）争议。AI系统在处理社区管理事务时出现错误，如误判违规行为或生成不准确的报告，导致居民与HOA之间矛盾激化。这一事件凸显了AI在社区治理中应用的风险，包括数据偏差、算法透明度不足以及缺乏人性化判断力。居民对AI决策的质疑促使HOA重新评估技术使用边界，强调人工监督的必要性。该案例为智能社区管理敲响警钟，需平衡技术效率与公平公正。",
+      "fetchDate": "2026-06-20"
+    },
+    {
       "id": "1382",
       "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
       "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
@@ -12862,5 +12871,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1429
+  "total": 1430
 }
