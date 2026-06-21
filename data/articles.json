@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "1464",
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-21T15:28:17Z",
+      "summary": "TechCrunch的《Equity》播客讨论了特朗普政府对AI公司Anthropic的最新打压行动及其动机。报道分析此举可能源于政治分歧或对AI安全监管的加强，并探讨了谁会从中受益——竞争对手、其他AI企业还是监管机构自身。这一事件对AI生态系统的影响值得关注，可能改变行业竞争格局和监管方向。",
+      "fetchDate": "2026-06-21"
+    },
+    {
+      "id": "1465",
+      "title": "SZA Blasts AI Music, Says Models Trained On 238 Of Her Songs - TheGrio",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTNVd1VJQ1REZy1vVDlzMXFiS25nSXdRWGpiZHRvQ3FsbmprZE1Sa290UHFZZVVkQnlrZWpENFZxMkhGSHNLQWtyVVh1dUYwTmI1V0RnV240Q2ZkU0pjb3psdlVEV3JyVEEtYnc0d2FvTDZGNmVkSUlyTDlmWTM5WkFVOGUyeE9H?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-21T15:26:27Z",
+      "summary": "美国歌手SZA公开批评AI音乐，指出有AI模型未经授权使用了她238首歌曲进行训练。她认为这种行为侵犯了艺术家的版权和创作权益，并呼吁行业加强监管。SZA的抨击反映了音乐界对AI生成内容日益增长的担忧，即AI可能在不补偿原创者的情况下复制其风格，损害艺术家的经济收益和艺术独特性。",
+      "fetchDate": "2026-06-21"
+    },
+    {
+      "id": "1466",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-21T14:40:28Z",
+      "summary": "TechCrunch报道，苹果在iOS 27中不仅对Siri进行了AI升级，还引入了多项实用的AI功能。这些功能分散在系统各处，例如更智能的照片编辑、自动生成的邮件回复建议、实时语音转录、基于上下文的快捷操作等。它们旨在提升用户日常操作的效率，而Siri的改进只是冰山一角，AI正悄然渗透到iPhone的各个角落。",
+      "fetchDate": "2026-06-21"
+    },
+    {
+      "id": "1467",
+      "title": "Robots Begging on Chinese Streets Spark Debate on AI's Role - Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ENmREakNvTjF4SlcyS2hSZUdET3hpT1JhWE9ybFBzNnY5RzVJMmptTlUwOEVEZXJRUldScnBVZTFTR01kYkpTQVBsRXkzaEQtOE90UjR3alFMWHVzeGZJN1daN2FxYzljZjZHLTJWSWFGTmhUX0tJQlFOTng?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-21T13:58:26Z",
+      "summary": "中国街头出现机器人乞讨现象，引发社会对AI角色与伦理的广泛讨论。这些机器人被设置成模仿流浪者或残疾人的姿态，向路人索要钱财。批评者认为这是对弱势群体的不尊重，并利用人们的同情心牟利；支持者则视之为技术创新的另类应用。事件凸显了AI应用需建立明确的伦理边界和法律法规。",
+      "fetchDate": "2026-06-21"
+    },
+    {
+      "id": "1468",
+      "title": "Artificial Intelligence and Machine Learning-Based Triage Systems in Emergency Departments: A Systematic Review of Predictive Performance and Clinical Outcomes - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQbndhMUcxV204VFNNMk1uSkxaYVhqazNEVW5USFluRHNHVkpiV1BuUjJIc1g3Y2dlSERKY1gtUmNRXzZEU3pWNlIzeUYzcTFSQmpHNVBWazNWSURaQnBJVWJqY1V3X180cEZ0am05cWlabjYxeFQ2eFhmYXhBUE9pdEtxcW1sOVZycjAxTHE4Yk13RmFBN2Z0TVRfdDBocTNUTTd3QmFhY09faDQyeG9ZVmt3ZThWTEtaZGlmX2s1cElvbVh5cGtHa2tqaEdONHYwRkZxQ2tUOEhmZTI3Y1E2QzdjTUJ5LWszWFlpQS1iV01nS0oxUEliRDRtMml0T0lXeVRPdUx1MXRrUTlYYUlwTUtJLWxqSS13bVk4azNkRnhlUXM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-21T13:41:42Z",
+      "summary": "《Cureus》发表系统综述，评估基于人工智能和机器学习的分诊系统在急诊科中的预测性能与临床结果。研究分析了多项研究数据，发现AI辅助分诊能提高病情严重程度判断的准确性，缩短等待时间，并优化资源分配。但同时也面临数据偏差、可解释性不足等挑战。综述指出，AI分诊系统有望成为急诊科的重要辅助工具，但需进一步临床验证和标准化。",
+      "fetchDate": "2026-06-21"
+    },
+    {
       "id": "1460",
       "title": "Artificial Intelligence and Machine Learning-Based Triage Systems in Emergency Departments: A Systematic Review of Predictive Performance and Clinical Outcomes - Cureus",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNUFpKaDA2VUt0UW0zSkgwYUFPRUMwNmVRbjFwbVpfUXFlbWxsTHFBaVJxdGxxZ3FWS2ViRjV1NkpFdnBHVlpmZFpQa3R1NTh3T0lQMVZyY3pNazBuU3I2ZDR5X0ZVVkVSeG1aZjdOS0lzaHlBa24zemNVRVB1T0w0MkZqXzZ2cS1TejNiR2tBT09fbkUwR0FaSXNRd0U4S2tZRmlTUERmNmtIT1RuQlhnRzN0NUlsNEx0S3I5MV8wTHhPaFdBX3dwZDdyZmVIanh5T1RLUGhDWElmZlRHamVmeGlSNUJndWNnTFhlcmVxOE9wWE1xRGRYcVdJWjFsU3Bzc0dsNzFWOGZXSHo1QUZ3aF9mdnlZZjZ0QjVxU0ZxMXA0ZFZaTzRCT3Rka25Kc3dxWGhXbkI5dlgwQnlK?oc=5",
@@ -13159,5 +13204,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1462
+  "total": 1467
 }
