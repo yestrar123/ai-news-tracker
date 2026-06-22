@@ -1,76 +1,167 @@
 {
-  "updatedAt": "2026-06-22 11:32:44 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-06-22 16:26:25 UTC",
+  "totalArticles": 23,
   "articles": [
+    {
+      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models - AI News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeUkzb1BrN3BCU2RmV0dzYUw5eFV2Q0VEQnpVVTBudGpVNUFWbXRUcEIwUDRaOWM0ZnZYRklET2pMYlBWSklwRU94V0NWSy1ZRTdxSFRxZ2FWeEZ3dWtRU3k2UkVacTlTSm9GZl9OQ1k3OUZMV3kyNkExNURsWFBtdlJGLWxYTXZ5c1pjSmg3WkpwU2ROZVhNVFVFMWNEUER2bWlJSEFXVUFJU1hrRGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T16:12:15Z",
+      "summary": "Sakana AI 推出的 Fugu 多智能体模型旨在帮助企业缓解供应商锁定问题。该模型通过协调多个专业AI代理协同工作，而非依赖单一AI供应商，从而降低对特定云服务或API的依赖。Fugu模型的核心技术创新在于其灵活的架构设计，允许企业根据需求选择和替换底层AI组件，实现模块化部署。这为企业提供了一种更开放、可控的AI集成方案，有助于在快速演变的AI市场中保持技术自主性和成本效益。"
+    },
+    {
+      "title": "When AI Writes the Scam: How Artificial Intelligence Is Making DNS Abuse Harder to Detect - CircleID",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWI4TE1ua2JzQnhSV0dIQ0x6SklDUDFESDBScG1DdEx3ZldCZmE5QkZ4SUxXa3hNQURxNGZCcEItenNkcUpVc1ZrSTBRc1k4UVppZWlhbEVnZFNETFV3V1oydEVuT2g3V2lGYW9GZlpURVRxUC1oZmJueXEzcHZrMXJQcTNna1Z5R04xb2VxTzZaWjI0aGJLQXdmSVNGdURpMDRfSjVYUmVPS1hYbUxETVNwcWpGQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T15:52:51Z",
+      "summary": "随着人工智能技术被恶意利用，生成式AI正在帮助攻击者编写更逼真的诈骗内容，使得DNS滥用检测变得更加困难。传统基于规则和签名的安全检测方法难以应对AI生成的动态、个性化诈骗文本。该问题凸显了网络安全领域面临的挑战：需要开发能够识别AI生成内容的新型检测技术，例如行为分析、异常流量检测以及基于LLM的对抗系统。文章呼吁行业加快防御性AI研究，以应对日益复杂的网络威胁。"
+    },
+    {
+      "title": "3 Cheap Artificial Intelligence Stocks to Buy Right Now - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUjdZTE5YakZKQW5WYnEzZk5tUENjMUNGcWpVRGlObGFzVXp2QzRkV2dIMVBtaU5ieTRBWFRYYlJOVy1DV2pFNklLbzNacEFqalVSVVJKV2luQjlqOFF4VE1SUDQ1TjNPakJFSlBqeWRwaUh2OEVWTmVzUUp4VGF3QjlXNzRVMWlCd09GTnZhVWprRV9DWkRlNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T15:47:22Z",
+      "summary": "The Motley Fool 推荐了三只当前价格被低估的人工智能股票，认为它们是投资者布局AI赛道的好机会。文章指出，虽然AI领域整体估值较高，但仍存在一些基本面扎实、拥有独特技术或市场定位的公司，其股票价格相对合理。推荐的股票可能涉及云计算、数据分析或AI芯片等细分领域。投资者应关注这些公司的营收增长、研发投入以及AI产品商业化进展，从而在长期获得回报。"
+    },
+    {
+      "title": "Artificial intelligence firms are feasting on Manhattan office space - Gothamist",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGRPZ0g1ZjNTRE53eHNnX3Q3azI1T1RRV3puTU5YQVV0dkxTT3BIVUVaeUVVSHRNMmliMXNaeC1pU3h1ZGNUeHkyTnJBdEhpeDU3dVNGeWR0Z2NRZzg5Y2JmbkZFVDdKT3VMT3RuRnRoS0FzRUlrLXFGeEtxLUJZR1lzYlNpVTNpcGdEdW1tbF9CcjU5RTVUTkVQaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T15:14:00Z",
+      "summary": "人工智能公司正大举租赁曼哈顿的办公空间，推动当地商业地产市场复苏。数据显示，AI企业占据了纽约市中心大量甲级写字楼，尤其是联合广场、熨斗区等科技企业聚集地段。这些公司通常需要开放式办公区、高性能计算基础设施以及吸引人才的优越地段。这一趋势反映了AI行业对实体办公空间的持续需求，与部分科技公司收缩办公面积的策略形成对比，同时也为曼哈顿办公楼租赁市场注入了新活力。"
+    },
+    {
+      "title": "AI May Push Wealth Managers to Focus on Ultra Rich - Wealth Management",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMGFES0d5TlFNeTNKN0xBcjVVQTl6V0Yxa2oxMmJHTnFPTU5TQ3BocVhBYmVWeWl3TTlWMUJheUtQa0dORC04UVcwYzIxbEhXcG02ZTQ0V0VEZHpHZm53WThzWHUtTHZwRk9GbzFGaXVaWVFYVmtFaVlpd1k2a0lOdmtWd3dpYnl5R05yWHdqMXZWUkFhLWdWaUpjcnZwVlZoY00xMjlGTnNpdmhBLXBINi1jWGR4ME1VRmtSSUR1MHJlYWZoazYyUEptelY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T15:06:21Z",
+      "summary": "人工智能可能推动财富管理机构将服务重心进一步向超高净值客户倾斜。AI技术能够自动化处理大量标准化财富管理任务，从而降低服务常规客户的成本，但同时也会促使机构将节省的人力资源转向更复杂、高附加值的私人银行服务。对于超高净值客户，AI可以提供更精准的资产配置、风险管理和个性化建议，而普通客户可能面临服务资源缩减的风险。这一变化将加剧财富管理行业的分化。"
+    },
+    {
+      "title": "[Great Britain Webinar] The new search journey: How AI is changing online discovery - YouGov",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHVCWWtfLVJ1ZEtyRmV5X0p1c2Z1RXRDRlFzSUo4OENwTVBxZVkwUU9JX3JXYjRQNFRJU3l0TlV1QWprd2NTbHpKNk9GZXJvT0IwVlhoemxqMGpwRWZsN3k1cjg5WjBPRFpVVDhOVVhrckhNRU15c2tKMlNWeWdCampEb184NEk1bmt2bnk4Ym10clI4cF9HOEs5VEZDTE9BblNMQ2F1OHg3Nklvanc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T15:01:59Z",
+      "summary": "YouGov 即将举办一场关于AI如何改变在线发现和搜索旅程的网络研讨会（面向英国地区）。会议将探讨生成式AI、对话式搜索以及个性化推荐等新兴技术对用户搜索行为的影响，并分析品牌和营销人员应如何调整策略以适应这一变革。主要议题包括：AI驱动的搜索结果摘要如何改变用户点击习惯、语音搜索的崛起、以及AI在购物决策中的角色。该研讨会旨在帮助企业把握AI搜索带来的机遇。"
+    },
+    {
+      "title": "Got $1,000? Why Broadcom's Guidance Created the Ultimate Artificial Intelligence (AI) Buying Opportunity. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2tCY1lNWXQ0ZjluTDlJY0FvbFJrRXR4ZnRMVXlYeUVnMUdzUWRIZnlWaEkzMW04VXJ2TDcwaERhNVl2ZzlEQUEtdU5YRnQ2eHpYRlpDLVU2LV9tWFlnVzZvMmI0bEhFN1ZGcFVlRHZiTDJYaDVobHhrNlBmaGFqVnhXZmdxZDNhS2UzeG9YRFp6OFkwQnZ5eA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T14:58:23Z",
+      "summary": "博通（Broadcom）最新业绩指引显示，其AI相关业务的强劲增长前景，被分析师视为买入该股的绝佳时机。博通在网络芯片、定制AI加速器和数据中心连接解决方案方面占据重要地位，其AI收入有望在2025财年大幅增长。尽管股价近期有所波动，但公司管理层对AI业务的乐观预测表明，其估值仍有上升空间。对于有1000美元闲钱的投资者，当前股价回调提供了一个具有吸引力的入场点。"
+    },
+    {
+      "title": "Got $1,000? Why Broadcom's Guidance Created the Ultimate Artificial Intelligence (AI) Buying Opportunity. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb21OdzFyVlBHTXhsNEZXUDU0T2RxN1N5azM0N1VRdVV2QUxhVnRoSU5lUEZFcThMZE40a0JScEdva1kxZ3FOTTBrOUExazk1UHpoY3ZuUDU3dGRyWjNrVGJDUmhyc19hUlZMZzRSRjBBeWUzRGFPT2c4NmNaelkyRU1GMC1VR1F0QlVpZXZkc1dpUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T14:50:00Z",
+      "summary": "Yahoo Finance 转载了The Motley Fool的分析，同样强调博通（Broadcom）业绩指引创造的AI买入机会。文章指出博通在AI基础设施领域的战略布局——包括网络交换机、光学组件以及为大型云厂商设计的定制AI芯片——正推动其营收快速增长。随着企业AI部署加速，博通的产品需求持续攀升。尽管宏观经济存在不确定性，但博通强劲的AI业务基本面和技术壁垒使其成为当前AI投资组合中的优质标的。"
+    },
+    {
+      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+      "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-22T14:00:00Z",
+      "summary": "TechCrunch 创始人峰会（Founder Summit）宣布早鸟票价格将于6月26日截止，此后票价将上涨，可节省高达190美元。该峰会专为创始人设计，定于11月4日在波士顿举行，旨在为创业者提供增长与交流的平台。会议将涵盖融资策略、产品市场契合度、AI创业趋势等主题。主办方提醒有意参与者尽早注册，以锁定优惠价格。这是创始人获取行业洞察、拓展人脉的难得机会。"
+    },
+    {
+      "title": "Deep Learning Solutions: An Enterprise Guide to Neural Networks and Artificial Intelligence - The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2hOQy1ONndyX24xMjN4ZnhsTk9jcW9RVUdqU1JIdnU1aHRyQ1BQUUF1M1gxd0tGWVMxU1pPT09xTU4xQklHaXl5eXNTT1BPdGFNSTg1U01TWk9MN2RxRjBremVKb01iLVY2T2RmUF94T3Ezb2V4cmxETkxBUTdBeGxVc1lCTmdKTkFLTTRscXZ6RDFiQk1vWmowTDJNRVR2dzNQSlZMQXY4WkZvRmZPTg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T13:47:28Z",
+      "summary": "《深度学习解决方案：企业神经网络与人工智能指南》一书由The AI Journal发布，旨在为企业决策者提供深度学习和神经网络技术的实践应用指导。内容涵盖从基本原理到企业级部署策略，包括卷积神经网络、递归神经网络、迁移学习以及AI项目的组织管理。该书强调如何将深度学习技术与现有IT基础设施集成，解决实际业务问题（如预测分析、自然语言处理和图像识别），并提供案例研究和最佳实践，助力企业实现AI转型。"
+    },
+    {
+      "title": "Cabship Expands Artificial Intelligence (AI)-Driven Logistics, Workforce Development Strategy Ahead of Angola Oil & Gas (AOG) 2026 Sponsorship - ZAWYA",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQ0FLVzQ1ZHRGcXFFSHdXZXZ0X1UtRUFyWTBYZUxZbjlIUGN4VWlKeHpkZEZ3dXV4aEZFN3dOZGp6QnAteU1BTFpRelV5THdNQmxKN25GbFZkUFR0T1hyX2dCZmNqT2VMYzcyenhrckx6dGhWYnR6MFp6T3JSMXRaNGtmVU5aZkZVX21KV2p5dXdQRFlWVGRBbGxHMHI4bVR5Tm96TnpRMXh3NUdRaTNQN05fZkJqSTg0R0dHRFk4cWM4YzBDbm1IdDJibzFsUDRtQ1RWeHBKZ3VPZ2NoMDBteTFJbHNYX0tSVk5OREFWQUtaMm82NV8xQUFWNUIzS282alp1X3lHaU1Ma3E5?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T13:46:33Z",
+      "summary": "Cabship公司宣布，在安哥拉油气展（AOG 2026）赞助前，将扩展其人工智能驱动的物流与劳动力发展战略。通过引入AI技术优化供应链管理和人员培训流程，该公司旨在提升运营效率并应对行业人才短缺。此举标志着Cabship在非洲能源市场的进一步布局，并借助AI实现更智能、可持续的业务增长。"
+    },
+    {
+      "title": "Upscale AI valued at $2 billion after funding extension - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejN6UXVxNng1TXNSYl9aWlB4dktLdDlMWlpUVlJGeXhhSHJEN3BoSzR4UHlsUDh1T1lvT1JVOGk5Y095WGxUcmxVNzhiTFdlX1JuOXRuaEJpSS1YYlh6SnNOTHhjSkdjMnBPek1VNS1NOGkwQ3Frczkza2VMaXVsc2NpWGhrN2poMm9QdmIzckFUQXBCVHJ0eUMtZ2g?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T13:44:01Z",
+      "summary": "人工智能初创公司Upscale AI在获得新一轮融资后，估值达到20亿美元。该公司专注于开发高性能AI模型，此次融资将用于加速技术研发与市场拓展。尽管具体投资方未披露，但这一估值反映了资本对AI领域的持续看好，也凸显了Upscale AI在行业中的竞争地位。"
+    },
+    {
+      "title": "Prediction: These 16 Words From IBM Will Prove to Be Prophetic About Artificial Intelligence's Future - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWJZRnR4bl91M0FtR0xFNmpYd3ZFZ28xVWVVNjk1MkpvSVlCOVJWNi04aDdNV29PQVU2enRnTmNLOGxXQ0M5UDFzNjI1cHZhdzRGNmlWM0hfOURiXzU1MHc0c2NMbmE4blJUTWFyNFp4QWNEcXVrTUw0cHRtX09EbG1HTHlxLVFVMVZRSi1YR2tWMFUxTko4dw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T13:19:46Z",
+      "summary": "The Motley Fool发文指出，IBM关于人工智能未来的一句16字预言可能具有先见之明。该预言强调AI将从根本上改变行业运作方式，并成为企业决策的核心动力。文章认为，随着技术不断成熟，IBM的洞察或将成为现实，提醒投资者关注AI的长期变革潜力。"
+    },
+    {
+      "title": "Artificial Intelligence Technology Solutions, Inc.: Frost & Sullivan Highlights AITX's Role in the Evolution of Physical AI Security - FinanzNachrichten.de",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPQU1jWlJxX3JVUTI1MmNEUms1RVVLR1gzV0NRcHc5TFE4aTJVUDR2QjdSOThZNkNRSV9xYi1IUjdwVDhjWmZQc0M0cUZybndld1NSTzd5cW00cHBEWWF2YnJIRFNTbThGekJMYzZ4bzdyNjJ0YkRvZE85d3dyNjhibUdxOG1RN0ZRNkZRUlFUVDBHdHd1OGFsaWpVRVhKRS1qNFlzV3F0QTRwYzdkdkhtUEZvU1NnUDhZZHB2dUVQNmJVR1hJN1lFMnJ4Yml6TDdsMHItUXJya0lSdmF1cGpkNDZndVE1bk9fT3QwcjYwT1NBYjdiZTdWRTNXZDlPVDI0cUszd0dtZFVMU3NrRzhON0xDZnZIUFo4VlliNGRmYmhqa28?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T12:50:00Z",
+      "summary": "Frost & Sullivan发布报告，高度评价AITX在物理AI安全领域的贡献。报告指出，AITX通过集成人工智能与自动化技术，推动了安防系统的进化——从被动监控转向主动防御。其解决方案能够实时分析环境数据，显著提升安全响应的准确性与效率，为行业树立了新标杆。"
+    },
+    {
+      "title": "Better Artificial Intelligence (AI) Stock to Buy: Broadcom vs. Marvell Technology - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkZpNmpnQ3JfeThRZWxtQ2s1YW9EbjhWdWE5QXktN1VCcVF4WmR4bUU4SUhGR0d1c1k3TTNDWE5KV2FHNkcyaDJQekVyZDJrby1WUUkzdVNqY2dSRVRjMFFYaEFPSnNzWVVWdXhpM2NBMm9nSzJpbmJneUEzcVdHZUZiS09MR0FuLVQwRHJvcmxiSEU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T12:31:00Z",
+      "summary": "The Motley Fool对比分析Broadcom和Marvell Technology两只AI相关股票，探讨哪只更具投资价值。Broadcom凭借其数据中心、网络芯片等业务受益AI需求；Marvell则侧重数据基础设施定制化芯片。文章从增长前景、估值和竞争优势角度权衡，为投资者提供参考。"
+    },
+    {
+      "title": "3 Reasons to Buy Warren Buffett's Favorite Artificial Intelligence (AI) Stock And Never Sell - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaFptaFhJcUxmVnllMFh1a05JX3QxUXZKcXE4bXhkaGdSWEtfQkozTFFyUlBoTjFkcFpoaGcyM20wdFNfbldOem9VYXZCVkJHZVYwb1dzaUVkc21MUGtfSzkxNXZWTnJnTkZSWUdjVDJTZUx1TDhSLWVBVG15RFBVWnV0azVOcFhXelVVZk9BaTNMenBIbnRiSg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T12:05:00Z",
+      "summary": "Yahoo Finance文章列出巴菲特青睐的一只AI股票的三条买入理由。该股票（通常指苹果公司）兼具强大的生态系统、资本回报计划以及AI技术创新潜力。文章认为，其业务模式稳定且长期增长可期，适合长期持有，不受短期波动影响。"
+    },
+    {
+      "title": "AI and robotics will deepen human-machine understanding - ET CIO",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNV2hrSndja21NeGJ6NzBOaXV1Q2c1T0d1czRxS2wteGtraHhub05QOWU0S3VsS09ZSkRPeTVKYUxsUl9xUHdiLWhwOTl1Tk9ZSHJIcTl6SnJSUGp4MjBJbHUzaXN2cVpnTU1Pek5fSXBicWwzWThEOHFVLVVTTUxWZl80cXZaWjRpN19zbWpvNjhlLWEwYlJTdU1HYm5VdkY0aGpEVzVUVU1pZy15MjVzbE1XbFpIaEFKLXVjSmtNUUs4a2pQSDNFbkdSNnlGYlpGTGNDZTRqbmpkUjFLRy1BSkVCaTdLbHZlTUxISlhWbnlsalViOW81eV9LZGNNMFUycTVrUjhVdXdGNEVCdVE2UnNtMFZvZmhy?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T11:30:00Z",
+      "summary": "ET CIO报道指出，AI与机器人技术的融合将深化人机之间的理解协作。通过更自然的人机交互、自主学习和情感计算，机器将能更精准地解读人类意图，辅助复杂决策。这一趋势有望在工业、医疗、服务等领域释放更大生产力。"
+    },
+    {
+      "title": "Ulta Beauty study reveals AI is driving Gen Alpha shoppers back to stores - Cosmetics Business",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUFudTVhV0o5c0pUX2R4ZExBMURtWDdiQmRtWm5ZNThlbkpISzlpNFBnUmNlMkVKdnpEWXlYQ29rM3Y1azhIYUpTNWo5WDA2aGxxNDlYOVhKbHBtaUpjTG5LbUZLZ0NpMUlsWkFoOTRnX0F6UEhCT0treGY5ejVQV0lOd1VXb2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T11:08:57Z",
+      "summary": "Ulta Beauty的一项研究显示，AI技术正在吸引Gen Alpha（2010年后出生）消费者重返实体店。通过个性化推荐、虚拟试妆和智能购物体验，AI增强了门店的吸引力。研究表明，年轻一代更青睐融合科技元素的线下购物，品牌需加速门店数字化升级。"
+    },
+    {
+      "title": "How AI agents are turning enterprise apps into decision systems - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXlmeElCY19IZ1FSWEpxRkRNdk52aWxtYy1vR1lmLVRITFM0ZXFraTk5Y1ZoWmpUWS0xeHdoUmVJdlhaZEZlS2VHR25WQlJjZzNRZFF3czh1M29GNi01WXpDNmRkalFueC00MUthNnZnSDA1RW1PbWNzSEhXbzJDVWoyVUEtbEJXSU5UcEJNV2piUVdZNGZ0V1JIVm0tTFJHQ3pBdDRUZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T11:04:19Z",
+      "summary": "CIO.com文章分析AI代理如何将企业应用从传统工具转变为智能决策系统。这些代理能够自主理解业务上下文、执行复杂任务，并基于实时数据提供建议。这一转变提升了运营效率，但也对企业的数据治理和AI伦理提出了新要求。"
+    },
+    {
+      "title": "Don’t Let China Stack the Deck - Foreign Policy",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQckdicVNFS2hRSU5pd0N2OGNMVzRjTXQ0QkpabUJfU1lib2ZQMldTd243bnFXMm9CVnptS1pSQXNYdldoeHpFakt4ZUc0YWx5eWxzZVNjU0ROZkJfRVcxVGxDY3dpdF9weVdTUm5YY3I5VWk5SVJhQlB4NHE2Snl4b3FVQ3FkYUo3R0FmQmlja0hTN2M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T11:02:35Z",
+      "summary": "Foreign Policy刊文警告，美国应警惕中国在人工智能等关键技术领域的战略布局。文章认为，中国通过政策扶持、数据优势和市场规模化，正在迅速缩小差距。如果西方国家不加大投入和创新合作，可能在未来技术竞争中失去主动权。"
+    },
     {
       "title": "AI ETHICS KEYNOTE SPEAKER FOR EVENTS: ARTIFICIAL INTELLIGENCE FUTURIST EXPERT FOR HIRE - futuristsspeakers.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQUJ2NTZmU3ktX2lPWW80cTRvQllUUWVVZG9rS3RSX3NRN08yejgtS1VkMXdJVTBXVzJDa1VNanZFSEt2ZFo4c1JwUTU5Mkp4T1NKZ1NCNTRkajQ4RHlkWUh1MzR3RGVxUkRmdGV4MG04TG9DVjZMa3dvVXpVczNyeUxlZVpJVEE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-22T11:00:54Z",
-      "summary": "该新闻介绍了一个提供AI伦理主题演讲者的平台，强调在人工智能快速发展的背景下，伦理议题已成为企业和社会关注的焦点。专业未来学家和AI专家通过演讲帮助组织理解AI伦理挑战，包括偏见、透明度、责任归属等核心问题，并探讨如何制定符合道德规范的AI战略。此类服务旨在提升组织对AI伦理风险的认知，推动负责任AI的落地。"
+      "summary": "一家名为futuristsspeakers.com的网站提供人工智能伦理主题演讲者及未来学家的租赁服务，旨在为企业活动、会议等场合提供专业AI伦理解读。该服务强调，随着AI技术快速发展，伦理问题日益突出，邀请专家进行主题演讲有助于组织深入理解AI的社会影响、隐私、偏见及责任等关键议题，从而做出更负责任的决策。演讲者具备丰富的行业经验和前瞻性视角，能够结合实际案例，帮助听众把握AI伦理的核心挑战与应对策略。"
+    },
+    {
+      "title": "AI boom's US employment, wage impact muted so far, ECB study finds - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWdieHpxZWJqRENDWDBoSGVMWlhYUTliQlVTSHpfV0FHSFNnUXd4QzM2TTcwYTF5aDM4TW42U1gwYjNQMlZKalMyTlF0S3pndWtEU2RESnc5UXVsS2xaUjlPa053ZTFoYnB4VFNZWHJlQTczSkRqU1pCcmY0ZmZvVDJfSWpqMGpFVGhoUDhEQzNRd3ZnLTQzcm1MUXRwQkpsQWZzRlk1NkJXUmlUZktFYlRUV25LV2syTlcyNUlsWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T10:48:28Z",
+      "summary": "欧洲央行（ECB）最新研究显示，尽管人工智能领域投资与应用蓬勃发展，其对美国就业和工资水平的冲击目前仍较为温和。研究发现，AI技术并未导致大规模失业或工资剧烈波动，反而在某些行业创造了新岗位。但研究也指出，影响可能随时间逐步显现，且对低技能岗位的压力值得持续关注。这一结果缓解了部分对AI引发就业危机的担忧，但政策制定者仍需警惕未来的结构性变化，并做好技能培训与社会保障的预备。"
     },
     {
       "title": "Recursive self-improvement explained: Is AI building AI the path to AGI? - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdWZndlNXWDhFMHpuNHlyUkhKYWJHTkZJNE9JMmxiWVlzeE5xMnJRVWtXWGZVY1h0b1cxVkpHMEFySDUxdGdqU2pNRnV2cEVFeFl2MVNlT1Bna1N2Mllnc0lhREE0a1hWN2ZyU21uY2NEd1lYclFzdFVOZHcyWU1EVm90MS14c2sxV1NoY2k5ZGI5QWxkQVJ6cjBPUGM0N1VyUDBGWG9PLW1hY0hNbjFwcDRPUjhKbDMySmpZb3g1UjloR25lRXNZZFVCejdjMVJtYk91TFhFem9lSVBIZlhWS1BWM2ROWTQ4QmFJTzNjUmLSAfYBQVVfeXFMT3dHdmZnRzRvclFLZmYxUGhHaC1QRzdxNHpjMC1QU0h5STRiOFhtU2pVczJ6NmhvS0xYWTU1aEFMb1NVQjRMSnFEMllQSlVSRkxBWk1OUVl1RzhDSEJFMUtvVC0zMEtlT3FuMTFTS1J4Y1NLWkxxbGZ3N1loYWVGN1pKd0VDUks2dVhWcUdVMGsxMkJnQTZtOVJadnNiTFUwRDlJdHhmWnV2MTZWWnVwazRib2NZN2RPRS00bktvTTVNV0ZhZU9IbkhxWl9sUm5KRkNjcEdiS3lOYTBWeUplNG5wVlJnQU1VV0Z4RFBSUEZIeVFneTR3?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-22T10:39:44Z",
-      "summary": "文章解释了递归自我改进的概念，即AI系统能够自主改进自身算法和性能，这一过程被视为通向通用人工智能（AGI）的关键路径。通过不断迭代优化，AI可能突破当前能力边界，但同时也带来安全隐患和对齐问题。专家警告，递归自我改进若失控，可能导致AI以不可预测方式发展，需谨慎设计安全机制和监管框架。"
-    },
-    {
-      "title": "Call screening to in-call agent: Can voice be AI's next growth frontier? - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVks1WTZtMzZKWVAtTGJxdWhMRXFjNV90Sk9rakdxTWg1RmFpNDBWcXZ1cXl1dzdVWUVtWHAzbnBlX0dhamJRaHd2MV9XazVBSW43U3ZFbll3UDJaZVA2Rl90c2M4QWw4QnJZQXI5Qjg3eGl4a05EY3Zld3lBY19NdUtDRm8wUVY0MDJ3T2YwRXg5YzhOQUVsaFhTcEFVNkV3TUJNRWlhNG5Pb1RUTmp1UjhnaEMwVjlVUUQ2ckxOYlJpM3JnMUVEUHdjTkVEV2pmQURRVW5xd21vUVMtUTVnN1V3bVBVODJKS2dVRGpGeHHSAfYBQVVfeXFMUGZwRVlmQmFaM29GNXlSTjlaQXl6aFpnbjV3Wk81MXUxZnRfeksySVhqakh4NGJRZHlzd1RUeVhCUmV6NHhnbkUyYlA5VUNqWjYyc1ZFWWpNWEtsd3JXS1drVEJtX0V6NnVlY0N2c2lpOGhqUUQ0Vm9QNE96X0ZaVGFtYTJSQ1B5WjdvRTg4aGhOQnZ3RHVLZm5zQm5jSEotRG1DVGlXaGlERjU3eGJSaFVPUTdiQUJhZGQwR2syUDVBV2lib3dfOXNLN1dzenl2dVhaUGRPdV9fQTRZN3drQmRKT2RWQ0pNOVFHQnIwcmVRWnVwVGJR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-22T10:29:18Z",
-      "summary": "本文探讨语音AI的潜在增长点，从基础的来电筛选到更高级的通话中智能代理。语音技术正从简单识别向理解、决策、主动交互演进，有望在客服、销售、医疗等领域大幅提升效率。文章分析了语音AI面临的挑战，如方言理解、噪音环境处理等，并指出结合大语言模型后，语音交互或成AI商业化下一波浪潮。"
-    },
-    {
-      "title": "The AI revolution comes with a hidden tax - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbU9pcDlfVm1FeFM4Q1Vad3pFUFp4Vmk3RkFLaElhZlpnMUVaaVFBZm1TUkJQOXlOaFprUzgzNXdiYm9QMFBXX2M1aTRmUjcwQlF5c3JidE5HUVEzSWZ2VzREU19aQ09RbEFnUjJfQk1ZT1R0UDl4cHJUWl9BUGtXUnlXS3pQam5fcGpVbkpDVnhfM3A0WjI4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-22T10:03:25Z",
-      "summary": "文章指出AI革命在带来效率提升的同时，也伴随着隐性成本，如高能耗、基础设施投入、数据隐私合规、劳动力调整等。这些隐性税收可能削弱部分企业应用AI的短期收益，尤其对中小企业影响明显。作者呼吁企业在部署AI时需全面评估综合成本，并建议政策制定者关注AI带来的间接经济和社会负担。"
-    },
-    {
-      "title": "Why open infrastructure will define the AI era - InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGdtbm8wc3MtOFRzcHVzdzZXclREc0ttZWhCby1zb3laek5tUWgwRkc2eGFwelU4X1NMYmNwZWhGdmF3b2RRcHhNU2UycWc4UGJQYmNfY0hQX1Z2SHR4MlU3NUVpbC1YbmlDeEZyQzNvTDk0cW9td2c1cGpxUnhXWnVBVlh4ajhCQUhpMldLNFRIVV9yTUxtNg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-22T09:03:19Z",
-      "summary": "本文认为开放基础设施（如开源框架、开放数据、互操作标准）将是AI时代的关键支撑。与封闭生态相比，开放模式可降低入场门槛，促进创新，避免供应商锁定，并加速模型迭代。文章引用行业案例说明，开放基础设施有助于构建更公平、可持续的AI生态，但也需平衡开放与安全，防止滥用。"
-    },
-    {
-      "title": "An AI proxy war could reshape Congress — before Congress reshapes AI - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWc4eXZZZFdNcUhTSUg2N2hXakQzTWNBU3dicWRDcm9fS0xfZXVvZWc5MEYwWGRqdzZpLXdiTk5rbWt3Z2NTMWVhLW9kSThXRl9fSnlWUkt5Yk1Uakw0S2VyV0c4MzktZkM0UFdzLW1vM2tzWmFrOFVzei1ndGhhOXpjbHFoT3ZtUVpPRU5lWWQxV0N0bmtwbXlSUkhwYVRaRmc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-22T09:00:00Z",
-      "summary": "NPR报道指出，一场围绕AI的代理战争（指各方通过游说、捐赠、影响舆论等方式争夺AI政策主导权）正在美国国会酝酿，可能重塑立法格局。科技巨头、初创公司、智库等纷纷布局，希望影响AI监管方向。报道警告，在国会尚未彻底理解AI影响前，这种代理冲突可能导致短期政策偏向特定利益，而非长远公共利益。"
-    },
-    {
-      "title": "Indonesia eyes AI rollout across key programmes, including $15 billion free-meal scheme - Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOFlMQlJWLTd0RGlidWxJRVo5SEhYNWQxazlwSS1MN2FjdlFoc0hFY0k4OGJ1QklwRnlLR3BxZ0RXekFqakFqZy0tTjFvWGlYdlpycmNpRzNxUEFFWkEybmxHMkNrOEY3bXBtVTkzNXBHTGphT3lrcjYyQkJzUGRiOU1CVU83bkRYSDVEZUFEYnM0LVpQbjNIS3lWN1JuVnhtN3hUOFBhYU9hZ0owcHZaVFp3R1NDeGJHN293NUR3UEI4M1BHQ19qLXg2RW5PRlnSAdQBQVVfeXFMUGlhLVdCUlVRZXlsQ0xpNUU5MEkydlB5VEptN1hzMV9hQ2x5YWpzeWJnNnZ5S3hvOHU1NmtvcEN4UnJrM3kxaEJ5b25RQkM0LXVIMGdaeUViUjU4aC0xT1VKZ0RJQzRjR3g2bzNlc3NLeEg1NjVoUlRFd2VaalBJTWlLVE5hcW5DaEFxOGlQdVZCN29nd2JWUkxzMXZMb0psSDAxSEJHdmJPV0kwVUZsczNVcGhfTXVpeVJsVUw2MlQ2eXZMbFQ5NFotelp4dEpHUzNEM3Y?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-22T08:42:31Z",
-      "summary": "印度尼西亚计划将AI大规模应用于政府重点项目，其中包括一项价值150亿美元的免费餐计划。AI将用于优化供应链、监控分发、预测需求等，以提高效率并减少浪费。此举体现了发展中国家利用AI解决民生问题的趋势，同时也面临数据隐私、基础设施落后等挑战。报道引用官员表态，认为AI是提升公共服务可及性的关键工具。"
-    },
-    {
-      "title": "AI boom's US employment, wage impact muted so far, ECB study finds - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWdieHpxZWJqRENDWDBoSGVMWlhYUTliQlVTSHpfV0FHSFNnUXd4QzM2TTcwYTF5aDM4TW42U1gwYjNQMlZKalMyTlF0S3pndWtEU2RESnc5UXVsS2xaUjlPa053ZTFoYnB4VFNZWHJlQTczSkRqU1pCcmY0ZmZvVDJfSWpqMGpFVGhoUDhEQzNRd3ZnLTQzcm1MUXRwQkpsQWZzRlk1NkJXUmlUZktFYlRUV25LV2syTlcyNUlsWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-22T08:05:23Z",
-      "summary": "欧洲央行（ECB）研究显示，尽管AI行业在美国蓬勃发展，但其对整体就业和工资的影响目前较为有限。研究表明，AI对高技能岗位产生结构性调整，但尚未导致大规模失业或工资显著波动。研究建议关注长期效应，并强调政策需灵活应对AI带来的技能再分配，避免过度干预或放任不管。"
-    },
-    {
-      "title": "Artificial Intelligence in Education: Basque Teachers' Perspective - diarioeuskadi.eus",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT3F2czZtRjBnYlVVNW1QeXNyXy04c3NNRF9teGFRa015Zm52REZWMXJGTWNLM3Zkem1vaGdoSGpNVjRQN2VUWVBWa0FWb2pUVEw4RnRkUWNsbVhleEV1V2F6TUR3aGJLY1ZGVThmVUZjeGwyNEZ5ME5qTGduYXgya1VRMGhxbU1BSThDcDBPTWVUUEF3c3owYTdqVDRlSTJhVU01T3RZZ1ltbjFhQmZpUGpyZjk0UHdVY2VaeU5SVEY2S0xFSWxOVFNEZGNqMHpEZ2lGYnRxaXFyZnZzOTAwUw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-22T07:35:38Z",
-      "summary": "本文基于对巴斯克地区教师的调查，探讨AI在教育中的应用前景与挑战。教师们普遍认为AI可辅助个性化学习、自动批改、生成教学资源，但担忧技术可能加剧数字鸿沟、削弱师生互动。多数教师强调需要培训与伦理指南，确保AI服务于教育目的而非替代教学。研究为AI融入课堂提供了实证视角。"
-    },
-    {
-      "title": "The Reverse Centaur’s Guide to Life After AI by Cory Doctorow review – the real price of artificial intelligence - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa2hsOTc5ZVlXTmFRRE9hSGg4NGc3eE1MRXJqTUJ4c0RFclRFdjlmeGR2OWdjWElRdUVHeW1vLTZWMUo3Uno1c3I1a0IyYjl2U0NIeFc0MGo2Y3ZpbXpTVFVfWXcxejJoVW90Wi1pNUMzUFZCbWZVTUZjc1pkaF95d2RXQnVMYmQzWWpLOEZER1JaVkxLRDFqZ0Z1M3JaUnFSTVRoOXhOSEZJcG96ellkUW1lUDJSZkZpN19aNWtzUDduWFltVkFVeHlvTkFtUmw3RWFEeVlFbkx1ZE5aTTBSN1MxYUF2NXFmWUdj?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-22T06:00:00Z",
-      "summary": "《卫报》的书评评价了Cory Doctorow新作《Reverse Centaur's Guide to Life After AI》。书中指出AI的真实代价不仅是经济成本，更包括对创造力、隐私和社会结构的侵蚀。作者以逆向半人马（人控制机器）隐喻，警告人类可能逐渐沦为AI的附属品。书评认为该书犀利揭示了AI热潮中被忽视的负面影响，引发对技术发展路径的反思。"
+      "summary": "递归自我改进（Recursive Self-Improvement）是指AI系统能够自主修改自身代码、算法或架构，从而不断提升性能，甚至发展出新能力。这一过程被认为是通往通用人工智能（AGI）的可能路径之一：即AI通过反复自我优化，逐渐突破初始设计限制，实现跨领域学习与推理。然而，该路径也带来重大风险，包括目标错位、控制失效以及不可预测的智能爆炸。目前，主流AI研究仍在探索如何安全引导递归自我改进，确保其发展符合人类价值观。"
     }
   ]
 }
