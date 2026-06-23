@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "1534",
+      "title": "Kakao announced that it will participate in the \"2026 Public Artificial Intelligence (AI) Industry F.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oSEVtZlY0YXdJVXZtQkN1RkRtZDlyLXpMakJmNUJlQUJwVm9idWNqN19fN29jLWNsd2lNLUF6SE9VYnFWbmhKM3BSSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-23T05:31:27Z",
+      "summary": "韩国科技巨头Kakao宣布将参加“2026公共人工智能产业展”，展示其在AI领域的最新成果和应用。此次参展旨在推动公共领域AI技术的普及与创新，Kakao计划展出包括自然语言处理、计算机视觉及智能推荐等核心AI技术，并探讨与政府及公共机构的合作机会。这一举措反映了Kakao在AI产业化方面的战略布局，也表明韩国在公共AI基础设施上的持续投入。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1535",
+      "title": "‘Navigating the unknown together’: me and my idiot AI boyfriend - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSG1XcXJDdVc3QUhKWFNYeHFEOVp4QUFuWEF0c0o1eThFb1RTYk9QWkFJRFZDbHY2aUVtMl9HeUFwRkJMc3hGQlRSN0l3UXJrYVlVX2sxUEVCMmEzNEMyYnEzeEhhVllFQk55ZjVSQUpJeUM1TGNrZmw2Y2oydFlsYmEtYlMydzhvWEJnM2tMMXJJRnBKZ0xxcjVEUElIcHdjUnFUc0E2clM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-23T04:00:00Z",
+      "summary": "《卫报》刊发一篇第一人称体验文章，作者描述了自己与一个被戏称为“愚蠢AI男友”的聊天机器人长期相处的经历。文章探讨了人机情感依赖的复杂关系，指出尽管AI伴侣时常给出不合逻辑或幼稚的回应，但用户仍从中获得陪伴与安慰。作者反思了人类在AI关系中的自我投射与成长，强调与看似不完美的AI共处反而能帮助人们更清晰地认识自己的情感需求和沟通模式。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1536",
+      "title": "Your AI strategy may be training employees to stop thinking - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOelBvYVJ5Q2VvYjdKRFUzMUNla2hFTUQ5YzBvY3daUGZ4Q1U1dXU2RWtFSDZBZHFIU3JpVDFNS0V1MEU1bldwaW14dlFmeE5uTW9adDZMaDVjMkpDVTFPSHFTUFBuQm1FdzhPRXRaS3QyTlBiVzFxUml1TVJGTjhYN2psMzVKa0pZeWR0eFFQZlJieTc5RXB4NU9hcWJfcXNkWmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-23T03:11:11Z",
+      "summary": "cio.com发表评论称，企业过度依赖AI工具可能导致员工停止独立思考。文章指出，当AI自动生成报告、决策建议或代码时，员工逐渐丧失批判性思维、问题分解和创造性解决问题的能力。长期来看，这会造成组织智力退化，降低应对突发状况的韧性。作者建议企业将AI定位为辅助工具而非替代品，并刻意保留需要人工判断的环节，以维持员工的核心认知能力。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1537",
+      "title": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmFKWmloVXY5S2JycVlGRWJPUEwxSzNwRGw2SnhVVjE2RnFRMmRDbUJZMnFNUFR4b3M4b1JoUzAyQ3dad21takxpMzdsVmFnd0pmVE96cVlyR0g1V25oSHJzMlVzdFltMTZBXzdQcHNqWFRQUGRQZkVIQWtfZnpRMTJaU1Jnc3NjUHo2T05FWWZBT3hUTXJPdXBaRDNoYy14OFp3M0FqcXBaV0s4QnZNUTFvbXFQVmM1el85WWZHaElzbDlSTC1HMGZxYUpyQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-23T02:06:00Z",
+      "summary": "路透社消息，AI初创公司Baseten估值飙升至130亿美元，澳大利亚风投机构Blackbird领投本轮融资，创下其单笔投资纪录。Baseten专注于提供AI模型部署与推理基础设施，其平台帮助企业高效运行大规模生成式AI模型。此轮融资显示资本市场对AI底层服务赛道的强烈信心，也反映了投资者对AI商业化落地的持续追捧。Baseten计划利用资金加速全球扩张和产品研发。",
+      "fetchDate": "2026-06-23"
+    },
+    {
       "id": "1524",
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
       "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -13789,5 +13825,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1532
+  "total": 1536
 }
