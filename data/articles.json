@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "1524",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-23T01:27:55Z",
+      "summary": "TechCrunch AI持续更新2026年科技公司大规模裁员清单，这些企业均明确将人工智能列为裁员原因。清单按时间倒序排列，涵盖知名科技巨头，反映出AI技术对就业市场的冲击。该动向表明，企业在利用AI提升效率的同时，也开始调整人力结构，引发行业对技术替代岗位的广泛关注。随着AI能力提升，类似裁员潮可能进一步蔓延至更多领域。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1525",
+      "title": "Change your cyber risk strategy to meet AI threats, Five Eyes countries warn CSOs - csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ05lcFBKcUFqQ3RsWlkxUnM5eUJzTkVNZW9tVk5nQWg2VlNobWlTeWk2MXVJWFhTZTFfNkw4WEFLSlkteFpQTVhpbVR0VmFVbnJ0U2JGWFA0OV9YdWlJUzNSYVRROWtnc09YSHhha2xRdERjWFZVTENyemtBNGgyWFFKOUJYNmZZMVFvRXZ5Rm9IRWRHMVA5aHY2ZUlWS2dLaDRLOHpPLW9odFN2TTNIdFZtT1dnU2dNTDRyZGREazRWU1VFelE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-23T01:09:08Z",
+      "summary": "五眼联盟（美国、英国、加拿大、澳大利亚、新西兰）联合发布警告，要求企业首席安全官（CSO）彻底改变网络安全风险策略，以应对日益严峻的AI威胁。声明指出，传统防护手段已无法抵御由AI驱动的复杂攻击，企业需在威胁检测、响应机制和数据安全方面引入AI对抗技术。这一罕见联合发声凸显了AI在网络安全领域带来的范式转变，敦促组织立即行动。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1526",
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-23T00:11:31Z",
+      "summary": "OpenAI启动新计划，旨在帮助开源社区发现并修复安全漏洞。该计划提供AI辅助的漏洞扫描工具和自动补丁生成能力，试图解决开源软件长期存在的安全问题。通过贡献AI技术和资源，OpenAI希望提升整个软件供应链的安全性，并促进开发者协作。此举也反映了AI公司在开源生态中承担更多社会责任，同时为自身技术创造更安全的部署环境。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1527",
+      "title": "Cabship Expands Artificial Intelligence... - Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWGRMWXduejUwWUgwOFJOUXI2NVhROVlrejZkcldCUFRqbFNRNm5OSmdBUXVNYXBxc0Nyc1VnTFBUNDFCc2R5RTc5Z0dkTWlsNFBQTXhUVzFJWHFjYWp2Z3dTcDE2YXZ0V3pBS3JTaXJoQTI2T0lvRks4UHBrT201MkFkLThoSkFxblJweE5qbjVqNnVXRF9iOEZmUFVLdjJFUzk3ek5waEVrdDdtbUUwaExiY053bnJPODBybVFVU3RqYjRScVpjLTRDVmpodzhQWjhkbU05Um1vbER0TVV5OGV4aE1YZno2NWxv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T23:02:19Z",
+      "summary": "非洲物流科技公司Cabship宣布扩充其人工智能业务，将AI技术更深入地整合到物流与运输服务中。扩展计划可能包括AI驱动的路径优化、需求预测和自动化调度系统，旨在提升非洲地区的配送效率，应对基础设施挑战。这一举措表明，AI在非洲新兴市场的应用正从概念走向实际落地，有望推动当地数字经济与供应链现代化。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1528",
+      "title": "SpaceX shares, a space artificial intelligence (AI) company led by Elon Musk, plunged after a surge - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pakhUSmZUcGVRSTVGMDJPRTRTRVQtTTJBcy1LdUFXakZsYy13WGlhWnhxYVNaU3pidHA3ZWZlbUE4RGx2T2c4dVNCVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T22:44:00Z",
+      "summary": "由埃隆·马斯克领导的太空人工智能公司SpaceX股价在经历大幅上涨后出现暴跌。市场分析人士认为，此轮波动与投资者对AI概念股的热潮消退、以及SpaceX商业航天业务面临的不确定性有关。尽管SpaceX在火箭回收和卫星互联网领域保持技术领先，但AI估值泡沫和市场竞争加剧导致股价剧烈回调，反映出投资者对高增长AI企业的审慎态度。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1529",
+      "title": "Indonesia will introduce artificial intelligence (AI) to important national tasks. In particular, ef.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xZjZYRmtxZEEtOFNqODJVUjBZXzdCU3gwOEltOUVNUEg4WkRNbldWSlpxeUN3ajFlUXZfSHJ6ODhQblBvbjVOcS1hX3JPR2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T22:18:36Z",
+      "summary": "印度尼西亚政府宣布将把人工智能引入国家关键任务，重点聚焦提升行政效率和公共服务质量。具体措施可能包括使用AI优化政府决策流程、自动化文书工作、以及应用在卫生、教育和基础设施管理等领域。这一计划旨在利用AI技术应对资源限制，推动国家数字化转型，同时也面临数据安全、算法偏见和人才短缺等挑战。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1530",
+      "title": "HR consultant wins English court case using AI lawyer in apparent legal first - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkhta2lpbG9JMjc2NU1rU0R1T1dIWjZ5ekdWNVpUaUJwU0FKcjFiRVk5c2c2SHlqNHhGSGNCRklLQlpIczQ1RERISWdGUGpVcFFvMkVPYkpBSGtvbVU4amctUll3R0d1R3Myb2FkdHlwSVB6eUlkS1k5MGg4QnZpdjE0alUyV1l1SmJUcTJSVS15Q2pvaVhaUlFFaDliVUpZTHBnSzhnZEdTT3A0bDNvMUZwSWhaYjBrNkJ6YXNYN1N1T1U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T21:54:00Z",
+      "summary": "英国一名人力资源顾问在法院案件中首次使用AI律师并获胜，成为法律界标志性事件。该AI系统负责处理案件材料、起草法律论据并辅助庭审策略，最终成功为客户辩护。此案例展示出AI在法律服务领域的巨大潜力，可能改变传统法律咨询模式。然而，这也引发关于AI代理责任、伦理规范以及律师职业未来的深度讨论。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1531",
+      "title": "The AI world is getting ‘loopy’",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-22T20:53:11Z",
+      "summary": "AI领域出现名为‘Loopy’的新概念，将智能体AI提升至新阶段：授权一群AI代理持续在后台自主工作，无需人工干预。这些代理可以相互协作、动态调整任务，实现不间断的流程优化和问题解决。该技术有望应用于自动化运维、实时监控和复杂决策场景，但同时也带来失控风险、资源消耗和监管难题。行业需平衡创新与安全。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1532",
+      "title": "Stripe Unveils Developer Discovery Tool - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHRrMFFwVElTeENXQTY2aHR4SnFCV0hJcUhoYXB0NU0zeVdhdUw4ZjBGVHhZWnE5bmtwWC0xWXM0TUhCSXBZeldpZFZJNTdmNm1yT21KZTVnMmhEU1pPZGJLUVgyNm1peWNOOFpQb3Y1NTdTMnJOWkg4d2wtWEg5eG5tZVd1dldrTUNUUmFZbEozdFY0clR0SVBvNldhZzN2bnlzVw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T20:43:00Z",
+      "summary": "支付科技公司Stripe推出一款全新开发者发现工具，帮助开发者更高效地查找和集成相关API、插件及开源库。该工具利用AI分析代码与项目需求，提供个性化推荐和智能搜索功能。此举旨在降低开发者接入支付生态的门槛，提高开发效率。Stripe持续加码开发者体验，反映出API经济中工具智能化的重要性，为AI与支付融合创造新场景。",
+      "fetchDate": "2026-06-23"
+    },
+    {
+      "id": "1533",
+      "title": "IBM and OpenAI Bring Frontier AI to Cyber Defense—Helping Enterprises Keep Pace with Machine-Speed Threats - IBM Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeExySk9KY0JnMFNfYUkzX0hxQU1yS0JFNHhqQjhDR2QybUpGZkxXRjdBMEktclU1SEhsSjRzcENkNDZRbFJ0Rm0xRWxZbTJMRFVDSHpFWGRjMFFmTFZidTk0SDM4OTQtNlNoYm9FU1ppeVpNVFduY0t2c0VEMVZqT2dDZUplcmI4b0d2UVdyQXl3MDBpY1hNZ0JGT3NEYVhjcFZJRUxvRkJOSmZyTjNGMllBVGRncFRJRkFtV1JXLVNVNUtnMmFBYkQ4bDNnWWtIeElJM3VmdFZNQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-22T20:34:53Z",
+      "summary": "IBM与OpenAI宣布合作，将前沿AI技术应用于网络防御领域，旨在帮助企业应对日益增长的机器速度级安全威胁。双方将结合IBM的威胁情报与OpenAI的生成式AI能力，开发自动化威胁检测和响应方案，提升安全运营中心（SOC）的效率。此举标志着AI从被动防御向主动、实时对抗转变，有望显著缩短攻击识别与遏制时间，缓解企业安全人员短缺的压力。",
+      "fetchDate": "2026-06-23"
+    },
+    {
       "id": "1505",
       "title": "Demystifying AI: The College of Engineering and Architecture’s AI Tinkery Series Advances Practical AI Fluency - The Dig at Howard University",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTUVxN3QweURSOU1tcnRmb01va0F1VXRvWXU3d1dReTJWYThITUxGbW9SUmU3LWdCT3pQa2huNTBSVFpTaFZ1THMwNWpOU2xLSjhVdjlpUGl1a0pVME1FeTNZeEhMalNrTXJIakQxSDFGRkNhWnVtdTZSRkxlMndBeTZRazlJQVRISUh2MTduMjB1dU1xYV9DX0c0dGh1b2taNl9XSnUycFBEU2FMSzV5bEFDbjNvaUFRWDVtUnIweVA5TGZ4akJ5dTBfaw?oc=5",
@@ -13699,5 +13789,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1522
+  "total": 1532
 }
