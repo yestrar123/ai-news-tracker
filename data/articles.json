@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "1694",
+      "title": "Artificial intelligence must work for all of us – not just the rich and powerful - Nation.Cymru",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNalpXQ1Q4NkFyNVF3YUkzWGxfQTNjbVZyQ295RDJlZHVkdnZLTUNsZGZ2WUNENVpBQjBVQkZic05KTWtzX084a0Z4eERzZnVtNFNZSDJiWmhFQVBlZURnUDNsWkVXUkh3a0hKS19WN0dEbFNBU3hZM1I4X3pmU21MNUtKcFU4amdOR3IybnNOeUdUNHZPTzVCNjRDRHA4SkQ2UzRRbGJRWllSNFI3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-26T07:41:15Z",
+      "summary": "文章强调人工智能的发展应当惠及全体社会成员，而非仅服务于富裕阶层和权力集团。作者指出当前AI技术应用存在资源分配不均、利益倾斜等问题，可能导致数字鸿沟加剧和社会不平等。呼吁政策制定者、技术开发者和公众共同参与，确保AI的伦理设计、透明监管和普惠部署，使其真正成为推动社会进步、服务公共利益的工具，而非加剧分化的利器。",
+      "fetchDate": "2026-06-26"
+    },
+    {
+      "id": "1695",
+      "title": "As crimes using artificial intelligence (AI) technology have increased rapidly, the government has o.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NeGpsMGZxVDVxbTg4b3FvemxKRU8zUUVEanhqM2VzampBcVc4bVBTM0RabWFPMXQtbW5uMkFrT1U4bHBGOF9iQ2ZlVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-26T05:59:46Z",
+      "summary": "随着利用人工智能技术实施的犯罪案件迅速增加，韩国政府已开始采取应对措施。报道指出，深度伪造、智能诈骗、自动化网络攻击等新型AI犯罪手段呈现多样化、隐蔽化趋势，给传统执法带来挑战。政府正着手修订相关法律、加强技术侦查能力，并推动国际合作，以遏制AI犯罪蔓延，保护公民数据安全与社会稳定。",
+      "fetchDate": "2026-06-26"
+    },
+    {
+      "id": "1696",
+      "title": "Topics - Artificial intelligence: How to make fair decisions - Charity Digital",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWWhHcU9uR2JnYUlsZFZGMDFhV1VNR1F3Z2lIVzc4cjU1SWE2eGN1c1QyYWQzTlVBekRMNUFpd3VfQ1A4OUd0OGViSURSODVqc0UzMno5YTk2bGZ4cnVuZWo3TjFUdjlsNU5OOTdTR0NLOGVxQ0lmSU9ScTVZV1ZyN2NDNnlGeFh0cXJIdGg1Tnl6YWxmVmZ1NA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-26T05:26:45Z",
+      "summary": "文章探讨了人工智能在决策过程中如何实现公平性。作者指出，AI系统可能因训练数据偏见、算法设计缺陷或使用场景不当而产生歧视性结果，尤其在招聘、信贷、司法等敏感领域风险突出。提出建立多元化的数据采集、引入公平性评估指标、加强算法审计与人工监督，以及推动利益相关方参与决策流程等策略，以提升AI决策的公正性与可信度。",
+      "fetchDate": "2026-06-26"
+    },
+    {
       "id": "1691",
       "title": "Can AI actually make us happier at work? - Escudo Digital",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMjN0VEs4ckJNTEstMUtMZlFmWlBkT0J1NnpZN19PSFlmXzY2ZUdYUFV0aVVvcWhGRW5wMkpPTEJuOEViVmpCUk9UWndMWC1FYkdtbE51Y2FTaUpWRDdvYkRmSzA3aUtfZ0hNMUxPUG5UZm1DempfRlNPMElBNW9NUjJQeG1RbzNYS1pjWHZjZlZfZVdBc2dRaVJ0d0pzV2F4VF93R0dfbHlTci1jdERac0V3?oc=5",
@@ -15229,5 +15256,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1692
+  "total": 1695
 }
