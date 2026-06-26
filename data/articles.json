@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "1691",
+      "title": "Can AI actually make us happier at work? - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMjN0VEs4ckJNTEstMUtMZlFmWlBkT0J1NnpZN19PSFlmXzY2ZUdYUFV0aVVvcWhGRW5wMkpPTEJuOEViVmpCUk9UWndMWC1FYkdtbE51Y2FTaUpWRDdvYkRmSzA3aUtfZ0hNMUxPUG5UZm1DempfRlNPMElBNW9NUjJQeG1RbzNYS1pjWHZjZlZfZVdBc2dRaVJ0d0pzV2F4VF93R0dfbHlTci1jdERac0V3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-26T05:10:02Z",
+      "summary": "本文探讨人工智能是否真能提升职场幸福感。AI通过自动化重复性任务、优化工作流程和提供个性化支持，有望减轻员工负担、提高效率，从而间接提升满意度。然而，过度依赖技术也可能引发隐私焦虑和职业替代恐惧，幸福感提升取决于组织如何平衡技术赋能与人文关怀。核心在于将AI定位为协作工具而非替代者，方能真正让员工更快乐。",
+      "fetchDate": "2026-06-26"
+    },
+    {
+      "id": "1692",
+      "title": "2 Beaten-Down Artificial Intelligence (AI) Stocks for Contrarian Investors to Consider Buying - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3RYb3E1SEdtZW5Eb200eHRWeXZOUW9yckZseWFYTlJad1V3Z3NOVF84eWREeWlMblZ1M3Y1M0Y2VFhXd2dKamllT0FTT0tfWjUtOXB0bHl5cVRUXzNVUFRIdm5NVHhVaVl6ZWtzY3Q1SFVuNWlueXZfaUhxaWxpWFF4WTR3WWlNdkUxQlVzWmtkc2UtaXhVNw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-26T04:15:24Z",
+      "summary": "逆向投资者可关注两只近期回调但基本面稳健的AI股票。尽管市场对AI泡沫存在担忧，但这两家公司拥有核心技术专利、强大研发团队和清晰商业化路径，当前估值处于低位。文章建议利用短期恐慌买入，长期受益于AI在各行业的渗透。需注意这类投资的波动性较高，适合风险承受能力较强的投资者。",
+      "fetchDate": "2026-06-26"
+    },
+    {
       "id": "1677",
       "title": "Kakao will join hands with KT Cloud to create an artificial intelligence (AI) technology and service.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJR3hhTE9ObEcwLU8yMmY1OVdTb2E2cUZFMm9rem5ma2J4ak9mWVhEMGJtRUllaDE2cXkzMWRpV1A1bHRiVEQ5VzJlYw?oc=5",
@@ -25,6 +43,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-06-26T00:13:49Z",
       "summary": "Eurasia Review发表分析文章指出，对AI解决战区语言需求的期望可能过于乐观。虽然AI翻译技术在民用场景取得进展，但在战场环境下，语言复杂性、语境缺失、实时性要求及安全风险等因素使得现有AI系统难以可靠支撑军事通信与情报分析。文章呼吁决策者客观评估AI能力，避免将“技术救星”的幻想投入实战，以免造成战略误判或人员伤亡。",
+      "fetchDate": "2026-06-26"
+    },
+    {
+      "id": "1693",
+      "title": "Mark Pincus on AI's Outlook - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU3ZGaG93d2oyWHlNVlhjR0Z2QkdsemVYWWp0M2U2cFFoa3BiVXh2ajQtemJ2QU1UOVQxQTJESW85a0dudnFEVXFlUklkc1NGTlFBRFN3Zll4SXJUbEpGRURFeW4wQkVxQ3lvN0F6YmlqSG5FdlpSZTl2NnNwUjM3T2lWUUVCRmRSdFdYZHhtdW90SmdM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-26T00:03:16Z",
+      "summary": "Zynga创始人Mark Pincus分享对AI发展的看法。他认为AI正从工具向“协作伙伴”演进，初创企业应聚焦垂直场景的数据闭环，而非追逐通用大模型。Pincus强调，未来十年AI将重塑创意产业和游戏行业，但成功关键在于理解人类行为与情感，而非单纯提升算力。他建议创业者优先解决具体痛点，以AI增强而非替代人类决策。",
       "fetchDate": "2026-06-26"
     },
     {
@@ -15202,5 +15229,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1689
+  "total": 1692
 }
