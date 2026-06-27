@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "1741",
+      "title": "Australian rescue team uses AI-powered drone to find lost hikers – video - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN0o2ZER3UC13TnQtY1VqN2dPakhtSnV5TnlzdjRUOFVvUDZPVEhDVEtlRXdSYUtxY0c1QUJIemZSbDRyNkljdFhfZXI5djVZdGdPVy1OVkoyY19JUGxxZ2dCUnE3cERTX29UekFqOWtzTVUwb3BWMDlDMG9EVm9vb0M2a1NBd0NoVFdMWUN1T19JMFd0elVZUkhRLW1lQzhPUGl4bW1tcF9Id2wyMzhMM3pJUUNmb2xuTE1iQ2JkaXMzQnNjX3kxUlhhOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-27T17:31:00Z",
+      "summary": "澳大利亚救援队利用AI驱动无人机成功定位失踪徒步者。该无人机搭载人工智能视觉识别系统，能在复杂地形中快速扫描并识别目标，大幅提升搜救效率。此次行动展示了AI在应急响应中的实用价值，通过实时图像分析与路径规划，无人机在数小时内完成传统搜救数天的工作量，为被困者争取了宝贵时间。",
+      "fetchDate": "2026-06-27"
+    },
+    {
+      "id": "1742",
+      "title": "Regional AI Strategy For Southeast Asia And Taiwan – OpEd - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzNfeXdZaDl2bEJHaTl5RldjVWhoelFhN3d0Q2JRdXkwdVdoUktCdFM2UEtiSG9GTS1QN19KeU9CdnE0RDJ5RXYtV0J3WlduZFNYQjZxN0xwQUpxNGc5bjBRMFFNcXNFTmkzQUtyRmJOX2otVWJwYUc1eE96RGdrN25Db1ZUR1RKNmt1bndFVDM5NDM4bVZScFFNQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-27T16:46:35Z",
+      "summary": "评论文章提出针对东南亚及台湾地区的区域AI战略。建议该区域整合资源，建立跨国AI研发合作平台，重点发展制造业自动化、智慧城市和医疗诊断等应用。同时强调需制定统一的数据治理与伦理规范，避免技术鸿沟扩大，并呼吁在芯片设计、大语言模型等关键领域形成自主创新能力，以应对全球AI竞争。",
+      "fetchDate": "2026-06-27"
+    },
+    {
+      "id": "1743",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-27T16:45:09Z",
+      "summary": "苹果Vision Pro负责人Paul Meade据传将离职加入OpenAI硬件团队。Meade曾主导Vision Pro头显的研发与量产，其离开可能影响苹果空间计算战略。OpenAI正加速布局硬件领域，计划开发专用AI芯片或边缘设备，Meade的硬件制造经验将助力其产品落地。此举也反映出科技巨头间AI人才争夺的激烈程度。",
+      "fetchDate": "2026-06-27"
+    },
+    {
+      "id": "1744",
+      "title": "Qualcomm Wants to Bring AI Data Center Power to Your Smartphone - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMjhxU0RwekhuM2ZGSE85Z1hleVMzYVdOWF9nNlJDb0tuaXF4bGUtMTZIOThMOXl5TGFtSlZEU1lvdE5KX2Jxem9YaWMwSm8yM1U1Rzl2MElLbHl2cWFTQVZKVTk5R1NUYmg0ZTE2aWhmbmNqdkdoSjlZUDlIeFFCMi1xemdBZ1owRTM4MVBlNHBPMkRURjBaLXkzcjkwY2xZa2JMaFBNREhxcUU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-27T14:38:43Z",
+      "summary": "高通宣布计划将AI数据中心级计算能力引入智能手机。通过下一代骁龙芯片集成专用AI加速器，实现本地运行大语言模型和复杂推理任务，降低对云端依赖。这一技术突破有望在实时翻译、图像生成、个性化助手等场景提供毫秒级响应，同时保护用户隐私。高通正与多家手机厂商合作，预计2025年推出首批搭载该技术的终端。",
+      "fetchDate": "2026-06-27"
+    },
+    {
+      "id": "1745",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-27T14:00:00Z",
+      "summary": "身患癌症的创业者Connor Christou利用AI系统Claude辅助治疗。他将血检报告、扫描影像、可穿戴设备数据及日常日记输入Claude，通过多模态分析发现传统医疗未察觉的指标关联，从而优化饮食、运动与用药方案。AI帮助他识别早期复发信号，并生成个性化康复建议，最终成功控制病情。这一案例展现了AI在精准医疗中的潜力。",
+      "fetchDate": "2026-06-27"
+    },
+    {
       "id": "1735",
       "title": "Aiming to boost government efficiency, San Jose trains its 1,000th worker on AI tools - The Mercury News",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5leHBKcHdmRERENmVVaURjZkNucjVDX1V5QkJ2NGhpNzAzZjFyYk80YldDT0FjZHN5TUNjVHExSWFxak5weDh5TXcyeGdfTURick11OFFZdEs2alVxeVBfOV9nQ011Qk1wR2JkSnY0cDNXNkl4RGFaMVBqb9IBgAFBVV95cUxOWGM0a1dKc2d0Ujg2d1pBbmN1OW92Z0hQMVp4RHNRT2Uta0lWdjVBVUdjOE10Yi1YOTFxa3NuNFY2Q09EUkdqdEZzRUVmdHlINmt6cjU3bzNrQWQwVUd6czZLakJ4LXJ1TTBQNERkWnd4WkFMa0RmaXpMT3lZOHdGdg?oc=5",
@@ -15652,5 +15697,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1739
+  "total": 1744
 }
