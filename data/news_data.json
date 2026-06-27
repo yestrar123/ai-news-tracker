@@ -1,41 +1,27 @@
 {
-  "updatedAt": "2026-06-27 02:05:34 UTC",
-  "totalArticles": 5,
+  "updatedAt": "2026-06-27 05:47:00 UTC",
+  "totalArticles": 3,
   "articles": [
-    {
-      "title": "Trump administration partially lifts Anthropic’s AI export ban - Politico",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNjFnWVhNeF80dHJBV3VVbXlQbFdGNk8xUm11amJ5dlloS0VEb2hxeHRhdlBmS2VtcklrUmh3NXAzUktiblF1NjBKZzR5SEVOMmYtZXotaE41RGxWREJnZElzdUxkSVIyVTJtWG83SkEwb3hxZ2p1WW5fNjFKTTlDNmlEQTlCNGVyTS1XRUMwejlTVlpVRndMYVYzdFU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-27T01:13:24Z",
-      "summary": "据Politico报道，特朗普政府部分解除了对人工智能公司Anthropic的AI出口禁令。此举允许Anthropic在特定条件下向部分海外客户提供其AI模型，但具体适用范围和限制条件尚未完全公开。这一政策调整被视为美国在AI技术出口管制上的灵活策略，旨在平衡国家安全与产业竞争力，可能影响全球AI技术应用格局。"
-    },
     {
       "title": "A24 defends Google AI partnership after backlash: ‘We’d rather have a seat at the table’ - Screen Daily",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVU44djdBV2V5elNucEZkXzJLZmxGXzdPbWpxVEZEZGhsT2tvOHp4VWNUbWE0UnZSaEtnZ0lsQTZGckhxQjA4Nk9OUFA4LWRsQ3VOTXYtajNjbWhLOEZHY2lMbTVKaFNBZFpodjc4bE5SMDM3bTlhWVFoT2F5emVkTzVVSXZZTlh3UldBWUxwR0RmdWhGMURmaTJuYVB1d193cVhIQndadDk5QUxWQ0p6NjJNMTY2WGdrWUdxTVdWX1hDQ2dudmQ0NFJEUTZpZw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-27T01:10:19Z",
-      "summary": "独立电影公司A24为其与谷歌的AI合作伙伴关系进行辩护，在遭遇业界强烈反弹后表示“宁愿在谈判桌上有一席之地”。A24强调，与谷歌合作旨在探索AI在创意产业的合理应用，而非取代人类创作者。该合作涉及电影制作中的AI工具开发，引发了对艺术自主性和就业影响的担忧。A24坚持参与对话以塑造AI伦理规则。"
+      "summary": "电影制作公司A24近日因与Google达成AI合作协议而面临公众批评。A24在声明中回应称，他们宁愿在技术变革的讨论中“占有一席之地”，而不是被动旁观。尽管外界担忧AI可能影响创意产业，A24认为主动参与能更好地保护创作者权益。此举凸显了娱乐行业在面对AI浪潮时的复杂态度。合作具体内容尚未完全披露，但A24强调将确保AI工具服务于创作而非取代人类。该事件反映了科技与艺术领域间的持续张力。"
     },
     {
       "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
       "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-27T01:01:37Z",
-      "summary": "据TechCrunch AI报道，特朗普政府发布Anthropic公司开发的Mythos 5 AI模型，授权超过100家美国企业及政府机构使用，包括这些机构内的非美国籍员工。该模型在自然语言处理、推理和代码生成方面有显著提升，但安全性和偏见问题仍受关注。此举标志着美国在AI技术推广上的重大突破，旨在加速国内AI应用落地，同时引发对数据隐私和依赖单一供应商的担忧。"
+      "summary": "美国特朗普政府正式批准并发布Anthropic公司的Mythos AI模型，授权超过100家美国企业和政府机构使用。值得注意的是，这些组织的非美国籍员工也被允许访问该模型。Mythos是Anthropic开发的大规模语言模型，此前受到一定限制。此次放宽使用范围，旨在推动国内AI应用，同时保持技术领先。此举也可能引发关于安全与数据管理的讨论，尤其是在跨国民间企业中的扩散风险。Anthropic公司强调将遵守现有监管框架。具体模型版本为Mythos 5。"
     },
     {
       "title": "U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkdJMUZvMnhzbVVDM2xoUWNlLWdVT3p2VlBqUHFpMEE1dWhjdGdsWGE5RWdQSUF4WTdsZ0V2N3drTEstS0dWd0xEMDhQX1Zkejc0TmdLZmZIMkRGUWNKU3FzYlBrUVNvdnNoM3AyTzYweVhxNVF3aU5iMDhCRzVKeVU5RFJpMy1Jdll0alJVZ3Q4VVZhSUE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-27T00:21:36Z",
-      "summary": "《纽约时报》报道，美国放宽了对Anthropic公司Mythos AI模型的限制。此前该模型因国家安全考虑受到严格出口管制，新政允许更多美国企业及合作伙伴在特定条件下使用其高级功能。Mythos模型在参数规模、多模态能力和安全性上均有所改进，此次解禁被视为美国政府鼓励AI创新、保持技术领先的战略举措，但也引发对技术滥用和伦理监管的讨论。"
-    },
-    {
-      "title": "2 battered artificial intelligence (AI) stocks near 52-week lows that are screaming buys now - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVTN4NXNGUUNQVzk4TFQ1bDBfazhqWTFDdGZEaHpyaXNmTUh0LU5VVVZ0WXhQT0trWjd5R2djbGNaM0tldi1Qc2ZQYTBGdnE5dDVVMlZXYTVqWG85WUZGOHRYSWhyb2tMWXZPWFFITFh4WTdmR1JYRnd2UklzZ2YtX2J3b0pMVEZuNDhHWVQ1dEg0bU9tUjhTLXFKOHBwYWZ4NXJIVFVVSEFnZ29Pekp1a2taWUJWMTE1R0x1eGlsaTRKcENnNm01cC1YdjduMi05QmxYMmtRRnlLWEhsNXVPRXBFZXRoa3hUZDloeXJ0ZDVLdlRXMzM0NWNjcm5YRm8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-26T20:51:57Z",
-      "summary": "据MSN财经分析，两只遭受重创的人工智能股票已接近52周低点，但具备强劲反弹潜力，被认为是当前市场上的“抄底”机会。文章指出，这两只股票分别来自AI硬件和软件领域，尽管短期因行业调整和宏观经济压力表现低迷，但公司基本面稳固、技术壁垒高，且长期受益于AI需求增长。投资者可关注其估值修复和市场情绪转变带来的投资回报。"
+      "publishedAt": "2026-06-27T00:54:06Z",
+      "summary": "据《纽约时报》报道，美国政府决定放松对Anthropic公司开发的Mythos AI模型的使用限制。此前该模型因安全疑虑被严格管控，仅限少数研究机构使用。新政策允许更多私营企业和联邦机构部署Mythos，以促进AI创新和产业竞争力。这是特朗普政府推动技术自主的一部分，但批评者担忧未经充分测试的开放可能带来隐私和道德风险。Anthropic方面表示将配合政府实施安全保障措施，并持续监测模型行为。该举措标志着美国AI监管走向实用主义。"
     }
   ]
 }
