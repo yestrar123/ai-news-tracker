@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "1746",
+      "title": "Is the AI water panic real? - 1News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VMWNmVlIxdFBqeVZ3ZzR4eHIzam5nNVBscEVtajBWSDlYQUJxd3ZTTENqcDY1S042UWdUd0R5Qk1hd3BSUXRaN1RRVVBfQjIxbTZwTHhWbUdnQmdMcE9XQXI5MHI4Y0kzcTR2cW4wdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-28T01:13:02Z",
+      "summary": "针对AI技术大规模应用引发的水资源消耗担忧，1News发文探讨“AI水恐慌”是否真实存在。AI数据中心运行需要大量冷却水，随着模型规模扩大，耗水量持续攀升，引发公众对水资源可持续性的质疑。文章分析恐慌背后的数据与现实，指出虽然AI确实加剧部分地区水压，但相比传统高耗水行业占比有限，且业界正积极研发节水技术。核心在于理性评估AI与环境的关系，避免过度恐慌阻碍技术发展。",
+      "fetchDate": "2026-06-28"
+    },
+    {
+      "id": "1747",
+      "title": "More AI context improves knowledge, not accountability — Foixar - The Sun Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQmVFdmRmTEM2WnhTaVJ1UW9adWRleWs5QVNLSy05SjdFek8tOWxUMlpwN3VDZ3hEOUtqUWhEZmVEU1UyNk0tMjA1b3NMdnUzMFlKWEZOOFF5Z1d5TVhXLUhScFhxblNJTkpiREE0SlFJeGx0bGR3SFVXbGV3UDZfRmo0OUlFQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-28T00:54:31Z",
+      "summary": "Foixar在《太阳报》尼日利亚版撰文指出，增加AI系统的上下文信息能显著提升其知识处理能力，但无法改善问责性问题。即便模型拥有更多背景数据，其决策过程依然缺乏透明度和可追溯性，导致责任归属模糊。这一观点暗示，单纯依靠数据堆砌无法解决AI治理中的核心矛盾，必须从算法设计、监管机制和社会伦理多层面构建可问责的AI体系。",
+      "fetchDate": "2026-06-28"
+    },
+    {
+      "id": "1748",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-27T20:42:36Z",
+      "summary": "特斯拉CEO马斯克提出的轨道数据中心计划引发热议，但软银CEO孙正义并非唯一持怀疑态度的人。TechCrunch报道指出，该构想面临技术可行性、高昂成本及太空环境稳定性等多重挑战。专家质疑在太空中运行大规模数据中心的能源效率、维护难度及延迟问题，认为目前仍属过度炒作。产业界更关注如何在地面实现绿色计算，而非急于将算力送上太空。",
+      "fetchDate": "2026-06-28"
+    },
+    {
       "id": "1741",
       "title": "Australian rescue team uses AI-powered drone to find lost hikers – video - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN0o2ZER3UC13TnQtY1VqN2dPakhtSnV5TnlzdjRUOFVvUDZPVEhDVEtlRXdSYUtxY0c1QUJIemZSbDRyNkljdFhfZXI5djVZdGdPVy1OVkoyY19JUGxxZ2dCUnE3cERTX29UekFqOWtzTVUwb3BWMDlDMG9EVm9vb0M2a1NBd0NoVFdMWUN1T19JMFd0elVZUkhRLW1lQzhPUGl4bW1tcF9Id2wyMzhMM3pJUUNmb2xuTE1iQ2JkaXMzQnNjX3kxUlhhOA?oc=5",
@@ -15697,5 +15724,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1744
+  "total": 1747
 }
