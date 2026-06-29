@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "id": "1776",
+      "title": "Prompt injection to deepfakes: How AI rewrites rules of enterprise security - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY0VjTWhCUnMyeU00eGVGY0hnQkhnVEJUcldpWk5yVnRNNlRBOS1jUk5VY1BXN3duNkRIZ1V0WFhMRGNJcldqckEyQmpVTDdwb1NDQXZ4TF8yTXh4dEQzMFlrY1hqcUtHVklPQ3podWlaRmR1TkVLRGlmbXdDVHB4N2lQSkJYNlI3UW10ZVUyNXlfay1tNGowRU9STEVsMGhEOGJhWHVuVHRrSXlWeGk3cVJBRFBNdVF5NUVNbnZmLU5MZVhIbFFIMG12VzRLRzFTbGJycmF4bl9XNGlkRVZsVm41SGJSOVdUVUlCdlBTN1NONkUwZXfSAfsBQVVfeXFMTjRyanpkZTFsZkViNzlhcWIzODdDUlFCMmwtQ0dWUjR3ZEZhWlNIanJaeXVLTE5mekZwVERPRkY3blJTcTVVWVhQUl9QY0UtbzMtb0tTdFV5Z2R6bU16YWQzQmRxeVNnX3VVMi11NXl0Sk9zNWs0MmdxTm5GaFJQTzNUWi16SnB0bGVCQU9hSkZrZW5Bd25VenVMUzl5SS10UklNQUdjT1FJZ1dwSHNwWHJndEhDbFk5U2lyc3pLWWZJNzM5Nl96ZklLcUNoSUl2V3VjZnNiczFDS2VwS2VqTmJZaXdOWUh4X095Y192c0VQQnNCdHpBMlljcHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T10:08:48Z",
+      "summary": "本文探讨了AI如何重塑企业安全规则，从提示注入（prompt injection）到深度伪造（deepfakes）等新兴威胁。提示注入攻击可操纵AI模型输出，而深度伪造技术则能生成逼真的虚假音视频，给企业身份验证、数据保护和舆论安全带来严峻挑战。文章指出，传统安全策略已不足以应对这些AI驱动的攻击手段，企业需采用多层次防御、实时监测与AI安全框架，并加强员工培训，以抵御日益复杂的智能安全风险。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1777",
+      "title": "Wimbledon adds IBM AI tools for live match coverage - AI News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcTJ3Si1LYVhXeWlkXzFxWjVqS1NQMVhRS3hxTklMWlVKOFhjcDZNSWJqNi1hUnpZWmpBa2JGZ1ZDTktVQzlZWGpObV9VclRNaHpNNzVOZ3RDX0RUbGxGN01xaVdZRU1KWTVKc1F6eUhja1FOTmRpeEEwV21yMV9OTlZZS09vT3FsdzZ5QUZ5T2luZ0hQY1dN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T10:00:56Z",
+      "summary": "温布尔登网球锦标赛宣布引入IBM的AI工具，用于提升现场比赛报道的体验。这些工具包括AI生成的精彩集锦、实时数据分析和个性化内容推荐，能够为观众提供更深入的比赛洞察。IBM的AI技术通过自然语言处理和计算机视觉，自动识别关键得分、球员表现和战术亮点，大幅缩短赛后内容制作时间。此举展示了体育赛事与AI融合的最新趋势，旨在增强观众参与度和报道效率。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1778",
+      "title": "Artificial Intelligence in Gynecologic Oncology: Current Applications, Clinical Challenges, and Future Perspectives - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeWpQdVJGT3VSWElzNDVlN3pfZEw0eFQ5TnVMTkFFeFJlaTdncUhSVmZmaFptZHoxUzM2X21VOUdfM05VTUpURVBqdi1yQVVCcThzLTYtV013bnlKV0gtTjdEbjlNdzJfcmFUX1YzM2o5Ui1hd3Nmckl4TU1TcmRxd0JNTldvVUdJdU1WM3ZGRWRNdk5obllVTzFPOWRBSnBxaUdwb3p3TFREUFVxUUFQa1F1RWxpeWpycEpTSWJJUXNPbW83ZFFNMVJ6di0tSkEtOFRxbFFLcmpBRUJ6SC10b2ltWGVPZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T09:32:11Z",
+      "summary": "该综述系统回顾了人工智能在妇科肿瘤学中的当前应用、临床挑战与未来前景。AI在影像诊断（如超声、MRI和病理切片分析）中展现出高精度，能够辅助识别卵巢癌、子宫内膜癌等疾病。同时，AI在基因组学、预后预测和个性化治疗推荐方面也取得进展。然而，数据质量、算法可解释性、伦理问题以及临床验证不足仍是主要障碍。未来需加强跨学科合作，推动AI在妇科肿瘤领域的可靠落地。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1779",
+      "title": "25 years ago, this scene from Steven Spielberg’s ‘A.I.’ predicted the collapse of objective reality - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNi1wZVJ1el9jQ1E5VWZMZzZWOEVJUWRjSy0zTmoxUXh1RXBua1c4RG0tejNjSUVvSXNSVXdvTE9uSG1IZWVsSV9aN0RjOHZ2MGZ6M1AxNkZOZ0E3Sm1yNUpweXRHMktjeDlRUDQ5aEJ6YlplNVpueVBuWlVjN2V0anNBZUdqZWhMRkRXbE5LLVRlNlhLbXhCRHlOZGFSanN1aEwxYXV4d2ttYk1fWmYtMDh4MlpvX1plbGRmT0dYUHZkelp2ZjZTSDNSNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T09:08:50Z",
+      "summary": "文章回顾了25年前斯皮尔伯格电影《A.I.》中的一个场景，认为其准确预言了客观现实崩溃的风险。电影中机器人男孩的遭遇隐喻了当人工智能创造的虚拟体验与真实记忆混淆时，人类可能失去对现实的判断力。如今深度伪造、AI生成内容泛滥，使得虚假信息难以辨别，社会共识遭受侵蚀。这一预见提醒我们需警惕技术滥用，加强媒体素养与AI内容溯源机制。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1780",
+      "title": "Focus: Banks get creative and look further afield as AI-fueled debt soars - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDBiVE50bXZsYUc3enlSS2I5WjlqVkJtRHF0S0Mtbms4cmR6bnRSNGpDRHczSDQ0VkpyY3JLSXpka2NBYU11amM2akJROFVaZzFOMmppaHJpd0ZjVjFqWnRrRmplV2hFaHZ3N0otLWtpUm1MTkVTMDJSNFBwMnRad1k3ekN5UmVNOGI0Y05fSGNCemhUaUhkbVhCcFhNaWdxbklhRVJ5RkE5eHV0b2FJVkxn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T09:07:34Z",
+      "summary": "随着AI融资债务飙升，银行正采取创新策略应对风险。许多企业大量借贷投资AI基础设施，导致债务水平上升，银行在评估信用风险时面临新挑战。为管理这些贷款，银行开始利用AI本身进行风险建模，同时拓展更广泛的资产抵押和非传统融资渠道。文章指出，AI驱动的债务增长虽带来机遇，但也需要银行加强监管合规和压力测试，以防范潜在的系统性风险。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1781",
+      "title": "With artificial intelligence (AI) emerging as a key geopolitical weapon dictating national security.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WZzFCcy1La3ZFYW5IbV9hNld2SnhRNkZpUEJ5SzExay1kMFZ0THFscV9hdVRBZ1BzM2JOQTRhZmM0RkNOT09oZktmSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T08:50:27Z",
+      "summary": "人工智能正成为决定国家安全的关键地缘政治武器。各国将AI技术视为战略资源，在军事、情报和网络防御领域竞相部署。AI可提升自主武器系统、态势感知和决策速度，但同时也带来军备竞赛风险。文章强调，国际社会需建立AI治理框架，防止技术滥用，并确保AI发展符合伦理与安全标准，避免误判或冲突升级。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1782",
+      "title": "Nigeria Launches AI Scaling Hub to Accelerate Artificial Intelligence Development - TechAfrica News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYWQtazVqQm9rVW5qVVhvR0Ffa3pJNl9fTE1CY1VfZ0RMeW84VDY5MWRZWklQWnVlbWVBLWEtMWwwanNTdkUxVERkaDdwS09pS0MwUzZLa1FDLXFYUkRFSC1UTDZsWEtBTlpXc29JNlNWUFBvX2ZWRUlXQXA2RXNXcldDTFh1MXlGa1d4M2J6OWptQ3hrT1JmYTU4NkNBRGdKWjBEc0lxazRlcG9UTjNyRkNkWDNQa0drMmphaQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T08:35:21Z",
+      "summary": "尼日利亚宣布启动AI扩展中心（AI Scaling Hub），旨在加速该国人工智能技术的发展。该中心将提供计算资源、数据集和培训，支持本地初创企业和研究人员开发AI解决方案，重点领域包括农业、医疗和金融服务。此举是尼日利亚国家AI战略的一部分，希望通过建立生态系统提升区域竞争力，并吸引国际投资。项目预计将创造就业机会并推动数字化转型。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1783",
+      "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRjJEdEMxTXYwZjhtcEhIMVFfdHJtbHpDa0ZrVmRZT1ZTR2JrYmRjTTRST2dlTldSSC1WXzd4YUJ2Z2xxa2dPNllDTF9LQmc4ZElBQXdhVVZQNVVFUlBVSng4RDVyNkxvb3BnakFiZURmUGVZMkRxWHhqN3ZaSU9Rcm0yalVaUEtpLXZ2OWlFcWFkTko3N1ZxS0pkZ0ZBakhIdThEbDA1MHc4dEFra0RWVnVnVUNyeGNUM3BjOXdOcmlqNml6QXhmS3FuWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T08:09:20Z",
+      "summary": "xFusion公司推出覆盖从边缘工作站到液冷数据中心的全栈企业AI解决方案。其产品线包括AI加速边缘设备、训练推理服务器以及高效液冷散热系统，旨在解决企业从边缘到核心的不同计算需求。液冷技术可显著降低高性能AI集群的能耗和散热成本，而边缘方案则支持低延迟实时AI应用。此举展示了企业在规模化部署AI时对硬件灵活性和可持续性的重视。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1784",
+      "title": "UN ambassador Lametti: Canada pushing for safety, equity in artificial intelligence - Narcity",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hQklMSlc5RVZodnlKSmNSM08wMUpReDNkNS1xaWFaak5wVmNlRTBNaGJFWEx5WEpsM2tKNGpEN2dBM1Y1NTA0OWw1QzNjcmM0R0RIUFZ2RlVnUEVKNTJqSDNiUkNfNlM2QVVackctTnk1NHE0ZkVlNmxYdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T08:00:32Z",
+      "summary": "加拿大驻联合国大使Lametti表示，加方正在国际层面推动人工智能的安全性与公平性。加拿大倡导制定全球AI治理原则，强调需确保AI系统透明、可问责，并避免偏见与歧视。同时，加拿大支持建立多边机制，以协调各国在AI军事应用、数据隐私和劳工影响等方面的政策。这一立场反映了加拿大将人权和包容性置于AI发展核心的外交策略。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1785",
+      "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026 - AI News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRzlqTFhWVHJKeEFkVEZnS1RVXzNEOFBuWEZCaFVnRl8wWGcySW5BaThrR2ROMzhZbG5aSlJucEgtRVVuV0hSdnU0TGhBUnB2Z3RHaFpUYkU0LUsxT1Q5RTlpRzJqU0x2enRfRUJBcGh1OV9WeWJyemFKN0RpQUpqWEFJNnB3YkprVXFVNXBpY0xkSFFEZWlrUTJFdGxkWVh2ZVEzdVpUVkdqcTdsczBRR0wydi1KYm9OdkRDd2N1aW00MlI0YUswN1dDVDYzZ2tKV2R4cGtxWjFIWkls?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T07:58:32Z",
+      "summary": "Scam.ai在Computex 2026上宣布与高通合作，并推出Halo深度伪造检测模型。该模型基于高通骁龙平台的AI能力，可在边缘设备上实时识别深度伪造视频和音频。Halo采用先进的神经网络架构，能够分析数字指纹和细微伪影，识别率高达99.5%。这一合作旨在将防骗技术集成到移动设备和物联网中，帮助用户防范社交工程攻击和虚假信息传播。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1786",
+      "title": "Baidu shares jump as Kunlunxin IPO report fuels AI optimism - Invezz",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0NHUXZQNnF4SGJFOTZIR0ZNUTlWNzZjalV4S0Fqa1pRdjNsb2JzMl9RMXZCVzhaalNWekZvZnVqRHpta0NCcjA2YVVVaFp3WFhPN24wZmVHNkFXMU5ubVdkOF9SVU15WC1xcWFySDAxZk1HeGI2M3ZHaTBpX3ZPTHpjMEd2U01xMGNiMVNEWWhfcC1qaWFRc2hVV25jSVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T07:12:32Z",
+      "summary": "百度股价因旗下AI芯片公司昆仑芯的IPO传闻而大幅上涨。市场分析认为，昆仑芯作为百度在AI芯片领域的核心布局，其独立上市有助于吸引更多资本，加速AI技术商业化。此举进一步提振了投资者对百度AI前景的乐观情绪，推动股价短期走强。昆仑芯若成功IPO，将强化百度在AI硬件生态的竞争力。该事件也反映出资本市场对AI半导体赛道的高度关注。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1787",
+      "title": "The days of artificial intelligence (AI) coding instead are long gone. Now, imagination is importan.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zeV9sUmlka21xc284NGNyMHYybS1RRGQzNkZ5NmZoN0FGM1dnNEhMS3pwR05tWlZlQ2dyeUQxMFNCTzk4cjdvYVdIWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T07:06:16Z",
+      "summary": "有观点认为，AI单纯替代代码编写的时代已经结束，如今更重要的是人类的想象力与创造力。随着生成式AI的普及，编程门槛大幅降低，技术焦点正从自动化转向创新应用。行业开始强调结合AI工具实现突破性想法，而非简单重复性劳动。未来，能充分利用AI进行创意设计、策略规划的人才将更具优势，想象力成为新的核心竞争力。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1788",
+      "title": "AI (artificial intelligence) - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T07:03:38Z",
+      "summary": "《卫报》近期发表专题报道，深入探讨人工智能技术的最新进展及其对社会、伦理、就业等多方面的影响。文章指出，AI在医疗、教育、传媒等领域的渗透正在加速，但同时也带来数据隐私、算法偏见等挑战。报道呼吁政府与行业加强监管合作，确保AI发展符合公共利益，并强调需要培养公众对AI技术的理性认知和批判性思维。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1789",
+      "title": "How Communication Science Study Program USU Responds to Artificial Intelligence (AI) - QS GEN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEh6ODN5Mk8zUGRfR1ZxcnlzS2t3RFFpT3BmYjJPSGJMb2tLRkdocHJoV0NPSk01dE16RUs2cWJUS0JERUdBckZJdmd6RENWckhOTlRicFpzcmRzRHg3WnpjNFRDbGxER3JDcm9fUG45Mm1FalpZeVB6SlpXWkxEMEhGQ25jRVp1N1BOaFRoY1dGa00wVFlXZllFM1I5YW93NVBGRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T04:53:14Z",
+      "summary": "美国南卡罗来纳州立大学（USU）传播学项目积极应对人工智能带来的变革。该专业通过调整课程设置，引入AI伦理、数据分析和人机交互等模块，培养学生批判性评估信息的能力。教授们强调，在AI生成内容泛滥的时代，传播学人才需要掌握辨别真伪、管理算法偏见等新技能，以维护媒体公信力。这一举措为其他高校提供了借鉴。",
+      "fetchDate": "2026-06-29"
+    },
+    {
+      "id": "1790",
+      "title": "Your helpful robot pal may secretly be a DSA member - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQalpsTl92RkEzSGhoUHNNWFdsd3pUQVFlN3ZGSVZnRWU0UzRBbmVFRWZLUm9yeklKRGE4QTZRT0tvSFE0bWV1Y1FvbFg0RUloRjB6ei1DMWpNRm96VEI5WDRNQnh1R19MVTdMa0l5ZXpKZ2JCNGk1VlAxVHFwUzNCYVc3dk51NXdQdzJOVm5mS3BPVy1i?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T04:45:00Z",
+      "summary": "《纽约邮报》一篇报道引发热议：你身边乐于助人的机器人朋友，或许暗中是美国民主社会主义者（DSA）的成员。文章指出，AI系统在训练过程中可能从带有政治倾向的数据集中习得隐性意识形态，导致看似中立的机器人表现出特定政治立场。这一发现警示，AI的“中立性”并非必然，需警惕算法被植入主观偏见，尤其是在公共服务和社交领域。",
+      "fetchDate": "2026-06-29"
+    },
+    {
       "id": "1770",
       "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by 2028 - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcXRmcnk5dnBqckRDdlV5UTF1NHFBREMwWW5ReGdxaDNVZzhtbG9zVFZuR3ZrZ0YybWNrRW5yZlpSWjN3SHM1ZHZneFVuem5MVE1Xd3pTZ081Zl9JOVBSWm9vM2x3cm0xUnd3N3pUZ01IT1VtYk04VEdaVnVmOWZkQ3NuajFaMV8zMWlyY3dUQ0lQc0dPa3JFbjRfbw?oc=5",
@@ -15967,5 +16102,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1774
+  "total": 1789
 }
