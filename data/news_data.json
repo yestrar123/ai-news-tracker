@@ -1,153 +1,111 @@
 {
-  "updatedAt": "2026-06-29 15:28:52 UTC",
-  "totalArticles": 21,
+  "updatedAt": "2026-06-29 19:41:26 UTC",
+  "totalArticles": 15,
   "articles": [
+    {
+      "title": "Police use of artificial intelligence grows as rules lag behind - Wausau Pilot & Review",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2xrc0NtTzI4ZTZVVWhSUjc0Yk1ySVc5aGxCOGw2YzJFUmpzaXNoR0dKbzNRUG8wWXlPaWtKazVXX1RQVm5oZFBlVzFoanRWWWx3SGhUNnNENGMzMk1YLVk5MUpnN3F1OVVSa0M3M0RuX3ZGTUVhZmlfWkExYXFqM2NybnRzdmQyVi1maDBzMVR5VVZ3QjdVRTBDd01XWVNrVzVRVUNKd09tOUVM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T18:58:00Z",
+      "summary": "随着人工智能技术在警务领域的应用日益广泛，警方利用AI进行面部识别、预测犯罪和监控等手段不断增多，但相关法规和监管措施明显滞后，引发对隐私和公民权利的担忧。《Wausau Pilot & Review》报道指出，在缺乏明确法律框架的情况下，AI执法的公正性和透明度存疑，亟需制定相应规则以确保技术应用不侵犯基本权利。"
+    },
+    {
+      "title": "OpenAI is teasing new hardware… for Codex - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb0lTMVR3Z1lGRDRTMjZZMTJvOUJsbHJ1R2FpNmFqbV92VzNmcVUwQlAtTkFWNzk4Ynp4REQtRmJqazhaU2g4RjhrMWM1QUtGZ05BN21TYnVlakVKOEViUEtzUzBYdFVIS2E2UGNfWGlaSlpFcjRzN3Znc3c4Mk4td21qQjN0anF2UHRGaGJaVkRhRkZYN01B?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T18:52:03Z",
+      "summary": "OpenAI正在预告针对其代码生成模型Codex的新硬件。《The Verge》报道，这一动作暗示OpenAI可能计划推出专用硬件或与现有设备深度整合，以提升Codex的实时编程辅助能力。虽然具体细节尚未公布，但此举被视为OpenAI拓展AI开发工具生态的重要一步，可能为开发者带来更高效、更流畅的编码体验。"
+    },
+    {
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29T18:10:26Z",
+      "summary": "Anthropic与加州州长纽森达成协议，允许加州政府以半价使用其AI助手Claude。此举加深了Anthropic与加州的合作关系，但同时使其与联邦政府产生对立。该交易旨在降低政府AI应用成本，提升公共服务效率，但也引发了对AI厂商与政府关系平衡的讨论，以及联邦层面可能采取的反制措施。"
+    },
+    {
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29T18:07:48Z",
+      "summary": "韩国两大科技巨头三星和SK海力士承诺投资超过5500亿美元，以应对全球性“内存危机”。这些资金将用于建设更多内存芯片制造工厂，巩固韩国作为AI技术强国的地位。该投资计划旨在缓解因AI应用爆发导致的高带宽内存（HBM）和DRAM供应紧张，确保全球AI基础设施的稳定发展。"
+    },
+    {
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29T17:39:17Z",
+      "summary": "AI模型评测平台Arena现已成长为估值达1亿美元的业务。该平台通过运行广受欢迎的免费AI排行榜，吸引了大量用户和关注。其商业服务于去年9月才启动，但发展迅速，证明了社区驱动的基准测试在AI评估中的巨大价值，并为模型开发者提供了重要的性能参考依据。"
+    },
+    {
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29T17:03:50Z",
+      "summary": "AI编程工具开发商Cursor推出移动应用，允许用户远程监控和管理其代码智能体。该应用专为开发者在移动场景下工作而设计，支持查看代码生成进度、状态更新和关键反馈，无需始终守在电脑前。此举将Cursor从桌面工具拓展至移动端，提升了开发者在AI辅助编程中的灵活性。"
+    },
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-29T16:29:04Z",
+      "summary": "音乐流媒体平台TIDAL宣布严厉打击AI生成音乐，将切断此类作品的获利渠道。平台还将使用自动化工具识别并移除那些试图模仿艺术家或乐队的AI音乐。此举旨在保护原创艺术家的权益，防止AI生成的仿冒内容扰乱音乐产业生态，反映了平台对AI内容伦理和版权问题的重视。"
+    },
+    {
+      "title": "7 Ways Artificial Intelligence Is Transforming Digital Marketing Strategies – Copy - The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1NKYjRCOWQxVU92OWI0Z2tQVFVBV2o5aHpTOGJXcmZBaTZfU2xOOEpldnFqS3hnTl9rRXdjNlgtZ1RMaklYOFE2U0t2OXRLbElYQVBpMHFYcG5jMnk5Y1JPR3ZWd0NRdE9Xb3hSaHB6M1Z3MG41MXJQaUVvY3JwdzNKNWFlcmZLUjN5UGV6UVlNdW1ZV290TEFhV0RDNDFxVjUw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T16:10:23Z",
+      "summary": "《AI Journal》总结了人工智能变革数字营销的七种主要方式，包括通过机器学习实现超个性化推荐、利用自然语言处理优化内容生成、通过预测分析提升广告投放效率、借助AI聊天机器人增强客户互动、自动化SEO优化、利用计算机视觉分析视觉内容影响力，以及实时监测营销活动效果并自动调整策略，助力企业在竞争中获得优势。"
+    },
+    {
+      "title": "Samsung and SK Hynix announce a joint $518 billion investment in artificial intelligence - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHhmRjdGcTF1WVpVYS1nTVRQMHU3bjBGVHMyY3VJNVlJYjJRemJEaXJBakZfNEtLRFEzbmgzYno5MWRlR0JxMUFrZjRtbU4tYmdnRnBjRFcxRk1sazNNckRxMkhKalhQR0NkZ0JLWmFmU1FtcEw3Mm5aNF9HcGNVVll0SnNJYll3ODNNWXZJSE43cHluZ3ZvcmJVbTlheGVVNXhVRU5HSlNYblFIUmhRYUlWQzhYdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T15:30:19Z",
+      "summary": "三星电子和SK海力士联合宣布将在人工智能领域投资5180亿美元，这是韩国科技界迄今为止最大规模的AI相关投资。资金将用于扩建先进半导体生产线和研发下一代高带宽内存（HBM）技术，以支撑全球AI算力需求。此举不仅强化两家公司在内存芯片市场的领导地位，也凸显韩国志在成为AI基础设施核心供应商的战略意图。"
+    },
+    {
+      "title": "Advent Accelerates Deals with ChatGPT and Codex - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVFBdEtPaWJHVHZGY3Z5dS1ibnNkcmZrVnlWVE1rSXJYa2FWZ1k3VkxNYUdLQUpsWWJxc2JUbnZRVnBaODBFY05GajZTMTB0elZFanhHLUlnczhVam5UZWdhMzV2a1ZiTEpWREU4dmpyaVBYUUMzaDd6c3p4WVlmSnVxZFpqaDdOeEJ5RENNQ2Q1c2lPMndHMjRSWm9jTjJiZDVyZ2hqaXBaZkpIeTJN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T15:02:48Z",
+      "summary": "据StartupHub.ai报道，风险投资公司Advent International正在利用ChatGPT和OpenAI的Codex加速交易流程。通过将AI集成到尽职调查、数据分析、合同审核等环节，Advent显著提升了投资决策效率。这一应用展示了生成式AI在金融科技领域的潜力，能够帮助投资机构更快速地评估初创公司，并优化交易执行过程。"
+    },
     {
       "title": "From Experimentation to Clinical-grade AI in Healthcare - Emerj Artificial Intelligence Research",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2eWRYdk5iOThLT3pRUDRPSGNDNDFTbTlaNUhHTXdoay1mZzVhSy0xcE5mb1BTaHlTNTk4OGxpak5TZFFPWWFjNkE3dHBNNURQY3JtbDB6VHRSaUVQb2E2UkE3NWlCWGxzQWhFbnVQdFhIM2llUURKam9VbEFPWFk?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-29T14:48:01Z",
-      "summary": "本文探讨医疗人工智能从实验性研究向临床级应用跨越的关键路径。核心挑战在于如何确保AI系统在真实医疗环境中的可靠性、安全性与可解释性，并满足严格的监管标准（如FDA认证）。文章指出，当前技术焦点已从模型精度转向数据隐私保护、算法公平性及与临床工作流的无缝集成。通过成功案例（如影像诊断、病理分析）说明，只有经过大规模前瞻性验证且具备持续学习能力的AI产品，才能真正获得临床信任，实现从“辅助工具”到“决策支持核心”的转变。"
+      "summary": "本文探讨了医疗AI从实验室实验向临床级应用的转变过程。文章指出，医疗AI系统需要经历严格的验证和监管流程，才能从研究工具升级为可靠的临床决策支持工具。核心挑战包括数据质量、算法可解释性、以及与现有医疗工作流的整合。作者强调，要实现真正的临床级AI，需要跨学科合作，建立标准化的评估框架，并确保系统的安全性和有效性。这一转变标志着AI在医疗领域从概念验证迈向实际应用的关键阶段。"
+    },
+    {
+      "title": "Beef Cattle Artificial Intelligence is Transforming Modern Farming - Farms.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONklWdUZQcXZpRTlxTGx3YWpQRUNPa3gxaFhfQmJybDBYOGstVHNKYnB2czYzSGMtbkVrS1E4WlRWeHZyc1BZaDRDQ2xnLXpPOUM4ZkM4NUsyWDVjcy1rSzNPbFdKMUg1QUNZSzJwSHpDcnJQLWJlemxVUGFNR1J5eEV4ekVqMnpMbEZRaUhqRWdqTU1jMXRkeElNVlpTM3pEdHcxMGlNUnRzRUlvMVlJeVBSTG0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T14:45:45Z",
+      "summary": "文章介绍了人工智能如何革新肉牛养殖业。通过计算机视觉、传感器和机器学习算法，AI系统能够实时监测牛只的健康状况、行为模式和进食情况，实现早期疾病检测和精准饲养管理。这些技术帮助农场主提高生产效率、降低劳动力成本，并优化肉质和产量。例如，AI可以分析牛只步态识别跛行，或通过面部识别追踪个体。文章认为，AI正在推动传统畜牧业向数据驱动的精准农业转型，成为现代农场不可或缺的工具。"
     },
     {
       "title": "American Opinion: Hopefully, lawsuit can start to rein in AI's theft of original content - West Central Tribune | Willmar, Minnesota",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFVtX3hMS1FaSmhWSWJSQVpTQ1E1Z1FCb0IwaDZ0cThEaTJabTlNOE1nWnVhZWNkQk1GOE1lYnFvV2ZKU1U1Y3VuUFFDSUFyeTkxUmhVLS0wMnoyeGFmbkVCMS1yUldDdjI4cTR5akJBVkRzUE5Hd0NQOE11ZEZ2d2tReDNnaWR5UTQya0tPV0FEMEp4Q2JjVnBTaHVXQ1EtczEzOXlmOGZuYUJEemtlcENQTjNTaEdpRUtMOW9mUXJnYUJsa1E?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-29T14:37:31Z",
-      "summary": "美国舆论界期待通过法律诉讼来约束人工智能对原创内容的“窃取”行为。文章指出，大量生成式AI模型在训练时未经许可抓取受版权保护的文本、图像等内容，引发广泛侵权争议。尽管AI技术带来创新红利，但它不能成为忽视知识产权保护的借口。作者希望近期相关诉讼能推动明确法律框架，要求AI企业公开训练数据来源，并对权利人进行合理补偿，从而在促进技术发展与保护原创者权益之间建立平衡。"
+      "summary": "评论文章讨论了通过法律诉讼来遏制AI对原创内容的盗用问题。作者指出，生成式AI模型在训练过程中大量使用受版权保护的文章、图片和音乐等作品，但未获得授权或给予补偿，这实质上构成了对创作者权益的严重侵犯。近期的一些集体诉讼案有望为确立AI训练材料的合理使用边界提供判例。文章呼吁司法系统应明确AI开发者的责任，建立公平的补偿机制，以保护原创内容的价值，防止AI成为大规模剽窃的工具。"
     },
     {
       "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
       "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-29T14:00:08Z",
-      "summary": "机器人手部技术初创公司Proception解决了与特斯拉的商业秘密诉讼，并宣布完成1100万美元融资。该公司专注于攻克机器人领域最棘手的难题之一——灵巧手部操控。与传统方法不同，Proception采用独特的训练数据收集策略，通过模拟和真实环境结合来获取海量高质量交互数据。这笔资金将用于扩大研发规模，加速其机械手产品在工业、服务机器人等场景的应用落地，标志着该领域从法律纠纷走向技术推进。"
+      "summary": "机器人手初创公司Proception宣布以1100万美元融资完成新一轮融资，并同时解决了与特斯拉的商业秘密诉讼。该公司专注于开发灵巧的机器人手，采用独特的训练数据收集方法——通过让人类佩戴数据手套执行精细操作来获取高质量的示范数据，以解决机器人手部控制这一公认难题。与特斯拉的和解协议具体条款未披露，但此举清除了公司发展的法律障碍。这笔资金将用于加速产品开发和团队扩张。"
     },
     {
       "title": "These 7 Stocks Will Solve AI’s Most Important Bottleneck - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRklVNG9UTFVrdGlNT3l0TTFmWVI1OGR0MHF4TUVoRktySF9tei1oblEtSTN3WGZzbnlUQWc1Q0F5ZTF6VU1UWkcxNkxDVjlnZkxJQndFeGlSdHNQNHBCOEZQN3diVTM0U2pUeWRJblJ1TmI1cTZfQUVqUmRtYjhkVmdPVzVlLWpxejluamFRTnFYNUJBNGRLNXRqVkwyU1BM?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-29T13:58:08Z",
-      "summary": "分析报告指出人工智能发展面临的最重要瓶颈（如算力、数据规模、能源消耗等），并筛选出7只有望解决这些瓶颈的股票。这些公司涉及高性能芯片制造、数据中心基础设施、能源效率优化以及专用AI硬件等领域。文章认为，随着AI模型规模持续扩大，传统硬件架构和电力供应已不堪重负。这7家企业在各自细分赛道拥有核心技术，能提供更高效、更低成本的解决方案，有望在AI产业下一阶段获得显著增长。"
-    },
-    {
-      "title": "MicroVision sends lidar sensors to AI giant for robotics tests - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTFUV2NCeDVGa2tzUUZqbXFpRjJzbWx0ejVSU3VmWFhJTUlNNUgzZmdzLVRKUWhYaXZOSjd4YUZGMkd0U0RLVHZPZUxTVzV2RjROR0FjclVjNTEwUGE5eVFlUHhET3ZfbVRRNTZJNEc5YXJXblVkUnV4WFNVQ3lGZGtaUDZIV2J6ZURpTjgwcmFKc1FDbzkzUmRleFZrQ2p5M2dRc3RJZEM5MDV4SHV2NDhoM185UQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T13:20:00Z",
-      "summary": "激光雷达制造商MicroVision宣布已向某AI行业巨头发送其传感器产品，用于机器人技术测试。该传感器采用固态激光雷达技术，具备高分辨率、低成本和小型化优势，适合机器人环境感知与导航。MicroVision希望通过这次合作验证其技术在复杂动态场景下的性能表现，并寻求进入庞大的机器人传感器市场。此举也反映了AI巨头正积极整合多种传感器以提升自主系统的能力，加速商业化落地。"
-    },
-    {
-      "title": "The Business Strategy Analyst with Jules Nartey-Tokoli: AI: Is it Artificial Intelligence or Artificial Imitation? (II) - The Business & Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdEotOUpOVUR1alBKX1pJU0xhZWVJVDNSV0ZaRy0xdW1iaG83dDNrcVFiYTlNRVQ3OHV1YTR4YzVQREg5SzN2SzBsU1hPaWVZd0RCeC1zdENuQmwySmZVNVhIOFEzMXdXQVVfcTVxeXd3UW9GTzlmZDdsUVFFREF5cW4yWFZKZ25SU21DUWRwQmtMaVZIdzhQNHlRRU8wWVJIYkxQUElfbWJ1c0RXdVluWWR6SjZHVkdvYVJ4NUVkemlvX2NEVU1lME5CS3B2ODBZMXlFZHZHZVJWS0hSbFFIZVhmV2l1UQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T13:15:23Z",
-      "summary": "商业战略分析师Jules Nartey-Tokoli在专栏中提出质疑：当前的人工智能究竟是“真智能”还是“人工模仿”？文章（第二部分）深入探讨生成式AI的本质局限，指出许多系统仅靠海量数据模式匹配生成输出，缺乏真正的理解与推理能力。这种“模仿”可能导致企业战略决策风险，如输出偏见、事实错误和创新能力缺失。分析师呼吁企业不能盲目迷信AI标签，需理性评估技术真实能力，避免将“模仿”误认为“智能”而误导业务方向。"
-    },
-    {
-      "title": "Meet the Artificial Intelligence (AI) Software Stock That's Quietly Outperforming Palantir Technologies in 2026 (Hint: It's Significantly Cheaper) - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeV84dFN2aDU5aG9KcDdWX29hNEJFbC1USEZFN1FUTUtRVlpzaFFNNjV6YnhpVWNFR3o0MTRMbjRUbUhMNzJfQXoyMjQyYkJOZmxmRHlFNGg2NjI2ZG1PY2ExaVBrckt2djhXWlI0MEVjcmJrUHFqWmt2QUY0MGlXbE5GNEY3TUFCVWRCd29Oa2d3Zm5LQ002cA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T13:02:31Z",
-      "summary": "金融媒体透露，有一只人工智能软件股在2026年悄然跑赢了知名公司Palantir Technologies，且其估值远低于后者。文章暗示该股票并非市场头部明星，而是专注于垂直行业AI应用的“隐形冠军”。通过技术壁垒和精准市场定位，该企业实现了稳定的营收增长和盈利，但尚未被过度追捧。对于价值投资者而言，这只低价且业绩优异的AI股可能提供了被低估的入场机会，值得关注其背后的产品与客户生态。"
-    },
-    {
-      "title": "Omen AI’s plan to optimize data centers is all wet",
-      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-29T13:00:00Z",
-      "summary": "初创公司Omen AI完成3100万美元的A轮融资，其核心业务是利用AI技术优化数据中心冷却系统。数据中心高密度芯片产生的热量和细菌滋生是两大痛点。Omen AI的方案通过实时监控芯片冷却液的化学成分和微生物活性，预警并自动调整冷却参数，防止因细菌堵塞腐蚀导致的服务器宕机。这种“湿法”管理方式有望降低数据中心能耗并延长设备寿命，契合行业绿色低碳转型需求，受到资本青睐。"
-    },
-    {
-      "title": "MCA AI Day highlights the growing role of Artificial Intelligence in business transformation - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUDB2eXgzZkpMQTFkUmx0dFh4RHpPeG03T3laMFl4QmVPN3drbFhYdXY5Z3ZpLUpqeFJVZjB3a2d6X3gyV2M5SFRTYnBnTkN3cEYtVV9FY3I4VVJjUV9iTkJNcDkzUXNRRHY1NS1WMEM1LWNyM00xZTV4RnR1RU1rSzJiUTc5RFRtSlltSzlxdU8yREV5NFVSQnVLa01UQVhhNW93Y09aMGEyUDcybTRpM2hqLTdyRlN1VUVkNlpIWWltakJRODUtckE1bTE0Q3NkSUl2R3d3T0U2WVJ2bks5RdIB8wFBVV95cUxOLTVoRlBtM25NN3hEYk5MMjJiaFBEX0JHQjlIZzF4YUNDYWZZaGxUeTRxa0VMb00zTFpNY244Q2JwLXNPRWxONS03OWtnbG1nM0dvNDlCV1d1T3N3bm5zc09GZ2xJV0ljb3ZjXzVKbG95ZzlNMFI4S1JtRHhZNktSMWtPRDJNaEYyb2JCTFg2YmppU3kyYmtabW9lNGVqTm11QlJVc1RKakYwTFFHMVJhUzJNT3o1bGxlM0VFT0pZSFFkTVFpX252R21SeW40QXdnVExrdUJjOGZpc1VBT3hKZjFyckh5S3ZhWnU1RG03VDB6cmM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T12:44:18Z",
-      "summary": "MCA AI Day论坛强调了人工智能在商业转型中日益增长的作用。会议汇集行业领袖、技术专家与企业高管，重点讨论AI如何重塑运营流程、客户体验和决策模式。议题涵盖自动化工作流、智能数据分析、生成式AI应用等。与会者认为，企业必须将AI视为战略核心而非单纯的技术工具，才能在数字化浪潮中保持竞争力。同时，也需关注数据治理、人才培训及伦理合规等挑战，确保转型可持续。"
-    },
-    {
-      "title": "25 Years Later, Spielberg's Most Controversial Sci-Fi Masterpiece Is Bleaker Than You Remember - Inverse",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSDBWSWI1X2FtU2RITnJmQlZpS015SlE3SVNzbTNCcjhXVUVtS3VoNW1ja1VVNHZlZ19mRDlMei1NT1hDV3QzNVplNDE3amgzMlppTFN5RTRCMjduMm8tSHlpVkxzWlJQYThwWVZaOG1qdENRMTRITEZlX21KbkwtUDgwdF95QWNVMFNOcA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T12:30:25Z",
-      "summary": "在斯皮尔伯格经典科幻电影上映25周年之际，回顾指出这部饱受争议的作品（通常指《人工智能》）比人们记忆中的更加悲观。影片探讨了机器人渴望成为人类而引发的伦理困境，展现出AI在渴望爱与接纳过程中遭遇的残酷现实。评论认为，当年观众或许被温情表面所误导，忽视了其中关于存在意义、生命消亡以及对技术盲目崇拜的冰冷预言。如今重看，其暗黑内核与当下AI伦理讨论形成深度呼应，令人不寒而栗。"
-    },
-    {
-      "title": "Artificial intelligence buildout is driving prices higher for US consumers - Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGZsaHJ1UnVOcW5Yc0R5LWo4NWlPaklVbGo5VnRpTkJDd25XcklJX1pJQTdBcUl6d0RyazFzdlkyRXR1ZE5JdnFfaDNUS2xBVDU0Yy03VGVNRWFueGM3cUkxWU1qN1c2bEsxR3duT1M3U211SFE5WVFxRFB4dE5sRG44MVFQSzVfRmlMakxTLW5lMFQ5N0FYbm9VSXJCeWdHOWNMT2p4c1ZRd2JkVlRUQVF0azVldw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T12:25:08Z",
-      "summary": "AI基础设施的大规模建设正在推高美国消费品价格。数据中心、芯片制造以及相关能源消耗带来了巨大的成本压力，这些成本通过供应链传导至终端商品，加剧了通胀。分析指出，科技巨头激进的AI投资虽然推动了技术进步，但短期内也造成了经济负担，消费者将面临更高的生活成本。这一趋势反映了技术发展与宏观经济之间的复杂互动。"
-    },
-    {
-      "title": "AI tool measures ‘heart age’ - KTRE",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Rb3R0ekJzLWUyaS1ncmxnMEwwclBCc0FZblBDVk5xN2hoYndpenpmWVZrQnprWlB4dGI2N0pybHd2UEhaSndRakxNd2lVVXN4bVFnM2dXMVJuZ082V0RoNG1neUlodDBWelJV?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T12:12:00Z",
-      "summary": "一款新型AI工具可通过分析心电图等医疗数据来测量用户的“心脏年龄”，将其与生理年龄对比以评估心血管疾病风险。该技术利用深度学习模型捕捉心脏电信号中的细微异常，帮助早期识别潜在健康问题。医生可据此制定个性化预防方案，推动精准医疗发展。不过，其准确性仍需大规模临床验证，且数据隐私保护是关键挑战。"
-    },
-    {
-      "title": "Banks get creative and look further afield as AI-fueled debt soars - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDBiVE50bXZsYUc3enlSS2I5WjlqVkJtRHF0S0Mtbms4cmR6bnRSNGpDRHczSDQ0VkpyY3JLSXpka2NBYU11amM2akJROFVaZzFOMmppaHJpd0ZjVjFqWnRrRmplV2hFaHZ3N0otLWtpUm1MTkVTMDJSNFBwMnRad1k3ekN5UmVNOGI0Y05fSGNCemhUaUhkbVhCcFhNaWdxbklhRVJ5RkE5eHV0b2FJVkxn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T11:33:41Z",
-      "summary": "随着AI相关贷款和债务飙升，银行正采取创新策略拓展业务。许多机构通过跨行业合作、证券化AI债务以及开发定制化金融产品来分散风险。同时，监管压力促使银行加强AI信用模型的可解释性。这一趋势既为金融业带来增长机遇，也引发了对系统性风险的担忧，监管部门正密切关注杠杆率变化。"
-    },
-    {
-      "title": "SpaceX, a space and artificial intelligence (AI) company led by Elon Musk, will provide the satellit.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwVHdmRU0wNjVrd1RiV0JiSDlXaURyNlE1Z1h2aUdjNXZFSkdWaXotUEFSczlEa2E0VTNqUEktMS15cTlMajFGRlhPbDdWUGc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T11:11:40Z",
-      "summary": "埃隆·马斯克旗下的SpaceX公司计划利用其卫星网络为AI应用提供通信支持，通过低轨卫星星座实现全球无缝连接，满足AI对实时数据传输的需求。这一结合将推动远程AI计算、自动驾驶和物联网的发展，但也面临轨道资源竞争和频谱分配等挑战。SpaceX的AI能力可能进一步拓展至卫星数据处理和宇宙探索领域。"
-    },
-    {
-      "title": "UNO is homing in on AI as it seeks to be a leader in artificial intelligence research - Nebraska Public Media",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcGd5bm1WYmtnRUc3YzQyaDBqVjluRkhYZm5aU0o2dWhHdXRJSFZmcExHRFJhZFg3VXQ4TjN1UXFIV0ZLdmtTeFNkWFJUWDdvbHQzU0RfYi1qalNfNlBaN2hyd01JdGhYM19SemJPYW5lcnJHdXBKTG1FSENFcUtlNi02NXBQVnRBT0Uwd2pfTnh4LTlNN3NPdWlBcDNWYzlqSE1QcmVseU10em95UG1Nb05OczU2WGRnMnJRdHJhdVBRSndsU0JtRmVjbDQxUUtZV3VXWXhUbw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T11:04:53Z",
-      "summary": "内布拉斯加大学奥马哈分校（UNO）正集中资源打造AI研究优势，计划建设专用实验室并招聘顶尖人才。学校将重点聚焦AI伦理、人机协作和本地产业应用，通过与政府和企业合作推动技术落地。此举旨在将UNO塑造为区域AI创新中心，以应对人才短缺问题，并促进中西部经济多元化发展。"
-    },
-    {
-      "title": "Artificial intelligence becomes ripe target for taxes - Roll Call",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2xpbnQ0WkNlaFJfUmtBbGN1SXJ5eHJZVXZieUhWR0JvaGZadjBMdzQ3VC1RVzA2QnZKTWZQSUdOZHIxOHZSUndJQ09vNDZxNXlTb29sNGdqaXVQRXZQaE5aZzdsMHVZdEdZMTBQTjE4dmFNTEVDanJpdkJrMXUxc01fc3M4dXVrdEg3ZllaRQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T10:29:52Z",
-      "summary": "AI的迅猛发展使其成为各国政府考虑征税的新目标。政策制定者讨论对AI驱动的自动化收入征税，以弥补就业岗位减少带来的税收缺口。部分国家试点对AI服务征收数字税，或对因AI替代人力而产生的利润征收附加税。此举旨在平衡技术进步与社会公平，但如何界定税基和避免抑制创新仍是难点。"
-    },
-    {
-      "title": "How Law Enforcement Is Using AI To Solve Crimes - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmR6TnR0cXFvUUhpVmZWUjBoRnhOdVYxaTNYemYtUmdhVXYtMkdrWXE3SGwxS3VkMENiQ3BtbzA3dnloOWpnUWhTVndWZl9qZVB5eWVNSDBFbmViMTV2XzhjdHppM3duVjA0UHA4bVZYNHBlV3paRWNwby1vRGNUT0l3WXFPLVVJQjZ5WWZvNklTOUNGTldxanoxaF9yZno4bjBJ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T10:29:44Z",
-      "summary": "执法机构正利用AI技术提升犯罪侦破效率，包括通过人脸识别锁定嫌疑人、用自然语言处理分析海量通话记录，以及利用预测算法识别高犯罪区域。AI还能协助处理监控视频，快速标记异常行为。然而，算法偏见和隐私侵犯风险引发争议，监管机构要求建立透明问责机制，确保技术使用符合人权标准。"
-    },
-    {
-      "title": "Cheaper AI is better: Soaring bills are reshaping how businesses choose models - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbEsxZlRocTBfR2pQWmw2VDBzQUVOQ3RodHlhY3l3bEZiMmN0eG9QVU1fSG04VnNjU1hEeHBQVXZjNGZvOGFpckN4b1BGTjJOTUEyb243blU3R2ZEd3BWcWlJeVZqbUhmanhjOFhwMlo3S0hCYW9TbEJWRzJKMEFMYWdLQkxVcDVnMlN2dklrenVocU5VREdxbG15RnR0ZjZsS1lJY2ZPZm00eUR3b3dWeTc2aHd4RDM3Skc4V2d3U1R6bU5UUjhEeG1Cd1k0cHVQb085OQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T10:19:12Z",
-      "summary": "随着AI模型运行和训练成本飙升，企业开始转向更便宜的替代方案，以控制预算。开源模型、模型蒸馏技术和边缘计算成为热门选择，一些公司甚至自研轻量级模型。这种成本压力重塑了行业生态，促使供应商推出更灵活的定价策略。未来，性价比将成为企业选择AI模型的核心指标，推动技术走向实用化。"
-    },
-    {
-      "title": "Prompt injection to deepfakes: How AI rewrites rules of enterprise security - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY0VjTWhCUnMyeU00eGVGY0hnQkhnVEJUcldpWk5yVnRNNlRBOS1jUk5VY1BXN3duNkRIZ1V0WFhMRGNJcldqckEyQmpVTDdwb1NDQXZ4TF8yTXh4dEQzMFlrY1hqcUtHVklPQ3podWlaRmR1TkVLRGlmbXdDVHB4N2lQSkJYNlI3UW10ZVUyNXlfay1tNGowRU9STEVsMGhEOGJhWHVuVHRrSXlWeGk3cVJBRFBNdVF5NUVNbnZmLU5MZVhIbFFIMG12VzRLRzFTbGJycmF4bl9XNGlkRVZsVm41SGJSOVdUVUlCdlBTN1NONkUwZXfSAfsBQVVfeXFMTjRyanpkZTFsZkViNzlhcWIzODdDUlFCMmwtQ0dWUjR3ZEZhWlNIanJaeXVLTE5mekZwVERPRkY3blJTcTVVWVhQUl9QY0UtbzMtb0tTdFV5Z2R6bU16YWQzQmRxeVNnX3VVMi11NXl0Sk9zNWs0MmdxTm5GaFJQTzNUWi16SnB0bGVCQU9hSkZrZW5Bd25VenVMUzl5SS10UklNQUdjT1FJZ1dwSHNwWHJndEhDbFk5U2lyc3pLWWZJNzM5Nl96ZklLcUNoSUl2V3VjZnNiczFDS2VwS2VqTmJZaXdOWUh4X095Y192c0VQQnNCdHpBMlljcHc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T10:08:48Z",
-      "summary": "AI正改写企业安全规则，新兴威胁如提示注入攻击和深度伪造成为主要挑战。攻击者通过操纵AI模型输入窃取数据，或利用生成式AI制造逼真虚假内容诈骗。企业不得不重构防御体系，包括采用对抗性训练、内容验证工具和零信任架构。同时，安全团队需加快技术迭代，以应对AI武器化的持续演进。"
-    },
-    {
-      "title": "Artificial intelligence, digital sovereignty, and the ethics of journalism - TRT World",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02ZzBCMlpWaFhmbUlGMWU3TXM1SEtsSEZHbTdpN1A4TUR0eDhkellOMXpHaExHV1NaeGY0VzJPNzNQem9zUFVaVG44TDZsSkl5ekhzQVY0U3k?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T09:45:13Z",
-      "summary": "人工智能对新闻业的影响引发伦理与数字主权讨论。自动化内容生成和推荐算法可能导致信息茧房和虚假新闻泛滥，削弱媒体公信力。同时，跨国科技平台控制AI基础设施威胁文化主权。业界呼吁建立全球伦理准则，在技术应用中保障多元观点和公共价值，且各国需强化本土AI能力以维护信息自主权。"
-    },
-    {
-      "title": "Artificial Intelligence in Gynecologic Oncology: Current Applications, Clinical Challenges, and Future Perspectives - Cureus",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeWpQdVJGT3VSWElzNDVlN3pfZEw0eFQ5TnVMTkFFeFJlaTdncUhSVmZmaFptZHoxUzM2X21VOUdfM05VTUpURVBqdi1yQVVCcThzLTYtV013bnlKV0gtTjdEbjlNdzJfcmFUX1YzM2o5Ui1hd3Nmckl4TU1TcmRxd0JNTldvVUdJdU1WM3ZGRWRNdk5obllVTzFPOWRBSnBxaUdwb3p3TFREUFVxUUFQa1F1RWxpeWpycEpTSWJJUXNPbW83ZFFNMVJ6di0tSkEtOFRxbFFLcmpBRUJ6SC10b2ltWGVPZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-29T09:32:11Z",
-      "summary": "本文综述了人工智能在妇科肿瘤学中的应用现状、临床挑战及未来前景。AI技术已用于影像诊断、病理分析、治疗规划和预后预测，提升了诊断准确性和个性化治疗水平。然而，数据质量、算法可解释性、临床整合及伦理问题仍是主要挑战。未来需加强多模态数据融合、前瞻性临床验证及跨学科合作，以推动AI在妇科肿瘤领域的可靠应用。"
+      "summary": "文章指出，AI发展的最大瓶颈并非算力或算法，而是高质量的训练数据。随着生成式AI模型对数据的需求激增，拥有独特、可靠数据源的公司将成为关键基础设施提供商。文章推荐了7只股票，这些公司分别掌控着文本、图像、视频、医疗数据、金融数据、地理空间数据以及工业数据等稀缺资源。它们通过数据壁垒和数据交易平台，有望在AI价值链中占据不可替代的地位，成为解决数据瓶颈的核心投资标的。"
     }
   ]
 }
