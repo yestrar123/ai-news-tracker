@@ -1,41 +1,69 @@
 {
-  "updatedAt": "2026-06-29 02:27:51 UTC",
-  "totalArticles": 5,
+  "updatedAt": "2026-06-29 06:29:40 UTC",
+  "totalArticles": 9,
   "articles": [
+    {
+      "title": "Vatican Commission on AI meets for first time - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXFhbVdLWHJrWE9PckZ6dWZXbzR4MXdtTi00WVoxYzB0QmZnclY1eUI5VklrNTA2cUF3Q3VGVmk0MjR3Z0JncTJKaUtqNENzNS0zTi1HZFB1MEpfelk3d2dncDA5c0pFZmg5N2pLMEpBZHUyVjU3cUF0emNSangyVTlQbk52alZReW5nQzRWcThXVFRQdjRoMExJd1lFQl9HR1VSemZiclpzZ3RVRmVDTjZnV2tpd1VJYjNZZ3RlQUhiQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T06:09:09Z",
+      "summary": "梵蒂冈人工智能委员会首次召开会议，标志着宗教领域对AI伦理与治理的正式关注。会议聚焦于AI技术对人类尊严、社会正义及道德责任的影响，探讨如何在快速发展的AI时代保护弱势群体。委员会成员包括神学家、科学家和技术专家，旨在制定符合天主教教义的AI应用指南，强调技术发展必须服务于全人类福祉，而非仅追求效率或利润。"
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by 2028 - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcXRmcnk5dnBqckRDdlV5UTF1NHFBREMwWW5ReGdxaDNVZzhtbG9zVFZuR3ZrZ0YybWNrRW5yZlpSWjN3SHM1ZHZneFVuem5MVE1Xd3pTZ081Zl9JOVBSWm9vM2x3cm0xUnd3N3pUZ01IT1VtYk04VEdaVnVmOWZkQ3NuajFaMV8zMWlyY3dUQ0lQc0dPa3JFbjRfbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T04:40:42Z",
+      "summary": "有预测指出，某家专注于人工智能的半导体公司有望在2028年前跻身万亿美元俱乐部。该预测基于AI芯片需求的爆发式增长，尤其是大模型训练与推理对高性能计算硬件的依赖。当前，AI半导体市场由少数头部企业主导，随着云端AI和边缘计算的持续扩展，领先厂商的营收和市值有望实现跨越式增长，但需警惕行业周期性与竞争加剧的风险。"
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by 2028 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDZiVjRnNlZsQW9LTWNnMC1MM0JEdi0zZUk4emMxMEs4Vld3bms2RlpyR3k3cHhucjhpSTBIUDhrYV9rRXdSMUZUb3VCeENvbGtxRngwNkRYUkVFeE5HTWFBcEhpQjZmcnExM0VNN3FsYTRwTDZueW91NVdobk1uUkROeGwyNjBLcXU4WUFTYmdrVzNlNkNhNw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T04:10:45Z",
+      "summary": "另一家财经媒体同样预测，一家AI半导体企业将在2028年加入万亿美元市值俱乐部。分析认为，AI应用的普及将驱动对专用芯片（如GPU、TPU）的需求激增，而该企业在技术积累、客户生态和产能布局上占据优势。文章指出，尽管短期内存在供应链波动与地缘政治不确定性，但长期增长趋势明确，投资者需关注其技术创新与市场渗透率提升的潜力。"
+    },
+    {
+      "title": "AI chatbots used to diagnose pets sparking 'ticking time bomb' - Westmorland Gazette",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEpoTU9Uc2dFOXpZcWcwaWt3OG5WWmYtbG5KenFiR0ZKQmlDeWRsMUIyRHFPb1BobkJydTNjeXRCYnNHVWNmdWNyd1g3YWZKdmJBOWxzVkdiMkxHSE5SQW9wcnRWV2RqajV2OEtxZDJTUUJ5dUU4S1J1MnMzOUR2M3ZDQnJaVHJSalVGVmZwVmwtRE5tb0xFYm11YzZCcEdFYXB4RENQbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T04:00:00Z",
+      "summary": "AI聊天机器人被用于宠物诊断引发担忧，被形容为“定时炸弹”。兽医专家警告，依赖AI工具进行宠物病症判断可能导致误诊或延误治疗，因为AI缺乏对宠物个体差异和复杂病情的理解。同时，部分宠物主人因便捷性倾向于使用免费AI服务，可能忽视专业兽医检查。文章呼吁加强AI诊断工具监管，并提醒公众切勿替代正规诊疗。"
+    },
+    {
+      "title": "Senior citizens, IPs undergo AI and scamming awareness seminar - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmRoUXFtSkdMTEVuTG13NW1NVWVyMkg2Wm1xdnJZLXNuVVl0NUNqRjJyM1pDUzZqM19OY2xnX1FubHZ4ZFVvUGpYazA0UHRKUzJ3RUl2dzNsNW1wek9sVTJLS2tZbDJMdkdOWTZzQ0Y3UFJZZzF5ZGxMT0s0ZWxueXZKbzE5YW9xY3FmdGh3SEtrdkEySndBU3pMNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T02:48:29Z",
+      "summary": "为应对日益猖獗的AI辅助诈骗，当地举办了一场针对老年人与原住民的AI与诈骗意识研讨会。培训内容涵盖识别AI生成的虚假信息、防范语音克隆诈骗及保护个人隐私。组织者强调，技术弱势群体易成为诈骗目标，需通过案例教学和实操练习提升他们的数字素养。研讨会还介绍了AI在网络安全中的正向应用，帮助参与者平衡风险认知。"
+    },
+    {
+      "title": "Usefulness of Artificial Intelligence for Transnasal Esophagogastroduodenoscopy in Clinical Practice - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM0FjaXpxd3l3Qy1EcjRJTXhhTl80eHlCQ012RnJHMFozOENhc2xpQmNwTUdMVFMySFNrelZJNUM2dlI3MW1QTUxiQ0tMLV9iTTc1eC1zUDFLQy12SHhrRldqNEVOckxOSjV4dl92bzFxQm4tWjNDaHZfVFJ6Sm00SDBmX1RNMlltSDZtVm5tYjVMQlFMU1JMVXlsazR2ejVjeDVVcnh2eFVydVlTSFNTT1BleW81SFFIQ2ZrZWI5ZlJpWWNtWjlHWFRHZWJLY3ZGTXNXbDhR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T02:47:33Z",
+      "summary": "一项研究评估了人工智能在经鼻食管胃十二指肠镜检查（EGD）中的临床实用性。结果显示，AI辅助系统能够实时识别异常黏膜病变，提高早期胃癌等疾病的检出率，同时降低漏诊风险。该技术尤其适用于门诊筛查，可减轻医生工作负担并提升诊断一致性。研究建议进一步优化算法，以应对不同人群和操作环境中的挑战。"
+    },
+    {
+      "title": "Artificial Intelligence Will Not Save the SDGs on Its Own — Policy Has to Catch Up First - UNU | United Nations University",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGlpMlJsUFc3RG9mTmNFbXJadUZiY2xuTzY4Zng5MzJXU3lDNEVLWTR0aEVPWFlRWF9pb3o1S3M3ZHhkWEFqaGhUekN4bHJqMFZKdEJMRTd1VXlvMEdLdmxyUmFLNm90NURkS08tdjV2MHVfSlZrSUNWdXFLT2ZkRjFaWnR0Xzk3dm1Dd0pQQmtfRHRaYV9wMm5aQ01DQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-29T02:33:29Z",
+      "summary": "联合国大学发表观点指出，仅靠人工智能无法实现可持续发展目标（SDGs），政策必须先行跟上。文章强调，AI虽能优化资源分配、监测环境变化，但其应用需建立在公平、包容的治理框架下。当前政策滞后于技术发展，可能导致数字鸿沟加剧与伦理风险。呼吁各国建立跨国协调机制，确保AI赋能而非破坏可持续发展进程。"
+    },
     {
       "title": "Amid the expansion of investment in artificial intelligence (AI) data centers, an international acad.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wSXBlc1dUakhnZEhveV9pUHd1cm9uUU9LVlVabjNKb0JJTFdKNGcwbG1BZjVIMThEaFNGQzkteW9jVXRhRW1lSURtRQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-29T02:08:15Z",
-      "summary": "随着对人工智能（AI）数据中心的投资持续扩大，一个国际学术研究团队发布报告指出，AI数据中心的能耗和碳排放问题日益严峻。报告强调，虽然AI技术发展迅速，但数据中心运营需要大量电力和冷却资源，若不加以优化，可能对全球能源系统造成巨大压力。研究建议采用更高效的硬件、绿色能源以及智能调度算法来降低环境影响，并呼吁跨国合作制定统一的能效标准。"
+      "summary": "随着全球对AI数据中心投资的大幅增加，一个国际学术联盟警告运营可持续性问题。专家指出，大型数据中心的高能耗与水耗将对环境造成显著压力，即便采用可再生能源，碳足迹仍不可忽视。联盟呼吁行业制定更严格能效标准，探索新型冷却技术及边缘计算方案，同时推动AI算法优化以减少计算资源浪费。"
     },
     {
       "title": "With big tech companies pouring astronomical funds into artificial intelligence (AI), the Bank for I.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMWktTZER4Wm9lMFM2ZS1KX1ZON1JqME5qbWRveEZZcUxDaG9xUEJCRnJqcW1KV0xSZHN1NUFDOGNxMUQzVGZ0Z1hJdnhTWDQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-06-29T01:34:14Z",
-      "summary": "国际清算银行（BIS）最新报告警告称，大型科技公司在人工智能领域的投资规模已突破天文数字，可能引发金融市场过热和泡沫风险。BIS指出，AI投资热潮虽推动技术创新，但过度集中资金可能扭曲资源配置，并加剧系统性金融脆弱性。报告建议监管机构加强对AI领域投融资的审慎监管，要求企业披露更详细的研发支出与回报预期，同时防范技术垄断对竞争格局的负面影响。"
-    },
-    {
-      "title": "Is the AI water panic real? - 1News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VMWNmVlIxdFBqeVZ3ZzR4eHIzam5nNVBscEVtajBWSDlYQUJxd3ZTTENqcDY1S042UWdUd0R5Qk1hd3BSUXRaN1RRVVBfQjIxbTZwTHhWbUdnQmdMcE9XQXI5MHI4Y0kzcTR2cW4wdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-28T21:44:43Z",
-      "summary": "关于AI发展导致水资源紧张的担忧引发广泛讨论。据调查，训练大型AI模型及运行数据中心确实需要大量淡水用于冷却，部分地区的用水量已达到数百亿加仑级别。然而，专家指出，大多数科技公司已采取循环冷却系统和干旱地区节水措施，实际水耗增幅低于预期。公众恐慌部分源于信息不对称，业界建议通过透明报告和新技术（如液冷、水资源回收）来缓解这一争议。"
-    },
-    {
-      "title": "This Nvidia-Backed Artificial Intelligence (AI) Infrastructure Stock Has Multibagger Potential. It Is Trading at an Incredibly Attractive Valuation Right Now - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWxWTWsyXy1GanZ2Mmd4aWUxNFctc1AxNmJKM2hQT19GYXYzcUstMmZRdUs1cXdzeFpJYTZ6eXNaTVZEMkJQUzcyZlB1MXhkdjJZRjhYZjktdzlONDNfcHZ6alc0TG1Vd3BHeVZMQmIxbHFqeFBwQXUtbHItNkV4Sk5XNUhCWkxFakQ4ZQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-28T21:14:30Z",
-      "summary": "一只由英伟达投资支持的AI基础设施股票近期受到市场关注。分析认为，该公司专注于为AI工作负载提供计算架构和云端服务，受益于全球AI部署需求爆发，具备数倍增长的潜力。当前其估值处于相对低位，市盈率远低于行业平均水平，被视为价值洼地。投资者看好其在数据中心GPU集群、AI模型训练平台等细分领域的领先地位，以及未来与英伟达深度合作带来的协同效应。"
-    },
-    {
-      "title": "Steven Spielberg Walked Away From Harry Potter To Make an Underrated Masterpiece - Collider",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONW8yMXlLZ1JLOFNvcXBwLWdJUzFCRE82Q1NONzhKQ2k2c1JiRGJRVmFXbksweWk3dTZjZGxrN2pRVnRqSHhsSTZfWW94Um9WZEplRjBQSlF1QWEtSWhmdndSbzRJRmF3MWh6TnJQa2JES29xbm5weXJQLUswYU5uaEZab1BTN3l2WjlLVnRPTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-06-28T20:56:15Z",
-      "summary": "斯皮尔伯格在即将执导《哈利·波特》系列前夕选择退出，转而拍摄了后来被视为冷门佳作的《人工智能》（A.I. Artificial Intelligence）。据业内分析，斯皮尔伯格认为《哈利·波特》的魔法世界虽迷人，但《人工智能》的故事更贴近他对人类情感与技术伦理的思考。该片探讨了机器人渴望成为真实人类的核心主题，尽管上映时反响一般，但多年后其哲学深度和视觉风格被重新评价为一部被低估的杰作。"
+      "summary": "大型科技公司向人工智能领域投入巨额资金，国际清算银行（BIS）对此发出警示。BIS认为，AI热可能导致金融市场过度投机与资源错配，并增加系统性风险。报告强调，金融机构在拥抱AI时需谨慎评估技术依赖风险，监管机构应密切关注相关衍生品与信贷膨胀。建议建立全球统一的数据治理与AI金融监管框架。"
     }
   ]
 }
