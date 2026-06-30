@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "1831",
+      "title": "The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30T04:01:00Z",
+      "summary": "AI对就业的影响讨论再添变数。最新报告显示，高强度采用AI的企业员工总数反而增长10.2%，其中入门级岗位增幅达12%，直接反驳了“AI淘汰初级职位”的普遍论点。这一数据表明，AI可能通过提升效率、创造新岗位等方式，间接带动整体招聘规模扩大，尤其是对新手更友好。报告揭示出AI与就业之间并非简单的替代关系，而是存在更复杂的互补与重塑效应。",
+      "fetchDate": "2026-06-30"
+    },
+    {
+      "id": "1832",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30T02:28:41Z",
+      "summary": "Wix旗下的vibe coding平台Base44正式推出自研AI模型，旨在通过技术差异化构建竞争壁垒。该平台希望其模型最终能超越现有前沿模型的表现，为开发者提供更自主可控的编码辅助能力。此举反映了AI初创公司正从依赖第三方模型转向自研，以增强产品独特性和防御力。Base44强调其模型将深度适配vibe coding场景，在效率与准确性上寻求突破，从而在激烈的AI编码工具市场中占据独特位置。",
+      "fetchDate": "2026-06-30"
+    },
+    {
       "id": "1820",
       "title": "Q&A: What It Takes to Lead in AI - govtech.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2aEc0LVd3TDFHbHo1a1Boa0hSLWhYbktDck5YWjhBQWFoVU1qd3pGYVdnS2kwMXZabDd1cjJpN2NWQUlWMFhudjhwSTM1R3FwTmktcnlJd3pEYVEyUnJwTFF5d2tqRVNRZmhDOU82TjdDWFE?oc=5",
@@ -16462,5 +16480,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1829
+  "total": 1831
 }
