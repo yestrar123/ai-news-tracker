@@ -1,118 +1,104 @@
 {
-  "updatedAt": "2026-06-30 19:30:14 UTC",
-  "totalArticles": 16,
+  "updatedAt": "2026-07-01 02:15:28 UTC",
+  "totalArticles": 14,
   "articles": [
     {
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T19:02:38Z",
-      "summary": "Google推出Nano Banana 2 Lite图像生成器，在速度和成本上实现显著优化。该模型专为创作者设计，能够更高效地生成AI内容，降低使用门槛。通过算法改进和架构精简，新版本在保持画质的同时大幅缩短推理时间，并减少计算资源消耗。此举旨在使AI图像生成工具更普及，满足社交媒体、广告设计等场景的高频输出需求，推动AI创意工具的实用化发展。"
+      "publishedAt": "2026-07-01T02:04:40Z",
+      "summary": "英国自动驾驶AI公司Wayve推出8500万美元员工要约收购，公司估值达85亿美元。此举是AI初创企业通过员工股票回购计划吸引和留住人才的普遍趋势，旨在激励员工并维持长期发展。Wayve的融资策略反映了行业对人才竞争的高度重视，也凸显了其作为自动驾驶领域领先者的市场信心。"
     },
     {
-      "title": "Cybersecurity race intensifies in AI era - Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zUFVFT2E2ZTVBYndUcE81M3FWSi1ZdDhnSlA2Q2VhbVpBa002QzFqSS1MVklWSUktcjhXZW5GRVNRWHRuQVpYMm5rT2RlekQwanl3cHlOdUNka1BzYkdzMVB2SWw1NEo2RDdlVFFMcHZ5Y1JlN3ozcnVLcjhic0E?oc=5",
+      "title": "While \"autonomous AI\" in which artificial intelligence (AI) judges and acts on its own and \"physical.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WQ01IYmgzWldhRXVIWm9JYjdVWFR6SU5Eek5uTkwxTksxcXFVd0I0SHp5M2dtNzgxZHhneFM5eXhsXzZLbFFYLVFHTQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-30T18:38:07Z",
-      "summary": "随着人工智能技术的快速渗透，网络安全领域的竞争已进入白热化阶段。AI既可被用于强化防御系统（如自动威胁检测、异常行为识别），也能被攻击者利用生成更复杂的恶意软件或实施社会工程攻击。企业、政府与安全厂商纷纷加大投入，开发AI驱动的安全解决方案，同时警惕新型AI攻击手段。这场竞赛不仅关乎技术优劣，更影响着数据主权、隐私保护与数字经济的未来格局。"
+      "publishedAt": "2026-07-01T01:52:21Z",
+      "summary": "韩国媒体《매일경제》报道了自主人工智能（AI）与物理世界结合的相关议题。自主AI能够独立判断和行动，其在机器人、自动驾驶等物理领域的应用正引发广泛关注。该技术有望推动智能系统从虚拟场景向现实场景延伸，但同时也面临安全、伦理等挑战。报道呼吁加强跨学科研究以平衡创新与风险。"
     },
     {
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T18:13:02Z",
-      "summary": "Nvidia在AI芯片领域的强劲对手Etched宣布，其专为推理系统设计的芯片已获得价值10亿美元的合同订单，公司估值随之攀升至50亿美元。Etched芯片专注于高效运行大型语言模型等AI推理任务，旨在提供比通用GPU更具性价比的选择。这笔巨额订单表明市场对专用AI推理芯片的迫切需求，也预示着AI硬件生态正从单一依赖GPU向多元化架构演进。"
-    },
-    {
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T18:00:00Z",
-      "summary": "Anthropic发布新一代模型Claude Sonnet 5，主打更强的代理（agentic）能力、更低的价格以及更完善的安全机制。该模型在自主任务规划、工具调用和复杂指令理解方面较前代有显著提升，同时定价低于Opus、GPT-5.5和Gemini Pro，成为企业和开发者构建AI代理的经济之选。Anthropic希望借此扩大AI代理应用的普及，并在安全性上通过约束框架防止滥用。"
-    },
-    {
-      "title": "Acti puts AI agents directly into your smartphone keyboard",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T17:52:46Z",
-      "summary": "初创公司Acti将AI代理直接集成到智能手机键盘中，用户可通过自然语言创建自定义快捷指令，实现跨应用的智能操作。该键盘支持iOS和Android，无需切换界面即可完成信息查询、日程安排、消息回复等任务。Acti认为键盘是AI助手最自然的入口，这种轻量级集成降低了用户使用AI的门槛，有望改变移动端人机交互的方式。"
-    },
-    {
-      "title": "Cuban Queen Celia Cruz Gets an AI Encore with Guardrails - LatinAmerican Post",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQnRpcmNWbHJSSW9EdmtucTZlRGR0amxUeFBtSVMzUW50VUFfY1pMMF9ueVN5bFFtZjlFaV9rY3g3RHlNUUZqNV9vQkg3TUFZeW9LVWJJRFV0Q2ZoLUR2T29QWGJ2TUt6SmxhV3p5R1ZTZUpXWGh4WWZxYnRDM2N6eTZSOHRZRXhkX2tYU1JRdi1fZ0pkdi1wZTExR21CMDgxUlhHdkRfLUxtMHFWelhKdnRJTUFNcnZlZnRac0lkV2dKOTd6SWlVYmk4SU5Ddw?oc=5",
+      "title": "Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2l3azNGRHZzQVpuZTR6RF9FUUd0SFV4ZTZkeHByMURrQXVGYXQ4U1R5TDBjSGZEenh0TlA0aGtWeXBRcE9pUjhCLUpfSUVoN2pSc2QyUUZ0OXBWWFVWblpvcEQyc3JydzMtbmRSM1lLaTAtRzNDM0xiT0ZHM3djRERTcmFnTi1xcGt6b2JCdGYwVWVIUTJsTWlKZmE4SW9uc254OW0wdjB1MnB4VVE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-30T17:40:12Z",
-      "summary": "古巴音乐女王Celia Cruz借助AI技术重现“新作”，但项目同时设置了严格的伦理护栏。AI通过对Celia Cruz原声样本和音乐风格的学习，生成符合其艺术特点的表演内容，而非简单复制或伪造。这一尝试既致敬了传奇艺术家，也引发了关于AI复活逝者肖像权、文化传承与伦理边界的讨论。项目方强调必须确保技术被负责任地使用，避免误导公众或侵犯权利。"
+      "publishedAt": "2026-07-01T01:51:00Z",
+      "summary": "Anthropic公司宣布，美国政府已解除对其Fable和Mythos AI模型的出口管制。这些模型此前因潜在安全风险受到限制。解禁表明美国对AI模型安全性评估的调整，可能为Anthropic拓展国际市场铺平道路，同时也反映了全球AI治理中安全与贸易平衡的复杂性。"
     },
     {
-      "title": "This Education Entrepreneur Is All About AI: ‘Use This for Good’ - Movieguide",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHlGTktDOENsRlZqdWhzUTRDV0hyZVk0ZUF1ZDNvbU1TZDk5SVg5b3lWY1dkMmF0X09DSU5JcHpKYUdyT0hfX3pGcmxqTXZmdTZEam9EeFU0TkpvM3VYTDlxZWt3Z1JNRGl4cFhLWmxsMGxBcGlmQUxuQ19JbE5PZndIM29iSTViUHRWdzM5RDQ5aE84eGFuc0t0bVBrQ3V6SjhXUzdkSVBqVmc?oc=5",
+      "title": "Thanks to the artificial intelligence (AI) investment craze, the number of billionaires worldwide in.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hQUZ1T3FqOHdvelpKbWQtNG1heUgxSmNOSFFzWTJWTjd3UC1WZGhrN3ZrWUcyTTBsZ0JIWVNvYk9EZUVBaUFNc242V2tfZUk?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-30T17:02:41Z",
-      "summary": "一位教育领域的企业家公开呼吁：“用好AI，让它造福人类。”他认为AI在教育、医疗和社会服务等领域具有巨大潜力，但必须警惕其被滥用的风险。该企业家致力于推动AI在个性化学习、智能辅导和公平教育机会方面的应用，并强调技术开发应以人文关怀为核心。其倡导的“AI向善”理念引发行业共鸣，成为科技伦理讨论中的重要声音。"
+      "publishedAt": "2026-07-01T01:48:02Z",
+      "summary": "受人工智能投资热潮推动，全球亿万富翁数量显著增长。投资者对AI领域的狂热追捧使得相关企业估值飙升，创始人和早期投资者财富激增。这一趋势反映了AI作为经济增长引擎的巨大影响力，但也引发了市场泡沫的担忧，需警惕过度投机带来的风险。"
     },
     {
-      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T17:00:00Z",
-      "summary": "Anthropic推出Claude Science工作台，旨在通过优化工作流程而非发布新模型来赢得科学家的青睐。该工作台整合了数据库查询、数据分析管道、工具调用等功能，使研究人员无需在不同平台间切换即可完成计算研究。这种集成环境降低了科研中的技术摩擦，让科学家能更专注于实验与发现。Anthropic希望通过提供实用的基础设施，而非一味追求模型性能，来服务科研社区。"
-    },
-    {
-      "title": "Could your job be on this list? AI ranked the careers it thinks it can replace - Click2Houston",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcC1ZRjV2NUhRRHRzd1hMNEdueEY3cm9VOUJ3Q1VRbGM2R1E4RDJ3elNkYmo2ZTlMb1RfakZzZUJGNWpKUUszcUZBTlBlM1p2ZnJRNEJBenIyU0RKSjRTYlJXNi1ZeUFsT0NlNjNmQjRxVFlIWWNDVEZzZXdaSmpnNzRzdmVsZVpSTHRYREhJT0tRRzZJaXVVNnZQWjlwaDhfODEwa2hyb3hleVJSVTJTOWJjenczelprQjFpTDdfdnRqejUzNzVzd05B?oc=5",
+      "title": "Anthropic says Trump administration lifted restrictions on some of its most powerful Claude AI models - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRm1XQlFkWlBWcERiZ1JTX3pVblVKb1lfN1FrMXFkb3pLM19HdGt0cXUzc2lWTmhKem1zdWNVMm45eXQzQXZ4aDdDYURYUFRNZ3BfZVdaWnBfejhta1VZdG42aW5OQzNvTVlBaHlNbk81X0VpRHBEaXV5R2g5eDJ0ejJzMExsTUJNNWpDbjAxRWw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-30T16:31:49Z",
-      "summary": "一项由AI进行的职业替代风险排名引发关注，该列表展示了AI认为自身最可能取代的工种。涉及重复性、规则性较强的工作（如数据录入、客服、翻译等）被列为高风险，而需要创造力、情感互动或复杂决策的职业则相对安全。该排名虽不具绝对权威，但警示从业者需提升技能、适应技术变革。社会各界也围绕AI对就业市场的冲击展开了讨论。"
+      "publishedAt": "2026-07-01T01:27:13Z",
+      "summary": "Anthropic表示，特朗普政府已取消对其最强大的Claude AI模型的部分出口限制。这些模型此前因安全担忧受到管制。解禁后，Anthropic可在更广泛范围内部署先进AI能力，推动技术应用与商业化。此举反映了美国AI政策在安全与竞争力之间的权衡，也为行业释放了积极信号。"
     },
     {
-      "title": "Return of the ‘greybeards’: AI backfired – so Ford had to rehire humans - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTUyX080ekFObTVtaWhYQ0ZIX0ppLXNjNkhNQkhPSVR5NlpxU0Q2dGRzdHAyTFg4QUpTOUJWVUlZT21qdklXX3NYZUFFa3MwTmJuUDAwcVU0enZCSWFVanlmR2dkNkNJQzlZSDhRakJMY3FvemhFZ3F4Mzg3SFU3VEhvRktNUDNaVXZiTzBVQkRnSzVFZU1uRkdqRDlKM3dGWGE1djJVMHo0U1Y1bVJEOHhR?oc=5",
+      "title": "Children's Use Of Artificial Intelligence Outpaces Adults' By More Than 3 Times: UNICEF - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ISE5nSXc0S1VPMUpGeW1Bb25GZUNTUTVtY0RIMWlzeHZ3NHg3Sy1jdmo4NlprVVVGemdYX3JBUXM0c1BoNFBDM0FIVG9BanVCa3ZzZW1xZDQ3THNZTXpsRXd3?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-30T16:17:00Z",
-      "summary": "福特公司因引入AI系统后效果不佳，不得不重新雇佣经验丰富的老员工（被称为“灰胡子”）。AI在生产流程或管理决策中未能达到预期，反而引发效率下降或错误频发，凸显了当前AI在复杂工业环境中的局限性。福特此举表明，技术并不能完全替代人类经验与判断力，人机协作而非全面取代才是务实之道。这一案例引发了对AI落地风险的反思。"
+      "publishedAt": "2026-07-01T00:32:54Z",
+      "summary": "联合国儿童基金会（UNICEF）报告指出，儿童使用人工智能的频率是成人的三倍以上，凸显年轻一代对AI技术的高度接纳。报告呼吁关注儿童在使用AI过程中的隐私、教育及安全问题，建议制定针对性的指导规范，确保技术发展惠及儿童并减少潜在危害。"
     },
     {
-      "title": "Cybersecurity race intensifies as attacks accelerate - Daily Tribune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0hSOUV5RWJ2amxhZ3YxbEY4dmV0a293T0hNMHRyZFFhaDdVUTktTGNQdzJlbU55UWFWQlMtYkNGcDNXQXgyWVJPZmQ4djhPVXpsZ2Z0TkE5QzZWbndhQkFrYWdYeUo2djBIdXpwY1pXcDZxX3ZfYmRERG56cExWb0d1a3lGTVplVVBPS3diOA?oc=5",
+      "title": "On the 30th, Loensurgical, an artificial intelligence (AI)-based kidney stone surgical robot company.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fTWg0c3FESVVQMlNPYUprOGJLTHVPX3dHaHdjQXdGTjVfd2t4cXU4ZUF4SXBITmN2WFV3ajlYODhaSWlHSXpqWFp5LXUwZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-30T16:16:11Z",
-      "summary": "网络安全竞赛日趋激烈，攻击速度显著加快，迫使各方加速部署防御技术。报道指出，随着网络威胁的复杂性和频率上升，企业和政府机构正加大在AI驱动的安全解决方案上的投入，以应对快速演变的攻击手段。这场竞赛不仅涉及技术对抗，还考验组织在响应速度和资源调配上的能力。整体而言，网络安全已成为当前数字生态中的核心挑战。来源：Daily Tribune。"
+      "publishedAt": "2026-06-30T23:43:10Z",
+      "summary": "韩国AI肾结石手术机器人公司Loensurgical于30日宣布取得进展。该公司利用人工智能技术提升肾结石手术的精准度，其机器人系统可自动识别结石位置并规划手术路径，旨在减少创伤、提高成功率。该技术有望推动泌尿外科手术向智能化、微创化方向发展。"
     },
     {
-      "title": "Iran war and AI boom drive wild ride on global markets - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTNpc0JlcmktcWZKeE1Ra0hLYzNaNkZYSDBIQlhTM1VnLV9tZ2NuNDBuTDljWmhRTGR1MmxHZkRSdzJmY0hFNWNpRzFpenZ2NFAtOVRjdDJjZWFyWXBLN1U2QVB6RmZLMFA5YXM1R05GaXh2TDBmelpfMlpobUhRZHNXdWtPRVhV?oc=5",
+      "title": "The artificial intelligence (AI) investment craze is rapidly spreading from Nvidia to memory and CPU.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzUUV0cl9TRUh2Rm4zUzNWZHRvcDJmWmUyeEVvNkk5MktESHhOY3RJc1pqT1ZQRDNONTVLX1ZYc2hzTzJHQ3BMQVZuZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-06-30T15:09:04Z",
-      "summary": "伊朗地缘政治紧张局势与人工智能热潮共同引发全球市场剧烈波动。路透社报道指出，伊朗冲突的不确定性冲击能源和避险资产，而AI产业的快速扩张则带动科技股和风险偏好。两者的叠加效应使得投资者面临复杂决策环境，市场波动性显著上升。分析师警告，短期内这两大因素仍将主导市场走势。来源：Reuters。"
+      "publishedAt": "2026-06-30T22:26:12Z",
+      "summary": "人工智能投资热潮正从英伟达迅速扩散至内存和CPU等半导体领域。投资者押注AI带来的芯片需求增长，尤其是高带宽内存（HBM）和专用处理器。这一趋势推动相关公司股价上涨，并加速全球半导体产业的结构性转变，从通用计算向AI定制化芯片演进。"
     },
     {
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T15:08:42Z",
-      "summary": "X（原Twitter）推出一款托管MCP（模型上下文协议）服务器，旨在简化AI工具与平台API的集成。该服务器使开发者能够更轻松地将AI应用连接到X的数据和服务，降低开发门槛。此举顺应了AI工具快速接入社交平台的需求，有望加速基于X的AI应用创新。来源：TechCrunch。"
+      "title": "Many Analysts Expected AI To Replace Workers. New Company Data Tells A Different Story. - International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXYxMzcyY3JFb01PTU1BZVFLdWJDT21lLVNZckFZLXA3RUZVdnJlNVdLWjN6OVBXX2Q5LVRwMVhsUmFiRFlUV2MteGVWTXk2NEZlWm1Zd2dWRGNWZUVpYVk1QjJya0FNcmwyODhadDFMWnhfWEFDeXdmbXFwZmNtbjZSMkJ3MVhmbkVubm41WnRRMzlCZWNCTVZTaUpjeEpKUDJ2VFVaRHk2cVRqZ3BRNnVn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-30T22:17:01Z",
+      "summary": "尽管许多分析师曾预测人工智能将大规模取代人类工作，但最新企业数据显示AI更多是辅助而非替代员工。人机协作提升了生产效率，许多公司通过AI工具增强员工能力而非裁员。这一发现修正了此前对AI就业影响的悲观预期，强调了技能重塑与岗位转型的重要性。"
     },
     {
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T15:00:00Z",
-      "summary": "播客平台Riverside宣布进入新闻通讯出版领域，用户可利用AI工具根据录音内容自动生成新闻通讯。该功能旨在帮助内容创作者高效转化音频素材为文字出版物，提升内容复用率。Riverside的此举体现了AI在内容生产与分发中的渗透，为播客创作者提供了新的变现和受众触达渠道。来源：TechCrunch。"
+      "title": "Signal in Noise: How Can Artificial Intelligence Benefit Psychiatric Practice? - Psychiatric Times",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXhCb2pCbVU5T2lfZ0J4TFdleVdMU1JycVk0Z05RWEhjY3o5RWJQNDE5TUJHRXBtcFFYTnJXSnktQmNsN1lWN1A0VG82aEFMbTBvT0ZGb0xIUEg1cjVJQlhOVXJqaTdtVnFIdTU1V0lJT3ZVWFNUSXhJMFZCZXU0ZzBUbGFydkFHTnlrVGFoeS1PakVjQWhPRkV3cW5CZF8tOWRvdG1VbGRvU29ZZVVEYkFwcng5dw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-30T22:09:36Z",
+      "summary": "《精神科时报》探讨了人工智能如何惠及精神病学实践。AI能从嘈杂的临床数据中提取有效信号，辅助精神疾病的早期诊断、治疗反应预测和个性化方案制定。然而，应用时需注意数据隐私和算法偏见问题，确保技术在精神卫生领域负责任地使用，实现真正的临床价值。"
     },
     {
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T15:00:00Z",
-      "summary": "亚马逊成立新的10亿美元FDE（快速部署工程）组织，效仿OpenAI和Anthropic的模式。该团队工程师将嵌入客户公司，协助部署专用AI代理，强调快速落地和客户自给自足。亚马逊此举旨在通过深度绑定客户业务场景，加速AI解决方案的实际应用，同时推动企业级AI服务的规模化扩展。来源：TechCrunch。"
+      "title": "Why Long-Horizon AI Agents Are the Next Frontier in Artificial Intelligence - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3hseHJvNUxQZDlWdGd6U1JLamxSOHk2cFhhVWxqTkpSSExrUDFtY1ZzZ1drRGVua1BIMTAwWWlpQTZxSUdPZHRFdHJwM2lqSkx4bVNFZE5DcnByZS1yRnFVRi0tUzEwNGIyc19XdlB0TXctMllBVUxrWG0tbVNJek9tRnJsMk5FMVVGajFfNlRJTng1WGhOR3F2ZEtkQ3Y4WklmTTRuU2JjYzhnRFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-30T22:02:26Z",
+      "summary": "长视野AI智能体（Long-Horizon AI Agents）被视为人工智能的下一个前沿领域。这类智能体能够执行需要长期规划、多步骤推理和持续决策的复杂任务，例如机器人自主导航、科学实验设计或大型项目管理。与传统AI模型仅关注短期响应不同，长视野智能体需克服记忆衰退、信息延迟和不确定性累积等挑战。其核心在于构建高效的规划算法、强化学习框架以及可扩展的推理机制。当前，这一方向正吸引顶尖实验室和企业的投入，有望推动AI从被动应答向主动规划跃升。"
     },
     {
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "title": "OpenClaw is finally available on Android and iOS",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T14:00:00Z",
-      "summary": "Proton旗下的隐私AI聊天机器人Lumo迎来升级，2.0版本于本周发布，新增更丰富的功能。Lumo自推出以来主打隐私保护，升级后用户将获得更多能力支持。Proton持续加码AI领域，同时坚守隐私至上的原则，此次更新进一步巩固了其在安全AI产品中的竞争力。来源：TechCrunch。"
+      "publishedAt": "2026-06-30T21:53:28Z",
+      "summary": "OpenClaw，一款免费开源的智能代理（agentic）程序，现已正式登陆Android和iOS平台。这意味着用户可首次在手机端运行具备自主决策能力的AI智能体，无需依赖桌面端或云服务器。该程序的开放特性允许开发者自定义任务、连接外部工具，并实现跨平台协作。此次移动端发布标志着AI代理技术从封闭实验走向大众化应用，为个人自动化、移动端智能助手等场景提供了灵活且低门槛的解决方案。"
+    },
+    {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30T20:33:48Z",
+      "summary": "三位前DeepMind研究员（曾共同开发扑克AI系统）在布拉格创立了EquiLibre Technologies，专注将游戏AI技术迁移至量化对冲基金领域。该公司利用博弈论、强化学习和策略推理构建交易模型，在金融市场中实现稳定收益。目前EquiLibre估值已超过5亿美元，成为AI+金融领域的明星初创。这一案例表明，源自游戏研究的AI算法在真实世界的高频决策场景中具有巨大商业价值。"
+    },
+    {
+      "title": "Meet the Artificial Intelligence (AI) Inference Stock That Could Deliver the Biggest Gains Over the Next 3 Years (Hint: It's not Nvidia or Broadcom) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkhQc0J1V3dfUHlLNnRORzNfVl9DRmRaaTl3RWtkN1pHeXQ5RFhWNThvaXJyVnNGUllwTWtqQnZ1UG02bkdJLVA3UTdUeW1nQ3BLTXFJdFp0ZnViVDJ5aHFnczcweWJyZ3NybGRyM3NtOW1uc0lfLXBpLU1temZENk1tWkFOOWtaclNaTndHNjFFU21nYWZ6Wg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-30T20:33:00Z",
+      "summary": "The Motley Fool发文指出，未来三年人工智能推理（AI Inference）领域最值得关注的股票并非英伟达或博通这两大巨头，而是一家未被明说的企业。推理任务指训练完成后模型在实际场景中的运行与决策，其效率直接影响应用成本与响应速度。文章暗示，专注于推理芯片优化的新兴公司可能在边缘计算、嵌入式AI或数据中心推理环节实现突破，带来远超行业平均水平的股价增长。投资者需从技术路线、客户落地和市场规模等维度筛选潜力标的。"
     }
   ]
 }

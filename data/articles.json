@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "id": "1862",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01T02:04:40Z",
+      "summary": "英国自动驾驶AI公司Wayve推出8500万美元员工要约收购，公司估值达85亿美元。此举是AI初创企业通过员工股票回购计划吸引和留住人才的普遍趋势，旨在激励员工并维持长期发展。Wayve的融资策略反映了行业对人才竞争的高度重视，也凸显了其作为自动驾驶领域领先者的市场信心。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1863",
+      "title": "While \"autonomous AI\" in which artificial intelligence (AI) judges and acts on its own and \"physical.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WQ01IYmgzWldhRXVIWm9JYjdVWFR6SU5Eek5uTkwxTksxcXFVd0I0SHp5M2dtNzgxZHhneFM5eXhsXzZLbFFYLVFHTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T01:52:21Z",
+      "summary": "韩国媒体《매일경제》报道了自主人工智能（AI）与物理世界结合的相关议题。自主AI能够独立判断和行动，其在机器人、自动驾驶等物理领域的应用正引发广泛关注。该技术有望推动智能系统从虚拟场景向现实场景延伸，但同时也面临安全、伦理等挑战。报道呼吁加强跨学科研究以平衡创新与风险。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1864",
+      "title": "Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2l3azNGRHZzQVpuZTR6RF9FUUd0SFV4ZTZkeHByMURrQXVGYXQ4U1R5TDBjSGZEenh0TlA0aGtWeXBRcE9pUjhCLUpfSUVoN2pSc2QyUUZ0OXBWWFVWblpvcEQyc3JydzMtbmRSM1lLaTAtRzNDM0xiT0ZHM3djRERTcmFnTi1xcGt6b2JCdGYwVWVIUTJsTWlKZmE4SW9uc254OW0wdjB1MnB4VVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T01:51:00Z",
+      "summary": "Anthropic公司宣布，美国政府已解除对其Fable和Mythos AI模型的出口管制。这些模型此前因潜在安全风险受到限制。解禁表明美国对AI模型安全性评估的调整，可能为Anthropic拓展国际市场铺平道路，同时也反映了全球AI治理中安全与贸易平衡的复杂性。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1865",
+      "title": "Thanks to the artificial intelligence (AI) investment craze, the number of billionaires worldwide in.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hQUZ1T3FqOHdvelpKbWQtNG1heUgxSmNOSFFzWTJWTjd3UC1WZGhrN3ZrWUcyTTBsZ0JIWVNvYk9EZUVBaUFNc242V2tfZUk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T01:48:02Z",
+      "summary": "受人工智能投资热潮推动，全球亿万富翁数量显著增长。投资者对AI领域的狂热追捧使得相关企业估值飙升，创始人和早期投资者财富激增。这一趋势反映了AI作为经济增长引擎的巨大影响力，但也引发了市场泡沫的担忧，需警惕过度投机带来的风险。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1866",
+      "title": "Anthropic says Trump administration lifted restrictions on some of its most powerful Claude AI models - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRm1XQlFkWlBWcERiZ1JTX3pVblVKb1lfN1FrMXFkb3pLM19HdGt0cXUzc2lWTmhKem1zdWNVMm45eXQzQXZ4aDdDYURYUFRNZ3BfZVdaWnBfejhta1VZdG42aW5OQzNvTVlBaHlNbk81X0VpRHBEaXV5R2g5eDJ0ejJzMExsTUJNNWpDbjAxRWw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T01:27:13Z",
+      "summary": "Anthropic表示，特朗普政府已取消对其最强大的Claude AI模型的部分出口限制。这些模型此前因安全担忧受到管制。解禁后，Anthropic可在更广泛范围内部署先进AI能力，推动技术应用与商业化。此举反映了美国AI政策在安全与竞争力之间的权衡，也为行业释放了积极信号。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1867",
+      "title": "Children's Use Of Artificial Intelligence Outpaces Adults' By More Than 3 Times: UNICEF - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ISE5nSXc0S1VPMUpGeW1Bb25GZUNTUTVtY0RIMWlzeHZ3NHg3Sy1jdmo4NlprVVVGemdYX3JBUXM0c1BoNFBDM0FIVG9BanVCa3ZzZW1xZDQ3THNZTXpsRXd3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T00:32:54Z",
+      "summary": "联合国儿童基金会（UNICEF）报告指出，儿童使用人工智能的频率是成人的三倍以上，凸显年轻一代对AI技术的高度接纳。报告呼吁关注儿童在使用AI过程中的隐私、教育及安全问题，建议制定针对性的指导规范，确保技术发展惠及儿童并减少潜在危害。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1868",
+      "title": "On the 30th, Loensurgical, an artificial intelligence (AI)-based kidney stone surgical robot company.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fTWg0c3FESVVQMlNPYUprOGJLTHVPX3dHaHdjQXdGTjVfd2t4cXU4ZUF4SXBITmN2WFV3ajlYODhaSWlHSXpqWFp5LXUwZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-30T23:43:10Z",
+      "summary": "韩国AI肾结石手术机器人公司Loensurgical于30日宣布取得进展。该公司利用人工智能技术提升肾结石手术的精准度，其机器人系统可自动识别结石位置并规划手术路径，旨在减少创伤、提高成功率。该技术有望推动泌尿外科手术向智能化、微创化方向发展。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1869",
+      "title": "The artificial intelligence (AI) investment craze is rapidly spreading from Nvidia to memory and CPU.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzUUV0cl9TRUh2Rm4zUzNWZHRvcDJmWmUyeEVvNkk5MktESHhOY3RJc1pqT1ZQRDNONTVLX1ZYc2hzTzJHQ3BMQVZuZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-30T22:26:12Z",
+      "summary": "人工智能投资热潮正从英伟达迅速扩散至内存和CPU等半导体领域。投资者押注AI带来的芯片需求增长，尤其是高带宽内存（HBM）和专用处理器。这一趋势推动相关公司股价上涨，并加速全球半导体产业的结构性转变，从通用计算向AI定制化芯片演进。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1870",
+      "title": "Many Analysts Expected AI To Replace Workers. New Company Data Tells A Different Story. - International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXYxMzcyY3JFb01PTU1BZVFLdWJDT21lLVNZckFZLXA3RUZVdnJlNVdLWjN6OVBXX2Q5LVRwMVhsUmFiRFlUV2MteGVWTXk2NEZlWm1Zd2dWRGNWZUVpYVk1QjJya0FNcmwyODhadDFMWnhfWEFDeXdmbXFwZmNtbjZSMkJ3MVhmbkVubm41WnRRMzlCZWNCTVZTaUpjeEpKUDJ2VFVaRHk2cVRqZ3BRNnVn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-30T22:17:01Z",
+      "summary": "尽管许多分析师曾预测人工智能将大规模取代人类工作，但最新企业数据显示AI更多是辅助而非替代员工。人机协作提升了生产效率，许多公司通过AI工具增强员工能力而非裁员。这一发现修正了此前对AI就业影响的悲观预期，强调了技能重塑与岗位转型的重要性。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1871",
+      "title": "Signal in Noise: How Can Artificial Intelligence Benefit Psychiatric Practice? - Psychiatric Times",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXhCb2pCbVU5T2lfZ0J4TFdleVdMU1JycVk0Z05RWEhjY3o5RWJQNDE5TUJHRXBtcFFYTnJXSnktQmNsN1lWN1A0VG82aEFMbTBvT0ZGb0xIUEg1cjVJQlhOVXJqaTdtVnFIdTU1V0lJT3ZVWFNUSXhJMFZCZXU0ZzBUbGFydkFHTnlrVGFoeS1PakVjQWhPRkV3cW5CZF8tOWRvdG1VbGRvU29ZZVVEYkFwcng5dw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-30T22:09:36Z",
+      "summary": "《精神科时报》探讨了人工智能如何惠及精神病学实践。AI能从嘈杂的临床数据中提取有效信号，辅助精神疾病的早期诊断、治疗反应预测和个性化方案制定。然而，应用时需注意数据隐私和算法偏见问题，确保技术在精神卫生领域负责任地使用，实现真正的临床价值。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1872",
+      "title": "Why Long-Horizon AI Agents Are the Next Frontier in Artificial Intelligence - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3hseHJvNUxQZDlWdGd6U1JLamxSOHk2cFhhVWxqTkpSSExrUDFtY1ZzZ1drRGVua1BIMTAwWWlpQTZxSUdPZHRFdHJwM2lqSkx4bVNFZE5DcnByZS1yRnFVRi0tUzEwNGIyc19XdlB0TXctMllBVUxrWG0tbVNJek9tRnJsMk5FMVVGajFfNlRJTng1WGhOR3F2ZEtkQ3Y4WklmTTRuU2JjYzhnRFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-30T22:02:26Z",
+      "summary": "长视野AI智能体（Long-Horizon AI Agents）被视为人工智能的下一个前沿领域。这类智能体能够执行需要长期规划、多步骤推理和持续决策的复杂任务，例如机器人自主导航、科学实验设计或大型项目管理。与传统AI模型仅关注短期响应不同，长视野智能体需克服记忆衰退、信息延迟和不确定性累积等挑战。其核心在于构建高效的规划算法、强化学习框架以及可扩展的推理机制。当前，这一方向正吸引顶尖实验室和企业的投入，有望推动AI从被动应答向主动规划跃升。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1873",
+      "title": "OpenClaw is finally available on Android and iOS",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30T21:53:28Z",
+      "summary": "OpenClaw，一款免费开源的智能代理（agentic）程序，现已正式登陆Android和iOS平台。这意味着用户可首次在手机端运行具备自主决策能力的AI智能体，无需依赖桌面端或云服务器。该程序的开放特性允许开发者自定义任务、连接外部工具，并实现跨平台协作。此次移动端发布标志着AI代理技术从封闭实验走向大众化应用，为个人自动化、移动端智能助手等场景提供了灵活且低门槛的解决方案。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1874",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-30T20:33:48Z",
+      "summary": "三位前DeepMind研究员（曾共同开发扑克AI系统）在布拉格创立了EquiLibre Technologies，专注将游戏AI技术迁移至量化对冲基金领域。该公司利用博弈论、强化学习和策略推理构建交易模型，在金融市场中实现稳定收益。目前EquiLibre估值已超过5亿美元，成为AI+金融领域的明星初创。这一案例表明，源自游戏研究的AI算法在真实世界的高频决策场景中具有巨大商业价值。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1875",
+      "title": "Meet the Artificial Intelligence (AI) Inference Stock That Could Deliver the Biggest Gains Over the Next 3 Years (Hint: It's not Nvidia or Broadcom) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkhQc0J1V3dfUHlLNnRORzNfVl9DRmRaaTl3RWtkN1pHeXQ5RFhWNThvaXJyVnNGUllwTWtqQnZ1UG02bkdJLVA3UTdUeW1nQ3BLTXFJdFp0ZnViVDJ5aHFnczcweWJyZ3NybGRyM3NtOW1uc0lfLXBpLU1temZENk1tWkFOOWtaclNaTndHNjFFU21nYWZ6Wg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-06-30T20:33:00Z",
+      "summary": "The Motley Fool发文指出，未来三年人工智能推理（AI Inference）领域最值得关注的股票并非英伟达或博通这两大巨头，而是一家未被明说的企业。推理任务指训练完成后模型在实际场景中的运行与决策，其效率直接影响应用成本与响应速度。文章暗示，专注于推理芯片优化的新兴公司可能在边缘计算、嵌入式AI或数据中心推理环节实现突破，带来远超行业平均水平的股价增长。投资者需从技术路线、客户落地和市场规模等维度筛选潜力标的。",
+      "fetchDate": "2026-07-01"
+    },
+    {
       "id": "1846",
       "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
       "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
@@ -16741,5 +16867,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1860
+  "total": 1874
 }
