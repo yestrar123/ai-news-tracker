@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "1876",
+      "title": "The ‘Father of the Internet’ is finally retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01T03:15:37Z",
+      "summary": "“互联网之父”文特·瑟夫（Vinton Cerf）将于下周从谷歌首席互联网传道者职位上退休。瑟夫是TCP/IP协议的核心创建者之一，该协议奠定了现代互联网的基础。他在谷歌任职超过20年，长期致力于推动全球网络连接与数字包容性。其退休标志着互联网早期先驱时代的一个象征性结束，但他在技术标准与公共政策领域的影响力仍将持续。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1877",
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01T02:16:06Z",
+      "summary": "特朗普政府解除了对Anthropic公司Mythos和Fable模型的出口限制。这两款模型是Anthropic的旗舰产品，曾因潜在安全风险被限制出口。然而，特朗普政府在AI政策制定上的反复无常，使整个行业对未来模型发布应遵循何种规则缺乏清晰预期。分析人士指出，这种朝令夕改的做法可能影响美国在AI领域的可信度与产业稳定性。",
+      "fetchDate": "2026-07-01"
+    },
+    {
       "id": "1862",
       "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
       "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
@@ -43,6 +61,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-07-01T01:27:13Z",
       "summary": "Anthropic表示，特朗普政府已取消对其最强大的Claude AI模型的部分出口限制。这些模型此前因安全担忧受到管制。解禁后，Anthropic可在更广泛范围内部署先进AI能力，推动技术应用与商业化。此举反映了美国AI政策在安全与竞争力之间的权衡，也为行业释放了积极信号。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1878",
+      "title": "AI won’t be substitute for human workers, OpenAI economist says - Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2QxanJ0SUpNUlBWTUViR0F1MldVSHdWbDVZOTM3RG5TcUg0dm01cGxYWmFzSVZpSWlHc0xtSWF5RC1aUTNJbEIwSEFib3VZYngwcXcyeC1CYTlzWXpRNW8zMmVrVWoxTDktTTRiV29aR0tmVlpPMTExVFdQaHQyTVE1akRwYnZuZHdlMG95dkFiU1kwd1RiNlFxWFhEMTFxMnNvcFlCM3NkV3FHdFpZQUlnMXZxN1NqakpJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T00:42:35Z",
+      "summary": "OpenAI的经济学家在接受《卢森堡时报》采访时表示，人工智能不会完全取代人类工人。他指出，AI更可能成为赋能工具，增强人类的生产力而非完全替代，尤其在涉及创造力、情感判断和复杂决策的岗位上。该观点与一些关于大规模失业的悲观预测相左，但经济学家也承认，劳动力市场需要适应AI带来的技能转型，教育和再培训至关重要。",
       "fetchDate": "2026-07-01"
     },
     {
@@ -16867,5 +16894,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1874
+  "total": 1877
 }
