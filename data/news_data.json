@@ -1,69 +1,118 @@
 {
-  "updatedAt": "2026-07-01 09:27:13 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-07-01 14:10:00 UTC",
+  "totalArticles": 16,
   "articles": [
+    {
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01T14:00:00Z",
+      "summary": "TechCrunch Disrupt 2026 的 Builders Stage 议程公布，聚焦初创企业规模化实战策略。该舞台将汇聚超过1万名创始人、创业运营者和投资者，通过实用对话与问答环节，探讨如何构建和扩张成功公司。活动鼓励尽早注册，可节省高达330美元费用。"
+    },
+    {
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01T13:43:07Z",
+      "summary": "Meta 效仿 SpaceX，计划将过剩的 AI 计算能力变现。该公司正在开发云基础设施业务，出售 AI 算力和模型访问权限。此举将使 Meta 直接与亚马逊云服务、谷歌云和微软 Azure 等大型云提供商展开竞争。"
+    },
+    {
+      "title": "UK's National Grid bets $1.75 billion on AI power boom with Joulent investment - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUxSUEFuVFhTc2c3S3BMeUVaVnpTZHk3ZVBIajgxb0ozcmtKUThqQTV6clpzNlNCbVVzRlhoT2ZsTTVIQTZ3M3pBelFXXzRnSlp1aklMMG5BVzJuRHpmTVpqSFYtMEhFY1JoeFM0YU9QS21pZ3RmQ2tfVDVLa2xhazItOWo0cE5aQmxzeHNXckpiQldOclJISG1YcHJKMnM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T13:39:43Z",
+      "summary": "英国国家电网公司向 Joulent 投资17.5亿美元，押注 AI 带来的电力需求激增。随着 AI 训练和推理消耗大量能源，电网基础设施面临升级压力。该投资旨在保障未来 AI 产业电力供应，并推动绿色能源转型。"
+    },
+    {
+      "title": "Ahead of BRICS forum, BMS outlines AI agenda centred on labour protections - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWGgwVWlVSTJKelNTQlJHeGQ5OHZnRU5uX2VjVWpVSTlYZDU5TVJMUWtzS0ZlUTdjc1diTERsQ3J5UENEZ0xFOFNVZmpmb2F6emF5bk95NjRnal9jczdNWGZNSkw0Yy1iTmdmZFItV0J5bXpNNE93VHctSUxQYXRtRTRrMXJaeVhwX0ZFNHdBRkxreUk4b1I0M2hXZnpGNlZHbU1QeDY5ZGZpSjVQZXZsUHNoMVVqLUh6cVcyenlrTlFCb01WMVpXWEdQQ29iYm1PdWFXLTNZZkljZDNkMzV1dzFETFBfRV9JeW1mT1lKS2pHR1VR0gH6AUFVX3lxTE0ycDZWTkV2ZWpMOG1leEdIdmoyRkR5ZERSdUxzc1ZFamtvZE10TERHNWZ5SmpoUDV3dVk0Y1N5THNCM281cmRmc0ZPWWVvRDh3R1FUYjhjQnNSRTJsTXRLcVlFTzZRbVJ4X2NPWGdvWm5PRG03X0UyTHBJU0pfVlpxc3pvbThEMmpfUGhQUENrU0xqMkFvZzBHaEpkZ2dRZnZ3UG9TZU5wcS1rdmV0Y1Z3OVZRZVdoMFJVSThWX1locmxaT1V1aEYydWdHanZTQzE5b0cwVGxmRm9pVHRyZ3pUVWlUV1R1Nm15ZmtDamx1VmxKQUM3X0Q5TXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T13:39:03Z",
+      "summary": "金砖国家论坛召开前夕，工会组织 BMS 提出以劳工保护为核心的 AI 议程。BMS 强调在 AI 部署过程中必须保障工人权益，防止技术替代导致大规模失业，并呼吁建立全球性 AI 劳动标准框架，确保技术进步惠及劳动者。"
+    },
+    {
+      "title": "Startup Oxmiq raises $35 million to build chip architecture to lower cost of AI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmhpc3U1Q0JubmtQZ2Y2QnFlRXJHcURLa1lxZXpvRmtfb2xBQUhDWEJfVVV3RWtEZ2xQMnQ4QU5YMnYxaUZXa1RWRXVQSVNUdWVVRXVHUnBZSEdBZEtpakVYUjBpdWo0dldLUTZvdUM3ZWVjSFRERTFKbTRrS0FSZU5WMnE4dUM2Vk5jRDNIMEVXSXhRcEdhaHo3UVNqRTA1N093R1RzRWZGRXYta1VmZWFJWkhRTmlKRFFDdjVuVl9sQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T13:25:44Z",
+      "summary": "初创公司 Oxmiq 筹集3500万美元，用于开发新型芯片架构以降低 AI 成本。该公司致力于设计更高效的硬件方案，减少 AI 模型训练和推理的计算开销，有望使 AI 技术在更广泛场景下实现经济可行，推动行业普及。"
+    },
+    {
+      "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzlYcjZBRTVTUHhqcGM3ZXZwVS1XWktHaWVmckFuZjg1bzZPNnZqWDJxUzktV2c4TDA5VHY4ajIxbjVrb21MYnRiM0Q3WDRmMUZZQWxpWlZzZGh4QlVsWF82SGlYZ3lSZVNab056ZWdhTWphSnhXY2lZZHUxb19oWF9udWpTQnNGWkFVVFo0Y0VPckVYTkU5VmozMHA2dE9OanE3SER1cFVzN0U4WkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T13:10:00Z",
+      "summary": "联合国一个专家小组发出警告，称不受约束的 AI 发展可能带来灾难性风险。报告指出，缺乏有效监管的 AI 系统可能在军事、网络安全、生物技术等领域引发不可控后果，呼吁国际社会紧急制定治理框架，确保 AI 发展安全可控。"
+    },
+    {
+      "title": "UNICEF Reports Rapid AI Use by Children: How Will This Affect the Youth? - Tempo.co English",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWm5WWTdnVkRoQWsxUHgwdTdYWXRLaDRvNGZXUDZiOWlIWDQ3OG9LMU1OWnd4U0ZwWEpTWTVPYmxSU0wyUFVEbTdpR2JvVFNGd3hCdmtfa3EwWWRTZnliZWpzMm9kRVo2TmthMTRjOEJlc25nMW5kbTVpRWd3ZHVJbzRTRWtYOE11TmVhZTBaN1VDR0lBRHUwcmFOTzlVdXpDaWdSTTBn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T12:33:36Z",
+      "summary": "联合国儿童基金会报告显示，儿童使用 AI 工具的速度正在快速增长。报告关注这一趋势对青少年发展的影响，包括教育、社交和心理健康等方面。专家呼吁家长和教育者加强引导，确保儿童安全、负责任地使用 AI 技术。"
+    },
+    {
+      "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots - AI News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3gxcHBiemprTXZweEtfTG1yM0xDTHdRQ3VwRlB4WGhRQnFPVEExVmJfYXVYaEJnc3dhdGE3UXpXMzAzX252V2k5eWc4Q180SDZFQ2hXcG9qR1RISmRDdDRlMHBnVzNNNlpqNzhCdS0wUDZHaTR0Ym9xLTE4M29jTVZ1X2hLN0stT2t2R2VRTDVGQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T11:03:01Z",
+      "summary": "日本为应对劳动力短缺，提出一项雄心勃勃的计划：为1000万台机器人构建统一 AI 模型。该模型将使机器人具备更高级的自主学习和协作能力，广泛应用于制造业、护理业和农业等领域，缓解人口老龄化带来的劳动力缺口。"
+    },
+    {
+      "title": "Agentic AI may put $234 bn of SaaS spending at risk by 2030: Gartner - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNemFNV1M1SWhXdEl0cUY3R3U0cl9yS1UzdFR5M25GOF9nWDMzVWV2dWFzMURfSzE1YnBFMTVpb0VaajViQ2Z5cjhsNTRTVUVnMERxUFJUUlRfN0ZuU3NFZVBCVThwUnpRcm9YUnBHajA2TE5lRThqM0dUT3dTSHd3RDBmMVV1QlBTYXlMNER0MVdXVzZRZDZQbFZ2STRNcjl5c2trd2x5WFNQUmZQVHpPVjFGRGZ3NVBxQkN4TUp6VUZNcWNJcTFkUU9Fd3lXQ3pBWXBwT2dXTzNGcGpzNEdEUmxKSzVwQi1xbW1vc2ZLX0lVTUpnTFkwMUkxeUQteTU2bkM1YdIBigJBVV95cUxQeVJ2dkd0T050aUtBS2k2SU5QSGI2aER3RUJ0QmNIT1RlMjNCcTdEbDgzY1ppR2VtSFVMU01Mem4zaTEwUDJ4b1V0OHZoVHM5bkw4U3FMQmY2WDF3dzVNOFlXQTRqMUktaE9RV05ycjAydlRDWkQyYVJTdTBUS3FINkgtR241MGRlaVBLcnRlY0dzZWh2WHQyWG9kbDNxcm9zaTNFMHU1QWliblRVYWc2NDZUYXdtNXd0cDFraTV3cE1jRzF4bWZrQTZFWlVfaTJwVktiVnZ4MktSZFJGU1pTOVhkeVJhLUV2TmpOVWFCbE0yUDhYbEw5N2ZLcHNXNnZKejE0S3BpVS0yQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T10:58:28Z",
+      "summary": "根据 Gartner 预测，到2030年，自主 AI 代理可能使高达2340亿美元的 SaaS 支出面临风险。随着 AI 代理能够自主完成曾经需要多个 SaaS 工具协作的任务，企业将减少对传统软件订阅的依赖，引发软件行业商业模式变革。"
+    },
+    {
+      "title": "UN Report Sees Enormous Potential Benefits And Big Risks From AI - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGRNZWhnVDhfU3lxa21PcHRlUk04V1JWcHBfcDBtbm8xektaUXZ6aHlvd0xkdkdHMm44SGxVQ0Q2aEJGaklOSmJFbTJOOWYwRjZlWENxTlNBX3NQcms5UEE2UTM1TVZWLWtWUkIySVd0S1psYlBzY1U5eW04QUFNNjhaQUVxVlJyR2RnMXVOdXdWNHJvTEltMTJaR3lCZ29xcVhsTWQ0b05oOWp1N1NIQUFBeUEzRGw1T2fSAcIBQVVfeXFMUHV4VDVTbHRYcDFOQkxjc0dBY0FYWkN1ejdraVNINUVWLUVreGhuNFJOdjVmZmxkdFFmOWNhOUt5S19ydDlveDVsY09tM1B3cHhaZ1A1NkpDa0FyTDhaWHhaQVViZGpTUV85cm5fWThKSjFyQVZFcnZEYlduUHA5bGl3X0ZKbEJJSXNqQWhycGNmd2tTcFR2eGEzaVE4dWY3dmc2RE8xX3lLUzBFU3dlM184NHlSRHNKTDZhU0VGMEFlbGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T09:43:25Z",
+      "summary": "联合国最新报告指出，AI 既带来巨大潜在利益也伴随重大风险。报告强调 AI 可在医疗、教育、气候等领域发挥变革性作用，但同时也存在偏见、隐私泄露、就业冲击等隐患。报告呼吁各国在促进创新的同时加强监管，确保 AI 造福全人类。"
+    },
+    {
+      "title": "Artificial Intelligence and Future of India's IT Companies - Economic and Political Weekly",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdG4xOXY0REwyUEFqQ25zVDNGQmNIOHNtaFFvTWZqdFZCa2U3VDJkcFgxbVVGTW1DQV9Ja0ExalYxQnBhUDgyUXlKZGJ0T0VNbC1LZ21tWGozeGhLd0FIVU1rRnIteHRCWW5WVFFyUkVJNEUtTGZidnpPMkdiUDZWNWlGZUo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T09:32:17Z",
+      "summary": "印度IT产业正面临人工智能带来的深刻变革。文章分析指出，AI自动化将冲击传统外包服务模式，迫使企业从低成本劳动力优势转向技术创新。同时，AI在软件开发、数据分析等领域的应用，既催生了对高端AI人才的旺盛需求，也导致低端编程岗位的缩减。印度IT公司需加快AI能力建设，提升服务附加值，以保持全球竞争力。"
+    },
     {
       "title": "GuardFall Flaw Hits 10 of 11 Popular Open-Source AI Agents - Security Affairs",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF0gGoAUFVX3lxTFB6UHRiNmxJNFNCQ2NKMll5R0p0dTNoQ2x0X2FDMThrbERHcU5CU0plNG13aDhHX3Q1VXM3dGVIVmhPZHZsanFVeUdERjlpcUwwVHNRb3NoaHNVLV91N3FwemxFTWZUNEhMMlEzNF82MGNJN21taTYwa3hLVzM4R2NrQVdlQnRDUzE0WFlHRE4wLXVrbEg2RG1iRllBcG1LMjg0SXVENkRyTQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-01T09:11:15Z",
-      "summary": "网络安全研究人员发现一个名为GuardFall的漏洞，影响11个主流开源AI代理中的10个。该漏洞允许攻击者通过注入恶意指令或操纵模型输出，绕过安全防护机制。受影响的代理包括LangChain、AutoGPT等流行框架。开发者需紧急更新或采取隔离措施，防止AI系统被利用执行未授权操作。此事凸显开源AI生态的安全脆弱性。"
+      "summary": "安全研究人员发现一个名为GuardFall的漏洞，影响了11个主流开源AI代理中的10个。该漏洞存在于代理的输入验证和输出过滤环节，攻击者可利用它注入恶意指令，导致模型输出被篡改、敏感数据泄露或执行非授权操作。受影响的项目包括AutoGPT、BabyAGI等热门框架。开发团队已发布紧急补丁，建议用户立即升级。"
     },
     {
       "title": "RBI's latest worry isn't inflation. It's artificial intelligence - India Today",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlBybUdocTJvQW1oZFFjaHV5SThfR2VxQ0E1ZjR6OW9OdGVpSzA0NWQ2R1BjbUhwSTlQVTRnZWZtd0I5SGRQbk5IYlJjOUV3U2UtVC1nR0xXT2I2OFFUeVI1dW1vMFk5ZVlpUE9PZ0Z4dFRZVDhIUGs3VGdFdG1XdkJXMHpXNDBPNGtQOWRrM05CT1ltTzR4cW9IbVRSZW5aZ2pLZ2lFS0tpcThNZll2MWUtU2ppRGNRZXpUeWJaYnZkQV9CbnlQVGJmU1ZjYVpZUGfSAdcBQVVfeXFMTUY1bXg0QTIzN2RsVFoweTR2ZHp5cFhSMmUyVnk0RDhBd3c5al9XRW10QUFYckhaazF5LXZMcWszQjU1bVA4MHNULW5xcHBlaFpFSDJIR3Fxd1ZoU3FfcENCZVFYYXBFcGRCYWk0RnRwTl80ckNDNWRuS0VmZWkzUEQyb0Vrd1VWS1ZFQ3E0VHJUMDJ1QWxfaXk0SmZxZmlUVFBpWnhKZE1zN2liTDRpVko3aktVVXJrRmZGQ0ZCME1EZnJvZ2ZVdGpZcjBsRVQ3UnBpVl9SMVk?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-01T09:07:52Z",
-      "summary": "印度储备银行（RBI）表示，其当前主要担忧并非通胀，而是人工智能对金融稳定的潜在冲击。RBI关注AI在信贷评估、欺诈检测等场景中的算法偏差和系统性风险，以及自动化决策可能引发的失业问题。该机构计划加强AI监管框架，确保金融科技合规发展，同时防范技术滥用导致的系统性危机。"
+      "summary": "印度储备银行（RBI）最新报告指出，人工智能对金融系统的潜在风险已超越通胀成为首要关切。RBI担忧AI在信贷审批、交易监控和客户服务中的广泛应用可能引发模型同质化、算法歧视与系统性风险。同时，AI驱动的自动化可能冲击金融业就业。RBI正推动建立AI监管框架，要求金融机构加强模型可解释性和压力测试。"
     },
     {
-      "title": "Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2l3azNGRHZzQVpuZTR6RF9FUUd0SFV4ZTZkeHByMURrQXVGYXQ4U1R5TDBjSGZEenh0TlA0aGtWeXBRcE9pUjhCLUpfSUVoN2pSc2QyUUZ0OXBWWFVWblpvcEQyc3JydzMtbmRSM1lLaTAtRzNDM0xiT0ZHM3djRERTcmFnTi1xcGt6b2JCdGYwVWVIUTJsTWlKZmE4SW9uc254OW0wdjB1MnB4VVE?oc=5",
+      "title": "Rapid spread of AI may worsen global inequality, UN warns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GSFNJR2xJUHlrNFFEMzhMQS00QkRCWWRrbWtrbm02d29peFQtUzhWSWJOdzJuRDhETWQ2UFFETmZoQU82NVlwYlZKcnk3YkZjNkkwemtFaW9JR1NMODNrRGRpbUkxQW5tOFR0TnVacDJxMGhuNGVKRExqQ2pqNTA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-01T09:04:00Z",
-      "summary": "美国已解除对Anthropic公司开发的Fable和Mythos两款AI模型的出口管制。此前因担心模型被用于恶意目的（如制造生物武器或发动网络攻击），美国曾限制其海外分发。Anthropic承诺加强安全审计后，管制被取消。此举反映美国在促进AI创新与防范技术滥用之间的政策平衡。"
+      "publishedAt": "2026-07-01T09:02:00Z",
+      "summary": "联合国发布警告称，人工智能的快速扩散可能加剧全球不平等。报告指出，发达国家和发展中国家在AI基础设施、数据资源和人才储备上的差距持续扩大，缺乏AI能力的国家将被进一步边缘化。AI自动化还可能侵蚀发展中经济体的劳动力成本优势。联合国呼吁建立包容性的全球AI治理体系，确保技术红利惠及所有国家。"
     },
     {
-      "title": "Japan plans sovereign AI model, 10 million AI robots - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSmxNZGIyMmFJcDJVVEotelZPU0VVTG1QS2tvcll0WElka3A3dXpkTHZxM0ZJYTFDZjhlWmcxcXJEdXliTkdlYjZkUWpBUmZEWnRHNXlUQ3VoaThhR0Q2YTIybHFtZW5ManN6OUQ2cnBQQnZ0UkMxSWJrZDVGaFpEakVUZzBjdkVTMGFoQ2Jka2dENnlsSGRkbk9mX1BOMmJnWVRXblpR?oc=5",
+      "title": "From Klarna to Ford: why companies are bringing humans back after betting big on AI - Invezz",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2dsY1ZRVllkcGl4LXVUV0xJNWdoa3l4T2NJTnI2ci1GcUpoMUdzb3RYOWc0MTVKVm8wTFpTa0x3dFhILWprTWZfeUUzb1ZpckpOdUFLb0U0RTluLUo3Wi14QnZpS3lXOU9lR0FVN3VySFc0TjE2N3UyeF9DMDhJRnpGdkZ3dEZaZzlTeWNUVlJzcXNrYWRObjdrWGNQWU9ldWt5YzRJalVCRmNxbkIzUXVJaDR0MllQWFE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-01T08:06:35Z",
-      "summary": "日本政府宣布将开发主权AI模型，并计划到2030年部署1000万台AI机器人以应对劳动力短缺和老龄化社会。主权AI模型旨在保障数据安全与产业自主性，减少对外国技术的依赖。机器人将广泛应用于医疗、护理、制造业等领域。该计划涉及巨额投资，并需突破芯片、算法等瓶颈。"
+      "publishedAt": "2026-07-01T08:59:10Z",
+      "summary": "在经历大规模AI投资后，包括Klarna和福特在内的多家企业开始重新引入人类员工。Klarna发现AI客服在复杂情绪理解和跨场景推理上表现不佳，福特则因AI质检系统误判率过高而恢复人工检查。这些案例揭示AI在需要灵活应变和深度共情的场景中仍存局限，企业正转向人机协作的混合模式。"
     },
     {
-      "title": "Fugu vs GLM-5.2 vs Mythos: Why AI benchmarks crown different winners - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbzZCdGpaMTFPMFpMS1FBaFZHTkl2YW1idkd3MlNUVFRzZzJycnVGVi1fbEEyTXhROVVvX1VxODMzc0IxQmJoNGV3M1lfZk9BSmZ2bGc2SG1nNWs1TWJ6ck40YXp4azc3ZGE1bWxzaDhlcjVUSHRDRXRkMnRRbzI2Y19fYWl4VWw1blktNGZjR0JEdVN3VjloU2VlRnZMTGJ5NUtQSXZzRThmc0hsX0RfUzM4czhidDc1NmY0UjdtaDUtYVFvR1R0TlJtVElPQnJiazl1VWk4NmFTRTRHRXVz0gHkAUFVX3lxTE5YSmc3N3RJaWJyQlhkWXBSMm5GVlU3MWlxRjF4dmcwWi03ZTBQeVM5SjkwTExkWE1pZm5EaVAzQTFULXZObHpzS3lNalFyV2VtUnNJRnFpcDREQmtfZFhhcGd2TURjcFhGU3c3b2FvcVNDb2FHdjBFLVdLeUFyeTBRRElPTFpxNF9GODZHdE1vVFIzN1dGR0lRTlFSSzhwRWZZVDlURUxqSmlOVEpnYjhGbzdORTdFS0FfX1hrLU1sWVRHbERGOUw0bzk4c09XM3ZycGtLTnBNLWducFhaT09vY2R4Tw?oc=5",
+      "title": "Anthropic Unveils 'Claude Science' AI platform For Scientific Research - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNekxnTWFmblpwdXRYN1J1M2RONlZSdURQOHYxaEpSbFMyWTB6OV9RZFdGa1FGLUdKUDRXS0Myc0lsS3RXN05Zd3RqdUVmbDVDVjVZbG91VGU5ZFFVVm9yczlnYWFOUGJnR2FIREZiazFieWU3ZmFTUlpKWm9VdkdmSGJlRmdwVV9jekVIMjM1TkdTckxKWXVRLUJKMk5JVWtpV0o1MjlCLUpIRnZaVUxsNlZZOHN6U1NsS05kRXpIWi1uaktiU3NvY01hV3dOTjFjbThQNGR3dDVIeG1uOVZNNzF6Z2NSd9IB7gFBVV95cUxPU0NTSWdGbm5qTnFnaWhBd2NtTFJBaUg0dV9ISnJCb1hTRnpLM0trdEtyVER3X0tZbGNZS3RybXpnVUFHS3FoSkpCY0FBSzJEUGxzTUZiUHdnd3JnQTB4WGczTHRWeGVkVk1aWnlrUEIzQjA5WHV2akNZbHUwdEtRTkRvSEVTVFNWTmMzcV9kTnFFLTkxdEhldnNmN2xxY2pkbXBTY0I4TkdVTEU3SllPUlFEZ2tVT0RUU0RxbmhjR1Y2U3QxaVB4Y05fY0txRjRNUlhIRnpIbWtnYXltR240T1RTWlBuR2FTLVMwRmhR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-01T07:37:23Z",
-      "summary": "最新AI基准测试显示，Fugu、GLM-5.2和Mythos三款模型在不同评测中互有胜负。Fugu在代码生成任务领先，GLM-5.2在中文理解上表现突出，Mythos则在多模态推理领域占优。这表明单一基准无法全面衡量模型能力，用户需根据实际需求选择。评测差异也反映了模型训练数据与优化目标的侧重差异。"
-    },
-    {
-      "title": "Artificial intelligence in healthcare - Lander & Rogers",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGcxMUhUX1FVRHFQUUx6TmRYV096a0FmcUJHeHRkWGxRQXFzWTFRcmdRWUVmNk53blJwanpHNGlneEVSRnRTVjZ4WDdfLWVFb2U5YlhnNkU3cURHZmN3RnZlU2NqRnYzSFowdlJMNEhWcTVoSU56alJLSi01d2Nuc0V1eWVwbHZLRVJVWA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-01T07:24:13Z",
-      "summary": "人工智能在医疗领域的应用日益广泛，涵盖辅助诊断、药物研发、个性化治疗和医院管理。AI工具能分析医学影像、预测疾病风险、优化手术方案，并提升临床试验效率。但数据隐私、算法公平性和责任归属等问题仍需法规完善。Lander & Rogers律师事务所呼吁建立跨学科合作框架，确保AI安全可靠地服务于医疗行业。"
-    },
-    {
-      "title": "Adesso : Pools AI Expertise for Even Greater Impact in Artificial Intelligence - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZlNRY1FKYXdjV09LYWZNYXBsaDVkTGY0cTM2Z3UyRW42aXcwaWotUHhWQmhoNi1PSkZxRWVfLVEzRGNtMl92VVY4SjYwc0szWVNMY21BT000ajhpbGU4dTRFczBYX2dCZFdIRjQ0Znh6T3hBOUZLUHVhSElVMXJaQklmMFFJV3VQempXNG9Kd1c0VDFQQmRBdmpuYmEwS1p0bWdPRTItREZ5ZG05Y3NEZmZ1UzBWb2tFUzg0Ml9nUE1keVZqRWpzbA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-01T07:09:10Z",
-      "summary": "Adesso公司宣布整合其AI专业人才与资源，以在人工智能领域实现更大影响力。通过组建跨部门AI团队，Adesso旨在加速机器学习、自然语言处理等技术在金融、医疗、零售等行业的落地。公司计划利用领域知识优势，开发定制化AI解决方案，并加强与研究机构的合作，推动从概念验证到规模化部署的转化。"
-    },
-    {
-      "title": "Did The US Get Insecure About the AI Arms Race And Lift The Mythos Ban? - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0J4T1VoaUl2eVNla2Jncmc0LUt5Zk5BUVRrbFNFcUl0cXE5NDBkVVJmdmJiUVlhVEVudjJ5c01kU3JwU3kyYlNXLVQzdFRvbEk1bUliR2thRXJ3UUpmMDc3TUNrTnhtNHhWNWRqSksyMHVxUTViakVaNXhab1doZDE4dzRPa1ZxN1BvQnB6UmZWZi10dTBCQ0ZqYlFXMlBBblNicE5KVVhxSGJ0ZUNhYUluOVFnQk5YVXFuTXVGUERUc196NDg4aGQyMzM2SzjSAdcBQVVfeXFMT0JjZkNhMGdLT2JBNFNySmEzMThZLXJ6N1hfZ3NyTkUxNXNEUDR4Sl9Yd2NwVndubWlIWUxidWQzSzMyN1kyeUIxSWdQTGw4MEVyQjF2bXpZLWxTcks5WnR6YUNkQ2VxZE5aSmsza2JyNXlKYUVCUjUwaEhELTJYVzl6Q2JEaGVORUhhVzRjbGVwLW5DVVpKUDhMNGNicFhobHZOSnJsZEd6LTBKNkZaYmVsS0pGSzhYZlRsd19ONk95alFnZXFHdlVHXzExWDlrWDViTGVGWk0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-01T06:03:44Z",
-      "summary": "美国突然解除对Mythos AI模型的出口禁令，引发外界对AI军备竞赛的猜测。此前因安全顾虑，Mythos被限制出口；如今政策转向，或反映美国担忧在AI竞赛中落后于中国等国家。分析认为，此举既为保持技术领先，也为缓解国内AI企业对国际市场受限的抱怨。禁令解除后，Mythos可能加速全球应用。"
-    },
-    {
-      "title": "How AI Sovereignty and Algorithmic Control Shape the New Geopolitical Order - Frontline Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUppUU53OVFBZ1hoSWFERUNpLUY3LXFYc0JXRnh0ZG14R0dWWVdTU3Q4Rms3NmdvRHo4YWVSOFNMbmRnUThoaEpyR0w0Und3R1M4anh0cWc0aXVqRy1Cb09MUDlVX1d0UE5LTzl0VWJmd1VDNmVVZzlERHp2dVBwUFY5bS12SzN1ZGU2RUNwMW91YXhvNGNjZ201emdGMzZCaGtKM2hRSkYyc3hHNEHSAbQBQVVfeXFMT1NGSmY3YURxSUxNT3FBQjVuM2ltcHZ3V3cxWG8wSG02M0FOdlJtNmd3UW1Ebk1mdGIyNlRqNFBnYWZYYWlFZkFOcXBQNlZZcmtBdHZGU2pDeTI3MEIwbmpOOU03bUhPNmdMd3FDUWJxUy0wV1MyNFl1bi1ud0RJaGFGVjlLclRBREItNFBNZHhDUlU3ZVR5OFAwMmRhWnRpUGdtVjlxU1dlMllKLUJzVWVNWnMx?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-01T03:30:00Z",
-      "summary": "文章探讨AI主权与算法控制如何重塑全球地缘政治格局。各国争相开发自主AI模型与基础设施，以保障技术主权和数据安全。算法控制权成为国家竞争力的关键，影响贸易、军事和外交关系。同时，大型科技公司掌握核心AI能力，可能形成新的权力中心。文章呼吁建立多边治理机制，防止技术垄断与数字殖民主义。"
+      "publishedAt": "2026-07-01T08:10:13Z",
+      "summary": "Anthropic发布了专为科学研究设计的AI平台'Claude Science'。该平台基于Claude大模型，支持文献自动摘要、实验方案生成、数据分析与假设检验等科研全流程。其特色在于通过严格的逻辑验证和事实核查机制，减少AI幻觉，确保输出可靠性。平台已与多家科研机构合作测试，旨在加速从文献调研到论文撰写的整个研究周期。"
     }
   ]
 }

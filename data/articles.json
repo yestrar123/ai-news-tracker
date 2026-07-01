@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "1887",
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01T14:00:00Z",
+      "summary": "TechCrunch Disrupt 2026 的 Builders Stage 议程公布，聚焦初创企业规模化实战策略。该舞台将汇聚超过1万名创始人、创业运营者和投资者，通过实用对话与问答环节，探讨如何构建和扩张成功公司。活动鼓励尽早注册，可节省高达330美元费用。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1888",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-01T13:43:07Z",
+      "summary": "Meta 效仿 SpaceX，计划将过剩的 AI 计算能力变现。该公司正在开发云基础设施业务，出售 AI 算力和模型访问权限。此举将使 Meta 直接与亚马逊云服务、谷歌云和微软 Azure 等大型云提供商展开竞争。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1889",
+      "title": "UK's National Grid bets $1.75 billion on AI power boom with Joulent investment - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUxSUEFuVFhTc2c3S3BMeUVaVnpTZHk3ZVBIajgxb0ozcmtKUThqQTV6clpzNlNCbVVzRlhoT2ZsTTVIQTZ3M3pBelFXXzRnSlp1aklMMG5BVzJuRHpmTVpqSFYtMEhFY1JoeFM0YU9QS21pZ3RmQ2tfVDVLa2xhazItOWo0cE5aQmxzeHNXckpiQldOclJISG1YcHJKMnM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T13:39:43Z",
+      "summary": "英国国家电网公司向 Joulent 投资17.5亿美元，押注 AI 带来的电力需求激增。随着 AI 训练和推理消耗大量能源，电网基础设施面临升级压力。该投资旨在保障未来 AI 产业电力供应，并推动绿色能源转型。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1890",
+      "title": "Ahead of BRICS forum, BMS outlines AI agenda centred on labour protections - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWGgwVWlVSTJKelNTQlJHeGQ5OHZnRU5uX2VjVWpVSTlYZDU5TVJMUWtzS0ZlUTdjc1diTERsQ3J5UENEZ0xFOFNVZmpmb2F6emF5bk95NjRnal9jczdNWGZNSkw0Yy1iTmdmZFItV0J5bXpNNE93VHctSUxQYXRtRTRrMXJaeVhwX0ZFNHdBRkxreUk4b1I0M2hXZnpGNlZHbU1QeDY5ZGZpSjVQZXZsUHNoMVVqLUh6cVcyenlrTlFCb01WMVpXWEdQQ29iYm1PdWFXLTNZZkljZDNkMzV1dzFETFBfRV9JeW1mT1lKS2pHR1VR0gH6AUFVX3lxTE0ycDZWTkV2ZWpMOG1leEdIdmoyRkR5ZERSdUxzc1ZFamtvZE10TERHNWZ5SmpoUDV3dVk0Y1N5THNCM281cmRmc0ZPWWVvRDh3R1FUYjhjQnNSRTJsTXRLcVlFTzZRbVJ4X2NPWGdvWm5PRG03X0UyTHBJU0pfVlpxc3pvbThEMmpfUGhQUENrU0xqMkFvZzBHaEpkZ2dRZnZ3UG9TZU5wcS1rdmV0Y1Z3OVZRZVdoMFJVSThWX1locmxaT1V1aEYydWdHanZTQzE5b0cwVGxmRm9pVHRyZ3pUVWlUV1R1Nm15ZmtDamx1VmxKQUM3X0Q5TXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T13:39:03Z",
+      "summary": "金砖国家论坛召开前夕，工会组织 BMS 提出以劳工保护为核心的 AI 议程。BMS 强调在 AI 部署过程中必须保障工人权益，防止技术替代导致大规模失业，并呼吁建立全球性 AI 劳动标准框架，确保技术进步惠及劳动者。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1891",
+      "title": "Startup Oxmiq raises $35 million to build chip architecture to lower cost of AI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmhpc3U1Q0JubmtQZ2Y2QnFlRXJHcURLa1lxZXpvRmtfb2xBQUhDWEJfVVV3RWtEZ2xQMnQ4QU5YMnYxaUZXa1RWRXVQSVNUdWVVRXVHUnBZSEdBZEtpakVYUjBpdWo0dldLUTZvdUM3ZWVjSFRERTFKbTRrS0FSZU5WMnE4dUM2Vk5jRDNIMEVXSXhRcEdhaHo3UVNqRTA1N093R1RzRWZGRXYta1VmZWFJWkhRTmlKRFFDdjVuVl9sQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T13:25:44Z",
+      "summary": "初创公司 Oxmiq 筹集3500万美元，用于开发新型芯片架构以降低 AI 成本。该公司致力于设计更高效的硬件方案，减少 AI 模型训练和推理的计算开销，有望使 AI 技术在更广泛场景下实现经济可行，推动行业普及。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1892",
+      "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzlYcjZBRTVTUHhqcGM3ZXZwVS1XWktHaWVmckFuZjg1bzZPNnZqWDJxUzktV2c4TDA5VHY4ajIxbjVrb21MYnRiM0Q3WDRmMUZZQWxpWlZzZGh4QlVsWF82SGlYZ3lSZVNab056ZWdhTWphSnhXY2lZZHUxb19oWF9udWpTQnNGWkFVVFo0Y0VPckVYTkU5VmozMHA2dE9OanE3SER1cFVzN0U4WkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T13:10:00Z",
+      "summary": "联合国一个专家小组发出警告，称不受约束的 AI 发展可能带来灾难性风险。报告指出，缺乏有效监管的 AI 系统可能在军事、网络安全、生物技术等领域引发不可控后果，呼吁国际社会紧急制定治理框架，确保 AI 发展安全可控。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1893",
+      "title": "UNICEF Reports Rapid AI Use by Children: How Will This Affect the Youth? - Tempo.co English",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWm5WWTdnVkRoQWsxUHgwdTdYWXRLaDRvNGZXUDZiOWlIWDQ3OG9LMU1OWnd4U0ZwWEpTWTVPYmxSU0wyUFVEbTdpR2JvVFNGd3hCdmtfa3EwWWRTZnliZWpzMm9kRVo2TmthMTRjOEJlc25nMW5kbTVpRWd3ZHVJbzRTRWtYOE11TmVhZTBaN1VDR0lBRHUwcmFOTzlVdXpDaWdSTTBn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T12:33:36Z",
+      "summary": "联合国儿童基金会报告显示，儿童使用 AI 工具的速度正在快速增长。报告关注这一趋势对青少年发展的影响，包括教育、社交和心理健康等方面。专家呼吁家长和教育者加强引导，确保儿童安全、负责任地使用 AI 技术。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1894",
+      "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots - AI News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3gxcHBiemprTXZweEtfTG1yM0xDTHdRQ3VwRlB4WGhRQnFPVEExVmJfYXVYaEJnc3dhdGE3UXpXMzAzX252V2k5eWc4Q180SDZFQ2hXcG9qR1RISmRDdDRlMHBnVzNNNlpqNzhCdS0wUDZHaTR0Ym9xLTE4M29jTVZ1X2hLN0stT2t2R2VRTDVGQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T11:03:01Z",
+      "summary": "日本为应对劳动力短缺，提出一项雄心勃勃的计划：为1000万台机器人构建统一 AI 模型。该模型将使机器人具备更高级的自主学习和协作能力，广泛应用于制造业、护理业和农业等领域，缓解人口老龄化带来的劳动力缺口。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1895",
+      "title": "Agentic AI may put $234 bn of SaaS spending at risk by 2030: Gartner - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNemFNV1M1SWhXdEl0cUY3R3U0cl9yS1UzdFR5M25GOF9nWDMzVWV2dWFzMURfSzE1YnBFMTVpb0VaajViQ2Z5cjhsNTRTVUVnMERxUFJUUlRfN0ZuU3NFZVBCVThwUnpRcm9YUnBHajA2TE5lRThqM0dUT3dTSHd3RDBmMVV1QlBTYXlMNER0MVdXVzZRZDZQbFZ2STRNcjl5c2trd2x5WFNQUmZQVHpPVjFGRGZ3NVBxQkN4TUp6VUZNcWNJcTFkUU9Fd3lXQ3pBWXBwT2dXTzNGcGpzNEdEUmxKSzVwQi1xbW1vc2ZLX0lVTUpnTFkwMUkxeUQteTU2bkM1YdIBigJBVV95cUxQeVJ2dkd0T050aUtBS2k2SU5QSGI2aER3RUJ0QmNIT1RlMjNCcTdEbDgzY1ppR2VtSFVMU01Mem4zaTEwUDJ4b1V0OHZoVHM5bkw4U3FMQmY2WDF3dzVNOFlXQTRqMUktaE9RV05ycjAydlRDWkQyYVJTdTBUS3FINkgtR241MGRlaVBLcnRlY0dzZWh2WHQyWG9kbDNxcm9zaTNFMHU1QWliblRVYWc2NDZUYXdtNXd0cDFraTV3cE1jRzF4bWZrQTZFWlVfaTJwVktiVnZ4MktSZFJGU1pTOVhkeVJhLUV2TmpOVWFCbE0yUDhYbEw5N2ZLcHNXNnZKejE0S3BpVS0yQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T10:58:28Z",
+      "summary": "根据 Gartner 预测，到2030年，自主 AI 代理可能使高达2340亿美元的 SaaS 支出面临风险。随着 AI 代理能够自主完成曾经需要多个 SaaS 工具协作的任务，企业将减少对传统软件订阅的依赖，引发软件行业商业模式变革。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1896",
+      "title": "UN Report Sees Enormous Potential Benefits And Big Risks From AI - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGRNZWhnVDhfU3lxa21PcHRlUk04V1JWcHBfcDBtbm8xektaUXZ6aHlvd0xkdkdHMm44SGxVQ0Q2aEJGaklOSmJFbTJOOWYwRjZlWENxTlNBX3NQcms5UEE2UTM1TVZWLWtWUkIySVd0S1psYlBzY1U5eW04QUFNNjhaQUVxVlJyR2RnMXVOdXdWNHJvTEltMTJaR3lCZ29xcVhsTWQ0b05oOWp1N1NIQUFBeUEzRGw1T2fSAcIBQVVfeXFMUHV4VDVTbHRYcDFOQkxjc0dBY0FYWkN1ejdraVNINUVWLUVreGhuNFJOdjVmZmxkdFFmOWNhOUt5S19ydDlveDVsY09tM1B3cHhaZ1A1NkpDa0FyTDhaWHhaQVViZGpTUV85cm5fWThKSjFyQVZFcnZEYlduUHA5bGl3X0ZKbEJJSXNqQWhycGNmd2tTcFR2eGEzaVE4dWY3dmc2RE8xX3lLUzBFU3dlM184NHlSRHNKTDZhU0VGMEFlbGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T09:43:25Z",
+      "summary": "联合国最新报告指出，AI 既带来巨大潜在利益也伴随重大风险。报告强调 AI 可在医疗、教育、气候等领域发挥变革性作用，但同时也存在偏见、隐私泄露、就业冲击等隐患。报告呼吁各国在促进创新的同时加强监管，确保 AI 造福全人类。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1897",
+      "title": "Artificial Intelligence and Future of India's IT Companies - Economic and Political Weekly",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdG4xOXY0REwyUEFqQ25zVDNGQmNIOHNtaFFvTWZqdFZCa2U3VDJkcFgxbVVGTW1DQV9Ja0ExalYxQnBhUDgyUXlKZGJ0T0VNbC1LZ21tWGozeGhLd0FIVU1rRnIteHRCWW5WVFFyUkVJNEUtTGZidnpPMkdiUDZWNWlGZUo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T09:32:17Z",
+      "summary": "印度IT产业正面临人工智能带来的深刻变革。文章分析指出，AI自动化将冲击传统外包服务模式，迫使企业从低成本劳动力优势转向技术创新。同时，AI在软件开发、数据分析等领域的应用，既催生了对高端AI人才的旺盛需求，也导致低端编程岗位的缩减。印度IT公司需加快AI能力建设，提升服务附加值，以保持全球竞争力。",
+      "fetchDate": "2026-07-01"
+    },
+    {
       "id": "1879",
       "title": "GuardFall Flaw Hits 10 of 11 Popular Open-Source AI Agents - Security Affairs",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF0gGoAUFVX3lxTFB6UHRiNmxJNFNCQ2NKMll5R0p0dTNoQ2x0X2FDMThrbERHcU5CU0plNG13aDhHX3Q1VXM3dGVIVmhPZHZsanFVeUdERjlpcUwwVHNRb3NoaHNVLV91N3FwemxFTWZUNEhMMlEzNF82MGNJN21taTYwa3hLVzM4R2NrQVdlQnRDUzE0WFlHRE4wLXVrbEg2RG1iRllBcG1LMjg0SXVENkRyTQ?oc=5",
@@ -16,6 +115,33 @@
       "source": "Google News AI",
       "publishedAt": "2026-07-01T09:07:52Z",
       "summary": "印度储备银行（RBI）表示，其当前主要担忧并非通胀，而是人工智能对金融稳定的潜在冲击。RBI关注AI在信贷评估、欺诈检测等场景中的算法偏差和系统性风险，以及自动化决策可能引发的失业问题。该机构计划加强AI监管框架，确保金融科技合规发展，同时防范技术滥用导致的系统性危机。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1898",
+      "title": "Rapid spread of AI may worsen global inequality, UN warns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GSFNJR2xJUHlrNFFEMzhMQS00QkRCWWRrbWtrbm02d29peFQtUzhWSWJOdzJuRDhETWQ2UFFETmZoQU82NVlwYlZKcnk3YkZjNkkwemtFaW9JR1NMODNrRGRpbUkxQW5tOFR0TnVacDJxMGhuNGVKRExqQ2pqNTA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T09:02:00Z",
+      "summary": "联合国发布警告称，人工智能的快速扩散可能加剧全球不平等。报告指出，发达国家和发展中国家在AI基础设施、数据资源和人才储备上的差距持续扩大，缺乏AI能力的国家将被进一步边缘化。AI自动化还可能侵蚀发展中经济体的劳动力成本优势。联合国呼吁建立包容性的全球AI治理体系，确保技术红利惠及所有国家。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1899",
+      "title": "From Klarna to Ford: why companies are bringing humans back after betting big on AI - Invezz",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2dsY1ZRVllkcGl4LXVUV0xJNWdoa3l4T2NJTnI2ci1GcUpoMUdzb3RYOWc0MTVKVm8wTFpTa0x3dFhILWprTWZfeUUzb1ZpckpOdUFLb0U0RTluLUo3Wi14QnZpS3lXOU9lR0FVN3VySFc0TjE2N3UyeF9DMDhJRnpGdkZ3dEZaZzlTeWNUVlJzcXNrYWRObjdrWGNQWU9ldWt5YzRJalVCRmNxbkIzUXVJaDR0MllQWFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T08:59:10Z",
+      "summary": "在经历大规模AI投资后，包括Klarna和福特在内的多家企业开始重新引入人类员工。Klarna发现AI客服在复杂情绪理解和跨场景推理上表现不佳，福特则因AI质检系统误判率过高而恢复人工检查。这些案例揭示AI在需要灵活应变和深度共情的场景中仍存局限，企业正转向人机协作的混合模式。",
+      "fetchDate": "2026-07-01"
+    },
+    {
+      "id": "1900",
+      "title": "Anthropic Unveils 'Claude Science' AI platform For Scientific Research - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNekxnTWFmblpwdXRYN1J1M2RONlZSdURQOHYxaEpSbFMyWTB6OV9RZFdGa1FGLUdKUDRXS0Myc0lsS3RXN05Zd3RqdUVmbDVDVjVZbG91VGU5ZFFVVm9yczlnYWFOUGJnR2FIREZiazFieWU3ZmFTUlpKWm9VdkdmSGJlRmdwVV9jekVIMjM1TkdTckxKWXVRLUJKMk5JVWtpV0o1MjlCLUpIRnZaVUxsNlZZOHN6U1NsS05kRXpIWi1uaktiU3NvY01hV3dOTjFjbThQNGR3dDVIeG1uOVZNNzF6Z2NSd9IB7gFBVV95cUxPU0NTSWdGbm5qTnFnaWhBd2NtTFJBaUg0dV9ISnJCb1hTRnpLM0trdEtyVER3X0tZbGNZS3RybXpnVUFHS3FoSkpCY0FBSzJEUGxzTUZiUHdnd3JnQTB4WGczTHRWeGVkVk1aWnlrUEIzQjA5WHV2akNZbHUwdEtRTkRvSEVTVFNWTmMzcV9kTnFFLTkxdEhldnNmN2xxY2pkbXBTY0I4TkdVTEU3SllPUlFEZ2tVT0RUU0RxbmhjR1Y2U3QxaVB4Y05fY0txRjRNUlhIRnpIbWtnYXltR240T1RTWlBuR2FTLVMwRmhR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T08:10:13Z",
+      "summary": "Anthropic发布了专为科学研究设计的AI平台'Claude Science'。该平台基于Claude大模型，支持文献自动摘要、实验方案生成、数据分析与假设检验等科研全流程。其特色在于通过严格的逻辑验证和事实核查机制，减少AI幻觉，确保输出可靠性。平台已与多家科研机构合作测试，旨在加速从文献调研到论文撰写的整个研究周期。",
       "fetchDate": "2026-07-01"
     },
     {
@@ -16966,5 +17092,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1885
+  "total": 1899
 }
