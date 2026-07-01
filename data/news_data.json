@@ -1,69 +1,69 @@
 {
-  "updatedAt": "2026-07-01 06:18:04 UTC",
+  "updatedAt": "2026-07-01 09:27:13 UTC",
   "totalArticles": 9,
   "articles": [
     {
-      "title": "The ‘Father of the Internet’ is finally retiring",
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-01T03:15:37Z",
-      "summary": "“互联网之父”文特·瑟夫（Vinton Cerf）将于下周从谷歌首席互联网传道者职位上退休。瑟夫是TCP/IP协议的核心创建者之一，该协议奠定了现代互联网的基础。他在谷歌任职超过20年，长期致力于推动全球网络连接与数字包容性。其退休标志着互联网早期先驱时代的一个象征性结束，但他在技术标准与公共政策领域的影响力仍将持续。"
+      "title": "GuardFall Flaw Hits 10 of 11 Popular Open-Source AI Agents - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF0gGoAUFVX3lxTFB6UHRiNmxJNFNCQ2NKMll5R0p0dTNoQ2x0X2FDMThrbERHcU5CU0plNG13aDhHX3Q1VXM3dGVIVmhPZHZsanFVeUdERjlpcUwwVHNRb3NoaHNVLV91N3FwemxFTWZUNEhMMlEzNF82MGNJN21taTYwa3hLVzM4R2NrQVdlQnRDUzE0WFlHRE4wLXVrbEg2RG1iRllBcG1LMjg0SXVENkRyTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T09:11:15Z",
+      "summary": "网络安全研究人员发现一个名为GuardFall的漏洞，影响11个主流开源AI代理中的10个。该漏洞允许攻击者通过注入恶意指令或操纵模型输出，绕过安全防护机制。受影响的代理包括LangChain、AutoGPT等流行框架。开发者需紧急更新或采取隔离措施，防止AI系统被利用执行未授权操作。此事凸显开源AI生态的安全脆弱性。"
+    },
+    {
+      "title": "RBI's latest worry isn't inflation. It's artificial intelligence - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlBybUdocTJvQW1oZFFjaHV5SThfR2VxQ0E1ZjR6OW9OdGVpSzA0NWQ2R1BjbUhwSTlQVTRnZWZtd0I5SGRQbk5IYlJjOUV3U2UtVC1nR0xXT2I2OFFUeVI1dW1vMFk5ZVlpUE9PZ0Z4dFRZVDhIUGs3VGdFdG1XdkJXMHpXNDBPNGtQOWRrM05CT1ltTzR4cW9IbVRSZW5aZ2pLZ2lFS0tpcThNZll2MWUtU2ppRGNRZXpUeWJaYnZkQV9CbnlQVGJmU1ZjYVpZUGfSAdcBQVVfeXFMTUY1bXg0QTIzN2RsVFoweTR2ZHp5cFhSMmUyVnk0RDhBd3c5al9XRW10QUFYckhaazF5LXZMcWszQjU1bVA4MHNULW5xcHBlaFpFSDJIR3Fxd1ZoU3FfcENCZVFYYXBFcGRCYWk0RnRwTl80ckNDNWRuS0VmZWkzUEQyb0Vrd1VWS1ZFQ3E0VHJUMDJ1QWxfaXk0SmZxZmlUVFBpWnhKZE1zN2liTDRpVko3aktVVXJrRmZGQ0ZCME1EZnJvZ2ZVdGpZcjBsRVQ3UnBpVl9SMVk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T09:07:52Z",
+      "summary": "印度储备银行（RBI）表示，其当前主要担忧并非通胀，而是人工智能对金融稳定的潜在冲击。RBI关注AI在信贷评估、欺诈检测等场景中的算法偏差和系统性风险，以及自动化决策可能引发的失业问题。该机构计划加强AI监管框架，确保金融科技合规发展，同时防范技术滥用导致的系统性危机。"
     },
     {
       "title": "Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2l3azNGRHZzQVpuZTR6RF9FUUd0SFV4ZTZkeHByMURrQXVGYXQ4U1R5TDBjSGZEenh0TlA0aGtWeXBRcE9pUjhCLUpfSUVoN2pSc2QyUUZ0OXBWWFVWblpvcEQyc3JydzMtbmRSM1lLaTAtRzNDM0xiT0ZHM3djRERTcmFnTi1xcGt6b2JCdGYwVWVIUTJsTWlKZmE4SW9uc254OW0wdjB1MnB4VVE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-01T02:31:00Z",
-      "summary": "据《卫报》报道，Anthropic公司宣布美国已解除对其Fable和Mythos两款AI模型的出口管制。此前，因担心这些模型可能被用于制造生物武器或引发网络安全风险，美国政府对其实施了限制。此次解禁意味着Anthropic的可控性评估获得了监管认可，但业界仍对特朗普政府摇摆不定的AI政策感到困惑，未来模型发布的合规框架尚不明朗。"
+      "publishedAt": "2026-07-01T09:04:00Z",
+      "summary": "美国已解除对Anthropic公司开发的Fable和Mythos两款AI模型的出口管制。此前因担心模型被用于恶意目的（如制造生物武器或发动网络攻击），美国曾限制其海外分发。Anthropic承诺加强安全审计后，管制被取消。此举反映美国在促进AI创新与防范技术滥用之间的政策平衡。"
     },
     {
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-01T02:16:06Z",
-      "summary": "特朗普政府解除了对Anthropic公司Mythos和Fable模型的出口限制。这两款模型是Anthropic的旗舰产品，曾因潜在安全风险被限制出口。然而，特朗普政府在AI政策制定上的反复无常，使整个行业对未来模型发布应遵循何种规则缺乏清晰预期。分析人士指出，这种朝令夕改的做法可能影响美国在AI领域的可信度与产业稳定性。"
-    },
-    {
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-01T02:04:40Z",
-      "summary": "英国AI自动驾驶初创公司Wayve宣布启动一项8500万美元的员工要约收购，公司估值达到85亿美元。该举措允许员工以当前估值出售部分持股，是AI初创企业为吸引和留住顶尖人才而流行的战略性工具。Wayve专注于端到端深度学习自动驾驶方案，此次融资进一步巩固了其在自动驾驶领域的资本地位，也反映了AI行业对人才激励机制的创新探索。"
-    },
-    {
-      "title": "While \"autonomous AI\" in which artificial intelligence (AI) judges and acts on its own and \"physical.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WQ01IYmgzWldhRXVIWm9JYjdVWFR6SU5Eek5uTkwxTksxcXFVd0I0SHp5M2dtNzgxZHhneFM5eXhsXzZLbFFYLVFHTQ?oc=5",
+      "title": "Japan plans sovereign AI model, 10 million AI robots - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSmxNZGIyMmFJcDJVVEotelZPU0VVTG1QS2tvcll0WElka3A3dXpkTHZxM0ZJYTFDZjhlWmcxcXJEdXliTkdlYjZkUWpBUmZEWnRHNXlUQ3VoaThhR0Q2YTIybHFtZW5ManN6OUQ2cnBQQnZ0UkMxSWJrZDVGaFpEakVUZzBjdkVTMGFoQ2Jka2dENnlsSGRkbk9mX1BOMmJnWVRXblpR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-01T01:52:21Z",
-      "summary": "韩国《每日经济新闻》发表文章探讨“自主AI”（Autonomous AI）与“物理AI”（Physical AI）的界限与发展方向。自主AI指能够独立判断并采取行动的人工智能系统，而物理AI则强调将AI集成到实体机器人或自动化设备中。文章指出，二者的融合正推动工业与服务业变革，但同时也引发了关于责任归属、安全性以及人机协作边界的深层次讨论。"
+      "publishedAt": "2026-07-01T08:06:35Z",
+      "summary": "日本政府宣布将开发主权AI模型，并计划到2030年部署1000万台AI机器人以应对劳动力短缺和老龄化社会。主权AI模型旨在保障数据安全与产业自主性，减少对外国技术的依赖。机器人将广泛应用于医疗、护理、制造业等领域。该计划涉及巨额投资，并需突破芯片、算法等瓶颈。"
     },
     {
-      "title": "Thanks to the artificial intelligence (AI) investment craze, the number of billionaires worldwide in.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hQUZ1T3FqOHdvelpKbWQtNG1heUgxSmNOSFFzWTJWTjd3UC1WZGhrN3ZrWUcyTTBsZ0JIWVNvYk9EZUVBaUFNc242V2tfZUk?oc=5",
+      "title": "Fugu vs GLM-5.2 vs Mythos: Why AI benchmarks crown different winners - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbzZCdGpaMTFPMFpMS1FBaFZHTkl2YW1idkd3MlNUVFRzZzJycnVGVi1fbEEyTXhROVVvX1VxODMzc0IxQmJoNGV3M1lfZk9BSmZ2bGc2SG1nNWs1TWJ6ck40YXp4azc3ZGE1bWxzaDhlcjVUSHRDRXRkMnRRbzI2Y19fYWl4VWw1blktNGZjR0JEdVN3VjloU2VlRnZMTGJ5NUtQSXZzRThmc0hsX0RfUzM4czhidDc1NmY0UjdtaDUtYVFvR1R0TlJtVElPQnJiazl1VWk4NmFTRTRHRXVz0gHkAUFVX3lxTE5YSmc3N3RJaWJyQlhkWXBSMm5GVlU3MWlxRjF4dmcwWi03ZTBQeVM5SjkwTExkWE1pZm5EaVAzQTFULXZObHpzS3lNalFyV2VtUnNJRnFpcDREQmtfZFhhcGd2TURjcFhGU3c3b2FvcVNDb2FHdjBFLVdLeUFyeTBRRElPTFpxNF9GODZHdE1vVFIzN1dGR0lRTlFSSzhwRWZZVDlURUxqSmlOVEpnYjhGbzdORTdFS0FfX1hrLU1sWVRHbERGOUw0bzk4c09XM3ZycGtLTnBNLWducFhaT09vY2R4Tw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-01T01:48:02Z",
-      "summary": "韩国《每日经济新闻》报道，受人工智能投资热潮的推动，全球亿万富翁数量显著增加。AI领域的初创企业与科技巨头估值飙升，催生了一批新晋富豪。据统计，仅过去一年内，与AI直接相关的亿万富翁数量增长比例远超其他行业。这一趋势反映了资本市场对AI技术商业前景的高度认可，但同时也引发了对财富集中和技术泡沫的担忧。"
+      "publishedAt": "2026-07-01T07:37:23Z",
+      "summary": "最新AI基准测试显示，Fugu、GLM-5.2和Mythos三款模型在不同评测中互有胜负。Fugu在代码生成任务领先，GLM-5.2在中文理解上表现突出，Mythos则在多模态推理领域占优。这表明单一基准无法全面衡量模型能力，用户需根据实际需求选择。评测差异也反映了模型训练数据与优化目标的侧重差异。"
     },
     {
-      "title": "Anthropic says Trump administration lifted restrictions on some of its most powerful Claude AI models - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRm1XQlFkWlBWcERiZ1JTX3pVblVKb1lfN1FrMXFkb3pLM19HdGt0cXUzc2lWTmhKem1zdWNVMm45eXQzQXZ4aDdDYURYUFRNZ3BfZVdaWnBfejhta1VZdG42aW5OQzNvTVlBaHlNbk81X0VpRHBEaXV5R2g5eDJ0ejJzMExsTUJNNWpDbjAxRWw?oc=5",
+      "title": "Artificial intelligence in healthcare - Lander & Rogers",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGcxMUhUX1FVRHFQUUx6TmRYV096a0FmcUJHeHRkWGxRQXFzWTFRcmdRWUVmNk53blJwanpHNGlneEVSRnRTVjZ4WDdfLWVFb2U5YlhnNkU3cURHZmN3RnZlU2NqRnYzSFowdlJMNEhWcTVoSU56alJLSi01d2Nuc0V1eWVwbHZLRVJVWA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-01T01:27:13Z",
-      "summary": "CBS新闻报道称，Anthropic公司确认特朗普政府已解除对其部分最强大的Claude AI模型的出口限制。这些模型包括此前因安全顾虑被管控的版本。Anthropic强调其已经过严格的红队测试和安全评估，解禁表明模型防护措施达到标准。然而，批评者认为此举可能削弱对高风险AI的监管力度，尤其在生物、化学等敏感领域的使用仍需警惕。"
+      "publishedAt": "2026-07-01T07:24:13Z",
+      "summary": "人工智能在医疗领域的应用日益广泛，涵盖辅助诊断、药物研发、个性化治疗和医院管理。AI工具能分析医学影像、预测疾病风险、优化手术方案，并提升临床试验效率。但数据隐私、算法公平性和责任归属等问题仍需法规完善。Lander & Rogers律师事务所呼吁建立跨学科合作框架，确保AI安全可靠地服务于医疗行业。"
     },
     {
-      "title": "AI won’t be substitute for human workers, OpenAI economist says - Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2QxanJ0SUpNUlBWTUViR0F1MldVSHdWbDVZOTM3RG5TcUg0dm01cGxYWmFzSVZpSWlHc0xtSWF5RC1aUTNJbEIwSEFib3VZYngwcXcyeC1CYTlzWXpRNW8zMmVrVWoxTDktTTRiV29aR0tmVlpPMTExVFdQaHQyTVE1akRwYnZuZHdlMG95dkFiU1kwd1RiNlFxWFhEMTFxMnNvcFlCM3NkV3FHdFpZQUlnMXZxN1NqakpJ?oc=5",
+      "title": "Adesso : Pools AI Expertise for Even Greater Impact in Artificial Intelligence - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZlNRY1FKYXdjV09LYWZNYXBsaDVkTGY0cTM2Z3UyRW42aXcwaWotUHhWQmhoNi1PSkZxRWVfLVEzRGNtMl92VVY4SjYwc0szWVNMY21BT000ajhpbGU4dTRFczBYX2dCZFdIRjQ0Znh6T3hBOUZLUHVhSElVMXJaQklmMFFJV3VQempXNG9Kd1c0VDFQQmRBdmpuYmEwS1p0bWdPRTItREZ5ZG05Y3NEZmZ1UzBWb2tFUzg0Ml9nUE1keVZqRWpzbA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-01T00:42:35Z",
-      "summary": "OpenAI的经济学家在接受《卢森堡时报》采访时表示，人工智能不会完全取代人类工人。他指出，AI更可能成为赋能工具，增强人类的生产力而非完全替代，尤其在涉及创造力、情感判断和复杂决策的岗位上。该观点与一些关于大规模失业的悲观预测相左，但经济学家也承认，劳动力市场需要适应AI带来的技能转型，教育和再培训至关重要。"
+      "publishedAt": "2026-07-01T07:09:10Z",
+      "summary": "Adesso公司宣布整合其AI专业人才与资源，以在人工智能领域实现更大影响力。通过组建跨部门AI团队，Adesso旨在加速机器学习、自然语言处理等技术在金融、医疗、零售等行业的落地。公司计划利用领域知识优势，开发定制化AI解决方案，并加强与研究机构的合作，推动从概念验证到规模化部署的转化。"
     },
     {
-      "title": "Children's Use Of Artificial Intelligence Outpaces Adults' By More Than 3 Times: UNICEF - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ISE5nSXc0S1VPMUpGeW1Bb25GZUNTUTVtY0RIMWlzeHZ3NHg3Sy1jdmo4NlprVVVGemdYX3JBUXM0c1BoNFBDM0FIVG9BanVCa3ZzZW1xZDQ3THNZTXpsRXd3?oc=5",
+      "title": "Did The US Get Insecure About the AI Arms Race And Lift The Mythos Ban? - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0J4T1VoaUl2eVNla2Jncmc0LUt5Zk5BUVRrbFNFcUl0cXE5NDBkVVJmdmJiUVlhVEVudjJ5c01kU3JwU3kyYlNXLVQzdFRvbEk1bUliR2thRXJ3UUpmMDc3TUNrTnhtNHhWNWRqSksyMHVxUTViakVaNXhab1doZDE4dzRPa1ZxN1BvQnB6UmZWZi10dTBCQ0ZqYlFXMlBBblNicE5KVVhxSGJ0ZUNhYUluOVFnQk5YVXFuTXVGUERUc196NDg4aGQyMzM2SzjSAdcBQVVfeXFMT0JjZkNhMGdLT2JBNFNySmEzMThZLXJ6N1hfZ3NyTkUxNXNEUDR4Sl9Yd2NwVndubWlIWUxidWQzSzMyN1kyeUIxSWdQTGw4MEVyQjF2bXpZLWxTcks5WnR6YUNkQ2VxZE5aSmsza2JyNXlKYUVCUjUwaEhELTJYVzl6Q2JEaGVORUhhVzRjbGVwLW5DVVpKUDhMNGNicFhobHZOSnJsZEd6LTBKNkZaYmVsS0pGSzhYZlRsd19ONk95alFnZXFHdlVHXzExWDlrWDViTGVGWk0?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-01T00:32:54Z",
-      "summary": "联合国儿童基金会（UNICEF）发布报告称，儿童使用人工智能的频率是成年人的三倍以上。报告指出，儿童在娱乐、学习和社交中大量接触AI驱动的应用，如智能助手、推荐算法和生成式工具。尽管AI为儿童带来了个性化教育等机遇，但也面临隐私、数据安全及内容偏差等风险。UNICEF呼吁政策制定者加强对儿童AI应用的监管并提升数字素养。"
+      "publishedAt": "2026-07-01T06:03:44Z",
+      "summary": "美国突然解除对Mythos AI模型的出口禁令，引发外界对AI军备竞赛的猜测。此前因安全顾虑，Mythos被限制出口；如今政策转向，或反映美国担忧在AI竞赛中落后于中国等国家。分析认为，此举既为保持技术领先，也为缓解国内AI企业对国际市场受限的抱怨。禁令解除后，Mythos可能加速全球应用。"
+    },
+    {
+      "title": "How AI Sovereignty and Algorithmic Control Shape the New Geopolitical Order - Frontline Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUppUU53OVFBZ1hoSWFERUNpLUY3LXFYc0JXRnh0ZG14R0dWWVdTU3Q4Rms3NmdvRHo4YWVSOFNMbmRnUThoaEpyR0w0Und3R1M4anh0cWc0aXVqRy1Cb09MUDlVX1d0UE5LTzl0VWJmd1VDNmVVZzlERHp2dVBwUFY5bS12SzN1ZGU2RUNwMW91YXhvNGNjZ201emdGMzZCaGtKM2hRSkYyc3hHNEHSAbQBQVVfeXFMT1NGSmY3YURxSUxNT3FBQjVuM2ltcHZ3V3cxWG8wSG02M0FOdlJtNmd3UW1Ebk1mdGIyNlRqNFBnYWZYYWlFZkFOcXBQNlZZcmtBdHZGU2pDeTI3MEIwbmpOOU03bUhPNmdMd3FDUWJxUy0wV1MyNFl1bi1ud0RJaGFGVjlLclRBREItNFBNZHhDUlU3ZVR5OFAwMmRhWnRpUGdtVjlxU1dlMllKLUJzVWVNWnMx?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-01T03:30:00Z",
+      "summary": "文章探讨AI主权与算法控制如何重塑全球地缘政治格局。各国争相开发自主AI模型与基础设施，以保障技术主权和数据安全。算法控制权成为国家竞争力的关键，影响贸易、军事和外交关系。同时，大型科技公司掌握核心AI能力，可能形成新的权力中心。文章呼吁建立多边治理机制，防止技术垄断与数字殖民主义。"
     }
   ]
 }
