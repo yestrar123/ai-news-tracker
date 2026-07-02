@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "1924",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-02T05:30:00Z",
+      "summary": "印度科技企业家Bhavin Turakhia个人出资3000万美元，创立AI创业公司Neo，旨在开发微软Office和Google Apps的AI替代品。这是他的第五个创业项目，聚焦企业软件领域，通过集成人工智能技术，意图颠覆传统办公套件市场。Neo将利用AI提升文档处理、数据分析和协作效率，为用户提供更智能、更高效的办公体验。",
+      "fetchDate": "2026-07-02"
+    },
+    {
+      "id": "1925",
+      "title": "AI hardware bottlenecks fuel big gains for Scottish company as top performers named - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNblkxa1hrN1dzdEcxRFpCOVdRM05pT3F4cEM1dTQ4MGRZby1iNWNPLXlZOG1SMjVvUUFaWUNpUHVuWVRObDVzTVZYYnBhYUdheGdSNGpEYWtqQlBFODIzVjVkTzhhWHU1X3hNbEdyYk9YaHhRbXBReFVxcmx1YnV0WHlzOXcxSkNVV3hHMl9hNzd1WkF6SEp2a1EzYklMLV95QTdwMVcwOWcwT3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-02T05:03:45Z",
+      "summary": "由于人工智能硬件需求激增导致的供应瓶颈，一家苏格兰科技公司业绩大幅增长，被列为行业顶级表现者。这一趋势反映了全球AI基础设施建设的紧迫性，硬件短缺反而推动了相关企业的营收和股价上扬。该公司凭借在AI芯片或服务器领域的核心技术，抓住了市场机遇，实现了显著的业务扩张。",
+      "fetchDate": "2026-07-02"
+    },
+    {
+      "id": "1926",
+      "title": "‘Lawless’ AI agents threaten payroll chaos, warns Workday - Stockhead",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWE13bTBfUk14TjdxaGJGcmdPTmtoRzZVXzhqVGNwai1PaUFzNjQwTXh5c2VXRm5PVzR5QWdwUGVYOVdzYkdRWkpzaDcwN0tjc1FlZVUyc3BzWi1Xa2d4OFBuVWg5WWM2X0hCYUZUWEhHbnVxcG9qdnBhYkxkT0tsOHF3d2FUWTExYjAybGt3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-02T04:58:01Z",
+      "summary": "企业软件公司Workday发出警告，称“无法无天”的AI代理可能引发薪资管理混乱。这些未受约束的AI系统在处理薪酬计算、税务合规等复杂任务时，可能因缺乏监管而产生错误，导致企业面临财务损失和法律风险。Workday呼吁行业制定明确规则，确保AI在人力资源领域的应用安全可控。",
+      "fetchDate": "2026-07-02"
+    },
+    {
+      "id": "1927",
+      "title": "Foreigners dump Asia stocks at record pace as AI winners get crowded - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXJoeDBwNEswVzRQRWJJNVpobnA3cHAzZG56Z2tmNEtqdnh5U1NfNHloUENDX3JtR2RkTk1kWXlmZWF4bEJwVnZ2RGEyUF80ODNMZDFneFVISmgxN3owNDNqYWhkR1psV3RSUmliYlZrLU1Ob2U0N2J3S1VJUHdxQnN3eVU5MXNlN2JpeE9jcHpldlAwWnplNnQ3RVRfS0ttd3FQd2tQVGxYN2JkTFVvcTJNUlQ3QmgwT19SdWt4UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-02T03:06:11Z",
+      "summary": "外国投资者以创纪录速度抛售亚洲股票，原因是AI相关赢家的仓位已过度拥挤。市场对人工智能概念股的追捧导致估值过高，资金开始撤离寻求避险。这一趋势在科技股集中的市场尤为明显，投资者担心AI泡沫风险，转向更具防御性的资产配置。",
+      "fetchDate": "2026-07-02"
+    },
+    {
       "id": "1916",
       "title": "KT has exclusively released \"Galaxy Jump 5,\" a practical artificial intelligence (AI) smartphone wor.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oUjdPQVBMd0lVWkQ0SjdGTkc2MmVvb0F4SzRkTF9YMmZRVks0amZXTUF1bDNZSG9KaWE0N3psYTh3RnZQSWNlOExiaw?oc=5",
@@ -34,6 +70,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-07-02T01:29:48Z",
       "summary": "类似地，另一家AI公司股价也下跌30%，被部分投资者视为“疯狂买点”。但市场对其盈利能力存在分歧。文章指出，该公司在AI芯片或软件领域拥有独特优势，且股价大幅回调可能已过度反映负面消息。建议投资者结合其最新财报、新产品进展和行业趋势，审慎评估投资价值。",
+      "fetchDate": "2026-07-02"
+    },
+    {
+      "id": "1928",
+      "title": "Down 30%, Is this Artificial Intelligence (AI) Stock a Screaming Buy? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdHlrUDN3SlVnVEFxN3lCTWFTeTgtYTF6aDJRSTlLS1dtV1pYNERFc1VGbzdLdkV5NU9XVjEycGFmM2dJbkd2a3dodXR4MWlVS2NkeDB5WDlGWXhCZm9Xa0JkQnVncHNtZ183S1VDMWIwZE5PQVl6bmpzeXp3a052NFc0d3U4UnNUWDh1dVVYR0c1cm9mQVZtZ19xQ3RFYndvTUNYUUxFM0FOcGJIZ1Z6S1ktRUtNanFGUThSUnZ5WGhfTzVYamJzYXJFTHZ3Z1BpZlZYa2pWWW8xdllCVC1aYy1OSUY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-02T01:21:35Z",
+      "summary": "某只AI股票自高点下跌30%后，市场对其投资价值产生分歧。支持者认为，下跌提供了低价买入机会，公司AI业务仍处于上升通道；反对者则指出，行业竞争加剧和宏观经济不确定性可能拖累复苏。投资者应关注其最新财报和技术进展，谨慎决策。",
       "fetchDate": "2026-07-02"
     },
     {
@@ -17299,5 +17344,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1922
+  "total": 1927
 }
