@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "1965",
+      "title": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkZyZy0tQVpvRVRReXZQa004UWtDZE81T3ZlS19KZkU3UVJDSHVETmxQM2tFZzRQaTI2M0c5YmQ4ZzEtblBUdk43RkhZc0pldDV1Yk8xbXdjaC1nUm5vd3Yzakc1LWdOTGxia0ZtOVg2MW4tYVNmRXNtOEhKOU9pVUdtSUEzYWoydTRQQzFxM1ZmSFgzaUtVUUx0MFAxbmFrdV9VXzVhYUZRUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-03T05:00:00Z",
+      "summary": "路透社评论指出，硅谷在人工智能领域的激烈竞争暴露出其模仿性缺陷。各大科技公司争相推出相似的大模型和生成式AI产品，过度聚焦于追赶对手而非原创性突破，导致同质化严重。这种“模仿竞赛”不仅浪费资源，还可能抑制真正的技术创新。文章警告，若硅谷不打破这一惯性，AI行业将面临创新乏力与泡沫风险。",
+      "fetchDate": "2026-07-03"
+    },
+    {
+      "id": "1966",
+      "title": "The latch of personal information used for artificial intelligence (AI) learning will be released. O.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BWlVCZmotWVFPNnU1SGREVkRGUm9uZnN0alFHUEpnNEpkblBDX1FVLWJNVlVmemMydmIwT25xYnlfeFY5U0ZvakxiRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-03T04:46:01Z",
+      "summary": "韩国媒体报道，用于人工智能学习的个人信息“锁扣”将被释放。这意味着此前因隐私保护而受限的个人数据将更多用于AI模型训练，以提升技术性能。相关监管机构正在调整数据使用规则，在保护隐私与促进AI发展之间寻求平衡。此举可能为AI企业提供更丰富的数据资源，但也引发公众对数据安全和个人权益的担忧。",
+      "fetchDate": "2026-07-03"
+    },
+    {
+      "id": "1967",
+      "title": "India-Japan Joint Statement on cooperation in the field of Artificial Intelligence (AI) - India Shipping News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTQzZVlxb3plZkQ3SDNYMU03OHFkV2xxZ2w4M0duV3h1U3Y2YU5McmRUQldfOGljVGFlOWtiMWRHUmRTd2lUQnNFNVJSMnFFZEt0blllRV95S2hHSW1yV2ZfX0lfSjZKOVhRY1pJNUhtek9XUHFSMWdNWndIV3l2aHhOVmcxQUVhVW9zQnlRRDZEVDlDb2tlZkM5QmlfN18tbURWX1RZdTlxZ3pPOHdxcndsYzdTTkU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-03T03:27:06Z",
+      "summary": "印度与日本发布联合声明，宣布在人工智能领域加强合作。双方将共享AI研究数据、联合开发关键技术，并推动人才培养和标准化制定。合作重点涵盖智慧城市、医疗、农业等应用场景，旨在利用AI解决社会共性挑战。这一声明标志着印日战略伙伴关系的深化，也为两国在全球AI治理中争取更大话语权奠定基础。",
+      "fetchDate": "2026-07-03"
+    },
+    {
+      "id": "1968",
+      "title": "Yellow Balloon will introduce an \"artificial intelligence (AI) refund calendar\" that allows you to c.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2cUp6MUdXSzNzTVNJSHNULWx6VjhsZ1hkSTZqUXpoQ2hRTEVfcVlmT0RxOVVYRERmLVRHbC03Nm5IR19DVlpleHJLUDZZSGllY0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-03T02:34:05Z",
+      "summary": "Yellow Balloon公司宣布将推出基于人工智能的“退款日历”服务。该工具能够智能分析用户的订单数据与退款政策，自动规划最优退款时间线，并提醒用户操作。利用机器学习算法，系统可预测退款成功率并简化流程，大幅缩短处理周期。这一创新旨在提升消费者体验，减少人工查询负担，尤其适用于旅游票务等复杂退款场景。",
+      "fetchDate": "2026-07-03"
+    },
+    {
       "id": "1959",
       "title": "How To Prepare Today’s Youth To Thrive In The AI Era – Analysis - Eurasia Review",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYS14bG54NDV2MTdqMWgwdS1sczRuTkNVckw5U3NkT1JPQTBfMUYzak1Sd0FmazA3M1U1TzlrRmlHQzVtY1Z2MFc2UzdfUWpyQVY2MEIwV0ZIdUlad0RfT0Q0dTY0SWt2M1BZQW1NdFJGLU5fYTUtNmdRU2pwT0NWM2ZJMFNYU0xwcVdBMy1rSHhWeC1YekcycUZzZnFGdHBrb3c?oc=5",
@@ -17668,5 +17704,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 1963
+  "total": 1967
 }
