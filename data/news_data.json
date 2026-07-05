@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-07-05 08:38:34 UTC",
-  "totalArticles": 1,
+  "updatedAt": "2026-07-05 13:04:55 UTC",
+  "totalArticles": 3,
   "articles": [
+    {
+      "title": "Workflow orchestration critical for AI returns: Automation Anywhere - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONUcxS1paUlMtYldaaFk5c21CdXJnZ3NveXBVOGI4T0FONTNpQW4xTHhNYlNjWklQWWhHSWI0bjZEM2hqd0N1dnJaSmJiTnJQYzg5SGRXbThKN0pVcmpfTGRWWUlENk9nUTUwNXRhdXNZeS1FNk1IRGFod3N6SHk0TF9CNFNuS0ZpUldFQ1YtZG9IUXlYemlXQ0tNMHRLNS1Ua2I2TUg2cWNtUzRZMG9KemU2UnktOWFROE5HZzZfLUNjNUxhQnJZZXBHQWdmQjBzMHNZSko4bFNWdzIyOVRzZHk1Rzh2V2dZUjVV0gHwAUFVX3lxTE52eXhUdTlxTGhXMWUyLWRWLWppYXFYczBQN2steTJXWWFPQlBGNEUwSjQ1NXVvdVdHSVN0U1k3Zk1LaTVsNFh2NEpsVlNMS3MwYVNMNXNGcldjVVE2aERNV2Ixb2xQQW5Id2xEUFNkdGczeWMxQzljSEtSbmZ6WmxvUFlZcDJzTzNoZjhKc0lGNWVUdXhCT1B4aEVqVkl1Ym5waWZGb1p5aG5fTHhieWtTX09QMThJMmVuRHhWTUdkbjJUdzNXOF96YU9xOWF1eWJ1YU4tQVhZdkxGaFFVZVZNcWcxc2NwbmNxMDBrNHRweg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-05T11:40:32Z",
+      "summary": "工作流编排是实现AI投资回报的关键因素。自动化Anywhere公司指出，企业若想从AI部署中获得实际收益，必须优先考虑工作流编排的优化。通过将AI模型与业务流程无缝集成，并能动态调整任务优先级和资源分配，可以大幅提升自动化效率与准确性。缺乏有效编排的AI系统往往无法充分发挥潜力，导致投入产出比低下。因此，企业在推进AI项目时，应把工作流编排视为核心基础设施，确保AI能够自适应地处理复杂业务场景，从而真正释放价值。"
+    },
+    {
+      "title": "Growing concerns AI may limit job prospects for newcomers - CityNews Winnipeg",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNFZ5MnBhTDBVUEpoQTJqaHQ1RlRLVTBuUmFCSlc4RVhKeERVcVZGblVCZVB1YjVsd2FXOGtERnNVOVhZeGZXbDJKdGdrcmYwSkI4U2Jpbl9vVlVEcjRsbGlWelA4MFotaFFKZ0N3ZXZ3WHFJblc2QVBkUlBVd3FHdURHbWlUMGhST0VVNFZsakFENDFTTHh5c2h1NWJMcVJXYmpqTzAwQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-05T10:23:23Z",
+      "summary": "越来越多担忧认为，AI的快速普及可能限制新移民及其他职场新人的就业前景。由于AI能够高效完成大量重复性、规则明确的岗位任务，初入职场者面临的竞争压力显著增大，尤其是在数据录入、客服和基础分析等入门岗位上。新移民往往因语言、经验或本地学历等因素处于弱势，AI的介入进一步压缩了他们的就业空间。专家呼吁加强针对新人群体的技能培训，并提供政策支持，帮助其适应AI时代的岗位需求，避免就业鸿沟扩大。"
+    },
     {
       "title": "\"The AI Doctor Will See You Now\" - Radio News Hub",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9OaXNsWGVVMDNmTnFDaXhPRXdHb1NWMExJbTYyTm41MGVweHZOU3hzOTRxRF8wQmtQbHBFdEYtam5Sd1hhb0F2TElLVmJ6dUZMckxoWV9YT2lGZG9aMlRpRTN0ZjIteVcwa2xhYkQ1bnhwUnZQaVd4VXlBNG0zb3ZxM0t1WVE4?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-05T08:26:38Z",
-      "summary": "该新闻报道了人工智能在医疗领域的应用进展，标题“AI医生将为您看诊”预示着AI技术正逐步融入临床诊疗环节。当前，AI通过深度学习大量医学影像、病历数据，能够辅助医生进行疾病筛查、诊断建议及治疗方案制定，尤其在影像识别、病理分析等任务中展现出接近甚至超越人类专家的准确率。同时，AI远程问诊系统也提升了医疗服务的可及性，尤其在偏远地区。尽管AI医生尚无法完全替代人类医生的临床判断和人文关怀，但其在提高效率、降低误诊率方面的潜力正推动医疗行业向智能化转型。"
+      "summary": "AI在医疗领域的应用正从辅助工具向独立“医生”角色演进。如今，AI系统已能在影像诊断、病理分析和初步问诊中达到甚至超过人类医生的准确率，并支持远程患者监测和个性化治疗建议。这种“AI医生”模式显著提升了医疗效率，缓解了资源短缺问题，但同时也面临数据隐私保护、算法偏见以及责任界定等伦理挑战。未来，AI与医生的协作将成为主流，确保技术既能提供精准服务，又能遵守医疗伦理规范。"
     }
   ]
 }

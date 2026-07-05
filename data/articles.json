@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2019",
+      "title": "Workflow orchestration critical for AI returns: Automation Anywhere - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONUcxS1paUlMtYldaaFk5c21CdXJnZ3NveXBVOGI4T0FONTNpQW4xTHhNYlNjWklQWWhHSWI0bjZEM2hqd0N1dnJaSmJiTnJQYzg5SGRXbThKN0pVcmpfTGRWWUlENk9nUTUwNXRhdXNZeS1FNk1IRGFod3N6SHk0TF9CNFNuS0ZpUldFQ1YtZG9IUXlYemlXQ0tNMHRLNS1Ua2I2TUg2cWNtUzRZMG9KemU2UnktOWFROE5HZzZfLUNjNUxhQnJZZXBHQWdmQjBzMHNZSko4bFNWdzIyOVRzZHk1Rzh2V2dZUjVV0gHwAUFVX3lxTE52eXhUdTlxTGhXMWUyLWRWLWppYXFYczBQN2steTJXWWFPQlBGNEUwSjQ1NXVvdVdHSVN0U1k3Zk1LaTVsNFh2NEpsVlNMS3MwYVNMNXNGcldjVVE2aERNV2Ixb2xQQW5Id2xEUFNkdGczeWMxQzljSEtSbmZ6WmxvUFlZcDJzTzNoZjhKc0lGNWVUdXhCT1B4aEVqVkl1Ym5waWZGb1p5aG5fTHhieWtTX09QMThJMmVuRHhWTUdkbjJUdzNXOF96YU9xOWF1eWJ1YU4tQVhZdkxGaFFVZVZNcWcxc2NwbmNxMDBrNHRweg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-05T11:40:32Z",
+      "summary": "工作流编排是实现AI投资回报的关键因素。自动化Anywhere公司指出，企业若想从AI部署中获得实际收益，必须优先考虑工作流编排的优化。通过将AI模型与业务流程无缝集成，并能动态调整任务优先级和资源分配，可以大幅提升自动化效率与准确性。缺乏有效编排的AI系统往往无法充分发挥潜力，导致投入产出比低下。因此，企业在推进AI项目时，应把工作流编排视为核心基础设施，确保AI能够自适应地处理复杂业务场景，从而真正释放价值。",
+      "fetchDate": "2026-07-05"
+    },
+    {
       "id": "2018",
       "title": "\"The AI Doctor Will See You Now\" - Radio News Hub",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9OaXNsWGVVMDNmTnFDaXhPRXdHb1NWMExJbTYyTm41MGVweHZOU3hzOTRxRF8wQmtQbHBFdEYtam5Sd1hhb0F2TElLVmJ6dUZMckxoWV9YT2lGZG9aMlRpRTN0ZjIteVcwa2xhYkQ1bnhwUnZQaVd4VXlBNG0zb3ZxM0t1WVE4?oc=5",
@@ -18154,5 +18163,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2017
+  "total": 2018
 }
