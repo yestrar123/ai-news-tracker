@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2018",
+      "title": "\"The AI Doctor Will See You Now\" - Radio News Hub",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW9OaXNsWGVVMDNmTnFDaXhPRXdHb1NWMExJbTYyTm41MGVweHZOU3hzOTRxRF8wQmtQbHBFdEYtam5Sd1hhb0F2TElLVmJ6dUZMckxoWV9YT2lGZG9aMlRpRTN0ZjIteVcwa2xhYkQ1bnhwUnZQaVd4VXlBNG0zb3ZxM0t1WVE4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-05T08:26:38Z",
+      "summary": "该新闻报道了人工智能在医疗领域的应用进展，标题“AI医生将为您看诊”预示着AI技术正逐步融入临床诊疗环节。当前，AI通过深度学习大量医学影像、病历数据，能够辅助医生进行疾病筛查、诊断建议及治疗方案制定，尤其在影像识别、病理分析等任务中展现出接近甚至超越人类专家的准确率。同时，AI远程问诊系统也提升了医疗服务的可及性，尤其在偏远地区。尽管AI医生尚无法完全替代人类医生的临床判断和人文关怀，但其在提高效率、降低误诊率方面的潜力正推动医疗行业向智能化转型。",
+      "fetchDate": "2026-07-05"
+    },
+    {
       "id": "2012",
       "title": "How To Train Today’s Youth To Thrive In The AI Era – Analysis - Eurasia Review",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMm9Ra1NfQnlJLU1heVN4X3FnMXJ3YjJvOUZiUEVwV1luX3FGeEUyUnU0NkZsRElSc1E4SlAtZndPMGlGR1kweHpkcmNWdDg3T1FiX3RPa0RVcEZtR09naktnNWE1MnZ0R1dJcktrcTFhS18wTW9CZ2VFUTZ5bklLM2VpLVlLSGxmSTB6NEU3aUtadWRCTGstZTB2b3M3YjA?oc=5",
@@ -18145,5 +18154,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2016
+  "total": 2017
 }
