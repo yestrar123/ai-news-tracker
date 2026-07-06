@@ -1,76 +1,97 @@
 {
-  "updatedAt": "2026-07-06 06:20:13 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-07-06 09:53:39 UTC",
+  "totalArticles": 13,
   "articles": [
+    {
+      "title": "Beyond Earth: Why tech companies want to establish AI data centres in space - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaVhnU0pFckhCaERFZGhla0VIYTBKTWVpYVM4cjF1RTRUdWQxLVY5RVIzXy00UTA1dWpqTU1STXF0NlpNeFNNLW5yWVFOdmU3aHBEeEh3c055QzV2WVlVNzNrWHlGaGNUSmctU3BvYk9QeXlYSE5tWDlzS1FTYTd3ekV3dzdGQUFYWXNadjRPeVdyMXVreU9CNUJ4N0tISFpkVlhTV2J1eUxmOTVsbVJ6eFY1Ykk0bWd1SUE5OFBIRzExdUhEQ0dES2lLUmFuUTFVMnBTZHprcEJnWmhVdUpFMW1ObUpyZEtOb21YQ1ZWSTJ1MXB4WEHSAfsBQVVfeXFMUDBsRV96bG5NTGpSWk9NSGJzc1djNWFzd2Y0RW12S3g3SWgtaFZHZnBpTHJMbDBPNmkyQXhIUzZRcE1wZWJjT3FRcTJ3TjZOWTc5dGNZNy10bkxJckQwcDQtdzYzbVNBSlRNLVEwYnp1eElCRkNtOExqS05vRXNlU2xoVWktdC03YUhlN21vZzN3eUxyQTZGQ29XR1ZVNEVWR1V6Q2N0ZUMyUHlwWV9PbEtERTJiNjlVX0tRdldGZFdJLUtRdzBpNGJ0dUZXU0RTcnFrWnhXZWxfV0wtOHJPNXdaZ3RudTFnUWZuOURnU2xPQVJFNkVid3d6TkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T09:44:16Z",
+      "summary": "科技公司正探索在太空建立AI数据中心，以利用太空的低温环境降低冷却能耗、获取持续太阳能，并规避地球土地与能源限制。该概念有望解决AI算力激增带来的能源与碳排放挑战，但面临高昂发射成本、维护困难及辐射风险等障碍。尽管尚处早期阶段，多家企业已启动可行性研究，视其为未来AI基础设施的潜在突破口。"
+    },
+    {
+      "title": "First AI-run ransomware attack highlights emerging cyber threat landscape - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUUh5aU56aGVQeE92NHZCWmVkeko4a2VrOE1ZeFBMSlZ3Z3pNUnBKQTNlRDV3TFk5TjRLcGlxakd5bVZYMmtNR0RydzhLd0hRclE5NUFFd09rNVMtLVpfdVNISE5SWDhMUTl2YkhQU1B3eDBHdlc0OUxicjJUUEV3OHBlc0hxT0dyYU9CVGEtMmN3LVpndzJLaVVaSGxMSWcwLWw2czkydlNlVzB4T3pLOTdjUWpTemlyeUlEZGQyOUdoam16NWRycUVVYkI3NVZ5aFFILTNhR3Z5c2ltUXN0VkJYeVJIODZEalF2VmVHWFBXZUk10gH6AUFVX3lxTFBXamNpdWE3MGluX3l4Rmtjbkl4Rzk5THNLclItM1FtaXVQSEg3d2lCX0l6WVF0T0VQb3F1amdocVRKVDl4dUthMVNwZGFDckw3Vl9SQWt4LUlDdXllSVhfbElwcDdEbGdNczhoWHZBOEJ2Wm1sYnU2UkptRTdPNzR2U0lZc0RPRGNIRmhPZnE0YmtOREI5V05yalVzOUVzZXJ3a2NlWFd5TzlKUUkyajlzRF8xZ3RqczM5ajlrb0Nrb0dNLWdxeTJXS0xYWF9kM2dSeE1HbE9uOXNrejJscE9DWUJTdVNycm1WTTczT0dzUW5hem1nRHZnc0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T09:08:21Z",
+      "summary": "首次完全由AI驱动的勒索软件攻击事件曝光，标志着网络威胁格局进入新阶段。该攻击利用AI自主编写恶意代码、识别系统漏洞并规避传统安全监测，其自适应能力使防御更困难。专家警告，AI勒索软件能快速迭代攻击策略，未来可能成为主流威胁，倒逼网络安全行业加速采用AI对抗技术，并引发对AI武器化监管的讨论。"
+    },
+    {
+      "title": "Asia-Pacific Artificial Intelligence (AI) Optimised Data Center - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2025-2030) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3dCZjdGbXB5WHllRE85RVV4U00zR3lSdVY0ckhjSGZMZkdoeGNlOUFxa0RNcVlpSTNuV1VpVmRCaTlxMUdISVBOVW5XajRLTFZjY1J6ajB2RklIdTJkY3dMZVRGakVkRnRNQVIxWlRkNF9SbEpSUlhGb3ZyaGtxQUptNVdLcEJzVFkxcEJ5eXZLdEc2UkdRMHpON2ZRZFNtSGRSSnRB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T08:38:00Z",
+      "summary": "报告预测2025-2030年亚太地区AI优化数据中心市场将显著增长，主要受云计算、边缘计算及生成式AI需求推动。该区域凭借低运营成本、政策支持及数字基建扩张，成为部署AI专用数据中心的热点。分析指出，液冷、模块化设计等节能技术将成为竞争关键，但地缘政治与供应链风险可能制约部分国家的发展节奏。"
+    },
+    {
+      "title": "It has decided to deliberate on the appropriateness of artificial intelligence (AI) used by Samsung - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPclZ6eEMtcmZFRm1kZ2FnUllzVlNsSkxkQnN6MU1UVnFGVklCZE40QjcxRmpPT1BXRkJOT2o1djBuTlUteU9sOHB5SjdWQWFUeVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T08:27:33Z",
+      "summary": "韩国相关机构决定对三星电子在业务中使用的AI技术进行适切性审议，重点关注AI决策的透明度、公平性及潜在偏见。此举反映出监管层对大型科技企业AI应用合规性的日益审慎，尤其涉及消费者权益与市场竞争。审议结果可能影响三星AI产品的部署策略，并为韩国AI治理框架提供参考。"
+    },
+    {
+      "title": "AI readiness, specialised skills drive India's FY27 hiring trends: Report - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObG53NXpPOHoyTUw1MERLNXNETUlVaUNJMFJfbWozV3lNVHoxSUlvdl9Odnh6TjBweHZ3aDgxTVZ5bVQ0dUtKb3dvSlpwRENfVnRGX1RFbW9iZEdFZ3lLWW82Q0Q0NUhZaE1tOE8yOGFpblZwR1Fhc0pGM0l6QmRYWEY4SkdoNnBfSWdXS01BTXp6SHVyalkwM2VCN1Ewd2ZBcVRQdEw1azE5bTJIVFdlQjR2bXUwejNTT0FWNWRtWFNEQ3Z6SGw2b1RLeklnclUya0VNblVR0gHbAUFVX3lxTE9YTmg1QWhEXzlETnN1TXVpVURIZllHdmVYeVplblh3OTJXYWxmeDhIZjA1dUdPcTdQdWwxUnNHZ3NkQkJUNDg5YTVoS05Fa0RSdGF2Ri03eV9TQl9tY3JkNkxMaTZqbVNidmVNdUxtR2QtZFdZaktDemlSTnhHSUJUOFpOdmo2RkoxVFEwNHp5b21QQzZDWHRSSnRyal9JanRvdmlBcTh5SGVKTkItNVhEYVpCRWZkcEhsZGcwX1BaRTY5WVExQUtQQWF2dDZNcDY2SmtUWmNtTlI5WQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T07:36:46Z",
+      "summary": "报告显示，印度2027财年招聘趋势将由AI就绪程度与专业技能双轮驱动。企业优先招募具备AI工具应用能力及数据科学、机器学习等专项技能的人才，传统岗位向“AI协作型”转变。同时，AI基础设施投资与员工再培训计划成为企业竞争力的关键，印度IT服务与制造业预计将率先出现结构性人才需求变化。"
+    },
+    {
+      "title": "AI is shaping decisions. But who is liable when it gets it wrong? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdGtsbkxfV0tuM3BtakdqYnlNU1phTWpwbnlmaGhOSWFHRTBQZjNremJuYy1iNXY2UVlTa0NCNVN2YktoMTJUQ0NNZVh3V0l1UkFEMnJNRVlNY2VMc3huY21jaXp1N3VWMXI2aG81VDB1eVluMlFMU3J6ZTRpbXFlS1N3YjBucWdiUGViMTZhWHZEV1R3OHRGNHBEdm1UVkgxSGNtVGczTENOWGNWX1h5MVh0Tm8yaEhhdnhqb1d1TGpmQm81Rk5ldUhZUXNoY01hVHZadDhkd9IB3AFBVV95cUxOVERzbzZMLTBOb0c3Y3VwN09LaW5GblBPVmIyb1o0a1NNV1UyS0xMS1FqODF5a2NzbnRpYjZTbm00cjQ2ZXd1WURtaXF1MFR5b2hNNXViUUU0YzkxdUZpT1BaQldlZXA5bUJtVE41c3FLTDJZRmd4dmN1R1ZrX0JrVkVCRDZRengySVcycXU4QXJrYnZuSGVBSjVZaTBxWkd2NEwyZkJoMTh2SjFyMURPajcyVm1Tb2pMZ2l0SEZMdlNyUlVhZUZjSXhQTmRDSHhCOEYxclJzUm1LRUNm?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T07:33:39Z",
+      "summary": "随着AI在招聘、信贷、司法等关键决策中扮演更重要角色，责任归属问题引发热议。当AI系统出错造成损害时，开发者、部署者还是使用者应承担责任？现行法律框架对“算法黑箱”下的归责存在模糊地带。专家呼吁建立“AI责任险”与明确的产品责任规则，平衡创新激励与风险管控，确保受害者获得救济。"
+    },
+    {
+      "title": "What are Britain’s AI growth zones and are the plans feasible or ‘complete bunk’? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHZZZl9fRF8yRGtZSzZMRl92UzBwRmw2UmdkYnFKeHloRW80R0ZlY1A2cXZCTjZrdktlUHBtcy1ETlVjck5pOXJGY056UWJKLVowX0E2cjhFMUNaeGNiVjN0eEYtajBLZDhmenFURjJ6aG43Uk1fRlBFSWlnV3V5R18wTG1QaHYyODVYbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T07:00:00Z",
+      "summary": "英国政府提出建设“AI增长区”计划，旨在通过放宽规划限制、加速电网连接来吸引AI数据中心投资，以促进区域经济与技术创新。然而，批评者认为该计划缺乏可行性，尤其在可再生能源配套、社区影响评估方面准备不足，可能沦为政治口号。实际效果取决于能否平衡产业扩张与环保、社会承受力之间的矛盾。"
+    },
+    {
+      "title": "‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDRpb3h2M2o0SndKeW0zNVpOWmUxN01wV2xXc2VfcEo3UkVzb0xpdVpwUTJZZEN1X1BIMEJrUUNxTEpnMks3dFg3a1c3R1FsbnJpQ3ZidWhUUHVCZGRTX2R2ZEozVkQwTHBGeFQta2JadTdGLW9uN0dkSzZIYmVPb1E4clBPVEZYMk5YWVR5VTJBb0lwalV0aA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T07:00:00Z",
+      "summary": "苏格兰一村庄被选为大型AI数据中心选址后，居民从最初的经济希望转为深度恐惧，批评项目“烟雾和镜子”。担忧集中在：能源消耗过大导致电价上涨，景观破坏，且缺乏与社区的真实沟通。环保组织质疑其宣称的绿色承诺是营销手段，呼吁政府重新评估选址的长期社会成本，警惕AI基建对乡村的负面影响。"
+    },
+    {
+      "title": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFpHSG1TQzNCYlJwaUFUb3poMjhydmVPSnRucmY1cnpKRWJKbTh4OGxlcWh0RTQtR01kOEJJaG1LU3dfeFFUcU5FQjhmTVBpX0xFR0xkRzRmd0ItTHB4TDNVTUVzNEl1RFFzTU91VzM4UDhlZGx2WDFDa3ROYkxJRloyS0VGZFYwU1RvUEtKZGRQZkZ0Q3U3Nzg4al9jeEpjMjFIbmNLQUdra2xscFZF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T07:00:00Z",
+      "summary": "调查揭露，苏格兰标志性AI项目声称将完全使用可再生能源运营，但实际上并无切实可行的计划来实现这一承诺。项目依赖的绿电供应存在巨大缺口，对电网的冲击可能迫使当地社区承担化石燃料发电的额外负担。该事件放大了AI行业“绿色标签”与实际情况的落差，引发对数据中心可持续性标准进行透明审计的呼声。"
+    },
     {
       "title": "Prediction: This Magnificent Artificial Intelligence (AI) Stock Will Become Berkshire's Next Forever Holding - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG02YzhzdkQ1a01IMjVTSk82XzlVUDAwOXRfak9hM0xSUDU3S0FYMVNJRXg0VmJoOG5oeGdkZGNFdWowY2VjX1hLazJMQWRZcWVpY3VONnF3Y3Noa0FPbDh1TkdRMFBrY1ZxbmlKMHRqQjBTMzJpSXlZeDUzQVYtTnhrQ0x5WWc2OVpFR3NNQS1DV3JPSGtuRQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-06T06:19:08Z",
-      "summary": "The Motley Fool预测，某表现卓越的人工智能股票有望成为伯克希尔·哈撒韦的下一个永久持有标的。该分析认为，这家公司在AI领域的核心技术优势、持续创新能力及长期增长潜力，符合巴菲特一贯的价值投资理念。若此预测成真，将意味着伯克希尔进一步加码AI赛道，以获取未来数十年的技术红利。该股票可能涉及机器学习、自然语言处理或自动化领域，具体标的尚未公开。"
+      "publishedAt": "2026-07-06T06:41:26Z",
+      "summary": "市场分析预测，某只表现卓越的AI股票有望成为伯克希尔·哈撒韦的下一个永久持股。该股在AI基础设施、云计算和大模型领域占据核心地位，具备稳定的现金流与护城河，符合巴菲特长期持有优质企业的投资哲学。尽管短期波动存在，其基本面与行业增长潜力吸引价值投资者关注，被视为具有穿越周期的确定性。"
     },
     {
       "title": "DeepX, an ultra-low-power physical artificial intelligence (AI) semiconductor company, has begun dis.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YekR3SkJ1UFV2OWFiUjNvUzhwMkM3bUpvdk02aGc4QlBZTnpnZC1TVTNyakdUOHdHdzNnRFRHNy1zNXVlOE5MRkd4cG9LYTVUeWRN?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-06T05:45:43Z",
-      "summary": "韩国超低功耗物理人工智能半导体公司DeepX已启动量产或重大合作。该公司专注于开发面向边缘AI设备的低功耗芯片，其技术可有效降低智能终端在推理环节的能耗，尤其在机器人、自动驾驶和物联网领域具有应用前景。此次动作标志着DeepX从研发阶段迈向商业化，有望推动物理AI芯片在现实场景中的大规模部署，为韩国半导体产业注入新动能。"
+      "summary": "DeepX作为一家专注于超低功耗物理人工智能半导体的公司，已开始部署其创新产品线。该公司通过优化的芯片架构与节能算法，显著降低AI计算功耗，适用于边缘计算与物联网设备。该进展有望推动AI技术在资源受限场景中的广泛应用，并巩固其在低功耗AI芯片市场的领先地位。"
     },
     {
       "title": "The creation of an ecosystem of the Gangwon artificial intelligence (AI) data industry is becoming v.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iM05JSDJscTI1VmpobE11Z2dTNGk0UFNLME1vXzY3VU8wYV8tb3lqR1AyTnJNQkUyUUJRNFdsMC1KZFJreVlqcE5FanpfS3RwSlE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-06T05:08:03Z",
-      "summary": "韩国江原道正加速构建人工智能数据产业生态系统。该计划旨在整合本地数据资源、培育AI初创企业、建设数据中心及研发平台，以打造区域性AI产业集群。江原道希望通过生态建设吸引技术人才和企业入驻，推动AI技术在医疗、旅游、农业等领域的落地应用。此举将提升韩国在AI数据产业中的竞争力，并为区域经济数字化转型提供支撑。"
+      "summary": "韩国江原道正积极构建人工智能数据产业生态系统。通过整合本地数据资源、吸引AI企业入驻以及完善配套基础设施，该地区致力于形成从数据采集、标注到模型训练与应用的完整产业链。这一举措旨在提升区域AI竞争力，促进智能医疗、智慧农业等领域的创新应用。"
     },
     {
       "title": "How to use artificial intelligence to strengthen scientific processes and scholarly output - The Transmitter",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORG9DQ3dhS0c3c1RuYXJXZHhrMjZsTU1HWmVZLVg1VWJ4Vi1RdHNTVVVfdjI4Z3ZqWUpiNkZuSmFqME9rd2NISEVhSGxXNE41cjhXeEtBdWNVaHowLTk3MjJ0aFRCeFc2Y29qVE5kc1hvT0JZcEVJdFNFUGx5bFp0NGZJcm9SdkNrajMtZWtGX0s5WkpkU3NKTkdPczRWM2dPX0l3dVIzLV9vbHpKZFE0NHEyeXhjVTZTWU1SWFp3Y0hnbnlkeFBBaWxxOW5Xc3dUXzRyUm9VdnZBTVFxREh3?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-06T04:00:20Z",
-      "summary": "《The Transmitter》探讨如何利用人工智能增强科学流程和学术产出。文章指出，AI可在文献综述、实验设计、数据分析和论文撰写等环节提升效率，例如通过自然语言处理快速提取关键信息，利用机器学习预测实验结果。但需注意算法偏见与可重复性挑战。合理运用AI辅助研究，能够加速科学发现，同时保持学术严谨性，使学者更专注于创新性思考。"
-    },
-    {
-      "title": "AI creating new consumer demands, biz opportunities beyond productivity gains: Bosch Global Software Techn - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOQldaWGpKMlZkM3JrUVMwTVpLcFV0bnpmMlFRTzg4cHdObVBkT0FHUUJMOGNUTHgwN21idDV1ZmRtbTZHeWJKZ1ltMGlmVmFKNHVfMUZSWVVtMFNja3RGT2t5cW1HeS1WVHk2SC1qMHlmb3ZHc21VUVBnMVJZTTJuek1aQVk0T0lod1BlN3NqbWwyZzhNLW5EN3RHN2l2aWplQkFQQU14WHBMT0RXdUJxNjgyLXFaWFVVV3U4U1ZORjJFaFNqQ3IxUVA5OWZjTEJia3VnMXB1bkVTcTFYUWI5Wl9HWXZwcTFjRWtlc0RucEt1VXgwUktFV1lvTXBZQ2UtYUw3MkNfeHN3RW5LZ3BfU3JuYnpIa0NoUEJKaVdwWXd6aUJB0gGqAkFVX3lxTE5oSWx6N2dqYVVGNkFDbTI2M0Rxcm9zQ1d4RlJGcTg3VTlJWFZxMUdBRGlKNmFDMDB0aUFGbWZBeVltNXV6SXZVeW51SlVPb2pyaURnTFRNMG5CeDl6bWlDYWx6ZmJCLUY2UDk0endsZmVzVjBVOWJMQTVLOVM4S2IwdS1DMGFZZlVpME5kZ0ZsWHJNU09ycHE0RWxZNmZYdzluTk5wWC16NDlrVXkyR2UtLVN4dk9hZFYxY1NzV25rQXRlRmhtTVlXQ3hpUlk1YmFiNEJxMXFDNjdGZHF3NXU0eE8zcXNyMHhPQy05cS1jRmNGV0d6TE1qQUFfaWp4VGNyUGZrME9NQzZSVElHdVVXWHJwdTJvelFyd2ppbDNBVEdIWDk0MFN4eFE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T03:49:38Z",
-      "summary": "博世全球软件技术公司指出，人工智能不仅提升生产力，还催生了新的消费需求和商业机遇。随着AI技术融入日常产品与服务，消费者对个性化、智能化体验的需求增长，企业可从中挖掘新兴市场。例如，智能家居、自动驾驶和工业AI应用正在创造全新的商业模式。公司强调，AI驱动的创新将跨越效率提升，成为经济增长新引擎。"
-    },
-    {
-      "title": "The first half of 2026 is over. These 2 spectacular artificial intelligence (AI) stocks can soar in the second half. - MSN",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNZllKbFZoTFZQZ01nUlc3YlNVNjJjdXZIWEUyUnYxZ1JoSDhfQVRJN0Q0MVY0LVdyZFdfYWpHaWg0T2p4TlJmVEZnT1N5V1dMWk01LTNzRWpjY2tGRmFGcmRVQ3A0TUV5MDhFeHNmeGU3Q01ZVzV0Zzl1QkFPckRoUFVlWWozSUMwbkY2Q2RWVDh0cElQWmRGUXRhNWdwMzhSeS1jZGZxMlYzazdtQmNlTmdCY0FSckRtVHRWRFlVZW5oVGk4bE56Ukp3V0hmN242bGR6UDJHZUgxeElLS3hqNGkwb3JTdGhPd0J3ZDNicnpQb1RTN1Utako0SnRkejBNMTgxbENYbDMwMVE5T3VQQWF6WmU5d3hKOUQ0UA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T03:08:48Z",
-      "summary": "MSN文章预测，在2026年上半年结束后，两只出色的人工智能股票有望在下半年大幅上涨。分析认为，受益于AI技术商业化加速、企业数字化转型需求及政策支持，这两家公司可能在智能芯片、软件应用或云服务领域取得关键突破。投资者应关注其财报表现、技术迭代及市场拓展情况，以把握下半年的增长机会。具体股票名称未在标题中披露。"
-    },
-    {
-      "title": "10 Greatest Sci-Fi Movies About AI Of All Time, Ranked - ScreenRant",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fLTRua2JxY3U0WFRZWElmOW44U1dwV2FpTUR4dWxYRFRqN01aR3dKMkZORXdzMm90bEFYcW5laWRMcFNvQno3dFpDem84LWRNY0ZkVExMajZMWkh6MmE1Z0dpYm1kYUU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T03:00:00Z",
-      "summary": "ScreenRant评选出史上10部最伟大的AI科幻电影，并加以排名。这些影片包括《银翼杀手》《2001太空漫游》《终结者》《她》《机械姬》等经典，探讨了人工智能的伦理、情感与存在主义议题。排名既考虑电影的艺术成就，也强调其对AI技术的预见性思考。该列表为影迷提供了从科幻视角理解人工智能发展的文化参考。"
-    },
-    {
-      "title": "China's leading artificial intelligence (AI) apps, ByteDance's \"The Bao\" and Alibaba's \"Q One,\" will.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85VWVEc0lhSElHRTRwRUp4WFBFbms4Zkx2Z1ltaGo1Z0twU3BKRW4xVkJfcGM4UUpMeDhyUkdGSEJGbFo2bllUNUxwNGRJTHM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T01:25:40Z",
-      "summary": "中国领先人工智能应用——字节跳动的“豆包”（The Bao）和阿里巴巴的“通义千问”（Q One）将展开竞争或推出新功能。这两款AI助手分别依托各自公司的生态优势，在对话、内容生成、办公辅助等领域展开角逐。随着中国AI应用市场持续升温，两大巨头的博弈将推动产品迭代与用户体验升级，同时引发生态化竞争的加速。"
-    },
-    {
-      "title": "The Indian stock market, which was relatively marginalized from the artificial intelligence (AI) cra.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sUkZSTWtORk1GdGtjbDhSVE5HZkt1VmdfYlhqb3BhdjFmdGw3MVh6UVhESlRNeTJNdHJadmtTdjA0MFpFMVNLUW9vU0p5UkU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T00:42:07Z",
-      "summary": "印度股市在全球人工智能热潮中相对边缘化，但近期开始受到关注。尽管印度在AI基础设施和投资方面落后于中美，但其庞大的科技人才库及IT服务外包优势正吸引国际科技巨头布局。印度本土AI初创公司也在崛起，推动资本市场重新评估其潜力。预计随着政策扶持和数字化转型推进，印度AI板块将逐步获得更多投资者青睐。"
-    },
-    {
-      "title": "Meta will start providing real-time Korean translation support to artificial intelligence (AI) smart.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HOWZab1lTX2lhVnlxTVZRbEV3bFJoZ3RKQzFjU2Zld1RFWmF2WWFjaE9xMkFrbVh3STktY0ZRMUxRbHJwaWN0aGRpaw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T00:35:38Z",
-      "summary": "Meta（原Facebook）计划为其人工智能智能设备提供实时韩语翻译支持。这一功能将部署在智能眼镜、AR/VR设备等终端，利用AI语音识别与机器翻译技术，实现韩语与其他语言的无缝沟通。此举有望打破语言障碍，拓展Meta在韩国市场的应用场景，同时提升其AI翻译技术的全球覆盖能力。具体上线时间尚未公布。"
+      "summary": "文章探讨如何利用人工智能强化科学流程与学术产出。AI工具可辅助文献筛选、数据分析、实验设计及论文撰写，帮助研究人员提高效率并减少重复性劳动。同时，AI还能优化同行评审机制、促进跨学科协作，从而加速科学发现并提升研究成果的质量与透明度。"
     }
   ]
 }

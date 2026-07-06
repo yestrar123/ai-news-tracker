@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "2040",
+      "title": "Beyond Earth: Why tech companies want to establish AI data centres in space - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaVhnU0pFckhCaERFZGhla0VIYTBKTWVpYVM4cjF1RTRUdWQxLVY5RVIzXy00UTA1dWpqTU1STXF0NlpNeFNNLW5yWVFOdmU3aHBEeEh3c055QzV2WVlVNzNrWHlGaGNUSmctU3BvYk9QeXlYSE5tWDlzS1FTYTd3ekV3dzdGQUFYWXNadjRPeVdyMXVreU9CNUJ4N0tISFpkVlhTV2J1eUxmOTVsbVJ6eFY1Ykk0bWd1SUE5OFBIRzExdUhEQ0dES2lLUmFuUTFVMnBTZHprcEJnWmhVdUpFMW1ObUpyZEtOb21YQ1ZWSTJ1MXB4WEHSAfsBQVVfeXFMUDBsRV96bG5NTGpSWk9NSGJzc1djNWFzd2Y0RW12S3g3SWgtaFZHZnBpTHJMbDBPNmkyQXhIUzZRcE1wZWJjT3FRcTJ3TjZOWTc5dGNZNy10bkxJckQwcDQtdzYzbVNBSlRNLVEwYnp1eElCRkNtOExqS05vRXNlU2xoVWktdC03YUhlN21vZzN3eUxyQTZGQ29XR1ZVNEVWR1V6Q2N0ZUMyUHlwWV9PbEtERTJiNjlVX0tRdldGZFdJLUtRdzBpNGJ0dUZXU0RTcnFrWnhXZWxfV0wtOHJPNXdaZ3RudTFnUWZuOURnU2xPQVJFNkVid3d6TkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T09:44:16Z",
+      "summary": "科技公司正探索在太空建立AI数据中心，以利用太空的低温环境降低冷却能耗、获取持续太阳能，并规避地球土地与能源限制。该概念有望解决AI算力激增带来的能源与碳排放挑战，但面临高昂发射成本、维护困难及辐射风险等障碍。尽管尚处早期阶段，多家企业已启动可行性研究，视其为未来AI基础设施的潜在突破口。",
+      "fetchDate": "2026-07-06"
+    },
+    {
+      "id": "2041",
+      "title": "First AI-run ransomware attack highlights emerging cyber threat landscape - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUUh5aU56aGVQeE92NHZCWmVkeko4a2VrOE1ZeFBMSlZ3Z3pNUnBKQTNlRDV3TFk5TjRLcGlxakd5bVZYMmtNR0RydzhLd0hRclE5NUFFd09rNVMtLVpfdVNISE5SWDhMUTl2YkhQU1B3eDBHdlc0OUxicjJUUEV3OHBlc0hxT0dyYU9CVGEtMmN3LVpndzJLaVVaSGxMSWcwLWw2czkydlNlVzB4T3pLOTdjUWpTemlyeUlEZGQyOUdoam16NWRycUVVYkI3NVZ5aFFILTNhR3Z5c2ltUXN0VkJYeVJIODZEalF2VmVHWFBXZUk10gH6AUFVX3lxTFBXamNpdWE3MGluX3l4Rmtjbkl4Rzk5THNLclItM1FtaXVQSEg3d2lCX0l6WVF0T0VQb3F1amdocVRKVDl4dUthMVNwZGFDckw3Vl9SQWt4LUlDdXllSVhfbElwcDdEbGdNczhoWHZBOEJ2Wm1sYnU2UkptRTdPNzR2U0lZc0RPRGNIRmhPZnE0YmtOREI5V05yalVzOUVzZXJ3a2NlWFd5TzlKUUkyajlzRF8xZ3RqczM5ajlrb0Nrb0dNLWdxeTJXS0xYWF9kM2dSeE1HbE9uOXNrejJscE9DWUJTdVNycm1WTTczT0dzUW5hem1nRHZnc0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T09:08:21Z",
+      "summary": "首次完全由AI驱动的勒索软件攻击事件曝光，标志着网络威胁格局进入新阶段。该攻击利用AI自主编写恶意代码、识别系统漏洞并规避传统安全监测，其自适应能力使防御更困难。专家警告，AI勒索软件能快速迭代攻击策略，未来可能成为主流威胁，倒逼网络安全行业加速采用AI对抗技术，并引发对AI武器化监管的讨论。",
+      "fetchDate": "2026-07-06"
+    },
+    {
+      "id": "2042",
+      "title": "Asia-Pacific Artificial Intelligence (AI) Optimised Data Center - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2025-2030) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3dCZjdGbXB5WHllRE85RVV4U00zR3lSdVY0ckhjSGZMZkdoeGNlOUFxa0RNcVlpSTNuV1VpVmRCaTlxMUdISVBOVW5XajRLTFZjY1J6ajB2RklIdTJkY3dMZVRGakVkRnRNQVIxWlRkNF9SbEpSUlhGb3ZyaGtxQUptNVdLcEJzVFkxcEJ5eXZLdEc2UkdRMHpON2ZRZFNtSGRSSnRB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T08:38:00Z",
+      "summary": "报告预测2025-2030年亚太地区AI优化数据中心市场将显著增长，主要受云计算、边缘计算及生成式AI需求推动。该区域凭借低运营成本、政策支持及数字基建扩张，成为部署AI专用数据中心的热点。分析指出，液冷、模块化设计等节能技术将成为竞争关键，但地缘政治与供应链风险可能制约部分国家的发展节奏。",
+      "fetchDate": "2026-07-06"
+    },
+    {
+      "id": "2043",
+      "title": "It has decided to deliberate on the appropriateness of artificial intelligence (AI) used by Samsung - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPclZ6eEMtcmZFRm1kZ2FnUllzVlNsSkxkQnN6MU1UVnFGVklCZE40QjcxRmpPT1BXRkJOT2o1djBuTlUteU9sOHB5SjdWQWFUeVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T08:27:33Z",
+      "summary": "韩国相关机构决定对三星电子在业务中使用的AI技术进行适切性审议，重点关注AI决策的透明度、公平性及潜在偏见。此举反映出监管层对大型科技企业AI应用合规性的日益审慎，尤其涉及消费者权益与市场竞争。审议结果可能影响三星AI产品的部署策略，并为韩国AI治理框架提供参考。",
+      "fetchDate": "2026-07-06"
+    },
+    {
+      "id": "2044",
+      "title": "AI readiness, specialised skills drive India's FY27 hiring trends: Report - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObG53NXpPOHoyTUw1MERLNXNETUlVaUNJMFJfbWozV3lNVHoxSUlvdl9Odnh6TjBweHZ3aDgxTVZ5bVQ0dUtKb3dvSlpwRENfVnRGX1RFbW9iZEdFZ3lLWW82Q0Q0NUhZaE1tOE8yOGFpblZwR1Fhc0pGM0l6QmRYWEY4SkdoNnBfSWdXS01BTXp6SHVyalkwM2VCN1Ewd2ZBcVRQdEw1azE5bTJIVFdlQjR2bXUwejNTT0FWNWRtWFNEQ3Z6SGw2b1RLeklnclUya0VNblVR0gHbAUFVX3lxTE9YTmg1QWhEXzlETnN1TXVpVURIZllHdmVYeVplblh3OTJXYWxmeDhIZjA1dUdPcTdQdWwxUnNHZ3NkQkJUNDg5YTVoS05Fa0RSdGF2Ri03eV9TQl9tY3JkNkxMaTZqbVNidmVNdUxtR2QtZFdZaktDemlSTnhHSUJUOFpOdmo2RkoxVFEwNHp5b21QQzZDWHRSSnRyal9JanRvdmlBcTh5SGVKTkItNVhEYVpCRWZkcEhsZGcwX1BaRTY5WVExQUtQQWF2dDZNcDY2SmtUWmNtTlI5WQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T07:36:46Z",
+      "summary": "报告显示，印度2027财年招聘趋势将由AI就绪程度与专业技能双轮驱动。企业优先招募具备AI工具应用能力及数据科学、机器学习等专项技能的人才，传统岗位向“AI协作型”转变。同时，AI基础设施投资与员工再培训计划成为企业竞争力的关键，印度IT服务与制造业预计将率先出现结构性人才需求变化。",
+      "fetchDate": "2026-07-06"
+    },
+    {
+      "id": "2045",
+      "title": "AI is shaping decisions. But who is liable when it gets it wrong? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdGtsbkxfV0tuM3BtakdqYnlNU1phTWpwbnlmaGhOSWFHRTBQZjNremJuYy1iNXY2UVlTa0NCNVN2YktoMTJUQ0NNZVh3V0l1UkFEMnJNRVlNY2VMc3huY21jaXp1N3VWMXI2aG81VDB1eVluMlFMU3J6ZTRpbXFlS1N3YjBucWdiUGViMTZhWHZEV1R3OHRGNHBEdm1UVkgxSGNtVGczTENOWGNWX1h5MVh0Tm8yaEhhdnhqb1d1TGpmQm81Rk5ldUhZUXNoY01hVHZadDhkd9IB3AFBVV95cUxOVERzbzZMLTBOb0c3Y3VwN09LaW5GblBPVmIyb1o0a1NNV1UyS0xMS1FqODF5a2NzbnRpYjZTbm00cjQ2ZXd1WURtaXF1MFR5b2hNNXViUUU0YzkxdUZpT1BaQldlZXA5bUJtVE41c3FLTDJZRmd4dmN1R1ZrX0JrVkVCRDZRengySVcycXU4QXJrYnZuSGVBSjVZaTBxWkd2NEwyZkJoMTh2SjFyMURPajcyVm1Tb2pMZ2l0SEZMdlNyUlVhZUZjSXhQTmRDSHhCOEYxclJzUm1LRUNm?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T07:33:39Z",
+      "summary": "随着AI在招聘、信贷、司法等关键决策中扮演更重要角色，责任归属问题引发热议。当AI系统出错造成损害时，开发者、部署者还是使用者应承担责任？现行法律框架对“算法黑箱”下的归责存在模糊地带。专家呼吁建立“AI责任险”与明确的产品责任规则，平衡创新激励与风险管控，确保受害者获得救济。",
+      "fetchDate": "2026-07-06"
+    },
+    {
+      "id": "2046",
+      "title": "What are Britain’s AI growth zones and are the plans feasible or ‘complete bunk’? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHZZZl9fRF8yRGtZSzZMRl92UzBwRmw2UmdkYnFKeHloRW80R0ZlY1A2cXZCTjZrdktlUHBtcy1ETlVjck5pOXJGY056UWJKLVowX0E2cjhFMUNaeGNiVjN0eEYtajBLZDhmenFURjJ6aG43Uk1fRlBFSWlnV3V5R18wTG1QaHYyODVYbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T07:00:00Z",
+      "summary": "英国政府提出建设“AI增长区”计划，旨在通过放宽规划限制、加速电网连接来吸引AI数据中心投资，以促进区域经济与技术创新。然而，批评者认为该计划缺乏可行性，尤其在可再生能源配套、社区影响评估方面准备不足，可能沦为政治口号。实际效果取决于能否平衡产业扩张与环保、社会承受力之间的矛盾。",
+      "fetchDate": "2026-07-06"
+    },
+    {
+      "id": "2047",
+      "title": "‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDRpb3h2M2o0SndKeW0zNVpOWmUxN01wV2xXc2VfcEo3UkVzb0xpdVpwUTJZZEN1X1BIMEJrUUNxTEpnMks3dFg3a1c3R1FsbnJpQ3ZidWhUUHVCZGRTX2R2ZEozVkQwTHBGeFQta2JadTdGLW9uN0dkSzZIYmVPb1E4clBPVEZYMk5YWVR5VTJBb0lwalV0aA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T07:00:00Z",
+      "summary": "苏格兰一村庄被选为大型AI数据中心选址后，居民从最初的经济希望转为深度恐惧，批评项目“烟雾和镜子”。担忧集中在：能源消耗过大导致电价上涨，景观破坏，且缺乏与社区的真实沟通。环保组织质疑其宣称的绿色承诺是营销手段，呼吁政府重新评估选址的长期社会成本，警惕AI基建对乡村的负面影响。",
+      "fetchDate": "2026-07-06"
+    },
+    {
+      "id": "2048",
+      "title": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFpHSG1TQzNCYlJwaUFUb3poMjhydmVPSnRucmY1cnpKRWJKbTh4OGxlcWh0RTQtR01kOEJJaG1LU3dfeFFUcU5FQjhmTVBpX0xFR0xkRzRmd0ItTHB4TDNVTUVzNEl1RFFzTU91VzM4UDhlZGx2WDFDa3ROYkxJRloyS0VGZFYwU1RvUEtKZGRQZkZ0Q3U3Nzg4al9jeEpjMjFIbmNLQUdra2xscFZF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T07:00:00Z",
+      "summary": "调查揭露，苏格兰标志性AI项目声称将完全使用可再生能源运营，但实际上并无切实可行的计划来实现这一承诺。项目依赖的绿电供应存在巨大缺口，对电网的冲击可能迫使当地社区承担化石燃料发电的额外负担。该事件放大了AI行业“绿色标签”与实际情况的落差，引发对数据中心可持续性标准进行透明审计的呼声。",
+      "fetchDate": "2026-07-06"
+    },
+    {
       "id": "2033",
       "title": "Prediction: This Magnificent Artificial Intelligence (AI) Stock Will Become Berkshire's Next Forever Holding - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG02YzhzdkQ1a01IMjVTSk82XzlVUDAwOXRfak9hM0xSUDU3S0FYMVNJRXg0VmJoOG5oeGdkZGNFdWowY2VjX1hLazJMQWRZcWVpY3VONnF3Y3Noa0FPbDh1TkdRMFBrY1ZxbmlKMHRqQjBTMzJpSXlZeDUzQVYtTnhrQ0x5WWc2OVpFR3NNQS1DV3JPSGtuRQ?oc=5",
@@ -18343,5 +18424,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2038
+  "total": 2047
 }
