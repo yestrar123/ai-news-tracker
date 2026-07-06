@@ -1,55 +1,76 @@
 {
-  "updatedAt": "2026-07-06 02:04:15 UTC",
-  "totalArticles": 7,
+  "updatedAt": "2026-07-06 06:20:13 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "Prediction: This Magnificent Artificial Intelligence (AI) Stock Will Become Berkshire's Next Forever Holding - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUG02YzhzdkQ1a01IMjVTSk82XzlVUDAwOXRfak9hM0xSUDU3S0FYMVNJRXg0VmJoOG5oeGdkZGNFdWowY2VjX1hLazJMQWRZcWVpY3VONnF3Y3Noa0FPbDh1TkdRMFBrY1ZxbmlKMHRqQjBTMzJpSXlZeDUzQVYtTnhrQ0x5WWc2OVpFR3NNQS1DV3JPSGtuRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T06:19:08Z",
+      "summary": "The Motley Fool预测，某表现卓越的人工智能股票有望成为伯克希尔·哈撒韦的下一个永久持有标的。该分析认为，这家公司在AI领域的核心技术优势、持续创新能力及长期增长潜力，符合巴菲特一贯的价值投资理念。若此预测成真，将意味着伯克希尔进一步加码AI赛道，以获取未来数十年的技术红利。该股票可能涉及机器学习、自然语言处理或自动化领域，具体标的尚未公开。"
+    },
+    {
+      "title": "DeepX, an ultra-low-power physical artificial intelligence (AI) semiconductor company, has begun dis.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YekR3SkJ1UFV2OWFiUjNvUzhwMkM3bUpvdk02aGc4QlBZTnpnZC1TVTNyakdUOHdHdzNnRFRHNy1zNXVlOE5MRkd4cG9LYTVUeWRN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T05:45:43Z",
+      "summary": "韩国超低功耗物理人工智能半导体公司DeepX已启动量产或重大合作。该公司专注于开发面向边缘AI设备的低功耗芯片，其技术可有效降低智能终端在推理环节的能耗，尤其在机器人、自动驾驶和物联网领域具有应用前景。此次动作标志着DeepX从研发阶段迈向商业化，有望推动物理AI芯片在现实场景中的大规模部署，为韩国半导体产业注入新动能。"
+    },
+    {
+      "title": "The creation of an ecosystem of the Gangwon artificial intelligence (AI) data industry is becoming v.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iM05JSDJscTI1VmpobE11Z2dTNGk0UFNLME1vXzY3VU8wYV8tb3lqR1AyTnJNQkUyUUJRNFdsMC1KZFJreVlqcE5FanpfS3RwSlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T05:08:03Z",
+      "summary": "韩国江原道正加速构建人工智能数据产业生态系统。该计划旨在整合本地数据资源、培育AI初创企业、建设数据中心及研发平台，以打造区域性AI产业集群。江原道希望通过生态建设吸引技术人才和企业入驻，推动AI技术在医疗、旅游、农业等领域的落地应用。此举将提升韩国在AI数据产业中的竞争力，并为区域经济数字化转型提供支撑。"
+    },
+    {
+      "title": "How to use artificial intelligence to strengthen scientific processes and scholarly output - The Transmitter",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORG9DQ3dhS0c3c1RuYXJXZHhrMjZsTU1HWmVZLVg1VWJ4Vi1RdHNTVVVfdjI4Z3ZqWUpiNkZuSmFqME9rd2NISEVhSGxXNE41cjhXeEtBdWNVaHowLTk3MjJ0aFRCeFc2Y29qVE5kc1hvT0JZcEVJdFNFUGx5bFp0NGZJcm9SdkNrajMtZWtGX0s5WkpkU3NKTkdPczRWM2dPX0l3dVIzLV9vbHpKZFE0NHEyeXhjVTZTWU1SWFp3Y0hnbnlkeFBBaWxxOW5Xc3dUXzRyUm9VdnZBTVFxREh3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T04:00:20Z",
+      "summary": "《The Transmitter》探讨如何利用人工智能增强科学流程和学术产出。文章指出，AI可在文献综述、实验设计、数据分析和论文撰写等环节提升效率，例如通过自然语言处理快速提取关键信息，利用机器学习预测实验结果。但需注意算法偏见与可重复性挑战。合理运用AI辅助研究，能够加速科学发现，同时保持学术严谨性，使学者更专注于创新性思考。"
+    },
+    {
+      "title": "AI creating new consumer demands, biz opportunities beyond productivity gains: Bosch Global Software Techn - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOQldaWGpKMlZkM3JrUVMwTVpLcFV0bnpmMlFRTzg4cHdObVBkT0FHUUJMOGNUTHgwN21idDV1ZmRtbTZHeWJKZ1ltMGlmVmFKNHVfMUZSWVVtMFNja3RGT2t5cW1HeS1WVHk2SC1qMHlmb3ZHc21VUVBnMVJZTTJuek1aQVk0T0lod1BlN3NqbWwyZzhNLW5EN3RHN2l2aWplQkFQQU14WHBMT0RXdUJxNjgyLXFaWFVVV3U4U1ZORjJFaFNqQ3IxUVA5OWZjTEJia3VnMXB1bkVTcTFYUWI5Wl9HWXZwcTFjRWtlc0RucEt1VXgwUktFV1lvTXBZQ2UtYUw3MkNfeHN3RW5LZ3BfU3JuYnpIa0NoUEJKaVdwWXd6aUJB0gGqAkFVX3lxTE5oSWx6N2dqYVVGNkFDbTI2M0Rxcm9zQ1d4RlJGcTg3VTlJWFZxMUdBRGlKNmFDMDB0aUFGbWZBeVltNXV6SXZVeW51SlVPb2pyaURnTFRNMG5CeDl6bWlDYWx6ZmJCLUY2UDk0endsZmVzVjBVOWJMQTVLOVM4S2IwdS1DMGFZZlVpME5kZ0ZsWHJNU09ycHE0RWxZNmZYdzluTk5wWC16NDlrVXkyR2UtLVN4dk9hZFYxY1NzV25rQXRlRmhtTVlXQ3hpUlk1YmFiNEJxMXFDNjdGZHF3NXU0eE8zcXNyMHhPQy05cS1jRmNGV0d6TE1qQUFfaWp4VGNyUGZrME9NQzZSVElHdVVXWHJwdTJvelFyd2ppbDNBVEdIWDk0MFN4eFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T03:49:38Z",
+      "summary": "博世全球软件技术公司指出，人工智能不仅提升生产力，还催生了新的消费需求和商业机遇。随着AI技术融入日常产品与服务，消费者对个性化、智能化体验的需求增长，企业可从中挖掘新兴市场。例如，智能家居、自动驾驶和工业AI应用正在创造全新的商业模式。公司强调，AI驱动的创新将跨越效率提升，成为经济增长新引擎。"
+    },
+    {
+      "title": "The first half of 2026 is over. These 2 spectacular artificial intelligence (AI) stocks can soar in the second half. - MSN",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNZllKbFZoTFZQZ01nUlc3YlNVNjJjdXZIWEUyUnYxZ1JoSDhfQVRJN0Q0MVY0LVdyZFdfYWpHaWg0T2p4TlJmVEZnT1N5V1dMWk01LTNzRWpjY2tGRmFGcmRVQ3A0TUV5MDhFeHNmeGU3Q01ZVzV0Zzl1QkFPckRoUFVlWWozSUMwbkY2Q2RWVDh0cElQWmRGUXRhNWdwMzhSeS1jZGZxMlYzazdtQmNlTmdCY0FSckRtVHRWRFlVZW5oVGk4bE56Ukp3V0hmN242bGR6UDJHZUgxeElLS3hqNGkwb3JTdGhPd0J3ZDNicnpQb1RTN1Utako0SnRkejBNMTgxbENYbDMwMVE5T3VQQWF6WmU5d3hKOUQ0UA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T03:08:48Z",
+      "summary": "MSN文章预测，在2026年上半年结束后，两只出色的人工智能股票有望在下半年大幅上涨。分析认为，受益于AI技术商业化加速、企业数字化转型需求及政策支持，这两家公司可能在智能芯片、软件应用或云服务领域取得关键突破。投资者应关注其财报表现、技术迭代及市场拓展情况，以把握下半年的增长机会。具体股票名称未在标题中披露。"
+    },
+    {
+      "title": "10 Greatest Sci-Fi Movies About AI Of All Time, Ranked - ScreenRant",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fLTRua2JxY3U0WFRZWElmOW44U1dwV2FpTUR4dWxYRFRqN01aR3dKMkZORXdzMm90bEFYcW5laWRMcFNvQno3dFpDem84LWRNY0ZkVExMajZMWkh6MmE1Z0dpYm1kYUU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T03:00:00Z",
+      "summary": "ScreenRant评选出史上10部最伟大的AI科幻电影，并加以排名。这些影片包括《银翼杀手》《2001太空漫游》《终结者》《她》《机械姬》等经典，探讨了人工智能的伦理、情感与存在主义议题。排名既考虑电影的艺术成就，也强调其对AI技术的预见性思考。该列表为影迷提供了从科幻视角理解人工智能发展的文化参考。"
+    },
     {
       "title": "China's leading artificial intelligence (AI) apps, ByteDance's \"The Bao\" and Alibaba's \"Q One,\" will.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85VWVEc0lhSElHRTRwRUp4WFBFbms4Zkx2Z1ltaGo1Z0twU3BKRW4xVkJfcGM4UUpMeDhyUkdGSEJGbFo2bllUNUxwNGRJTHM?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-06T01:25:40Z",
-      "summary": "字节跳动的AI应用“The Bao”与阿里巴巴的“Q One”即将展开重要合作或推出新功能，旨在进一步巩固中国在人工智能领域的领先地位。这两款应用分别依托各自母公司在大模型和数据方面的积累，有望在智能对话、内容生成等场景实现技术协同，推动AI应用生态的整合与发展。"
+      "summary": "中国领先人工智能应用——字节跳动的“豆包”（The Bao）和阿里巴巴的“通义千问”（Q One）将展开竞争或推出新功能。这两款AI助手分别依托各自公司的生态优势，在对话、内容生成、办公辅助等领域展开角逐。随着中国AI应用市场持续升温，两大巨头的博弈将推动产品迭代与用户体验升级，同时引发生态化竞争的加速。"
     },
     {
       "title": "The Indian stock market, which was relatively marginalized from the artificial intelligence (AI) cra.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sUkZSTWtORk1GdGtjbDhSVE5HZkt1VmdfYlhqb3BhdjFmdGw3MVh6UVhESlRNeTJNdHJadmtTdjA0MFpFMVNLUW9vU0p5UkU?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-06T00:42:07Z",
-      "summary": "印度股市曾相对远离人工智能热潮的直接影响，但近期正逐渐吸引投资者关注。随着全球AI产业链向印度延伸，以及本土科技企业在AI服务、芯片设计等领域的布局，印度市场开始展现出新的增长潜力，可能成为下一阶段AI投资的重要新兴市场。"
+      "summary": "印度股市在全球人工智能热潮中相对边缘化，但近期开始受到关注。尽管印度在AI基础设施和投资方面落后于中美，但其庞大的科技人才库及IT服务外包优势正吸引国际科技巨头布局。印度本土AI初创公司也在崛起，推动资本市场重新评估其潜力。预计随着政策扶持和数字化转型推进，印度AI板块将逐步获得更多投资者青睐。"
     },
     {
       "title": "Meta will start providing real-time Korean translation support to artificial intelligence (AI) smart.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HOWZab1lTX2lhVnlxTVZRbEV3bFJoZ3RKQzFjU2Zld1RFWmF2WWFjaE9xMkFrbVh3STktY0ZRMUxRbHJwaWN0aGRpaw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-06T00:35:38Z",
-      "summary": "Meta宣布将为旗下AI智能设备（如智能眼镜）提供实时韩语翻译支持。这项功能将利用Meta的先进语音识别与神经机器翻译技术，使用户在跨语言交流时获得无缝体验。此举不仅拓展了AI翻译的应用场景，也反映出Meta在全球化AI服务上的持续投入。"
-    },
-    {
-      "title": "25 Years Ago, Steven Spielberg Helped Predict The Debate Society Is Having Today - ScreenRant",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzRUFjOUhRalk2UXZHMzBlT0IwcVdFVVZyUkxBYVhOVkFySHp4NFo5TlVEbVo2RHFoaEtha2gwNWlMeWJjNVZYeklIUVYyc1lSbjFUaG9wcWFaSmN6eVJ2UmNFYkc3d3czRFZiSlJTSko?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T00:10:00Z",
-      "summary": "25年前，斯皮尔伯格通过电影《人工智能》等作品预见了当今社会关于AI伦理、人机关系等核心辩论。他提出的“机器能否拥有情感”“人类与AI如何共存”等议题，至今仍是科技与哲学讨论的焦点，其前瞻性思考持续影响着公众对AI发展的认知。"
-    },
-    {
-      "title": "The Cognitive Gap: An Epistemological Crisis In The Evolution Of AI And The Degradation Of Human Intelligence – Analysis - Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOTFLNlVIdHV2VUd0OU8tTFlHb0gtQWxEbU8xSjE3eFc3SENkWU43d1dsTERFSnFzbU9QVTY3SkZLRERZMVlXcjh1Q3dkSTZwNGhkbkRkYmcxT2xUU2sxekF6R21QdUEySVYxZWdWR1A5OTNDNGxxYkFkdWhsSUVJajVpdnFoV2ZmV1FlZjdiZVdmNll5MGJRVmhNRnctOUFvbGRuc2lkakJ5bzZzZTE1UWhMVTlXVDg4Q3QtWTllM1BKZVd1d2xMN1Bza0hreWx2VlpQbEprV3k3Zm12RmhnMVJJbldrMVZub21CQVVB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T00:04:56Z",
-      "summary": "有分析指出，AI的快速进化正引发一场认识论危机：人类认知能力相对退化，而AI的“智能”却不断扩展，形成难以弥合的“认知鸿沟”。这一现象挑战了传统的知识获取与判断方式，要求社会重新审视人类智能的独特价值以及AI发展可能带来的根本性变革。"
-    },
-    {
-      "title": "Forget 'Disclosure Day,' This is the Best Steven Spielberg Sci-Fi Movie No One's Talking About - Collider",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVV1Q1RsREx3dThQZW5LUUxrckxlWkdoWWFyTnNyak5VNlpweENUVFhwUWRDVGtraGRXQS1IdEY0eEx4endhSzFxUHhZb0RUU2ZvMmxqMDJ3eE9VNkhhWFlYY2ZvUEIzc0NaZGRDMFYwekU2N3VGZDdYRllUQWc2M1ZDWkpjRG1FQVlsbVF6Q2treVpVcUludUpsaw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-05T22:49:12Z",
-      "summary": "在斯皮尔伯格的科幻作品中，《AI》和《少数派报告》常被提及，但有一部被忽视的佳作同样探讨了深刻主题。该片通过未来设定反思技术、人性与伦理的边界，其叙事深度和视觉美学值得重新发掘，尤其适合当下AI高度发展的语境下进行对比思考。"
-    },
-    {
-      "title": "The First Half of 2026 Is Over. These 2 Spectacular Artificial Intelligence (AI) Stocks Can Soar in the Second Half. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLTVpYlZ3dTczTXpQQmJBWGo0SEZwSVc5c1h0Qk5zRVI4VmlGVTktd3BtdWd2TWVXY1JQNnJERXNhcWkxMGg1a1VCTDF2Vnp2SkRfYU5CZ2hHY2prb1RUOU9RdVhISHVCWlZJbk5uYkNNMHBwcTVoaXFQb0RVWEFIakkwZ3k4Tmg2d0NVb3kzQVo?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-05T21:26:00Z",
-      "summary": "2026年上半年已结束，两只AI概念股被看好将在下半年大幅上涨。这些公司或在AI芯片、大模型应用或行业解决方案方面拥有独特优势，受益于全球AI投资热潮与企业数字化转型需求，有望成为下半年资本市场中的亮点，但需注意市场波动风险。"
+      "summary": "Meta（原Facebook）计划为其人工智能智能设备提供实时韩语翻译支持。这一功能将部署在智能眼镜、AR/VR设备等终端，利用AI语音识别与机器翻译技术，实现韩语与其他语言的无缝沟通。此举有望打破语言障碍，拓展Meta在韩国市场的应用场景，同时提升其AI翻译技术的全球覆盖能力。具体上线时间尚未公布。"
     }
   ]
 }
