@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "2087",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06T23:56:14Z",
+      "summary": "据报道，AI代理首次在真实勒索软件攻击中执行技术操作，但新细节显示，该攻击并非完全自主。人类仍负责选择受害者、搭建基础设施并提供被盗凭证，这意味着这并非上周头条所称的完全自主的网络犯罪首秀。该事件凸显了当前AI在网络安全领域的局限性，即仍需要人类在关键环节进行决策和干预，实现完全自主的攻击尚有距离。",
+      "fetchDate": "2026-07-07"
+    },
+    {
+      "id": "2088",
+      "title": "Thrive Holdings Raises $2 Billion to Buy and Rewire Services Firms With AI - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcEJybXU1UjVPSF9vRmFYT1NtQnZSWC1QcU1rdC16RFE1MHoyR3p2dU4yMFZNc3NVeGhLX1VtZ0pwMWpjcFo4anJSRGR0cjF6cmtxTnFJdHg4T0k1TnY1bUlHRlhIV2pqNmp5cnN1d1pOakJ0S3A3WUkzQi1XQ1ZiNUxmdnFLSkxaMEVzakdPa1VaNWg2Qi1zbnI1aUY4X2J1NUc0SXhrRWhLSFNXYk9VMVI1RERySGJZTlMyaHprNzB4X2RzcXJDdjRYaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T23:24:48Z",
+      "summary": "Thrive Holdings成功筹集20亿美元资金，计划用于收购各类服务公司，并借助人工智能技术对其业务流程进行重组与优化。此举旨在通过AI提升运营效率，重塑服务行业格局。这笔巨额融资反映出投资者对AI赋能传统服务业的信心，Thrive将利用资金整合资源，打造智能化服务生态系统。",
+      "fetchDate": "2026-07-07"
+    },
+    {
+      "id": "2089",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-06T23:21:03Z",
+      "summary": "SK海力士正借助人工智能热潮实现业务繁荣，并计划于本周五在美国进行数十亿美元的首次公开募股（IPO），届时美国投资者将有机会购买其股票。作为AI领域关键的内存芯片供应商，SK海力士受益于AI对高带宽内存等产品的强劲需求，此次IPO将进一步扩大其全球资本布局。",
+      "fetchDate": "2026-07-07"
+    },
+    {
+      "id": "2090",
+      "title": "Inside AI: Expert gives tips on practical ways to use artificial intelligence - WLKY",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEktTklPSDNkRmpGUzl2b1pOaUwzd240WVBkbWVwZDFvR1A5TWxWSjhrSURiUHNsdXlxa1F3WXQ3N1U2dndncjdzTTBYbHpmTk5KYzRZRGpYY1hTUlFQa05XRVJvcmxTRk5UVDNqSDJfMnFZSktzMElFdzdBdDN0aS1MSG9IZGxYTFBiS1FOX0Z5SExKdFVKag?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T21:45:00Z",
+      "summary": "AI专家分享了在日常工作和生活中实用人工智能的若干技巧，涵盖如何高效利用AI工具完成文本生成、数据分析、图像处理等任务。建议包括明确需求、选择合适模型、注意隐私保护等，帮助用户最大化AI价值同时规避常见陷阱，实现AI技术的平民化应用。",
+      "fetchDate": "2026-07-07"
+    },
+    {
+      "id": "2091",
+      "title": "Gov. JB Pritzker signs first-in-nation Illinois law requiring third-party safety audits for AI giants - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMNjVQQlpFam5wMzdoZU5Td0xxWW9VMDRnYzVOVVF6QTBCdjJkamZ4ODh6N2htWENHTVlZRVlqWXhUYW9HMkpTQjgwRmVZejdNYm5MYVFmSTRaSTdON1Z2cWNlaHBTaDZkbDB1bmY5Wm14Z0ozcHUw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T20:42:41Z",
+      "summary": "伊利诺伊州州长JB·普利兹克签署了一项全美首例法律，要求大型人工智能公司接受第三方安全审计。该法案旨在应对AI系统潜在风险，通过独立审计确保算法公平、数据安全和模型可靠性。此举标志着美国在AI监管方面迈出实质性一步，可能影响其他州的立法方向。",
+      "fetchDate": "2026-07-07"
+    },
+    {
+      "id": "2092",
+      "title": "Pritzker signs landmark AI regulation bill that aims to mitigate risks - WCBU Peoria",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmpUUGtMNmdlMlZoTG5DWjlGTHBnOTBPcVo1MERQM19CNENvNWczaG9kR3hsWkpRM1oxQVFTamJ2NlpTVS1SMTdzUVl1VnRxU0NOdjZnZlFOME1QeDk4NTVWZlhIZlRsSy1fbW9IWHBBTEdDTG9GaXpoWDlJcHhLMnpFWS1HcHZSRzVUUDNlSThjRGY3MWlKaTQ3NzNoWTBiempqcEtYVjEzSHpha1RxTjhsQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T20:35:00Z",
+      "summary": "伊利诺伊州长普利兹克签署了一部具有里程碑意义的AI监管法案，旨在系统性地减轻人工智能带来的风险。该法案要求AI开发者对其系统进行影响评估，并建立透明机制。作为美国首部综合性AI安全法规，它为全国AI治理树立了标杆，平衡了技术创新与公共安全。",
+      "fetchDate": "2026-07-07"
+    },
+    {
+      "id": "2093",
+      "title": "How AI Legal Tools Are Empowering Consumers - Impakter",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Rno0LUJlaWVmWmR3NTh2b1FHa2lQMDJfbERrZGNMQUJyTVZsT2VmUGk0TkFXNVJUV2dOc2VOYW5VZFcwRmVxTTMzVlFNazVYWmFnMDNfMnNYcm95SkQw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T20:30:22Z",
+      "summary": "人工智能法律工具正在赋予消费者更多权利，帮助普通人理解法律条文、生成法律文件、评估诉讼风险等。这些工具利用自然语言处理和大模型，降低法律服务的门槛和成本，使消费者能够更自主地应对合同纠纷、消费者权益保护等常见法律问题，推动法律服务民主化。",
+      "fetchDate": "2026-07-07"
+    },
+    {
+      "id": "2094",
+      "title": "Salinas launches AI assistance - Monterey Herald",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yRXJGZEZKaGl2Rmk5V215ZnpxTlktaUszR3dpYlBreWlLN2U0ZFZSdHU1UEhDVDVLZmdXMG8zUF8tUlk4dHB2SXB0RlpmeTMzcXRQazlvMEx4eE5BMTF5ZldSWnlvdHJGbXBVYnJuZTRrdXl1dms5WGNveFlBZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T20:19:01Z",
+      "summary": "加利福尼亚州萨利纳斯市推出基于人工智能的市民协助服务，旨在通过AI聊天机器人或虚拟助手为居民提供市政信息、服务办理指引等支持。此举有望提高政府服务效率，减少市民等待时间，并借助AI的24/7响应能力改善用户体验，是智慧城市建设的一部分。",
+      "fetchDate": "2026-07-07"
+    },
+    {
+      "id": "2095",
+      "title": "White House Signals More Hands-On Approach to Oversight of AI Systems - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGg1RmhnNy1rbXUxbG5Ub0FwNnl4Vk13VEhmNDFRcnBJamQ2Qkd4Nm1XclphN3FKUThOUzRDY1lEa3dJQlZwTmc3YlY4Qkc5UDQtLWZaNjlaakUtZ0p1ME5RVFZJaS14OUU4ZGN0U2RZRkU4Ql9VU2MtRkMwUmV5NVVFdDhSdGI1bU9tTjN0cHloQndKNDFjODRHT2hTZm9pbmx5N29jV3laMG1vOXN2M3VmdTlDOHVqbUthUllUSlJkZFR4ZUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-06T20:09:47Z",
+      "summary": "白宫释放信号，将采取更为主动的监管方式监督人工智能系统的发展与应用。这意味着联邦政府可能出台更严格的规则，包括算法审计、透明度要求以及风险分类管理。此举反映了美国政府对AI潜在风险（如偏见、安全、就业影响）的重视，旨在确保AI发展符合公共利益。",
+      "fetchDate": "2026-07-07"
+    },
+    {
       "id": "2068",
       "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
       "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
@@ -18766,5 +18847,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2085
+  "total": 2094
 }

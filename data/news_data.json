@@ -1,174 +1,76 @@
 {
-  "updatedAt": "2026-07-06 19:39:59 UTC",
-  "totalArticles": 24,
+  "updatedAt": "2026-07-07 01:59:29 UTC",
+  "totalArticles": 10,
   "articles": [
     {
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-06T19:01:59Z",
-      "summary": "苹果在最新的iOS 27测试版中为Siri增加了语速和表达力自定义功能。用户现在可以调节Siri的说话速度，并控制其语音的生动程度和情感表达。这一更新旨在提升语音助手的个性化体验，让Siri的交互更贴合用户偏好。该功能目前处于测试阶段，预计将随正式版推送至所有兼容设备。此举反映了苹果在AI语音交互领域持续优化用户体验的努力。"
+      "publishedAt": "2026-07-06T23:56:14Z",
+      "summary": "据报道，AI代理首次在真实勒索软件攻击中执行技术操作，但新细节显示，该攻击并非完全自主。人类仍负责选择受害者、搭建基础设施并提供被盗凭证，这意味着这并非上周头条所称的完全自主的网络犯罪首秀。该事件凸显了当前AI在网络安全领域的局限性，即仍需要人类在关键环节进行决策和干预，实现完全自主的攻击尚有距离。"
     },
     {
-      "title": "Amazon Could be On the Cusp of Reshaping the Artificial Intelligence (AI) Chip Market. Should Nvidia Investors be Worried? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU01JNVlrMTJhOU5pT1NyZkhhN1ZJYjhuS2NXb203aWg1czJhOG1vNGFYbVhyNWRFOHJXM0wxZ083NFRyaVpra1FMTnRPclBORklRR2x6cDhCeXU2OUZyRkZGUXJnbGhub2MyYTF6cjYtOC0yLWVTaThkaHVEMklqNWF4MnhPRHFJMVN3eDVTUUM2ckJaNV9hRg?oc=5",
+      "title": "Thrive Holdings Raises $2 Billion to Buy and Rewire Services Firms With AI - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcEJybXU1UjVPSF9vRmFYT1NtQnZSWC1QcU1rdC16RFE1MHoyR3p2dU4yMFZNc3NVeGhLX1VtZ0pwMWpjcFo4anJSRGR0cjF6cmtxTnFJdHg4T0k1TnY1bUlHRlhIV2pqNmp5cnN1d1pOakJ0S3A3WUkzQi1XQ1ZiNUxmdnFLSkxaMEVzakdPa1VaNWg2Qi1zbnI1aUY4X2J1NUc0SXhrRWhLSFNXYk9VMVI1RERySGJZTlMyaHprNzB4X2RzcXJDdjRYaw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-06T18:43:58Z",
-      "summary": "亚马逊正接近重塑人工智能芯片市场，其自研芯片（如Trainium和Inferentia）的进展可能挑战英伟达的统治地位。分析指出，亚马逊通过云端服务和定制芯片的整合，有望提供更具性价比的AI计算方案，从而吸引大型云客户。尽管英伟达当前仍占据优势，但投资者需警惕亚马逊在AI芯片领域的加速布局。这一动向可能改写行业格局，促使竞争进一步白热化。"
+      "publishedAt": "2026-07-06T23:24:48Z",
+      "summary": "Thrive Holdings成功筹集20亿美元资金，计划用于收购各类服务公司，并借助人工智能技术对其业务流程进行重组与优化。此举旨在通过AI提升运营效率，重塑服务行业格局。这笔巨额融资反映出投资者对AI赋能传统服务业的信心，Thrive将利用资金整合资源，打造智能化服务生态系统。"
     },
     {
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-06T18:35:00Z",
-      "summary": "2026年多家大型科技公司以AI为由进行了大规模裁员。通过逆向时间顺序梳理，这些公司包括Meta、谷歌、微软等，其裁员声明中明确将AI自动化视为原因之一。企业普遍宣称通过AI技术提升效率，从而减少对部分岗位的需求。这一趋势引发了关于AI对就业市场冲击的广泛讨论，同时暴露出科技行业在转向AI优先战略过程中的成本优化和结构调整。"
-    },
-    {
-      "title": "Artificial Intelligence (AI) glasses: Important policy update - canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc01EZzk5Z0c2RmFNbGN4TTZ4YWhtdGhnclpTanpLQS1sbkRZY3A0V2lCQjhZNmZOZmh0THBLbFFHMFd0Nk5HcmUzR3Y4RmdaVWhlNWE3Q2F5UmFTX3JGRUkyQWZ5QjFRdHNRdnFJeTViTklmeVNNeGtuR0tTTWMtVkhTY0pRY2pETHpveHNSeEU1WHczdFRxZTJRLTFnZk9WRFNMS2U4d0dNUmtDT2M0bHFybkpLcU0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T17:09:47Z",
-      "summary": "加拿大政府发布了关于人工智能眼镜的重要政策更新，旨在规范这类设备的隐私和使用安全。新政策可能涵盖数据收集、面部识别、用户知情权等方面，并可能要求制造商遵守特定的技术标准。此举反映出各国对可穿戴AI设备监管的加强，尤其是在公共空间和隐私保护领域。加拿大希望借此平衡技术创新与公民权利，为AI眼镜的普及奠定政策基础。"
-    },
-    {
-      "title": "Artificial Intelligence (AI), Synthetic Biology, and Robotics Combine to Improve Enzymes | Newswise - Newswise",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWUwzRlA4T19nNDJWWDBVQ2RLVVotSG5HR3VnVXFwNWxlbVIxQVBXVk1PWmZsb2d6eGJvSHFoUnVxcHNnM0FRRE4tbjV4ckVlc0wtMkJZa3lLbjFQdmRsVjRHRm1FaVFDSk15bmlGVUd0RmdvZlFSZEU5TDE4NGVhYWVnTUN4azV5NXZLOUNlaEdIRzNYbVBRQThDZjhqa181OHh0SFFBOTFpY3hBZFRhcmFRMHU1UTZZczQ0cjc1ME1FcEVLbEItdTdad1pLeGNKWVQw0gHTAUFVX3lxTFBZTDNGUDhPX2c0MlZYMFVDZEtVWi1IbkdHdWdVcXA1bGVtUjFBUFdWTU9aZmxvZ3p4Ym9IcWhSdXFwc2czQVFETi1uNXhyRWVzTC0yQllreUtuMVB2ZGxWNEdGbUVpUUNKTXluaUZVR3RGZ29mUVJkRTlMMTg0ZWFhZWdNQ3hrNXk1dks5Q2VoR0hHM1htUFFBOENmOGprXzU4eHRIUUE5MWljeEFkVGFyYVEwdTVRNllzNDRyNzUwTUVwRUtsQi11N1p3Wkt4Y0pZVDA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T17:05:00Z",
-      "summary": "一项最新研究展示了人工智能、合成生物学和机器人技术的跨界融合如何改进酶的性能。通过AI预测酶结构，合成生物学重新设计基因，机器人自动化实验验证，团队成功提升了酶的稳定性和催化效率。这种组合方法大幅缩短了传统酶工程周期，有望应用于生物燃料、药物合成和环境修复等领域，标志着生物制造进入智能化、自动化的新阶段。"
-    },
-    {
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-06T17:04:58Z",
-      "summary": "谷歌近期更改了隐私设置，允许利用更多用户数据来训练其AI模型。这意味着用户在使用谷歌搜索、地图等服务时，其数据可能被用于改进AI。本文提供了如何选择退出的具体步骤：用户可在隐私设置中关闭“Web & App Activity”或调整“AI训练”相关选项。此举引发了数据隐私担忧，提示用户应主动检查并管理自己的数据使用权限。"
+      "publishedAt": "2026-07-06T23:21:03Z",
+      "summary": "SK海力士正借助人工智能热潮实现业务繁荣，并计划于本周五在美国进行数十亿美元的首次公开募股（IPO），届时美国投资者将有机会购买其股票。作为AI领域关键的内存芯片供应商，SK海力士受益于AI对高带宽内存等产品的强劲需求，此次IPO将进一步扩大其全球资本布局。"
     },
     {
       "title": "‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU5sN0JqMFdYMXJHNUtVSWw3TXF5dDhOT1h3SWpiVWVlS1VBTktxZ2U3MzRjQlFuUVhJMFk1TlZleEwyUmJKWnJqZGFlZWZyTDltbUFTU2tjTnlKV2lPV3JuMzlYdHJ3QzVldHZoNEl3ajJseXpzai15eUxwTVdzaXdtVDIwNTg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-06T16:56:31Z",
-      "summary": "《纽约时报》报道，越来越多的选民在投票前向AI寻求投票建议。他们通过聊天机器人提问“我该投票给谁？”，AI根据公开政策和候选人立场生成回答。尽管AI提供的信息看似客观，但专家警告其可能存在偏见或简化复杂政治问题。这种现象反映出AI在民主选举中的渗透，同时也引发了对信息准确性和选民独立思考能力的担忧。"
+      "publishedAt": "2026-07-06T22:55:17Z",
+      "summary": "越来越多的选民在投票前转向人工智能工具寻求建议，询问“我应该投给谁？”这类AI系统可分析候选人的政策立场、选民个人偏好等信息，提供个性化推荐。尽管存在准确性及偏见等争议，但AI正成为选民决策辅助的新工具，引发对选举公正性和信息透明度的讨论。"
     },
     {
-      "title": "AI altering meaning of users’ drafts on issues from abortion to climate, study finds - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWNncEJkU2FCcXpPR3A3VjlfbmtINWxKdEZyY2NodFRoLXVsUDRNU0Z1MmtFVEhZVHJ1NEdEaEdYRXQ3T0ZlaTZOZkYxc1MySzM0UlNXZ2JUY0tSSVhBVVpUejZNOFRKRjdOZXV2OFBSLU8yNDdZSll3ZHVFbUdCWGpRbEZhTkt2VVRoQ1BGaFl1WEMzMksyUzZCZHhualhZQWs5Q3MzQWR0QXZWSnRjTGNmR3ZjdWZOdkdVMUNxOGduTE9ZeThkd3F3cjBnZw?oc=5",
+      "title": "Inside AI: Expert gives tips on practical ways to use artificial intelligence - WLKY",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEktTklPSDNkRmpGUzl2b1pOaUwzd240WVBkbWVwZDFvR1A5TWxWSjhrSURiUHNsdXlxa1F3WXQ3N1U2dndncjdzTTBYbHpmTk5KYzRZRGpYY1hTUlFQa05XRVJvcmxTRk5UVDNqSDJfMnFZSktzMElFdzdBdDN0aS1MSG9IZGxYTFBiS1FOX0Z5SExKdFVKag?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-06T16:49:00Z",
-      "summary": "《卫报》报道的一项研究发现，AI在协助用户撰写草稿时会改变文本的原始含义，涉及堕胎、气候变化等敏感议题。AI可能因训练数据中的偏见或模型本身的平滑化倾向，削弱原文的尖锐立场或模糊具体观点。这种“语义改变”会导致用户意图被歪曲，尤其是在社论或政治声明中。研究呼吁AI工具开发者加强内容审查与用户提示透明化。"
+      "publishedAt": "2026-07-06T21:45:00Z",
+      "summary": "AI专家分享了在日常工作和生活中实用人工智能的若干技巧，涵盖如何高效利用AI工具完成文本生成、数据分析、图像处理等任务。建议包括明确需求、选择合适模型、注意隐私保护等，帮助用户最大化AI价值同时规避常见陷阱，实现AI技术的平民化应用。"
     },
     {
-      "title": "Prediction: Following Alphabet, This Could Be the Next Trillion-Dollar Artificial Intelligence (AI) Stock Greg Abel Adds to Berkshire's Portfolio - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONWJvdkd5RERXcnI0anFoVlE2YWJZTTFGVzlpak9QSTd2ZWJvVEM2ZEVsbzNxeEFxX29MaDMxeEhNNVM4VUlvZ1ZyeDJRRmNVYjFDMVpLSXdsWmVzZ3B6NWRidExCS214Zi1paEtDRlg2SXdkeGlHcXR4MEhIQXptVWs3NDRlUk9mNUpQeUZ5dG4zWmNyN2Y4?oc=5",
+      "title": "Gov. JB Pritzker signs first-in-nation Illinois law requiring third-party safety audits for AI giants - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMNjVQQlpFam5wMzdoZU5Td0xxWW9VMDRnYzVOVVF6QTBCdjJkamZ4ODh6N2htWENHTVlZRVlqWXhUYW9HMkpTQjgwRmVZejdNYm5MYVFmSTRaSTdON1Z2cWNlaHBTaDZkbDB1bmY5Wm14Z0ozcHUw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-06T16:45:00Z",
-      "summary": "分析预测，继Alphabet（谷歌）之后，伯克希尔·哈撒韦公司接班人Greg Abel可能将另一只AI股票纳入投资组合，该股票有望成为下一个万亿美元市值的AI公司。文章未点名具体公司，但暗示其可能在云计算、自动驾驶或AI芯片领域具有领先地位。这一预测基于市场对AI行业持续增长的信心，以及巴菲特团队对长期价值投资的青睐。"
+      "publishedAt": "2026-07-06T20:42:41Z",
+      "summary": "伊利诺伊州州长JB·普利兹克签署了一项全美首例法律，要求大型人工智能公司接受第三方安全审计。该法案旨在应对AI系统潜在风险，通过独立审计确保算法公平、数据安全和模型可靠性。此举标志着美国在AI监管方面迈出实质性一步，可能影响其他州的立法方向。"
     },
     {
-      "title": "Prediction: Following Alphabet, This Could Be the Next Trillion-Dollar Artificial Intelligence (AI) Stock Greg Abel Adds to Berkshire's Portfolio - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMzFsZnpNSUloal9JWWItbzc4ZVlOeVJTVlMwRGdBQ0I2ME45Q0M2LWhDYV9HcmV1eWdIaFVqbUkwSFNFMm05NU91bEJ4QWl5NWxYbWtReUJ2anU0TThKV1dtYy0zZUllVzVBYzNLS0p4V1lTNHM3VDdBNTdfMW5HVjZUWDMxSVpMNXUwcHNJQnV0QzZnbEhlY1JEeURaUlJyRmpua01HVQ?oc=5",
+      "title": "Pritzker signs landmark AI regulation bill that aims to mitigate risks - WCBU Peoria",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmpUUGtMNmdlMlZoTG5DWjlGTHBnOTBPcVo1MERQM19CNENvNWczaG9kR3hsWkpRM1oxQVFTamJ2NlpTVS1SMTdzUVl1VnRxU0NOdjZnZlFOME1QeDk4NTVWZlhIZlRsSy1fbW9IWHBBTEdDTG9GaXpoWDlJcHhLMnpFWS1HcHZSRzVUUDNlSThjRGY3MWlKaTQ3NzNoWTBiempqcEtYVjEzSHpha1RxTjhsQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-06T16:05:00Z",
-      "summary": "据雅虎财经报道，市场分析认为在Alphabet之后，伯克希尔·哈撒韦可能由Greg Abel主导买入另一只AI股票，并预测其市值将突破万亿美元。该预测聚焦于AI领域的潜在巨头，可能涉及生成式AI、企业软件或硬件基础设施。投资者应关注伯克希尔后续持仓变动，以洞察顶级资本对AI赛道的长期布局。这一消息再次凸显AI行业在投资界的核心地位。"
+      "publishedAt": "2026-07-06T20:35:00Z",
+      "summary": "伊利诺伊州长普利兹克签署了一部具有里程碑意义的AI监管法案，旨在系统性地减轻人工智能带来的风险。该法案要求AI开发者对其系统进行影响评估，并建立透明机制。作为美国首部综合性AI安全法规，它为全国AI治理树立了标杆，平衡了技术创新与公共安全。"
     },
     {
-      "title": "American A.I. Companies Say Chinese Copycats Are Quickly Catching Up - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvWWhjV01HTEdydTBZQ0JXNEN1WlptQlE2OFNkekl6WmNGVWdiWGxITmRvdXNCdXpVSDdGYlZIaW0wSklwTjNJaWFMbHFnYnpMM3hjUjItcGM1cFhmSnJBM2hxNk5TOHlHTmZqS1FZTHE2UUg2SXR0N3hFZXM?oc=5",
+      "title": "How AI Legal Tools Are Empowering Consumers - Impakter",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Rno0LUJlaWVmWmR3NTh2b1FHa2lQMDJfbERrZGNMQUJyTVZsT2VmUGk0TkFXNVJUV2dOc2VOYW5VZFcwRmVxTTMzVlFNazVYWmFnMDNfMnNYcm95SkQw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-06T16:04:08Z",
-      "summary": "美国AI公司指出，中国AI企业作为“模仿者”正在迅速追赶，中美之间的AI技术差距正在缩小。报道引用多家美国公司观点，认为中国在算法复制、应用落地和市场规模方面进展显著，对美国本土企业构成竞争压力。这一趋势反映出全球AI竞赛的加剧，中国正从跟随者转变为强有力的竞争者。"
+      "publishedAt": "2026-07-06T20:30:22Z",
+      "summary": "人工智能法律工具正在赋予消费者更多权利，帮助普通人理解法律条文、生成法律文件、评估诉讼风险等。这些工具利用自然语言处理和大模型，降低法律服务的门槛和成本，使消费者能够更自主地应对合同纠纷、消费者权益保护等常见法律问题，推动法律服务民主化。"
     },
     {
-      "title": "Bailey campaign embraces artificial intelligence in new era of politics - WEEK | 25 News Now",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdy1RVUwtZkEtRnZhaVVHdWJEQ0V4Yk1NNGFpd0Z2MkN3YlFtMTJGQ0pFSzlVaVBhNmJKM0RLZmtEaTVuWEF2akJyakZoUlExTDl5djRFTUdhNHItYXpUb0NXMTBDcDNmVkFrQk5nVXFxX0JQcXRvOVNkcXRnMkFTZXFnaV9qazdVS1BQSkdLU1BYRWRIMGFHQWJNd2lmZVdTcnFiMHZB?oc=5",
+      "title": "Salinas launches AI assistance - Monterey Herald",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yRXJGZEZKaGl2Rmk5V215ZnpxTlktaUszR3dpYlBreWlLN2U0ZFZSdHU1UEhDVDVLZmdXMG8zUF8tUlk4dHB2SXB0RlpmeTMzcXRQazlvMEx4eE5BMTF5ZldSWnlvdHJGbXBVYnJuZTRrdXl1dms5WGNveFlBZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-06T15:59:00Z",
-      "summary": "Bailey竞选团队宣布在政治活动中全面采用人工智能技术，标志着AI正式进入政治竞选新阶段。利用AI进行选民数据分析、信息精准推送、模拟辩论和内容生成，旨在提升竞选效率和影响力。此举引发对AI在政治中伦理与监管的讨论，但也显示出技术正在重塑现代政治运作方式。"
+      "publishedAt": "2026-07-06T20:19:01Z",
+      "summary": "加利福尼亚州萨利纳斯市推出基于人工智能的市民协助服务，旨在通过AI聊天机器人或虚拟助手为居民提供市政信息、服务办理指引等支持。此举有望提高政府服务效率，减少市民等待时间，并借助AI的24/7响应能力改善用户体验，是智慧城市建设的一部分。"
     },
     {
-      "title": "Amazon’s ‘Artificial Artificial Intelligence’ Is Being Eaten by AI - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRno2LTJEOV9wT3VUekVUb2Z3Tlp3bjFGT3VSRlpHV2FJU2hhMUpqLVN4UDVFNFhOZmEya19EVlVfbDNQaHZfZEhvamQ1aVc1M3pUWl9zOUdGNGROZFlzZ2xBSTZZaHV2LTlqZUViMFhPQjVEajVfQzFxWmVEQlo2b3hGSllvV0lIRi1hQmFHZXJoTGQ4QUZVRHBB?oc=5",
+      "title": "White House Signals More Hands-On Approach to Oversight of AI Systems - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGg1RmhnNy1rbXUxbG5Ub0FwNnl4Vk13VEhmNDFRcnBJamQ2Qkd4Nm1XclphN3FKUThOUzRDY1lEa3dJQlZwTmc3YlY4Qkc5UDQtLWZaNjlaakUtZ0p1ME5RVFZJaS14OUU4ZGN0U2RZRkU4Ql9VU2MtRkMwUmV5NVVFdDhSdGI1bU9tTjN0cHloQndKNDFjODRHT2hTZm9pbmx5N29jV3laMG1vOXN2M3VmdTlDOHVqbUthUllUSlJkZFR4ZUE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-06T15:40:26Z",
-      "summary": "亚马逊的“人工人工智能”服务（如Mechanical Turk）正被更先进的AI技术逐步取代。报道指出，随着大语言模型和自动化系统的成熟，原本依赖人类智能完成的微任务正向机器迁移。这一趋势不仅改变了亚马逊的业务结构，也引发了对“人工”与“智能”边界以及劳动力影响的深层思考。"
-    },
-    {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-06T15:32:43Z",
-      "summary": "微软宣布裁员约4800人，占全球员工总数2.1%，主要涉及Xbox和商业销售部门。这是微软近期一系列裁员行动的一部分，引发市场对AI取代人类工作岗位的担忧。公司表示裁员是为了优化资源配置，聚焦云计算和AI领域，但员工和观察者普遍认为AI技术加速了组织变革和人岗替代。"
-    },
-    {
-      "title": "The State of Illinois Newsroom - The State of Illinois Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRy1rQUJTdVpsdlkzdURZZFdDODVIUERRZ0dfb25fejBqa20tX1AycTdfcHRHNVJRN1lDcVBYSGh5YjlWeFdsWWRfdFRJcWRMLWhNb1c4UGhIdDBFYUZLbzNlX3pHbU9pa0ZuOV9QeHdQdzlPTV9BMFF2Q3ZpU04xQ3NWX01zczdDLU1FeF90bFhhUTNGVmFUZUdaWnZ2ZFlYV3NXRUVZdXo4YkVyLUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T15:32:09Z",
-      "summary": "伊利诺伊州新闻编辑室的相关报道，标题重复提及“The State of Illinois Newsroom”。据现有信息，该报道可能聚焦本地新闻媒体的运营现状、数字化转型或公共新闻服务的变化。由于缺乏具体内容，仅能推测其涉及美国地方新闻业在AI时代面临的挑战与机遇。"
-    },
-    {
-      "title": "World Taekwondo pioneers IOC Trustworthy AI Framework - Inside The Games",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRkV5a2JQYTJQcmNaT3MwSHIwaTlfY0RPQ0hzMEVCN1VGVkZWMkdMYzNPRGNEMEhqbE90ZlZuX3B0XzJNX0NNeEpveURJVV9KVWEtQk1QRWxDdGtMcWc3dDNwVkU2aml1M2ttelA3aUxraVpVOW5hN29wRWFkeG9KOTBHeWxoaV9NX1lRVkw0OUlVYlFsdWFZWA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T15:22:34Z",
-      "summary": "世界跆拳道联盟率先采用国际奥委会推出的可信赖人工智能框架，成为首个践行该标准的体育组织。该框架旨在确保AI在体育领域的透明度、公平性和安全性。跆拳道联盟计划将AI应用于裁判辅助、训练分析和赛事管理，为其他体育组织树立了合规应用AI的标杆。"
-    },
-    {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-06T15:22:08Z",
-      "summary": "Reddit正在使用大语言模型（LLM）来对抗由LLM技术催生的垃圾信息泛滥问题。平台发现AI生成的虚假评论、作弊内容激增，传统过滤手段难以应对。Reddit以火攻火，部署LLM识别并清除AI制造的垃圾，体现了在AI时代平台必须用更先进的技术来捍卫内容生态的现实。"
-    },
-    {
-      "title": "2 Genius Artificial Intelligence (AI) Stocks Trading at Irresistible Prices - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSVk2YjIweXp5ZWlWMVRZUmNCYkVNdGI4angyVTZWa1lKVUE1cFBLaS1FQ3FyS0duQWZfUm53WGJJRTJDeEdtYlRQVXZXNGcyU01wQUFXZzd0VzBWU28yWTNCalBwek5KNGExY1JCdTgxRkZWbjJ4RHNwRFNCczVKSUFJQ21yWFlxY0VVWk9ZMWNPcG5qckRj?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T15:11:42Z",
-      "summary": "投资分析机构The Motley Fool指出，当前市场上有两只人工智能股票处于“不可抗拒”的低价区间，具备长期增长潜力。报告从技术壁垒、市场份额和财务健康度等维度分析，认为这两只AI股票被低估，建议投资者关注。该观点反映了市场对AI行业前景的乐观预期和逢低布局的策略。"
-    },
-    {
-      "title": "2 Genius Artificial Intelligence (AI) Stocks Trading at Irresistible Prices - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUkwc3ZzZllobE80MTRreXRYcUtRbUlnQ1RPc241Tk9PZ2gzZENhVEtyR1ZtcDljYnFzZjc5WHV4d1FtNmgtckF2aEE5aWJGUk9qU2FwVWx0Wi0yZm00T2J4U0ZHQzdDNk0ySC02bjFMZGlTeF9YdVQ2MUFtMTRBM3FteE95THRZbFZYdEVRQlMyLVFkY09YZ3lMa29HTElnM1E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T15:07:00Z",
-      "summary": "Yahoo Finance转载的报道指出，两只人工智能股票当前交易价格极具吸引力，被专业投资者视为“天才”选择。文章强调AI技术持续渗透各行业带来结构性机会，相关企业估值回调后性价比凸显。不过也提醒投资者需关注行业竞争和监管风险，理性评估长期价值。"
-    },
-    {
-      "title": "Artificial intelligence and leadership: how AI is revolutionising the organisation and the role of CEOs - Il Sole 24 ORE",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdVVvNldIei1iaXpKNk9PMTlXQzE3TlUzLW1EU1NPT3QtMHlZZU8xN3I2Zmd3TlRoM0V2a1JpRTVEYVhyVWlkZ2NNLWNSLXBXVGJHNkdaV2wyaUJHWUtyNXZIQWE1OGs2ZHgyMFAtN19CNDk0WUxVRFBwdHJsdXpIUEhtbkZ2cm91M2lYTlJzN0pJWUQ0YmVwRklJRDFuRThMSDNZcThHQmtLc3Bqb2FkX0dianpSaEViRlVSallQZjF6Nm1CajExSFczZGMxZ0hwQ1ZQaHl6Zw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T14:55:53Z",
-      "summary": "文章探讨人工智能如何深度改变组织架构与CEO的领导角色。AI不仅优化运营流程、推动决策智能化，还要求领导者重新定义战略方向、培养人机协作文化。CEO需要从传统管理者转型为AI战略的推动者，平衡技术收益与伦理风险，从而在变革中保持组织的竞争力与创新能力。"
-    },
-    {
-      "title": "Better Artificial Intelligence (AI) Stock: Palantir vs. Microsoft - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVltTG41RzhaVjI4QmNfbjVWRDRaRy1SbGRpdUFYNWc2cG5kMk5aQzhTN3g4SHJpRHpaNGVVTkk5VmUyNy00R2kycFlMcl9naUlKdEpjUk93SWNlTnJpdm52WVNPOXpZRzVfQTRMX0RoM2JlYmhJZ3IzS0xHV3pYbWZITlA1SjE0NmNKYlFkcjRsTDBkWjY4dg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T14:54:47Z",
-      "summary": "文章对比了 Palantir 与微软在 AI 领域的投资价值。Palantir 专注于数据分析和 AI 平台，其 Gotham 和 Foundry 系统在政府及企业客户中应用广泛，但营收规模和业务多元化程度有限。微软则凭借 Azure AI、Copilot 及与 OpenAI 的深度合作，构建了覆盖云计算、办公、开发工具的全栈 AI 生态，财务表现稳健且现金流充裕。分析认为，微软在 AI 商业化落地和风险分散上更具优势，而 Palantir 作为纯 AI 软件公司，在特定垂直领域仍有高增长潜力。投资者需权衡成长性与确定性。"
-    },
-    {
-      "title": "Prediction: This Will Be the Next Artificial Intelligence (AI) Semiconductor Stock to Go Parabolic - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUldHejJ0R3FqOUxtVG45WGtRVnpWR2lPcUZLTnJLT2F3SjQ2Wjd4VGFqaDc5VHJqckRmRS1pSThOY0hPSHlXUjdwbGRPMml3ekhWZjdMekZTQ012a0NqOXVscmg1cTY1RlFBYkNCaUdZU1lYczFlU2pyQlQ2Y0VUMUVtbHZoR3hPZXh5Y3BxaHZ6RDlC?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T14:45:00Z",
-      "summary": "文章预测下一只可能实现抛物线式上涨的 AI 半导体股票，暗示市场正寻找继英伟达之后的下一个爆点。候选者需具备 AI 芯片设计或制造能力，并在 GPU、ASIC 或高带宽内存等关键领域有技术突破。目前博通、AMD 等公司因定制 AI 芯片需求激增而受到关注，而台积电作为代工厂同样受益。但文章强调，这类股票波动性极大，上涨往往伴随短线投机情绪，投资者需关注企业实际的订单增长、研发进展和客户签约情况，而非单纯追逐市场热度。"
-    },
-    {
-      "title": "Artificial Intelligence (AI) Stocks Are Selling Off, But Taiwan Semiconductor Is Holding Strong. Is It the Ultimate AI Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2xRZ01XbjFtbE9YbktIMUhURGhuTzZUYlg4RzRIQjdqWFZIT1FJSnVQbDdCVmJZQ1BXeUYwdTNWX3dSeURCWFZuOGdfVDNlMUFUOVdsY0hQaU5kcG1JcUYzR1ZmRkZfU0pzRVR4dWlMcHp5TGpMRkdpenZZQTdoOWhrQ0VtdnZPcElxUkFnVW1VSVNzdk9UMXdxYW85ZlNrbkp0cTh4M05CUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T13:43:00Z",
-      "summary": "在 AI 股票普遍回调的背景下，台积电（TSM）股价表现相对坚挺，引发市场对其是否为「终极 AI 股票」的讨论。台积电依靠领先的先进制程（3nm/5nm）和 CoWoS 封装技术，几乎垄断了英伟达、AMD 等 AI 芯片的代工订单，业绩确定性高。但文章指出，过度依赖少数大客户、地缘政治风险以及资本开支压力仍是隐忧。尽管短期强势，投资者需考量半导体周期性、客户多元化程度以及估值合理性，而非将单一公司视为 AI 投资的唯一选择。"
-    },
-    {
-      "title": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZkRmUHRzNzdsLWFnc0dvQXdYOWF3SkVrQVFIWUFnNXU3M3BDV3FZcWRVbjNMRlltWTNSNV85ZEFBNTQ5RjA5MVZEVERkVHJvdmxES1lSdDFwVktMeEN3OVdDNkRGenExTXRqWDdmZG0wb1RoWFVjdldDSXpQY2FoY3M1Q05kel9waTI5UGxxQ2M5TmNsMHVCVUUzazFIUTU1N2dacGFDQ0xqLXN3bU9oXw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-06T13:42:52Z",
-      "summary": "摩根士丹利分析指出，AI 投资者可能将资金从芯片制造商转向超大规模云服务商（hyperscalers），如微软、亚马逊、谷歌。原因包括：云厂商在 AI 基础设施上的资本支出持续扩大，且正通过自研芯片（如谷歌 TPU、亚马逊 Trainium）降低对外部供应商的依赖。这一转移趋势意味着芯片厂商的议价能力可能被削弱，而云厂商通过集成 AI 能力实现更高附加值。投资者需关注超大规模企业的 AI 营收增长、数据中心扩张计划以及自研芯片的落地进展，以把握下一阶段 AI 投资的主线。"
+      "publishedAt": "2026-07-06T20:09:47Z",
+      "summary": "白宫释放信号，将采取更为主动的监管方式监督人工智能系统的发展与应用。这意味着联邦政府可能出台更严格的规则，包括算法审计、透明度要求以及风险分类管理。此举反映了美国政府对AI潜在风险（如偏见、安全、就业影响）的重视，旨在确保AI发展符合公共利益。"
     }
   ]
 }
