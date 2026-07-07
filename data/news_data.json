@@ -1,97 +1,125 @@
 {
-  "updatedAt": "2026-07-07 14:04:21 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-07-07 19:39:05 UTC",
+  "totalArticles": 17,
   "articles": [
     {
-      "title": "Big tech’s lofty climate goals wrecked by energy-hungry AI - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UTEEzUllHS1AwWDJwWkFvV0drWFNDcF9IbDlEODhNczBFLVF3WTRjelR3OF9ZZXl0QklwR1ZjbGoxTWxPT3pOTUhtOTNvWXVMd25tU0lISmpoM1U1Mk90UWZHUGxHQ0EzYmh3eDJXeUxtMnBXN0Fn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-07T13:13:00Z",
-      "summary": "《卫报》报道，大型科技公司因能源消耗巨大的人工智能而未能实现其宏伟的气候目标。AI训练和运行需要大量电力，导致碳排放增加，与企业的碳中和承诺相悖。这凸显了技术发展与环境保护之间的尖锐矛盾，促使业界反思如何在推进AI的同时兼顾可持续性。"
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-07T19:28:38Z",
+      "summary": "Discord 承认其 AI 审核系统存在漏洞，导致过去两个月内超过 8000 名用户被误封。该漏洞将无害图像——包括电子表格、棋盘、游戏纹理以及白色和灰色透明背景——错误标记为有害内容。公司证实该问题自五月起影响账户，现已致歉并修复。此事件暴露了 AI 内容审核在图像分类上的局限性，尤其是对非色情、非暴力内容的误判风险，提示平台需加强模型训练和人工复核机制。"
     },
     {
-      "title": "Senegal co-chairs UN AI governance session on bridging digital and artificial intelligence divides - Tech Review Africa",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd0pVSUFxbFN3R195U19uR1RySWFjWmRlck1JOV9wcHJPTmdHMUNEZFpYQmo4VU0yWENYWi1FQzlzRGdtTGNLdjRRUy1KNkxCVzVhRFhDMnB2d1ZxVWpuNGJERFBSN3hHUU9TYUZwcG1qY3ZKVGUtcHliVEtoODQxYkVDc0pfOTBWZDBGRVY1NlZaR3RVNEpmaVl2UGZacnRoOE50TmozRjJ2U0Z6bTR1SGVrcFFMTmRTNllTdXJobUp5OTZ3Q1J0c2NqYWV3Q3ZlY2U4?oc=5",
+      "title": "Tyndall Airmen showcase AI innovations - acc.af.mil",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGo5R1J2WTRRYy1nNFlmVlNkcndSTzBwM0xuSXRES0NIaGdFcDQtTnFWVVVoalp3dVZjeWVhbGJ3RXR4R2xudWpuc1dYTE9ha19Wa0VxWjR5U1lZV1dvRnRQcnVuNXJadlBOUUZWdE5SRUdZc1hseGNrelBSMkttOVZLYnIzWDh3RFdURm1XYkdBZENjalVhVEFFN0NNTnZ6?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-07T13:05:08Z",
-      "summary": "塞内加尔共同主持联合国人工智能治理会议，聚焦缩小数字与人工智能鸿沟。会议旨在促进发展中国家在AI治理中的参与，确保技术红利公平分配。塞内加尔的角色凸显非洲在全球AI规则制定中的重要性，讨论涵盖基础设施、人才培养及伦理框架等关键议题。"
+      "publishedAt": "2026-07-07T18:01:24Z",
+      "summary": "Tyndall 空军基地的飞行员展示了多项 AI 创新应用，涵盖军事任务规划、数据分析与自动化操作等领域。这些成果由 acc.af.mil 报道，体现了美国空军在利用人工智能提升作战效率、优化资源调配方面的前沿探索。展示项目可能包括基于机器学习的威胁检测、无人机协同控制以及预测性维护系统，旨在将 AI 深度融入军事行动，增强战场决策的准确性与响应速度。"
     },
     {
-      "title": "Stymied datacentre projects threaten global AI revolution - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzVFeW9kTVRJQ3FyUmExcTNSbkJMejRqQUlRbGZ2NjVOVUM0eENtWXhIMXltR00taTQ0VGNNQXo1czBtblhFbnFWbUN4WFFydE1hWk94dlpXR3V3ajFmX2JtbUxYclpiYXJKTXc1UDF0eVVjZDVzczVGQ2N3NzY0eWFwY0oyU2ZhcktkRXY5VDA3cUdjdFhWMmRtVGRHSzhxdThHYXFfZEtPNE1t?oc=5",
+      "title": "Why the Future of Customs is Agentic Artificial Intelligence (AI) - IT News Africa",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOXzVmM1FhcFVBYl9VeW1zaGNIZFo5OHpMTk5na19KcEZ5Szlhb2RxLVhaX1RUekdlYU1YQk0wT0R5VkVlT20wRF9VYWJXWHBWaFJDN0JVREE0dFZjc1BxNXpmblBMamR6NDRFZTd5OEU4WWpfQ09ydFk4T0dLR3BOQ3RfUHZaak4zY1ZUV2JFTnFNUVUwMDdZSENRbV9Jd1FlY3Yw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-07T12:57:00Z",
-      "summary": "《卫报》指出，数据中心项目受阻正威胁全球AI革命。建设延迟、能源短缺和监管瓶颈导致算力供给不足，可能拖慢AI创新与应用步伐。业界呼吁加速基础设施投资，并解决土地、电力及审批流程中的障碍，以支撑AI产业的持续发展。"
+      "publishedAt": "2026-07-07T18:01:14Z",
+      "summary": "IT News Africa 文章指出，海关未来将依赖“代理型人工智能”（Agentic AI）实现智能化转型。这种 AI 不仅能分析数据，还能自主执行决策、协调多方系统和动态调整流程。在通关环节，Agentic AI 可实时评估风险、自动处理低风险货物、优化查验资源，并与其他国家海关系统互联。文章强调，代理型 AI 将显著提升贸易效率与边境安全，但需解决数据共享、算法透明度和责任归属等挑战。"
     },
     {
-      "title": "Beijing is looking at curbing overseas access to China's top AI models, sources say - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNEpzakxNelQ5TmRoYUUtWXB6UkxwbWM2WDVrZDh1SzU5QlItNTdSMGxoMS1lbFZCel9CSFdKRnB5dEdpa09aVUc0M0Z1bHdwam50c3NzMnJYa2lieXZ6OUlfOTJJNExDeG85Wm5qQUVDRUNhVkp5aVpVMmNKdkU4TzhfREpvZG5LUmVpNTRPaWlWUmE1blRCR1hMZzdOejBaNmZfaFFyS2U0S2pNU0pEbGdLa0tpVm0tNnpjc00tMzJWcEtVblRvY0hia1pfdzRB?oc=5",
+      "title": "Anthropic is launching Claude Cowork on mobile and web - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDVDSGhCMDRHZHRmVzJkOGI0ZkJwYmd5ZC0xVzJOemJaUk5ZVVNQNmRUVFJMdWdjOThSN2M2ZHE0UzBmSEUzQXdPR0VwTllxTkZ0X1A1bGQ3QkI5QVdlWmhIbjVSRW9hYkhZVnRZdFdrQVdGMmd3dTZ2SC1IekhqeHZCbE9FZXJfbkZ1S1NEN21jaDZRbHhxcw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-07T12:40:39Z",
-      "summary": "据《香港标准》报道，消息人士称北京正考虑限制海外访问中国顶尖AI模型。此举可能涉及出口管制或访问权限收紧，旨在保护关键技术安全与数据主权。潜在政策将影响全球AI生态，促使国际企业调整对中国AI技术的依赖策略。"
+      "publishedAt": "2026-07-07T17:46:59Z",
+      "summary": "Anthropic 宣布推出 Claude Cowork 的移动端和网页版本，扩展了其 AI 助手的使用场景。用户可在桌面端启动任务，通过手机查看进度，即使关闭笔记本电脑也能随时获取最终输出结果。该更新旨在实现无缝跨设备协作，支持用户在工作与移动场景间自由切换。Claude Cowork 延续了 Anthropic 对安全可靠 AI 的追求，强调对用户指令的精确理解与任务执行的连续性。"
     },
     {
-      "title": "Three northeast Louisiana parishes launch AI pilot program - KNOE",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSl9DQkE5NWc2UnlHR1ZaVVBNalZjOFRTRG1ZeWlReXkybnZoeUZLSzFxSnBuVHJLeU04MTFNd0lCbjBkVWExbExxSmx3bnloYmNGTW9iX1k3RFRKcW5aMHB3OWxETldjc3RSV1JBTmRWZ2lPVGZRdy1uV3ZwZGlSRE9ISmdVXy1heFMtYjNoWm9aeHMxaHfSAaoBQVVfeXFMTThnYk1FVVFLV1FJdDU4OXZGLTdLUEozTml5UURkaHdOcElOTTRPSUplNWtfLW9mR0JyNXZKUWc0Y2Zsd0gtdmlOamdiOXRVTXlraUZxbWdybXZuZHIyTjlWenRVMG1CdmtfQ3d4RmlTR1gzckN0SFdZOWMtc3NFdkplNnJPUFc0Vjl6bHBXUDd3WkZOLXlwRHBhM2ZWaDU4MTZySm15ZExKTEE?oc=5",
+      "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcUctbFlyTEtNRkExNTlJbHdMelFvUmY5MGcwQVh6M1dDUGFtR1lxMjRlNFoxVkM0WXBicFJTQllvTzRsdmN2WEZIZTZITXN6OHFoSjZ5MEZhWUFYTVJEX2NnMWRPSHNQamFYNkw4dHRTSGRWNXl5aTJMUE0wV1Q1VV9vQ2F3amItdEhnZEtJNHdPOFJRNFRGOTVlaGJ4c2JMY2VaZ0syaHNrQ1Zfa3BWNXRVVHQyUURMUnVFUw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-07T12:18:00Z",
-      "summary": "路易斯安那州东北部三个教区启动人工智能试点项目，探索AI在公共服务、农业或教育等领域的应用。该计划由当地政府与科技机构合作，旨在利用AI提升效率并解决区域性问题，为后续推广积累经验。细节待公布，但已引发社区关注。"
+      "publishedAt": "2026-07-07T16:49:09Z",
+      "summary": "AWS 与 MLflow 结合推出基于 Amazon SageMaker AI 的监控方案，用于监控判别式机器学习模型。该方案可实时跟踪模型性能漂移、数据偏差以及预测准确率变化，并提供预警与自动回滚机制。通过集成 MLflow 的追踪与可视化功能，团队能方便地记录实验参数、比较不同版本模型。此方法有助于企业确保生产环境中 AI 模型的行为符合预期，降低因模型退化导致的业务风险。"
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-07T16:27:18Z",
+      "summary": "Claude Cowork 扩展至移动端和网页端，让用户能跨设备无缝处理工作任务。用户可在办公室电脑上启动任务，通过手机查看状态更新，并在笔记本电脑关闭后继续获取完成结果。这一功能强化了 AI 工作流的连续性与灵活性，适应现代远程办公和频繁移动的需求。Anthropic 强调该设计旨在让用户随时掌握 AI 助手的工作进展，无需守在设备前，提升协作效率。"
+    },
+    {
+      "title": "Where Medicine and Artificial Intelligence Converge - New York Institute of Technology",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYm9OcHdIMjNBMVpleHFIdGxhOXZFRHhkUTlsdXVLenpJcFVMN0dvZE5MOTJIbTk4TXdoMF9KRktNNmxWdHBHcF8wWUk0ei0taUxEdm9RNDdLX2czSHJSbTc3cWRTLTB6UjZiZGp2LWxONzNoSVU0b2ctWk92OHJiSzRGS0ZNTTh6a1NSaUdsR2M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-07T16:18:44Z",
+      "summary": "纽约理工学院探讨了医学与人工智能融合的前沿领域。文章阐述了 AI 在影像诊断、病理分析、药物发现和个性化治疗中的突破性应用。例如，深度学习模型可精准识别肿瘤、预测疾病进展，而自然语言处理技术能辅助临床决策。同时，文章也讨论了数据隐私、算法偏见和监管合规等挑战。该报告强调跨学科合作的重要性，认为 AI 有潜力重塑医疗行业，但需在技术创新与伦理保障间取得平衡。"
+    },
+    {
+      "title": "'Organisations need to own their own intelligence.' As AI heavyweights like Alex Karp and Nikesh Arora warn enterprises against over-relying on frontier models, Gnani.ai Co-founder & CEO Ganesh Gopalan says he has been making the same case for years. - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTJaanZxcVVzVHBSTmpqNEoydmtWM1M1dDVfejZxZGFzT0VsNnIzU25vOHhrbklUbVRQNFZ5dFBuNTdZY0xkSmF5bE9EdnU0S0MtZGVFYzVDZnJ1NWo1YW9nVUMtaXVyaWdIdGplN2MyRzRsTl9tVEV5WlNFR29FMVYxb0lOXzdReW03UTNrS0kwUFZBSTNRRUItYjQwaldYWkkwLVJKeVg1VkgzQlptNDRYdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-07T16:06:51Z",
+      "summary": "Gnani.ai 联合创始人兼 CEO Ganesh Gopalan 呼应 Alex Karp、Nikesh Arora 等 AI 重头人物的观点，警告企业不应过度依赖外部前沿模型。他指出，组织必须拥有自己的“智能”，即通过自建或定制化 AI 模型掌控核心数据与决策逻辑，以避免供应商锁定、数据泄露和模型不可控风险。Gopalan 强调，这一理念他已坚持多年，未来企业应投资自主 AI 能力，构建差异化竞争优势。"
+    },
+    {
+      "title": "Ukraine to pick AI models operated without provider control, official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXFZMWJlWElfUWozRi1lMGJFYVZQRHRfMTNBVkhLc2tSeWxkUlVEOW9YTG9ObXQ3TS1TOUNNcUE4QmNmQ1NlUlBSdUdiU1NOcTNnRTdGbU11SXpVXzhHaGhpaUp6OUNtYU14eFVYSHoxUGVFZ2JESklfTkx3RWs5dm9RR1RwVkFodTVTb20zYVRYM1l0S1RxNjVBbXJfekFXbUJmUXp5SzFQWjJiYlMzdUlDYVYta2o5VFdnVlNoSHU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-07T16:05:44Z",
+      "summary": "据路透社报道，乌克兰官员表示将选择不由提供商控制的 AI 模型用于关键任务。此举旨在确保模型运行的安全性、数据主权和决策自主性，避免外部干预或后门风险。乌克兰考虑采用开源或可本地部署的 AI 系统，尤其在国防、情报分析等领域。这一政策反映了地缘政治紧张背景下，国家对于 AI 技术供应链的警惕，以及对于本土 AI 能力建设的重视。"
+    },
+    {
+      "title": "Beijing weighs curbs on overseas access to China's advanced AI models - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ01FZ0F3RHV3dTZaTEw2amhacTBOX2FqcU42c1V2eWdtYUJHaFhUU00tdnpUX1pMSnJTOVFCaHdHbktyX3NvWFFCX3ZJQWc4S3UzN3lvd19mTmNYamFaZEQwVGdlNzRtLWVZaEJhMHkzNUY4bF9QSllNRXFYdUhyYVBvdTI4LUZ5d3FEZ3VwbXYzaE15RlB5Tl94dmI1Q3hjOGJYaDdsTm14cTMyY3BBVXhwa0F0LWJTUldMVmdhN3lLNkRKd3psLWI2V3Q3a0F0QllMbUdqMzV1am1QTWZQd29SLUlqQ2tjVHpQOUttd9IB9AFBVV95cUxQWmE5RXhzR3NvVU5jZVJ5UVVOZk9DT3c0M0xlb1ZIQ0FILXR4QmNZbFF0S2hUcHNiUmtDU0RLT3E0QkJPNFp2WDliQzFfQWFtemd6R2VsSUpkNnVEeUpvbGhpdGpGVVN3NFhpTFRwbEw4al9nZ1V4Z0d4Qnc3N2k4OU5ndzNIZVotRFpBWWdEd1hFR1A0VGhsNVFPSlZPN1FNaVByaEg1bGI2bmc1OVRUZWluT2R0OTZENHN2bzRaQ2Z6RXR5WFlxQmNabDVMcnlQaVNhN2dyOWJmYmdCQzBzMXdreDFQMHNOY1dLa1dNUHBwMWs1?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-07T15:51:06Z",
+      "summary": "据 Business Standard 报道，北京正在考虑限制海外访问中国先进 AI 模型的措施。此举可能涉及出口管制、许可证要求或技术封锁，以防止关键技术被用于军事或情报目的。中国在大型语言模型、计算机视觉等领域取得显著进展，部分模型性能已接近国际前沿。政府权衡开放合作与国家安全之间的平衡，旨在保护本土 AI 产业竞争力，同时防止核心技术被滥用。具体法规仍在讨论中。"
+    },
+    {
+      "title": "NScale Lands $900 Million Credit Facility for Global AI Infrastructure Push - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUdsMnBON0t4SEdLVmVMRTlvRGJ3SWl3bUV3S3FMZ2czRmgzVmJ6OHp6d2huQ051b0hBZERjbFZvTlE1MTV0QU1GOF9EN2hEY3Noc2FzZEE3czduUGFVQllxTUlJVU1SdzVuZDBKNkI0dHJ6VmJXLTZwUnlmUjc1eWVwbVdVTzdqZXFZdzFheWNUX3phbG9uekhWY0IyYnZHZGhCa1o0eHRVbnZWSlp2NGpqVnU3UmpHNFIwY0MyS3Myck9yeGF4YWJrTVk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-07T15:49:56Z",
+      "summary": "NScale公司获得9亿美元信贷额度，用于推动全球AI基础设施建设。这笔资金将支持数据中心、计算资源等关键设施的扩张，以满足日益增长的AI算力需求。此举反映了AI行业对大规模基础设施投资的迫切需求，也表明资本持续看好AI基础设施领域的长期增长潜力。"
     },
     {
       "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-07T12:09:22Z",
-      "summary": "路透社独家披露，北京正在考虑限制海外实体访问中国的顶级AI模型。据知情人士透露，相关措施可能包括对模型输出进行审查或设置访问许可。此举反映出中国对AI技术主权的重视，同时可能影响全球AI合作与竞争格局。"
+      "publishedAt": "2026-07-07T15:37:45Z",
+      "summary": "据路透社独家报道，消息人士透露北京正在考虑限制海外对中国顶级AI模型的访问。可能涉及模型出口、API接口或技术合作的管控，旨在保护国内AI技术优势和国家安全。此举将对全球AI生态产生重大影响，进一步加剧中美技术竞争，并可能推动其他国家调整AI发展策略。"
     },
     {
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-07T12:00:00Z",
-      "summary": "Savi公司推出一款应用程序，旨在保护消费者免受逼真的AI诈骗，例如冒充绑匪索要赎金。该应用利用AI检测可疑通话和消息，并已获得700万美元种子轮融资。即日起在iPhone和Android平台上线，有望提升用户对新型数字欺诈的防范能力。"
-    },
-    {
-      "title": "Opening remarks on sound practices for artificial intelligence - Financial Stability Board",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVmJ4Q2FHYW1lM0hoRkF5bTkzMl9FX0JKeFR4ZFBUblUyajRqRlNQdk9QTE5UTTc2eFVKT3RVNGIzZXdxVlFSOHBHcGdmWkFmMkNsV2xMV09IcGJQd25RRGlCWFpDRUxPV0VzSTRVUjEzSEhOZzNFQXN1X0VTVnp1a2NvekFoa0JsZVQzMlgtQTVfRDlTZEE?oc=5",
+      "title": "Norm Raises $120 Million to Expand Legal-Focused AI Offering - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWDhvUTJzYTVqMEtycHR4N3pxQ0ozaHUxZ3lJbEUydG5pZTBLQkdYZnd6LVZGZzNrU2Vld0dYXzZVZDdXYzlMN3B1c3BCa3VDZEt4ajZfNTVqZzlIX0hocnJSNWlLRUpvQkQ1NjJGeEg0TXd4YXhEMnoxYTlLN1JYVDNxWmN4S1d1dHlsYUV0VlF3d1NhVFo2aWtyVTAtb0FKVkJCWk9IeFdOVTZRUWVZbE1rZFUxbVJkVlZyVXNOMA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-07T11:09:53Z",
-      "summary": "金融稳定委员会就人工智能良好实践发表开场致辞，强调AI在金融领域的应用需遵循稳健原则，防范系统性风险。讲话指出，监管机构和行业应共同制定标准，确保AI决策透明、可解释且公平，从而维护金融稳定与消费者权益。"
+      "publishedAt": "2026-07-07T15:24:56Z",
+      "summary": "法律科技公司Norm成功融资1.2亿美元，用于扩大其法律领域AI产品。该公司专注于利用AI自动化法律文档分析、合同审查等流程，提升行业效率。本轮融资将支持产品研发、市场拓展及团队扩充，进一步巩固其在法律AI市场的领先地位，也表明投资者对垂直领域AI应用前景的信心。"
     },
     {
-      "title": "Companies traded people for tokens. The returns haven’t shown up - AI News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQWFhtZWtiM1VyM0VWb0ZYNDM0Q0Y0ZkZmcndGMlJybUpIV3MwUWYwdDBTMnJBaUVURnMydHRlZW1fLXpvOGYzMTVnbW9SQk5zTFZybEJpUzdJZ3AtLVZCdWRqOThzNGNtaThjcWVhdllEbWRrN2cxc0Jsck9rQQ?oc=5",
+      "title": "Cybersecurity expert warns China's AI advances could intensify global tech competition - WPEC",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOR0RuR1BKenFNYVJQMVEzc1NLMG93NHVLSXp2OURmRzZ6OHhKbTl4SUgwV2FzV2RvZzJJN1R5QUdIWFVENlZKeUd6MWtXRFNPUmpfcVUyR3NteFhTbjljbVFTZThLb19YbUgxSXpaQXF2ZEZKZElETVZBRUx6aUdYblFmZ1Z4NmpqRmdPUEk5TEQ0eWlEVEhIeExvNVlKdWNGMDNENGJSMWZEWmxSZDhPT2ZZU2Rhcl9QMDB4V3dJOTBENXR6NHM3WDNQelowWjN4TkFfMmc5Z0tVUmtxZ1Z2ajEtSTNITWF3SUhvUXJUTjZqZFBpUjQ3RVJ0R2xmckgtSERsMDBmY2dlUGU1WDU5MFpIdU1ZZ1d0NlVYY1FEUnU0ZEJLc196RlBLUWRieDNYNnpQMmMtd0RQcGs2cEF1RmlzTjRIc2ZaTVJuSW9lU1gtVC1Sbi1TSGNDVTlPMUFuMjRPWW1XckduUQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-07T11:01:25Z",
-      "summary": "AI新闻报道，一些公司用代币替代人力进行交易，但预期回报并未显现。这种“人换代币”的模式未能带来业绩提升，反而暴露了效率低下和信任问题。分析认为，盲目追求数字化而忽视实际价值创造，可能导致资源错配和商业失败。"
+      "publishedAt": "2026-07-07T15:00:36Z",
+      "summary": "网络安全专家警告称，中国人工智能的快速发展可能激化全球科技竞争。中国在AI算法、应用和基础设施上的突破对西方国家构成挑战，可能引发新一轮技术军备竞赛。专家呼吁各国加强合作与监管，平衡发展与安全，避免技术脱钩带来的风险。"
     },
     {
-      "title": "India's 5G performs well on speed, but falls short where AI needs it most - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdjBtbzltMHU4NGZMaU9rRmhPdGVqRmhNNGNWLU5xXzcwNEQ3MmFHS0JOcjhvMkR6M1NscFBNaXE2T2h3LWRFaE5LV0xKU1ZoVUJKWnJsaXlfOFV2d1ppNjNqSUZMT2FfeFVUZzFkZmE2WXpPU0ZBcDRuZHZqX2k4d205QnU5THVheGFLeHBGZHFNbnp0MDB5amduYV9FbzF0VG1sMWVpeGtvekczbndySzFfbk92cG9BZ3BrNmQwd080Ny1RSzhnT3NyWFpLVl9fdlBfckw3cTHSAd4BQVVfeXFMUFNoWnJyc21NMjZNdHAtQTZDWkpKNTZIZVhZMkVVbGg2MExKeVFXbnNQYW01T1B1dlJoWEwxbmc3M2I1ZmZESDFMLWxzYVNKNDUyT01OTXlRazFJRWJENHh6T29lU09pcVFPcFU4Uy1FcVJQNjljUGVOSHJNamI5V2sxazV3Q05HbzlqUWI5ZkFpejNVVkpBT1I5Yy1jU0pMRk9hUV9YSjh5RFFabDlfWm1Ca2ZDaFc1eDR3cHdPSFBld0xvRnV5bWVITnRjdExTZWZmRTdsMTBKSVVGNTlR?oc=5",
+      "title": "Labor market remains in ‘slack water’ state, economist says - Trucking Dive",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHRrSy0weFNjaHNxdGl2amhtbTh4SmNySjVsNjBFUTNhNUQ5cTBheEJRZXBLZVFqeGRPQmhhVVBSVnFXVC1HYmtLOXNnOHdqVlZBbnRZSUJ6X1FhOF9Ja0VyUzlnaTVFdm1BMkZzNEtVLUJPZnBKdlVDSzV4Q0M3RDZrWk4xaHhHZ0RVb2RQd1pMY1k3Z20yeVBoendVQU0?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-07T09:31:06Z",
-      "summary": "印度5G网络在速度方面表现良好，但在人工智能所需的关键指标上存在不足。低延迟和高可靠性是AI应用（如自动驾驶、远程医疗）的基础，而印度5G在这些方面仍有差距。报道呼吁加强网络基础设施优化，以支撑AI时代的更高需求。"
+      "publishedAt": "2026-07-07T14:45:06Z",
+      "summary": "经济学家指出，当前劳动力市场仍处于“静水”状态，即就业增长缓慢、招聘需求疲软，但尚未出现大规模裁员。尽管部分行业有复苏迹象，整体就业市场缺乏动力。这一状况可能持续，需关注政策刺激、季节性因素以及AI自动化对就业结构的长期影响。"
     },
     {
-      "title": "Alpha School, using AI technology for student learning, seeks to open in Greenwich - Greenwich Time",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVBHcjM5MVdCQThkU3J1eTZFZVFJNEhsXzZZQ1FnV2RnalFhVklOQUpWZ1dtaTVkQmc2TmpSc2phenZaSE9qWlhxRDY2NWtSdUxSV2NHMS04aW0xY3pvVTRoSDZ1S080NEpYNTVoTE1RYTBNVFlENW80ekwzckxiWlhtcVhxX1J1ajZVM3Z5LUprcmJ1bFkxQW41TQ?oc=5",
+      "title": "Fractal selected as preferred services partner in Claude Partner Network - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOR2RWeTBQaTNUeVZWdlp1MTlma3hwdXJqLUttVHdoanZUcVkzcW9KTUwxTkR2cktfdnNNdzhaYUgtdzFlQnE4TWk1Uy1FT0xWYzJheE1GajlBQUFta3c4Uy1xYXpxc3A4WTVXLXJ4cFJNSXNnZkNmMm8yUS0xdXN0dVF2cUlNclFuSlJoNlB3d3JFUzRaTGZMMjZWeXVHVjBNMVA3T2NjRUZTZWFGaUY5TS15aWxxb1N0VDQ0V18tYkF3SUpDamhiTVQtN3RZeGtzOG1ncTR1REg5UVhDemp1TkprbTN5Y19JTnhnVUNUNVFPSEXSAfgBQVVfeXFMTUtVTnY2UXFLa2ctRF9yTzdtN2w3VGY1ZnVKMkg4SEdXT3dXWUFyRU9tNkJiNE5kcTBuWl81RDBfUXBIMXB6bDFrQkstb3N1TGRrRlpmTTVoZG5QVVRnaDhNTDllcDBYTlJIdVVxYmpDVlNSU2VyV1JkanYybjRZbG5kMVdsTGdraEJBMTltZFlHc3QySWlCOEdLbHFMUjhYYVdTdGIxOHgtVWtzTnJrc0JtSmphX0ZPZWJFdG9zb3hodnNoSFpLOHNTemF2ZEw1U1FoYUNOWWNjS1llSzVrRVVodnM5bkZOVndqZUtZd0s5WTJhSlo4UDk?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-07T09:09:07Z",
-      "summary": "Alpha School计划在康涅狄格州格林威治开设一所利用人工智能技术辅助学生学习的学校。该校采用AI个性化教学系统，根据每位学生的学习进度和能力调整课程内容，旨在提高学习效率。这一创新教育模式引发了当地社区的关注，学校正在申请相关许可，若获批将成为该地区首个人工智能驱动的教育项目。"
+      "publishedAt": "2026-07-07T14:17:59Z",
+      "summary": "数据分析与AI公司Fractal被Anthropic的Claude合作伙伴网络选为首选服务伙伴。Fractal将利用Claude大语言模型为客户提供定制化AI解决方案，尤其在数据分析、自然语言处理等领域。此举有助于Fractal提升AI服务能力，同时扩大Claude在企业级市场的应用，体现大模型与行业咨询深度结合的趋势。"
     },
     {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-07T09:00:00Z",
-      "summary": "美国公司Forterra已向乌克兰冲突地区部署超过100辆自动驾驶全地形车，标志着美国自主地面车辆首次投入实战。这些无人车辆用于侦察、后勤运输和战场支援，能够在不暴露人员的情况下执行高风险任务。此举展示了AI技术在军事领域的重要应用，也引发了对未来战争形态的讨论。"
-    },
-    {
-      "title": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcUsybFIzUm52MzB0a3hDUnNBeFdWNXhWMm54LUFTSW9mUmFkYUp0azFDZ1NEbHhKQWpub2NOYmxneE94ZUxheHBxVDdaemlibUNqQVl3MVVQN1puNHhJMkZ6MU41MGxFWXF4YjQxbEZqTlBGcTdadk95eGFPZ0RhT3U4RkRrbDFKMnZUTjFzMG1GM3lTMUN4TQ?oc=5",
+      "title": "Big tech’s lofty climate goals wrecked by energy-hungry AI - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UTEEzUllHS1AwWDJwWkFvV0drWFNDcF9IbDlEODhNczBFLVF3WTRjelR3OF9ZZXl0QklwR1ZjbGoxTWxPT3pOTUhtOTNvWXVMd25tU0lISmpoM1U1Mk90UWZHUGxHQ0EzYmh3eDJXeUxtMnBXN0Fn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-07T08:26:00Z",
-      "summary": "《Motley Fool》精选了三支具有“百万富翁制造者”潜力的人工智能股票，认为这些公司在AI领域拥有强劲增长前景。文章强调，随着人工智能技术在各行业的渗透加速，能够把握AI浪潮的核心企业有望实现指数级回报。不过，投资AI股票仍需谨慎评估技术壁垒、市场竞争力及潜在风险。"
+      "publishedAt": "2026-07-07T13:45:00Z",
+      "summary": "据《卫报》报道，大型科技公司此前设定的积极气候目标正受到AI日益增长的能源消耗的威胁。AI模型训练和推理需要大量电力，导致科技公司碳排放上升，难以兑现碳中和承诺。报道指出，若不采用更高效的算法和清洁能源，AI将持续拖累全球气候行动，迫使企业重新审视技术发展与环保的平衡。"
     }
   ]
 }
