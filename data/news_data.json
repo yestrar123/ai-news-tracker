@@ -1,48 +1,104 @@
 {
-  "updatedAt": "2026-07-08 05:12:56 UTC",
-  "totalArticles": 6,
+  "updatedAt": "2026-07-08 08:06:26 UTC",
+  "totalArticles": 14,
   "articles": [
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08T08:00:00Z",
+      "summary": "法国AI初创公司ZML近日发布了免费软件ZML/LLMD，该软件能够加速多AI芯片上的推理过程，有望显著降低AI运行成本。该公司由图灵奖得主Yann LeCun背书，备受业界关注。ZML/LLMD通过优化芯片间协同计算，提升推理效率，为大规模AI部署提供了更经济的选择，尤其适合需要跨多芯片处理复杂模型的应用场景。"
+    },
+    {
+      "title": "Healthcare and AI are in Need of Relationship Counseling - MedCity News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdE8tblBxVFBYTW1hd0NRSDROTDJGdm43WW5uUjlSa1B2RTJBNXktYXRqTDBINDZzTXBSN2VjZnhCNE15UEphempYQ25UakFTR25qWGZia2RTNnEyV2gwRGF1dmhaeTlGQVJ3WXlaZFJyQU9vNnB6cEVDV2tSZHJ3ekNhQ2RQM0g5YlQ5MjVyNm5EM0k?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T07:52:30Z",
+      "summary": "MedCity News的一篇文章将医疗健康与AI的关系比作需要“情感咨询”的伴侣，指出两者在融合过程中存在沟通不畅、目标错位等问题。文章强调，医疗行业对安全性和可解释性的高要求与AI技术的黑箱特性形成矛盾，需要双方通过更深入的合作、数据共享和监管对齐来建立信任，从而真正释放AI在诊断、药物研发等领域的潜力。"
+    },
+    {
+      "title": "2 Artificial Intelligence (AI) Memory Stocks to Buy Hand Over Fist in July - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUN0YXFqRGEtZXNPeXkzSWFrVmUzZjhfZl9fb3ZxbUhCbllYMkZBa2JVbHdWaTFfZXpCb01CVFVxUkpTcnFTaDA4al9vRkJtTTFSWE8tei1ENlNPQ1JJbFhwY2xjQU1lRVNheE1DdnNaQmZwTlludGx5UUstVzFoSHVRNk1QRGNsSS1PWl8yd2lvbnNsMnVZTFdBMWtyZUhR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T07:45:00Z",
+      "summary": "Yahoo Finance在7月推荐了两只值得买入的AI内存股票。随着AI大模型训练和推理对高带宽内存（HBM）的需求激增，内存芯片厂商成为受益者。文章指出，AI应用推动存储芯片从传统DRAM向HBM转型，相关企业有望获得强劲营收增长。投资者应关注在HBM技术领先且产能扩张的公司，以把握AI时代的内存需求红利。"
+    },
+    {
+      "title": "2 Artificial Intelligence (AI) Memory Stocks to Buy Hand Over Fist in July - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVQ4NGl6TXprOUtfX0x3TVFVcEtaMmdaTl93TUZBUnBFUlhjTU1kM3oxc1V1dzRQX0J0aWpBVnRVeXlkbHVDVnd3d2QyRzlQRzZmX3g4ekFpQkpWZ25YTHRvRmxQNnQ3enRJazQxM0dBeUNYdFNHYm1PbEcwNFRKSmt4X2JvQmtkck5IMGFZNGRlTnU0Z004?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T07:26:38Z",
+      "summary": "The Motley Fool同样在7月推荐了两只AI内存股票，强调AI浪潮对内存芯片需求的拉动作用。深度学习模型需要大量数据吞吐和快速存取，HBM等先进内存成为关键基础设施。文章认为，具备HBM技术积累和与AI芯片厂商深度合作的内存制造商，将受益于数据中心和边缘设备的算力升级，股价具备中长期上涨动力。"
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08T07:16:00Z",
+      "summary": "AI芯片初创公司SambaNova在上一轮大规模融资仅5个月后，再次以110亿美元估值完成10亿美元融资。此前有传闻称英特尔曾试图以约16亿美元收购该公司，但未成功。SambaNova提供专为AI训练和推理优化的芯片及软件平台，其快速增长的估值反映了市场对定制化AI芯片解决方案的强烈需求，也凸显了竞争格局的白热化。"
+    },
+    {
+      "title": "Artificial Intelligence (AI) and Eurocentric Knowledge Traditions - Countercurrents",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFNLbHBYQUlNMWdIMXNpQm1YSUNjMXNlcmV3MjFsWEdtaTd3QmhBdi1BSUJzRGxkTVNvMVhPMHMwSS1scHlINnhuYzEyWVVzVGJPQ3NqUl9JZ2FLQWUxQkc0RUZtTjE1TC02dGM0T1hRa0ZPTVVoRzg1anBDSFhtaVVtS0hzYkZleS1SSlFvbW52RlhhTFpGY1J6UnhwTnRuN2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T06:55:22Z",
+      "summary": "Countercurrents发表文章探讨人工智能与欧洲中心知识传统的关系，指出当前AI系统在数据、算法和价值取向上多受西方文化影响，可能导致对其他知识体系的忽视和偏见。文章呼吁在AI开发中融入更多非欧洲的认知传统和伦理视角，以避免技术殖民主义，并促进更具包容性和多样性的AI发展路径。"
+    },
+    {
+      "title": "Nvidia Stock Is Down 17% From Its High. Is the Artificial Intelligence (AI) Leader Finally Cheap? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1Y0ZXRjM3dhMXo5T3VPSkI2bWNPSk5rSmtUU1E1bndMWFFZSEFLN21zRFltdjNZSDhqenJ2a3pVdm1KU080TXYxOWo4akZTeW03dkdxV0daWVdRMnd4Zkc4RDVPVDRnMEVTLUpBeFBNMldJcVdvLVd6OElaVS1KbGsxbVowTXdpTTlrUEVEOFFlcFNQM1g3cQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T06:42:47Z",
+      "summary": "The Motley Fool分析英伟达股价自高点下跌17%后的投资价值。作为AI芯片绝对领导者，英伟达GPU在训练生成式AI模型方面近乎垄断，短期回调主要受市场获利回吐和宏观预期波动影响。但文章认为，随着AI应用持续渗透，其数据中心业务增长强劲，当前估值虽不低，但考虑到长期护城河和行业地位，仍具吸引力。"
+    },
+    {
+      "title": "Nvidia Stock Is Down 17% From Its High. Is the Artificial Intelligence (AI) Leader Finally Cheap? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlIwaUpIbDFTUnZHclVSQWJqaHM2WDBwMkQtRkpDdTZ4czhja1lNV3YxT0JCZ0RkZk9QODV2czBhbjRkUXcxWFJtM0d6NGpwUWZOdFlWSG5mc0pTcGhGVGZoQldxMXJrNEYybVZIVlF2VDBtcEFTZWQ0TzZWOUFZeVNqZFlCeUowM3ViZ2lSa3hxb1gz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T06:35:00Z",
+      "summary": "Yahoo Finance同样关注英伟达股价自高位回落17%后的机会。文章指出，市场对AI支出增速放缓的担忧导致股价调整，但英伟达在数据中心、自动驾驶和边缘AI领域的布局依然领先。其最新H200和B200芯片性能大幅提升，客户需求旺盛。从市盈率角度看，回调后的估值对长期投资者而言可能进入合理区间。"
+    },
+    {
+      "title": "Naver will join hands with French artificial intelligence (AI) company Mistral AI to target the manu.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zTDJGdnhjZTFkZzBPemY2Mzhlck92dW12aWlMbTAtTklLeFZUa0hqVG15NjEtR3Vkc1Q1Y0JmeWFSblNQZTBEbFVTNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T05:40:31Z",
+      "summary": "韩国科技巨头Naver宣布与法国AI公司Mistral AI合作，旨在拓展制造业等垂直领域的AI应用。Mistral AI以开源大语言模型著称，Naver则拥有强大的搜索和云基础设施。双方将结合各自优势，为企业客户提供定制化AI解决方案，涵盖智能生产、质量控制等场景。此举也体现了欧洲与亚洲AI生态的协同趋势。"
+    },
+    {
+      "title": "Commission presents EU Action Plan on Cybersecurity and Artificial Intelligence - The European Sting",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbXREa0hRRW1Eb0Z1NUJ1VTUtS0xKbVAwWFpXRmdXcTF2QXhpTDRnZkg2NzloenktS0RJaXJRY0JFS1BabTdUUWxwR09tMnExeE5vTndKYUdoM1ZyVXZ1WU13OEdaOTV3QkVTbkRiX1dPWmczQlNYMm1hYlZTSlhDYXByLVVmd2tlYnBjZUxFQXE0U2hocDBQekd6aWUxYlRGZTM2QTdSOXBSemFIMkIzZlVQTjNob29w?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T05:36:29Z",
+      "summary": "欧盟委员会发布了网络安全与人工智能联合行动计划，旨在应对AI快速发展带来的安全挑战。计划包括加强对AI系统的安全测试、建立漏洞报告机制、推动加密技术标准化，并确保AI开发符合欧盟数字规则。该行动计划强调在促进AI创新的同时，必须优先保障网络安全，以防止AI被用于恶意攻击或数据滥用。"
+    },
+    {
+      "title": "SK Telecom will fully introduce artificial intelligence (AI) to T World stores nationwide. The plan - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoS0ZHUThaSFY4b1NKU0RLd2REUDVqYk1MaDBocW8zb0JGdHNVVTZQeTROSWNXV1QwcDg4Y19BVXBIX0pHY3hlUlR3NA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T05:24:52Z",
+      "summary": "韩国SK电讯宣布将人工智能全面引入全国范围内的T World门店。该计划旨在利用AI技术优化客户服务流程，如通过智能导购、个性化推荐和自动化业务办理提升用户体验。同时，AI系统还将辅助门店运营管理，实现库存预测、客流分析等功能。这一举措标志着电信运营商从线上到线下的全渠道AI整合，预计将显著提高门店服务效率并降低人力成本，为传统零售数字化转型提供标杆案例。"
+    },
+    {
+      "title": "Anthropic shines a light into the Claude AI black hole - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdy04ZTYtRGR5bkVJSFluUXJfaWNmV1dCMmgycDJOSEZhLVZ6eEx3OUE1bFE2WGcwamhFZTI1NjhBQ0xfak9zRGw3RlJCcXpqUnpSbFdfWnZtTjltVkpoRlhZVW9xMU13TzJQYkdqTGI4Z3VTLVEwTllqVmpZMjQ4NThhR3VDNkVReU83RTVCUEtxcElVekxKZ2xMRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T04:27:11Z",
+      "summary": "人工智能公司Anthropic正致力于提升其对话模型Claude的可解释性，力图揭开AI决策的“黑箱”。通过发布新的研究工具和方法，Anthropic让用户和开发者能够更清晰地理解Claude的推理过程、潜在偏见以及输出依据。此举不仅增强了模型的透明度和可信度，也为AI安全领域提供了重要参考，有助于在医疗、金融等高风险场景中建立对AI系统的信任，推动负责任AI的发展。"
+    },
     {
       "title": "The end of cheap AI and rise of African solutions - The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUjZGbU43dEVCamRSNy03VWJDdWdDYnZhenprYkgxVEJERDY1MFFZSGlRVkRhdWNpYTFoQjZPdFdVb2psa3d6SjlONDZ3QnJWaTd4czZSWm9kUUFKZF9QZVd6UWtiejFXYzRBdEE4SlRlWVhFRlFaZGc0Z2F5RmQyS1RHR3pUbEFCTi1ueG9MaWVhQXc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-08T04:03:29Z",
-      "summary": "《卫报》尼日利亚版指出，随着AI训练成本持续攀升和全球算力紧张，“廉价AI”时代正走向终结。与此同时，非洲大陆正迎来本土AI解决方案的崛起。文章强调，非洲科技初创公司开始利用本地化数据和低资源场景，开发针对农业、医疗、金融等领域的定制化AI模型，以摆脱对西方昂贵技术的依赖。这一趋势不仅有助于降低AI应用门槛，还推动了非洲在全球AI生态中的自主创新与话语权提升。"
+      "summary": "随着训练成本飙升和算力资源稀缺，全球AI领域正迎来“廉价AI”时代的终结。然而，非洲各国正抓住机遇，加速开发本土化的AI解决方案以应对独特挑战。从农业病虫害识别到低资源语言处理，非洲初创企业和研究机构利用开源模型和移动端部署，打造低成本、高适配性的AI工具。这一趋势表明，全球AI创新正在从中心化转向多极化，非洲有望通过自主技术缩小数字鸿沟。"
     },
     {
       "title": "Has AI changed your life in unexpected ways? The ABC wants to hear from you - ABC News & Headlines – Australian Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMDlxMGVtWVZvS0RwZnFHTkVpRkl5cnBuem9yUTZSamVPendNdzFXN0ZHNVotQnF6dDdKX2c4aVc5WGx0VVFnVU5iUkpkdTVTMGVzeGVpSGxpbUNGWkNmNi1BRkdTUlVjTjYyaEFNUTBSeWR1SWt4dk1hRDlvSzczbmljcVZNemRsSklzblM1b2pYcm9idnc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-08T02:59:06Z",
-      "summary": "澳大利亚广播公司（ABC）发起公众征集活动，邀请民众分享AI以意想不到的方式改变生活的真实故事。该活动旨在收集AI在日常工作、学习、社交、医疗等场景中产生的非预期影响——无论是积极惊喜还是潜在困扰。ABC希望通过这些第一手案例，引发社会各界对AI伦理、隐私、就业及人际关系变化等议题的广泛讨论，为政策制定和公众认知提供参考。"
-    },
-    {
-      "title": "The AI job apocalypse that never happened - AFR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXMyMjNlOE1vcEVpc1pLODFRc0RmaC1wZFpiRTZ0dThXQ2RlOW5YeFduQjhiTDhaeXpzOFNJeGtKbGpnWUhuQmVDRXRuN3BGUF9mUUMtMW5FTF8taWJhOEc5Umt6anFNbFZVMFBFRTdoXzRrNlhXeGxJbzZSaXp3QlB1QjQtQjdFYlREWDUyeFdIYTZyaV9XQmV3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-08T01:44:00Z",
-      "summary": "《澳大利亚金融评论》发文称，此前被广泛担忧的“AI导致大规模失业”的预言并未成真。实际数据显示，多数行业并未因AI出现裁员潮，反而出现了人机协作的新岗位。文章分析指出，AI更多承担辅助性、重复性任务，释放人类创造力；同时，部分企业借AI优化流程、提升效率，反而创造了新的就业需求。文章呼吁理性看待AI对就业结构的真实影响，避免过度恐慌。"
-    },
-    {
-      "title": "The Busan Metropolitan Government will set up a \"Marine Artificial Intelligence (AI) Material Resear.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JT3prel8tQnY2NFhoaDJXYTdFcVdxdk0xWUhROElHdW53eC1UMHl5RHVFN0o1WU9VSUU0TmdZajhFcVFtOXFyNXg4blUzSW0zelE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-08T01:39:09Z",
-      "summary": "韩国釜山市政府宣布将设立“海洋人工智能（AI）材料研究中心”，旨在利用AI技术加速海洋材料的研发与创新。该中心将聚焦于海洋环境中的智能材料、耐腐蚀材料、生物材料等前沿领域，通过机器学习模型预测材料性能、优化合成方案，并建立海洋材料数据库。此举是釜山打造“海洋科技枢纽”战略的一部分，旨在推动韩国海洋产业向智能化、高端化转型。"
-    },
-    {
-      "title": "NC AI, NC's artificial intelligence (AI) subsidiary, announced on the 8th that its voice-generating - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tV09UbV9JOWRMUGtTLTVMSkRYdXJtU0pHR1pZQlNKZ1p0OTBKNjA0bU5XdTJSX1NBQms2VFY1R1pRT3QzeGJIZmFpWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-08T00:25:27Z",
-      "summary": "韩国NCsoft旗下AI子公司NC AI于8日宣布其在语音生成技术领域取得新突破。该公司展示了一款可生成高度自然、情感丰富的合成语音的AI系统，能够模拟不同性别、年龄和语调的说话方式。该技术可应用于游戏角色配音、虚拟助手、有声读物及语音交互设备等场景。NC AI表示，正与多家内容制作商合作，推动该语音生成技术在娱乐和商业领域的落地。"
-    },
-    {
-      "title": "This Divisive Sci-Fi Is Steven Spielberg's True Masterpiece 25 Years Later - Collider",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JYVNRSFE1NUhSbzlQYVhTUjVqZ1p1N19UQlBwOGNpY0Jwbk8tVUJ5bHRSNjNBVzcycGhVNk9seXBhRkRTR1FHRGhNOGhzeHRLUTA2Y2tmcGVQYmtFWnVfWks2RnBRYTNEYnBpQ3JiUkxqSGZEV2QwaVpXcVdzdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-07T23:15:14Z",
-      "summary": "影评网站Collider发表文章称，史蒂文·斯皮尔伯格25年前执导的一部曾备受争议的科幻电影（可能指《A.I.人工智能》或《少数派报告》），在如今看来已成为其真正的杰作。文章从叙事深度、视觉前瞻性及人性探讨角度重新解读，指出该片对人工智能伦理、人类情感与机器意识关系的预言具有超越时代的价值。25年后，随着AI技术飞速发展，影片的哲学思考愈发显得深刻且具有现实意义。"
+      "publishedAt": "2026-07-08T02:59:31Z",
+      "summary": "澳大利亚广播公司（ABC）发起了一项公众征集活动，邀请民众分享AI以意想不到方式改变生活的真实经历。无论是工作流程的颠覆、日常习惯的突变，还是伦理困境的新体验，ABC希望通过收集多元案例，深入探讨AI对社会的非预期影响。此举旨在超越技术乐观叙事，关注普通人在AI浪潮中的真实感受与挑战，为政策制定和公众讨论提供第一手资料。"
     }
   ]
 }
