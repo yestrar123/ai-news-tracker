@@ -1,6 +1,177 @@
 {
   "articles": [
     {
+      "id": "2185",
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08T18:30:08Z",
+      "summary": "谷歌相册推出AI视频混音工具，可自动对暗视频应用电影级重亮光效、替换普通背景为趣味场景、添加艺术风格等，用户无需专业编辑技能即可提升视频创意表现。该功能整合了AI算法，实现一键式视频美化。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2186",
+      "title": "Microsoft hopes to cut its genAI costs by focusing on its own models - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZDdXWlVoNGlBNVUzVTEtV0lzZ21TZ29pMThTb3RsV1JfZ3pnN29BeTlQQkVmSWczYWNGUUZXVEhhRVUyMl9uREVVaGdRZTQwNjNKNlNQVWx1ekp0VTEwcWpFUHA1TDBYZ21rVUlBMjhFWTE5dlJfN0pNcU14QW1mRnFfZTZKOXB0M1UyaFByYndjOXhlaHpMVnNHbnl1aHNfYWVrVmlxNURKbXFINkx1UERfalNaUVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T18:21:15Z",
+      "summary": "微软为降低生成式AI成本，战略重心转向自研模型，减少对外部模型的依赖。此举旨在提升成本效率与模型自主性，通过优化底层架构和训练流程，在保持性能的同时压缩开支，有望增强其AI产品竞争力。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2187",
+      "title": "Major AI offerings at a glance - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUDd1T0cwX3NLN0R2M1RxdWxhY1E0S2NYQWZYV183MEoyaWp5WUpWVFEtMzZIVmRNVU4tX1Y3LU1Ud0J1MDhTaXJ2NFJEZXY2TTQ4WVlMaHlsZkg3VHpZdklnRk1DUkpRbEV4OG9uenlBb0l1UHNhbzFR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T18:09:15Z",
+      "summary": "路透社发布前沿AI产品概览，系统梳理当前市场主要AI服务与平台，涵盖语言模型、图像生成、自动化工具等领域，帮助读者快速了解行业格局与关键玩家，为决策提供参考。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2188",
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08T17:47:55Z",
+      "summary": "General Intuition CEO认为，视频游戏数据比互联网文本更适合训练通用人工智能（AGI），因为AGI需理解物体在时空中的运动，而大型语言模型偏重文本符号，缺乏动态感知能力。游戏数据提供丰富的空间与时间交互经验，有望补足这一关键短板。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2189",
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08T17:11:18Z",
+      "summary": "Meta为减少AI眼镜隐私争议，新增防秘密录制功能，防止他人未经允许录制视频。然而，其AI战略仍在持续扩大用户个人数据的收集与使用范围，引发关于隐私保护与数据利用之间平衡的讨论。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2190",
+      "title": "Artificial Intelligence (AI) And Eurocentric Knowledge Traditions – OpEd - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVkxON2ljR0laZm5COFFzanA1YmpwRWRKUHBvZzQ4d1Z6cE5CVlNQN255MF92QnJXV2lVdnExRW5JLUdobHR0azd3OFZxQWQzLWlLN3FKN0E4a2NZWEtnaE9nZW44b1IxMWlUNzZqQkswQWp3TXE1Zk04WUNxVXJRWXRUSGxCOGV1YWxWTWJXV2p5UXFBZnRkekV4T1RiRnZ0UVVrMWZHZnpKdGNO?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T17:09:42Z",
+      "summary": "欧亚评论发表观点文章，探讨人工智能与欧洲中心知识传统的关联。文章指出当前AI模型训练数据多源于西方知识体系，可能隐含文化偏见，呼吁在AI开发中纳入更多元的知识传统，以避免认知局限。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2191",
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08T17:00:00Z",
+      "summary": "OpenAI发布新型语音模型，支持同时说话和聆听，实现更自然的实时对话交互，尤其适用于同声传译场景。该模型提升了响应速度和连贯性，是人机语音对话技术的重要突破。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2192",
+      "title": "Artificial Intelligence for the Detection of Small Bowel Lesions and Neoplasia: A Scoping Review - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEFFeGNGRkttQWp3SVFTeHBBMTJKUmRmcGE0T1VEZ2tGTXhCRFFmYTk1TjVWVVhzbUJ4WUNWTmwteEozTjZ2dXU5TWd4TWNldE91WWJpM3pJR3dXcU9HclZuSXhpYll0VUFCTm9IOE9wZDlodTVPM19GMXZWSFFuMEVIODE0S3g1YVppS3VHRHRVenhRaFQzc2VhQ3prQkExeDJka2NjOFFSVkd2RGFMSXU5cDRqQUhoQkNSbExvUzZZTFptdGtlZFUtZjRCSHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T16:25:59Z",
+      "summary": "一项发表于Cureus的范围综述系统总结了AI在小肠病变和肿瘤检测中的应用进展，评估了多种深度学习方法的诊断准确率与效率。研究表明AI能显著提高小肠病灶检出率，减少漏诊，但需进一步临床验证标准化。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2193",
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08T16:22:38Z",
+      "summary": "初创公司Prime Intellect完成1.3亿美元A轮融资，致力于帮助企业构建自有的AI智能体系统。公司成立仅数月，旨在降低企业对头部实验室的依赖，赋予组织自主训练代理模型的能力，加速企业级AI落地。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2194",
+      "title": "Mistral launches first robotics model in physical AI push - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEhvMGlyMXhJREFWZURld1hnTEJaMUpoeTA4d1pZQUQyQTNwZUhDOHE2SGJqTzJnZlNXelJTR2FDSGwtb00zRTlzZFlHVnh6dGp4X2s0dXhwd1V4S2JnWUw1cUY4Ylppd09nM21lQ1RfM0tIM1VmYjc3NlRGeDdSSUJmTDBqRGttZmxIemtSX2JVNTdFdm5vMktBVlNXMnB0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T15:45:43Z",
+      "summary": "法国AI公司Mistral发布首个机器人模型，正式进军物理AI领域。该模型将语言理解能力与机器人控制相结合，使机器人能根据自然指令执行物理操作，标志着AI从数字世界向物理世界的扩展迈出重要一步。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2195",
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08T15:41:06Z",
+      "summary": "多家AI初创公司正在以越来越快的速度实现营收增长。据TechCrunch报道，虽然市场上存在大量高速增长的AI企业，但其中部分公司的增速尤为突出。这些企业凭借技术创新和市场需求，持续扩大收入规模，展现出强劲的商业潜力。行业分析指出，AI初创公司的快速扩张反映了人工智能技术的商业化进程加速，投资者对相关领域的关注度也在持续提升。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2196",
+      "title": "Datacentres are a ticking time bomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0ptYU8zWm9JNDV2dXRsaHh1V2xnekNyakdBMHdPWV96TExVNElNRlJPa3UzSHJEMl9GZ3UzeC1XdUFZUWpsRmxDUnFUTncxSEE4N3RlTGVDcGZKRzJHeFNzellGMnJ5c3BldXRwN1AwdXF6c1YtWUpnYlE4b19ubzZqSEEyX0ItUUVMT3YxZDViQU1pNWhqdDhtS2xUSnNzQ3UtVndQbmdBdHdnaU1xSGNnRlJlNUMzcm9MdXNmS2xQMWRSLW16a3NNSkM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T15:01:00Z",
+      "summary": "《卫报》评论员Nicki Hutley警告称，数据中心正成为一颗“定时炸弹”，其庞大的能源消耗和环境影响不容忽视。文章呼吁必须确保人工智能带来的收益大于其成本，包括电力消耗、水资源使用和碳排放等。随着AI应用激增，对数据中心的依赖加剧，社会需要更严格的监管与技术创新来平衡发展，否则可能面临不可持续的环境代价。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2197",
+      "title": "China's Zhipu AI launches $4 billion Hong Kong share sale as stock surges - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaG15R1d0NTBacG00WVFSMk9keXNFNVJ6cUhLcm5tbVJ1X2c3OWFaeHo2ZVM3b2pUZjhwTWRHS290eEwxQkZIUWlCTlBaWlhNOGotUHBxZEx5M2xoMGxsSXpxR05NYV9EUDZJN0xUQk00eC04MGpHeUZod1ZVa1dPMWh6elN3QURQUjlzbFIyYV81WUV0V29hdFU3QnY0RzZQRFpaRUxYX0JaaGt3bE00TEVLbXhqZEpySUtUcEp6SGRabFdVTGJrbDZIaFU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T14:28:17Z",
+      "summary": "中国AI初创公司智谱AI（Zhipu AI）在港股市场启动40亿美元的股份发行计划，股价随之大幅上涨。据路透社报道，此举标志着中国AI企业在资本市场的活跃度进一步提升。智谱AI作为国内领先的大模型研发公司，此次融资将用于技术迭代和市场拓展，其强劲的股价表现也反映了投资者对国产AI前景的乐观预期。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2198",
+      "title": "AI helps doctors estimate your heart’s ‘age’ - fox8live.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTdJV185dUVFVThaQ1YtTDY5cVc2R0w2ODYyTnZlczMzUnBvWlowNzByTVFWeU1MRmg4cERIXzJVbUJ4OGt6ZVJOeGZ3M2FJa0xXWE52ZDEyM0ZsT3FVLXZWRmxQWUVTVWVIWG9DZnZMUlVPUi1hbDJ5NFpReGNHb19qcVU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T14:19:00Z",
+      "summary": "人工智能技术正帮助医生更精确地估算患者的“心脏年龄”。据fox8live报道，通过分析心电图等医疗数据，AI算法可以评估心脏功能状态，从而提前预警心血管疾病风险。这一技术将量化指标转化为直观的年龄概念，有助于医患双方理解病情。研究显示，AI辅助诊断可提高预测准确性，推动个性化预防和治疗方案的实施。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2199",
+      "title": "Switzerland To Lead Global AI Governance Discussions In 2027 - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTUwcGQ1WHlpdmRhcVVielFPaGI2Smt0LWx3a0FSSzdFLXhiZ1lqdWFkT3NEZVFNTzJQcVlXSGFFRFpuVmE4S2kyWDFjQllFXzM2TUo0ZnBya0UtMkZRd3VFX194TjBIX0c1UThxaThRek9teDFkMlVhcXdEeHVZMW9wdTNHNWJ3TjQyU0U3NUNtWUcycEZGZTZPTDBYcUdGNW55TXp6ZWJJZDBTaXRIY0VR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T14:12:49Z",
+      "summary": "瑞士宣布将在2027年主导全球人工智能治理讨论。据Rediff报道，瑞士政府计划在国际舞台上发挥领导作用，推动制定AI伦理、安全及监管框架。此举旨在平衡技术创新与社会责任，确保AI发展符合人类价值观。瑞士凭借其中立国地位和科技实力，有望成为全球AI治理的重要协调者，促进各国在标准与法规方面的合作。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2200",
+      "title": "Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdldfaUxaVzIwN3pWLV84dUNUaXNsajJpR3ctOFdFekFsbGEwT2FjTjd3cFVRSjNLZ3VKZHpFdUw1a0VwZzlWb3JVajV0cnAzVlNYRXdjVFR5akVfR3ZNaDE1azctb0RtSXBfengxVmNVeDBwTnE5ZnBGekJfcy0yNndmRmVoT1hOQ3RqYzlFM3ZUeGxwZldyWVJabzZVbFBqdzM5dXpHbzBWS1hxQXVSWnZjMDc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T13:44:07Z",
+      "summary": "英伟达市值遭遇约1万亿美元下滑，其估值已回落至AI热潮之前的水平。据彭博社报道，这一剧烈下跌反映了市场对AI芯片需求增长的担忧，以及竞争加剧带来的不确定性。尽管英伟达仍是AI算力的核心供应商，但股价波动表明投资者正在重新评估其长期增长前景。此次调整也为整个AI行业估值带来了警示信号。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2201",
+      "title": "'Slopfix' software team charges $10,000 a week to delete AI-generated code bloat — ironically, the team uses AI agents to trim messy repositories by up to 65% - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN0FVZG9nMFI0RmhDdTZ1eGh6ZmM2aUpzRE0xUmdoUUYxRnk0bU9KX211RmJRdDJ5RWxWcFFWcEF5eXNWd1BnQnhMNDFDN2RTeEFZcHVGRk5USUItOVNEWnpQR1JOTWQtYS1fQmV2R2prMmpoeHhrTTk0ckdWd2xwZDFoNUpOdWZ5TnBSUlNxWTdwU2JlYUpZcjBBTGFVMHM0LVdDZ1pQMzRzUkhFVGZJcFgzd3ZkU2R0NTE4RUhXYk9ncDNocVpHdEIyWUtwY0ZYQ3pJUTJmb0NtcnhKeTRLenBnWjdqLTQ0SW5DSDhZR2Jsc1NoQ09qdnZ3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T13:19:17Z",
+      "summary": "一家名为Slopfix的软件团队推出每周收费1万美元的服务，专门删除由AI生成的冗余代码。讽刺的是，该团队自身也使用AI代理来清理混乱的代码库，可将其体积缩减高达65%。据Tom's Hardware报道，这一现象揭示了AI编程工具的“双刃剑”效应：虽然能提高效率，但也可能产生大量低质量代码，催生出新的清理需求。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2202",
+      "title": "2 Battered Artificial Intelligence (AI) Stocks Due for a Massive Summer Rebound - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWVRjVEFxV05WaUVMUnZyOG91N0VNQVA1Z0t5MGV1bUJmdDVQMkYxSWRsVV9LV0hhbmF3OVhvalFTOUJoZ3dLaHNYLTEwZ2R5alJjX0pKV0N4REFtZkFEM3VlUnhiRFNONnBQcklpcW9PMVRaMjc5T21WZ2pkcWMtSTdkWWdUd2JyX2puc055RWt5MFpxanc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T13:15:00Z",
+      "summary": "《Motley Fool》分析指出，两只遭受重创的人工智能股票有望在今年夏季迎来大幅反弹。虽然具体标的未详细说明，但文章强调这些公司基本面扎实，当前股价低估了其长期潜力。随着AI应用场景继续拓展，相关企业可能受益于行业复苏。投资者可关注那些在技术、市场或成本控制方面具备优势的AI公司，等待回调后的入场机会。",
+      "fetchDate": "2026-07-08"
+    },
+    {
+      "id": "2203",
+      "title": "2 battered artificial intelligence (AI) stocks due for a massive summer rebound - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdlkyV0tNeW5KY2dzTGFvRm1reWhsblpnUUJsMExUcUZXNXlyTVR0Z1B2eDFSSEw5djVDM1MyY3JjVHo2RzZldWl0UVFBUmd0SkNfUDZTemdwdldUVTFOOUpNQktOaVhVUnZkUmxJN3d3em5ISXdMdm4tNnNoZXVwcmJwcVFLY0JTMEZoSHlIcmZBeTZrY08xVlAxOTZUaGp3YWpuaFFwSG4tbV84enduVk5RQkR0V0h6N08ycHlqbWhOcV94OUg1NVBUcU5fNFdHS3ZMV0hLTldVTzFzcWs3bGpGRGJXNGRmX0VDMWlR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T13:15:00Z",
+      "summary": "MSN报道称，两只被普遍看空的人工智能股票预计将在夏季出现强势反弹。这些公司虽然近期股价下跌，但技术实力和行业地位依然稳固。分析师认为，短期市场情绪过度悲观，AI领域的长期增长趋势未变。随着新订单落地和产品迭代，相关企业有望重获资本青睐，股价回升潜力较大。投资者需谨慎评估风险并把握时机。",
+      "fetchDate": "2026-07-08"
+    },
+    {
       "id": "2169",
       "title": "Can AI equalize political campaign ads – or will it remain a tool for spreading lies? - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEd4ajBKR1ZUQlpHNGxuVWlFMmNhazNkV3E1QzFNUmp0U21lUkFqWUdGV1RBRUo5dFB3UWZMV0lGRlB4YlJjUEs0MHNFOUVhemxZd2ZYVnVabUYwZl85Wml0cEcySEduR0JpVTMwV1ZwUGhpZjNZRnlNdmtVMVNWRHA1Yw?oc=5",
@@ -19648,5 +19819,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2183
+  "total": 2202
 }
