@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "id": "2231",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T19:05:58Z",
+      "summary": "纽约时报等新闻出版商指控OpenAI在ChatGPT版权诉讼中隐藏关键证据，包括能够识别输出内容中受版权保护的新闻材料的相关工具和数据集。出版商已提交新的制裁动议，旨在迫使OpenAI披露这些信息，以推动诉讼进程。此举凸显了AI生成内容与新闻版权之间的法律冲突。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2232",
+      "title": "Google will now disclose which ads are made with AI",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T18:40:51Z",
+      "summary": "谷歌宣布将要求所有使用AI制作合成或数字修改内容的广告进行披露，此前仅对选举广告有此要求。谷歌表示仍禁止误导和欺骗性广告，但允许广告商利用AI创作合成内容。新政策将提升广告透明度，让用户知晓广告是否由AI生成。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2233",
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T18:34:35Z",
+      "summary": "总部位于巴黎的AI语音初创公司Gradium完成1亿美元种子轮融资，投资方包括芯片巨头英伟达。公司计划利用这笔资金在硅谷湾区的核心区域开设办公室，以吸引顶尖AI人才，强化其在全球领先AI生态系统中的地位。这轮融资反映了市场对AI语音技术的持续看好。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2234",
+      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T18:22:39Z",
+      "summary": "关于美国政府如何评估并批准OpenAI前沿模型的安全发布，目前外界知之甚少。报道指出，政府与Anthropic和OpenAI等公司之间就模型安全进行的对话细节并不透明。这一讨论引发了公众对AI安全审查流程的质疑，呼吁更公开的监管机制。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2235",
+      "title": "Artificial intelligence can be a useful tool in medicine but there are cautions - Castanet",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT1I5V1N4VjcwbmM1RXRpN2pOZ1FjaWRqdEl2QjNySnFmR3JLMTFNeWlKZ1FPUjhKV2FmeHVRMXBwT3dUSjloV0ZTaDZOV2xZc1JXYXFOMXNrNG1ySjUxdmxRTmN0UnVnT2h2NDk0bUtTeTM5T1lPOXRZek9MUEQ0NzNFUlp3ak5sNk1HSUJ4OWtmc0tzSDJoN2t5VjhkLXhna2hSaUxwN2FaSFRpQmM2N2hQNmFWdEJjaGI2TFRkZ3VKNlJfT05PVnRsRk4zVFdYNElCZnYtYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T18:00:00Z",
+      "summary": "人工智能在医疗领域展现出巨大潜力，可作为辅助诊断和治疗的实用工具。然而，医学界也发出警告，提醒注意数据隐私、算法偏见以及临床验证不足等风险。专家建议在部署AI时需要严格监管与伦理审查，确保技术安全可靠地服务于患者健康。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2236",
+      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T17:56:47Z",
+      "summary": "Meta的AI图像生成器Muse Image允许用户利用公开Instagram账户中的照片生成AI图像。只要个人资料是公开的，其他用户就可以标记该账户并使用其照片作为AI创作素材。用户可通过将账户设为私密或调整隐私设置来阻止自己的照片被用于AI生成，以保护个人肖像权。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2237",
+      "title": "Meta’s new AI chips will begin production in September",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T17:17:37Z",
+      "summary": "Meta宣布其新款AI芯片将于9月开始投产，采用模块化设计以便灵活适应AI技术的快速变化。公司预计在芯片投产时其需求可能已经改变，因此模块化策略有助于提升适应性。这款芯片将助力Meta实现计算能力翻倍，巩固其在AI领域的竞争地位。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2238",
+      "title": "Nvidia is a victim of the compute marketplace it created",
+      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T17:06:11Z",
+      "summary": "英伟达一手创造了高性能计算市场，证明了计算资源的巨大价值，但如今却成为这个市场的“受害者”。大量公司涌入AI芯片领域，试图分一杯羹，而一些技术相对简单的企业反而在边缘获利。英伟达面临激烈的竞争，其领先地位受到挑战，同时也需应对市场对其芯片的过度依赖所带来的风险。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2239",
+      "title": "AI, Data Centers, And European Strategic Autonomy In A U.S.-China Tech Rivalry – Analysis - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS2I4N0tNS3FOMm8zSmdvR0pZSFI1Y0JfSmlTRjIxSEZ5Z18xUGdPYlprc2tiYTJIWWtWWEpXQzRxeUxXUjNBRVR3cUdYSUcybXN3WDhYUmdwTU5KcVB2QVNqXzZ4MkJqdnl1LWdCOXlmMHlPdmdhaGQxNkdHRE5rU2F1TXVzTGV1UHo0MVE2QmFHd1ZLdVB4eW55Y3FqQXE3bmlrZmx1c05kMGxFMjl5bUY4VmlSc1VFdXE1Um9KRi1uZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T16:35:50Z",
+      "summary": "本文分析在中美科技竞争的背景下，欧洲在AI与数据中心领域追求战略自主的必要性。欧洲面临依赖美国或中国技术的风险，若缺乏自主的AI基础设施，将难以保障数据安全和技术主权。文章呼吁欧洲加大在AI芯片、云计算和数据中心方面的投资，以在全球科技博弈中获得更大的话语权。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2240",
+      "title": "Health systems need data discipline for effective AI - Healthcare IT News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTBDbXdOTXExYkZwS09FLTBzbF9Jd0lQYUN5ODZTQ0dQZGx2Nm5GTXRDNkxUbkEzXzhiSXlqaUdqaE1JZEV0Y2FudnlSMGhSMlJOa2U3OU5DVDRva29XX1ZJLU85eV9PUWJpeTRkVXFvN3o4d2U2TVQ3a3kxOEtEOVVMbFZLZlJYM0FtcDhxMA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T16:06:58Z",
+      "summary": "医疗系统要实现有效的人工智能应用，必须建立严格的数据纪律。文章指出，缺乏高质量、标准化和可互操作的数据是当前AI在医疗领域落地的核心障碍。只有通过系统化的数据治理，确保数据的完整性、一致性和安全性，AI模型才能获得可靠训练并产生临床价值。这一观点强调数据基础建设的重要性，而非单纯追求算法先进性。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2241",
+      "title": "The 14th Annual Globee® Awards for Leadership Invite Enterprise Artificial Intelligence Achievement Nominations Worldwide - The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd2tLbUwyaUlOb3R6VnFJN2ExZ1JyN2RfUEpDVTk1MXloa0N3NTZDY3RmM0RtT21fWVhyYlBTOUFrVjJUQ3BMY3VvNk84VzVfY0ZNLXFKZWhhWkdOb0tFTGl0VU5TeU9rOG9fcTdmVHFYSDJIRVgzY3hBSE1iOHVkMEF3Ym5la3hoTWJkYjdYU0JUQnk3STVmZUgtMFdubzJaLUVMMzY4WHdKdDhCQkc1U0p4Nkk1NW9nS1lYRHlwa2d0UGhTTWhIV3JLWHJKd1B4a0dOb1E0SEs?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T15:07:55Z",
+      "summary": "第十四届Globee领导力奖全球征集企业人工智能成就提名。该奖项旨在表彰在AI创新、应用和战略方面表现突出的企业和个人，涵盖自动化、机器学习、自然语言处理等多个技术领域。提名面向全球开放，获奖者将在业界获得高度认可，进一步推动企业AI技术的发展和商业化进程。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2242",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T14:53:09Z",
+      "summary": "Anthropic为其AI助手Claude推出新功能“Reflect”仪表盘，该功能不仅帮助用户可视化自身AI使用模式，还通过数据呈现潜移默化地强化用户对Claude的依赖。仪表盘让用户直观看到日常工作中有多少部分已交由AI完成，从而在不知不觉中提升用户粘性并推广AI工具的日常使用。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2243",
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T14:51:00Z",
+      "summary": "Anthropic、OpenAI和SpaceX三家公司的IPO预计将创造超过自2000年以来所有美国风投支持企业退出总价值的总和。这一现象标志着AI领域的资本集中度达到前所未有的高度，反映了投资者对AI技术商业化潜力的极高预期。这些企业的估值增长将重塑科技行业投资格局，并可能带动新一轮AI创业热潮。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2244",
+      "title": "The Case for Nationalizing Artificial Intelligence - Jacobin",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZOG5TTC0tUldnVzlLUkZGU3R0ejdlSXBsODJ3aDRfZUF4N1h6czA1SU1ZNzF2TDFDTFd0R0J3MlZxbmllMDNZU2x2ZWpiR2xaWmhPV2U1WTRpb0FkSTRKZFNnTFMzWjBpTTREZmEta3pXV1lw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T14:47:17Z",
+      "summary": "雅各宾杂志发表文章主张将人工智能实现国有化。作者认为，当前AI技术发展由少数私营巨头主导，存在权力集中、利益分配不均、公共安全风险等隐患。通过国有化，政府可以确保AI开发服务于公共利益，防止技术滥用，并让全民共享AI带来的经济与社会收益。该观点引发了关于AI治理模式的广泛讨论。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2245",
+      "title": "These days, there are many artificial intelligence (AI) fake doctors and pharmacists on social netw.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yRlhkU2tyQWtiY25aaGJrUzlYcG5JN1dsVmQxWEpOamdCMC1HT0diSHZOSW9oazJ3VDZqVGpQT05aT25OaHBmT1ZXaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T14:46:30Z",
+      "summary": "社交媒体上涌现大量利用人工智能生成的虚假医生和药剂师账号。这些AI冒充医疗专业人士，发布不准确甚至危险的健康建议，以博取流量或推销产品。监管部门正面临识别和打击此类新型欺诈行为的挑战，亟需加强平台审核机制和AI内容标识，以保护公众免受伪医疗信息侵害。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2246",
+      "title": "DeepFabric Launches Supply Chain AI Platform - WWD",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSGRTN2UyVFlXQ2Z2WVlTXzJzRkM0VVpWSExnT2s3Nm12b2p0NWlkcnIxdW16bGtaank2STN6dnd1amlST01zalZQRTFJTmYtNTFYSlcyNjQ1QlBreGNuQm5oc2dsNl9VYVZiRGUzNkVHZU9oQ0FRLS1ReElCOExUZmRRQUEwQy1kRUF5OEN4dzdmU2w4cE8wSkdibzhBQzBUbFY5ZmJIT2loWms?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T14:10:37Z",
+      "summary": "DeepFabric公司正式推出其供应链AI平台，旨在利用人工智能优化物流、库存管理和需求预测等关键环节。该平台整合了实时数据分析、机器学习和自动化决策能力，能够帮助企业降低运营成本、提高供应链韧性。这是AI在传统供应链领域深度应用的重要进展，有望为制造业和零售业带来效率突破。",
+      "fetchDate": "2026-07-09"
+    },
+    {
       "id": "2211",
       "title": "Investors Are Underestimating This Incredibly Cheap Artificial Intelligence (AI) Stock. Buy It Before It Joins the $2 Trillion Club - aol.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZm5SUGJRSUhNeHFlOEg0Vlp6X3gtYmpreHVxTG52SDIwdG5kQjRTZDMyUjJEWGhrYV8teHBrZnR0OTdiVzJJZnN0SWk3a0FfZGl0b1J2ajFwaUw5WlNhTXJ3dE5CbVEzckpSb0pybkpiQlNCMTcxT2MzNUlLbXRrci1feHNYYUFFdG5GLUxMYXhuSVo1QU9pNF9aRVNjdw?oc=5",
@@ -19,6 +163,15 @@
       "fetchDate": "2026-07-09"
     },
     {
+      "id": "2247",
+      "title": "Italy privacy watchdog fines Character.AI owner over age-check failures - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDJEZFVSQkY0YUpKUFI4NzF4eU5UcEsxZ3VyMVM5QjZ3QVdtV2R4aWVlTmRMejdaYlREdVRWYUk0akZLYUVoT29YSUZWNktSenl2UlhIY3J2cFlpZUZQMVRpVEQxMnBHSWl3Zks3a0ZjejRrTXFFS0F1NE9YSlZOYi1vNUlLeTN4bWRWN0VzZnNmX3lCOW9DY3FXRFNGTjBqb055Z2FiNXJFNzdJVWJicWgzUjUtZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T13:40:38Z",
+      "summary": "意大利数据保护机构因Character.AI所有者未有效实施年龄验证机制而对其处以罚款。该AI聊天平台被指未能防止未成年人接触不合适内容，违反了欧盟《通用数据保护条例》。此次处罚凸显了AI服务在用户年龄筛查和儿童保护方面的法律合规风险，也为行业敲响了加强安全措施的警钟。",
+      "fetchDate": "2026-07-09"
+    },
+    {
       "id": "2213",
       "title": "3 Genius Artificial Intelligence (AI) Stocks to Buy Amidst the Selloff - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR3VKQkNub3oycDRGWndTdVh0ZF9IYkcxT0wwQlhiTzJ6SGtIMWE3ZkNsR0ZiWElKTVlBbm5FMHRIVmgxQjM4djRSSmVFOTBOTnpsR3dwRmdLdENYd0JHc2VISFBmVkJ6WmJrN0ZMbUF4ZEtYaUplbms1MUI2bkh5RlpRWUYxb2FyMFZSdmhHcTE?oc=5",
@@ -34,6 +187,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-07-09T13:30:22Z",
       "summary": "联合国数字技术机构发起一项新倡议，旨在提升公众对AI代理（AI agents）的信任度。该机构指出，随着AI代理在医疗、金融等领域的应用日益广泛，确保其透明、可靠且负责任至关重要。新举措将制定指导原则和评估框架，帮助开发者和用户共同建立对AI代理的信任，同时推动国际合作以应对潜在风险。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2248",
+      "title": "Say hello to Claude Wrapped - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPall3b29yUlBVejdiN3JNVHNIUDd6R2xrVDNERE84S1NBMHo2WmVlMDlfTkpNb1ZfZW9YMGs3eU40YnQ0aFdZT3B6c3ZiZ3luOFFQS1dXalpfelpzRE5kRGNkbWdadXlkeUhZZFlZZFg0WEN2bndKdTdnc3hsMlhrY3JKQVpPX0dqc1psR045R3E3TWpXOGhZaXRoZ3F3SWtVcml0aTR3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T13:30:00Z",
+      "summary": "The Verge报道了Anthropic推出的“Claude Wrapped”功能，类似Spotify年度总结，为用户提供其与AI助手Claude互动的年度回顾。用户可以查看聊天频率、热门话题、对话风格等个性化统计，帮助理解自身使用习惯。此举不仅增强了用户粘性，也展示了AI助手在个性化服务方面的潜力，同时引发对数据隐私和用户行为分析平衡的讨论。",
       "fetchDate": "2026-07-09"
     },
     {
@@ -20062,5 +20224,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2229
+  "total": 2247
 }
