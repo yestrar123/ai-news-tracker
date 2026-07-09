@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "2204",
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08T22:41:33Z",
+      "summary": "据报道，AI初创公司Lovable正在洽谈新一轮融资，金额约3亿美元，由Menlo Ventures领投。本轮融资有望将公司估值从当前的约66亿美元翻倍至132亿美元。Lovable专注于AI驱动的软件平台，此次融资谈判凸显了市场对其技术潜力的高度认可，也反映了AI领域持续的资本热潮。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2205",
+      "title": "Alphabet's Artificial Intelligence (AI) Spending Spree Is Great News for Nvidia - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHRsU0U5cXdlYloyQWdaaFpwSC1QaEFwUThaYkhyTUlmQWg2ejVycENIbThfcXgzcU84NUljTlBlV3hNSm5yVHpOSlZsT25rODhDM3BKVnpXLU44Ti16QUk4TGMxeEdrbVhHOTVHcmhaMmFCdU04aW5xR2FGSXRaWWJTRFo5VDlUd1h2WEhnVVVsSnhkM09WYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T22:00:00Z",
+      "summary": "分析认为，Alphabet（谷歌母公司）在AI领域的大规模资本支出对英伟达构成重大利好。随着谷歌等科技巨头竞相部署AI基础设施，对高性能GPU（如英伟达H100等）的需求将持续旺盛。英伟达作为AI芯片龙头，将从这笔“花钱狂潮”中获得可观的营收增长。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2206",
+      "title": "NYC public schools puts technology purchases on hold amid heated debate over AI policy - New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW1DZFV3OVFpcm9CdWNNb0d4V2RITzV5dnVwMGJMMnFYb29BUjBSOGt0OWp0MkxTRExZdE93MmlYNHhMRklDSEJDal9WY2paYkpzWVV3ajlaNUlDdHcxSlNsVXFzMjNwQ3p0UWRzZDF5X3VEWjF4LUdWQmNpNXlpT0hyQnRzMDlxM2ZkNE85cVEyd201ZjhLM1djLVVYWXRlZ3BtZ2pWT2t4ak15RXBEQUdBRnhvWTlaUFBQZWdUYlpJQUZU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T21:37:52Z",
+      "summary": "纽约市公立学校系统因围绕AI政策的激烈争论，已暂停所有科技采购。此举反映了教育领域对AI应用伦理、学生隐私及教学影响的深度担忧。学校管理层正在重新审视技术引入流程，确保在制定明确AI政策前，避免仓促部署可能带来风险的新工具。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2207",
+      "title": "Alphabet's Artificial Intelligence (AI) Spending Spree Is Great News for Nvidia - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcWZycWJxUkRCc0tYaW9Wd2plTkJhU2FwWnkzU3hQVkVMR1VTN0J4VU04dzRURTF4WXhpTmw4RnpOazAtVTVucFlJX1dTajlRZ1huQUQtQk5vcURKUU41dVZQU3YtVHY0bzMwUDJybkJPNF9fWTVnd1NTd1lYUEVPam5Odm9MT3hfZlh2LU4xd3BwS185TTZyNVlhclZlSFU4UWxockpENGtJZVpKeThDNXNfMVI2LXhTVmhSMGNOUEVPV2FsNUVIQ2lDbGt0bDdMTnVYVERfR0hjLW1HMURIOU4xR2hnTHJVR1dzeWZXbnJtaHM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T21:20:45Z",
+      "summary": "类似报道再次强调，Alphabet持续加码AI基建投资对英伟达是积极信号。英伟达作为AI计算平台的核心供应商，其芯片需求与大型科技公司的资本支出计划紧密相关。这笔AI“花钱潮”有望推动英伟达业绩进一步增长，巩固其在AI硬件市场的领先地位。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2208",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-08T20:37:03Z",
+      "summary": "谷歌的深度伪造检测系统成功揭穿了一张关于肯塔基州参议员米奇·麦康奈尔的虚假图片。该图片显示麦康奈尔全身插管、处于极度痛苦状态，实为AI生成的假图。谷歌的技术通过分析图像特征和来源，有效识别了深度伪造内容，展示了AI在反虚假信息领域的重要价值。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2209",
+      "title": "NEWSLETTER: China weighs silicon curtain around sought-after AI models - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRGx1VW5GVElsZUZsbWtoM0xUX3pUeHd4bm0tSW94Y3ZFRUx6OXdzbmZHV21ELTV2RXJKTV82Wi0tMkxFS1VQY3VuQnVhd00xODBKd3l2SUJZODFucnU0djhxQXRRVERnV0VGZ2xDSk1teU9FZWU2dWxEaWZ0NW5QQWllNTZ0VVBTbEZBQVlCTHlYRDg3QzhFVDZvRmNobHJadjl4YzZhb2FEQzlrTTNSbWtxWlZPbXVoU3pnMG1ndXpQYW1Odlp0MA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T20:00:00Z",
+      "summary": "路透社报道，中国正在权衡构建“硅幕”——即限制尖端AI模型出口或跨境访问的举措。此举旨在保护本土AI技术优势，防止关键模型被竞争对手获取。这一政策动向可能进一步加剧全球AI技术分裂，影响国际AI合作与贸易格局。",
+      "fetchDate": "2026-07-09"
+    },
+    {
+      "id": "2210",
+      "title": "SpaceX Debuts Expanded Version of Grok AI Model - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjJVWmpDLXRJZXp4TlBzVDJ1VnNZRGRJeG1LLVJSc1lmM2xQNXNUVHl0Q05UM2E4YVdpMjFJcVFPYi1ad3YwR3gtYkxpUGhTOTQ0dm5ZYWhpY210VmN5T01qNzBIaFQ2Z1FoYXZ6TVdzbzFXQlVBYzJLWmRtQzEtSlJ5RS1salN1Sl9FNi11NWN0UDlqS3NMY0QtMERqcTNa?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-08T19:55:25Z",
+      "summary": "SpaceX推出了其Grok AI模型的扩展版本，进一步增强了该模型的性能和适用场景。Grok是xAI（埃隆·马斯克旗下公司）开发的大语言模型，此次升级意味着它在推理、对话或特定任务上的能力得到提升。SpaceX的参与凸显了AI技术在航天领域应用的潜力，也体现了跨界技术融合的趋势。",
+      "fetchDate": "2026-07-09"
+    },
+    {
       "id": "2185",
       "title": "Google Photos adds a new AI ‘Video Remix’ tool",
       "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
@@ -19819,5 +19882,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2202
+  "total": 2209
 }
