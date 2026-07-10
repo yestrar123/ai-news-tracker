@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "id": "2277",
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-10T19:00:00Z",
+      "summary": "Hugging Face CEO Clem Delangue强调开源AI比以往任何时候都更重要。该公司已发展为AI领域的'GitHub'，允许开发者共享和下载开源模型与数据集，目前约一半的财富500强企业正在使用其平台。Delangue观察到，企业从使用开源AI起步，逐渐构建自己的AI能力，开源生态的壮大正在加速整个行业的创新与普及。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2278",
+      "title": "AI Is Democratizing Institutional Real Estate Intelligence - Shoppe Black",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3lYOVlaelhvOE1Nc0V4bDhKeHM5S1ZyX01DS0hNeTJkb0RQTktvVVdmR3BIUzFnRVM2b2pHM01hWXduQzhXMnJuano3ZEZyR1JWc0huQU9ZMktnYjcwdFVua3JRellxUGI1YkZTSVpRcHBRVlhFbWVrekhsR1RKWg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T18:41:47Z",
+      "summary": "人工智能正在推动机构房地产情报的民主化。传统上，专业房地产市场数据和投资分析主要掌握在大型机构手中，而AI技术使小型投资者和普通用户也能获取类似级别的洞察。通过机器学习分析市场趋势、评估物业价值，AI降低了信息壁垒，让更广泛的参与者能够做出更明智的房地产决策。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2279",
+      "title": "US appeals court rebukes lawyer over ‘fake and hallucinated’ case citations - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSlQ2ek00bnF6cE5FUklNNmpxU1hILTd3UE1tamoyZVpsWmtGdEc5OUxGVjZ3WlhWdGJ3QkgtRF9HbldTT2ZiVDZlbjdlaTRZSE9IVlJGa09ZQk01cHRra3RrMkJnNXNaNUVGNmU5dkJYMTlhXzZfbWFXclpTdThnUF96aUVHOTFaSzJobmtfdDlGTjZLajhocC1Dak84SnlaX0hiRVdyX0J6VGQyQ2Z5RE1rOG5wRVRhZmVidmxMQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T18:41:43Z",
+      "summary": "美国一家上诉法院严厉斥责一名律师，因其在诉讼文件中引用了由AI生成的虚假案例。法庭指出，律师有义务核实所有引用材料的真实性，不能单纯依赖AI工具。此案警示法律从业者：尽管AI能提高效率，但律师仍需对提交给法庭的内容承担全部责任，防止'幻觉'内容误导司法程序。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2280",
+      "title": "BigBear.ai vs. SoundHound AI: Which Artificial Intelligence Stock Is a Better Buy in 2026? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd2NYMnJfV0VweE5tUG9acXdVU3ZoeHJuaUFxRU9DTENBdC1Fb3VIZ1F1YjRMSmdnRzl6bFlqZmdjMlFCV2ZBUUpHNm55clVpekVxdVZTLUpPcGdSbnhJNUgxcm9Od0h1ZW5ka3B5Nl9zLW5wbEEwX2M2VlYzN01RNF9SMlVWN1hSVTk1R3NoRFRHOHU5RDNpekFJT2JIUzhldTFmaHFnTFNhNFBKQnRxQmRvZ25CMUNCZ090MDFxSTV0ZjNOT3dHaW1VVVE3VDN2RWg5VWx0Yw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T18:21:33Z",
+      "summary": "投资分析比较了BigBear.ai和SoundHound AI两只股票在2026年的前景。BigBear.ai专注于国防和商业领域的AI决策支持，而SoundHound AI主导语音识别与对话AI。分析认为，两者各具优势：BigBear.ai受益于政府合同增长，SoundHound则在消费电子和汽车领域有广泛布局。投资者需根据风险偏好和行业趋势做出选择。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2281",
+      "title": "AGI vs. ASI vs. ANI: The Levels of AI Explained - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNzNxZ25EN2dFMkZwdDJVWUxnNHl2TWg0ZDM1OXFrUXlISnJLVWNmSUdJWDZSdUhqQi1Kb1o2R204OU40VHVERlRoWk50NjBEaWxJaFROUmppSl81WnFiYWtzZHdieWNOdmh0dWVLdFVkaVYtYTJGdGowQTZfRGVxZnd2MFJNOHhVMnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T18:09:10Z",
+      "summary": "文章系统解释了人工智能的三个等级：狭义人工智能（ANI）、通用人工智能（AGI）和超级人工智能（ASI）。ANI仅在特定任务上表现优异，如语音识别；AGI具备与人类相当的通用推理能力，目前尚未实现；ASI则全面超越人类智能，是理论上的最强者。理解这些层级有助于把握AI发展的当前阶段和未来方向。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2282",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-10T17:17:12Z",
+      "summary": "韩国SK海力士在美国IPO融资265亿美元，创下外国公司在美国历史上最大规模上市纪录。这一里程碑受益于AI芯片需求的爆发式增长。同时，美国政府敦促SK海力士和三星在美建设新晶圆厂，以强化本土半导体供应链。此举标志着AI硬件制造向美国本土回流的重要趋势。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2283",
+      "title": "AI EXPERT, GUY MORRIS RELEASES NEW BOOK ‘THE AI TSUNAMI’ AS ARTIFICIAL INTELLIGENCE RESHAPES THE GLOBAL ECONOMY - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdFMtd3JEZUx4Y1lGZzhkWm42MEt3ZEV3dUFfNktfQTFxSTZCUGd6NmkxUVpseWwzYUdJM2txWk1PQVdud2l4Z1BjNERBUHl4RVJIa1NhRTNqSS1Kemt3dmE0NkR0VGpHa3lNd1VEcHJmOHdXLTdWVWQ2Q2tJQ0REdkdiZTItOXdUdmlWRl9GcENWZWtscWlraS1USEc5YTRrN0VxbWJWUGhkR2IxLWFMUTlFVF9jTEVkR3FvLUxXN0w0Wm9rMHZRNF9HWWZWZUtfUlB0dW5qZmQxQVcwaVdtTWRpM2lJVWI4RlUw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T15:45:00Z",
+      "summary": "AI专家Guy Morris发布新书《AI海啸》，探讨人工智能如何重塑全球经济格局。书中指出，AI将像海啸一样席卷各行各业，带来生产效率的飞跃和劳动力市场的剧烈变动。Morris呼吁企业和个人提前适应，并关注AI带来的伦理与社会挑战，以在变革中把握机遇。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2284",
+      "title": "Deploying quantized models on Amazon SageMaker AI with Unsloth - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQm1SUXkzbkoxRUJrMzRlVDVMVjZMdXpwdFlzRVBfZ3R5VUtJN1hfdGdSeVlFLVdXRUlLYlVyd2d1aUI5T0oxY2NBQkQ3cmNiYVlBX01KMEI4OTE3Tml0Vm1UUDlacmw2QnpaQUxWdWpTdjZMMm95T2t1N2FSaE9kQWJSZlJKOFdfUktncFZZQXQ1VkRxRHBUdHJIbFFmMG9lenNETXlhbUY3eTNxRlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T15:26:05Z",
+      "summary": "AWS介绍了如何在Amazon SageMaker AI上使用Unsloth工具部署量化模型。量化技术通过降低模型参数精度来减少计算资源消耗和推理延迟，同时保持较高准确率。该方案使开发者能够更高效地将大语言模型部署到生产环境，适用于资源受限的边缘场景或需要快速响应的应用。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2285",
+      "title": "7 CFO risks from the high-stakes adoption of AI - CFO Dive",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMURpcnk3RGtyLXdJMkpZZTA3NHFybUc3TkpNYVJJVm1GR0ZZQWNaN2ZicnJjOHNHeVd1X0UycXRGNDY1QUFpUHlVVzduSVBQWlQyeWVlVnEteUg1WU5RWFJxVG80V1FHcERlWDA3RExOdG1ZR0dzazA1b2JsekRIWVVkUGwxS2VpRWlfOGl4bm00d0ktaVpVaTlybk8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T15:17:53Z",
+      "summary": "文章列出了首席财务官（CFO）在采用AI时面临的七大高风险因素，包括：数据隐私与安全漏洞、模型偏见导致决策失误、高昂的实施与维护成本、监管合规不确定性、对AI过度依赖而削弱人工判断、技术人才短缺以及供应商锁定风险。CFO需在追求效率提升的同时，建立完善的风险管控框架。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2286",
+      "title": "Is AI the next Tower of Babel? Pope Leo worries artificial intelligence bringing 'Babel syndrome', 'idolatry of profit' - The Star Democrat",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOazlrVUJGSS0tMnhZQkNqVlBpVkc5MmNOSmVkTDhsdWZqemhZUE4zZDl5Q2lNOWY4eC1sMHRJak9JNUhGdEhrSmVaTnl3TjVsNkloN3RJQjRmU0gxZjMtM3MtcWR2Zzd0VjRZQ2xHTjdUSnlBcy1Xb3FVUXdZS1lwMGJhUEp6endYQUk5TjR2dVdtcXplOWtpZHZuVHYyd1JSd1d4bDhOUUtoa2FlUThMdmY3M0VDUnhZOXExVFNnbmFTRW1Nem93a0NaTmoxbE1VbGMxVWdhbmd4Ym1aUDZIWWFlUFUwY1MycDJOM0M4MWVUZU9jSDVQTnBOUjZuXy0tUTNJb3dmUC0yNlZqS3hsQ2k1Nkk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T14:57:00Z",
+      "summary": "教皇方济各（原文提及Pope Leo但结合上下文应为教皇方济各）担忧AI可能成为新的'巴别塔'，带来'巴别综合征'和'利润崇拜'。他认为，如果AI发展只追求效率和利润，而忽视人文关怀与道德约束，将导致社会沟通混乱、价值观异化。教皇呼吁各界在推进AI时保持伦理警惕，防止技术沦为失控的工具。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2287",
+      "title": "CrowdStrike identifies five new prompt injection threats to AI - csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXlrbm1tYjVuNE9sVGJaV21TUTJLaTBZQmZRVXhPLXpNMENTSnNhaUNQWHNwZHFrOWxqX2lwZ2l6MkM4UlYtRjhGWHdUNGtwTjNHQXBKWnpZY1FfVUIzY0FqT3NyUmhKSWtLWTRVRDhhb2l0MExrMEFRZXdENkczUGNwQTNrd2NLVW9uZkcxVXpzdlFDVmpZbzhjel9yTlI1cnZ2MmFWVWFQb0hQcUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T14:32:22Z",
+      "summary": "网络安全公司CrowdStrike最新报告指出，针对AI系统的提示注入攻击出现了五种新变种。这些攻击通过精心设计的恶意提示，诱导大语言模型泄露敏感信息、执行未授权操作或生成有害内容。CrowdStrike强调，随着企业广泛部署AI助手和聊天机器人，此类安全威胁正快速演变，传统防护手段难以完全抵御。报告建议企业采用多层级防御策略，包括输入验证、权限最小化以及持续监控模型行为。此次发现凸显了AI安全领域攻防对抗的升级趋势。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2288",
+      "title": "Mistral joins rush to build physical AI - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUgyQ244VTZqenNodVZjMVMyZTk1dzRGVlFib3pfMk5LQUdWRGJfNXFlT25DMGhDYV8xbHF4WHVCUnNQTU1NMUNoR0tCdlo2NjlONERESEdUYU9Ic2dtUXQtSFNuRFNCRjhzbmQ4QUh3Y3RQYmVrWHkteUlzNERMNmtDdkVKTVZlTldGMm1faWdlNUE0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T14:16:02Z",
+      "summary": "法国AI初创公司Mistral宣布加入物理AI研发竞赛，计划将大语言模型与机器人、自动驾驶等实体系统结合。物理AI旨在让智能体在真实世界中感知、决策并执行动作，被视为下一波AI浪潮的核心。Mistral凭借其高效的开源模型在自然语言处理领域崭露头角，此次跨界布局意在抢占工业自动化与具身智能市场。分析人士认为，这标志着AI竞争从数字空间延伸至物理世界，对算力、硬件整合能力提出更高要求。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2289",
+      "title": "The Logo for Donald Trump International Airport Appears to Be AI Slop - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wY1JxV1lWWDdnU2I0U2NUMFZhaVl2cGNUZDhLVXNIa1d3Skw0T1c1c0dwTEp1WHFfZ2FjNTBSRmJCZzYyQ210REowR1ZDZDYyb2NMbUMxUmRROVBlMjAxNWFVSFE5bU5oYVM3YmRMV1ZJVkN4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T14:13:11Z",
+      "summary": "疑似由AI生成的唐纳德·特朗普国际机场标志引发争议。该Logo被指存在明显AI生成痕迹，如不自然的线条、比例失调及缺乏设计一致性。批评者认为，使用低质量的AI内容作为官方标识，既损害品牌形象，也反映出对专业设计的轻视。事件再次引发关于AI生成内容在公共领域应用标准的讨论，尤其是如何平衡效率与艺术质量。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2290",
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-10T14:00:00Z",
+      "summary": "Hugging Face CEO克莱姆·德朗格表示，企业正在从租赁专有AI（如API调用）转向采用开源模型，因为后者能提供更高的定制灵活性、数据隐私保障及成本控制。Hugging Face作为AI领域的GitHub，承载了超50万开源模型和数据集，近半数百强企业已在其平台构建AI应用。德朗格指出，开源生态的崛起使公司不再依赖单一供应商，而是拥有自主开发AI的能力，这一趋势正加速企业AI战略转型。",
+      "fetchDate": "2026-07-10"
+    },
+    {
       "id": "2270",
       "title": "The Kingdom showcases its experience in building an integrated artificial intelligence (AI) ecosystem at the World Summit on the Information Society (WSIS) Forum - صحيفة مال",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LYTlWbEY3M0t5ZUEzaHluODRWcEtOLUZOSnVZOU1VZ0FlRHRRVDBSb0ZXRl93Wnh4RWtnYk5xZUpleDhKSTRGWll5QQ?oc=5",
@@ -20476,5 +20602,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2275
+  "total": 2289
 }
