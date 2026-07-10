@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "id": "2249",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-10T00:16:54Z",
+      "summary": "OpenAI宣布其最新模型GPT-5.6将成为微软Copilot 365的“首选模型”，在双方可能分手的传闻背景下重申合作。新模型系列将继续为微软的办公与生产力应用套件提供AI驱动力，涵盖写作、数据分析、会议总结等功能。此举既巩固了OpenAI在商业AI领域的地位，也回应了外界对二者关系破裂的猜测。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2250",
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T23:38:00Z",
+      "summary": "OpenAI二号高管Fidji Simo宣布辞去全职职务，此前她因医疗休假延长未能返岗。Simo的离职在公司关键阶段造成领导层真空——OpenAI正筹备可能的IPO，并在企业市场与Anthropic展开激烈竞争。她的离开可能影响公司战略执行与组织稳定性，引发外界对OpenAI治理能力的关注。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2251",
+      "title": "Pearson Airport warns public about AI-generated stories providing false info about flight operations - CityNews Toronto",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDFKSWlDaEg0d3hQYkdMWDRoWjRIRHptNVotV2ZzLWdDOTc3R0VNREM2Yk9TampGeHlWV1YzMXZ1Sk4taFhrTWx6bWdFcGxlWFg5c3g1bzQwTkZsejk5MTByemhEcG1ENEl2STFGTnlpVld3cldrd3A3VUNjSHZIMkczQTVWcDY3Y2JGc0cyRE9VWDlXZzRVTEZvQl9RVXNHbDJYb0R3a3dvWUJYdUlsdGNuLUpLbENCcnd6YU43WDlLNXZlTGQ4Ym9pVVBMVmpTbE4yM0RaSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T23:21:00Z",
+      "summary": "多伦多皮尔逊机场发布警告，提醒公众警惕AI生成的虚假新闻，这些内容伪造航班运营信息，可能导致旅客误解或做出错误决策。机场强调，官方信息仅通过官网和认证渠道发布，呼吁民众核实来源。该事件凸显AI伪造内容对公共安全和信任体系的潜在威胁。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2252",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T22:24:24Z",
+      "summary": "OpenAI正式推出以GPT-5.6为核心的新一代模型家族，在多项能力上实现显著提升，尤其在网络安全领域表现突出。新模型能够更精准地检测恶意代码、识别钓鱼攻击，并支持自动化安全响应。这是OpenAI在强化AI安全性方向的重要一步，同时也为企业和开发者提供了更可靠的AI工具。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2253",
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T22:08:58Z",
+      "summary": "AI代理初创公司Lyzr利用自家研发的AI代理全程主导了一轮1亿美元融资，以证明其产品的真实有效性。该代理负责投资者沟通、条款谈判及流程协调，最终成功完成募资。此举展示了AI代理在复杂商业场景中的实际应用潜力，但也引发关于AI自主决策风险与监管的讨论。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2254",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T22:03:54Z",
+      "summary": "OpenAI宣布关闭运营不到一年的AI浏览器Atlas，但继续拓展AI浏览器领域的野心。部分代理浏览功能（如自主网页操作、信息提取）将迁移至桌面应用和Chrome扩展中。此举表明OpenAI正在调整产品策略，聚焦更整合的AI体验，而非独立浏览器形态。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2255",
+      "title": "Breakingviews - The good, bad and ugly of AI’s economic impact - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWhfUlhlblhhaGF4ZDZ0S0JJWURwem9SdHFIbUdmYlliRHF1Rm9taHpFdV9UVFl5a2tpRXlMSUk1ZkdZamY2dmhMTklnVXJTTzhXTlRPSElyVlB2UmF1Y0NWdkgxalVNSFdMRVVLZGxqVV9aZHZLVFI0NFc2MFI1Mm5rcHZrXzc2ZVVBRnpmakQ4bEtsZUthdjV3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T22:00:00Z",
+      "summary": "路透社评论文章指出，AI对经济的影响呈现“好、坏、丑陋”三面性：积极面是生产力提升与创新加速；消极面包括就业替代与不平等加剧；最令人担忧的是AI可能加剧金融系统脆弱性与地缘风险。文章呼吁政策制定者平衡发展速度与监管，避免短期利益掩盖长期伤害。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2256",
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T21:57:42Z",
+      "summary": "埃隆·马斯克公开赞扬由前DeepMind员工创立的AI公司Mythos/Fable，并承诺不会切断对其竞争对手Anthropic的支持。涉及约400亿美元收入，马斯克试图安抚市场对xAI与Anthropic合作关系的担忧。此举反映AI行业巨头之间复杂的竞合关系以及马斯克对多极生态的偏好。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2257",
+      "title": "Can AI answer the $3 trillion question?",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-09T21:47:50Z",
+      "summary": "围绕AI投资回报率的辩论再次升温，核心问题指向“AI能否回答3万亿美元的经济答案”？随着企业巨额投入与产出效益的差距显现，投资者质疑AI的商业可行性。文章分析认为，AI的真正价值可能不在短期替代成本，而在重塑行业规则与创造新市场，但风险与争议同样巨大。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2258",
+      "title": "The AI Cheating Tsunami Hits the Ivy League - National Review",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONTdzT2VERWlZaHRpMTBlRW4yN3hXSVQ2d3JEckJSdWtYdlpZbmtCXzc3QVRZMUV0U2FqU0NSV0NIRWE2Sk1hdWhWbE1md0tTYm50ZGszUXVIbllmNEdqTk5vYjVkNW5GNFdnZFI2dXRMeFlPTGJZajdzb2JMY0tQcVRlaUxXNGstblHSAY8BQVVfeXFMUG9wY0lfbURjZkszRXI5V3pxVlRlWDJNbFdkRF80RnhfNXZHcXVwWVJRVnZMSVZOV2Jqa1hhRi16ejZwQ0EwUUtwTlBwRG9wRFZjaU1FVFRqWEotaXR4bFQyejFMbGtrZzBCTHVIREN5NThQWk1nc2RheUZPUjNqVTItbFVHcWpOcGpOY0NXTDg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T21:45:02Z",
+      "summary": "常春藤联盟高校正面临由AI引发的学术诚信危机。学生借助ChatGPT等生成式AI工具完成作业、论文甚至考试，导致作弊现象激增。National Review报道指出，这一“AI作弊海啸”对传统教育评估体系构成严峻挑战，校方在检测和防范方面力不从心。技术层面，AI生成的文本难以通过传统查重工具识别，而学校尚未普遍部署有效的AI内容检测系统。这引发了关于学术诚信定义、AI使用边界以及教育模式改革的广泛讨论。部分高校开始调整评分标准，增加课堂笔试和口试比例，并研发AI辅助的学术诚信检查工具以应对新形势。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2259",
+      "title": "AI-Powered CRMs Drive Higher Conversions and Faster Sales for Dealerships - CBT News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTlyZ1lNOGlSUDVxMkNsREpoUFhxUjZiNFBqeHppVy1CMEwwUHZwaFpDYUlDcUxfY2lzSDlyOVRoWFk3anQyWmVhM29TQXV2bTZXTm5vNU54U0JIVHpZS0gyOXR3QTRsV3VYdUdTNmFlRi1IMThxbVpyUE1iRzZuUXljbFkwbmM0MW5MbWI3RmRrSzV6OTVBN0E5VERRMTg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T21:17:34Z",
+      "summary": "CBT News报道指出，AI驱动的客户关系管理系统正显著提升汽车经销商的销售转化率和效率。这类CRM利用机器学习分析客户行为数据，预测购买意向并自动生成个性化跟进策略。技术要点包括自然语言处理用于分析销售通话和电邮中的客户情绪，以及推荐算法优化库存匹配和定价策略。案例显示，采用AI CRM的经销商客户跟进响应时间缩短50%以上，销售转化率提升约20%。同时，系统还能自动识别高价值客户并触发即时营销动作，有效减少销售团队的重复性工作，实现更快闭环交易。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2260",
+      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUlocGtQQUlPNVRua2QtVWtEQTlwWXZuc2R6eUo0Wi04Y2p6dE5jTDBNcEFackhPYjhOODF3WWhybFdyTndXMGpKWlJQN01VNllDZHY4OEVEZ25mSFpIMWYybnhWd0NZb0Z2Y2dIbDViNFREdTNtY3ZmS0hTUkpvUXM0bGgyekxkVEtNOXA5ZU5Lb0xoMVVWTw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T21:16:00Z",
+      "summary": "The Motley Fool发表分析文章指出，若只能选择一只AI股票，其首选为英伟达（NVIDIA）。文章强调英伟达在AI芯片市场的主导地位：其GPU（如H100、B200）是训练大模型的标准硬件，市占率超过80%。随着AI应用从训练转向推理，英伟达的CUDA生态和不断迭代的架构继续构筑护城河。此外，数据中心业务持续高增长，汽车、医疗等垂直领域的AI部署也带来增量空间。尽管估值较高，但强劲的业绩增长和AI基础设施需求使英伟达成为最具确定性的AI投资标的。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2261",
+      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHRFZmZ3eDZLSzBVODZoTnBxOUVIWm9odExkR0g4RU10OXo4NWRlZUR4ZTFTV3N2bTdGaWZRUXB5ODhfdXd1Q01PSkV6cXdyd1BCck9VbHRrQzdLWVlfWVpCeDg1ZVZpeGZleVJSWXQxeWJGTXlKTk5nWnN0M3paTExmb1dsbnYyOGdZWUZTenpnYmVNOXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T20:36:00Z",
+      "summary": "Yahoo Finance转载的分析文章认为，英伟达是当前AI投资浪潮中最值得买入的单一股票。核心逻辑在于英伟达已从GPU供应商转型为全栈AI计算平台，其CUDA软件生态绑定大量开发者，形成强大的用户黏性。技术层面，新一代Blackwell架构实现性能和能效大幅提升，进一步巩固数据中心AI训练和推理的优势。公司毛利率超过70%，且下游云服务商资本开支持续增长，驱动收入连续多个季度同比翻倍。文章提醒投资者关注竞争风险，但认为短期替代可能性低，长期增长路径清晰。",
+      "fetchDate": "2026-07-10"
+    },
+    {
+      "id": "2262",
+      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeE4yZ3BIOFRTT2VYVHJoem9yc0pLNlNlNHlzT2lLdVlpLU5RdGVfNHlpNmlXWDVZb1gtaFp3N2Z5MFcxdVM5dnRIVThwb0xSdVNZcnVtLVRYdWNwN0pULVo3MndQQjIzdzQ3UGpnMloxaExGWGF5ZXpKRm1pdm1WbUtzZHRhQjJHZXpIRTdObkxJNFF2TFN6dFVJT0RwLTItNzZ5MnRtX3RnU2lKYWpRS055d2cyWW1BTjJ6bGw3cFZ6ZDlhTTZDSXNsWEFVVTdvaTl0WnFkN0Q5Ukd0OXk5NGpnbTgyZFRhWXNBOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-09T20:36:00Z",
+      "summary": "The Globe and Mail的评论文章建议，若只投资一只AI股票，英伟达是最佳选择。文章分析指出，英伟达不仅是AI算力的核心供应商，其技术路线图还涵盖自动驾驶、机器人等未来增长领域。在技术要点上，英伟达的Grace CPU超级芯片和NVLink互联技术使其在高性能计算集群中不可或缺。数据中心业务已占公司营收80%以上，且毛利率保持70%以上高位。尽管面临AMD和定制芯片的竞争，但英伟达先发优势和持续创新使其在AI时代的地位稳固，适合长期持有。",
+      "fetchDate": "2026-07-10"
+    },
+    {
       "id": "2231",
       "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
       "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
@@ -20224,5 +20350,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2247
+  "total": 2261
 }
