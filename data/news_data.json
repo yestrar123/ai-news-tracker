@@ -1,118 +1,48 @@
 {
-  "updatedAt": "2026-07-10 01:50:15 UTC",
-  "totalArticles": 16,
+  "updatedAt": "2026-07-10 05:55:48 UTC",
+  "totalArticles": 6,
   "articles": [
+    {
+      "title": "Although AI agent payments, in which generative artificial intelligence (AI) selects products and ev.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXSWRDYWd3VV9kc05TTEtzNmxPWGwxdkJvdGEtdjkzQlJvRnRkaEtnUkpaNk1HTFYzN2J3R1JXMnNWeld4LUhuT2syYzlZV3FVTWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T05:19:27Z",
+      "summary": "生成式AI代理支付功能允许AI自动选择商品并完成交易，但该模式在安全性、隐私及责任归属方面引发讨论。目前相关技术仍在早期阶段，需解决用户信任与监管适配问题，未来或重塑电商与金融服务流程。"
+    },
+    {
+      "title": "SpaceXAI collaborates with AI coding startup on legal-focused artificial intelligence model - Canadian Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalNha1pTLVY2dEZZQUFMWTNnZ3czUlRDT01sNlNwTm5yVU9RbDdjQmhwdG5GbDFhdVQwY2lJbUUtaENZVlNTZ2xrVTBabjBuLUpxcTJnOEw4cDhMSzJLaXJvUmM4RGFIV3lWLXR6RHBsaE9zek5yM3cxakFHam84djU5NGhkZlp4WU0yVkRVWVNncXdFWUZETUJQWDltYm5RbGI0Mmh1VDFET18yNG9wT1NnZzJjWmtlQldJWHdFZG1rTXMyMlRTWE9qWVRjQWFEWm9BTEdkVjB2eDk0aWNxWU9ZMDd1QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T03:23:48Z",
+      "summary": "SpaceX与AI编码初创公司合作，共同开发面向法律领域的人工智能模型。该模型旨在处理合同分析、法律检索等专业任务，提升法律工作的自动化水平。合作将结合SpaceX的技术积累与初创公司的垂直领域专长，推动法律AI落地。"
+    },
+    {
+      "title": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0ptYU8zWm9JNDV2dXRsaHh1V2xnekNyakdBMHdPWV96TExVNElNRlJPa3UzSHJEMl9GZ3UzeC1XdUFZUWpsRmxDUnFUTncxSEE4N3RlTGVDcGZKRzJHeFNzellGMnJ5c3BldXRwN1AwdXF6c1YtWUpnYlE4b19ubzZqSEEyX0ItUUVMT3YxZDViQU1pNWhqdDhtS2xUSnNzQ3UtVndQbmdBdHdnaU1xSGNnRlJlNUMzcm9MdXNmS2xQMWRSLW16a3NNSkM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T02:36:00Z",
+      "summary": "评论文章警告，AI数据中心能耗巨大且增长迅猛，如同‘定时炸弹’，可能加剧环境压力。作者呼吁社会各界审慎评估AI的效益与成本，确保技术发展的可持续性，避免因盲目扩张而牺牲生态与公共利益。"
+    },
+    {
+      "title": "Cognizant's Big AI Bet: 15,000 Frontier Roles To Unlock $4.5 Trillion Value - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNGh3ODVUb2JnX3J0U3R1R05UbkZPNlZrR0FoeHVTd2tiSktHZE10YVZnWFVxRnNiSkFYSDROOHZZTzVtaDhMa1JINTFmVEZhdUZGX0lMcWQ2T2UxcThnLWhSaUJfR256MWVwa1ItaVBydlV0X0l4T29oNndFZjY5b0lwZlFDM0xvRE53ajQ3WUJtMWU3bE00bk5JdHNaaGpjbjRqSEJkRnJydzRCdXByUmV6Mm5yS0RPOWJGcXRNZlUzNHZh0gHMAUFVX3lxTE80dEJEUXctczBCNWUwWE9WNkRLZUFzVzBCSGk5UEc4ZENWdmlqZE9DWjhGM1dfN1VSdk54YklHNktvWlcwZVdSaC1QZFp0ZjJzTEdjOU5tV2ViSG5lbThPZ2N3TGYwdDhaY3psZGV3XzN2WTVvNHFzUEVPc1BsZjlzUEhYQURyd2FqaElzLThac3JSVndqS1pXdzJSVE5KZUFfNUdKdVZuZHNtVHN2S3paLUtuVWlxTTc3czdEZUkxWHQyS3dOVmdrTmZMMg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T02:06:14Z",
+      "summary": "IT服务巨头Cognizant宣布大规模AI战略，计划设置1.5万个‘前沿岗位’，聚焦生成式AI等高价值领域，目标解锁4.5万亿美元的市场价值。此举体现公司对AI转型的坚定投入，也反映出企业对AI人才和能力的迫切需求。"
+    },
+    {
+      "title": "Artificial intelligence: University of Chicago Law School to ban phones, laptops in classroom for 1st-year students in AI strategy - ABC7 Chicago",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaDN5UzhibVdaTVpGekd2dElCS21lSkdiSXNxTmJWRUhBU1dqdDlKa3BBbUt1dkdJYzVYRFpKbzNRVVFFc0tnQmxOWTBJTHFmOXBZd3RJRkMtTU5KWkpvQnJzZGFOM0xJSW5zdVQzLThoQTlqSUVsTWxpcThGc1ZNWGNuQjhQS0F0SHpMd0lqMnZ3ZWpQbC1zeTlTeGJTLVFfeXkyOE45NEViM2xYeTRDdGRYN19HcXNZTzVMZk5vMDFoSVM5TG1WWWtKWFVLR2ppeTJNNFlWVWZCRWtTM0VYdVFQNXdmZ9IB6wFBVV95cUxNaXlnNHJURERDdkVsTFF6ck9pdWFQcHBFTW4zejdzMmRrR0lmbDJSeDZjTXo4RG5LQzV1TEljUl9QM1F2LXg3VmRaM0Y1T3F1QXV3akV6TThIcXY5NWcxSFRod0ktT2pJWVF0M1RQTXZfaV9mTGt6YWg4ZXJuY2VveGI4aWVnRkVSWWF4MDdNdklBZk5ydmJmZ1V4clhyQjhtNmZweHh2Vk85WkdTSkw0d0pzQnhTbDRYX0R1d3cyV2hJZjlNVENsSFJIb1RPMllDZlJudTlieG9DTDNBRFpUa0VLV25wWUxNLWtr?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-10T01:50:47Z",
+      "summary": "芝加哥大学法学院宣布，作为AI战略的一部分，将禁止一年级学生在课堂上使用手机和笔记本电脑。此举旨在减少数字干扰，鼓励面对面讨论与批判性思维，应对AI可能带来的学习方式变革。校方认为传统课堂互动无可替代。"
+    },
     {
       "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
       "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-10T00:16:54Z",
-      "summary": "OpenAI宣布其最新模型GPT-5.6将成为微软Copilot 365的“首选模型”，在双方可能分手的传闻背景下重申合作。新模型系列将继续为微软的办公与生产力应用套件提供AI驱动力，涵盖写作、数据分析、会议总结等功能。此举既巩固了OpenAI在商业AI领域的地位，也回应了外界对二者关系破裂的猜测。"
-    },
-    {
-      "title": "EXCLUSIVE: Meta to put AI chip into production in September as it looks to double computing capacity, memo shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmJUcmlIQzJ4M0Vmd1QxQno5ajZPWnFqRHMtQkNMSzVRMHlnOXBqZDN4cjVuRU1XR3IyajdHekZJRkNpeXA2UjRBaXdiaDlnbkxVa1VXb1hwY3BDMUE1am9uX0o3OUxYTWVkeUMyemFUQ0JkMlVpX1RWSTBLVzI3bC1uaTVGelVXd1pSdEY4RHpreUQySmhOUjZMemVGQ3k4YTREY3VxN3k5alhELVdJa1hGeGYxbUltMV9mVUtHZWM4SmQ1eGNqRkk0RUk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-09T23:48:25Z",
-      "summary": "据路透社独家消息，Meta计划于今年9月将其自研AI芯片投入量产，旨在将公司计算能力提升一倍。这份内部备忘录显示，Meta正加速摆脱对第三方芯片的依赖，通过定制化硬件优化AI模型训练与推理效率。此举将大幅降低运营成本，同时支撑其在元宇宙和生成式AI领域的长期布局。"
-    },
-    {
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09T23:38:00Z",
-      "summary": "OpenAI二号高管Fidji Simo宣布辞去全职职务，此前她因医疗休假延长未能返岗。Simo的离职在公司关键阶段造成领导层真空——OpenAI正筹备可能的IPO，并在企业市场与Anthropic展开激烈竞争。她的离开可能影响公司战略执行与组织稳定性，引发外界对OpenAI治理能力的关注。"
-    },
-    {
-      "title": "Pearson Airport warns public about AI-generated stories providing false info about flight operations - CityNews Toronto",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDFKSWlDaEg0d3hQYkdMWDRoWjRIRHptNVotV2ZzLWdDOTc3R0VNREM2Yk9TampGeHlWV1YzMXZ1Sk4taFhrTWx6bWdFcGxlWFg5c3g1bzQwTkZsejk5MTByemhEcG1ENEl2STFGTnlpVld3cldrd3A3VUNjSHZIMkczQTVWcDY3Y2JGc0cyRE9VWDlXZzRVTEZvQl9RVXNHbDJYb0R3a3dvWUJYdUlsdGNuLUpLbENCcnd6YU43WDlLNXZlTGQ4Ym9pVVBMVmpTbE4yM0RaSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-09T23:21:00Z",
-      "summary": "多伦多皮尔逊机场发布警告，提醒公众警惕AI生成的虚假新闻，这些内容伪造航班运营信息，可能导致旅客误解或做出错误决策。机场强调，官方信息仅通过官网和认证渠道发布，呼吁民众核实来源。该事件凸显AI伪造内容对公共安全和信任体系的潜在威胁。"
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09T22:24:24Z",
-      "summary": "OpenAI正式推出以GPT-5.6为核心的新一代模型家族，在多项能力上实现显著提升，尤其在网络安全领域表现突出。新模型能够更精准地检测恶意代码、识别钓鱼攻击，并支持自动化安全响应。这是OpenAI在强化AI安全性方向的重要一步，同时也为企业和开发者提供了更可靠的AI工具。"
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09T22:08:58Z",
-      "summary": "AI代理初创公司Lyzr利用自家研发的AI代理全程主导了一轮1亿美元融资，以证明其产品的真实有效性。该代理负责投资者沟通、条款谈判及流程协调，最终成功完成募资。此举展示了AI代理在复杂商业场景中的实际应用潜力，但也引发关于AI自主决策风险与监管的讨论。"
-    },
-    {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09T22:03:54Z",
-      "summary": "OpenAI宣布关闭运营不到一年的AI浏览器Atlas，但继续拓展AI浏览器领域的野心。部分代理浏览功能（如自主网页操作、信息提取）将迁移至桌面应用和Chrome扩展中。此举表明OpenAI正在调整产品策略，聚焦更整合的AI体验，而非独立浏览器形态。"
-    },
-    {
-      "title": "Breakingviews - The good, bad and ugly of AI’s economic impact - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWhfUlhlblhhaGF4ZDZ0S0JJWURwem9SdHFIbUdmYlliRHF1Rm9taHpFdV9UVFl5a2tpRXlMSUk1ZkdZamY2dmhMTklnVXJTTzhXTlRPSElyVlB2UmF1Y0NWdkgxalVNSFdMRVVLZGxqVV9aZHZLVFI0NFc2MFI1Mm5rcHZrXzc2ZVVBRnpmakQ4bEtsZUthdjV3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-09T22:00:00Z",
-      "summary": "路透社评论文章指出，AI对经济的影响呈现“好、坏、丑陋”三面性：积极面是生产力提升与创新加速；消极面包括就业替代与不平等加剧；最令人担忧的是AI可能加剧金融系统脆弱性与地缘风险。文章呼吁政策制定者平衡发展速度与监管，避免短期利益掩盖长期伤害。"
-    },
-    {
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09T21:57:42Z",
-      "summary": "埃隆·马斯克公开赞扬由前DeepMind员工创立的AI公司Mythos/Fable，并承诺不会切断对其竞争对手Anthropic的支持。涉及约400亿美元收入，马斯克试图安抚市场对xAI与Anthropic合作关系的担忧。此举反映AI行业巨头之间复杂的竞合关系以及马斯克对多极生态的偏好。"
-    },
-    {
-      "title": "Can AI answer the $3 trillion question?",
-      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09T21:47:50Z",
-      "summary": "围绕AI投资回报率的辩论再次升温，核心问题指向“AI能否回答3万亿美元的经济答案”？随着企业巨额投入与产出效益的差距显现，投资者质疑AI的商业可行性。文章分析认为，AI的真正价值可能不在短期替代成本，而在重塑行业规则与创造新市场，但风险与争议同样巨大。"
-    },
-    {
-      "title": "The AI Cheating Tsunami Hits the Ivy League - National Review",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONTdzT2VERWlZaHRpMTBlRW4yN3hXSVQ2d3JEckJSdWtYdlpZbmtCXzc3QVRZMUV0U2FqU0NSV0NIRWE2Sk1hdWhWbE1md0tTYm50ZGszUXVIbllmNEdqTk5vYjVkNW5GNFdnZFI2dXRMeFlPTGJZajdzb2JMY0tQcVRlaUxXNGstblHSAY8BQVVfeXFMUG9wY0lfbURjZkszRXI5V3pxVlRlWDJNbFdkRF80RnhfNXZHcXVwWVJRVnZMSVZOV2Jqa1hhRi16ejZwQ0EwUUtwTlBwRG9wRFZjaU1FVFRqWEotaXR4bFQyejFMbGtrZzBCTHVIREN5NThQWk1nc2RheUZPUjNqVTItbFVHcWpOcGpOY0NXTDg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-09T21:45:02Z",
-      "summary": "常春藤联盟高校正面临由AI引发的学术诚信危机。学生借助ChatGPT等生成式AI工具完成作业、论文甚至考试，导致作弊现象激增。National Review报道指出，这一“AI作弊海啸”对传统教育评估体系构成严峻挑战，校方在检测和防范方面力不从心。技术层面，AI生成的文本难以通过传统查重工具识别，而学校尚未普遍部署有效的AI内容检测系统。这引发了关于学术诚信定义、AI使用边界以及教育模式改革的广泛讨论。部分高校开始调整评分标准，增加课堂笔试和口试比例，并研发AI辅助的学术诚信检查工具以应对新形势。"
-    },
-    {
-      "title": "UN digital tech agency launches initiative to improve trust in AI agents - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLW40R0Vic01SdnN0WVBwcV9xUGU5NDkyVUhmVFEtV05xRllhZUdIZEhUSWEwOEt6OUdFZnVheG8wMFh1eGo2QmxDLW5ZNmN5RHNPcm44VTJtZ1EzdzRVXy0yNFJaVWx2VnNMNUtTa2d4cHRHOHVfbkhBZzUxMUxERXNaS1BPVXFtQThJOHdqVzJoaVdIOUVhWEQzSFg3TUhxUUxvQVdxaWNxY195MHRMZ3MybFAyYzFLVXkw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-09T21:17:34Z",
-      "summary": "联合国数字技术机构（ITU）正式发起一项全球倡议，旨在提升对AI代理系统的信任度。该倡议聚焦于制定AI代理透明度、问责制和安全性方面的标准与指南，应对深度伪造、虚假信息传播以及自主决策风险。核心目标包括建立可验证的AI身份标识、开发基准测试方法以及推动多方利益相关者对话。此举反映出国际社会对AI代理（如聊天机器人、虚拟助手）信任缺失问题的重视，技术层面将涉及可解释AI、鲁棒性评估和伦理审计等关键领域，为AI代理的负责任部署提供框架。"
-    },
-    {
-      "title": "AI-Powered CRMs Drive Higher Conversions and Faster Sales for Dealerships - CBT News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMTlyZ1lNOGlSUDVxMkNsREpoUFhxUjZiNFBqeHppVy1CMEwwUHZwaFpDYUlDcUxfY2lzSDlyOVRoWFk3anQyWmVhM29TQXV2bTZXTm5vNU54U0JIVHpZS0gyOXR3QTRsV3VYdUdTNmFlRi1IMThxbVpyUE1iRzZuUXljbFkwbmM0MW5MbWI3RmRrSzV6OTVBN0E5VERRMTg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-09T21:17:34Z",
-      "summary": "CBT News报道指出，AI驱动的客户关系管理系统正显著提升汽车经销商的销售转化率和效率。这类CRM利用机器学习分析客户行为数据，预测购买意向并自动生成个性化跟进策略。技术要点包括自然语言处理用于分析销售通话和电邮中的客户情绪，以及推荐算法优化库存匹配和定价策略。案例显示，采用AI CRM的经销商客户跟进响应时间缩短50%以上，销售转化率提升约20%。同时，系统还能自动识别高价值客户并触发即时营销动作，有效减少销售团队的重复性工作，实现更快闭环交易。"
-    },
-    {
-      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUlocGtQQUlPNVRua2QtVWtEQTlwWXZuc2R6eUo0Wi04Y2p6dE5jTDBNcEFackhPYjhOODF3WWhybFdyTndXMGpKWlJQN01VNllDZHY4OEVEZ25mSFpIMWYybnhWd0NZb0Z2Y2dIbDViNFREdTNtY3ZmS0hTUkpvUXM0bGgyekxkVEtNOXA5ZU5Lb0xoMVVWTw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-09T21:16:00Z",
-      "summary": "The Motley Fool发表分析文章指出，若只能选择一只AI股票，其首选为英伟达（NVIDIA）。文章强调英伟达在AI芯片市场的主导地位：其GPU（如H100、B200）是训练大模型的标准硬件，市占率超过80%。随着AI应用从训练转向推理，英伟达的CUDA生态和不断迭代的架构继续构筑护城河。此外，数据中心业务持续高增长，汽车、医疗等垂直领域的AI部署也带来增量空间。尽管估值较高，但强劲的业绩增长和AI基础设施需求使英伟达成为最具确定性的AI投资标的。"
-    },
-    {
-      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHRFZmZ3eDZLSzBVODZoTnBxOUVIWm9odExkR0g4RU10OXo4NWRlZUR4ZTFTV3N2bTdGaWZRUXB5ODhfdXd1Q01PSkV6cXdyd1BCck9VbHRrQzdLWVlfWVpCeDg1ZVZpeGZleVJSWXQxeWJGTXlKTk5nWnN0M3paTExmb1dsbnYyOGdZWUZTenpnYmVNOXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-09T20:36:00Z",
-      "summary": "Yahoo Finance转载的分析文章认为，英伟达是当前AI投资浪潮中最值得买入的单一股票。核心逻辑在于英伟达已从GPU供应商转型为全栈AI计算平台，其CUDA软件生态绑定大量开发者，形成强大的用户黏性。技术层面，新一代Blackwell架构实现性能和能效大幅提升，进一步巩固数据中心AI训练和推理的优势。公司毛利率超过70%，且下游云服务商资本开支持续增长，驱动收入连续多个季度同比翻倍。文章提醒投资者关注竞争风险，但认为短期替代可能性低，长期增长路径清晰。"
-    },
-    {
-      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeE4yZ3BIOFRTT2VYVHJoem9yc0pLNlNlNHlzT2lLdVlpLU5RdGVfNHlpNmlXWDVZb1gtaFp3N2Z5MFcxdVM5dnRIVThwb0xSdVNZcnVtLVRYdWNwN0pULVo3MndQQjIzdzQ3UGpnMloxaExGWGF5ZXpKRm1pdm1WbUtzZHRhQjJHZXpIRTdObkxJNFF2TFN6dFVJT0RwLTItNzZ5MnRtX3RnU2lKYWpRS055d2cyWW1BTjJ6bGw3cFZ6ZDlhTTZDSXNsWEFVVTdvaTl0WnFkN0Q5Ukd0OXk5NGpnbTgyZFRhWXNBOA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-09T20:36:00Z",
-      "summary": "The Globe and Mail的评论文章建议，若只投资一只AI股票，英伟达是最佳选择。文章分析指出，英伟达不仅是AI算力的核心供应商，其技术路线图还涵盖自动驾驶、机器人等未来增长领域。在技术要点上，英伟达的Grace CPU超级芯片和NVLink互联技术使其在高性能计算集群中不可或缺。数据中心业务已占公司营收80%以上，且毛利率保持70%以上高位。尽管面临AMD和定制芯片的竞争，但英伟达先发优势和持续创新使其在AI时代的地位稳固，适合长期持有。"
+      "summary": "OpenAI确认其新一代模型GPT-5.6将成为微软Copilot 365的首选模型。尽管外界传闻双方关系可能出现裂痕，但OpenAI强调将继续为微软办公软件套件提供核心AI能力，确保用户获得一致、高效的生产力体验。"
     }
   ]
 }
