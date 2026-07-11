@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "2304",
+      "title": "Dependence on Generative Artificial Intelligence Among Medical Students and Its Association With Critical Thinking: A Cross-Sectional Study - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSFVLeDRqd3ZkX1BLRFRwWFRHQ2I4alczQ2hGVFBrSXh5dGZLV2YwRHV5TXFEd3ZzLU1hNHFFakVRWEVkNVlqUk9iaXpiTW0xclpKQUwtb3dGWlp2QkcyUm1oeHdTOHVuQ01yLXVkbmdSdW9yeS1UWkZWeGhJNTJQSWRKOFpMOGZTUC1jX1lwVjF0YWhoeUJ2ZDEwSHRUWWZCU0xtc0tyeHZGdWJJcVJCMnFldFU3WXV3a3F6WHBKZS1kelRha3lwT1ljQ3lnbmFRZnNCX2xJb0tDaTQwZWhRNElsZGtJUGNCLTdaTzhBOEE0R3IzYTRxVXo2eGtkQzk2VFRXVXNkX1Q?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-11T12:26:47Z",
+      "summary": "该横断面研究探讨了医学生对生成式人工智能（AI）的依赖程度及其与批判性思维能力之间的关系。研究通过问卷调查收集数据，分析发现部分医学生过度依赖AI完成学习任务，这与其批判性思维得分呈负相关。研究者指出，虽然AI在医学教育中具有辅助作用，但过度依赖可能削弱学生自主分析和判断的能力。建议教育机构在引入AI工具的同时，注重培养学生的独立思考与批判性评估能力，以平衡技术应用与认知发展之间的关系。该研究为AI在医学教育中的合理应用提供了实证依据。",
+      "fetchDate": "2026-07-11"
+    },
+    {
+      "id": "2305",
+      "title": "Child Safety Requirements for Artificial Intelligence in our schools - Davis Vanguard",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBua3dkNlk2YTJ1T0VKRHRZRURYRDUyMFRUVHZsT2xvZW5TUEs0a0d6eHpGOTdMam00ZmhsdF8wdWZXN0Y5SEJnYS1ZMDg0UGUwS1p2OTdLV2R0NDBkc182elFZekx5WkdnYlFnWlR3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-11T11:05:00Z",
+      "summary": "本文讨论了在学校环境中实施人工智能（AI）技术时需满足的儿童安全要求。随着AI逐步进入课堂，如智能辅导系统、学生行为分析工具等，保护未成年人免受潜在风险成为关键议题。文中强调需制定明确的数据隐私政策，确保不收集超出必要范围的学生信息；同时AI算法应避免偏见与歧视，防止对特定群体造成不公平影响。此外，要求AI系统具备可解释性和人工监督机制，以便教师和家长能够理解并干预。监管层应出台强制性指南，确保教育AI在提升学习效率的同时，不损害儿童的身心健康与隐私权利。",
+      "fetchDate": "2026-07-11"
+    },
+    {
+      "id": "2306",
+      "title": "3 Phenomenal Artificial Intelligence (AI) Stocks to Buy Before They Report Earnings - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQlpTemZxemUzTWc3V0htaXA0SWRGV0NHclk2clZXZjFQOE5tY3RnOFZYc1lESkVGSW1BUzBMcktheW5hT1RRSjlRX3ItZUhtdWthTEVzSjFRaFMzNnpfTTI0Y29SRkhYVnMxQVhKLUFCbjhtUExOR0lWWGNoZUYtNU9BWVpXeGNsSHo0Sm8wbHhsdUNYQkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-11T10:07:20Z",
+      "summary": "著名投资网站Motley Fool推荐了三只在财报公布前值得买入的人工智能（AI）股票。文章认为这三家公司均在AI领域具有核心技术或市场优势，即将发布的财报有望超预期，从而推动股价上涨。尽管未具体列出公司名称，但通常此类推荐聚焦于AI芯片制造商、云计算平台或应用软件企业。投资者应关注其营收增速、研发投入及客户获取情况。建议在财报前布局以获取短期收益，但同时也需注意市场波动风险。文章强调长期持有优质AI股票是分享行业增长红利的关键策略。",
+      "fetchDate": "2026-07-11"
+    },
+    {
       "id": "2301",
       "title": "\"Recruitment is decreasing due to artificial intelligence (AI)It's full of companies that want to hire people - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KNEsyN2JIWTNHb0w3X2ZILXJYMVo0Ynh4SFRPazFQU0s1QTFYNDh5THc0dy0xR1ZNdzdZMm1nRGRNTVpuc2plRHUxdw?oc=5",
@@ -20719,5 +20746,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2302
+  "total": 2305
 }

@@ -1,34 +1,48 @@
 {
-  "updatedAt": "2026-07-11 07:38:25 UTC",
-  "totalArticles": 4,
+  "updatedAt": "2026-07-11 12:52:20 UTC",
+  "totalArticles": 6,
   "articles": [
     {
-      "title": "\"Recruitment is decreasing due to artificial intelligence (AI)It's full of companies that want to hire people - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KNEsyN2JIWTNHb0w3X2ZILXJYMVo0Ynh4SFRPazFQU0s1QTFYNDh5THc0dy0xR1ZNdzdZMm1nRGRNTVpuc2plRHUxdw?oc=5",
+      "title": "Dependence on Generative Artificial Intelligence Among Medical Students and Its Association With Critical Thinking: A Cross-Sectional Study - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSFVLeDRqd3ZkX1BLRFRwWFRHQ2I4alczQ2hGVFBrSXh5dGZLV2YwRHV5TXFEd3ZzLU1hNHFFakVRWEVkNVlqUk9iaXpiTW0xclpKQUwtb3dGWlp2QkcyUm1oeHdTOHVuQ01yLXVkbmdSdW9yeS1UWkZWeGhJNTJQSWRKOFpMOGZTUC1jX1lwVjF0YWhoeUJ2ZDEwSHRUWWZCU0xtc0tyeHZGdWJJcVJCMnFldFU3WXV3a3F6WHBKZS1kelRha3lwT1ljQ3lnbmFRZnNCX2xJb0tDaTQwZWhRNElsZGtJUGNCLTdaTzhBOEE0R3IzYTRxVXo2eGtkQzk2VFRXVXNkX1Q?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-11T07:14:35Z",
-      "summary": "据《每日经济新闻》报道，人工智能技术的普及正对就业市场产生深远影响，一方面部分岗位因自动化而减少招聘需求，另一方面企业却面临AI相关人才短缺的困境。报道指出，越来越多公司希望招募具备AI技能的人员，但符合条件的候选人供不应求，呈现出结构性矛盾。这一趋势表明，AI正在重塑劳动力市场，低技能岗位需求下降，而高技术岗位竞争加剧。企业需调整招聘策略，加强员工技能培训，以适应AI时代的人才需求变化。"
+      "publishedAt": "2026-07-11T12:26:47Z",
+      "summary": "该横断面研究探讨了医学生对生成式人工智能（AI）的依赖程度及其与批判性思维能力之间的关系。研究通过问卷调查收集数据，分析发现部分医学生过度依赖AI完成学习任务，这与其批判性思维得分呈负相关。研究者指出，虽然AI在医学教育中具有辅助作用，但过度依赖可能削弱学生自主分析和判断的能力。建议教育机构在引入AI工具的同时，注重培养学生的独立思考与批判性评估能力，以平衡技术应用与认知发展之间的关系。该研究为AI在医学教育中的合理应用提供了实证依据。"
+    },
+    {
+      "title": "Child Safety Requirements for Artificial Intelligence in our schools - Davis Vanguard",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBua3dkNlk2YTJ1T0VKRHRZRURYRDUyMFRUVHZsT2xvZW5TUEs0a0d6eHpGOTdMam00ZmhsdF8wdWZXN0Y5SEJnYS1ZMDg0UGUwS1p2OTdLV2R0NDBkc182elFZekx5WkdnYlFnWlR3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-11T11:05:00Z",
+      "summary": "本文讨论了在学校环境中实施人工智能（AI）技术时需满足的儿童安全要求。随着AI逐步进入课堂，如智能辅导系统、学生行为分析工具等，保护未成年人免受潜在风险成为关键议题。文中强调需制定明确的数据隐私政策，确保不收集超出必要范围的学生信息；同时AI算法应避免偏见与歧视，防止对特定群体造成不公平影响。此外，要求AI系统具备可解释性和人工监督机制，以便教师和家长能够理解并干预。监管层应出台强制性指南，确保教育AI在提升学习效率的同时，不损害儿童的身心健康与隐私权利。"
+    },
+    {
+      "title": "3 Phenomenal Artificial Intelligence (AI) Stocks to Buy Before They Report Earnings - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQlpTemZxemUzTWc3V0htaXA0SWRGV0NHclk2clZXZjFQOE5tY3RnOFZYc1lESkVGSW1BUzBMcktheW5hT1RRSjlRX3ItZUhtdWthTEVzSjFRaFMzNnpfTTI0Y29SRkhYVnMxQVhKLUFCbjhtUExOR0lWWGNoZUYtNU9BWVpXeGNsSHo0Sm8wbHhsdUNYQkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-11T10:07:20Z",
+      "summary": "著名投资网站Motley Fool推荐了三只在财报公布前值得买入的人工智能（AI）股票。文章认为这三家公司均在AI领域具有核心技术或市场优势，即将发布的财报有望超预期，从而推动股价上涨。尽管未具体列出公司名称，但通常此类推荐聚焦于AI芯片制造商、云计算平台或应用软件企业。投资者应关注其营收增速、研发投入及客户获取情况。建议在财报前布局以获取短期收益，但同时也需注意市场波动风险。文章强调长期持有优质AI股票是分享行业增长红利的关键策略。"
     },
     {
       "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYkhyV0RuMGJPblFZS28wQjJ5bFNaT3VoZ0NYamd5RnZNRzBIV2xvYjlGSjBzMFFTVkFJS1YxekE0UjJsRzlJTXI2S2lXbVE1YmpSSEx6NTk1ekxScFd0MkNWNDBHbXZnWGdROGhOZnkyY3pkc2dWQmJjVjJ1Y1Bma0xrV2FzWDhsYW1vM2xzUUNzZFFLaWE0Tg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-11T07:04:11Z",
-      "summary": "美光科技CEO Sanjay Mehrotra宣布了一项高达2500亿美元的长期投资计划，旨在扩大人工智能内存芯片的开发和生产能力。这笔巨额投资将用于研发更先进的高带宽内存（HBM）和DDR5等AI专用存储解决方案，以满足全球数据中心和AI模型训练对高性能内存的旺盛需求。美光此举反映了半导体行业对AI浪潮的积极响应，同时标志着内存芯片市场正从传统应用向AI驱动的高附加值产品转型。该投资预计将创造大量就业岗位，并进一步巩固美光在AI存储领域的领导地位。"
+      "publishedAt": "2026-07-11T07:35:00Z",
+      "summary": "美光科技（Micron）首席执行官Sanjay Mehrotra宣布将投资2500亿美元用于扩大人工智能（AI）内存芯片的研发与生产。这笔巨额投资旨在满足AI训练与推理对高性能内存（如HBM、DDR5等）的爆发式需求。美光计划建设新工厂并提升现有产线效率，以巩固其在AI内存领域的领先地位。此举反映出全球存储器市场正加速向AI方向转型，同时也意味着相关供应链将迎来重大机遇。业内分析认为，这笔投资有望使美光在未来数年内占据更大的市场份额，并推动整个AI硬件生态的发展。"
+    },
+    {
+      "title": "\"Recruitment is decreasing due to artificial intelligence (AI)It's full of companies that want to hire people - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KNEsyN2JIWTNHb0w3X2ZILXJYMVo0Ynh4SFRPazFQU0s1QTFYNDh5THc0dy0xR1ZNdzdZMm1nRGRNTVpuc2plRHUxdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-11T07:14:35Z",
+      "summary": "据《每日经济》报道，随着人工智能（AI）技术的普及，企业招聘需求正在减少，但同时许多公司却表现出强烈的招聘意愿，形成看似矛盾的景象。实际上，AI替代了部分重复性岗位，导致基础岗位招聘下降；然而企业对能够开发、部署和维护AI系统的高端人才需求激增，尤其是数据科学家、AI工程师等岗位。此外，AI还催生了新的业务模式，促使企业重新调整人力资源结构。文章指出，求职者需要提升AI相关技能以适应市场变化，而企业则需在控制成本与获取核心人才之间找到平衡。"
     },
     {
       "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOcVY0cGxGLUdUdlNYeC1RTlVsS1psZDBGWlBtMzFRMDR2dHBfdi12VFRpVjFuS0J2aE9fZEUzdkN5UndHak9aUmNPY2dwT2JMTVJ6Z1dRYWpCOFJVQUt4ZkFWRXFEYWVNamNKQmJzeHQ3ZDZkb1k4eDVfV21zNlFmQTR1Y0NoM1ktczltcl80RURjRGJ0YTYycGpfVTBTWTlCWnZ0V1c1Wll4OFVqTk1vX2htcDl4bzUzRWlRRG9heHBSVFQ2b1luQmxBU05TSldWbjhTZ0kwLVpRT2FzTHdwTXp3b3hYVDhLUXBXMnBnUXdFWUNLVTZ1ZmZqWFJETWY5R2htVVJCLWNoZFNLdjRxLXhSMkt3TEdHbmx5d1BIUGthT004ZFJTaFZYYUtyQ29YaUE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-11T06:59:35Z",
-      "summary": "据《环球邮报》报道，美光科技CEO Sanjay Mehrotra正式公布一项2500亿美元的投资计划，重点用于扩大人工智能内存芯片的研发与生产。该投资将覆盖未来数十年，旨在提升HBM（高带宽内存）和先进DRAM技术的产能，以支撑AI和大数据应用的爆发式增长。美光表示，AI模型的复杂性对内存带宽和容量提出了更高要求，此次投资将确保公司能够满足客户对高性能存储的长期需求。这一决策也反映了全球芯片产业正将AI作为核心增长引擎，加速技术迭代和产能扩张。"
-    },
-    {
-      "title": "EX DeFi Introduces AI-Powered Trading Technology Amid Growing Adoption of Artificial Intelligence in Financial Markets - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUxOVGVTR3NrNWpOVzlwNnRrU0FjR2xGTmhKcUN1S0pZcjhPRFpuYk85OVRBMWhuNXdMSHhNODdUOWFjcVZmSHVMeVJoQTFCY3VQc2NtVWYzNzk5M3JBZXNVenlmOGJ5Zm5uQXBXWEI5dnUxNEM0blN6SW5pWE9EbERjTVh1bEhaQS1VQnh5MjM2ZF9jbkhiVA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-11T01:40:00Z",
-      "summary": "随着人工智能在金融领域的渗透加速，EX DeFi近期推出了基于AI的交易技术平台。该技术利用机器学习和深度学习算法，能够实时分析海量市场数据，自动识别交易模式并执行策略，旨在提升交易效率与盈利能力。EX DeFi表示，AI驱动系统可适应市场波动，降低人为情绪干扰，为投资者提供更精准的决策支持。这一举措标志着去中心化金融（DeFi）领域正加速融合AI技术，推动交易智能化、自动化发展，同时也引发了对算法透明性和金融风险控制的讨论。未来，AI或将成为金融交易的核心驱动力。"
+      "summary": "美光科技（Micron）CEO Sanjay Mehrotra宣布了一项规模空前的2500亿美元投资计划，旨在加快人工智能（AI）内存芯片的开发与产能扩张。该投资将重点部署于高带宽存储器（HBM）和先进DRAM技术，以支持AI大模型及数据中心的算力需求。美光计划在全球多个生产基地新建或扩建工厂，并加强与上下游企业合作。此举不仅体现了美光对AI市场前景的坚定信心，也将推动全球半导体产业链的进一步整合。分析师认为，这笔投资将显著提升美光在AI时代的竞争力，并可能引发行业新一轮军备竞赛。"
     }
   ]
 }
