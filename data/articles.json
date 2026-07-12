@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "2348",
+      "title": "AI for Good Summit: How artificial intelligence is tackling global challenges - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ETkZRQ3JwUUpaQTRFLXlUY3BDN3o4WDQ1dTRNMWUxclU0dkVfTng3eVExSlprQVNZWW9zbHR0ejl6UWtSdzhjZ2xKS1RuM0Nhdmlwa3NvVnZSc1d2Z3BnNTNjQVlEbHfSAVxBVV95cUxNeDg3N0ZvMk9qN1VSWXBpNkJySE55aTRtQkdSZG12QjItVWZqRFBWMTZmUHA1Tmt6dlV3X3VibmZFVUUxUVBCdFN4Yk9sZ0NWUmJiQXdRMVNVcG4xOQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-11T21:53:46Z",
+      "summary": "AI for Good Summit聚焦人工智能在应对全球性挑战中的关键作用。会议展示了AI技术在医疗健康、气候变化、粮食安全及教育等领域的创新应用，例如通过机器学习预测极端天气、优化疾病诊断模型及提升资源分配效率。各方强调需建立包容性治理框架，确保技术发展普惠全人类，同时防范数据偏见与伦理风险。此次峰会标志着国际社会正加速将AI潜力转化为实际解决方案。",
+      "fetchDate": "2026-07-12"
+    },
+    {
+      "id": "2349",
+      "title": "AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm1ZbGlKbjZncnFvcFdJLUhFekxmNU52Ml9xekhNSTR2TUFGSkxkWThzLV9TcE9sbmp0YUNLZFZRd0VpM2hiclhJLWw2SFhtWlNnZWgxWmZtWjBIaEtLMkc0XzlqSzlaRmdBdjNTWDctdzJhWkM0ck0zekxMMS1DOUZ0MXZGVk1JeEtpZW05UE1veWtGcEVzalNaWm9qeVB5N2VFNWpmQVVFajNxQ2NxUTFR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-11T20:00:00Z",
+      "summary": "澳大利亚版权法修订引发激烈争议。AI企业主张为训练模型合法使用受版权保护的数据，声称此举符合公共利益；但艺术家群体强烈抗议，担心作品被无偿利用。执政党工党内部亦出现分裂，部分议员支持严格保护原创权益，另一些则倾向为技术发展让路。这一争端凸显AI时代知识产权保护的复杂性，平衡创新激励与创作者利益成为立法核心难题。",
+      "fetchDate": "2026-07-12"
+    },
+    {
+      "id": "2350",
+      "title": "Artificial Intelligence (AI) Stocks Have Crushed the Broader Market in 2026. Here Are 2 Top Stocks to Buy Before They Soar Higher This Earnings Season and Beyond - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEZ4dkY5dnJXdm5KZHRyNFJMLXpqTVdLaWlwaUZSY1dRd0tYdWJhTTRLRnNsMEh3MGxqNFdqRDdkcjVNN3Y2NXpHQ3c5ME96Y0NrUzllQVlwcVA3R2l2dkFySFFGQTM2Y1VoeWlfUWtEbjhFYXl6RWZNUFp6dXJjTGg5RmotS1NWWVhmbFJhc0hrSFRvaWdqMkZPQXpaRWRSdmRTc3FuRFFBZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-11T19:59:00Z",
+      "summary": "截至2026年初，人工智能股票持续跑赢整体市场，分析师指出AI商业化加速与行业渗透深化是主要推手。推荐两只具备强劲增长潜力的个股，预计在即将到来的财报季及未来长期保持上升势头。其一在AI芯片领域占据技术壁垒，其二深耕企业级AI解决方案。投资者可关注算法优化与落地场景拓展，但需警惕高估值与行业竞争加剧风险。",
+      "fetchDate": "2026-07-12"
+    },
+    {
       "id": "2307",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
@@ -21115,5 +21142,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2346
+  "total": 2349
 }
