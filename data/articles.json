@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "2356",
+      "title": "Generative artificial intelligence (AI) is evolving into an \"executive entity\" that judges and acts - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rbEVscXo3MjFYeG9KSWFaN2lHTnhyVkdHQjBvWV84M2p1Qy1NTnlRdUJjb0hkc2VxUVRWTUxXc3l2UXZCVUhqWDZKYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-12T07:23:28Z",
+      "summary": "生成式人工智能正从工具进化为具备判断与行动能力的“执行实体”。这一演变意味着AI不再仅被动回应指令，而是能够主动分析情境、做出决策并采取行动。该趋势对商业、法律和社会伦理提出新挑战，需重新定义AI的责任边界与监管框架。",
+      "fetchDate": "2026-07-12"
+    },
+    {
+      "id": "2357",
+      "title": "Privacy in the age of artificial intelligence (AI) is not about hiding data. It's more important to.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFektCVXNLVDYyMW5IZ3RENW5wT0RtaGpsYkpGUjRIb1lfR01qYzlYbjN2aGU0a2VTcEp5QlBRelNXeWZoa3FkeUprWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-12T07:22:08Z",
+      "summary": "人工智能时代的隐私保护核心并非隐藏数据，而是确保数据使用的透明度与可控性。文章强调，用户应拥有对个人数据收集、处理方式的知情权与选择权，企业需建立更严格的数据治理机制。AI系统应在保障隐私的同时发挥数据价值，实现创新与安全的平衡。",
+      "fetchDate": "2026-07-12"
+    },
+    {
+      "id": "2358",
+      "title": "An artificial intelligence (AI) diagnosis has shown that if an elderly person's activity suddenly de.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zYXVGaEFlVml2cl9wQ0tSaHZab1dJX1ExcThxZkhzcXpqOUhTc2poS2xtSm44WXZNOFAyVm9EN2tSdWZBdVJuZ2FLYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-12T05:35:48Z",
+      "summary": "AI诊断技术显示，老年人活动量突然下降可能是健康恶化的早期信号。通过持续监测日常活动模式，AI能够及时识别异常并预警，有助于预防跌倒、疾病发作等风险。该技术为老年居家护理提供了智能化解决方案，有望减轻医疗系统负担。",
+      "fetchDate": "2026-07-12"
+    },
+    {
       "id": "2351",
       "title": "A new Manhattan Project: The countries treating AI like a nuclear bomb - The Independent",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWRqbTBXQXdma2pMNlFJakN4dXB0TXp2bEhvTUxZVUEzNHUtNUVoVzkxX2pRdWd4NDlBR0h3Q0l4Rl9RMmRaUFotdy12YTViRElycmNNQnNuWEdYYnRpZEJJWFJJeDByWEdXNWF0VXZnSmloTG9zVmZKX1BzUGc2dE5qNFMyLXlrZEhZZnQ2SGFpV2NLQUNkaDVB?oc=5",
@@ -21187,5 +21214,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2354
+  "total": 2357
 }

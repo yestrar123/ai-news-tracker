@@ -1,48 +1,55 @@
 {
-  "updatedAt": "2026-07-12 05:19:10 UTC",
-  "totalArticles": 6,
+  "updatedAt": "2026-07-12 07:57:14 UTC",
+  "totalArticles": 7,
   "articles": [
+    {
+      "title": "Generative artificial intelligence (AI) is evolving into an \"executive entity\" that judges and acts - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rbEVscXo3MjFYeG9KSWFaN2lHTnhyVkdHQjBvWV84M2p1Qy1NTnlRdUJjb0hkc2VxUVRWTUxXc3l2UXZCVUhqWDZKYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-12T07:23:28Z",
+      "summary": "生成式人工智能正从工具进化为具备判断与行动能力的“执行实体”。这一演变意味着AI不再仅被动回应指令，而是能够主动分析情境、做出决策并采取行动。该趋势对商业、法律和社会伦理提出新挑战，需重新定义AI的责任边界与监管框架。"
+    },
+    {
+      "title": "Privacy in the age of artificial intelligence (AI) is not about hiding data. It's more important to.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFektCVXNLVDYyMW5IZ3RENW5wT0RtaGpsYkpGUjRIb1lfR01qYzlYbjN2aGU0a2VTcEp5QlBRelNXeWZoa3FkeUprWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-12T07:22:08Z",
+      "summary": "人工智能时代的隐私保护核心并非隐藏数据，而是确保数据使用的透明度与可控性。文章强调，用户应拥有对个人数据收集、处理方式的知情权与选择权，企业需建立更严格的数据治理机制。AI系统应在保障隐私的同时发挥数据价值，实现创新与安全的平衡。"
+    },
+    {
+      "title": "An artificial intelligence (AI) diagnosis has shown that if an elderly person's activity suddenly de.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zYXVGaEFlVml2cl9wQ0tSaHZab1dJX1ExcThxZkhzcXpqOUhTc2poS2xtSm44WXZNOFAyVm9EN2tSdWZBdVJuZ2FLYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-12T05:35:48Z",
+      "summary": "AI诊断技术显示，老年人活动量突然下降可能是健康恶化的早期信号。通过持续监测日常活动模式，AI能够及时识别异常并预警，有助于预防跌倒、疾病发作等风险。该技术为老年居家护理提供了智能化解决方案，有望减轻医疗系统负担。"
+    },
     {
       "title": "A new Manhattan Project: The countries treating AI like a nuclear bomb - The Independent",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWRqbTBXQXdma2pMNlFJakN4dXB0TXp2bEhvTUxZVUEzNHUtNUVoVzkxX2pRdWd4NDlBR0h3Q0l4Rl9RMmRaUFotdy12YTViRElycmNNQnNuWEdYYnRpZEJJWFJJeDByWEdXNWF0VXZnSmloTG9zVmZKX1BzUGc2dE5qNFMyLXlrZEhZZnQ2SGFpV2NLQUNkaDVB?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-12T05:00:00Z",
-      "summary": "各国将人工智能竞赛比作新的“曼哈顿计划”，视其为具有核武器级别战略意义的技术。政府和企业正加紧投入研发，同时担忧失控风险，推动制定严格的监管框架。这种类比暗示AI可能带来颠覆性变革，但也暗藏安全与伦理危机，亟需全球协作应对。"
+      "summary": "多个国家正将人工智能视为类似核武器的战略威慑力量，开启“新曼哈顿计划”。这些国家投入巨资研发AI技术，同时担忧其潜在破坏性。文章指出，AI竞赛的军备化趋势加剧了全球安全风险，亟需国际合作建立管控机制，防止技术滥用。"
     },
     {
       "title": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXdCN01lLW5nNHJsLUVpMlRCNWlqZ3FGZ21GVUQ2WVRObFF0bC1mZk9GMGhwMlRISS1lTF81M2h0UFpvQVFvLWJZVWhyclBqeFFrMGxRRHNwejhVVDMtanBnUmkteHJJN1NoZFA3alNwNGtuVTZ4NUxid2hWVXRYa212OFBnejZmSUkxMURHc0xxQzEyYUlfRw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-12T04:04:21Z",
-      "summary": "Meta（原Facebook）公布了一项令人震惊的新AI战略，其具体细节尚未完全披露，但据分析可能涉及开源大规模语言模型、新型架构或应用方向。此举意在加速AI发展并争夺行业领导地位，同时也引发对资源集中与竞争加剧的讨论。"
+      "summary": "Meta Platforms发布了一项令人震惊的新AI战略，可能彻底改变其业务模式。具体细节尚未完全披露，但市场反应强烈。分析认为，Meta意在通过AI技术重塑社交平台、广告系统和虚拟现实生态，此举或将对行业格局产生深远影响。"
     },
     {
       "title": "Artificial Intelligence is Reshaping the US Financial Market; EX DeFi Launches AI-Driven Trading Technology - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlN6b2lyNjNZbmQzWGozdVNrNUQ0ZWtmQmFYdGFnWEo1ZkxnZU1xUFNXRGR3cHpRZ01wTmRobkU1Tzh5Ujh4Zkw1Rzc0dGhhR1ltRnIxaXdPT3VrWXloczVoMmVPRnJOQ0lWQ2owWExJY2V2NGFhaEwtSzF2TEItYlpRc3pKVGViVGdSVTdmUlRUOUFHYk81b2pfdw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-12T03:33:00Z",
-      "summary": "人工智能正深刻重塑美国金融市场，促进自动化交易与数据分析效率提升。EX DeFi公司顺势推出基于AI的驱动交易技术，旨在优化策略、降低风险。新技术的应用为市场带来机遇，但也引发对公平性和监管适应性的关注。"
+      "summary": "人工智能正在重塑美国金融市场，EX DeFi推出基于AI的交易技术。该技术利用机器学习分析海量数据，实现自动化交易策略、风险管理和市场预测。AI驱动的金融工具提升了效率与精准度，但也引发对算法操纵和监管滞后的担忧。"
     },
     {
       "title": "AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm1ZbGlKbjZncnFvcFdJLUhFekxmNU52Ml9xekhNSTR2TUFGSkxkWThzLV9TcE9sbmp0YUNLZFZRd0VpM2hiclhJLWw2SFhtWlNnZWgxWmZtWjBIaEtLMkc0XzlqSzlaRmdBdjNTWDctdzJhWkM0ck0zekxMMS1DOUZ0MXZGVk1JeEtpZW05UE1veWtGcEVzalNaWm9qeVB5N2VFNWpmQVVFajNxQ2NxUTFR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-12T01:58:00Z",
-      "summary": "多家AI公司联合游说澳大利亚政府，希望放宽现行版权法以确保其训练数据的合法性。此举引发本土艺术家的强烈抗议，认为这将损害创作权益。执政的工党内部对此出现分歧，反映出技术进步与知识产权保护之间的矛盾日益尖锐。"
-    },
-    {
-      "title": "The Hard-Line Activists Ramping Up for the War With AI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXo1TXoxQU5TdWtPRHh4eGJEWk5wOHExV1h6UG90X2dkZHVHQlJ4RFNycm8wemIxMnR3X1dpdElGaENtOXNvbms0blA1U3prX1NJTVJUc28xekw0allQMktXakptYUFpY191WERmdW1ZeTVMSk1qQUdHVktOVWFuOFZVVWVXRnhL?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-12T01:00:00Z",
-      "summary": "一批立场强硬的AI风险活动家正在积极组织力量，试图通过抗议、诉讼和游说等方式迫使科技公司暂停或严格限制AI发展。他们认为当前模型存在失控隐患，呼吁建立全球性安全标准，双方阵营的对峙态势明显升温。"
-    },
-    {
-      "title": "S.F. protesters march on OpenAI, Anthropic and Google DeepMind to demand: ‘Stop the AI race’ - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVZob3BlX25qanJ3VjYwdUR0bmFJWW9zUmUxLUczWHVvZ1didnZOODZMRHZ0cWdGWk1LNDNTM3FqOFU3a0FtZUF3OWxaUGFiSXVHRDdFU3M3OTVVZC1ZcTFPZUVxbUVPMmtfMDg4WkhPQXhCcjlsSmkzaWQ2OEpxR2dzcGM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-11T23:31:07Z",
-      "summary": "旧金山抗议者分赴OpenAI、Anthropic和Google DeepMind总部，高举“停止AI竞赛”标语，要求企业优先考虑安全与伦理而非速度。参与者涵盖学者和活动人士，反映出公众对未加约束的AI演进日益加剧的恐慌，敦促行业负起责任。"
+      "publishedAt": "2026-07-12T01:58:07Z",
+      "summary": "AI公司试图推动澳大利亚削弱版权法，以便使用受版权保护的内容训练模型。此举引发艺术家强烈抗议，认为将破坏创作者生计。执政的工党内部对此存在分歧，部分议员支持版权豁免以促进AI产业，另一派则坚持保护原作者权益。"
     }
   ]
 }
