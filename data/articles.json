@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "2372",
+      "title": "Corporation, stakeholders fear AI-related risks in data centres, institutions - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREtGSXl6c1NzSEMzclpQR2dGaHRpZUlHVFhOYkJnRkM5ajBUX1lkTFZNb2dWdC1LSGhTTzdmQXVBelNSaUxFYmQyQjc4NG9NaVVmeDE4akFpYklFRkxSalljeEdTdkFmeDFzX0Z2X0szVkx5UXFZZjlBcjJhSFlNVWd4ZFlEUVpSbUVHc2dnTVF2dmhncGZrYmRBS0U4c3FQbGxR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T03:30:19Z",
+      "summary": "尼日利亚《卫报》报道，企业和相关利益方对数据中心及机构中人工智能带来的风险表示担忧。风险主要集中在数据安全、隐私保护、算法偏见以及AI系统失控等方面。随着AI应用规模扩大，数据中心能源消耗与硬件可靠性问题也引发关注。各方呼吁加强监管框架与行业标准，以防范潜在威胁，确保技术健康发展。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2373",
+      "title": "Indian companies look to Chinese LLMs as AI costs bite - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM2VwYkJIeTZ5MHZGX2c5YXRiQzc2WGpnSGhrMnZzN2FFSHhicHdIcm9oTVhxeFBDWl9waTFyN0sxT1FabVVmVHhMVHB6ZGdVV2VrcjZtVGhOazU3Wl9YTDBZZC11eHdJenZjZXFPRkdFbG5CeG9VWmRfZFl6Ql9HQ0hDQ2RpaTRtcnl4RFFfc1E5eDFHOXhCSFU4M2hVODVNSG42YURIZXVha0Zta1BCUTlqeUg3cGctc2hlc0t6WQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T02:50:00Z",
+      "summary": "《日经亚洲》报道，随着人工智能成本不断攀升，印度企业开始转向中国的开源大语言模型（LLMs）以降低开支。中国LLMs凭借高性价比和快速迭代能力吸引了众多印度初创公司和中小企业。这一趋势反映出全球AI供应链的重组，以及发展中国家在成本压力下寻求多元化技术路径的现实。",
+      "fetchDate": "2026-07-13"
+    },
+    {
       "id": "2367",
       "title": "AI not replacing human intelligence... yet; let bots enhance, say educationists - Telegraph India",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSHNIZEdZUmZRZ2x2N3dfLTB3UWFnOV9yNVlUSW9vVnFTbEFHLWJYVXdnMnVCLXdfX1RWX1hBY3dtTjg4ZDdMeXZGeWE5bGRwczBUb3lXMkZUd3VyeXFBa1gzb0JiQ3VzeXBxT2dmU2hramQ4dHFBVEs5b1k0NjdMWDZld3lQUTBUMzRqejloNXA2b0F0VENWNldWMGVhVmJrZG9Da1gtb3k1Sl9MTnpRZm8wdlVzZHN0enlFMXQzakZ2SmRfZXYxRHFGVlZCOVZIRjVZS0tsQUd1MWxhSlZDemVBS2hJQVNLbmJNaExNa2NzTjlHQXpfemY1UV9UcEo0TTFqdU11R29EZ9IBjwJBVV95cUxNdGVCNlB2eC1ZTEh4cHQ1VTZrTENhMnhFYUJXMEZzUFZSN3pJYkJEckEwdElCNnR3aWpYNGJZZXFYeTNkMW5FRmlSbW9ZWmtjLXN1TjByUG1tVmxIUGx1ZmhjeUpvZ3BqUmliOUNkamdIeDg3THBJa08yUlgzNWI5bHFwZlN3TkJjcmJmNFctN0pKeEtyRVVqeEprLThZUDdTdVAwa3VOc1pFMkZfbUJ2SmRqR2c0YmFZd3ZaTHVnQXlQX2JqaE5vU1hZSG9SSTlTOThVSEFxT3YzeF94ejhsX3NsYnBjaXVmWVphdEVjNVpRLXA3bGxtR0h5ZGVFbWRiaVJpQ0JyLU15MlBnS2o4?oc=5",
@@ -21331,5 +21349,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2370
+  "total": 2372
 }
