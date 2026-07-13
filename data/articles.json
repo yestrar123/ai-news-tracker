@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "id": "2378",
+      "title": "AI: Artificial Intelligence at 25: Revisiting Steven Spielberg’s Masterpiece - thatshelf.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb2RfYnBPbWJzMGluM19YWWVzYVJUeXdidVNYWm9ONUY0NjNHeG5lSFRFQW1oWFhEM29xTlVXVVhMbEFyYWktWEk0RmpwZjBUNXdNd0NoOC1IbkNjNUFWVmplS21DcHZXY0ZmZ050czN4elJaQzlwX0h0eUw5ai15V0k4U3dLOEZGNUNkNnVpZDJOM0ZzaGFtWmdnZE4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T13:07:19Z",
+      "summary": "回顾斯皮尔伯格执导的经典科幻电影《人工智能》上映25周年，该片探讨了人工智能情感与伦理的深刻主题，通过机器人男孩大卫追寻母爱的主线，预见了AI在情感交互方面的潜在挑战。影片对AI技术发展的超前思考至今仍具启示意义，引发对机器意识与人类关系的反思。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2379",
+      "title": "Satya Nadella on AI: Firms must guard proprietary data to stay ahead - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZ0lNRnlMUm1EQjJubHhoQUF2NWxTMERhWEZPOXhXWWJ1LTZ1OFdFbEh1cWN4ZFhqZkJUSVNDbl9lMFl5ZlJIVTQtRWpRb0hkZHM2UHptZGpSWlY1V2ZtSVE5V040WmtaRHZDUjVuc3BuSmpoMnptNlg5amtKTG85Q096Rm5mdk5ZcDA4cUUzdXJPSDNiejdub1dpQ0JjUms2MW9Ha21NamhQU0VGcEEwUW5OaC1DLURGeUdfYUdtTGtGdXNVQUUxdzJGd3dEMnAtOXl6WGY0d091UUlxOWFIVXhqZGVvaWk3dmFGdlNFbzQ2STRoLUJ2X0NJaHdTV0ZjNW5qWGNPS0tSR0JrTkZZT1UzenRvSTI3a0RjaA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T12:33:31Z",
+      "summary": "微软CEO萨提亚·纳德拉强调，在AI驱动竞争的时代，企业必须将保护专有数据作为核心战略。他指出，高质量数据是训练AI模型的基石，企业需构建严格的数据治理框架和安全措施，防止敏感信息泄露，从而在技术创新中保持领先优势。同时，纳德拉呼吁行业建立数据使用规范。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2380",
+      "title": "Over 200 experts call for urgent action to tackle AI's economic impact - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUt1OTNadWljZVE1WXI3UzhWbC15R3h2eVpFWXFkY2wzeTcyWGNsaFZnYjc5TFhzTE1wX1RRQmdSRGJ5VkFRRzUxZUJ0N0tYdXBkZk1IdGlETTRfaDVXbUs2aTAtcjI3TU9UOFZKU1A3SEs0R25wWWNYTlFyZDZ2ejRGUkJiMjdYaFdOTE9zbmF5QTRxTTFzSmxGWHZqOUhYS1RfNFNGVFdYN00?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T11:07:43Z",
+      "summary": "超过200位人工智能专家联合呼吁政府和企业紧急行动，应对AI对就业结构、收入分配及产业格局的冲击。他们指出，AI自动化可能导致大规模岗位替代，并加剧贫富差距，建议通过技能再培训、社会保障改革和税收政策调整，确保技术红利被公平分享，避免社会动荡。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2381",
+      "title": "AI agent crawlers now need permission. Here’s how to get it - AI News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRmVMYVpYaXZzYk1DS2xNa2NpMzdBbk51Zk00aFpudF8yNng2cG4tR1RqOTg0aFBFcFdhcFpkQlAyRTd5WWw2b19HU0twTkh4TTlnUmZxUHlCZzFkeHpwZGdHNVZ5bEMtVUFBWjRXNG5IeUZGSFB6eXBJTnBxNjY0NFZ6SzN5Q1FTb01tcg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T11:03:14Z",
+      "summary": "随着AI代理（如智能爬虫）的普及，网站运营者需明确授权机制以控制数据抓取行为。文章介绍了通过robots.txt协议设置爬虫规则、使用API密钥限制访问、以及签订数据使用协议等方法，帮助网站保护自身内容不被滥用，同时确保AI系统合法合规获取信息。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2382",
+      "title": "Almost Half Of All LinkedIn Posts Are Now AI-Written Research Shows - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPekxWU0JWdnpKaWxYelljUUJSdEJUYTgwMURKdXhQWWhOZUZYRFZCZHFXdGYtQnJqX2FCNFRXYXA2OUhTMGlFSkFDSGFPYUEyQWZubHo5dTQySnFiSEdDRzM3N3E1Y3c3M0RtMFhNdTNJNUlrU05XSXhZS2d4QTRicUJMWExNbi1Ud0lJMk5OOUdsd0RVREVka1BlZVgyWjBLMmZiNDlpbEJseS10NWJSMWNmcmhmbzQ3UmU0VjZHa2JHYWxTMHJlclk5bnNiN2vSAdcBQVVfeXFMT0k5RWpIekdNRW5HUXNMRzAtMzVpOFF0MXJEb2hRVml5UmpwOUh5Sm11NWg0Q1pkb0MxeG9NNFR3V2VlT0EzbndXZUo3NnBvMkxYY2JFME1CZkFUdXNVMUliRDI0ZzFNWThSZ0FwWF9Jck5uQ3A3Rm5GNzJDMnptYXpKaTBEYXYyWkJHNzhJbmczNVpoR2xjaHFUWVZ5U2M1Wks0MERLa1dzYXROSWJ1Q1VGZ1JLWnJvUWFLMnkyUXFNcGMwdEkwV0ktSjV0SVRVUzdrYnJEd0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T10:48:31Z",
+      "summary": "最新研究显示，LinkedIn平台上近半数帖子由AI生成，引发关于内容真实性与用户互动的热议。AI生成的帖子虽能提升发布效率，但可能削弱个人专业形象与社交信任。研究呼吁平台加强内容标注机制，用户也需审慎平衡AI辅助与原创表达。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2383",
+      "title": "What was Meta's Muse AI, the feature pulled days after its launch? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNd01sQzRUNXduNkdCSnp2ekZ4dEJCVHh0RndfOW8zem1uZGVsNzYtbHZudW9HZGRscE5zWjN5aktUMk8wd1diUmx1UXI0aVhTTWgzc0lDVWpEcGRkSk1wR29iLTJWaU5ISlVrZDNBaEVtdXhSa2h5aFlHVXFLWlQtMWVRTldieVh1OXVfeFpscW95UWY3MUJEM0hTLU53N1UzYlZzZ1RXZE82dGNIYlR0UDRQU3ZvT3lGTzhrVXdLSGh1ZDI1RzFHZnNiV3NwSk8xVHZpUW1yM2EyM0xFMnNSSG1WQUFlWkpK0gHuAUFVX3lxTE5TNzFXNzFwVzN0YmQ2TmRERS1uZVhEOHR6ajF2RTRhWkk2U0M4ZXFteUZIQ2JIclNWUU9sa0xCSndpOHlqbnFpck5rZUJidjFhUVBRN0ROdzVjN2NFRnhoNGFRWEs0YmRxUjhOUGhEU1RGdFVpeEhRQ0NYVml0OHpQQmRtajVtWmZ4eVdfcENyeHAybGdvUlhDVUx4cjhlZWlUaEVuVEF6MEp6SWxMYlV2OUtDa3lpOEcyeUFhVnB2ZElzLWJJeVc0LXBoSzN2Z3lTOE9ZOWRTeXpXUjZBVmdSakZIN0dhZGJNWkF2VWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T10:42:41Z",
+      "summary": "Meta推出的AI图像生成工具Muse AI在上线数天后被紧急撤回。该工具本用于通过文本描述快速生成和编辑图像，但因存在版权争议、内容偏见或技术漏洞等问题被迫下架。这一事件凸显了AI产品在快速迭代中面临的监管与伦理挑战，以及大公司对产品风险的谨慎态度。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2384",
+      "title": "Elon Musk Says He Was \"Clearly Wrong\" About Anthropic's Artificial Intelligence (AI) Models. Here's Why That's Outstanding News for Amazon and Alphabet Investors. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDlFTEdGMG84dzNVN3RpTnNnZXBnbVFGMkt2R2VNSnlteFItSmpRTUt2V3RheWhubndOUjloRndZWXBWcEdyZmNBYldURUw0YVJXTmtYd1FfUThPUmZPLTFyUTVhTU5TaGJ1bVJReE5ZLVlvRkJXVVZJTG9kQl9IVjM4Q1ozd21VeWU3QWUtcF8zQ1RRZUY4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T10:14:00Z",
+      "summary": "埃隆·马斯克公开承认此前对Anthropic公司AI模型能力的评估“明显错误”。Anthropic开发的Claude模型在安全性和推理能力上展现出超预期表现，这一认错被视为对其技术的认可。由于亚马逊和Alphabet是Anthropic的重要投资者，这一消息提振了市场对两家公司AI生态布局的信心。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2385",
+      "title": "AI memory explained: How smarter digital assistants reshape privacy debate - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcUJTS3dvWl8wa092THRyWlN5cGlpb3RhVEFMVXkyR2J2WVl5WHprOWVSV1dBMHAxelVQeTc2dVFwRVpTYVl1Zi0xckZ3ZndvYWNmRlBkOFp5dms5a0tsQ1NSbEZzdXlJZGVJUnVfejNoN0hldmhRWkpwRF96UzYwMVFsbFFPT2Uycmg4aXltbEpqLVo3alpSdllUaWgzWXpoMXNZd2lVaERFTTlsc0JnZE0tZTdISU42WXVlRG9KeE0zWUlnenQyX1lqUUY3M0NxZlNLQkRnRTdnUm11cGNpUzVRTkdwRTZzYlR5V2J6NmNnRWpk0gH6AUFVX3lxTE9DOWpldzBLN0VFZHBXQm1UeWV5cU92WHpHQklObUpLN0QtcklxZGRESG5razJCaFduRHRRa3J0dU5udnhMUVJzYUMwTmVDZHdsdmswdjVIWWloMEktOVhOM0ZuYVI0WnM0LVpWMmlIYkVyWGhveWhPS1NhNmg2LWxEWXRKZzhPc1dsbmVYR3U0LWVCNnhZbXg2X3daV0Y0emJRbzBjVkZGTXduUjRRampMMXBmS0U0N3RLWUFUbEdjUnViRWQ1eWlrQlFCNDFqZkFiRWVzby1fSTNRUlpUX1dqZVB5U1BMXzRSTVgtempZdDcxampCLU4xdFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T09:58:31Z",
+      "summary": "随着AI数字助手（如智能音箱、聊天机器人）引入记忆功能，它们能记住用户偏好和对话上下文，提供更个性化的服务。然而，这种“记忆”也引发隐私担忧：数据如何存储、谁有权访问、用户能否删除。文章探讨了在提升体验与保护隐私之间建立平衡的技术方案与政策建议。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2386",
+      "title": "Why AI needs contextual intelligence — not just bigger models - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZk9YOVFQQWUyWngwbUtCVmNVNkJqT05XUzJWTTk1TG1iWjlfaU5GOXlaZWNzN0NXZ2tBYTJsZVE1bXd1Zl9yM2ZxSnZqRURoaUxQRkx2YTNNS241Rm55WnBGR2dmbFBfYy11QXdQWXFEVFlCNmgtTnZ2T1lpaDE2aW5kVW1xaEszVFlHaXhnVjhTMkJJa0lRakF3S2ZWdEdTNEE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T09:04:42Z",
+      "summary": "文章指出，单纯扩大模型参数规模并非提升AI性能的唯一路径。AI系统需要具备情境智能，即理解上下文、用户意图及现实世界动态，才能做出更精准决策。未来发展方向应聚焦于轻量级模型、知识图谱融合和动态推理，以降低算力成本并提升可靠性。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2387",
+      "title": "The Smartest Artificial Intelligence (AI) Investment Moves to Make With $5,000 in July - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSjlvLXNLNThieDFFMU9lX0QxNzFpSnFRT1lXanNyeDRUR3dLV1BoMGdKVlV3eExjU2F3NkhBNlotTVotdW5kWEhNekdYN25yMDBIbllCdXpHTjZTc25WOURJWjVsdUNzZTFLV0tRMTk1bS1UQlVkckZTRXhtVm1aQ3VPNlVLdGZuaEhuOVVIMm02N3hkMmQxQ2R4YkwxM1FVdHJmU2hISGx3ZS13dlZFUG1sb2VNYWR3bGlGbW1adkdKNFFGNFoyYlJJQU4zUFFYeXpXbzNqTDFyUGU2UDBvY0hTYlF1SEZYQVp6NEcxRHZlenFu?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T08:56:15Z",
+      "summary": "针对7月份5000美元投资额度，文章推荐布局具有核心技术壁垒的AI领域，例如云服务提供商（如微软Azure）、AI芯片厂商（如英伟达）、以及垂直行业解决方案（如医疗AI）。强调分散风险、长期持有，并关注企业实际应用落地能力，避免追逐炒作概念。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2388",
+      "title": "The influence of Nvidia GPUs in the entire cycle of artificial intelligence (AI) learning the world - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NeGRzMTVMLVJ3TlVsYV9oZzJPck5OU1IzNUgtY1NicDVaTTRtd2ZOcUFDUGdJQS0yazJ2Nm56dGstUWdVZVZvSUk0cw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T08:43:17Z",
+      "summary": "英伟达GPU在人工智能学习全周期中的主导地位日益凸显。从数据预处理、模型训练到推理部署，其高性能计算能力显著加速了AI技术的迭代与应用。凭借CUDA生态和硬件架构优势，英伟达GPU已成为全球AI研发基础设施的核心组件，推动着深度学习、自然语言处理等领域的突破性进展。这种硬件层面的垄断性影响力，不仅塑造了当前AI产业的发展格局，也引发对计算资源集中化的深入思考。",
+      "fetchDate": "2026-07-13"
+    },
+    {
+      "id": "2389",
+      "title": "Satya Nadella coins 'Reverse Information Paradox', flags AI risks - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSDYtWF81RTBmeThYMzNhYXNYRVYtVHMzaGItMGxOejhfRVY0dXR0b3QxYmxiSDZEUTdYZE1FWTM5U3JCMHFGZVFFNmNFUmFVSUtyNzdtek1idlFUMS1HY0laY05SbmtKSk1ETkt4eEJSRlNuajB0b3ZPQ2c1UEE4ZURZeWFCMGo2eFpSOFBreWhtTFA0MHM2S3hwY09VdlB4UFpuZGx6UHlhWDg5bUI4YlY4d3F2SUQwQXF4M2syTElGMVIzOXFOVlE0azBzMmp1ajVNVkdR0gHbAUFVX3lxTE8zRFA0em1rNkZ5UW5fNzAteWE1MktVRnRkbXFQWHFyZi1ERGtNQmRxekJlUVlEMG5YcWlNRFhHYTdwQzZJMUxEeWhqNUN2c1hhdVRoNWVzRG85N0w2VmdkUGxBX2xhQWdfQ1hDTzgzRVhZX3BLWWIycVdWbzN0SWJkQ3ZDdFZpWi1Bcl9wOFVoR2dxb1BxTjBZNGUzaWZVck1pVU8tM0s0cWE0N3EzcThkcmtOTWNqQWJPWjFhUnM4LWFmQ01kc1paMFZmZW9SdmwwWk9yby1mVHh0OA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-13T08:42:24Z",
+      "summary": "微软CEO萨提亚·纳德拉提出“反向信息悖论”概念，警示人工智能发展带来的新风险。该悖论指在信息过载时代，AI虽能高效处理数据，却可能导致人类认知能力退化和决策质量下降。纳德拉强调，当AI系统比人类更擅长知识获取与整合时，个体反而可能陷入信息盲区，失去对关键信息的判断力。他呼吁行业在追求AI性能的同时，必须建立负责任的治理框架，确保技术服务于人类智慧而非削弱它。",
+      "fetchDate": "2026-07-13"
+    },
+    {
       "id": "2374",
       "title": "Justice In The Time Of AI: Supreme Court's Draft Report On AI In Courtrooms - NDTV",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTdLUndKU1VaV2RKcHNhSF9pY3dqY3h0X0JfRkFxWnhFMjlJZ3E5OTA5bzRyWWdnUzRtRXN2ZHBZTmYtRi1EWnhVMFR5TkJLc0E3c3l0ZkRvZmxvajRrQlFiazdXZkdSQ0o1LW4zakVEcUprSGkyVmdnUE4tRFV5ZFpnclZDUW5vNmltZnlnUm5sXzRxalZIZlhfRlFERW1qcnfSAaoBQVVfeXFMUGRYb0JWeGI1ekJlbmtSXzhXYk9wQkliUmdXQURtTXo5TlVtT0NZMlFyMDVpdHBNRlBrN1FWNEM4OUUyX0ZVaThHN0d0bnppelJXN1dkSnFyaWRxWEpMbjRTT0Y0aEM1RnBDbXFRNmtpS21qQTd5ZTBJSmY5aVQ4aDhvSEJ3b1hObGFoU1JBalhld3ZjQWhZT09jWTNjVlVXdU9aM01jMlVsdkE?oc=5",
@@ -21385,5 +21493,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2376
+  "total": 2388
 }
