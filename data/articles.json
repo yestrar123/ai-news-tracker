@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "2403",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T00:45:00Z",
+      "summary": "Uber首席产品官Sachin Kansal接受TechCrunch专访，阐述了公司在金融服务的扩张计划、与Waymo日益复杂的关系（涉及自动驾驶出租车）、新成立的AV Labs数据运营，以及AI如何切实改善司机与乘客体验。Kansal强调Uber不追求“包罗万象”，而是聚焦核心出行与配送业务，同时通过AI驱动的个性化推荐和路线优化，在不干扰用户的前提下提升服务效率。这一策略体现了Uber在自动驾驶商业化进程中的谨慎态度，以及通过数据整合与AI赋能在竞争激烈的市场中保持差异化优势。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2404",
+      "title": "Hundreds of experts warn the world must prepare now for AI’s impact - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWJMRWdrYXVZRVpyU1VfUDdPRU5ZQ0s2WGltTmVPV2FGWXlyYjZOMDB3Sm52aEU5RmhVS1BNYmg0Umh3Qmc2TDhTQnBtNVlyNHJzUVFQWE1JRzNNR2FvVktFa1o3SVRfWTZSRS1iZGdudHpIcGxZLWNiaFJQLXdGR25hcnVmeFliWEFhZVpwbDZRTHNKRnZQVWoxcVNCZ2tEVlBPcU1VMUZYYlVBTTB30gG0AUFVX3lxTE5VWlVQc0t3QTVkS01mZmlueDJYZXFaSTJNVFR0NWllOEttUmlOQlc3QVY3Q0sxTnNkSVJuaXdpNkttRjdTd3FhX21SNFg0UVdnOEZjTlRqZmVGSzhIdXphZlFwYnlxaDBrN2lhU0lWaEN0aFhsUHVmSnNtdjl5WnFYcXpKQ010bEdXc3BXajhQOGxKZnNfLVpPT2xLLV9DS25vNW4yaWNIRTlrcUgzZmFBenBCZA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T00:05:24Z",
+      "summary": "数百位AI专家联合发出警告，呼吁全球必须立即为人工智能带来的深远影响制定应对措施。专家们指出，AI技术的快速演进将在就业、隐私、安全和社会公平等领域引发颠覆性变革，而当前各国政府和企业的准备严重不足。警告特别强调，缺乏前瞻性治理可能导致技术鸿沟扩大、虚假信息泛滥以及自动化带来的大规模失业。专家建议国际社会应建立AI监管框架，投资再培训项目，并确保算法透明，以避免负面影响失控。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2405",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "summary": "AI视频生成初创公司PixVerse完成4.39亿美元融资，估值突破20亿美元大关。该公司计划利用新资金扩展其世界模型（World Model）产品，并加速全球化市场布局。PixVerse的核心技术能够从文本或图像生成高质量视频，适用于广告、游戏和影视制作等领域。此次融资规模反映投资者对AI视频生成赛道的高度认可，也凸显了PixVerse在模型能力与商业化落地方面的领先优势。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2406",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T23:31:18Z",
+      "summary": "AI智能体开发公司Nous Research（旗下产品Hermes）正进行新一轮融资谈判，估值目标15亿美元，计划筹集至少7500万美元。本轮由Robot Ventures领投，USV等知名风投机构参与。Nous Research专注于构建可自主执行任务的多模态AI智能体，Hermes系列模型在企业自动化领域表现突出。该融资表明投资界对自主AI代理商业前景的信心，尤其是在企业级应用场景中的需求持续增长。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2407",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T20:59:00Z",
+      "summary": "微软CEO萨提亚·纳德拉发出警示，提醒使用AI的企业警惕大型AI实验室的商业模式。纳德拉指出，那些出售专有模型的AI巨头可能像“特洛伊木马”一样，通过模型嵌入企业系统，逐步掌控数据和决策流程。他认为，企业不应过度依赖单一供应商的封闭模型，而应拥抱开放生态和可控的AI技术，以避免未来被锁定。这一警告在硅谷引发广泛讨论，凸显了AI产业中开放与封闭路线之争的紧迫性。",
+      "fetchDate": "2026-07-14"
+    },
+    {
       "id": "2390",
       "title": "Artificial intelligence is here to stay but can Kenya balance innovation and risk? - The Eastleigh Voice",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTExIQ0pDZlpoUnp4T0tyaFVhdllBTTBhYlN0UXlIWmtKSkdDc04zWm1ENmJHZFQ4Z21zNVpLMUJ1RUF3ZzlJbDAxbktIeFQzbTBOSmhDSkRpZWF4UGpBbWZ2ZjhIaHhYTERaTWc3YTJrTWtkNGVONUJxOFdPRDZQeURSNV9jaXlkQndhc3hXV1dWOW54a3hJX1BhV0Vob1RkWlFXdnNaQUE3RWFKTmlxNGJNUzhNdmJNRThYU0JSYkhZLVVwdFd3?oc=5",
@@ -21610,5 +21655,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2401
+  "total": 2406
 }
