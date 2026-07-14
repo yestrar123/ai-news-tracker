@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2408",
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T02:46:42Z",
+      "summary": "尽管已经富有且成功，上一波科技浪潮的赢家们再次投身工作，原因是担心错过人工智能的关键发展时刻，同时也被赚取更多财富的巨大潜力所吸引。他们重新挽起袖子，试图在AI这场定义性的技术变革中占据一席之地，体现了科技巨头对新兴技术浪潮的紧迫感与野心。",
+      "fetchDate": "2026-07-14"
+    },
+    {
       "id": "2403",
       "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
       "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
@@ -21655,5 +21664,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2406
+  "total": 2407
 }
