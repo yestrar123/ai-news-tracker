@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "2428",
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T18:33:31Z",
+      "summary": "谷歌再次面临主要出版商提起的AI训练诉讼。阿歇特、圣智、爱思唯尔等出版商指控谷歌未经必要许可，将其大量版权作品用于训练人工智能模型。这起诉讼进一步凸显了AI训练数据版权问题的法律争议，可能对科技公司使用受保护内容进行模型训练的合规性产生深远影响，并推动行业对数据授权机制的讨论。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2429",
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T17:45:55Z",
+      "summary": "DeepMind CEO Demis Hassabis呼吁成立一个独立的AI标准机构来监管前沿人工智能。他提议建立一个类似美国金融业监管局（FINRA）的机构，负责对前沿AI模型进行测试并制定发布最佳实践。此举旨在通过外部独立评估确保前沿AI的安全性、可靠性和伦理合规性，同时为行业提供统一的监管框架。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2430",
+      "title": "Nvidia May Be the Most Valuable Company in the World, but It Looks Like a Bargain Compared to These 3 Artificial Intelligence (AI) Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1laSVgtSllFNHlxX1BzYWEtNEZoM3doWWNyOEV4WlB2T0hnbF9OWE1HY3l0QVFrYms4cXdnNUJLVy1nWlU4WkpuNzBCQU5ILXF1LVlpYUNhQVQxOE9IWUo5U2gwdjVvX09HOWJRSl94TjBYUHYzLV9XT09HTnZXaFJrQTFfRkl3MWhaa2FweE05R0hzME93OQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T16:43:07Z",
+      "summary": "英伟达目前是全球市值最高的公司之一，但根据Motley Fool的分析，与三只特定人工智能股票相比，它看起来仍显便宜。报道指出某些AI公司因更高增长预期而享有更高估值，但未明确具体股票名称。该观点反映了市场对AI行业估值分化的关注，以及投资者对AI赛道长期投资价值的判断。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2431",
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T16:22:15Z",
+      "summary": "Meta旗下Instagram负责人Adam Mosseri预测，企业将不得不像管理薪酬一样管理AI token预算，工程师很快会面临使用AI工具的支出上限。他认为随着AI工具在企业内部的广泛应用，控制token消费将成为一项关键运营成本，类似当前对云服务和API成本的管控，这标志着AI资源管理进入精细化阶段。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2432",
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T16:00:00Z",
+      "summary": "谷歌图片进行了类似Pinterest的重新设计，重点强化内容发现功能。用户现在进入Google Images会看到一个“为你推荐”画廊，根据其兴趣和浏览历史呈现个性化图片。这一更新标志着谷歌在视觉搜索领域向社交化、探索式体验转型，意在提升用户在图片搜索中的停留时间和互动率。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2433",
+      "title": "US artificial intelligence sovereign wealth fund sees surge in support as AI job losses mount - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMktpTnF0NUJJZ2ZsVU50VTRnWXlFaWVkR3BEd3Fxa3hyZWhFRml0NmVoY19TZlVIVEJtSTM1dEM5VllYd2F2dUg0eU5VVUhTU1EwTTVuR0hTQURLeEgwT3I2eWpjNWFEdmZGeGcyajdxOERheEcxUlQ3aEJoSXNWTk00VnpHSHRlNUg3dU1tVERmdF9MTWtiS2dtY2NiYV9HckxMM2dxRngySmlDdTVuZWNPQmxNYkdJdW1xbFNhc3lkMkM5NTg1VlRwaUZiTVJxNzl4aDYzZlQ3WVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T15:33:45Z",
+      "summary": "随着人工智能造成的就业岗位流失日益增多，美国设立人工智能主权财富基金的提议支持率激增。该基金设想利用国家资本投资AI技术，并将收益用于弥补失业带来的社会成本。尽管具体方案尚在讨论中，但支持者认为这是应对AI结构性失业、实现技术红利再分配的一种潜在机制。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2434",
+      "title": "New York State halts construction of all new data centers",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T15:17:59Z",
+      "summary": "纽约州成为美国首个暂停批准新建大型数据中心的州。州长Kathy Hochul认为，人工智能驱动的数据中心建设热潮不应以抬高电价、消耗水资源或剥夺地方控制权为代价。此举直接冲击了AI基础设施扩张计划，并可能引发其他州效仿，迫使行业重新审视数据中心的能源和环境影响。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2435",
+      "title": "Military Artificial Intelligence Systems Market Report 2026-2036 Assesses Global Growth and U.S. Trade Tariff Impact - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMERyLVBSakZJdzZDYU9qeWxkckk4dU9WNTJEcmxubFFTZVdONXE1czA1VkdRQmJmdFJ1UkJlRnRDTEZuRC04Y2d6NGd5NXdmTGVHWE10MUV6OXNsMW5Rb1NiS2VtWmNIUHRmQk1RN0tfQmthTE1TemZfVmhTdFZ0UWdacE5rRGtwaUlGNkZ1cDJnSTVRdEQ4OE5udjlidXJiSUxQV3JtTzV3YTR6U3RrTg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T15:16:00Z",
+      "summary": "一份2026-2036年军用人工智能系统市场报告评估了全球增长前景及美国贸易关税的影响。报告指出，军事AI系统市场将在未来十年快速扩张，但美国关税政策可能改变全球供应链格局，影响各国技术引进和军备投资节奏。该报告为军工企业和政策制定者提供了战略参考。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2436",
+      "title": "Dr. Xiang Yanping of AICT: Building a New Paradigm of Artificial Intelligence with High-Precision Physical AI - The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN0ZmYlFoRHR2VHdEeXhPMXlPM1IybklEN0Y0YXVPQmdsanZ6dEpGaDY3YW4xQVJkZURqQkRFMko5bWtoVGRwRWZEem9CbzV5d3QyUkdiX1lYbkFHS0dGdkJ5ZVFZOXdPbU9xX0ZqN1JmVTVlT1dIcUQxQ1piTXNUMmZPY3haa1NSMVE0M2Ffc0w2ZC0ya2xSMndRSVBqYmJ2dTNzYUtieU1OdHhsRUtqNTZORUlVQWhpY1JRd1cySl9PTXRSczI0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T15:06:03Z",
+      "summary": "AICT的向延平博士提出构建高精度物理AI新范式。该范式强调AI系统不仅要处理数字信息，还需与物理世界进行精确互动，在机器人、自动驾驶等场景中实现更高水平的感知与控制能力。这一方向有望推动人工智能从虚拟模型向实体应用跨越，解决现有AI在物理环境中的鲁棒性问题。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2437",
+      "title": "What Marx Can Tell Us About Artificial Intelligence - Jacobin",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SSVV6c1BEamQxby1ZaTlLMGRDbFFLS3JEYlB2dWRfdWIzeFA5QldNUVBWODJ1cVREZDR4X0Fmc1ExZ1l3bGRkdDQ0bmZPdVNJS05Gb0VGazJ0b2p4cmFkM1lROW93LXQ1LW95RmNxdEstQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T14:57:34Z",
+      "summary": "一篇来自Jacobin的文章从马克思主义视角分析人工智能。文章探讨马克思关于生产资料、劳动价值和生产关系的理论如何帮助我们理解AI技术带来的社会经济变革，包括自动化导致的工人替代、数据作为新生产资料的集中化以及剩余价值的再分配等问题。该文呼吁关注AI发展中的阶级分化和社会公平。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2438",
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T14:37:48Z",
+      "summary": "Reflection AI与Nebius签署价值10亿美元的计算资源协议，以获取大规模算力支持。Reflection AI成立于2024年，致力于开发开源AI技术，此次交易将为其模型训练和推理提供关键基础设施，加速开源AI生态的发展。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2439",
+      "title": "Exolnet Launches Dedicated Artificial Intelligence Development - Ontario Farmer",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZDRqdG1maHU2TndFT3pKQnFkOVcxeUh3OFV2YUV5ZGo4RHBocGZ6REgwRlY2X2xJRnFFUE1TQXZia3o4c0VRMVNPT0VxbUdwS1FFWlYxWFk2VUoxZXh4dkRJM0dDSWo2QWN6VzBtM1NHa00xdGFZSjJRbGYyeEk5WTJsTGFzMnpYRDBXa3gyWm9pYkNLcU9SVGdSbmhhTjJkNWEtNWU3amNfcDRQSHFrNXVfU1BsejVzV0FMa0dSa2U3WS13aUR6ZzN4dDhrSkl0Zl9IRkxZdm1WZkdqeTFySFdaUXVIWDdxVkhsZmFaN2wzM3lKbFZDUVFhZUpSSjhtSlBNaWxWamdCbTRLLV9TUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T14:26:25Z",
+      "summary": "Exolnet公司正式启动专注于农业领域的人工智能开发项目，旨在利用AI技术提升安大略省农民的种植效率与决策能力。该项目或涉及智能监测、精准农业、预测分析等应用，助力农业生产数字化转型。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2440",
+      "title": "The real AI race may no longer be at the frontier",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T14:24:53Z",
+      "summary": "Hugging Face首席执行官Clem Delangue指出，企业越来越倾向于采用开源AI模型，原因在于成本更低、更易获取且拥有权清晰。他质疑前沿模型的重要性，认为当大多数生产级AI运行在开源模型上时，AI竞赛的重心已从追求极致性能转向实用性和可及性。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2441",
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T14:06:47Z",
+      "summary": "Spotify深化AI布局，为Premium用户推出AI驱动的对话式音乐助手。该功能类似ChatGPT，允许用户通过自然语言与App交互，发现个性化音乐、播客和有声书内容，提升用户体验和内容发现效率。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2442",
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T14:00:00Z",
+      "summary": "Superhuman推出最新AI邮件自动起草功能，在测试中生成的回复几乎无需人工编辑，显著提升了AI邮件助手的实用性。该功能通过智能理解上下文，生成高质量回复，让用户更愿意接受AI辅助写作。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2443",
+      "title": "Australia to create Office of AI to shape national artificial intelligence rules - The Citizen",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR1FqU2FIcXBoX3IwMW9hRDRva3pZYUYyczB2QkEyRkxBTE56QXVHM2swNmp3S3ZVT2JDUHJGVk1kVGJJLXJjMjhfQWxHRmgzYWs1UEdvMnpOM1ZHdFpTZHRUQk9QWkd5di1GQTVVNnVFWjBKS1BFYVpReEM4ZjJpdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T13:52:17Z",
+      "summary": "澳大利亚政府宣布将设立专门的人工智能办公室，负责制定国家层面的人工智能监管规则和政策框架。此举旨在平衡AI创新与风险管控，确保技术发展符合伦理和法律要求，推动负责任的AI应用。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2444",
+      "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVmczX2N4WmoyUnBTVmVTVDFfSWdvdTVxR0JFdXVRdE9XUFFmQ3NFRzhNbU13NjY3WVIwWTZ4cF8xYTlrLUFydXA5ajNsYnMzZTJRNENHY01zdDNjWGIzeFRSdk1GT0ZqZzJtRTE3TFlsTnV5UXlYVk5aSFNBWFVBS2YxR2RwM0V2M0t6dVZNNHFBOVZudXZXa1RWRm1KdHRFbzE4WFdURWEwUjU1UjF0UjdndWpQN0Z3aFdBV3MwSllFZjg1N1BjVFdGejNJTktKVkR0Rm4yN0lGQ21maHR6Ql9XMWJRSjgxWFczNU5n0gHzAUFVX3lxTE5MY2lib1dpYnhudWd1dlhrU1RmNFh0UXA1YUxMWjh3M3pHeFFHYkxQY3RlVHRLRE52U3VCb1pxWndtVEFJTmUxTnFMUlVnTTZWakhkWldvV0xDR3RyS2NWc0xIUnRTQ2VaM0dZQ2VtczFMVHNiRDQtcVlPc3BXamk3LVFmYTllaFdMd3pJRjRObXpmeE5EU25TWk52SUZRWUVvTDlNRWdHTzRqbzY4NWI5MUlVOFBKY0JjOEdzcGo1c2FFQVduVjMtY3NOQXNxWnlpaEtBbW1xT21NbmtpVXpJUzNPYzU1cUJuSWZqYTNsc2tOOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T13:51:43Z",
+      "summary": "IBM发出警告，称企业对AI的巨额投资正在挤占传统软件预算，导致软件行业资金紧张和股价下跌。这一趋势反映出AI技术对现有IT支出结构的冲击，市场担忧软件公司盈利能力受损，引发板块抛售。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2445",
+      "title": "George Lucas Goes To The Dark Side, Says AI Is ‘The Future’ - Kotaku",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc1BOQl9oVS12Y2hQUVY1ek1lcXRCUldMTGxLaDMyMkZVQUViWGRTT2M4RlJhRXZPVnlpWnh1UmFVNHAtcXFlTkw3TXItQjZtT3RkS1NtclhzQm02NUE4NDlqUUV6a0d6dFFwRXlxcDl0SkNJS0dWU2J2V3A2amFIdXdMODVSdUk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T13:46:17Z",
+      "summary": "著名导演乔治·卢卡斯（《星球大战》创作者）公开表示人工智能是“未来”，这一表态被媒体形容为“走向黑暗面”。卢卡斯认为AI将在创意和技术领域发挥关键作用，其观点可能引发传统影视从业者的争议。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2446",
+      "title": "Sen. Tim Scott wants to hear from Warsh on data centers and artificial intelligence - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlh2WmJLLTRGM1ZnSVJGMHpRdGtla0RtWFFpT25oQjZCZGtzOEF6azVBZE5DRlBHRmN2MURPNUFSeGxWaWRRelhRZi1qUVVnYWJrMWRpMGZsZE16Z24tX3FNZXNlUXp0cEVMR2ZHMjdwNEN2WGtaczM5MlIwWDdQQnBqbUE3eVFMMGZtNFl0Nm9IOXVQT0ZKby11d9IBoAFBVV95cUxQQ0pWekY2cjlNR3NPU3dXWXdhMTZjQTZhU3RGOE5JVlp6dk80Z01VdDk1ODFfNUphNWU0ZURxOUlyd092ZTJCXzdpek9qRUNtUS0yZURDQ2Z1VzhUWDJYSmJzTVA4NEc3cS1ZQ0RtdjJXcllUbjVfMi1FemU5NFFZT3IzNGY3Mzdpek1sR1RUQ0w0MGpWUE5YdHpvVWN3dUJQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T13:36:04Z",
+      "summary": "美国参议员蒂姆·斯科特计划听取前美国财政部官员Kevin Warsh关于数据中心和人工智能的证词。此举显示美国立法层正密切关注AI基础设施（如数据中心）的能源需求、投资及监管问题，以制定相关政策。",
+      "fetchDate": "2026-07-14"
+    },
+    {
+      "id": "2447",
+      "title": "AI Chatbots and the Erosion of Therapeutic Discomfort - Psychiatric Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRDh2TXJZTlZ5LWw4dGJqWWNmVWpxb0xTTmZwbHItOXdiNHU5MzUzbE5lakJXaDFZa3lnLXhfY0xaNjRUQkhBRFVQZElKRzh6Wk5Yb2VEU0U5TTgzWk56bG5odl9MRW1YZWZyN2VaNE9xZDgxdHlaNVdITXdjdUNNc0Q4dGlHS3l5OUxxYTNXbC1abkx1RGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T13:04:58Z",
+      "summary": "研究指出，AI聊天机器人在心理健康领域的应用可能削弱治疗过程中必要的“治疗性不适”——即患者面对困难情绪和认知挑战的体验。这引发了对AI工具在心理治疗中角色的伦理讨论：过度舒适的交互或会降低治疗效果。",
+      "fetchDate": "2026-07-14"
+    },
+    {
       "id": "2418",
       "title": "Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHFsVkpkbTV3bFllZWJxSENQNGU1QVQySnR1Mzc0alJTcWJPQV9VdTR2SUlRdVhoTGJrMEZ4YlVaSGdMb19YdDU4dU51MVpBTkY4aVlaWXdCT2d0LTN5NlZadzlKS1Y5ZzViamFHR3VLSzR1V3Jnbzd2VGpUUmtCdWlxdXJiSzJ3b3U2WHc1UHZrVEd0bE5hbTVJYTdwbkVrOFQ5VXF2RS0zeUVnbUNiV0FwaGZwTktsS2pXd3Bmd3cwTmpZVndLZFZCV3Ytbm15aG5Zb2VR?oc=5",
@@ -21835,5 +22015,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2426
+  "total": 2446
 }
