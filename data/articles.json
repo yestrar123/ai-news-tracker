@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "2466",
+      "title": "Generative artificial intelligence (AI) services dominate the mobile environment. ChatGPT is also th.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05YmxTLWFhQ25kSjdDMy1WbmcxcmRyd1FIQ0NkYkppd1lTMFp6MHBGLWc0OHJYTXo3YzNCNUFMUVBlTzVyQmYwa3F2Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T04:31:07Z",
+      "summary": "生成式人工智能（AI）服务在移动环境中占据主导地位，ChatGPT等应用成为典型代表。这类服务通过强大的自然语言处理和内容生成能力，深刻改变了移动设备上的用户交互方式。随着移动端算力提升和模型优化，生成式AI正快速融入日常应用，从文本创作到图像生成，展现出广泛潜力。韩媒报道指出，这一趋势不仅推动了移动互联网的创新，也对传统服务模式构成挑战。",
+      "fetchDate": "2026-07-15"
+    },
+    {
+      "id": "2467",
+      "title": "PM targets copyright theft and data centres in world-first AI response - Nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT3JrNWRwX2gyWUF4X1lZdDdjN090NjV1aGhnSDQxN2Npbzc2dUVfekNwTmZ6ZWtfRkYyck5sUXhmcFVDVWYybmUwM1dNSDk0SG9hVmxTQkpxVWZtOW1BbFVKMmRIeWhYYndrVTFfMndNa2JaRHFQUGpRRHY1UEwwT2EtY2ZCbnE1aVJwZUY2MjN2bmd3RkRJRlgxYUdETXVIOHBZOEcyOUhVTDJqLWtEZ0JLd0dLZno5aUpvenoxNFVnNGJUaVluRlNQN3VNaDVUNFlzM0dtNy1STkszSHlSZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T03:57:09Z",
+      "summary": "澳大利亚总理针对人工智能领域推出世界首创的应对措施，重点打击版权盗窃问题，并加速数据中心建设。该政策旨在为AI投资创造安全、合规的环境，同时保护创意产业的知识产权。通过明确法规和优化审批流程，政府希望平衡技术创新与法律风险，奠定AI产业健康发展的基础。此举被视为全球AI治理的重要风向标。",
+      "fetchDate": "2026-07-15"
+    },
+    {
+      "id": "2468",
+      "title": "AI push by firms like Starbucks poses new threat to India's IT sector - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaHNEV1c5VnhfRXdXRFoyVFBUV0lSbHo2M0RJNHJZN3BRNGpPTFZVOGhUZEo0NDhKc29WMWFYRjdMRnVXVTJZWnN4WDNDX1pfUmhNb3JYSnRkSUxieENjTEFBN09hTURqWEg2UmtUdlpVWWhDSUVMUTZkQ2lDRjVrTW9mUm9rdnFsNDlhTDJUbzhVb2FjREo0Y1BhY2x6VWZ1Wnd0QXI5N0M4UmdzUVFsNHN6ZTBYcmducXFRZXB2SHdCS0JwekZPTC16c0hXM3dMZ3c4dUpldUZEQ2V1ajFFV21QbWk1am81S1NlZ0FFa9IB9AFBVV95cUxQc25WS09fNVU1OE1NRXJ1bmpXNktjaEJtZnd4akVvYUhtRFhraG55S0JyZVZDTGR1Si1iRlk1dVNZdk9MUkRxQm42Y1FiajhaN081a084NndFb1ZXRzJ1dk1DaThzZ2prc3p0VHh0NWNueEJta0FYeVFELXZCX1kyRXYtWUs4SG96cnYwR3U5WndFS0k0TG53dzV4S2VpRUpWeW1IcFNoa2FqMHBuUnRvZzdaOXg3aldaQktma2VoZXA3OXhDc1QzT0VqTjZkaDFfOHloTFpxSFIwNjNfa25Va09na3U0TEFSME5QMnRlRHR5R0Ru?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T03:31:12Z",
+      "summary": "星巴克等跨国企业大力推动人工智能应用，给印度IT服务业带来新的竞争压力。这些公司利用AI自动化客户服务、供应链管理和营销决策，减少了对传统IT外包的依赖，可能导致印度IT企业订单萎缩。专家指出，印度IT行业需要加快技术升级，从成本优势转向AI创新，以应对这一结构性威胁。",
+      "fetchDate": "2026-07-15"
+    },
+    {
+      "id": "2469",
+      "title": "As AI becomes a gatekeeper, can India Inc influence what it recommends? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcDR1ZndaR2tjSzNVcVZZWHBITFRaZzZBOTNGcUFQeHd3S3ZNYlhWV3NSanB4S1lNU3NhaC1CMlRydFB4TjJhcVlUZFBRNUNZcHhRc3Zzd0RCOVRHOXM4WmIzVFdyUEVDR0dVUnE3Z2JhSGxkRHgxSU94eHNkSl84bWRCSE8xQnRfQ1FCcGhlZUZuYi1qUHB3SlV1RFJGd3oxUXdrLXJlWXRyV2Q0bEtLLXN4VWhETGFRZDlydXVOU29EN3AyOHdURFA3N0tlZzTSAdQBQVVfeXFMTjJfdXg3dmVqWGUwMHdjSmZtSDZZR245QWZpT05TV1pPNmRZeGFZbkI1enVYUnlGa3hRRnREajgtZW1hM2pCaXlyMHJyTWg1VERUTEJtRmlzX0ljR2twa09SNllscW1JZENaQ1lOalNrSUxTMHhCM3hzc1M1QTNnV2xDUUx3NnFmN1JmNVVmY0FQcWpMS1lEM0N2U0tVZkxPU0JTVHdDZmlONV9taWFVX2pTa0FuYUZhSVhwZV85Y0lmdlVVbXF3MTZjZTQzV2hMZk5KSW0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T03:17:15Z",
+      "summary": "随着人工智能成为信息推荐的关键“守门人”，印度企业界正在思考如何影响AI系统的决策。AI的推荐算法日益主导消费者行为和企业运营，但透明度与公平性问题突出。印度公司若无法理解或调控AI的推荐逻辑，可能失去市场主动权。文章探讨了企业通过数据策略、政策参与和技术合作来争取AI影响力空间的可行路径。",
+      "fetchDate": "2026-07-15"
+    },
+    {
+      "id": "2470",
+      "title": "One NZ takes out global telco awards for AI innovation - Reseller News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnl1YXJxSUs2bG9rRWxXeWI5bUdLZG1YdU11X0hTZ28xeFhkZW51QlRjNk16emhySWtaSlJBcVNlX1dMQjdfWkhOckowYXZhWEJBRWFYY0xMZ09VQUVDVE56TFZzT0doR0pCLTdMTmZiWFJUUXN5ZHhBQlVrbU5ZRExsYTE5cWJTT3ltV3ljbFVIU3JiQlplV2pRVDJCUmxkeDg3aw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T01:54:42Z",
+      "summary": "新西兰电信公司One NZ凭借在人工智能领域的创新应用，荣获全球电信行业大奖。该公司通过AI技术优化网络运维、提升客户服务体验并实现节能管理，取得了显著成效。获奖项目展示了AI在电信行业从自动化到智能化的跨越，为全球运营商提供了可复用的创新范例，也凸显了AI在推动数字化转型中的核心价值。",
+      "fetchDate": "2026-07-15"
+    },
+    {
+      "id": "2471",
+      "title": "'People, Not AI': Meta Denies Using Artificial Intelligence To Decide Layoffs - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcl85WFozU3lfZkkyV2tqMG9ZaGxqMW9mcHE4NXh2UmphZmxCVHJzRlVJaTU2bUNhOXRELUcxVHVma0N4WGc2SkpiV01adWllcC1aU3JnSnZ1bFIzak9oUnNfZXp2VHRxdXVfZzV2cUpjYi02OGpZU2RfQ09DZWY2aVh4Q2FFUF9ESnRIMUFmLVd1aUNJejVvOU01SUdxTW00Z0RhNjBpY3pIXzhLejVBdlRhV3dJR2x3V05IWWZaeGh0UHpOSlJmejNWa1FVM2daOVFxX0lCSHXSAeABQVVfeXFMT1l6VlRCSnc2S1AzQ0t4R3FraFlyTDVNcDAtQ1h1aFBWbnZBZGcwQ3I2ejF2UkxkYWlOU0lXcFMzUXUxWDExVXNGRlpNb1VrLWc5TDA2dHpIb2ZIVDRISFc3d1JjbEcySFJ0TEpFNzlSdGtfeV9qUXgtQWxCcXFrQ0xpc1B5SzNCR3FQQnMzY2RlN1RpSFhtQUtRSzEtQm80TVU4X3F4MXhQUDM3MGltZGxEOHhBWUEzU0lnSXhuLWt2aHZZOEdKRWUwZE1WUm5ZX2FCaE16OGxoNXJSdmhXaEU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T01:30:25Z",
+      "summary": "Meta公司明确否认在裁员决策中使用人工智能，强调所有人事变动均由人类管理者评估决定。此前外界猜测Meta可能依赖算法优化裁员名单以降低成本，但公司声明指出，AI仅用于辅助分析业务指标，最终裁量权始终掌控在管理团队手中。这一澄清旨在消除外界对自动化决策公平性的担忧，维护企业信任。",
+      "fetchDate": "2026-07-15"
+    },
+    {
       "id": "2448",
       "title": "World leaders, Nobel laureates, AI experts to gather at Borgo Laudato si' - Vatican News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQWtOVThVVUFfQjdweXBIWUNtaTZweFNaNl9wc0M3SnoxVGVkcmUtdU1HYTR1Z0tJdlFscmxEVG9zVHA3RXM5MUpVdDhZbkJMeVRWeFFQMmN2R0lkVHhXcjYzenFCNUxWcW1sMXhHZUNIVXAtbWtZV2NwMFpmNGY0MlRYYmdDOHFSMmFCU3pkb2tWRVBUTDY5MlhmWndSSmxIa1plOEhsdDZ4cUZVNzdlcEpoVnZONmtpVHc?oc=5",
@@ -16,6 +70,15 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-15T00:27:04Z",
       "summary": "OpenAI研究员Miles Wang正洽谈创立一家AI药物发现初创公司，估值高达20亿美元。此举反映了投资者对AI在生命科学领域实现突破的浓厚兴趣。该公司将利用AI技术加速药物研发流程，提高新药发现的效率与成功率，有望推动医疗行业的变革。",
+      "fetchDate": "2026-07-15"
+    },
+    {
+      "id": "2472",
+      "title": "Why AI agents need trusted identity infrastructure - Reseller News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHZYZzhNeXlhRjR1YXlQeUpidGVmNEhHeUYxU2ZqYjJ0dWlBR2VOWE9pLUhLck1lRHBSMENhQVR0ZG9tQXkwV1BwWlFQLXZ6d0ZCMlJCWl9acGd2clhJLWlXc0hHbDE1YjhBb2tUcTF2cUx3eEhJV1FNcE85M2otV1p0STlSX2g4NGNwbTdfVEVRYXJHVkJfT3VmMWdob0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-14T23:34:29Z",
+      "summary": "随着AI代理（AI Agent）在各领域的广泛应用，确保其可信身份基础设施成为关键挑战。文章指出，缺乏统一、安全的身份认证机制可能导致AI代理被滥用或攻击，进而引发数据泄露、决策错误等风险。构建包括数字身份、访问控制、审计追踪在内的可信架构，是保障AI代理安全、合规运行的基础，也是行业发展的迫切需求。",
       "fetchDate": "2026-07-15"
     },
     {
@@ -22177,5 +22240,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2464
+  "total": 2471
 }
