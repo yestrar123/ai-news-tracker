@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "2527",
+      "title": "Thinking Machines Lab, an artificial intelligence (AI) startup founded by Mira Murati, a former chie.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mdnBtY2Zjc0otRGtnaTR3dnlRV0NiTjExY01KZGgyV0pzXzZVY1hwN1J2LWVLM28wSzI4YVdCZTA3OFR1RV9oM2FTQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T04:32:47Z",
+      "summary": "前OpenAI首席技术官Mira Murati创立了人工智能初创公司Thinking Machines Lab，该公司专注于开发更安全、更可控的AI系统。Murati凭借其在ChatGPT和DALL-E等产品开发中的丰富经验，旨在解决AI对齐、透明度和安全等核心问题，推动负责任AI的发展。这一创业项目引发了行业广泛关注。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2528",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16T04:00:00Z",
+      "summary": "Applied Computing公司成功完成2000万美元A轮融资，计划为石油、天然气及石化行业打造一个针对整个工厂操作的基础AI模型。该模型旨在优化炼化生产流程、提升设备运行效率并降低能耗，通过整合工业物联网数据，为传统能源行业提供智能化转型的关键技术支撑。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2529",
+      "title": "AI Appreciation Day 2026: 7 Professions Getting A Massive Boost From Artificial Intelligence - News18",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdmpLSXZEUndxWGhDaXItQVVUTzNnTS1YR095NWVtR20wbkU4WkFCOC1nWmRHVFZTN3ZqWVBRQUNiVkVxTjBqbDZLcm1rVnVsaVdiNkhKUUp6RVZnb0VNWDBKZU9aMU4wYlhhcHlfWHR6UjlMa2gwa2V6aDU3c0NJV2VYWnNhWUs2aHNpYlhzdVhrd3JwSkczZm9Va2ZnMzJqVmJndEZ4NWx1ZVlMTFNrMEZHN3pfZXA3Wk5XdTloMjMtM0hlc1RhWENvU2ZQSnhXV2pVMjdBMzl5MHFlZG10WGxpNi1pVEFxODh3aGNsNlhWdGVJanfSAfsBQVVfeXFMTmhiYVFLMV8wOW5mN3lUZGNhVHA4djl2UzBPa0xJdGlTRGY1WUJWQmdrWFdwZnZOcDFLV2s2ZjFXb0xXNmtIWlBuaUs5UkZWaUN2b25JcnBocVRKbFg3WXpGaXBFSllFQlRxYXZWVkZqeXM1bVRsck94dXFLZHp2RnpyZGpIYmlNUFhGTXpIWVVSeXNISFlGTVoxVzRPdHNsb3VsSU5OeUNQZkJCdE9nOUJPc25EU0tmX1NNbVJyLXNzUnFnTC1vMzZOODBBcDBFbkE4dEhEYWJnb2tRX0ZNcXpESk9CWGNFUURnYmREOTZLRmRmbm9sQkJkMnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T02:45:52Z",
+      "summary": "2026年AI感谢日指出，人工智能正在为医疗、教育、软件开发、数据分析、市场营销、创意设计和客户服务等7个职业领域带来巨大提升。AI工具通过自动化重复性任务、增强决策能力、提升创作效率等方式，使专业人士能更专注于高价值工作，加速行业创新步伐。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2530",
+      "title": "AI's Energy Paradox: Can Artificial Intelligence Help Solve The Power Crisis It Is Creating? - BW Businessworld",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTlXREhmSHh3elRFLS1DLU5xaHdUVHF5R1pGYS1heGljSkg5a244QmREczN2dldSRUFUUmFodnh5ekp2UFpQNXpDSjlHMG1PWmxaYjNhQUluRVhFMUdKeGpzV1JJLVdYQ1M0SG5Id3VFS2xreWxSc3ZWOXlFRzFMSlNXVGhTUkhPX2pvUE44NkNOSnpyNlB0bHJZWjFlbDJ3UklXWlpCZEcyZW0tdmZOTnRLZDI3M2stdWVja1lpNk0wTkxkaUVvMkU0NlAxLVk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T02:17:16Z",
+      "summary": "人工智能快速发展导致数据中心电力需求激增，引发了AI的能源悖论——AI既是能耗大户，也可能成为解决能源危机的关键。通过智能电网优化、数据中心的能效管理以及AI驱动的可再生能源预测等技术，人工智能能够帮助平衡电力供需，降低碳足迹，但需要更多突破性方案来满足自身日益增长的能源需求。",
+      "fetchDate": "2026-07-16"
+    },
+    {
       "id": "2516",
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
@@ -22726,5 +22762,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2525
+  "total": 2529
 }
