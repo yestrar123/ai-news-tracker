@@ -1,167 +1,90 @@
 {
-  "updatedAt": "2026-07-15 18:53:41 UTC",
-  "totalArticles": 23,
+  "updatedAt": "2026-07-16 01:27:54 UTC",
+  "totalArticles": 12,
   "articles": [
     {
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T18:06:05Z",
-      "summary": "SpaceX股价在公司Starship发射前跌至低于135美元IPO价格的水平，从上市后的 euphoric高点持续回落。市场似乎对CEO埃隆·马斯克在上市前后做出的承诺逐渐理性化，反映出投资者对SpaceX商业前景和盈利能力的预期有所降温。这一股价走势表明，尽管Starship项目备受关注，但资本市场对航天领域的高风险投资保持谨慎态度。"
+      "publishedAt": "2026-07-15T23:59:44Z",
+      "summary": "微软据报正在培训销售人员，以在客户面前贬低OpenAI和Anthropic等竞争对手的AI模型，强调自家内部AI模型在效率和成本效益上的优势。此举表明微软正加大AI市场竞争力度，试图通过销售话术引导客户选择其Azure AI平台或Copilot服务，而非第三方模型。"
     },
     {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T18:04:06Z",
-      "summary": "AI初创公司Thinking Machines发布了其首个开放模型Inkling，这是该公司反对通用型AI理念的最新举措。经过一年半的隐蔽基础设施建设，Inkling成为其首个公开成果，旨在提供更灵活、定制化的AI解决方案。该模型强调特定场景下的性能优化，避免一刀切的方法，体现了Thinking Machines在AI技术差异化发展上的战略布局。"
+      "title": "Dana Suskind on How to Protect Childhood in the Age of AI - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXcxN1NNRGRPQjU2VzQtakZVREdPbHZJU2pMMVk4RDJJOXNHT29PR1VZenNoTHZrbzdjQTlkQ3hyQlA0UFlsVlAyUEtGWjZfMGptUUdsMkhGT3BqbFY2ajEyRE12QWlld05UM0hoemQtc3ZjRkJkNWVrMmNFbVQxM1BwRHhLM0pxSkxvdkxoWUZJQ0dVTU5fSDBrN2Y2a3pGVTZENw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T22:10:29Z",
+      "summary": "儿科教授Dana Suskind在《好人项目》中探讨如何在AI时代保护儿童。她指出，AI技术正深刻影响儿童的认知发展、社交互动和注意力培养，家长应主动限制屏幕时间、鼓励实体游戏和亲子对话，同时推动政策制定者将儿童福祉纳入AI伦理框架。"
+    },
+    {
+      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’ - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmxNUzRxRWpHdUxFVU1pZ0tYNm9FVVBicWMweGlSZnJkaVJGU25kcW1haGZfYnlDeWNjbDFLLXhkbEw5cTNnS3BjeGphSWw0WWpKYjl0b0VKZ0Q4SkFXN3puZzlsN29Mc2RZdndYMklhdHFzYW5QdUk2Sy10bmpLTzJqTXota3ZWcVZUd3R3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T21:33:20Z",
+      "summary": "xAI公司起诉一名男子使用其Grok模型生成儿童性虐待材料（CSAM）深度伪造，这是首例针对AI生成非法内容提起的重大诉讼。xAI强调将严厉打击滥用行为，并配合执法部门追责，此举也引发业界对AI模型安全护栏和内容审核机制的进一步讨论。"
+    },
+    {
+      "title": "Better Artificial Intelligence (AI) Stock: Amazon vs. Alphabet - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN0FwbWRUYTdJTTc2dWt6ZVB0YlpISllaMlB4RmRaOGpfdjVuRnlMc01PMUtfdlhicTNoekkyMHFNLUlHVmdhUmVyVlNNWm5WVzVlbGJhbE01eHZzRUVaSmdMVzR5QjIwMzQxZHdJZVlkZUpjQk0wRzNZLTdELWt0MnluTWRDRHljdGZRaHQ4Nk9aRmZYMWhJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T21:20:00Z",
+      "summary": "《Motley Fool》分析亚马逊与Alphabet（谷歌母公司）哪家AI股票更优。亚马逊凭借AWS云服务的AI工具和庞大的电商数据积累，在商业化落地方面占优；Alphabet则依托DeepMind、Google Brain等顶尖研究团队，在基础大模型和搜索整合上领先。两者均具长期增长潜力，但投资风格需差异化考量。"
+    },
+    {
+      "title": "Better Artificial Intelligence (AI) Stock: Amazon vs. Alphabet - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdnptbk9xcE8zY3BCaWFfd1R0YWFzcXNMdUZicnVJcHpnT3llQXhqWFIwV1R6YWlYVmoyanhFTDhGZnljSkkzQ19IMzYzSlNyRmhVYTNTelZMa0phUlVHaG9HdC1nNUN0UDJYby1PNEpQTXlpOG15SlZZalZfXzVUQ3VkUHlPRkk0bFZhMHdwS1FPNVlHSmhoRlNTT3ZRa0JFRDVvejJCYTZ6UHVZVjc3R0lOcnJEQThnOGNSc3JUTmRXbnE5OG1OQXpZcWROOS1wYy1z?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T21:13:45Z",
+      "summary": "《环球邮报》同样对比亚马逊与Alphabet的AI股票前景。文章指出，亚马逊的AI应用更贴近零售和云计算实际场景，变现路径清晰；而Alphabet则押注于通用AI能力和广告生态升级。分析师建议投资者根据风险偏好选择：稳健型可关注亚马逊，进取型可关注Alphabet。"
+    },
+    {
+      "title": "DeepMind CEO again pushes for a frontier AI standards body - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlBta1UyazdYaVdGZkduLTBuYWh0UU5rVDNxUTgtNmlma3ZRcFRfNG5oQmo0SmQydm1jRmMzSXhBMDZkcmlrdGI4RFZFSVlMeUZFSlF3eTdiZG5BTDU1TVNNQmNQcWxsNTdIbzhpcGk3bEhLQnJfX2xhT3A1czlrN0l2d3h6SXk5M2JsNWRMMWFNVlZ3aWstRmhqcEFiVVFu?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T20:55:23Z",
+      "summary": "DeepMind首席执行官再次呼吁建立前沿AI标准机构，以应对快速发展的AI技术带来的安全与治理挑战。他主张由多方参与的独立机构制定测试和部署标准，确保前沿模型在可控范围内发展，避免未对齐的AI系统造成全球性风险，并强调国际合作的重要性。"
+    },
+    {
+      "title": "Better Artificial Intelligence (AI) Stock: Amazon vs. Alphabet - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmFVejJkZlhBLUgtR1ZEXzdGV19tdk83N1BXVzNwRDdoa2Z1eUFfTlNiSFlQbGt0NEM5YXp2dkxKeEloMHoteVAzZ0N2RDFOdFkxVkpYWV91VzhnVk1LbFVxamFKYWh6UDMwRDdKNXo4U1dITmxGZWxRdXpLWEprakdxRUJzTUFXNzR5d2ZDSHNTQ3pycjhxdEhzdlVFcU9VT3hvMnBEMA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T20:40:00Z",
+      "summary": "雅虎财经分析亚马逊与Alphabet的AI投资价值。亚马逊在生成式AI应用（如Amazon Q、Bedrock）和AI芯片（Trainium）上加速布局；Alphabet则通过Gemini模型、AI搜索和云服务保持竞争力。短期看亚马逊收入转化更快，长期看Alphabet的研发底蕴可能带来更大突破。"
     },
     {
       "title": "Once again we are told AI may be conscious – I study consciousness, and I have my doubts | Anil Seth - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHdLaGJmaV9lWTBKZEJZTU8wTnp2Ry1tbVlVNUZFX1NXV2dJaVhCOVJqNDBYUHlJVURBcllUY1RkUUw2c2dTck5MZGpUMWx5VmItSENvSGlxR1hlajc4TEFUbW9XYlA5TS1kZkktRXZWaW5BN0hSNlJuOXR6bXBkTjVqaWZ3WG5XS004M0szcDZIX05zYzNjZFZIQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-15T17:31:00Z",
-      "summary": "意识研究专家Anil Seth在《卫报》发文，对近期关于AI可能具备意识的说法表示怀疑。他指出，尽管AI系统表现出类人行为，但缺乏意识所需的关键特征，如主观体验和自我认知。Seth强调，当前AI仅是模式匹配工具，与生物意识存在本质区别。他呼吁公众对AI能力保持合理预期，避免过度拟人化解读。"
+      "publishedAt": "2026-07-15T20:09:00Z",
+      "summary": "意识研究专家Anil Seth在《卫报》撰文质疑AI可能拥有意识的说法。他认为当前大语言模型不过是对人类文本的模式统计，缺乏主观体验和感受，宣称AI意识更多是推测或市场营销。Seth警告不要混淆智能与意识，并呼吁公众对AI能力保持理性认知。"
     },
     {
-      "title": "Artificial Intelligence (AI) Protein Design Market To Witness Strong Growth Trajectory Through 2030 At 27.7% CAGR - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTWJHRlBXSG1LWGM0dG9vaFc3MHh3RTFnRE95Y0JiekFfWVA5Wk9oOFBjQk5yUExVOWtMeWozZjJYblJZMDlRbDZ1V19XQUhGVkVPdldTbEUtNUt5YTRIdmFSbmpTNUNiTzFWbG42eXlZZXBFZFdWVUhHVWh0dC1lUFQxUXFLekJyb3d1NXNCa0xNc1hBcXg1Yl9wRnRQWTFxRjFpSDdsM1pPNlRVUXE5TjAwbEVnN2RvQjZRdVR1WjBLU1R0UlA0WHZ4UmIwVjRQN0Y0MFQtUVRLekNpY21DS2tOVm0yQlU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-15T17:26:00Z",
-      "summary": "根据EIN News报告，人工智能蛋白质设计市场预计到2030年将以27.7%的复合年增长率强劲增长。该技术利用AI加速蛋白质结构预测和功能优化，在药物研发、酶工程等领域有广泛应用。投资者对AI驱动生物技术的前景持乐观态度，认为其能显著缩短研发周期并降低成本。当前市场处于快速发展阶段，预计未来数年将保持高增长态势。"
-    },
-    {
-      "title": "How Meta’s AI layoff lawsuit can redefine artificial intelligence use in the workplace - Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNzJNSzY3S2lzRmRQQlBLWXlkVWFYdzVxcU1JNWNERXg0SC1RRkpHSXJON2hZWWlDdGF5Ukt2ek9pWmVicC1VaW44N0VwVktWLWxwSUE0WXd4Y3lfODNhOUZMYkNCc3hlNFM0cEhHRnlMbkpISkgySTkzRDNubzVBSHI0UDBSamNDMDdlZC1FMGJJLUgxNm83Mk1zczdsa3RVVnFDWlhyRE5Cencxallaa2otSXhMcS1FeTc3bWg2UVZQUVFLVGc2cGpBTk5rMG4wdkgzUndLQm9pX0NnNERobE4xdE9tQWhjUDVKRmJFdFdnZzRfdWc0V1dteTV4UQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-15T17:11:38Z",
-      "summary": "Meta因使用AI裁员引发的诉讼可能重新定义人工智能在工作场所的应用范围。该案涉及Meta利用AI系统评估员工绩效并导致大规模解雇，被质疑存在歧视性和不公平性。法律专家认为，此案将考验现有劳动法对AI决策的适用性，可能推动企业建立更透明的AI用工规则。监管部门或因此加强AI在人力资源管理中的审查标准。"
-    },
-    {
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T17:00:34Z",
-      "summary": "黑客攻击暴露了AI音乐生成器Suno的源代码，显示该公司使用员工凭证从YouTube抓取数十年音频数据用于训练模型。此举引发版权争议，因未经授权抓取内容可能违反平台条款。Suno声称其技术旨在辅助音乐创作，但训练数据来源的合法性问题使其面临法律风险。此事件再次凸显AI训练数据版权保护的灰色地带。"
+      "publishedAt": "2026-07-15T19:41:38Z",
+      "summary": "在卷入与苹果的硬件商业秘密诉讼之际，OpenAI意外发布一款售价230美元的发光键盘，专门配合其编程助手Codex使用。键盘针对代码输入优化，支持快捷唤出AI功能。此举可能是OpenAI在硬件生态的试探，但也因诉讼时间点引发争议。"
     },
     {
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T17:00:00Z",
-      "summary": "直播购物平台Whatnot收购了AI初创公司Shaped，后者专注于实时推荐和搜索的机器学习技术。该交易旨在强化Whatnot的个性化推荐和商品发现功能，帮助其扩展至新品类。通过整合Shaped的算法，Whatnot可更精准地根据用户行为推送实时购物建议，提升转化率。此举反映了电商平台对AI驱动的实时个性化体验的迫切需求。"
-    },
-    {
-      "title": "The Komisyon sa Wikang Filipino (KWF) is embracing artificial intelligence (AI) as a tool to help strengthen the Filipino language and the country's indigenous languages, saying the technology should be viewed as an opportunity rather than a threat. I via ANC - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc19OVXFab2dvN09iaTJ4enBrOXUzREQyLU9HWGl2SHo0T3VubGpOMW16ZTg0NWt2MGk3UWdSVjlXUkhyUUduUGVzLXhtUG1fZFNSVDgxc29hbGh2VWYzT3FYcV9OMW5OMHA2SlA2QkRPV05rS1Juc05NVDM0ZkJpb2VBejdNeHVLQlQ4R1dENlRzOUI2S3dOUTBhYm5yZUdNcHI0VklqcWREeUhlSVFsTEFSRTM1WDFmdE55TE9EUkg0TzVaS250eXNRUXV1OTcxODFCWEQxZw?oc=5",
+      "title": "Better Artificial Intelligence (AI) Stock: Alphabet Versus Meta Platforms - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1RFMVNGSlhVTnpZRnhGRGhtb3Vmd0ljOXo0Z25PLUNKQzFmUFo4T0NMeXVNM3RwbF9RV3pBMUJCQno2NEt1VjRSaGRRdGhXaDdwNHdod1B6cDlObXJXeWxCMGh5X242LTdKSjNwLXFWQ0t4Y1VnVWYzRjA5NlFHb091dzFpbWNYb3BmaWVVajFkbWpSclUyOEZJUWNwZl9hNk5Zc2hzOA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-15T16:45:01Z",
-      "summary": "菲律宾语言委员会（KWF）积极拥抱人工智能，将其视为强化菲律宾语及本土语言的机会而非威胁。KWF计划利用AI进行语言翻译、文档数字化和方言保护，以应对现代语言流失挑战。该机构强调技术应服务于文化传承，通过AI工具提升语言教学和传播效率。此举为发展中国家利用AI保护濒危语言提供了新思路。"
+      "publishedAt": "2026-07-15T19:35:00Z",
+      "summary": "雅虎财经对比Alphabet与Meta Platforms（Facebook母公司）的AI股票。Alphabet拥有Gmail、YouTube等海量数据训练模型，且云计算业务增长强劲；Meta则聚焦开源大模型Llama系列和社交平台AI应用。两者在广告AI化和元宇宙布局上各有侧重，投资者需关注其差异化战略。"
     },
     {
-      "title": "Bernie and AOC Are Taking On AI. Only One of Them Is Doing It Right. - The Nation",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmVUFzbEMzSUJXU1BZRFh6NDVMNFZOczZMV1RaOHdaUXh0UklFQkd1OHBta2g4aUxGUm9idE9zLXYwLVVvWHBmdG4taDJYNURVWi02bVU2cGJMZVFhQm14WUt6RdIBigFBVV95cUxNdGtCUEVoWWhiVjItdVBMdEhvQkJrWU9VSUF2RUdTYnpBUjM5UUFiTWR3ZjRPeHY3WUg0VTFyczN4NmowWWRwYXJCN3dQRlVrc1gwNmF2dHdycDNkVVp2dWdwWXBFMHJCNkhGRU52TXBud0IwWE1OQjhXVTlJY09rRjh0V1cyVXdWWVE?oc=5",
+      "title": "Zanzibar Tourism Enters Digital Era as Jozani AI Platform Uses Artificial Intelligence for Better Travel Planning - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYTUVnUVpVWGE5YXM1bHFOOGpxSWtlR25rRkJqUUVHa1RoWVNrRkF2ZzNYbGFXRlB6ZGt5VGs3Z1RyWl9iSXBMVHhSU0pPeFNMajRSY1lDT1VkUVpnMC1pcVhvSHlHZ2VBM3QydHh3?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-15T16:22:39Z",
-      "summary": "《The Nation》评论指出，伯尼·桑德斯和亚历山大·奥卡西奥-科尔特斯（AOC）均涉足AI监管议题，但二人策略存在差异。文章认为只有一人采取了正确方法，暗示其中某位更注重保护工人权益和防范算法偏见。尽管未指明具体评价，但凸显了美国左翼在AI政策制定上的内部分歧：一方主张激进监管，另一方则强调创新平衡。"
+      "publishedAt": "2026-07-15T19:34:22Z",
+      "summary": "桑给巴尔旅游业正式迈入数字化时代，推出名为Jozani的人工智能平台，旨在通过AI技术优化游客的旅行规划体验。该平台整合了智能推荐、行程定制、实时信息查询等功能，能够根据用户偏好自动生成个性化行程，并动态调整以应对天气、交通等变化。这不仅提升了游客的便利性，也为当地旅游资源的智能管理奠定了基础，标志着桑给巴尔在旅游科技领域的重要突破。"
     },
     {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T16:20:18Z",
-      "summary": "微软在月度“补丁星期二”中修复了创纪录的570个安全漏洞，覆盖其全线产品。公司归功于AI技术的应用，称其利用机器学习模型快速发现和定位漏洞，大幅提升了修复效率。此次大规模补丁发布反映了微软对安全性的重视，也展示了AI在网络安全防御中的实战潜力。不过，漏洞数量激增也引发了对软件复杂度与安全风险的讨论。"
-    },
-    {
-      "title": "Why AI Can't Replace These Two Human Abilities - Tempo.co English",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0VlZUtaQV9mN2Nvc2d0cUJCOVNGX3VaNEg3akI5Tk9pTzZCSmpDRVBPS1dYQXhkUDRyZmE0a1JEUWxIeWFkNG42ZXRuNHpuOHlXYmhCYU1zelpaUDZBelZMMkVkbnJHanJrZU1HM0xpLXBPWkM0eVFGdTF0VHVBR09NSkg?oc=5",
+      "title": "Raimondo on AI Race and Worker Transition - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGt1THJkR25BU3l4eVlCMU52aHgyVzRXNFl0TkEwY09iQm4xRDVScGtyTWFxeHRmRzQzY0JjOGJrV2JLMFViOWxPRWwzZzlMazFTVzlYS1hIMUc1WEEzQ1NkRGdyekdfYjZxN1J0b1ZCcXJvQ203ZHROb0pLb1JTUTFFcjVrOTl3ZHJ3UDRrYUlQOFJRdE5zV09HSGlPNXIxekN6WE53Yw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-15T16:15:26Z",
-      "summary": "文章探讨了人工智能无法替代的两种关键人类能力，强调人类在创造力、情感理解、复杂决策等方面的独特优势。尽管AI在数据处理和模式识别上表现优异，但在需要深层同理心、道德判断和情境适应性等任务中仍显不足。作者指出，人机协作才是未来发展方向。"
-    },
-    {
-      "title": "Music industry launches AI-generated content labels - Oman Observer",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHNZNTFOZWZUblMyUHBGeW1oS3k5ckhSem50MUExcFBreHZiRWJTUzhqT0E2T3hzSzJ6elRPNlkwMHVWcnBnSHdqUnJuTEJvYTJDTmgzR2FFU0FlVVFCODdfMWxJTGJicDVQczkwUEpycjE0VnY1NVh2MU14YlplNmZhZm9BeFRaTmhnUUxvU3psMmdtNmdpOHJYMkFQd2NiaHBLUlcxWnJjUnhranA00gFaQVVfeXFMTWJmandqZzRaQnNheU4tY01rLXFrTmo2TXhwM3BSOUduSVp2V0d3bmxFc1NSaTZQb2luNlBOUUotbjh3QjI4Q1hwTl90RGRBYlNjUGphb2Zwakp3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-15T15:37:21Z",
-      "summary": "音乐行业推出AI生成内容标签，要求对由人工智能创作或辅助制作的音乐进行明确标识。这一举措旨在应对AI音乐数量激增带来的版权和透明度问题，帮助听众区分人类创作与AI生成内容，促进行业规范化发展。"
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T15:29:33Z",
-      "summary": "苹果公司的人工智能服务Apple Intelligence已获准在中国市场推出，将与阿里巴巴的通义千问（Qwen）AI模型合作。这一合作标志着苹果在关键市场推进AI战略的重要节点，此前传闻已久。借助阿里本地化AI能力，Apple Intelligence有望为中国用户提供定制化体验。"
-    },
-    {
-      "title": "African SaaS Leader Becomes Seamless Technologies, Unveils Artificial Intelligence (AI) and Financial Solutions - Tech In Africa",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMURWXzRNakZPSkFQc1pFM2paU3NkUjhRWlI4c0t0V2RlQjV5dEVway1mVDJqbXBEUTF6cF9DeGNLMnJOajktWXZrV2xzSHpWM0ZmN3lJLV9OSlhjR2N2cHdtMHlEMXl6M0djSUgxWGFUbmZTbkp2bmFSUUlxZV93WHJ2XzV1RXRIdmhDTGVkcTg1RFl6eldNWlExM3N6Y1V5aGFmUlpqMVUzSmpuYUF1ekF2N05LUWVPQWdreXd6R0x6ODhSc0tmX3VQLUNMQ3FnbDJfUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-15T15:05:32Z",
-      "summary": "非洲SaaS领军企业正式更名为Seamless Technologies，并推出全新的人工智能与金融解决方案。新品牌和产品旨在通过AI技术优化企业运营，提供智能金融工具，帮助非洲企业提升效率和竞争力，标志该公司在数字化转型中的战略升级。"
-    },
-    {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T15:00:00Z",
-      "summary": "初创公司Ode与Anthropic合作，致力于通过将前向部署工程师嵌入企业来提供AI服务，试图以少量工程师取代传统咨询团队。该公司已获得Anthropic、黑石、高盛等巨头的投资。文章采访了Ode高管，探讨这一模式能否成为企业AI服务的未来。"
-    },
-    {
-      "title": "AI tools emerge as mainstream search option for users in India: Survey - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTFhPcU0yYjhWWUVqYkZ4TnNIWEhFSEE4VWRUVWpUd2RHSmFXRld4emZ2ZnZYaGdFdlpDbUhjaGJuZ2JxNG5oZElwMkMwRlhXTnFvWGtJRWtCaVNYd2t4S01tNUFPd0JUcVpQX0x1UzZhR1Frc0pvdUU4eWFxbWswRDMtOS1GNFJ1T2o4MzlDczYtQXhjQXZ6M3pHeFFNOXVLRGdONjZkU3RfMUtIWTlSNHByYUNjUmNRR09laFFVY0RXTFBaQlJnQmlnQUlmNXdJV1Y5bTE4ay01NGIxOXQ3ZVBVeHNRZnpUdUZPTmh6TdIB9AFBVV95cUxPeGM2R1Z4X204YWxUSWpaT2JreVlDc2drQnp2YXMtTUxDZ1pSdzEzX1gwNk1pemtSQnJfYVJqOGQ2QzE4SHJhR25rSzhrV2FXSlJ3LTNzUmZpdmttMVctcWhIYlZxVEtIblZCbi05SFJieHlUMndVYnFUcFVkYlcyWC1RYldWcGd5NHhrTlAwdzZtcm9DTXdhNzg0Wm5iRXNfZGhvcjRoRVh3NFV1UEU5SGc4WG9IWlRFM05IeEhZU2k0bHdoUVloMmcxTzdnZm9kUHMzajlsUWFJS0xiYktzbnpIc0VBdXJaSDRieko2YTNRWVNn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-15T14:54:02Z",
-      "summary": "一项调查显示，AI工具已成为印度用户的主流搜索方式。越来越多的用户依赖AI驱动的搜索引擎和助手获取信息，传统搜索习惯正被重塑。这一趋势反映了AI技术在印度市场的快速渗透，以及用户对智能搜索体验的强烈需求。"
-    },
-    {
-      "title": "Fairfax County social workers use AI to cut down on paperwork - WJLA",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa2lJS1BsaFphX2FXYmdDeE5ra2FBVHFrOC1mcnQwMTIzd1RGeEFnRHU3YmJWNkhYOVdvRC1WX3F1c1ljZkZCX3pHOHA1YjdJNXNGSE0yMjBQbGhYTi1JUVdzakY1OGNSMjlwTFFGTnhfQnFXWVlSTE9rYlllcVR6QzhDZkVWeEdndndENnc5b2Y4TnJpQnZWTDhGVXJqTjVkYkNnN1BwQjJMU29IZGVpQXpxMTNGblBkUEdaVmRodFJadnNXdWlOZmZTalEzYkJX?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-15T14:44:06Z",
-      "summary": "美国弗吉尼亚州费尔法克斯县的社会工作者开始使用人工智能来减少文书工作量。AI工具自动处理表格、记录和报告生成，使社工能投入更多时间服务客户。此举显著提升了工作效率，缓解了人力资源压力，同时确保数据准确性。"
-    },
-    {
-      "title": "Rising AI workloads increase failure risks in data centers, IDC warns - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0RCWktOVjZTU25ET2VDV3A4Y2QwYnZNSkszeGhrYlpfTlFPWUM0X0tzVHV2UThkN2ZRYlBFRHo4UzlTcjFhLVNJY0FsbmtkZlRWSmhOS2kxbGNMczAxUXVrZWF2Vms1MVEwNVJqVkRCR2pGUDlOSVI1dWk3aGhScWVJb2lQcjY5ckFDN3Z1dndMVW5mX0d3X0tB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-15T13:39:38Z",
-      "summary": "IDC警告称，数据中心因日益增长的AI工作负载导致故障风险显著上升。高密度计算和能耗需求对基础设施构成压力，冷却系统、电力供应和硬件可靠性面临挑战。企业需加强数据中心设计和运维管理，以应对AI时代的特殊需求。"
-    },
-    {
-      "title": "Apple Intelligence AI service registered with Chinese cyberspace regulator - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUDV4SEVwaTFKZkYwRF9pbVoyVV9DMzhCSDNrTExFdlpTbGgzUlBHVTk4WUgtWmh4TmxHOXFfQV9EVDdRRHdlMjIyb3ljOWlsVUwyem1md2tmUG90QVFRT3lnMGRBTjV2a3FOb25qVkRyRWN6NF9OUHFkX1d5TzlmRl9VNE9PdktjQWx0Yks3YzNCMkpXUFpXUG1TOWF4STV0MVlXZlVyTVcyY3BJRDB3eEtkT2Q4OWNZM2liUGNuQVVVRnFNOGVBbGpZYW9hem5wWXJVejloSnR1Zw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-15T13:19:00Z",
-      "summary": "苹果公司的Apple Intelligence AI服务已在中国网信办完成注册，符合本地监管要求。此举为Apple Intelligence正式在中国推出铺平道路，此前苹果已与阿里巴巴达成合作。合规注册表明苹果重视中国市场的监管环境，将提供符合规定的AI服务。"
-    },
-    {
-      "title": "Why These Cheap Artificial Intelligence (AI) Stocks Are Still a Buy Despite the Selloff - InvestorPlace",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONmM3LVpiekRkQkhiUDB3WjlsMThFVW5PZnFrNEswLUdzZEpFdE1Xam9NM1E2RDNOVWlVVkxCbzhYbVNpd0RvWS1GYkFOYU4tMTNXSXRabm4wR2FrUGZ6VVhwS0ZZM3FKNWEtRWVqdVphM3EtdXk2S1M2bDJxQVczdXdwYnJoV1dXZ0pJWlU1TEhSMlcxaVRPZGRPMHEzTmtJbEs3M2g3c0pRUGtEWGpMMFJsY1pkblFkZkxsQnZKWE9WbklsOGtxZjF3WUphNFQ2czdDWTM2dlI?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-15T13:18:08Z",
-      "summary": "尽管近期AI板块出现抛售，但部分低价人工智能股票仍被分析师认为具有投资价值。文章指出，这些公司基本面强劲，技术创新和市场需求持续推动其增长。投资者应关注被低估的AI标的，长期持有有望获得回报。"
-    },
-    {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T13:10:47Z",
-      "summary": "Anthropic与Blackstone联合押注AI实施领域，认为下一个万亿美元AI商机在于将技术落地企业场景，而非仅开发模型。其支持的初创公司Ode正式上线，核心策略是通过在客户企业内嵌入前向部署工程师，加速AI系统在企业端的实际应用与采纳效率。这一模式旨在解决企业AI部署慢、适配难的关键痛点。"
-    },
-    {
-      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T13:00:00Z",
-      "summary": "Reelful推出一款AI视频生成应用，用户只需授权访问手机相册，AI即可自动将照片和视频片段剪辑成适合社交媒体的短视频。该工具专为不熟悉复杂编辑软件的用户设计，大幅降低内容创作门槛，让普通人也能高效产出社交媒体素材，从而节省时间并提升内容吸引力。"
-    },
-    {
-      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-15T13:00:00Z",
-      "summary": "企业客户通话处理平台Rime完成2400万美元A轮融资。该平台利用AI技术帮助企业自动化处理大量客户来电，目前每月处理量已超1亿通，服务多家企业。此轮融资将用于扩展产品能力，进一步提升通话处理效率与客户服务体验，巩固其在企业级AI语音市场的领先地位。"
+      "publishedAt": "2026-07-15T19:31:10Z",
+      "summary": "美国商务部长雷蒙多就AI竞赛与工人转型问题发表观点，强调在全球人工智能快速发展背景下，必须同步推进劳动力技能升级与就业保障。她指出，美国需在保持AI技术领先的同时，通过再培训、教育投资和社会安全网建设，帮助工人适应自动化带来的岗位变化。此举旨在平衡技术红利与社会公平，防止因AI替代效应加剧不平等，为其他经济体提供了政策参考。"
     }
   ]
 }

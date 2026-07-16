@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "2516",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-15T23:59:44Z",
+      "summary": "微软据报正在培训销售人员，以在客户面前贬低OpenAI和Anthropic等竞争对手的AI模型，强调自家内部AI模型在效率和成本效益上的优势。此举表明微软正加大AI市场竞争力度，试图通过销售话术引导客户选择其Azure AI平台或Copilot服务，而非第三方模型。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2517",
+      "title": "Dana Suskind on How to Protect Childhood in the Age of AI - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXcxN1NNRGRPQjU2VzQtakZVREdPbHZJU2pMMVk4RDJJOXNHT29PR1VZenNoTHZrbzdjQTlkQ3hyQlA0UFlsVlAyUEtGWjZfMGptUUdsMkhGT3BqbFY2ajEyRE12QWlld05UM0hoemQtc3ZjRkJkNWVrMmNFbVQxM1BwRHhLM0pxSkxvdkxoWUZJQ0dVTU5fSDBrN2Y2a3pGVTZENw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T22:10:29Z",
+      "summary": "儿科教授Dana Suskind在《好人项目》中探讨如何在AI时代保护儿童。她指出，AI技术正深刻影响儿童的认知发展、社交互动和注意力培养，家长应主动限制屏幕时间、鼓励实体游戏和亲子对话，同时推动政策制定者将儿童福祉纳入AI伦理框架。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2518",
+      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’ - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmxNUzRxRWpHdUxFVU1pZ0tYNm9FVVBicWMweGlSZnJkaVJGU25kcW1haGZfYnlDeWNjbDFLLXhkbEw5cTNnS3BjeGphSWw0WWpKYjl0b0VKZ0Q4SkFXN3puZzlsN29Mc2RZdndYMklhdHFzYW5QdUk2Sy10bmpLTzJqTXota3ZWcVZUd3R3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T21:33:20Z",
+      "summary": "xAI公司起诉一名男子使用其Grok模型生成儿童性虐待材料（CSAM）深度伪造，这是首例针对AI生成非法内容提起的重大诉讼。xAI强调将严厉打击滥用行为，并配合执法部门追责，此举也引发业界对AI模型安全护栏和内容审核机制的进一步讨论。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2519",
+      "title": "Better Artificial Intelligence (AI) Stock: Amazon vs. Alphabet - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN0FwbWRUYTdJTTc2dWt6ZVB0YlpISllaMlB4RmRaOGpfdjVuRnlMc01PMUtfdlhicTNoekkyMHFNLUlHVmdhUmVyVlNNWm5WVzVlbGJhbE01eHZzRUVaSmdMVzR5QjIwMzQxZHdJZVlkZUpjQk0wRzNZLTdELWt0MnluTWRDRHljdGZRaHQ4Nk9aRmZYMWhJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T21:20:00Z",
+      "summary": "《Motley Fool》分析亚马逊与Alphabet（谷歌母公司）哪家AI股票更优。亚马逊凭借AWS云服务的AI工具和庞大的电商数据积累，在商业化落地方面占优；Alphabet则依托DeepMind、Google Brain等顶尖研究团队，在基础大模型和搜索整合上领先。两者均具长期增长潜力，但投资风格需差异化考量。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2520",
+      "title": "Better Artificial Intelligence (AI) Stock: Amazon vs. Alphabet - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdnptbk9xcE8zY3BCaWFfd1R0YWFzcXNMdUZicnVJcHpnT3llQXhqWFIwV1R6YWlYVmoyanhFTDhGZnljSkkzQ19IMzYzSlNyRmhVYTNTelZMa0phUlVHaG9HdC1nNUN0UDJYby1PNEpQTXlpOG15SlZZalZfXzVUQ3VkUHlPRkk0bFZhMHdwS1FPNVlHSmhoRlNTT3ZRa0JFRDVvejJCYTZ6UHVZVjc3R0lOcnJEQThnOGNSc3JUTmRXbnE5OG1OQXpZcWROOS1wYy1z?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T21:13:45Z",
+      "summary": "《环球邮报》同样对比亚马逊与Alphabet的AI股票前景。文章指出，亚马逊的AI应用更贴近零售和云计算实际场景，变现路径清晰；而Alphabet则押注于通用AI能力和广告生态升级。分析师建议投资者根据风险偏好选择：稳健型可关注亚马逊，进取型可关注Alphabet。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2521",
+      "title": "DeepMind CEO again pushes for a frontier AI standards body - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlBta1UyazdYaVdGZkduLTBuYWh0UU5rVDNxUTgtNmlma3ZRcFRfNG5oQmo0SmQydm1jRmMzSXhBMDZkcmlrdGI4RFZFSVlMeUZFSlF3eTdiZG5BTDU1TVNNQmNQcWxsNTdIbzhpcGk3bEhLQnJfX2xhT3A1czlrN0l2d3h6SXk5M2JsNWRMMWFNVlZ3aWstRmhqcEFiVVFu?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T20:55:23Z",
+      "summary": "DeepMind首席执行官再次呼吁建立前沿AI标准机构，以应对快速发展的AI技术带来的安全与治理挑战。他主张由多方参与的独立机构制定测试和部署标准，确保前沿模型在可控范围内发展，避免未对齐的AI系统造成全球性风险，并强调国际合作的重要性。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2522",
+      "title": "Better Artificial Intelligence (AI) Stock: Amazon vs. Alphabet - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmFVejJkZlhBLUgtR1ZEXzdGV19tdk83N1BXVzNwRDdoa2Z1eUFfTlNiSFlQbGt0NEM5YXp2dkxKeEloMHoteVAzZ0N2RDFOdFkxVkpYWV91VzhnVk1LbFVxamFKYWh6UDMwRDdKNXo4U1dITmxGZWxRdXpLWEprakdxRUJzTUFXNzR5d2ZDSHNTQ3pycjhxdEhzdlVFcU9VT3hvMnBEMA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T20:40:00Z",
+      "summary": "雅虎财经分析亚马逊与Alphabet的AI投资价值。亚马逊在生成式AI应用（如Amazon Q、Bedrock）和AI芯片（Trainium）上加速布局；Alphabet则通过Gemini模型、AI搜索和云服务保持竞争力。短期看亚马逊收入转化更快，长期看Alphabet的研发底蕴可能带来更大突破。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2523",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-15T19:41:38Z",
+      "summary": "在卷入与苹果的硬件商业秘密诉讼之际，OpenAI意外发布一款售价230美元的发光键盘，专门配合其编程助手Codex使用。键盘针对代码输入优化，支持快捷唤出AI功能。此举可能是OpenAI在硬件生态的试探，但也因诉讼时间点引发争议。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2524",
+      "title": "Better Artificial Intelligence (AI) Stock: Alphabet Versus Meta Platforms - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1RFMVNGSlhVTnpZRnhGRGhtb3Vmd0ljOXo0Z25PLUNKQzFmUFo4T0NMeXVNM3RwbF9RV3pBMUJCQno2NEt1VjRSaGRRdGhXaDdwNHdod1B6cDlObXJXeWxCMGh5X242LTdKSjNwLXFWQ0t4Y1VnVWYzRjA5NlFHb091dzFpbWNYb3BmaWVVajFkbWpSclUyOEZJUWNwZl9hNk5Zc2hzOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T19:35:00Z",
+      "summary": "雅虎财经对比Alphabet与Meta Platforms（Facebook母公司）的AI股票。Alphabet拥有Gmail、YouTube等海量数据训练模型，且云计算业务增长强劲；Meta则聚焦开源大模型Llama系列和社交平台AI应用。两者在广告AI化和元宇宙布局上各有侧重，投资者需关注其差异化战略。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2525",
+      "title": "Zanzibar Tourism Enters Digital Era as Jozani AI Platform Uses Artificial Intelligence for Better Travel Planning - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYTUVnUVpVWGE5YXM1bHFOOGpxSWtlR25rRkJqUUVHa1RoWVNrRkF2ZzNYbGFXRlB6ZGt5VGs3Z1RyWl9iSXBMVHhSU0pPeFNMajRSY1lDT1VkUVpnMC1pcVhvSHlHZ2VBM3QydHh3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T19:34:22Z",
+      "summary": "桑给巴尔旅游业正式迈入数字化时代，推出名为Jozani的人工智能平台，旨在通过AI技术优化游客的旅行规划体验。该平台整合了智能推荐、行程定制、实时信息查询等功能，能够根据用户偏好自动生成个性化行程，并动态调整以应对天气、交通等变化。这不仅提升了游客的便利性，也为当地旅游资源的智能管理奠定了基础，标志着桑给巴尔在旅游科技领域的重要突破。",
+      "fetchDate": "2026-07-16"
+    },
+    {
+      "id": "2526",
+      "title": "Raimondo on AI Race and Worker Transition - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGt1THJkR25BU3l4eVlCMU52aHgyVzRXNFl0TkEwY09iQm4xRDVScGtyTWFxeHRmRzQzY0JjOGJrV2JLMFViOWxPRWwzZzlMazFTVzlYS1hIMUc1WEEzQ1NkRGdyekdfYjZxN1J0b1ZCcXJvQ203ZHROb0pLb1JTUTFFcjVrOTl3ZHJ3UDRrYUlQOFJRdE5zV09HSGlPNXIxekN6WE53Yw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-15T19:31:10Z",
+      "summary": "美国商务部长雷蒙多就AI竞赛与工人转型问题发表观点，强调在全球人工智能快速发展背景下，必须同步推进劳动力技能升级与就业保障。她指出，美国需在保持AI技术领先的同时，通过再培训、教育投资和社会安全网建设，帮助工人适应自动化带来的岗位变化。此举旨在平衡技术红利与社会公平，防止因AI替代效应加剧不平等，为其他经济体提供了政策参考。",
+      "fetchDate": "2026-07-16"
+    },
+    {
       "id": "2496",
       "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
       "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
@@ -22627,5 +22726,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2514
+  "total": 2525
 }
