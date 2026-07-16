@@ -1,146 +1,188 @@
 {
-  "updatedAt": "2026-07-16 13:17:29 UTC",
-  "totalArticles": 20,
+  "updatedAt": "2026-07-16 18:54:31 UTC",
+  "totalArticles": 26,
   "articles": [
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16T18:32:54Z",
+      "summary": "Google Vids新增个性化AI头像功能，用户可创建数字分身并利用Gemini Omni工具根据文本提示和参考图片生成、编辑视频。该功能使得用户无需专业技能即可制作以自己为主角的AI视频，进一步降低了视频创作门槛，助力内容生产及个性化表达。"
+    },
+    {
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16T18:22:06Z",
+      "summary": "Roblox在移动应用中推出AI驱动的游戏创建功能“Build”，用户只需输入单一文本提示即可自动生成基础游戏。该功能简化了游戏开发流程，使没有编程经验的用户也能快速创建互动体验，体现了AI在降低创作门槛、推动用户生成内容方面的应用。"
+    },
+    {
+      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdURFbllXcGxwbUhEVHhLY0xNbnZJLVVOMlB5TmpMR1I0cnByQVRQa1FUaGVfakRHX2tmWkgwdnNmOE5RcXd3cFpXSldLRkozRXJPb01TQ1ZQMUdBYnJFWUtVOXdCU0NSLXBDU0JXVWtqTmUwSi04MGpZTEswTUVsaDIzUUlGSlo0VVVLSzdXZDJQMklLeDUyOVNQQlZwNDBsMzNN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T17:58:37Z",
+      "summary": "纽约州长宣布将利用人工智能分析州内所有法规，旨在通过自动化审查提高监管效率、消除冗余条款。这一举措展示了政府机构采用AI进行行政流程优化的趋势，预计将提升政策透明度和执行效果。"
+    },
+    {
+      "title": "Pakistan becomes founding member of World Artificial Intelligence Cooperation Organisation - Dawn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UbV9Lby01cjIxUDhuU3kyUlV0QkhSanc4bnpfVUZMSHkyanV6eXBCZWt6bFhKeGJyU1lMRWhUM2E0OFFablNFRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T17:19:55Z",
+      "summary": "巴基斯坦成为世界人工智能合作组织（WAICO）的创始成员国，标志着其在全球AI治理与合作中占据重要角色。该组织致力于促进跨国AI研究、标准制定及伦理共识，此举有助于巴基斯坦吸引国际AI投资与合作项目。"
+    },
+    {
+      "title": "Examining Google DeepMind’s AI bioresilience push - AI News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVE5fS1VndC1JN2pBNndZMjRLTlNVdi1XZmM0bVBvZXFTUkJVN3BQWDl3azV1ZE9sX2RQVDJiZHpja0pVTjhKMFVVX3Y0c3dfOGt4ek5jQXhqOUpmWk52WWRlNDk0amdQeF9IX2p2U0NLLXJEcHVUMThNVjhDTWtRU2w2Q3l5QThVR2E3dzFOMkdzZWRJLV96aGlqNHF4UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T16:52:46Z",
+      "summary": "谷歌DeepMind正在推进AI生物韧性（bioresilience）领域的研究，利用机器学习预测生态系统变化、疾病爆发及环境风险。该技术旨在增强人类对生物威胁的适应和应对能力，为公共卫生和生态保护提供智能化解决方案。"
+    },
+    {
+      "title": "Artificial Intelligence (AI) Fleet Optimization Market Revenue To Cross $5.11 Billion By 2030 Supported By Rising Demand - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ1FhbFpoRmZBRFFJU3FWRmZTQkFkeUlBU2NPYnBuNUpyeFJlVlhCSk03YktJMmo3bzhVSzI3LWFGQVBCVXJTQXJUU3k4SlV1OHdnQmtEUGxtZGxMbGlNakJoQlFwaHR4Zkw4akxaeER2aUxwU09EZVNMWWJlWDQ4Q2g1SnE0TDVTUFFja05CZWNLbTIyWE5vXzZXdWIyVnFPZDlqVmJIUC1pbDNnTnNHRE5EWHdIdFRaWF9xVjB3T2lSZjdRM255aGtFYXhoRThqYUktTnhDTkJndERLY0h1d2dfNVE5ZWNkMm1BS3NPRkI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T16:46:00Z",
+      "summary": "人工智能车队优化市场报告显示，受物流行业降本增效需求推动，该市场规模预计2030年将超过51.1亿美元。AI技术通过实时路径规划、车辆调度和能耗管理，显著提升运输效率并减少碳排放，成为智慧物流的核心驱动力。"
+    },
+    {
+      "title": "Artificial Intelligence (AI) Sleep Tech And Predictive Health Wearables Market Research Highlights Future Growth Trends - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaDJBVXdhZWw5VUxNcUpRcWs0a2JiQ0Y0SF9SWTFWdHhaLWVySGNzemd0cHE5WXdIMm82clJVVk56R0luMVd4Z3U2LVR2cXVrSk41eVk5eVRCMTVVUkEtTEtXbjQwYVhXQ1JvX0NjMFJ4X01IRmpkcjhBcTRYamEzYkZ1eXBqd2E2OWNJbjFZaFM0SnVocUxZRGEzSG9PM0VvQkFRZ21YNnlMM2xLb1VVUzl0djQ0WG1iMWpwcWdfcVVlV0Y2RnRVNlVpRWRac3Q4eVhoNUxINUNHOE5weks1bXZZWVlEenJSTjg1U3JyeFk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T16:46:00Z",
+      "summary": "AI睡眠技术与预测健康可穿戴设备市场研究指出，随着消费者健康意识提升，智能手表、指环等可穿戴设备集成睡眠监测与风险预测功能，市场呈现快速增长趋势。AI算法通过分析生理数据提供个性化睡眠改善建议，推动预防医学发展。"
+    },
+    {
+      "title": "Fetal Movement Artificial Intelligence (AI) Camera Monitors Market To Reach $0.62 Billion By 2030 Driven Demand - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0JxNWcxZFdudzFPbUcwYmFHbE9mOXRtUDBGM052ZEItSzgwcE9hc3NBQ1hHV0cxX1dSQkJ5Nnlub3NiOEdRQXM1VlVYZVExM3ZfZkpGNWh1bVVBNkZzU3ZDaU5EblkxN1VEeVVhOWtTNC05VTdOS19nS1J6UmtDblVuR3hYNWt3WlJhNmEyLUw2ZHl0TmVxd3dGVC1ZbWNuTW55YW1rTkN2ZXJ6SFIxSzNJUzkwZGZOWGZfVmFPM01SaGQ2N0NIRTJfV1Q4ZTg3Vm9wNHhhcmlCT0Nlc3hSeThTWXg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T16:46:00Z",
+      "summary": "胎儿运动AI摄像头监测市场预计2030年达6.2亿美元，增长动力来自孕妇对胎儿健康监测的需求。该技术利用计算机视觉实时分析胎儿动作模式，辅助医生评估发育状况，同时减少孕妇焦虑，推动产前监护智能化。"
+    },
+    {
+      "title": "Battlefield Artificial Intelligence (AI) Market Size To Reach $59.21Billion By 2030 At A CAGR Of 7.7% - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDdkeHpSQjRrbFNGMVp0enIydGdUbFdvVHBFczlGY0hkVUZNbzZER1gxNExmZ2RHc3AwVE5IeV9pV3JpWDVMTW1XRVMxVDZKMWtiSkp1bmpqeGFyb3RaZTVjMW9nSXZIeDZwTlhvcnJyMENXTjN4NFdjME5IODVJSWhkWDNkWUlhbnM1S3BNRHN3MFRHT2F0Z3Jvb3FGalhtVHlweXpTOUY2U2JiQkJEb0pXeE4xY256M0N0X2d4WGViNWFucDJpa1VzYlFzUkhQZGJGUWhMLVlGV0dG?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T16:41:00Z",
+      "summary": "战场人工智能市场规模预计2030年达到592.1亿美元，年复合增长率为7.7%。军事领域加速部署AI用于自主武器、情报分析、战场感知和后勤优化，各国加大研发投入，推动颠覆性军事技术革新。"
+    },
+    {
+      "title": "Artificial Intelligence (AI)-Powered Sleep Tech Device Market Competitive Landscape Analyzed Across Leading Companies - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMTVsVUNidEJzbzl4Uk1nYU1YV0g3ajFmbU16bURhQzhnV2szVDgySVlReHlYSUhrUFZpeUhRQXUzRWRZS0FIS20tUDVtYkhtZzRrYUVFN3RWUEpGdUx1azg3dFBWdkNHZDJodjZaYk15dEJRZWhwWVNDa2QxTm82Yjd3UE5ERHFWc0NUWnBkcWVkaXNEc2hPeEJZS1Y3ZGJHb0J3ZVlPbllIQk1JSkxOb0V3QXIxb0FGLVZxSlc1Q2lacE5leTk2TXl6SWYzVXRhUnRYU1piWW5QREFzUi1VVnBWby1JWm5qWG45NmtB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T16:41:00Z",
+      "summary": "AI驱动的睡眠科技设备市场竞争格局分析显示，主要厂商包括Fitbit、Oura、Withings等，在传感器精度、算法模型和临床应用方面展开激烈竞争。市场正从基础监测向疾病预警和干预方案演进，形成差异化产品生态。"
+    },
+    {
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16T16:00:00Z",
+      "summary": "谷歌扩展AI模式功能，使其不仅能回答用户问题，还能在常用应用中完成具体任务。新更新允许AI模式与选定的应用进行链接和交互，从而直接操作应用内的功能，例如在应用中执行任务、获取信息或触发操作。这标志着谷歌AI从纯问答向行动代理的转变，进一步整合了AI与日常应用生态。"
+    },
+    {
+      "title": "Musk’s xAI sues user who allegedly used Grok to create child sexual abuse material - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGFrSTl2NmFzX1FpbEJxUEFUTzVJT0dtcTlqWExNOTNyOXhKbXIzZlZ4N2JoZ0lYVkMtcF9QVWxRTFJpMGVQeHBYcEdlSDh6elNrRWtXX3pUVHBXTzBoemVlcDVQQjFLN01jNEFtUlc4WVRkaUNMRzdrOGozVmZnTHRnX1d1NFNENHJ3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T15:53:00Z",
+      "summary": "马斯克旗下xAI公司起诉一名用户，指控其利用AI聊天机器人Grok生成儿童性虐待材料。诉讼依据法律追究用户不当使用AI技术的责任，旨在维护平台安全与合规。此案凸显了AI内容生成工具面临的法律与伦理挑战，以及企业对用户行为监管的加强。"
+    },
+    {
+      "title": "Yes, you can now order DoorDash from the command line",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16T15:38:55Z",
+      "summary": "DoorDash推出命令行工具dd-cli的有限公测，允许开发者和AI代理通过终端直接搜索商店、构建购物车并下单。该工具专为AI代理和命令行爱好者设计，进一步推动软件从面向人类转向面向自动化系统。此举标志着AI代理在生活服务领域的深入应用。"
+    },
+    {
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16T15:31:09Z",
+      "summary": "OpenAI推出其首款“硬件”产品——一款ChatGPT主题的篮球。尽管外界猜测OpenAI是否进军硬件领域，但该产品更像是一个品牌衍生品或营销活动的一部分。篮球本身不集成AI技术，但通过创意设计将ChatGPT的概念延伸至实体物品，引发关注与讨论。"
+    },
+    {
+      "title": "Twenty-nine countries sign agreement to establish global AI cooperation body - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGF5ME1YRmJSTE42TWVWMDUyc1NkMlA2QVQxVlN6dkZuenF4RFcxSFlhUXk3eVZnUWZ3SzdZTDEzbTNVZzJ0NUhadERqUHQ1WmtvSl9aXzE1Qlh3UFdvR3ZXUmJDXzhycGJ0cUdtdXFVUFpzaTNWX3VBemlqUXh3UF95R2k5RTJKbjZFZ09MS3h0TUlnZ3FRMlN2T3lIc19qNGxLcmY1eTJwQVMyb2ZfNk03YjdST2hKRkg1TFFn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T15:23:43Z",
+      "summary": "29个国家签署协议，共同建立全球AI合作机构。该机构旨在协调各国在人工智能领域的政策、标准与研发合作，应对AI带来的全球性挑战。此举标志着国际社会在AI治理方面迈出重要一步，推动建立统一规范以促进技术安全与可持续发展。"
+    },
+    {
+      "title": "Illinois State Board of Education issues AI guidance, written with help from AI - Capitol City Now",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajBmOHlYVm5mUlA4aldLYldrV0JBNElKYURKTXdlMDdJNUJPRzhRUC1rNThHdWhtX1Z0eDlnQVF2S21oU2dYWFpxUncwYU5qbk9ndjl1UF9fVnpwRUdjbDFvZmlZZDNsS3BGRkh0azN0TFVRdXl3S3I3eWxDd3R1UXh2b0ROSWtQYU5KNWN4cTBTSHBieGNva3ZkdU13dHZHTUFiX2NqYXllZFR3cHh0ZFFMcGhyRFhHT3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T15:14:13Z",
+      "summary": "伊利诺伊州教育委员会发布一份关于人工智能的教育指南，值得关注的是该指南部分内容由AI协助撰写。此举展现了教育机构对AI工具的积极采用，同时指南为学校管理者、教师和学生提供使用AI的框架与建议，涵盖伦理、隐私和教学应用等方面。"
+    },
+    {
+      "title": "Warren Buffett's Successor, Greg Abel, Has Nearly 30% of Berkshire Hathaway's $351 Billion Portfolio in These 2 Magnificent Artificial Intelligence (AI) Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ01NM0IwZTFQc182dEV1OWFBQ1h5OFM1ZDhJVUhOSUVZbjdxQUFuR0JlZnR3cnRjaU5DTjY4WHM3T2Uxb2RGRlJFcDJIbjJ2QmhFNVJlTTFmbzVqX19acER3SU5WMHVSQU9QTnROUnZkVk40eTRVUEVUeFNzajlEaFRRNnJRbmc1bTV3WGxHNmtuRWlrT1FZ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T15:11:32Z",
+      "summary": "沃伦·巴菲特的继任者格雷格·阿贝尔将伯克希尔·哈撒韦3510亿美元投资组合的近30%配置于两只人工智能股票。这一布局显示其对AI长期价值的认可，同时也是巴菲特的投资哲学向科技领域的延伸。具体股票未披露，但此举引发市场对伯克希尔未来AI投资方向的关注。"
+    },
+    {
+      "title": "EXPLAINER – What to expect from China’s global AI conference - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVJrYm05WW5BVTNUcVk5SXZsZmdMbDlrakd5YmNFZ3l5X3FlcWtqcFBlMGxvX0xxaHBBaHJhdGFBNUdXaXo2N0F0cDZkY2FLZGFsNEkyYjVkbXFwWkRCRDZJdUtRTWdGcWtrQXBfNktNM2JiNWNOYkZBdG15bGdIZ1pLbXFUZ3MtMVlsajdXTWswOEgzYW9rem40cVg3bG9GQnZNQkJ5QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T15:06:01Z",
+      "summary": "中国即将举办全球人工智能大会，预计将聚焦AI前沿技术、产业应用与国际合作。会议可能发布新的政策或倡议，展示中国在AI领域的进展，同时促进跨国交流。与会者将关注大模型、智能机器人、AI治理等议题，以及中美AI竞争与合作的新动向。"
+    },
+    {
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16T15:02:00Z",
+      "summary": "前DeepMind研究员安德鲁·戴在未推出产品前便以3亿美元的预种子轮估值成功融资。他参与构建了多项影响深远的AI系统，包括启发ChatGPT的研究。戴认为视觉AI是下一个重大前沿领域，其公司专注于开发视觉理解技术，试图突破当前AI的认知边界。"
+    },
+    {
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16T14:40:00Z",
+      "summary": "AMI Labs CEO亚历山大·勒布伦拒绝将其AI称为“AGI”或“超级智能”。该公司由Yann LeCun的“世界模型”概念衍生，专注于构建能够理解物理世界并做出推理的AI系统。勒布伦认为“超级智能”等标签过于炒作，当前重点应放在实用的世界模型上，而非追求虚无的通用智能。"
+    },
+    {
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16T14:26:29Z",
+      "summary": "中国AI公司月之暗面（Moonshot）即将推出的Kimi 3模型，预计将大幅缩小与Anthropic Opus 4.8的性能差距。据英国《金融时报》报道，Kimi K3将成为中国最大的开源AI模型，参数量介于2万亿至3万亿之间。这一进展标志着中国在大规模语言模型领域的重大突破，有望在国际AI竞争中占据更有利位置。Kimi 3通过扩大参数规模与优化训练策略，旨在提升推理能力与多任务处理水平，为开源社区提供更强大的基础模型。"
+    },
+    {
+      "title": "FDA’s first AI-focused cGMP warning letter signals new scrutiny for manufacturers - BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3Q1N3lqNDJNck5nR0gtRzZLUkU1RTd1S0hXd2dOYzBJczJCNjFPN1J3MVJtblIwRXRSQmgySHEzUGl6U2VhWE9XT25QLXNlZDc1cnpuRFZSQ3RSNE9oRjJVaXduckh5QVR4VHQ3N0psYmZHeWs5R2QwTTFMWjkxVkJZRlpXNjB3MzhuZXFaTzNDY1BnalhuVnVVTnlIMkNhUHRzTlhUU2NXQXIyUXNvQ3Nn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T14:12:34Z",
+      "summary": "美国食品药品监督管理局（FDA）近日向某制造商发出了首封针对人工智能领域的现行药品生产质量管理规范（cGMP）警告信，这表明监管机构对AI在制药生产中应用的审查力度显著加强。该警告信重点关注AI系统在数据完整性、验证流程及风险控制方面的合规性，要求企业确保其AI辅助生产环节符合cGMP标准。此举预示着FDA将更加密切地监督AI在制造业中的运用，尤其是那些直接影响产品安全与质量的关键环节。"
+    },
+    {
+      "title": "The Generation Using AI Most Is Also the Most Afraid of Where It’s Heading - StudyFinds",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPb1MybnRPdmdkQ1FnMVdnV28tVERjR1lCeEQ4ZWNuUmR4OEdEUVVCVTlsbGRWdUhRY0h4MmV0RjBwTnFyYk93Sk43dmRZd3lIRXNkWWdCV1diSnBMcHh5RmFEdGppZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T14:03:20Z",
+      "summary": "研究显示，当前最频繁使用AI工具的年轻一代，同时也是对AI未来发展最感到担忧的群体。这种“高使用率与高恐惧感并存”的矛盾心态，折射出用户在面对AI快速渗透生活时的复杂情绪。他们既享受AI带来的效率提升与便利，又忧虑其可能导致的就业替代、隐私侵蚀及伦理失控等问题。该研究提醒人们，技术普及与公众认知之间存在显著鸿沟，亟需更透明的沟通与负责任的技术设计。"
+    },
+    {
+      "title": "The Navy’s Strategy to Weaponize Data and Artificial Intelligence - USNI News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbllHMmU1TG5zWTVnQ0VLMnl2TnZPT2lEQ3ZPcXFtcjQ3Ti1XcFlyRTJHWFVXN2xuVmVwV3NDMkpmN2xfQUx0MXJtczZnTTZzMkF5S0hnb21GdjFSeGVvdFFjZlNwUkFpQzY0OFVvZkxiSmVaUXdDMVlpcFM5dTcyM0FZRTVYRVpjeklWTERMQWJhZGJmUmMxNVQ3ZkhqZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T14:03:00Z",
+      "summary": "美国海军发布最新战略，明确将数据与人工智能作为提升作战能力的关键武器。该战略强调通过整合海量传感器数据、优化指挥决策流程，以及开发自主系统，实现战场态势感知的智能化和作战响应的实时化。海军计划在情报分析、后勤保障、无人平台协同等领域深度嵌入AI能力，以应对未来高端冲突中的信息优势争夺。此举标志着美军正加速推进军事AI从概念走向实战部署。"
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-16T13:17:59Z",
+      "summary": "苹果公司的智能服务（Apple Intelligence）已获准在中国市场推出，将与阿里巴巴和百度展开合作。这项传闻已久的交易是苹果在关键市场推进AI战略的重要步骤。通过与本土科技巨头联手，苹果能够更好地满足中国用户的需求及监管要求，同时借助阿里与百度的云计算和AI能力，优化其智能助手的本地化体验。此举有望帮助苹果在竞争激烈的中国AI服务市场中占据一席之地。"
+    },
     {
       "title": "Global 'FOMO' keeps fueling Wall Street’s AI exceptionalism - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0tyNGlmUlhraXFwMGEtbmJ6UlE1bklkS3ZPVmVuN1FSWjZkSWZsVDd3MFQ0cHpMblo5bkZOVVF5WVRISHJHSkg5WDBIbzZ1STFyS21WdE8xLXlINzY2Q0VBQTVoY1NmLWFwUlV3azNrZ0FaenpMWDJ0d2t1Z0N4X3lQeG5YcjllUEQ5S00xbkRyRjI4YXRHWGx0bXNOd0ZwWnN5ZkNXOUZZcG15dFBFTG9lSFBoLVBwWjlkNnhqRC1fQ1k?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-16T13:05:13Z",
-      "summary": "全球“害怕错过”（FOMO）情绪持续推动华尔街对人工智能的例外主义投资热潮。投资者蜂拥追捧AI相关股票和初创企业，认为AI将重塑经济格局，但同时也面临估值过高和泡沫风险。路透社分析指出，这种集体狂热背后存在对技术颠覆的过度乐观，需要警惕市场回调风险。"
-    },
-    {
-      "title": "What it will take to raise the first AI-native generation - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWURTTFJ1eWw5czhpSlV0WHpGeVN0ZEp1dkRBQlk3VmFrTFB6TDYyNWZHaGt4Y21iLUpIX1pMR0FPSkU2b3ByNk9HSmE2YzMxc01zLUtYVk8xU0FpUDB3Wk1uVGhzTkkyczJhbnlYSWpGTXo5VzA5dzhpWFJBUGVMTlhqVi1YTU1DbzhoeUQtanZvNXNjWmNweTM1ZFBOSGptbjJ6aEVOWDd5bVg3d3UwSDlJaGsyT3ls0gG_AUFVX3lxTFBRNmhMV0FGNjZxQTBBWG4wMlh2ck9OMmk0Z2tRWllDOXJPU2oyZHJCT0JtVVZDSWhjUDBLbE11SlNOemF6OTQtRDZNV2UyeXBCa2pYS3RNbk5xbEdBU2FBb2dVUWxmUVVuYmpEcVJTN0lzS2d4WU8zNldyUjZQdHhaNC1XdmszdC10LUhaTTFPV2ZjTDk3YVJUU3lvS1Y4Z1VRX3VTWkg3aUJoaEtQOHpSeDhCbGF6UDhGek9rT3VZ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T12:37:40Z",
-      "summary": "培养第一代“AI原生代”需要家庭、教育和社会系统的全面变革。印度快报文章探讨了如何让儿童在AI无处不在的环境中健康成长，包括培养批判性思维、创造力以及与AI协作的能力。关键挑战在于平衡技术使用与人际交往，避免过度依赖智能设备，同时确保教育内容与时俱进。"
-    },
-    {
-      "title": "TuxBot v3: The IoT Botnet Built With AI – Bugs, Disclaimers and All - Security Affairs",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXktODh4V3lLU092NFFXV1FmeXZhN2Y3TG52bGIyaWZvQ245TlgwalhEZkctRjlDdzMxclNhaVdZX01uZDV4Rkc2cHZ5NDFiLUY1QTZVemczb0Z3ck1ZTnFPMHpqQmg2LUdFUDJVUUllVENZYnN3OUhGRU93Vjl1cGRLRFJBOUIwWm1XdGd4NjhxYXFvNWcwOUpSeUNFb1o4bzhDYmJiMlROd9IBrwFBVV95cUxQVTFBeG8zSTBUTnVNN0FCUFJRR1JlZFE1RldzNEVBeUFzdklDeEZNX3FibVNqODVYNzFBRG4zei1vWXZSdENhMWJfWXkwck96U0o2eXBnWHpIV21TLVNjRkM2Y0o1MW43aU0zZmRhQXNHSS1YLUtpNFluNVBGbnZvc3Q5Ujdkd0QxUHc4MjVvYnZ4aHYwNWtGZ2RuSmRWZ2pqajliTU43cHZkUFY2S184?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T12:05:08Z",
-      "summary": "安全研究人员发现基于AI构建的物联网僵尸网络TuxBot v3，该恶意软件利用机器学习优化攻击模式，能自动扫描漏洞并实施分布式拒绝服务攻击。尽管代码存在漏洞和无效免责声明，但其模块化设计和大规模感染能力仍构成严重威胁。专家呼吁加强IoT设备安全防护和AI滥用监管。"
-    },
-    {
-      "title": "AI EXPERTS & SPEAKERS BUREAUS: ARTIFICIAL INTELLIGENCE KEYNOTE TALKS FOR EVENTS - futuristsspeakers.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3VOTHhfT0lha0xfdVEzMlhNSnV4d3pxZFFVRGNEdjY1RnhsRm9FRmY1TmwzZnJyb1M0TEhSSk5Rb1pxOVF3dXNpWEtTbnhLV042MVNYZUdvaFhDeU5vU1c2T2g2RnNyYkFCZVVxOHdjM3d3b2VYZXFCcHdDaVZTZ1dSTVhCUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T11:35:12Z",
-      "summary": "人工智能专家和演讲机构正为企业活动提供专业主题演讲服务，涵盖AI技术前沿、行业应用和伦理治理。这类服务帮助组织者邀请顶尖AI思想领袖，定制内容以激发创新思维。随着AI渗透各行各业，专业演讲需求激增，成为连接技术与商业的重要桥梁。"
-    },
-    {
-      "title": "Thinking Machines Lab offers enterprises a US alternative in open-weight AI - InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHNDVHVKdFo3ZVRvVjd4U2pWQjhhRVFBQVAxeUhZRmt1TGRtV3pUMVdXaXR1Nmx0a0s3QS1NUWZXekFqR0lHdVoyR09sOHJ3MGZwZG13bENmX01fb1FfTmUwZTJkRUlhUWx5OU9GaWpIOXdka2RWZl81OXUxRjFBZ1pBRHJ4bkRtLUdsbXZOTTAyTGtzMXJLNU43N3pwdjhzLVNiaGhhTDFiWGd1eFkxUUdsYTk1VVNmM0E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T11:05:14Z",
-      "summary": "Thinking Machines Lab为企业提供开源权重AI模型的美国本土替代方案，旨在减少对海外技术的依赖。其模型在透明度和可定制性上具有优势，支持企业自主部署和微调。此举反映了地缘政治背景下，美国科技公司加速构建自主AI生态，为企业和开发者提供更多选择。"
-    },
-    {
-      "title": "Birju Shah: Requiring AI audits makes sense. But Illinois legislators got the order of things wrong. - Chicago Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlNxSHQza1pyLUhmWnNKMTlsMGJmTUNZTF9uOTJWbThpRlF3VWZVZUtBT0dpeUR4LWVVSWo1QVRET040NTM3STRlbFdvNTExOGxKTTlGRUlkTUhYNmNNSTd2TktYalVIT0RFNXFyM1BGMEMyQ1Zvc3VRN1JBVGlBc1BqeGxWZW5rX09VUXUwMUp6X0ZNMVU1VnBLaEZSN185QXNIVVZwTkNEUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T11:00:40Z",
-      "summary": "芝加哥论坛报评论指出，要求AI审计具有合理性，但伊利诺伊州立法者搞错了顺序。正确的做法应先建立标准、明确审计范围和方法，再强制执行。当前法案可能导致合规成本高企而效果有限。建议借鉴金融审计经验，逐步完善AI治理框架，平衡创新与监管。"
-    },
-    {
-      "title": "Is artificial intelligence bubble heading dot-com crash way? What 5 big AI-led stock sell-offs tell us - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWnluN0tyYTVhWFJ1cjk1TmZUR2pISW85ck5sMXEyUEtFUElLNkxqYU15WFlpbncxUGxsM0d2Smd3bzFZYUZpc2JSNnBBZWZKYkJOUUo2OWl2LTBHS3h5RU1WMl8ybjlTcVljTFZzZWotdlVvRkxDX1JQU19uazhwdVJOTmdjcTEzRmw0Q2ZZZjFORmc4OGFlczBweFA2VEc1dDVkM0J1LURvNHVSWWFvTTRFTmxUTFdWcVZLMVo5ZUdUeGRZZ2NucWF1Qld0TVc2ams5S2lQUS1ZLW5QRDJ0d1dhUGVuSm9DbFNPQkNTcHlXbVBNUm5MTtIB_gFBVV95cUxONFNDTXVpMU8ybGhfTEp3dlpqUDdGUnFUa04wUEdfbVM0RzJCWjN2eUhyTmxUNGotT2V3X1hhUGRBaXBDbVhYQ09GaGdKSFhlTUUyTG5RWFdrSFNNTzAwMUVHX3BDVW1HWkMtOFZQQm82MDdFZkRXV2oyVkdLSkpqN1JZU2JBTEdSQWNqUjRYX01CZWdIUGpybl9zOUdRZEg5WWZtTUxRT1U0WVpwUDd1eDJXdUFsd2NILWlZaEh6RmVOcjFKOUFPcDRydDZuTWdsRXZkWGRZM0dMYXJZQ19xZmF5N0NlOGctNlkxdlJ1c2FjaFU2UFZSODJVTF9tUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T10:34:16Z",
-      "summary": "针对AI泡沫是否会重蹈互联网泡沫覆辙的问题，Moneycontrol分析了五次由AI主导的股票抛售事件。这些抛售显示市场对AI盈利预期高度敏感，但与传统泡沫不同，AI仍有坚实的技术进步和应用落地支撑。投资者需警惕短期波动，长期看AI变革潜力依然巨大。"
-    },
-    {
-      "title": "Anthropic’s ‘free’ Fable offer — a token lock-in trap for users? - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGlFWHk0TXg1NnVqZGlDcS1USzVDYVdoM2IzV2ZaZWxDa2xaUm15LXJkQUNsX1FYMjRnVlRuR0VsdVFRSmdvZjhJWWhCdkFqVXFiQWdwZkMxc2FEaW5XbGhzdzRDUGFOVGpPbVRoSm5rajdTcU5DcTBkb21HUU1IYVdIdDNCbTVJTENqU2RUTDcyV0MzeUhwZWs3dHBXRS1UdnJQZDBkS2Q2OEhuX3c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T10:18:33Z",
-      "summary": "Computerworld分析Anthropic推出的“免费”Fable服务，认为可能是一种用户锁定策略。用户使用免费额度后会依赖其API，而后续付费转换成本高。这种“token陷阱”通过吸引开发者构建深度集成来实现垄断，类似传统软件锁定。专家建议用户谨慎评估长期依赖风险。"
-    },
-    {
-      "title": "Sentient superintelligence creates some of the biggest questions in AI - UKTN",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzdpTFNvMlFFWnlzZkJ2a2FUaDRBczBRRzNUN0lmeWd0LTc0YklJTm51cVdiczNmZFlhRUgyM2pfVTFoX1NySU5TT3BTSWZaaE0xRTdsZG9kckoyVm0zRGNnNjhVdEdQa2xEN2E5WGZmY0pSSC0yWlRsSTFnbjNKX1Nia25PdUZZalFLSGF5dzExMDRvYmhvWXNuVHZIWVZUTjZxZ084T0RKcy1XaWxrNQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T10:00:50Z",
-      "summary": "有感知的超智能（sentient superintelligence）概念引发AI领域最大争议：机器能否拥有意识？如果实现，其权利、伦理和安全问题将成为核心。UKTN文章指出，当前研究仍停留在理论阶段，但需提前设计治理框架，防范潜在风险。该问题挑战了人类对智能和存在的根本认知。"
-    },
-    {
-      "title": "China's Xi to set out AI diplomacy vision at key Shanghai forum - AnewZ",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0VIUUVnejFqYXUxNFpqaVBBUWtfZXlDTU9EbEVGM0k0d0gtNGRwQ3ZSSmZkbHg3cTJWQlVOS1U0b1ZfenpKa082VzRET0tRSGhNMlB4VUV6WThubmhrTmp6ZU5BUFk5b0lyNzdXcEs2dnFqQjlmM1luNmZGLTlFWDdNclFCTUFVZTNGcldwalFfNmVNeEJrbDE5azUtU2RfbHdhY2h6SnBSLU5PdjBN?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T09:36:00Z",
-      "summary": "中国国家主席习近平将在上海重要论坛上阐述人工智能外交愿景，强调国际合作与技术治理。此举旨在推动全球AI发展中的多边对话，构建包容、安全的AI治理体系。上海论坛作为关键平台，将展示中国在AI领域的开放态度和负责任立场，为国际AI规则制定贡献智慧。"
-    },
-    {
-      "title": "Michael Moyo's Ocular AI Brings Human Expertise to Artificial Intelligence - We are Tech",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0dFOVQxNVlQT2ZhdDJ6eUtPcGt4Z2JUN0xkSVBBendQN0pFcXcwQWZlb0xveDYtVlRkZkJlQklWS0ZWeno2Tk14WHdIb3RLQzdTclNaYTlnSGZVTjloRzNGU2lTM09xcm9idEJGWjREMUV5Nm1NMF8xTHNTNktMeFhKaDc4dmdSTE93Si1sbFNkQWlEVDJESGNsc0hlNndiUmdGRVJBeFRJVUgyQU05OG5NYUNwdzB2MFlyUm1ES2Y4Zw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T09:18:19Z",
-      "summary": "Ocular AI由Michael Moyo创立，专注于将人类专业知识融入人工智能系统，通过人机协作提升AI的准确性与可解释性。该方法旨在解决纯AI模型在复杂场景中的局限性，尤其适合需要领域专家判断的行业应用。"
-    },
-    {
-      "title": "Neko Health raises $700 million to expand AI body scans in the US - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbFpZbXVhMjFIdUNLVkYxeXMxcVRhcFA2NklTVVk0V2IyNkpDSi1zbVc1TTBFUFpMNFNPc01wX1hWckZpcllYelhkTXBiWWhzSFFhLVp4V3BGeG5aUldZUlFpNER5VTczWDZCTVc5SnRFVXJ6cldUUjRpX2Jha25BZGVRRnRENUZOdkFB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T09:00:47Z",
-      "summary": "Neko Health获得7亿美元融资，计划在美国大规模推广基于AI的身体扫描服务。该技术利用人工智能分析全身健康数据，实现疾病早期筛查和预防，有望革新传统体检模式，降低医疗成本。"
-    },
-    {
-      "title": "Albo’s pivot to government regulation opens way for AI fight - The Nightly",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTVpKV1V6a0JjUzFteGNabzg1SnlCUTF0RXkyRzZEa2gwTkZRblJNMm50c2RhU0lqaVdRWkN2cHQ5UnBmTG8yb2F4VThmTV96OXdWNjcxSVFDTHB1aGJoOXdwYWtZbGJ2UmZkVjZnaDB0VFdMVlhoenFPdXRPR2ppVjBBakVCYllLcjZyaE03WnNuYUprTWoxdGJpOVNKTU9lMlA1TlAxRm43YndTR1dZRElmR0lHbmZYdGdpVXYtN3FOSzladnQtb1M1cWNtajJYdFBxSUNCM3lOMVhzOWNhcHNsZ2JJV2s?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T08:55:20Z",
-      "summary": "澳大利亚总理Albanese（Albo）调整政策方向，倾向加强对人工智能的政府监管。此举可能引发科技行业与监管机构的激烈博弈，焦点集中在AI安全、伦理标准与创新空间的平衡上。"
-    },
-    {
-      "title": "KT has joined hands with Palantir, a global artificial intelligence (AI) company, to develop an AI a.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByS2h0Ull0LUFvYzB4XzVIM2ZLaHJzbDdxWWVlUlYtNkxLbW9tMXB2VmFHb0QtM1hTUWl6WjN0SW5DbG13WW5SaTI5MA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T08:32:44Z",
-      "summary": "韩国KT公司与全球AI巨头Palantir合作，共同开发人工智能应用解决方案。双方将整合KT的网络基础设施与Palantir的数据分析能力，聚焦企业级AI服务，提升运营效率和决策智能化水平。"
-    },
-    {
-      "title": "The government has challenged the second-tier artificial intelligence (AI) system, which is divided - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlNnpNNGU5dzgwX0VJd01pb29iRlZVcnJUVWliQ2dFd3RCQVFCOUFnRXFLSmdoaTdHOGVVUlJTNTdleXBkWTM5ZVU5WQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T08:32:44Z",
-      "summary": "韩国政府针对二级人工智能系统提出挑战，该系统因划分标准模糊而引发争议。此举旨在推动AI分级管理体系的完善，明确不同层级系统的监管要求，以促进技术健康有序发展。"
-    },
-    {
-      "title": "The global artificial intelligence (AI) market is facing a huge transition period. If global big tec.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZOUs1MGpudmtBc3p1emxkUGw0WVNCXzZYeXdaazg4M1p1azBIeWJkTDBfTTV6V0VURjl6bG91WUNId25DNjk2c0hkVW1ibnBCd09DcUE1LTM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T08:14:07Z",
-      "summary": "全球人工智能市场正经历重大转型期，大型科技公司的战略布局将重塑行业格局。从基础模型研发到应用落地，竞争焦点转向成本效率与商业变现能力，市场面临新一轮洗牌。"
-    },
-    {
-      "title": "Australia to Put Environmental Brakes on A.I. Data Centers - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjl3NUl2VkZ3a0ZaOGlvTlU0YXJoZzJHMDZUUnI0bDRSS0J4V2g0XzYwSWJ0R2x5YmZsRExhWTdZMElVSFBUY09fUkd4cEdBTDBVTDJOM0xDVHNzWTdVSk9vRTNZSUpoNHBqTHo0LUFna1J0VkVhZkdjSXpUd3NVN2NidzRUbzFaM1BuZFJ1NkNtUHI2NURDZmtrNjdfbVcx?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T08:08:00Z",
-      "summary": "澳大利亚政府计划对人工智能数据中心的能源消耗和环境影响实施新规，通过设置准入标准促使运营商采用更高效、绿色的算力方案，以缓解电网负荷和碳排放压力。"
-    },
-    {
-      "title": "AI Stocks Investment 2026: Top Picks & Market Analysis Guide - Intellectia AI",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VSjJsMHc0aU5ScEZHazNURk01X3liVXlXSDlqNlFKdEM4WmxFYjV2OFlab2ZudzdfaElFYjNmRUtXOXotT1pQQ0hWUlRpZXlhazBqRHVNVEJUanpNcU1DVEZoTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T08:06:13Z",
-      "summary": "Intellectia AI发布2026年人工智能股票投资指南，筛选出具有潜力的龙头公司，并分析市场趋势。报告强调AI商业化进程中的关键节点，为投资者提供风险与收益并重的配置建议。"
-    },
-    {
-      "title": "AI: Why Europe is falling behind, and how it can catch up - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQby1lYzJXSWs4SThIZzZ1eUhQbDlMTUNDOTNSOV93cXZxbzNCb3pBdG9Ib0p4RkxrV0NDRjJkZVgyVV9PTHUtRkpRSE80UVotZzV3NGkxdmVEVFdBWmlkSVJwM2NuNDRhQ2UwV2pLRmZ2OVVneDJaeDVNTXRHZnZET1MwdjBiZWZxd0pQM044X2JYUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T08:01:25Z",
-      "summary": "欧洲在人工智能领域落后于中美，主要原因是投资不足、监管过严及创新生态薄弱。专家建议通过增加研发资金、精简法规壁垒、支持初创企业等策略，帮助欧洲加速追赶全球AI领先阵营。"
-    },
-    {
-      "title": "LG U+ is speeding up the establishment of an artificial intelligence (AI)-based security system. Whi.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WM3pTaWtyd3VQdXNzUXMxZXJsQ0JVV1J6OWxCNlVfS3Npb1BrRTFyZ21ka3R2bWhnM1ZrbjBvcVh4MWsyMkltRzRBZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-16T07:17:05Z",
-      "summary": "韩国LG U+加快部署基于人工智能的安全系统，利用机器学习和视频分析技术提升安防监控能力。该系统可实时识别异常行为、快速响应威胁，旨在为企业与公共设施提供更智能化的安全保障。"
+      "summary": "路透社报道指出，全球范围内的“错失恐惧症”（FOMO）正持续推动华尔街对AI领域的高额投资与乐观预期，形成所谓的“AI例外论”。投资者担心错过AI革命带来的潜在巨额回报，纷纷涌入相关股票和初创公司，即便部分企业估值已偏离基本面。这种集体情绪使得AI板块在遭遇宏观经济波动时仍能保持韧性，但也增加了市场泡沫风险。分析人士警告，需警惕狂热情绪下的非理性繁荣。"
     }
   ]
 }
