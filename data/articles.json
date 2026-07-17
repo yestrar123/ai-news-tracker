@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "2583",
+      "title": "Can Artificial Intelligence Make Good Music? - Vocal",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lUHV2RTN0aGV3X0tDSTR2NVRZeDdjMVMzNWZoV25hR3Yzb05PU2xlQlRkamVpUGNyc3F6WEw5UTF4OFM0V1VrZUpXSC1GN0VWNDZsaU5fSXlNUmw0REs2SUR1T3ExeWFycjlLN01iMkxzSDV3eDdj?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-17T00:00:31Z",
+      "summary": "本文探讨人工智能能否创作出优质音乐。当前AI音乐生成技术主要基于深度学习模型，通过分析海量音乐数据学习旋律、和声与节奏规律。尽管AI能够模仿人类作曲风格并生成连贯的曲目，但在情感表达、创新性和艺术深度方面仍存在局限。文章指出，AI可作为辅助工具激发创作灵感，但完全替代人类音乐家尚需突破技术瓶颈，尤其在捕捉细腻情感和个性化表达上，算法仍有明显差距。",
+      "fetchDate": "2026-07-17"
+    },
+    {
+      "id": "2584",
+      "title": "Alex Karp Grouped Palantir With These 3 Unstoppable Stocks as the Only True Artificial Intelligence (AI) Infrastructure Winners - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVo0Ry1zR21jMHhiWG91TWRWVllwQUtYZmF3aDdlQkVEYTd2VG9rMW0tcEZuU3hyRVZmZlpLYjR4YTBiNEE5TVpsbmtBMi10V25Jd2tMWXEycGV4c2IzNXVyTFZmUFM0bmlZYlJHamY5NF83ZG5GVTYzcDR1WFZrZ1A5Q3BMd3FZanlpOXN0eDU3WXVSenJ4Xw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T21:45:00Z",
+      "summary": "Palantir联合创始人Alex Karp将该公司与另外三只股票并列为唯一真正的AI基础设施赢家。他认为，随着AI技术从概念走向大规模部署，算力、数据整合和平台化解决方案成为制胜关键。Karp强调，只有同时具备数据治理能力、垂直行业整合经验和规模化部署能力的企业，才能在AI基础设施领域占据主导地位。这一观点凸显了AI产业链中底层支撑环节的长期投资价值。",
+      "fetchDate": "2026-07-17"
+    },
+    {
+      "id": "2585",
+      "title": "The government has challenged the second-tier artificial intelligence (AI) system, which is divided - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uejdhV3hjeU9YSDRPdDUxekQwMy1BZzQxWGhzZW1lckZ1UkhaSE1IRWxqVEFUUDZUT0ZLSnN4N3NUTHhYckdFWEFmOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-16T21:21:33Z",
+      "summary": "韩国政府近日对二级人工智能系统发起挑战，该系统在技术层级和应用领域存在明显分歧。报道指出，政府正设法推动AI分级管理制度，以应对不同等级AI系统在安全、伦理和监管上的差异。然而，业界对于如何划分层级、制定标准尚未达成共识，导致政策推进面临阻力。此次挑战旨在平衡技术创新与风险管控，为AI发展提供更清晰的治理框架。",
+      "fetchDate": "2026-07-17"
+    },
+    {
       "id": "2558",
       "title": "Google Vids now lets you star in your own AI videos",
       "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
@@ -23230,5 +23257,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2581
+  "total": 2584
 }
