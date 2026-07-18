@@ -1,111 +1,76 @@
 {
-  "updatedAt": "2026-07-17 18:51:23 UTC",
-  "totalArticles": 15,
+  "updatedAt": "2026-07-18 01:22:10 UTC",
+  "totalArticles": 10,
   "articles": [
     {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "title": "Editorial | China’s vision for global AI governance is inclusive - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYzE1Wm01X3N1cWxlOUNldkVUWll1U0t5VG5jWWxieWhFRUJSeUJHRWdET1dLYjJxZW54WWtkcVVibFlTVl94WFFjalM4MG9mSVc1RlJmMndvSU5wOExzazdFUkxYckVXc3pvTDYxSVhmTDV4RlVfNG9iWU0wMEJJSHZVSnJNWUNCM1VXME5oSTlJZVlDMFd5aHB0ZVd5Z9IBngFBVV95cUxPYVoxSVdhOEdEc09aNC1JTk91cnIwSFJCU0RPN0hLSUdRa3pGWlNfZUU2QVhINjZmeUI2OGtmT1VJRDRFVHdCVXgwclVTNEVNQTVRZGVXWElZUUFjMUJ2c2NJakhQWEFPYnRnUWJPa3dnT2VSaGdGOTVnY0NSa004blV1b1BjMDdjTkx3T2tMcTNGbTFHNkpzZDlUZkFMQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-17T23:15:08Z",
+      "summary": "《南华早报》社论指出，中国倡导的全球人工智能治理愿景强调包容性。该主张致力于构建开放、公平、非歧视的国际AI合作框架，反对技术霸权与封闭小圈子，推动发展中国家参与规则制定。中国的立场体现为在保障安全与伦理的前提下，促进AI技术普惠共享，弥合数字鸿沟，并通过多边平台探索治理共识。此举旨在平衡创新与监管，为全球AI发展注入稳定性与多样性。"
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-17T17:45:46Z",
-      "summary": "苹果公司对OpenAI提起商业机密诉讼，指控其存在系统性不当行为，涉及OpenAI首席硬件官员，并称超过400名前苹果员工已入职OpenAI。此举可能干扰OpenAI的IPO计划，因为诉讼时机极为敏感。OpenAI的回应谨慎且有限，市场关注这一法律纠纷对公司估值和融资前景的潜在影响。"
+      "publishedAt": "2026-07-17T22:55:09Z",
+      "summary": "奢侈手机品牌Vertu推出售价6880美元的AI代理服务，集成于折叠手机中。实际测试显示，其AI工作流处理日常任务效率尚可，但响应速度与主流AI助手有差距；电池续航因持续AI运算而缩短；安全方面具备企业级加密。整体而言，该AI代理更侧重身份象征而非技术突破，适合高端商务人士尝鲜，但性价比不高。"
     },
     {
-      "title": "Workplace AI — how employers should prepare for the new EU AI Act deadline - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMUVfTXRUaE1zQ3EybU92RTZoQlBNWEJmNFYtZDlneDNyZTVFX2dWUmJRTjF2SmdQTTNYOU0xWmpRaVFSRmRJU2N1N3hXNE4wSFQtSy1YaTZkbmw4Mkd1XzI1MkVJcTQ4bDNSZkQyZWNsV1htZHpRVUI2M0R4cmQ2Y1daaUFLSkhfSU9wZlU3SHdrRnRtZkd6QkV0YVVHVEsyVmFWNGFnU09oWDZTeHlBWi1kWTEyMVFTQUlHdW5mdHZGVHRwTDhj?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-17T17:30:58Z",
-      "summary": "欧盟《人工智能法案》即将生效，对工作场所AI应用提出新合规要求。雇主需评估现有AI系统风险、确保透明度、建立人工监督机制，并针对高风险AI进行合规备案。路透社建议企业提前准备，包括更新隐私政策、培训员工，并关注法案对招聘、绩效评估等场景的具体规定，以避免法律风险。"
-    },
-    {
-      "title": "Morgan State University Launches Artificial Intelligence Degree to Prepare Students for the Next Era of Innovation - Morgan State University",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fVVc1WUVaNzM4TEZsQmV3Zlg3RmNGS0JaX3MzdUMtQVVOcm5ZTkFuNUs4bEpmdlFRMS03dWlreGlTaVpwR1pLWkFJNnRJQzRITnpjRnhVZnQ2WUxGcU1fOFN0RUhfNWx2dXpzeFVBY2J0MUtGanYySDNhOXhIYzQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-17T17:26:23Z",
-      "summary": "摩根州立大学宣布推出全新人工智能学位课程，旨在培养学生掌握AI核心技术，为下一代创新做好准备。该大学作为传统黑人大学（HBCU），此举有助于增加AI领域的多样性，课程将涵盖机器学习、数据科学、伦理等方向，并与行业合作提供实践机会，以缩小AI人才缺口。"
-    },
-    {
-      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRWRCTzZXLWRlVV9jYTRzN3ktc1lFLWExbVlPa09HSVEwR0VyVWhxYkcxNG5mRUVHcDdGRVFaQ0hoOU95OHQ5ZmtRWkYxcnh6Z2dkYUowZ0FmQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-17T16:53:04Z",
-      "summary": "中国AI初创企业Moonshot AI宣称其最新模型Kimi K3在性能上可与OpenAI和Anthropic的产品相媲美。Kimi K3专注于长上下文理解和多模态能力，可在复杂推理任务中展现竞争力。该声明引发业界关注，或加速国产大模型追赶国际前沿的步伐，但独立验证仍需公开基准测试结果。"
-    },
-    {
-      "title": "AI hype seems to be cooling as tech stocks dramatically plunge - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU251MDBRUENBbXZoZ3htQU16UDE2d1EtSFZmeHlla3E1THRNMWVMSTJEMGdpOUlzck1CajhjTlFmUHpTZVgxVGUtWEhQLWgtYWVSMlZnY0piSlFNQklaWVRpSU9NdHBtUjBaa3F0dHNPbDNJWUZIWnIzd25MSlM5dE1hbnd6VTN2Ul9CZjFUVGRRWVNwa1BTQTdR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-17T16:32:00Z",
-      "summary": "科技股近期大幅下跌，市场对AI炒作降温的担忧加剧。投资者开始重新评估AI公司的盈利能力与估值，部分高增长科技股遭抛售。分析认为，AI商业化进程慢于预期、监管不确定性以及宏观经济压力是主要原因。尽管长期前景仍被看好，但短期波动显示市场情绪趋于理性。"
-    },
-    {
-      "title": "SHANGHAI, China — Artificial intelligence (AI) should not be dominated by a single country, China’s President Xi Jinping said at a major technology conference in Shanghai on Friday, urging international cooperation on its development. - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbGQwNGFfNkl4ZWVfeUxocVJ0dFNpZHd2TjRjUlc2OUw2alZzYjVweVVPOVdGVXBEMzNqWEtuTzNoUTFNUUFQR1lZdmlDbjFOYkQyWWhPa0xBNVg2RUpfd0NlbTlFckRHMmFCOGJLRU1aWDExQU0tb1BUUURINVQ1c2R6cDRUd1JVSTFXRnBnR2VtQ0o4aGxsTWRtSkRXRVZGUk5Rc0F3UVVEM1l6WXNSVk96Zk12X0xKaUFsVw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-17T16:20:57Z",
-      "summary": "中国国家主席习近平在上海一次重要科技会议上强调，人工智能不应由单个国家主导，呼吁全球合作推动AI发展。他指出，国际社会应共同制定治理规则，确保技术惠及全人类。这一表态旨在塑造中国在AI治理中的角色，倡导开放、包容的合作框架，与部分国家限制技术流动的立场形成对比。"
-    },
-    {
-      "title": "Bunkerhill raises $55M to scale agentic AI across health systems - AI News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXc5SFBkU2Exc2k4T2g4b2ozMTNZOFRTNmdBd3N6Vm9QbWR4MTlpYzJmUW56LTh3c0FhWFA5RGZSVHFwQzN6RU5heF9DYTI0dHpndmdfc2pfdkRQSXJjaVJmekFMMlgzTnU2TkVOMUlUdHVBU0d6eDR1QWdvS1V6ekV3eTZXRXI3THBFT1ZXQ0drN2MweV8tUU5ESVRNd2wzclVoZENB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-17T16:02:56Z",
-      "summary": "医疗AI初创公司Bunkerhill完成5500万美元融资，以扩大其‘代理型AI（Agentic AI）’在健康系统中的应用。该公司开发的AI系统可自主执行临床工作流管理、患者监测和资源调度等任务，旨在提高医院运营效率并改善患者预后。本轮资金将用于技术研发、团队扩充和与更多医疗机构合作。"
-    },
-    {
-      "title": "Xi Jinping of China Pitches ‘Openness’ in Push to Shape the Path of A.I. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EamIzaWIydk9pVTBlZmx5VTdoYUd1dUVSSGJPRzIxdzhEQjBUclRfejFpZDFKSWU1cFk5NzVTR0dwXzg0MWMzbEhzdEt3N0p3RnJMenR2XzVfMzNTRXI1bm5rRFF1YzlhQUl4U20tR0QxaW04blhr?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-17T15:49:16Z",
-      "summary": "中国国家主席习近平在公开场合倡导AI领域的‘开放’理念，推动中国在全球AI发展路径中发挥更大影响力。他强调技术合作与知识共享的重要性，暗示反对技术封锁与脱钩。此举被视为中国争取AI国际规则制定话语权的努力，同时缓解外界对技术民族主义的担忧，但实际开放程度仍需观察。"
-    },
-    {
-      "title": "AI giant Anthropic bringing new artificial intelligence for teachers to Detroit classrooms - WDET 101.9 FM",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaExwZW9pYjRBcXNiWEFDanhpMUIyTERFOW1TMEVrdS1qM185RVVIN3g0a2lIY21TYmNyd2d4OEEybXpnT2YtQnhEWnhIZ0Jtbjd0NTVSN2NmWXByRFNzWS11cFhDNDdlUTU4V1BCTjdCaWJ5eGtSR2JKdzF2N2R5UW1fY3Y4bno4dXJneG91R2pPRE8zLXdkck80OHFHNHZKa2UwaHQ5cVV0b3hCbUhqb1B4RmROTUxPcTFn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-17T15:46:34Z",
-      "summary": "AI公司Anthropic计划将新开发的AI教学工具引入底特律课堂，旨在辅助教师提升教学效率。该工具可自动生成教学内容、个性化学习建议并分析学生表现。Anthropic强调其AI注重安全与伦理，与底特律学区合作试点，以探索AI如何在不取代教师的前提下优化教育体验。"
-    },
-    {
-      "title": "AI OK in Linux development, says Torvalds - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmQ5dlpXWE9FUUFIX2RuQzYtaWc0MWlZcHdJTmNHVHdKb2dCck1EWHlyUU1takppNDhaeEUtYjk2dVdrYU1tbUFMLWFmRWV4WkkxVWFZNFBLZ2pxLWo0MEZVY3hsV0tZblpKZVJiRF8yMVFTRUFYb25RNkd1aW1YNlVsdVR4dnA4OWh4OExHVlNtZWt3eFh5bg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-17T15:29:20Z",
-      "summary": "Linux创始人Linus Torvalds表示，AI工具在Linux内核开发中是可以接受的，只要使用得当。他认为AI有助于自动处理重复性任务、代码审查和错误修复，但开发者仍需对代码质量负责。这一表态为AI在开源社区的应用扫清疑虑，同时提醒社区需警惕过度依赖AI带来的风险。"
-    },
-    {
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-17T15:21:17Z",
-      "summary": "Patreon宣布不再依赖robots.txt来阻止AI爬虫，而是与Cloudflare合作主动屏蔽未经授权的AI训练数据抓取。这一转变旨在更有效地保护创作者内容不被用于训练AI模型，标志着从被动请求到主动防御的策略升级。通过技术手段直接拦截不良爬虫，Patreon强化了对创作者权益的保护，并应对日益增长的AI数据收集挑战。"
+      "publishedAt": "2026-07-17T22:12:56Z",
+      "summary": "数据智能平台Databricks完成新一轮融资，估值飙升至1880亿美元，巩固其作为AI领域“第二股”的地位。该公司成功转型为AI公司，近期研究证明开源AI模型在代码生成任务中可显著降低计算成本，且性能接近闭源模型。这一策略吸引了大量企业客户，推动估值持续攀升，也凸显市场对灵活、低成本AI基础设施的旺盛需求。"
     },
     {
-      "title": "Global X Artificial Intelligence ETF (ASX:GXAI): Inside the 85-Company AI and Big Data Portfolio - Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT2Rfc0hwYzY0OEJKQlRwUm1NS2xLNWVwSEpraXJTejU1Vi1fVVFqLU9yb1AyRmtxVEJ2dC1TSHN5MHkzWi1aX2lrWWsza1ZZVld5UGxNbXhlNExJWUtBU0hxMlFGUmQyakF2aTRhaUpjWGZmT2haOGVraHFIaUtRdGY1SUl1aTdHRjA0QjY1UG5JR3NpOXFIbi1EZGNWaUNrWXp0dG00NmxEMTVZVnNiOXRYTGNQWnk2UVE4RjI4d1lYMGpYMFBvZ0ZB?oc=5",
+      "title": "Eric Garcetti gets new job in the world of AI - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVjhRNHFCbmxFMGlmNlBQbUItN3NoZjJWY2ExMGJUOThxUDNBSnV6TjZSQ2dCVTNacWwtUm41TS14Z0YtcWtkanhiNm5TckhjN1oyRTIyVjA3OWZKR0lsLWp1YlIybTQ3dThqQTJZejJ6NFFkQUM0TjFvTGhpd2FkRDgtLVBXV3pmVEZV?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-17T14:50:00Z",
-      "summary": "Global X人工智能ETF（ASX:GXAI）是一只专注于人工智能和大数据领域的交易所交易基金，其投资组合涵盖85家公司。该ETF由Global X管理，旨在为投资者提供对AI及大数据产业链的广泛敞口，包括技术、软件、硬件和服务等细分领域。通过分散投资于多家企业，该基金降低了单一股票风险，同时捕捉AI行业的增长潜力。"
+      "publishedAt": "2026-07-17T21:58:46Z",
+      "summary": "前洛杉矶市长埃里克·加塞蒂（Eric Garcetti）在AI领域获得新职务，具体职位未披露。加塞蒂拥有外交与城市管理经验，此次跨界AI行业，或借助其政商资源推动AI在公共政策、智慧城市等领域的落地。此举也反映AI产业正吸引更多非技术背景的高层人才参与战略布局。"
     },
     {
-      "title": "Court orders expert witness AI prompt disclosure — What litigators need to know - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ3hKY1pEVVFUZGstaGI3VGxZX2tuR1VDUHNVZ3lBLVFEUkFfY3NoSU9qXzRVQlE4em92VkNGWkVmY0JtV2V1cldCQ3JEcjBCUHNRWERVMnlISUxVaFhoRWozTVF5N3V4OHZwcFRLX2ZnMTNIY1JZWGxjRGltQWZEMHg1YVp1QTR0YlgwRlVUcFJLVzR5ZUN4aEd6TkdBSHNraWxFcnpwbFp6VlR0NzZPdVJ6LTRvYm04V0FtMmtQb3RUUDBuYjNVU3hnZ2tTMFp0SU1qUw?oc=5",
+      "title": "What to know about the AI chip stock selloff - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GcUlkUFAwT18wNHdSZ0NyOEdqcXVwODNVZ1JFWDNKa1Jpd2dSNkdDcW90R1VNMHJXS3ZyRGsxRVFHWjk5TklrZ2M0ZDREckpXY09hckFZbEhfb1lKek1zWlhCQjhXRThyN0cwcE1ZNmZBc0RudXktN9IBfkFVX3lxTE44MWExZWpUamhhZlplNDVkdFlBSUJlNUZqVDE0Y3BPNUtta19CTUprVGZQYUlQMk16YTdsRGRFQWZRQ2JxYnltZjhOQUJ1MVhPbVFwbnpZeG5rWk9aOUIyZE8yY0l1REFwcUtvT1d6Nl81SjVZMVlwc1I2N0kzZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-17T14:13:46Z",
-      "summary": "美国法院近期下令要求专家证人在诉讼中披露其使用AI工具的提示词（prompt），这一裁决对诉讼律师具有重要意义。法院认为，AI提示词属于专家证人的工作方法和依据，需接受对方质证，以确保专家意见的透明度和可靠性。该判决将推动法律行业规范AI在诉讼中的使用，律师需提前准备相关披露材料。"
+      "publishedAt": "2026-07-17T21:26:41Z",
+      "summary": "近期AI芯片股遭遇大规模抛售，引发市场关注。主要导火索包括部分AI公司财报不及预期、市场对AI投资回报周期产生疑虑，以及地缘政治风险加剧。英伟达等龙头股跌幅显著，投资者担忧估值泡沫。然而，分析师指出长期AI需求依然强劲，短期回调或为布局机会，需关注后续技术突破与行业整合。"
     },
     {
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-17T14:00:00Z",
-      "summary": "苹果公司对OpenAI提起商业秘密诉讼，指控其有组织地挖角超过400名前苹果员工，包括硬件主管在内的多名高管。这起诉讼正值OpenAI考虑IPO的关键时期，对其声誉和融资计划构成严重冲击。OpenAI回应谨慎，试图淡化影响，但法律纠纷可能延迟其上市进程，并加剧行业对人才争夺和知识产权保护的关注。"
+      "publishedAt": "2026-07-17T21:20:47Z",
+      "summary": "一则关于Zoom的“黑客”方法引发讨论：用户通过巧妙设置可阻止会议被自动录制和转录。这折射出AI时代过度文档化的隐忧——当每一场会议、闲聊甚至约会都被转录和总结，信息的实际价值与阅读负担严重失衡。该技巧提醒人们反思AI工具在提升效率的同时，是否正制造无意义的数据冗余。"
     },
     {
-      "title": "China’s Xi Jinping launches new AI alliance: What is it? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5",
+      "title": "Jobs in occupations most exposed to AI increased by 4%: Chicago Fed - CFO Dive",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeG5lWHNESGhxTGsxeVhxOTVnVVBpOF9QcmY4ZkRnSUl5Tl9Pa3VYSy1JWkpqSlZMNG96WTdLaDZDLTgwcmR4dDJtY01vQUxhUTNvazZqa1AwUzJPX0M3dERUNGZGSjZmM3p5ZW5GZ3JYeF9tcHdKcU5sbTMtUWNsTi1DVWo4UEE4ekJLT3piQlJsZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-17T13:50:09Z",
-      "summary": "中国国家主席习近平宣布启动一个新的国际人工智能联盟，旨在推动全球AI治理与合作。该联盟将聚焦技术标准制定、伦理规范、数据共享和安全等议题，邀请各国政府、企业和科研机构参与。此举被视为中国在AI领域扩大影响力的重要举措，意图通过多边框架促进负责任的AI发展，并应对全球范围内的技术竞争与监管挑战。"
+      "publishedAt": "2026-07-17T20:54:39Z",
+      "summary": "芝加哥联储研究显示，职业受AI影响程度最高的岗位群体，其就业数量反而增长了4%。这一反直觉现象说明，AI并非单纯取代人工，而是通过重塑工作流程催生新需求，例如数据标注、AI系统维护等岗位。研究建议政策制定者关注技能培训，以帮助劳动者适应人机协作新常态。"
+    },
+    {
+      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-17T20:32:56Z",
+      "summary": "苹果公司市值超越英伟达，重新成为全球最有价值公司，反映AI投资风向转变。投资者从追捧GPU等硬件供应商转向看好终端AI应用与生态整合能力。苹果凭借芯片自研、隐私保护及庞大用户基础，在设备端AI部署上占据优势，而英伟达则面临芯片竞争与周期性波动。此次易位凸显市场对AI落地方向的重新评估。"
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17T20:19:49Z",
+      "summary": "人形机器人公司Agility Robotics在加州弗里蒙特开设新培训中心，距离特斯拉工厂近在咫尺。该中心将用于其双足机器人Digit的部署测试与操作培训，加速物流、制造等场景的商用进程。选址意在靠近人才与供应链资源，同时直接对标特斯拉的机器人项目，凸显人形机器人领域的竞争白热化。"
+    },
+    {
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17T20:09:27Z",
+      "summary": "AI热潮导致手机内存芯片供不应求，冲击印度智能手机市场。为满足AI功能（如大模型本地运行）的高内存需求，厂商被迫提价或调整配置，抑制了换机需求。印度市场增速放缓，消费者转向性价比机型。这一现象凸显AI技术正从软件端倒逼硬件升级，重塑消费者电子产品的定价策略与产品规划。"
     }
   ]
 }
