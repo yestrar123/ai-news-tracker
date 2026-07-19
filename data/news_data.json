@@ -1,62 +1,76 @@
 {
-  "updatedAt": "2026-07-19 12:51:40 UTC",
-  "totalArticles": 8,
+  "updatedAt": "2026-07-19 18:48:09 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "Taiwan Semiconductor Manufacturing Just Showed the Artificial Intelligence (AI) Build-Out Is Alive and Well With This Jaw-Dropping Announcement - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUlwSldGUHFXUnRCRzVRMGdsNWlqUkQ0dmtZU1FhbTZVWkx3clhOQmpYT241d0JCZzNjV3hXT2FCTW5BTXZIVFcxbW80NFlKQVphRXROWHY0c2h4MV91anNiTktab2QyNld1Z0RfRWdCa2hHNmYxR0pOM2ZyQ2xsbFhUYzBEWkJSdWxIalc2cGZRZEZnV3FJZA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-19T18:36:53Z",
+      "summary": "台积电发布震撼性公告，宣布大幅扩产先进制程产能，并上调全年资本支出。此举表明全球人工智能基础设施建设并未放缓，反而加速推进。台积电作为AI芯片核心代工厂，其产能扩张直接反映了英伟达、AMD等客户对算力需求的持续旺盛，印证了AI产业的强劲增长动力。"
+    },
+    {
+      "title": "Artificial Intelligence (AI) in Threat Intelligence: How It Transforms Modern Cybersecurity - CloudSEK",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcktxWjdPSlRfMC1yWERxNTFXOERrU0Fxd2pCMHFwbjhRblJGdEpaMXpQYklEb0Y4Y19kUjc2ZVpMNWdxTHFtQUttMUpPMDFjTzhhYjdGaEtpUkR3WmxsSGVCWXRuY083dmZlaVVhLW55WWM1dXB0dDVMRnVlXzJib2xBSG1DbGxvMEFRSDFTUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-19T18:25:36Z",
+      "summary": "文章阐述了人工智能如何重塑威胁情报领域。通过机器学习和自然语言处理，AI能够自动收集、分析海量安全数据，识别隐蔽攻击模式，并在威胁发生前发出预警。这种智能化手段大幅提升了网络安全的响应速度和准确性，使防御从被动响应转向主动预测，成为现代网络安全体系的关键变革。"
+    },
     {
       "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider - KED Global",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtc2dxaTl2dUNKVUlWblBEQW0zZElIamRTeGRfOW1PRTZDRW9RSE85NG0zcjdwQzNQcGlBRW8xU3I2Zy1RRHNTTEhUeVdKdjdYQjVuY09DTE8yamlFWGl2c1BCOEM3d1NfZzhtTll0QVNkcG4xNXJYOWxCeWlmTTg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-19T12:24:32Z",
-      "summary": "韩国围棋大师申真谞在与AI围棋程序KataGo的对弈中获胜，打破了AI在围棋领域的绝对统治地位。这一胜利不仅展现了人类顶尖棋手的战略洞察力与创造力，也为系列赛带来决胜局。申真谞通过精准的布局和出其不意的招法，成功利用AI的弱点，证明了在高度复杂的围棋博弈中，人类仍能对AI构成实质性挑战。该事件引发了对人类与AI智力对抗的广泛讨论。"
-    },
-    {
-      "title": "Rules to tighten on AI use in decision-making by government departments - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcEtsTXBHaVFHal96c1g1TUJrbjdRbS1iZTdkTWU5OTh5MndKM3BVUndmSXNwRFVGX0c3eGsyNXNudVBOV1JsVlNGVG9xRm9wWnFtT1Vkcm1oWXdZVjViTy12dVpaR1dtVWNUU3czZndsOWIzZmt3RzluOVJpSzB0dUQ4bE1iYWpyZ1dnaEFERFhNUDZMNnMzdXpCbGEyTzdYVGc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-19T11:59:25Z",
-      "summary": "澳大利亚政府宣布将收紧政府部门在决策中使用人工智能的规则，以确保透明度、问责制和公平性。新规要求政府机构在使用AI进行重要决策时必须进行严格评估，避免算法偏见和隐私泄露。此举旨在建立公众对AI的信任，同时防范技术滥用。政策强调，AI工具应辅助而非替代人类判断，尤其在涉及公民权利、社会福利等敏感领域需加强监管。"
-    },
-    {
-      "title": "Humanoid Robots steal the show at Shanghai AI conference | Future of Artificial Intelligence - WION",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON3BKemRxU0hZMFYxUzJYcExsd2NPMmVkTml3bTNWdUJNWFpZNTFsZFRybmZtdk8taDBzVXVjRWVjVWZNLTBZV3RuaVJsbmxuMXVhLWpwUUJwTmRYNEwxQXliOWdTZHdYWGJvTlJTcVZ6NmlOOXpwTDdBSEh2ZXFYQVA5Yi1sQVJjZnpva1pTNjV0Y05hTWRkdkotTEkyQm9kbmpQR2YyVTFWT1UtUzFyZW5DdE4zUUo0WFhfUFF3OV9MdzNOQnVibTJSOFljbEIw0gHWAUFVX3lxTE5MOVdCZzdnUVEyRHR2dEpRX2hWUktGM09nenplLTBHcEpHcmJOaWRkS2U1dzRONGNZZndQLW55eUF5OTlwUmNBTkJIUWZld3VjWlc4QkVoekxoOGwzbDN2OS05OEtJcXNXTUxYN0E5dWlreEJsaGtkekl0T0FjVmFQUEtuaDU2S2x3UFdqRURVQklxUktQem5OUWNnRzN4YXd3bVVodDZJMGR3VU15QWduV1JPUmdpaEIzQ29ZWFBOV3lnNXlGejRsV3dUNVZ0RXdrM3lLRWc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-19T11:27:00Z",
-      "summary": "在上海人工智能大会上，人形机器人成为全场焦点，展示了最新的人机交互、运动控制和智能感知技术。多款机器人具备流畅的行走、语音对话和复杂任务执行能力，预示着人形机器人即将进入更广泛的应用场景，如家庭服务、医疗护理和工业协作。会议还探讨了AI在机器人自主学习、环境适应等方面的突破，及其对未来社会形态的深远影响。"
-    },
-    {
-      "title": "As the volatility of artificial intelligence (AI)-related stocks intensifies, the thirst for \"qualit.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BalVqdTE0QzRMM3A2LUpJUHBwWmJzM0lvMHlPc1ZOZUNoT1otZi1Yckpjam5IcVhGRUd5SjFsOFZIdUFEX3hRMjR6Z0w0eTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-19T11:23:04Z",
-      "summary": "随着人工智能相关股票的波动性加剧，投资者对“优质”科技股的需求愈发强烈。市场分析指出，AI板块经历前期暴涨后进入分化阶段，资金更倾向于选择具有核心技术、稳健盈利和长期成长性的公司。行业洗牌加速，缺乏实际技术支撑的企业面临估值回调风险。专家建议投资者关注AI在垂直行业的落地应用，以及具备数据、算法和算力优势的龙头企业。"
+      "publishedAt": "2026-07-19T18:24:32Z",
+      "summary": "韩国围棋九段棋手申真谞在与顶级AI程序KataGo的系列赛中取得关键胜利，打破了过去几年AI在围棋领域近乎无敌的纪录。他凭借独创的布局和精准的算路，成功压制了KataGo的算法优势。这场胜利不仅展现了人类棋手的创造力，也为系列赛增添了悬念，最终胜负将在决胜局揭晓。"
     },
     {
       "title": "Could AI be conscious? - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-19T11:10:00Z",
-      "summary": "关于人工智能能否拥有意识的问题引发学界和公众的广泛讨论。目前主流观点认为，AI虽能模拟人类对话和推理，但缺乏主观体验和情感意识。然而，随着大型语言模型和神经网络的发展，部分研究者提出意识或许能在足够复杂的系统中涌现。文章从哲学、神经科学和计算机科学角度分析了AI意识的定义、必要性及伦理挑战，强调我们需要谨慎对待赋予机器“意识”的可能后果。"
+      "publishedAt": "2026-07-19T16:44:00Z",
+      "summary": "《卫报》刊文探讨人工智能是否可能产生意识。文章梳理了当前关于意识的理论框架，指出尽管大语言模型能生成类似人类的文本，但缺乏主观体验和自我感知。科学家们从神经科学和计算机科学角度分析，认为现有AI系统仅是模式匹配工具，距离真正的意识还有本质差距，但未来仍需警惕相关伦理问题。"
     },
     {
-      "title": "Should Africa’s Giant Join the Global AI Governance Revolution? - The Sun Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSExpN0pZbjBqNi1jVTMwcUNOX2gyVGZwbTZ5Q2FWeGJmck11N2ZITGpWZktLc25ScEpwQllVbWRXOHFUZEl3dGRVMkJQMlNZSmdzNGxld0FiOGhtT0xtS2lianV1eGthWTMzWGFhOWFTMjRSeWpUaG1qSW9ldHY1YVNYeHZLZ0nSAYwBQVVfeXFMTnh6MUlaeHBqVE9XSHdkM1pHTy0tNmsyNVZCZG1fY21pNWpkRWdUT0FYTFliQjlOMUpEV2l5UFpxeTJ2YnFjemRZNHBWRVV0bXgyNUx3eEhMeG9pM0VLdlhvSFh6NWZwRm93SjhCVXhMenc4dXhmLW5OYXlmbG0wX2drN2ZZVkNKN21rWE4?oc=5",
+      "title": "Here Are My Top 3 Artificial Intelligence Stocks to Buy Right Now - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmUxVUMwRGUtNzZidVRRMUVNSXNYVWw1NXFPQWxvbzdNRTJ2ZVlLN2RhcEVpWnY4Ukc2YmVvRUxnOVNYZGxJc3BTSjVrSmZGc3Z6SUVneFNpTVNaU1hxT0hGaFFSZ21EVEo4YWdDZ1ZxSWdudExXMkNmYmRFeGxta1VoVjJEZ05NdUJBRFR5MENTcGdyNERUVw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-19T10:18:45Z",
-      "summary": "文章探讨非洲大国（尼日利亚）是否应积极参与全球人工智能治理革命。随着AI技术在全球范围内的快速普及，非洲面临被数字鸿沟边缘化的风险。尼日利亚作为非洲最大经济体，拥有庞大的年轻人口和科技创业生态，但缺乏统一的AI政策和监管框架。专家呼吁该国应在数据主权、算法伦理、人才培养等方面与国际标准接轨，同时平衡技术引进与本土创新，防止外部技术垄断。"
+      "publishedAt": "2026-07-19T16:40:47Z",
+      "summary": "The Motley Fool 栏目作者推荐当前最值得买入的三只人工智能股票，其中包括芯片设计巨头英伟达、云计算及AI平台提供商微软，以及专注于AI软件和分析的Palantir。文章分析了各公司在新一轮AI浪潮中的核心优势、营收增长前景以及估值合理性，为投资者提供了明确的选股参考。"
     },
     {
-      "title": "'Teams that build AI programmes will win races' – how artificial intelligence is changing the Tour de France and pro cycling - BikeRadar",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rUmxUVW9vSzNqeHlyaWk3aHJySHNGc1ZpRzVjTDNCeFlBZHc2Q2dnWE1hT0NWRnUzUjY5clNHaFhUTGtOZS0xZnlBdzJLbjY3bDVwNTVOTEg1WldWUDhqUTJ1SVFveVI4Zk15OFRfSFJVM3VJbFZGRQ?oc=5",
+      "title": "Expert tips for smarter AI use - Moldova 1",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01WlJNWEhiMnptd0kzNmZXYURZUWluR1NmMDhsbnhIcDRhUXpReGhuY0ZTNlN1OWI1eDVxaFE0X1daTVJSTVE0X3FENnJDcTZnVWFMTm5ZNmxJMzRSU252MExNSmZwR0xDMlE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-19T09:00:00Z",
-      "summary": "人工智能正在深刻改变职业自行车运动，尤其是在环法自行车赛等顶级赛事中。车队通过AI程序分析海量训练数据、实时比赛动态、气象条件和选手生理指标，优化战术决策、体能分配和补给策略。专家指出，“构建AI程序的车队将赢得比赛”，因为AI能发现人类教练难以察觉的规律，并快速调整方案。未来，AI还将用于防止伤病、预测表现和提升观众体验。"
+      "publishedAt": "2026-07-19T15:42:54Z",
+      "summary": "专家分享了提升人工智能使用效率的实用技巧：明确任务目标并分解为小步骤，避免过度依赖单一AI工具，结合人类判断验证输出结果；同时注重数据隐私和伦理规范，定期更新模型知识。这些建议旨在帮助用户避免常见误区，充分释放AI在工作和生活中的潜力。"
     },
     {
-      "title": "UI Marketing Symposium: Experts Urge SMEs to Embrace AI, Build Strong Brands - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHZSS01FTGxhQWlyOHo5c3JhdXk5X0dVVkgxYXFfVnM2d2lEcnYycFB1VmVTMzVDTmpOMTFYb2xJRjZ5VWRjcjgzVVRmbGQ3eWxocmN1Qm0wMGZmYVFLeF82RWRmdWY3Tmx4M3VrTFFyQkNlWU12a3pJdUUxb19fY3ZLYmNsajhzVnhFTURPVXc0TFYzemNaU0dwakJNY1BrYUE?oc=5",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-19T14:52:08Z",
+      "summary": "电影《奥德赛》导演克里斯托弗·诺兰在访谈中警告，人工智能就像特洛伊木马，表面看似带来便利与进步，实则内藏未知风险。他引用“人人都知道希腊人藏在里面”的隐喻，强调科技巨头和监管机构应警惕AI可能被滥用或失控，呼吁在技术发展中保持批判性思维。"
+    },
+    {
+      "title": "Group warns against generative AI tools’ role in Nigeria’s elections - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVUwUnh6VG9SZ3B5czlNLWFLcWFVSFVYRzJyUmRhVi1Hc3RJVktST2ZkV3NZVlF5S2k1MEVqQ1lfR2dldUJXMnhzdXpzOVF5a2NuejhwT2VaVG5JS2M1bXNUSjdKSmtOdHlXRkZwRy1OZkd2VGY4LV9SaDhmaVo1NGFsN1h5SjdNaU9YVDJXTjZ3UkdpYmdv?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-19T08:52:07Z",
-      "summary": "在尼日利亚伊巴丹大学（UI）举办的营销研讨会上，专家呼吁中小企业积极拥抱人工智能，以提升品牌竞争力和市场响应速度。会议指出，AI工具在客户数据分析、精准营销、内容生成和客户服务等方面能显著降低成本并提高效率。中小企业应从小规模试点开始，逐步将AI融入品牌战略，同时关注数据隐私和员工技能培训。专家强调，在数字时代，忽视AI应用将导致企业被市场淘汰。"
+      "publishedAt": "2026-07-19T14:34:29Z",
+      "summary": "尼日利亚一个民间团体发出警告，指出生成式AI工具可能被用于干扰即将到来的大选。这些工具能批量制造逼真的虚假信息、深度伪造视频和误导性宣传，从而操纵选民情绪。团体呼吁政府立即出台法规，要求平台标注AI生成内容，并建立快速响应机制以维护选举公正。"
+    },
+    {
+      "title": "Current AI wants to build a free World Wide Web for artificial intelligence, and it has $400 million to start - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QR1hfT1hHREt0cnRYaEJjS0xWSGRmZlVfMEM2S0ZadS1TczBUVmRCenkxVEgtbF9RNHhhMWtzdDFDRTRkVXcwcXFGR3JCOTRpak5udXdkNHVnTDVEa0NNblJBeFJDa09sTlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-19T14:14:50Z",
+      "summary": "非营利组织Current AI宣布启动一项雄心勃勃的计划：构建一个免费、开放的“人工智能万维网”，旨在打破科技巨头对AI资源的垄断。该机构已获得4亿美元初始资金，将用于开发开源模型、数据基础设施和跨文化AI应用，确保全球用户平等接入AI技术，避免数字鸿沟加剧。"
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-19T14:00:00Z",
+      "summary": "非营利组织Current AI正加速推进其“AI万维网”愿景，目前已取得显著进展：其平台支持跨设备无缝运行，并在AI聊天等场景实现多语言、多文化适配。该组织强调不遗漏任何文化背景，通过开源协作让更多社群参与AI建设，致力于打造真正普惠、包容的新一代人工智能基础设施。"
     }
   ]
 }
