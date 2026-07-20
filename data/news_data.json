@@ -1,62 +1,76 @@
 {
-  "updatedAt": "2026-07-20 05:31:50 UTC",
-  "totalArticles": 8,
+  "updatedAt": "2026-07-20 08:37:02 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "Symposium on International Law and Artificial Intelligence in Armed Conflict: Introduction - Opinio Juris",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbE9WdmFnX29tTXc0dVltdTk4b1BJNVotUFRkYzJpcFFRMWJ0Zjl2dVRjSFVLOW9qbnBueldCVC1TOWZZdi0tcGxKdWNaRXhEaGZBeWd6S2VVaG1NRVZHSWhIXzVfNmdMR1lRTlI4T1F6cmFfcS02WUxieGhhTEt5Q0NYLV9fNzhxSUdidm91ZzRyeTd5LWlETXdvUVVDWTFrZ0FfbVVueEY1d1JWdXdkaURoVFF3aFBuTjR6eW5SY04wdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-20T08:00:28Z",
+      "summary": "国际法与人工智能在武装冲突中的应用研讨会近日召开。会议聚焦AI技术在军事行动中引发的法律与伦理挑战，包括自主武器系统的责任归属、国际人道法的适用性等问题。专家指出，现有国际法框架需调整以应对AI带来的新威胁，并呼吁建立更严格的监管机制。该研讨会为制定AI军事应用的法律规范提供了重要参考。"
+    },
+    {
+      "title": "CuspAI raises £334m and launches AI Materials Foundry - UKTN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR3NSa3FIblJXSGhGVDRyMGRZN1ByNjZTQkFKY2tXdzM2WUZRZERwM0ZqNnBFX1BldTlPaGktdW1iZ3FrOUYtcktHQnZhR3phY3FNdmpDSXhTUFN6TS01ekNpM2xqbHl0cFY2cXBFUE9BR0Y2OEtVRk1yNlQwaXRNVjV6V3h4bUxfc21sYXpjUi1IZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-20T08:00:14Z",
+      "summary": "CuspAI公司成功融资3.34亿英镑，并同步推出AI材料研发平台“AI Materials Foundry”。该平台利用人工智能加速新材料的设计与发现，有望在电池、半导体等领域实现突破。此次融资将用于扩展平台功能及商业化应用，标志着AI在材料科学领域的深度渗透，为工业材料创新注入新动力。"
+    },
+    {
+      "title": "AI-altered images on birdwatching forums putting research at risk - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0RYZHhncWU1bGVyU2tKaVR2UFA4aE00RFdtd1B2VTFDWUoyUElKRElMQ0ZaYnl0bHg1SlRyRDVtYTRHN1RuZWx0emU3WmRFaU1Qa3NCOWd0SEJXZU1IRVl0Mk9QemhLYTlGRFMtU0xiUzU1UDBsTlgxbWdQSUFYOVVKWDJEZlVDWDlLRllmYXliU1dwRml2ZWtjbXJnLXBWOWZ3VWxwOU93bkxoM2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-20T07:50:00Z",
+      "summary": "《卫报》报道，观鸟论坛上出现大量AI生成的鸟类图像，这些逼真的虚假照片正在误导科学研究。研究人员担忧，AI伪造的鸟类观察数据可能破坏物种分布记录和迁徙研究，甚至导致错误保护决策。专家呼吁平台加强审核，并开发检测AI图像的算法，以维护生态研究的严谨性。"
+    },
+    {
+      "title": "AI and The Future of Work: Artificial Intelligence Is Expanding Organizational Intelligence Beyond Human Limits - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdWNWNGphb3FpOVZrakxrVnZHYnZLSm96Q2MxSXphdUgzaE13MzlLZW85SmY1ckY4VFhDQlMwZS1TVDBlbUlIQ2RKQ3Z5dlFzNndSdm9nbTB1d3VJMERHbHdwaXg4bWpXUnhJc1FZQnZwc1VLaC16QkpYMlpUdkFLM09sUHdoR01sRnpWUkJ5LWY5bUViM3FsN3ZEUFlUVmRpSGMwNkNCV2JqOVJUbElRUmZURU5OMUtjWkw0NUZIX0xYVWNsUV9zNkVhaC1KWDVieFR4enNva3BCN3JUSllZZ1JBeWNFWlU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-20T07:22:55Z",
+      "summary": "人工智能正在超越人类极限，扩展组织智能。通过自动化数据处理、模式识别和决策支持，AI赋能企业优化运营、提升创新能力。专家认为，未来工作模式将人机协作，AI承担重复性任务，人类专注于战略与创意。组织需重新设计流程以充分利用AI潜力，这或将重塑商业竞争格局。"
+    },
+    {
+      "title": "If the person who coined the word \"AI (Artificial Intelligence) Safety\" actually says, \"AI cannot be.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42Z1VaTTVEa3FZb0ZrOXZmeU9wYktQMDJ2ZmFxSlBvb0o3V1lCSzRaVzM3clN0SG9KdFYtNm1WQnZGRG95UWlsTUFrQ28zYk91MVd6Y0FR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-20T06:58:30Z",
+      "summary": "提出“AI安全”一词的学者最新表态引发关注。他认为AI无法完全受控，其固有风险难以消除，即使安全研究也无法确保绝对可靠。这一观点挑战了当前AI安全研究的乐观预期，警示需警惕技术失控风险，并呼吁在AI发展初期即嵌入伦理与安全约束，避免不可逆后果。"
+    },
+    {
+      "title": "A study found that artificial intelligence (AI) can predict the risk of death of patients and whethe.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OaVVQUl9jU1RDVVk5ZkxuTXNmYkhfTG80VXBVYzVSQVlmaUVJQkN3QzJwZngzeW9Nb3ZuVEt2TUpiOWVFOEg1RzVtN0tEcTQzX1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-20T06:23:43Z",
+      "summary": "一项新研究表明，人工智能可精准预测患者死亡风险及治疗结果。AI模型通过分析电子健康记录、影像数据等，能识别出传统方法难以发现的危险信号。该技术有望辅助医生提前干预、优化治疗方案，从而降低死亡率。不过研究者也指出，模型仍需在更大规模临床数据中验证其可靠性。"
+    },
+    {
+      "title": "AI SEO: How Artificial Intelligence Is Changing Search Engine Optimization - Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLUFRZnBUR3V5VVdKcHlTR0pMbkRGR1YtNlBGYmIyMUNwNDV3YUcyMHlORVJ1WEZSQ1hvRUlNRlpiVk14eTBQdkpnc1ZyMENKbl9DbVhMcDR0R2l6VTFGRmdiT0o3MG5LSXc2MkVqbXd6d0Z0cVQwenFQVlpzOEppVnYzSV9nTXdpbTRNMnAxUDJlcjAtc3g1VkluSVpSV0RfOGt1M2V3aTgzb0ZVczdRb1hoem5waUt0b05tT3dQZ3Q?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-20T05:48:53Z",
+      "summary": "人工智能正在深刻改变搜索引擎优化（SEO）领域。AI工具能够分析用户意图、生成高质量内容、自动化关键词策略，并实时优化网页排名。专家指出，传统的SEO技术面临迭代，未来将转向以AI驱动的内容策略和预测分析。企业需掌握AI SEO方法以在搜索竞争中保持优势。"
+    },
     {
       "title": "A service that allows domestic artificial intelligence (AI) semiconductors to be used directly in th.. - MK - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81WHl4RFFQb1c1SmY0dC10b3owYUZjTm1GYmltYmxOSDRyYkxzX0VmZUlWYjljTWxfY3JkVFNob002NzU5bmFCeGRNdw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-20T05:15:13Z",
-      "summary": "韩国媒体《每日经济》报道了一项新服务，允许用户直接使用国产AI半导体。该服务可能旨在降低对外部芯片的依赖，支持本土AI芯片的发展，为企业和开发者提供直接的硬件访问能力，以推动韩国AI生态系统的自主可控。具体技术细节尚未披露，但此举被视为韩国强化AI基础设施的重要举措。"
+      "summary": "韩国推出新服务，使企业可直接在云端使用国产AI半导体。该服务旨在降低对海外芯片的依赖，支持本土AI产业链发展。用户可无需自建硬件，按需调用国产AI芯片算力进行模型训练与推理。此举预计将提升韩国AI产业自主性，并推动本土半导体生态的成熟。"
     },
     {
       "title": "Sizzle, a manufacturing artificial intelligence (AI) conversion solution company, announced on the 2.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VbDIyekZldS1NTlJia0VFVFYzbHJuekVYd043dTNQdk9OdXhJaUx0dUN6YTNPZHV1c1JkQ19KM0psU3RJenJMZXdXUQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-20T04:38:59Z",
-      "summary": "制造业AI转型解决方案公司Sizzle于本月2日宣布重要进展。该公司专注于为传统制造业提供AI驱动的数字化转换方案，帮助工厂实现智能化升级。具体消息可能涉及新产品发布、融资或客户合作，旨在提高生产效率、减少停机时间并优化供应链。Sizzle的技术核心在于将AI与现有制造流程深度融合，提供可落地的转化服务。"
-    },
-    {
-      "title": "Al-altered images on birdwatching forums putting research at risk - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0RYZHhncWU1bGVyU2tKaVR2UFA4aE00RFdtd1B2VTFDWUoyUElKRElMQ0ZaYnl0bHg1SlRyRDVtYTRHN1RuZWx0emU3WmRFaU1Qa3NCOWd0SEJXZU1IRVl0Mk9QemhLYTlGRFMtU0xiUzU1UDBsTlgxbWdQSUFYOVVKWDJEZlVDWDlLRllmYXliU1dwRml2ZWtjbXJnLXBWOWZ3VWxwOU93bkxoM2c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T04:00:00Z",
-      "summary": "据《卫报》报道，观鸟论坛上出现大量AI修改的鸟类图像，对科研造成干扰。这些伪造的图片可能误导专家对鸟类分布、迁徙及濒危状态的判断，增加研究错误风险。技术层面，AI生成图像的逼真度不断提高，使得人工和算法鉴别都变得困难。这一现象凸显了AI滥用对专业社群和数据可靠性的威胁，也引发了对内容验证机制的讨论。"
+      "summary": "制造业AI转型解决方案公司Sizzle宣布推出新产品，帮助工厂快速实现智能化升级。该方案集成机器视觉、预测性维护与生产调度优化，可兼容现有设备。Sizzle表示其AI系统能提升生产效率20%以上，并减少停机时间。此举将助力中小企业低成本迈入智能制造时代。"
     },
     {
       "title": "More than 1,100 firms unveil AI innovations at Shanghai conference - AnewZ",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEJvWlBQQVRxNzNyNzhBR1FveV96N2lkSE9iV3BIV0lHQWZ1N2J5VDh5YmVVMjFQczE5RWdjc29DSFRCbk9UUG1xeFVrRHNGUzFOS0FtbWsxS2QtSVBmT2RjQUpBdk1CdVhSSnRfWFJTNnBXb0p6LVhDN21RZzVvT29nZXFjSjk0d1NZMElEYXY2S3FYT1dqRmU3OGM0RlRseFU4?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-20T03:12:00Z",
-      "summary": "在上海举行的AI会议上，超过1100家企业展示了最新的AI创新成果。会议涵盖大模型、自动驾驶、机器人、医疗AI等多个前沿领域，展示了中国AI产业的规模化应用和商业化进展。此次盛会为全球AI技术交流与产业合作提供了平台，也反映出中国企业加速AI落地的趋势，尤其是在工业、城市治理和消费场景中的实际部署。"
-    },
-    {
-      "title": "Has AI changed your life in unexpected ways? The ABC wants to hear from you - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVE1fSzNDZmRaN2l3N3hsVzkxLU5KSVZLb3JOcV9JTlhMZXFDaTg3T2lPcXVjdHBsRVIteXY3SmtpXzVrT1pyWEgwMzN5eGQtYjhzYmpJY2RJelRuS3hFNzU2bllmWlRaRkNKXzdWRzZnZXhaTjdiRF9FSzNQNEZJcmVlZ29jYU12R1J6eEtST0xHSUlOTmc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T02:45:45Z",
-      "summary": "澳大利亚广播公司（ABC）向公众征集AI如何以意外方式改变生活的故事。该活动鼓励用户分享AI在日常工作、学习、社交或娱乐中带来的非预期影响——无论是正面帮助还是潜在问题。通过收集真实案例，ABC希望展示AI对社会微观结构的渗透，并引发对技术伦理、隐私和依赖性的公共讨论。此举体现了媒体对AI影响深度追踪的兴趣。"
-    },
-    {
-      "title": "Alibaba, one of China's leading artificial intelligence (AI) companies, has announced that it will s.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GNGZvVmxaNFFSbDFIYVRQT3VqVzVTZjBPS1VlOVBvMFZkcjV4ZlJ5TVUzT1N3SUhpZ1M3bEdQaUlHR2FDM2J1Sm42SQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T02:17:16Z",
-      "summary": "中国领先的AI公司阿里巴巴宣布将采取重要行动。根据先前报道，阿里巴巴可能在开源大模型、云计算AI服务或芯片自研方面有新策略。作为国内AI领军企业，其动向往往影响行业走向。具体消息可能涉及通义千问的升级、企业级AI解决方案或与国际企业的合作。阿里巴巴正加速AI技术从实验室到商业场景的转化，巩固其技术护城河。"
-    },
-    {
-      "title": "AmpliTech Group Joins AI-RAN Alliance to Advance Artificial Intelligence Wireless Networks - The Fast Mode",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSlVDS1dfTkNrSl84VzZWY0puNF96MGZ0eFdpb0VaTWRUTmI1R1dGb0ZPZ1cwMkd1djdvQzBQMTVXTlVMUnNUT0h1c1BiUXJ1akxoV3NyVHpRSUFNeEFEWGw3d2hoQ1NVUDZUaTdNWWpaTjVPbUVid1ZLc2xKbVQ3SVFlUzR3Z2lHenVSWTdLdjNnVnBZMUtpQ3QxY3lSZEtURXphNlZrRnZZbnFfZklGaTZ5cDJCR3ZUdTFfeElNR3JkZEtLRk9lTlhnUmJ2RlJZeWZDWGNsMUs0UUx6VFE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-19T23:57:13Z",
-      "summary": "AmpliTech Group宣布加入AI-RAN联盟，致力于推动人工智能无线网络技术的发展。该联盟聚焦于将AI技术集成到无线接入网络中，以提升频谱效率、降低延迟并优化网络自动化。AmpliTech作为射频和微波组件供应商，其加入将为联盟提供硬件支持，推动AI驱动的5G/6G网络架构演进。此举有助于构建更智能、自适应的通信基础设施。"
-    },
-    {
-      "title": "Go master Shin cracks AI barrier with win over KataGo, sets up series decider - KED Global",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtc2dxaTl2dUNKVUlWblBEQW0zZElIamRTeGRfOW1PRTZDRW9RSE85NG0zcjdwQzNQcGlBRW8xU3I2Zy1RRHNTTEhUeVdKdjdYQjVuY09DTE8yamlFWGl2c1BCOEM3d1NfZzhtTll0QVNkcG4xNXJYOWxCeWlmTTg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-19T23:38:04Z",
-      "summary": "韩国围棋高手申真谞在对阵AI KataGo的比赛中取得胜利，打破了AI在围棋领域的统治壁垒，并使得系列赛进入决胜局。KataGo作为顶级开源围棋AI，此前几乎无人能敌。申真谞的胜利不仅展现了人类棋手的创造力与深度策略，还揭示了AI在特定局面下的弱点。这一结果重新激发了人机博弈的讨论，也为围棋AI的改进提供了新方向。"
+      "summary": "上海人工智能大会吸引1100余家企业展示最新AI创新成果。参展范围涵盖大模型、机器人、自动驾驶、医疗AI等前沿领域。大会期间发布多项行业标准与合作项目，展现中国AI产业的蓬勃活力。参会者普遍认为，AI正加速从技术研发转向规模化应用落地。"
     }
   ]
 }
