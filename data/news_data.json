@@ -1,118 +1,76 @@
 {
-  "updatedAt": "2026-07-20 19:23:12 UTC",
-  "totalArticles": 16,
+  "updatedAt": "2026-07-21 01:28:01 UTC",
+  "totalArticles": 10,
   "articles": [
     {
-      "title": "AI-altered images on birdwatching forums putting research at risk - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0RYZHhncWU1bGVyU2tKaVR2UFA4aE00RFdtd1B2VTFDWUoyUElKRElMQ0ZaYnl0bHg1SlRyRDVtYTRHN1RuZWx0emU3WmRFaU1Qa3NCOWd0SEJXZU1IRVl0Mk9QemhLYTlGRFMtU0xiUzU1UDBsTlgxbWdQSUFYOVVKWDJEZlVDWDlLRllmYXliU1dwRml2ZWtjbXJnLXBWOWZ3VWxwOU93bkxoM2c?oc=5",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21T00:12:24Z",
+      "summary": "Anthropic里程碑式的15亿美元版权和解案获得最终批准。该和解虽然解决了一起具体诉讼，但并未解决AI模型训练中使用受版权保护作品的更广泛争议。这一裁决为AI行业版权纠纷提供了重要参考，但关于“合理使用”与版权侵权的根本分歧依然存在，未来更多类似案件或将对AI训练数据合法性产生深远影响。"
+    },
+    {
+      "title": "Composition Is the Cake, Everything Else Is Frosting - No Film School",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xY09XZy05eWIyaEtQMEJCTFJxOTQ3Z0ZJQUU0RWlidDUwX0pQUmFXNXRzQnhVOTU0cS1XQ2Vlai1qYzBxOVI2WnBwUGFYMThoNFdRX2tORjNQMEhh?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-20T18:31:00Z",
-      "summary": "《卫报》报道，观鸟论坛上出现大量由AI生成的修改图像，这些虚假记录误导了鸟种分布和迁徙数据，对鸟类学研究和生态保护构成严重风险。专家警告，AI图像伪造正在干扰公民科学项目，需要建立鉴别机制和报告系统以维护数据真实性。"
+      "publishedAt": "2026-07-20T23:16:24Z",
+      "summary": "No Film School发表观点文章，强调构图是电影制作的基石，其他元素皆如糖霜般点缀。文章认为，无论技术如何进步，视觉叙事中画面搭建、空间安排和视觉平衡始终是核心。对于影视创作者而言，扎实的构图能力比炫技更重要，它决定了作品的基本质量和观众的沉浸感。"
     },
     {
       "title": "Head of US AI safety agency resigns - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMl9UaTNLMHV0QmlCSkNjQXhIb3JZTVBYZHhPTVNZUURJb1UwUnZvazVGNXo2cU9FVmx4VE9UV2ZQZUxpeWFZTFZtOVQxNGJlaHRkWmNoNVByclhUUmNuX1FVczRSTHE2V1d2c2pnZkgzTzNUWkJId083ZUI1OFBTYTVyaw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-20T17:50:35Z",
-      "summary": "路透社消息，美国人工智能安全研究所（AISI）负责人宣布辞职。该机构负责制定AI安全标准和评估模型风险，其领导层变动引发外界对美联邦AI监管连续性的担忧。分析认为，这可能影响即将出台的AI安全政策与行业合规进程。"
+      "publishedAt": "2026-07-20T22:23:42Z",
+      "summary": "美国人工智能安全研究所（AISI）负责人宣布辞职，这是该机构短期内再次出现高层变动。AISI负责制定AI安全标准与评估模型风险，但其领导层的不稳定可能影响美国在AI治理领域的政策连贯性与国际协调能力。目前继任者尚未公布，行业对监管方向的不确定性有所增加。"
     },
     {
-      "title": "Jeff Bezos and UK government invest in £2bn British startup CuspAI - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlhiTE5CTFVLYjZiRk40ZU9ROTFZSUFkVGQ5VHA2enNjcmJaSlJHRVRtZzdRT2pYem01NHZydHpiUlEtV0pnV29HMVVwRUVreXNyZm9UYVYtazBhZzUyVGdwVlJ3ejVVOFZiZVVBaDdsTFFrYTlYQ0pPeUR4RFl4cUE1c2ZYdTE4OURwcmw5dUktdEljcF85MF82M0kwM3dTekxyY3Y2VXhFbGxfX2tMYWdn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T17:49:00Z",
-      "summary": "英国AI初创公司CuspAI获得20亿英镑投资，投资方包括杰夫·贝佐斯和英国政府。CuspAI专注于开发下一代材料发现平台，利用AI加速新材料研发。此次融资规模创欧洲AI领域纪录，旨在推动可持续材料和清洁技术突破。"
-    },
-    {
-      "title": "Music Industry Proposes New A.I. Labels to Tell Listeners How Songs Are Made - EURweb",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBham5HV3RYdmJMenR0bEt3SUZRZWRIelgzNk5OeXltTjhxXy1oR2VXWFZ4QUJTaVpRRmVYcER4UmRnOTlMczRTSnFCXzhiT3cyQ0tTc2NWN29GdlhTN1AwV0h4S1VIS1E3RGc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T17:43:21Z",
-      "summary": "音乐行业提出新AI标签方案，要求平台明确标注歌曲哪些部分由AI生成或辅助创作。该提议旨在提高透明度，帮助消费者区分人类原创与AI协作作品，同时保护艺术家版权。此举被认为是应对AI音乐泛滥、维护行业伦理的关键举措。"
-    },
-    {
-      "title": "AI company hit by hack entirely carried out by artificial intelligence - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTW9NVEVFdUVXODJmYzJBNjZBX25CdDMyWGJUTzNHQzhHUGM2ZDY5dnZVWDBzaV9tNWJpY0M0c1lXa25sN2pmRG1kS3RHX2ZxdGFfcERjeG82aEtDcks3Ym1VOE0wUUdHaE9CX2E5YnZ1SkQ0ejdNcm13TjhpQkh2RHh4QmFEM1R4ZGZ5ckxmVjV0dHZBdFY1LUFfQS1ET2FqWWIyQm14Z2pjM1JMRk5uaGRlaFRIUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T17:18:00Z",
-      "summary": "一家AI公司遭遇完全由人工智能执行的网络攻击。黑客利用生成式AI编写恶意代码、绕过防御并自动适应安全措施，实现全流程自动化攻击。该事件凸显AI赋能的网络威胁正在进化，企业需重新评估AI安全防护策略。"
-    },
-    {
-      "title": "Got $1,000 to Invest? Here Are 2 Magnificent Artificial Intelligence (AI) Stocks Down 12% to 30% to Buy Hand Over Fist Before July Is Over - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZWJUQklTN0pyX2c4S3ZRSUllVmhkV3dBYmRFM3JkVHU4ODZzZnpDdnVXY1VwTkJPRTF4ZXR6NmhQM0JjSHU0alRyZnUzdFVEeFhxMHp2Q2V0S0NVZXNudnNXY1hXX0VySG1ORnRfMENWSnZrb2JyMjFzWklLQy0tS1JYRHZFSGxiZjNz?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T17:15:00Z",
-      "summary": "雅虎财经建议投资者关注两只因市场回调跌幅达12%至30%的AI股票，认为这是买入良机。分析指出，这两家公司在生成式AI和云基础设施领域具有核心竞争优势，当前估值提供长期增长潜力，适合在七月底前分批建仓。"
-    },
-    {
-      "title": "State AGs are not waiting for new regulations to exercise authority over AI use - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc2JMaXd2T0NfQzd0RkpnOHpiNVVBNlhVZlByb2dHN20zUXkzUnFZS1FPMWJqeTc4SmFEVWxUSFJiMV9kME4xYWVydmRrUkVMSkp4SUtwUGpwdEh3d2R1Tkw2Z0xURE1HNjJ6S3ZLMnFNaGVSbGJWb1MxT1lJVW1fMGFHOTAxSUE0U3U2RW8yNGwtd3pmOW14ejA3NHFTQkFXQlRreU1jRHZpTjl5aGhBbTU1emtNQndZWXRKb04yT2lmMWJVVzRxYVJkZlEzQXVIZHc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T16:26:57Z",
-      "summary": "路透社报道，美国多州总检察长正在现有法律框架下积极行使对AI使用的监管权力，而非等待联邦新法规出台。他们已针对算法歧视、深度伪造和消费者保护等问题发起调查和诉讼。此举加速了地方AI治理实践，并可能推动全国性政策协调。"
-    },
-    {
-      "title": "AI in 2026: Smarter Models, Harder Questions - USC Viterbi School of Engineering",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2hGWHpTMDd3YWtGWnMzU1NvTFhMY2dIY2o5XzY3bUpac3lnT182ZGIzamVwV21IYjZWYUlseXdKQjRITDJtdW4zdms1YUd6UjRsYzA5REpHT3dqQlhVNkFERFZTb1A3TVJTbV9xa1JiMWxRSGpXVFZDQ3BIWXJ3VmJ1M1hIRklnSUJyWGJPTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T16:07:30Z",
-      "summary": "南加州大学预测，到2026年AI模型将变得更加智能，具备更强的推理和自主能力，但同时也面临更棘手的挑战：包括可解释性、偏见控制、安全对齐和伦理决策。报告强调，未来两年AI研究需要从追求性能转向解决这些“硬问题”才能实现可靠部署。"
-    },
-    {
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "title": "Trump’s latest AI czar has already resigned",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T15:45:00Z",
-      "summary": "Adobe相机应用Project Indigo新增AI功能：不仅能用AI智能移除照片中的多种背景，还能基于构图、曝光等标准对照片进行自动评价并提供改进建议。该功能旨在帮助用户实时提升拍摄质量，标志着AI从工具辅助向主动创作指导的演进。"
+      "publishedAt": "2026-07-20T22:21:04Z",
+      "summary": "特朗普政府最新任命的AI“沙皇”——AI标准与创新中心（CAISI）主任——在上任后迅速辞职，延续了该职位的“旋转门”现象。此前David Sacks已离职。频繁的人员更替反映出美国政府在AI政策制定、标准协调和执行层面面临挑战，也可能削弱行业对政府AI治理信心的稳定。"
     },
     {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T15:23:06Z",
-      "summary": "YouTube更新变现政策，明确禁止AI生成的“垃圾内容”（AI slop）和令人不适的视频获得广告收入。新规通过详细定义低质量、误导性或自动化生产的内容类型，打击利用AI批量生成视频骗取流量的行为，以维护平台内容质量和创作者生态公平。"
-    },
-    {
-      "title": "AI is writing, acting and producing China’s minidramas. It’s shaking a $14 billion industry. - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2FuZlgxWm14YU56QkhaQVZmLWdBclpocEVaU2VjV2VvdEFvQ0ZXWUJWY0NBT3lyajY1QmRJTnA5TEE3djRGSWJCdU92cDNFOWVCZEhZN3dVYlBIc01oLTNoSXg0Y1Z4M25wU1NRSnhfRk5MRXMySDlhXzFROU1tRlZ0M0pCNEprMHcwdTZuRWFBX2FMZ0RIcUdVSFN5bjdZSEgycUxLT1FOSWlTeHVFTjhNZTdaNEk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T15:15:15Z",
-      "summary": "据NBC News报道，人工智能正深度渗透中国微短剧产业，从剧本创作、演员表演到后期制作全面介入。AI生成的内容大幅降低了制作成本，提高了产出效率，使这一价值140亿美元的行业格局发生剧烈变化。技术要点在于AI能够模拟人类情感和剧情逻辑，实现自动化编剧和虚拟角色表演，但同时也引发了关于创意版权和就业替代的讨论。"
+      "publishedAt": "2026-07-20T21:21:15Z",
+      "summary": "谷歌母公司Alphabet正研发新型AI芯片，旨在大幅提升Gemini大模型的运行效率。新芯片针对Transformer架构优化，降低推理延迟和功耗，以应对大规模AI部署的成本压力。此举表明谷歌正从硬件层面强化其在生成式AI领域的竞争力，减少对英伟达等外部芯片的依赖。"
     },
     {
       "title": "IREN, Hut 8 Soar On AI Data Center Deals, Lead Neocloud Rally - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU05ORVFnWHBZME9uemNkNVZRTHR1NWdnUWVnZjE3Vk02TmRhRnZlLUVfbDI5NkJ0MERHUWNMdEY1TTU4Uk9sdXJUMlNqMTFyX3F1Y2gyV19pU1VGWmJDQUVidzJab04zckpfaFFLb1I4YUpTV0NyLUhCYWYyOTlrRWgzUm0zUHhYRHNUUGFHWFczM3N2MEw2YnI3VXdrOEc1d3ZBT0F4MVcwM0k?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-20T14:25:00Z",
-      "summary": "Investor's Business Daily指出，IREN和Hut 8两家公司因签署AI数据中心合作协议而股价大幅飙升，领涨Neocloud板块。这些交易表明，传统加密货币矿企正加速转型为AI算力服务商，利用现有电力基础设施和GPU资源提供数据中心托管服务。技术要点在于将能源密集型挖矿设施改造为支持AI训练与推理的高性能计算平台，成为市场新热点。"
+      "publishedAt": "2026-07-20T21:19:00Z",
+      "summary": "加密货币矿企转型AI数据中心的趋势持续升温，IREN和Hut 8因签署大型AI数据中心合作协议股价大涨，领涨“Neocloud”概念股。这些公司利用现有电力和基础设施优势，为AI客户提供高性能计算服务，显示市场对AI算力基础设施需求旺盛，传统矿企的商业模式正发生深刻转变。"
     },
     {
-      "title": "China's Moonshot AI halts subscriptions for Kimi K3 after users surge - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN3hZRVc4em5OZ0ROdjY5QlJuUm5iOHdfVXRTN0RleWFNS2RFOVVFY1FsWG9OMzlzaG14Y1l5QnhxVC1pRkVCNGxuQU4xeHFabUdRSGtKVVdfUUlOWkVQSUlUblhtOXdQZ1pKbzktcVBVYXJ0MHFKUWtxeTlHMkt0MWtEaE90WWlMeTEwZmw4VDFZakN2Qk1PTjJPamtJR0V4T2ZuNGJPRUNzNkdEUlF4c3FJc01BNDdLX0E4Rk56X25rOUh1b1lBUTJKOW5OZlhIVnVV?oc=5",
+      "title": "AI Productivity Depends on Workers, Not Just Technology - ColombiaOne.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lOWNSZ3J1MUdpR3R3dnRSTVQ0M2lCNTEtZHN5cWNKbWZ1QmhXblZ4akhDM2REM2xUQUtyYUxTbkstV3NuMEUzTnVJbFV1OWlNVXBqZHV3MGxXOWs5X09qSE44VXVfWEpIV3dlSDlna2JPSEE5ci1weA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-20T14:21:00Z",
-      "summary": "据Nikkei Asia报道，中国AI公司Moonshot AI因用户量激增，已暂停其旗舰AI助手Kimi K3的付费订阅服务。Kimi K3以其强大的长文本理解能力和开源权重策略受到追捧，导致服务器负载超限。公司表示正在紧急扩容以恢复服务，但未透露具体恢复时间。这一事件凸显了国产大模型在用户增长与基础设施投入间的平衡挑战。"
+      "publishedAt": "2026-07-20T21:01:00Z",
+      "summary": "文章指出，AI提升生产力的关键在于工人的适应与协作能力，而非单纯技术本身。即使部署最先进的AI系统，若员工缺乏培训、信任或数字技能，效率提升也难以实现。企业需要重视人机协作设计、技能再造和包容性文化，才能将AI的潜在回报转化为实际生产力增长。"
     },
     {
-      "title": "Why China’s open-weight AI model Kimi K3 is sparking anxiety in Silicon Valley - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlJnTkVuaFpUS2lJMmx0NTJ5bHl1bFVHcVY3Y29HeV91TnZyRG9YYTc0bzNNN3prYzJVTlFXTUR2cWU3LTdZSXllMkVPNzg3QkFfRUNFa2IxaXRCY3BfUXBtY3RUTEtkektxSjFDbE9SbmRUT0hpY25MYXl6bUhmYVNZMmtJdUVzbk45SzdIOXFGc1hnd056SUx5bnZraXVEdlFDRG5kMFRKbTBIYUhIY1NQMWJUQk9zWnpfUzFwZ9IBvwFBVV95cUxOR2dfd2M4Q0NzVG9oVWxjTnpuTlhCU3JLb0hpWkozdjlzR2FubkpiMXRsa19wbjFFcmxxOEJ4WHVhVUxWZHo0am1sb2ZlUlpGODE2eW1IZVB3ZnZhekJkM3dPd0E1dlRiN0dxS2NEUkkySnNzeldiYzRaQkpGR2JaWlN3WDRxMDhweWlCY2JJd0hxTGtwOVJTVjExZ01nSjdRZklybTF5XzJLbkdqYXJxa3BnaTN3SEtwNUdyYjk1WQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T14:00:12Z",
-      "summary": "南华早报分析指出，中国开源权重AI模型Kimi K3在硅谷引发焦虑。该模型在多项基准测试中性能接近甚至超越闭源竞品，且完全开放模型权重，允许全球开发者自由二次开发。技术要点在于其高效的训练策略和优化架构，使中国在开源AI生态中占据主动，可能动摇美国公司在AI领域的领先地位，引起业界对技术竞争和供应链安全的担忧。"
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T20:50:40Z",
+      "summary": "AI领域最重要的协议之一（可能指模型推理协议或通信协议）正在易用性上取得改进。新系统采用更宽松的“无状态”方式处理服务器端会话ID，类似普通网站的机制，降低了开发者的实现复杂度。这一变化有望简化AI服务集成与部署流程，加速AI应用落地。"
     },
     {
-      "title": "Nigeria needs to overhaul cybercrime strategy to counter AI threats, deepfakes - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMEpoMzNzUURhRm5XNUhnOGV4Q2lvZXBPVFNqRnMtQlpBcm1heXVTRGU5SVQtdEMtMVRacktoV0YyajdCT2lPdThvM1FDc1FYR2FsV1J3Nl9Ha1BKTWtsRFo0N0pXdXU2SklKamtKZHp4OUNrSkYwaU5raFZOSGdKNnUzRHBhczdxb0RHUU91UU1jakhsR0NSVHZYRXA1NUNaX1lTNTByZTJqZ1h1ZWxQejQyRVM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T13:55:23Z",
-      "summary": "《卫报》尼日利亚版报道，该国网络安全专家呼吁全面改革网络犯罪应对策略，以有效防范AI驱动的威胁和深度伪造技术。AI工具被恶意用于生成逼真的假新闻、虚假视频和自动化的网络钓鱼攻击，传统防御手段已显不足。技术要点包括需要引入AI驱动的威胁检测系统、加强数字身份验证以及建立跨部门协作机制，提升整体网络韧性。"
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T19:37:39Z",
+      "summary": "社交媒体平台X（原Twitter）经过一年多的重写工程，正式向全球用户发布全新重构的Android版应用。新版本采用更现代的代码架构，优化了启动速度、滑动流畅度和内存管理。此次大规模重构旨在统一平台体验，并为后续功能（如语音视频通话、支付等）奠定技术基础。"
     },
     {
-      "title": "Nvidia Stock Is Struggling in 2026, and This Magnificent Seven Stock Can Make Things Worse for the Artificial Intelligence (AI) Giant. Should Investors Hit the Sell Button? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlRuYlU1Zlk3b2dSaE03cXVONUJDRnRIWWtfZFJLVTdUODIyOS10WHQ2R3BKRmV0SExITTdpcHQ3ekJtYzJ1d0lueUpiWC1DUWRtdDBvd0R4WWVpOEJ3X2R0Smp6OUtKUjRtVzhmSXNJMTZGcWlGa2JOZHNvalRmRWNaaW16Y2Q4a2MzbFlLeXByYVJjcHA3YQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T13:30:00Z",
-      "summary": "Motley Fool分析称，英伟达股票在2026年表现疲软，而另一家“七巨头”科技公司（可能指AMD）的崛起可能进一步加剧其困境。竞争对手推出的AI芯片性能逼近英伟达，同时云巨头自研芯片降低了对外部GPU的依赖。技术要点在于AI推理场景对专用芯片的需求分化，以及超大规模客户议价能力增强。投资者需重新评估英伟达的长期护城河是否受到侵蚀。"
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T19:33:25Z",
+      "summary": "OpenAI对开源权重模型表现出担忧，引发美国是否应限制中国开源大模型的讨论。开源模型降低了AI准入门槛，但也带来滥用风险。禁止中国开源模型暴露了将AI商业化的挑战——过度限制可能削弱创新，而完全开放又可能威胁安全。美国需在监管与开放间寻找平衡。"
     }
   ]
 }

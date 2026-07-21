@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "2717",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21T00:12:24Z",
+      "summary": "Anthropic里程碑式的15亿美元版权和解案获得最终批准。该和解虽然解决了一起具体诉讼，但并未解决AI模型训练中使用受版权保护作品的更广泛争议。这一裁决为AI行业版权纠纷提供了重要参考，但关于“合理使用”与版权侵权的根本分歧依然存在，未来更多类似案件或将对AI训练数据合法性产生深远影响。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2718",
+      "title": "Composition Is the Cake, Everything Else Is Frosting - No Film School",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xY09XZy05eWIyaEtQMEJCTFJxOTQ3Z0ZJQUU0RWlidDUwX0pQUmFXNXRzQnhVOTU0cS1XQ2Vlai1qYzBxOVI2WnBwUGFYMThoNFdRX2tORjNQMEhh?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-20T23:16:24Z",
+      "summary": "No Film School发表观点文章，强调构图是电影制作的基石，其他元素皆如糖霜般点缀。文章认为，无论技术如何进步，视觉叙事中画面搭建、空间安排和视觉平衡始终是核心。对于影视创作者而言，扎实的构图能力比炫技更重要，它决定了作品的基本质量和观众的沉浸感。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2719",
+      "title": "Trump’s latest AI czar has already resigned",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T22:21:04Z",
+      "summary": "特朗普政府最新任命的AI“沙皇”——AI标准与创新中心（CAISI）主任——在上任后迅速辞职，延续了该职位的“旋转门”现象。此前David Sacks已离职。频繁的人员更替反映出美国政府在AI政策制定、标准协调和执行层面面临挑战，也可能削弱行业对政府AI治理信心的稳定。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2720",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T21:21:15Z",
+      "summary": "谷歌母公司Alphabet正研发新型AI芯片，旨在大幅提升Gemini大模型的运行效率。新芯片针对Transformer架构优化，降低推理延迟和功耗，以应对大规模AI部署的成本压力。此举表明谷歌正从硬件层面强化其在生成式AI领域的竞争力，减少对英伟达等外部芯片的依赖。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2721",
+      "title": "AI Productivity Depends on Workers, Not Just Technology - ColombiaOne.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lOWNSZ3J1MUdpR3R3dnRSTVQ0M2lCNTEtZHN5cWNKbWZ1QmhXblZ4akhDM2REM2xUQUtyYUxTbkstV3NuMEUzTnVJbFV1OWlNVXBqZHV3MGxXOWs5X09qSE44VXVfWEpIV3dlSDlna2JPSEE5ci1weA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-20T21:01:00Z",
+      "summary": "文章指出，AI提升生产力的关键在于工人的适应与协作能力，而非单纯技术本身。即使部署最先进的AI系统，若员工缺乏培训、信任或数字技能，效率提升也难以实现。企业需要重视人机协作设计、技能再造和包容性文化，才能将AI的潜在回报转化为实际生产力增长。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2722",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T20:50:40Z",
+      "summary": "AI领域最重要的协议之一（可能指模型推理协议或通信协议）正在易用性上取得改进。新系统采用更宽松的“无状态”方式处理服务器端会话ID，类似普通网站的机制，降低了开发者的实现复杂度。这一变化有望简化AI服务集成与部署流程，加速AI应用落地。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2723",
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T19:37:39Z",
+      "summary": "社交媒体平台X（原Twitter）经过一年多的重写工程，正式向全球用户发布全新重构的Android版应用。新版本采用更现代的代码架构，优化了启动速度、滑动流畅度和内存管理。此次大规模重构旨在统一平台体验，并为后续功能（如语音视频通话、支付等）奠定技术基础。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2724",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-20T19:33:25Z",
+      "summary": "OpenAI对开源权重模型表现出担忧，引发美国是否应限制中国开源大模型的讨论。开源模型降低了AI准入门槛，但也带来滥用风险。禁止中国开源模型暴露了将AI商业化的挑战——过度限制可能削弱创新，而完全开放又可能威胁安全。美国需在监管与开放间寻找平衡。",
+      "fetchDate": "2026-07-21"
+    },
+    {
       "id": "2704",
       "title": "Head of US AI safety agency resigns - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMl9UaTNLMHV0QmlCSkNjQXhIb3JZTVBYZHhPTVNZUURJb1UwUnZvazVGNXo2cU9FVmx4VE9UV2ZQZUxpeWFZTFZtOVQxNGJlaHRkWmNoNVByclhUUmNuX1FVczRSTHE2V1d2c2pnZkgzTzNUWkJId083ZUI1OFBTYTVyaw?oc=5",
@@ -24436,5 +24508,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2715
+  "total": 2723
 }
