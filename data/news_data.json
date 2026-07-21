@@ -1,76 +1,97 @@
 {
-  "updatedAt": "2026-07-21 01:28:01 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-07-21 05:12:52 UTC",
+  "totalArticles": 13,
   "articles": [
+    {
+      "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFZ1S2FPMDVBX1ROcHpWa2VoZG5mdWE0dFhSMVhlek8wRFZ1MzBGMjIzVXg1YzhzN3FqWHlzUnpVdXhBSWUxLUdub3ZhNFdqUnB2cFIzTVYtZzBmM01Ud2JLV1IwVGQ5ckEwRkNMeElPZkVRNWk0cjQ5ZHZPUGNjdjl0NXhLTmZGQkEyMGdaSnpPQjREcUJZX0o5aFBhVDU5bUViXzVfSVFZT0xQUy1nbkgzczRJdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T05:00:00Z",
+      "summary": "英国《卫报》报道，研究发现AI聊天机器人提供的选举投票建议存在不准确和不可靠的问题。研究者指出，AI模型缺乏对选举法规、政策细节及地方差异的精准把握，容易生成误导性或偏见内容。他们警告，依赖AI获取投票信息可能导致错误判断，甚至影响民主进程。研究呼吁公众谨慎对待AI生成的政治建议，并加强相关监管。这一发现引发了对AI在敏感领域应用可靠性的广泛讨论。"
+    },
+    {
+      "title": "China considers tighter export controls on AI models and chips, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T04:11:00Z",
+      "summary": "据英国《金融时报》报道，中国正考虑对AI模型和芯片实施更严格的出口管制，涵盖高性能AI算法和先进半导体技术。此举旨在保护国家安全与技术优势，防止关键科技外流。此前美国已限制对华芯片出口，中国的新规可能进一步收紧技术流动，影响全球AI供应链格局。目前具体措施仍在讨论中，但已引发国际科技企业关注，担忧市场壁垒加剧。分析人士认为，这将是中美科技博弈的又一重要举措。"
+    },
+    {
+      "title": "Survey: More Than Half of U.S. Employees Now Use AI at Work | National News | U.S. News - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZlMk5HSzYzU0tMeVFsbjgxQUc4SVpNSzhoWnFVZHZTa0EzZkh0SjZGTUNHNGJMZnZXMWIyMGJWNkZNbURkTmQyN3VHdkVkbS1ua0w3RVJXQ1hWcVJzT1VJYlhQd0hWUHhFaG5BbndTbGNrZXNtbXExMTktRXBNTmFoNTFnR3BJWktsOENTXy03QUxLekNSaE5zWUtQWlRuNGNQWHk3VkpIR1RFeXFqVnZPVkZraV9FeG8w?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T04:01:00Z",
+      "summary": "《美国新闻与世界报道》调查显示，超过半数美国员工已在工作中使用人工智能，包括生成式AI工具用于内容创作、数据分析、代码编写等。AI的快速普及提升了工作效率，但同时也引发数据安全、隐私和就业替代的担忧。调查发现，年轻员工和科技行业使用率更高，而企业正加速制定AI使用政策，以平衡创新与风险。专家建议需加强培训，确保AI工具被负责任地应用。"
+    },
+    {
+      "title": "China weighs tighter export controls on AI models and chips - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURTZEhNNV8xRTlJSmtQbWZjNFRpc3dSanpRM01BZnlwT2lhbjlGMUQwTnROSWxJcDZLZ0NmSUh0dXd0aW82cWVtZ0hKMzY2LTN3dTBfR2JOVEJlNFYxejVtMzBzQmsyYlRGUUJmODM0WFJZNG1PVkZ5UEtzc2g3QTcyUlA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T04:00:43Z",
+      "summary": "《金融时报》报道，中国正评估对AI模型和芯片实施更严格的出口管制，可能针对特定先进AI系统及半导体技术，以防止关键技术泄露并维护国家安全。此举或加剧中美科技竞争，迫使全球AI企业调整供应链。新规若落地，将限制中国AI技术和产品的出口，同时影响国际科研合作。目前具体条款尚未公布，但业界已开始评估潜在影响，尤其是对高性能计算和AI大模型的出口限制。"
+    },
+    {
+      "title": "Chinese artificial intelligence company Z.AI, formerly known as Zhipu AI, has completed a massive da.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpVGtnbGJ4UVhyV2g5ZV9HazdzZWc1el9BYngyMTVBV0RYOVlpWVByVXRJUkY1UE9pb0JpaW54T2cxRUUzM0huOUdOdEM0MFk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T02:10:47Z",
+      "summary": "原智谱AI更名后的Z.AI公司宣布完成一轮大规模融资，金额达数十亿人民币，投资方包括多家知名机构。该公司专注于大语言模型研发，其产品在中文自然语言处理领域表现突出，多款模型已应用于金融、教育等行业。此次融资将用于扩大算力基础设施、吸引顶尖人才及加速技术迭代，旨在提升国产AI竞争力。Z.AI的快速发展体现了中国AI初创企业的强劲势头。"
+    },
+    {
+      "title": "China’s New AI Club: The World Artificial Intelligence Cooperation Organization - The Diplomat – Asia-Pacific",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTVCOGtaNF9OeHM5cU5JRUpZb3dmUnBvODNUaXR4Ui1rSUdsUUtvZjVSWkRPTElhN0ZRTHY5WXlxV0tGdzZlWjVWdm5nUUd2cFJZTF9CSDBPZ3E3NUhGcUF6NG43QVU2cW5zLTkzWktaVnY3c1g2TmhQeGNKVlJfdG55S3dfY1ZBdkg4V0J5enNRX3Y4djloQmpBZERob3NkcHJIbkduVDB5bGQzYXZz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T01:53:26Z",
+      "summary": "据《外交官》报道，中国发起成立“世界人工智能合作组织”（WACO），旨在构建全球AI治理与合作新平台，推动技术交流、标准制定及安全规范。该组织可能与美国主导的AI治理框架形成竞争，并强调对发展中国家的技术支援。WACO的成立显示中国在AI国际规则制定中的影响力上升，同时倡导负责任的AI发展。未来该组织将聚焦伦理指南、数据共享和应对AI风险等议题。"
+    },
+    {
+      "title": "\"Access to AI (artificial intelligence) should now be viewed as a fundamental right,\" said Yongbum K.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05VWlfMlpRQUVuSW1udTVXcWZjbzg1WklWd3h6Wi1wS01CZXVfSzFndUdmek9tUFJvRHRCSElHTXpYWXU2NHJRTFlnQUhqV284dXZv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T01:39:45Z",
+      "summary": "韩国学者Yongbum K.提出应将AI访问权视为一项基本权利，认为随着AI深度渗透生活，数字鸿沟日益加剧，确保人人平等获取AI技术至关重要。该观点引发关于AI伦理与公平性的讨论：若AI成为基础设施，政府需提供普遍接入机会，防止技术垄断造成新的不平等。同时需考虑数据隐私和算法偏见等问题。这一呼吁旨在推动全球AI治理中纳入权利保障维度。"
+    },
+    {
+      "title": "AI-altered images on birdwatching forums putting research at risk | AI (artificial intelligence) - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0RYZHhncWU1bGVyU2tKaVR2UFA4aE00RFdtd1B2VTFDWUoyUElKRElMQ0ZaYnl0bHg1SlRyRDVtYTRHN1RuZWx0emU3WmRFaU1Qa3NCOWd0SEJXZU1IRVl0Mk9QemhLYTlGRFMtU0xiUzU1UDBsTlgxbWdQSUFYOVVKWDJEZlVDWDlLRllmYXliU1dwRml2ZWtjbXJnLXBWOWZ3VWxwOU93bkxoM2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T01:30:00Z",
+      "summary": "英国《卫报》报道，AI修改的鸟类图像大量出现在观鸟论坛，干扰科学研究。伪造图片被误认为罕见物种记录，导致观鸟数据污染，影响生物多样性调查和生态保护决策。研究人员呼吁平台加强内容审核，并开发AI检测工具以识别深度伪造。此事件凸显AI生成内容对学术真实性的威胁，以及应对虚假信息在专业领域传播的紧迫性。"
+    },
+    {
+      "title": "Jeff Bezos and UK government invest in £2bn British startup CuspAI - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlhiTE5CTFVLYjZiRk40ZU9ROTFZSUFkVGQ5VHA2enNjcmJaSlJHRVRtZzdRT2pYem01NHZydHpiUlEtV0pnV29HMVVwRUVreXNyZm9UYVYtazBhZzUyVGdwVlJ3ejVVOFZiZVVBaDdsTFFrYTlYQ0pPeUR4RFl4cUE1c2ZYdTE4OURwcmw5dUktdEljcF85MF82M0kwM3dTekxyY3Y2VXhFbGxfX2tMYWdn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T01:30:00Z",
+      "summary": "英国初创公司CuspAI获20亿英镑投资，投资者包括杰夫·贝佐斯和英国政府。公司专注AI在材料科学领域的应用，通过机器学习加速新型电池材料、催化剂等的发现，降低研发成本和时间。本轮融资将用于扩大团队、建设实验室并推动商业落地。贝佐斯的参与显示对AI+材料科学前景的看好，英国政府则意在巩固本土AI创新生态并争夺技术制高点。"
+    },
+    {
+      "title": "China's Moonshot AI plans Hong Kong IPO as Kimi K3 shocks Silicon Valley - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYVh5Z1YxNWN3Q0pWdnVibkEwekJxU3NxVnU2MHB3ZlNqMS1FNXZxMGt5Ym1Relk5QzNnamNJd3VuMWxpY0VuZG1hMDVmem1yX2xReVpWc19MQTdhWC1vMkwxOVl0dTN2WTJsOWdlOUxBTEJnSm1iWm9WZ0c0SnA1SnlCNFdIQ09fTFhORDBDVUtKQ3Z0ZHpIc2NHUnlrSjFWbjkyUlYtUmRKdDBKZS1fMGU4SXRDZ1paLXRKTTF2TUJqNkRxSzRHdjF1WW1nejNlUGkxNFhtQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T00:55:00Z",
+      "summary": "日经亚洲报道，中国AI公司Moonshot AI（月之暗面）计划在香港IPO，其Kimi K3模型凭借超长上下文处理能力和卓越性能震撼硅谷，挑战GPT-4等主流模型。Kimi K3在多项基准测试中表现领先，引发国际关注。IPO募资将用于研发投入、市场扩展及生态建设，加速国际化。此举标志着中国AI初创企业正加速走向全球资本市场，并有望重塑大语言模型竞争格局。"
+    },
     {
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-21T00:12:24Z",
-      "summary": "Anthropic里程碑式的15亿美元版权和解案获得最终批准。该和解虽然解决了一起具体诉讼，但并未解决AI模型训练中使用受版权保护作品的更广泛争议。这一裁决为AI行业版权纠纷提供了重要参考，但关于“合理使用”与版权侵权的根本分歧依然存在，未来更多类似案件或将对AI训练数据合法性产生深远影响。"
+      "summary": "Anthropic 公司备受关注的 15 亿美元版权和解案获得最终批准。这一判决暂时平息了针对该公司使用受版权保护内容训练 AI 模型的单一诉讼，但并未从根本上解决生成式 AI 领域普遍存在的版权争议。业界普遍认为，该案例为后续类似案件提供了参考，但关于 AI 训练数据合规性的法律界定仍处于模糊地带，未来可能面临更多监管与诉讼挑战。"
+    },
+    {
+      "title": "Gartner predicts AI models and platforms spend to hit US$64B - ARNnet",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlNLc0NnWnlRU19PSjd0RHExVTM0NWR2LXotWFZZOWQ4blJ2XzVKVGtxMG55VXV3M0lWbGhTb1JyWElDbDJfX2ltUkp1czRLUG5hdmlieHR2YXlXNW9sQjVnSjJEQnhMaURPWFExM284MlY2ckhUY21oUnhPN3RxWDgtX1M4RmpMNjNzdUhIdE44S1JuSnBGNGt4VG1WSEl1TTdsaUs3NjZCdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-20T23:25:23Z",
+      "summary": "Gartner 预测，到 2027 年全球 AI 模型与平台相关支出将达到 640 亿美元，显示出企业对 AI 基础设施和工具的巨大需求。这一数据涵盖大模型训练、推理平台、MaaS（模型即服务）及配套软件等细分领域。随着生成式 AI 从探索期进入规模化部署阶段，企业投入重心正从基础算力转向模型优化与业务集成，预计增长主要由金融、医疗、制造等行业推动。"
     },
     {
       "title": "Composition Is the Cake, Everything Else Is Frosting - No Film School",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xY09XZy05eWIyaEtQMEJCTFJxOTQ3Z0ZJQUU0RWlidDUwX0pQUmFXNXRzQnhVOTU0cS1XQ2Vlai1qYzBxOVI2WnBwUGFYMThoNFdRX2tORjNQMEhh?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-20T23:16:24Z",
-      "summary": "No Film School发表观点文章，强调构图是电影制作的基石，其他元素皆如糖霜般点缀。文章认为，无论技术如何进步，视觉叙事中画面搭建、空间安排和视觉平衡始终是核心。对于影视创作者而言，扎实的构图能力比炫技更重要，它决定了作品的基本质量和观众的沉浸感。"
-    },
-    {
-      "title": "Head of US AI safety agency resigns - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMl9UaTNLMHV0QmlCSkNjQXhIb3JZTVBYZHhPTVNZUURJb1UwUnZvazVGNXo2cU9FVmx4VE9UV2ZQZUxpeWFZTFZtOVQxNGJlaHRkWmNoNVByclhUUmNuX1FVczRSTHE2V1d2c2pnZkgzTzNUWkJId083ZUI1OFBTYTVyaw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T22:23:42Z",
-      "summary": "美国人工智能安全研究所（AISI）负责人宣布辞职，这是该机构短期内再次出现高层变动。AISI负责制定AI安全标准与评估模型风险，但其领导层的不稳定可能影响美国在AI治理领域的政策连贯性与国际协调能力。目前继任者尚未公布，行业对监管方向的不确定性有所增加。"
-    },
-    {
-      "title": "Trump’s latest AI czar has already resigned",
-      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T22:21:04Z",
-      "summary": "特朗普政府最新任命的AI“沙皇”——AI标准与创新中心（CAISI）主任——在上任后迅速辞职，延续了该职位的“旋转门”现象。此前David Sacks已离职。频繁的人员更替反映出美国政府在AI政策制定、标准协调和执行层面面临挑战，也可能削弱行业对政府AI治理信心的稳定。"
-    },
-    {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T21:21:15Z",
-      "summary": "谷歌母公司Alphabet正研发新型AI芯片，旨在大幅提升Gemini大模型的运行效率。新芯片针对Transformer架构优化，降低推理延迟和功耗，以应对大规模AI部署的成本压力。此举表明谷歌正从硬件层面强化其在生成式AI领域的竞争力，减少对英伟达等外部芯片的依赖。"
-    },
-    {
-      "title": "IREN, Hut 8 Soar On AI Data Center Deals, Lead Neocloud Rally - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU05ORVFnWHBZME9uemNkNVZRTHR1NWdnUWVnZjE3Vk02TmRhRnZlLUVfbDI5NkJ0MERHUWNMdEY1TTU4Uk9sdXJUMlNqMTFyX3F1Y2gyV19pU1VGWmJDQUVidzJab04zckpfaFFLb1I4YUpTV0NyLUhCYWYyOTlrRWgzUm0zUHhYRHNUUGFHWFczM3N2MEw2YnI3VXdrOEc1d3ZBT0F4MVcwM0k?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T21:19:00Z",
-      "summary": "加密货币矿企转型AI数据中心的趋势持续升温，IREN和Hut 8因签署大型AI数据中心合作协议股价大涨，领涨“Neocloud”概念股。这些公司利用现有电力和基础设施优势，为AI客户提供高性能计算服务，显示市场对AI算力基础设施需求旺盛，传统矿企的商业模式正发生深刻转变。"
-    },
-    {
-      "title": "AI Productivity Depends on Workers, Not Just Technology - ColombiaOne.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lOWNSZ3J1MUdpR3R3dnRSTVQ0M2lCNTEtZHN5cWNKbWZ1QmhXblZ4akhDM2REM2xUQUtyYUxTbkstV3NuMEUzTnVJbFV1OWlNVXBqZHV3MGxXOWs5X09qSE44VXVfWEpIV3dlSDlna2JPSEE5ci1weA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T21:01:00Z",
-      "summary": "文章指出，AI提升生产力的关键在于工人的适应与协作能力，而非单纯技术本身。即使部署最先进的AI系统，若员工缺乏培训、信任或数字技能，效率提升也难以实现。企业需要重视人机协作设计、技能再造和包容性文化，才能将AI的潜在回报转化为实际生产力增长。"
-    },
-    {
-      "title": "AI’s most important protocol is getting a little bit easier to use",
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T20:50:40Z",
-      "summary": "AI领域最重要的协议之一（可能指模型推理协议或通信协议）正在易用性上取得改进。新系统采用更宽松的“无状态”方式处理服务器端会话ID，类似普通网站的机制，降低了开发者的实现复杂度。这一变化有望简化AI服务集成与部署流程，加速AI应用落地。"
-    },
-    {
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T19:37:39Z",
-      "summary": "社交媒体平台X（原Twitter）经过一年多的重写工程，正式向全球用户发布全新重构的Android版应用。新版本采用更现代的代码架构，优化了启动速度、滑动流畅度和内存管理。此次大规模重构旨在统一平台体验，并为后续功能（如语音视频通话、支付等）奠定技术基础。"
-    },
-    {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-20T19:33:25Z",
-      "summary": "OpenAI对开源权重模型表现出担忧，引发美国是否应限制中国开源大模型的讨论。开源模型降低了AI准入门槛，但也带来滥用风险。禁止中国开源模型暴露了将AI商业化的挑战——过度限制可能削弱创新，而完全开放又可能威胁安全。美国需在监管与开放间寻找平衡。"
+      "summary": "No Film School 发表观点文章，强调在摄影与电影创作中，构图如同蛋糕本体，而光线、色彩、特效等只是表面的糖霜。文章指出，许多制作者过度追求后期技巧却忽略了基础构图原则，导致作品缺乏视觉张力与叙事逻辑。通过经典案例分析，作者呼吁创作者回归画面构成的核心，认为扎实的构图能力才是决定作品质量的关键因素，其他修饰手段仅起辅助作用。"
     }
   ]
 }

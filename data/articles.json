@@ -1,12 +1,93 @@
 {
   "articles": [
     {
+      "id": "2725",
+      "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFZ1S2FPMDVBX1ROcHpWa2VoZG5mdWE0dFhSMVhlek8wRFZ1MzBGMjIzVXg1YzhzN3FqWHlzUnpVdXhBSWUxLUdub3ZhNFdqUnB2cFIzTVYtZzBmM01Ud2JLV1IwVGQ5ckEwRkNMeElPZkVRNWk0cjQ5ZHZPUGNjdjl0NXhLTmZGQkEyMGdaSnpPQjREcUJZX0o5aFBhVDU5bUViXzVfSVFZT0xQUy1nbkgzczRJdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T05:00:00Z",
+      "summary": "英国《卫报》报道，研究发现AI聊天机器人提供的选举投票建议存在不准确和不可靠的问题。研究者指出，AI模型缺乏对选举法规、政策细节及地方差异的精准把握，容易生成误导性或偏见内容。他们警告，依赖AI获取投票信息可能导致错误判断，甚至影响民主进程。研究呼吁公众谨慎对待AI生成的政治建议，并加强相关监管。这一发现引发了对AI在敏感领域应用可靠性的广泛讨论。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2726",
+      "title": "China considers tighter export controls on AI models and chips, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T04:11:00Z",
+      "summary": "据英国《金融时报》报道，中国正考虑对AI模型和芯片实施更严格的出口管制，涵盖高性能AI算法和先进半导体技术。此举旨在保护国家安全与技术优势，防止关键科技外流。此前美国已限制对华芯片出口，中国的新规可能进一步收紧技术流动，影响全球AI供应链格局。目前具体措施仍在讨论中，但已引发国际科技企业关注，担忧市场壁垒加剧。分析人士认为，这将是中美科技博弈的又一重要举措。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2727",
+      "title": "Survey: More Than Half of U.S. Employees Now Use AI at Work | National News | U.S. News - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZlMk5HSzYzU0tMeVFsbjgxQUc4SVpNSzhoWnFVZHZTa0EzZkh0SjZGTUNHNGJMZnZXMWIyMGJWNkZNbURkTmQyN3VHdkVkbS1ua0w3RVJXQ1hWcVJzT1VJYlhQd0hWUHhFaG5BbndTbGNrZXNtbXExMTktRXBNTmFoNTFnR3BJWktsOENTXy03QUxLekNSaE5zWUtQWlRuNGNQWHk3VkpIR1RFeXFqVnZPVkZraV9FeG8w?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T04:01:00Z",
+      "summary": "《美国新闻与世界报道》调查显示，超过半数美国员工已在工作中使用人工智能，包括生成式AI工具用于内容创作、数据分析、代码编写等。AI的快速普及提升了工作效率，但同时也引发数据安全、隐私和就业替代的担忧。调查发现，年轻员工和科技行业使用率更高，而企业正加速制定AI使用政策，以平衡创新与风险。专家建议需加强培训，确保AI工具被负责任地应用。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2728",
+      "title": "China weighs tighter export controls on AI models and chips - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURTZEhNNV8xRTlJSmtQbWZjNFRpc3dSanpRM01BZnlwT2lhbjlGMUQwTnROSWxJcDZLZ0NmSUh0dXd0aW82cWVtZ0hKMzY2LTN3dTBfR2JOVEJlNFYxejVtMzBzQmsyYlRGUUJmODM0WFJZNG1PVkZ5UEtzc2g3QTcyUlA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T04:00:43Z",
+      "summary": "《金融时报》报道，中国正评估对AI模型和芯片实施更严格的出口管制，可能针对特定先进AI系统及半导体技术，以防止关键技术泄露并维护国家安全。此举或加剧中美科技竞争，迫使全球AI企业调整供应链。新规若落地，将限制中国AI技术和产品的出口，同时影响国际科研合作。目前具体条款尚未公布，但业界已开始评估潜在影响，尤其是对高性能计算和AI大模型的出口限制。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2729",
+      "title": "Chinese artificial intelligence company Z.AI, formerly known as Zhipu AI, has completed a massive da.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpVGtnbGJ4UVhyV2g5ZV9HazdzZWc1el9BYngyMTVBV0RYOVlpWVByVXRJUkY1UE9pb0JpaW54T2cxRUUzM0huOUdOdEM0MFk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T02:10:47Z",
+      "summary": "原智谱AI更名后的Z.AI公司宣布完成一轮大规模融资，金额达数十亿人民币，投资方包括多家知名机构。该公司专注于大语言模型研发，其产品在中文自然语言处理领域表现突出，多款模型已应用于金融、教育等行业。此次融资将用于扩大算力基础设施、吸引顶尖人才及加速技术迭代，旨在提升国产AI竞争力。Z.AI的快速发展体现了中国AI初创企业的强劲势头。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2730",
+      "title": "China’s New AI Club: The World Artificial Intelligence Cooperation Organization - The Diplomat – Asia-Pacific",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTVCOGtaNF9OeHM5cU5JRUpZb3dmUnBvODNUaXR4Ui1rSUdsUUtvZjVSWkRPTElhN0ZRTHY5WXlxV0tGdzZlWjVWdm5nUUd2cFJZTF9CSDBPZ3E3NUhGcUF6NG43QVU2cW5zLTkzWktaVnY3c1g2TmhQeGNKVlJfdG55S3dfY1ZBdkg4V0J5enNRX3Y4djloQmpBZERob3NkcHJIbkduVDB5bGQzYXZz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T01:53:26Z",
+      "summary": "据《外交官》报道，中国发起成立“世界人工智能合作组织”（WACO），旨在构建全球AI治理与合作新平台，推动技术交流、标准制定及安全规范。该组织可能与美国主导的AI治理框架形成竞争，并强调对发展中国家的技术支援。WACO的成立显示中国在AI国际规则制定中的影响力上升，同时倡导负责任的AI发展。未来该组织将聚焦伦理指南、数据共享和应对AI风险等议题。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2731",
+      "title": "\"Access to AI (artificial intelligence) should now be viewed as a fundamental right,\" said Yongbum K.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05VWlfMlpRQUVuSW1udTVXcWZjbzg1WklWd3h6Wi1wS01CZXVfSzFndUdmek9tUFJvRHRCSElHTXpYWXU2NHJRTFlnQUhqV284dXZv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T01:39:45Z",
+      "summary": "韩国学者Yongbum K.提出应将AI访问权视为一项基本权利，认为随着AI深度渗透生活，数字鸿沟日益加剧，确保人人平等获取AI技术至关重要。该观点引发关于AI伦理与公平性的讨论：若AI成为基础设施，政府需提供普遍接入机会，防止技术垄断造成新的不平等。同时需考虑数据隐私和算法偏见等问题。这一呼吁旨在推动全球AI治理中纳入权利保障维度。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2732",
+      "title": "China's Moonshot AI plans Hong Kong IPO as Kimi K3 shocks Silicon Valley - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYVh5Z1YxNWN3Q0pWdnVibkEwekJxU3NxVnU2MHB3ZlNqMS1FNXZxMGt5Ym1Relk5QzNnamNJd3VuMWxpY0VuZG1hMDVmem1yX2xReVpWc19MQTdhWC1vMkwxOVl0dTN2WTJsOWdlOUxBTEJnSm1iWm9WZ0c0SnA1SnlCNFdIQ09fTFhORDBDVUtKQ3Z0ZHpIc2NHUnlrSjFWbjkyUlYtUmRKdDBKZS1fMGU4SXRDZ1paLXRKTTF2TUJqNkRxSzRHdjF1WW1nejNlUGkxNFhtQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T00:55:00Z",
+      "summary": "日经亚洲报道，中国AI公司Moonshot AI（月之暗面）计划在香港IPO，其Kimi K3模型凭借超长上下文处理能力和卓越性能震撼硅谷，挑战GPT-4等主流模型。Kimi K3在多项基准测试中表现领先，引发国际关注。IPO募资将用于研发投入、市场扩展及生态建设，加速国际化。此举标志着中国AI初创企业正加速走向全球资本市场，并有望重塑大语言模型竞争格局。",
+      "fetchDate": "2026-07-21"
+    },
+    {
       "id": "2717",
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-21T00:12:24Z",
       "summary": "Anthropic里程碑式的15亿美元版权和解案获得最终批准。该和解虽然解决了一起具体诉讼，但并未解决AI模型训练中使用受版权保护作品的更广泛争议。这一裁决为AI行业版权纠纷提供了重要参考，但关于“合理使用”与版权侵权的根本分歧依然存在，未来更多类似案件或将对AI训练数据合法性产生深远影响。",
+      "fetchDate": "2026-07-21"
+    },
+    {
+      "id": "2733",
+      "title": "Gartner predicts AI models and platforms spend to hit US$64B - ARNnet",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlNLc0NnWnlRU19PSjd0RHExVTM0NWR2LXotWFZZOWQ4blJ2XzVKVGtxMG55VXV3M0lWbGhTb1JyWElDbDJfX2ltUkp1czRLUG5hdmlieHR2YXlXNW9sQjVnSjJEQnhMaURPWFExM284MlY2ckhUY21oUnhPN3RxWDgtX1M4RmpMNjNzdUhIdE44S1JuSnBGNGt4VG1WSEl1TTdsaUs3NjZCdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-20T23:25:23Z",
+      "summary": "Gartner 预测，到 2027 年全球 AI 模型与平台相关支出将达到 640 亿美元，显示出企业对 AI 基础设施和工具的巨大需求。这一数据涵盖大模型训练、推理平台、MaaS（模型即服务）及配套软件等细分领域。随着生成式 AI 从探索期进入规模化部署阶段，企业投入重心正从基础算力转向模型优化与业务集成，预计增长主要由金融、医疗、制造等行业推动。",
       "fetchDate": "2026-07-21"
     },
     {
@@ -24508,5 +24589,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2723
+  "total": 2732
 }
