@@ -1,97 +1,83 @@
 {
-  "updatedAt": "2026-07-21 05:12:52 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-07-21 08:05:59 UTC",
+  "totalArticles": 11,
   "articles": [
+    {
+      "title": "Man of his word: Pope Leo speeches declared human-authored by Australian AI detection tool - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVU4am51eVp1Rkd2a0FhclFYZUszN1ZBdER6NjhxNzNEZ1hjMzhyRkRQbG5JSndRbFJxcmZPT1hCNkduSUxGcTFEdnJxWGQ0SHFaNDJKcWQ1MmFFcnVLcUxqU0V1ZEVCUnktenhxU0J0TE9VZnYwZ0dNb3MyTUxjRHk3OHFmOXB2SkZteFNINWdEZTdoNXY3N2dnOC1XaG8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T07:12:00Z",
+      "summary": "澳大利亚一款AI文本检测工具对教皇利奥的演讲进行鉴伪分析后，认定其内容由人类而非AI生成。这一结果引发了对当前AI检测技术可靠性的讨论，凸显了区分人机文本的复杂性与技术局限性，也反映了AI在模仿人类写作方面已达到高度逼真的水平。"
+    },
+    {
+      "title": "WECANDOIT, a content marketing studio that combines artificial intelligence (AI) and its own charact.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LLUlmSTBrLTdXVzg2ektPX2dSeV92bk02Z0MtSVRhcGdSbXRRbnIxallMVWlMYkNaczg2NzV6MDBrWkpXQlM2UVJjQVJzNWh1MzZR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T07:07:39Z",
+      "summary": "韩国内容营销工作室WECANDOIT宣布将人工智能与其独特的创意风格相结合，形成一套融合AI生成与人工打磨的新型内容生产体系。该工作室旨在利用AI提升内容产出效率，同时保留品牌个性与创意核心，为数字营销领域的人机协作提供了新范式。"
+    },
+    {
+      "title": "With the development of artificial intelligence (AI), the way diseases are diagnosed and treated is - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yV2J2aW5YejhZOS0xTmJoMTh2WGJOMHI4WTR1cjFiUlYydl9nb19LMmVzZHFrR1ZWYTFaQmlrLTQtVGNkWGJLUXl2QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T07:02:04Z",
+      "summary": "随着人工智能技术的深入发展，疾病诊断与治疗方式正迎来根本性变革。AI在医学影像分析、病理识别、药物研发及个性化治疗方案制定中展现出强大能力，有望大幅提升诊疗精准度与效率，为现代医疗体系带来智能化升级。"
+    },
+    {
+      "title": "You have to use artificial intelligence (AI) yourself to see how far it is possible and what restri.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rNVAtZVFJVl9NRS1rdGtfY1JwNHR6LURxeXVWRFBfUWFUTDM2dVAzWW51dm5QNmpDU3hnTXUwUjVEbXljR3dWVzN2SnEyajE1S0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T07:01:33Z",
+      "summary": "业界专家强调，只有亲身体验人工智能工具，才能真实评估其能力边界与当前限制。通过实际使用，用户能更清晰地理解AI在创造力、逻辑推理与数据依赖性方面的优势与不足，从而更理性地将其应用于合适场景，避免过度依赖。"
+    },
+    {
+      "title": "It remains the same that artificial intelligence (AI) is a leading trend in the market, but now the - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2SDBhVnpZRmNuZXFqYUdtNTFLZEdpbnZuM2Z4SGg5NzREMkI2NlhmbGNYandRb3pGS2c2eE5Kd1RmdWszd2x4SHVtYVZhZWM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T05:51:50Z",
+      "summary": "尽管人工智能仍是市场的主导趋势，但业界焦点已从技术概念转向实际落地与商业效益。企业开始更加关注如何将AI融入现有业务、实现成本优化与收入增长，同时面临技术成熟度与市场接受度的双重考验，需在创新与实用间寻求平衡。"
+    },
+    {
+      "title": "Shin Jin-seo, the world's top Go engineer, beat artificial intelligence (AI) Go program KataGo again. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YUTR5ZnV1dVcwLXJhbXJMWTlLWmotdEtRNGVfcmQwZ0JNRTBORVBKRGpMZ0NVLXg4NkFjN2FyLWRUWlc5UnVkRWdlTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T05:24:48Z",
+      "summary": "世界围棋顶尖棋手申真谞再度击败人工智能围棋程序KataGo，展现出人类棋手在复杂局势下的直觉与创造力。这场对决不仅印证了AI围棋程序的进步，也揭示了其应变能力的局限，为人工智能与人类智能的相互启发提供了新的思考维度。"
+    },
     {
       "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’ - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFZ1S2FPMDVBX1ROcHpWa2VoZG5mdWE0dFhSMVhlek8wRFZ1MzBGMjIzVXg1YzhzN3FqWHlzUnpVdXhBSWUxLUdub3ZhNFdqUnB2cFIzTVYtZzBmM01Ud2JLV1IwVGQ5ckEwRkNMeElPZkVRNWk0cjQ5ZHZPUGNjdjl0NXhLTmZGQkEyMGdaSnpPQjREcUJZX0o5aFBhVDU5bUViXzVfSVFZT0xQUy1nbkgzczRJdw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-21T05:00:00Z",
-      "summary": "英国《卫报》报道，研究发现AI聊天机器人提供的选举投票建议存在不准确和不可靠的问题。研究者指出，AI模型缺乏对选举法规、政策细节及地方差异的精准把握，容易生成误导性或偏见内容。他们警告，依赖AI获取投票信息可能导致错误判断，甚至影响民主进程。研究呼吁公众谨慎对待AI生成的政治建议，并加强相关监管。这一发现引发了对AI在敏感领域应用可靠性的广泛讨论。"
+      "summary": "最新研究发现，AI聊天机器人在提供选举投票建议时存在严重的不准确和不可靠问题，可能误导选民决策。研究呼吁公众谨慎对待AI生成的政治信息，并强调了在关键民主流程中引入AI前需要更严格的验证与监管机制。"
     },
     {
       "title": "China considers tighter export controls on AI models and chips, FT reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-21T04:11:00Z",
-      "summary": "据英国《金融时报》报道，中国正考虑对AI模型和芯片实施更严格的出口管制，涵盖高性能AI算法和先进半导体技术。此举旨在保护国家安全与技术优势，防止关键科技外流。此前美国已限制对华芯片出口，中国的新规可能进一步收紧技术流动，影响全球AI供应链格局。目前具体措施仍在讨论中，但已引发国际科技企业关注，担忧市场壁垒加剧。分析人士认为，这将是中美科技博弈的又一重要举措。"
+      "summary": "据英国《金融时报》报道，中国政府正考虑对人工智能模型及芯片实施更严格的出口管制措施。此举旨在保护关键技术不受潜在竞争对手获取，维护国家安全与科技领先地位，可能对全球AI供应链格局产生深远影响。"
     },
     {
       "title": "Survey: More Than Half of U.S. Employees Now Use AI at Work | National News | U.S. News - U.S. News & World Report",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXZlMk5HSzYzU0tMeVFsbjgxQUc4SVpNSzhoWnFVZHZTa0EzZkh0SjZGTUNHNGJMZnZXMWIyMGJWNkZNbURkTmQyN3VHdkVkbS1ua0w3RVJXQ1hWcVJzT1VJYlhQd0hWUHhFaG5BbndTbGNrZXNtbXExMTktRXBNTmFoNTFnR3BJWktsOENTXy03QUxLekNSaE5zWUtQWlRuNGNQWHk3VkpIR1RFeXFqVnZPVkZraV9FeG8w?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-21T04:01:00Z",
-      "summary": "《美国新闻与世界报道》调查显示，超过半数美国员工已在工作中使用人工智能，包括生成式AI工具用于内容创作、数据分析、代码编写等。AI的快速普及提升了工作效率，但同时也引发数据安全、隐私和就业替代的担忧。调查发现，年轻员工和科技行业使用率更高，而企业正加速制定AI使用政策，以平衡创新与风险。专家建议需加强培训，确保AI工具被负责任地应用。"
+      "summary": "美国一项最新调查显示，超过半数的美国员工已在工作中使用人工智能工具，AI应用正从实验阶段快速进入日常职场。员工主要利用AI辅助内容生成、数据分析与流程自动化，同时反映出对技能更新与工作模式重塑的迫切需求。"
     },
     {
       "title": "China weighs tighter export controls on AI models and chips - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURTZEhNNV8xRTlJSmtQbWZjNFRpc3dSanpRM01BZnlwT2lhbjlGMUQwTnROSWxJcDZLZ0NmSUh0dXd0aW82cWVtZ0hKMzY2LTN3dTBfR2JOVEJlNFYxejVtMzBzQmsyYlRGUUJmODM0WFJZNG1PVkZ5UEtzc2g3QTcyUlA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-21T04:00:43Z",
-      "summary": "《金融时报》报道，中国正评估对AI模型和芯片实施更严格的出口管制，可能针对特定先进AI系统及半导体技术，以防止关键技术泄露并维护国家安全。此举或加剧中美科技竞争，迫使全球AI企业调整供应链。新规若落地，将限制中国AI技术和产品的出口，同时影响国际科研合作。目前具体条款尚未公布，但业界已开始评估潜在影响，尤其是对高性能计算和AI大模型的出口限制。"
+      "publishedAt": "2026-07-21T04:00:20Z",
+      "summary": "英国《金融时报》消息称，中国正在权衡对AI模型和芯片实施更严格出口管制。该政策若落地，将显著影响国际AI产业分工与合作，可能促使其他国家加速自主研发进程，并引发关于技术主权与全球科技治理的新一轮讨论。"
     },
     {
       "title": "Chinese artificial intelligence company Z.AI, formerly known as Zhipu AI, has completed a massive da.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpVGtnbGJ4UVhyV2g5ZV9HazdzZWc1el9BYngyMTVBV0RYOVlpWVByVXRJUkY1UE9pb0JpaW54T2cxRUUzM0huOUdOdEM0MFk?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-21T02:10:47Z",
-      "summary": "原智谱AI更名后的Z.AI公司宣布完成一轮大规模融资，金额达数十亿人民币，投资方包括多家知名机构。该公司专注于大语言模型研发，其产品在中文自然语言处理领域表现突出，多款模型已应用于金融、教育等行业。此次融资将用于扩大算力基础设施、吸引顶尖人才及加速技术迭代，旨在提升国产AI竞争力。Z.AI的快速发展体现了中国AI初创企业的强劲势头。"
-    },
-    {
-      "title": "China’s New AI Club: The World Artificial Intelligence Cooperation Organization - The Diplomat – Asia-Pacific",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTVCOGtaNF9OeHM5cU5JRUpZb3dmUnBvODNUaXR4Ui1rSUdsUUtvZjVSWkRPTElhN0ZRTHY5WXlxV0tGdzZlWjVWdm5nUUd2cFJZTF9CSDBPZ3E3NUhGcUF6NG43QVU2cW5zLTkzWktaVnY3c1g2TmhQeGNKVlJfdG55S3dfY1ZBdkg4V0J5enNRX3Y4djloQmpBZERob3NkcHJIbkduVDB5bGQzYXZz?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T01:53:26Z",
-      "summary": "据《外交官》报道，中国发起成立“世界人工智能合作组织”（WACO），旨在构建全球AI治理与合作新平台，推动技术交流、标准制定及安全规范。该组织可能与美国主导的AI治理框架形成竞争，并强调对发展中国家的技术支援。WACO的成立显示中国在AI国际规则制定中的影响力上升，同时倡导负责任的AI发展。未来该组织将聚焦伦理指南、数据共享和应对AI风险等议题。"
-    },
-    {
-      "title": "\"Access to AI (artificial intelligence) should now be viewed as a fundamental right,\" said Yongbum K.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05VWlfMlpRQUVuSW1udTVXcWZjbzg1WklWd3h6Wi1wS01CZXVfSzFndUdmek9tUFJvRHRCSElHTXpYWXU2NHJRTFlnQUhqV284dXZv?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T01:39:45Z",
-      "summary": "韩国学者Yongbum K.提出应将AI访问权视为一项基本权利，认为随着AI深度渗透生活，数字鸿沟日益加剧，确保人人平等获取AI技术至关重要。该观点引发关于AI伦理与公平性的讨论：若AI成为基础设施，政府需提供普遍接入机会，防止技术垄断造成新的不平等。同时需考虑数据隐私和算法偏见等问题。这一呼吁旨在推动全球AI治理中纳入权利保障维度。"
-    },
-    {
-      "title": "AI-altered images on birdwatching forums putting research at risk | AI (artificial intelligence) - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0RYZHhncWU1bGVyU2tKaVR2UFA4aE00RFdtd1B2VTFDWUoyUElKRElMQ0ZaYnl0bHg1SlRyRDVtYTRHN1RuZWx0emU3WmRFaU1Qa3NCOWd0SEJXZU1IRVl0Mk9QemhLYTlGRFMtU0xiUzU1UDBsTlgxbWdQSUFYOVVKWDJEZlVDWDlLRllmYXliU1dwRml2ZWtjbXJnLXBWOWZ3VWxwOU93bkxoM2c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T01:30:00Z",
-      "summary": "英国《卫报》报道，AI修改的鸟类图像大量出现在观鸟论坛，干扰科学研究。伪造图片被误认为罕见物种记录，导致观鸟数据污染，影响生物多样性调查和生态保护决策。研究人员呼吁平台加强内容审核，并开发AI检测工具以识别深度伪造。此事件凸显AI生成内容对学术真实性的威胁，以及应对虚假信息在专业领域传播的紧迫性。"
-    },
-    {
-      "title": "Jeff Bezos and UK government invest in £2bn British startup CuspAI - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlhiTE5CTFVLYjZiRk40ZU9ROTFZSUFkVGQ5VHA2enNjcmJaSlJHRVRtZzdRT2pYem01NHZydHpiUlEtV0pnV29HMVVwRUVreXNyZm9UYVYtazBhZzUyVGdwVlJ3ejVVOFZiZVVBaDdsTFFrYTlYQ0pPeUR4RFl4cUE1c2ZYdTE4OURwcmw5dUktdEljcF85MF82M0kwM3dTekxyY3Y2VXhFbGxfX2tMYWdn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T01:30:00Z",
-      "summary": "英国初创公司CuspAI获20亿英镑投资，投资者包括杰夫·贝佐斯和英国政府。公司专注AI在材料科学领域的应用，通过机器学习加速新型电池材料、催化剂等的发现，降低研发成本和时间。本轮融资将用于扩大团队、建设实验室并推动商业落地。贝佐斯的参与显示对AI+材料科学前景的看好，英国政府则意在巩固本土AI创新生态并争夺技术制高点。"
-    },
-    {
-      "title": "China's Moonshot AI plans Hong Kong IPO as Kimi K3 shocks Silicon Valley - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYVh5Z1YxNWN3Q0pWdnVibkEwekJxU3NxVnU2MHB3ZlNqMS1FNXZxMGt5Ym1Relk5QzNnamNJd3VuMWxpY0VuZG1hMDVmem1yX2xReVpWc19MQTdhWC1vMkwxOVl0dTN2WTJsOWdlOUxBTEJnSm1iWm9WZ0c0SnA1SnlCNFdIQ09fTFhORDBDVUtKQ3Z0ZHpIc2NHUnlrSjFWbjkyUlYtUmRKdDBKZS1fMGU4SXRDZ1paLXRKTTF2TUJqNkRxSzRHdjF1WW1nejNlUGkxNFhtQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T00:55:00Z",
-      "summary": "日经亚洲报道，中国AI公司Moonshot AI（月之暗面）计划在香港IPO，其Kimi K3模型凭借超长上下文处理能力和卓越性能震撼硅谷，挑战GPT-4等主流模型。Kimi K3在多项基准测试中表现领先，引发国际关注。IPO募资将用于研发投入、市场扩展及生态建设，加速国际化。此举标志着中国AI初创企业正加速走向全球资本市场，并有望重塑大语言模型竞争格局。"
-    },
-    {
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-21T00:12:24Z",
-      "summary": "Anthropic 公司备受关注的 15 亿美元版权和解案获得最终批准。这一判决暂时平息了针对该公司使用受版权保护内容训练 AI 模型的单一诉讼，但并未从根本上解决生成式 AI 领域普遍存在的版权争议。业界普遍认为，该案例为后续类似案件提供了参考，但关于 AI 训练数据合规性的法律界定仍处于模糊地带，未来可能面临更多监管与诉讼挑战。"
-    },
-    {
-      "title": "Gartner predicts AI models and platforms spend to hit US$64B - ARNnet",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlNLc0NnWnlRU19PSjd0RHExVTM0NWR2LXotWFZZOWQ4blJ2XzVKVGtxMG55VXV3M0lWbGhTb1JyWElDbDJfX2ltUkp1czRLUG5hdmlieHR2YXlXNW9sQjVnSjJEQnhMaURPWFExM284MlY2ckhUY21oUnhPN3RxWDgtX1M4RmpMNjNzdUhIdE44S1JuSnBGNGt4VG1WSEl1TTdsaUs3NjZCdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T23:25:23Z",
-      "summary": "Gartner 预测，到 2027 年全球 AI 模型与平台相关支出将达到 640 亿美元，显示出企业对 AI 基础设施和工具的巨大需求。这一数据涵盖大模型训练、推理平台、MaaS（模型即服务）及配套软件等细分领域。随着生成式 AI 从探索期进入规模化部署阶段，企业投入重心正从基础算力转向模型优化与业务集成，预计增长主要由金融、医疗、制造等行业推动。"
-    },
-    {
-      "title": "Composition Is the Cake, Everything Else Is Frosting - No Film School",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xY09XZy05eWIyaEtQMEJCTFJxOTQ3Z0ZJQUU0RWlidDUwX0pQUmFXNXRzQnhVOTU0cS1XQ2Vlai1qYzBxOVI2WnBwUGFYMThoNFdRX2tORjNQMEhh?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-20T23:16:24Z",
-      "summary": "No Film School 发表观点文章，强调在摄影与电影创作中，构图如同蛋糕本体，而光线、色彩、特效等只是表面的糖霜。文章指出，许多制作者过度追求后期技巧却忽略了基础构图原则，导致作品缺乏视觉张力与叙事逻辑。通过经典案例分析，作者呼吁创作者回归画面构成的核心，认为扎实的构图能力才是决定作品质量的关键因素，其他修饰手段仅起辅助作用。"
+      "summary": "中国人工智能公司Z.AI（原名智谱AI）已完成一笔大规模融资。该公司此前以智谱AI之名运营，专注于AI技术研发与应用。此次融资的完成标志着其资本实力进一步增强，有望推动其在AI领域的持续创新与市场拓展。尽管具体融资金额未披露，但此举显示出投资者对中国AI行业前景的信心。"
     }
   ]
 }
