@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "id": "2775",
+      "title": "The rise of AI appeals: University grades to legal claims and Parliament - 1News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmRTYzlaX3BUb0pubjY1anNUbmJwWW85N1hUVXdkZC1TeHlXZ0xiVm9OZzhCczVBTHlrMFZWMlE5Y3ZheDV6YlZTdms1M2ZEM1Z0eFdGVVo0UWN5WUJVSjBDbUEzbkVidFh4VVZmb1R1NktFZkh3eUtHdUpyazAtdFdyYUNVXzAzUWwyUXZnT1hhd0tEb1p3c0xMZF9JcG9hMEc1WmpzQ3dMUDQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-22T00:46:30Z",
+      "summary": "AI技术正迅速渗透至申诉和上诉领域，应用范围从大学成绩复议、法律索赔到议会决策。该系统利用自然语言处理分析大量案例数据，提供快速、一致的初步评估。然而，其可靠性引发争议，尤其在涉及主观判断的场合。专家指出，AI能处理结构化流程但无法替代人类伦理考量。技术公司正优化算法以增强透明度，但普及仍需解决偏见和解释性问题。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2776",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21T23:55:10Z",
+      "summary": "Meta正在测试一款AI驱动的新功能：生成个性化睡前故事。用户只需输入主题或关键词，系统即自动编写完整叙事。该应用旨在为缺乏想象力或时间紧张的用户提供便利，但也被批评为削弱人类创造力。Meta强调这只是实验性功能，旨在探索AI在娱乐和日常生活中的边界，并非替代人类创作。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2777",
+      "title": "Will AI help you do your job or replace you? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDSjNSeGVCQUlxZ1N3U0Q3aURSVFdrMUlUT2pnMHNVZUV1dHFWa1lmaldFRkotUEVBNlZNYUhiRkVRVVl0cEl5eVFPU00zMlRjYTV4cVZpRWpFdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T23:04:42Z",
+      "summary": "BBC探讨了AI对就业的双重影响：辅助还是替代。报告指出，AI在数据分析、内容生成等任务上效率显著，能提升生产力，但也导致部分岗位技能贬值。关键差异在于任务性质——重复性高的工作更易被替代，而需创造性、情感交流的岗位暂时安全。专家建议劳动者通过终身学习和人机协作来适应变革。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2778",
+      "title": "AI Push on Farms: New U.S. Bill Targets a Technology Most Farmers Still Ignore - Agrolatam",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXVGbkNwU21Sd2FjTkZLZ3FVVDJJSE5HN2FYVlBfR05RRnBZaXdoSF9BQlU0SXIyQmpJaFRmSWZFaUdDa085S0FIZFJXLUJkN0FyQ2RKb1R3dENXOW0tUnhTb25jU29aOG9zNjFsMUFWWG9OMmhma2pLbkFrNkR1ZFROeS1UU3NSeWVhdkJB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T22:05:22Z",
+      "summary": "美国新法案旨在推动农业领域AI应用，但多数农民仍持观望态度。法案提供资金支持和技术培训，鼓励使用AI优化灌溉、病虫害监测和产量预测。然而，农民对数据隐私、成本效益和技术复杂性存在疑虑。专家认为，成功推广需解决实际痛点并建立信任，否则政策效果有限。当前农业AI采纳率不足20%。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2779",
+      "title": "Would you bet your AI strategy on your current data? Why governance is key - Wolters Kluwer",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzRTLXpUeDE2NTRpZG9xVHBjdFBIV2tYRkItN2dKbDJ5UENlOS1xQnhtSnpJTU9xd1FGVTg1VW5lT0JPeVpkWTluUTEwdkNWdE9BUGtYc3l2T1VHYk9YRGVOUWNaR05lVGtDSnU3czJFLU1jUjN4NW5pYW96cW0wdjRVdHJ4MDQ3VEJQTTFGeDZ0bTlubC1OWjRXYWpGOVI0Z0V6Sk9FT0d2WDZiTTJaU05LM05vdE10Mklic0JuWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T21:48:25Z",
+      "summary": "Wolters Kluwer强调数据治理对AI战略成败的决定性作用。企业若依赖未经治理的数据，AI模型可能产生偏差或错误结论。文章指出，数据质量、完整性和合规性直接影响AI输出可信度。建议建立清晰的数据管理框架，包括定期审计、标准化流程和隐私保护措施，才能充分发挥AI潜力并规避风险。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2780",
+      "title": "You have to use artificial intelligence (AI) yourself to see how far it is possible and what restri.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hZlFGTTRtTW81cGxnTkY3MWdCbFUwUXVoTkxSaHdkdFNDLVYzMUhDTTQtbkJfQmJzeVh4RDU1Y2ozR2ZBdDI3QzE4eHdab3h1YVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T21:07:16Z",
+      "summary": "韩国《每日经济》指出，只有亲身实践AI才能理解其能力边界与限制。用户通过直接使用工具，如生成文本、分析数据等，才能发现AI在创意连贯性、深层推理等方面的不足。文章强调，过度依赖或未经测试的部署可能导致失败。个人和企业应主动试用，平衡期望与实际效果，避免盲目追捧。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2781",
+      "title": "This Is My Favorite Artificial Intelligence Stock to Buy Right Now (Hint: Not Nvidia, Broadcom, or Alphabet) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb19wdEo1bEU0U0s4WC1KT1ZnNFhHMi02WXNfcGFrdU9YV1RMMHozWkpDUDA3cU9OX2NiR09sdllyLV9WTUxYOXRRSkZ5Q0JHcmNQZV9jMFJndEViN0hsUTVwX2FleE1Fc2MwTElkOUliZ2d5N1M0UUxwdjM5Z2ZDNWFVUm9LSmFnSXYxVkhrTVpsdkJYb3VN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T21:01:00Z",
+      "summary": "The Motley Fool推荐其当前最看好的AI股票，并非英伟达、博通或Alphabet，而是另一家专注于AI基础设施或应用的公司。文章认为该股估值合理且增长潜力大，受益于AI芯片需求爆发但尚未被充分定价。具体公司未公开，但强调其独特技术或市场定位将使其在AI浪潮中脱颖而出。投资需谨慎。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2782",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21T20:56:55Z",
+      "summary": "OpenAI承认其预发布模型测试导致Hugging Face平台数据泄露。事故源于内部实验错误配置，使得未公开模型被公开访问。OpenAI已修复漏洞并道歉，但引发业界对AI开发安全流程的质疑。专家呼吁加强隔离和审计机制，防止类似事件。Hugging Face表示将强化合作伙伴管理，确保模型发布前严格审查。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2783",
+      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjFjWjR4YjNwQXEtQVpIRklNUEt6N2pBWmRYbW5yVktHSldTZEpfOHlsM1UxTDEyaktYRjFPV0tYR0pxNWpuSHFxTGJtaUxJWWFFMWNEWEVzblU3Y1k0SWZfNU9VM2RzaFdwOTFncGRmd1FhalZEeTR4ZzJVNWZSQml2YXlNeVN3OS1ydXB3Z29RN0dJb1p6cA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T20:05:00Z",
+      "summary": "The Motley Fool预测，SK海力士即将进行的265亿美元IPO中，最大受益者并非英伟达，而是另一家AI芯片相关公司。分析指出，SK海力士作为高带宽内存（HBM）主要供应商，其IPO将带动整个内存生态投资。受益公司可能包括与HBM封装或测试设备相关的企业。该预测基于内存短缺和AI算力需求激增的趋势。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2784",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21T19:43:41Z",
+      "summary": "前Twitter首席执行官Jack Dorsey推出新团队聊天平台Buzz，旨在与Slack竞争。Buzz的特色在于将人类用户与AI代理置于同一对话空间，支持团队协作与自动化任务执行。平台允许AI助手参与讨论、执行操作和提供信息，强调人机协同的工作体验，有望重塑企业通信与工作效率模式。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2785",
+      "title": "AI and the rise of the universal entertainment app",
+      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-21T19:39:30Z",
+      "summary": "人工智能正推动流媒体平台从单一格式竞争转向通用娱乐应用。随着AI在内容创作、组织与推荐方面的效率提升，音乐、视频、播客和有声书等形式的界限逐渐模糊。Spotify、Netflix、YouTube和TikTok等公司纷纷向全功能娱乐平台转型，用户可在一个应用内享受多样化的媒体内容，市场格局加速重构。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2786",
+      "title": "Google Releases Three New A.I. Models - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHg0TVFoTU1IaHdyenZrTVRSc09mZjUzTmZEYVJpMDhveHd5WnBHREJuU1BWRndTNWlQcWhFakRBT2F6dWxxMjFyM0l4cU9iWEpXaGhMbXFDT0hRNGNpMmpWQkdjUEhETUczOGY1NUhpRlNvUE04VVJ2NkhlbFNKSXl4UTBfUWlI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-21T19:38:58Z",
+      "summary": "谷歌发布三款全新人工智能模型，进一步扩展其AI技术生态。这些模型分别在语言理解、图像生成和多模态处理等领域展现突破，旨在为开发者和企业提供更强大的工具。新模型的推出强化了谷歌在AI领域的竞争力，可能应用于搜索引擎、云计算和移动设备等多个场景，推动行业创新。",
+      "fetchDate": "2026-07-22"
+    },
+    {
       "id": "2759",
       "title": "Restrictions on Use of Artificial Intelligence Tools to Process Disclosure Materials - JD Supra",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWjlqZnJyX0U5Ui1BYWFkclFDaVV0Sko1WTdjZThqU1MyWFNraUJOQ1c5U1J0YW5sOXBWWGhwbVI5SWU4TzlGbTVGUmdCdmJiU3JvdFlpTERValQ5aDJhQzgzWHplYU14UFpqdHUtX0ZiWnp3enJHcFdDU1NSajRXeWVn?oc=5",
@@ -24958,5 +25066,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2773
+  "total": 2785
 }
