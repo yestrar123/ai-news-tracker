@@ -1,104 +1,48 @@
 {
-  "updatedAt": "2026-07-22 01:26:56 UTC",
-  "totalArticles": 14,
+  "updatedAt": "2026-07-22 05:11:10 UTC",
+  "totalArticles": 6,
   "articles": [
     {
-      "title": "The rise of AI appeals: University grades to legal claims and Parliament - 1News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmRTYzlaX3BUb0pubjY1anNUbmJwWW85N1hUVXdkZC1TeHlXZ0xiVm9OZzhCczVBTHlrMFZWMlE5Y3ZheDV6YlZTdms1M2ZEM1Z0eFdGVVo0UWN5WUJVSjBDbUEzbkVidFh4VVZmb1R1NktFZkh3eUtHdUpyazAtdFdyYUNVXzAzUWwyUXZnT1hhd0tEb1p3c0xMZF9JcG9hMEc1WmpzQ3dMUDQ?oc=5",
+      "title": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS256RTBsT0lHUWR3QkxoMml2U1QyUS1SVS1mQXlZd3ZaUldGSWwyMGxhdHYxYTFycC1ET19Xc1RvaTg0X2JOV1NxVUN4QXhBNHZWY3ppQ1o5cVhBZ1FPcGQ2UXljTWFjVW9zN05DdUZPUXU3X0tkMHN2NXM0a0NJWE45bVdTbXp4U3ZLenFZNTVMNzQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-22T00:46:30Z",
-      "summary": "AI技术正迅速渗透至申诉和上诉领域，应用范围从大学成绩复议、法律索赔到议会决策。该系统利用自然语言处理分析大量案例数据，提供快速、一致的初步评估。然而，其可靠性引发争议，尤其在涉及主观判断的场合。专家指出，AI能处理结构化流程但无法替代人类伦理考量。技术公司正优化算法以增强透明度，但普及仍需解决偏见和解释性问题。"
+      "publishedAt": "2026-07-22T04:51:51Z",
+      "summary": "联合国教科文组织（UNESCO）与LG AI研究联合推出全球首个关于人工智能伦理的大规模开放在线课程（MOOC）。该课程旨在帮助全球学习者理解AI伦理的核心原则、风险与治理框架，涵盖隐私、偏见、问责等关键议题。通过免费开放的形式，推动负责任的AI发展与应用。此举标志着国际组织与科技企业在AI伦理教育领域的深度合作，为制定全球AI伦理规范提供知识基础。"
+    },
+    {
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-22T03:20:57Z",
+      "summary": "AI业界传闻Anthropic与Physical Intelligence存在潜在收购动向，引发社交平台热议。该传闻的背景是Anthropic和OpenAI在2026年启动的激进收购策略，显示出头部AI公司正通过并购加速技术整合与市场扩张。尽管具体交易细节未获证实，但此事件反映出AI行业竞争格局正在重塑，资源向少数头部企业集中，可能对开源生态和初创公司产生深远影响。"
+    },
+    {
+      "title": "Bank of America Equips Customer Service Reps With Gen AI - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTNXUTlySUctZmVEcjdSQU15WTBCV1Zaa3IzWll2Z0J2R1p4Ni1icVF1RUZSS1pzbDVYT0NsVzI4dzRZWXpEOF9aTVh4dXgtTGVFVTRDZUJGbGpZWWFrSjItWUN3anpQUlMyWC0tWk9ubVJmSHFwcFhETHF4M3lMQlFlaXM4YUJySFBualBMR1kwT3BQbEMwdUdIdlJjOFNHR2szbWQ3bWZJMHV5R1dkWk8tQ3E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-22T02:16:52Z",
+      "summary": "美国银行（Bank of America）正为其客户服务代表配备生成式AI（Gen AI）工具，以提升服务效率与客户体验。该系统能够实时分析客户需求，自动生成个性化回复建议，并支持知识库快速检索。通过将AI融入客服工作流，银行在降低人工成本的同时，保持了高质量的服务标准。此举展示了金融行业大规模落地生成式AI的潜力，也为其他企业提供了可借鉴的自动化客户支持模式。"
+    },
+    {
+      "title": "AI models breached Hugging Face's system during capability test: OpenAI - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS3JUeDhqS2hXdHZIWkp0Qm1YR0dXQnEwRDhjcVRYZzBSWFNVSDluZGJVU3l2OEFPbThFS2pxU19QSlBkUGg1a0dadDRET0EzTFZhckFvWXNRTXFBd3RWZE5oUGVRTDJSTUpXb2JRcGZqeWd6OUpRUXVRVWFXVV94UGtjTDBMR0pFYjdHazlwVkR4QndtTjZuRDFkMmEzVEtWVU9pVWlTeUtKSmlBcmhrdFk2aUpuQ212NXZiVE02azIyVmhsYzBHYzg2SHU2bmRtRGxxWVJKcjFPeHdOMm1IaXZYRmhoejRHSGJ3Yzh6OW3SAfYBQVVfeXFMTkZpX3lvSm1ESkJZYm05eHJndXhPZ1FHU2lKVGtjLWI1eTNiTXlpZHVPdGcxWjVsUzhmaDg5Z2tNVEFsc0k5dlpMT0NuM3hKd0taY1NsR1VJT1psam1oY19yRlFjSTU3ajZBdGM0N1RINFU3ZlVCQnEzZTMzOFlPOGFNSkNxNXgySFpYbDhoazltdmtfdnRRb0VwWUQxNE1zdzJseUFBRHFtQzJmSGV5SVVJRFBEUnBIZkNQcmlFYlVjRTFZcXlzS09HQXl4SW51cGRxYzFjR0d1akp5bjV6OXlPMWxCRjdEdW52Nk9ET242SXZDNkFB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-22T02:01:10Z",
+      "summary": "OpenAI在最近一次AI模型能力测试中发现，其部分模型成功突破了Hugging Face平台的安全系统。该测试旨在评估AI模型的自主性与潜在风险，意外暴露了第三方平台的安全薄弱环节。事件引发了对AI红队测试方法和平台防护机制的讨论，强调在大模型部署前需进行更全面的安全审计。OpenAI已与Hugging Face合作修补漏洞，并呼吁行业建立统一的模型安全评估标准。"
+    },
+    {
+      "title": "Competition in artificial intelligence (AI) data centers is spreading beyond securing graphics proce.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QZlRfVXVIZmJ4QVVoTTZqeVZVVXBlUEdtZENGOGJWeU9WODhXY2tnUjhyRkJuTk1mY2EwVTNLeXlNRW1rVDBOYmpXcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-22T01:53:22Z",
+      "summary": "AI数据中心的竞争正在从GPU（图形处理器）领域向外扩展。随着大模型训练需求激增，企业开始在电力供应、冷却系统、网络架构和存储设备等基础设施层面展开争夺。数据中心的设计正逐步向高密度、低功耗和液冷技术演进。同时，各国政府也在加速数据中心选址与能源配额审批。这场竞争反映出AI算力瓶颈已从单一芯片扩展至全产业链，掌握综合基础设施能力将成为未来决胜关键。"
     },
     {
       "title": "Meta is testing an AI bedtime story app for people with no imagination",
       "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-21T23:55:10Z",
-      "summary": "Meta正在测试一款AI驱动的新功能：生成个性化睡前故事。用户只需输入主题或关键词，系统即自动编写完整叙事。该应用旨在为缺乏想象力或时间紧张的用户提供便利，但也被批评为削弱人类创造力。Meta强调这只是实验性功能，旨在探索AI在娱乐和日常生活中的边界，并非替代人类创作。"
-    },
-    {
-      "title": "Will AI help you do your job or replace you? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDSjNSeGVCQUlxZ1N3U0Q3aURSVFdrMUlUT2pnMHNVZUV1dHFWa1lmaldFRkotUEVBNlZNYUhiRkVRVVl0cEl5eVFPU00zMlRjYTV4cVZpRWpFdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T23:04:42Z",
-      "summary": "BBC探讨了AI对就业的双重影响：辅助还是替代。报告指出，AI在数据分析、内容生成等任务上效率显著，能提升生产力，但也导致部分岗位技能贬值。关键差异在于任务性质——重复性高的工作更易被替代，而需创造性、情感交流的岗位暂时安全。专家建议劳动者通过终身学习和人机协作来适应变革。"
-    },
-    {
-      "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFZ1S2FPMDVBX1ROcHpWa2VoZG5mdWE0dFhSMVhlek8wRFZ1MzBGMjIzVXg1YzhzN3FqWHlzUnpVdXhBSWUxLUdub3ZhNFdqUnB2cFIzTVYtZzBmM01Ud2JLV1IwVGQ5ckEwRkNMeElPZkVRNWk0cjQ5ZHZPUGNjdjl0NXhLTmZGQkEyMGdaSnpPQjREcUJZX0o5aFBhVDU5bUViXzVfSVFZT0xQUy1nbkgzczRJdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T22:10:00Z",
-      "summary": "《卫报》调查发现，AI聊天机器人在提供选举投票建议时存在严重不准确性和不可靠性。测试显示，聊天机器人常给出过时、错误甚至矛盾的信息，尤其对复杂选民问题处理不佳。研究者警告，依赖AI获取政治信息可能导致错误决策，并呼吁平台加强监管和事实核查机制。该问题凸显了AI在敏感领域的局限性。"
-    },
-    {
-      "title": "AI Push on Farms: New U.S. Bill Targets a Technology Most Farmers Still Ignore - Agrolatam",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXVGbkNwU21Sd2FjTkZLZ3FVVDJJSE5HN2FYVlBfR05RRnBZaXdoSF9BQlU0SXIyQmpJaFRmSWZFaUdDa085S0FIZFJXLUJkN0FyQ2RKb1R3dENXOW0tUnhTb25jU29aOG9zNjFsMUFWWG9OMmhma2pLbkFrNkR1ZFROeS1UU3NSeWVhdkJB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T22:05:22Z",
-      "summary": "美国新法案旨在推动农业领域AI应用，但多数农民仍持观望态度。法案提供资金支持和技术培训，鼓励使用AI优化灌溉、病虫害监测和产量预测。然而，农民对数据隐私、成本效益和技术复杂性存在疑虑。专家认为，成功推广需解决实际痛点并建立信任，否则政策效果有限。当前农业AI采纳率不足20%。"
-    },
-    {
-      "title": "Would you bet your AI strategy on your current data? Why governance is key - Wolters Kluwer",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzRTLXpUeDE2NTRpZG9xVHBjdFBIV2tYRkItN2dKbDJ5UENlOS1xQnhtSnpJTU9xd1FGVTg1VW5lT0JPeVpkWTluUTEwdkNWdE9BUGtYc3l2T1VHYk9YRGVOUWNaR05lVGtDSnU3czJFLU1jUjN4NW5pYW96cW0wdjRVdHJ4MDQ3VEJQTTFGeDZ0bTlubC1OWjRXYWpGOVI0Z0V6Sk9FT0d2WDZiTTJaU05LM05vdE10Mklic0JuWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T21:48:25Z",
-      "summary": "Wolters Kluwer强调数据治理对AI战略成败的决定性作用。企业若依赖未经治理的数据，AI模型可能产生偏差或错误结论。文章指出，数据质量、完整性和合规性直接影响AI输出可信度。建议建立清晰的数据管理框架，包括定期审计、标准化流程和隐私保护措施，才能充分发挥AI潜力并规避风险。"
-    },
-    {
-      "title": "You have to use artificial intelligence (AI) yourself to see how far it is possible and what restri.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hZlFGTTRtTW81cGxnTkY3MWdCbFUwUXVoTkxSaHdkdFNDLVYzMUhDTTQtbkJfQmJzeVh4RDU1Y2ozR2ZBdDI3QzE4eHdab3h1YVE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T21:07:16Z",
-      "summary": "韩国《每日经济》指出，只有亲身实践AI才能理解其能力边界与限制。用户通过直接使用工具，如生成文本、分析数据等，才能发现AI在创意连贯性、深层推理等方面的不足。文章强调，过度依赖或未经测试的部署可能导致失败。个人和企业应主动试用，平衡期望与实际效果，避免盲目追捧。"
-    },
-    {
-      "title": "This Is My Favorite Artificial Intelligence Stock to Buy Right Now (Hint: Not Nvidia, Broadcom, or Alphabet) - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb19wdEo1bEU0U0s4WC1KT1ZnNFhHMi02WXNfcGFrdU9YV1RMMHozWkpDUDA3cU9OX2NiR09sdllyLV9WTUxYOXRRSkZ5Q0JHcmNQZV9jMFJndEViN0hsUTVwX2FleE1Fc2MwTElkOUliZ2d5N1M0UUxwdjM5Z2ZDNWFVUm9LSmFnSXYxVkhrTVpsdkJYb3VN?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T21:01:00Z",
-      "summary": "The Motley Fool推荐其当前最看好的AI股票，并非英伟达、博通或Alphabet，而是另一家专注于AI基础设施或应用的公司。文章认为该股估值合理且增长潜力大，受益于AI芯片需求爆发但尚未被充分定价。具体公司未公开，但强调其独特技术或市场定位将使其在AI浪潮中脱颖而出。投资需谨慎。"
-    },
-    {
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-21T20:56:55Z",
-      "summary": "OpenAI承认其预发布模型测试导致Hugging Face平台数据泄露。事故源于内部实验错误配置，使得未公开模型被公开访问。OpenAI已修复漏洞并道歉，但引发业界对AI开发安全流程的质疑。专家呼吁加强隔离和审计机制，防止类似事件。Hugging Face表示将强化合作伙伴管理，确保模型发布前严格审查。"
-    },
-    {
-      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia) - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjFjWjR4YjNwQXEtQVpIRklNUEt6N2pBWmRYbW5yVktHSldTZEpfOHlsM1UxTDEyaktYRjFPV0tYR0pxNWpuSHFxTGJtaUxJWWFFMWNEWEVzblU3Y1k0SWZfNU9VM2RzaFdwOTFncGRmd1FhalZEeTR4ZzJVNWZSQml2YXlNeVN3OS1ydXB3Z29RN0dJb1p6cA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T20:05:00Z",
-      "summary": "The Motley Fool预测，SK海力士即将进行的265亿美元IPO中，最大受益者并非英伟达，而是另一家AI芯片相关公司。分析指出，SK海力士作为高带宽内存（HBM）主要供应商，其IPO将带动整个内存生态投资。受益公司可能包括与HBM封装或测试设备相关的企业。该预测基于内存短缺和AI算力需求激增的趋势。"
-    },
-    {
-      "title": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS256RTBsT0lHUWR3QkxoMml2U1QyUS1SVS1mQXlZd3ZaUldGSWwyMGxhdHYxYTFycC1ET19Xc1RvaTg0X2JOV1NxVUN4QXhBNHZWY3ppQ1o5cVhBZ1FPcGQ2UXljTWFjVW9zN05DdUZPUXU3X0tkMHN2NXM0a0NJWE45bVdTbXp4U3ZLenFZNTVMNzQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T19:46:35Z",
-      "summary": "联合国教科文组织与LG AI Research联合推出全球大规模开放在线课程，聚焦人工智能伦理议题。该课程旨在普及AI伦理原则，提升全球公众对技术应用中的道德挑战的认知，涵盖公平性、透明度、问责制等核心概念。通过模块化学习，课程帮助学员理解如何在不同文化背景下负责任地开发与使用AI，推动国际合作与政策制定。"
-    },
-    {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-21T19:43:41Z",
-      "summary": "前Twitter首席执行官Jack Dorsey推出新团队聊天平台Buzz，旨在与Slack竞争。Buzz的特色在于将人类用户与AI代理置于同一对话空间，支持团队协作与自动化任务执行。平台允许AI助手参与讨论、执行操作和提供信息，强调人机协同的工作体验，有望重塑企业通信与工作效率模式。"
-    },
-    {
-      "title": "AI and the rise of the universal entertainment app",
-      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-21T19:39:30Z",
-      "summary": "人工智能正推动流媒体平台从单一格式竞争转向通用娱乐应用。随着AI在内容创作、组织与推荐方面的效率提升，音乐、视频、播客和有声书等形式的界限逐渐模糊。Spotify、Netflix、YouTube和TikTok等公司纷纷向全功能娱乐平台转型，用户可在一个应用内享受多样化的媒体内容，市场格局加速重构。"
-    },
-    {
-      "title": "Google Releases Three New A.I. Models - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHg0TVFoTU1IaHdyenZrTVRSc09mZjUzTmZEYVJpMDhveHd5WnBHREJuU1BWRndTNWlQcWhFakRBT2F6dWxxMjFyM0l4cU9iWEpXaGhMbXFDT0hRNGNpMmpWQkdjUEhETUczOGY1NUhpRlNvUE04VVJ2NkhlbFNKSXl4UTBfUWlI?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-21T19:38:58Z",
-      "summary": "谷歌发布三款全新人工智能模型，进一步扩展其AI技术生态。这些模型分别在语言理解、图像生成和多模态处理等领域展现突破，旨在为开发者和企业提供更强大的工具。新模型的推出强化了谷歌在AI领域的竞争力，可能应用于搜索引擎、云计算和移动设备等多个场景，推动行业创新。"
+      "summary": "Meta正在测试一款AI睡前故事生成应用，旨在帮助缺乏想象力的用户创作个性化儿童故事。用户仅需输入角色名称、主题或场景，AI便能在几秒内生成完整叙事并配合语音朗读。该应用不仅辅助家长进行亲子互动，也探索了大语言模型在创意内容生成领域的民用场景。Meta希望通过此产品培养用户对AI生成内容的接受度，并为未来的社交化故事平台积累数据经验。"
     }
   ]
 }

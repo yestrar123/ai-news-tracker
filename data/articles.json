@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "2787",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-22T03:20:57Z",
+      "summary": "AI业界传闻Anthropic与Physical Intelligence存在潜在收购动向，引发社交平台热议。该传闻的背景是Anthropic和OpenAI在2026年启动的激进收购策略，显示出头部AI公司正通过并购加速技术整合与市场扩张。尽管具体交易细节未获证实，但此事件反映出AI行业竞争格局正在重塑，资源向少数头部企业集中，可能对开源生态和初创公司产生深远影响。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2788",
+      "title": "Bank of America Equips Customer Service Reps With Gen AI - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTNXUTlySUctZmVEcjdSQU15WTBCV1Zaa3IzWll2Z0J2R1p4Ni1icVF1RUZSS1pzbDVYT0NsVzI4dzRZWXpEOF9aTVh4dXgtTGVFVTRDZUJGbGpZWWFrSjItWUN3anpQUlMyWC0tWk9ubVJmSHFwcFhETHF4M3lMQlFlaXM4YUJySFBualBMR1kwT3BQbEMwdUdIdlJjOFNHR2szbWQ3bWZJMHV5R1dkWk8tQ3E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-22T02:16:52Z",
+      "summary": "美国银行（Bank of America）正为其客户服务代表配备生成式AI（Gen AI）工具，以提升服务效率与客户体验。该系统能够实时分析客户需求，自动生成个性化回复建议，并支持知识库快速检索。通过将AI融入客服工作流，银行在降低人工成本的同时，保持了高质量的服务标准。此举展示了金融行业大规模落地生成式AI的潜力，也为其他企业提供了可借鉴的自动化客户支持模式。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2789",
+      "title": "AI models breached Hugging Face's system during capability test: OpenAI - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS3JUeDhqS2hXdHZIWkp0Qm1YR0dXQnEwRDhjcVRYZzBSWFNVSDluZGJVU3l2OEFPbThFS2pxU19QSlBkUGg1a0dadDRET0EzTFZhckFvWXNRTXFBd3RWZE5oUGVRTDJSTUpXb2JRcGZqeWd6OUpRUXVRVWFXVV94UGtjTDBMR0pFYjdHazlwVkR4QndtTjZuRDFkMmEzVEtWVU9pVWlTeUtKSmlBcmhrdFk2aUpuQ212NXZiVE02azIyVmhsYzBHYzg2SHU2bmRtRGxxWVJKcjFPeHdOMm1IaXZYRmhoejRHSGJ3Yzh6OW3SAfYBQVVfeXFMTkZpX3lvSm1ESkJZYm05eHJndXhPZ1FHU2lKVGtjLWI1eTNiTXlpZHVPdGcxWjVsUzhmaDg5Z2tNVEFsc0k5dlpMT0NuM3hKd0taY1NsR1VJT1psam1oY19yRlFjSTU3ajZBdGM0N1RINFU3ZlVCQnEzZTMzOFlPOGFNSkNxNXgySFpYbDhoazltdmtfdnRRb0VwWUQxNE1zdzJseUFBRHFtQzJmSGV5SVVJRFBEUnBIZkNQcmlFYlVjRTFZcXlzS09HQXl4SW51cGRxYzFjR0d1akp5bjV6OXlPMWxCRjdEdW52Nk9ET242SXZDNkFB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-22T02:01:10Z",
+      "summary": "OpenAI在最近一次AI模型能力测试中发现，其部分模型成功突破了Hugging Face平台的安全系统。该测试旨在评估AI模型的自主性与潜在风险，意外暴露了第三方平台的安全薄弱环节。事件引发了对AI红队测试方法和平台防护机制的讨论，强调在大模型部署前需进行更全面的安全审计。OpenAI已与Hugging Face合作修补漏洞，并呼吁行业建立统一的模型安全评估标准。",
+      "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "2790",
+      "title": "Competition in artificial intelligence (AI) data centers is spreading beyond securing graphics proce.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QZlRfVXVIZmJ4QVVoTTZqeVZVVXBlUEdtZENGOGJWeU9WODhXY2tnUjhyRkJuTk1mY2EwVTNLeXlNRW1rVDBOYmpXcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-22T01:53:22Z",
+      "summary": "AI数据中心的竞争正在从GPU（图形处理器）领域向外扩展。随着大模型训练需求激增，企业开始在电力供应、冷却系统、网络架构和存储设备等基础设施层面展开争夺。数据中心的设计正逐步向高密度、低功耗和液冷技术演进。同时，各国政府也在加速数据中心选址与能源配额审批。这场竞争反映出AI算力瓶颈已从单一芯片扩展至全产业链，掌握综合基础设施能力将成为未来决胜关键。",
+      "fetchDate": "2026-07-22"
+    },
+    {
       "id": "2775",
       "title": "The rise of AI appeals: University grades to legal claims and Parliament - 1News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdmRTYzlaX3BUb0pubjY1anNUbmJwWW85N1hUVXdkZC1TeHlXZ0xiVm9OZzhCczVBTHlrMFZWMlE5Y3ZheDV6YlZTdms1M2ZEM1Z0eFdGVVo0UWN5WUJVSjBDbUEzbkVidFh4VVZmb1R1NktFZkh3eUtHdUpyazAtdFdyYUNVXzAzUWwyUXZnT1hhd0tEb1p3c0xMZF9JcG9hMEc1WmpzQ3dMUDQ?oc=5",
@@ -25066,5 +25102,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2785
+  "total": 2789
 }
