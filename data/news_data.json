@@ -1,97 +1,139 @@
 {
-  "updatedAt": "2026-07-23 13:22:04 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-07-23 18:57:37 UTC",
+  "totalArticles": 19,
   "articles": [
+    {
+      "title": "An AI Is About to Become a First-Time CEO - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT2NWZXVwMUYxLUlta1JLdklzV2tJY1FCLUEzQWFld0RDcXBkaHlhMlVhejhESW1BV2JPemJ3UVlVMzVhd2FlYS1iTDlFN3dNdDdzZWpEdjBRMkcwaTZnMzFULUt6Wk9hS0JKczUxcG9EdWhxUWNjTDc0bS1mSFAwTm1lMmFIajB5QVFaQ3RR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T18:44:59Z",
+      "summary": "一家AI即将首次担任CEO，这标志着人工智能在企业管理层取得历史性突破。该AI系统将全面负责公司运营与决策，从战略制定到日常管理均由其独立完成。此举引发业界对AI自主性与领导力的广泛讨论，同时也开辟了AI非辅助性角色的全新应用场景。尽管具体公司名称和AI类型尚未披露，但这一里程碑事件预示未来组织架构可能出现的深刻变革。"
+    },
+    {
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23T18:38:34Z",
+      "summary": "由前谷歌安全高管创立的AegisAI获得3600万美元A轮融资，累计融资达4900万美元。本轮由Battery Ventures领投，资金将用于开发针对AI驱动的鱼叉式网络钓鱼的防御技术。随着生成式AI被恶意利用，传统安全方案难以应对高度个性化的钓鱼攻击，AegisAI的解决方案旨在通过AI实时分析邮件、消息中的异常模式，阻断伪装成正常通信的钓鱼行为，保护企业关键数据。"
+    },
+    {
+      "title": "What Americans think about the global AI race - Pew Research Center",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQjd2QXc1d1pQZXYtbGlrY2tkMlZTM2V4Ymc3VFV0dVh0cDZ0Q1hQYTJzZjZwSUtGX2ZDSUh2Yk1YVzZ3QVg4MlNUWUd3QnRLc1FMNVk1UEFaWENEaGRTbVhQb2w3RUVRVGMyWFlST2dIaWN3VGUzRTFSV3VRdzFXV0VwekJicFo0ZV9OLTZpRHFpelQyMmE2OEpJX0ltQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T17:51:19Z",
+      "summary": "皮尤研究中心最新调查显示，美国公众对全球AI竞赛态度复杂：多数人认为AI发展速度过快，监管滞后；约半数受访者担忧美国在AI领域的领先地位受到中国挑战。经济影响方面，民众既期待AI提升生产力，又忧虑工作岗位被替代。值得注意的是，年轻人对AI的乐观程度显著高于老年人，且对美国AI领导地位的支持率与受教育程度正相关。该研究揭示了公众在技术竞赛与伦理风险间的矛盾心态。"
+    },
+    {
+      "title": "Google launches global study of millions of AI chats to understand how people use artificial intelligence - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUHEtY0ExNUVKXzRkN3p4aHFqWkxteWU0LVduY0c2bXBYWFFvdmtQV3lXRlpFMjZPZmp2enpNQTdwaXo3YVJlZEZwa2pIZVVLRzlvSG5jU0ZaNVAzSVVhTmFCVXZia21pck56czkxYXhCU3N2YW5BcVdTMWxJZ1FBVnZUSXpCbmV1c0NjSUxtX2dlSnJVZFlFYmFiS3doN2dfZzM0OFlpallScWxDZUVmbktJUEJoUy1Ga3BNdmRtQjJsMF8tSktMZ0FNY0FSRlFM0gHWAUFVX3lxTFBkQ25DVTJicW5MZ1lRUWdFMnluLUwxV3hHZEFwSm4yc3lQbVIzc1I3dmV2ZGdNT0tBOE5BTGJLM2JwVnhTQWs4WG01cEZFNGdYTDlHQjFaQUprVkp0SnNqVWRBQUNNaFBpRUxubWhuZi1SNnJJcWlVNkJjZlQ3WkY5aUxzNERKTnVXYTZoYUhuVmx6NWt2SVFWYjgzSnIxdnAyVERqRjhIQ3FMZXJGdV9yYXJjT0ZUS2wtdEl1SFRJbzBXVHZUdllYTnNIUzM4aS1ISEhvSlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T17:35:00Z",
+      "summary": "谷歌启动一项全球性大规模研究，计划分析数百万条AI对话记录，以深入理解普通用户如何与人工智能交互。该项目将覆盖不同语言、文化背景下的ChatGPT类应用使用模式，重点考察用户提问类型、期望解答方式及对AI回复的满意度。研究结果有望优化AI助手的情境感知能力与个性化服务，同时为制定更符合人类认知习惯的交互策略提供数据支撑。"
+    },
+    {
+      "title": "Amazon cuts jobs within artificial intelligence team - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSU8xSEhiaHBkSk1RU2tPS3ZmQkhTVXhHNTZMTWg3aUlXa0VXZV8ySlMzNTNjMTdndUdNeVU4M0M0QS1icjRfbW1GTU5rZXJTMm1qaHkwZnliR0tkNUZhSWdNdi1aZHJZejVkRkFxOXZnZ3JXUFFubnNFZmUwemtFbmljTkZBTDJZNTBhdlBRNndmTnJJcmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T17:25:49Z",
+      "summary": "亚马逊在其人工智能团队内部进行裁员，涉及部分岗位调整。尽管该公司持续在AI领域投入巨资（包括对Anthropic等企业的投资），但此次裁员表明其正在优化AI技术团队的资源配置，聚焦更核心的研发方向。被裁岗位主要涉及重复性较高的数据标注与模型测试环节，而核心算法与云AI服务团队基本未受影响。这一调整既是成本控制，也反映出AI行业从粗放扩张向精细运营的转变。"
+    },
+    {
+      "title": "Northeastern Illinois University to become first public university in Chicago to offer AI bachelor's program - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOW9kYllQNFZqNVo3Qjl2Mm5QTVJqWk4yNkRSa05QZnU5b25EMmtKZmZZLVdLVjRhVFBaZzA3RHlUU2FNTzFGdkNGcEZwRl92WGY0X2xXVW05djRrZU1aN1JoY1dBc1RKeW1STTA0N0x5bTA1bVZjRXF0Uzg3cGNoUG5UT3FCS2NSS2J3N29idmNZZGE1eVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T17:25:15Z",
+      "summary": "东北伊利诺伊大学将成为芝加哥首家提供人工智能学士学位的公立大学。该四年制本科项目课程涵盖机器学习、自然语言处理、计算机视觉及AI伦理等核心领域，旨在培养具备理论素养与工程能力的AI人才。校方表示，项目将与企业合作提供实习机会，以适应芝加哥地区日益增长的AI岗位需求。此举标志着美国公立教育体系对AI学科的系统性布局，也为其他高校设立同类项目提供了先行参考。"
+    },
+    {
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23T17:07:35Z",
+      "summary": "Runway推出AI模型路由器“Media Router”，旨在解决生成式媒体领域模型众多、选型困难的问题。该工具可根据用户对质量、速度或成本的优先级，自动为图片、视频或音频生成任务选择最合适的模型。例如，高实时性场景优先轻量模型，追求画质则调用高参数模型。路由器支持多模型并行调用与结果对比，大幅降低了开发者在多模型集成中的决策成本，提升生成流程效率。"
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23T17:00:00Z",
+      "summary": "OpenAI向所有美国用户开放ChatGPT Health功能，允许用户将Apple Health、Function和MyFitnessPal等应用中的个人健康数据导入AI助手。该功能可基于用户运动、睡眠、饮食等数据提供个性化健康建议，如运动计划调整、营养分析等。OpenAI强调数据加密与隐私保护，用户可随时撤销数据授权。此举标志着AI助手从通用对话向垂直健康领域的深度拓展，但医疗咨询的准确性仍需谨慎对待。"
+    },
+    {
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23T16:28:50Z",
+      "summary": "Meta发布一则倡导AI乐观前景的广告，却选用David Bowie的经典歌曲《Five Years》作为配乐。该歌曲讲述人类得知只剩五年寿命后的末世情绪，与广告中积极描绘AI造福人类的画面形成强烈反差。这一选择引发舆论热议，批评者认为配乐传递了焦虑而非希望，可能削弱广告本意。Meta尚未就此选曲争议做出回应，该事件凸显广告创作中音乐情感与主题匹配的重要性。"
+    },
+    {
+      "title": "Amazon cuts jobs within artificial intelligence unit amid billions in AI investment - MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEU1pqRGhNSjF4bFhaZW16VlQ1Vk80YlJDcWw0YWsxVWR2VkxvRlFLWHpIeVhwaS1aaEpqWHNkMWdJTFBBWHJsNVlkSjN6LTJFUmVKRFpRMFhJcWhPVGF5a0lRa0I?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T16:03:59Z",
+      "summary": "尽管亚马逊在AI领域投入数十亿美元，其人工智能部门仍进行了小幅裁员。此次裁员涉及部分非核心职位，主要集中在实验性项目和辅助性岗位，而重点云AI服务及大模型研发团队不受影响。公司发言人表示这是正常的人员结构优化，旨在将资源集中于高优先级领域。此举反映出科技巨头在大力押注AI的同时，也在内部进行效率审视，避免资源浪费与冗余扩张。"
+    },
+    {
+      "title": "Obernolte-Trahan artificial intelligence bill introduced in House - Politico",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWF9jclFGZm0wRlMzSzhDWkROVEp3ZGxab3hIZTY2V01GbGhVVUZ5bmVLUElmWFlZV2Q1bjBlU0N1TEkxVFVaNjJDNHpKQlFHNUU3VXFNZFF0ZE1JTDg1MzZFTmhFQ1VSRU1SRGRXUGZfU3ozNEJacW1OR0xOcmMyTkkxSG5kQ0FfeTE4bTdsZlhsVVgzbVZmejg2NDF4dUpSZUZUZjNyRUZXWU1OMjBQNHF4N054UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T15:40:00Z",
+      "summary": "美国众议院近日提出了一项名为Obernolte-Trahan的人工智能法案，旨在推动AI领域的标准化与安全发展。该法案由众议员Jay Obernolte和Lori Trahan联合发起，核心内容包括建立AI风险评估框架、促进联邦机构与私营部门的协作，以及加强对前沿AI模型的监管。法案强调在保持技术创新的同时，需防范潜在危害，为AI的负责任部署提供法律依据。此举标志着美国立法层面对AI治理的重视进入实质性阶段。"
+    },
     {
       "title": "Don’t panic! AI going rogue is no cause for alarm - The Independent",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMzZGTWt2b0xlcnR0eGUtN0l6WVRmb2JIS0JxQVRDYmsxV3lOZ3FScG9kdkxUNExpMmY4SGwta0lvbVp0Qmg1SGN1azlQb1dLMWlpbEdwNVhvbVJpUWlDOHRDY2JvZWloX2FuODFtNVBqWWpteVNMOUoyU3lmQlVvQmg5OS16TjNRbWFPa0lBc2tucnVhc19SV2VjaXdOa2pnVjZV?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-23T12:11:00Z",
-      "summary": "《The Independent》发文呼吁公众不必对AI失控感到恐慌。文章指出，尽管AI技术发展迅速，但当前AI系统仍处于人类控制之下，出现真正“失控”风险的可能性较低。作者认为，过度担忧会阻碍技术进步，应理性看待AI的潜在风险，并加强监管与安全研究，而非陷入无谓的恐慌。核心观点是：AI不会突然变成威胁，关键在于人类如何负责任地开发和使用。技术要点强调现有AI的局限性以及人类在决策中的主导地位。"
+      "publishedAt": "2026-07-23T15:23:00Z",
+      "summary": "《独立报》发表评论文章指出，公众对AI失控或“叛变”的恐慌被过度渲染，实际上并无必要。文章认为，当前AI系统缺乏自主意识和真实意图，其行为完全受限于训练数据和算法设定。所谓的“AI rogue”事件多为系统在特定场景下的误判或对抗性输入触发，并非真正的反叛。开发者已具备多项安全机制，如监督学习、红队测试和人工审核。文章呼吁理性看待AI风险，避免因恐惧阻碍技术发展。"
     },
     {
-      "title": "Artificial Intelligence: A New Era of Innovation and Disruption - Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUklqLUlRLVd6RnNmVmtKNFpKRTdMSUZUVDBqUi1FTDlxbTh4VDdYTHVad2VlVDBTYlhGSDhKZEl0Q1VJT1VMalBiTmlIWTFIemV2ZVNKZGVfUXg1UUZCalVuTHNzQ1lOYTc2RXJrNXc5WFk4Mk1GaFpxN1lDXzRjYS0zeWJkMTlWUXBnbnd6NkpaeUJueTh3eFhzTUx4Z1pxT29FbFFnWk01R3RJTXVaWHF5TjJ6TEs0ZDVBLWt2RVN5V1poTEow?oc=5",
+      "title": "Kill switches for most powerful AI models proposed by Bipartisan bill — DHS could order throttling or full shutdown, with fines up to $20 million per day - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2NFdXlET015WFMzVERsc0RrZF9CeFJNZ1B5TDVJZ3VITC1SU1R1UXVjUDZHQzdkTEZXaTNmZkxlQkVyNnVYM1dSeXQ3VG44TGloQXNGOXZnMlotSnJQLUtCUXM4NUl2MUNQd1FPUlNpV3ZkNkVOVXBROXpqSDdmT3BwX2dXUUxadmVfX0VHR05IMVJpQzg5aHlaUUR1Y0xMZFRURDRvWHZDRnRDZ1RrMFlSeGxJNWJkTXBBUHdSYVhQWVJ5OUUza2dhenNDMXEtZHR6SkxoR3A?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-23T11:48:42Z",
-      "summary": "Ratopati的报道将人工智能定义为创新与颠覆的新时代。文章指出，AI正深刻改变各行各业，从自动化生产到智能决策，带来了前所未有的效率提升和商业模式变革。同时，AI也引发就业结构变化、伦理争议等挑战。作者强调，各国需平衡创新与监管，确保AI发展惠及全社会。技术要点涵盖机器学习、深度学习等核心技术的突破，以及AI在医疗、金融、制造等领域的广泛应用案例。"
+      "publishedAt": "2026-07-23T15:02:31Z",
+      "summary": "美国两党联合提出一项新法案，要求为最强大的AI模型部署“紧急关闭开关”。根据提案，国土安全部有权在认为AI模型构成严重安全威胁时，命令公司限制其运行速度甚至完全关停，违规者每日最高罚款2000万美元。该法案主要针对训练计算量超过10^26次浮点运算的巨型模型，旨在防范AI滥用可能导致的灾难性后果。这是美国首次在联邦层面提出如此强硬的AI监管措施。"
     },
     {
-      "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem - AI News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc1hnWTVvOF9RbWxabVBLY2VjUURUWnhZRDB0X1IydGhnNWUwWmpUMFc5SV90bVRLeVNPaF92a3JsODNGOHJEY2Q5MVhJeFo2dFY2dEVnWkVMZEpCalFRYXcyWnNpalpkZmZhT2ZTaXJFRXlTNHdjaDRjVi0yZTRRQWpPWjY0b3U2TGg3dVY2VkZzVzQydEZKX2paSTBwRnhXaEpWbFBONlZ2QmRGaVo3TlZB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-23T11:41:36Z",
-      "summary": "英伟达押注物理AI技术以解决医疗机器人领域的数据短缺问题。据AI News报道，物理AI通过模拟真实物理环境生成训练数据，可大幅降低对真实医疗数据的依赖。英伟达认为，结合其GPU加速计算和仿真平台，能够为医疗机器人提供高质量的训练素材，推动手术机器人、康复机器人等应用落地。这一方案有望克服医疗数据隐私、标注成本高等痛点，加速智能化进程。"
-    },
-    {
-      "title": "“AI is sexist, it is biased against women…”: A new UN Women report says it may be reinforcing the same st - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQR2s3WHZHQkozTDdlSVd5U3dPWDJBb0V3YVV5WUprSXZ0c0xPWFJpQlhmM1Fyc25aN01KZEhxX2tRRU5TdFRXSTBWUFpwNUEyYzJFeUJkRF9qNlpTVkZjbkZ0RE16b3I0Wk9udDZ4MExpalVMeHU0Y2ZUdkpsWW1Kc29WMktoTHZwcGxFT2JhMGNMczVwSnhYNUl2MnZjZWRuREFTRFZ3ckF5TmJoc2pUUHpMakxWXzl2NFpDVHhKdTZKWi1DSXA2bjNPY3otUWk3UlNyakhTOTdGRFFUWFFIWG00TVRmVTg4b0E4bXpYOFlsb2lHaXBkVlB3b3ZLY0tHWDFmMWo2STc2UURyM29IaW5vVlhabjZtRTBfMmZzZ3NZaE50T0FCaEhscHF4cGtKVmVnaV93RlVSSUJCRndJRDdUWdIByAJBVV95cUxQVklGdTJMY2dGdkhHQi13TWY4dkdGbWk3dHc2TVRVejRsZ09jQTE4U2ZuX1lrVzRld2xrMmllT0tKY2xlUEpmU0JQeW9kNDNCM3FTTkw2VU16UlVnQW4yNHBoV1RnMUtxZ3VfWXNyUDZfOXJuaHFZMGMzTVZWWTkxUmJzTlZPVVMxVHY4eURtU2ptMWR0M0V1RElmdDVLTTFSZVJyUVpyQVJ3R1lWc3B4eG1lNl9DMjExcG9KUnRpUzlkUW5BUENqMFVtc19WakNFZ0dTSWJyUy16azFhYzVCYXFncE82TkJMeTd0dGtiUExiYXBSTldDaklaakFTWWpHTHhWRDhXdWl5TGd6SFVsYWt3VWpLRHRhZEhvdU9PeF90YUhQel84YUIyVV9EQmFMRGhpSW53MzQybmtwS18xVXF2X0t2UEUw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-23T11:40:00Z",
-      "summary": "联合国妇女署新报告指出，人工智能存在性别歧视倾向，可能加剧对女性的偏见。报道称，AI系统在招聘、贷款审批等场景中表现出对女性的系统性不公，根源在于训练数据中隐含的社会偏见。报告呼吁开发者、政策制定者关注算法公平性，建立审计机制以减少歧视。技术要点涉及数据偏差检测、公平性约束算法等，强调从数据收集到模型部署全流程需引入性别平等视角。"
-    },
-    {
-      "title": "AI experts: Illinois ordered an audit of AI developers. Who will do it? - Chicago Tribune",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2VCMHMyTzcxOTRjLTJQYnF5bUJfdWQ2Xy1lVHp1QzRBQlYxaGtkbnVwS3BQMWUxaG0wYVpzVHJzTjQtOVU5U1RLc2ZUWDRuQ0JyU3NGZi1PaTM3ZnJQY1M4WWRiOW45QVh4cDdOSS1HdGtIWFBVcW1oUVVtamg3TnBlNm9CZ0VJc2FUUlVTSV9wRXZaVWFnYw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-23T11:00:29Z",
-      "summary": "伊利诺伊州要求对AI开发者进行审计，但专家质疑执行方和标准。据《芝加哥论坛报》报道，该州新规旨在确保AI系统公平透明，但面临审计人才短缺、审计方法不统一等问题。专家建议引入独立第三方机构，并制定明确的技术评估指标，如可解释性、偏见检测等。该报道凸显了AI监管落地过程中的现实挑战，以及行业与政策协同的必要性。"
-    },
-    {
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "title": "Nvidia is sending GPUs to the moon",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23T11:00:00Z",
-      "summary": "专家否认Kimi K3模型通过蒸馏Anthropic的Fable模型获得优异性能。TechCrunch报道，有专家指出单纯蒸馏不可能在如此短时间内达到如此强的模型能力。暗示K3可能采用了更创新的架构或训练方法，如改进的强化学习、大规模数据合成等。该事件引发对AI模型研发透明度的讨论，以及中美AI竞争中的技术路径差异。"
+      "publishedAt": "2026-07-23T15:00:00Z",
+      "summary": "英伟达宣布将向月球发送GPU（图形处理器），以支持月球表面的边缘计算需求。这批GPU将被用于处理来自月球车、传感器和未来月面基地的实时数据，实现本地化的AI推理与图像分析，无需将数据传回地球。英伟达此举旨在拓展其芯片在航天领域的应用，为NASA的阿尔忒弥斯计划及商业月球开发提供算力基础。项目预计于2025年搭载商业月球着陆器发射。"
     },
     {
-      "title": "US Alleges China's Moonshot Used Anthropic To Build Powerful AI - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWllJYXJ5UEtwbHI3aml4eUF3TlpKQnA1Q2pfRV9yRkt4emRCRWd6bmdITmJ4Ymg3SEp4RGRXYXRwOEFoNHdTLWpUU0syMW9sQlVNdlBaTnVHcV96WS1iU1lRQnhsLV95bkRNREpfYmNvQUx2aTB6UDJuMXhWOUduWGFuZFJyd3dDcEk1aFNvYkFvNFRBUm9hVnF4N0J4eTdiQ2hXMFh2SWlJYUZwRHhmUXV6NGhVWGw3R24tUTBXTENzNFVGdmxIbWFmQmhzY0l6cWx5b1A0UkNQZ9IB4gFBVV95cUxPVkp3R1Z0MW00c242NjBCcktwamZEb3BYOGNfTTJVS1ljM2psdHp0TXBXOXRGVzZ3LUIybVBBUzU0MnBKSjdFSTlzWDBjR01HZXNzQU5SdG5pcUNreFpHdVBFaFlWM19pUTBrYlN5QWx4RGg1ZUpUaGdfZDhyZHA3ZzROTUxQU2swUzg2VVRTUG5KTGxWdTM0SjdBY3dBc1JsWm9FeklwYUxrQktWNlFPMk93YlRSaDM4QmcwM3NtdlNhLUE4azBsZG02dFdvNXV5NWN2Yjcza1pWWXJCMlg3cDlR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-23T10:36:01Z",
-      "summary": "美国指控中国AI公司Moonshot使用Anthropic的技术构建强大AI模型。据NDTV报道，美方认为Moonshot可能未经授权利用Anthropic的先进模型进行训练或迁移学习，涉嫌知识产权侵犯。此举加剧了中美在AI领域的技术竞争与互不信任。报道指出，此类指控或影响双方商业合作与开源生态，技术要点涉及模型蒸馏、迁移学习等方法的合规性问题。"
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23T15:00:00Z",
+      "summary": "AI芯片初创公司Etched以103亿美元估值完成新一轮融资，投资方包括知名风投机构。该公司由三名哈佛辍学生创立，专攻AI推理加速芯片，声称其新型芯片和内存组件无需传统GPU即可高效运行任意AI模型。Etched的技术通过硬件层面的专用架构优化，大幅降低推理延迟和功耗，目前已吸引多家云服务商试用。这一估值在AI芯片创业领域极为罕见，反映出市场对差异化推理硬件的需求旺盛。"
     },
     {
-      "title": "US-China AI rivalry heats up as Chinese models gain ground - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU9HTVR2emZCeEU5SmdSbDlQTzRsNmpHbTRhcTNfbFpkNktxTlVqcVFRNEZnUERVS2pScGQ4dmFrNkhKSldBNUF3ZTFIdDZMT1QtUFUzNEtUd0IxUXVyaFB6M1NRUkZBQXJEajkxREF0dXZUdmtrQng4Y0tDeGo4VTU4ZDhPaUVrYl9mZS1BT0ZkN3F0OUHSAZYBQVVfeXFMTWRqV1RxQmloamtTd0RpNzVfQUYtd3BRZmR5VUk1R25Pbi00RWZfX3dqcl8wOXZnX0lRM1NpVnpxUmdNVktCZG5uV1lpWG9qY3FEYWV5SnF5MVhGOWY2UXh6cG1NY3pwVm55VmtzVVZ3YVlvWHRBTFNKblY4ZDctR2YxdlJDVzB4TVRyZTY0dGRxai1RRzlR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-23T10:32:17Z",
-      "summary": "随着中国AI模型在多个领域取得进展，中美AI竞争日趋激烈。据DW报道，中国模型在语言理解、图像识别等任务上逼近美国水平，甚至在某些基准测试中超越。美国加大投资并收紧技术出口管制，试图保持领先。技术要点包括大语言模型、多模态模型的突破，以及算力、数据资源的争夺。双方均在寻求创新突破以占据主导地位。"
+      "title": "Google’s Gemini nears billion-user milestone",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23T14:52:44Z",
+      "summary": "谷歌旗下的AI助手Gemini月活跃用户数已突破7.5亿，并正逼近10亿大关。自2023年底推出以来，Gemini通过整合谷歌搜索、Gmail、地图等核心服务，以及多模态能力升级，获得快速用户增长。分析师指出，若保持当前增速，Gemini将在2025年第二季度达到10亿用户，成为仅次于OpenAI的热门AI产品。谷歌计划进一步推广Gemini Advanced付费订阅，并扩展其企业级应用场景。"
     },
     {
-      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal - AI News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjJrUV92dTBUdXhuWGlpdHl1ZEZHckZUd1F3VWdMdkU4NWFtVnhjNjRIRWJ3bmllcG1Udmx6LVc2LU5xcEZycW0zQXg0R3VYQWduaXNuSVBrbExLUDl0N0g3MzctcE1xNDd2NTYxdTlpYmpCVkd3bE4yQ3Z2UEszQVJuTGx5SmQtWG5zTWpldw?oc=5",
+      "title": "Global Studies Show Companies Use AI for Collaboration Not Automation - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFFDN1kzeHRtZmZpclYtRXdYdFVsSDlxVGNtWENTNTFRWFQtVVdadUlxMV9iMkQtMlFpMFZGZVNaU2tiRW1mdkZ0VlpickV4dlZ0TjhGZ2luTFRZSnh1MUxQeWNZdTltQ1lNSlJ1Y3AtX0pGUFkxd25sTG91ckVYYTFlclFoX3Aza2UycGloUVZiZUxEaUJ4aVZBek5nb1RjUGEwdGpYTzlqQXVvazNtTDdvaEhpYkxCNHFFMTVtQllydV9oTkE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-23T10:00:48Z",
-      "summary": "AMD宣布向Anthropic投资高达50亿美元，作为AI基础设施合作的一部分。据AI News报道，该投资旨在联合开发针对AI工作负载优化的芯片与系统，增强AMD在AI硬件市场的竞争力。Anthropic将利用AMD的GPU和CPU推进其安全AI研究。此交易反映了AI公司对算力基础设施的迫切需求，以及芯片巨头通过生态合作抢占AI市场的战略。"
+      "publishedAt": "2026-07-23T14:50:04Z",
+      "summary": "多项全球研究显示，企业部署AI的首要目的并非取代人类员工，而是增强团队协作效率。调查发现，超过70%的受访企业将AI用于辅助决策、信息检索和流程协调，而非简单替代重复性工作。AI工具如智能会议摘要、项目调度助手和跨部门知识库，帮助员工更高效地同步信息。研究者指出，这种“协作式AI”模式更易被员工接受，且能在不引发大规模失业的前提下释放生产力红利。"
     },
     {
-      "title": "How AI agent marketplaces could become the app stores of a new agentic era - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOXpqVFhFR2wxQ0ZiOHJ5R1hvcFNyeHJ5aWw5Qnh6VEVxUjNWWE5ibjc3VlB0TzV3My16NjJ0anhPWVdXNy1jVzc4TTlPNzFjWkNkV3ViOWFaOTVnWDBnLVN5b0ZuT1RYVFVVakpLQWxzYmdsQS1UMjdpSEh0WWZOeFczTHlPRHRwczJHajd3dldSQzNIZjUya2ZEV3JLT2xiMFlZTVBkUGdVQ2tZdjdRdHFWOWcyb0pMNG5GT0NOc0pqSEdwaDk0VFhjeFdPVkVIV05OeEc3WHpqNE9NTjhtM1hmdDB4OW5sS05B0gHwAUFVX3lxTE0tWU1TQm1IUDFPb1c2eDg4VDU4Y3gxUFdjMElLZEtTaThTNEVodmQta1NPYTZpaG1xU3ZfdzlLcWhSNVN1a3k0OHVkT2g0cERzRDhrT2JXNmx1UVZGRUF2XzdLUElFT3FEWHpaWUVFczdfbGJIbmptcUlod1RySWZuY0JLRU9TMzhEWjlHY1VJV1NBbXJ3bEJLbGVveVgxNENwX3FFODEySDVlV1p6MlJEcVI5cTRFUDFNUTRzUUhPVVBRVkhKaUFlNGI2V05fTnBRMmRUaThFbTk4am5IRUJUVURUd3M1RGRfYnhiM2hDeQ?oc=5",
+      "title": "Artificial intelligence regulation must not leave older adults behind - Policy Options",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tSXllS3MxYUk1QlY5cHBIa1BPYzFuQ0YyekI5cXBXamJ2Um0xU0pMLTVyZDVyTHNfRzlxY0Nub2RWWVJxNE9TNkxrdWZuN1BvM0VJdW9zQUxrTWZQRFBfaS00N2ZBZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-23T09:46:08Z",
-      "summary": "文章探讨AI代理市场可能成为新一代代理时代的应用商店。据《Business Standard》分析，类似手机应用商店的模式，AI代理市场将允许开发者创建、发布和交易智能代理，用户可便捷选择用于特定任务的AI助手。这一模式有望降低AI使用门槛，催生全新生态。技术要点涉及代理编排、互操作性标准、安全认证等，未来或重塑人与AI的交互方式。"
+      "publishedAt": "2026-07-23T14:48:45Z",
+      "summary": "政策分析文章强调，各国在制定人工智能监管框架时，必须确保不会忽视老年人群体的需求。老年人对AI技术的使用率较低，且易因算法偏见、界面复杂或隐私风险而受到负面影响。文章建议监管机构在可解释性、无障碍设计和数字包容性方面设立专门条款，例如要求AI服务提供多语言大字版界面，并对涉及老年人健康、金融等领域的AI系统进行强制性审计。避免让技术鸿沟进一步扩大社会不平等。"
     },
     {
-      "title": "85% of Indian finance leaders under pressure to prove ROI on AI: Report - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSjhnOVU0NWJfT1FQVng0alhqVl91eFFVajd2RG5OT09fZzRZVnZZV3ZGQkt1VUx2bG1LNEJlR1JBeG84bS03bERMcmRpTFVJc3RWV1FpVU5jdEp3QnRka0laNEdEZmxWcWcySnh3Z3N0Njl6VHI2ekducXlKNzFNWGFKcXN5eG5lb2lfUm5mZWpocW5Xd2ZjMG16Y2xscXQ3UmpSajZuelVvSlcwZDVxQ0RYdW9qakVhdUFNOHd1M1ljUlVfRmpIWmxEUEdwQ3lqY1FiVmJJdU9ZZmh1dS1XVTd0cDlWZmk5clBoYVZnUdIB9AFBVV95cUxNZ1FJZlZJYVBxVmdSLXZaUVFPQXVYdFA0YVowQTBQVzV4ZHV4YmtBUUdQa1RYWFFkOGM2ZUozTWZERGw3LVBaNWstZHNoTTZqcjgyNlpINkp2d2ZaNVVFcEE2NFZremdjOXF1ZllJY1Q4T0tKTlZNbklrT052YW9WUlc3Q0FKTDQ5OHZMRTNNLU8wQy0wTVZrVlRfUk4yUzZDMnQ4RVk3OF9hblVTMnVNMzNwNXVEVFdKb3c2TmZ1aGRvWENuVjI3T0pidDlqLTNPOFNmTWpPbTh1TFVvMzgtTzE0WWFaWGNRNWJ0U3UxWFUxYXhJ?oc=5",
+      "title": "For law firm leaders, AI adoption is often easier done than said. A principles-based approach can help - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWDRmN0x5MG9rVnRFakIxUWVMQzBFY3hpNWhoaW1nT3RtX25veWRMaldJV0R4eTBWbThOWklUWkJfcld0RUtfRDE5SDVtcC1TMlZFMVlDOU56LUxDcEhXZ1g0MmZRRU5LS242OXZ3YjVUVWRmXzJSWTBhb0FrZV82eUEyQUNIbnFabXVkRTdtaTFxdFQ3TU1EanZmak5sLW8ydjhxQTBRX1hlSGkwQ1VXM2NObmF3dUZZOWNEdHdoMnZYY19iTjdxQmtxRlVZUjJuQXRuXzVRZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-23T08:45:10Z",
-      "summary": "据Business Standard报道，一份报告显示，85%的印度金融领导者面临压力，需证明人工智能（AI）投资的实际回报率（ROI）。这反映出企业在AI部署中日益关注成本效益和商业价值，尤其在金融领域。高管们需在技术投入与可量化成果间取得平衡，以说服利益相关者。报告强调了AI项目评估标准的重要性，并指出印度金融行业正积极寻求可衡量的AI应用价值。"
-    },
-    {
-      "title": "EU warns artificial intelligence (AI) could become a political weapon - Garowe Online",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnFncl9nWHdfWFlSZVBuVU44Z21OcEpQNF9iZlZ2MXQtSHNzMkhHT3NjMkRxSldmMS03VUQyLUJ6b2hpbldadEJUT2JtRUVGQTlHcW9KMVV3cm1VcXo2UDJVX3NuOTktQWp3ZS1uV1hqdmtrRUpaMTRkQXV6RF9sWTFxdnF5R2RURVVZYzF3WUxOd3V4YkJoaDZoWHVkWC1ocUhrdU42UXRCZm8tNmpv?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-23T08:13:11Z",
-      "summary": "欧盟发出警告，认为人工智能可能被用作政治武器，带来操纵舆论、干预选举等风险。Garowe Online报道称，欧盟官员呼吁加强对AI技术的监管，防止其被恶意利用以破坏民主进程。AI生成内容、深度伪造和算法操纵等能力，若被不当使用，可能加剧社会分裂和虚假信息传播。欧盟强调需制定国际规则，确保AI发展符合伦理与法治框架。"
-    },
-    {
-      "title": "UAE advances AI talent strategy with National Experts Program - Gulf Business",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGlIM3ZyZEhuOTRjbkFsRHl3a1ZzcFVPTy1rU2VlOFBRenZJaktYUUt3RkRRSFlmdHJDd2trVnpnS0JfYTcwanNuVFFGYzFfcTNCd2FNNGZ4bFVHLUNabDVHOWVvelhxNFJRWHM5a1kycHB2Mks2alBEbmkxazFfak50TTlJS3NUNFNmZWQ2QWtZTEhyQl85VGJyMFpCdm8wOWhlM2JlWXR0UUQxaGY3Y1BSX3RocHV6NUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-23T07:59:47Z",
-      "summary": "阿联酋通过“国家专家计划”（National Experts Program）推进AI人才战略，旨在培养和吸引顶尖AI专家，加速技术创新。Gulf Business报道指出，该计划是阿联酋国家人工智能战略的一部分，聚焦于开发本地人才库，提升AI在各行业的应用能力。通过系统化培训和跨国合作，阿联酋希望巩固其作为全球AI领导者的地位，并推动经济多元化发展。"
+      "publishedAt": "2026-07-23T14:42:10Z",
+      "summary": "律师事务所领导层发现，AI工具的采用在实践中往往比口头讨论更简单，但需要以原则为导向的策略来确保成功。路透社报道指出，许多律所已在文件审查、合同分析和法律研究等环节使用AI，然而管理人员在公开讨论时却顾虑重重，担忧伦理风险或客户信任。建议律所从透明度、数据安全和律师责任等核心原则出发，制定清晰的AI使用指南，并通过试点项目逐步推广，同时加强对员工的培训与沟通。"
     }
   ]
 }
