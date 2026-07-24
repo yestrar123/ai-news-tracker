@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "2888",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T01:00:00Z",
+      "summary": "AI护栏机制正在阻碍进攻性网络安全研究人员的工作。这些研究人员专注于发现未知漏洞并开发利用工具，但OpenAI和Anthropic等公司设置的安全护栏限制了他们的测试和攻击手段。研究人员表示，护栏过于严格，导致无法模拟真实攻击场景，影响漏洞发现效率。这引发了关于AI安全与开放研究平衡的讨论，业界呼吁制定更合理的规则以兼顾安全与创新。",
+      "fetchDate": "2026-07-24"
+    },
+    {
+      "id": "2889",
+      "title": "Kyobo Securities Launches Company-wide Artificial Intelligence (AI) Training - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52bVRya2Uwel9obVBNRnlDanNwUHpkejRmMlVCNlJjSzRUaXQtVDU5eXlycFJIazVBSzJUd1NCUGUxWnY4d2VpZlNMYVQxbmZFVGpUWjRqV1MtUDF0cUZOdGFsNUZrczVHVE1BMlpWUm1kdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-24T00:46:07Z",
+      "summary": "韩国Kyobo证券公司宣布启动全公司范围的人工智能培训计划。该培训旨在提升员工对AI技术的理解与应用能力，涵盖机器学习、数据分析等核心领域。此举反映了金融行业加速数字化转型的趋势，通过全员AI教育增强竞争力，以应对市场变化和客户需求。Kyobo证券希望借此培养技术人才，推动业务创新。",
+      "fetchDate": "2026-07-24"
+    },
+    {
+      "id": "2890",
+      "title": "More Americans think China is world leader in AI, new survey reveals - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLV9oUmpDenFUSW03Y19oMUREckI2bmlpWTF4RWJMWDJYVkNUN2xzSnFfNXVkNGJ5akdMU2U4a2FpdDAxQjFnaDVVaWhnd0E3N05UNTc3OW03eF9pUnVkcFJZbzJFb3hRRFZaSTE2WkpXM3U3OTlJa2VMalI3c0pVSnM3OExxX0oybWZfYk5ud3NnTXpBb1Q3dnY0RFhNY1V3ejJxZF9WQUNrdHFyYkp0b3hhUTB2Um9RSk5R0gG7AUFVX3lxTE5Nak9mcXJST09mQUpPT2NVdm0xdmVwNEMyWVN1LUdwX0xFYkZYS2k5Y1UxYndfRG41TTAyR29ySThlSlRvaFlLSFYyRzh6RHlmeGNxOHRCSnZiNGp6SDJXX0gxMXhoMnotQzZRTHpxYjFJSEd1dHVYMTJSUHNXRU1PM2lqUTdweFhBZnoxRVlXa29oME5DQ3l6YklBbFJoMHd1MjVBaDZfM3pkOTFFMDY0dkdPTVczUmpmd3M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-24T00:42:49Z",
+      "summary": "一项新调查显示，越来越多的美国人认为中国在人工智能领域处于世界领先地位。这一认知变化反映了中国在AI研发、应用和投资方面的快速进展。尽管美国仍保有技术优势，但中国在专利申请、论文数量和实际部署上的表现正在改变全球舆论。调查结果可能影响政策制定和产业竞争格局。",
+      "fetchDate": "2026-07-24"
+    },
+    {
+      "id": "2891",
+      "title": "AI is forcing Big Tech to do something it's never done: Spend more than it earns, and Wall Street hates it - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1c0dmNIbWl2eFI5MFNPUlJPa2hHNkJCZ1BtRDh2bkN1RlFKUDFBb1dEcHE2SW51WG5OSmJUTm9Id0NFZVFiZ0hjZGFMZmJ4OUMwejdXY1ZsZVhIdkd6cWwtSkJWc1lXV01iME44ZjhhbzNvTVFFcDdHRWstTV90LWZCMDVtcTEwZDVVbUxBNmNHaEVlc2tN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T22:08:00Z",
+      "summary": "人工智能投资正迫使大型科技公司首次出现支出超过收入的情况，引发华尔街强烈不满。为了在AI领域抢占先机，谷歌、微软等巨头投入巨额资金建设数据中心、购买GPU和研发模型，导致资本支出飙升。然而，短期内AI业务尚未带来足够回报，投资者担忧盈利前景，股价承受压力。这凸显了AI热潮下的财务风险。",
+      "fetchDate": "2026-07-24"
+    },
+    {
+      "id": "2892",
+      "title": "How Waico is democratising AI - Mail & Guardian",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBRDAzUnhRel90Nm1MS2xjWDVMWnRkMGNFLVJIbldkQTZ5N0xMbzdKdFd1MHhNZnFkNEppRzZnbnVvTnplMnFsd0M0dlpHWmR2SWJfS0drVDlnMWpHRmt1dVFpeHQ3ZERENENXaXBoZzZ4V0VkOFViYUdrQm9vQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T22:03:04Z",
+      "summary": "Waico公司致力于推动人工智能的民主化，让更多中小企业和个人能够使用AI工具。通过提供低价、易用的平台和预训练模型，Waico降低了AI应用门槛，无需深厚技术背景即可部署智能解决方案。其产品覆盖自动化、数据分析等领域，旨在打破大公司对AI资源的垄断，促进技术创新普及。",
+      "fetchDate": "2026-07-24"
+    },
+    {
+      "id": "2893",
+      "title": "Warner unveils agenda to help regulate artificial intelligence, data centers - WRIC ABC 8News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ3lQemVzZ3Y4UnZEb2JJN194YXVMX3dNNVlDUk1xUzNURDRRdmIyRXZFWl81bEw4RXY5ZHRob0ZDWElHOXdSZUJqcnhxdUNvYWowdkJhR2dUeU1zZXlzWElrbUlJczY1Ym9CSURmQ3F2QnhQd1hSRHR2Z09QOUVzM2hHV1pDenlxOFdaMDE2N0dQS0RoNnBqOUF2cDMwY2RFWXU5WF9DcEt5SzlZdWxjRU81YnJHb2h1TjBBLUM4d2x6aGpQS01MZmV30gHPAUFVX3lxTE1NSXNfd3JkUE5nM0JvUkExbndoc3VMbHZOQUtSVUozX1hJcE9ocEQxRUszUjlYNzJGUnc0Rl91bnpYcWIyaHBIaTJma3p5cUlWUFFEVFRUTE05QlR5U0g3TXNQdEtvV2RyMFQ5aENZUl9lb21pd1hhSWpPSk9CVjhwVFhFVG90Skt2WTdiejE5YWl6YmVfRXQ2R3NrRll2TFd6X3VTNDBtRjctNVh6ZG9jeFNsOXQ5aE9RdEpEaVR3MWxTbmRqS1Z6TnNjSXZGVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T21:35:53Z",
+      "summary": "美国参议员Warner公布了一项监管人工智能和数据中心的议程。该议程提出建立透明度和责任框架，确保AI开发遵循伦理标准，同时规范数据中心的能源消耗与选址。Warner强调需在促进创新与防范风险间取得平衡，防止AI被滥用，并解决数据中心带来的环境问题。此举预示美国将在AI治理方面加强立法。",
+      "fetchDate": "2026-07-24"
+    },
+    {
+      "id": "2894",
+      "title": "Artificial intelligence: Moving beyond the GPU - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWJzWnNFY1c0d3lpNE9ObGtmYjlwWFFoUU9wVHRwTWhMR1pQZThFbXVYT25yVGl2TjRrQTRmWDNHemJ3anNUWFRHREdncGR1eE5rVnhkbnZiaUVWYmk3MGVxekNrNTNlaDJsWDBGUlhKakxRWUZZaEdVTGo0aGxJUG90NF9LckMzQ203bGJDOWlKNnFMVFNJSGxZb01zSGx1RTFzWEpn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T21:21:56Z",
+      "summary": "文章探讨了人工智能领域正从依赖GPU向更广泛硬件架构演进。随着AI模型复杂度增加，GPU在能效和算力上遇到瓶颈，行业开始探索专用芯片、神经形态计算、光学计算等新技术。此外，分布式计算和边缘AI也受到关注，旨在减少对单一硬件的依赖。这一趋势将推动AI基础设施多样化发展。",
+      "fetchDate": "2026-07-24"
+    },
+    {
+      "id": "2895",
+      "title": "Google and Tesla shares plunge as AI spending rattles markets - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QVzVZQlgwd2o3MkNkSlZlVkVmVmFJU21GTTJOR1g4V3Bwb19TVEZiRUNGc3d5T0g4WkljemsybW5ma3dndEVULTJFZHp4VXFEZUdVdmo4b29VQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-23T20:42:33Z",
+      "summary": "由于对人工智能领域巨额支出的担忧，谷歌和特斯拉股价出现大幅下跌。市场投资者担心，这些公司为抢占AI领先地位而投入的数十亿美元短期内难以转化为利润，导致财报数据承压。谷歌在云计算和搜索中引入AI的成本上升，特斯拉则因自动驾驶研发投入巨大。这反映出AI投资带来的市场波动和不确定性。",
+      "fetchDate": "2026-07-24"
+    },
+    {
+      "id": "2896",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-23T20:33:02Z",
+      "summary": "AMD推出名为Helios的AI机架级系统，直接挑战竞争对手英伟达。该系统整合了AMD的EPYC处理器和Instinct加速器，专为大规模AI训练和推理优化，预计今年晚些时候开始发货。Helios旨在提供高性价比的算力解决方案，打破英伟达在数据中心AI硬件领域的垄断地位，有望重塑市场竞争格局。",
+      "fetchDate": "2026-07-24"
+    },
+    {
       "id": "2870",
       "title": "An AI Is About to Become a First-Time CEO - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT2NWZXVwMUYxLUlta1JLdklzV2tJY1FCLUEzQWFld0RDcXBkaHlhMlVhejhESW1BV2JPemJ3UVlVMzVhd2FlYS1iTDlFN3dNdDdzZWpEdjBRMkcwaTZnMzFULUt6Wk9hS0JKczUxcG9EdWhxUWNjTDc0bS1mSFAwTm1lMmFIajB5QVFaQ3RR?oc=5",
@@ -25975,5 +26056,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2886
+  "total": 2895
 }
