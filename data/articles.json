@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "2935",
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-25T00:23:11Z",
+      "summary": "OpenAI推出了一款新颖的AI键盘，专为程序员设计，旨在通过快捷键或触控板集成AI功能，提升编码效率。该设备对技术爱好者极具吸引力，但普通用户可能因操作复杂而却步。报道指出，这款键盘在特定场景下能极大简化工作流，但普及度有限。",
+      "fetchDate": "2026-07-25"
+    },
+    {
+      "id": "2936",
+      "title": "Top Defense Officials Discuss AI's Role in Warfare - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVJOamxoanhsRHhUNmhwcDVITjRJeGxwUHZnZk9qdnNpNWFseDVxdDBqMFRwMWlvemNiaXNzUm1saDlWbk5zWkFmR0VsOVNzcnJlcTJ2WlZBa1ZxR3pKaEdvTEtZbDlDVDhrTmZlUUhzVDRSYjZnaV9kVjBwdzZ0NEVORW94cXR1ajRPaUtidmpOdnpNTjdMelJfVi1xU0hvblpIZ0ZNNVZpWEJiT3V3b0xwZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-25T00:04:14Z",
+      "summary": "美国高级国防官员近期就AI在军事领域的应用展开讨论，强调AI在决策支持、自主系统和情报分析中的关键作用。会议重点探讨了伦理约束和风险控制，旨在平衡技术创新与国家安全。StartupHub.ai报道了该会议，指出AI正逐步改变现代战争形态。",
+      "fetchDate": "2026-07-25"
+    },
+    {
+      "id": "2937",
+      "title": "Uber Eats Uses AI Agents to Enhance Food Photos at Scale - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUdlRmMtS0xnOTFRNjAxZmY4MUNBdXhNNkxoblFHTXFPT3paVXMwNjJhNGVSb3ZnaTBRVVUxeFRGNWtOeGlGSHlNXy1sR3p5RUwxalpVcmVla3FmVjhaNEJBdDY1QmJFZ2xyMmM1Nng3d0NRZ2tRV1BWS3lJTE1PdUJHWm9rTEtkSUJBUkF3YmN1eWROVV9KNVpVaHlaMlh0ZUpvNmluZFROaTd5NzBZSEJNeFl6RFd0MFRF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-24T23:02:31Z",
+      "summary": "Uber Eats利用AI智能体大规模优化食品图片，通过自动调整光线、色彩和构图，提升菜品视觉吸引力。该技术基于深度学习模型，能批量处理海量图片，显著增强用户点餐体验。此举展示了AI在电商和外卖平台内容优化中的实际应用价值。",
+      "fetchDate": "2026-07-25"
+    },
+    {
+      "id": "2938",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T22:25:58Z",
+      "summary": "由LinkedIn联合创始人Reid Hoffman与Zynga创始人Mark Pincus共同创立的AI实验室Prentis正洽谈融资1亿美元。该实验室聚焦自动化日常电脑操作，认为其将超越编码成为AI最大应用场景。新实验室致力于开发通用型AI智能体，简化企业流程。",
+      "fetchDate": "2026-07-25"
+    },
+    {
+      "id": "2939",
+      "title": "Open-Weight AI Debate: Tech Giants Urge Washington - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVdkUXU0MWVneDBTbXZlTGNlYXR1dDU5UVQtQU80LXB1OWJiTGtReHBGWHJDdDFoTFBtR04wYWFMekcxOVNHVGJ4c1RuVlN6NV9tUk9wRDZZMmg2UkpTU1Rtbm1HLWtvMGZKTDBxYnYwa0MzU1dKWmhUclRuRlF2LXVBb0FyeWF3Z1hROTNER0FsWWR3NGdiUnUwZXA1Y1d3cWxtbVRyOUxNaHJ3aEtjd1pR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-24T22:02:53Z",
+      "summary": "科技巨头敦促华盛顿就开放权重AI模型制定政策，引发行业辩论。支持者认为开放权重促进创新与民主化，反对者则担忧安全风险。此次呼吁旨在影响美国AI监管框架，平衡开源与安全，TechCrunch报道了相关进展。",
+      "fetchDate": "2026-07-25"
+    },
+    {
+      "id": "2940",
+      "title": "Weak AI regulations may leave artificial intelligence less safe - Earth.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOW9kbWc2emc1c1c2dnpEXzg0YnJlM1h4ZjAxcEJEYktsZW5YbjV3bWt0czBZQ1l3WGtKYm90NlE3Z3NHU0ZCdmpLMUZHSGFWejgxMENHREFlalRXNkZ0WVdBVTBZb1JVcnVGVDJ6ellOdjBEcU13Q096a0dZb1NDTVdVeXlFLTNJdHZpaE5GVTFnUDc5WkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-24T21:11:15Z",
+      "summary": "Earth.com报道指出，当前薄弱的AI法规可能导致人工智能系统缺乏足够安全防护。专家呼吁加强透明度、审计和伦理审查，以防止滥用和意外事故。文章强调，若监管不力，AI发展将面临信任危机，亟需建立全球统一标准。",
+      "fetchDate": "2026-07-25"
+    },
+    {
+      "id": "2941",
+      "title": "Top AI Graduate Programs for Advancing Your Career in Artificial Intelligence - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTZ3WlFTWmpMcUplNGtaOTZCenNwa25wQ0tkamh5RWNPdmpCTmpjZUxiSW55dUVhcDJNM09tTGJBVnlQTzZmSW8tekxqYW5WTlU0ZktDMDN4R2JEaGdULWFvUTJoVEhrNWRwTnZsM0N5Q3o5b2w5YldsbS04SE1mUnRVMFA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-24T20:55:54Z",
+      "summary": "AOL.com盘点了顶尖AI研究生项目，包括斯坦福、MIT、卡内基梅隆等院校，课程涵盖机器学习、自然语言处理、计算机视觉等方向。文章指出这些项目注重理论与实践结合，提供工业界合作机会，助力毕业生在AI领域快速成长。",
+      "fetchDate": "2026-07-25"
+    },
+    {
+      "id": "2942",
+      "title": "RyanTech Announces AI Implementation Services to Help Businesses Securely Adopt Artificial Intelligence - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeUN6NWI1cjZoNmlrQl9qZmlUMUJJdlF2bC1pX0ZyaHBQSWZ2NHhvS2xzUm9OSG44dENuVXh5dEJEdVNsak1tcHkzS2c3cm9vUmdhbjVJb2l3UjJjSWQ0QnhiZlZNbWZXRGluY1NSMVYzbnpYWnAwOEdvYU91QVp1bGo2UFphR05IUi1GQ19Pckt4ZmUxTFM3bWY4bHVyNHRNTVhoWUpQdTFrb1BwVDB6eE9UU3B3c2xhQW94ZmNOOXZJNVlYb3UtMDYzdk5vbUdGcy1aa1MzLVJucElDN21wOXlXdUI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-24T20:21:00Z",
+      "summary": "RyanTech宣布推出AI实施服务，旨在帮助企业安全采用人工智能技术。该服务涵盖风险评估、数据治理、模型部署及合规检查，确保AI系统在隐私和安全框架内运行。此举响应了企业数字化转型中日益增长的安全需求。",
+      "fetchDate": "2026-07-25"
+    },
+    {
+      "id": "2943",
+      "title": "Robin Williams Had A Cameo In This Underappreciated Sci-Fi Movie - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa01EVF84NEk2WW1jZkExWGhrUUlFbWxhZmt3dHVtcllFMGU3b1NwM3NFNDZ4cW1qX2pYUmJNSm5iX3lFaHA5cG05bmNmZ2NCUXZqaVpMVktmV21uYWowLVk3VWVXd1ZJUnRNYzFTU210THZlTk5VTzVUZmFsYzh1eTRNVVA4VVNGdVZLTXRPei0wS09BcGN3OVFXSlZtQ09JekE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-24T20:17:00Z",
+      "summary": "bgr.com报道喜剧演员罗宾·威廉姆斯在一部被低估的科幻电影中客串出演，但原文未提及具体片名。作为一位传奇演员，他的跨界亮相为影片增添了独特趣味，值得影迷挖掘。该新闻与AI主题无关，但属于科技娱乐领域的花絮。",
+      "fetchDate": "2026-07-25"
+    },
+    {
       "id": "2915",
       "title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5",
@@ -26398,5 +26479,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2933
+  "total": 2942
 }
