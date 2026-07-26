@@ -1,27 +1,55 @@
 {
-  "updatedAt": "2026-07-26 08:05:58 UTC",
-  "totalArticles": 3,
+  "updatedAt": "2026-07-26 12:55:26 UTC",
+  "totalArticles": 7,
   "articles": [
+    {
+      "title": "HMD Touch AI: a button phone with artificial intelligence - hi-Tech.ua",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTHltR2ZqMkpGYXZpQ3hDS0RCcHA4RUs0WXpPa29ta3g5aEdkaHo3TkF0RmxNWFR1eFFsaTdFZVRnNDN0LTFyU3BFY0pMc0J3M1lHbF9xRXR1d0hMdDQtdldBRkJvZUhlMGc0WTJXUGZzWUN6cFV5UmdTdzBFWmpsMWlBN1ZOUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-26T11:06:34Z",
+      "summary": "HMD推出了一款名为Touch AI的按键手机，将人工智能技术集成到传统功能机中。该设备保留了物理键盘设计，同时内置AI助手，支持语音交互、智能提醒和基础应用优化。其核心卖点在于为不习惯触屏或追求长续航的用户提供轻量化智能体验，尤其在老年市场或数字极简主义者中可能具备吸引力。尽管硬件配置未披露，但这一尝试反映了AI从高端旗舰向细分终端渗透的趋势，通过降低使用门槛拓展AI应用场景。"
+    },
+    {
+      "title": "SpaceX vs. Nvidia: Which Trillion-Dollar Artificial Intelligence (AI) Stock Is the Better Buy After the Recent Pullback? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbl94bXd1ak5maXJQRllJcHlMQ3V2RVlIOXhUOTVmeUdfSVBCTUV3MXdKMXZsbWNPOFY4NExHN252NEFtdjY2Y1IzMGtBWm9IZjFXWDVaWC1nSlg1UG9wZVdLZ2VWQWNHSDVxanVMZnNua19POUdHWlA5YTdQeTBxejdHN0pvdkJxMHBNOUh4WUprenJGamdN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-26T10:28:17Z",
+      "summary": "SpaceX与Nvidia在AI领域均达到万亿美元市值，但在近期市场回调后，分析师比较了二者的投资价值。Nvidia凭借GPU在AI训练和推理中的垄断地位，受益于数据中心需求爆发，但面临竞争和估值压力。SpaceX则通过星链卫星网络和火箭复用技术构建独特的AI数据基础设施，但其商业化阶段尚早。文章从技术护城河、市场增长空间和财务风险角度对比，指出投资者需权衡Nvidia的确定性收益与SpaceX的长周期爆发潜力。"
+    },
+    {
+      "title": "Amid the great transformation of artificial intelligence (AI) and polarization of K-shape, solving t.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sNVZ1M2t4RllwdS1yYXJ1RUxEaVdvQmpYX1RhenlfeXIxQllpU2lzLTVSRzNMT19sZnFFdURaTkNJdWVkSjV3LUllUlFpdm5mbEE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-26T08:35:46Z",
+      "summary": "在人工智能大转型与K型分化加剧的背景下，文章探讨了如何解决由此引发的社会经济不平等问题。随着AI技术重塑产业格局，高技能岗位受益显著，而低技能劳动者面临被替代风险，形成类似字母K的两极化走势。报道呼吁政策制定者关注技能再培训、社会保障体系完善以及AI伦理监管，以减缓技术性失业和财富集中效应，确保AI发展的包容性。同时强调了跨领域协作在构建公平型AI生态中的关键作用。"
+    },
+    {
+      "title": "Global artificial intelligence (AI) companies called in by K Semiconductor have left promises beyond.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIRmNCLVBaQlFVWlJsRVZfRlpIeEFpLVZSeFNIZmpvZHJPbnl6OVZEcFRLVHRvMm1RajdUa3RMUVRmeDI2N0FXSjhCZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-26T08:20:47Z",
+      "summary": "韩国半导体产业通过邀请全球AI公司参与合作，获得了远超最初承诺的技术支持和投资规模。这些跨国企业不仅提供了先进的芯片设计工具与算法优化方案，还承诺在韩国建立联合研发中心和人才培训项目。此举旨在强化韩国在存储芯片外的AI算力供应链地位，缩小与美国、中国在人工智能底层硬件上的差距。合作成果将加速新型AI芯片的商业化，并推动韩国本土半导体生态向逻辑芯片和先进封装领域扩展。"
+    },
+    {
+      "title": "Silicon Valley has split into two over U.S. artificial intelligence (AI) regulations against China. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOSjduM1JMRTJYMFI1Y0NDTnh5cndyWFVMVlRUV05ScEc3Z1VLX1ZlcDZoVFJRZHZTZmN0X3B5Tk5naS1jYkFGUUtBVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-26T08:19:36Z",
+      "summary": "针对美国对华人工智能技术出口管制措施，硅谷企业出现明显分歧。一派支持严格限制以维护国家安全，尤其涉及军工用途的AI芯片和算法；另一派则认为过度限制会削弱美国企业竞争力，导致技术外流风险，并主张采取更精准的管控。这场分裂反映美国科技界在理想主义与现实主义间的博弈，也影响全球AI供应链布局。报道指出，未来政策走向将取决于中美技术脱钩的实际效果和国会态度的转变。"
+    },
+    {
+      "title": "The United States tried to introduce humanoid artificial intelligence (AI) robots for educational as.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PbEFHbHo5eV9CWHRVT2E0V2J1V3gxbzNnODBuLTQtQ2pPZk1tOTR2cFJrVmRqdDA5ME9jQk9OenUyN0ZpMkpJM1NrS2ZhdEE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-26T07:41:13Z",
+      "summary": "美国正尝试将人形AI机器人引入教育领域，作为辅助教学工具。这些机器人具备自然语言交互、情绪识别和个性化学习方案生成能力，旨在减轻教师负担并解决师资短缺问题。初步试点显示机器人能有效提升学生参与度，尤其在STEM学科和特殊教育中表现突出。不过，隐私保护、数据安全以及机器替代人类互动的伦理争议仍是推广障碍。报道认为，若监管框架完善，人形AI机器人有望重塑未来课堂形态。"
+    },
     {
       "title": "Artificial intelligence (AI) battlegrounds are moving from graphic processing units (GPUs) to \"optic.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yenpRSDJrYkR3clg3T3BtWnZLazZCSEZtSV9BcnpPYkdobHgxbG5MTWFJQVdPeGUtZnB0QzMxLTcwZ1FVZEpWNWxLWGxmbGs?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-26T07:36:33Z",
-      "summary": "人工智能竞争领域正从图形处理器（GPU）转向光学技术。这一转变表明，随着AI计算需求激增，传统芯片在速度和能效上的瓶颈日益凸显。光学计算利用光子而非电子进行数据传输与处理，有望大幅提升并行计算能力和能效比，降低延迟。行业巨头正加大在光子芯片、光互连等领域的研发投入，以期在新一轮AI基础设施竞赛中占据先机。此次技术演进或将重塑AI硬件生态，推动超大规模模型训练与推理的突破。"
-    },
-    {
-      "title": "How Artificial Intelligence ( AI ) boosts farming - Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3JCUkV3Vm85a0tZYlUzN21Ca1d4UVRpbDN3NUhEa2ZST0w0QUo1M01OY1dhWG5SS1hwa0dYWXFkdmI1RTBhaURGVTVkSUFhVnJIZ2RacDdCTDN4Sk5SZEM5NUxpOUFIUlpDNml5MzJXeUNMWlJKSE5iTUxpbVpTNUxZckhvWFhwR0E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-26T04:10:22Z",
-      "summary": "人工智能正在赋能农业生产，通过精准监测、智能决策和自动化操作提升效率与可持续性。AI技术可分析土壤、气象、作物生长等多源数据，优化灌溉、施肥和病虫害防控方案；无人机与机器视觉系统能实时识别杂草与病害，减少农药使用。此外，机器学习模型帮助预测产量、规划收获时间，降低资源浪费。各国农业科技公司正积极整合AI，推动精准农业落地，助力应对全球粮食安全挑战。这一趋势表明AI正从工业领域向传统农业深度渗透。"
-    },
-    {
-      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI - AI News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hQcXlIMVB5UFFwVXM1Y0pZQm5XOXBzUmNveTg4RjZCc2RNdjdOVFV4U2JDZWdrTTRuTVROZ3lodE5FRVpielNWTVUyaFJkQlhHLVZmSVBWc1BRUHhNS1dNUjNTZ1lCb0drYk9pQ2hLQUtIUXlQUUc4eDNGVGYxOVQ5S1JSaDF0Q3BKSFFncDBKYUZCVV9fTm1aZXd6bjZKanB2dg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-26T02:47:58Z",
-      "summary": "Meta、微软、英伟达、IBM等科技巨头联合支持开放权重人工智能模型，标志着行业对开放协作态度的重大转向。开放权重模型允许开发者访问和修改预训练权重，降低AI研发门槛，促进创新生态。此举有别于少数公司掌控封闭大模型的封闭路线，有望加速AI在医疗、教育等领域的应用。支持者认为开放权重能提升透明度与安全性，但需警惕潜在滥用风险。此次联盟可能推动全球AI治理框架的调整，平衡开源与责任之间的张力。"
+      "summary": "人工智能算力竞争正从传统GPU向光学计算领域转移。光学计算利用光子替代电子传输数据，可大幅降低功耗并提升处理速度，突破摩尔定律瓶颈。多家科技巨头和初创公司已投入研发光子芯片、光互连和光学加速器，旨在解决大模型训练中的能耗和带宽限制。尽管光学计算尚未完全商业化，但其在AI推理和数据中心互联中的潜力已吸引大量投资，预计将成为下一代AI基础设施的关键技术之一。"
     }
   ]
 }
