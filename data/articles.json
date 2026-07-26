@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "2967",
+      "title": "Artificial intelligence (AI) battlegrounds are moving from graphic processing units (GPUs) to \"optic.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yenpRSDJrYkR3clg3T3BtWnZLazZCSEZtSV9BcnpPYkdobHgxbG5MTWFJQVdPeGUtZnB0QzMxLTcwZ1FVZEpWNWxLWGxmbGs?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-26T07:36:33Z",
+      "summary": "人工智能竞争领域正从图形处理器（GPU）转向光学技术。这一转变表明，随着AI计算需求激增，传统芯片在速度和能效上的瓶颈日益凸显。光学计算利用光子而非电子进行数据传输与处理，有望大幅提升并行计算能力和能效比，降低延迟。行业巨头正加大在光子芯片、光互连等领域的研发投入，以期在新一轮AI基础设施竞赛中占据先机。此次技术演进或将重塑AI硬件生态，推动超大规模模型训练与推理的突破。",
+      "fetchDate": "2026-07-26"
+    },
+    {
       "id": "2966",
       "title": "How Artificial Intelligence ( AI ) boosts farming - Business News Nigeria",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3JCUkV3Vm85a0tZYlUzN21Ca1d4UVRpbDN3NUhEa2ZST0w0QUo1M01OY1dhWG5SS1hwa0dYWXFkdmI1RTBhaURGVTVkSUFhVnJIZ2RacDdCTDN4Sk5SZEM5NUxpOUFIUlpDNml5MzJXeUNMWlJKSE5iTUxpbVpTNUxZckhvWFhwR0E?oc=5",
@@ -26686,5 +26695,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 2965
+  "total": 2966
 }

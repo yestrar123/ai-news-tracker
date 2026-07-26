@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-07-26 05:23:17 UTC",
-  "totalArticles": 2,
+  "updatedAt": "2026-07-26 08:05:58 UTC",
+  "totalArticles": 3,
   "articles": [
+    {
+      "title": "Artificial intelligence (AI) battlegrounds are moving from graphic processing units (GPUs) to \"optic.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yenpRSDJrYkR3clg3T3BtWnZLazZCSEZtSV9BcnpPYkdobHgxbG5MTWFJQVdPeGUtZnB0QzMxLTcwZ1FVZEpWNWxLWGxmbGs?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-26T07:36:33Z",
+      "summary": "人工智能竞争领域正从图形处理器（GPU）转向光学技术。这一转变表明，随着AI计算需求激增，传统芯片在速度和能效上的瓶颈日益凸显。光学计算利用光子而非电子进行数据传输与处理，有望大幅提升并行计算能力和能效比，降低延迟。行业巨头正加大在光子芯片、光互连等领域的研发投入，以期在新一轮AI基础设施竞赛中占据先机。此次技术演进或将重塑AI硬件生态，推动超大规模模型训练与推理的突破。"
+    },
     {
       "title": "How Artificial Intelligence ( AI ) boosts farming - Business News Nigeria",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3JCUkV3Vm85a0tZYlUzN21Ca1d4UVRpbDN3NUhEa2ZST0w0QUo1M01OY1dhWG5SS1hwa0dYWXFkdmI1RTBhaURGVTVkSUFhVnJIZ2RacDdCTDN4Sk5SZEM5NUxpOUFIUlpDNml5MzJXeUNMWlJKSE5iTUxpbVpTNUxZckhvWFhwR0E?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-26T04:10:22Z",
-      "summary": "人工智能正在农业领域发挥重要作用，通过精准农业、作物监测、智能灌溉和病虫害预测等技术，提升生产效率与作物产量。AI系统利用传感器、无人机和卫星数据，实时分析土壤、天气与作物生长状况，帮助农民做出科学决策，减少资源浪费，实现可持续发展。尼日利亚相关报道指出，AI在农业中的应用正逐步改变传统耕作模式，为当地粮食安全和经济效益带来新机遇。"
+      "summary": "人工智能正在赋能农业生产，通过精准监测、智能决策和自动化操作提升效率与可持续性。AI技术可分析土壤、气象、作物生长等多源数据，优化灌溉、施肥和病虫害防控方案；无人机与机器视觉系统能实时识别杂草与病害，减少农药使用。此外，机器学习模型帮助预测产量、规划收获时间，降低资源浪费。各国农业科技公司正积极整合AI，推动精准农业落地，助力应对全球粮食安全挑战。这一趋势表明AI正从工业领域向传统农业深度渗透。"
     },
     {
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-26T01:30:00Z",
-      "summary": "项目管理软件公司Monday.com成为最新一家将裁员归因于人工智能的科技企业，这在行业内并非孤例。TechCrunch汇总了今年以AI作为明确因素宣布大规模裁员的20多家科技公司，按时间倒序排列。这些公司包括多家知名企业，AI技术的普及正推动组织重构，部分岗位因自动化而被削减。该趋势反映了AI对就业市场的深层影响，企业将裁员归因于AI，也引发了对技术伦理与劳动力转型的讨论。"
+      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI - AI News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hQcXlIMVB5UFFwVXM1Y0pZQm5XOXBzUmNveTg4RjZCc2RNdjdOVFV4U2JDZWdrTTRuTVROZ3lodE5FRVpielNWTVUyaFJkQlhHLVZmSVBWc1BRUHhNS1dNUjNTZ1lCb0drYk9pQ2hLQUtIUXlQUUc4eDNGVGYxOVQ5S1JSaDF0Q3BKSFFncDBKYUZCVV9fTm1aZXd6bjZKanB2dg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-26T02:47:58Z",
+      "summary": "Meta、微软、英伟达、IBM等科技巨头联合支持开放权重人工智能模型，标志着行业对开放协作态度的重大转向。开放权重模型允许开发者访问和修改预训练权重，降低AI研发门槛，促进创新生态。此举有别于少数公司掌控封闭大模型的封闭路线，有望加速AI在医疗、教育等领域的应用。支持者认为开放权重能提升透明度与安全性，但需警惕潜在滥用风险。此次联盟可能推动全球AI治理框架的调整，平衡开源与责任之间的张力。"
     }
   ]
 }
