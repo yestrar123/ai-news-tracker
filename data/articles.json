@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "id": "3015",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T18:32:11Z",
+      "summary": "微软推出其首个网络安全AI模型以及新的自主网络安全系统，大幅提升AI安全产品线。该安全和AI模型专注于威胁检测与响应，结合自主系统可自动执行安全操作。此举旨在应对日益复杂的网络攻击，利用AI技术增强防御能力，标志着微软在AI与安全融合领域的重要进展。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3016",
+      "title": "OpenAI CEO Sam Altman claims AI singularity has arrived - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelU4cDRWSmdDVFdIYXJXSjItVkZtcTRjLXhmSDB5YlI3LVM2cTUtLWtETG9VV3ZiYkJMR2M3VEZid0NZY1lSUFBDS3M1YkJZYjJkYi1uR2NuT0JJZHB4R2I0OXpEQmtsOEFMZFpBSE1OaHBlTFFwR0F6c2tGb2dNN0syQjFyUFdsNGpBR19TTkdWc1pxWFRHVG4wdGJfQXFy0gGmAUFVX3lxTE1DMTlTbUJYTUhfeUZLVlVTLTYyeDltS2IzQ1d2dVNjN2JGdnFHYTZWaUdOOXNNUzloMEhZdXFBNnpIS3dWcXlaLTNaa1VONHg0TDJNR1djTng3LWd6T2hSbnB6aEluX2d6YnhKd3BZRHlpTk03WDdaSnEtM3lraUdzS1RZaDh5dTc3VXpOeVZTN2QyMFdEMmRGaHFKdXRaWndLdWZyZHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T18:14:45Z",
+      "summary": "OpenAI首席执行官山姆·奥特曼宣称AI奇点已经到来，引发业界广泛讨论。奇点通常指AI超越人类智能的临界点。奥特曼的言论基于近期AI模型能力的突破，但不少专家质疑其定义与时间点。该声明再次激化了对AI发展速度、风险管控及社会影响的辩论。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3017",
+      "title": "Nvidia's $750 Billion AI Deals Face 'Circular' Scru… - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZS1va2ktYWc1NnZ4T011SjdFSUtBYkNUbWJlR252eEpCT0lsVlU3NFI2U0VnSUYzcGdnSHkwR3dkMlF6S2xDZlJTb0V2bUwtM1FBT2YydmpfWVhxUW1taUdxVTVJZW9oVUVhWm9YX2toZkxuZjhVUEtWQ1U1aW5GeWZMLVR4UVAzY2lsV2RKMmRSaVAtZjBVT1JVamFPRG5WT1NRMGQtVl9BUmgyTDV6cy1Qbko0Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T18:03:35Z",
+      "summary": "英伟达价值7500亿美元的AI交易正面临‘循环’审查，涉及交易结构或财务透明度问题。报道指出部分交易可能存在资金循环或虚高估值风险，引发监管与投资者关注。该事件凸显AI领域巨大投资背后潜在的金融合规挑战，可能影响英伟达未来并购与合作策略。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3018",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T17:28:42Z",
+      "summary": "OpenAI在Hugging Face平台上的数据泄露事件重新点燃关于AI对齐与控制的讨论。泄露内容暴露了模型训练细节与内部安全措施，各方观点分歧：有人主张加强AI对齐（使其符合人类价值观），有人主张更好限制（控制其能力），或两者兼行。此次事件凸显AI安全治理的紧迫性。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3019",
+      "title": "AI capability watch centre on the cards to assess emerging risks - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR3NfSHBGaGRlbnYyT2cxRnQwQ2dUeDBfQ0lna3c5TWZpTXh4X3VYRFlTYlBXb2hTLXJHQXUydEE4aGZ6b0ZoSHFiblFGTURJbHlHV1M1UXlBNDlCN3pGTzh0b3dyU2NBU0tPcUlmZVNpWFViTUhPcU5MZDM1b2JqSlFab2xxWGllUm9jR2R5dmVadXZMbkdSVHZEMjBUYWVDaWJyTi1QUE1WQ3NoaklMLWlpRjY1UnJ5YTZ2LW8wUmNqQjBPZzNDOG5aM2ZSTkp0NTN1LTNYR1p2SnR2TjBUQ09WSWgtOUJ60gHuAUFVX3lxTE9RVmpmdE0taUpscFRfMU01QVZjdnJZc2hPRzg2SHVHd0tienZiNHpLaFVzMEZJUnpXeUlTNkF2WHcxQVlkOTN2N2RhSzFwSWZkSmFBRlFmQ3Y5bnpUc09WNHBRVTdQOGtKMjM1TnVXY0tEUEFwV3dxU2V6cVZGOGNhUTF3c0puUzRldDlXeFJVeklJcDJMelg0enlKVkRYVG5nel85N3N1YzJMamhFWHRKYW50VkFtWGt1Qy0yTVY4MVUxUWpudUtRejlDYTRGM1diN2h6OVFTSnFaVk1ONktTWHJhMUxVVzlPdUhTM2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T17:17:19Z",
+      "summary": "计划建立AI能力监控中心以评估新兴风险，该中心将聚焦监测AI系统能力的快速增长和潜在危害。通过系统化评估，旨在提前发现失控风险、偏见放大或自主行为等隐患。此举反映各国对AI安全性的重视，试图在技术进步与风险管控之间取得平衡。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3020",
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T16:45:24Z",
+      "summary": "Meta宣布在Threads私信中集成Meta AI聊天机器人，用户可直接与AI助手对话。该功能逐步推送，允许用户通过即时消息获取信息、完成任务或娱乐。此举是Meta将AI深度植入社交平台战略的一部分，旨在提升用户粘性并探索对话式AI在私域场景的应用。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3021",
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:57:12Z",
+      "summary": "最新数据显示，谷歌AI概览已覆盖43%的搜索，凸显AI生成答案快速成为主流信息发现方式。用户无需点击链接即可获得整合答案，颠覆传统搜索结果页。这引发关于流量分配、内容原创性及信息准确性的讨论，也展示了大模型在搜索领域的渗透力。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3022",
+      "title": "NIT Rourkela develops AI system to make solar plants smarter, efficient - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2xlUEQxYzRHWDhVMjREenZ4SEZDVE5BckgyckQtVi03NFNsbVpSRkNIYlhZczZ5UFVITENCRG9wVWhGSlBndXV4UjRBcHdmOGxvY2RKdkR2QmhZRWRpUjNBNXhxSHBtdE8zN0ZmSl9rd3lkYWhaek1RRkFyNTBydzVmbGJaZTA1NUxLa3V0aFhtRTdlQWNTUkxVaHZTRFUyX1dFS1JNNTU4dmlhaWttSE9QdHpYUVNQN2hmR3M5azVPSTdqTHI4c2xHNGRPeV9YWHI2QkthRUZXM1RLWFZ5b2FVSng2LVY0aHJubXdXZGLSAfYBQVVfeXFMTWphQ19QTVVFYXZiekptaGVCaFVuYm9xRUtGSmRISDhpcEVYOVJCLUVaSnBjNmhsNFBVcjhpVzVuRVZKUHpnRHBoYUQ2SkI0akFsOGJON0hfSFI0YkZlWjRVY3RXcWhRSzJTaFh2aGQ1T1BhTHhUWXZHN2pUYjFhbUdMUmZ5UUtnYmRUTVJkMWpwc083UUxrb1NBcjB1OXluTndSMU80VUlPZ1dEYXJWa2NSN3VvT3FiQ0V1VU93cjZ2T2ltMEJycW00bWExcHd2QVhadDhobzdFTUhvRGVKSmx0T3ZhTTNxUUNvUHZlZ25yaXpfNUZn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T15:34:29Z",
+      "summary": "印度国家理工学院鲁尔克拉分校开发出一套AI系统，旨在提升太阳能电站的智能化水平和效率。该系统通过机器学习算法优化光伏板角度、预测天气变化并自动调整运行参数，可将发电效率提高15%以上。该研究为可再生能源与AI融合提供了实用范例，降低运维成本。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3023",
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:30:00Z",
+      "summary": "TechCrunch Disrupt 2026大会将设立智能系统舞台，聚焦能源、基础设施与AI技术的碰撞。议程涵盖核聚变突破、AI对电网造成的压力以及可持续计算方案。该舞台旨在探讨如何构建支撑AI时代的物理基础设施，平衡巨大算力需求与环境影响。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3024",
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:25:37Z",
+      "summary": "一款售价9美元的NFC钥匙通过物理扫码方式强制锁定手机上的成瘾应用。用户需将钥匙贴近手机NFC区域才能解锁应用，帮助减少刷屏时间。该产品结合物理隔离与数字限制，为数字健康提供了一种低技术门槛的解决方案，引发对行为干预工具的关注。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3025",
+      "title": "Compliance in the wild west — How state AGs are using traditional legal frameworks to address AI business practices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVJ1T3RkaVRUOHJGVDlGRTBycWp1cXNWQU4xVWxqZk0ybE1qZV9IU1BvUE0ycmdzNnNsQ2lDUlJNRm5WUjlGNzFOaXY0VG5TMFQtNFRkUnd4NWg3SjFaWEl2RUc1TUVVUjJNNnZ3YU9LT2dCdnVfVGlsWFVZZlFEV1ZmOVFnLXJ6LTljLW5sQmJOcWpsMUp3bWNBeWItVUVzUVRjaGt0bVBrNTlEVFBqOHNMVnlISlR3QUZ4QjRZWllDYnRZYWVPR2lreURXZzVkZzZB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T15:21:17Z",
+      "summary": "美国各州总检察长正利用传统法律框架（如消费者保护法、反欺诈法）来应对AI商业实践中的合规挑战。在AI技术快速发展的“狂野西部”背景下，他们通过现有法规对算法歧视、数据隐私等问题进行监管，旨在保护消费者权益的同时避免过度阻碍创新。文章指出，这种采用既有法律工具的方式为AI治理提供了灵活而审慎的路径。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3026",
+      "title": "Artificial Intelligence in Nuclear Medicine (2015-2025): Clinical Applications, Regulatory Governance, and Pharmacotherapeutic Implications - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVjFJbVo3UEItMTRpbHNfdE9HNW1QNTgxVUx1clRxSUc5eEROUVQtd2ZtaEUtNkc2ZDI1Q0dmWHBnZlZIUDJscnc2R2xXNTFkMFVBWFZELUFLRW9qRDZDUmNHTVFYN1FxS1NjN3lpWVVHWHduOFJoaGhQVFpzSzhvUzdkWWJwbU5xM2hrQlFLcFgweW5jUHJJdzZ5NFdtNlhZdFhWSTFZV0JBQTFta0s3b1pYb1RaR3MyZDRRMlU2Z1l2NVhTMUQwNlpzZ2hsN3dyZGh0Mzd3TEZONHh1RnNScnJlTUJIbXRDMnpiV0F3bnBrV2k1SDFvUVRjeWhIUnRWckRZ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T15:02:53Z",
+      "summary": "该论文综述了2015-2025年间人工智能在核医学领域的应用进展，涵盖临床诊断（如PET/CT图像分析）、治疗规划（如放射性剂量优化）以及监管治理与药物疗法影响。AI技术通过深度学习显著提升了核医学影像的精准度和效率，但同时也面临数据标准化、算法可解释性及伦理审查等挑战，未来需进一步完善监管框架。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3027",
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:01:50Z",
+      "summary": "Ilya Sutskever创立的Safe Superintelligence（SSI）宣布与英伟达建立长期合作伙伴关系，以规模化推进其AI研究。此前SSI在隐身模式下运行两年，现借助英伟达的计算资源加速开发安全超级智能系统。此次合作旨在解决AI安全与扩展性之间的平衡问题，为下一代通用人工智能奠定基础。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3028",
+      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iUFV0dFc4SG92VDZ2QXgyenpqWUV6blU5RFB5NWpZRnUyY0xDRmZFa05MdHg0d0pWU2VlSkVRNkhPVXk4dWx0anhHU3BYRFJOV1pYbUJLVEtuZFdmNFU2QXNKNDZ3eDV1SG05R2p0VGU0N2dpcUxKNTZ30gF_QVVfeXFMTjM4TFdCdHRJNGptTXoxYnpoRmQ5WjJFOGdpZkpFOW05aHd4SnFoZUFSSUl0cmUwVGtlaUdKbzhkRUcwZExBdHNaTnJyeDRkOEluMjJJWjVZdjk3by1yZGlldUpKUnNRalgxQ3ZCMF9IbmNDWGFmVS1lQVgycDliQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T14:20:15Z",
+      "summary": "OpenAI CEO Sam Altman计划本周与特朗普政府官员及参议员会面，重点讨论AI监管政策与创新支持。他预计将提出平衡技术发展与安全治理的建议，包括制定灵活的法律框架以避免过度限制，同时确保美国在全球AI竞赛中的领先地位。此次对话或影响未来联邦AI立法方向。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3029",
+      "title": "UNESCO strengthens digital and artificial intelligence competencies of Zanzibar correctional officers - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRXVzek1hZ2pTd1FQbEl0dXRTWHgzam1oaVJxTVgybkFDTXh0NzMzd2hQUkdueVNLYUNSNzJsZktwMnBpLXVBQk5zNzAxVzV5VlV1SGIwNlFBOUlyRXdfZE1MNnA5T2Rjd2I0TEJnbzY2VTRzaXFqTHZjNWVtZGxKdzFvU3htTkZOYzNSazV4S2Fhb0EwWXU3WmxfNU9pSC1Ja1JZdG92Y1pHeG5UX3pOR1hCYUV6MU5MM18tMVNQZWI0MFRoMGsyaWd5MnZzdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T14:09:04Z",
+      "summary": "联合国教科文组织（UNESCO）启动培训项目，提升桑给巴尔监狱官员的数字与人工智能能力。课程涵盖AI基础、数据分析及数字化管理系统应用，旨在改善监狱管理效率、优化罪犯改造流程，并推动刑事司法系统的现代化。此举体现了AI在公共安全领域中赋能社会治理的潜力。",
+      "fetchDate": "2026-07-27"
+    },
+    {
+      "id": "3030",
+      "title": "High school students explore artificial intelligence at Wright State summer camp - Wright State Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbG9NYk1aMlVtTzBLUGZtZW1TWHczZEQwMkRBYUUxQTFGeGZreFBZb1FNZWxuNGFNcGhhUmw4V1NoUEpyNk5iOTVsNUo5bjBUS3dBeU1HMHFvVHJsSFJ0TjQwRU5hRVBWb3lZbkRNZnpoTlcyV05HY2xXVXhIUXlTbHZhdlNuTHJnQS1aUE96U0ZybDlBTmR0Nnl4d0d6VDg3WDN0SFR1U0hzM2c3VldFSlE2OFFJNEFGdzFvSjFWYTFtYWlOS1NaZmI4djk4Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T14:08:24Z",
+      "summary": "莱特州立大学举办高中生人工智能夏令营，通过互动工作坊和项目实践，教授机器学习、编程和数据分析等核心技能。参与学生利用真实数据集构建AI模型，探索其在不同领域的应用。该活动旨在激发青少年对AI的兴趣，为未来培养创新型科技人才。",
+      "fetchDate": "2026-07-27"
+    },
+    {
       "id": "2997",
       "title": "Omnelytics AI Introduces Its Enterprise Artificial Intelligence Platform to Accelerate Global Digital Transformation - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUEMtTTZLcVhVVm5rbU1ISTJkZ2RQbW1ac2NZNXQ1T0tvb1dZaXVXbHlhQndNY09HdHI4c0ZqOUhVWWhnaXRrYWlCRXQ0R1pHcFdNbFBZXzY4REdVamFNazd6TWxuT3lQSnJBREFLYTN0LUtyb0dQMUgzSXdNRzdCNy0yNGY1ZXJEUEFlNHR3VGo2eGdZWks1QjNBV0s0S2F6TG5xcmhlYlJ1YXRLS1R3SVFyTFQtelRKOFZLU280WjU4YkdNUXpfRTBmRGFJV1FnbzVXRG9nemw5RER0U01wTVNGVndSUWdqY3lmMFE5aw?oc=5",
@@ -27118,5 +27262,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3013
+  "total": 3029
 }

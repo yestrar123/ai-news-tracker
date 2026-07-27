@@ -1,139 +1,132 @@
 {
-  "updatedAt": "2026-07-27 14:08:37 UTC",
-  "totalArticles": 19,
+  "updatedAt": "2026-07-27 19:10:11 UTC",
+  "totalArticles": 18,
   "articles": [
     {
-      "title": "Omnelytics AI Introduces Its Enterprise Artificial Intelligence Platform to Accelerate Global Digital Transformation - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUEMtTTZLcVhVVm5rbU1ISTJkZ2RQbW1ac2NZNXQ1T0tvb1dZaXVXbHlhQndNY09HdHI4c0ZqOUhVWWhnaXRrYWlCRXQ0R1pHcFdNbFBZXzY4REdVamFNazd6TWxuT3lQSnJBREFLYTN0LUtyb0dQMUgzSXdNRzdCNy0yNGY1ZXJEUEFlNHR3VGo2eGdZWks1QjNBV0s0S2F6TG5xcmhlYlJ1YXRLS1R3SVFyTFQtelRKOFZLU280WjU4YkdNUXpfRTBmRGFJV1FnbzVXRG9nemw5RER0U01wTVNGVndSUWdqY3lmMFE5aw?oc=5",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T18:32:11Z",
+      "summary": "微软推出其首个网络安全AI模型以及新的自主网络安全系统，大幅提升AI安全产品线。该安全和AI模型专注于威胁检测与响应，结合自主系统可自动执行安全操作。此举旨在应对日益复杂的网络攻击，利用AI技术增强防御能力，标志着微软在AI与安全融合领域的重要进展。"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman claims AI singularity has arrived - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelU4cDRWSmdDVFdIYXJXSjItVkZtcTRjLXhmSDB5YlI3LVM2cTUtLWtETG9VV3ZiYkJMR2M3VEZid0NZY1lSUFBDS3M1YkJZYjJkYi1uR2NuT0JJZHB4R2I0OXpEQmtsOEFMZFpBSE1OaHBlTFFwR0F6c2tGb2dNN0syQjFyUFdsNGpBR19TTkdWc1pxWFRHVG4wdGJfQXFy0gGmAUFVX3lxTE1DMTlTbUJYTUhfeUZLVlVTLTYyeDltS2IzQ1d2dVNjN2JGdnFHYTZWaUdOOXNNUzloMEhZdXFBNnpIS3dWcXlaLTNaa1VONHg0TDJNR1djTng3LWd6T2hSbnB6aEluX2d6YnhKd3BZRHlpTk03WDdaSnEtM3lraUdzS1RZaDh5dTc3VXpOeVZTN2QyMFdEMmRGaHFKdXRaWndLdWZyZHc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-27T14:01:00Z",
-      "summary": "Omnelytics AI发布其企业级人工智能平台，旨在加速全球数字化转型。该平台集成了先进的AI技术，为企业提供智能化解决方案，优化业务流程并提升效率。平台支持多种行业应用，通过数据分析、自动化决策和预测建模，帮助组织实现快速数字升级。此举标志着Omnelytics在AI商业化领域的重要进展。"
+      "publishedAt": "2026-07-27T18:14:45Z",
+      "summary": "OpenAI首席执行官山姆·奥特曼宣称AI奇点已经到来，引发业界广泛讨论。奇点通常指AI超越人类智能的临界点。奥特曼的言论基于近期AI模型能力的突破，但不少专家质疑其定义与时间点。该声明再次激化了对AI发展速度、风险管控及社会影响的辩论。"
+    },
+    {
+      "title": "Nvidia's $750 Billion AI Deals Face 'Circular' Scru… - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZS1va2ktYWc1NnZ4T011SjdFSUtBYkNUbWJlR252eEpCT0lsVlU3NFI2U0VnSUYzcGdnSHkwR3dkMlF6S2xDZlJTb0V2bUwtM1FBT2YydmpfWVhxUW1taUdxVTVJZW9oVUVhWm9YX2toZkxuZjhVUEtWQ1U1aW5GeWZMLVR4UVAzY2lsV2RKMmRSaVAtZjBVT1JVamFPRG5WT1NRMGQtVl9BUmgyTDV6cy1Qbko0Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T18:03:35Z",
+      "summary": "英伟达价值7500亿美元的AI交易正面临‘循环’审查，涉及交易结构或财务透明度问题。报道指出部分交易可能存在资金循环或虚高估值风险，引发监管与投资者关注。该事件凸显AI领域巨大投资背后潜在的金融合规挑战，可能影响英伟达未来并购与合作策略。"
+    },
+    {
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T17:28:42Z",
+      "summary": "OpenAI在Hugging Face平台上的数据泄露事件重新点燃关于AI对齐与控制的讨论。泄露内容暴露了模型训练细节与内部安全措施，各方观点分歧：有人主张加强AI对齐（使其符合人类价值观），有人主张更好限制（控制其能力），或两者兼行。此次事件凸显AI安全治理的紧迫性。"
+    },
+    {
+      "title": "AI capability watch centre on the cards to assess emerging risks - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR3NfSHBGaGRlbnYyT2cxRnQwQ2dUeDBfQ0lna3c5TWZpTXh4X3VYRFlTYlBXb2hTLXJHQXUydEE4aGZ6b0ZoSHFiblFGTURJbHlHV1M1UXlBNDlCN3pGTzh0b3dyU2NBU0tPcUlmZVNpWFViTUhPcU5MZDM1b2JqSlFab2xxWGllUm9jR2R5dmVadXZMbkdSVHZEMjBUYWVDaWJyTi1QUE1WQ3NoaklMLWlpRjY1UnJ5YTZ2LW8wUmNqQjBPZzNDOG5aM2ZSTkp0NTN1LTNYR1p2SnR2TjBUQ09WSWgtOUJ60gHuAUFVX3lxTE9RVmpmdE0taUpscFRfMU01QVZjdnJZc2hPRzg2SHVHd0tienZiNHpLaFVzMEZJUnpXeUlTNkF2WHcxQVlkOTN2N2RhSzFwSWZkSmFBRlFmQ3Y5bnpUc09WNHBRVTdQOGtKMjM1TnVXY0tEUEFwV3dxU2V6cVZGOGNhUTF3c0puUzRldDlXeFJVeklJcDJMelg0enlKVkRYVG5nel85N3N1YzJMamhFWHRKYW50VkFtWGt1Qy0yTVY4MVUxUWpudUtRejlDYTRGM1diN2h6OVFTSnFaVk1ONktTWHJhMUxVVzlPdUhTM2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T17:17:19Z",
+      "summary": "计划建立AI能力监控中心以评估新兴风险，该中心将聚焦监测AI系统能力的快速增长和潜在危害。通过系统化评估，旨在提前发现失控风险、偏见放大或自主行为等隐患。此举反映各国对AI安全性的重视，试图在技术进步与风险管控之间取得平衡。"
+    },
+    {
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T16:45:24Z",
+      "summary": "Meta宣布在Threads私信中集成Meta AI聊天机器人，用户可直接与AI助手对话。该功能逐步推送，允许用户通过即时消息获取信息、完成任务或娱乐。此举是Meta将AI深度植入社交平台战略的一部分，旨在提升用户粘性并探索对话式AI在私域场景的应用。"
+    },
+    {
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:57:12Z",
+      "summary": "最新数据显示，谷歌AI概览已覆盖43%的搜索，凸显AI生成答案快速成为主流信息发现方式。用户无需点击链接即可获得整合答案，颠覆传统搜索结果页。这引发关于流量分配、内容原创性及信息准确性的讨论，也展示了大模型在搜索领域的渗透力。"
+    },
+    {
+      "title": "NIT Rourkela develops AI system to make solar plants smarter, efficient - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2xlUEQxYzRHWDhVMjREenZ4SEZDVE5BckgyckQtVi03NFNsbVpSRkNIYlhZczZ5UFVITENCRG9wVWhGSlBndXV4UjRBcHdmOGxvY2RKdkR2QmhZRWRpUjNBNXhxSHBtdE8zN0ZmSl9rd3lkYWhaek1RRkFyNTBydzVmbGJaZTA1NUxLa3V0aFhtRTdlQWNTUkxVaHZTRFUyX1dFS1JNNTU4dmlhaWttSE9QdHpYUVNQN2hmR3M5azVPSTdqTHI4c2xHNGRPeV9YWHI2QkthRUZXM1RLWFZ5b2FVSng2LVY0aHJubXdXZGLSAfYBQVVfeXFMTWphQ19QTVVFYXZiekptaGVCaFVuYm9xRUtGSmRISDhpcEVYOVJCLUVaSnBjNmhsNFBVcjhpVzVuRVZKUHpnRHBoYUQ2SkI0akFsOGJON0hfSFI0YkZlWjRVY3RXcWhRSzJTaFh2aGQ1T1BhTHhUWXZHN2pUYjFhbUdMUmZ5UUtnYmRUTVJkMWpwc083UUxrb1NBcjB1OXluTndSMU80VUlPZ1dEYXJWa2NSN3VvT3FiQ0V1VU93cjZ2T2ltMEJycW00bWExcHd2QVhadDhobzdFTUhvRGVKSmx0T3ZhTTNxUUNvUHZlZ25yaXpfNUZn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T15:34:29Z",
+      "summary": "印度国家理工学院鲁尔克拉分校开发出一套AI系统，旨在提升太阳能电站的智能化水平和效率。该系统通过机器学习算法优化光伏板角度、预测天气变化并自动调整运行参数，可将发电效率提高15%以上。该研究为可再生能源与AI融合提供了实用范例，降低运维成本。"
+    },
+    {
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:30:00Z",
+      "summary": "TechCrunch Disrupt 2026大会将设立智能系统舞台，聚焦能源、基础设施与AI技术的碰撞。议程涵盖核聚变突破、AI对电网造成的压力以及可持续计算方案。该舞台旨在探讨如何构建支撑AI时代的物理基础设施，平衡巨大算力需求与环境影响。"
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:25:37Z",
+      "summary": "一款售价9美元的NFC钥匙通过物理扫码方式强制锁定手机上的成瘾应用。用户需将钥匙贴近手机NFC区域才能解锁应用，帮助减少刷屏时间。该产品结合物理隔离与数字限制，为数字健康提供了一种低技术门槛的解决方案，引发对行为干预工具的关注。"
+    },
+    {
+      "title": "Compliance in the wild west — How state AGs are using traditional legal frameworks to address AI business practices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVJ1T3RkaVRUOHJGVDlGRTBycWp1cXNWQU4xVWxqZk0ybE1qZV9IU1BvUE0ycmdzNnNsQ2lDUlJNRm5WUjlGNzFOaXY0VG5TMFQtNFRkUnd4NWg3SjFaWEl2RUc1TUVVUjJNNnZ3YU9LT2dCdnVfVGlsWFVZZlFEV1ZmOVFnLXJ6LTljLW5sQmJOcWpsMUp3bWNBeWItVUVzUVRjaGt0bVBrNTlEVFBqOHNMVnlISlR3QUZ4QjRZWllDYnRZYWVPR2lreURXZzVkZzZB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T15:21:17Z",
+      "summary": "美国各州总检察长正利用传统法律框架（如消费者保护法、反欺诈法）来应对AI商业实践中的合规挑战。在AI技术快速发展的“狂野西部”背景下，他们通过现有法规对算法歧视、数据隐私等问题进行监管，旨在保护消费者权益的同时避免过度阻碍创新。文章指出，这种采用既有法律工具的方式为AI治理提供了灵活而审慎的路径。"
+    },
+    {
+      "title": "Artificial Intelligence in Nuclear Medicine (2015-2025): Clinical Applications, Regulatory Governance, and Pharmacotherapeutic Implications - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVjFJbVo3UEItMTRpbHNfdE9HNW1QNTgxVUx1clRxSUc5eEROUVQtd2ZtaEUtNkc2ZDI1Q0dmWHBnZlZIUDJscnc2R2xXNTFkMFVBWFZELUFLRW9qRDZDUmNHTVFYN1FxS1NjN3lpWVVHWHduOFJoaGhQVFpzSzhvUzdkWWJwbU5xM2hrQlFLcFgweW5jUHJJdzZ5NFdtNlhZdFhWSTFZV0JBQTFta0s3b1pYb1RaR3MyZDRRMlU2Z1l2NVhTMUQwNlpzZ2hsN3dyZGh0Mzd3TEZONHh1RnNScnJlTUJIbXRDMnpiV0F3bnBrV2k1SDFvUVRjeWhIUnRWckRZ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T15:02:53Z",
+      "summary": "该论文综述了2015-2025年间人工智能在核医学领域的应用进展，涵盖临床诊断（如PET/CT图像分析）、治疗规划（如放射性剂量优化）以及监管治理与药物疗法影响。AI技术通过深度学习显著提升了核医学影像的精准度和效率，但同时也面临数据标准化、算法可解释性及伦理审查等挑战，未来需进一步完善监管框架。"
+    },
+    {
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:01:50Z",
+      "summary": "Ilya Sutskever创立的Safe Superintelligence（SSI）宣布与英伟达建立长期合作伙伴关系，以规模化推进其AI研究。此前SSI在隐身模式下运行两年，现借助英伟达的计算资源加速开发安全超级智能系统。此次合作旨在解决AI安全与扩展性之间的平衡问题，为下一代通用人工智能奠定基础。"
+    },
+    {
+      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iUFV0dFc4SG92VDZ2QXgyenpqWUV6blU5RFB5NWpZRnUyY0xDRmZFa05MdHg0d0pWU2VlSkVRNkhPVXk4dWx0anhHU3BYRFJOV1pYbUJLVEtuZFdmNFU2QXNKNDZ3eDV1SG05R2p0VGU0N2dpcUxKNTZ30gF_QVVfeXFMTjM4TFdCdHRJNGptTXoxYnpoRmQ5WjJFOGdpZkpFOW05aHd4SnFoZUFSSUl0cmUwVGtlaUdKbzhkRUcwZExBdHNaTnJyeDRkOEluMjJJWjVZdjk3by1yZGlldUpKUnNRalgxQ3ZCMF9IbmNDWGFmVS1lQVgycDliQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T14:20:15Z",
+      "summary": "OpenAI CEO Sam Altman计划本周与特朗普政府官员及参议员会面，重点讨论AI监管政策与创新支持。他预计将提出平衡技术发展与安全治理的建议，包括制定灵活的法律框架以避免过度限制，同时确保美国在全球AI竞赛中的领先地位。此次对话或影响未来联邦AI立法方向。"
     },
     {
       "title": "Intel Is up 170% in 2026. Should You Buy the Artificial Intelligence (AI) Comeback or Take Profits Today? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWllHTnYxeUpsaVhmYk0wSFJ3eGJLMnBJMTFhOVl2ZnAxaE5TMmZNVUpVaDZqNU5va3Nvanc4ZkMxeVQ1WUxzYzEzZDRfZDF2bzBFXzctNEdlWmV2a0NYU09SWDNieVl5VGUxaHhmai1VVDRUdjItSG9CWVF5ZnBPaFpXMjhjdWc4YkRVUTgtTXcyRmU5SzhMSA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-27T13:48:05Z",
-      "summary": "英特尔股价在2026年飙升170%，引发投资者对其AI业务复苏的关注。文章讨论是否应该买入这只AI概念股或获利了结。英特尔在AI芯片领域面临激烈竞争，但近期表现强劲。分析指出，投资者需权衡公司转型进展与市场估值，谨慎做出决策。"
+      "publishedAt": "2026-07-27T14:15:00Z",
+      "summary": "英特尔股价在2026年飙升170%，主要得益于其AI业务复苏和市场对芯片需求增长。分析文章指出，尽管公司通过数据中心和客户端AI产品实现扭亏，但投资者需谨慎评估其长期竞争力——在AI芯片领域面临英伟达和AMD的激烈竞争，当前高位是否应获利了结取决于对英特尔技术转型的信心。"
     },
     {
-      "title": "AI developer runs 28.9-million-parameter model on $10 ESP32-S3 microcontroller — uses Google's Per-Layer Embeddings technique, stores table on 16MB Flash memory - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNNlMwWmpWVm11TkRmbWJaZXI3dzhkbWV5aENCN0t1MU9tUHVFMC1URHRmbTRRaEdnZ1FIbEhIYkFWQWk0M0VTWEFacks1TlNBdXQwS3FUeVNwWEpQbkc4MFFMaDVaTW5SOTZ3LS1wQm1DdWRrc3RtZXlzU0hXclg5bnpwMHROcHhidndPMVFBaHRJT1pDMlQ3NFRvWThha29aaFROMlc2Ylg5Vm5va2FoQ2UwaUlLcS1zVm8tNE0xRXV4aDVFRER3Y044Y1pMdEhPRHZEU0RsLXZGSG9iMy1QTV9iaTQyUENiV1JmU25SdUJpMjFXYm5oVEk1QTRDNmF4ZjE0RlpkYXhTaURnYUZYRGQtRjdwWk1FNWdwUE8wbGh4dmNCOGh1UXhuSGVJRnJJR2xyVjh4NS01d2k2b1B0V3o3TTNaMGFI?oc=5",
+      "title": "UNESCO strengthens digital and artificial intelligence competencies of Zanzibar correctional officers - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRXVzek1hZ2pTd1FQbEl0dXRTWHgzam1oaVJxTVgybkFDTXh0NzMzd2hQUkdueVNLYUNSNzJsZktwMnBpLXVBQk5zNzAxVzV5VlV1SGIwNlFBOUlyRXdfZE1MNnA5T2Rjd2I0TEJnbzY2VTRzaXFqTHZjNWVtZGxKdzFvU3htTkZOYzNSazV4S2Fhb0EwWXU3WmxfNU9pSC1Ja1JZdG92Y1pHeG5UX3pOR1hCYUV6MU5MM18tMVNQZWI0MFRoMGsyaWd5MnZzdw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-27T13:07:53Z",
-      "summary": "一位AI开发者成功在售价10美元的ESP32-S3微控制器上运行了2890万参数模型，采用谷歌的逐层嵌入技术，并将嵌入表存储在16MB闪存中。这一突破展示了在低成本硬件上部署大型语言模型的潜力，为边缘AI应用提供了新思路，降低了AI计算的门槛。"
+      "publishedAt": "2026-07-27T14:09:04Z",
+      "summary": "联合国教科文组织（UNESCO）启动培训项目，提升桑给巴尔监狱官员的数字与人工智能能力。课程涵盖AI基础、数据分析及数字化管理系统应用，旨在改善监狱管理效率、优化罪犯改造流程，并推动刑事司法系统的现代化。此举体现了AI在公共安全领域中赋能社会治理的潜力。"
     },
     {
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
-      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-27T13:00:00Z",
-      "summary": "机器人初创公司Enigma完成7000万美元种子轮融资，由Index Ventures和Ribbit Capital领投，Sarah Guo的Conviction Partners参与。公司目标是让控制机器人变得像调节音量一样简单，专注于开发直观的人机交互界面，降低机器人操作门槛，推动机器人普及。"
-    },
-    {
-      "title": "SciSparc discusses agentic AI opportunities with several companies - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRTJBbXk0Y1JCajVZXzgyNmxFM3RPYlM3LXplNk1WMWNlZ1FzRzZRc0NNQWxmSW5WTHRvWEl1ZWlKMUZTSDRlT0VSOFVoYjlCQ19XYkpwNEh2RF9IUEd0RFp6ckpKdFd5YUNCazBmM0dfNWk4QzRMZVVDUWZ5cTEwaXM3QVltQ1d1Rzh4V2hjcjNoR0M3cjludS1OYVhXeGhuT25PSGg1Sk1OaDRYS19FZG5IN212bWtRSTdLNHpR?oc=5",
+      "title": "High school students explore artificial intelligence at Wright State summer camp - Wright State Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbG9NYk1aMlVtTzBLUGZtZW1TWHczZEQwMkRBYUUxQTFGeGZreFBZb1FNZWxuNGFNcGhhUmw4V1NoUEpyNk5iOTVsNUo5bjBUS3dBeU1HMHFvVHJsSFJ0TjQwRU5hRVBWb3lZbkRNZnpoTlcyV05HY2xXVXhIUXlTbHZhdlNuTHJnQS1aUE96U0ZybDlBTmR0Nnl4d0d6VDg3WDN0SFR1U0hzM2c3VldFSlE2OFFJNEFGdzFvSjFWYTFtYWlOS1NaZmI4djk4Zw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-27T12:25:00Z",
-      "summary": "SciSparc公司与多家企业讨论代理型人工智能（Agentic AI）的商业机会。代理型AI能够自主执行复杂任务，无需持续人工干预。SciSparc正探索该技术在不同行业的应用前景，包括自动化流程、智能决策等，显示出市场对自主AI系统的浓厚兴趣。"
+      "publishedAt": "2026-07-27T14:08:24Z",
+      "summary": "莱特州立大学举办高中生人工智能夏令营，通过互动工作坊和项目实践，教授机器学习、编程和数据分析等核心技能。参与学生利用真实数据集构建AI模型，探索其在不同领域的应用。该活动旨在激发青少年对AI的兴趣，为未来培养创新型科技人才。"
     },
     {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhnTlFzX2dSNDczWERZSl9IVm9xcnduNF9sV0FveE54Z3dLTmtJeDkxbWpuam5OejRUWjNJTzBySjF1cnBmbVpYWnlYNFhERVVaaGxxdWlCQzloUWEzU3BGZS1ET0tGRmJhMC0zcUlIVGxtLXY4NFd0Qm9qUXduenF6VzFoaUtqbzJzbTlvMFZYLTJsUGNvcjV1bWk2QmY1a05QTFZ3?oc=5",
+      "title": "Omnelytics AI Introduces Its Enterprise Artificial Intelligence Platform to Accelerate Global Digital Transformation - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUEMtTTZLcVhVVm5rbU1ISTJkZ2RQbW1ac2NZNXQ1T0tvb1dZaXVXbHlhQndNY09HdHI4c0ZqOUhVWWhnaXRrYWlCRXQ0R1pHcFdNbFBZXzY4REdVamFNazd6TWxuT3lQSnJBREFLYTN0LUtyb0dQMUgzSXdNRzdCNy0yNGY1ZXJEUEFlNHR3VGo2eGdZWks1QjNBV0s0S2F6TG5xcmhlYlJ1YXRLS1R3SVFyTFQtelRKOFZLU280WjU4YkdNUXpfRTBmRGFJV1FnbzVXRG9nemw5RER0U01wTVNGVndSUWdqY3lmMFE5aw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-27T12:06:22Z",
-      "summary": "英伟达和微软联合发起开放AI安全联盟，旨在制定AI安全标准，但OpenAI、谷歌和Anthropic未参与。该联盟强调开放合作，吸引其他科技公司和研究机构加入，共同应对AI安全风险。此举反映了AI安全领域的竞争与合作格局变化。"
-    },
-    {
-      "title": "Tech Sell-Off: 1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $85 and Hold for the Long Term - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWRDZXpvWHpzSnRXZzB0NmdEc3d1N0xNWFg0UmJGaFNZNEtsSktFSXdHa19pM0dxUnFhTHMwYi1DM19yUWVFdG53REt6bGNBQkp3OVA0cGMwbkctUU12OGdGS0czOTVVdk1uVHVGZHVscmtYaXZaSDdfN0t5a3lySzdNdWZsSWdBQXZsMmxaSUlmZ1pMTjFleA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T11:22:40Z",
-      "summary": "技术股抛售潮中，文章推荐一只仅需85美元即可买入的AI相关ETF，并建议长期持有。该ETF分散投资于多家AI公司，降低个股风险。尽管短期市场波动，长期看AI技术增长趋势不变，该ETF为投资者提供便捷参与AI赛道的工具。"
-    },
-    {
-      "title": "Tech Sell-Off: 1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $85 and Hold for the Long Term - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDR4X3NCNEJwUlBvMnc2RXlINWF0VGMxZlB1eFhQMjNQcjNoaDBKRU9WWE9ZYm5oZExJb0NNeFFxZ2VRMHp6bEpWaWJhRy1COFVNYWQ2M2VIM1pxVU1NdkVoZjdMRm9nY0psWXlXTjlNdlJ6RHByOWo1UHF3S0N0V3kxbTV5WGJINjh3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T11:14:00Z",
-      "summary": "类似内容，也推荐一只85美元的AI ETF作为长期投资选择。在科技股抛售背景下，强调ETF的多元化优势，适合小资金投资者。文章认为AI行业基本面强劲，长期持有能分享行业成长红利。"
-    },
-    {
-      "title": "China criticizes US' smearing, sanction threats against Chinese AI firms - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHJQNm5DWDFmVURhSzA5dUdQYngwTWJ5eVBXclpzREo3bTVBVE1zU01VRXU1V0R4LVBrZDQ5cndDMnNJZ3pwUUhPNER6eUl6d3NEOS1zTjQ1eEtzUDFSNXE2VXJVV1lfWlpmYkZmeTlmcm13ckFCZ1B1aEJLYXdHNWwyLXJ3UnlxemZZNEo1OHh0T010Um9Fd1FyekpadmxVMktudUxvemJ6QkxaSGJMZjMxMHRXLUExSFVmWWFwNW8xdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T10:54:01Z",
-      "summary": "中国批评美国对中国AI企业的污名化和制裁威胁。中方认为美方行为破坏公平竞争环境，阻碍全球AI技术合作与发展。中国AI企业坚持自主创新，呼吁国际社会共同维护开放包容的科技生态。"
-    },
-    {
-      "title": "Elon Musk Believes Humans Will Lose Control In A Decade - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVdkcllZLWpEMzFibi1JV0FZV0JLNi1zUWRLcXFNQmNONXl2VmQxRGVqS29sWjEwTVE1QVlDRVo1RzNNWm9oNmItWE93Y0hBUGVka2JKdlFsYzM5eEt1Ujdlay0wWGFVTndEYWlpeC1PZTZ3a0RqQU83WEl1TWVNdkc3VWFuY3VMQjkwX1dlVFc5VGdielR5Q2VkWURMb2E0b2dEZWkzeWJNOHdBSGNFenlDSnBTUdIBvgFBVV95cUxPV0dUc0lKaWJJbDFrbDk3VExHTXdWUzRqY0hzX1NST3ZlcHdwd18zdjRLYzhHQnlyWFZqd1NHOVRkTmhDT3Y0cWg5eE5ZMWdFWFlqSFVxaVNleEtubnFoOFdGOUpVV3ZkVHJ0V0hwRmdBaXowcDV3Y2RTUzB5OXhRcF91cHFrTW1NVjBhXzFjdnRCNjJDekNEZ1ZYTXZURXRJRWpyaklsU3hOc3l5TzZjZ2s5YVhibG5ialA0YllR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T10:03:56Z",
-      "summary": "埃隆·马斯克预测人类将在十年内失去对AI的控制权。他警告，超级智能的出现可能超出人类管控范围，需要提前制定监管和安全措施。这一观点引发关于AI风险与治理的广泛讨论，凸显对AI发展失控的担忧。"
-    },
-    {
-      "title": "How AI is shortening drug discovery timelines in China - AI News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41eFl4dkUtbUlNeWVmYVJtVTM3M2s4dFdOMk9pS1duWFRRekxoSm1pUEdwem54d1dtdVVSWE50dHJ0czIySEJodFdibkRQRDlXN1Y5S1I2VFA0bzgwVUtyTEs0UUluZDhTa1BWZlhZNE5JTGx2b0llOG1kYUNCdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T10:00:48Z",
-      "summary": "中国正利用人工智能大幅缩短药物研发周期。AI通过分析海量生物数据、预测分子结构与靶点相互作用，加速先导化合物筛选和优化，显著降低传统药物发现中耗时数年的早期阶段。同时，机器学习模型可预测候选药物的毒性和疗效，减少后期失败风险。这一技术突破有望降低研发成本，推动创新疗法更快进入临床。目前，中国多家生物科技公司与AI平台合作，已在癌症、罕见病等领域取得初步成果，展示了AI赋能医药产业的巨大潜力。"
-    },
-    {
-      "title": "AI can fuel biological weapons. We must harness its power for defense | Annie Jacobsen - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1dQRno5WGZHeURhN0RFRU0wTXFxUHd4V0dmWTdVbzBGZmNkNTBkNklZbmFEMDMtd3ZvNFg0MG5lWm1YdGNaN1dnMDFuNi1Xa3psd3kwalFXQUgzeEhXNjlmZlptbV96WDlEQk9oUjlBUjBPdlZmQTRIQkp4ZGJxOGx5dlp1YXRna3k4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T10:00:00Z",
-      "summary": "《卫报》评论员安妮·雅各布森指出，AI技术在推动生物医学进步的同时，也面临被滥用于开发生物武器的风险。她强调，必须立即采取措施将AI引导至防御性用途，例如加速疫苗研发、提升病原体监测能力，并建立国际监管框架以防止恶意利用。文章呼吁政府与科技公司合作，在保证AI开放性的同时加强安全协议，确保这项技术服务于人类健康而非成为威胁。"
-    },
-    {
-      "title": "California's largest AI data center project suing for access to 287 million gallons of Colorado River water, 0.03% of Imperial Valley’s supply — plaintiffs claim project equivalent to 160-acre farm amidst concern about jobs and reallocation of farmland - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQRFlQOTBrVVg3YUFUUGt6WTVXcV8xRUZiRVRrNlgzMl81Z2FqSmlydWFFTVk5bjlVSjBqWHNHNkd2aThtc3ktdUZDQnhqY1RzcG9fZi0zQ0Fjbl82RGdUVUdTZVNQSXN5TmhNaW5FbG1vWFlJNnZGUnVwaEp5eHNraEJ5N0tpYm5udUtOaFBvVVVGQlZCNlBnb09TSl82d0dLTFhSSVpIUXZHSWQ5aVpBSFh0TmROR0E2WW9jTVRrWk1PMkZ6VVdvZTljUVdwb09vUGRCQ285dlFXU3RSYmpNTWtOZ0RYQlVOTWF0U09WeUdBd3JBZVRpNm4zSkNxQjBpOTlnSm9fOTRtN1dtUnFlZWlRQUFPVXc1VXVOeVBaT3RtZ19EZllqc2Z6OEpaQWk3WEtEZnVyM2d3NjFqTWd3dnVaMFE3d3A5ajB5ZnBWeWZsejdWRHotM2tmSVlCT28tb19RV3k1V2dHVmxkNmpZWVU0MEQyZ2stbUdDQTFYM0hSRzEtR2FCVDVtS3h4d2dRSzY2N1VRaGZmeDdLVS1aWlU2QzZEekZfbWdTbHY0NTh5Tl9LZ1g0dktQRFludw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T09:56:17Z",
-      "summary": "加州最大的AI数据中心项目因水资源需求提起诉讼，要求获取科罗拉多河2.87亿加仑（约帝国谷供水量的0.03%）的用水权。原告方称该用水量仅相当于160英亩农场的消耗，但此举引发对就业和农田重新分配的担忧。反对者认为，在干旱加剧的背景下，将珍贵水资源分配给数据中心可能影响农业和社区发展。该案凸显AI基础设施扩张与水资源可持续利用之间的矛盾。"
-    },
-    {
-      "title": "How AI palletising technology is reshaping warehouse automation - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSTJ0eGtfZ1h6RkJqWjF4bjd0VFpxNEVuMmtRTmZ4REQxdHNKWEpIakw1anc1TWF4UlBMZERsZ1hwUFpCaVE3aTc2c2g2TFF6alR6ZkswMlQ4aXMwYjIyZ0NEd2pwbUFCWHV3dWFTN0VXMG5rUGs5c3dnTW9xTC1JREk5UGZoYlRsdUZsclVKeTNMcTZTY2pWUjZzbS1qbEN2UkpRN3NJVmxjZ0hZdkdhMHpZZHN5SE1RX1RYOE1UdFBrLVJlQ3lfclFzMTBqYlhqTm9CZUhQNld6Ujdua0hDVk9adnM3aWvSAewBQVVfeXFMUEh3bXA1Y3dMMUZ0eUs3VWNpWkEyMFRmV0dwTC1MTVdmU0pIOEFmN2JiZDZQekNCZ2ZoMVpLWDRFeWZTRUVuSWp1V2EwRnBRaFllNEZfcEhPM2JrbldSY3FQV1JydmlnWnFMMlRiZVY1NGVfU0R4NHBQN0xjVzZXUGN0eHc4S1drSXZVN01jSTVFbkpJN0wxMHBCSmtyNUJtMFRJSVg5eEpGakpJRWVUYndiazc3U1J2SjJ0NGQ4Y0p0a1JzUkVzenpFcS1EX2xSNXNmbG11LWtxNE1DMFdSWGJub29iYWxSbFpiWEQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T09:21:39Z",
-      "summary": "AI码垛技术正重塑仓库自动化行业。通过集成机器视觉与深度学习算法，智能机器人能实时识别不同形状、尺寸的货物，自主规划最优堆叠方案，从而提升仓储空间利用率与作业效率。相比传统人工码垛，AI系统可减少破损、降低劳动强度，并适应电商多品种、高频率的订单需求。该技术已逐步在物流中心、零售仓库推广，成为自动化升级的关键驱动力。"
-    },
-    {
-      "title": "America’s AI Investment Boom Is Reshaping the Economy - AI News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3dQVGlGcno0S1BsSUwxTVE2YjFsLWgtbGlUU1ZqTTRaSGNXVnZROExITk90U2tPbGtsTUptNDk2TEdMZmIyc29MVHNaLVVKVktjeVR2S18yYkhteFB3eUVqS0JULVkwdGxPeF9XT2EzNjJkOFplSGhna0xhQUVXYVdvVi1GSjZteHpSTFd6YkJ6OGdoU3Y5YXQxTnJYX3pvdmhNbg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T09:19:46Z",
-      "summary": "美国人工智能投资热潮正深刻重塑经济结构。从科技巨头到初创企业，巨额资本涌入AI基础设施、算法研发和行业应用，带动数据中心建设、芯片制造及云服务等领域高速增长。这一浪潮不仅推动传统产业数字化转型，还催生新职业与商业模式，但同时也引发对就业替代和能源消耗的讨论。分析认为，AI投资已成为影响未来经济增长与竞争力的核心变量。"
-    },
-    {
-      "title": "How agentic AI is changing who influences online shopping decisions - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVjJuVS00U0F6eW8xZmFIam9fb3A4eU9mbnZLSXRwblBFeWJEb0cwMEI2UzJRbHIwdGtFYkVOdTRWeW95N3ZZV3ZKWHdQQ09DMWNEeTVYWXFGZDRxUnZoa1p5OFp2eXdYQ2phRm9XYmFpcTQza3VIQ2JUTUx0dVhtQmtpaWJZblhQRFdDRk1xTFppOHNhTUpNR2RtQVZZcklOLUpGbnE3a0NVVTFJUGg4TzFrM1lHeDhkYWtGMVdBWXBYcFJiUW00NnJ5SVo2Mkoxbl9pS0U0eVhMNWV2bWd4RHdJQlBMeWl2ZHIwUdIB8gFBVV95cUxQdFRjcDNHOVBORmZWV1FkTmpadW1TbGREYWpjMFpERzhJYVF0QzZvRU9BSkhBam55NjZwXzVqdjA4ODhxOXhNSjlzbF9lNzN2Zi1VdVFtM0VSM1lNMWdSYXZPNkJVOXJ2YU4yUTBVNXRLaU1YVGRDT1VpX2FSdFFNS2VpYXBKYlVoY1FQSkVYbUgzQjdWbm95VXVyOVVCZEl6eTVtS1lUc1NGMVVwRE1Xd3YydWVaUlp4Tl8tNjg0NUtodVpuLTNfejBKeEVDSG5iLWRNZmRmNU84ZHB0X0hXMi1uR0hmYXNlVmNiM25Qdy0ydw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T09:18:52Z",
-      "summary": "代理型AI正改变在线购物决策的影响机制。传统电商推荐依赖商家预设规则，而具自主决策能力的AI代理能够模拟消费者偏好，主动搜索、比较商品并执行购买，甚至代表用户进行议价。这种技术使得用户购物决策权部分转移至AI，同时使品牌商需调整营销策略以适应智能代理的筛选逻辑。该趋势有望提升购物效率，但也带来隐私、算法偏见等挑战。"
-    },
-    {
-      "title": "Alphabet Spent $45 Billion on Artificial Intelligence Last Quarter, and It Already Plans to Spend $811 Billion More - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONUdiaVltVDRhM3FyNGpXeGVCTWxKaXRDVlVsakI4N0F6M1E1dHlPOWNqbmY3dHJ2cm1QYXBYYmIwd2RoRmRQMnBNZGdpbzFPSjlETnNYTEh3QzJGV1RNTUpyM2Q3ZC10aW9LaHV5VjdpNU55ZmN2NTQ1VEVFSXowZmljUTY?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T09:17:00Z",
-      "summary": "Alphabet（谷歌母公司）上季度在人工智能领域投入450亿美元，并计划未来追加高达8110亿美元的投资。这笔巨额资金主要用于扩建AI数据中心、采购先进芯片、以及研发下一代基础模型（如Gemini）。如此大规模投入反映出科技巨头对AI产业潜力的极度看好，但超常支出也给盈利和资本回报带来压力。市场关注其能否通过商业应用（如云服务、搜索增强）实现长期价值转化。"
-    },
-    {
-      "title": "AI Is an evangelistic opportunity but Christians must shape its future, summit hears - www.christiantoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZTM3VjRTQmU2TFJRcGhhNU0xWkVhZ1hFM1hXeEM5UHEzUUtMWGFaXzdxV3RSQV80aHRKalBDZ25seFRPMzlqbnVnUURJZTM1ZUVFZkhNVnlmRTBVamZxVEJlS253N3haa1ZSLTJPaFY5WENvSWZEeEtZX0o5SldjRGIyQkZ3cGlROVh5eWRfdmRHc2E2RG12Unc4dG9UNmNpV2VsaE84c1dUQmdBMmhnQXI5YWVKbXgxdEV3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T08:54:07Z",
-      "summary": "基督教高峰论坛上，与会者认为AI为传播福音创造了新机遇，但也强调基督徒必须积极参与塑造其发展方向。AI工具能辅助圣经翻译、在线布道和信徒交流，扩大宗教影响力；然而，若缺乏伦理引导，技术可能被用作控制或误导工具。会议呼吁宗教领袖与科技专家协作，确保AI发展尊重人性尊严、促进社区联结，而非导致信仰异化。"
-    },
-    {
-      "title": "In an era when artificial intelligence (AI) agents execute payments and transactions on their own - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4ZFRpbnNVN19kbldjNTZtN01aTTk0aHdiRFRWSzZKazAyZ0lpcTRwV2VyU01POTVZMXVFel95SzhDcHRZdHdVb2YtMUNQNzg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T08:40:26Z",
-      "summary": "随着AI代理自主执行支付与交易的能力增强，金融业正进入自动化新阶段。这些智能体能在缺乏人工干预下，依据预设规则或学习用户行为完成账单支付、投资操作和供应链结算。这提升了交易效率并降低了人力成本，但也要求更严格的风险控制和法律框架，以应对可能出现的错误、欺诈或道德冲突。专家指出，未来需平衡自主性与人类监督，确保金融系统稳定。"
+      "publishedAt": "2026-07-27T14:01:00Z",
+      "summary": "Omnelytics AI推出企业级人工智能平台，旨在加速全球数字化转型。该平台集成了机器学习、自然语言处理和自动化决策工具，帮助企业优化运营流程、提升客户体验和实现数据驱动增长。平台采用模块化设计，可适配制造业、医疗、金融等多行业场景，降低AI应用门槛。"
     }
   ]
 }
