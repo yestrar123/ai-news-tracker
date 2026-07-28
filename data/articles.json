@@ -1,12 +1,39 @@
 {
   "articles": [
     {
+      "id": "3039",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-28T04:30:00Z",
+      "summary": "AI编程助手Cursor在印度推出本地化定价策略，这是其在SpaceX收购前最大规模的市场拓展。公司表示印度已成为全球第三大市场，并计划扩大本地招聘和加强企业销售团队。此举旨在应对印度快速增长的人工智能开发者需求，同时巩固其在亚太地区的竞争优势。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3040",
+      "title": "AI tools uncover record software flaws in tech sector, shows database - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYnNZYUhrVkVBS2RubkllWm1abGo5d3QwbVVSc3B6V2FRYS1tWl9McHBKYW1rcm84YlMyekJNSVhNS0RLaXJOZEQ5VHAxWkdfRU1lMlF0TmFCR3p4d0NhZGk1TWFOV2hBYXVZZURScWY3bEU4anYwdmFfQWF4WTVsb2s3QjJhQTMzdzFKVUNBekJSLXBVZGFxSWZ6c0JPa0l4aHlLb0VFY010cENsR1dRRWd1SXpNWEtJQkRGbS1nZ1I0WjZNcy11OVdLRk52VXBJc3NWVWptZ0dkU2o2dVZCYzBrNGJsVGZlODZ3d1p30gHzAUFVX3lxTE9Wc2NhS0VQQ0czcWFuWTh5bGxsYjBnak5tc2tDUzdHZ09Sd2tHc3pRa2xMYTJ3aVVIZVZjYVRLdENxSDNiSWZNUFV5WlVHX1RyNEpyRks3Qjd4bGcxMUxzQjh5ZmcxOTA2ampzWDkxaEhPOXJxeVVWZG5PeUJhNTZObG1NeTgwalYzb2JvNjFGVWZCZ1Vac2FxQlhhaXVEV205Qm15MnNBZjhfVU0tQlhkcXZkdjdleUw4X3dZRF9JeDV5dkxPTXF3S0RjQ3Z3VUVSb04tZU5lOTUyUWM2NlpTc2pPY3d3bnlOenM5Q3hFMnkzMA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T03:26:19Z",
+      "summary": "最新数据库显示，AI驱动的漏洞检测工具在科技行业发现了创纪录数量的软件缺陷。这些工具利用机器学习算法自动扫描代码库，大幅提升了安全审计的效率和覆盖范围。数据显示，传统人工检测方法遗漏的风险被AI显著捕获，揭示了当前软件开发中普遍存在的安全盲区。",
+      "fetchDate": "2026-07-28"
+    },
+    {
       "id": "3031",
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
       "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-28T00:13:33Z",
       "summary": "Anthropic创始人兼CEO Dario Amodei近日回应了关于开源权重模型的争议。他表示自己并不反对开源模型本身，但对中国AI能力的快速崛起感到担忧。Amodei认为，中国在AI领域的投入和进展可能带来地缘政治和安全风险，尤其是在模型权重开放后可能被恶意利用。他强调，Anthropic在安全研究上的投入正是为了应对这种潜在威胁，并呼吁业界在开放的同时加强监管和防护措施。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3041",
+      "title": "What Happens When Patients Trust AI Over Their Doctor? - MedCity News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EUFdESzY5VElUYlU0VTYySmpyN2dDMXhFc1diRzMwandQOTgyVkpGb0o5ZWVCM3dXR1Bhb29MSFNETHFLb3pJVExLc2RKWFVhZnpIeDJCeE5RN2FDQzFwUHRDbFhORmxDb0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T23:46:56Z",
+      "summary": "随着AI诊断工具在医疗中的广泛应用，部分患者开始过度信任AI而忽视医生建议，可能引发误诊、隐私泄露等风险。专家指出，AI应作为辅助工具而非替代医生，患者需要理解AI的局限性。医疗机构需建立清晰的伦理框架，确保AI增强而非削弱医患关系。",
       "fetchDate": "2026-07-28"
     },
     {
@@ -27334,5 +27361,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3037
+  "total": 3040
 }
