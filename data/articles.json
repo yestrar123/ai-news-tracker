@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "3031",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-28T00:13:33Z",
+      "summary": "Anthropic创始人兼CEO Dario Amodei近日回应了关于开源权重模型的争议。他表示自己并不反对开源模型本身，但对中国AI能力的快速崛起感到担忧。Amodei认为，中国在AI领域的投入和进展可能带来地缘政治和安全风险，尤其是在模型权重开放后可能被恶意利用。他强调，Anthropic在安全研究上的投入正是为了应对这种潜在威胁，并呼吁业界在开放的同时加强监管和防护措施。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3032",
+      "title": "Katy ISD sets new framework on artificial intelligence use in classrooms - ABC13 Houston",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3F4S3ZaeGRKLXo2VnRfVEVHd1Nwb19kS3dkV211aVZxV0JmbW1GS0RvOG90aEZ3Y2ZWTGRpa3dWX25xamo4Zm1PZmEtV0JTTkNVV1ExQUZLLTk1ZFIzODZuaW44cUNHekFmVEJNbWFFN0xJQk9UT3F5Zm5wVllaQVVjaE5qWTEydzlBaUJJeXBSQS1KbVNDN1Vva1cySm9L0gGmAUFVX3lxTE13OGdLWXlveHhfTEZUQ1drM3hFbGp6bElsMmxZNG9nN09PdU5jQWNvMGV6Qm9PeEtlcmhPY1dTc2Nwdk5jSFZHUHI5QmNod3BUMUUySHpQWVk1dUJsXzlqV2NEZFYxMkxPVFpZY2JxYnlSTDUxVjRPVnp0b2RkQjFFdXVPQ20yY3NlZ01hTFJpcHIta3RpQXlaUnlzVE9Jc3ZpYVZMdVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T23:45:15Z",
+      "summary": "美国得克萨斯州的Katy独立学区（Katy ISD）近日制定了新的课堂人工智能使用框架。该框架旨在规范教师和学生在课堂上使用AI工具的行为，确保技术应用服务于教学目的而非取代教师角色。新政策要求所有AI工具必须经过学区批准，且使用时需明确标注AI参与内容。学区还计划提供培训，帮助教育者理解AI的局限性，并防范作弊和隐私泄露风险。此举反映了教育领域对AI技术日益增长的关注与谨慎态度。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3033",
+      "title": "Editorial | US aims to dominate AI but China’s open-source approach is unstoppable - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGgxX3Z4WHh1NXpUVDMycE1XQ3hNWTNKVWNaOTNTVjVGWnJBbWNCeWlqSU0yNTFjbC1ZMlJMWWZacGFDVjIwd0YwQ1ZRanZzcGxGdWVNT2hpMVppTDh3cXp4Q0stOFJPVUl3bWFGZjU2aG5KQ29fLXZUNTAwZnc1VXIxaTlTaFZHc3didnptNll6bHVabkVSdTJNeWo4X3IzNEdkVTRRWEZUcElmSm1Ua3Bn0gGyAUFVX3lxTFBfazFTN2pvWjROUWp3bmNBWXltWG13WEFneTJHblBROGtKYktXZm55ZXpvNm53MHpxM25WYlFKdUJmMXd0ZF9Rc0wycGdiTzVFS2o4MFpxbXFLSHQ1MEJWelpBQnNTY0l0T05HX2VvNmVfM3JxU1lkZXF4enlBaEJ4U1lOLUtwclNyX0F4TmVEUnJYR1A5bFF5N2YwOHBicHV4U283RlRLV0l0a3YwSzI4VWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T23:15:07Z",
+      "summary": "南华早报发表社论指出，尽管美国试图在AI领域维持主导地位，但中国的开源AI方法正展现出不可阻挡的势头。中国通过开放的模型权重和共享技术框架，吸引了大量开发者参与，加速了创新和应用的落地。而美国企业则更多倾向于闭源和垄断，可能错失社区协作带来的优势。社论认为，开源模式在推动AI普惠化和多样化方面具有天然优势，美国若过度限制合作反而会削弱自身竞争力。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3034",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T21:17:11Z",
+      "summary": "微软CEO萨提亚·纳德拉警告称，那些只依赖单一AI模型处理所有业务的公司可能无法在竞争中生存。他指出，企业必须建立自己的模型或部署AI基础设施层（即AI网关），将自身提示与模型本身解耦，以避免被供应商锁定并确保数据安全。纳德拉强调，未来AI的差异化优势将来自企业如何灵活组合、微调和管控多个模型，而不是简单接入某个通用AI。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3035",
+      "title": "Adoption of artificial intelligence outpaces training in field epidemiology programs, new survey finds - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZjVZV2pYRTVSWHhDMUNjMWdxdHI3cGZwVTB1bl9UYlhyLUZ3WHM3UUhKekkwckhLY3BPSzFPZmNpc081SkZ1aEpZdFhDRi1pZVJaQzFNVFVqUUJKRUc1Z1RfaTBsMU5Gbjdpcm02cDBBaXQ1YjhMNk1NSVM2R1lrMFgwdDVJeExYaWd6a3JPZzhZSzdnVC00NmhtX1VjcElMUkNBN0tSSUIzMjdudG0tTlQ1Q0UxTGRtRUFtSE1Wdi1GQVdO?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T21:00:40Z",
+      "summary": "一项新调查显示，AI技术在流行病学项目中的采用速度已超过了相关培训的跟进。许多现场流行病学项目已经开始使用AI进行数据分析和疫情预测，但工作人员缺乏系统性的AI工具操作和伦理培训。调查指出，这种“先使用后培训”的模式可能导致误用、偏见和数据解读错误。专家呼吁立即加强流行病学家的AI素养教育，并在项目部署前建立配套的培训机制。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3036",
+      "title": "Opinion | AI Shouldn’t Require a Permission Slip - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vYU9KVmR0MkRYeEo2aHd6dEtrbWFUa1F4eVBKR0k0UmJRekxkbDlkMkhOcG1GLWlRdVFJNllyMUFXNGlQQlJKdTAzQzB1cm1rSUZZVkdPaUMyUlIwVEx4NGxlc3NiRFF2aVJDLU9ka3d5N1lMb1ZpTm02R2tyQkU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T20:23:00Z",
+      "summary": "华尔街日报发表观点文章，认为AI的发展不应被过度许可或审批机制所束缚。文章指出，当前部分监管提议要求企业在使用AI前获得官方许可，这可能扼杀创新并阻碍技术普及。作者主张通过事后问责和行业标准来管理风险，而非设立前置审批。如果每项AI应用都需要“许可以可”，小型创业公司和研究人员将难以参与竞争，最终损害社会从AI中获得的广泛收益。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3037",
+      "title": "Hugging Face CEO wants transparency after OpenAI’s AI incident - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3FhZlRlQi1VZlhXUDBzVFFjZXJEaUhpNC1rWlNsdEx1d21DZFRUendHMFV6MW4wUEoyTE1zcEdTQ0pJSm1lQ0w0cUlqLWN2UktINW1oWkpTUUJXSWlaNzBiWmg1dnUzR0JadHJRRjdZRzdVT0lFM1ZaTGdvT2NISno3cU8yU25iTnpkYWVxWVJyMHJXOVRkMTcwU1JNSUh2NndHY1ZRdzM0ZXZMOVctdndQcVdJNzNNY3B5Wg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T20:21:25Z",
+      "summary": "在OpenAI近期发生AI安全事件后，Hugging Face CEO呼吁行业提高透明度。他指出，AI事故的频繁发生凸显了公司披露模型能力、训练数据和部署限制的重要性。Hugging Face作为开源AI社区平台，一直倡导开放共享，他认为所有AI公司都应公开关键信息，以便社区和监管机构能够评估风险。透明度不仅有助于重建公众信任，还能促进更负责任的AI发展。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3038",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T20:19:42Z",
+      "summary": "技术新闻PSA警告称，Anthropic旗下Claude模型的共享聊天和Artifacts功能可能导致用户内容意外暴露在Google搜索结果中。问题源于“分享聊天”功能生成的公共链接，任何获取URL的人都可以直接查看对话或项目内容。由于这些链接可能被搜索引擎抓取，用户隐私面临泄露风险。Anthropic尚未完全修复该问题，建议用户谨慎使用共享功能并检查已发布链接的可见性。",
+      "fetchDate": "2026-07-28"
+    },
+    {
       "id": "3015",
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
@@ -27262,5 +27334,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3029
+  "total": 3037
 }

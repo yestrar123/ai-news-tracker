@@ -1,132 +1,62 @@
 {
-  "updatedAt": "2026-07-27 19:10:11 UTC",
-  "totalArticles": 18,
+  "updatedAt": "2026-07-28 01:26:17 UTC",
+  "totalArticles": 8,
   "articles": [
     {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-27T18:32:11Z",
-      "summary": "微软推出其首个网络安全AI模型以及新的自主网络安全系统，大幅提升AI安全产品线。该安全和AI模型专注于威胁检测与响应，结合自主系统可自动执行安全操作。此举旨在应对日益复杂的网络攻击，利用AI技术增强防御能力，标志着微软在AI与安全融合领域的重要进展。"
+      "publishedAt": "2026-07-28T00:13:33Z",
+      "summary": "Anthropic创始人兼CEO Dario Amodei近日回应了关于开源权重模型的争议。他表示自己并不反对开源模型本身，但对中国AI能力的快速崛起感到担忧。Amodei认为，中国在AI领域的投入和进展可能带来地缘政治和安全风险，尤其是在模型权重开放后可能被恶意利用。他强调，Anthropic在安全研究上的投入正是为了应对这种潜在威胁，并呼吁业界在开放的同时加强监管和防护措施。"
     },
     {
-      "title": "OpenAI CEO Sam Altman claims AI singularity has arrived - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelU4cDRWSmdDVFdIYXJXSjItVkZtcTRjLXhmSDB5YlI3LVM2cTUtLWtETG9VV3ZiYkJMR2M3VEZid0NZY1lSUFBDS3M1YkJZYjJkYi1uR2NuT0JJZHB4R2I0OXpEQmtsOEFMZFpBSE1OaHBlTFFwR0F6c2tGb2dNN0syQjFyUFdsNGpBR19TTkdWc1pxWFRHVG4wdGJfQXFy0gGmAUFVX3lxTE1DMTlTbUJYTUhfeUZLVlVTLTYyeDltS2IzQ1d2dVNjN2JGdnFHYTZWaUdOOXNNUzloMEhZdXFBNnpIS3dWcXlaLTNaa1VONHg0TDJNR1djTng3LWd6T2hSbnB6aEluX2d6YnhKd3BZRHlpTk03WDdaSnEtM3lraUdzS1RZaDh5dTc3VXpOeVZTN2QyMFdEMmRGaHFKdXRaWndLdWZyZHc?oc=5",
+      "title": "Katy ISD sets new framework on artificial intelligence use in classrooms - ABC13 Houston",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3F4S3ZaeGRKLXo2VnRfVEVHd1Nwb19kS3dkV211aVZxV0JmbW1GS0RvOG90aEZ3Y2ZWTGRpa3dWX25xamo4Zm1PZmEtV0JTTkNVV1ExQUZLLTk1ZFIzODZuaW44cUNHekFmVEJNbWFFN0xJQk9UT3F5Zm5wVllaQVVjaE5qWTEydzlBaUJJeXBSQS1KbVNDN1Vva1cySm9L0gGmAUFVX3lxTE13OGdLWXlveHhfTEZUQ1drM3hFbGp6bElsMmxZNG9nN09PdU5jQWNvMGV6Qm9PeEtlcmhPY1dTc2Nwdk5jSFZHUHI5QmNod3BUMUUySHpQWVk1dUJsXzlqV2NEZFYxMkxPVFpZY2JxYnlSTDUxVjRPVnp0b2RkQjFFdXVPQ20yY3NlZ01hTFJpcHIta3RpQXlaUnlzVE9Jc3ZpYVZMdVE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-27T18:14:45Z",
-      "summary": "OpenAI首席执行官山姆·奥特曼宣称AI奇点已经到来，引发业界广泛讨论。奇点通常指AI超越人类智能的临界点。奥特曼的言论基于近期AI模型能力的突破，但不少专家质疑其定义与时间点。该声明再次激化了对AI发展速度、风险管控及社会影响的辩论。"
+      "publishedAt": "2026-07-27T23:45:15Z",
+      "summary": "美国得克萨斯州的Katy独立学区（Katy ISD）近日制定了新的课堂人工智能使用框架。该框架旨在规范教师和学生在课堂上使用AI工具的行为，确保技术应用服务于教学目的而非取代教师角色。新政策要求所有AI工具必须经过学区批准，且使用时需明确标注AI参与内容。学区还计划提供培训，帮助教育者理解AI的局限性，并防范作弊和隐私泄露风险。此举反映了教育领域对AI技术日益增长的关注与谨慎态度。"
     },
     {
-      "title": "Nvidia's $750 Billion AI Deals Face 'Circular' Scru… - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZS1va2ktYWc1NnZ4T011SjdFSUtBYkNUbWJlR252eEpCT0lsVlU3NFI2U0VnSUYzcGdnSHkwR3dkMlF6S2xDZlJTb0V2bUwtM1FBT2YydmpfWVhxUW1taUdxVTVJZW9oVUVhWm9YX2toZkxuZjhVUEtWQ1U1aW5GeWZMLVR4UVAzY2lsV2RKMmRSaVAtZjBVT1JVamFPRG5WT1NRMGQtVl9BUmgyTDV6cy1Qbko0Zw?oc=5",
+      "title": "Editorial | US aims to dominate AI but China’s open-source approach is unstoppable - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGgxX3Z4WHh1NXpUVDMycE1XQ3hNWTNKVWNaOTNTVjVGWnJBbWNCeWlqSU0yNTFjbC1ZMlJMWWZacGFDVjIwd0YwQ1ZRanZzcGxGdWVNT2hpMVppTDh3cXp4Q0stOFJPVUl3bWFGZjU2aG5KQ29fLXZUNTAwZnc1VXIxaTlTaFZHc3didnptNll6bHVabkVSdTJNeWo4X3IzNEdkVTRRWEZUcElmSm1Ua3Bn0gGyAUFVX3lxTFBfazFTN2pvWjROUWp3bmNBWXltWG13WEFneTJHblBROGtKYktXZm55ZXpvNm53MHpxM25WYlFKdUJmMXd0ZF9Rc0wycGdiTzVFS2o4MFpxbXFLSHQ1MEJWelpBQnNTY0l0T05HX2VvNmVfM3JxU1lkZXF4enlBaEJ4U1lOLUtwclNyX0F4TmVEUnJYR1A5bFF5N2YwOHBicHV4U283RlRLV0l0a3YwSzI4VWc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-27T18:03:35Z",
-      "summary": "英伟达价值7500亿美元的AI交易正面临‘循环’审查，涉及交易结构或财务透明度问题。报道指出部分交易可能存在资金循环或虚高估值风险，引发监管与投资者关注。该事件凸显AI领域巨大投资背后潜在的金融合规挑战，可能影响英伟达未来并购与合作策略。"
+      "publishedAt": "2026-07-27T23:15:07Z",
+      "summary": "南华早报发表社论指出，尽管美国试图在AI领域维持主导地位，但中国的开源AI方法正展现出不可阻挡的势头。中国通过开放的模型权重和共享技术框架，吸引了大量开发者参与，加速了创新和应用的落地。而美国企业则更多倾向于闭源和垄断，可能错失社区协作带来的优势。社论认为，开源模式在推动AI普惠化和多样化方面具有天然优势，美国若过度限制合作反而会削弱自身竞争力。"
     },
     {
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-27T17:28:42Z",
-      "summary": "OpenAI在Hugging Face平台上的数据泄露事件重新点燃关于AI对齐与控制的讨论。泄露内容暴露了模型训练细节与内部安全措施，各方观点分歧：有人主张加强AI对齐（使其符合人类价值观），有人主张更好限制（控制其能力），或两者兼行。此次事件凸显AI安全治理的紧迫性。"
+      "publishedAt": "2026-07-27T21:17:11Z",
+      "summary": "微软CEO萨提亚·纳德拉警告称，那些只依赖单一AI模型处理所有业务的公司可能无法在竞争中生存。他指出，企业必须建立自己的模型或部署AI基础设施层（即AI网关），将自身提示与模型本身解耦，以避免被供应商锁定并确保数据安全。纳德拉强调，未来AI的差异化优势将来自企业如何灵活组合、微调和管控多个模型，而不是简单接入某个通用AI。"
     },
     {
-      "title": "AI capability watch centre on the cards to assess emerging risks - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR3NfSHBGaGRlbnYyT2cxRnQwQ2dUeDBfQ0lna3c5TWZpTXh4X3VYRFlTYlBXb2hTLXJHQXUydEE4aGZ6b0ZoSHFiblFGTURJbHlHV1M1UXlBNDlCN3pGTzh0b3dyU2NBU0tPcUlmZVNpWFViTUhPcU5MZDM1b2JqSlFab2xxWGllUm9jR2R5dmVadXZMbkdSVHZEMjBUYWVDaWJyTi1QUE1WQ3NoaklMLWlpRjY1UnJ5YTZ2LW8wUmNqQjBPZzNDOG5aM2ZSTkp0NTN1LTNYR1p2SnR2TjBUQ09WSWgtOUJ60gHuAUFVX3lxTE9RVmpmdE0taUpscFRfMU01QVZjdnJZc2hPRzg2SHVHd0tienZiNHpLaFVzMEZJUnpXeUlTNkF2WHcxQVlkOTN2N2RhSzFwSWZkSmFBRlFmQ3Y5bnpUc09WNHBRVTdQOGtKMjM1TnVXY0tEUEFwV3dxU2V6cVZGOGNhUTF3c0puUzRldDlXeFJVeklJcDJMelg0enlKVkRYVG5nel85N3N1YzJMamhFWHRKYW50VkFtWGt1Qy0yTVY4MVUxUWpudUtRejlDYTRGM1diN2h6OVFTSnFaVk1ONktTWHJhMUxVVzlPdUhTM2c?oc=5",
+      "title": "Adoption of artificial intelligence outpaces training in field epidemiology programs, new survey finds - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZjVZV2pYRTVSWHhDMUNjMWdxdHI3cGZwVTB1bl9UYlhyLUZ3WHM3UUhKekkwckhLY3BPSzFPZmNpc081SkZ1aEpZdFhDRi1pZVJaQzFNVFVqUUJKRUc1Z1RfaTBsMU5Gbjdpcm02cDBBaXQ1YjhMNk1NSVM2R1lrMFgwdDVJeExYaWd6a3JPZzhZSzdnVC00NmhtX1VjcElMUkNBN0tSSUIzMjdudG0tTlQ1Q0UxTGRtRUFtSE1Wdi1GQVdO?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-27T17:17:19Z",
-      "summary": "计划建立AI能力监控中心以评估新兴风险，该中心将聚焦监测AI系统能力的快速增长和潜在危害。通过系统化评估，旨在提前发现失控风险、偏见放大或自主行为等隐患。此举反映各国对AI安全性的重视，试图在技术进步与风险管控之间取得平衡。"
+      "publishedAt": "2026-07-27T21:00:40Z",
+      "summary": "一项新调查显示，AI技术在流行病学项目中的采用速度已超过了相关培训的跟进。许多现场流行病学项目已经开始使用AI进行数据分析和疫情预测，但工作人员缺乏系统性的AI工具操作和伦理培训。调查指出，这种“先使用后培训”的模式可能导致误用、偏见和数据解读错误。专家呼吁立即加强流行病学家的AI素养教育，并在项目部署前建立配套的培训机制。"
     },
     {
-      "title": "Threads users can now chat with Meta AI in their DMs",
-      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "title": "Opinion | AI Shouldn’t Require a Permission Slip - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vYU9KVmR0MkRYeEo2aHd6dEtrbWFUa1F4eVBKR0k0UmJRekxkbDlkMkhOcG1GLWlRdVFJNllyMUFXNGlQQlJKdTAzQzB1cm1rSUZZVkdPaUMyUlIwVEx4NGxlc3NiRFF2aVJDLU9ka3d5N1lMb1ZpTm02R2tyQkU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T20:23:00Z",
+      "summary": "华尔街日报发表观点文章，认为AI的发展不应被过度许可或审批机制所束缚。文章指出，当前部分监管提议要求企业在使用AI前获得官方许可，这可能扼杀创新并阻碍技术普及。作者主张通过事后问责和行业标准来管理风险，而非设立前置审批。如果每项AI应用都需要“许可以可”，小型创业公司和研究人员将难以参与竞争，最终损害社会从AI中获得的广泛收益。"
+    },
+    {
+      "title": "Hugging Face CEO wants transparency after OpenAI’s AI incident - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3FhZlRlQi1VZlhXUDBzVFFjZXJEaUhpNC1rWlNsdEx1d21DZFRUendHMFV6MW4wUEoyTE1zcEdTQ0pJSm1lQ0w0cUlqLWN2UktINW1oWkpTUUJXSWlaNzBiWmg1dnUzR0JadHJRRjdZRzdVT0lFM1ZaTGdvT2NISno3cU8yU25iTnpkYWVxWVJyMHJXOVRkMTcwU1JNSUh2NndHY1ZRdzM0ZXZMOVctdndQcVdJNzNNY3B5Wg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-27T20:21:25Z",
+      "summary": "在OpenAI近期发生AI安全事件后，Hugging Face CEO呼吁行业提高透明度。他指出，AI事故的频繁发生凸显了公司披露模型能力、训练数据和部署限制的重要性。Hugging Face作为开源AI社区平台，一直倡导开放共享，他认为所有AI公司都应公开关键信息，以便社区和监管机构能够评估风险。透明度不仅有助于重建公众信任，还能促进更负责任的AI发展。"
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-27T16:45:24Z",
-      "summary": "Meta宣布在Threads私信中集成Meta AI聊天机器人，用户可直接与AI助手对话。该功能逐步推送，允许用户通过即时消息获取信息、完成任务或娱乐。此举是Meta将AI深度植入社交平台战略的一部分，旨在提升用户粘性并探索对话式AI在私域场景的应用。"
-    },
-    {
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-27T15:57:12Z",
-      "summary": "最新数据显示，谷歌AI概览已覆盖43%的搜索，凸显AI生成答案快速成为主流信息发现方式。用户无需点击链接即可获得整合答案，颠覆传统搜索结果页。这引发关于流量分配、内容原创性及信息准确性的讨论，也展示了大模型在搜索领域的渗透力。"
-    },
-    {
-      "title": "NIT Rourkela develops AI system to make solar plants smarter, efficient - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2xlUEQxYzRHWDhVMjREenZ4SEZDVE5BckgyckQtVi03NFNsbVpSRkNIYlhZczZ5UFVITENCRG9wVWhGSlBndXV4UjRBcHdmOGxvY2RKdkR2QmhZRWRpUjNBNXhxSHBtdE8zN0ZmSl9rd3lkYWhaek1RRkFyNTBydzVmbGJaZTA1NUxLa3V0aFhtRTdlQWNTUkxVaHZTRFUyX1dFS1JNNTU4dmlhaWttSE9QdHpYUVNQN2hmR3M5azVPSTdqTHI4c2xHNGRPeV9YWHI2QkthRUZXM1RLWFZ5b2FVSng2LVY0aHJubXdXZGLSAfYBQVVfeXFMTWphQ19QTVVFYXZiekptaGVCaFVuYm9xRUtGSmRISDhpcEVYOVJCLUVaSnBjNmhsNFBVcjhpVzVuRVZKUHpnRHBoYUQ2SkI0akFsOGJON0hfSFI0YkZlWjRVY3RXcWhRSzJTaFh2aGQ1T1BhTHhUWXZHN2pUYjFhbUdMUmZ5UUtnYmRUTVJkMWpwc083UUxrb1NBcjB1OXluTndSMU80VUlPZ1dEYXJWa2NSN3VvT3FiQ0V1VU93cjZ2T2ltMEJycW00bWExcHd2QVhadDhobzdFTUhvRGVKSmx0T3ZhTTNxUUNvUHZlZ25yaXpfNUZn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T15:34:29Z",
-      "summary": "印度国家理工学院鲁尔克拉分校开发出一套AI系统，旨在提升太阳能电站的智能化水平和效率。该系统通过机器学习算法优化光伏板角度、预测天气变化并自动调整运行参数，可将发电效率提高15%以上。该研究为可再生能源与AI融合提供了实用范例，降低运维成本。"
-    },
-    {
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-27T15:30:00Z",
-      "summary": "TechCrunch Disrupt 2026大会将设立智能系统舞台，聚焦能源、基础设施与AI技术的碰撞。议程涵盖核聚变突破、AI对电网造成的压力以及可持续计算方案。该舞台旨在探讨如何构建支撑AI时代的物理基础设施，平衡巨大算力需求与环境影响。"
-    },
-    {
-      "title": "This $9 key physically locks your most addictive apps",
-      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-27T15:25:37Z",
-      "summary": "一款售价9美元的NFC钥匙通过物理扫码方式强制锁定手机上的成瘾应用。用户需将钥匙贴近手机NFC区域才能解锁应用，帮助减少刷屏时间。该产品结合物理隔离与数字限制，为数字健康提供了一种低技术门槛的解决方案，引发对行为干预工具的关注。"
-    },
-    {
-      "title": "Compliance in the wild west — How state AGs are using traditional legal frameworks to address AI business practices - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVJ1T3RkaVRUOHJGVDlGRTBycWp1cXNWQU4xVWxqZk0ybE1qZV9IU1BvUE0ycmdzNnNsQ2lDUlJNRm5WUjlGNzFOaXY0VG5TMFQtNFRkUnd4NWg3SjFaWEl2RUc1TUVVUjJNNnZ3YU9LT2dCdnVfVGlsWFVZZlFEV1ZmOVFnLXJ6LTljLW5sQmJOcWpsMUp3bWNBeWItVUVzUVRjaGt0bVBrNTlEVFBqOHNMVnlISlR3QUZ4QjRZWllDYnRZYWVPR2lreURXZzVkZzZB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T15:21:17Z",
-      "summary": "美国各州总检察长正利用传统法律框架（如消费者保护法、反欺诈法）来应对AI商业实践中的合规挑战。在AI技术快速发展的“狂野西部”背景下，他们通过现有法规对算法歧视、数据隐私等问题进行监管，旨在保护消费者权益的同时避免过度阻碍创新。文章指出，这种采用既有法律工具的方式为AI治理提供了灵活而审慎的路径。"
-    },
-    {
-      "title": "Artificial Intelligence in Nuclear Medicine (2015-2025): Clinical Applications, Regulatory Governance, and Pharmacotherapeutic Implications - Cureus",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVjFJbVo3UEItMTRpbHNfdE9HNW1QNTgxVUx1clRxSUc5eEROUVQtd2ZtaEUtNkc2ZDI1Q0dmWHBnZlZIUDJscnc2R2xXNTFkMFVBWFZELUFLRW9qRDZDUmNHTVFYN1FxS1NjN3lpWVVHWHduOFJoaGhQVFpzSzhvUzdkWWJwbU5xM2hrQlFLcFgweW5jUHJJdzZ5NFdtNlhZdFhWSTFZV0JBQTFta0s3b1pYb1RaR3MyZDRRMlU2Z1l2NVhTMUQwNlpzZ2hsN3dyZGh0Mzd3TEZONHh1RnNScnJlTUJIbXRDMnpiV0F3bnBrV2k1SDFvUVRjeWhIUnRWckRZ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T15:02:53Z",
-      "summary": "该论文综述了2015-2025年间人工智能在核医学领域的应用进展，涵盖临床诊断（如PET/CT图像分析）、治疗规划（如放射性剂量优化）以及监管治理与药物疗法影响。AI技术通过深度学习显著提升了核医学影像的精准度和效率，但同时也面临数据标准化、算法可解释性及伦理审查等挑战，未来需进一步完善监管框架。"
-    },
-    {
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-27T15:01:50Z",
-      "summary": "Ilya Sutskever创立的Safe Superintelligence（SSI）宣布与英伟达建立长期合作伙伴关系，以规模化推进其AI研究。此前SSI在隐身模式下运行两年，现借助英伟达的计算资源加速开发安全超级智能系统。此次合作旨在解决AI安全与扩展性之间的平衡问题，为下一代通用人工智能奠定基础。"
-    },
-    {
-      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iUFV0dFc4SG92VDZ2QXgyenpqWUV6blU5RFB5NWpZRnUyY0xDRmZFa05MdHg0d0pWU2VlSkVRNkhPVXk4dWx0anhHU3BYRFJOV1pYbUJLVEtuZFdmNFU2QXNKNDZ3eDV1SG05R2p0VGU0N2dpcUxKNTZ30gF_QVVfeXFMTjM4TFdCdHRJNGptTXoxYnpoRmQ5WjJFOGdpZkpFOW05aHd4SnFoZUFSSUl0cmUwVGtlaUdKbzhkRUcwZExBdHNaTnJyeDRkOEluMjJJWjVZdjk3by1yZGlldUpKUnNRalgxQ3ZCMF9IbmNDWGFmVS1lQVgycDliQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T14:20:15Z",
-      "summary": "OpenAI CEO Sam Altman计划本周与特朗普政府官员及参议员会面，重点讨论AI监管政策与创新支持。他预计将提出平衡技术发展与安全治理的建议，包括制定灵活的法律框架以避免过度限制，同时确保美国在全球AI竞赛中的领先地位。此次对话或影响未来联邦AI立法方向。"
-    },
-    {
-      "title": "Intel Is up 170% in 2026. Should You Buy the Artificial Intelligence (AI) Comeback or Take Profits Today? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWllHTnYxeUpsaVhmYk0wSFJ3eGJLMnBJMTFhOVl2ZnAxaE5TMmZNVUpVaDZqNU5va3Nvanc4ZkMxeVQ1WUxzYzEzZDRfZDF2bzBFXzctNEdlWmV2a0NYU09SWDNieVl5VGUxaHhmai1VVDRUdjItSG9CWVF5ZnBPaFpXMjhjdWc4YkRVUTgtTXcyRmU5SzhMSA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T14:15:00Z",
-      "summary": "英特尔股价在2026年飙升170%，主要得益于其AI业务复苏和市场对芯片需求增长。分析文章指出，尽管公司通过数据中心和客户端AI产品实现扭亏，但投资者需谨慎评估其长期竞争力——在AI芯片领域面临英伟达和AMD的激烈竞争，当前高位是否应获利了结取决于对英特尔技术转型的信心。"
-    },
-    {
-      "title": "UNESCO strengthens digital and artificial intelligence competencies of Zanzibar correctional officers - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRXVzek1hZ2pTd1FQbEl0dXRTWHgzam1oaVJxTVgybkFDTXh0NzMzd2hQUkdueVNLYUNSNzJsZktwMnBpLXVBQk5zNzAxVzV5VlV1SGIwNlFBOUlyRXdfZE1MNnA5T2Rjd2I0TEJnbzY2VTRzaXFqTHZjNWVtZGxKdzFvU3htTkZOYzNSazV4S2Fhb0EwWXU3WmxfNU9pSC1Ja1JZdG92Y1pHeG5UX3pOR1hCYUV6MU5MM18tMVNQZWI0MFRoMGsyaWd5MnZzdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T14:09:04Z",
-      "summary": "联合国教科文组织（UNESCO）启动培训项目，提升桑给巴尔监狱官员的数字与人工智能能力。课程涵盖AI基础、数据分析及数字化管理系统应用，旨在改善监狱管理效率、优化罪犯改造流程，并推动刑事司法系统的现代化。此举体现了AI在公共安全领域中赋能社会治理的潜力。"
-    },
-    {
-      "title": "High school students explore artificial intelligence at Wright State summer camp - Wright State Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbG9NYk1aMlVtTzBLUGZtZW1TWHczZEQwMkRBYUUxQTFGeGZreFBZb1FNZWxuNGFNcGhhUmw4V1NoUEpyNk5iOTVsNUo5bjBUS3dBeU1HMHFvVHJsSFJ0TjQwRU5hRVBWb3lZbkRNZnpoTlcyV05HY2xXVXhIUXlTbHZhdlNuTHJnQS1aUE96U0ZybDlBTmR0Nnl4d0d6VDg3WDN0SFR1U0hzM2c3VldFSlE2OFFJNEFGdzFvSjFWYTFtYWlOS1NaZmI4djk4Zw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T14:08:24Z",
-      "summary": "莱特州立大学举办高中生人工智能夏令营，通过互动工作坊和项目实践，教授机器学习、编程和数据分析等核心技能。参与学生利用真实数据集构建AI模型，探索其在不同领域的应用。该活动旨在激发青少年对AI的兴趣，为未来培养创新型科技人才。"
-    },
-    {
-      "title": "Omnelytics AI Introduces Its Enterprise Artificial Intelligence Platform to Accelerate Global Digital Transformation - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUEMtTTZLcVhVVm5rbU1ISTJkZ2RQbW1ac2NZNXQ1T0tvb1dZaXVXbHlhQndNY09HdHI4c0ZqOUhVWWhnaXRrYWlCRXQ0R1pHcFdNbFBZXzY4REdVamFNazd6TWxuT3lQSnJBREFLYTN0LUtyb0dQMUgzSXdNRzdCNy0yNGY1ZXJEUEFlNHR3VGo2eGdZWks1QjNBV0s0S2F6TG5xcmhlYlJ1YXRLS1R3SVFyTFQtelRKOFZLU280WjU4YkdNUXpfRTBmRGFJV1FnbzVXRG9nemw5RER0U01wTVNGVndSUWdqY3lmMFE5aw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-27T14:01:00Z",
-      "summary": "Omnelytics AI推出企业级人工智能平台，旨在加速全球数字化转型。该平台集成了机器学习、自然语言处理和自动化决策工具，帮助企业优化运营流程、提升客户体验和实现数据驱动增长。平台采用模块化设计，可适配制造业、医疗、金融等多行业场景，降低AI应用门槛。"
+      "publishedAt": "2026-07-27T20:19:42Z",
+      "summary": "技术新闻PSA警告称，Anthropic旗下Claude模型的共享聊天和Artifacts功能可能导致用户内容意外暴露在Google搜索结果中。问题源于“分享聊天”功能生成的公共链接，任何获取URL的人都可以直接查看对话或项目内容。由于这些链接可能被搜索引擎抓取，用户隐私面临泄露风险。Anthropic尚未完全修复该问题，建议用户谨慎使用共享功能并检查已发布链接的可见性。"
     }
   ]
 }
