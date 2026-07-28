@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "id": "3049",
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-28T13:19:17Z",
+      "summary": "专注于通用人工智能的初创公司Recursive Superintelligence与亚马逊签署了一项价值4.1亿美元的计算资源协议，这笔支出几乎相当于该公司迄今为止的融资总额。该交易旨在获取大规模AI训练所需算力，反映出前沿AI企业对高性能计算资源的巨大需求。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3050",
+      "title": "Debate over AI’s future divides Silicon Valley as China gains ground - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaW9LNl9aaUtzSWctRWlwQWFjakJaajl2azFrTldja3Z3YXBtZTlqclJSS0VqWkRYelN5ZDBjUXAyTklHVGwzRkdpdGtwNXJmMm9mQ3hwdnZuMjRYcENjV0tSd2VoTlh0MEozR3JsUVBjR3hFRUlRVTRqak5TYVRNTm5ySXVwY0tkeG15V21ZYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T13:05:00Z",
+      "summary": "随着中国在人工智能领域快速追赶，硅谷内部关于AI未来发展路径的分歧日益加剧。争论涉及技术路线、伦理规范及全球竞争格局，凸显出在技术主导权争夺中，不同利益相关方对开放与安全、创新与管控的立场差异。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3051",
+      "title": "Prediction: Berkshire Hathaway Will Add This Artificial Intelligence (AI) Stock to Its Portfolio Before the End of 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUDV1Tk5DeVdXbzZHZkZJVTRSdDVJazFGYXVXb21jeVd5bXlDZkdhdkVOWDRVOEtCVkdvM1VzYmh1NnJvaEptTkhjbGZWVFBwSTRGY1ZrM2I1YTdpQklQRWJjOFFZb2JWdF9iMTEwWWY2WVExVTFPUk9QNklGYjloNmx4cDBNUW1WWUN5YlhmSjBlV2ZPM3VEanhXYVNvX0t4dk1DZGl3SklBbnpHSHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T12:20:00Z",
+      "summary": "市场分析预测，沃伦·巴菲特旗下伯克希尔·哈撒韦可能在2026年底前将某只人工智能股票纳入投资组合。该预测基于伯克希尔近期对AI领域相关企业的增持行为，以及该股票当前被低估的估值，暗示其长期看好AI赛道。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3052",
+      "title": "Brookfield sees 6.5 GW of AI data-centre capacity coming online in India - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUlzazUtLVpLY3J2YnBhTm51WFlHN19MVUxzd010dHlDR3BtODhRbHVBcTBEeFNXYzZYRmdrbzh4Wk1mdHZIdGlwem5tX2hCclBuNWZBUEoxbEtvN0xMdi1pV0ZNRjJfeC13UXFXNXppNVd0ZU9GZDI3enU4ZjhyNjBQMHBYZEVnS09Ea0doTGdkN2hEQ2F2R2swWnBVcmM2MTJnbmhic3BEVTQyTm9WYXVCdU01ZjhlOENrMw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T11:47:30Z",
+      "summary": "加拿大投资巨头Brookfield预计，到2026年印度将新增6.5吉瓦的AI数据中心容量。这一规模彰显印度作为AI基础设施新兴市场的潜力，同时反映出全球科技公司对印度数字经济快速增长的战略布局。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3053",
+      "title": "Anthropic rejects open-weight AI bans, calls for China chip controls and safety tests - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWC1yWUZtbWY3eGxsWE53TmRoRUtKWjZCSF9ONHQwQnVLZHdOVldzaVM0RTFYWTRMY0dzNENNMEEzVk45dDFCUm84b2FRZXBFOE1JV1k5N3llazZ3alpCOVk5RGxvc21HN2ZSSG9zU0czS19DYlplcjZ6REJqTHdWSGt5NmJ5SGZvOEQ0QXplODZpVU1VRm1aSC1sb09FUWJlNVlLMHZQQkVseUw2QWkwbDNkUjRmamNmaXdBVmhpcF9IM204Wk8tOEFYREZpaXZp?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T11:17:08Z",
+      "summary": "AI公司Anthropic明确反对全面禁止开源AI模型权重，但呼吁加强对中国芯片出口管制并建立强制性AI安全测试。该立场体现了在开源创新与地缘安全之间寻求平衡，试图通过可控的开放策略维护技术优势。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3054",
+      "title": "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGhJRURyV0lwUEtRVnMwMmVveXF5N2R5ODRyOWhRUmkyNG43VHJRaGhRX2JBbW9EcVFQLXpJZVdDYzQ1T3ZBbnl1b0M5TkVfSG9Pb1JwcVFTQmhHYkJXdlk5TklqU2JRSDF6aEpnekQ0RlEwRDZHMUhiVlVpWmRPNDdGdnItY21ETlM5Y01ieEs1VlpDM1g0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T11:08:16Z",
+      "summary": "伯克希尔·哈撒韦掌门人沃伦·巴菲特及其副手格雷格·阿贝尔近期持续增持某只人工智能股票，该股目前处于低价区间。此举显示价值投资巨头对AI行业长期回报的认可，同时也被市场视为该领域估值触底信号。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3055",
+      "title": "Open AI models gain industry support, but security commitments diverge - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOThIWkxzcWh5V2RGY0tlVWY0WVk4T3hmYTVoaVBrMVlfTkdhZnhDSk54WkFsX0RxQ0c4Z1IwVk9VTVZsTnIwak84b294WExvclBoNFNIbUFtb3Q1SnNhZGxKSEtrWG51THF4bGUwUnRrTlhQd2hkUWNCLUJXNi1RQlRWZEdGSmJNU25IV0IyVjBBN0pfalY5WEhmYUNuQW5FYndPNnFKQmZmQzcxRXFpek9xc3lkNi03eUMzcGlicU1yUVdnU0RKTDV3T2tzZ3FEckVmMnlqNE8weHpIRkhRZDhsTUdHZWNLSTlaQk4zVdIB9AFBVV95cUxNdG4wdjdKMnFUbkszV1pyZmdlc2F3M2k0OGtlLURfZTZfQ3NRcVlfSlhSMDZNS1V3VkVRVThpcGJ0MHpnTDc2b1V2LXVzb0w5dEExQTV6VUZ3b29oVFBtWnlSWW1wSjdYRW9lbTBpZW5BV3NBQ2t6QjlBVGQxbHlSaTFKWENmRWlsM01MRHV2c0VDU3FqSE1FRk9uVkx1WVRzVzNwRndYS2hobDdmVzFZUFVHeWxjbmdvMVJueG1hdkFadmpTXzZ2RU9yNk5WN0xiVjNrdE4zeUE5Ym0tbXZ4STd4aUdnRTV6dS01Y2cwNVhjZDU5?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T10:12:52Z",
+      "summary": "开源AI模型正获得越来越多行业支持，但各企业在安全承诺上存在明显分歧。部分公司主张完全开放以推动创新，另一些则强调需设定严格安全边界，反映出行业在开放协作与风险管控间的持续博弈。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3056",
+      "title": "Texas A&M University joins the Genesis Mission to transform science using artificial intelligence - Texas A&M Stories",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc0NLWHF2UVZEZDZscEJPaTdJbUhYdU9pa1QteUJFYkdfZXlDQ3R1emluMlctNHE2TUd0N09ONjBsT09LdURFdkp0c1l4MC1YR08wTWNkOFViM3B4SG0tZUFCdl9FOURITXV3cFV4dE0xVzgwSjdwZmpYRDhJWUNFT1hoLXZuZFh0R3RQYk5IeEVadFM4aXE2N3VZTUdWQ2lRRG5GbVFDODBTaDRxRE5rMk1PeW9kN2FONjNwZDd3aXpxRW9mbm41NEEwX1lQb2xUNU1yMw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T10:04:36Z",
+      "summary": "德州农工大学加入“创世纪任务”（Genesis Mission），该计划旨在利用人工智能革新科学研究方法。校方将投入AI资源参与基础科学探索，涵盖材料、能源等领域，推动AI从辅助工具向科学发现核心驱动力的转变。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3057",
+      "title": "Forget Micron Stock at $920 Per Share. Buy This Memory-Focused Artificial Intelligence (AI) ETF Instead. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc3ZPbkYtQklZNTk5OF9sWHJldnh0Zjk4QTZfd1FEbUhpalNsdDhPWGMyY2lIOE82em1qcmozNnppbTJzUzBqNl9mblBYWENHTlg0dnVZQTQ3cjgtdWlKTlRqLVpXeURKbWFjakh5OUNsY3l0d2t0VHhHeWlHeUVWUXBJYmRFR2tXZi02WnREUEltRlpWOVBB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T09:42:00Z",
+      "summary": "分析师建议投资者放弃价格高达每股920美元的美光科技股票，转而购买一只聚焦内存芯片的人工智能ETF。该策略旨在分散个股风险，同时把握AI对高带宽内存、NAND闪存等存储芯片需求的持续增长。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3058",
+      "title": "Made by AI? EU tells firms to stick a label on it from Sunday - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHNUdFBveW9HNXpQRDBvZlZCdFdZWGU2VGVxd3NoVTM0V1locTlOMVZLVXh4T2kzRnptRUp2NlZNekVuZ0pBUVdUcGtwSHBxQnc5VmE5eVpLbDRQZmVrSzF2dkM1elFqdm1OOC1IQTYwV2FVdUVfQTBqQzNmZWxwV1FtN1JGQ2JGb2pCNFY1M3hnQlo2UGNFMkszUzdlVVhVUGRaRWZzUXFFZGF1cjBIQ0xR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T09:34:36Z",
+      "summary": "欧盟要求自本周日起，所有由人工智能生成的内容必须明确标注来源。此举作为《人工智能法案》的配套措施，旨在提升信息透明度，防止AI深度伪造和虚假信息扩散，标志着全球最严格的AI内容标识制度正式生效。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3059",
+      "title": "Will open weights make AI more honest? - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObE9FeTVMNjlrTzI3SW9Sa0p6N1JKWnNzdW1rcF9HV3M3WWtDb1Frb2JIQWFvMVowTXBSaFdzWHhaSl9VcDQtdXJNMy1ISmhUNFQ3NnU5Y3FHRmhXSE14cnBfekhOdGpFdXRHOTk5MExxenVHOHBQZXl2QlkxcGZZYkhYSG5rUVE2VlFLMA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T09:12:46Z",
+      "summary": "InfoWorld探讨了开放权重（open weights）能否提升AI的诚实性。开放权重允许社区审查模型内部机制，可能减少偏见和误导性输出，但同时也带来滥用风险。文章指出，透明性有助于发现系统性问题，但诚实性最终取决于训练数据和部署环境。技术要点在于：开放权重促进可解释性研究，但需配合对齐技术和监管才能实现真正可信赖的AI。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3060",
+      "title": "Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlljdWwwUlVuMW1kVE1wN3lnNDUteXF6RWluempVNUcteWpzY3V1LTFCZWF2UmpWREd1dVh6eVdGR0FrOE1hdGxMTjFYanQ0d0pPN3JReDhkTzRfS0FrSHI2VXpkNGx2eHNnQlItN2pDYmJycnVSOC1NMTNSVUNTNEVTRnJDSFB0VG5KMFJWMDQyTll4ZU1zcnl2c1RoZUtSd0g0SjRxRjhCNTVYUEtPcDlYZTcybFRT?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T08:53:07Z",
+      "summary": "AI News报道，亚美尼亚的AI战略聚焦于计算主权而非芯片制造。该国通过构建自主计算基础设施和云计算能力，确保数据安全与算法独立性，减少对外国硬件依赖。技术要点是：利用本土算力资源（如水力发电）支持AI训练，并通过开源框架和政策激励吸引人才，旨在形成弹性、可控的AI生态，为发展中国家提供替代发展路径。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3061",
+      "title": "Omnelytics AI Introduces Its Enterprise Artificial Intelligence Platform to Accelerate Global Digital Transformation - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNEJETnQ3eVR2dUstQWZxZUpWVTl6T3JvdUhZN2ZVU2hXV1pKMW03Z3Bqc09zdjBaaWRjaWFuQUxSRUNvRTV5U1ZKSmFVLUNkNWM2MzlBQlFKZ3JHMm9MY2lMZElScEdUeU1rVThJdVZrUGZuM0FLMEtyN1lqY2tmV0tURlBOTkxrWWc4Zmx2OHJfMlFBbno1bEhBbERTUVRmTjhJdmY0Wmt0X0tMd1ctZm8xWTJsT25DcUJ5TEVqQWx3aGVSbUQ2MHF4OWtkdXJ1MFBhX0Q1QjlWdVNRNGVxeG55b3J3NGhOdVZPZzFn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T08:40:30Z",
+      "summary": "Omnelytics AI发布企业级人工智能平台，旨在加速全球数字化转型。该平台整合机器学习、自然语言处理和自动化决策工具，支持企业快速部署定制化AI应用。技术要点包括：模块化架构、低代码接口和跨行业预训练模型，可降低AI应用门槛，提升业务流程效率，覆盖金融、医疗、制造等领域。平台强调数据安全和可扩展性。",
+      "fetchDate": "2026-07-28"
+    },
+    {
+      "id": "3062",
+      "title": "Ten Finalists Announced for the Reply AI Film Festival, the International Competition Bringing Together Cinema and Artificial Intelligence - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOR3l3RlhRcWlhaUhBQm1EV3Z1NnN1MmRaeFNkZC03dzBjVGxGMmZOSW1DYlFRU1dFT05NeEJJR3dsOXloZ2J1MnBTNnA4V2VycWZFSjNMaUotaWd6MVNkOHRzM0ZYb0RQaGFQS0p5ZE1JTHhVbXZuZWFKbDJMZnZkLUdPUkxrNV9KUDhoSUhoMUs2b240clNYaUhQak5jZU4ydFZzQzhZSlFfVWk1Y1hnV0JMVHJva284WWxxd3F1S05fcF9zZ1VRNG04clhnSTFwZHk0TWRpZEtHRnRHYXlZOXVvVVZJM0tiUGdTUTh1bzZ1Q2FBRU93Q2hHclZBR05tZUNWSWxEdGk4RVp4QWFmeUlEREduVkJaVHFuTG0xUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T08:00:00Z",
+      "summary": "Reply AI电影节公布十部决赛作品，该国际竞赛结合电影与人工智能技术。入围影片利用AI生成内容、智能剪辑和辅助叙事，探索人机协作创作边界。技术要点包括：生成式AI用于脚本编写与视觉效果，机器学习分析观众情感以优化剧情，以及实时渲染技术。活动旨在推动电影工业创新，讨论AI在艺术中的伦理与多元化应用。",
+      "fetchDate": "2026-07-28"
+    },
+    {
       "id": "3042",
       "title": "Reducing Clinical Variation in Medicine with Artificial Intelligence - CIOReview",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQUxKd1hUdnVBaXMwa1hrS01Qa1JHUUYzNGFsZ1RDejh1NzhjdXVTUmhpcV9jb1U0SWtqOHQyckpkdVBHNFNDaEF5M0lGYjVXenBuWEZ2NFc4SDJ1N0Q5dEFVUklGUVRCWl9RaUlJbjVVSGJyeFBBQlgwWjg4MFFUb1gxTlpiYzN4bFBWaW12azk2QjNLSEZ5cXREY0hDbG9iajFBQndRMVQtYnJqTHcyaHlPSDFnMUVLcFlveGRJWXlMcHFuY0x6elpEUXRZWEFVTHl3Z2Jibw?oc=5",
@@ -27424,5 +27550,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3047
+  "total": 3061
 }
