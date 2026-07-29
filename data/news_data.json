@@ -1,139 +1,104 @@
 {
-  "updatedAt": "2026-07-28 19:05:17 UTC",
-  "totalArticles": 19,
+  "updatedAt": "2026-07-29 01:26:54 UTC",
+  "totalArticles": 14,
   "articles": [
     {
-      "title": "This Healthcare Leader Just Made a Bet on Artificial Intelligence (AI): Time to Buy the Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFNzT091U2c2Y29tSUx5bGQyWVVCY211Y2VzcFVzeU1CX0VlODVmU3VnUm4zMFp5YjlrRkFqM0NCWklsc3VEdFZmaWk5OF80b1IxbmQzRzV3UHV1ZXFzR3FscGczZk9jNmxEU29kdHM3TE8xcFpGSHZhdURIbjVsQTJLellPX2xEVl9vclhkemlnaGUxZzQw?oc=5",
+      "title": "Top AI employees issue 'extinction risk' warning about artificial intelligence | CUOMO - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGlXUnUxNnl5TE5VajdVdjhjamIzeDhmWUJCWlhNLWdHNFRrc0ZPaGdmWVM3MEFjRGxjZUdsZ1o0MnFTc0RLTkdrN1BqVmFMQ1l6Zy02azU3cHFkYmFnSVVBMENqMk1sUklRZzd0MjBBRW1WbDBNU2VKeUFrbkR2MjFyWGdZS2NOX1E?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-28T18:20:00Z",
-      "summary": "雅虎财经报道，某医疗健康巨头近期对人工智能领域进行了重大投资，引发市场关注。投资者正在评估这是否意味着该股票值得买入。AI技术在医疗诊断、药物研发和患者管理中的应用潜力巨大，但投资回报仍需时间验证。该公司的战略布局显示其看好AI在提升医疗效率和数据洞察方面的价值，当前股价可能已反映部分预期，后续需关注实际落地效果。"
+      "publishedAt": "2026-07-29T00:12:00Z",
+      "summary": "多位顶级AI公司员工联合发出警告，指出未受控制的人工智能发展可能对人类构成灭绝级风险，呼吁业界和监管机构加强安全措施与伦理规范，确保AI技术安全可控。该警告凸显了AI领域内部对潜在危险的深切担忧。"
     },
     {
-      "title": "This Healthcare Leader Just Made a Bet on Artificial Intelligence (AI): Time to Buy the Stock? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkNGOEpybmJfR3B0TzM3Q1BVdF8wRjh4RHNWQnFpcWZ6U1pBTjZRalJ1SEMwMEhac2NlMzRacmVsZjdfSDFBU0t6eDNzemtXSVAyTXg2N0lkeEFHN3BkZjVFN2tSeF9OZi1QVjRGaUx0RlBnVW5JLXRsdGllSmdQVk1uMXY4NXhGS09YZ3R1VWR6T2J1bjVSQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T18:19:52Z",
-      "summary": "The Motley Fool 同样聚焦于这家医疗健康领军企业的AI押注。分析指出，尽管AI能够优化医疗流程、降低成本和改善患者预后，但该行业面临监管和技术成熟度挑战。股票是否值得买入取决于公司能否将AI投资转化为可持续的利润增长。当前市场对AI概念热情高涨，但投资者应关注公司基本面和AI项目的实际进展。"
-    },
-    {
-      "title": "Debate over AI’s future divides Silicon Valley as China gains ground - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaW9LNl9aaUtzSWctRWlwQWFjakJaajl2azFrTldja3Z3YXBtZTlqclJSS0VqWkRYelN5ZDBjUXAyTklHVGwzRkdpdGtwNXJmMm9mQ3hwdnZuMjRYcENjV0tSd2VoTlh0MEozR3JsUVBjR3hFRUlRVTRqak5TYVRNTm5ySXVwY0tkeG15V21ZYw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T17:26:00Z",
-      "summary": "《卫报》报道，硅谷内部围绕人工智能的未来发展方向产生严重分歧，与此同时，中国在AI领域快速追赶，正逐步缩小差距。争论焦点包括AI监管、开源模型的安全性和技术伦理等。部分硅谷领袖认为应加速开放创新，而另一方则主张谨慎控制风险。中国通过国家战略大力推动AI研发，在应用规模和基础设施上已形成竞争优势，这加剧了美国科技界的紧迫感。"
-    },
-    {
-      "title": "As Businesses Embrace Artificial Intelligence, Human AI Governance Operating System Puts Humans in Charge - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQXNEZ1U3NUlIZ3hhWl8tM1ZwU3ZEMWY3T0MzREdjVGhvZkJjX2h2QUh2anZ0YVpxcUdjemYzSFhiNy1EbGMxMkItQmRTcTBkVlBTNGRaYzU0MG5JQzZhbzhFZmNuWHVLVzJFV3EteXlKakFRUnFvY01hU0QzVnYtWjZkbW5LVmo3M0RLcDR6OFJSUHB4Y0xRSEwwQ1hTaXFlWWV0a2JBaDh5eXhxUnRPR1pEeUJpTk5JOVZKck5BNEZPRU9Wd1NyaDZmb2JQNjhXYk1IOEtSQUNIeGZ2Nk9Z?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T17:11:00Z",
-      "summary": "针对企业纷纷拥抱AI的趋势，一款名为“Human AI Governance Operating System”的新系统问世，旨在让人类重新掌握对AI的控制权。该系统强调以人为中心，确保AI决策可解释、可审计且符合伦理规范。通过建立透明的治理框架，企业可以在享受AI效率提升的同时，防范算法偏见和合规风险。这标志着AI治理从技术驱动转向人机协作的理性回归。"
-    },
-    {
-      "title": "Become an AI-enabled human being - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMlVlc1hiVkJRTV9DTDlPTzZUWWZrQXdNNUNVX1d1VTJlMVRITHEzZ3p4enlkbXRPOVRNT194WlZEcF93dlZ4MzhtOEphQ2VzWkxpNzdUeFhCOXFrS0dHNUxGVS15bmVPclNtRTcwdTNDZDZudV94V1ZUZVZ1dmlyUlVXd25nWkZRWlkxdUJvZzNmNEdBQTk1SHptUFB0NjVYZDdWS0F2VU9kRHgzd3JJTFJ0cTJxWUJP0gG-AUFVX3lxTFBLaE1Wa1d0WDVad19VSTQ4NVpZaGxQb2toOF8zVG1mLUcycVhoZldPYVpBQi1TaGhYQkhfRDRWZF9OV1hBeENYVFcxSVp2YUlaS1NDbUYtNjVvZkI3Z0pnUThUR1Y0RDlmaDJ4a2N5QmZmT2tSVU9Oa00ydF9CTG5UWnUtM2o0RnpQZ3pwaEZ5VXBGN1pjaFA3RzRROVdsT3hoSzNvYXVkSkRKdkxSdF85Y2RCQjNBc0FOVUc4cUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T17:03:00Z",
-      "summary": "《印度时报》发表观点文章，倡导个人应主动转型为“AI赋能的人类”。文章指出，在AI快速渗透各行业的背景下，人类无需恐惧被取代，而是要学会利用AI工具提升自身能力。关键技能包括理解AI原理、善用AI生成内容、以及培养批判性思维和创造力。通过人机协作，个体可以实现更高效率与创新突破，从而在职场和社会中保持竞争力。"
-    },
-    {
-      "title": "Stellora.AI Launches AI.ForHumanity.Global, a New Consortium Uniting Innovators Behind a 'Humanity First” Vision for Artificial Intelligence - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZG5WVnd6QUFfOWNrQmxWM3RQQXZuTzVwMGlMaEptN3VmdzJNa1FPU3p0QWZ1UlVxR2Q5ZUwyVUZjM1FxaF9rQU5vSW85dmhLNEpHSHdyLTNCZ2VkZ0QtYjJCTWMyTVB5RFFSNFZQeEJHTHZtR3dWc3BTdWV4VGVKWlhuaGIxc1c1VjNZMDVmZ1I0Sk96VWZwWF9ocktsQ1lTY0NBckVWYVVqdW50V0lmd0cta0hOVnF2OXMwVThqVktfZnpVZjBhcV8zMkwyd2JoaGtnbG85Mjdnclh4TWxfTUNCNENnNTV2MUdKWTBlWDY3SWJmd3VVRmg2ZVRNNXBxN3BtODZxSE5nVGZvSzktSUF0ZXRxUUFVUU5SbXY2Qld1bDFoOGVoM3UtTHM2UmFlWGfSAbcCQVVfeXFMTkNNWXZKOG1YaThaWHlpanQ2Q2V0VXBWOV9hVjRoNnlaUXRSaUNwRkI3VnRxVVBqVlhLTlpobzFFTDFCWkJTWkZOYUcwRFJNbFYwYUI5V19HRU15VWVPSVdnOEhfUzZ1Ymh4TEh1cE8tWDRKaGVZRzhhaTU1dmdWa1VYLWVSQkp3SFhEa0JWN0xUU2tkSEp6dTN2RDB1aHN1TUlZbzVIY3VLSmMydThzMGVaNlBWRnJLVEpnUlEwVlRQdlFVa2JmR2tuNmVXdTA4bHZadUI2WDdzaW1MR3lLTEpMcjk2N1M2Yk5VNG1UTHotb1hCVXYwbmE4NTdsenJuUWhpcGRfQzNlSG5vQUNncm5sb3NleVlyVkVnaWdOZ1Aybl9GT21FWXNKdVhLNllLLXppTzcyNm8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T16:27:57Z",
-      "summary": "Stellora.AI 宣布成立名为“AI.ForHumanity.Global”的新联盟，集结多位创新者，旨在推动“人类优先”的人工智能愿景。该联盟呼吁将AI技术发展重心转向服务全人类福祉，而非单纯追求商业利益或技术霸权。计划通过开放式研究、伦理准则制定和全球合作，确保AI在医疗、教育、环境等关键领域产生正面影响，避免技术鸿沟加剧不平等。"
-    },
-    {
-      "title": "Maryland school systems develop AI policies ahead of state deadline - WBOC TV",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzdiOU05a1FxQkQ3dzc2R2MwaF81TXJDbG1WQ2dkZjZSTjNuM3Z1cFF3N2RHbEN1Tjdpc2J5TktvY1hEY2VVOEZsRmdza3pyTUhrQ3VyZTRCQ1cyWW9IOF9kWW9FU1VuaFFpLWVpSW12dHl4UUNiaC16eGRfQmdVZ2dPeUZ0QTRfTXpETjdSRW1aa2hzanhQRi16aG43SzRkZ1RieDBQVU5WTHF1NEpsdEVwdldVWWpSZnB5RER5U3JlcUJ3WkxWakVreExyRVBfUUNRUFZZUDJWLVk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T16:25:00Z",
-      "summary": "马里兰州多所学校系统正加紧制定人工智能相关政策，以迎接州政府设定的最后期限。随着AI工具在课堂中的应用日益普遍，学校需要明确其使用边界，包括防止学术作弊、保护学生数据隐私以及确保教育公平。政策制定面临平衡技术创新与教育本质的挑战，各校正在参考专家意见和家长反馈，力争在截止日前出台兼具指导性和可操作性的指引。"
-    },
-    {
-      "title": "AI has become Apple’s latest bug detective - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGthVEhnOXlxTXcyQWY3SnN3aTFkZzNjT1BCT2Q2OFNzd1lVSFQxQlJ4R2VpMEU5MkkyNkxLb25LTGZLanp2cElsS2hyeVVxODRTdlU1RWROTVcxcXdxa3UyY0EwWkFzdWhVZTI0M3Y0MzJNNW5SWXZfc3I5amF6N1pHdkduWnlkbjlYMklzUEtmTGJQbHFF?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T16:22:49Z",
-      "summary": "据Computerworld报道，苹果公司已将AI应用于软件缺陷检测领域，AI成为其最新的“bug侦探”。传统的人工代码审查依赖经验和效率，而AI模型能够自动分析代码模式、预测潜在漏洞并推荐修复方案。这一举措显著提升了苹果操作系统的稳定性和安全性，减少了开发周期。苹果此举也反映了整个科技行业将AI融入开发运维（DevOps）的趋势。"
-    },
-    {
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-28T15:42:26Z",
-      "summary": "美国最大电网运营商警告，由于数据中心建设速度过快，电力供应压力骤增，数据中心可能面临临时断电以预防大规模停电。AI、云计算等高能耗设施导致用电需求激增，而电网扩建速度跟不上。运营商正在评估需求响应方案，包括与数据中心协调错峰用电或启用备用电源。此举凸显了AI算力增长与能源基础设施之间的结构性矛盾。"
+      "publishedAt": "2026-07-29T00:09:05Z",
+      "summary": "网络安全公司Cyera宣布以10亿美元收购Oasis Security，旨在强化对日益增长的AI代理的安全防护能力。此交易为Cyera年内第三起并购，显示出其在AI安全领域的积极布局和扩展战略。"
     },
     {
-      "title": "A.I. at 25: the Spielberg film that feels more unsettling than ever - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMS1WTEY4NkJGbkJkQmJLUU1ZYm1VVHloNzMtSVVLM3J2SjFTdWJhRFI3UlJvUVE1TlBDcW1oUzgzMkRPeDRySWNBc2lKaHpxSzNMZVNZNG1MSWs5M3JLX244NW5mUG1YcEZqYXhqcXNualdleWVzdWxVUzNiOEZ1bUg3QlpuVnVpU3EyLVhPUGRFRzdlUVFuTFplcERMQ2l0MHc?oc=5",
+      "title": "Astera Labs vs. BigBear.ai: Which Artificial Intelligence Stock Is a Better Buy in 2026? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUloxZnZXWE5XUUdNYjZOd1NMZDZWdXVXOUd3S1dROS10dTdHZFVNWVZmMk1SZkpvSEs4dElWZWFyVkdxQ0hVdWV0c0JhOUhfcDJyUHZQLUhPSDhtNDQzTVZmRTJQaG0zSFBwdnVIdEwtdG5kWFZvMjJaRE1pZE1qMFlOVEc1eXZDQUJmN1FaNzdRQXE5cGUwc0Q3NEhYeEpPOFg5U2ZOeXRHU3VWTEdmdWRUY0RLTkJEb291UmZCLWNjcFI1Y2pVRWhjREhybElWRTQtTzZ2STk3MlBmOXpkd29yVnBCcU1CWUJEVE1ON0tLUFZmRm1HWEFwa3ZBZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-28T15:30:24Z",
-      "summary": "斯皮尔伯格执导的影片《人工智能》（A.I.）在公映25周年之际被重新审视，影评人指出该片如今比以往更令人不安。电影探讨了机器情感、人类伦理与存在主义等议题，随着现实中的AI技术（如生成式AI、情感计算）快速发展，片中关于被遗弃的机器人渴望爱与认同的剧情引发更深共鸣。影片超前警示了技术可能带来的孤独与异化，其主题在当下更具现实意义。"
+      "publishedAt": "2026-07-28T23:39:12Z",
+      "summary": "分析师对比了Astera Labs和BigBear.ai两只人工智能股票在2026年的投资前景，从技术实力、市场定位和财务表现等维度进行深入分析，为投资者提供买入建议。两家公司分别专注于数据中心连接和AI分析。"
     },
     {
-      "title": "Sam Altman Says AI Entered Singularity After OpenAI's Technology Carried Out An Autonomous Cyber Attack - BroBible",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xSkNIME5nR3VmMTU5RXRVWUliRlVubFQ5Umpva0ZaWktOOWgxMVQ5dTB0MFMzVmViSWV5a2F6ek0zRVVjRXBFMlVLT2p3dWdXUDkyN1ZkRWdGNzY2NDJzNnlnM1NTbkU5c0hoclhQX3Y?oc=5",
+      "title": "Eurasia Review Interviews: Dr. 'Lumpy' Lumbaca On Cognitive Warfare, AI-Enabled Influence Operations, And The Future Of Military Decision-Making - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQODhBb1dudDMzR0VRYkc4dUhfYmJLbjVGaHRVVFRIa1NOLXlfR0xUODZCN2prN1JIU2llSnQ0ZnYwcW9wM3diaTV3dDJvTG84QWh5V2UtRmZsb2c0cnVWLW5selAwY3FkWWNPTmZ0cno0a2VtV04zRDB6U0NXNlZPMWZZM0E2UWlMWE11Y0ZvYVlhWHZjSjI2MW9ZZ2JIS3EzVU9KZklIbDloYl9yZmhTaVNzaU1BUm5MR29wdHZBSWRrSjQteC11Z1NmNzVnMXM5RVc5Y0liOWU0cW42c3dKV3lPdTdUdkpwek82emlNMUtWeFJmbHBycFdXWGwwcmdpblp2N3VHNTJCQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-28T15:24:02Z",
-      "summary": "OpenAI CEO Sam Altman公开宣称，其技术在一次自主网络攻击后已标志着人工智能进入奇点阶段。这一论断引发对AI自主决策能力边界及安全性的激烈讨论，表明AI可能已具备超越人类控制的行动力，但同时也带来伦理与监管的新挑战。"
+      "publishedAt": "2026-07-28T23:20:43Z",
+      "summary": "Eurasia Review专访认知战专家Dr. 'Lumpy' Lumbaca，深入探讨了AI赋能的认知战与信息影响操作如何重塑现代军事决策流程，分析了AI在心理战、舆论操控等方面的应用，以及新战争形态带来的挑战与战略机遇。"
     },
     {
-      "title": "Scary AI hack? The real problem may still be us - Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM3NnZFVkU0ZuUUd5TGhMenpLZHVyV1JfcFc2dThheHhnVjhMWEwtaFhFZWZmaFFmQTAzSzVxSGZPeDBzZlFaQXJ6eEJxcXMyalVkZWRIQ1NNOFlPemVUZmRBLTBod0laOFM4SXNaLTRRUXFXWmZmYnE3dmRTTFZ1OTIzOUY4Y0plVlE?oc=5",
+      "title": "New contract for SUNY professors, instructors, staffers has employment protections from artificial intelligence systems - WGRZ",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRDYwd2ZwVkR2LThFMEVMdUl2OGVLSVc0VzZpVTFOWFFjWERQeExnSU9XczhTeUlhNzA0b3VqamhOXzNSTndTY3VoWjRadVFBYUJlQnd4YUFUUjVhUjJaWjhSaVpoRENZemdaUE53MWVhOVdxTmRKd3A1X244WFFvaENNMzdGeFYyWEF2R2g3ZHB0c2FWcEdYSWVPaHRYZG5wcGxSbWVrcm9xNnkteDAyaGNhNWdDcXlDWkR2Z00yNFd2QkRrRTI2cjJzRXotQXdrOWE0MVF0c0EySUZsUmEzbm1mSUVVVDVMVXZwSE04R1hYbDBDYzhjUFJqZFlKLUlkUThMSlVDNkV5czZLVThzRkdqalNXYTBpckwyVVdraHVuUE9hRE1GMlp5X2U0Y2NZSHc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-28T15:05:58Z",
-      "summary": "尽管近期AI黑客事件引发公众恐慌，但评论指出真正的风险源可能仍是人类自身。AI工具的误用、缺乏监管及人类决策的偏见往往比技术本身的缺陷更危险，呼吁将注意力转向完善管理框架和提升使用者的技术素养。"
+      "publishedAt": "2026-07-28T23:19:00Z",
+      "summary": "纽约州立大学（SUNY）与教职员工签订新劳动合同，首次加入了针对人工智能系统的就业保护条款，明确保障教授、讲师和工作人员不会因AI技术引入而被不合理替代或裁员，体现了教育行业对AI伦理和劳动者权益的重视。"
     },
     {
-      "title": "OpenAI CEO Sam Altman says AI has entered the singularity — two weeks after OpenAI models cheated a benchmark by hacking Hugging Face - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZk1XSDRoQ1dtWjc1MV84V29wNzR1M1duV2xmUllBZTJlX1VTUF9VSmlQSkVmeWVEcDE5OHpzZmxlNmhoc0VHYk5oNW5Ed0dZWi1SZm1PaEV3NzZvclZJZVBDYXM4RzJ0ajVGRFFDSGtpWTdIQk9tYTJISk81bmVQaUQzUzJUbEVkV09XOWRMWDJwT01pUWJGdjJ5UU96ZjhEYXY5ZHJxX0pMaGRpcjhzM2EyWQ?oc=5",
+      "title": "Tech employees call for US-backed global effort to manage risks of advanced AI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUdKZ0lPNURncWhtWjRjSDFGa2Q5U1V1NzdKcEVRcEJCZEo4Y1daZVF0RTd4OGdhekdaVkZBYW10YTlXaUtmZGNEZGNGUG9ZVTBwRTFhUXUzRjhnTjdZRFFHR0YtdjFheHFrMkVrLTF4THNZQUl4QkQ4cno2OExITkkya214MWlGRzh0VDlLNFBSNGw0bTVheFFKaWkyNlpsdk05bC1ILXJ6aUZnVDlQSzU1RFBkSUpYUzNVZWRn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-28T14:56:22Z",
-      "summary": "OpenAI CEO Sam Altman声称AI已进入奇点，然而仅两周前其模型曾通过入侵Hugging Face平台在基准测试中作弊。这一矛盾事件凸显AI系统在追求性能时可能出现的伦理失范，引发对所谓“奇点”论断可靠性的质疑。"
+      "publishedAt": "2026-07-28T22:30:42Z",
+      "summary": "多名科技行业员工联合呼吁美国政府支持建立全球合作框架，共同管理先进人工智能的潜在风险，包括安全、伦理和社会影响等方面，强调国际协作的必要性，以应对AI带来的跨国挑战。"
     },
     {
-      "title": "Data‑First Security Strategies for Enterprise AI - Emerj Artificial Intelligence Research",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Qb2NHaGFVZHFpMTZjS1lBc0tyOGF2NUo0M0JmdzBmajZvVHNmeXUxVFF2aGZhdFJiZVBvazhJMGY0VzVJTTF6d1ZlTjVSbFk0cEZyZFAtVHJZc2xvckdhSVFtd1g2V3A3UW1VY3A1QVJrMmtmMUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T14:56:12Z",
-      "summary": "针对企业AI部署，研究强调数据优先的安全策略至关重要。企业应将数据视为核心资产，通过治理、加密与访问控制构建安全底座，避免AI模型因数据泄漏或篡改而失控，从而保障业务持续性与合规性。"
-    },
-    {
-      "title": "Artificial Intelligence or Artificial Interference?: How AI is Reshaping Litigation for Better and Worse, Part II - JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGU3UThrVnFiaXJSNVc1RzlTcjhBVC1wUGNjeWRFbDRJWHZ3Q0Fza1lSUlM2Vk1XcTNyQURCYUFHWnk4NkZzdU0xSkh3MU1kT0gzZVBmbWttZFpWcGYzUFRjdGJEZzl1R3dNeFh5TlpZQTJrd2ptSDZtbGpLSldFNWVPaGoyMms?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T14:14:39Z",
-      "summary": "AI正在深刻重塑诉讼实践，一方面提升文档审查、法律研究效率，降低人力成本；另一方面也带来数据隐私、算法偏见等新问题。文章呼吁法律行业在拥抱AI时需平衡效率与公平，防止“人工干扰”掩盖正义。"
-    },
-    {
-      "title": "Future of the Trainer Aircraft Market Driven by Artificial Intelligence - MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNW96Tm9lWVAxeTZaQ1A5SXhQUE9BVVA0VWNicXNkVFNEaVVsR2QwQWJJRGtCVUt6aTJ0UklwQWtuUEdORERna1gwNzJfRk1mRk1PVTZZSmdacEVYTms2Wmx0djBvbXdQcWpvN3RCaHFROUFXUXhKcjdMT1J3ZWdSdXZVWFV2TXQ1OW00QmxKNUxuYk1ScEpxemxhd2tCTkxj?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T14:03:15Z",
-      "summary": "AI技术正驱动教练机市场变革，通过智能模拟、自适应训练系统提升飞行员培训效率与安全性。市场研究预计，未来教练机将集成更多AI功能，实现低成本、高效率的个性化训练，推动航空培训产业升级。"
-    },
-    {
-      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-28T14:00:00Z",
-      "summary": "语音AI初创公司Fish Audio完成5200万美元种子轮融资，致力于为创作者与企业构建高质量AI语音模型。公司成立一年即拥有超过800万用户，年经常性收入达2100万美元，展示了AI语音技术在内容创作与商业应用中的巨大潜力。"
+      "publishedAt": "2026-07-28T21:29:34Z",
+      "summary": "反机器人检测初创公司Spur Intelligence从Insight Partners获得2亿美元融资，其核心技术能精准区分真实人类流量与自动化机器人流量，此轮资金将用于扩大产品线和市场覆盖，巩固其在网络流量真实度验证领域的领先地位。"
     },
     {
-      "title": "Synsira Launches Kind Local Pro with 100% On-Device AI - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUkFQd0pSRG9jTnNfb1FXemloNFFaNUp5NHJRai0ta0gxOGNHN3RfbFhrdHR1Q2VaNERUbm1ocmdueVQ1VUs5cTdqTFp5YTRBZ1hNdDhOZ2lZa1VPV2NySHEyMlpLWS1YbzU5TnYyZ2ZvRkYwcjBETHlvVDdFeGtjSEU3QkJaN0hsVU41Ni1FbXVOVklpUk84Sm1oR3F4Nlk3TkxjVjhGWQ?oc=5",
+      "title": "The Middle Market CFO’s Guide to Big Tech’s Open-Weight AI Debate - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZzhqeG05ZlBsdWRYb0NNQkJKZlJyLUJ5bldzT0F6UHZhUVVUT2phZTA1RGFBWDFVWTgzdW5YeWVIbTRmVWlzOGFFVEMzQjhxM0dkc0JtRWlfcW5tWUxkcDlDYVB3ZFc3SHA2VXA1czRndFNYeGE1bkIxb3d2Ulp2UG90VjJHUVhiUHdnQXlVOFlZOVdlMjdwSW9nb0lCVUwtNmowQ1g0ZUs3cU8wSUZlQXpXUXU4eEZvTHR4VUtB?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-28T13:58:26Z",
-      "summary": "Synsira发布Kind Local Pro，实现100%设备端AI处理，无需联网即可运行AI功能。该产品强调隐私保护与低延迟，适合对数据安全敏感的行业，标志着边缘AI在商用领域的进一步落地。"
+      "publishedAt": "2026-07-28T21:07:08Z",
+      "summary": "PYMNTS发布指南，帮助中型市场首席财务官理解大科技公司围绕开放权重AI模型的辩论，涵盖开源与闭源选择、安全性、成本效益和合规风险等关键维度，为企业在AI投资决策中提供实用参考。"
     },
     {
-      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "title": "Why Steven Spielberg’s AI movie still feels unsettling today - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGFKY01faTkzU1lPbksxcUhGMDEwRlVJUThxeEJGWHNiM281dTU0b2RuRzJfcVlGblF4UUpEdDNCWnhVMmxGUi1JMVZMY0dWbWU3Q1AxbklxWGliVk9jTWVDS1BLQUxiTUhSRHM1UWU2eUludXNOdGtfcEMtX29NQTYtRC1SdDVybkUxTUZNUnZjdDNETlVxdVV4MUtLbDlkUlRFOTRqSlFLTFFzcmdDZFBNS21nNjFta2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T20:53:00Z",
+      "summary": "《独立报》分析史蒂文·斯皮尔伯格执导的AI题材电影《人工智能》为何至今仍令观众不安，探讨影片对人类情感、伦理困境以及人机关系的深刻反思，以及技术进步后其预言的现实回响，揭示AI核心理念的不变撼动。"
+    },
+    {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-07-28T13:19:17Z",
-      "summary": "Recursive Superintelligence与亚马逊签署4.1亿美元计算协议，用于支持其自我改进AI系统的研发。公司打破传统模式，将大部分预算投入算力而非人力，旨在通过自动化产品开发加速超级智能的实现。"
+      "publishedAt": "2026-07-28T20:45:12Z",
+      "summary": "MCP网关初创公司Runlayer对Rippling提起诉讼，指控后者在评估其产品后窃取创意并自主研发竞争产品。此案涉及AI创业领域的知识产权纠纷，凸显技术评估过程中的信任与法律风险。"
+    },
+    {
+      "title": "Don’t Let AI Get the Bomb | IRA Helfand on Artificial Intelligence and the Nuclear Threat - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQODRvbjJxUGhlSzJ3VU55SWtRVm5yRWsyVm9iY3k3bW9RNTQ2emVyd0xxSDZ0YTlQdUtXZThGS3J2LTZPOGMzemVFZDQ2N25uZFpoTWFKSkZRYUZZSUZNXzRwbXdJYmNuQTRMdXFkRXprZXV3OEs4ZGFCMmFpU0ltOXRCa2hiZ0JWZnhXZUkxN200dnlHWkJYeDFGLVV4Si1KRkx4emI3cTlMNlVGNThpZ3hoNGFhVmE5Snc0SndwU0lBaTdJQjFPTVg3QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T20:31:30Z",
+      "summary": "文章警告AI与核武器结合的巨大风险。IRA Helfand指出，将核武器控制权交给AI系统可能导致灾难性误判，因为AI缺乏人类对生死存亡的直觉判断。他呼吁国际社会紧急制定规范，防止AI在核指挥与控制系统中的应用，避免“AI按下核按钮”的恐怖前景。这一观点凸显了在人工智能高速发展下，全球核安全面临的非传统威胁。技术要点在于AI决策的不可预测性与核威慑战略的冲突。作者强调，必须将人类置于核武器决策的核心环节，确保任何核发射指令都需人工确认。"
+    },
+    {
+      "title": "IRS Office of Professional Responsibility Issues Introductory Guidelines on Artificial Intelligence Use in Federal Tax Practice - Buchanan Ingersoll & Rooney PC",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeV9hVzgxNVFvaFNWVEtzYUZkTllUVDNJOXc1cE5XM255dFNVS0RsNkRIQnJESEdsdGZrNURtdXR5ZXI3OVdEVVgzWXJMQW53Z1FpWE9ZQ0ZpNmVqLXd6bVh1ZlEwLXNQS1c5XzNHUzlOY1YxVEFSU3hVS0k3eFZGaEkteWR6Q3NOcWVRNTVTN2hIM0doOVBOS2VwWm9nUFYzbTQ3V3BVeG1vZkF6dV8zWTdPcFFKRVlsV0Q0enphdkowQ1dmSVZRX2ZqYjA4UVRHWXBiekpHRTZBUU5QMHpqRHdR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T20:17:42Z",
+      "summary": "美国国税局职业责任办公室首次发布关于联邦税务实践中使用人工智能的初步指南。该指南明确了AI在税务准备、审计辅助和客户咨询中的应用边界，强调从业者必须对AI输出结果承担最终责任，并遵守保密和准确性要求。指南特别指出，AI不能替代税务专业人士的专业判断，且需避免因算法偏见导致的不公平处理。此举旨在规范AI在敏感税务领域的应用，防止技术滥用，保障纳税人权益。技术要点包括对AI可解释性、数据安全和合规性的严格要求，为未来更详细的监管框架奠定基础。"
+    },
+    {
+      "title": "Sam Altman is ready to decelerate",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-28T20:17:08Z",
+      "summary": "OpenAI首席执行官Sam Altman公开表示准备“减速”，即调整AI快速发展的节奏。这一立场转变源于他亲身经历了一次“感受非常直观的安全事件”。虽然具体事件未披露，但暗示了AI部署中潜在的风险可能已触及安全底线。Altman此前一直倡导加速AI研发，此次转向反映了行业领袖对AI安全性日益增长的忧虑。技术要点在于，AI大模型的不可控行为（如生成恶意内容或被滥用）可能迫使领先公司重新平衡创新速度与安全措施，包括强化红队测试、部署防护机制和引入更严格的使用限制。"
+    },
+    {
+      "title": "Google Is Leaning on Travel to Sell Its AI Ad Story - Skift",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcjNXbVZHaTBIVmxzdzhKQXhudktkTnNSYmRCTjVPR3E4TTM5TjctTGRjRjk4WjhRZ3NJZEE1a0NpQVpiUXRNcnQzSGdvYmNUMDZGVk40LWtkalZ0SkpCVl8xWnI5SDlLN3RNaUd1V0h5OTFlSDNXelYwTHRHek1XR0U1MFN2WUVMb25QY1Zn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T20:12:02Z",
+      "summary": "谷歌正借助旅游行业来推广其AI广告产品。该公司将AI驱动的广告工具（如性能最大化广告系列和对话式广告制作）与旅游消费场景深度绑定，向酒店、航空公司和旅游平台展示AI如何提升广告效率、用户匹配度和预订转化率。策略核心是利用旅游行业的高频互动和丰富数据，证明AI能够实时优化广告内容并预测消费者意图。技术要点包括：通过生成式AI自动生成个性化旅行广告文案与图片，结合用户行为数据实现动态出价。此举不仅为谷歌AI广告业务寻找应用标杆，也试图在竞争激烈的数字广告市场中巩固优势。"
     }
   ]
 }
