@@ -1,55 +1,62 @@
 {
-  "updatedAt": "2026-07-29 05:12:35 UTC",
-  "totalArticles": 7,
+  "updatedAt": "2026-07-29 08:17:33 UTC",
+  "totalArticles": 8,
   "articles": [
+    {
+      "title": "SK Telecom will unveil its own artificial intelligence (AI) foundation model 'AIDATX K2' and spread - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSTXY3dUtKZmFJVkdrUm52akUwSnhKR29QNzlBd3hndXc0VHBYb1B3d1YxVkRJUlN2RHpIT0NCWndWYjVuczBPal9yOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-29T07:56:01Z",
+      "summary": "韩国SK电信宣布推出自主开发的AI基础模型'AIDATX K2'，该模型具备强大的通用人工智能能力，旨在推动AI技术在各领域的应用。SK电信计划通过此模型助力企业数字化转型，扩大其在全球AI市场的影响力。此举展示了韩国电信巨头在AI基础模型领域的战略布局，与当前全球AI大模型竞争趋势一致。"
+    },
+    {
+      "title": "Why over 1000 AI researchers want governments ready to slow AI progress - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMlRzS0puWU1sQUp0SWJfZXdVQl8zWW5KMllhYUZ6RVF0OFRicVNyWWxTNmUtX00xU1pzUjRPdWZZdkhFSnlJX3Fiai1fQnVROHkwU1BVSE9lb252OEpTSzJ4SmpqU0tyaGVBQVZlUTRETXVtbmNGZnM3ejdKVkFpNDJDWVJ3bW5PYkZiX29VN2d2RmlURTdWOWxDaVZsY2UzbnZ6ZEZoWElGTDRtV21pX1hoWnh0RDVYT0FOZ18td21vU2FGSFRHRHRTcUJlVTFHWjJyU1dkOFlNWGJQbkh2dUFVNHFlUnVnSFdmTkljb1Bhd9IB9wFBVV95cUxNT3BINnp0NjZSVHloRk81S2xrWG9nYVM2SGxvaTZkQ1lKZ0tSc2NRTkNNYjYxOWZKbUhyaDJfX1BkcG5mcVB1eDdOQkNNZXd3UVoxMzhsZWRmeGxGWllaSlhodGxSVTJUZ1BVVHF1aU5HbEp1UWJjTHNZV0dBaUVnT25oM1RrMTRncnZzUmNxRHBVZXM1cW84S01LRF91OVAxdnlRbVlHek9WX1RKc0NQLS1pV1BnRmxKZmY0Y1VmY3Yxd3dYWnNCOFBTUE8tRExKQ2FFbVpjV0lsYmVHamV4XzZPZzJFQjYzaUFYSkNaT2wtM1lzQVE0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-29T07:05:02Z",
+      "summary": "来自全球的1000多名AI研究人员联合呼吁各国政府采取措施，减缓人工智能的过快发展。他们担忧当前AI技术缺乏足够的安全护栏和伦理规范，可能带来不可控的社会风险。研究者要求制定更严格的监管框架，确保AI的研发和应用以安全、负责任的方式进行，避免技术失控带来的潜在危害。"
+    },
+    {
+      "title": "Gangwon Province and Chuncheon City will use artificial intelligence (AI) to establish a state-of-th.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5id25BV1JJY3BCcVFxdjYzczJtUVNZb3lRNWtpRlZwWlAzT21EaktoajBmejlaWGlSamFGVEt1ZDN2UEFVSzE1Mmw5VnVnYkF0Q0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-29T05:55:25Z",
+      "summary": "韩国江原道与春川市宣布合作，利用人工智能技术打造最先进的智慧城市系统。项目将涵盖交通管理、环境监测、公共安全等多个领域，通过AI算法优化城市运行效率，提升居民生活质量。此举标志着韩国地方政府在AI赋能城市治理领域的积极探索，为其他地区提供了示范。"
+    },
     {
       "title": "Luton Technologies, an artificial intelligence (AI) service platform company, announced on the 29th - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lMVpSMjUxb0FlYTU0WHNQZk1yeGhoTjl2cmZfWnlCaENrS3VHaDI2UXFVRzBRVzdyTXdZYzFicDBTRFdDUjdxX25nNVB3Zw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-29T04:20:58Z",
-      "summary": "人工智能服务平台公司Luton Technologies于29日宣布了一项重要进展，具体细节尚未完全披露。作为专注于AI服务的平台型企业，该公司此次声明可能涉及新的技术合作、产品升级或市场拓展。这一动态反映出AI服务领域持续活跃，企业正通过战略发布巩固竞争力，但具体内容需等待进一步官方信息。Luton Technologies的动作或为行业带来新的解决方案，值得关注其对AI服务生态的影响。"
+      "summary": "AI服务平台公司Luton Technologies于29日发布重大公告，内容可能涉及新产品推出、融资合作或技术突破。鉴于其平台属性，推测将推出面向企业的AI服务解决方案，帮助企业更便捷地部署人工智能能力。具体细节尚待官方披露，市场对此保持关注。"
+    },
+    {
+      "title": "Learn the good, bad and creative about artificial intelligence at upcoming Maui AARP workshop - Maui Now",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY1Y5c2hldm5sTHFzNnVWeW1LUzJycDNLMjJiQkRGUkRQT2tfV3hqUmplR0RrRFRhelVHaVJzcENtQ3ZzYk12V3VTeU5fcG5GeFU3dkVia2dLc0Y4cE44MklmVWZpdFFYMWRjR3B5QmxyRk5zdHFOU3RhWVdjNGY1QkNtaFRCd0EwWHFNeVZTRVBpYnl6MUNWMVJVSUdWM011UmFuUDFOaHFVdzFfUGRDX01WVWJ2VDdwSHV6eVZUOEsxUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-29T03:00:00Z",
+      "summary": "美国退休人员协会（AARP）将在夏威夷毛伊岛举办AI主题研讨会，主题为“学习AI的好、坏和创意”。研讨会旨在帮助公众全面了解人工智能的益处、潜在风险以及创造性应用场景，适合各年龄段人士参与。活动将促进社区对AI的理性认知，平衡技术发展与人文关怀。"
+    },
+    {
+      "title": "Why is everyone looking for the Split Midea AI Ecomaster? Artificial intelligence promises up to 30% more energy savings. - CPG Click Oil and Gas",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNa1R0N0tndXdsOUx3WXN0b1BTdGQzOGhMVy1qRGlMN09LWmJydHdJd2ppTzlsTnB1SHNuRkJMMkxDWHFPdTY3LTNPSDZVYjhBUlV1X2w1OWlCaGpRVnF1cVROeU5RTEhxVUhFU1UwX0pyM1RSSDU1VjVJQTNrd1JjOE10eWhEYnEzMzY1Q25HSEV1RUV3cm1aSnFtbmpMTGlfYldHeHhnM0xqckJwUUtyZ0drMXlvdUE3Mi1aUm9YNHhmNThtYVBzYV9qLUlkbmFfRlh2VXVFdl9vWUE3WWNudElfZHlISGpyM3V3VUYyQWM5c1R2?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-29T02:59:00Z",
+      "summary": "美的推出的Split Midea AI Ecomaster空调因搭载人工智能技术而受到市场追捧。该产品通过AI算法智能优化运行模式，宣称能实现高达30%的节能效果，显著降低用户用电成本。这一创新代表了智能家电与AI深度融合的趋势，展现了AI在提升能效方面的实际价值。"
     },
     {
       "title": "Essential AI Tools for Business Success: A Comprehensive Guide 2024 - HP",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnlHMHdHZFNCbXItcHFXS2ZMdmNlLTQzQmN5UktWWG8wQXpYLXc1elpSNUNqU1g2MDdRVlBuVGh6NU8xbWVsWEhuNlJaNl9WQXVlZFBIbjBYTlAwWDBENExqTy02cTlHRG5TNGVDVkVWbGZObnpHTUZiLWZHdGV6Qk45NUpCbk5MTDVKblQxUWJnYVhoNy16UQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-07-29T02:32:16Z",
-      "summary": "惠普（HP）发布了《2024年企业成功必备AI工具综合指南》，系统梳理了当前对商业运营至关重要的AI技术工具。指南涵盖机器学习、自然语言处理、自动化决策等领域的应用，旨在帮助企业根据自身规模与行业选择合适工具，提升效率与竞争力。从客户服务到数据分析，指南提供了务实建议，并强调AI集成需与业务目标对齐。这份权威报告成为企业规划AI战略的重要参考，凸显了AI在现代商业中的核心地位。"
+      "summary": "惠普发布《2024年商业成功必备AI工具综合指南》，为企业提供选择和应用AI工具的全面参考。指南涵盖自动化、数据分析、客户关系管理等领域的AI解决方案，帮助企业在数字化转型中提升竞争力。该指南强调了AI在优化业务流程、驱动创新和降低成本方面的关键作用。"
     },
     {
-      "title": "Top AI employees issue 'extinction risk' warning about artificial intelligence | CUOMO - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGlXUnUxNnl5TE5VajdVdjhjamIzeDhmWUJCWlhNLWdHNFRrc0ZPaGdmWVM3MEFjRGxjZUdsZ1o0MnFTc0RLTkdrN1BqVmFMQ1l6Zy02azU3cHFkYmFnSVVBMENqMk1sUklRZzd0MjBBRW1WbDBNU2VKeUFrbkR2MjFyWGdZS2NOX1E?oc=5",
+      "title": "What the new World Artificial Intelligence Cooperation Organization means for businesses in Asia - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU2k2Ulp6bkRSQ19yaDM4Q0s1LXlFNTZDQWFCekhSMXQ2eERiV0ZvOWkxSVVsZGlCNkNlUDBUOTlzQm9sQ3FUSWI2THRwRkFlUEU0bVg1Vk1QS0FJcG5rMjZaQ1NkcmgzVFp6dVYtcTNVTGRKdnlld0NLdUFQblE2RTNpT0h2dVY4Ny1aVEktX0lGVFBObmpramItd0lXN3I0akVlWjM3WXJJd1N1alU3SEoxWlhLM1IxdVJUb2NFY3N6dXYwaDBNYmJXbHllQWdO?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-07-29T00:12:00Z",
-      "summary": "顶级AI领域雇员通过CUOMO节目发出严重警告，认为人工智能可能带来“灭绝风险”。这些从业者包括多家前沿AI公司的研究人员与工程师，他们担忧未受严格监管的AI系统若失控，可能对人类生存构成威胁。警告呼吁各界正视AI的潜在危险，并推动建立全球性安全协议。这一声音呼应了此前AI专家关于治理的讨论，将行业内部对风险认知提升到新高度，引发政策制定者与公众的广泛关注。"
-    },
-    {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-29T00:09:05Z",
-      "summary": "网络安全公司Cyera同意以10亿美元收购Oasis Security，旨在为日益泛滥的AI代理提供安全保障。Oasis Security专注于保护AI驱动的自动化系统，此次收购是Cyera年内第三笔交易。随着企业部署海量AI代理，它们面临的数据泄露与操纵风险激增。Cyera通过此次整合强化其数据安全平台，为客户提供从模型到运行环境的全链路防护。这笔交易标志着AI安全领域并购加速，行业集中度进一步提升。"
-    },
-    {
-      "title": "Astera Labs vs. BigBear.ai: Which Artificial Intelligence Stock Is a Better Buy in 2026? - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUloxZnZXWE5XUUdNYjZOd1NMZDZWdXVXOUd3S1dROS10dTdHZFVNWVZmMk1SZkpvSEs4dElWZWFyVkdxQ0hVdWV0c0JhOUhfcDJyUHZQLUhPSDhtNDQzTVZmRTJQaG0zSFBwdnVIdEwtdG5kWFZvMjJaRE1pZE1qMFlOVEc1eXZDQUJmN1FaNzdRQXE5cGUwc0Q3NEhYeEpPOFg5U2ZOeXRHU3VWTEdmdWRUY0RLTkJEb291UmZCLWNjcFI1Y2pVRWhjREhybElWRTQtTzZ2STk3MlBmOXpkd29yVnBCcU1CWUJEVE1ON0tLUFZmRm1HWEFwa3ZBZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T23:39:12Z",
-      "summary": "《环球邮报》对两家人工智能股票Astera Labs与BigBear.ai进行对比分析，探讨哪支更适合2026年买入。Astera Labs专注于AI基础设施中的连接与内存解决方案，受益于数据中心扩张；BigBear.ai则聚焦于AI驱动的决策智能与数据融合，服务于政府与商业客户。前者营收稳健但增速需观察，后者面临竞争但有垂直领域优势。文章指出投资者需根据自身风险偏好与时间窗口选择，并建议关注各自客户订单与现金流状况。"
-    },
-    {
-      "title": "Eurasia Review Interviews: Dr. 'Lumpy' Lumbaca On Cognitive Warfare, AI-Enabled Influence Operations, And The Future Of Military Decision-Making - Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQODhBb1dudDMzR0VRYkc4dUhfYmJLbjVGaHRVVFRIa1NOLXlfR0xUODZCN2prN1JIU2llSnQ0ZnYwcW9wM3diaTV3dDJvTG84QWh5V2UtRmZsb2c0cnVWLW5selAwY3FkWWNPTmZ0cno0a2VtV04zRDB6U0NXNlZPMWZZM0E2UWlMWE11Y0ZvYVlhWHZjSjI2MW9ZZ2JIS3EzVU9KZklIbDloYl9yZmhTaVNzaU1BUm5MR29wdHZBSWRrSjQteC11Z1NmNzVnMXM5RVc5Y0liOWU0cW42c3dKV3lPdTdUdkpwek82emlNMUtWeFJmbHBycFdXWGwwcmdpblp2N3VHNTJCQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T23:20:43Z",
-      "summary": "Eurasia Review专访Dr. 'Lumpy' Lumbaca，深度探讨认知战、AI赋能的影响行动以及军事决策的未来。Dr. Lumbaca指出，AI技术正被用于操控信息环境、影响公众认知，成为现代冲突的关键手段。他警告，仅靠技术无法应对AI驱动的信息战，需结合心理学与社会学的策略。预测未来军事决策将高度依赖AI辅助，但最终决策权应保留给人类。他强调必须建立伦理框架，防止AI被用于误导或分裂社会。"
-    },
-    {
-      "title": "New contract for SUNY professors, instructors, staffers has employment protections from artificial intelligence systems - WGRZ",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRDYwd2ZwVkR2LThFMEVMdUl2OGVLSVc0VzZpVTFOWFFjWERQeExnSU9XczhTeUlhNzA0b3VqamhOXzNSTndTY3VoWjRadVFBYUJlQnd4YUFUUjVhUjJaWjhSaVpoRENZemdaUE53MWVhOVdxTmRKd3A1X244WFFvaENNMzdGeFYyWEF2R2g3ZHB0c2FWcEdYSWVPaHRYZG5wcGxSbWVrcm9xNnkteDAyaGNhNWdDcXlDWkR2Z00yNFd2QkRrRTI2cjJzRXotQXdrOWE0MVF0c0EySUZsUmEzbm1mSUVVVDVMVXZwSE04R1hYbDBDYzhjUFJqZFlKLUlkUThMSlVDNkV5czZLVThzRkdqalNXYTBpckwyVVdraHVuUE9hRE1GMlp5X2U0Y2NZSHc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-07-28T23:19:00Z",
-      "summary": "纽约州立大学（SUNY）新签劳动合同为教授、讲师及职员增设针对人工智能系统的就业保护条款。该合同明确规定，使用AI系统时不得单方面降低雇员薪酬、工作量或取代其岗位；任何AI辅助决策需经过人工复核。此举旨在缓解AI对教育工作者就业安全的冲击，平衡技术应用与劳动者权益。此举被视为高等教育领域应对AI带来的劳动力结构变化的早期尝试，可能成为其他机构的参照范本。"
+      "publishedAt": "2026-07-29T02:30:00Z",
+      "summary": "新成立的“世界人工智能合作组织”（WAICO）旨在促进全球AI领域合作与治理，对亚洲企业具有深远影响。该组织将推动AI技术标准制定、数据共享和伦理规范，帮助亚洲企业融入全球AI生态，同时应对监管挑战。企业需主动了解并参与该组织，以把握国际合作与合规先机。"
     }
   ]
 }
