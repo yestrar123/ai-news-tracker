@@ -1,6 +1,177 @@
 {
   "articles": [
     {
+      "id": "3157",
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T18:57:58Z",
+      "summary": "谷歌宣布，得益于人工智能工具的引入，2024年6月修复的Chrome浏览器漏洞数量超过了过去两年的总和。此前微软等公司已利用大语言模型和AI工具大幅提升漏洞发现与修复效率，谷歌的实践进一步验证了AI在软件安全领域的巨大潜力。该突破表明，AI不仅能够自动化漏洞检测流程，还能显著缩短修复周期，为全球数十亿用户提供更安全的网络环境。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3158",
+      "title": "Sharon AI (NASDAQ:SHAZ) Neocloud Strategy Gains Attention - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUM0QlpORjM2aUZGVjl3ZG12R1ZVb2NxbXQ0dGhNWHEyZ0ItanNBbzlBN3d1MllLV1dlUEwtcDhLYlhYcWQ1WjNXOFNzMnVVVUFSTzV6dWJtdWNnVmo5UG13RzR3dmZqYnpFSk1XQzBBQVRfaEZOeDgzQm1BUVFTX3FwQ1JqM1VMaWMwNHR5R2E0QnpkVm5kODRFQkotTDZxS0R5MmtjSm51a25Eend5S1dhYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-30T18:11:00Z",
+      "summary": "Sharon AI（纳斯达克代码：SHAZ）的Neocloud战略近期引发市场关注。该公司专注于为人工智能工作负载提供下一代云基础设施服务，通过优化算力调度与资源管理，帮助客户降低AI模型训练和推理成本。随着企业AI部署需求激增，Neocloud模式有望成为传统云服务的有力补充，推动AI应用规模化落地。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3159",
+      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T18:05:21Z",
+      "summary": "LinkedIn推出新功能以降低低质量AI生成内容的数量，包括新增“看起来像AI垃圾内容”的举报选项。同时，平台将其原有的AI写作功能替换为更审慎的校对工具，旨在平衡AI辅助创作与内容真实性。此举反映了社交平台在AI内容泛滥背景下，加强对内容治理和用户体验保护的行业趋势。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3160",
+      "title": "Pusan National University Study Rethinks How Artificial Intelligence Supports Investment Decisions - EurekAlert!",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZVWZ0cnk3VUZCOWFoOWZsaXJnUnJIVldUTzZDenBlcUNJUks3b3BLNnRWNUFHZS02TGZkMmR2TXhRbXhhcnJvVURZTHlsZm5hcWZ6amJ2UWVWUmpv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-30T17:48:45Z",
+      "summary": "韩国釜山国立大学的一项最新研究重新审视了人工智能在投资决策中的支持作用。研究指出，传统AI模型常被用作“黑箱”工具，缺乏对决策逻辑的解释性。该研究提出了一种可解释的AI框架，帮助投资者理解模型建议背后的风险因子与市场信号，从而更理性地结合人类判断与数据分析，提升投资决策的透明度与可靠性。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3161",
+      "title": "Silicon Valley’s AI Giants Go Shopping Off Their Turf - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVjlOUzdEV1RMNDcxRkVodGg5UUJKQ25oNkFQZmxYczFmeHBiUUp3dzdlak1FbmlsUjBQZ29BYkpESE5ZTmtyTTNhYXZ5eUVJWkhPNloxalpabGZFSTVORTlaQU1Zbll6akdpdHhiWWhJRHJkcGU5Ui0tZWhJYnZadWhyM3ZsT1lmTlFKLUJFVDF6anBYWlRnTDlQN29rOUhVYjRPV1BqQlBzakFvQWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-30T16:46:05Z",
+      "summary": "硅谷的AI巨头正在积极拓展非传统领域的并购活动。据PYMNTS.com报道，这些公司不再局限于软件和算法领域，而是通过收购硬件、医疗、金融等行业的初创企业，加速AI技术的跨行业渗透。这一趋势表明，AI竞争已从模型性能层面延伸至生态系统构建，企业希望通过垂直整合获得数据、场景和用户优势。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3162",
+      "title": "EU aims for seven AI gigafactories with €10 billion plan - Kuwait Times",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU2JEc21oeGFwYjdBVzNzOG5mQW5rajlRR1hQcTQxLWhFLTh5NzZNZ0xEck12VXQ4a0wxZWdjSGNEZFFXTlhadDRJeEJ1LW12ODBZOUNfMGg2SE5KOHd3c1lPLTlpYVhIRmpIMWJuWlp0RVZCTGp6eG42TTIwU3p0UkpaYW9xcW14cmktYndDUUFrWENSRExncGZWcEFXdW5GNmExZjF30gGqAUFVX3lxTE04eFBfSUpLZWNDb0tXWUNsMU4xcVVRSjdQNjQzMHhoWk93RU1sZFlDdWRiMmMzZjI1cERscURXTzQ1aW9ubWJjQ0tRbGV0R2RBWExqYk1sSTVDSFU4VzFUZVREWVNuYnFjSWFlSHNCLWlMTllBUGdZRXNxb3VWbHF4TmFmbUFlQ3kxR2locG1KR0VfcGhSOFhJUDM3UUFhOVdfZElwOV9mdjNB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-30T16:45:25Z",
+      "summary": "欧盟计划投入100亿欧元建设七座人工智能“超级工厂”（gigafactories），以增强欧洲在AI基础设施领域的竞争力。这些设施将专注于大规模AI模型训练与算力供给，旨在减少对非欧洲云服务的依赖，并推动本土AI创新。该计划是欧盟“数字十年”战略的重要组成部分，预计将带动数千个就业岗位并加速AI在工业、医疗等领域的应用。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3163",
+      "title": "AI Hardware Expansions: Headwolf Boasts Three New Artificial Intelligence-Powered… - trendhunter.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14cHM4YTZUc1dndWFBdE1fZXlobXNJd2lVemwtZkhlV2UtcGM5c3Z5MFR4VmgxZTBYaFBZTjZXaExKbTVOZG02a3d2Wjl2OXlLS2lFTlh0WXdvdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-30T16:18:45Z",
+      "summary": "硬件厂商Headwolf宣布推出三款全新人工智能驱动的硬件产品，涵盖智能家居、个人助理和边缘计算等领域。这些设备内置专用AI芯片，可离线处理语音、图像等数据，降低对云端依赖并提升响应速度。Headwolf此举标志着AI硬件市场正从智能手机扩展至更多日常设备，通过端侧智能提升用户体验与隐私保护水平。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3164",
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T16:09:42Z",
+      "summary": "身份安全公司Okta以约2亿美元收购AI安全初创公司Permiso。该收购将增强Okta在身份威胁检测领域的能力，特别是针对AI时代涌现的非人类身份（如机器人、自动化代理）在云环境中的安全管控。随着企业越来越多地使用AI代理处理业务，保护这些非人类身份免受滥用和攻击正成为网络安全的新焦点。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3165",
+      "title": "Amazon accidentally spent $1.8 million using Claude for menial coding task, went 860% over budget — 'catastrophically expensive' coding blunders discovered in internal Amazon AI usage metrics - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOWlp6UTBQUGFzSThaX3prQVRpRl8zNXlIOTNiTHVTdmtLOVJ2RmRpeE1pLUFycVZFVVpXa2JJSnQ4UEt6ODRaT3h6d0d6a0t4dmx4b0hUc2U3TWxoTVZUMERhd2hDZFVRbGR0eGE0QkhyUEtCQlkxZ3FBblFoMmUtUGJwQ2NuU3ExV2l4N2dyY1pvaURZZWQ4TVliT1o0WGhxX2VCa1Rua2llaVBTaVoxZlFyeDhoYzNNbFZwbEltLXJ6UEtKd3BXLVFZT1E1S2xaLXBfcXRjUTh1Q0p5Mllfb1hsWUpjd0prNWgyWTlNWmpaNURFY0pXQ3UwdkZKbk5Qcm5nd0x0WG5iNFFCSE9FWkpxVVVybzJuUUJ4UXNBQjFwWkRfOHhYOW1SNVhmVmRqb2xTa0EwV01YS2FQMTNrZkZJRFhQOXRDY21rNkVYUEhWbHRxalJURnBad1NYazhfSlc1eUVrbzZOam5ZOHV6RnZWUko3MVRkcXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-30T16:08:25Z",
+      "summary": "据亚马逊内部AI使用指标显示，该公司在一次无价值的编码任务中意外使用Claude AI工具，产生了180万美元的支出，超出预算860%，被内部称为“灾难性昂贵”的失误。该事件揭示了企业在大规模部署AI时面临的成本失控风险，强调了精细化管理AI使用场景、建立预算监控机制的重要性。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3166",
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T15:41:16Z",
+      "summary": "Meta首席执行官马克·扎克伯格表示，人工智能正在极大简化新应用的构建和发布流程。公司近期已推出Facebook Groups、Marketplace卖家工具、Instagram和游戏等多项新功能，并计划继续推出更多面向消费者的产品。AI驱动的开发工具让团队能够快速迭代，降低技术门槛，推动Meta在社交、电商和娱乐领域的持续创新。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3167",
+      "title": "State AGs Expand AI Enforcement Using Traditional Consumer Protection Laws - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSWhuUVc2UjZ0ZkI5dk9vUUR1WFV0THpSeDc5YmtIanVUU2RNRFFIVTZwOGFfb1Z0OWhlMlpBYXJpaVJ1U2ZwN2dyM3RlRHdGWXh6VFEtWDZjN3lFQ0hLUmQwbkFNM1U5bUNWTWJ6QnRpRWdUOVctUElUcTM2NVFvSUVsUk1zSk1xZXNGWktJNS1NNkpvT21KZ09uMXlPb2lyeXo3V3Rjc0ZBUmR3cDFTSmJzQTNONU1KUTRwazlRVXJnbkpRRFVWMmFBNTJxemFnTWxLY196bGk2Uy1WUWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-30T15:20:06Z",
+      "summary": "美国多州总检察长正积极运用传统消费者保护法来加强人工智能领域的执法监管。这些法律此前多用于打击虚假广告、欺诈和不公平商业行为，现被重新解释以适用于AI产品和服务中的算法偏见、数据隐私侵犯及误导性宣传。此举绕过立法停滞，快速建立问责框架，要求AI公司对消费者提供透明度和可解释性。专家指出，这标志着监管思路从“先立法再执法”转向“以现有法律覆盖新技术”，可能加速行业合规标准形成。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3168",
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T15:19:15Z",
+      "summary": "英国AI云服务商Nscale宣布收购软件初创企业Anyscale，旨在垂直整合AI计算栈的更多环节。Anyscale专注于帮助企业高效扩展AI工作负载，使其能在跨数据中心和服务器环境中灵活调度资源。此次收购将增强Nscale在GPU集群管理、分布式训练及规模化推理方面的能力，减少对第三方工具的依赖。通过纳入Anyscale的核心技术，Nscale意图构建从硬件基础设施到上层编排的全栈式AI云平台，以应对日益增长的算力定制需求。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3169",
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T15:00:00Z",
+      "summary": "“前部署工程师”正成为AI行业招聘竞争最激烈的岗位。一项新研究估计，全美仅有约2000名工程师具备将AI模型真正落地并产生可观商业回报的专业能力。这类人才不仅精通算法部署，还需深刻理解企业业务流程、数据管道和运维体系，能跨越从实验到生产环境的鸿沟。企业为争夺这些稀缺人才，纷纷开出高薪并赋予跨团队决策权，反映出行业从“模型开发”向“价值交付”的战略重心转移。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3170",
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T14:48:32Z",
+      "summary": "针对OpenAI黑客攻破Hugging Face平台的事件，网络安全专家指出其主要教训并非来自AI技术的弱点，而是传统网络安全防御的缺失。攻击者行动迅速且公开，但若能实施基本的访问控制、多因素认证和及时补丁管理，完全可被阻止。该事件提醒业界，在追求AI创新的同时，不应忽视基础设施的安全基线。专家强调，即便最先进的AI系统，其安全性仍取决于底层运维的成熟度，传统防护手段仍是抵御攻击的第一道防线。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3171",
+      "title": "Contributor: Artificial Intelligence Grows Across Health Care, Led by Administrative Processes - The American Journal of Managed Care",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTNMUkV1V2xPcEdUMHBfRkU0ZEVDYXFfa1JER2dULUFkME9SVi1ORExBbmtlZjVyLXcxY3pNdGhkSW1NeHVhQ09xWEpnMGN1bjhuYi1DVkFDdVlLd215YmFJaDJ1ZE4wS2xyV1hyUFg2b0tOTTFsQ1BGMUwyN2YtS3JnVk9WTDVhMVlPQmNjemtZMUdzdzZJT2Z1Z2M2eEVBaXpsYzFfT1AtOVVwLTNKRERkSFQyZ3JUX2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-30T14:21:24Z",
+      "summary": "人工智能在医疗健康领域的渗透正加速推进，目前应用最广的领域是行政流程优化。从患者预约调度、医疗编码和账单处理，到电子病历整理和保险理赔审核，AI工具显著降低了人工操作负担并提升效率。尽管在临床诊断和药物研发方面也有探索，但行政环节因其数据标准化程度高、流程重复性强，成为AI落地的首选场景。专家预测，随着算法成熟和法规明确，AI将逐步向核心诊疗环节扩展，但当前仍以“减负”为主。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3172",
+      "title": "German minister urges faster AI self-sufficiency after OpenAI test breach - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFd6Y3J1QUQwODAyV1NkMXp4NzF2UFlaWlZBVlY2WDNMbWRPazJVOW4taF9ZWnZTOE10dm5jTnlldWJyRW1sbm5sRmdXUWd6Um4zX09KVlRTTDVta3JIY1h6VllidVFIYzkyUWhGeGdiUFdiRUdnRXBCdlRIV2F3Z1RudmlhYlU2VDRNWjRsc01yM3FfblYyY1JSSDZCVmhrbW05TXNTb2p2VDJRSGlEN2tfcnhfQk5sSTJMRFhoYlBxMWFa?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-30T14:11:44Z",
+      "summary": "在OpenAI测试平台遭黑客攻击后，德国数字部长呼吁加快实现人工智能领域的自给自足。该事件暴露了依赖外国AI基础设施的风险，促使德国重新评估技术主权战略。部长强调，德国及欧盟必须投资自主的大语言模型、计算资源和基础研究，减少对中美科技巨头的依赖。同时，应建立受控的测试环境以保障安全。此表态反映了欧洲在AI领域加强本土能力、平衡开放合作与安全可控的紧迫意识。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3173",
+      "title": "The future of AI hinges on openness and cooperation. China and Britain can gain much by working together - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzJrTmd4ODFfcjA1SlRjMTBzVzVtZWQ3NVZJcHB5b1NHNEx1cjZLQ0xSeUpFRXpmVlIyZG1kSkhld2xkakZsZWVNbnNlbVJGVEFZNXA1SnQ1YnNxNk1KWXVRNGFteWRvUDY0TmJJNTlvdHZXb3JLNlcyakR0VVJuZERJWWllMGFKYTdNWmxtMGFnUkU0SVYxclUyaDA0QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-30T14:11:00Z",
+      "summary": "英国《卫报》发文指出，人工智能的未来取决于开放性与国际合作，中英两国可通过携手合作获得巨大收益。文章强调，当前AI发展面临碎片化和安全风险，任何国家单打独斗都无法解决全局问题。中国在应用场景、数据规模和制造业方面具有优势，英国则在基础研究、伦理规范和教育领域积累深厚。若双方能建立联合实验室、共享训练数据并协调治理框架，将能加速AGI安全研究、推动全球AI标准制定，并为应对气候变化等共同挑战提供工具。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3174",
+      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T14:00:00Z",
+      "summary": "2026年TechCrunch Disrupt大会主舞台阵容公布，亚马逊、Replit和Tether等行业巨头的高管将联袂出席。该舞台历来是技术领域最重要的对话发生地，延续十多年历史传统。此次会议预计将就AI基础设施、去中心化金融、开发者工具等前沿议题展开讨论。亚马逊可能透露其云计算与AI服务的未来方向，Replit将展示编程自动化进展，Tether则聚焦稳定币与算力生态。更多嘉宾信息将持续披露，预示着大会将是年度科技思想的风向标。",
+      "fetchDate": "2026-07-30"
+    },
+    {
+      "id": "3175",
+      "title": "The Library of Alexandria burns again: AI companies are destroying rare books in bulk - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSVpLMnVaT3BTd01fZ25sbXJfMXEtd3JiS1dnZnpMd1QxX1p0N0VTcjBwSkpNVXV0VlpkN1RENkNyNjZWSGNfbnEtNmpGM3lIOFh2RWpJU1N1czA2OTIwYzRVLVo4RTNLd0xIYnFDNHdEUGFaNlFmSndIb3NlSF94RW53bWhpeTI3aVZ4cXgxcUFoelUzYXo3Q0FtX3JvclEyWnhQc2ExaVNXdi1u?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-30T13:22:56Z",
+      "summary": "有评论文章将AI公司批量销毁珍稀书籍的行为比喻为“亚历山大图书馆再次燃烧”。为了获得独家训练数据，部分企业正大规模扫描、转录甚至物理破坏稀有古籍，导致原本仅存数本的文化遗产永久消失。尽管AI需要海量高质量文本，但破坏性采集方式引发学界和公众的强烈谴责。批评者认为，这暴露了AI发展过程中对文化多样性和历史遗产的漠视，呼吁企业采用数字化协作而非掠夺性手段获取知识，并建立公共数据池共享机制。",
+      "fetchDate": "2026-07-30"
+    },
+    {
       "id": "3150",
       "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
       "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
@@ -28396,5 +28567,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3155
+  "total": 3174
 }
