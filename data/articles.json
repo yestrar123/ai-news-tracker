@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "3237",
+      "title": "AI: Artificial Intelligence or Artificial Irrelevance? - Exchange4Media",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUtfR2RaMXJsdW1nVEwxeEFFV3dscHdJcGFtQzI2ZExoZDFMazRXSDZJRDlxVFpXSURlcllpbDR5TUY2MkVpdUpwaXVkM3M0UXYwQ0hydGNGNFpjR2xtM0lFNzRnSnpoYXlGS0xYY2lhQWlycUhSTGt1V0hGSmpINU9ZUEtONHVEX2hDZTRfaHpfWmh6TllDZHJsSlM1R1dzWUM3bG9lcUw2TWpL?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-01T03:04:57Z",
+      "summary": "Exchange4Media发表评论文章，质疑当前AI热潮究竟是真正的人工智能，还是“人为制造的无关紧要”。文章指出，大量企业追逐AI概念却缺乏清晰落地场景，导致投入与产出严重失衡。技术本身固然取得突破，但若不能解决实际需求、提升效率或创造真实价值，AI便可能沦为资本叙事下的泡沫。作者呼吁行业回归理性，聚焦可量化的业务成果，而非盲目炒作。唯有在应用层面建立可持续的商业模式，AI才能避免从颠覆性技术滑向“技术无关紧要”的尴尬境地。",
+      "fetchDate": "2026-08-01"
+    },
+    {
       "id": "3228",
       "title": "The biggest gamble in the U.S. economy is starting to look riskier - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDFlR21zT1pPMi1JUFZnSHdpZTRnbGJneFp3eUI3LU5YdWVhVGtycXBUR0F5Q2ZkVlVzTFVZaThNZlBIdWd3Rms5QjdmN2wtRmJTbG5jQzloLUJobzlQVkdINlRTaWxNemdyUXhkem9ZdlIwMXk2WkN0dmdVOWRReTJyd05oUi1nUHJLc0F5eWNrN0tIcHk3Sl9oOUdtVWNSQVNaNzdGVC1rdVN6?oc=5",
@@ -25,6 +34,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-08-01T00:46:18Z",
       "summary": "WGME报道，政策专家在AI黑客事件后呼吁加强透明度，指出由于缺乏明确规则，安全漏洞持续存在。专家认为，当前AI系统的开发、部署和审计流程缺乏统一标准，导致企业在应对安全事件时信息不透明，监管机构难以及时介入。专家建议建立强制性的披露机制和行业基准，明确责任主体，同时推动政府、企业与学术界合作，弥补规则空白，确保AI技术发展在安全与问责的框架下进行。",
+      "fetchDate": "2026-08-01"
+    },
+    {
+      "id": "3238",
+      "title": "OpenAI Reaches 1 Billion Active Users as AI Becomes Daily Habit - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORUV5TWtBMWprcWk4bE9yNUl2enhJeHg3NlViUkx6UlVBZnZxQnZmN24xd2FSZlg4REVCdlZjd1Z4d05WX0VYdzd5QlB4aW8tXzUyZzVzS21lRGdaZWsweUE5dDFuWWRnU2F2UXlvazRTVDY2NEJrcEFVaEZ5THEtRDk1Nmd2bWNGYXYzU2hNQjRpY0w4VVlqcHJOV2xZbEpaUmJLa3FFS3ZGbk44cUJCbEVnb3diZ2cwUzlZQ0dB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-01T00:43:14Z",
+      "summary": "据PYMNTS.com报道，OpenAI活跃用户数已突破10亿大关，标志着人工智能正从早期的尝鲜工具演变为全球用户的日常习惯。从个人办公辅助到内容生成、编程和客户服务，AI应用场景持续拓宽，渗透率显著提升。这一里程碑不仅巩固了OpenAI在行业内的领先地位，也反映出大众对AI产品接受度的快速上升。分析人士指出，用户规模的大幅增长将带来海量使用数据，有助于模型迭代和商业化落地，但同时也对系统稳定性、隐私保护和算力支撑提出更高要求。",
       "fetchDate": "2026-08-01"
     },
     {
@@ -29116,5 +29134,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3235
+  "total": 3237
 }
