@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "3247",
+      "title": "Google Earth removes artificial intelligence image generation feature - jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QURXX2stVklORmd3LXVyMFpXSl9iR0M1cXotcXpVME1NT0pWYmJTWGlIOG9PcUNLam9iRlktd09sOVkwdldLQUdSVDRTRy10M1V6LWJmTVpwc1BGeHJN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-01T21:28:55Z",
+      "summary": "据jpost.com报道，谷歌地球已移除其人工智能图像生成功能。该功能此前允许用户基于地理位置生成AI图像，但上线后引发争议，可能涉及虚假图像、版权或伦理问题。谷歌此次移除该功能，表明其对AI生成内容的风险评估趋严，也反映出科技公司在生成式AI应用上面临的合规与道德压力。目前谷歌未公布具体移除原因，但此举或预示其将进一步收紧AI功能的发布策略。",
+      "fetchDate": "2026-08-02"
+    },
+    {
+      "id": "3248",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-01T20:26:04Z",
+      "summary": "美国明尼苏达州针对“脱衣”应用（可对图像进行AI脱衣处理的工具）的禁令获得法院支持，xAI请求阻止该禁令被驳回。尽管xAI提起诉讼，法官仍允许该禁令生效，意味着这类利用AI生成裸体图像的应用在该州面临法律限制。此案凸显AI深度合成技术引发的隐私与伦理问题，也表明美国各州正加强对此类滥用AI工具的立法监管。",
+      "fetchDate": "2026-08-02"
+    },
+    {
+      "id": "3249",
+      "title": "‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJBXzBtYmdvNlM2ZERtalkzZDdhUmVXckdVVmVxdnJTUGJYTTBaTlhSVUNVUXhRVkxsMlc4SU5BR2xhYjZ0Tkd6cllkRHlFMzRGVVhuZW0yTEpYZHduMWNiajZfUUMwTDEyZF91S0p3U0NVNEhsNnRiV01ZR29hSGUtaHlVbTNlVTRCLUh0bmxVYjZ3Y3kzWVdyblVsYkljcnFvQk5OQTg5WXg2cEVfVVpYLWdPNzZtMHFlQg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-01T20:01:00Z",
+      "summary": "澳大利亚书商对AI公司大量销毁珍稀书籍以获取训练数据的行为发出警告，称这些书籍“不仅仅是物品”，其被毁令人震惊。随着AI训练对文本数据需求激增，部分旧书或绝版书被拆解、扫描后甚至被丢弃，导致珍贵文化遗产损失。书商呼吁业界重视数据采集的可持续性与伦理问题，避免以破坏人类知识遗产为代价发展AI。",
+      "fetchDate": "2026-08-02"
+    },
+    {
+      "id": "3250",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-01T19:45:45Z",
+      "summary": "知名YouTuber Hank Green公开表示，自己使用AI的强度“不健康”。他道歉称，与大型语言模型交互带来的多巴胺刺激“对我个人不健康，对世界也无益”。Green的发言反映部分内容创作者对AI工具成瘾性使用的警惕，也引发关于AI依赖、心理健康及技术滥用风险的讨论。他呼吁人们理性看待AI带来的即时反馈与过度沉浸问题。",
+      "fetchDate": "2026-08-02"
+    },
+    {
       "id": "3240",
       "title": "AI Prompt Generator: Why Effective Prompts Are Shaping the Future of Artificial Intelligence - nerdbot",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFlEYTg0a3c1eklMNEJlTzZ0dFpmYmF0RnNQY2JZcjRpd2hEdzhiY1dIVGRHWkVxM1JzTW9zRlNleEgxdEdrbm1vdXI0UU9qeEVIeWVab0gwMXkwM3JJTmp6RDkyR0ctai00aFBwN0xNN3JhNGJpcThyWnV4b0U2NkdGblIxQkJUelM4N0ttVE9SSHc5T09abGNGemJjNDdwcFN5dlNDYkdfMVVuaUVqTWc2eUpGdGRpOEdRV3pUNUI?oc=5",
@@ -29206,5 +29242,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3245
+  "total": 3249
 }
