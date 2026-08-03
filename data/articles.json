@@ -1,12 +1,30 @@
 {
   "articles": [
     {
+      "id": "3270",
+      "title": "From ancient wisdom to artificial intelligence: India’s traditional health care ministry’s AI moment begins - Asia News Network",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUDRxcnRDS25JMGUtd2szdEJ1YmpFVG1jb0h2cndqeURlMEJjVC1zRGdxX0hCUGNBSU1QTWVMamxEUjJqOTdhLTFuYzQ4eGRoT0t6UDFjek9WeGs2LXlFRk80VzY1Wk40b3NzVGxOX0NRUkdTamlPaF9hV3lyWmZUSWxxemlzVlF4TDZ1RDZPR0FVS2dURDNHUU5ETFdjbEkzeTlVbGYtaHF5MUVjT25MVnI5Yl9ma2ljOE5rY3JRR2xHUmI1S2hJQlB3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-03T05:10:43Z",
+      "summary": "印度传统医疗保健部正式开启人工智能应用进程，标志其从古老智慧向现代技术转型。该举措旨在利用AI技术提升传统医学的诊疗效率和精准度，同时保留印度传统医疗体系的哲学与实践精髓。通过引入机器学习、数据分析和智能诊断工具，AI有望帮助医生更系统地整理古籍医案、辅助个性化治疗方案设计，并优化公共卫生管理。这一融合体现了传统医学在数字时代的新探索，也为全球传统医疗体系的现代化提供了参考样本。不过，如何在技术落地过程中确保文化适配性和数据安全性，仍是未来需要面对的关键挑战。",
+      "fetchDate": "2026-08-03"
+    },
+    {
       "id": "3266",
       "title": "Artificial Intelligence Market: How AI Is Reshaping Australia’s Business and Public Sectors - The Times Australia",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRTVORGNCZG1qQzNiVmZ0SDE5ekZidDZBaXFJVlNUMGFwbGVub2ZFQW43Nld0Z2JKblZiNXZ5TXlJRFQ3Z1V4cnlTZXN2YkRFRHZXQlhTWm1RY0ZuYnFFMDFZLVJvT2xRT21wNk9uN2tZX09mUWdvNy1XOTNtcU1MWW1qR2h1UEVBNk9lYVFLZmVNNFJ5OGV0N3FOX0FWYWFWcDI0dWk2ZFJZRGRnRGYwQm5tTEcwaFkwYnVKX3J6WTFOTDd3OUljU1Z5blEwYUlQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-03T00:42:21Z",
       "summary": "澳大利亚商业与公共部门正经历AI技术的深刻重塑。据The Times Australia报道，人工智能市场在该国持续扩张，企业纷纷引入AI优化运营、提升决策效率，政府部门也借助AI改善公共服务与治理能力。文章指出，AI的应用已从早期实验阶段转向规模化落地，覆盖金融、医疗、交通、政务等多个领域。同时，澳大利亚正加快制定AI治理框架，以平衡创新与风险管控，确保技术发展符合伦理标准并增强公众信任。整体来看，AI被视为提升国家生产力的关键驱动力，但数据安全与就业结构调整仍是未来需要重点应对的挑战。",
+      "fetchDate": "2026-08-03"
+    },
+    {
+      "id": "3271",
+      "title": "MCP Apps: The Future of AI Interaction - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTnNJVDZCMVU1c3UtYXphel84RDZPTUZTd1RQMmRxQ1NmenNGZVl4bW95dGZEcm5pcGVENTJRVFVBOFhCQTExOHBDSDhPbnZ6OWRRQWJuUUN2QXNFYkkyNTVqUkpWekU1YkctSm0tdEt0eVFpY1djUXdjUEdJMXdPQVRscFcwS2ZqTThFT0g1MWY0QWk3NEJGeUJiMVZhWkYwX2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-03T00:04:17Z",
+      "summary": "MCP应用正被视为人工智能交互的未来方向。该概念强调通过“模型-上下文-协议”框架（Model Context Protocol，简称MCP）将AI能力与具体应用场景深度绑定，使AI不仅能理解指令，还能主动感知上下文、调用工具并执行复杂任务。MCP应用有望打破传统单一对话框式交互的局限，让AI更自然、更智能地融入工作流，例如自动整理资料、协调多步骤操作等。这种交互范式转变将推动AI从“被动应答者”进化为“主动协作者”。尽管当前MCP生态仍处于早期阶段，但其开放性和可扩展性吸引了开发者与企业的广泛关注，被视为下一代AI应用的重要基石。",
       "fetchDate": "2026-08-03"
     },
     {
@@ -29413,5 +29431,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3268
+  "total": 3270
 }
