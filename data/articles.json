@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "3309",
+      "title": "Artificial intelligence: Why firms are struggling to set prices - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tQzBPOW4tVDhjVUJpSmxEQVdJcHVnMlVHODVZRXpnckFpMmdyNXdCNHR3ZW5VWXJlOS1hMVpqQTluTzc5bXo2c2hNMlB5QS03WWRGbm5mOVFJUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-03T23:21:10Z",
+      "summary": "据BBC报道，越来越多的企业正在利用人工智能优化定价策略，但其落地效果远未达到预期。报道指出，尽管AI能够处理海量市场数据并快速调整价格，但企业仍面临数据质量不足、模型难以捕捉复杂消费心理以及动态定价可能引发顾客反感等挑战。此外，算法在实际商业场景中缺乏可解释性，也让管理层难以信任AI的定价建议。分析认为，AI定价技术虽前景广阔，但企业需在数据治理、模型校准和人工干预之间找到平衡，才能真正释放价值。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3310",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T23:19:50Z",
+      "summary": "Palantir在最新季度实现10亿美元利润，业绩表现强劲。然而，CEO Alex Karp在周一再次发表犀利言论，称AI行业带有“马克思主义”色彩，并警告前沿AI实验室对企业的可信度不足。他认为，当前头部AI公司过度集中在少数机构手中，且其技术路线和商业模式缺乏透明性，难以满足企业级客户对安全、可控和可审计的需求。Karp强调，Palantir的目标是为企业提供更值得信赖的AI落地路径，而非追逐通用型超级智能。这一表态反映了AI商业化过程中关于权力集中与信任问题的激烈争论。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3311",
+      "title": "The Philippines should prioritize artificial intelligence (AI) solutions tailored to local challenges instead of competing with global technology giants, Department of Science and Technology (DOST) Secretary Renato Solidum Jr. said Monday. Link to the full story - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLWRnSk9LaTgwZ1BOSm9FaFhxdW9SZVhrbHllc1BxY2I0dDRPVVpkX1gwc3Zzd01XSXNWVDRkdy1XQUR1MjB4cHBoYkIxdUUweEwxaURBb083c0hfcXFDMzdEZ3FWSE9vVTgwdzVxeDB5SnJMLVVaNEY0aHg3a3QtRHFBemlBWWkxOUNndHBNSEZFcHY2NlhxZG4wQ2o4SGNBUjh5dzc1bTRxZEJLSUJual8xQS1vVzJVc1BIUlpUTHdQTXN3Q3UxNUlmaGlON1o4eUl1ckpDNXpid1FYc2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-03T22:31:02Z",
+      "summary": "菲律宾科学技术部（DOST）部长Renato Solidum Jr.周一表示，菲律宾应优先开发针对本地挑战的AI解决方案，而不是与全球科技巨头正面竞争。他指出，菲律宾在农业、灾害应对、公共卫生和语言多样性等领域存在独特需求，定制化AI更能有效改善民生。Solidum呼吁政府、学术界和产业界加强合作，建立本土AI生态系统，并鼓励公共数据集开放与人才培养。他强调，务实应用比追逐尖端技术更重要，通过解决本地实际问题，菲律宾同样可以成为AI创新领域的重要参与者。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3312",
+      "title": "Top Connecticut court warns lawyers on AI risks after fake citations - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGNCRmJFaWh1Zm1vRHdNdjZKYXQxUkExeGNIQ2xkMlo3X3hWYm1fMHNmd19XRDFRRkNOc0RWWFc2YVJONGhCM3lydUNBRVBqNXIxWWtYOEJQeEc1WkpnWlNIcnd3SktSVHFlSmxGWlVvSU9sQ2huNGNuNEpIeUFYUDZLOFRPcngxdUJoWVRZSXZWOHh2a2xFVFdBbXN3V19hSmlBUklOMHVjY1N2OWdTM1BWc29vVjVvY2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-03T22:03:43Z",
+      "summary": "美国康涅狄格州最高法院近日发布警告，提醒律师在使用人工智能工具时需警惕虚假引用风险。此前已有多起案例显示，AI生成的法庭文件中包含不存在的判例或错误引注，严重损害法律文书的可信度。法院要求律师在使用AI辅助法律研究时必须严格核实所有引用来源，并强调职业责任最终由律师承担。此次警告凸显了生成式AI在专业领域应用中的可靠性短板，也引发了对法律行业AI使用规范的更广泛讨论。法律从业者被敦促将AI视为辅助工具，而非替代专业判断。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3313",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T20:00:00Z",
+      "summary": "AWS正在支持vibe-coding初创公司Superblocks，允许后者的工具嵌入AWS客户的私有云环境中。这一合作意义重大，标志着AI应用与其底层模型进一步解耦。Superblocks的设计理念是让开发者通过自然语言描述需求，快速生成和部署内部工具，而无需绑定特定的大语言模型。通过AWS的私有云集成，企业可以在保持数据安全的前提下灵活调用不同模型，并轻松切换或整合多家AI服务商。这反映出云巨头正在积极拥抱“模型无关”的开发范式，推动AI基础架构向更开放、更异构的方向演进。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3314",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T19:28:57Z",
+      "summary": "AI评估平台Design Arena的创作者成功融资790万美元，旨在将人类审美和品味引入AI模型优化过程。该平台已吸引全球530万人参与，为前沿AI实验室提供关键的人类反馈评估，帮助模型在创意、设计、情感表达等主观维度上更贴近真实用户偏好。随着AI生成内容日益丰富，纯粹依赖自动指标的模型评估已显不足，人类评判成为提升生成质量的重要一环。此轮融资将用于扩展评估者社区、改进标注工具，并加强与更多实验室的合作，推动AI系统从“能用”向“好用”“懂美”进化。",
+      "fetchDate": "2026-08-04"
+    },
+    {
       "id": "3294",
       "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
       "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
@@ -29764,5 +29818,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3307
+  "total": 3313
 }
