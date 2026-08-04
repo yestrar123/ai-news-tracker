@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "3318",
+      "title": "AI offers 'lifeline' for emerging economies, World Bank says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVZGc1lSSGxvaXVoX2pBRG5rN1hTcU40dS1TQXl0ZU4yYUNDVFU2ODdCakpRai1hbFJwUVVkQVo0MVdENEg0YUQ4c25uZERIRUJqMHlBbVUwYXVfX3c0ZlpmdmVhVjRWUVFTbE93YnlzLV8zVW1FU3hhbFQ4Sy1OVkNXcHZsQzdIRXpVYmplcXdwOFJQS19XZk5TdVIxNlU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-04T13:05:30Z",
+      "summary": "世界银行表示，人工智能为新兴经济体提供了重要的“生命线”机遇。报告指出，AI技术可以帮助这些国家跨越传统发展阶段的限制，在医疗、教育、农业和金融服务等领域实现快速跃升。世界银行同时强调，新兴经济体需要加强数字基础设施建设、提升劳动者技能，并建立适当的监管框架，以确保AI红利能够普惠共享，避免加剧既有不平等。这一表态被视为国际机构对AI促进全球包容性增长的积极背书，也为发展中地区的科技投资和政策制定提供了参考方向。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3319",
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T13:00:00Z",
+      "summary": "AI基础设施公司Runware宣布推出其模块化数据中心产品“Sonic Inference Pod”，旨在探索便携式数据中心的未来形态。该产品将计算、存储和冷却系统集成于一个可快速部署的标准化单元中，适用于边缘计算、临时算力扩容以及偏远地区AI推理场景。Runware认为，传统大型数据中心建设周期长、成本高，而模块化方案能够显著提升部署灵活性和资源利用率。此举反映了AI算力需求激增下，行业对新型基础设施架构的积极探索，也预示着数据中心可能从集中式转向分布式、可移动的演进方向。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3320",
+      "title": "BigBear.ai vs. IonQ: Which Tech Stock Is a Better Buy in 2026, the Company Focused on Artificial Intelligence or the Quantum Computing Innovator? - fool.com",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOS1hMcVFHS19uNkVKT3BSZFR1ODRVdkFNckJFamVOOWlnZFpOcmNGZ3lEZzRZdzVRVGR0M21zNVFnRHBrdHF4dVlSOWtGRGhiM002eFJEaEpvM3ZMVksyaUg2Q0xGV3REUmtTbU1odWExSEJZMjdnYTRkTmg5cHhEcktnUzJUM2JEQ2toYWw2eXVNclZjajdtZjBQTlRTbDNzbndaeHpYbWpvVGJOOS15S1FMRFBCa0M5VDlqMGwxSW5hajdHUTN0NU5EMW1CTHlQTkk5dThEZFNvNGZKdUNnVWlhaDZyU1c1VGszQl91YjE3RGdlSmVnZmhqZFFDV1plcmFEc3VFOFR0Mnk2WDJiZmNBN29FZDhfZnB4Y2o0TQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-04T12:16:29Z",
+      "summary": "投资媒体The Motley Fool发布分析，比较了专注于人工智能的BigBear.ai与量子计算创新企业IonQ在2026年的投资价值。文章从技术路线、市场定位、财务表现和增长潜力等维度展开，指出BigBear.ai依托AI决策分析服务政府与商业客户，而IonQ则致力于推动量子计算商业化，两者均处于前沿科技赛道，但风险特征与估值逻辑差异明显。作者提醒投资者需结合自身风险偏好，审慎评估这两家高波动性科技股的长期前景，而非单纯追逐概念热度。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3321",
+      "title": "The Growing Role of Physical AI in Artificial Intelligence Systems - Programming Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUVBckZ1U0p4UW9VS0FzZTB6ZWMzWFM4SVlLNzltOXB1RHVMeVFFOEJZc0phU1ZxTmFULU1xczJIRU5jS3I0Nmg1d1dyNnJ0OTJ6ck9UTkxoRHlVbFExSUZSQmFnTGVzVkswakVyZVBSX1JWcEZfNWFHcnROZHcyeVFrRzlDOFZVdjY3RUdkam12c0FpSUZKMDFHMEFXV2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-04T12:01:28Z",
+      "summary": "文章探讨了物理AI（Physical AI）在整个人工智能系统中的重要性与日俱增。物理AI指能够与真实世界物理环境直接交互的智能系统，如机器人、自动驾驶汽车和工业自动化设备。区别于纯数字AI，物理AI需要融合感知、决策、运动控制与环境建模等多学科技术，并具备实时响应和安全保障能力。随着大模型与机器人技术的深度融合，物理AI正成为从虚拟世界走向实体应用的关键桥梁，将在制造、物流、医疗等领域释放巨大价值，也带来新的工程挑战与伦理议题。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3322",
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T12:00:00Z",
+      "summary": "创业公司Endeavour Optical Networks（EON）计划推出迄今最快的空间激光通信系统，以替代部分海底光纤的数据传输功能。该公司旨在利用太空激光链路构建高带宽、低延迟的“数据高速公路”，绕开地理限制和海底光缆的维护成本，为全球数据流动提供新路径。EON表示，其技术可实现每秒数十Gbps甚至更高速率的星间/星地通信，首批卫星预计在未来数年内发射。此举预示着卫星激光通信正从试验走向商业部署，可能重塑全球网络基础设施格局。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3323",
+      "title": "3 Genius Artificial Intelligence (AI) Stocks to Buy Right Now - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNU9Yc2lfV3FITWRhd0FYUHVhRkVOcmg0Sl9VRGZfMFdud3hhWUd6bWkteGNaUmx4WWdTd0NCRDFnMXRxWlZtYnE0SlZfaFpxRGpidXpkeEFaS1hBM0UtS1hwNzBOSDJyMUtXckMzamdoem0zU0U4ZVJvWGNXdGxVWlJGb2dOdUtRQV9ycERNejBZc1VSamk5eDRYMlpldHpxZjVzT2tBSy1Bei0xVG1iOUtwZHR1ZmdobGowUlFkU3hQSl8wN3NLT09rLWdrd3F3cThrb1ZyMF9jbVFv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-04T11:41:24Z",
+      "summary": "《环球邮报》刊文推荐三只当前值得买入的“天才级”人工智能股票。文章认为，部分AI公司在技术壁垒、商业落地和财务健康度上表现突出，尽管估值高企，但长期增长前景依然强劲。作者建议投资者关注那些拥有核心算法能力、稳定客户群体以及清晰盈利模式的企业，而非盲目追捧概念股。文中所提三只股票覆盖了AI基础设施、应用软件和数据处理等不同细分领域，适合投资者根据自身组合需求进行配置。文中还提醒注意AI行业竞争加剧和监管变化等潜在风险。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3324",
+      "title": "How tech workers can protect themselves in the age of AI - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdTMyYlF0X3J3V2Y5d1BteFJQcXlJc0pkWlgtLTZJVS1KY3BZbFVlbDEyY056SENMamZST3dzV3ZKYkt5WDJlRThKbGtaeEJBamkwV2lDSUVEdXJ6cnFxb1YtV3JOelhRRzhnbXJ1NkE5UVRiR0ZIQVl3UUFuZmhRd2dHN2M4QXZ5THpfOHNreUZzTDMzcEtscGpnN2Zidy1EN2tQdGgzSzVpMWpVZ05DTHlnRlFZNHVPYXZvaHB0S0dDUXR2NkV2Y1Z3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-04T11:04:49Z",
+      "summary": "Computerworld发文为科技工作者如何在AI时代保护自身职业发展提供建议。文章指出，随着AI工具日益普及，技术岗位的职责和技能需求正在快速变化，从业者应主动学习AI相关技能，并强化人类独有的判断力、创造力和沟通能力。同时，科技工作者需关注数据隐私、算法偏见和AI伦理等议题，参与制定负责任的技术实践。文章还建议建立持续学习的习惯，保持职业灵活性，以应对自动化带来的冲击。总体而言，在AI浪潮中，个人价值取决于能否与机器协作并驾驭其能力。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3325",
+      "title": "India's IT Secretary Says Humans Must Always Remain In The Loop With AI - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQekt4UU0xZkxLTUpFTmhMRkkyaVJCclluT0NTSnRoOEZNM2ZNRVhDQmRmbTF2QTdqWHpET1ZVRnowX19iNU5EQ0pGRmtDMm9uM1hFODNFNjdzTnctNzNLQVowQVFnUWttRjA1cEF3Z2o0OWVZcmpWRXNPNG5GeENrODdVc1J4M1FRVWxVdDUwOURRcC1MZmRFRndFUXBTSl84blk3MGlEMHd1eXhKLWhKR1IxMExQeDdnMW9FTFcwRktCQlM0ck9VOEFiWGJ6TnU2aGt2ODllcGlJT2lSOWY5UmtuYlE1UTZEYmVtbGZiRThZUTTSAfsBQVVfeXFMTlBKS2NMZXFWeDhRRk1yQlc3QUdTSWxILTdja05ncThUWjctSkpVOXp1ckFfR0pOOFRfd2xJUlJVSHhfSWNXSFBYOG5WZGQta3JyT0h4NVZkRHlzbEtXUGhBMmxaMnN1SXJDdkdzT09Hd2l5RElUOUQxeS1sV2NkTGZiS1BxckNEN0J3UWw4dldtQVk5N1JrYUpmZ3FtNnNIVUx4OGExN0pQYkJWeE1XZDZKTzhMSnpiYm9mNEl0SVpILVJ4VTc4OC04ZXdLV2VvYnBRUWlfeFdqa3NRUGdJZ1M1eHdEMHNQeHZNYnpwVlB2UUM2TkRqOVVmTUU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-04T11:02:18Z",
+      "summary": "印度电子和信息技术部秘书在公开场合强调，人类必须始终保持在人工智能系统的决策回路中。他指出，AI虽然能提高效率并辅助决策，但关键判断、责任归属和伦理把关仍需由人类掌控，尤其是在公共服务和关键基础设施领域。这一表态呼应了全球范围内对“人在回路”原则的倡导，体现了印度政府在推动AI应用时对安全性和问责制的重视。后续印度可能通过政策规范确保AI系统的透明与可控，并鼓励行业在开发中嵌入人工监督机制。",
+      "fetchDate": "2026-08-04"
+    },
+    {
+      "id": "3326",
+      "title": "3 Genius Artificial Intelligence (AI) Stocks to Buy Right Now - fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDB2WkJMckRFYkNPLUJBTE9TWFN6a1BObDJqUEdINDFkbGYxSENWT3Jib2ZFbE1MRGlZT1l0R2ZQTGt1N281Sk5SRHFJRjZuanRIM3JkXzhwYmhWaUgwSGhYb0ttdm9mbmVxNEZXZDlqM1E2X0JERWFZaGNSeVJ6c0I5UzZ2N1NIZDJsN2c1TEtlRTg0MUVJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-04T10:47:02Z",
+      "summary": "The Motley Fool网站发表文章，推荐三只被视为“天才级”的人工智能股票。文章认为，这些公司在AI领域拥有深厚技术积累和市场护城河，有望在人工智能应用加速普及中持续受益。推荐逻辑包括强劲的营收增长、领先的研发投入以及广阔的行业前景。不过，文章也强调AI板块波动较大，投资者需关注估值水平和竞争格局变化，避免一次性重仓。该文为寻求AI主题投资机会的读者提供了选股思路，但强调任何投资决策都应结合个人情况并考虑风险。",
+      "fetchDate": "2026-08-04"
+    },
+    {
       "id": "3315",
       "title": "Naver to establish wholly-owned operator of Nvidia-Brookfield-backed AI factories - KED Global",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hdEpPUk5lQWwxTWFYQXBNMnJ4RkswejZ1NkhwaG51VllQdkp4RjhTd2hnTWNZdjZ5RFFzMzgtQUVrMWhEZjVieUFvaXhrbWkxcjJVYkc1NUZ0UzFwYmxqZGk3R1NydEhwTXZ6eXlKanVZZDJMTWxKaWlTWjNJV0U?oc=5",
@@ -29845,5 +29926,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3316
+  "total": 3325
 }
