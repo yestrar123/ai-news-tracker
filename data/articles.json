@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "3352",
+      "title": "Democracy is at stake when foolish humans bet on machines being intelligent | Rafael Behr - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLWFIZl80ZjBxUkNWYWhJMHhvSktudFJ1Nk5HT1ZUcFA3VlY2ckxMSkwySWhlMWc5X2I5WWEwWGY0clBuZ3Rsa3NOdlJqQ29odnhwdDRsQmVyQUgxR3BEZjlDSzZVTUdSRmhVaWl6ZkM4RnVHa1VoWWdVMVdQNWZIV1FOR3dTUVVSRFBVRlhRMnM2YnpTMlRKdFVVeVA3ZGd2RmdsSlBnZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-05T07:00:00Z",
+      "summary": "英国《卫报》评论员Rafael Behr撰文指出，当愚蠢的人类押注机器具备智能时，民主制度正面临风险。文章认为，过度信任AI系统可能导致决策过程失去人类监督，削弱公共理性与责任机制。作者警示，技术乐观主义若忽视AI的局限性和潜在偏见，可能让算法取代应有的民主审议，从而危及社会信任与治理合法性。这一观点提醒公众在拥抱AI时需保持审慎，确保技术服务于民主价值而非相反。",
+      "fetchDate": "2026-08-05"
+    },
+    {
+      "id": "3353",
+      "title": "ACR shares resource for helping patients use AI-generated radiology report summaries - Radiology Business",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZlhGdVhaa0VrQ08xS2ZGTGQ0bUFlaGo0RVRTVTFwNm51ODJLSVVzcHhzbDQtT2ZIVVU2Nzd0NUdtUllWXzB5ZWo0VUhqT0U4bktkenlScUpMZnNyR3pIWFZCb3JlcXEtQ3o2TXg5TUtMSWtxZHFFZUhYRnJqTEFWX1MyZDR3MWlUTi1jSUh2a0lYZXBYYmE0UVEtenJ3ekg1eTlhcWNJTjhOSEVwVWVNNnQwNnhfYk11MjkxeDlkLWZhTnNmcVc4d0lOS3Z0eEhGM1pxU2VTX18?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-05T06:33:55Z",
+      "summary": "美国放射学会（ACR）发布了一份新资源，旨在帮助患者理解和正确使用AI生成的放射学报告摘要。该资源强调，AI生成的摘要旨在辅助患者快速把握检查结果，但不能替代专业放射科医生的完整解读。ACR建议患者将AI摘要作为沟通工具，与医生讨论具体影像发现、诊断意见及后续建议，以避免误解或遗漏关键信息。此举反映了医学界对AI工具规范化应用的关注，平衡技术创新与患者安全。",
+      "fetchDate": "2026-08-05"
+    },
+    {
+      "id": "3354",
+      "title": "AI stories preferred to human-written ones - study - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWWZyRFItV1ZPcG5DaUdpTTNUR1ZLLVJBV3RmcFptWGVWeTJwYTM4X2c2d3ktYnJVc0tYVUN2ZmxkdzE4RnBta3JKdXpuZFBXRV9RdXpfMzN4dzZId3NrVDBSVEhMbXlGNG9wR29NMUF1TmlTcVFoc1FmRENCWElvUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-05T05:25:00Z",
+      "summary": "一项最新研究显示，读者更倾向于阅读AI生成的故事而非人类撰写的作品。该研究可能涉及叙事质量、情感表达或信息呈现方式的对比，结果表明AI在特定文本生成方面已具备一定竞争力。然而，研究者也提醒，AI写作仍缺乏真正的人类经验与创意深度，偏好结果可能受题材、评测标准等因素影响。这一发现引发对内容创作领域未来人机协作与行业生态的讨论。",
+      "fetchDate": "2026-08-05"
+    },
+    {
       "id": "3351",
       "title": "Trump White House Readies AI Framework to Review Security Risks - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA?oc=5",
@@ -30151,5 +30178,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3350
+  "total": 3353
 }
