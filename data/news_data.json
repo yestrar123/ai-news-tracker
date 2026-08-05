@@ -1,55 +1,13 @@
 {
-  "updatedAt": "2026-08-05 01:27:15 UTC",
-  "totalArticles": 7,
+  "updatedAt": "2026-08-05 04:56:49 UTC",
+  "totalArticles": 1,
   "articles": [
     {
-      "title": "Let competition regulate artificial intelligence - Washington Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVTg5Z1BPOExMdXJ6a3NhYzdQeUlDdGRqTHlpakYzR0tQUUNnSWxadHhSNEgyS3hQWW9vU3FLaUhoZjdtUjFFUml3SG1veEdVdDJJcEI4THJtLUNkSy1NLWxZSUk4ZmlkY2I5OXdQcHBNbHJDZ3JZTDZGTVJEZzdZTnYyektDdDVvUU0wX0g3R2xwcVVDOFp6dnpkcERfdw?oc=5",
+      "title": "Trump White House Readies AI Framework to Review Security Risks - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-04T21:17:09Z",
-      "summary": "《华盛顿邮报》发表评论文章，主张以市场竞争而非政府直接监管来规范人工智能发展。文章认为，过度监管可能抑制创新，而竞争机制能够促使企业主动提升安全性、公平性和可靠性。通过市场选择和行业自律，AI技术可以在更灵活的环境中演进，同时避免僵化规则带来的弊端。这一观点反映了部分业界人士对当前监管趋势的担忧，强调平衡创新与风险治理的重要性。"
-    },
-    {
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T21:07:26Z",
-      "summary": "据披露，SpaceX今年已累计购买价值3.29亿美元的特斯拉Megapack储能电池。这笔大规模采购凸显了埃隆·马斯克旗下多家公司之间的深度业务协同：特斯拉提供能源存储基础设施，SpaceX则通过采购支持其运营需求。分析人士指出，这类内部交易有助于巩固马斯克商业生态的闭环，同时也反映出航天发射等高能耗场景对储能系统日益增长的需求。"
-    },
-    {
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T20:05:26Z",
-      "summary": "非营利组织SaferAI发布最新报告指出，Z.ai公司推出的开源权重模型GLM-5.2在多项能力基准上已接近前沿闭源模型，但缺乏关键安全缓解措施。报告警告，开源模型的快速进步可能超越现有治理和防护体系的覆盖范围，带来被恶意使用或失控部署的风险。这一发现重新引发了关于平衡开源创新与安全监管的激烈讨论。"
-    },
-    {
-      "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHNkTzBIRHZZR1ZuWkxUWW1QdjBtcU95NlJ2cm4xRUptS1hUOG9rUVdyOW9JUHFNa2ZwR2JGNExYbWV3TEY0cXAzNkRpcjNIbEdlUXZVUWNOazlRTmRjUHRXZmVFYzdyWHVLM3pQNmV5eWZQTTB1RFBjd3hqa0x0VU5USHczOGFJdmh5aw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-04T19:54:29Z",
-      "summary": "《纽约时报》报道称，白宫在人工智能监管政策上反复摇摆，令硅谷科技企业感到困惑和压力。政府内部立场不统一，时而释放严厉监管信号，时而又倾向宽松自律，导致企业难以制定长期合规策略。这种政策不确定性不仅影响技术投资决策，也削弱了美国在全球AI治理竞争中的协调性和可信度。"
-    },
-    {
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T19:48:40Z",
-      "summary": "人工智能公司Anthropic与AI云初创企业Volta达成一项价值100亿美元的合作协议。这是Anthropic近几个月来一系列云合作中的最新动作，显示其正积极扩大算力基础设施以支持大模型训练和部署。通过与多家云服务商结盟，Anthropic希望摆脱对单一供应商的依赖，增强业务弹性，同时为下一代模型研发储备充足资源。"
-    },
-    {
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T19:34:34Z",
-      "summary": "一款名为Wrinkles的新应用正式上线，支持iOS和Android平台。该应用利用人工智能技术充当音频导览助手，帮助用户探索身边地点隐藏的历史故事和本地传说。用户只需打开应用并靠近相关位置，即可收听由AI生成的生动叙述。Wrinkles试图将城市漫步变成沉浸式学习体验，重新连接人与环境的文化记忆。"
-    },
-    {
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-04T19:28:49Z",
-      "summary": "由英伟达牵头发起的开放安全AI联盟（Open Secure AI Alliance）成立仅一周便展现出惊人进展。该联盟已吸引超过120家公司加入，并迅速发布了针对AI智能体攻击防御的初步提案。英伟达的快速行动表明，随着AI代理技术普及，行业正加速合作构建统一安全框架，以应对潜在的新型网络威胁和滥用风险。"
+      "publishedAt": "2026-08-05T00:17:54Z",
+      "summary": "特朗普白宫正在制定一项人工智能框架，用于审查AI相关的安全风险。据《纽约时报》报道，该框架旨在系统性地评估和应对AI技术可能带来的国家安全与公共安全威胁。此举显示美国政府正加速布局AI治理，试图在促进创新与保障安全之间寻求平衡。框架的具体内容尚待公布，但预计将涉及政府与科技企业的协作，以及针对关键AI应用的审查机制。"
     }
   ]
 }
