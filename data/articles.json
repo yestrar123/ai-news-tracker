@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "3384",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T13:31:57Z",
+      "summary": "Suno正在多起法律诉讼中宣布将为其音乐添加水印。作为AI音乐生成领域的知名公司，Suno面临来自唱片公司的侵权指控。水印功能有助于标识AI生成内容，提高透明度，并可能成为应对版权争议的一种技术手段。此举或为行业树立标准，但能否真正缓解法律风险尚待观察。",
+      "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3385",
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T13:00:00Z",
+      "summary": "前Spotify员工创立的初创公司筹集1000万美元，旨在将Spotify推荐系统背后的AI技术引入电商领域。该平台能够预测消费者接下来可能购买的商品，学习其整体品味，并根据实时行为持续微调推荐结果。通过个性化推荐提升转化率和用户粘性，为在线零售商提供更智能的解决方案。",
+      "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3386",
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T13:00:00Z",
+      "summary": "AI研究公司Mirendil与Google Cloud签署价值超1亿美元的合作伙伴协议，用以扩展其计算基础设施，支持自我改进AI系统的研发。这类系统旨在通过自动化方式持续优化自身性能，从而加速科学发现和AI技术演进。此次合作凸显了大规模算力在前沿AI研究中的关键作用，也标志着Mirendil在商业化与研发规模化方面迈出重要一步。",
+      "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3387",
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T12:30:00Z",
+      "summary": "Google Maps推出全新智能体功能，支持用户直接预订酒店和订购外卖。这标志着谷歌地图正从导航工具转型为能够执行真实世界任务的AI助手。通过整合多方服务，用户无需切换应用即可完成完整行程安排。此举反映了谷歌在AI驱动下深化本地生活服务布局的战略意图，也预示着地图产品竞争进入新维度。",
+      "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3388",
+      "title": "Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as Artificial Intelligence (AI) Spending Ballooned. Here's Why That Should Worry Investors. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWVpcFdpTFBQUDRXZkZTbk5LTGMxRGZJc2JIOFFRNWg4Q2c4ZFRoZ3g3WnV5ZGhHdkZzWGstM0t1dG9OTXJoVmZDSTRhSk5ucEtFM3NHTW5mdzluUGRWTmtQa3h4c1Z5T0Z2WWlOZTVkWXVDd2xuNXlCSHlWTjZYclp4OUphRWFuMld3NmhnQ3lyZGZEeVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T12:05:34Z",
+      "summary": "Meta最新财报显示，其自由现金流暴跌91%，仅剩7.84亿美元，主要原因是人工智能领域投入激增。虽然AI被视为长期战略重点，但巨额资本开支令投资者担忧盈利和现金流压力。分析认为，Meta在AI基础设施上的激进投资短期内可能侵蚀财务表现，市场正密切关注其能否在未来实现足够回报以支撑估值。",
+      "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3389",
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-06T12:00:00Z",
+      "summary": "对话式AI公司Omilia获得6700万美元B轮融资，以扩大其客服支持平台规模。这是公司自2020年以来第二次融资，期间年度经常性收入增长10倍，达到6000万美元。Omilia专注于为企业提供自动化客户服务方案，利用AI理解和处理复杂对话。新资金将用于技术研发、市场拓展及团队扩充，进一步巩固其在智能客服领域的竞争地位。",
+      "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3390",
+      "title": "Palantir CEO Alex Karp Drops an 11-Word Bombshell That Proves Artificial Intelligence (AI) Is Supercharging Software Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzY2LVlnNFZ6cjF4LW5uRW5tYm92eU5Td0xVZ1dmR0ZZVnlXTUM1VGppWU0taFVheHV3bFBhbjFQaTdPOC03MHJYcm1PU1Y4UWhfQWVxMjJIYTduTU5ZdGh6VlNHck9nbHFJalZabEhlaE9oNjd6bmFVbHlPamMyby1MOEYwUU9GdDBTM3NNUEZhUzI1UFU0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T10:15:00Z",
+      "summary": "Palantir首席执行官Alex Karp仅用11个词就传达出重磅消息，向市场证明AI正在极大地推动软件股表现。这一言论被解读为AI技术对软件行业盈利能力的直接催化，引发投资者对AI驱动型软件公司的乐观情绪。Karp的管理层表态强化了市场信念：AI不再只是概念，而是实际加速企业增长和估值提升的关键力量。",
+      "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3391",
+      "title": "India’s IT sector is surviving artificial intelligence - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T09:22:08Z",
+      "summary": "《经济学人》刊文指出，印度IT产业在人工智能浪潮中成功存活。尽管AI对传统外包和编程工作构成威胁，但印度IT企业通过向AI服务、数据工程和数字化转型咨询等高附加值领域升级，保持了竞争力。产业韧性来自于大量技术人才和英语优势，同时积极拥抱AI工具以提升效率。文章认为，印度IT业正经历深刻转型，而非被AI简单替代。",
+      "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3392",
+      "title": "AI Stocks Market Analysis August 2026: Top Picks & Investment Strategy - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TbzQ2aEk2NEZxb1VyT0tOV2xHeUFxWlNoMGc0X2ZYQkoyRkdVcVRCblAycDlabnY0TkZJaVl1LWMwaVMyS3pqRDFyRzZtRXpYbmlaSS1TemV4djlKMXpuZ19jZkMydzl0ellscUZWazdmVHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T08:09:28Z",
+      "summary": "一份2026年8月的AI股票市场分析报告出炉，为投资者提供最新行情解读与投资策略。报告筛选出重点推荐股票，并基于AI技术趋势、企业盈利能力和市场估值给出配置建议。分析认为，AI产业链仍处于高速增长期，但需注意高估值风险。报告建议采用分散布局，关注技术落地能力和现金流质量，以应对市场波动。",
+      "fetchDate": "2026-08-06"
+    },
+    {
       "id": "3380",
       "title": "Cory Doctorow: The people who tell you ‘AI is changing everything’ are lying - The Nerve",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzl1TzZTMFg1aTNQbFhKWGFzN0lBVnR6b2p4akNOUzNZMmJ3dWt2aE5lT2Y5ay04UWNRLTVhU0lwMERzTTlEbGo5YzM2WFRVUS1RRV9uaUFtZkVzNU9jWnM4SmNJMldnMDdjQi1sTExZNDh0cnYzU05lN3NuNk9MUkZneVhZUlZzU1lmX0J6MDVCdFliSXRrN1FTbWJIQ0xMWVd0SEdUTHJIRHlE?oc=5",
@@ -30439,5 +30520,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3382
+  "total": 3391
 }
