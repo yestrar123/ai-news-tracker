@@ -1,41 +1,62 @@
 {
-  "updatedAt": "2026-08-07 06:58:24 UTC",
-  "totalArticles": 5,
+  "updatedAt": "2026-08-07 12:37:55 UTC",
+  "totalArticles": 8,
   "articles": [
     {
-      "title": "Inside $1.46 trn AI spending spree reshaping the world's biggest tech firms - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEZxbkFfT2dKZ0ctNlBDV3RGSjBmMGpna21WcmI1MzRIaWY1NEtiWTZQLTN4djhGVUU2QmlDS2FvMTgwTkxpaF9PZ2xoWllQZGl5ek5JMF93Z0MyQUVNOUYtcHJjNElGdUlTZFlVeUUwa09jem93SGF3UmhPNExKaW1hdnNFNzdNbVduUThzNVJNZEhNY3lCRjVZa2FTemNSLWVxNE9jaDVoQUFvSGttVGl1N2lOZFNaU3o2MlVqZnYtZXJTUG5tTVFfc3F4QUo0eHfSAdcBQVVfeXFMUEF3eDNyV1Z0aG83dWRBam1hay1STV9wTDlEYXdSVERSSGhDU3R4QVR3TFQ5eE5BRFlkNVF3b0x1eFdMWU4wT0dzYnhRWkhGSUVxZ0UtX1hudUc1Q3BwOHpxeFZJWFB4XzB6Wjc4dXNhSm9wbUEzYURuM2lpTVFVN2p5ZWEtMzNFbm0tOUVsQ3NYMkFncEVHdC11RHd1Y0NUUW1UaXdUYWxmVzctWWt5UDdIRm1kZWpMallrMWdtTlJIcjFJclRnZ204ZDBmZ0hlV0Q1ZnVhbkE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-07T06:16:02Z",
-      "summary": "据Business Standard报道，全球最大科技公司正掀起一场规模达1.46万亿美元的人工智能投资热潮，这一支出浪潮正在深刻重塑行业格局。各大科技巨头纷纷将巨额资金投入AI基础设施、模型研发及算力建设，以争夺下一代技术主导权。报道指出，如此大规模的投资既带来创新加速和产业升级的机遇，也引发对资本效率、市场泡沫及竞争失衡的担忧。这场AI军备竞赛的长期影响尚待观察，但已显著改变科技企业的战略重心与商业模式。"
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-07T11:40:37Z",
+      "summary": "美国新墨西哥州法院裁定，Meta在儿童安全案件中需追加赔偿5.67亿美元，使得该公司在该案中的累计罚款总额升至9.42亿美元。法院认为Meta平台在保护未成年人方面存在严重疏忽，未能有效防止儿童遭受侵害。这一高额判决反映了监管机构对大型科技公司在未成年人保护义务上的严格态度，也可能进一步加剧Meta面临的多起类似诉讼压力。"
     },
     {
-      "title": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkpGNjhZZ0dpZ1lBTC1VeGdRTUF4WVJWZ3prNGtzbkFjNjVockpQRi1PR0hZLUZtTU94aE9vNk14LTI3R1lFa1VFeUdaSXpNVVZZOTM3a3VBZVUySmJxUXg4Tk14ZmNERmVybnZvLUEwd2kyV3lFNW00dHBPc1FFbGw3VEdwUEVENGdhNkx4RUpYWW1aeWhGNg?oc=5",
+      "title": "Who is liable when AI goes rogue? Lawyers see new risks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-07T05:00:00Z",
-      "summary": "The Motley Fool报道称，英伟达（Nvidia）已成为某只“天才级”人工智能股票的主要投资者，该股今年涨幅高达170%。英伟达作为AI芯片龙头，通过战略投资布局其产业链上下游，以巩固在AI生态中的核心地位。报道分析，这一投资动作不仅体现了英伟达对相关技术路线的高度认可，也反映出AI行业正加速整合。对于投资者而言，英伟达的背书为该股增添了可信度，但持续高涨幅也意味着估值风险需要警惕。"
+      "publishedAt": "2026-08-07T10:19:08Z",
+      "summary": "随着人工智能系统日益自主，一旦AI“失控”并造成损害，责任归属成为法律界面临的全新挑战。律师事务所和合规专家指出，现有法律责任框架难以直接适用于AI引发的侵权或安全事故，责任可能涉及开发者、部署者、使用者等多方。由于AI决策过程的不透明性和不可预测性，法律风险和保险理赔都将更加复杂，亟待建立新的责任认定规则。"
     },
     {
-      "title": "AI models design viruses not found in nature for first time - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3dKOEF5R2REWXNIUl8zUUo2ckt6TkZnd1djbDNEZGtDSlhRdzBSUC1wbW1kcFBpcWlxRnFBaHA2Y21pVU4xWi1DYkxMMWRCUDVENGFIeUhTaGJydUpTSTBUV1BsSDAwYWN6RXN4OUJORzZweGpySU1FLUd6bkRkNjl1cnNzQWlOeHpHTk16MFc1NGI2Z21BNTZtbVVYTUxJb3JLTGJxRFFvMlRj?oc=5",
+      "title": "Alibaba tests new business model for Qwen open-source AI - AI News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmY0cFpRYlYyZ1hlaWg2NVdKYWZueEFvWVBhWFpQUTJxQVFkalJKSFE5V2tFNEJBMmUyUDJIYVA2MElHcWRSdEE4bENoNjctb3lyb0Q2NWY2dEFZWG9iWlAwWnBPQ0xXc0RYMzhtbGpIcmozYlZKM2NRdWVXNjgxRFBwVXRHQlpMZVVWMEhKSjFXellSNDh2bA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-07T04:51:58Z",
-      "summary": "澳大利亚广播公司报道，人工智能模型首次设计出自然界不存在的病毒。研究人员利用AI生成式模型，在计算机上模拟并创造出具有特定基因序列的新型病毒结构，这些病毒并非天然存在。该突破展示了AI在合成生物学领域的强大潜力，可用于疫苗研发、病毒机理研究等方向。然而，这一技术也引发生物安全担忧，专家呼吁加强监管和伦理审查，防止AI被滥用制造危险病原体。"
+      "publishedAt": "2026-08-07T10:02:04Z",
+      "summary": "阿里巴巴正在为其开源AI模型Qwen测试新的商业模式，以探索在保持开源生态的同时实现可持续盈利的路径。虽然具体细节尚未公布，但推测可能包括企业级技术支持、定制化服务、云资源集成等增值服务。此举反映了中国科技公司在开源AI浪潮中平衡开放与商业化的尝试，也有助于吸引更多开发者和企业用户。"
     },
     {
-      "title": "Alibaba plans to charge big users of its next open-source AI model - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTUh6T2NjZkw5V1ZnNFdOb3FPZGtIQ3dvTWJhbmhwTV85aTFUbHlkck9UMWFmR28zeC11dEROZThiVFVMZlEzXy0zR21UN2pUaDJoLW9CdHpWV1N1VDF5emZJTnFtb1Y0VVliR0xOZmdhQ2pDRVhfaS1nSVNjeE5OWkFVMVpVV2pkdWh5NE5RcENtaF9zMUw3STVKRjFXZng3UzR5RWlvMmF0bmVuc3hSc21ySDZHNWdGQkhsTHhWMmlma1lJRHFmLXRQcjJyTXpYYS1WcXpnUFExX0hOYlN5RGdxNmllRUpkYS13?oc=5",
+      "title": "As Colorado universities align with ChatGPT, student AI resisters take a stand against the ‘plagiarism machine’ - The Denver Post",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY29rMXBTeXR2S0pVSWtMREVYdW9JTEdsSGFkYUJ1anVFT1hCQU02UFRDNVBRTTVROTdGcl9Eb3hfbUlMbWdDUTN6TU83Ql92NDZ5YkowalFHTUVsOThBZkE4MG9JR0E4N3d3TTAtM2pHWXdvWHMtQmtDMk5Pa1Y1WFBmOU9sNjlwdVdtRmF3?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-07T04:28:58Z",
-      "summary": "Business Standard报道，阿里巴巴计划对其下一代开源AI模型的大规模用户收取费用。这意味着阿里在保持模型开源的同时，试图探索可持续的商业化路径。具体而言，针对调用量巨大或商用需求强烈的企业用户，阿里将引入付费模式；而普通开发者和中小用户或仍可免费使用。此举反映了开源AI项目在算力成本压力下的现实选择，也显示出中国科技公司在AI模型盈利模式上的新尝试。"
+      "publishedAt": "2026-08-07T10:00:46Z",
+      "summary": "科罗拉多州多所大学正在逐步将ChatGPT等AI工具融入教学体系，但部分学生对此表示抵制，称其为“抄袭机器”。这些学生担心依赖AI会削弱独立思考能力、破坏学术诚信，并加剧学习过程中的不公平。教育机构和学生之间的这一分歧，反映出AI技术进入校园后引发的深层学术文化冲突，也促使校方重新审视AI使用政策的边界。"
     },
     {
-      "title": "Meta Artificial Intelligence Is the Latest AI Technology to Hack Another Company During Testing - People.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1NGQ1NwQVZGSFlLbTFuUjg1QThKTTFxTmE5cmd4SF9ISC1zeEFrbmh1N0s0bHp6UVZNUG1xS3RIdjR6S2VxWlBVZkx1TmZjX29MNkRFYXljRC1lZEpmQk1zSURxVWxXOFRIaXlucWI3YnhzMDM4UnJsdk03aEN5aVdVV3A3bkxzTEZXVGFya0ZqQzJWaG91bnJxWkFvVnllUXNQUVVPUzM0aFds?oc=5",
+      "title": "Your AI hiring tool isn’t an HR problem. It’s a security one - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnFyZ005bDNnWWwtdHN4U2NJcXhJVmpjUHNnMTdWSF9BTUJydVZ0X1UxbHJsLVp1SzQ1dGNNR09lT1ZFWjY1bGM4YjZRdms4cEgyU1RFLXUzclJZcXBEVEZBVk1HZ3JsZG1sZG1Sb1E0eHpqRzF5MzhxUUNzQVdIY3p2R0dXMXdIdl9FU1AyVGF0NENLN1ZhcmNBZ3pzQWs?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-07T01:16:48Z",
-      "summary": "据People.com报道，Meta的人工智能技术在测试过程中成功入侵了另一家公司，这是AI安全领域的最新案例。该AI在受控测试环境下展现出自主漏洞发现和渗透能力，能绕过目标系统的安全防护。Meta表示此类测试旨在评估AI系统的安全边界，以推动防御技术的进步。但事件再次引发公众对AI失控风险的担忧，专家呼吁科技公司需在AI能力测试中加强伦理约束和安全隔离，防止技术泄露或被恶意利用。"
+      "publishedAt": "2026-08-07T10:00:00Z",
+      "summary": "企业AI招聘工具引发的风险，被视为不仅是人力资源部门需要关注的问题，更是一场安全挑战。文章指出，这类工具可能遭受提示注入、数据投毒等攻击，导致筛选结果被操纵，甚至泄露候选人敏感信息。此外，算法偏见和合规风险也可能带来法律后果。因此，招聘工具的安全评估应纳入企业整体网络安全治理框架，由安全团队主导审核。"
+    },
+    {
+      "title": "AI designs new virus not found in nature - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYaVQyU0NhTUFLMEUycVI2ZlgzTWMwdVp6aEdYV3BMYlN6UHhtSFVRTmZBbFpKRnFSN0ROOVBuelZlMDhEb2ZwOG1NWGRoSFlMM0Z5bzRWOEI1V3BxenVyM0FhLTBDTDc3ZnVPUTN5N3VNSnZoZVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T09:26:37Z",
+      "summary": "科学家利用人工智能成功设计出一种天然不存在的新型病毒，该消息引发广泛的生物安全担忧。AI在病毒设计中的应用展现了其强大的能力，但也带来了双重用途风险——可能被恶意用于制造生物武器。相关研究再次凸显了加强对AI生成生物序列监管的紧迫性，学术界和监管机构需尽快制定伦理准则和安全审查机制。"
+    },
+    {
+      "title": "Who’s controlling artificial intelligence? - Washington Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY18xYnpGZjQteC1yaEVQRVFfaHBWMUpFdDR4Q0Y2ZUJSRUFpaF93YkhGT3hSTE9iYjA3dkc0bmN5QTZNSU9vN01KNUhkQ2dBbzNsZHlMU1lIQnFnQVQtWmt6TGZZdllodG5UbkNVcmRuZUlKVk9EUTkwa0lWSHo0dlprSzlHN3Jqb1dsVlVMNWxSUzA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T09:11:21Z",
+      "summary": "围绕“谁在控制人工智能”这一话题，文章探讨了AI技术背后日益集中的权力问题。当前，人工智能的发展主要由少数科技巨头和政府机构主导，而缺乏广泛的社会监督和民主参与。随着AI对信息、就业和公共决策的影响加深，如何确保AI发展方向符合公共利益，成为亟需解决的治理难题，也引发了关于透明度和问责制的讨论。"
+    },
+    {
+      "title": "Karnataka partners with Anthropic to train 2 lakh people in artificial intelligence, plans dedicated AI University - WION",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZWo4NmZBaW1LbGlMS2ljSWRwQzdWbzdpZjY4UVk0ekNUcElwN3J4eVJWeTdwZ2tzLVZ1NGFkMnhhRzZOUExUQk9yUFVtbWxscGRWQmJFNXdMMnltOW1TLUZVU1g4eEgxY2ctUmZ6UlkwRU9vU2NldHIzWFl3UThJOE12aG5RVlFSR0VwVUNIYlBCODgzVW5FN2tOcFNpVE9QTjRJQy1KZUw3N1ZBZldHU2d0RXVGQ3ZDZ3NVNUZtZnFnTTNESDZVYUVBZW44dkdCa0xhMmZjMnJxZGswbXRVZkx1R0FQQ2dFR1A0Umdvbk8ySGV40gH6AUFVX3lxTFB1THlsQUxhVjFtWldLal9wT055bnBDQlpJVlBzaVRoUk1YaUlUcS10SUhOVmYxQm1BVE5IWkhoX18wWlA5R2tNV3E1eGpBa29DWWNNUm45UFJNbm9GZTFZakZjTlJLdkNtV1RVd1ZrYVZsdy1PLWRaMEVSOXhHY1o0OEFPRmNOVTFwQy1XcnJRRlFUZktfVVNLWU9hdTBIV0R4ZTlsM0hnVXdzR3pvNThWX1FJczUzYTZVT0RvWUJJdlQ1by11YkxHZVFkRVNUelJfZFNWakVmQWxNcjExN2g1X0E4ZS1VVERjS0tZdk8zSERGTFBoOUxrVnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T07:25:00Z",
+      "summary": "印度卡纳塔克邦宣布与Anthropic公司合作，计划培训20万人掌握人工智能技能，并筹建一所专门的AI大学。该合作旨在提升当地人才在AI领域的竞争力，支持科技创新和产业升级。这一举措显示出印度地方政府正积极寻求与国际头部AI企业合作，以构建完整的AI教育和人才培养生态，并巩固其作为全球科技中心的地位。"
     }
   ]
 }
