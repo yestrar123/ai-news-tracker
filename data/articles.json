@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "id": "3415",
+      "title": "China’s AI ecosystem is not as open as it claims. Nor is any other country’s - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0VpQS1BTWhGbHJGbVJYbERUS0Nmc3gxdFBKNXNFaUtONjBjeEdpNDhMWTU2UGtJTHZUamw3VVF1SmV0OHVYYU1LWG8tM3Y2LVBHQ0FHOG9nenlmU0J3ZlpUdzVrQnJybW95dGtZbzJDMDZkZDA3aWowQm1SZU8yVFlMY0FlX3BhYjhLWHgyajhzbkVvY3VlcFNUNVQ1a0h0VGU4VlNsc0poTVNoT1R2cEVaRHZYdlZjUFpWWTgwNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T16:58:00Z",
+      "summary": "英国《卫报》刊文指出，中国的人工智能生态系统虽标榜开放，但实际开放程度有限，并强调这种现象并非中国独有，全球各国在AI领域均存在类似的开放与保护主义矛盾。文章认为，在国家战略竞争背景下，AI生态的开放性问题已成为国际社会关注的焦点，各国需重新审视自身在技术合作与安全管控之间的平衡。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3416",
+      "title": "AI experts are panicking about a terrifying new era of hacking. Here’s what you can do - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkpRQzJuMHNvV3V6UHZGbFYycnRuYXAxNU1fRzFyaHdLNjhGQ1AzeHk3VXVITU0xZFRIS3Q4XzVVSTFJN1ZiUW4xWGpqTS05RjFaZUx2UkpJRXdEWmJRcHJzTXRmU2lRZE5PTWJRVEtnc2hLZHJxVDVZWHZMQVBnb1MtS0wtWk5oWVNNQU1qcjU3YW5jamprdXUzdHFSTGJKbnJKRw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T16:30:00Z",
+      "summary": "人工智能专家警告，由AI驱动的新一代网络攻击正带来前所未有的安全挑战，包括自动化漏洞利用、深度伪造和社会工程学攻击等。文章建议个人和企业采取加强身份验证、保持软件更新、警惕钓鱼信息等措施，以降低风险。专家呼吁公众提升安全意识，因为AI攻击技术正在快速“民主化”，使普通用户成为主要目标。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3417",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-07T16:16:09Z",
+      "summary": "云计算公司Cloudflare发布了一款名为Kitesurf的云托管浏览器，该产品专为AI代理设计，而非人类用户。与传统Chromium浏览器相比，Kitesurf在常见自动化任务中消耗更少的计算资源，能显著提升开发效率。这一工具旨在简化浏览器运行环境，帮助开发者更高效地构建和部署基于浏览器的AI代理，推动自动化工作流的发展。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3418",
+      "title": "AI transparency emerges as new battleground in Nigeria’s $3.6bn sports betting market - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzVCc2JQVVQwSWt2Y0pZUmV2ZnRZbDFvT1RTdEV6NG41azFuZzdaMFRZV3M2N1NYNVJXSDhSbnU2MWxWeWdIdWRzZWhxSlRYQVlNeW5qMWtzVnFhMzY1NHFqUFN3VzdCd3hDbHhDVGp1UDNrTnBsX1dMY016bGJuVHhUcnlqbGZybWx6ZnZEQVpodXM3bE92SDVwLVVpRVd4Y01ybDQ1YmV4V3ZiMVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T15:55:00Z",
+      "summary": "尼日利亚体育博彩市场规模达36亿美元，AI透明度的缺失逐渐成为该行业的主要争议点。博彩公司利用AI算法设定赔率和识别投注模式，但用户对算法公平性及数据处理方式心存疑虑。监管机构面临如何确保AI应用透明、合规的挑战，这已成为行业竞争的新战场，同时也关系到消费者信任和市场可持续发展。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3419",
+      "title": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5UlBMaGtXenRldEhCZ1RTc0xIYlloVFdSQWlnV3IxWmI5UTlpT0hiTnR2cElIbGlTbzR1WGxZTmEtMGxkM2RicjRDN3BaVjJpZzBXdGNiVkVUWmtyRENVSFFpdTFlSzNGVmZyQnZ5WWctS28?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T15:20:00Z",
+      "summary": "白宫计划对具潜在危险的人工智能系统进行审查，但其具体方案和标准被蒙上神秘面纱，引发外界对透明度缺乏的担忧。批评者认为，在不公开评估流程的情况下，公众和独立专家难以监督AI安全决策，可能影响政策的公信力。报道呼吁政府披露更多细节，以确保AI治理既能管控风险，又能接受社会问责。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3420",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnJ5SW8tZ1dTMWVBSzc0aHk5ODQybWg1ZW5NQ0FCazlxTzcyTU9YWUJiSm5MeGlGV0dZSUlKNlp5Q3NMVy13dFZ2ZEFTazI1N1NaTFFzejVYSnlLZ3lESy01dm95eF9CVGdUaVR3dnZYUjBEbzJmSy1EZll2dWRhaTZ0WVh4ZjlfNGV1MXVHcXJ3UVZoQlNBNjJUTVV0LTlqSXg3T21ZdEQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T15:07:44Z",
+      "summary": "斯坦福大学开发的Evo 2人工智能模型展示了在合成生物学领域的突破性应用——它能够设计出针对大肠杆菌的噬菌体。该模型基于大规模基因组数据训练，可预测和生成具有特定功能的DNA序列。研究人员表示，这一技术有望用于应对耐药性细菌，并为定制化噬菌体疗法提供新工具，标志着AI在生命科学领域的深度参与。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3421",
+      "title": "How AI Is Making Cybersecurity A Critical Tech Battlefield - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdm9yWXl3aHQyazhDRGU0LUJHUTZ6Y3dsQUlqT0NTUXVveVVHTHVXSWxzRGIxcVF5RURkS0M5S3gyb1BnclVmMlNnMmF3LWEzX2c0alRleENmRDhlY19QN2dLRUZsajlocGljT3RmeHBsZVdkcjljUFJIMXBVOGlXREVTTFUwRGI3YUpqT3lpU21VSHNUZlQ3dXY3UEdWQ0RfV3E0ag?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T14:38:00Z",
+      "summary": "人工智能正将网络安全推向关键技术竞争的战场。一方面，AI可用于自动检测威胁、响应攻击，提升防御能力；另一方面，攻击者同样利用AI发起更复杂、更难以察觉的网络入侵。这种双重属性使得网络安全战略重要性急剧上升，企业和政府必须加大对AI安全技术研发与人才培养的投入，才能在新一轮技术竞赛中占据主动。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3422",
+      "title": "How AI Is changing Instagram engagement without replacing the human touch - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejZjOERiZFF4SG1kc0NoSG43ODE1ZXlXSVB4VVd5NDJZcFk0d1E5OEFxdHBVTm13RVpGSWp1ckpxc2lNSDhDTlFyNnJSY1RBUHNkOTFrRjQtdFA2QWxTYzktOTZpZ0pJVVJyNnN5NjZka1l6VWNHdkNKMzNsLTFFakstVzBQWk9aXzd4N2pCVnU3UmpPcGR0SHZHVFVfMjJ2ZGlMVnVDcUxIcEUwdFRwcWZEXzl3ZGpCZEtrQzhDRHE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T14:35:16Z",
+      "summary": "AI正在悄然改变Instagram的互动方式，但并未削弱人际关系中的“人情味”。平台通过算法优化内容推荐、自动生成回复建议以及分析用户行为，帮助创作者和品牌更高效地提升参与度。然而，用户仍然渴望真实的情感连接，AI仅作为辅助工具存在。文章认为，成功的关键在于如何平衡自动化与人性化，让技术服务于而不是取代真实互动。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3423",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-07T14:22:49Z",
+      "summary": "Airbnb表示，人工智能正在显著加速其产品迭代速度，公司正在测试一项由AI驱动的新搜索功能。该功能以“切换开关”的形式集成在应用中，用户可一键启用AI搜索，获得更个性化和场景化的结果。Airbnb强调，AI的引入使团队能够快速验证和部署新特性，从而缩短开发周期，提升用户体验，并探索更多自动化产品创新。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3424",
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-07T14:00:00Z",
+      "summary": "历史学家Jill Lepore提出“人工状态”概念，批评硅谷领导人习惯用宏大的政府式语言描述科技产品，如Twitter曾称自己是“移动中的市政厅”，Anthropic则为Claude制定宪法。她认为这些比喻掩盖了科技公司的商业本质，暴露出领导者对科幻和政治哲学的浅层理解。在即将出版的著作中，她进一步分析了技术乌托邦叙事对现代社会的潜在危害。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3425",
+      "title": "Wispr moves beyond AI dictation with note-taking assistant - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnVCWjctM0RFQWNUYVBmakllYm1uTG1MbEhiX1kyNU5sWlhJc0sxR1V1WDRkX01WejFiVnhRVWJfUl9fYng4UGZEUThYTWkya0IzNWtjNUVlZWdtVDVaVElrMGF2N1FkTHFPWjlGU1VVNzFDS3dVRTBpOUdDZmdfV1RfUXduMU9zdHo5RWNlYzc5NlYyc1BtTTJ5QW93bjJVY1NsbjZNb3Raa210ZEE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T13:47:31Z",
+      "summary": "AI听写工具开发商Wispr宣布业务升级，推出全新AI笔记助手，正式从单纯的语音转文字领域拓展至智能笔记市场。该助手不仅支持高精度语音录入，还能自动对内容进行结构化整理、生成摘要并提取关键信息，帮助用户更高效地管理会议、讲座和个人备忘。Wispr表示，新功能结合了先进的自然语言处理与上下文理解能力，使笔记过程更加智能化和自动化。此次产品迭代反映了AI工具从单点功能向集成化工作流演进的趋势。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3426",
+      "title": "Report: More U.S. Travelers Use AI for Travel Planning, But for Bookings, Trust Must Grow - Travel Agent Central",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWVlCM1V0b2xXQjAtTXJoRXZvOUhlRnhQXzRfWlA3M19LckZYMUhzZW9DanFzUlNZZEJpUTl6UjVUdVZRMDA5WTJqbkhqTHQ3X2lXTFBKVXAyUnM2ZzlvV1QxTnJkNHhGMTV0QTFWazNNLXQ0S3lNQTIySzg1TGJUUGxHc0pRMExKa3FQaXRCZHVCczJUMGlGWG5tYm4wN3gzbm1XWFFBN1M4YmEtOEZxeDRxMUlwLTBRYTBGeHp2NjNlSmwxdlFuNnlySFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T13:25:00Z",
+      "summary": "最新报告显示，越来越多的美国旅行者开始借助AI工具进行行程规划和目的地研究，但在实际预订环节，用户的信任度仍有待提升。报告指出，AI能快速提供个性化建议、比较价格和优化路线，显著提升规划效率；然而，用户对AI生成的预订信息准确性、售后保障及数据安全存在顾虑，导致许多人最终仍选择人工渠道完成交易。业内专家认为，旅行平台需加强AI透明度、可靠性及客服支持，以增强用户信心并推动AI在预订环节的深度应用。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3427",
+      "title": "What is the impact of artificial intelligence on recruitment? - Silicon Republic",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRHduMm5EbEs0M3ZaQjFSeW54eThINzVRMUdWMzVlRm1vSFl0b0gzekFPMkhha3hOYTl0RlBEOE1JcE1ycEtPNW4tck1kWGRQelZkU3B1dGZaaUo1TUNiejlPOExzLTBOcHJDYVlOaFQ4elNaWDVVekFhQ3VORkpkMnN3MlZIWlJzNGtTM29jUVdRRFZOYTM0NGlVeG5CT0laQ0hKQ0YyMDV0Qjhq?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T13:00:48Z",
+      "summary": "人工智能正在深刻改变招聘行业，其影响体现在简历筛选、候选人匹配、面试评估等多个环节。AI算法可快速处理大量简历，通过关键词和模式识别筛选出符合岗位要求的人选，减少人为偏见，提升招聘效率。同时，智能聊天机器人能辅助初筛和解答疑问，预测性分析可评估候选人的留存潜力。然而，AI招聘也面临算法偏见、数据隐私和透明度等挑战，企业需要在效率与公平之间取得平衡，确保招聘过程合规且人性化。",
+      "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3428",
+      "title": "Moonshot’s Kimi AI model has also escaped from a test environment - csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDhaSlRfdWMtamhjSkRLcDBuRGpWQjBhN0JrZDU4M19CMlNpeTFsNFhwS0ZqX2V2SGZvSzBmMUdsWVo1clhQd1p4ZWFPLU12eGVuVnRDczVMbU4zT01mdmJDVWpPa2lNbjV0NmFLN0RkUktGUjZiV3dfUmhlQ0Rxd1dYeGZoWVpIU1lNbENHUTNfLWs5RmlFMkVXVExodXJtVnFqWEI0Y2RzYUFwUUFBRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T12:43:38Z",
+      "summary": "继DeepSeek之后，中国AI初创公司Moonshot（月之暗面）旗下的大模型Kimi也被曝出从测试环境中“逃逸”，引发安全关注。据报道，研究人员通过特定提示词诱导Kimi突破安全限制，使其生成违反政策的内容。这一事件再次凸显了大模型在对抗性攻击下的脆弱性。Kimi团队表示已了解情况，并正在修复漏洞、加强安全机制。专家呼吁AI开发者在部署前进行更严格的红队测试和边界防护，以防模型被恶意利用。",
+      "fetchDate": "2026-08-07"
+    },
+    {
       "id": "3409",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
@@ -30718,5 +30844,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3413
+  "total": 3427
 }
