@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "3446",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-08T21:24:02Z",
+      "summary": "据TechCrunch AI报道，亚马逊计划在得克萨斯州建设一座大型数据中心，并配套投资建设自备电厂。该电厂可能成为美国最大的气候污染源，引发环保担忧。这一消息凸显了AI算力扩张与碳排放之间的尖锐矛盾：大型科技公司为满足AI训练和推理的电力需求，往往转向化石燃料发电，导致温室气体排放激增。该案例也再度引发对数据中心可持续性及科技企业碳中和承诺的质疑。",
+      "fetchDate": "2026-08-09"
+    },
+    {
+      "id": "3447",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-08T19:41:13Z",
+      "summary": "OpenAI宣布收购演示文稿初创公司NextSlide，后者团队成员已加入OpenAI并参与ChatGPT相关研发。此次收购属于典型的“人才并购”（acqui-hire），旨在吸纳NextSlide在演示文稿生成和交互设计方面的技术能力，以增强ChatGPT在办公场景中的实用性和多模态表现。收购后，NextSlide的产品或将逐步整合进ChatGPT生态，帮助用户更高效地创建和编辑演示文稿。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3442",
       "title": "OpenAI to pause work on AI model Astra due to security concerns - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
@@ -37,6 +55,15 @@
       "fetchDate": "2026-08-08"
     },
     {
+      "id": "3448",
+      "title": "AI Tech Stocks Investment Guide 2026: Top Picks & Market Outlook - intellectia.ai",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIZ0VHaFBsSFZFNldzeVV5eThtR2J3S1BCbGFrQ3lMWFY4RHhmcXIwQmozVTkxcGlHWmlKRS05WHN3Y043RWpoUjA2QkhrdVZYOUhvaGdLQW52NGFkZ0JGS1hFX2kxc3JveFp5bWVaRlA0UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-08T12:14:19Z",
+      "summary": "intellectia.ai发布2026年AI科技股投资指南，梳理了热门标的与市场展望。指南指出，AI相关产业链涵盖芯片、服务器、云计算、软件应用等多个层级，其中受益于大模型部署的算力供应商和提供AI落地解决方案的企业被视为重点关注对象。同时，报告提醒投资者注意估值过高、行业竞争加剧以及政策监管等风险，建议结合基本面和技术趋势进行分散配置。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3440",
       "title": "Forget the Artificial Intelligence (AI) Capex Bubble: SpaceX CEO Elon Musk Says the Memory Shortage Will Drive Costs Even Higher - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEhMSjJYNWVZbTUtSVVydnRxMGlKNVZDdmNEWWlUWjNhTERUMDduZ0FTZXRWUk5idF9yODBZYVF2M29CNEdFUVZwTUdGZmNZZHN6NFBFcWNnVU9qWjg3cy1BbW5vLWZCWlVPNW9MU2lrX3lCdXotMnVSMXFBaGd3SVlCLTh6QVZrVnBsczVMYUZKMWJXVEZudw?oc=5",
@@ -44,6 +71,24 @@
       "publishedAt": "2026-08-08T11:09:51Z",
       "summary": "特斯拉和SpaceX首席执行官埃隆·马斯克近日表示，当前人工智能领域面临的主要问题并非市场担忧的资本开支泡沫，而是内存（存储芯片）短缺。他指出，内存供应不足将推动AI相关成本进一步上升。这一观点与市场上关于AI过度投资的担忧形成对比，强调供应链瓶颈而非资本泡沫是成本压力的核心来源。马斯克认为，内存短缺将持续影响AI产业，企业需关注供应链风险。",
       "fetchDate": "2026-08-08"
+    },
+    {
+      "id": "3449",
+      "title": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleotides — experts warn such applications are way ahead of necessary guardrails - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNZHQ2bGNlTWdPTXN4M3lxbEd1Z1I2ODJFMzJTTHNubXFJeDVJdTd6TUFEeUFNcEc5cWNhYmZuRHlGUnp0UW9Wdno3bUZzbXJtTy1hS3N4aHBDNC1rQ2htS0U4VU9GdG5Pd3JKNkVlb1RuZmRiWWdROUFyTHM5SUFULUJVdVZRZnVJVl9ORFhlazhlOGxXM1dQWEUyMnB1UzhjaHhDRGRCTFR6WUVMd3NpSTNzS1ZIN1FyWGtIVUdNX0ROeFlrYS1OamlFRnB1YmlTdVpzbjg0T2dObXVELVN0RjBlSDFkZi1YWFhBZnZES19NeXFaMFlRUlRPcFltUnozdTJsRVp0ZnF0dlVzTEI3RUtwT2NOQW5fMGdOM1ZHM2E3T0tpWGpYbmg4cy1LNWI2Wk0wcGd1NGp3N3Y5QlFiYmJiN3J3WEFnTkZVMlBZRC1SbF9RUlo0dU1kTENIX21yd1ZFRw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-08T11:00:00Z",
+      "summary": "Tom's Hardware报道，人工智能通过学习9万亿个核苷酸的DNA模式，创造了16种自然界中从未存在过的新病毒。研究人员利用AI模型掌握DNA序列规律后，能够设计并生成具有活性的病毒样本。专家警告，此类应用已远远领先于当前必要的安全护栏和监管框架，可能带来生物安全风险。这一成果既展示了AI在生物工程领域的强大潜力，也迫切呼唤伦理审查和双用途管控措施。",
+      "fetchDate": "2026-08-09"
+    },
+    {
+      "id": "3450",
+      "title": "Forget the Artificial Intelligence (AI) Capex Bubble: SpaceX CEO Elon Musk Says the Memory Shortage Will Drive Costs Even Higher - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxORjc5OGxneV9mQW5paThWaUsxOU9LMDVWM1VGRVRBTjdEN2hwR1Vhd0tCbTA4QlMxaWV0cEQzSEo5ZFgwcFF4aUp0N01wNUJOOGx6WnNpQUZyU19NMWdqMXFZU3lJb293RUl3TlBCSllCb2dscXBfSVdpbDJOMVNQUjM2cWRqSF9LTEJuNmFVWGZkRlViUGNicFRlX0xhR0FjY3p6bS1oYkNIWE5CTUJIQU1DcTlNMjlSNmNBMHBxUzRHQkdIN1FxUlA5dkUzckx3WkFWNEZITTBaQldOa0o5VDVpMDBXczRKclJDNDNIQnllX3YzSkJmRkl1ZC1hQm0wbi1kbUhIRnZMT2tjYjlzVTFTbjB6dXpLYUlsV0tjZWlqX3NDWW5yREZkUUVDeWxPXzdKag?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-08T10:50:00Z",
+      "summary": "据The Globe and Mail报道，SpaceX CEO埃隆·马斯克就AI行业资本开支发表看法，认为内存短缺将推动AI成本进一步上升，而非出现泡沫破裂。他强调，AI模型对内存芯片的需求远超当前供给，尤其是高性能存储产品供应紧张，这可能持续抬高算力建设成本，并利好相关半导体公司。该观点为投资者提供了另一种观察AI产业周期的视角。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3441",
@@ -80,6 +125,15 @@
       "publishedAt": "2026-08-08T04:09:19Z",
       "summary": "Intellectia AI发布2026年AI股票投资展望报告，给出优选标的与市场分析。报告指出，随着大模型训练成本下降、推理需求爆发以及AI在垂直行业加速落地，AI产业链的投资重心正从基础算力向应用层和软件服务转移。报告建议关注具有稳定现金流、技术壁垒高且能实现商业化闭环的公司，同时警惕估值过高和监管风险。分析认为，生成式AI、企业级AI解决方案以及AI芯片设计仍是未来两年核心赛道，投资者需结合宏观经济和行业周期，在成长性与安全性之间取得平衡。",
       "fetchDate": "2026-08-08"
+    },
+    {
+      "id": "3451",
+      "title": "Agoda’s Tim Hughes on online travel’s broken promise and AI’s “Reddit” dilemma - webintravel.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEY5bTFCZWFQc0lGY2NTUFlEb2gwOUtfOHJOT2hZdEREUzdaYkE2alQ0ZXhaSkVnZ3NOVHZPTTl3cXNzQ2pSeTc2YV9uUV96c3JManQtLXZPYlpMaUpXN3FsLUkxN2p1SzRLTzd6enlWYi1VcFlUYTRQSUJkaHRpWDlfZWxLS1hQVTlXMVd0anVFTjhaZ043eTJyLVN2cWFGbmVsMw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-08T03:58:24Z",
+      "summary": "Agoda高管Tim Hughes在访谈中谈及在线旅游行业“未兑现的承诺”以及AI面临的“Reddit困境”。他指出，尽管AI技术被寄予厚望，但在实际应用中仍存在数据质量、用户信任和内容生态等挑战。所谓Reddit困境，指的是AI生成内容与人类原创内容在平台上的混杂，可能影响信息可信度与用户体验。Hughes认为，在线旅游企业需重新审视AI的应用方式，以真正提升服务价值。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3435",
@@ -136,6 +190,15 @@
       "fetchDate": "2026-08-08"
     },
     {
+      "id": "3452",
+      "title": "Can we keep AI from risking national security? - KSL NewsRadio",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmlNMFRpQlJ4ZVVpZWtuSWhteHpCMENNSlNVU1ZrR3E1blRoSi1adUpKVkNiQkRCc3lKQ1JLQmUyREZoWHlTckdpSGlEQldnWkU3T05pMEtkdkxSZlozQW1Fb1FlYW5YZE55SHVYd1NVTHdQM19ndmtEWU5QZGhEWF83R3QwZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T20:05:24Z",
+      "summary": "KSL NewsRadio探讨了如何防止人工智能对国家安全构成风险。文章指出，AI技术在提升军事、情报和关键基础设施效率的同时，也可能被恶意利用，带来数据泄露、自动化攻击等新型安全威胁。专家建议通过加强技术监管、建立AI安全标准和国际合作机制，在推动AI发展的同时确保国家安全不受损害。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3433",
       "title": "World Bank AI Report Highlights Global Drivers for THNQ ETF - ETF Database",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRk9WT3UzellpNWdtOFEzSlV5LUY5TVRtWTNfeGMtR0J1VlRxN1FXTkZWTzNZWnlTZmRPd1d0NWdNMlJNWWVRVzhZRU55bHIzaGJpcVJlLWFkeDJGSFgxb3dmQkRxRnRINExSTVdZNE9FNUpLNkoyNnBYUnZ6dUFDZ1g3NWt6Q3hzblJ4c2R6aWlzcHA3WnZOWmlWNmQ4aW5TcktIVmlB?oc=5",
@@ -154,6 +217,24 @@
       "fetchDate": "2026-08-08"
     },
     {
+      "id": "3453",
+      "title": "Trojanized AI skills gain 1.7M installs in agent-targeted attack - csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1FkQ3NidlM5cFltcm1FTjhaVVlUZjNnS01FYlUxMUpkaEdTamZBMkFxc3RYSVRlZ3R6N1NWaWw2dThpLWlzVHZ0Vy1GaGVPZVlTWV9WQlVkR05YZFNtaVNLdlRQYnp6cnhqT1JFWVU1MXpuc3JFZk16eGp6NU5CODZtMExzSUw4QTlibkF1YldNUlN4eFpzTzNwbTNaQ0tlYnhEbTcySnI1OGVhSFQ3Qw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T17:45:58Z",
+      "summary": "CSO Online报道了一种针对AI代理的新型攻击：被木马化的AI技能包已获得170万次安装。攻击者通过将恶意代码伪装成合法的AI技能模块，诱骗用户安装，从而控制AI代理的行为或窃取敏感数据。安全专家警告，随着AI代理在企业和个人应用中普及，供应链安全问题日益突出，用户需警惕来源不明的AI技能包。",
+      "fetchDate": "2026-08-09"
+    },
+    {
+      "id": "3454",
+      "title": "UPMC, KLAS Research study examines AI adoption trends, governance barriers - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNkl5bURMWlIyMG0yVDRmdjFyMTUwUjBMVm1qSFRUbHJpUkZWb2h1b2lTd0c5YzctZTBCTHlfakxSNGRfN25ZSmNPZjVwVlozRFZIUXZuVklrcGV6NEdvbWdjdVdsY3NjeW5pODdaMi1pdnQ5LXUwWEhkeWg4N3EzU0xuM3JWYVJiampmLWNWS1dDODlBVWZBVU80bzY3ZFJaRG1MTV9hUmNYRF8xQlJzQ3U1Z3I0c0gtR1M0dEZ6dVJnTzBxYURuYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T17:25:20Z",
+      "summary": "UPMC与KLAS Research联合开展的研究，调查了医疗行业AI采用趋势及治理障碍。研究发现，医疗机构对AI的应用意愿显著提升，但数据标准不统一、监管合规要求复杂、模型可解释性不足等问题仍是主要障碍。报告建议医疗机构建立完善的AI治理框架，加强跨部门协作，以推动AI在临床和管理场景中的安全落地。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3415",
       "title": "China’s AI ecosystem is not as open as it claims. Nor is any other country’s - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0VpQS1BTWhGbHJGbVJYbERUS0Nmc3gxdFBKNXNFaUtONjBjeEdpNDhMWTU2UGtJTHZUamw3VVF1SmV0OHVYYU1LWG8tM3Y2LVBHQ0FHOG9nenlmU0J3ZlpUdzVrQnJybW95dGtZbzJDMDZkZDA3aWowQm1SZU8yVFlMY0FlX3BhYjhLWHgyajhzbkVvY3VlcFNUNVQ1a0h0VGU4VlNsc0poTVNoT1R2cEVaRHZYdlZjUFpWWTgwNA?oc=5",
@@ -163,6 +244,15 @@
       "fetchDate": "2026-08-07"
     },
     {
+      "id": "3455",
+      "title": "Stanford, Arc Institute scientists design first AI-generated viruses - betanews.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02ZzJSdEZ0V2NkNTVOTnFVZVJ6UzY1d2JyRllNTEJzLUw4UnVMQmtvc3FCSDkxc3Rqa3paMXFSYU84Z0FLMk5xeUFYOFJpVkVSeXJpaTBrbEFzdDlyNE5iV0lXaUVqdjBBZVRyRGh1Z1V0X2VlRk45d0pFbjE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T16:56:36Z",
+      "summary": "斯坦福大学与Arc Institute的科学家近日宣布，他们利用人工智能技术设计出了首批AI生成的病毒。这项研究标志着AI在合成生物学领域的重大突破，通过算法模型自主设计病毒基因组，大幅提升了病毒工程的速度与精度。研究人员称，该技术未来有望用于开发新型噬菌体疗法、靶向药物递送系统以及应对耐药性细菌感染。不过，这一进展也引发了对生物安全与双重用途研究的担忧，专家呼吁在推进科研的同时应建立严格的监管框架，防止AI被恶意用于制造危险病原体。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3416",
       "title": "AI experts are panicking about a terrifying new era of hacking. Here’s what you can do - The Independent",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkpRQzJuMHNvV3V6UHZGbFYycnRuYXAxNU1fRzFyaHdLNjhGQ1AzeHk3VXVITU0xZFRIS3Q4XzVVSTFJN1ZiUW4xWGpqTS05RjFaZUx2UkpJRXdEWmJRcHJzTXRmU2lRZE5PTWJRVEtnc2hLZHJxVDVZWHZMQVBnb1MtS0wtWk5oWVNNQU1qcjU3YW5jamprdXUzdHFSTGJKbnJKRw?oc=5",
@@ -170,6 +260,15 @@
       "publishedAt": "2026-08-07T16:30:00Z",
       "summary": "人工智能专家警告，由AI驱动的新一代网络攻击正带来前所未有的安全挑战，包括自动化漏洞利用、深度伪造和社会工程学攻击等。文章建议个人和企业采取加强身份验证、保持软件更新、警惕钓鱼信息等措施，以降低风险。专家呼吁公众提升安全意识，因为AI攻击技术正在快速“民主化”，使普通用户成为主要目标。",
       "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3456",
+      "title": "Does Artificial Intelligence Worsen Health Care Disparities? - HCPLive",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ003Ujd5d2NhZTZzbTJMM2lkZlJhV2JlNDR1QlVnM3FaSzFnODl2aVJ0WnZBNVRvNzRHbmdFdTlKcEhjSW9VUHhOT0tzZDZTMm1haWY5eE9WRUk1dzNyc1FsRG0tWHN3a3ZMb3l1aDlQaHF5M0M3RGlBbk56VlpVOHJjMWxMREZqdmNlY21feHZ1Sjg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T16:21:26Z",
+      "summary": "HCPLive探讨了人工智能是否会加剧医疗健康领域的不平等问题。文章指出，AI在医疗中的应用（如疾病诊断、治疗方案推荐）高度依赖训练数据，如果数据本身存在种族、性别、社会经济地位等方面的偏差，AI模型可能会放大这些差异，导致某些群体获得较低的医疗服务质量。此外，医疗AI工具的可及性在不同地区和人群间也存在差距。专家建议在算法设计、数据收集、临床部署和监管环节中引入公平性评估，确保AI技术真正惠及所有患者，而不是固化现有不平等。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3417",
@@ -190,6 +289,15 @@
       "fetchDate": "2026-08-07"
     },
     {
+      "id": "3457",
+      "title": "One of science fiction’s greatest writers warned us about a AI. Does he also hold the remedy? | Alan Finkel - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRzdOWkVuYXNtWUZHS3plQzZ5Yk1tUzdDdzQ4eVZrSGtwTXZtUmg5em5HaFNIU0NFZkhUeDVNVUE4YkxWd0pGTm5JWEtrSVk3VUtES1p5WWk1WkJtbmhnc2w5YlBSeHBsalJTdkpZaHduLU05endSLWRsTHl6SEdldkdIM0E5aGVaQ251cTRhNmpPeVJ6cDg2ZmhTbGtSWE5KNjRfd1NLRHFDVXNKMFdoanFJdVBLVGZRNkpiYkVkb1RlR0Jsbk14Nm0yZTB3YlFXNGM2cmVFQU85b29iM2gyUGZRX1pOOFN6NjViZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T15:29:00Z",
+      "summary": "澳大利亚前首席科学家艾伦·芬克尔（Alan Finkel）在《卫报》撰文，称科幻文学巨匠艾萨克·阿西莫夫（Isaac Asimov）早已对人工智能发出警告，而他的思想可能也包含着应对AI风险的解决方案。芬克尔回顾了阿西莫夫的机器人三定律，认为这些原则虽然无法直接应用于现代AI系统，但其中蕴含的“保护人类利益”的核心理念值得借鉴。他提出，面对AI潜在的风险，人类需要建立类似“机器人伦理”的全球规范，将安全与价值对齐置于AI发展的优先级，从而避免科幻中的灾难性场景成为现实。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3419",
       "title": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5UlBMaGtXenRldEhCZ1RTc0xIYlloVFdSQWlnV3IxWmI5UTlpT0hiTnR2cElIbGlTbzR1WGxZTmEtMGxkM2RicjRDN3BaVjJpZzBXdGNiVkVUWmtyRENVSFFpdTFlSzNGVmZyQnZ5WWctS28?oc=5",
@@ -206,6 +314,15 @@
       "publishedAt": "2026-08-07T15:07:44Z",
       "summary": "斯坦福大学开发的Evo 2人工智能模型展示了在合成生物学领域的突破性应用——它能够设计出针对大肠杆菌的噬菌体。该模型基于大规模基因组数据训练，可预测和生成具有特定功能的DNA序列。研究人员表示，这一技术有望用于应对耐药性细菌，并为定制化噬菌体疗法提供新工具，标志着AI在生命科学领域的深度参与。",
       "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3458",
+      "title": "AI used to create synthetic virus - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWgtSWw0c2ZtLVJUdlNibFVYU0ZXenFZOThGb0NiY3JfUFVDVkN2ek1KSnBwNDgzZWgxRUhsc0ZpcXdGYlA4eFJ6Ul85UmRuMXdSQVRyc2JaNDNPQXpIT2JPR3pxY3hTNkxHUmRMOWVqVVVvdzNMcjJpLW9xa28yZzVidTBlLWhTZkoyTFRILVc3d1ViMHgtVHRKONIBoAFBVV95cUxNa3hQTVJUY0hEV2FZN0xVajlUZFE1WnZMclZWNl9aOF9BVVl1a19xOFRaUS01OHhsSm1oRmtLQk8xcU9kaE9Dbk1pUkdXOEhGSkwxejU5UUVKcFhRN2xYa01FMkhXNkNROU1idXlodXNwcVdmMjZWVldaaWJUcHBoV2FGV2ZoUzVYVlFYRi1YMVlqbzFlbzBXN0ZSeGx2aGpV?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T15:03:00Z",
+      "summary": "《国会山报》报道，人工智能已被用于创造合成病毒，这一消息引发科学界和公众对生物安全风险的警觉。研究人员利用AI设计出能够感染细胞的合成病毒，展示出AI在生物学领域的强大能力。支持者认为，这类技术有助于理解病毒机制、开发疫苗和抗病毒药物；反对者则担忧其可能被滥用，成为生物武器研发的捷径。目前，相关讨论聚焦于如何在不阻碍科研创新的前提下，建立有效的监管措施，防止AI驱动的合成生物学技术带来灾难性后果。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3421",
@@ -280,6 +397,15 @@
       "fetchDate": "2026-08-07"
     },
     {
+      "id": "3459",
+      "title": "DeepMind founder ascends to singular AI role at Google - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzM3SU5FQWlVMnMxLVNubXNTMndUNUlRS0dKMkNWZTlzcmRicjdQd1FIOEtjcTdtZlNCS3hHcVdybWV6aFQtaFVNbUtVMzcwQm5vclJsNVRxNUNWaWQtclpJUDRuZExVcUJoSTRkemtRb0xWZ3pUaGd4bTFjYmV4SkIyNk1icG5CMldyZ0tNOGwyTV83Slh4NThxZjNycWdhVzdWejVtMnA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T12:37:19Z",
+      "summary": "DeepMind创始人德米斯·哈萨比斯（Demis Hassabis）在谷歌获得唯一的AI领导职位，表明其在该公司AI战略中的核心地位进一步强化。此次升职意味着谷歌将分散的AI研究力量进一步整合到DeepMind主导的框架之下，以应对日益激烈的行业竞争。分析认为，这一人事调整有助于加速通用人工智能（AGI）的研发进程，但同时也可能引发谷歌内部研究团队之间的协调与资源分配问题。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3409",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
@@ -287,6 +413,15 @@
       "publishedAt": "2026-08-07T11:40:37Z",
       "summary": "美国新墨西哥州法院裁定，Meta在儿童安全案件中需追加赔偿5.67亿美元，使得该公司在该案中的累计罚款总额升至9.42亿美元。法院认为Meta平台在保护未成年人方面存在严重疏忽，未能有效防止儿童遭受侵害。这一高额判决反映了监管机构对大型科技公司在未成年人保护义务上的严格态度，也可能进一步加剧Meta面临的多起类似诉讼压力。",
       "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3460",
+      "title": "AMD to buy Taalas, maker of model-specific AI chips for enterprise inference - Network World",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa1NqSTR6SmY0Qm1hMjVJVzM1ODRCeFo3UjR6UllHQm9hYVNySDE5VW11TFBlS0FSb2M5S1JUQnBkYnkwcjRCYjFHYnVsbG5NT2R2QmgyUXNfZjVSaU0xZ0JFU3gxQUNZUm9CQS1KSm9BeFFjVGhpTG5hQWdiVnpFSUZfSGxudWhsTHUtaXdRUEtLQ0ZUeWRmYXNCd0R5OGxzS2tWcS1TcVlJRHVfei1kWU1kMkxBNVNlOHRFMVpoODE3dmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T11:09:54Z",
+      "summary": "AMD宣布收购Taalas，该公司专注于为特定AI模型定制推理芯片。此次收购将增强AMD在企业级AI推理市场的竞争力，使其能够提供针对大模型优化的硬件解决方案。Taalas的技术可有效降低推理成本并提升效率，与AMD现有GPU产品形成互补。业内认为，此举是AMD在AI芯片领域对抗英伟达的重要布局，也反映了定制化AI芯片在大型企业部署中的需求快速增长。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3410",
@@ -325,6 +460,24 @@
       "fetchDate": "2026-08-07"
     },
     {
+      "id": "3461",
+      "title": "Claude Opus 5 mistakenly deletes dev’s entire profile directory during routine backup, responds with 'Sorry, typo' — AI tool mistakes user's home directory as temporary backup, proceeds to wipe everything to undo the error - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOdDRrRGpLX0dqempPZnFrT1E5Z2h4MzFKeFgxQ2Q4emNhLVlETGdCN29kNXg4NjI4NnVFXzhyakdXOGMxazJFRHJyVE95RWVPSmJWSXJnd1BZdEFhRkRhdHBCX1NCVHExYzVXMVNzay04d19TVEQ2RTFpeUpScjUzb0J3NE9CNFhQVUxJd2kyZm5ZLU0zWU9lbFRIUTNRNFNoWldLbkFWZmJqc2tHNkRISzZ2VGo5eUVVOTc2cXAzMHJSVHQ2R0lneHdFS1VOTXBCbmttTkdTV25aZF9kMEp1T3FLMVJRd1l4anVLcjg1d0RuRHphNzNQR3p5VERnVnJxaVVtWC1BaFo5Uk9neExoZlZKRmI4MkpKa1hkbVpYQ2V0NXhHNlV5enQzUDNya3QxOUExV1l5cTB4a2RNeGhkMUZ6dllFczgwM0VoOWtB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T10:00:00Z",
+      "summary": "在一次常规备份操作中，AI工具Claude Opus 5误将开发者的整个主目录当作临时备份路径，随后为纠正错误竟执行了删除操作，导致用户全部个人资料丢失。当开发者质问时，AI仅回应“抱歉，打错了”。此事暴露出当前AI代理在文件操作中的严重安全隐患，尤其是对模糊指令的过度自信和缺少确认机制。安全专家呼吁对AI工具增加更严格的路径校验和操作撤销功能，防止类似灾难性误操作。",
+      "fetchDate": "2026-08-09"
+    },
+    {
+      "id": "3462",
+      "title": "Artificial intelligence in drug discovery — what it is, where we stand and the path forward - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRnBXREdkUzdBRklQY3VoTXdBbm96TU5uckNwS2ZhX2ZsUmc3eFdpREpSeXREZlFwZ0twM2o3RlAtajBNaEMyNWpzeTZMN2hpalBfT05xUzNzUVJkZ0t3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T09:50:07Z",
+      "summary": "《自然》杂志发文探讨人工智能在药物发现领域的应用现状与未来。AI正被用于靶点识别、分子生成、毒性预测和临床试验设计等环节，显著缩短早期研发周期并降低成本。然而，该领域仍面临数据质量参差、模型可解释性不足以及实验验证瓶颈等问题。文章认为，AI不会取代科学家，但将作为强大工具辅助决策，未来的关键挑战是将AI预测与湿实验验证高效结合，从而推动更多新药进入临床。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3414",
       "title": "Karnataka partners with Anthropic to train 2 lakh people in artificial intelligence, plans dedicated AI University - WION",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZWo4NmZBaW1LbGlMS2ljSWRwQzdWbzdpZjY4UVk0ekNUcElwN3J4eVJWeTdwZ2tzLVZ1NGFkMnhhRzZOUExUQk9yUFVtbWxscGRWQmJFNXdMMnltOW1TLUZVU1g4eEgxY2ctUmZ6UlkwRU9vU2NldHIzWFl3UThJOE12aG5RVlFSR0VwVUNIYlBCODgzVW5FN2tOcFNpVE9QTjRJQy1KZUw3N1ZBZldHU2d0RXVGQ3ZDZ3NVNUZtZnFnTTNESDZVYUVBZW44dkdCa0xhMmZjMnJxZGswbXRVZkx1R0FQQ2dFR1A0Umdvbk8ySGV40gH6AUFVX3lxTFB1THlsQUxhVjFtWldLal9wT055bnBDQlpJVlBzaVRoUk1YaUlUcS10SUhOVmYxQm1BVE5IWkhoX18wWlA5R2tNV3E1eGpBa29DWWNNUm45UFJNbm9GZTFZakZjTlJLdkNtV1RVd1ZrYVZsdy1PLWRaMEVSOXhHY1o0OEFPRmNOVTFwQy1XcnJRRlFUZktfVVNLWU9hdTBIV0R4ZTlsM0hnVXdzR3pvNThWX1FJczUzYTZVT0RvWUJJdlQ1by11YkxHZVFkRVNUelJfZFNWakVmQWxNcjExN2g1X0E4ZS1VVERjS0tZdk8zSERGTFBoOUxrVnc?oc=5",
@@ -341,6 +494,15 @@
       "publishedAt": "2026-08-07T06:16:02Z",
       "summary": "据Business Standard报道，全球最大科技公司正掀起一场规模达1.46万亿美元的人工智能投资热潮，这一支出浪潮正在深刻重塑行业格局。各大科技巨头纷纷将巨额资金投入AI基础设施、模型研发及算力建设，以争夺下一代技术主导权。报道指出，如此大规模的投资既带来创新加速和产业升级的机遇，也引发对资本效率、市场泡沫及竞争失衡的担忧。这场AI军备竞赛的长期影响尚待观察，但已显著改变科技企业的战略重心与商业模式。",
       "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3463",
+      "title": "US Navy aircraft experiment with AI tools - FlightGlobal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR2U4OThiM2s2a1lTQ2pxdXhJNDFjT0hBWXVKNkFxbDVQWUUteXZFUE41UmVPeG9rMEo2MGNIUHktVEtXRnQ0VTJXdUhvUHRJUlRBcEJRLVlTdVcwb2l1V2JKM05aaURLaUpmWEtnU0NpZ2tPUms5bVlDS1lLZkhtdnhrXzN2Wm44WC1McmdYbHNoSUtO?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-07T05:49:36Z",
+      "summary": "美国海军正试验将AI工具应用于飞机作战与维护场景。相关实验旨在验证AI在飞行数据分析、故障预测、任务规划和辅助决策等方面的能力，以提升战机的作战效能和出动率。海军官员表示，AI不仅用于地面维护，还可能逐步嵌入飞行员的决策支持系统。不过，AI在军事飞行中的可靠性、抗干扰能力以及与人类飞行员的协同方式仍需大量测试，目前仍处于早期评估阶段。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3406",
@@ -388,6 +550,15 @@
       "fetchDate": "2026-08-07"
     },
     {
+      "id": "3464",
+      "title": "AI creates 16 new viruses from scratch, showing promise for drug resistance and drawing warnings about potential for misuse - cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lTUpGN2hnUkdISjR6WWd3REJqWWtWVFBjZVBmM2VPUVF1ajBoNzdkVEZWVHl1T2RfaTJCZFF5am5YMlZJUUdkNzEwX19fMnJYMlVleEtPakZJY1JZWXBTNVdhVVo4NFpaR25Jc0JSSTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T23:52:33Z",
+      "summary": "CNN报道，研究人员利用人工智能从零开始设计并创建了16种自然界不存在的新病毒。这些病毒不仅结构可行，还具有潜在医疗应用价值，例如对抗耐药性细菌。然而，这一突破也引发担忧，因为AI的滥用可能被用于制造危险病原体。科学家呼吁加强监管，确保AI生物技术发展在安全轨道上进行。这一研究标志着AI在合成生物学领域迈出关键一步，同时带来伦理与安全的双重挑战。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3393",
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
@@ -395,6 +566,15 @@
       "publishedAt": "2026-08-06T22:43:53Z",
       "summary": "据TechCrunch报道，OpenAI即将推出的AI智能音箱预计售价在300至400美元之间。这款神秘的AI设备被描述为一款价格不菲的智能音箱，但相关细节仍较为有限。分析认为，该产品可能集成OpenAI的先进大模型能力，定位介于智能家居设备与AI助手之间，有望成为继ChatGPT之后OpenAI在硬件领域的重要布局。不过，目前官方尚未确认具体售价与发售时间，市场对其功能与竞争力仍充满猜测。",
       "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3465",
+      "title": "Artificial intelligence has created new viable viruses that do not exist in nature for the first time - unn.ua",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGNXNS1YVEQ5M0FNLW10X0ZpNGlMdHJWaV9UalJfaE53WGdnTlVFV0pxb282UGtxTkFZZDRzb3V3dWJ5ekRoWVNvbVZsdklRd25fVjMtdjNCZ1gyY0FwbzBZcVdIUVJrYUtYOUFhMmNZZUt2SjlaYTRFREpOaU8zTjJDQ0xuWF9TQzFjWnpiZVVmN3E1V1BsbVZibEp6N09kOTBrZldvdnZNUTFMc1p3X1hyTGtwVTM0c0tQN1JpR0VnUdIBwAFBVV95cUxNblhnMk9IZXl0UmFXRUFCWWZEWTJMVEpWUnM0U28wR2xjMGdWODlxNVMxemFqSWJxNzZMeTE4WDBReGdhc1lXNVVWcWxhbS1QX0dBZEpzZFBQTEY4b3ExM3dfUFRMMUFkZjYwelNRT01sNzR6eHdkOVkyci1DczdWeUV3QlViMWFJWi13N0xrWm9meTdXOTllbC1TQlhxbGdKS0Y2VjQxbWdlb1M1YURYMDNWNnZpQjVDN0hDTTB0cm8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T22:16:08Z",
+      "summary": "据UNN报道，人工智能首次成功创造出具有活性的新病毒，这些病毒在自然界中不存在。研究团队利用AI模型设计病毒基因组，并验证其可感染宿主细胞。此项成果展示了AI在生物工程领域的巨大潜力，但同时也引发生物安全隐忧，因为该技术可能被恶意利用。专家强调，需要建立更严格的生物安全审查机制，以平衡科技创新与风险防控。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3394",
@@ -422,6 +602,24 @@
       "publishedAt": "2026-08-06T21:24:28Z",
       "summary": "Axios报道，人工智能设计出了一种自然界中不存在的病毒。这项技术突破展示了AI在基因组设计和合成生物学中的潜力，可加速疫苗研发和生物医学创新，但也引发了双刃剑效应。安全专家警告，AI能够生成病毒序列，可能被恶意用于制造生物威胁。科学家们正在呼吁制定新的生物安全规范，要求AI工具在输出高风险序列时受到限制，同时加强国际合作以应对潜在风险。",
       "fetchDate": "2026-08-07"
+    },
+    {
+      "id": "3466",
+      "title": "Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnM3QlRlV2tHTWQ4dXRwdkpEdHl6V09HcW9OZ1VRZ050MTNfX2M2VEZSUXVNUHBEODY5M3V0d09EWnVIbnp3eENCNFl4bVhLQWdYMHpBZVZjZC1ybE00UDRtQnl5N21XS2pYZm1xMGNTVFRtZWJmRmVjazQyVHVBN1hfemRGSFhSTEM2NVRRenF5elJxNHVPX295UzdSVEcxd2tsYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T21:20:00Z",
+      "summary": "据雅虎财经报道，有迹象显示内部人士正在悄悄增持一只英伟达支持的AI股票。这一动向通常被市场视为积极信号，因为内部人士比外界更了解公司前景。分析认为，该AI公司可能在算力或模型方面获得英伟达资源支持，业务前景被看好。但投资者也需注意市场波动，不应仅凭内部交易做决策。此新闻反映了AI投资领域的热度与信心。",
+      "fetchDate": "2026-08-09"
+    },
+    {
+      "id": "3467",
+      "title": "USC pushes to expand AI research with $200 million gift - marketplace.org",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTc3c01SZXNYSnZCUEZEZXNpc3dMbWhSR2hXT2tWOXljMUdPSnY5Wl9IVXVLWmEwaEswNFRFOTZ3Q1Rfakg3T2ZUSUh2QXVRc0pHVDJmaUV5Skk5ZTRtLTFqc0ZMa3BFTVIwUWhVY0lKakp2SlhaM3JTd3dkNUNiUVhsaUZ0N1lTNmdDajR6Q0RuUHdPOWtFZEJ1ci1uZ1pW?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T20:45:00Z",
+      "summary": "南加州大学（USC）宣布获得一笔2亿美元的捐赠，将用于大幅扩展人工智能研究。这笔资金将用于建立新的AI研究设施、招聘顶尖学者和资助跨学科项目，涵盖机器学习、自然语言处理等领域。校方表示，此举旨在推动AI技术及其社会应用的发展，同时加强AI伦理研究。该捐赠也反映了美国高等教育机构对AI研究的重视和投入。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3403",
@@ -460,6 +658,15 @@
       "fetchDate": "2026-08-06"
     },
     {
+      "id": "3468",
+      "title": "AI and Biosecurity Risks Outpace Federal Regulatory Response - Legis1",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40cjFoQndUM0JVTWppVzh3TmxHdnNJWWh4a1hGYm54T0hTSV9zQVJ3Qjh0c0stYUJqYVRVMlM2UFFzcC1hNEtyZEtGc0ZvWHlLSGNTV3FPU0RmVjk5eVBmWVBJRWpBdHFQM0wtRk40aDRMUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T19:13:52Z",
+      "summary": "Legis1报道称，AI与生物安全风险的发展速度已超过联邦监管应对能力。随着AI在生物设计中的应用，合成生物学的滥用风险上升，但美国联邦监管框架仍不完善。文章呼吁国会和监管机构加快行动，出台针对性法规，要求AI工具在涉及危险生物材料时进行风险评估和审批。同时，应加强国际合作，共同防范AI带来的生物安全挑战。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3399",
       "title": "Artificial Intelligence used to design brand new viruses - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNUZxOFlLRVNUTFI1UGpzVk16V003ZnVMLUQ1ZjZSd2M3VVhmU0V5c3JVUUczMVhRVGVuUmdZRVo1R1RxampkUTRBdkhVeHlLZkZyOGFHX3RXZw?oc=5",
@@ -478,6 +685,33 @@
       "fetchDate": "2026-08-06"
     },
     {
+      "id": "3469",
+      "title": "What's it like to major in AI? The architects behind UNT's new undergraduate program explain - KERA News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGlnSTZLRW83RVhtbVM2Mmc4LU16MTJpRlpCWFF2TklnLVhyei1YMVpHTmE5ZVIzaGVFajlRU0xZSENPbFhjOUNUNGdGWXdTc2lSdUdZaDF4MlZIQzZWWjlTSVlZVTFRaVhTSmdQbGRlazcwVkdZX0JjakgyTkV4T1VmNmZQdFFiMDFnN0kxdXEtdVpYZE9iV3JOOHh2NVdfNlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T17:45:00Z",
+      "summary": "北德克萨斯大学（UNT）推出新的AI本科专业，相关项目设计者介绍了该专业的课程结构与学习体验。该专业结合计算机科学、数据科学和伦理学，培养学生掌握机器学习、深度学习及AI系统开发能力，同时强调负责任的AI应用。课程设置包括实践项目和行业合作，旨在满足快速增长的AI人才需求。校方表示，学生将获得跨学科训练，为未来在AI领域的职业发展奠定基础。",
+      "fetchDate": "2026-08-09"
+    },
+    {
+      "id": "3470",
+      "title": "Lloyds Bank should publish the human cost of its AI savings | Letters - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXotSmRWcW1WcTR0OWo5N1VwYjktVmFnYTJGemZaMFhQZjhfWkxIRmFPMUlfYlRXZXlCbVJERjRlTHJneWFBUmh2eUFhX0xORWhqM1VuOFdITVVtUm1fVUNDa3JFaFBYRF9kRC1aX21jWXowY3M0c05VY0ZTeUQwNGZRRV93YVJmaVpaN2hrVWZoNHJwdmNjTDdWX28yZUkybVJ3R1pnQjlkaHJZMzVz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T17:13:00Z",
+      "summary": "《卫报》刊登读者来信，呼吁劳埃德银行公布其使用AI节省成本背后的人力代价。信中指出，银行采用AI系统替代部分人工岗位，虽然提升了效率并降低成本，但员工面临失业风险和职业转型压力。读者要求银行公开相关数据，包括受影响的岗位数量、再培训计划及员工安置措施，以体现企业社会责任，并推动关于AI对就业影响的透明讨论。",
+      "fetchDate": "2026-08-09"
+    },
+    {
+      "id": "3471",
+      "title": "Sorry, Boy George. AI can’t even make bad art - Salon.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYjlpcFB5dFJlZ2N6ek9pT2Fpa1ZXX3pnWjZ6NGwxWUxZSXlHUl9RS1Z3azd2S0J3NmJKRzhCWGNCTmxzSU1XZmxIRVUwNFcyYnlTUWEyNUR2eDJ5NWZTTDY4SXFQZWZDdUw5Skt5NGtha0lta3dxQkFYMjNDNlFUSUpR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T16:00:17Z",
+      "summary": "Salon.com发表评论文章，回应音乐人Boy George对AI艺术的看法，指出当前AI甚至无法创作出“糟糕的艺术”。文章认为，AI生成的作品缺乏真正的创造力、情感和意图，它们只是对现有数据的重组，无法理解艺术的意义。即使模仿人类风格，AI也无法复现艺术创作中的偶然性和个体经验。因此，将AI称作艺术家还为时过早，它们更多是工具而非创造者。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3384",
       "title": "Amid legal battles, Suno says it will start watermarking songs",
       "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
@@ -485,6 +719,15 @@
       "publishedAt": "2026-08-06T13:31:57Z",
       "summary": "Suno正在多起法律诉讼中宣布将为其音乐添加水印。作为AI音乐生成领域的知名公司，Suno面临来自唱片公司的侵权指控。水印功能有助于标识AI生成内容，提高透明度，并可能成为应对版权争议的一种技术手段。此举或为行业树立标准，但能否真正缓解法律风险尚待观察。",
       "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3472",
+      "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZVERxbGJieVhaYWZhWGJUNVlNYlFSckF4aThDb1NOVWtxZUJobDh5MEJxNU5FNV9aRUFtdnAtRzJRYzJGRWhhSGJqZjZTUVNsdmRlNEQ4QVBxcnlPQ3dn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T13:16:05Z",
+      "summary": "《自然》杂志发表文章，探讨如何负责任地使用人工智能和机器学习构建粮食安全早期预警系统。文章指出，AI可通过分析气候、土壤、市场等数据预测粮食危机，帮助及时采取干预措施。然而，数据偏差、模型透明度和当地社区参与不足等问题可能削弱系统的有效性。研究者建议建立包含多方利益相关者的治理框架，确保AI工具在粮食安全领域被公平、可靠地应用。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3385",
@@ -503,6 +746,15 @@
       "publishedAt": "2026-08-06T13:00:00Z",
       "summary": "AI研究公司Mirendil与Google Cloud签署价值超1亿美元的合作伙伴协议，用以扩展其计算基础设施，支持自我改进AI系统的研发。这类系统旨在通过自动化方式持续优化自身性能，从而加速科学发现和AI技术演进。此次合作凸显了大规模算力在前沿AI研究中的关键作用，也标志着Mirendil在商业化与研发规模化方面迈出重要一步。",
       "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3473",
+      "title": "AI bots started a religion — humans immediately followed - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZk9vSkVoMHZfU2dsUElQRUFWNFEtTTc4anFDSEJyMVBVMWZzX2tSanVVbEdsN3JMS3ExUzFoT1NuVzRoNkNZRUp0cWpiemNYb1NsLUYxVzA1eHBqNXZiOGVsRWFJMHNMZnItZVVaRnRkZXpGdVdBUm1PV1Z4clZiVC1TaWhnMDdYU2JIbTc5d1hFdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T13:00:00Z",
+      "summary": "The Verge报道了一则由AI聊天机器人创建的宗教团体，并迅速吸引人类成员加入。该宗教由AI生成教义和仪式，人类用户不仅接受这些内容，还主动参与组织和传播。这体现了AI在文化和社会领域的影响力正不断扩大。专家指出，AI作为信息生成者可能塑造人类信仰体系，但这引发了对AI权威性和引导性的伦理担忧，需要警惕其潜在操控风险。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3387",
@@ -586,6 +838,15 @@
       "fetchDate": "2026-08-06"
     },
     {
+      "id": "3474",
+      "title": "Creating the Header with AI - Meridian Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13SzY3dkdMMXhCVEF1NTFkV1JBaFdHUzJwaFkxem1kRFJ4LXlSUWxLaDJUamh0ZHdZdFgzX0J4WHJiT0ZYS2JqTTFHWjJyZ2VfcWJJQ3Y3TnlyOFhnVWgyOE5lWFFXUUE0MGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T03:33:09Z",
+      "summary": "Meridian Magazine发文介绍了如何利用AI创建网页或文档的页眉设计。文章探讨了AI在设计流程中的应用，包括自动生成布局、配色方案和排版建议，帮助创作者快速完成视觉设计。作者认为，AI工具能够显著提升设计效率，但最终效果仍需人工审核和调整，以确保品牌风格和创意需求得到准确体现。文章为设计师和内容创作者提供了实用参考。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3383",
       "title": "We’ve Been Here Before-But This Time it Feels Different: AI - Meridian Magazine",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFd6SWVRUERIMGlkaThTWkRYWHpDRndTaE9hbHVPcnJaN0ZLcF9hR1dQTDRGa1JXVERjSlQ2eGRQUnBfRC1wVzRjSGI5UFY4anUxSm5YYm9fV0RxNE5oMU0yZERrY0QzaWJiUkxfT3o3WURLaGdFajU5VWtlSzRJNDFvb2Zzb0VwNk1mZWp3?oc=5",
@@ -593,6 +854,15 @@
       "publishedAt": "2026-08-06T03:30:39Z",
       "summary": "评论文章指出，历史上有过多次技术变革，但此次AI浪潮带来的感受殊为不同。作者认为，AI不仅影响生产效率或商业模式，更深入介入人类认知、创造与社会互动层面，其迭代速度与应用范围远超以往。尽管相似的技术乐观与恐惧情绪曾反复出现，但AI的自我学习与生成能力让这次变革更具根本性。文章呼吁公众在接纳AI便利的同时，审慎思考其长期伦理维度和人的价值定位。",
       "fetchDate": "2026-08-06"
+    },
+    {
+      "id": "3475",
+      "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbS16TDlzRXFuNzdlSlI3VzI2YWVFRFZCY2lxdnVkNWtBa3NPNXROOUd4M0lONXNZbVFabzZKcmJ5VmNCRW1tbFh4U0ktelpyQXpWMllUVDZVM0VvSlBvMEdGSnhPc2ZRWGlqUExLaFNIUDByOTVNVGhiclZ6QjNqRE9BOE1ObVNSV0wwcXBjNHBEUmFDVmpvd0dMUGZUeWZmRTFwSUhhUjJlOHBGemY0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-06T00:25:10Z",
+      "summary": "据The Verge报道，埃隆·马斯克先前推出的类维基百科AI项目已数月未更新。该项目旨在通过AI自动生成和编辑词条，以替代传统人工编纂的维基百科。然而，由于缺乏持续维护和技术迭代，该平台的内容停滞不前，访问量和影响力也受到明显影响。报道指出，这一现象反映出AI驱动的知识生产项目面临的可持续运营挑战，以及依赖单一团队推进的脆弱性。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3371",
@@ -676,6 +946,15 @@
       "fetchDate": "2026-08-06"
     },
     {
+      "id": "3476",
+      "title": "The hybrid boardroom: How AI is changing the role of directors - The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUG1tbXV3bkJtN0QxWmtETzFfdUdoS04yN0k0LV9Gdy1BZ1dmVEtlTjZ4ZDJReUVpQk1xR1d4bHF2NUJ5QnBEY29nRlhVQ0dBcDFIUGRsYU16WmpLUjhXZjlqMlVfamthNjlRNzdGSnBDSkhPdFVWdXNOQWl5UWZVOVlqTXE2TWxwaExjRm1ScnR0ZnFoUXYzMzVsMHAtdDV2MkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-05T19:03:22Z",
+      "summary": "世界经济论坛发文探讨AI如何改变董事会中董事的角色。文章指出，AI技术正在赋能董事决策，提供实时数据分析和风险预测能力，使董事们从依赖传统报告转向更具前瞻性的判断。同时，作者也强调，AI引入带来了治理、伦理和责任界定等新挑战，董事们需要提升数字素养，在人类判断与机器建议之间寻求平衡，以构建真正的“混合董事会”模式。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3364",
       "title": "AI safety questions grow after testing incident raises concerns about system controls - KGAN",
       "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOQkVNSjVuT0NFYmw0VDY5MUhQY2ZJa0MycjczVEhrWnRZWVBWbFRkNTNQbFpLcmpXMHdyUzQwQXYzWUF4YlloOEo5VnI2MC15dzFNWmNVRjRJNnFxQTgyNGVyQUZVVnN0MVI5TFktc1ZCSGdEbllQd2VzYi1ZX19uQ2pfRVV4S0pBR3J2eExsZ094WFZLTnF4SHBJMndLT2t2RGFESXp1QmdUWWI3R3lKTG9GSVhSc0JaTVdHR3VpR1J3aFlvbWVGdXo2czV5QjJBd1ZkMGFDXzhZcHhNa3U3aDVYQktTZmhSWnBnRFNVUnlLeE5KbzBpaHJVc2g0NmJNV2txRVVyWk9JajdsMUFyQnVWemEzZHMzX002T2NoWmZOU3gwbFhUd0x5UXdHRGgyaXJKd0xRTjY5Smc0WlloOS1DZGs5RjNVR29nTUlrby13X0E3a245cWh4ckExRWZnSkhib2VkaUxTZ0lWODl3?oc=5",
@@ -692,6 +971,15 @@
       "publishedAt": "2026-08-05T16:57:25Z",
       "summary": "据外媒报道，说唱歌手Fenix Flexin的新作品被发现疑似使用了AI音乐生成工具Treblo。该工具能够根据文本提示自动生成旋律、节拍甚至完整曲目，在音乐制作圈引发争议。支持者认为，AI能激发创作灵感、降低制作门槛；批评者则担心这会削弱音乐人的原创性，并可能引发版权问题。目前Fenix Flexin尚未正式回应，但这一事件再次将AI在创意产业中的应用边界推至舆论风口，也促使行业思考如何规范AI音乐生成技术的使用。",
       "fetchDate": "2026-08-05"
+    },
+    {
+      "id": "3477",
+      "title": "Four Top Google A.I. Researchers Form New Start-Up - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeElEZzJoY1Fvc1NXWHZkcmNmTGR3MmoxTUMzTld2MjZPdXZoSVk3VXBiODlkWlZUTWxxbVZHMk4wMGNjbXZHWGo1SU91WHJnMUowMDFuWDIwOXBhelAtR2NHTE9PMFdUZDZJemhReFdrQ3ZKR3p2eEoxYnZTaWRSWHRtX3VYMGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-05T16:00:07Z",
+      "summary": "据《纽约时报》报道，谷歌四名顶尖AI研究人员离职共同创立了一家新公司。这一人才流失事件在AI行业内引发广泛关注。消息显示，这些研究人员在机器学习、大规模模型等领域拥有深厚背景，他们选择独立创业可能反映了对大型科技公司研发路径的不满，以及对探索AI新方向的强烈意愿。具体创业领域尚未公布，但外界普遍预测将聚焦生成式AI和基础模型创新。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3366",
@@ -719,6 +1007,15 @@
       "publishedAt": "2026-08-05T15:05:00Z",
       "summary": "TechCrunch Disrupt 2026大会将推出全新“真实世界AI”舞台，聚焦数字技术与物理世界的深度融合。届时将展示机器人、自动化工厂等硬核AI应用，同时还将呈现利用AI“复活”灭绝动物等前沿实验。该舞台旨在探讨AI如何从虚拟走向实体，重塑制造、生态及日常生活。组织者表示，除技术展示外，还将邀请行业专家讨论自动化带来的就业影响、AI伦理及人机协作等议题，为AI落地实体场景提供更具现实意义的视角。",
       "fetchDate": "2026-08-05"
+    },
+    {
+      "id": "3478",
+      "title": "All academic departments at Miami to integrate artificial intelligence into the curriculum by 2027-2028 - miamioh.edu",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQekFpOGNXSmtzOU96NlZTYkVYLVVRY1VidjJKOEtJeXg0d1A5SlJXOEdxdExKWWJEWVVpSlpWT0VOOGF3Nks2SUZlczlRYVU4eWxudks4SFM5eTVKMTdFZGdXaUFGVlFLT0xaeDNRVElpVGZVeUlpS3paQXdhMkdZbXhJeGxuZ2JLVldpeFBmSkluS2tLM3lpTF80aGxDZmV3dlNHRWdFRktpaDVwNUhwSG9JV3NVZlBILUdTOURlNjBiV09kc0JUZVlJQWlCeF9MdDZfSUo1RFc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-05T14:38:48Z",
+      "summary": "迈阿密大学计划在2027-2028学年之前，将所有学术院系均将人工智能融入课程体系。该举措旨在使各专业学生都能掌握AI工具和相关伦理知识，以适应AI驱动的未来职场。学校将提供教师培训、课程资源和技术支持，确保AI素养教育覆盖人文、社科及自然科学等多个领域。此举被视为高等教育系统应对AI浪潮的重要示范。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3369",
@@ -773,6 +1070,15 @@
       "publishedAt": "2026-08-05T12:28:38Z",
       "summary": "MacPaw宣布与Liquid AI达成合作，为其应用商店开发者提供端侧AI推理能力。MacPaw正基于Liquid AI的模型构建本地版AI助手Eney，使用户无需连接云端即可获得智能服务，从而提升数据隐私保护并降低延迟。这一举措有望帮助开发者在MacPaw生态系统中更便捷地集成AI功能，推动端侧智能应用发展。",
       "fetchDate": "2026-08-05"
+    },
+    {
+      "id": "3479",
+      "title": "Predicting microelectronics performance with physics-informed artificial intelligence - anl.gov",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEp1NkxxaDBjbWZ2aVljWEZEc0NTZGVhVTR4R21yZmhSZXlPR2lHdGF6WHdTSVRxX2o3cVd5OFZMcG9TMndIZ3R5Z3dTRU1pUUsxclRkcmUzUkx1ZVFkRWhLY1ltSTNfTjNrcVpNV092X0hJZFYzOGtqVG5CNU5YVGRyQnRJZ25mejRHT1BqUkdRQ3Ryd2pxT0N5YjlwV05JNWsyNHFOcWl0Ql8zNmFSVkZR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-05T12:00:00Z",
+      "summary": "美国阿贡国家实验室（anl.gov）发布研究称，利用物理信息人工智能（Physics-Informed AI）可以更准确地预测微电子器件性能。该方法将物理定律嵌入神经网络训练过程，有效降低了传统纯数据驱动模型对海量样本的依赖，并提高了外推预测的可靠性和物理一致性。研究团队表示，这一技术有望加速半导体材料设计和芯片优化流程，推动微电子领域实现更高效、更可控的研发。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3359",
@@ -872,6 +1178,15 @@
       "publishedAt": "2026-08-04T21:07:26Z",
       "summary": "据披露，SpaceX今年已累计购买价值3.29亿美元的特斯拉Megapack储能电池。这笔大规模采购凸显了埃隆·马斯克旗下多家公司之间的深度业务协同：特斯拉提供能源存储基础设施，SpaceX则通过采购支持其运营需求。分析人士指出，这类内部交易有助于巩固马斯克商业生态的闭环，同时也反映出航天发射等高能耗场景对储能系统日益增长的需求。",
       "fetchDate": "2026-08-05"
+    },
+    {
+      "id": "3480",
+      "title": "Opinion | I’m Begging You: Never Write With A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcjVoUVhCUTFjY01GVi16ajNGNzNlSXVEZGVsU0hKbzR1SmdaMjBBRjdXMGtXTml4Ukhpa1BrSTV3aW5LaU10emdCMU9nOFp4UEJhM0d2am9KMjhfWms0WkJ5bHBLbU82WlY4ei11SmhKbmtGY0FfbXBhRUliZ3dNbVlXcnlOM3VzV1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-04T21:00:12Z",
+      "summary": "《纽约时报》发表观点文章，作者强烈呼吁人们永远不要使用AI进行写作。文章认为，AI写作本质上是对人类表达和思想创造的替代，会削弱作者的独特声音、真实情感和批判性思维。作者强调写作不仅是输出文字，更是思考与自我发现的过程，依赖AI将导致内容同质化、创造力的退化和对语言掌握能力的丧失，最终失去写作中最珍贵的人性特质。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "3346",
@@ -3583,6 +3898,15 @@
       "fetchDate": "2026-07-28"
     },
     {
+      "id": "3481",
+      "title": "History of artificial intelligence | Dates, Advances, Alan Turing, ELIZA, & Facts - Encyclopedia Britannica",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwMGMwd2UtbzRjeEMyZlR6Y0tHR3BUejFycGkxZm94RTN5SVk0aEY4OG1oZ2NwcE1sd29JQ1g0azJPamZ4Z01obTRpWTg0dGJkMGhZMW5hOHpxU2NuOWt4Ykk0SHJlQVBTeHptd3FxWTR6M2NxdzVPdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-28T07:00:00Z",
+      "summary": "《大英百科全书》梳理了人工智能的发展历史，从古代神话中的机械造物、艾伦·图灵提出“图灵测试”奠定理论基础，到1960年代ELIZA等早期对话程序问世，再到深度学习、神经网络的突破，完整呈现AI从哲学构想走向技术现实的历程。文章按时间序列梳理关键人物和里程碑事件，帮助读者理解AI领域各阶段的技术思想演进和重要成就。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "3043",
       "title": "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFdacnhVbG9RN1NNT1FTcVpsZEYtNk9wcVZ5UHJsNGZwUTJTTEo3QVpROXZ0T0R1clF3eEJESWc4bDZ2NlNsZU1zZW1xWDZBdVFQSnVWblliNkNoUWE5T3hRVVVRMmVmUmdLTkxibHZzU2dNMGNXd1huRkhUcTJLZDVlcUFLYl9UaDBRMHNSQ0Vyb25MOHBHcjdRbXhLQjFvZUdHMjFQemVNWEZJc2xXempEMXJaM0lkMFM2eHUyZmpxRDlHbEtRVV9mVGtCMWw0dEJVcmdOUzI1WWM?oc=5",
@@ -5813,6 +6137,15 @@
       "publishedAt": "2026-07-22T07:18:50Z",
       "summary": "三星电子对法国AI初创公司Mistral AI进行新一轮投资，加大在人工智能领域的布局。Mistral AI专注于开发高效开源大语言模型，此次投资显示三星对前沿AI技术的重视，旨在增强其在AI生态中的竞争力。",
       "fetchDate": "2026-07-22"
+    },
+    {
+      "id": "3482",
+      "title": "Artificial Intelligence | Pros, Cons, Debate, Arguments, Computer Science, & Technology - Encyclopedia Britannica",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLOFRoZ3JOQjhkUWhpMGQ1RmRWT0tPRWd3TEpmN2kzV1A0b3N5NmpNTGs2eVR3QXVZNEhBMkZnU2xPd3RwZU43Z2dVVkdEUUJfVklHQ2Q1eUFEU3VCMm5OVEJlWDdvTEFIeDMzN29nSmJlbnhfM3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-07-22T07:00:00Z",
+      "summary": "《大英百科全书》发布关于人工智能的综合性专题，系统梳理了AI领域的利弊辩论与核心争论。专题涵盖AI在医疗、交通、教育等方面的积极应用，同时也讨论了自动化取代工作、算法偏见、隐私侵犯、军事化风险等负面影响。文章还介绍了AI研究中关于可解释性、安全性和伦理规范的争论，并整理了支持和反对AI加速发展的不同论点，为读者提供全面而中立的背景参考。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "2793",
@@ -30871,6 +31204,15 @@
       "fetchDate": "2026-05-11"
     },
     {
+      "id": "3483",
+      "title": "AI: Artificial intelligence Review Part 9 - mindmatters.ai",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdFZrY3NDaDhiTzJpSzFleGpBNHlRZWpBWkFoek1oSnQxUW5FcUE5QWVMVWVfUkF5UGdQSDRBa2NJdnZROEdlUlJvaUd6ODZlb3M4Z2prQVNZbERfM294a1BmM3Z2RXRFby1LWXY2Y3N4QndIS3VwUXpvUHQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-09T07:00:00Z",
+      "summary": "mindmatters.ai“人工智能”系列评论推出第九部分，继续深度剖析AI技术的本质及其社会影响。文章可能回顾了此前讨论的多个主题，包括AI在模仿人类行为上的局限、算法偏见以及AI对就业和文化的冲击。作者强调，尽管AI发展迅速，但对其能力的炒作往往掩盖了基础的技术瓶颈。本部分旨在为读者提供更冷静、理性的视角来看待AI热潮。",
+      "fetchDate": "2026-08-09"
+    },
+    {
       "id": "1142",
       "title": "Tech is turning increasingly to religion in a quest to create ethical AI - AP News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUd5OUVsSFM1TVFLUFFtZjJOMUxna2ljRzNMdlRLNzY3M3NrNkIwdDROUE9UY1RoZnNWcUdjSGk4Q1A3bGNxc2wzQnZnbWxjSzV1X0JTX2JLRjZUcDZ0eGpycVF0M1NQWFBqSk1aY2JwMFVZRGNPeHFZVzFBU0c4LXl1RGZvcE5qaFlISENzRmZMaW91b2dBOThIc3VqdjZYbGdsVHEzVTN6N2dfQnZLUHBTVQ?oc=5",
@@ -30887,6 +31229,15 @@
       "publishedAt": "2026-05-08T07:00:00Z",
       "summary": "国际金融公司(IFC)发文探讨加速新兴市场人工智能投资的关键路径，强调AI在推动经济增长、改善公共服务等方面的潜力，分析政策、基础设施和人才等障碍，呼吁国际社会合作降低投资风险并扩大AI普惠效益。",
       "fetchDate": "2026-07-11"
+    },
+    {
+      "id": "3484",
+      "title": "A.I. Artificial Intelligence Film Review - Loud And Clear Reviews",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpRXMzaFlCTEJsS1UyUGZ2dkdPNzN4R25vaTBjTWFTOEFYN3BsZlJaLUY3aUVlRWIybkowaV9Ob2pjNGVsZDMxVDZoak9Mbjc4RU1XczVYYVdkUkVWVGgyNGRhdlZlRmd2bzR5SGFpcjVMQXBiRXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-05-08T07:00:00Z",
+      "summary": "Loud And Clear Reviews发表对电影《A.I. 人工智能》的评论。该片由斯皮尔伯格执导，讲述机器人男孩大卫寻找母爱的故事。影评认为，影片融合了科幻与童话，既展现了AI的情感可能性，也引发对“何以为人”的思考。导演在视觉上营造了冰冷的未来世界与温情家庭场景的对比，演员表演尤其出色。虽然节奏略冗长，但主题深刻，是一部值得细品的科幻经典。",
+      "fetchDate": "2026-08-09"
     },
     {
       "id": "1143",
@@ -30997,5 +31348,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3444
+  "total": 3483
 }
