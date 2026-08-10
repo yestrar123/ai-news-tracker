@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "3494",
+      "title": "Report explores risks and controls for artificial intelligence (AI) agents - Department of Industry Science and Resources",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbk5SQThaaElwaHZvTjlQZ0h6MDZfYXJBZF8wODVIMzEzUGlvVjhheFk1Z2ZUU2RUcFhPUFZvR1lkcVdLWjd0NW40OWw2M1I3ZEowNnpvQldTRm1xSkpKSU9uMzFWdXhWenhRNEtoV29kQUNQRVVWNWVaU19Qbm5GMEhPejRWZDBOR2l1MXExWmVIM2NoOTdELUc3dHgyRG5NbU04?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-10T00:32:30Z",
+      "summary": "澳大利亚工业、科学与资源部发布了一份关于人工智能（AI）代理风险与控制的报告。报告聚焦AI代理在自主决策过程中可能引发的安全、伦理及合规风险，并系统梳理了相应的控制框架与管理策略。该报告旨在为政府和企业提供参考，确保AI代理在应用过程中既能发挥效率优势，又能将潜在危害控制在可接受范围内，体现了监管层对AI治理的持续关注。",
+      "fetchDate": "2026-08-10"
+    },
+    {
+      "id": "3495",
+      "title": "Not Micron, Not Nvidia. This Artificial Intelligence (AI) Giant Could Be the Ultimate Winner of the AI Arms Race. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNk9namNJSG9jT2lubGotZkE4SjBMdFQzMzAtOWNNZm4wZ0EzLW9kMm56OFBEWEdmakdxWUwwZE8ySjJaR3p1VHJOVmVsclpLNmdTeXJfb1BHdXhKeld6RG5xaVN6d1BWeDBEbklweDNJQ3huem5aNEp0ZDctNzFEMHJR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-09T23:00:40Z",
+      "summary": "有分析文章指出，在人工智能竞争的白热化阶段，最大的赢家可能不是美光或英伟达，而是另一家AI巨头。文章认为，该巨头凭借其在云计算、软件生态和AI模型方面的综合布局，能够更全面地受益于AI浪潮，而不仅仅依赖硬件销售。这一观点挑战了市场对芯片股的过度聚焦，提示投资者关注端到端AI平台型企业的长期价值。",
+      "fetchDate": "2026-08-10"
+    },
+    {
+      "id": "3496",
+      "title": "What to do when your patient arrives with an AI self-diagnosis. - InSight+",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFJadGNwa1UySzdlX1RhamdEdEU4Z2traGRDcUtnQnhabmZQZFE3OUE2THQ3X3E1d3FLWlhMMms1OHA5V1hUQms5dzY2cEw3cllQQUV2SGRqQXlFcmYyZTM2WVM1STNJcy11YU5jZHVaZ010a3VrQmNTUFlqOU5uWkNPNHBrT292SVBmWUhnOElXX3Y1?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-09T22:07:30Z",
+      "summary": "针对越来越多患者带着AI自我诊断结果就医的现象，医学媒体InSight+刊文为临床医生提供应对建议。文章指出，医生应以开放但审慎的态度对待患者的AI诊断，既不盲目否定，也不照单全收。重要的是将AI输出作为沟通契机，结合专业检查明确诊断，同时教育患者理解AI工具的局限性，避免误诊风险。",
+      "fetchDate": "2026-08-10"
+    },
+    {
+      "id": "3497",
+      "title": "Artificial intelligence (AI) is past the deepest bottom of the 'productivity J curve'. It's at the - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wSWg5VEd5TUlsSnAwZDlpOHRLeVpZeW42enpFU20xaGhKbWdBeWxaeGdUVFhkdEJwbGlTa1JfYVNvdEVyWjdWbFRhM1VGbzA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-09T21:59:53Z",
+      "summary": "媒体分析认为，人工智能对生产率的影响已越过“J曲线”的最深谷底，正处于回升阶段。这一观点指出，AI技术早期因导入成本、流程调整和组织学习等因素，反而可能拖累短期产出，但当前多项指标显示拐点已至。随着技术成熟与部署深化，AI对生产率的正向拉动将逐步显现，后续增长值得期待。",
+      "fetchDate": "2026-08-10"
+    },
+    {
+      "id": "3498",
+      "title": "Today, artificial intelligence (AI) needed a whole new kind of computer and a whole new kind of mem.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pbnJ5azR4OGQwVDdMbzRrSldtWm9xcG1YYkplRXBJcm1HNnlSV2V0YjhUb2ZMR0gzWWRhS3hNMU9neUhtWTRSMWg4NA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-09T21:59:33Z",
+      "summary": "文章强调，今天的人工智能需要全新类型的计算机和存储架构。随着模型规模与复杂度的攀升，传统冯·诺依曼架构和现有内存技术已难以满足AI训练与推理的需求。业界正在探索类脑计算、存内计算、高带宽内存等创新方案，以适应AI时代对算力和能效的极高要求，这将推动芯片与基础设施的范式变革。",
+      "fetchDate": "2026-08-10"
+    },
+    {
+      "id": "3499",
+      "title": "The global artificial intelligence (AI) and semiconductor markets are going through unprecedented vo.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xb1QtMEFUZXV4c3BhRlI5U0EwVWoxWjhqLTlUSDVtakZTd0t0TU5yWHA4WGlHdlBlclc2WG1ZbFFKSGx2Z2VBejZoSElIUms?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-09T20:47:54Z",
+      "summary": "报道指出，全球人工智能与半导体市场正经历前所未有的波动。地缘政治、产业链重构、需求变化和创新节奏交织，导致芯片供需失衡和股价剧烈震荡。分析人士认为，这一阶段既充满不确定性，也孕育着重新洗牌的机会，市场参与者需更重视供应链韧性和技术路线选择，以应对剧烈波动带来的挑战。",
+      "fetchDate": "2026-08-10"
+    },
+    {
+      "id": "3500",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T20:35:17Z",
+      "summary": "陷入困境的对冲基金Situational Awareness宣布向芯片初创公司Source Foundry投资4亿美元。尽管该基金近期遭遇压力，但仍选择在AI基础设施领域下重注。这笔资金将支持Source Foundry开发新型芯片技术，反映出部分投资机构坚定看好AI硬件底层创新，愿意在逆势中布局长期机会。",
+      "fetchDate": "2026-08-10"
+    },
+    {
+      "id": "3501",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T19:20:32Z",
+      "summary": "Anthropic公司宣布将Claude Code的自动模式（auto mode）设为默认选项。这意味着在编程场景下，AI助手将在更少的用户监督下自主完成更多编码任务。此举旨在提升开发效率，但也引发关于代码安全、人工审核必要性的讨论。Anthropic表示将继续优化模型，确保自动模式在提升生产力的同时保持可控可靠。",
+      "fetchDate": "2026-08-10"
+    },
+    {
       "id": "3490",
       "title": "Saudi Arabia’s Use of AI Tools Surges to 45.2%, More Than Doubling in a Year - ASHARQ AL-AWSAT English",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSng2TTA3Rld5SXJZZnFPdTlPZ2Jhem0yOVRFaEZJdTk5Q01qNDV6NW1pdTBaY2FTUllFUExMV21mMnF0bjl5WHhLQmNkVWdTaFNKdl9iRDJGb0NhNm9vVUlKN2Y1LXBZdWt3bXpjVmE5UXlOVlh1cUFqMGF4OVdTdFFwVExoQjJQci1BZTB6NHctdWdpNjRScHdvM1AzSmdmal8tQmpRY3FOVWI3NkZzOQ?oc=5",
@@ -31429,5 +31501,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3492
+  "total": 3500
 }
