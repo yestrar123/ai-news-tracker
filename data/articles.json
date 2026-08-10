@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "3502",
+      "title": "AI data centres' volatile power demand strains equipment, threatens grids - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMjlVb19sNGNFMUhRemE1RTE3c0ZPSDJVcXZ4RzQ1OFRDSFdvWEUtVnNWX0Q0LUN4RUhwNndhRnppWUcyNV9QVkRNN01zbXVWeG9ZSDctalFIc1cyLVVBaDFDODB5RnNQZzliRF96bUVtbFBmMEtRd01zdW9vb2IyQVVRMnd4Uk1HU1p4Z2pUcW02N0Fqd3YyWHlkY0pTS3Bzd0o1SVYwallNamJ1NEhUQm4xTXplZDJnaWNLSjBlRGZzWlJkLTFjeWNPRjlWMEJFRFpUeFd5anhRbDNRSE9JYnMta1RCR0FFcjZqME9nTGZ3QdIB9wFBVV95cUxOSkxjOUM1Tm42M0tnT0NONlprVDZxY2wxcVNKS0hTemhkcG00LW95akpRSklGY011bmpQYnJrWlY0SGxnbFQ3VG5PVW9aeV9ScmRYQTUxSnB4ZUlfWHJPN2huaVNCVlR3ZHdNYmpTWk9rZE1pMUJsMF9laTZmZWpWZkJUZjlaaDFaSlFyZUtlREhldDNrb0JYQ3hQQVRpSG1yQ3dRMEg3SDFBbTg5VGRuNURfWVVPLU1KYktsSUFielhpR0F4eXZpVUxvT2VZeWtESVdsRGo3dy1hZVJRdmFzLWM1WjVrMEZIaHViWncwaTZndi0xX2FR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-10T03:17:32Z",
+      "summary": "据Business Standard报道，AI数据中心的电力需求具有高度波动性，对电网和电力设备构成严峻挑战。AI训练和推理任务导致用电量急剧起伏，远超传统数据中心的稳定负载模式，可能引发电网频率波动、变压器过热等问题。研究指出，这种不稳定的电力需求威胁电网稳定，并加速设备老化，需要改进电网基础设施和能耗管理策略，以适应AI时代的新用电特征。",
+      "fetchDate": "2026-08-10"
+    },
+    {
+      "id": "3503",
+      "title": "LASU don to examine AI’s impact on human thought - Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YNkpuZXRxakJob1ZDaVh4aDV3WXpadVNrc0RxTURoNExBTGlDdW5rMUFlR0tCektGSmdXdmhLcHBERnRsaTVFN2pCQk12Rlh4dl8tWEtaOW1KRmRBSExRNm5fT1V0WENxVEVaSnpHSmlrVlRiMm5n?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-10T01:33:56Z",
+      "summary": "尼日利亚拉各斯州立大学（LASU）的一位学者计划开展一项研究，深入探讨人工智能对人类思维的影响。该研究旨在分析AI技术如何改变人们的认知过程、决策方式以及创造性思维，可能涉及AI依赖、信息获取习惯的变化等议题。此举反映了学术界对AI在认知层面潜在影响的关注，并希望通过系统性研究为教育、伦理和社会政策提供参考。",
+      "fetchDate": "2026-08-10"
+    },
+    {
       "id": "3494",
       "title": "Report explores risks and controls for artificial intelligence (AI) agents - Department of Industry Science and Resources",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbk5SQThaaElwaHZvTjlQZ0h6MDZfYXJBZF8wODVIMzEzUGlvVjhheFk1Z2ZUU2RUcFhPUFZvR1lkcVdLWjd0NW40OWw2M1I3ZEowNnpvQldTRm1xSkpKSU9uMzFWdXhWenhRNEtoV29kQUNQRVVWNWVaU19Qbm5GMEhPejRWZDBOR2l1MXExWmVIM2NoOTdELUc3dHgyRG5NbU04?oc=5",
@@ -31501,5 +31519,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3500
+  "total": 3502
 }
