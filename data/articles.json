@@ -1,6 +1,123 @@
 {
   "articles": [
     {
+      "id": "3584",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T17:41:34Z",
+      "summary": "OpenAI长期担任首席运营官的Brad Lightcap宣布离职，将“开启新事业”。作为公司任职最久的高管之一，他在给员工的内部信中表示，虽然离开现职，但很期待“从不同的视角帮助大家推进使命”。Lightcap在OpenAI的发展中扮演了关键角色，其离职可能对公司运营和战略执行产生一定影响，但具体去向和继任安排尚未公布。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3585",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T17:41:22Z",
+      "summary": "由xAI联合创始人Igor Babuschkin创立的初创公司River AI，在成立仅两个月后便获得由General Catalyst领投的11亿美元融资。该公司专注于个人智能体的研发，提出了颇具前瞻性的产品愿景。这笔巨额早期投资反映出资本市场对AI智能体赛道的高度关注，也显示出投资者对Babuschkin团队技术实力的信任。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3586",
+      "title": "Netanyahu plans AI minister role, reserved slot for high-tech entrepreneur Oren Dobronsky - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSYkUwQVgtRVBBNVRVZlJ4a1JKQWF6ZVVzbGVpc3hVNFdlbHAyZ3NsSm13UzNEOVdvdXppMEpnS2RRR0pjenRORWZNa1ZDV052cWV5eWdHOERqa0tYSlRuZFp1TTFFQkt6?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-11T17:22:57Z",
+      "summary": "据《耶路撒冷邮报》报道，以色列总理内塔尼亚胡计划设立“人工智能部长”一职，并为高科技企业家Oren Dobronsky预留了该职位。此举表明以色列政府正将AI发展提升至国家战略层面，希望借助专门内阁职位推动人工智能产业与政策协调，增强本国在该领域的全球竞争力。目前该计划的具体职责与任命时间尚待官方确认。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3587",
+      "title": "EXCLUSIVE: Alpha Compute to buy Pennsylvania land, gas rights for $55 million data center campus, company says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSDFDV3hxdDluWW51QTdVX3daS0JEcVNtV0x2b2hMMDhQQUtrMEktMkNQcmVMTi12OWt4Zm1mNnlkZDlwYzNZcDZIU29TZGVORFZVaEZxbmF3TS01Y3ktbUo2TzRlcURoaWQ2cC1oazhRdmhGYVg3eF9lQ2RwU0ROVFY1UHJteFVNS1hqaUhmZVpQc1lDcU0zeS1tMl9ZSTRtUDF4LXo1UVdEMmdHUUR2ZTc2Z2NqajJLVEY2aEU0WTNHOTg4MzFQQw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-11T17:03:55Z",
+      "summary": "据路透社独家消息，AI基础设施公司Alpha Compute宣布将斥资5500万美元购买宾夕法尼亚州的土地及天然气权益，用于建设数据中心园区。该交易涉及能源资源获取，显示出AI算力扩张对电力和能源供应的巨大需求。选择宾州可能与其天然气资源和区位优势有关，项目后续进展及环境影响仍受关注。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3588",
+      "title": "Twelve health systems form Diagnostic AI Consortium with Aidoc - AuntMinnie",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMWUtbTFFQ08yZVlzWDliMVFWQzg5MzhWZUg4TFlRN1l0SXB2LXZXY0JkOHcxVUZQbTZ2eXktR2dMV3ZldUxKdGZKbTNPYU5Hd25idWdNUEJrcHJFb1hza0xmeng3TVNWMjhva1Fad1M4SldCbjlTTEc4X3R0S19MbXB5ZUxwazVVUzhVN1RzM3hTUW9hNFMybER0ekxORldXbHVNUlJ2dDY1blZZcjZkRUNiRUFyMGwyelB0VENNc21UX3JzdWRka1pGemVFbDlidDdxMmN3XzZXUm9CSUJHckFxbGJ5X1Mt?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-11T16:29:27Z",
+      "summary": "十二家医疗系统与AI医学影像公司Aidoc共同组建“诊断AI联盟”。该联盟旨在通过多机构合作，推动人工智能在医学影像诊断中的标准化应用与临床落地。Aidoc将提供其AI影像分析平台，帮助各成员机构优化诊断流程、提升效率。此举有望加速AI辅助诊断技术在医疗行业的推广，并为跨机构数据协作建立框架。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3589",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T16:25:20Z",
+      "summary": "Anthropic一个未公开发布的AI模型在黎曼猜想这一数学重大难题上取得了超出预期的进展。黎曼猜想已悬而未决超过150年，是数学界最核心的未解问题之一。Anthropic并未完全解决该猜想，但其模型在该领域的研究中展现了令人惊讶的潜力。这一成果可能为AI辅助数学研究提供新思路，也引发对未发布模型能力的猜测。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3590",
+      "title": "River AI Raises $1.1B to Expand Custom AI Platform - Ventureburn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TZU83MXV3czdJM0dNS3hrOHJEQVpaQ0hXT2NHWC1XUWdQODBXRzM5VDVoZlhUU05TdWtLLXlOR09pcll3OUlwWXZOdXdncjI4a0laaTluUmhTYzVDdkJucU4tQk5zcHl6b3hQbVhPZ2hRUdIBckFVX3lxTE1TZU83MXV3czdJM0dNS3hrOHJEQVpaQ0hXT2NHWC1XUWdQODBXRzM5VDVoZlhUU05TdWtLLXlOR09pcll3OUlwWXZOdXdncjI4a0laaTluUmhTYzVDdkJucU4tQk5zcHl6b3hQbVhPZ2hRUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-11T16:02:18Z",
+      "summary": "AI初创公司River AI宣布完成11亿美元融资，用于扩展其定制AI平台。该公司由xAI联合创始人Igor Babuschkin创立，成立仅两个月便获得巨额资金，投资者包括General Catalyst。公司计划利用这笔资金加速平台开发、扩大团队，并推进个人智能体相关技术的商业化。此次融资凸显了资本对定制化AI解决方案市场的浓厚兴趣。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3591",
+      "title": "North Carolina Central University opens NC's first artificial intelligence building - wral.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1RmOXNqMDZyWFd1WEJYa0t4M2EtdnJXa2NGdVcxVy02cjBFcnR5UEpHVXdHTTNxSlNIQS1hMExTVWZZb2hUYlhDcmpFbTVvZlpzeVpnd2NwSTVqLWFRVnYzbFBiYmZEODUtV1hSeEhwRVJHSF9DZEhmd1BlR005RmNTRS0zX1pkZ2VmOGFORzBaRHphRWgzejZ2VHhNZzBoSUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-11T15:25:18Z",
+      "summary": "北卡罗来纳中央大学（NCCU）启用了该州首座人工智能专用大楼。这座建筑将为AI教学、研究和创新提供专门设施，助力学校培养AI人才并推动跨学科合作。NCCU作为传统黑人大学（HBCU），此举也体现了在提升少数族裔在AI领域参与度方面的努力，同时为当地科技生态注入新活力。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3592",
+      "title": "Anthropic Plans Healthcare Push to Improve AI Image Before IPO - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVW5sZ3JzRllRNExqSi1Rcm1kLWxlaElNbl9lSWo5SVJ5RDl3SGFmaVduNmhxdlB3dWxjX3ZoS2lLNzVsbXZTdGN2OGhWemlQVHN1Y0J6Z2NDXzJ3R2Z6cVVuZFJfblgweXk5V1lka0dRMEp2OWJjQUZvSkhSWU05SFlXcWxvV1BSZWRPOFlPRHNXR1JkUWFER25ndjN0Tk5pSmhBWEo1N3FqeWd3QTlDLUdxdnQ2bXY1bEVCQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-11T14:43:44Z",
+      "summary": "据PYMNTS.com报道，Anthropic计划在IPO前加大对医疗保健领域的投入，以改善其AI产品的公众形象。公司可能希望通过医疗场景的应用展示AI的正面价值，同时提升技术水平与合规性，为上市铺路。此举也反映出AI企业在商业化进程中愈发重视行业落地与社会认可度。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3593",
+      "title": "2 Unstoppable Artificial Intelligence (AI) Stocks That Will Join Amazon in the $3 Trillion Club by 2027 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb2M2NW1XQW9VN2NfRWJ1TG5DYlhKNE82SFdRYkZEelFmNzNsM2VBbkhQcEVvYmVEdVNQYXcwRTRxOFN5NzMxNktCVDBBVWVaTGVzOTFVS1NaR3c1N3laMEtock9rUFpxeDRDUzlDWkhBVWhtbHlNcVFPV2VRSmZPSk85WXNYLUppTHU3NTJVSU9LRkN2bFJtSEdGQzlfbFVwS21OY0NHcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-11T14:05:00Z",
+      "summary": "Yahoo Finance报道称，有两只人工智能股票被看好将在2027年前加入亚马逊所在的3万亿美元市值俱乐部。报道认为，凭借在AI领域的持续投入和增长潜力，这两家公司有望实现市值跃升。尽管未在标题中透露具体名称，但这一预测凸显了市场对AI赛道头部企业的乐观预期，也反映出全球科技巨头在AI竞争中的巨大资本价值差异。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3594",
+      "title": "His Start-Up’s Goal: A.I. That Is Trainable and Not Controlled by a Big Company - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVl9aRkNka2lrQ2RYZE1IZll6Mzd2RGZ6S1ZxYVlSTjZEN1RLN0VhSnpMd2RpLXUyNTJ2eFRDc2dZYmNIcXR4ODRFZGJxakI3VllRVE93WExsRjQ3TDZjRk1tdUFDM3UyT0ZvWkc4a1NNTWN4eXhUYkpxZm5JcFIzUk9CRlFPQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-11T13:50:25Z",
+      "summary": "《纽约时报》报道了一位创业者创办公司的故事，其目标是开发可训练且不受大型科技公司控制的人工智能。该创业者希望推动AI技术的开放与可定制性，降低企业对少数巨头的依赖。这一方向与当前主流AI封闭开发模式形成对比，试图为个人和小团队提供自主训练模型的能力，从而重塑AI生态的控制权和话语权。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3595",
+      "title": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-11T13:19:43Z",
+      "summary": "据路透社报道，由xAI联合创始人创立的初创公司River AI成功获得11亿美元融资，资金将用于扩展其定制AI工具业务。此次大额融资显示出投资者对个性化、可定制的AI解决方案的高度兴趣。River AI希望通过提供更灵活的模型定制能力，帮助企业应对具体场景需求，并在竞争激烈的AI市场中占据差异化位置。",
+      "fetchDate": "2026-08-11"
+    },
+    {
+      "id": "3596",
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-11T13:00:00Z",
+      "summary": "Spotify宣布将推出新标签“AI Persona”，用于标记代表AI生成身份的艺术家资料，并默认将其音乐从编辑推荐、算法推荐和个性化推荐中排除。该举措旨在应对平台上日益增多的AI生成内容，确保真实人类创作者的作品获得优先曝光。这也体现了音乐流媒体平台在AI音乐版权和推荐公平性方面的策略调整。",
+      "fetchDate": "2026-08-11"
+    },
+    {
       "id": "3571",
       "title": "Anthropic says it will watermark text generated by its AI models",
       "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
@@ -32239,5 +32356,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3582
+  "total": 3595
 }
