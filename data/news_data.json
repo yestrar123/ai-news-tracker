@@ -1,41 +1,55 @@
 {
-  "updatedAt": "2026-08-12 03:56:46 UTC",
-  "totalArticles": 5,
+  "updatedAt": "2026-08-12 07:06:04 UTC",
+  "totalArticles": 7,
   "articles": [
+    {
+      "title": "Foreign media reported that after the artificial intelligence (AI) sell-off that dragged down the gl.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EdGFreFk2Y1QtWU1VTTVhR1dTZGkxcW1PakNGb2NpaTRmRXZRZ0RqRVAyQVlXYVRra1hyUjREWGFoSXlVVUhIdW1KbU9rWnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T04:52:15Z",
+      "summary": "外媒报道，人工智能（AI）相关股票的抛售潮拖累全球市场。近期，AI概念股遭遇大幅回调，引发投资者对科技板块估值过高的担忧。分析人士指出，此前AI热潮推动股市快速上涨，而此次抛售表明市场情绪出现转折，资金开始从高风险的AI板块撤离。尽管科技巨头仍积极投入AI研发，但短期市场波动加剧，全球股指均受到不同程度影响。此事件也提醒投资者关注AI行业的泡沫风险与长期发展前景。"
+    },
+    {
+      "title": "AI Is Cutting Jobs Across Industries, But Boosting Salaries In This Sector - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZWtWd3Y5V2liNmg4SkJKSC0tZ1I2SDZFamVtbmFBRTVqdnQtMG5TdzZsVkl1aXMxamxVU2N2R2g0ZDRsR0loRzBGUm1uRlgyWlFQMTJUcC01THByQnlocE9BbHlVazFCVVZZblUtT3lWOTgtUVhoNmZqVDREMlQtR2tsd2NGb2dkTmd0YVVob09mSXBmWkEzN2lEdTJSLWVrcTNBbmpZdU1zT19CRDkyZi1Zd1VsbWM0UHI3VzBBTDZFbGl3dnJCbDFmbGg5eGpjN25j0gHbAUFVX3lxTFB0cW52eUlUOUJCbXZCcE8xYzlGVFVfbzhhRXFnQnZKVDZSUUYyTy0tallwWjRoYU1hRFJUd1BIZ1hHZHhwTlpIQjVHUFBzTy0tYUg0WGdFNlRlM0tRM3cyYjk5UWtPN0wtS09tc3lNTEhRMkJpbmVoeDhJQ3UxTjRrYjA1Qi04NDJMNU5NYVJhRFl1SWVtSEtMd0E3QjlmT2IwUHdSbVdVeTdfU1MzQV84N2d3dlFqb3B4WHdxSzhkaHZ0SmlYejVFUGVTUTRHQzFncXp0aGoxT3BXWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T04:14:22Z",
+      "summary": "最新调查显示，人工智能正在削减多个行业的就业岗位，但同时也显著拉高了部分领域的薪资水平。在自动化程度较高的制造业、客服和数据处理等领域，AI替代了重复性劳动，导致相关岗位减少。然而，在AI开发和数据科学等高技能领域，人才需求旺盛，企业为争夺稀缺人才大幅提高薪酬待遇。这种分化现象反映出AI技术对劳动力市场的双重影响：既淘汰低技能岗位，又重塑高技能岗位的价值。专家建议劳动者加强技能升级以适应AI时代的就业变化。"
+    },
+    {
+      "title": "Anthropic Introduces Invisible Watermarks To Identify AI Content - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcE40MGNZSlJHN2wyTTB0UGxpU3Ezc0ZkbHI4cV81NGpFUDVFZWFoZnFKbExCelpRTG1NSFd0TlBLUHc5YXN3V0phT0I1OHh1ZWF1WTJsbVh4MFFpck9aeW54ZlZ2R1MtVFdxdWZ0RWtBaHF5M1lHaVl3dmRsUktwNVFVc2hIMUtVdW93REVqQ09NUi1OWGticnZzOFBobXNLZ0hiNm9Ib2M3Y0YtcmdpTUo1aGhGVk13TXdIaU5zVldfd25VT2FLS25EZ0hERExE0gHYAUFVX3lxTE5aaG9tNkJuZGNwMU1CbWNLR2VLc0JpQU5pQzdXTS1IMlhJMzFGcXRtT3gyeFlkOHVyQllIa2tvQ1ZLVjV6bUdLOE40blItQ1I0aFVsbXlqSXF2Y0ViNVVPaG9BM1BsWFFFYkl5emVOSW1ZQU9FWWZKZHBkcVNoSnJDM0tLbTJJVUZFQk5hSXZkZF81RUEtU1g5YVZNTm1BRkZMbzB5V0lkMzUxV0prd29OZk80bzZoQWtuSmxkbXFQdjR6UkRGZ2F5NkRnS1NKTjFsZnlJX1dDTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T03:00:00Z",
+      "summary": "人工智能公司Anthropic宣布推出一项隐形水印技术，用于识别和标记AI生成的内容。该技术将不可见的数字水印嵌入文本中，用户和第三方工具可以通过特定方法检测内容是否由AI生成，而不会影响文本的阅读体验。此举旨在提高AI内容的透明度，防范深度伪造和虚假信息传播。Anthropic表示，该技术可应用于其对话式AI产品，并为行业提供一种可扩展的内容溯源方案。随着AI生成内容日益普及，此类标识技术有望成为行业标准，帮助监管机构和企业追踪AI内容的来源。"
+    },
     {
       "title": "The number of monthly users of Google's artificial intelligence (AI) chatbot \"Gemini\" app exceeded 1.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmNDVNOXdqdEdoYnYzbEpZRWJETGxHbTBuQjVzdV8zSUJMY091cV9hNktrY2xZb2hSNkNWNUJfVHNRNmNRT1V2R3dnVQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-12T02:54:52Z",
-      "summary": "据《每日经济》报道，谷歌人工智能聊天机器人Gemini应用的月活跃用户数已突破1亿大关。这一里程碑标志着谷歌在AI消费级产品领域的竞争力显著提升，也反映出市场对生成式AI助手的强劲需求。Gemini凭借谷歌强大的多模态模型能力，为用户提供文本生成、信息检索和创意辅助等服务。业内分析认为，用户数的快速增长将推动谷歌进一步优化Gemini的功能体验，并加速其在搜索、云服务及办公生态中的深度整合，以应对与OpenAI等竞争对手的激烈角逐。"
+      "summary": "谷歌旗下人工智能聊天机器人应用Gemini的月活跃用户数已突破1亿，成为发展最快的AI应用之一。自推出以来，Gemini依托谷歌的深度学习技术和海量数据，不断优化对话能力，并为用户提供多模态交互体验。其用户增长得益于谷歌在搜索、安卓系统和云服务方面的生态整合，使用户能够便捷地访问Gemini。这一里程碑表明，AI聊天机器人正加速进入主流消费市场。业内预计，随着模型迭代和功能扩展，Gemini的用户规模还将持续增长，并与OpenAI等竞争对手展开更激烈的市场份额争夺。"
     },
     {
       "title": "Students showcasing their artificial intelligence creations are imagining, and shaping, a new world - Pittsburgh Post-Gazette",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFRSdVp1Ynk5Yl9KX3c5dDdDb1pOWXF5dExTWVV5R093VlBmRVQ3TWhjcXdkeERlMUZza09YX1NRTThPVVNXeGkyRWtlRHF2a3k4b1NMWVFjY0FITW5sLVdoMzFLMEt5NTB3dVdoejNsWDlVTkNqWHVNbTlZUlY4elpSSE9UcjQ3aWxGTGtPY2lkTUd0RXdfT25fb2JYNncxRFZWN1AzbWR0MGx4VllpcTNB?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-12T02:43:00Z",
-      "summary": "匹兹堡邮报报道，学生们通过展示他们的人工智能创意作品，正在想象并塑造一个崭新的世界。这些作品涵盖机器学习、自动化、创意生成等多个领域，展现了年轻一代对AI技术的理解与应用能力。学生们的项目不仅体现了技术上的探索，还融合了艺术、社会关怀和实际问题解决，反映出AI教育在培养创新思维方面的重要作用。通过这样的展示活动，学生得以将课堂知识转化为实践成果，并为未来科技发展注入新的活力，同时也让公众看到人工智能在下一代手中可能创造出的无限可能。"
+      "summary": "在匹兹堡举办的一场学生AI作品展示会上，学生们通过人工智能技术展现了丰富的创意，正在想象并塑造一个全新的世界。他们利用生成式AI、机器学习和大数据分析，开发出艺术创作、智能助手、环保监测等各类项目。活动组织者表示，这样的展示不仅让学生掌握前沿科技，更培养了他们的批判性思维和社会责任感。通过动手实践，学生将课堂知识与现实问题结合，用AI解决社区和环境挑战。这场展览反映出年轻一代正积极拥抱AI，并以前所未有的方式参与社会创新。"
     },
     {
       "title": "Nvidia is developing the next generation open artificial intelligence (AI) model 'Nemotron4' with at.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sVXdUc25VX2wyMV9uZERrRGl1SEdXYjBvMF8xMmpqSUlmenp1elFYTldDamo1UkZySDl2NHBGNk54Y1JFZ3I1eEgtaw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-12T02:29:42Z",
-      "summary": "英伟达正在开发下一代开源人工智能模型“Nemotron4”，该模型参数规模庞大，旨在推动生成式AI的开放研究与应用。作为全球领先的GPU和AI计算平台供应商，英伟达将自身在硬件加速和软件生态方面的优势融入模型开发，Nemotron4有望在语言理解、代码生成等任务上展现出卓越性能。开源策略意味着开发者可以基于该模型进行定制和微调，从而加速AI在医疗、金融、教育等垂直行业的落地。此举也体现了英伟达在AI全栈布局上的雄心，进一步巩固其在大模型时代的核心地位。"
+      "summary": "英伟达正在开发下一代开源人工智能模型“Nemotron4”，并在提升其性能与参数规模。作为GPU巨头，英伟达不仅提供硬件，还积极布局AI软件生态。Nemotron4预计将支持更复杂的语言理解和生成任务，并面向企业和开发者开放，以推动AI应用的普及。该模型可能采用高效训练技术，降低部署成本。英伟达此举旨在构建从芯片到模型的完整AI解决方案，与闭源模型竞争，同时增强其生态系统吸引力。市场普遍关注这一模型能否在性能上对齐主流大模型，并成为开源社区的重要选择。"
     },
     {
       "title": "Case thrown out after claimant caught using AI coaching in witness box - AFR",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3RRa0xNdE9xSzVZdHNHcURkdkVSbXVtZUlwRFpjYmdrLWx1TVY0Q25HNldfaDZLc3o0ZGtzbDgwOFZ5ZU11c1dtaV85Vk9jVV9xVWlTbkF5R3pxdTRfaGtUZnV2SGFrX25GVFoxSW1ZT1ZQNVh6M3Q2VU5PYnRMa0IxaXpWcDROVGxMR2EzY2ZHRE1aTWZwT1NpSWxIcnN2ek5PWlNuS3lMM3VCUUpfNGZNM21JSHRkZWFhcDJBM1c0aHgwVmpQOQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-12T02:22:00Z",
-      "summary": "据《澳大利亚金融评论》报道，一起诉讼案件因原告在证人席上使用AI进行实时指导而被法官驳回。该原告在作证过程中被发现有借助AI工具获取回答提示的行为，这严重违反了法庭作证应基于个人真实记忆和独立陈述的基本原则。法官认为，此类行为损害了司法程序的诚信性和证言的可信度，因此决定将整个案件驳回。这一事件引发了对AI技术可能被不当用于法律程序的新关注，促使司法系统审视如何防范类似技术滥用，并强调在追求技术便利的同时必须坚守公正与真实的法律底线。"
-    },
-    {
-      "title": "Artificial intelligence gets smarter in the lead-up to midterms - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGUzSDB4VVRVMEVIVkxqclhOSXQyd0Z4T3IxMnFrT1kzd0NPbm1HUVhrUThRQ0JkWmNnV2hTZmlvT1JvQ2hKdktPaUdwZmd4dV9tcldoX3ExVGItUTJFOVpEVkpRZzFYNklIRVBmTnhVUy01N2psUGtOU3VIaC02eXNhMnNBNnpuOUlxX09aZVU4bk9kMkZySWpudzdURGpVZ0MtVDVMN0M2dDZXU0RFUk9Kb3c1dGZvdkdVMjNxd2tKUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-11T23:30:00Z",
-      "summary": "在中期选举前夕，人工智能技术正变得更加聪明，其在美国政治传播与选举策略中的应用日益深入。AI工具能够帮助竞选团队分析选民数据、生成个性化宣传内容、实时回应舆论，甚至预测投票趋势。随着模型能力的提升，AI生成的信息更加拟真，这也带来了虚假信息扩散、选民操纵等风险。文章指出，选举相关各方正在加强AI技术的合理运用与监管讨论，力求在提升竞选效率的同时，保护民主选举的公正性。AI在政治领域的快速发展，正迫使社会重新审视技术与治理之间的边界。"
+      "summary": "一起法律案件中，原告在证人席上被发现在使用人工智能进行实时辅导，导致案件被法院直接驳回。据法庭记录，原告在作证时疑似通过隐形耳机接收AI生成的回答提示，被法官和律师察觉。这一行为被认为严重干扰司法公正，违反了法庭程序。主审法官表示，使用AI辅助证词等同于作弊，损害了证据的可信度。该事件引发了对AI技术滥用风险的讨论，法律界呼吁明确AI在司法程序中的使用边界。此案也凸显了法庭技术监控的必要性。"
     }
   ]
 }
