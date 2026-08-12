@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "3606",
+      "title": "The number of monthly users of Google's artificial intelligence (AI) chatbot \"Gemini\" app exceeded 1.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmNDVNOXdqdEdoYnYzbEpZRWJETGxHbTBuQjVzdV8zSUJMY091cV9hNktrY2xZb2hSNkNWNUJfVHNRNmNRT1V2R3dnVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T02:54:52Z",
+      "summary": "据《每日经济》报道，谷歌人工智能聊天机器人Gemini应用的月活跃用户数已突破1亿大关。这一里程碑标志着谷歌在AI消费级产品领域的竞争力显著提升，也反映出市场对生成式AI助手的强劲需求。Gemini凭借谷歌强大的多模态模型能力，为用户提供文本生成、信息检索和创意辅助等服务。业内分析认为，用户数的快速增长将推动谷歌进一步优化Gemini的功能体验，并加速其在搜索、云服务及办公生态中的深度整合，以应对与OpenAI等竞争对手的激烈角逐。",
+      "fetchDate": "2026-08-12"
+    },
+    {
+      "id": "3607",
+      "title": "Nvidia is developing the next generation open artificial intelligence (AI) model 'Nemotron4' with at.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sVXdUc25VX2wyMV9uZERrRGl1SEdXYjBvMF8xMmpqSUlmenp1elFYTldDamo1UkZySDl2NHBGNk54Y1JFZ3I1eEgtaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T02:29:42Z",
+      "summary": "英伟达正在开发下一代开源人工智能模型“Nemotron4”，该模型参数规模庞大，旨在推动生成式AI的开放研究与应用。作为全球领先的GPU和AI计算平台供应商，英伟达将自身在硬件加速和软件生态方面的优势融入模型开发，Nemotron4有望在语言理解、代码生成等任务上展现出卓越性能。开源策略意味着开发者可以基于该模型进行定制和微调，从而加速AI在医疗、金融、教育等垂直行业的落地。此举也体现了英伟达在AI全栈布局上的雄心，进一步巩固其在大模型时代的核心地位。",
+      "fetchDate": "2026-08-12"
+    },
+    {
+      "id": "3608",
+      "title": "Case thrown out after claimant caught using AI coaching in witness box - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3RRa0xNdE9xSzVZdHNHcURkdkVSbXVtZUlwRFpjYmdrLWx1TVY0Q25HNldfaDZLc3o0ZGtzbDgwOFZ5ZU11c1dtaV85Vk9jVV9xVWlTbkF5R3pxdTRfaGtUZnV2SGFrX25GVFoxSW1ZT1ZQNVh6M3Q2VU5PYnRMa0IxaXpWcDROVGxMR2EzY2ZHRE1aTWZwT1NpSWxIcnN2ek5PWlNuS3lMM3VCUUpfNGZNM21JSHRkZWFhcDJBM1c0aHgwVmpQOQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T02:22:00Z",
+      "summary": "据《澳大利亚金融评论》报道，一起诉讼案件因原告在证人席上使用AI进行实时指导而被法官驳回。该原告在作证过程中被发现有借助AI工具获取回答提示的行为，这严重违反了法庭作证应基于个人真实记忆和独立陈述的基本原则。法官认为，此类行为损害了司法程序的诚信性和证言的可信度，因此决定将整个案件驳回。这一事件引发了对AI技术可能被不当用于法律程序的新关注，促使司法系统审视如何防范类似技术滥用，并强调在追求技术便利的同时必须坚守公正与真实的法律底线。",
+      "fetchDate": "2026-08-12"
+    },
+    {
       "id": "3597",
       "title": "Students showcasing their artificial intelligence creations are imagining, and shaping, a new world - Pittsburgh Post-Gazette",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFRSdVp1Ynk5Yl9KX3c5dDdDb1pOWXF5dExTWVV5R093VlBmRVQ3TWhjcXdkeERlMUZza09YX1NRTThPVVNXeGkyRWtlRHF2a3k4b1NMWVFjY0FITW5sLVdoMzFLMEt5NTB3dVdoejNsWDlVTkNqWHVNbTlZUlY4elpSSE9UcjQ3aWxGTGtPY2lkTUd0RXdfT25fb2JYNncxRFZWN1AzbWR0MGx4VllpcTNB?oc=5",
@@ -32437,5 +32464,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3604
+  "total": 3607
 }
