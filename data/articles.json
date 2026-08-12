@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "3611",
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T11:00:00Z",
+      "summary": "AI代码测试初创公司Blacksmith的估值在不到一年内飙升近10倍，与此同时公司营收也实现了超过十倍的增长。这一现象凸显了资本市场对AI软件开发工具赛道的高度热情，也表明企业对自动化代码测试和AI质量保障的需求正在快速增长。Blacksmith的快速崛起是AI赋能软件工程领域的一个典型案例。",
+      "fetchDate": "2026-08-12"
+    },
+    {
+      "id": "3612",
+      "title": "AI was supposed to destroy jobs. Where’s the carnage? - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85RVJfLU9XbWFoYlEzQ0hqdWxJVlJBZUxIcnk1VnZkR0JiVHNvSDVEelVmbDU4Ung2M3FJQUtncTNDUDR2NDJ0RkgxUWJEZEd4VzY5WUlJTGhGenVqOTZRcEYzcFNPc29xT2pYRUdFcF9kZFpEa2VXZQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T10:01:00Z",
+      "summary": "英国《卫报》发文探讨为何AI并未像预期那样大规模摧毁就业岗位。文章指出，尽管生成式AI技术发展迅猛，但实际就业数据并未出现大规模失业潮，原因可能包括技术应用的渐进性、人机协作模式的普及以及新岗位的创造。文章进一步分析了AI对劳动市场的真实影响，强调当前更需要关注工作内容的结构性变化而非简单的岗位消失。",
+      "fetchDate": "2026-08-12"
+    },
+    {
+      "id": "3613",
+      "title": "Zuckerberg lays out Meta’s new vision for AI: Personal intelligence for all - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV0FITXNRd0VONHgzd3FsUWNyOURnSWNUR0hUaEUwa1FOMlFiTngzZ3p4VmdyR1hHcktsa1l4c21Cc3FzUnNyRWtucHBXWnQ3bGU2V3BOVHpNSUF5MVdGU19jQmtPX1lYR2RDT09pVHpNQVVfYjA4MWp6ajlUQWhvdU5ZbktZbE0xblRkSnc4OGE4WWREME4xeU9MQktkTDhk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T10:00:00Z",
+      "summary": "Meta CEO扎克伯格阐述了公司新的人工智能愿景，提出“为所有人提供个性化智能”（Personal intelligence for all）。这一理念强调AI将深度融入个人生活与工作场景，为用户提供定制化的智能助手和服务。Meta计划将AI能力扩展至社交、办公、穿戴设备等多个领域，推动AI从通用工具向个人智能体转变，标志着科技巨头在AI应用层的新一轮战略布局。",
+      "fetchDate": "2026-08-12"
+    },
+    {
+      "id": "3614",
+      "title": "How does Illinois regulate artificial intelligence? Here’s a roundup of AI laws - Belleville News-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JNWtwS0dXaHBiZnBYQ1B5cmc0bmczd3RFSlg4NjFWblpkUkhoRlh5ai15UGJLNFYxM2lDOGgtTEg3aDNrQXg0dnlWaVp2ZzVMRXdKdFRjanJwQ2Y0M1ltV0RaS1IzMzNySEJlblg2MXppWTVr0gF0QVVfeXFMTTJLM3F1R0VRMG0yRXNiWnFvRUVRSkFWLTd0NEM2NWw2czBtS1hFakFKS1Y0RVlfMFpFUnYxVWwtZmI4ZmJQcUdMT2lBaWVMR2ptdFd6bkhSQVdRUno0ZjhNX2ZpeHU5RGFXVDZXOE85c1pBX1U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T09:29:00Z",
+      "summary": "美国伊利诺伊州正逐步建立起一套针对人工智能的法规体系，以应对AI技术带来的隐私、就业和公平等问题。报道梳理了该州已通过或正在推进的多项AI相关法律，涵盖算法透明、自动化决策影响评估、劳动者权益保护等关键领域。这些措施反映出美国州级层面在缺乏联邦统一立法的情况下，正通过地方立法探索AI治理的新路径。",
+      "fetchDate": "2026-08-12"
+    },
+    {
+      "id": "3615",
+      "title": "The Executive Office launches consultation on Artificial Intelligence Strategy - executiveoffice-ni.gov.uk",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWDF3SFdVTE1MTHgwVXE2emE4SG5LbXZEMTgzRm14cjFYQmR6VWd3emtRamFxUHBXbE04dFA1cnQwNWV4bVV4UEoyTVYtRXJfaEN4d2dfLUR0V3ltbTdQbGVIN256STNyYzlFVkZVaW9pNTJTM01LZmQ5WXdwSWU4VkdVZ2g2UHE1dGVwdnFvMlU5RmxlZ3A0am5qc3NxS1cxZ2Vpa1JqRzlnSmR4Tl9HeGRNXzQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T08:39:49Z",
+      "summary": "北爱尔兰行政办公室正式发起关于人工智能战略的公开咨询，向社会各界征集对AI发展的意见与建议。此次咨询旨在制定符合本地需求、兼顾创新与伦理的AI发展框架，涉及AI的经济潜力、风险治理、公共服务应用及人才培养等议题。此举表明北爱尔兰正通过广泛参与方式，构建具有区域特色的AI战略，以应对全球科技竞争与治理挑战。",
+      "fetchDate": "2026-08-12"
+    },
+    {
+      "id": "3616",
+      "title": "The competition for artificial intelligence (AI) is a competition for capital. Global big tech compa.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45ZXVWMXVQb08yeGJId2FiaEtBZDFmRGVPTzcxQ25famlTcDAwMEFHQnRlVXZtMFRReVVYT0FTTktzX2pPWU9LVk05dmVzNG9BdFBGRVZVVEo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T08:31:38Z",
+      "summary": "韩国《每日经济》发文指出，全球人工智能竞争的本质是资本竞争。报道认为，顶级科技巨头凭借巨额资本在AI算力、模型研发和人才争夺中占据主导地位，资金规模直接决定了企业进入AI核心领域的能力。随着AI投资门槛不断抬高，资本实力较弱的公司和后来者将面临严峻挑战，全球AI行业可能进一步形成资本驱动的寡头格局。",
+      "fetchDate": "2026-08-12"
+    },
+    {
+      "id": "3617",
+      "title": "ExxonMobil’s Artificial Intelligence (AI) Breakthrough Signals New Era of Digital Exploration in Guyana Ahead of Caribbean Energy Week (CEW) 2027 - Zawya",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOeEk4ZjVLZ0Nfd0l6YkhNMmliU1lzUlRhY0cwVGdNWnFiaVNyMkp5cnMwRDZXeFk5MEdYQ3RhbDBZVEUwc3JJNDQ1dzJhdUluTklTX0hKYWlmTVlDZnlTa3p2akxIWFBVQjVnczJNcmVzV1hVMG5nZWxNbHU1SnlPVDc3SnVKTDVaWGZBb3djZk9XQWVxUzVCbGdabkswd19QWE13SFpYUFpURVpjY3R3eWg0UUlQR0JiS1pVdU1ibmFRV1BVeUl1RHFjdXpSOGhtWEZ3WXJmajBIbGZlRVZ0Z1ZJN191RENsR1YzZHpMZTR3ZXV5R2xrSjRfWG0wMWtzNGRiUWd1NlpaX0hXNVg2R2pHRzR3MW5zQXF2TGppdWgxdHY2RnAzUjVSWEtPQkhrSmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T08:03:00Z",
+      "summary": "埃克森美孚在人工智能领域取得技术突破，标志着其在圭亚那的油气勘探进入数字化新时代。该公司运用AI技术提升地质数据分析效率与预测准确性，以优化海上油田开发决策。这一进展被安排在加勒比能源周前夕公布，凸显了传统能源巨头加速拥抱AI、推动能源产业智能化转型的趋势，也为区域能源合作与技术创新注入新动力。",
+      "fetchDate": "2026-08-12"
+    },
+    {
+      "id": "3618",
+      "title": "An Nvidia microcomputer was found in the Russian \"Monochrome\" missile, which may indicate the use of AI — HUR - Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkk1WDJGTkJiSndfMzhBWEJrMEV1VDJQeHpua083QzVnQkItZ3VvWktJY1RydDhnazBBaVdjV1J4aXN4NUQ4OVVLc1BLS2RrQ25IZXJySjlHenFQU1I1Sk9EeVBwdV9PbnQzbmlyRWw4QXp4REtEWVQtTTVuUlF4TldlY1VMQmpxWXZzeUpFbzBXRUpaNlRzMTRtcWZpeUlTa0duT2dFanVmUnJiUEZfT05tRHIxUUxFdjVJMTZtSGkwSHAzS2fSAcQBQVVfeXFMUGRxSW1nZEVZUUwxbG94SWxyTHd3T0dhODZ4VUZwaEtrV3ZGUkpzQTctcGhHSEtYblg4elBwVXlWVzRkRmhkSmNIU0IybU04c3psSmROTnBadUYzdWIxR0NYMVBVcVlqU056YnRaY3l2V0UxZ0h5R2x4MmZFR3J5ekM0b2ROOVQxZ0dMNkFHRFlKbmFqX0JsWEhaZGRINWFxY1pMLUhXMVhTdVdHQWIzdkNybnFZNlF4TnZsaWh3TWJjN2ZXWg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T07:06:49Z",
+      "summary": "乌克兰国防部情报总局表示，在俄军“单色”导弹中发现了英伟达微计算机，这可能意味着该武器系统使用了人工智能技术。这一发现引发外界对AI被引入现代武器系统的关注，尤其是在自主目标识别和制导能力方面。乌方认为这一证据表明俄罗斯正在将商用AI组件整合到军事装备中，进一步加剧了AI在军事领域应用的争议与安全担忧。",
+      "fetchDate": "2026-08-12"
+    },
+    {
       "id": "3609",
       "title": "Foreign media reported that after the artificial intelligence (AI) sell-off that dragged down the gl.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EdGFreFk2Y1QtWU1VTTVhR1dTZGkxcW1PakNGb2NpaTRmRXZRZ0RqRVAyQVlXYVRra1hyUjREWGFoSXlVVUhIdW1KbU9rWnc?oc=5",
@@ -32482,5 +32554,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3609
+  "total": 3617
 }
