@@ -1,132 +1,69 @@
 {
-  "updatedAt": "2026-08-12 18:45:44 UTC",
-  "totalArticles": 18,
+  "updatedAt": "2026-08-13 01:01:36 UTC",
+  "totalArticles": 9,
   "articles": [
     {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T18:19:12Z",
-      "summary": "据TechCrunch报道，AI编程初创公司Cognition正洽谈新一轮融资，估值有望达到400亿美元。就在几个月前，该公司刚以260亿美元估值完成10亿美元融资。此次融资若达成，将再次刷新其估值纪录。Cognition专注于AI驱动的代码生成与自动化编程，其产品能协助开发者高效完成复杂开发任务，受到资本市场的持续追捧。新一轮融资的规模与投资方尚未公布，但快速攀升的估值反映出市场对AI编程赛道的高度看好。"
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T17:51:00Z",
-      "summary": "在Ai4会议上，AI领域三位先驱——杰弗里·辛顿、李飞飞和吴恩达，就AI安全、监管及开源问题展开讨论。他们主张在加强安全研究的同时保持开放性，认为开源有助于技术透明与全球协作，而过度监管可能阻碍创新。三人还谈及美国如何应对中国在AI领域的发展，呼吁在竞争与安全之间取得平衡，并强调科学界应积极参与政策制定，以引导AI技术向善发展。"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T17:41:29Z",
-      "summary": "由OpenAI支持的Thrive Holdings宣布完成20亿美元新一轮融资，估值达120亿美元。本轮投资者包括软银、D1 Capital Partners和Altimeter Capital。Thrive致力于将AI技术引入企业场景，提供从数据处理到智能决策的一体化解决方案。该公司表示，新资金将用于扩展产品线、加强研发并加速企业级AI应用的落地。此次融资也体现了投资者对AI赋能企业数字化转型前景的信心。"
-    },
-    {
-      "title": "AI was supposed to destroy jobs. Where’s the carnage? - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85RVJfLU9XbWFoYlEzQ0hqdWxJVlJBZUxIcnk1VnZkR0JiVHNvSDVEelVmbDU4Ung2M3FJQUtncTNDUDR2NDJ0RkgxUWJEZEd4VzY5WUlJTGhGenVqOTZRcEYzcFNPc29xT2pYRUdFcF9kZFpEa2VXZQ?oc=5",
+      "title": "Cerebras shares plummet 16% after results fail to impress investors - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3RxTUJxMTh2Mk9XSmgxdm1MZDh6MlRtcVl5aFM1bmF1ajVmWlFnUF9nNU0yYjloQ0pON2VSWFZBYTVldmJ0TGI5N2psYlcwZVRuSURZaUM1NkYzVkh4NGVNRUtjd0F0M3RMTno2X0RSNG9VbF91V2lDOUh0OG5nSDJiY2M4cDdrM1lGRnNicldnNXBBQTBDRFVzNHdJQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-12T17:16:00Z",
-      "summary": "英国《卫报》撰文探讨一个引人深思的现象：此前人们普遍担心AI将大规模摧毁就业岗位，但实际并未出现预期中的“就业大屠杀”。文章分析指出，AI目前在多数行业更多扮演辅助角色，而非完全替代人类；同时，新技术的普及往往伴随新职业的诞生。劳动力市场正在经历结构性调整，而非简单萎缩。专家认为，政策制定者应关注技能培训与社会保障，以适应AI带来的渐进式变革。"
-    },
-    {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T16:57:58Z",
-      "summary": "Automattic旗下AI驱动联系人应用Mesh正式推出Android版本。Mesh定位为一款“面向所有人的CRM”，能够在收发邮件、会议和互动中自动记录人际联系，并智能生成备注、提醒与关系洞察，帮助个人和小团队维护客户关系。该应用此前已登陆iOS平台，此次扩展至Android，将覆盖更广泛的用户群体。Mesh的推出标志着CRM工具正从企业级走向个人化、智能化。"
-    },
-    {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T16:46:02Z",
-      "summary": "智能戒指制造商Sandbar认为，AI可穿戴设备的未来在于语音交互。近年来，AI笔记硬件市场迅速兴起，出现了信用卡大小的设备、吊坠、胸针甚至转录耳机等产品，它们能将会议内容转化为摘要和行动项。如今，包括戒指在内的一批可穿戴设备正押注用户也将用语音捕捉零散想法。Sandbar表示，语音是最自然、低成本的输入方式，戒指形态可随时唤醒，有望成为下一代AI随身助理的核心交互形态。"
-    },
-    {
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T16:04:27Z",
-      "summary": "AI编程平台Lovable确认完成新一轮4亿美元融资，估值升至133亿美元。该公司此前在6月已实现5亿美元的年化经常性收入（ARR），增长迅猛。Lovable主打自然语言生成应用，让非专业用户也能快速创建软件项目。本轮融资将用于扩充团队、提升模型能力并拓展国际市场。其估值的快速攀升反映出资本市场对AI辅助开发工具的强烈兴趣。"
-    },
-    {
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T15:44:56Z",
-      "summary": "一起本应价值2.5亿美元的收购交易因涉嫌欺诈和伪造签名而崩溃，投资者至今仍未获得应得款项。报道指出，视频技术公司VideoVerse联合创始人Vinayak Shrivastav成为多起法律诉讼的核心人物。收购交易原本应带来巨额回报，但伪造文件与欺诈指控导致交易破裂，引发一连串法律纠纷。此案凸显了并购流程中尽职调查与法律合规的重要性，也提醒投资界警惕创始人层面的诚信风险。"
-    },
-    {
-      "title": "Y Combinator CEO on AI, Founder Psychology - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDlmX1kwTHo2QXFZaTl2Q1JjVUlkaWZKcmJGR0lmLXh1eno1M3cwaWtITDdKTXFKQnRPcUNzSlExY2FtNmUyakpnY2lNeGtYUXczRmgtWk1UMk9xTWpsaHgtT1ZJVmMwSnhRNXdZcGkzZTVManBLWlNDUHFRdVVVVWpKbWpvNTlZZnJSVjhQZ2NHVWNpM1Z1VmxkUlZ1V1JhTFg5ZExHWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-12T15:05:09Z",
-      "summary": "Y Combinator CEO在一场访谈中分享了关于AI与创始人心理学的观点。他认为，AI正在大幅降低创业的技术门槛，但同时也对创始人的心态和判断力提出更高要求。他建议创始人保持理性、避免炒作，专注于真实用户需求，并学会在不确定性中快速迭代。他还强调，AI时代创业成功的关键在于结合技术能力与人性洞察，而非盲目追逐热点。该访谈为AI浪潮下的创业者提供了实用建议。"
-    },
-    {
-      "title": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is? - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWU0ZlhRbEh1bXA5MjNERkVuQ29HOTgxQ2FicjRtSW5TWUU5UG11bDZsM1lLcG5DTHlVWFMyZ3BwOENhTkRTQ215b1prZmZ3YS1JdEtGaGlBODNGdHAzYjlFQjFPSXFYTmNGdEs4YXVCVDFEdUkxSVZSV01wUnFGMm5jTnZxSFRZZFBJVnAtdW9sTXF3aFFvMnR2aVByRGZ0V3c2dHFLV3dabi1hbkRVYThTUjhXU0YtUGwtRFI2cVBPdDM0NE5tdlJPZVNid3pmaFBz?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-12T15:01:00Z",
-      "summary": "据《卫报》报道，专家指出AI代理在法律上不对自身造成的任何损害承担责任，这引发了“责任真空”的担忧。当AI系统自主决策并导致伤害时，究竟应由开发者、部署方还是用户负责，目前法律界定模糊。专家呼吁尽快建立明确的法律框架，以规范AI代理的行为并确定追责机制，防止受害者无法获得赔偿。这一问题随着AI代理日益普及，正成为法律界和科技界亟需解决的难题。"
-    },
-    {
-      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T14:22:00Z",
-      "summary": "AI笔记硬件在过去几年迅速兴起，信用卡大小的设备、吊坠、胸针甚至转录耳塞都承诺将会议内容转化为摘要和行动项。如今，新一代可穿戴设备，尤其是戒指，正押注人们希望以同样方式捕捉转瞬即逝的想法。Sandbar认为，其语音戒指能够避开AI硬件的“墓地”——即那些曾风光一时但最终被淘汰的产品。它可能通过更轻便的形态、更自然的语音交互或更精准的场景聚焦，来克服此前设备的不足，在竞争激烈的市场中找到属于自己的位置。"
-    },
-    {
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T14:20:33Z",
-      "summary": "在Made by Google 2026发布会上，谷歌推出了一系列新品和技术更新，覆盖硬件与AI功能两大主线。硬件方面，Pixel 11系列手机正式亮相，还有新一代智能手表Pixel Watch 5，以及对标苹果AirTag的全新追踪器Pixel Tag。AI方面，大量Gemini功能被引入，进一步深化了谷歌设备与AI的整合，旨在提升用户日常使用的智能化体验。此次发布会展现了谷歌在端侧AI与硬件生态上的持续发力。"
-    },
-    {
-      "title": "Texas Wesleyan Launches New Humanities and Artificial Intelligence Degree - Fort Worth Inc.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUW5reFpNQW9fRXBxNHcwUUdKVDhBQTZpZjJQaFJMQ2xqMG10STdyalFGVkR4UmtZZkpRQUlaZ19FaGVIOEVqOGJnS3ZPbmZMb3ZfMl8wMThoc1dmTW54aGh6ckI3aERkTy1vWmgxZS0tclZvX25SNlJJZmpEMTBFWmtOUC0tRk5fRWYzb3FvcFRWU3ZfUVE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-12T14:17:17Z",
-      "summary": "德克萨斯卫斯理大学宣布推出全新的人文与人工智能跨学科学位项目。该项目旨在将人文学科的批判性思维、伦理视角与AI技术能力相结合，培养能够从文化、社会和伦理层面理解并塑造人工智能的人才。课程可能涵盖AI导论、伦理哲学、数据分析、人机交互等内容，强调技术与人性的融合。该校希望通过这种交叉学科设置，为学生在AI时代提供更具深度和适应性的职业准备，也反映了当前高等教育对AI伦理和人文关怀的日益重视。"
-    },
-    {
-      "title": "Spotify to label AI-generated artists and remove them from curated playlists - The National Scot",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaU9OclJXUm9jazBmSmNyamlDSTVUazgweUU5WGQ4ZUNzRXZiWHliVnpjU2F6M2tpUXdhVW1FeUZ4U1loM0VIcFJXN1BiS0E0ZjJleXBYQ1NnYkJpVzZNMjROSUxMdTFSem1jUHFSZEJubXVpUG1jaXZ3MWdwSy1vMEdVMS1WeEZheUREcHAxUkR1S3pUdjd4eTlmbw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-12T14:07:36Z",
-      "summary": "Spotify宣布将对其平台上由AI生成的艺术家内容进行标注，并将其从官方策划的播放列表中移除。这一举措旨在提高内容透明度，帮助用户区分人类艺术家与AI生成的作品，同时也可能影响依赖AI音乐创收的创作者。Spotify并未完全禁止AI音乐，而是通过标签和策展政策来管理日益增长的AI生成内容。此举反映了流媒体平台在技术和创意产业之间寻求平衡，也标志着音乐行业对AI参与创作的态度正在走向规范化。"
-    },
-    {
-      "title": "AI Hallucinations: Why Artificial Intelligence Can Sound Convincing While Getting the Facts Wrong - USA Herald",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVdlJCa3hXNjR0LVN0WjIwTnk0a3M0N01aSDFiR2E0NUVHb3FTbTlWOFdQQ0E0X1Z0OXdlaU8tVFVmUHhEN0dadGpoQkZyaVVZSFE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-12T14:01:04Z",
-      "summary": "AI幻觉指人工智能系统在回答问题时，会以流畅、自信的语气陈述错误或编造的信息，令人难以察觉。这种现象源于模型基于统计模式生成内容，而非真正理解事实。AI可能过度依赖训练数据中的模式，或在信息不足时“脑补”看似合理的答案。这使得AI在事实核查、医疗、法律等场景中可能造成误导。理解AI幻觉的成因，有助于用户对AI输出保持审慎，并推动开发更可靠的事实校验和可解释性技术。"
-    },
-    {
-      "title": "Gov. Moore announces AI expansion, 250 new jobs in Prince George’s County - WJLA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWM4c1RFQUpYSTE1NENna2lBV0VaWnlmNWJpcmU0aTltZGRNa0hUNkRoMnY1dHFRVEVSTXdjWmdRaVR5RFdqTlJuX2p2aUMxTDJQdGdCM2hqNi1UZXVHbTVIR1pwY1RFVk03S2lGX1FaYTRwYTY1cnBIVFgwQTl5bTRqeWFQV0RDOFdkSmo5enhmX2I2ZzQycDZrVVVzbE0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-12T13:48:13Z",
-      "summary": "马里兰州州长摩尔宣布在乔治王子县推进人工智能产业扩展计划，预计将为当地带来250个新工作岗位。这一举措旨在吸引AI相关企业落户，推动区域经济多元化发展，并强化该州在人工智能领域的竞争力。新增岗位可能涵盖研发、工程、运营等多个方向，为当地居民提供高质量就业机会。该计划也体现了州政府通过政策支持和产业布局，积极拥抱AI经济浪潮的战略意图。"
-    },
-    {
-      "title": "Who governs AI? The federal government's challenge to state regulation — What organizations need to know - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb25WS2hTb1FUeWNDSzE0OGRYMWc1OXh3TkxmSjZfWmdXaHNTbXNZd2d2bGJfeXY0a2pKTC1QQ05fSHRTQmVINngzelhMVmh3Z2dDYlU2aks3aW1ZaDZIa19uckVJOVdqZEZYVG9pQXpGWmxCTlBKdTI5djZZd2tXaDB4UDR2QmVyTlIybEdhZ0FtUElic2o0U3RMaXpSUnhwcDMtOGFyZzFlQnpQSGtvZFVBbUdJRUhhejVYV2xLMXd2MmY0VkVuMDBQeGM3aVdsRXdWWW5zZ2FGSXJQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-12T13:20:14Z",
-      "summary": "围绕人工智能监管，美国联邦政府与各州之间的权限博弈日益凸显。联邦政府试图统一AI监管框架，而州级监管措施则更加灵活多样，这给企业带来合规挑战。文章指出，组织需要同时应对联邦优先和州级立法并行的局面，密切关注各州在AI透明度、算法公平、数据隐私等方面的要求。企业应建立跨层级的合规体系，识别监管重叠与冲突，以适应不断变化的AI治理环境。"
+      "publishedAt": "2026-08-12T23:45:01Z",
+      "summary": "AI芯片公司Cerebras上市后首份财报表现平平，投资者大失所望，股价单日重挫16%。Cerebras主打晶圆级AI处理器（WSE），专为大规模训练和推理设计，被视为英伟达的潜在挑战者。财报显示其收入增长未达预期，且亏损扩大，引发市场对高估值和商业化落地速度的疑虑。分析认为，AI芯片赛道竞争白热化，客户集中度高，Cerebras需加快产品迭代并稳定供应链。此次暴跌也警示投资者，AI硬件公司业绩兑现存在不确定性。"
     },
     {
       "title": "Soaring AI hyperscaler default hedges aren't what they seem - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFFnWUNMaWpDeWFxYlNzUndyNi16SWZKVmEyZ3hDckhWTlJNMGROV2VfMngxbzljVDhkRE9YTFluaVJQbVBJb1FvREFmREZlVGl1TjAtZzNmMjFnNm1HdW5lM3ZOellSMHA2M1lXYklvSVRKdWJ5Tk1abnZyZ2V4WWlZZGtrOW9GelhCZlV6dGpIamZzWFZ0djNfY0lIcXRsYTdtSExzZ2ZMWHN2NHRkMC1OajNEOW1qeFZpNzZndmpXUnZHblE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-12T13:02:25Z",
-      "summary": "近期AI超大规模企业（hyperscaler）的违约对冲交易激增，但路透社分析认为，这些看似升温的对冲并不像表面那样简单。市场可能低估了AI基础设施投资的长期复杂性，或高估了短期债务风险。对冲工具的交易量上升可能更多反映的是机构投资者对宏观利率和科技股波动的敏感，而非对AI企业基本面的担忧。文章提醒投资者应深入解读数据背后的真实信号，避免被表面趋势误导。"
+      "publishedAt": "2026-08-12T23:30:38Z",
+      "summary": "近期针对AI超大规模企业（如大型云厂商）的信用违约对冲成本大幅上升，引发市场关注。但路透分析指出，这一现象可能并非代表真实违约风险恶化。CDS价格受多重因素影响：指数再平衡、市场流动性变化以及投资者为对冲AI巨额资本开支风险而进行的额外保护。专家认为，投资者应仔细拆解对冲成本构成，避免将技术性波动误读为基本面信号。AI基建投入虽推高杠杆，但现金牛业务仍能支撑信用质量。"
+    },
+    {
+      "title": "Target Appoints Its First-Ever AI Exec as the Retailer Pushes Deeper Into Artificial Intelligence. What It Means for TGT Stock. - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNjVlZGpISWczUW42NDVFaVhRaTVNRm4tNGk5QjhzTDNkRHpybnFEV0hHTlg5UUJVdW9UaF9XZ1Z2Nm5hdWVaZ3pvUWdYWkFBby1DZTRTcGxuM2EtNDF0YlpKcllkZkdXaTBSSzY0WEVTV2FRdDVVS2J1WXlvUU8xT1hjNFZDcURCSTNTZ1AxdGN3VmxyajkySHF0ZHE1dzIyUFpWc2lGN0pTVjE3NndmOFhwTGFKdDU5dDBGYTlrcS0ycS0zMkppZ3YyQjZ1MUppeXo1Q0kxUzZEQ2FadGprTXJKeTFPTEtsVUo5bDBfSEcwc0FCX09PdWJfWjdfUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T23:30:02Z",
+      "summary": "Target（塔吉特）宣布任命首位专职AI高管，标志着这家零售巨头进一步押注人工智能。公司计划将AI运用于个性化推荐、动态定价、供应链预测和门店运营优化等领域。对TGT股票而言，这一人事任命短期或提振市场情绪，但长期效果取决于AI项目能否有效转化为销售额和利润率提升。零售行业AI竞争日趋激烈，Target需在与亚马逊、沃尔玛的较量中拿出切实成效。分析师提醒，应关注后续具体AI战略和投资回报细节。"
+    },
+    {
+      "title": "Illustration shows words \"Artificial Intelligence AI\\ - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFBDaEktTUJLeXFjOERKRWZtMl9GTG12Q3ZEaVBxZDE3a1FabTN3SUNVQzBya3o0SjVfMURaUGh5QlByejFSSXRKMFZfcms1bzl3YURfei1wdGRud1VhWUNWb05LZng1YmN4ejVQSTFpZjUwNExvcWxnWkVOenlPMDdwSGZuNmVKUjZwQnh3YUowVFJxM0xSSDZHelhXYVJtWHMxcFU1M0xuVVpFai1Tc05DUVlYZVJRN045Y1YwM0hfMVNMWGxFazhmNS1yUUs5emNUV0tQdy1DdGo2aFo3TUUycw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T23:04:15Z",
+      "summary": "一则新闻以含有“Artificial Intelligence AI”字样的插图作为配图，用于说明人工智能议题。这类视觉元素常见于AI相关报道，旨在直观展示主题。由于原文未提供具体讨论内容，仅从标题和图片来看，可能涉及AI技术进展、应用场景或社会影响。插图本身通常不承载核心信息，而是作为文章的氛围辅助。读者应关注正文，以获取实际数据和观点。"
+    },
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T22:26:37Z",
+      "summary": "Anthropic为Claude对话模型引入水印机制，可识别AI生成内容，但引发用户强烈不满。许多用户担心，在职场、学校等场景使用Claude时，水印会暴露其使用行为，导致被雇主或教师察觉。争议焦点在于透明度与隐私之间的平衡。支持者认为水印有助于打击滥用；反对者称其侵犯使用自由，并可能造成误判。Anthropic表示将优化技术，但用户态度仍需观察。水印功能的默认开启尤其招致批评。"
+    },
+    {
+      "title": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWU0ZlhRbEh1bXA5MjNERkVuQ29HOTgxQ2FicjRtSW5TWUU5UG11bDZsM1lLcG5DTHlVWFMyZ3BwOENhTkRTQ215b1prZmZ3YS1JdEtGaGlBODNGdHAzYjlFQjFPSXFYTmNGdEs4YXVCVDFEdUkxSVZSV01wUnFGMm5jTnZxSFRZZFBJVnAtdW9sTXF3aFFvMnR2aVByRGZ0V3c2dHFLV3dabi1hbkRVYThTUjhXU0YtUGwtRFI2cVBPdDM0NE5tdlJPZVNid3pmaFBz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T22:03:00Z",
+      "summary": "随着AI代理（可自主决策和执行任务的系统）日益普及，其造成损害时谁应承担法律责任成为难题。专家指出，AI代理作为非法律实体，无法被追责。责任可能落到开发者（算法缺陷）、部署方（监管不周）或用户（不当使用）身上。现行法律体系尚未明确分配责任，存在空白。技术人员呼吁建立可追溯的AI决策日志，以辅助事后追责。法律界则建议通过保险、合同约定等方式转移风险。此议题对AI治理至关重要。"
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T20:10:40Z",
+      "summary": "亚马逊将默认使用Twitch主播的直播内容训练AI模型，主播可以选择退出。Twitch CPO Mike Minton坦言，如果让用户主动选择加入，恐怕没人会同意，所以只能采用默认允许模式。此举引发创作者强烈反弹，担忧其内容被无偿用于商业AI开发，且退出流程可能繁琐。事件凸显平台在数据利用与用户同意之间的紧张关系。从技术角度看，海量直播视频可作为训练多模态模型的高质量语料，但伦理问题亟待回应。"
+    },
+    {
+      "title": "How is artificial intelligence affecting Chicago workers? - WBEZ Chicago",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc25nRDZMaW94Mm9zX0tsUFdqNFNaVWdmbXhXY0k2QV9VOEpwaG1OTmM3TTNfNllQbGl5SFo3b0N6cDV5aU9rbUlnaHNFU2VXemk4ZnhVeXBQWUpNTjF0WG1FMm1peUJkekltV1E3SUktX3hpbmFvMEpPQXJyTEdaaHZSMXV1aG55R3dma3hCSi1yS01ta0hHSUtudDVvX1o2ZTlDS3pOYmJwc2FDVzZpcF9mR2pRY0l0djRqYVJZNFN0NU05WkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T19:53:00Z",
+      "summary": "文章探讨人工智能正在如何改变芝加哥劳动者的工作与生活。AI自动化可能冲击行政、客服、仓储等岗位，同时催生数据标注、AI运维等新职位。芝加哥作为多元经济城市，制造业、医疗和交通运输业均受影响。劳动者面临技能重塑需求，当地政府与企业开始提供培训计划。专家强调，政策应注重包容性，避免扩大数字鸿沟。技术要点包括生成式AI工具在办公室的普及、机器视觉在物流中的应用等。总体而言，影响是双面的，需主动应对。"
+    },
+    {
+      "title": "NEWSLETTER: American AI model makers smell an opportunity - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTjdFeGZSYlRfS0Z2ajQwNkNMQm1vUDE2SFJiRkF2NlNMTnVMRjdDaWlSOG9BTDZhWXZ5R3M3MENRbGpBaUFrRVptYmxEbmstQXBhdEVIYmhYQUJSQmRONzcxTG9MVlhmOFRxc0Y5QUdKMF9wRkZvaS10VUc4WFNuWjNPdlE3YVV5cjRoNnUtZ3VvSnJWd3BpVWl6X1BFMUptNzBTNDBYTGNCLXhFLUZ4YkVFMHpRNFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-12T19:15:00Z",
+      "summary": "路透社简报指出，美国AI模型制造商正嗅到新的市场机遇。随着全球地缘政治紧张和各国监管分化，部分海外客户可能转向美国供应商。例如，欧洲企业因数据合规倾向本土化，但美国模型在性能和生态上仍有优势。此外，开源与闭源模式之争也带来差异化空间。美国公司可能通过加密、微调、行业定制等方案扩大出口。不过，出口管制政策可能限制部分芯片和模型流向，形成对冲。机会与风险并存。"
     }
   ]
 }
