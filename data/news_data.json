@@ -1,69 +1,83 @@
 {
-  "updatedAt": "2026-08-13 04:01:06 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-08-13 07:09:57 UTC",
+  "totalArticles": 11,
   "articles": [
+    {
+      "title": "A.I. Artificial Intelligence heading to 4K Ultra HD Blu-ray - Film Stories",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYkxuSDBvTW9WNHAzalprRk80bDU3ZExncU02MEZYcXlBTzlqeFBwQkloUzhPMGNRUUhSdUtaX0Rvb1hIM21NMk5aUVhTTTQzVXlKdGY2NmduTXhQbTlnRUtzczV5U1VGTm5GOGRacGFQUFY5UkJFM1JldDFGUFlBZmtpZHkzMDZlcnd0RTRlVll5b2Ra?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-13T05:30:09Z",
+      "summary": "经典科幻电影《人工智能》（A.I. Artificial Intelligence）即将推出4K超高清蓝光版本。据报道，这部由史蒂文·斯皮尔伯格执导、斯坦利·库布里克参与构思的影片将以修复后的4K画质呈现，并提供高动态范围（HDR）优化，使影像细节和色彩表现更加出色。该版本预计将包含原始音轨及花絮内容，满足影迷对更高视听体验的需求。此举也体现了经典科幻作品在超高清介质上的持续价值。"
+    },
+    {
+      "title": "Morgan State University Launches Artificial Intelligence Degree With Quantum Machine Learning Courses - NCHStats",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTmpkamJ4bjlsWGlCUjFUTDhBQzVEb2J6dHN0b0xGR055U2owdFdSNWpPQ3hDaHp3UUlSbzhoRldmYkJrWE5KZFl0N0YyZnlqVXRQb2MxZENjdmJ6WjlHWGNXZllGRzZWbHhxRnVkYVdGVFRseWE4cjJ6V2RzcUo1dlhpcmVjWC1uWVV0cllJUkQ4QWN6?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-13T05:07:41Z",
+      "summary": "美国摩根州立大学宣布推出全新的人工智能学位项目，并将量子机器学习课程纳入教学体系。该学位课程旨在培养学生在AI算法、数据处理及量子计算交叉领域的应用能力，为未来技术发展储备人才。学校方面表示，将结合理论教学与实践项目，帮助学生掌握从经典机器学习到量子模型的迁移技能。这一举措反映出高等院校正积极适应AI与量子计算融合的学科趋势。"
+    },
+    {
+      "title": "Massive investments in artificial intelligence are putting pressure on the Fed: Prices are rising before productivity gains appear. - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNXh1SWVhWl95ZnplVTM4Rndsc1NkeFZhbnNPSm1GQ0QzQ0pELUZ2OTlGaF9wZExORGt1LXdlNjFQTWtkbktVb3kxdVRrUnN4amlMQWc1T3Q0S2ZWU21JWllEcHdjVlp2bTZEOVR0WFFHcjNkc2JzVUpYQVd0MXFwR0xfR2preDJEWkppQmsyV1ZZenZ6Ml9laTljdFI4RXU2MDJ4MGZlM0FXY2RKSmFPT0w5Q3kwemk0VlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-13T05:00:38Z",
+      "summary": "有分析指出，大规模的人工智能投资正在给美联储带来新的压力。由于企业在AI基础设施和研发上投入巨额资金，相关价格在生产率提升效应尚未完全显现之前已开始上涨，这可能推高通胀。分析人士认为，美联储在制定货币政策时需权衡AI投资带来的短期物价压力与长期增长潜力，避免过度紧缩或滞后应对，增加了政策决策的复杂性。"
+    },
+    {
+      "title": "DeepSeek updates V4 Pro model, eyes AI agent development - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWF9qWTJjSlBiM2F5WVdxUjJUX2d6MEJxQkZodnRBRWVaUTR1bTFsQ29JVHVjaHdzR1o3QndWbm5Oa3BZOUhZMFRzclZoRTU2ZGF5Z2lIZE1FWW9ZRm51cm8yREwxd3otS2NZWXk0RjJBUlR6TWtOQjhHYWYtc2lQVHB4cVhPUUJibkpCZTFTR0RueFdlV3RQZ0NPR19GSVk2ZDNYWjU1bmlNMDZpd2VhMF93?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-13T04:01:25Z",
+      "summary": "中国人工智能公司DeepSeek更新了其V4 Pro模型，并在AI代理（Agent）开发上推进布局。新版模型在推理能力和效率上有所提升，同时官方表示将重点发展能够自主完成复杂任务的AI代理系统。这一举措显示DeepSeek正从单一对话模型向更全面的智能体生态扩展，以应对日益激烈的行业竞争，并推动AI在生产、办公等场景中的实际应用。"
+    },
+    {
+      "title": "Who Moves Next in the Global AI Race? - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWNlWHVlNWJ4UEhycTRYbVRJR1g1X0plYklDa01YUXQ1bXRKVHFVMjJoaEtnbDN0RUhKU25oZ09rUjg3UU83TzlOZDd2Q0Fjam1vZTF6N241dkpobjNhTHI1MHdVaFphTF9NWXdreXpYdFhGbXJsTGU1X3ZsMVBVNS1JNk0tcHFH?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-13T03:31:16Z",
+      "summary": "文章探讨了全球人工智能竞赛的下一个关键动向。随着美国、中国、欧洲等主要经济体在AI领域持续加码，竞争焦点正从基础模型扩展到算力基础设施、应用生态和人才储备。作者认为，接下来的棋局不仅取决于技术突破，还受到地缘政治、监管政策与国际合作的影响，谁会率先在关键领域取得优势仍未可知。"
+    },
     {
       "title": "Accountability remains human, tech expert warns on AI risks - The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeFI1clJpbnB0MkF4a3JzeWFJQll3UExFdzB3TTJXWVFsOG8tMDg3MXBUREw1blFaSDlnOFh0d01JNDNfUC1qbkZ1X01JVnNqdU9ybFllTXVuZ1poT2ZEcXhfbENqWjRBRDZuekxDZVFFVFpGemRscTI0SXAtR3hXTng4cjhCSUZ0WkpIQw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-13T03:12:15Z",
-      "summary": "《卫报尼日利亚》报道称，技术专家警告AI风险时强调，责任归属仍在于人类。专家指出，尽管人工智能系统日益自主，但其决策和行动背后的法律责任不能由算法承担，人类开发者、运营者及使用者必须对AI造成的影响负责。这一观点引发了关于AI治理、监管框架和伦理责任的讨论，呼吁在推进技术的同时建立清晰的责任机制，确保AI的发展符合社会利益与法律规范。"
+      "summary": "一位技术专家发出警示，在人工智能系统引发风险时，最终的责任仍在人类身上。他指出，AI只是工具，其设计、部署和使用均由人类主导，因此企业和开发者必须对算法决策的后果负责。专家呼吁建立清晰的问责机制，完善内部审计与外部监管，避免因技术复杂性而模糊责任归属，确保AI发展符合伦理与法律规范。"
     },
     {
       "title": "AREAi, Raspberry expand AI literacy in northern Nigeria - The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbGVWWTB5aU1iaG9naUZITndrcUttRFFYS3VtT1lfaE1IeGxCcUI2N2dpMWtSZXhKZlhsZDI4YmNCNVJrbnZ5VDdIZjBhdXJhTjVSWUtmVTBwNTQtRk5LS0N4WUllbEZJM3BOeWZiXzdfZTBxYkJ4SkNhcDQ4Q3FoN2NxRUZNVDA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-13T03:10:58Z",
-      "summary": "《卫报尼日利亚》报道，AREAi与Raspberry公司正在尼日利亚北部扩大人工智能素养教育。该合作项目旨在通过培训、教育资源和社区活动，提升当地民众对AI技术的认知与应用能力，弥合数字鸿沟。此举被视为推动尼日利亚科技教育均衡发展的重要一步，也为当地青年提供了掌握前沿技术的机会，有望促进区域创新和经济多元化发展。"
+      "summary": "在尼日利亚北部，AREAi组织与Raspberry Pi基金会合作，共同扩大人工智能素养教育。双方将利用树莓派等低成本硬件和开源课程，向当地青少年与教育者普及AI基础知识，并通过动手实践培养编程和逻辑思维能力。这一项目旨在缩小数字鸿沟，帮助更多非洲学生掌握未来技术技能，为AI领域的本土创新奠定基础。"
     },
     {
       "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVNZaS1CVkxhb2tfaWgxSUVZWWJxUmdRRERHUXhTS01oVlBTVnkxSU52Rmo4cEpqbW1XeS1XeVNHd2EwSzRJM09WS0hCbmlsYXNVYWY2czlWRW13cEFWanJVUmhjeGFTcmtRX1dRT0J3bmxScDFnLWxVTVhZTGNBc3c3dGozUGpPc1hIWQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-13T03:03:19Z",
-      "summary": "据《纽约时报》报道，专注于收购服务型企业的AI投资公司Thrive Holdings成功筹集了20亿美元资金。该公司以人工智能为核心，整合各类专业服务公司，通过技术赋能提升运营效率和市场竞争力。这笔巨额融资反映出投资者对AI驱动型商业模式的强烈信心，也标志着Thrive Holdings在扩展其AI生态版图、加速行业整合方面迈出了重要一步。"
+      "summary": "专注AI领域并收购服务型企业的Thrive Holdings宣布成功筹集20亿美元资金。该公司采用控股模式，将人工智能技术融入传统服务行业，通过收购并改造各类服务公司提升运营效率。新资金将用于扩大投资组合，进一步布局AI转型中的高潜力赛道。此次融资表明投资者对AI驱动型并购模式的信心，也反映出服务行业正加速向智能化升级。"
+    },
+    {
+      "title": "Opinion: ‘Think of all we love’ — we are at a perilous moment when it comes to artificial intelligence - Deseret News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOHhQSnZYNjlmcTRrZDA2NXpBNWx3b2tUdXN3d0tBTnJFcUNfamFOSklzTGxSNERRdEZIZXJGN1pCQld5eFNDSWtVeWUwLWkweTRQWEUyTXVDNzBaWXFhbXlra0RQbUh2ZHdFb29NUkFQN3huYU0yNGhUMDJCUkdGSHZB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-13T03:00:00Z",
+      "summary": "一篇评论文章警告称，人工智能的发展正处于“危险时刻”。作者以“想想我们所珍爱的一切”为题，呼吁人们重新审视AI对个人隐私、社会公平和人类自主权的潜在威胁。虽然技术突破令人兴奋，但作者提醒，若无适当监管与伦理约束，AI可能侵蚀核心价值。文中强调，在巨大变革面前，社会需团结行动，确保创新以人为本。"
     },
     {
       "title": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is? - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWU0ZlhRbEh1bXA5MjNERkVuQ29HOTgxQ2FicjRtSW5TWUU5UG11bDZsM1lLcG5DTHlVWFMyZ3BwOENhTkRTQ215b1prZmZ3YS1JdEtGaGlBODNGdHAzYjlFQjFPSXFYTmNGdEs4YXVCVDFEdUkxSVZSV01wUnFGMm5jTnZxSFRZZFBJVnAtdW9sTXF3aFFvMnR2aVByRGZ0V3c2dHFLV3dabi1hbkRVYThTUjhXU0YtUGwtRFI2cVBPdDM0NE5tdlJPZVNid3pmaFBz?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-13T02:46:31Z",
-      "summary": "《卫报》探讨了AI代理的法律责任归属问题。专家指出，AI代理不具备法律主体资格，无法为其造成的损害承担法律责任，因此责任最终需由人类承担。文章分析了可能的责任方，包括AI开发者、部署者、使用者以及相关监管机构，并讨论了现有法律框架在应对AI引发损害时的适用性与不足，呼吁建立更明确的规则以规范AI应用并保护受害者权益。"
+      "summary": "专家指出，在法律上，AI代理不具备主体资格，因此无法对自己造成的损害承担责任。当生成式模型或自主系统导致错误、损失或侵权行为时，责任究竟由开发者、运营商还是用户承担，仍存在法律空白。多位法律专家呼吁立法者尽快明确AI产品的责任分配规则，建立有效的追责机制，以应对快速普及的AI技术带来的现实风险。"
     },
     {
       "title": "A next-generation microalgae culture artificial intelligence (AI) control technology has been develo.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCb3RJQ0xfZmhUdVlvRjZfTnNaTWVocVAxNjJGU1Fka3dPRzdudGZZQ1RrS3NQU2RIV2dTRU9yMHNjVTBaTmI1TFRJYw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-13T01:15:08Z",
-      "summary": "据《每日经济》报道，韩国研发出一项下一代微藻培养人工智能控制技术。该技术利用AI算法对微藻生长环境进行精准监测和动态调控，优化光照、温度、营养盐等关键参数，从而提高微藻产量和有效成分的提取效率。这项创新有望应用于生物燃料、食品营养、医药及环保等领域，为可持续生物制造提供智能化解决方案，标志着微藻产业向数字化、自动化转型。"
-    },
-    {
-      "title": "Soaring AI hyperscaler default hedges aren't what they seem - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFFnWUNMaWpDeWFxYlNzUndyNi16SWZKVmEyZ3hDckhWTlJNMGROV2VfMngxbzljVDhkRE9YTFluaVJQbVBJb1FvREFmREZlVGl1TjAtZzNmMjFnNm1HdW5lM3ZOellSMHA2M1lXYklvSVRKdWJ5Tk1abnZyZ2V4WWlZZGtrOW9GelhCZlV6dGpIamZzWFZ0djNfY0lIcXRsYTdtSExzZ2ZMWHN2NHRkMC1OajNEOW1qeFZpNzZndmpXUnZHblE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-12T23:30:38Z",
-      "summary": "路透社报道指出，AI超大规模数据中心相关违约对冲工具的飙升可能具有误导性。尽管市场交易热度高涨，但这些对冲工具的真实风险敞口和定价机制并不透明，投资者可能误判其保护效果。文章提醒，在AI基础设施投资热潮中，需谨慎评估金融衍生品与实际资产风险之间的关联，避免因表面繁荣而忽视潜在的系统性金融风险。"
-    },
-    {
-      "title": "Target Appoints Its First-Ever AI Exec as the Retailer Pushes Deeper Into Artificial Intelligence. What It Means for TGT Stock. - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNjVlZGpISWczUW42NDVFaVhRaTVNRm4tNGk5QjhzTDNkRHpybnFEV0hHTlg5UUJVdW9UaF9XZ1Z2Nm5hdWVaZ3pvUWdYWkFBby1DZTRTcGxuM2EtNDF0YlpKcllkZkdXaTBSSzY0WEVTV2FRdDVVS2J1WXlvUU8xT1hjNFZDcURCSTNTZ1AxdGN3VmxyajkySHF0ZHE1dzIyUFpWc2lGN0pTVjE3NndmOFhwTGFKdDU5dDBGYTlrcS0ycS0zMkppZ3YyQjZ1MUppeXo1Q0kxUzZEQ2FadGprTXJKeTFPTEtsVUo5bDBfSEcwc0FCX09PdWJfWjdfUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-12T23:30:02Z",
-      "summary": "据Barchart报道，零售巨头Target任命了公司历史上首位AI高管，标志着其进一步深入人工智能领域。此举旨在利用AI优化供应链、个性化营销和客户体验，提升运营效率与竞争力。分析人士认为，这一战略布局可能对TGT股票产生积极影响，投资者期待AI技术的应用能助力Target在零售业数字化转型中占据优势，并带来长期增长潜力。"
-    },
-    {
-      "title": "Illustration shows words \"Artificial Intelligence AI\\ - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFBDaEktTUJLeXFjOERKRWZtMl9GTG12Q3ZEaVBxZDE3a1FabTN3SUNVQzBya3o0SjVfMURaUGh5QlByejFSSXRKMFZfcms1bzl3YURfei1wdGRud1VhWUNWb05LZng1YmN4ejVQSTFpZjUwNExvcWxnWkVOenlPMDdwSGZuNmVKUjZwQnh3YUowVFJxM0xSSDZHelhXYVJtWHMxcFU1M0xuVVpFai1Tc05DUVlYZVJRN045Y1YwM0hfMVNMWGxFazhmNS1yUUs5emNUV0tQdy1DdGo2aFo3TUUycw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-12T23:04:15Z",
-      "summary": "《Lufkin每日新闻》发布了一幅以“人工智能AI”为主题的插图报道。尽管原文信息有限，但该图文可能旨在向公众展示AI技术的核心概念或当前发展态势。作为视觉化表达，插图有助于读者直观地理解人工智能的相关议题，反映了媒体在传播科技信息时对可视化手段的重视，也呼应了AI日益渗透日常生活和产业界的背景。"
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-12T22:26:37Z",
-      "summary": "TechCrunch报道，部分Claude用户对Anthropic推出的新水印系统表示不满，担心该技术会在工作或课堂场景中暴露其使用AI的情况。新水印能够追踪AI生成的内容，引发用户对隐私和职业风险的担忧。社交平台上有用户批评此举为“荒谬”，认为这可能使用户面临学术或职场上的不利影响。Anthropic尚未回应争议，事件凸显了AI可追溯性与用户权益之间的张力。"
+      "summary": "韩国媒体《每日经济》报道，新一代微藻培养人工智能（AI）控制技术已成功开发。该技术通过AI算法对微藻生长环境进行智能监测与精准调控，优化光照、温度、营养盐等关键参数，从而提升微藻生物质产量与培养效率。微藻在生物燃料、食品保健及碳减排等领域具有重要应用前景，此项突破有望降低生产成本并推动相关产业规模化发展。研究团队表示，未来将进一步融合物联网与大数据，实现全自动化的智慧培养体系。"
     }
   ]
 }
