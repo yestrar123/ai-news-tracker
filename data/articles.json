@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "3687",
+      "title": "DeepSeek raises some V4 prices by more than 10x as AI demand strains capacity - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNld3NEVLV3RXb1ZDdTdFMkU1T25hX21kMHVGanViSVA4WVhoSWFORlc5UFpWV1dSNHdlc0dNdFhXWjlQanBUYUhPaS00SExzaV9rajhRb202Vk9Yeks1OWtSeE5oNmtxbnphTVA5OFAwcVJCOTJYb3dyc2NDYVNnQ3pqeUp0MUVFR3U4MkZHcHIzVjJqLURhcHM4YnViYWdqVnE0UGF0V3pWYnJVR2RWSV84NkZPTklIcUtFa3NWUS1QZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T02:14:17Z",
+      "summary": "据InfoWorld报道，DeepSeek将部分V4模型的定价大幅上调，涨幅超过10倍，原因是AI需求激增导致算力容量紧张。这一调价举措反映出当前AI算力供不应求的市场现状，DeepSeek正通过价格机制平衡需求与资源分配。分析人士认为，此举可能影响下游开发者的成本结构，并促使行业寻求更高效的算力利用方案。",
+      "fetchDate": "2026-08-14"
+    },
+    {
       "id": "3678",
       "title": "Pittsburgh artificial intelligence security firm quadruples footprint and promises to double workforce - Pittsburgh Post-Gazette",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWZpQXhNWWZqQnZ0NzRGaDdneDQ3UFo1bFlYSl8zQWVwMEczQUhMMTNCek5CZnl0d3lvaHhGNS11R2I0Z0xDc082aVVpOElTcC1OcUhmbmp0OHZmTllqRFpvZFk1bzRIWVZTdDFzMDI4b0ZPSW5UdG5uZkxFbFhPSjJkclF3dks1Yl9wR2duWUU1VWRNQ0pGV2ZSeUE1WFAyR3QxZFdxTkVZeWY4U1Zoa291bTU3ODMtSXhFYTg2LVdrTHBsdzBUT3k0Q0ptRUZId2pBbmJn?oc=5",
@@ -33166,5 +33175,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3685
+  "total": 3686
 }

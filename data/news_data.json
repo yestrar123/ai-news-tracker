@@ -1,69 +1,34 @@
 {
-  "updatedAt": "2026-08-14 01:00:01 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-08-14 03:57:00 UTC",
+  "totalArticles": 4,
   "articles": [
     {
       "title": "Pittsburgh artificial intelligence security firm quadruples footprint and promises to double workforce - Pittsburgh Post-Gazette",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWZpQXhNWWZqQnZ0NzRGaDdneDQ3UFo1bFlYSl8zQWVwMEczQUhMMTNCek5CZnl0d3lvaHhGNS11R2I0Z0xDc082aVVpOElTcC1OcUhmbmp0OHZmTllqRFpvZFk1bzRIWVZTdDFzMDI4b0ZPSW5UdG5uZkxFbFhPSjJkclF3dks1Yl9wR2duWUU1VWRNQ0pGV2ZSeUE1WFAyR3QxZFdxTkVZeWY4U1Zoa291bTU3ODMtSXhFYTg2LVdrTHBsdzBUT3k0Q0ptRUZId2pBbmJn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-13T23:50:24Z",
-      "summary": "匹兹堡一家人工智能安全公司宣布大幅扩张，办公面积扩大至原有四倍，并承诺将员工数量翻倍。这一举措反映出AI安全领域市场需求快速增长，公司业务规模持续扩大。虽然具体业务细节未披露，但作为专注AI安全的科技企业，此次扩容表明其正积极应对企业级安全防护需求的上升，同时也显示出当地AI产业生态的蓬勃发展。"
+      "publishedAt": "2026-08-14T02:50:36Z",
+      "summary": "总部位于匹兹堡的一家人工智能安全公司宣布大幅扩张，其办公面积扩大四倍，并承诺将员工规模翻倍。此举反映出AI安全领域需求的快速增长，公司业务规模与团队能力均迎来显著提升。此次扩张也表明投资者与市场对企业级AI安全解决方案的强劲需求，预计将带动当地科技就业与产业发展。"
+    },
+    {
+      "title": "DeepSeek raises some V4 prices by more than 10x as AI demand strains capacity - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNld3NEVLV3RXb1ZDdTdFMkU1T25hX21kMHVGanViSVA4WVhoSWFORlc5UFpWV1dSNHdlc0dNdFhXWjlQanBUYUhPaS00SExzaV9rajhRb202Vk9Yeks1OWtSeE5oNmtxbnphTVA5OFAwcVJCOTJYb3dyc2NDYVNnQ3pqeUp0MUVFR3U4MkZHcHIzVjJqLURhcHM4YnViYWdqVnE0UGF0V3pWYnJVR2RWSV84NkZPTklIcUtFa3NWUS1QZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T02:14:17Z",
+      "summary": "据InfoWorld报道，DeepSeek将部分V4模型的定价大幅上调，涨幅超过10倍，原因是AI需求激增导致算力容量紧张。这一调价举措反映出当前AI算力供不应求的市场现状，DeepSeek正通过价格机制平衡需求与资源分配。分析人士认为，此举可能影响下游开发者的成本结构，并促使行业寻求更高效的算力利用方案。"
     },
     {
       "title": "AI Just Got Its First 24/7 TV Channel - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaXNPZHl6c0JCNi1BcFFSbFdYS2hoRnF6TUEwSkZKOS1wTTVuMy1XZ05WRGNyd0ZOZFpHUDJrZkViN2t0MDRYVjdqV3dLeTFEeTBORklTM0hreXYySzBzay1ibEU4S1MtMU50LWFuVXJUTDhHZlNRSkotN2lQRmtUODhwUTc1dk1tbkpWa0NneXNQNEpHbVR1eWJpOA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-13T23:46:18Z",
-      "summary": "全球首个由人工智能驱动的24/7全天候电视频道正式上线，标志着AI在媒体内容生成与传播领域迈出重要一步。该频道能够不间断地自动生成和编排节目内容，开创了全新的媒体运营模式。这一突破既展示了AI在创意内容领域的潜力，也引发关于内容质量、版权责任以及人类创作者角色等问题的广泛讨论。"
+      "summary": "据PYMNTS.com报道，AI迎来了首个24/7全天候电视频道。该频道可能由AI自动生成或编排内容，实现不间断播出，标志着AI在媒体内容生产与分发领域的应用迈出新一步。这一模式有望降低传统电视制作成本，并为观众提供个性化、即时更新的节目体验，同时引发对AI内容质量与监管的讨论。"
     },
     {
       "title": "AI Looms Over Software: A \"SaaSpocalypse\" Risk? - StartupHub.ai",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGlrdGVVa2Izd1hna1NsNzd1Vkl6UzhBWXpOcFRMNW15Ni1zcjM4U3ZyUHlzWklMeFhfYWFUN1AtNXZmVlJuUml5Sm5OMGw4b0FpV29DNWVfUEsza0dkLVhiQy1vZHpiUVVKWEtGVkVQYmJ4UnFHMWc5RDZDQlRsWTJJYmltWnY2RGNkWnpaYzJOeXRfRW5oWGFmRlRUNjZYZWFRQkJVdHRiZw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-13T23:08:10Z",
-      "summary": "文章探讨了人工智能对软件行业的潜在冲击，提出了“SaaSpocalypse”（SaaS末日）的概念。随着AI原生应用逐渐具备传统SaaS产品的核心功能，基于订阅制的软件商业模式面临被颠覆的风险。AI能够自动完成复杂任务，可能削弱现有软件的护城河，迫使软件公司重新思考产品价值与盈利模式，否则可能被快速淘汰。"
-    },
-    {
-      "title": "What Do People Really Think About Generative AI? - Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVndqMlN4aXBqbmZsa19yaUFOZWJWRldPdXhJNjVzY1VORGwxaGp0dDVReGhRcmFaLU1ELUN3blhRWkJ2d0kyaGh0QWpSdHlNZWR1Rng3dnloVTdoX09XNEtxdk1oOVB2UWhqOXZBTkhjV2Qzb3hPZ0IwWDZWUmdpeUxkaG1EREJYU05SaU5yVjE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-13T21:49:54Z",
-      "summary": "关于生成式AI的公众认知调查显示，人们对这一技术既充满期待又保持警惕。生成式AI在提升工作效率、激发创造力和辅助决策方面的优势获得认可，但数据隐私、算法偏见、版权归属以及就业替代等担忧同样突出。文章强调，技术开发者与政策制定者需要倾听公众声音，推动透明和负责任的AI发展，以赢得更广泛的社会信任。"
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T21:13:24Z",
-      "summary": "AI初创公司Writer推出全新AI模型及升级版推理框架，旨在有效控制token成本。新模型作为Z.ai开源模型GLM-5.2的后训练变体，具备部署就绪能力，且价格显著低于同类产品。升级后的框架通过优化推理过程减少token消耗，帮助企业以更低成本运行大规模AI应用，进一步推动AI技术的商业化落地。"
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T20:14:39Z",
-      "summary": "数据与AI公司Databricks以1900亿美元估值完成50亿美元融资，远高于最初计划的10亿美元。CEO阿里·戈西透露，投资者认购需求高达150亿美元，公司最终选择超额募集。他表示AI研发成本高昂，额外资金将用于加速技术投入和扩展业务。这一事件凸显了资本市场对AI赛道的高度热情，也为大规模AI基础设施建设提供了资本支撑。"
-    },
-    {
-      "title": "An AI agent for all? Try using your brain, Mark Zuckerberg | Brief letters - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUQzZVJhT1NBYkxxQ2FFTlZ4Wk4zcmw3VGktbFB1VXBrOXVBenRwOEU3dFVOcUFPekR1MkZSaTdJY3BTNjEtUHFaOVBjMFFUQ0EweFc0WEJWN0ZMRDh3N1ZybjdWdnNoeVN0ZldOSlhJUHRaZGMxX25GcTNzSlpBM3N3b2ptUVNCWDNBMHBMdk1fTlFnU05OcVJKemowVUk5TEdpUDJQV01xbnM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-13T19:40:00Z",
-      "summary": "《卫报》读者来信对扎克伯格“为所有人提供AI代理”的愿景提出尖锐批评，讽刺其忽视了人类独立思考的价值。信件回应了科技巨头对AI代理的乐观宣传，认为过度依赖AI可能削弱人的判断力，并质疑AI技术大规模普及的真实收益。这一讨论反映了公众对AI炒作情绪的警惕，以及对于技术工具理性使用的深层诉求。"
-    },
-    {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T19:22:40Z",
-      "summary": "OpenAI推出“Ultrafast”预览模式，使最新旗舰模型GPT-5.6 Sol的推理速度提升至原来的14倍。该模式专为企业用户设计，通过加速推理流程，在保持模型能力的同时显著缩短响应时间，降低使用成本。此举是OpenAI吸引企业客户的重要举措，也标志着大模型在追求高性能与高效率之间取得了新的平衡。"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T19:19:49Z",
-      "summary": "IBM与OpenAI达成战略合作，共同推进企业级AI应用落地。作为合作的一部分，IBM计划培训并认证数万名咨询顾问掌握OpenAI的核心技术，以便更好地帮助企业客户集成和部署AI解决方案。此次合作将IBM深厚的行业服务经验与OpenAI领先的模型能力相结合，有望加速AI在多个商业场景中的规模化采用，进一步巩固双方在企业AI市场的竞争力。"
+      "summary": "StartupHub.ai发文探讨AI对软件行业的潜在冲击，提出“SaaSpocalypse”（SaaS末日）风险。文章认为，AI技术的快速发展可能颠覆传统SaaS模式，通过自动化生成软件、优化业务流程等方式，削弱现存软件公司的订阅收入与市场地位。这一风险促使创业者和投资者重新审视软件行业的长期价值，并思考如何向AI原生方向转型。"
     }
   ]
 }
