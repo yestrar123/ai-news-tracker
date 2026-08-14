@@ -1,83 +1,111 @@
 {
-  "updatedAt": "2026-08-14 12:38:40 UTC",
-  "totalArticles": 11,
+  "updatedAt": "2026-08-14 18:39:10 UTC",
+  "totalArticles": 15,
   "articles": [
+    {
+      "title": "AI's Efficiency Race: Data Over Models, Says VC - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2tHYlNkZW80ajVnUmlOU09CRnljTk5FcmNaQnhKQ0JDT2l4NldtZWs3ck1EMHpUMFg5VlBuYTVybERIOUpIbW44VkFzcktqQzJSb2tMc1pGUlM2UXBOcnJ1bW84a1ZEYm5ueWx1a2NpRmpDMjhRaDhXWDZnWDNpRXV5QWJsM3N0cjZwOUhSejd4cVppdkVUWEVKMTFPRVI4cEhCQVV3RUl3Nnd6?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T16:22:52Z",
+      "summary": "风险投资人指出，AI领域的竞争重心正从模型规模转向数据效率。StartupHub.ai报道称，在当前的AI效率竞赛中，高质量数据的获取与利用比单纯堆叠模型参数更为关键。这一观点反映了业界对训练成本、推理效率和实际落地效果的重新审视，数据质量和数据工程能力成为决定AI应用商业价值的新焦点。"
+    },
+    {
+      "title": "AI Agents Learn Human Web Browsing via CDP - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0FBMVBVZDV0M1Z0QTcxR3Jpc2RwZG9nU3BHOUxlbFdiajN0OGtCZ0NuNlVaZzBpLW4wSklSZEczWUotR2wwc1ZZOVcwMDZkd2tVcFlVenBYSEk1dmh2N19ZeTVKY2t5NEFORUFTY0s1N1FnU2hUNE5SZW5JRjM4VTBwVzhlLUJha0hBaDlGWmx6aVplV0NTcXR3VHZJMXluQlVUTUdORFY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T16:18:49Z",
+      "summary": "AI代理正通过学习Chrome DevTools Protocol（CDP）来模拟人类网页浏览行为。CDP提供了与浏览器交互的标准接口，使得AI能够像真实用户一样操作页面、点击元素、填写表单。这一技术路径有望提升AI在自动化测试、网页数据抓取和智能助手等场景中的实用性，让AI代理更自然地融入现有Web生态。"
+    },
+    {
+      "title": "Paul Klein: AI Agents Need Better Web 'Harnesses' - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2d1Rnc0T3B1cUUwVHN5YlBmbzBZNG12VURuWXgwcnRQWEZqVmktdWRvOHVnNTdldHllbzE4ZkZSX0p5dDNjb09RNWRjOU1RcGtRN2lFLVBzZXBDdHhOZER6VnJUcFBPNXhMSFQyNkVycXoyS2tnblYwcTgtSFNiYnNqTm5JdkQ0c1RGeE45end0REZCMUpfOE5tcXZCUWdrSkIxUDVxa3U4WXVVanc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T16:17:40Z",
+      "summary": "Paul Klein认为，AI代理需要更好的Web“缰绳”（Harnesses）——即更完善的约束与控制机制。他提出，当前AI代理在浏览网页时缺乏足够的结构化引导和边界管理，容易偏离任务目标。设计更精细的网页交互框架和安全限制，将有助于提升AI代理的可靠性、可控性和执行复杂任务的能力。"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T16:13:40Z",
+      "summary": "谷歌宣布允许用户从AI生成内容中移除可见水印。用户关闭该设置后，生成内容将不再显示显式水印，但不可见的数字指纹仍会保留，用于识别文件是否由AI生成。此举在保护溯源能力的同时增加了用户对内容外观的控制权，兼顾了透明性与用户体验。"
+    },
+    {
+      "title": "Travis Kalanick on \"Industrial AI\" and the Future - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWt6cFk2YTUtZVFTbGRvbVh0QzMtdlFKWF9xRW1Td01FVXdycTl1SUlPTWxBUkRWRFZwMXhRaHFGMXJpZWVlRVpGcUhkYWpKTUVTSWpEQ0sycURIWUQ3T2tvZjZ0THJucXdtSHFHRndDZHBCOVNhSng3V0tLMFQwV19BcVpzNlE5WjRQSVd6emlUSWlpN25zYUs4Qk05Wk9oVVR4U01LaWxYMTJTRkJF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T16:05:13Z",
+      "summary": "优步联合创始人Travis Kalanick就“工业AI”发表观点，认为AI在工业领域的应用将深刻改变未来。他强调，工业AI不同于消费级AI，更注重与物理世界结合，如物流、制造、供应链等场景。Kalanick预测，AI对真实产业的重塑将带来比互联网更大的效率提升，并催生新型基础设施与商业模式。"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T15:43:28Z",
+      "summary": "Meta本周发布开源权重AI模型Glimmer，任何人都可下载并在自有硬件上运行，而功能更强的Muse Spark模型仍保留在Meta的API之后。扎克伯格同时发表公开信，主张AI应“为每个人服务”，而非被少数实验室垄断。但评论质疑其动机：开源模型与封闭旗舰并行的策略，究竟是真开放还是以开放之名巩固生态优势，值得深思。"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T14:50:11Z",
+      "summary": "法国初创公司Kog认为，认为GPU不适合智能体工作流是一种误解。该公司正致力于更深层地挖掘GPU的推理潜力，通过优化底层计算和调度，让GPU在AI代理场景中更高效地执行推理任务。其技术路线可能涉及内核级优化和更智能的资源分配，以突破现有性能瓶颈，降低agentic AI的部署成本。"
+    },
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T14:05:00Z",
+      "summary": "一项新预测警告，美国部分地区天然气价格可能上涨两倍，这或令押注天然气的超大规模数据中心运营商面临巨额电费账单。随着AI数据中心电力需求激增，许多云巨头转向天然气供电。但价格波动风险被低估，一旦预测成真，电力成本将严重侵蚀利润，促使行业重新审视能源多元化策略。"
+    },
+    {
+      "title": "Hippocratic AI rolls out platform to coordinate teams of conversational voice AI agents - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVzZGT0h5Ny1reHhHQzBFVlBuaEdfZ2lVR245S0RHQko0enNMUUFMZGlvUHRqdTBNTjE5TFA3NjNxYTZtRm1yOFkwUUN6LW9ueUtuUzZxS2duWFhJQTR4anRtcTdzSEJpZFYxMUVsSVU3anJSNVhQYnUxSW9ESk10MUNMY2xadWtwNlJPeHZyNW9JY0puUVhVXzhiMjBuQ0VUYmNrV1FXd29fOFEteGVvMDFGVWY2dlRkWVhvME9PTHdHajJ6TTJZeA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T14:00:00Z",
+      "summary": "Hippocratic AI推出一个协调平台，用于管理多团队会话式语音AI代理的协作。该平台旨在整合医疗场景中的各类语音助手，使其能够协同完成患者沟通、预约提醒、用药咨询等任务。通过统一调度和对话管理，平台可提升医疗服务的响应效率与一致性，同时降低人工干预需求，但需确保安全合规。"
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-14T14:00:00Z",
+      "summary": "Meta发布开源权重模型Glimmer，与API绑定的高端模型Muse Spark形成对比，同时扎克伯格发表“AI为每个人”的公开信。然而，一篇报道以“2.5亿美元交易彻底失败”为切入点，质疑Meta开源战略的真诚性——开放低配模型、保留高配壁垒，是否只是受监管压力或舆论影响的策略性姿态？开放承诺的实际边界引人关注。"
+    },
+    {
+      "title": "Samsung health AI models analyse wearable biosignal data - artificialintelligence-news.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXJhMWtFeTNHZ19tSk5JRzVKYUIwQ1c3WWhvQS1ISTFKT3I2dmR1aGpDeWZNbG13Ym1hRkpVNzRqM0taRXpUUFFDazktVmxSQ2tLQ2o4Q3VSUEpHQ0lsRHZaeGZBZDZpdXFfUmFxZ1J2bFctYy1MdktkVjY3OWw5NDZtTFRyZWd6RjI3aUFvTHl6UXYtbl8zTU50ZGhuZmNaTVZHdUJjZ2gyUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T13:31:29Z",
+      "summary": "三星健康AI模型近日亮相，专注于分析可穿戴设备采集的生物信号数据。该技术利用人工智能算法处理心率、活动量等健康指标，旨在为用户提供更精准的健康洞察和个性化建议。此举标志着三星在医疗健康与AI融合领域的进一步布局，有望提升智能手表等设备的健康管理能力，也为未来预防性医疗和远程健康监测提供了新的技术支撑。"
+    },
+    {
+      "title": "AI forum in Derry to explore how artificial intelligence is reshaping society - Derry Journal",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZDZmcU44VW5nazhiRWVoZkkyVjVyU01haGJ6b2Z4T1MxYmRiN1IzWW1LWGs4bzhwMHdLUDRHeWQ0LVBxV05yNWxkT0tqWGJQbkswTk9NVTlzN1RCTzhrbktZaHV0WlNmOWV3aVNxbm5neXhDZXNJMjZNQkgtWkdrUk94aHJCdTk5dFR2c0loQlhIOTRpZGZRR2h4UHpHNVlaNjVWbHZpQWZwNkRXTkZ6Q29ncm81b3BNdEZpUlZPTkptMEFP?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T13:31:00Z",
+      "summary": "英国德里市将举办一场人工智能论坛，探讨AI如何重塑社会。论坛将聚集专家、学者和行业人士，围绕AI在就业、伦理、教育、公共治理等领域的广泛影响展开讨论。活动旨在增进公众对AI技术的理解，并促进政策制定者与科技界之间的对话，以应对技术变革带来的机遇与挑战，推动AI向造福社会的方向发展。"
+    },
     {
       "title": "A New Artificial Intelligence (AI) Company Has Cracked the Top 5 Most Popular Stocks on Robinhood - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFlvZjRkc1hZaDRqVC02Q3daXzhxTXZuMzBmRXlKMEFERDhHVnVqSVNKV2VkMVJXeTRnMjNhY1pmMGJndGVmcms1Y0QtaHpsOW41SlJTSk02Q1V3a0RTdERILUZ1QlFnTHZRMFVaOVdYRXFBVkxFMnBGSzM1aWx3Rnd4VW51X1ZYVlY1WU9IeUd3MXNYRUNYSA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-14T12:31:19Z",
-      "summary": "据The Motley Fool报道，一家新的人工智能公司已跻身Robinhood平台最受欢迎股票前五名。这一现象反映出散户投资者对AI赛道的高度热情，也表明新兴AI企业正获得越来越多的市场关注。尽管具体公司名称尚未披露，但其快速攀升至交易热门榜前列，显示出市场对AI技术商业化前景的乐观预期，以及散户资金在该领域的活跃配置。"
+      "publishedAt": "2026-08-14T13:05:00Z",
+      "summary": "据The Motley Fool报道，一家人工智能公司新近跻身Robinhood平台最受欢迎股票前五名。这一现象反映出散户投资者对AI概念股的强烈兴趣，也显示AI行业在资本市场上的热度持续升温。尽管具体公司名称未在新闻中披露，但该排名变化通常意味着该公司近期有利好消息或市场关注度激增，可能对相关AI板块的投资情绪产生带动效应。"
     },
     {
-      "title": "Not Micron, Not Sandisk. This Artificial Intelligence (AI) Memory Stock Could Be the Next Nvidia. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT1lqZTE3dmJEaW1sd0hsdGs2NWMzR2tycU1JLTlYVW9XUk1SM2ZoY0lGendPdmVTanNvNWpvRnIwTkxIdTVNRzg5TzZtMzA5ZUw0a25jZ1RYY1N6MFcxMUZ0UXVvYmM5M3ZZejNaYXJ0MVFuNDNib05FQVRXTkdpR3RjdVlWeWVTdjhUTURfdTFseXNLZTBTYg?oc=5",
+      "title": "Why the AI Jobs Panic Is Overblown - The National Interest",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTG40UWhoSktld3lrQmRlTE90dmJLY05vMFVzUFhpWldHTnFnWlBYRWQ4dmFZdWI0dHZrZUxpUzZkM0t2bE5EZE5kUnpkUE11cjhvOWFIenNPTzZaYnNyc19BdnhIWUtaQ1dJZ2dxaXIxQXUydE5VQVBTaTRkcldoODZDbw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-14T11:28:31Z",
-      "summary": "The Motley Fool刊文指出，在美光科技和闪迪之外，某家AI内存公司有望成为下一个英伟达。文章认为，随着AI算力需求激增，高带宽内存等存储技术成为关键瓶颈，这家公司凭借技术创新和产能布局，可能复制英伟达在GPU领域的增长轨迹。投资者正密切关注其能否抓住AI浪潮带来的结构性机遇，从而在芯片产业链中占据核心位置。"
+      "publishedAt": "2026-08-14T13:00:36Z",
+      "summary": "The National Interest发表评论文章指出，关于AI导致大规模失业的恐慌可能被夸大了。文章认为，虽然AI将改变某些工作岗位的性质，但历史上技术变革更多是创造新职业而非完全消灭就业。AI目前更多是辅助人类提升效率，短期内难以全面替代复杂的人类判断和创造性工作。作者呼吁理性看待AI的就业影响，并重视技能培训与政策适应。"
     },
     {
-      "title": "Not Micron, Not Sandisk. This Artificial Intelligence (AI) Memory Stock Could Be the Next Nvidia. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMG8wQmhwQjZCY2FyUUNGc0FyWjV2b0hoOUoxRmswQzNfbFlvTmpWc0g3dm5WRWxKOXFzZkVkdjZPZ1J3YjhuS0J5bGhocFdpcWt3WWRXb0NBcXZrUVF4VUZlbTV1X1NESUJuaFM4ZXdCZmxOQ3lpZHduNHJYLWtxV2RFZ0hrQlZCT0hYU2VIRklCV0ZqaXVZUnIwVFU1eUk?oc=5",
+      "title": "Microsoft brings Copilot apps together ahead of ‘super app’ overhaul - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVEFGTTRfVVlWSmg2Q2dwdEZ2RnF2Ny1kbk5vTWNGS21ONTdPM3V6Mzg3dnFEVG5Remg5TWNtME14M1dJQnZ2b1lsNldicjVFZHdPTWRUVjNuNWFXNFVqb3otWUN6U0xSaXhPaGU2c09qcTU4MDZSNE53dDhwUDd6ZF96YUZnWWxVSWJkZzNXamU1Y1BUQnRTT1E1ZUg2aERhOC1EN0Q5c2U5ZDZFenB3YXQ1emJQMEky?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-14T11:20:00Z",
-      "summary": "Yahoo Finance转载的报道称，当前AI热潮中，存储芯片领域或隐藏着“下一个英伟达”。文章提示，美光、闪迪虽广受关注，但另一家AI内存公司更具潜力。分析指出，AI模型训练与推理对内存性能的要求日益提升，具备先进制程和定制化能力的企业，有望在需求爆发中实现业绩与股价的双重跃升，成为市场下一大赢家。"
-    },
-    {
-      "title": "New EU rules on the use of Artificial Intelligence: How AI-generated images & text will be identified - ProtoThema English",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTUh4d2RoV1dLREJ2LWIwMTA3cmgybGZja0ZnVHo3cmxjc0U2NS0wWHFINEl3MFNKV0ZJdVBpTzJkbXNPanE1TUFvSThGWFhQcUhMNE5mUnA4UE1HM3FNbTRYRGplZmJsX1d1WXQ2X1BpYjZUVXc5bUhrbDVTYlcwZ05haXU4ZFNCNmN4MEJ5MmxLQ0EzSXphODZkcGxVTXczMGpkVFRYa2JnZ015LWhKaWVILVpjUzFLT0lqNTA4aFZWNEVLM0otdzdqMlZFQ0Ft?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-14T10:47:00Z",
-      "summary": "欧盟出台人工智能使用新规，要求对AI生成的图像和文本进行明确标识。该规则旨在提高AI内容的透明度，帮助公众识别深度伪造及合成内容，防止虚假信息传播。新规覆盖多种AI应用场景，要求开发者与平台在显著位置标注生成式AI产出物，并建立可追溯机制。此举被视为全球AI治理的重要里程碑，也为科技企业合规运营提出了更高标准。"
-    },
-    {
-      "title": "The Reverse Centaur’s Guide to Life After AI: How to Think About Artificial Intelligence Before It’s Too Late – book review - Counterfire",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUERqemd0Xy0yN25vUEtKTXVkZThlQUhoMkJUaGhQa1g1ZUJtaFIyemZ0ZDU4bmUxdi1SSzlTQnZuQmJXUmE1RmhiZXRtSWV6TzdVZFVla3d5c3VvUmZuLVdna29tNUJnb0RhYmVjM3BFNi1KdnZiM1Utd01hV2FrTkNNSldYYm1MazY3LWZON2F0ZzlPTmlCNHhWU2dPQml1SF9kTENCNDRqZkJHNHZiUDBnWjdtdmRkU0xVc0NraVFOc2ViWmNxWVVySDR6QU9XdWJYN2ZTVWpqdEtmREktdDZpY2c3dl9RYkNj?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-14T10:30:47Z",
-      "summary": "Counterfire发表书评，评述《The Reverse Centaur's Guide to Life After AI》一书。该书探讨在人工智能深入渗透社会后，人类应如何重新思考自身角色与价值。作者提出“反向半人马”概念，强调人机协作中人类主导性的回归，并警示技术依赖可能带来的认知退化。书评认为，这本书为理解AI时代的生存策略提供了富有启发性的框架，值得决策者和普通读者关注。"
-    },
-    {
-      "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcE9hc2tWbG9kSFk5VHo2QzZVVmw3azRobHp5eUsxRkdfWmZYTDdjc2RlREZYQXQzdG1YSWFVR3BiTV81bm9lb0h0aE1OcWJONEYxMlNFTG5GOUZWQ29fUmUyVEE5SGZvSjJtZWdPYk5qTUhrYWo4QUtBYzM3dVdEd2tYUmlLRV9Cc0F2ZzhHZ3IwSUV0TEI4UkVWVkRQNVBOVUNVT0p6WWVhbUNmREdZNUlnQjhXSldudmlINTFkc0VKYXdN?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-14T10:12:30Z",
-      "summary": "据香港《英文虎报》报道，中国AI公司Z.ai表示，其新发布的模型在网络防御测试中性能已接近Anthropic的Mythos 5。这一成果标志着国产大模型在安全对抗领域取得显著进展。Z.ai称，该模型在漏洞识别、攻击模拟等测试项上表现优异，与业界顶尖水平差距缩小。此举有望增强市场对中国AI技术实力的信心，并推动网络安全领域的自主创新。"
-    },
-    {
-      "title": "Google AI health coach to use Abbott glucose data - AI News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWVqWmtPODl0UDRONnlhV05nU0hBSEhrMmZ3ZmVPc25oOUpaaUJqRlJHcFlKYktsX1B1WFFCdldSdnM1cnQwOTRaZTJndExMdUthWHJXM1l0THVTSV9vRFl5bHgtc1doN3JkbzF3UG9OUkQxaVBPZVVyYlRqNVBidk4zd3lSRWdYYW1KaUM0LUU1eGhkdWxF?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-14T10:03:35Z",
-      "summary": "AI News报道，谷歌的AI健康教练将整合雅培（Abbott）的血糖监测数据。通过这一合作，谷歌的健康管理AI能够实时获取用户血糖变化，并结合饮食、运动等数据提供个性化健康建议。该功能旨在帮助糖尿病前期人群及健康管理用户更好地控制血糖水平，预防代谢疾病。这也是科技巨头与医疗设备厂商在数字健康领域深度融合的最新案例。"
-    },
-    {
-      "title": "Google cuts Gemini 3.7 Flash prices as enterprise AI economics diverge and Pro cadence slows - InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHdtTVhTTUM3V0NWc1h1SnBBN3lTUUs3ZklfbVlhMVRQNkszSEZSOVZQWll1MjgyYUhSXzR1cDI4WW9FbU92QktCamcxOEY3N2FSN2c2dnFBTHFtZ0hVdHg1LUhVTno1N3pXeFBPVEgzWFlEX1pkVWdkRXZYZ3RSdk5qRnRwSDFiVC1QcEkyVGZ2bHpQX2xtRTVvLU03WGFOOVc5WnZEMm5meTVwNVdkSkZScURNUjRuRnQ4S1BNQ0U2aW9CQlpady12YnQwZ2wwdEtkeFJn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-14T09:40:37Z",
-      "summary": "InfoWorld消息称，谷歌下调了Gemini 3.7 Flash模型的价格，同时调整了Pro版本的发布节奏。此次降价反映出企业级AI市场竞争日趋激烈，不同层级模型的经济模式出现分化。Flash版本以更低的成本吸引开发者和企业用户，而Pro版本则更注重高性能应用。谷歌的策略调整表明，AI厂商正针对多样化需求灵活定价，以扩大市场份额并优化资源利用。"
-    },
-    {
-      "title": "Prediction: 2 Unstoppable Artificial Intelligence (AI) Hardware Leaders That Will Join Alphabet in the $4 Trillion Club by 2028 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOeXlBMVpFMFlYb3pBZkJIb19iN2FMMWRQYkhWLUk5bkFmVnBKMzFKclJZLWdjTzhsZHNQajhxNlkyRllRM1FQYTdoQlU0QThCdEZlODYyY3duNVNOQk5KRjdreW1jc0dQMXZ5Y0lnb2VyRlU2Z20tSnVRWWd4RlFiQmM2QUJNVHQwYWFYb0FqWmhPZVpUR012YXhUTDNMYjE2MV9oY1pUUk5Ec3R3eXhUMEZXWTdUSkV1V2RaUDY0bktkUFd3aTlwSEVXVjFPRktBeWp5YnM5ak0tU0oxbVE2MllqNjhWNVhka0NKTE1kUzNudG8zaGlTeThwTHhCQTZ4TnhyT0FlbV90NWcyQ3BweV8xN2NGMW9IMjU0UjFreG9xV0EwanB2OXh3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-14T09:12:13Z",
-      "summary": "The Globe and Mail发布预测称，到2028年，将有两家AI硬件领域的领导企业加入由Alphabet领衔的“4万亿美元市值俱乐部”。该预测基于AI基础设施需求持续爆发，包括AI芯片、服务器、网络设备等硬件环节受益明显。文章虽未明确点名具体公司，但认为这两家企业将凭借技术壁垒和规模优势，在下一代AI计算浪潮中实现指数级增长，重塑行业格局。"
-    },
-    {
-      "title": "Pittsburgh artificial intelligence security firm quadruples footprint and promises to double workforce - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWZpQXhNWWZqQnZ0NzRGaDdneDQ3UFo1bFlYSl8zQWVwMEczQUhMMTNCek5CZnl0d3lvaHhGNS11R2I0Z0xDc082aVVpOElTcC1OcUhmbmp0OHZmTllqRFpvZFk1bzRIWVZTdDFzMDI4b0ZPSW5UdG5uZkxFbFhPSjJkclF3dks1Yl9wR2duWUU1VWRNQ0pGV2ZSeUE1WFAyR3QxZFdxTkVZeWY4U1Zoa291bTU3ODMtSXhFYTg2LVdrTHBsdzBUT3k0Q0ptRUZId2pBbmJn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-14T08:50:27Z",
-      "summary": "据《匹兹堡邮报》报道，当地一家人工智能安全公司将其办公面积扩大四倍，并承诺将员工数量翻倍。该公司专注于利用AI技术提供网络安全防护解决方案，业务增长迅速。此次扩张反映了市场对AI安全产品的强劲需求，也体现了匹兹堡作为新兴科技中心的吸引力。公司管理层表示，将加大研发投入，吸引顶尖人才，以满足客户日益复杂的安全挑战。"
-    },
-    {
-      "title": "Similarweb Adds AI to Competitive Analysis - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3BTelkxVGI5em9PYkRkVzBHcEQwY0ZEOWFLcTVSZFFjZzF6d0Y3anI5X3lhMW5yYng2ZWZlY3dnb2M3NkxVbGRzUWNoQ05wcVhSU2h1UVNvRjVzOEE3bHZxNTVTZEVHWFo2N3RxTVpXVXg2R2htVDZDdkJhUjB6RlpPdHdCZExjYlRFaS11WmItNEpOZkp3NldmVlVPXzkzNGs1Wm5BSU0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-14T08:02:10Z",
-      "summary": "Similarweb宣布在其竞争分析工具中引入人工智能技术，旨在帮助用户更高效地洞察市场动态和竞争对手表现。该功能将利用AI算法自动整合和分析海量数据，提供更精准的流量来源、用户行为及行业趋势预测。作为一家专注于数字情报的公司，Similarweb此次升级有望简化竞争情报流程，辅助企业制定数据驱动的决策。这一举措也反映了AI在商业分析领域的深入应用，未来可能进一步重塑市场研究行业的作业方式。"
+      "publishedAt": "2026-08-14T12:42:42Z",
+      "summary": "微软正在整合其Copilot相关应用程序，为打造一个“超级应用”做准备。据报道，微软计划将多个Copilot功能模块统一到同一界面或入口，以简化用户体验并强化AI助手的跨场景能力。这一战略调整反映出科技巨头正加速向集成化、平台化的AI服务方向发展，未来用户或许能通过一个应用完成文档处理、数据分析、代码编写等多种任务。"
     }
   ]
 }
