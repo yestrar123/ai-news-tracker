@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "3713",
+      "title": "How Anthropic plans to watermark Claude's AI-generated text - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWgwX0doUEdwTmZPRWVvd2FPUktpeXh6WnF6T1g2ZVFMMVBISlpFbnI4RnVoRFk2cjhDa2pqajBTN0RBakdDNXRFYW1qUzdJbGxobV91MVV4MnVsNDZydVpPVXoyamZjWGRuQkduNGhjTTJQWUlfdV9hN1FncmVlUHV1UjRYX2VCaS1Pbk9wa1hLNmEwejRxODdZRFl5T1ZDeFhlUGJjMFZncjZHdmRlRVFEbXRMMmRGMUxUejRB0gHDAUFVX3lxTE5WSlRyTlpURWRhODJESVZfcS00U29HN2N1M3Z0d3FsUXhWSmQ1MnFNMmtJMnVKeE5QbmJVSW1taGkxUW5LWnBMX25WRTlUaVc4TmhWaFF3RVQ3T2VtT2VXVGRudjBiNnl5ZUZCcy1lbkZjY2s1dTUyU24zcXFrX05UYl9tTTEzbURHQkViNzU3M1lFUGNsUkU1eEVvTjJtaE8xY3E3NXp5LXc2X3Ftd2s2OVhjb2NNUW94cGZfYm9OZUgtVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T23:24:17Z",
+      "summary": "Anthropic计划为Claude的AI生成文本引入水印技术，通过在生成内容中嵌入人眼难以察觉但可被算法识别的模式，来标记文本来源，提升AI内容透明度和可追溯性。该方案旨在应对深度伪造和滥用风险，同时需在保持文本自然流畅性与水印鲁棒性之间取得平衡。业界认为这是AI内容治理的一次重要探索，但技术细节和实际效果仍有待验证。",
+      "fetchDate": "2026-08-15"
+    },
+    {
+      "id": "3714",
+      "title": "OpenAI Revenue Surges Past $40 Billion - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0tPanhhazJGNzBydzAzZ3dERXdFakhBcVJmcmpKWnd4cHdZZDNHOGM4SXdidC0xU0lMWGFCMzZnbHNMWTIwY2xCS2JyLWMxRDJiNlVjaXp6Rm9Gbk1lVy00X0ZzVUVLT0I1WHREVlRuVG5HRkZWeE10VkhIczhJRjN3Y3BhYWdWUGxobWpFMU82NGUzMURmS2toOHplVWRwRnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T23:06:38Z",
+      "summary": "OpenAI营收突破400亿美元，显示出其在生成式AI领域的强劲商业化能力。收入增长主要来自ChatGPT订阅服务、API接口授权及企业级解决方案。这一里程碑标志着AI技术正从研发阶段加速走向大规模应用，也反映出市场对AI能力的旺盛需求。不过，高昂的算力成本和日益激烈的竞争仍是OpenAI未来持续发展的关键挑战。",
+      "fetchDate": "2026-08-15"
+    },
+    {
+      "id": "3715",
+      "title": "National lab in Livermore using autonomous AI to quicken, broaden experimentation - The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnEwVHRoalVKS0dkZ3BWQWxQZGZQTzc5UHhmTlg4SWpXMHByeUJlRHhZbjc3bkJpbDcyY2xUdHhHa20yNFQxcHNHMkZYS1UtRDFCUWdZSkhTZHdNdlFSdk4tQVBaY0lTWGtrYl9CQTVXRm1uS0I0bjZUeGZKNTlkN2VPancwTUdYdElUZ0F6MmM1ck40bVB4bFRXMl9aRDJES095ZjZ5YS1PNlloTmEta2s0azc4clRLLUt1UNIBwgFBVV95cUxPSjBxZjJWR3ZzT2NMYTZYODNvV0lhZHB4SHlDdGFXM1JNV09vd0JjbHNNbXRnWGp4Sk5rUGZCX1N2THUtdEdOSjRRRzhfUC05TnZfRnhxNnBZd0J2SFA5TndzQW5qZGlaVENYSGp0bjhRNXBUVUU2RGNDTkpjUF8xMlJ0WWhWQ0dSZlhLeUtBaThsM01zczk2MFVOdGxfcG4yVmNkUmhBTDNrS2pNR2RSZjVBLW1nd2haVy1GNEozT2Qzdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T23:05:33Z",
+      "summary": "加利福尼亚州利弗莫尔国家实验室正部署自主人工智能系统，以加速和拓展科研实验。该系统能自动设计实验方案、动态调整参数并实时分析结果，大幅缩短实验周期，同时可探索人类可能忽略的参数组合。研究人员表示，自主AI在材料科学、能源等领域的应用前景广阔，有望推动科学发现范式的深刻变革。",
+      "fetchDate": "2026-08-15"
+    },
+    {
+      "id": "3716",
+      "title": "A public consultation on a proposed artificial intelligence (AI) data center here broke down on Friday, Aug. 14, after the Norwegian proponent walked out of the venue and then hurled insults and legal threats at journalists covering the event. Link to the full story - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcExjdVMzU0syUHdjMGN1aWdwdXFtRHJPUFFBSHg2OW1kbWFkbFZVU0V2S0NRdTRHMlppd05VS0c3eXc3NHhtZWpPbTJNeXhCNDVZVVRaNVBCY3NlM3hDZFlMQ0xIYmZhZUhhLTVFaFRWczdheXRnZ29QOWVhYzFibHRUcU9BVVBWMnhOSG9jeTFkR2FfMGZLc2EwMkZPaFVkZ2pJQTdqWjB5N0taRDJBX0I1RlNtcVBEdHpheUhxQ01lWnl2N3VWM2R5RGhnU2ZuTEg3djVNa2tieWhkcUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T22:54:18Z",
+      "summary": "8月14日，一场关于拟建AI数据中心的公众咨询会因挪威项目方代表中途离场而中断。该代表随后对现场记者进行言语攻击并发出法律威胁，引发舆论关注。事件暴露了AI基础设施项目在推进过程中与社区沟通不足的问题，也凸显了公众对数据中心的能耗、环境及安全影响的担忧。项目后续推进可能需要更充分的公共协商与透明机制。",
+      "fetchDate": "2026-08-15"
+    },
+    {
+      "id": "3717",
+      "title": "Generative artificial intelligence (AI) is being exploited as a means of insulting patriots who devo.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwNV9BY18zYlhYVGlCOVBuazk2Q3lWR1RHZVF1QmZHcVFFajEzMlE3V0dRQkV5RmRMRTh0Sm1EZXVXOG1sdHlwZmdqb0ZYMTdDMUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T21:07:27Z",
+      "summary": "韩国媒体《每日经济》报道，生成式人工智能正被恶意利用，成为侮辱爱国者的工具。滥用者借助AI生成虚假图像、文本或音频，针对特定群体进行贬低和攻击，造成社会对立与仇恨情绪蔓延。专家呼吁加强AI内容审核与立法监管，同时提升公众对AI生成内容的风险意识，防范技术被用于恶意目的。",
+      "fetchDate": "2026-08-15"
+    },
+    {
+      "id": "3718",
+      "title": "The Department of Economy, Planning, and Development said Friday fears of massive job losses due to artificial intelligence or AI are overstated. I via ANC 24/7 Link to full story in the comments section. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdnZ4TjRlbnpna0tuZzVlYUMyajE1NVlWR1czUFpvQTlwbDI0ZWpYRXlTY0hiQU1CUkVuQVZyYnpMZ3dfNFo4RzZSZ0R0Ri1fQkhGM0RtT0w1VkVHZjBha2E0VnJoNWc5RGs4Q0pPSzJCOGZudzlhQ296czRkYlBFei1oT2FpcElwZ2hlcnVlaDZPVzFNRXo4aHF2ZGxhM2hBa0JYeXZYMEtoZFU1bWJNT253ZWFnVGRpOHBqX3BWRnUxMTAzMGtSWXRiWURkbmVvaWZsOEczVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T19:15:01Z",
+      "summary": "菲律宾经济、规划与发展部表示，外界对人工智能导致大规模失业的担忧被过度夸大。该部门认为，AI技术更可能改变现有工作岗位的职能，而非完全替代人力，且历史上的技术革新往往催生新职业。政府将通过技能培训和产业调整政策，帮助劳动者适应AI时代，同时提醒公众理性看待技术变革带来的就业影响。",
+      "fetchDate": "2026-08-15"
+    },
+    {
+      "id": "3719",
+      "title": "AI eyes in the sky: New satellites and artificial intelligence are transforming wildfire detection - AccuWeather",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS3hNd3RTUGZyZVZFUkM5ZDBaZ1M5WmRPcy1qM0JLVUxnSjdsSHg5eW1ieGlKZldFd0tNbGc1cnVNREZwQUFzOFMwRkVIYjJYcFpHdTR4UGxCaXpjZ0phSHVCM2VhLVd4V1htTTNHVXpUT3ZiMTdZYmlhVEsxOFBaSHNNMTVvQk1vRDNBSUxjZk9mWDRiQjlCNEd6elQwMHhFbmJwVTlwVFZGT3pvMXJKSHNXU3pXUWxQVHFkZnNiaTFjVlpTZDVzdXFreDRZQTVjajg1ZUYtTVNJTnVP?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T18:48:46Z",
+      "summary": "新型卫星与人工智能结合正在重塑野火探测体系。新一代高分辨率卫星可提供更频繁的地面观测数据，AI算法则能快速识别烟雾、热点和异常升温模式，大幅缩短从发现到预警的时间。这一方案可覆盖偏远地区，在火灾初期及时响应，为消防部门争取关键救援窗口。技术进步正为全球野火防控提供更智能、高效的手段。",
+      "fetchDate": "2026-08-15"
+    },
+    {
+      "id": "3720",
+      "title": "Connecticut man sanctioned for hiding AI prompt injection in court filing - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhtX1pOdkpxV1hWbmhWcm1XeHhBY1ZXWU1adHJ3OWZsUUdxdWo3VkFqZWZHVUJsR1pTUVRhbkFSNVZfUDd6X2hfZ1FRQlA5b0xPSHJlaWprT3ZTWjdzcm1WbjVDeUFOQlVseGhMTjVSWWNpR0E1NFN0N1hPQ2JrUw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-14T18:38:59Z",
+      "summary": "美国康涅狄格州一名男子因在法庭文件中隐藏AI提示注入指令而遭法院制裁。该男子在提交的文档中嵌入针对人工智能系统或电子文档处理工具的恶意指令，试图操纵自动流程，干扰司法工作秩序。法院认定其行为属于滥用技术，构成不当行为。此事件警示，随着AI进入法律领域，必须防范针对智能系统的恶意攻击与滥用。",
+      "fetchDate": "2026-08-15"
+    },
+    {
       "id": "3699",
       "title": "AI's Efficiency Race: Data Over Models, Says VC - StartupHub.ai",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2tHYlNkZW80ajVnUmlOU09CRnljTk5FcmNaQnhKQ0JDT2l4NldtZWs3ck1EMHpUMFg5VlBuYTVybERIOUpIbW44VkFzcktqQzJSb2tMc1pGUlM2UXBOcnJ1bW84a1ZEYm5ueWx1a2NpRmpDMjhRaDhXWDZnWDNpRXV5QWJsM3N0cjZwOUhSejd4cVppdkVUWEVKMTFPRVI4cEhCQVV3RUl3Nnd6?oc=5",
@@ -33400,5 +33472,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3711
+  "total": 3719
 }
