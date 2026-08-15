@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "3730",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-15T16:30:00Z",
+      "summary": "SpaceX正式完成了对AI编程初创公司Cursor的收购。Cursor作为一款基于人工智能的代码编辑工具，近年来在开发者社区中广受欢迎，其核心技术能力包括智能代码补全、自动重构和多文件编辑等。此次收购意味着Cursor将正式并入SpaceX的技术体系，未来有望在火箭工程软件、内部系统开发及自动化流程中发挥重要作用。SpaceX此前并未公开过多交易细节，但这一举动显示出其加速将AI能力融入航天工业的意图，也反映出科技巨头对AI编程工具的战略重视。",
+      "fetchDate": "2026-08-15"
+    },
+    {
+      "id": "3731",
+      "title": "John Vickrey letter: Two major concerns America should have - West Central Tribune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGlTdC15dVl0UE9HUnhfRmRTYVhjU1JEQ0d6dmN2QXh3X1hxM0sxUmtTYnZWaVlyaDlZN2l5VzlUWkF4SWpqbE9UQUd3X3hla2dJNTd1X1VNOGN5OENSbzM1WVByMG9Ia25mQUJvQTgzX0pWWnF6RmFRS3pqMFZQbGhnSlJfa2k0UlYxUkRvTTdtWGlFUE1rbUhXMURIdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-15T15:05:28Z",
+      "summary": "约翰·维克雷（John Vickrey）在致《西中央论坛报》的信中，提出了美国当前应重点关注的两大问题。尽管信函全文未在此处展开，但从标题及近期美国社会舆论来看，这两大担忧很可能涉及国家经济安全与技术竞争，以及国内政治分裂或社会信任危机。作者通过公开信形式表达对公共议题的关切，体现了美国地方媒体在引导公民讨论和反映民声方面的作用。这类来信通常希望引发政策制定者和公众的深入思考，推动解决具有长期影响的重大挑战。",
+      "fetchDate": "2026-08-15"
+    },
+    {
+      "id": "3732",
+      "title": "Artificial Intelligence - abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-15T12:56:40Z",
+      "summary": "美国广播公司新闻网（abcnews.com）发布了一篇关于人工智能的专题报道，内容涵盖AI技术的最新进展、应用场景及潜在风险。报道可能涉及生成式AI在媒体、医疗、教育等领域的渗透，以及由此引发的伦理与监管讨论。作为主流新闻媒体，ABC新闻聚焦于人工智能对社会结构、就业形态和隐私安全的影响，并引述专家观点进行多角度分析。该报道旨在帮助公众理解AI技术的复杂性问题，同时强调在创新与规范之间取得平衡的重要性。",
+      "fetchDate": "2026-08-15"
+    },
+    {
       "id": "3724",
       "title": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVldlaDVTVHNqOThDWFl1M21vZWFPSjRYa0VWdGdFTnZyTjJzbm9WRlNOMDlJQzlzckdKOVp0V2RmM3pmRjdMN0dkN3lNYVFTRUpObEVQc0VsQ295dTFRSmxIREw3SGFQV28tUEJqNmM5OFZVd1g3WEFWSFU3NGFSNWVlc1F6eHEwc3M1VDFRYURvT1B4?oc=5",
@@ -33553,5 +33580,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3728
+  "total": 3731
 }
