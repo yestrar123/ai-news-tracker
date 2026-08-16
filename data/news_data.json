@@ -1,34 +1,27 @@
 {
-  "updatedAt": "2026-08-16 00:37:11 UTC",
-  "totalArticles": 4,
+  "updatedAt": "2026-08-16 02:52:12 UTC",
+  "totalArticles": 3,
   "articles": [
     {
-      "title": "As artificial intelligence (AI) semiconductor-related stocks, such as Samsung Electronics and SK Hyn.. - mk.co.kr",
+      "title": "As artificial intelligence (AI) semiconductor-related stocks, such as Samsung Electronics and SK Hyn.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JWlNnd0RqdmROdFNlQmVTc3JDZWhicjVpb1U4VEpRbXJIZnpfdzhGV0VBSF9JRWhUZWRYdGUyLUNzRFZ5elNJOE9HYWdUcnc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-15T22:27:11Z",
-      "summary": "据韩国媒体mk.co.kr报道，人工智能（AI）半导体相关股票近期受到市场广泛关注，三星电子和SK海力士等韩国半导体巨头成为焦点。随着全球AI产业对高性能存储芯片和算力需求的持续攀升，投资者纷纷看好这些企业的增长前景。报道指出，AI芯片需求的爆发式增长正推动半导体行业进入新一轮上升周期，相关企业股价表现强劲。市场分析人士认为，AI技术的商业化落地将长期利好具备技术优势和产能优势的半导体厂商。"
+      "summary": "据《每日经济》报道，受人工智能（AI）需求持续升温影响，三星电子和SK海力士等AI半导体相关股票表现受到市场高度关注。报道指出，AI芯片作为大模型训练与推理的核心硬件，其需求强劲带动了存储器及逻辑芯片企业的业绩预期。三星电子和SK海力士作为全球存储芯片龙头，尤其在高带宽存储器（HBM）领域具有领先优势，有望受益于AI服务器市场的扩张。分析认为，随着大型科技公司加大对AI基础设施的投资，半导体行业景气度有望进一步上行，但同时也需警惕供给端波动和市场需求变化带来的风险。"
     },
     {
       "title": "The musician vs. the machine? Sioux Falls artists see AI differently - Dakota News Now",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUXNkWEtlMGc3aFhKS0staVVBQkdEUzNZQkQyTGpuYXYzSlBJX2RQSG5KSzExYXpSbGE0cldjWkxKWHFObUhtTFphdGlDUUNhYnVpTXNQczJFM2IyRFd3Y29nVVJaaWVOWHVhTzJ1TkxldDJDTnFHTWRVdnZMRTF2U0tqUkZWYTBPc1ZfOXFualA4cnliNFJnNUY5YXloOFV2aWc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-15T21:53:00Z",
-      "summary": "美国苏福尔斯市的艺术家们对人工智能在音乐创作中的角色持不同看法。部分音乐人担忧AI生成内容会冲击传统创作，威胁人类艺术家的独特价值；而另一些艺术家则持开放态度，认为AI可作为辅助工具，激发灵感并拓展创作边界。这场“音乐人vs机器”的讨论折射出艺术界对技术变革的复杂心态。报道通过采访当地多位艺术家，展现了他们在面对AI浪潮时既焦虑又探索的真实状态，也反映出创意产业在数字化转型中的普遍困惑。"
+      "summary": "美国南达科他州苏瀑市（Sioux Falls）的艺术家们对AI的态度呈现明显分歧。有音乐人将AI视为创作工具，认为它能辅助生成旋律、歌词或进行音频处理，提高创作效率；另一些人则担忧AI会侵蚀艺术原创性，使作品趋于同质化，或对职业音乐人生存空间造成冲击。这场“音乐人与机器”的讨论折射出生成式AI进入创意产业后引发的深层焦虑与机遇。艺术家们呼吁在拥抱技术的同时，建立合理的版权规则和伦理边界，确保人类表达的核心价值不被机器所取代。"
     },
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-15T21:29:19Z",
-      "summary": "一名女性指控其继父利用马斯克旗下xAI公司的AI工具Grok，将她的童年照片转换成露骨色情影像。她表示，AI工具正在“将日常生活变成儿童性虐待材料”。这一事件引发对AI生成内容安全性的严重关切。该女性呼吁平台加强审核机制，防止生成式AI被滥用于制作非法内容。目前相关公司和执法机构尚未就此案作出公开回应。事件再次凸显AI技术在伦理和法律层面带来的严峻挑战，亟需建立更严格的监管框架。"
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-15T18:58:39Z",
-      "summary": "Anthropic公司进一步披露了其大模型Claude新增水印技术的实现细节。该水印机制旨在识别AI生成的文本，帮助追踪内容来源。Anthropic解释了水印的工作原理、是否会被编辑隐藏，以及对代码生成可能产生的影响。据悉，水印嵌入在令牌概率分布中，具有隐蔽性，但简单的编辑或改写可能削弱其效果。这一技术有助于提升AI内容透明度，但也面临可检测性与内容质量间的平衡问题，Anthropic正持续优化方案。"
+      "summary": "据TechCrunch报道，一名女性指控其继父使用马斯克旗下xAI公司开发的AI聊天工具Grok，将一张她童年时期的照片转化成露骨色情影像。她表示，AI工具“正在将日常生活变成儿童性虐待内容”，并对此类技术的滥用表示强烈担忧。该事件凸显了生成式AI在深度伪造和非法内容创作方面的严重风险，特别是针对未成年人的图像滥用问题。目前相关平台面临内容安全审核和法律监管的挑战，也再次引发公众对AI伦理边界以及防止技术被用于犯罪行为的讨论。"
     }
   ]
 }
