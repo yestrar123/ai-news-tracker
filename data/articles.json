@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "3755",
+      "title": "Spotlight | Digital delivery depends on engineering judgement - New Civil Engineer",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODkyVEFwam9ZUkxGNkp5Z19TRS01XzRrUzZYYU5OOFYyWWNLSnAtRHJoWGN5LVJ5VHdoejBWZGR5VW9mVVppLTRCNGN5M2FvbkRzWUk1cFZaTWVBZ2dDLWRhNFhaMHZCcUZJakU3V2hLMDRtOTQ2SDFFMllxU1BBS0hfZ1lxREM4TUpON3pXb2ZIVE1NZDFIbHRGUmRVVjBOSXpTWkxSMG4yWWpE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-17T16:41:15Z",
+      "summary": "《新土木工程师》杂志聚焦数字交付中的工程判断力。文章指出，尽管BIM、AI等数字工具在工程项目中日益普及，但核心技术决策仍依赖于工程师的专业判断。数字技术只能提供数据支持和效率优化，无法替代人脑对复杂工程情境的综合评估。成功的数字交付需要将先进工具与工程经验深度融合，在自动化与人工判断之间取得平衡，才能真正提升项目质量和安全。",
+      "fetchDate": "2026-08-17"
+    },
+    {
+      "id": "3756",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T16:38:44Z",
+      "summary": "TechCrunch报道称，亚马逊正通过销毁稀有书籍来训练AI大语言模型。这些具有历史和文化价值的文本因长期脱离数字世界，对扩展模型知识广度极为宝贵——现有公开网络数据已被充分学习，稀缺实体书籍成为新的训练资源。但这一做法引发伦理争议，业界担忧在追求AI性能的同时，可能造成人类珍贵文化遗产的不可逆损失。",
+      "fetchDate": "2026-08-17"
+    },
+    {
+      "id": "3757",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T16:15:12Z",
+      "summary": "AI芯片初创公司Groq宣布完成3.5亿美元融资，估值达35亿美元。本轮资金将支持其从AI芯片制造商向“新云”（neocloud）业务转型，并扩大由英伟达芯片驱动的数据中心规模。Groq此前专注于开发推理加速芯片，如今调整战略，转向提供云算力服务，以更直接地参与AI基础设施市场竞争。",
+      "fetchDate": "2026-08-17"
+    },
+    {
+      "id": "3758",
+      "title": "From Oil to Ideas: NDDC Bets on AI to Unlock Niger Delta’s Next Economy - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1FzSTBXWGJFTVhPQU5YVlZZazJkc2J1WTA3cHo3X01KT0QtaXZsU1FfenBUUU1uczBNX3RsVGllNlZjOGtJZnkySHREOFJxNmFpWVdISUpjQUdfSHB6ZktQSnVxUndjTVBfNFlMR2dFTzk0OElvQVVYdk5KQU5ZS3U2VlpoeFhtRm1uOWg0UXFKMTd1MlUwNG5ZQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-17T15:59:13Z",
+      "summary": "尼日利亚尼日尔三角洲发展委员会（NDDC）提出以人工智能取代石油驱动地区经济转型的愿景。该机构认为，在全球化低碳趋势和可持续需求下，尼日尔三角洲应摆脱单一石油依赖，通过投资AI教育和创新生态，培育“从石油到创意”的新经济模式，利用技术红利创造就业、推动多元产业升级。",
+      "fetchDate": "2026-08-17"
+    },
+    {
+      "id": "3759",
+      "title": "Stripe's AI Strategy: Build Everything, Faster - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmUyQWhaZGFIak11RXY0eGpDcy1KS1R5ODY3MUtOTS1wU1ZaR0Z6WjBTSWEybGl1ekN6Q3dWeGJZbGZKT1V4YzU4WnI2SUNoZHJGd1N5UV85ZFdNM1ZWM3Jjd0FMdEFIQjNNRFBMQ0V1T1BjeXN2Z3JGSk02cXZVRFlCWEhTX2xKTERTTXgzQ1BQSUNqc1JLc1ZuWEdUSmFzOGlnWmxJY1RCTGM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-17T15:18:02Z",
+      "summary": "StartupHub.ai分析了Stripe的AI战略，核心是“更快地构建一切”。Stripe将AI深度嵌入支付与金融基础设施的各个环节，从开发者工具到自动化运维，大幅提升产品迭代速度和工程效率。文章指出，Stripe并非简单引入现成AI功能，而是通过AI重构内部研发流程，构建自主、可扩展的智能系统，以巩固其在在线支付领域的领先地位。",
+      "fetchDate": "2026-08-17"
+    },
+    {
+      "id": "3760",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T15:16:24Z",
+      "summary": "英伟达宣布向软银旗下一家数据中心开发商投资15亿美元。该开发商正负责一个与OpenAI相关的大型数据中心项目。这笔战略投资不仅为项目提供资金支持，更重要的是确保该数据中心采用英伟达的GPU芯片，从而在AI算力供应链中锁定关键客户和长期部署，进一步强化英伟达在AI基础设施领域的支配地位。",
+      "fetchDate": "2026-08-17"
+    },
+    {
+      "id": "3761",
+      "title": "Scaling Scientific R&D with AI Supercomputing Infrastructure - Emerj Artificial Intelligence Research",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa3VSOElPZ3MzMU5EcVE4X0VtTGlqSlAwZVA5NVZoRi16akVDZlVTNHlRNVVxTXZ1a0NveDFYWUZlVERMVXpCdFZGLXRfeElPRmF5NjhGZUw5V3A1VjdCLTVFWHluNmJ2ZlFEMkpKMjFRRDhxRTBma29jcE05VG0zSTFxZEU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-17T15:12:47Z",
+      "summary": "Emerj研究文章探讨了如何通过AI超算基础设施加速科学研究与研发。文章认为，专用AI超级计算机能够处理海量实验数据、加速模型训练和模拟，显著缩短药物发现、材料科学等领域的研发周期。实现这一目标需要跨学科协作与基础设施投入，将计算能力与科研工作流深度融合，从而推动科学发现从经验驱动转向数据和模型驱动。",
+      "fetchDate": "2026-08-17"
+    },
+    {
+      "id": "3762",
+      "title": "TRM Launches Enterprise AI Practice to Help Asset-Intensive Organizations Operationalize Artificial Intelligence - The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeWNLNVVHdDZjUnUxa3Y4ajlTZURrMWg3QUctV1BWcmFpZXBWYlRhY3FaYlY2U09INjViUVRQTXlTOWNwcVNJa2J2ejZZQlZweFczNkhwdTRQU2RnUlY5dGZkMnZMNWJvMEN4NjdmakNCUXpnNnhXU1NVWlFSb05Kcm16VUdxdkRqX3RZVjRVb09pYnVlSHJDaGZ0Xy1WbGNLdTRKRERleXpzblJKQUZPSVdOR2V5T3RNSTNEbGNTamhHVEpHU3BLb2ZsOXVrZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-17T14:09:26Z",
+      "summary": "TRM公司宣布推出企业级AI实践服务，旨在帮助资产密集型组织将人工智能从概念验证推进到实际运营。该服务针对设备密集、运维复杂的企业场景，提供AI战略规划、数据治理、模型部署和流程优化等端到端支持，帮助企业降低采用门槛，实现降本增效和业务创新。此举反映了AI技术服务向行业纵深渗透的趋势。",
+      "fetchDate": "2026-08-17"
+    },
+    {
+      "id": "3763",
+      "title": "It's Time to Topple the AI Oligarchy - In These Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVFFcmJYc1pxaG5ET0NkVzEwbGRGaVk1Q3VEY2g2S29iNnJHQkh3bWdGLUVmLXN1aDYwR3AtcGlVNnVlTGdPNWttbldzc0UzYmZ5dVhUQkU4R3NQM05xZHFRTTliVzhxaVNkSjJ5VDduaHpueU5yNlNaWW5qWll2eTJraHBUMzNI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-17T14:00:00Z",
+      "summary": "《In These Times》刊文批评当前AI领域由少数科技巨头形成“寡头垄断”，并呼吁打破这一格局。文章指出，基础模型、算力和数据的集中使得权力和财富进一步向大型企业倾斜，普通公众和中小机构难以参与AI红利分配。作者主张通过公共投资、开源平台和监管改革，推动AI民主化，确保技术进步惠及更广泛的社会群体。",
+      "fetchDate": "2026-08-17"
+    },
+    {
+      "id": "3764",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T13:10:05Z",
+      "summary": "语音AI公司Wispr宣布完成2.8亿美元融资，估值达到20亿美元，累计融资超过3.61亿美元。该公司以AI听写工具起家，现正将业务扩展到语音交互、智能助手等更广泛的场景。新一轮资金将用于推动产品研发和扩张，探索在语音识别之外构建更全面的AI生产力平台，以应对日益激烈的市场竞争。",
+      "fetchDate": "2026-08-17"
+    },
+    {
       "id": "3750",
       "title": "AI is getting cheaper to run, but powering its growth is getting pricier - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFJnS1ZCT1MyMWhHLU9TbnNoRlRLeFhBa09Zd1YzYUNBZDlWbUt2QTJwQmZWSVlMQ08wSGpxYzJwbEk1Q09uYVJkSG1wRHFfTkExakRpQ3BxY2o2REJveU51ajZwd2NYLW5pOEFtYkkyVk5RZjFUQmJMbzdtQWdOZ0VYZVZxcHVrdUhiYzBGOFhKN1g0aFd6dFZZNW5hODRnMWY4a0QwQ0RPX1BjVkFRZWp3R1dnbUhqNEM2R1VBbi1qaEdna1NFRy1jZFdrVzBQY2tn0gHYAUFVX3lxTE5jRXMyUDB5bnVtTTNmQ29wQ1RCaTdubUUxblkxYndXN2Z5QnFuekxva2I2T0J1dlpwazlkVDBoX2JlQXJRME5oSmtBVkJPbUNBc1VCMzFoOG44dFR2Y2NYeXA4VWR2UGZuaXIzdC1ua0I5Y2xkMXFlUnlNZ1NUeFN2b1NwVGNOVWRTT21fUTIycHNiZFFDTTZmeWQzb0IzWmowODNIbi1hZTZZbWpoaUtCUzQxa0xBaUh6UkVCSzJwcEdaNEp3V2xhSmpNZUJaQzNEYU04dmlMRA?oc=5",
@@ -33778,5 +33868,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3753
+  "total": 3763
 }
