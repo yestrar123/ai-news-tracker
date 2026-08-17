@@ -1,34 +1,27 @@
 {
-  "updatedAt": "2026-08-16 18:12:41 UTC",
-  "totalArticles": 4,
+  "updatedAt": "2026-08-17 00:35:22 UTC",
+  "totalArticles": 3,
   "articles": [
     {
-      "title": "Andhra leads AI, big data analytics skilling under FutureSkills PRIME - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQzRCcWhGZWpGSjlaUkdFX3JkMFZSVDlpaWlYNXRaSVNaaE5hVHBmRjI1dVkzeU5uNjEybGxvcVdXdFh3R21pdk92Q1Z3ZUpKbGpqY1FsVUxKQUdvcmxVNE5JbUg2ZkZvVndGbGJybkFSRWZIZUJ5OVdVUk5wcWo2eHNmekcwQmdXbkY4UTRicXczOWZGTmRZLWxnY1FubUcwczFkUFRQcTdOSlZsc203ZVJPanV2dXF3Z2FWSU9sdEFTSGVLQWdDS0xjYTUxcV95SThZVGtOUGVPQXVLbG9UdlVVOTU4TVgwTFJaV01B0gHzAUFVX3lxTE5aT3VEZ2RDWlVLWEdWQlJEQjhCN0RwYW1uVGthVFc4NFFhajJjdTVIbkRaanBKcGF3UFhmeldkeUtqMXpucWFxYXh3QlFrNGRlYmNLbnpYeFVtZnVpOW5YNFAxekc4NlV5NHhtS05iamd4ampadE85RnFZU1JyN0FwTkdoRFQ0ZVR5Mm5lUVVZeTctMVNYMEpGX2l1dTdUeTZFRTVNTkdXeE5aMHg2bjlEZWcydVhqZ2pKdmRQY25KSmhGZ2NZRDRSbU1ZQlBJWU5ZZ09JSG42aXJyb05xdmI5Z1pnR2VzWmR5QlZVUWV2emc5RQ?oc=5",
+      "title": "OpenAI reportedly disbanded its preparedness team - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-16T17:56:27Z",
-      "summary": "据Business Standard报道，安得拉邦在印度FutureSkills PRIME计划下的人工智能和大数据分析技能培训中处于领先地位。该计划旨在通过规模化技能提升项目，增强劳动力在新兴技术领域的能力，特别是针对AI与大数据分析等关键数字化岗位。安得拉邦的突出表现反映了其在推动技术教育普及和产业人才储备方面的积极举措，也为其他地区开展类似数字技能培训提供了参考案例。"
+      "publishedAt": "2026-08-16T21:32:56Z",
+      "summary": "据The Verge报道，OpenAI已解散其“预备团队”（preparedness team）。该团队此前负责评估人工智能模型可能带来的灾难性风险，包括生化威胁、网络攻击等安全问题。此举引发了外界对OpenAI在追求产品快速迭代时是否弱化了安全治理的担忧。尽管公司尚未正式回应，但这一变动与其近期组织架构调整和商业化加速的节奏相吻合。分析人士认为，解散专门的安全团队可能在短期内提升研发效率，但长期来看或将削弱公众对AI巨头负责任开发技术的信任。目前具体原因和后续安全评估机制的安排尚不明确。"
     },
     {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-16T16:53:51Z",
-      "summary": "Anthropic首席执行官Dario Amodei表示，当前围绕AI的反弹情绪‘从根本上说是一场信任危机’。他反驳了外界认为其描绘AI前景过于悲观的说法，强调公众对AI技术的担忧更多源于对技术开发者和部署者缺乏信任，而非技术本身的发展速度。Amodei呼吁业界更重视透明度与责任，以重建社会对AI系统的信心，并确保技术发展符合人类长期利益。"
+      "publishedAt": "2026-08-16T20:57:04Z",
+      "summary": "据TechCrunch报道，支付巨头Stripe拟以超过70亿美元的价格收购AI网关初创公司OpenRouter。OpenRouter为开发者提供统一接口，使其能够通过一个平台访问多种大语言模型，被称为“AI领域的Stripe”。此次收购将帮助Stripe切入快速增长的AI基础设施市场，并与其现有支付与金融科技生态形成协同。OpenRouter首席执行官此前曾公开表示，公司愿景是成为AI模型调用的标准化网关。交易若完成，将标志着传统金融科技巨头加速布局AI中间层，进一步整合模型分发与计费能力。"
     },
     {
-      "title": "OpenAI Design Head: AI is an Incredible Product Designer - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkFQUVNDZkIzVG8zV01kdXJTYlhkRE81TS14Q3N5eWRqX1ZpeXBhWC1CQzh5VUxsSjl2WjdvcEFGRWVhSm9hNEh0Mi01TTQ1YlY1YktPWVY4aWpvZ2NPY3VmdGhVQmN5ZHpoZzNWbEx1bDFaQS1KRC1ZR1BYZ1hJd3NrbGd2dEpBSzE0SENVdldjdEMwS1JjczNRRW1uUUNqNTJ4RzU5UmdtY0JMZS0za05rbzQzNmdONFE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-16T13:04:47Z",
-      "summary": "OpenAI设计负责人近日表示，AI是一位‘不可思议的产品设计师’。他认为，生成式AI能快速产出多种设计方案、洞察用户需求并辅助迭代，显著提升设计效率与创意边界。这一观点展现了AI在创意产业中的应用潜力，也预示着人机协作设计将成为未来产品开发的重要趋势。不过，该负责人也强调人类设计师在审美判断和情感共鸣上的独特价值仍不可替代。"
-    },
-    {
-      "title": "AI Is Making Life Easier. We Must Not Become Weaker. - Dallas Express",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGJKQnlXN0E5bEV1S3lzdFA0ekFVZmYxaHFQY2lFQ0ozUDBTSkY5c2VESi1rM2VjNEpFcnZtSXpaTlNfQ3I1WEFYTHgyemJrdmNyN3VqS0Q2V2V6STl1MnkwOGRRSFp2dTZIVF9pLUhjVnZKWEcydHA3UDNNbXNBZ213Qmdwb1JiNmNQaWhvQmZ2Vk9tUFE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-16T12:32:18Z",
-      "summary": "《Dallas Express》刊文指出，虽然AI正在让生活变得更加便捷，但人类必须警惕自身能力的弱化。文章认为，过度依赖AI可能导致人们丧失独立思考、解决问题和适应环境的基本能力。作者呼吁在享受技术红利的同时，应有意识地保持学习与锻炼，让AI成为增强人类能力的工具，而非削弱自主性的替代品。这一观点引发了对技术依赖与社会韧性关系的反思。"
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-16T20:32:01Z",
+      "summary": "TechCrunch旗下Equity播客最新一期探讨了为何公众对马克·扎克伯格的AI愿景持怀疑态度。扎克伯格大力押注开源AI、智能眼镜和超级智能等方向，但用户和投资者并不完全认可。分析指出，公众担忧主要集中在Meta过往在隐私保护、内容审核和社会影响方面的记录，以及AI战略可能加剧虚假信息传播和算法操控。此外，Meta在AI领域巨大的资本开支与尚不明朗的盈利模式也削弱了市场信心。节目认为，技术愿景能否落地，取决于Meta能否重建信任并证明AI能真正造福用户，而非仅服务于公司增长。"
     }
   ]
 }

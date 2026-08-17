@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "3744",
+      "title": "OpenAI reportedly disbanded its preparedness team - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-16T21:32:56Z",
+      "summary": "据The Verge报道，OpenAI已解散其“预备团队”（preparedness team）。该团队此前负责评估人工智能模型可能带来的灾难性风险，包括生化威胁、网络攻击等安全问题。此举引发了外界对OpenAI在追求产品快速迭代时是否弱化了安全治理的担忧。尽管公司尚未正式回应，但这一变动与其近期组织架构调整和商业化加速的节奏相吻合。分析人士认为，解散专门的安全团队可能在短期内提升研发效率，但长期来看或将削弱公众对AI巨头负责任开发技术的信任。目前具体原因和后续安全评估机制的安排尚不明确。",
+      "fetchDate": "2026-08-17"
+    },
+    {
+      "id": "3745",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-16T20:57:04Z",
+      "summary": "据TechCrunch报道，支付巨头Stripe拟以超过70亿美元的价格收购AI网关初创公司OpenRouter。OpenRouter为开发者提供统一接口，使其能够通过一个平台访问多种大语言模型，被称为“AI领域的Stripe”。此次收购将帮助Stripe切入快速增长的AI基础设施市场，并与其现有支付与金融科技生态形成协同。OpenRouter首席执行官此前曾公开表示，公司愿景是成为AI模型调用的标准化网关。交易若完成，将标志着传统金融科技巨头加速布局AI中间层，进一步整合模型分发与计费能力。",
+      "fetchDate": "2026-08-17"
+    },
+    {
+      "id": "3746",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-16T20:32:01Z",
+      "summary": "TechCrunch旗下Equity播客最新一期探讨了为何公众对马克·扎克伯格的AI愿景持怀疑态度。扎克伯格大力押注开源AI、智能眼镜和超级智能等方向，但用户和投资者并不完全认可。分析指出，公众担忧主要集中在Meta过往在隐私保护、内容审核和社会影响方面的记录，以及AI战略可能加剧虚假信息传播和算法操控。此外，Meta在AI领域巨大的资本开支与尚不明朗的盈利模式也削弱了市场信心。节目认为，技术愿景能否落地，取决于Meta能否重建信任并证明AI能真正造福用户，而非仅服务于公司增长。",
+      "fetchDate": "2026-08-17"
+    },
+    {
       "id": "3740",
       "title": "Andhra leads AI, big data analytics skilling under FutureSkills PRIME - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQzRCcWhGZWpGSjlaUkdFX3JkMFZSVDlpaWlYNXRaSVNaaE5hVHBmRjI1dVkzeU5uNjEybGxvcVdXdFh3R21pdk92Q1Z3ZUpKbGpqY1FsVUxKQUdvcmxVNE5JbUg2ZkZvVndGbGJybkFSRWZIZUJ5OVdVUk5wcWo2eHNmekcwQmdXbkY4UTRicXczOWZGTmRZLWxnY1FubUcwczFkUFRQcTdOSlZsc203ZVJPanV2dXF3Z2FWSU9sdEFTSGVLQWdDS0xjYTUxcV95SThZVGtOUGVPQXVLbG9UdlVVOTU4TVgwTFJaV01B0gHzAUFVX3lxTE5aT3VEZ2RDWlVLWEdWQlJEQjhCN0RwYW1uVGthVFc4NFFhajJjdTVIbkRaanBKcGF3UFhmeldkeUtqMXpucWFxYXh3QlFrNGRlYmNLbnpYeFVtZnVpOW5YNFAxekc4NlV5NHhtS05iamd4ampadE85RnFZU1JyN0FwTkdoRFQ0ZVR5Mm5lUVVZeTctMVNYMEpGX2l1dTdUeTZFRTVNTkdXeE5aMHg2bjlEZWcydVhqZ2pKdmRQY25KSmhGZ2NZRDRSbU1ZQlBJWU5ZZ09JSG42aXJyb05xdmI5Z1pnR2VzWmR5QlZVUWV2emc5RQ?oc=5",
@@ -33679,5 +33706,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3742
+  "total": 3745
 }
