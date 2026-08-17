@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-17 00:35:22 UTC",
+  "updatedAt": "2026-08-17 02:52:15 UTC",
   "totalArticles": 3,
   "articles": [
+    {
+      "title": "Boston-area colleges are looking to make students ‘AI natives’ with new majors - The Boston Globe",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTFneWhkYWhZUzhTNE1lYWRDam5UZDlOSmpQVXVWa0V0bzVncngyMG92UGtRNjgzQ0EzVWhROURyTEFjTzZXb05tZkU1T3d2S2pxQ1JodTVPYzBXSEpURVAyX3FoVVlXclEyWVgxMjIyN0tlVHhKY2dwdmJTMUFyVm9DOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-16T23:58:08Z",
+      "summary": "波士顿地区多所高校正计划增设人工智能相关专业，致力于将学生培养为“AI原住民”。这一举措反映了高等教育对人工智能时代人才需求的快速响应。通过系统的课程设置和实践训练，学生将不仅在应用层面熟练使用AI工具，更能深入理解其底层逻辑与创新潜力。高校希望通过跨学科融合，让毕业生具备在AI驱动的职场中引领变革的能力，同时也为区域乃至全球的AI产业输送高水平本土人才。"
+    },
     {
       "title": "OpenAI reportedly disbanded its preparedness team - The Verge",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-16T21:32:56Z",
-      "summary": "据The Verge报道，OpenAI已解散其“预备团队”（preparedness team）。该团队此前负责评估人工智能模型可能带来的灾难性风险，包括生化威胁、网络攻击等安全问题。此举引发了外界对OpenAI在追求产品快速迭代时是否弱化了安全治理的担忧。尽管公司尚未正式回应，但这一变动与其近期组织架构调整和商业化加速的节奏相吻合。分析人士认为，解散专门的安全团队可能在短期内提升研发效率，但长期来看或将削弱公众对AI巨头负责任开发技术的信任。目前具体原因和后续安全评估机制的安排尚不明确。"
+      "summary": "据The Verge报道，OpenAI已解散其“预备团队”（Preparedness Team）。该团队此前负责评估和防范AI系统可能带来的潜在风险，是公司安全治理体系的重要组成部分。此举引发外界对OpenAI在人工智能安全承诺上的质疑。尽管具体原因尚未明确，但此次调整正值行业对AI风险管控愈发关注之际，或将影响公司内部的安全监管流程，也使其在推动技术商业化与保持安全标准之间的平衡面临新挑战。"
     },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-16T20:57:04Z",
-      "summary": "据TechCrunch报道，支付巨头Stripe拟以超过70亿美元的价格收购AI网关初创公司OpenRouter。OpenRouter为开发者提供统一接口，使其能够通过一个平台访问多种大语言模型，被称为“AI领域的Stripe”。此次收购将帮助Stripe切入快速增长的AI基础设施市场，并与其现有支付与金融科技生态形成协同。OpenRouter首席执行官此前曾公开表示，公司愿景是成为AI模型调用的标准化网关。交易若完成，将标志着传统金融科技巨头加速布局AI中间层，进一步整合模型分发与计费能力。"
-    },
-    {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-16T20:32:01Z",
-      "summary": "TechCrunch旗下Equity播客最新一期探讨了为何公众对马克·扎克伯格的AI愿景持怀疑态度。扎克伯格大力押注开源AI、智能眼镜和超级智能等方向，但用户和投资者并不完全认可。分析指出，公众担忧主要集中在Meta过往在隐私保护、内容审核和社会影响方面的记录，以及AI战略可能加剧虚假信息传播和算法操控。此外，Meta在AI领域巨大的资本开支与尚不明朗的盈利模式也削弱了市场信心。节目认为，技术愿景能否落地，取决于Meta能否重建信任并证明AI能真正造福用户，而非仅服务于公司增长。"
+      "summary": "据TechCrunch AI报道，支付服务商Stripe拟以超过70亿美元的价格收购AI网关初创公司OpenRouter。OpenRouter的CEO曾将该公司形容为“AI界的Stripe”，其平台主要提供统一的API接入服务，帮助开发者连接多个大语言模型。此次收购若完成，将显著增强Stripe在AI基础设施领域的影响力，并为AI应用开发提供更便捷的支付与模型路由集成方案，标志着支付巨头加速布局人工智能生态。"
     }
   ]
 }
