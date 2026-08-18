@@ -1,69 +1,118 @@
 {
-  "updatedAt": "2026-08-18 12:21:31 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-08-18 18:20:27 UTC",
+  "totalArticles": 16,
   "articles": [
     {
-      "title": "Alvys launches AI agents for freight TMS workflows - AI News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2QzX1QtRzR1dUkydEt0MkFBUkFzTU9XQkxUQkpjeFV6eU9FVW1pa0RvZlE2Sl9OVGhyYzd3WXE3UGluNDVFS1h1bHltVlZCUlozUlRIcTRnejB3WTZSUnJtUTJLandKdnJZcjhlY1hueDlhRVk2eUt5cjN6Nmx5ZFNRMA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T12:01:19Z",
-      "summary": "货运软件公司Alvys近日推出面向货运TMS工作流的AI代理功能。该功能旨在通过人工智能代理自动处理运输管理系统中的重复性任务，如订单录入、调度协调和状态更新等，从而减少人工干预，提升运营效率。此举反映了物流行业加速智能化转型的趋势，AI代理有望帮助货运企业降低出错率、加快响应速度，并释放人力资源用于更高价值的决策工作。"
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-18T18:00:00Z",
+      "summary": "OpenAI在遭遇Hugging Face安全漏洞事件后，宣布引入新的安全防护措施。这些措施包括在模型开发过程中进行更详细的监控，并强调在事后训练阶段加强对齐与安全性。此举旨在应对AI模型可能存在的潜在风险，提升系统鲁棒性，确保模型行为符合预期，并防范因训练数据或第三方组件引发的安全隐患。"
     },
     {
-      "title": "TRM Launches Enterprise AI Practice to Help Asset-Intensive Organizations Operationalize Artificial Intelligence - AiThority",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUGNBUkdyY3VxRzlOZWltOXdRR25lcV9CUmdMaS1vNEx0SUdnSnhqTEMtNlpPRFFVRzM2RllXbkJ5M3hVY2NyVXFJUmtwV2FPRkVMZkRfSE9TLUYzZDVtcEZWeDhpeERWNFQ4Rkk5U0xSNDdEQUg3MmRjMGlQRkVFcTh3c3dBOEV5TmN2cXFfTDZoVVp0VVFXVFVyVFNQWi1vcG4yNldNLWpac2hMQ3dvdV9HTEQ0d2d1NlZEYi05elo0SEJhSGRGWEpmcHRPQWZmZGR1bHdFWTkyc0o0VHRDc1BCX0ltZVE?oc=5",
+      "title": "Content Creator’s AI-Generated Facebook Posts Rake In $10K-Plus A Month - Black Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlZkZ2I0MFZGNWFBbklyUVIzYTBiZ3VJZlZGMnRmbHA4cjJ5R0hQaVZLVjFWVS1Zc3IwRm51V3hfYVZwS0pQOGZ5TzNITnBYa0JsYVRDNlhqNWU2TFhBdTVjSnJPWUw3QkRvejVKbV93dG9iWUlPMkloMkpzVnBZTkg1ZmJwNFRQa0dMalJ5VW9sVVZNMXl5RnlB?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-18T11:41:14Z",
-      "summary": "TRM公司宣布推出企业级AI实践服务，旨在帮助资产密集型企业将人工智能切实落地运营。该服务涵盖AI战略规划、技术选型、流程集成与人才培训等环节，结合TRM在资产管理与合规领域的积累，为客户提供端到端的AI实施方案。此举顺应了工业、能源、交通等重资产行业对智能化升级的迫切需求，助力企业通过AI优化资产利用率、降低运维成本并提升决策准确性。"
+      "publishedAt": "2026-08-18T17:46:51Z",
+      "summary": "据报道，一名内容创作者利用AI生成的Facebook帖子每月收入超过1万美元。该创作者通过AI工具批量生成吸引人的图文内容，在Facebook平台上获得大量流量和广告分成。这一案例展示了AI在内容创作和变现方面的潜力，同时也引发关于AI生成内容质量、平台规则及真实性的讨论。"
+    },
+    {
+      "title": "Project noRecognition: Teaching AI to Fool Surveillance Cameras - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWhHUXUxeFNGcDAyMUtBTnBOOThKVHdSeklabWs0Ym9RaUlpSmprOGtJVnQ0M1NHaHlzY0F6bU9CSjM1cFVYNm1jZzZ3aXFDeDl1MlpidHpySk5NWE1tVkZaTFJIUXB6WVJmUmZqNlQ2Vm94bkVnQXZMREU4Ujc2YkZZZEtFNW1HYzd6V2lnRTEyeW1mLVQzc1VTaml3T1A1NEhFTndFYmTSAa4BQVVfeXFMTWVocVIzTU5OQ2Z3ZmZaWWdXcUM3cWJLdDBnZ0Fnd0JWcURTZW54REJBWHVkU0l1cmtuNjBqMS14bmxLSnhkanB0SVhKejhrdTNEVU05R1FwbF9ZN2VZWmlfOG9XZHNsT25TYi1ZT0FYeUVENENEMk9hbTF3NlVZaHl6eFBVemJ0UGN2Z0R1d1dadTVKY2c5ZkVubm1PTjRQcHNiQ1RWYTZTYnhZczl3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T17:32:37Z",
+      "summary": "一个名为“noRecognition”的项目正致力于训练AI系统，使其能够规避监控摄像头的识别。该项目通过生成对抗性图案或利用AI算法干扰视频监控的对象检测功能，从而保护个人隐私。该技术可能被用于合法隐私保护，但也可能引发对监控规避和公共安全的担忧。"
+    },
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-18T17:21:58Z",
+      "summary": "AI芯片初创公司Etched的估值在一个月内翻倍，达到210亿美元。据该公司称，金融公司Jane Street已部署其首套AI集群系统，并对其印象非常深刻，因此主导了新一轮大规模融资。这一事件反映出市场对专用AI芯片及高性能计算基础设施的强劲需求。"
+    },
+    {
+      "title": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSG9sVmlFTjR0VUpQbmFZd3hYZnVGdVIwN0hmeC15TURQQ01OeUdBSDc3U3ZrbGp1OEZkcjFRa25oWUhaTWZkTTlzbU43LTc2VW9leG5XOGhjQS0zeE10UlZubHI1QXdjVnY4akF2S1phWGRsNmxJYmZEZUVyTVZjcV9nQVNLZjA5c1l5dE5kNWJUaUtMTjdNbVF4VFFvRmdQRnJkTEJ6cw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T17:17:12Z",
+      "summary": "得州理工大学被曝正在使用人工智能技术来削减或过滤被认为具有左倾倾向的内容。此举引发了关于学术自由、意识形态偏见以及AI在高等教育中应用边界的争议。校方尚未明确回应，但该报道质疑AI决策是否会导致言论审查或立场偏倚。"
+    },
+    {
+      "title": "AI chip startup Etched doubles valuation to $21 billion in under a month - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T16:31:30Z",
+      "summary": "AI芯片初创公司Etched在不到一个月内估值翻倍至210亿美元，路透社报道了这一消息。该公司专注于研发专用AI推理芯片，并已获得主要金融机构的战略部署支持。快速增长的估值表明资本市场对AI芯片赛道的高热度，以及投资者对专用算力需求的乐观预期。"
+    },
+    {
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-18T16:19:10Z",
+      "summary": "针对苹果传闻中配备摄像头的AirPods，分析认为它可能不会像消费者担心的那样成为所谓的“偷窥吊舱”。原因在于苹果可能会限制用户拍摄照片和视频的功能，仅将摄像头用于环境感知、空间音频等非记录用途。这有助于规避隐私风险，同时保留智能穿戴设备的交互能力。"
+    },
+    {
+      "title": "Why workflow accountability may define healthcare AI's next phase - Healthcare IT News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXhKTF81MkdjRTJGei1XTFpJVW42WVJNZHlpODFRNndoMDlqUzJmOHJpeXMtTThkX1VJdkUtZ1p3UTVMNDN4NmNYaFpjcXVETEY5R2pmXy1YS3BGTU5OWVdleVlyd2dsRXF0SlBoOGc0UDZ0T09XR3ZiZWtpZGU1eEw2LTBLVnVvcmtYeE5FTEsxZTBEMUFmUmgyV2NjSWxLMzliRw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T16:16:11Z",
+      "summary": "医疗AI的下一个发展阶段可能由工作流责任机制定义。文章指出，随着AI在临床决策中的角色日益重要，确保对AI输出结果进行有效的流程追踪、责任分配和可解释性变得关键。建立明确的工作流问责框架，有助于提升医疗AI的安全性、合规性及临床采纳度。"
+    },
+    {
+      "title": "OpenAI president urges enterprises to hasten AI security defences - AI News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVFmTUpTRGlEWktZME5JdW9ZY0VKMWZwYV9qRnI1aEltcEZOR0lBT3NwQk1zMUc1M3lsWVlJZnFPRWwxdEYwV0lYUnp6cDQ5T0ZWeEFsNzNhUUc4ek5rYzMyQVgzWlZzckFPNFRYeWpoUHdENG9HQzM1RG92aXBPdkk4Umw5QXA1Xy1iNDZQMlA2MzdjWDlDbXZkTzQyaS01cGJCRk5aVkg5Y0lvRF9QNTh3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T14:59:43Z",
+      "summary": "OpenAI总裁呼吁企业加快构建AI安全防御体系。他强调，随着AI技术的快速普及，企业面临的网络威胁和模型滥用风险也在上升。企业应尽早采用主动的安全策略，包括红队测试、持续监控和员工培训，以应对日益复杂的AI安全挑战。"
+    },
+    {
+      "title": "Is AI driving inflation? The artificial intelligence boom adds pressure on the Fed - CMC Markets",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa0FWeWJVams5UjlNV2lUMXl4Q3N5ZVBvT3NEZDNLYnRaX2ExaFRsaW5TNXZFYTBOclA1UllwX01XOGw3bnZmdmxOdURxeHVkYzJVQWRGRzFmY3VFdEhIcU9jQnpNd2hDbjRCMno5WVg2eVhwUjRnSkNSa2RtMS1JcmQ5X1BnZEo3dGdYR0FJMGx0OWZXdTNVT2k5ZFJqOGU0RU1uN3JCa2lHaTBsZl9ISk9hb3hucnRHbUIxalVCYVZzVnVrZS1UN2R5Rmk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T14:43:38Z",
+      "summary": "文章探讨了AI热潮是否正在推动通货膨胀，并给美联储带来额外压力。分析指出，AI基础设施建设的大规模资本投入、芯片需求激增以及数据中心的能源消耗可能推高相关商品和服务价格。这可能加剧通胀压力，影响美联储的货币政策决策。"
+    },
+    {
+      "title": "Artificial intelligence or clever artifice? - Chemistry World",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcF9IVUhLaXNYYjdCUTY4aTZmeklhOURTNjJUYVQ1WlROdjdEcXowTkVJLWxTbllYMkZpUjZGOUwtYXR5QlFlYk5OZllQWFJHNDVOcG56X2VNMFk0Rk1tTHp5cFB3ZUotYnZDbTg4b0gwMzV3QVVrbGh4R0EyZzljdHBQZ05iNGNKNjhnVFA5bzMwdU9rWG93Tk15b2hoUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T14:27:32Z",
+      "summary": "化学领域权威刊物《Chemistry World》发表评论文章，探讨人工智能在化学研究中的实际价值与潜在炒作之间的界限。文章标题以质疑口吻提出“人工智能还是巧妙伪装”，引发对当前AI驱动化学发现成果真实性的思考。评论可能分析了AI在分子设计、反应预测和实验优化中的应用案例，指出部分宣传存在夸大成分，强调需审慎评估AI模型的可靠性、可重复性以及对科学实践的真正贡献。文章旨在引导科研人员理性看待AI工具，避免被炫目技术名词迷惑，回归实验验证本质。"
+    },
+    {
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-18T14:00:00Z",
+      "summary": "科技媒体TechCrunch报道，Warp公司于周二推出名为“Warp Factories”的新型基础设施系统，旨在让构建AI软件工厂变得前所未有的简便。该系统被描述为“开箱即用”的软件工厂，提供一套集成化工具链，帮助开发者快速搭建、测试和部署AI应用。通过标准化流程和自动化组件，Warp Factories试图降低AI开发门槛，减少环境配置和基础设施管理负担，使团队能专注于模型训练与产品逻辑。此举反映了AI开发领域对高效、可复用基础设施日益增长的需求。"
+    },
+    {
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-18T13:50:30Z",
+      "summary": "OpenAI正式推出面向青少年的ChatGPT版本，旨在提供更安全的AI使用环境。该版本新增适龄安全措施、家长控制功能以及学习辅助工具，可引导青少年远离有害内容，并防止其利用AI作弊完成作业。值得注意的是，青少年此前早已开始使用ChatGPT，此次发布填补了产品在年龄适配和安全管控方面的空白。OpenAI希望通过内置的防护机制和教学导向设计，让AI成为青少年学习的助力而非投机工具，同时回应社会对未成年人AI使用安全的关切。"
+    },
+    {
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-18T13:45:40Z",
+      "summary": "Perplexity AI通过免费AI服务在印度市场取得了显著用户增长。据TechCrunch报道，在与电信运营商Airtel的合作优惠结束、不再向新用户提供免费服务后，Perplexity在印度的营收仍环比增长约60%，尽管应用下载量出现下滑。这一数据表明，此前的免费推广策略成功吸引了大量高价值用户，并形成了较强的付费转化率和用户粘性。分析认为，Perplexity正通过本地化运营和免费策略站稳印度市场，为后续商业化奠定基础。"
     },
     {
       "title": "Artificial intelligence to stop nuisance 101 police calls about late pizza delivery - The Independent",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObDdzLXhmeG9wTkRGdXlFaGtpcmwtaTJDVC0wTFFLRHlmVG1XOEpQOU5SaWpJcU5fYXRqQ3FKN2djdXNGNFplNk1rOTdpS3VZT2RmUWYyNElvc0o5OF9UNUZCMmtZLXlYQmlpcGVaVk9QeElRRlFHck1VNWlfQ1Q3Wk9maDRuT0FxMVVVTHdITQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-18T11:35:00Z",
-      "summary": "英国警方正计划引入人工智能系统，以过滤针对非紧急101热线的骚扰电话，包括因披萨送餐延迟而投诉之类的内容。该系统将自动识别和分类非紧急、非警务类来话，引导民众转向更合适的服务渠道，从而减轻接线员负担，确保真正的紧急求助能够及时得到响应。此举被视为利用AI技术优化公共安全资源分配的一次创新尝试。"
+      "publishedAt": "2026-08-18T13:44:00Z",
+      "summary": "英国警方计划引入人工智能系统，以应对大量关于披萨配送延迟的骚扰性101报警电话。据《独立报》报道，非紧急报警热线101频繁接到此类无聊或恶意来电，耗费警力资源。AI系统将用于自动识别和过滤这些重复、无实质内容的来电，将警员人力从琐碎事务中解放出来，集中处理真正的紧急求助。该技术可能通过语音识别和语义分析判断来电意图，实现分级响应。此举展示了AI在公共安全服务中优化资源分配的实际应用潜力。"
     },
     {
-      "title": "Shaping the Future: How AI is Redefining the Modern Classroom - WCAX",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkVTQ0E0NmtMU2tfUWNSZWxUTDNjVU4tOV81eGNRQzIxN1VaMldEeThaelYwT1VTa19uUjhRb2tlRjZ6MW1jUGdiQlMwVFZRa195RkI1djg5UnFQSG1QZkdlWURCb0tKTEIwOEJTLWdTUEtuUEZfMkdPSmJ4NUJHSTJmQlpjY2tTWHVYTThTZUw2VHhnYmc?oc=5",
+      "title": "Mekong Delta launches first robotics, AI research institute - Vietnam+ (VietnamPlus)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEFGLTlMY3Y2VXdQbjI3ZDJZYk5XU0tveTlKNHQ0Sl9zbGlpZUJUSXdNY011eWZjMUdNWFdXMGFiQWRWdEJKRGFxRTE1YWxKZlhKb3lhTFBmQVZwWnMwNjdESnFuVFpHV29ObkV5MzB2S1R3TlBfdGR2am1uTlhWVVpvOVE0TkxZdzI2cmctM0I2cXZYQWVUY3BSWkw4RUl0?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-18T10:15:00Z",
-      "summary": "文章探讨了人工智能如何重塑现代课堂。AI技术正在从个性化学习、智能辅导、自动化评估和教学管理等多个维度改变传统教育模式。通过分析学生的学习数据，AI能够提供定制化的学习路径和实时反馈，帮助教师精准掌握学情并调整教学策略。同时，AI也引发了对数据隐私、算法偏见和师生角色转变的思考，未来教育需要在技术赋能与人文关怀之间寻求平衡。"
-    },
-    {
-      "title": "New AI Engine Aims to Make Defense Decisions More Traceable - The Defense Post",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6UUt3R3lXTEJTQ2lzV2dNMmpuVEhtOUEyTFZveTN6b0I1dTl2ZUdiTERMOGs2TEZacDhaS1JFMk9KcS1QdGJwOE5zeFhCclRBOEhfY2VuNXJiWDNUdE42UmFiaFpoOWJJMHJJVEUwdTVBWFJjRWctTdIBfkFVX3lxTFAwTG5wYzg5bHlUR3dJUUdjMjEtZTA4ZFI5QVNoa2F0WTRpLVRvbWQ1d3RKWWFYVDdadzVTRWVtMTRXSmZaZ2RKVlBkSHdWaFhoYWZmUlg0OHBQQjZWakgxTDY0amZSeTVmQ002NTNyc091M0RxTDJKSVJKSXJDQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T10:07:00Z",
-      "summary": "一款新型AI引擎旨在提高国防决策的可追溯性。该引擎通过记录决策过程中的数据输入、模型推理和结果输出，生成完整的决策链条，使军事指挥官能够清晰理解AI建议的依据，并在必要时回溯审查。这一技术有助于增强AI在国防领域的可信度与透明度，降低因算法黑箱导致的误判风险，为复杂战场环境下的辅助决策提供更可靠的支撑。"
-    },
-    {
-      "title": "70 Years of Artificial Intelligence: 14 Key Insights from AI's Historic Boom and Bust Cycles - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByUG9RSVdsU1B2Q2JqbjJtamVtaUpNSmZfSWx4dTk4LUE2LUJOV2tLUHRiUXFQLUlXLXJsc1AtMzA2ODJSdG5zLVpCaVBzSlRUcEhV?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T08:41:05Z",
-      "summary": "36氪发布文章回顾了人工智能70年的发展历程，提炼出14个关键洞察，涵盖AI历史上的多次繁荣与低谷周期。文章指出，技术突破、资本投入与社会期望之间的错配屡次导致AI热潮的起伏，而真正持久的发展往往源于扎实的基础研究和对实际价值的理性评估。这些历史经验对于理解当前生成式AI浪潮的机遇与风险具有重要参考意义。"
-    },
-    {
-      "title": "Stop Using English AI Terms: China Pushes Chinese Equivalents To Boost 'Discourse Power' - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeXBtZDZJcEhoNFExR2pDSlEzRk5TM2kwckRKUjVtbzdidmJIZ0VWWFgwVVp5R1phbVVud1pQajAxZ0ZackJyQ1BkcFNsOEZXQ2NxNGtzM0tXdXpwbmtjUWZndFR5VWxCTU85Zko4VGpnWFNYOE1CelpjQ2tMTjROZ0FhLTJXaGdLYmFoMVM1ZjJ5MzdNTTVwMWpIQmF4NzB0V1gteVN2WmpnLXRCWDFJdExBeGVfQjJTdUc3QUdmbUNlSkw2OEtsOThpMmxmYU9uWVVZbmhR0gHeAUFVX3lxTFBBakUtd3NaN3I2Q3lKSjNPa3czTE1KM0NDcE1xSnhmRi03eWlrVWdaeHFsb3NsT0FRdFhYeEdMcHZTano1Z2dkZGNVeG95ejVGbm55Y1ozQmU1ZkhMWUotVE1tLXhWM3VQT0V3V0VZN3NKTURZTkRweFRLZW5NaHlBS0JYV1ByZDNMNzBaYVhETHhrSFNjWE9rM1BYdHFXUzZQZVNJVTNNQldpcmQxc19pT29pVVpqX1FFenJkcWZaQXVfY2tXWHgzenJrMW5zZ1h3aHEzMklEakcwLWNCUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T07:52:02Z",
-      "summary": "据NDTV报道，中国正推动以中文术语替换英文AI词汇，以增强在人工智能领域的话语权。相关机构建议在学术和产业交流中使用标准化的中文表达，例如以“人工智能”为核心的系统术语体系。此举旨在减少对英文概念的依赖，强化本土技术自信，同时也有助于普通公众理解和参与AI相关讨论，塑造更具中国特色的AI发展生态。"
-    },
-    {
-      "title": "ERA unveils ERA-GPT AI assistant, partners NTUC LearningHub for AI training - The Edge Singapore",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVEs3OUs4bWdLVS1IUjItd3VFM1M0TkNsNlNTMWVGRXVsNUFCRXhVa0tnQ3ljSW9LYlRVWjhtN29zd2ZhZ3pLdk5VR0xlWEZhcG5OUUVBT0pqUlpObjVzeUpDeW9BOG1Vcng1VWN1aHQtMEVlbXZYUWNBYl8zTkY1QXlFODRxdWlBaWJTUUFaN3g5LXZHZm9odUMwZnBFRjB4Q0xEVVJSNkNjNTFrOVdtWkZldENhQVBqdjloWEg2RHpxSUdQbVphWXRuLWs5d9IB0wFBVV95cUxNME9Za0M5cEoxU1U4NWdMUlFhYmJ5YjlDOWpqSWN5ZlBuZkV1TUlkdVdCMU1rb3pTN0RTUFIyOGxiOTFpWVVfUlBvX1VkSHBEdGdMNWNJbG01elVqLXZ0Q2xadjhRM2ZKeXZIZDJabjNHTmtHTDFKeFR3aUFtNHhCdV9hNmtTM0s4UlJ1elRjRmJYSzFqU3MxYkVaTFpKdndSU2ZRNTFpOFpzXzN2bkJ1UUhQNVBjZmlxRUNycHlDeG1zbHdfb05FNlpMWnhmM0hDaGxn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T07:48:50Z",
-      "summary": "房地产服务公司ERA推出自主研发的AI助手“ERA-GPT”，并宣布与NTUC LearningHub合作开展AI技能培训。ERA-GPT可帮助房产经纪人快速生成房源描述、回答客户咨询并分析市场数据，提升服务效率。同时，ERA将与NTUC LearningHub共同设计课程，对员工进行AI工具使用和数据素养培训，以推动企业在数字化时代的业务创新。"
-    },
-    {
-      "title": "Reddit now turns text threads into AI-narrated videos with 'Play' mode - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JQ19yaFVQUUNBVFlRVFpUc2V3M1UwZnZXRzUyTGpLUnA5N0tENXR5S29DMHhMOUlkYmZrZGpuallROFdlZUNfOEdkNDIzODh2YmZlNjIza2owN3hFd2t1OTJRZG52TFI5dWlCVmtIUk9tOEU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T06:41:17Z",
-      "summary": "Reddit推出全新的“Play”模式，可将平台上的文字帖子自动转换为由AI配音的视频内容。该功能利用文本转语音和自动视频生成技术，将热门讨论或故事以更生动的方式呈现，方便用户在移动端或社交媒体上消费。此举不仅丰富了Reddit的内容表现形式，也为创作者提供了低门槛的多媒体分发工具，进一步拓展了平台的用户参与度。"
+      "publishedAt": "2026-08-18T13:08:11Z",
+      "summary": "越南湄公河三角洲地区正式启动首个机器人与人工智能研究所。据越南通讯社报道，该研究所的成立标志着该区域在高端科技领域迈出重要一步，旨在推动农业、水产养殖及制造业的智能化转型。研究所将聚焦机器人技术应用、AI模型开发以及本地化解决方案，并致力于培养专业技术人才，促进产学研合作。此举有助于提升湄公河三角洲的科技竞争力，为当地经济发展注入新动能，并呼应越南国家层面大力发展AI和机器人产业的战略规划。"
     }
   ]
 }
