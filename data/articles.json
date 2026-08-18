@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "3780",
+      "title": "Appeals court flags AI-generated fake cases in San Antonio ISD lawsuit - ksat.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmx3Zm5SMng3bm00SmRWcGpyUXo0MmRZYldsRFk0T0lfQlZpUHlGdVp1cjdaM3Z0VDNkSHd2Ni11M3YxS2FYU3ZoWWpnbFdnalNnMkxwWk9FcWVpRjJodGVoRTFJcWdGZlVYRDY1TnVpZGZiUUZXN3J0Z2o5LTZOdjBZREt6OFQ3OG9jeGlfb2lCQlVNSU43Yy13ZUNLTG0xZlhYUUk1Y1YzRWoyR0kwU3Q4dmg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T00:52:09Z",
+      "summary": "美国圣安东尼奥独立学区诉讼案中，上诉法院发现律师提交的引用案例疑似由AI生成，属于虚假案例。这一事件引发法律界对AI工具可靠性的关注，提示律师在使用AI辅助检索法律文书时必须严格核验来源，避免因生成内容不实而影响司法公正。法院已对此提出警示，并可能对相关律师进行惩戒或审查。",
+      "fetchDate": "2026-08-18"
+    },
+    {
+      "id": "3781",
+      "title": "Snowflake Builds AI Context Layer - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUgxNW9BS09JcGtXUDdIbkYzZGxBWHJVSnJMYmNvOW5YZWFjSWlYTUk3ZDZEYmI5RGk1RFI2UXM0MXdVUjhMeElENWlUZFpEaF9Yc0s2WGVGMHBucHhkYjFraVI1VTgzeFR0cUNmNHpPa3hMMThrWmEwbmFiNXBhbGdkWmQtU0c4RjlsbTRhV0RoZXdaZElGcUVERlc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T00:04:27Z",
+      "summary": "数据云平台Snowflake正在构建AI上下文层，旨在为企业数据应用提供更智能的语义理解与整合能力。该技术层可连接结构化与非结构化数据，为AI模型注入业务上下文，从而提升查询准确性和生成结果的相关性。此举或推动企业在数据平台上更高效地部署AI应用，进一步强化Snowflake在智能数据基础设施领域的竞争力。",
+      "fetchDate": "2026-08-18"
+    },
+    {
       "id": "3765",
       "title": "Anthropic’s annualized revenue surges to $65B",
       "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -34003,5 +34021,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3778
+  "total": 3780
 }
