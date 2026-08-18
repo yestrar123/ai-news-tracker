@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "3782",
+      "title": "Snet System, a company specializing in artificial intelligence (AI) infrastructure services, announc.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OVmpuSXZ0UGRUbU1RNmVGWkNMQ01Mb1FWVk5PY2JmVTgwU08xdVp4QWsxNUpXY1ptcE52aVFabHJVNnlxUkxDT2dwR3hNUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T05:15:41Z",
+      "summary": "韩国AI基础设施服务商Snet System宣布了新的业务进展，但具体细节尚未完全披露。该公司专注于人工智能基础设施服务，此次公告可能涉及扩大其AI算力平台、优化模型部署或与企业客户达成合作。随着全球AI算力需求激增，Snet System正致力于提供更高效、可扩展的AI基础设施解决方案，以满足企业在模型训练和推理方面的多样化需求。市场关注其后续动态，以了解该公告对AI服务生态的具体影响。",
+      "fetchDate": "2026-08-18"
+    },
+    {
+      "id": "3783",
+      "title": "Opinion: Assessing shared failures with AI is key to cell and gene therapy’s evolution - BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5aVThGMWFnSlNTWnI4UzBmSWRjNlowZDBBdmU2bGp0cVN5eVV3dVpKRHh6TnVYeUd2WTdjUm9vb0FKdkYtR21fSjZTX3FoUVQ2UTJCRWRnMHY0TXgtd3ZaNEdSZDZtNHlyeVJGMk9hOHotZmRKbkx6ZDdTMjR4Tnh5QzFEbzA0blZNQUEtMGhWMXdUMmlodkpRYnY3Y09CcHlLR01xdUZpeHBhZ1JXUTRLZ0dOcTgwQnVGbHhscHliTHFm?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T04:18:15Z",
+      "summary": "BioSpace发表评论文章指出，评估共享失败案例是推动细胞与基因疗法发展的关键。文章认为，AI技术可以帮助行业系统化地分析临床前和临床试验中的失败数据，避免重复错误，从而加速疗法迭代。通过构建共享失败数据库并结合AI模式识别，研究人员能更深入地理解基因编辑、载体递送和免疫反应等环节的瓶颈。这种协作式数据共享文化，有望缩短细胞与基因疗法从研发到上市的时间，但需要行业内外建立标准化的数据披露机制。",
+      "fetchDate": "2026-08-18"
+    },
+    {
+      "id": "3784",
+      "title": "AI vs AI: Can artificial intelligence contain the fake news epidemic that it has helped unleash? - Genetic Literacy Project",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVdGT0RsZzJyLS1VbXV4R1R2THV2SGxtdk1oWUZMMU5BRVZwZ1Q2ejBhQTloWEhCa0NJSlZOY3VrcmlqOW52SVlYN2kyUVlwVXpCdDFfVlpiQ2NLaDV1Unp5QzJBSDZfclZ4MFJLVURzWE15MW8tbmY3clgxdG9rWmhBTGR5QzdwMU9qSnByUmMxM3BCOXd3aHQzVHlJWllOd0NlaERIdU0zTHhxSmRlLXhXemdaUXMzV3ZveTNHeG1zcmVBaDVnM1BNck9NVHM0Z3BuVFNXeHU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T04:04:07Z",
+      "summary": "该报道探讨了AI在假新闻传播与治理中的双重角色。文章指出，生成式AI工具大幅降低了制造虚假信息的成本，加剧了假新闻泛滥；但同时，AI也被用于检测深度伪造、识别虚假内容模式和追踪信息传播路径。然而，用AI对抗AI存在局限性，如对抗性样本攻击、误报风险以及不同平台间缺乏统一标准。文章强调，单纯依靠技术无法根除假新闻，还需结合媒体素养教育、政策监管和跨平台合作，才能有效遏制这一“流行病”。",
+      "fetchDate": "2026-08-18"
+    },
+    {
+      "id": "3785",
+      "title": "AI inference is getting cheaper, but your agents are getting more expensive - computerworld.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQkVWNzM5RGhXdmxFbk5IRklMSG5nMGVjcW9vbmk4RGtDQk1zMVl1dWEwYVF3ZVdVMFNWcnZfQkcxc09hU3doZmtwSEVudlZrM2hIZTNxbXBMTV9tRTNaU2ZjVmtrcHdFdENZdi1LNWNJVUJkUXozQlpiZmdudzZFZm9XSnBDTktEa1VhMUNiOWtYZVhicEpxZ1JGRWZpLUg4TzVwSGIzU1dsckU0VVJONm5CN0JKQkRyLXpVbW4wOWFFdWs?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T01:39:06Z",
+      "summary": "Computerworld文章指出，尽管AI推理成本持续下降，但企业部署AI代理（Agent）的总体成本却在上升。原因在于，推理费用只是冰山一角，AI代理的构建、调试、安全防护、上下文管理以及与现有系统集成所需的工程和运维开销远超预期。此外，多轮对话和高复杂度任务会消耗更多计算资源，且模型更新和维护仍需持续投入。文章建议企业在采用AI代理时，应更全面地评估总拥有成本，避免仅因推理单价降低而低估实际支出。",
+      "fetchDate": "2026-08-18"
+    },
+    {
       "id": "3780",
       "title": "Appeals court flags AI-generated fake cases in San Antonio ISD lawsuit - ksat.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmx3Zm5SMng3bm00SmRWcGpyUXo0MmRZYldsRFk0T0lfQlZpUHlGdVp1cjdaM3Z0VDNkSHd2Ni11M3YxS2FYU3ZoWWpnbFdnalNnMkxwWk9FcWVpRjJodGVoRTFJcWdGZlVYRDY1TnVpZGZiUUZXN3J0Z2o5LTZOdjBZREt6OFQ3OG9jeGlfb2lCQlVNSU43Yy13ZUNLTG0xZlhYUUk1Y1YzRWoyR0kwU3Q4dmg?oc=5",
@@ -34021,5 +34057,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3780
+  "total": 3784
 }

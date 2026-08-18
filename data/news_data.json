@@ -1,76 +1,41 @@
 {
-  "updatedAt": "2026-08-18 02:48:13 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-08-18 06:22:43 UTC",
+  "totalArticles": 5,
   "articles": [
     {
-      "title": "Appeals court flags AI-generated fake cases in San Antonio ISD lawsuit - ksat.com",
+      "title": "Snet System, a company specializing in artificial intelligence (AI) infrastructure services, announc.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OVmpuSXZ0UGRUbU1RNmVGWkNMQ01Mb1FWVk5PY2JmVTgwU08xdVp4QWsxNUpXY1ptcE52aVFabHJVNnlxUkxDT2dwR3hNUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T05:15:41Z",
+      "summary": "韩国AI基础设施服务商Snet System宣布了新的业务进展，但具体细节尚未完全披露。该公司专注于人工智能基础设施服务，此次公告可能涉及扩大其AI算力平台、优化模型部署或与企业客户达成合作。随着全球AI算力需求激增，Snet System正致力于提供更高效、可扩展的AI基础设施解决方案，以满足企业在模型训练和推理方面的多样化需求。市场关注其后续动态，以了解该公告对AI服务生态的具体影响。"
+    },
+    {
+      "title": "Opinion: Assessing shared failures with AI is key to cell and gene therapy’s evolution - BioSpace",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5aVThGMWFnSlNTWnI4UzBmSWRjNlowZDBBdmU2bGp0cVN5eVV3dVpKRHh6TnVYeUd2WTdjUm9vb0FKdkYtR21fSjZTX3FoUVQ2UTJCRWRnMHY0TXgtd3ZaNEdSZDZtNHlyeVJGMk9hOHotZmRKbkx6ZDdTMjR4Tnh5QzFEbzA0blZNQUEtMGhWMXdUMmlodkpRYnY3Y09CcHlLR01xdUZpeHBhZ1JXUTRLZ0dOcTgwQnVGbHhscHliTHFm?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T04:18:15Z",
+      "summary": "BioSpace发表评论文章指出，评估共享失败案例是推动细胞与基因疗法发展的关键。文章认为，AI技术可以帮助行业系统化地分析临床前和临床试验中的失败数据，避免重复错误，从而加速疗法迭代。通过构建共享失败数据库并结合AI模式识别，研究人员能更深入地理解基因编辑、载体递送和免疫反应等环节的瓶颈。这种协作式数据共享文化，有望缩短细胞与基因疗法从研发到上市的时间，但需要行业内外建立标准化的数据披露机制。"
+    },
+    {
+      "title": "AI vs AI: Can artificial intelligence contain the fake news epidemic that it has helped unleash? - Genetic Literacy Project",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVdGT0RsZzJyLS1VbXV4R1R2THV2SGxtdk1oWUZMMU5BRVZwZ1Q2ejBhQTloWEhCa0NJSlZOY3VrcmlqOW52SVlYN2kyUVlwVXpCdDFfVlpiQ2NLaDV1Unp5QzJBSDZfclZ4MFJLVURzWE15MW8tbmY3clgxdG9rWmhBTGR5QzdwMU9qSnByUmMxM3BCOXd3aHQzVHlJWllOd0NlaERIdU0zTHhxSmRlLXhXemdaUXMzV3ZveTNHeG1zcmVBaDVnM1BNck9NVHM0Z3BuVFNXeHU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T04:04:07Z",
+      "summary": "该报道探讨了AI在假新闻传播与治理中的双重角色。文章指出，生成式AI工具大幅降低了制造虚假信息的成本，加剧了假新闻泛滥；但同时，AI也被用于检测深度伪造、识别虚假内容模式和追踪信息传播路径。然而，用AI对抗AI存在局限性，如对抗性样本攻击、误报风险以及不同平台间缺乏统一标准。文章强调，单纯依靠技术无法根除假新闻，还需结合媒体素养教育、政策监管和跨平台合作，才能有效遏制这一“流行病”。"
+    },
+    {
+      "title": "AI inference is getting cheaper, but your agents are getting more expensive - computerworld.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQkVWNzM5RGhXdmxFbk5IRklMSG5nMGVjcW9vbmk4RGtDQk1zMVl1dWEwYVF3ZVdVMFNWcnZfQkcxc09hU3doZmtwSEVudlZrM2hIZTNxbXBMTV9tRTNaU2ZjVmtrcHdFdENZdi1LNWNJVUJkUXozQlpiZmdudzZFZm9XSnBDTktEa1VhMUNiOWtYZVhicEpxZ1JGRWZpLUg4TzVwSGIzU1dsckU0VVJONm5CN0JKQkRyLXpVbW4wOWFFdWs?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T01:39:06Z",
+      "summary": "Computerworld文章指出，尽管AI推理成本持续下降，但企业部署AI代理（Agent）的总体成本却在上升。原因在于，推理费用只是冰山一角，AI代理的构建、调试、安全防护、上下文管理以及与现有系统集成所需的工程和运维开销远超预期。此外，多轮对话和高复杂度任务会消耗更多计算资源，且模型更新和维护仍需持续投入。文章建议企业在采用AI代理时，应更全面地评估总拥有成本，避免仅因推理单价降低而低估实际支出。"
+    },
+    {
+      "title": "Appeals court flags AI-generated fake cases in San Antonio ISD lawsuit - KSAT",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmx3Zm5SMng3bm00SmRWcGpyUXo0MmRZYldsRFk0T0lfQlZpUHlGdVp1cjdaM3Z0VDNkSHd2Ni11M3YxS2FYU3ZoWWpnbFdnalNnMkxwWk9FcWVpRjJodGVoRTFJcWdGZlVYRDY1TnVpZGZiUUZXN3J0Z2o5LTZOdjBZREt6OFQ3OG9jeGlfb2lCQlVNSU43Yy13ZUNLTG0xZlhYUUk1Y1YzRWoyR0kwU3Q4dmg?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-18T00:52:09Z",
-      "summary": "美国圣安东尼奥独立学区诉讼案中，上诉法院发现律师提交的引用案例疑似由AI生成，属于虚假案例。这一事件引发法律界对AI工具可靠性的关注，提示律师在使用AI辅助检索法律文书时必须严格核验来源，避免因生成内容不实而影响司法公正。法院已对此提出警示，并可能对相关律师进行惩戒或审查。"
-    },
-    {
-      "title": "Snowflake Builds AI Context Layer - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUgxNW9BS09JcGtXUDdIbkYzZGxBWHJVSnJMYmNvOW5YZWFjSWlYTUk3ZDZEYmI5RGk1RFI2UXM0MXdVUjhMeElENWlUZFpEaF9Yc0s2WGVGMHBucHhkYjFraVI1VTgzeFR0cUNmNHpPa3hMMThrWmEwbmFiNXBhbGdkWmQtU0c4RjlsbTRhV0RoZXdaZElGcUVERlc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T00:04:27Z",
-      "summary": "数据云平台Snowflake正在构建AI上下文层，旨在为企业数据应用提供更智能的语义理解与整合能力。该技术层可连接结构化与非结构化数据，为AI模型注入业务上下文，从而提升查询准确性和生成结果的相关性。此举或推动企业在数据平台上更高效地部署AI应用，进一步强化Snowflake在智能数据基础设施领域的竞争力。"
-    },
-    {
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-17T23:56:26Z",
-      "summary": "AI模型制造商Anthropic的年化收入飙升至650亿美元，较此前猛增，仅两个月内就新增了180亿美元年化收入。这一爆发式增长反映出市场对前沿AI模型的旺盛需求，也意味着Anthropic在商业化和规模化方面进展显著。其收入增速远超行业平均水平，成为AI领域备受关注的头部玩家。"
-    },
-    {
-      "title": "Mark Vision, an artificial intelligence (AI)-based intellectual property (IP) service company, annou.. - mk.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05SzQ3c2Y0QmRrNWZtNGNOTFpGVURMMWRCTkd1R084SkhRNkhaVXVKYURXM3h0eVh1TmQ2RGRCbDR1QnZNdkRMUVZ1NA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-17T23:49:09Z",
-      "summary": "Mark Vision是一家基于人工智能的知识产权服务公司，近日宣布了新的业务进展。该公司利用AI技术帮助企业进行专利检索、商标管理、侵权分析等知识产权相关工作，旨在提高效率、降低成本。此次公告或涉及新产品发布或战略合作，进一步拓展其AI驱动的IP服务生态，为创新型企业提供更智能的知识产权保护方案。"
-    },
-    {
-      "title": "Artificial intelligence (AI) startup Antropics has surpassed $65 billion (about 92 trillion won) in - mk.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjVHFJZ1hpYlI2UFd4S0x2UUtGSnpiNDNKb2VuZzJ5UGtZVjRsQm1RTFJWSXl6V1VuejNoVHJzbnU4T2t5VC13YjR6NA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-17T23:34:06Z",
-      "summary": "人工智能初创公司Anthropic的估值或年化收入已突破650亿美元（约合92万亿韩元），引发业界广泛关注。作为AI大模型领域的重要参与者，Anthropic凭借其先进的语言模型和稳健的商业策略，实现了收入规模的惊人增长。该数据反映出全球AI市场热度持续攀升，也进一步巩固了Anthropic在生成式AI竞争格局中的领先地位。"
-    },
-    {
-      "title": "Ankit Jain: Rethinking Code Reviews with AI - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjJER1U4REN5Qlo4Qld1QktOY3lMNGJ5bU9ydkVLd0hGR21VVmpJV1c5eXZEbkpBM1d4Qm5BX1FFUVh6NDh0S0t0WUpJVGRrVk9PZDFpcDNQUkFUVVc5b19FQmhzQk5ZR1IwQVRDRVFTLVVCVGdtSjJuVm1IdUl1VzdYSnBROW9iSGZManJEeG5EOGFFQ1ZzZDVUb0RKZUNEZ0ozUDBsZ1A?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-17T23:07:58Z",
-      "summary": "Ankit Jain探讨了如何借助AI重新定义代码审查流程。他认为传统代码审查耗时且易受主观因素影响，而AI可以通过自动化分析代码质量、识别潜在缺陷、提供修改建议等方式提高审查效率和准确性。他还讨论了AI辅助审查工具的人机协作模式，强调将开发者经验与机器学习能力结合，能够显著提升软件工程生产力。"
-    },
-    {
-      "title": "Spending spree on AI skills to help turbocharge biz growth, bank survey says - The Sun",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUV5NkltVXA4VVJsS0h6Uk5hOVI2eWZTa2F4QUdHVl9FLVFwNHNsZW11eGFLelZtamVFT0NXUkNlRTBLclJ5N3V3SzQ3d211elV4WnRzWklmLWVtQnpCLWhjTDIxdnJyakRSUzJMQktlNHEzUjNTakdvYU40ZDZRUTVQOHcwMUlWMGtpcUhJZzQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-17T23:01:00Z",
-      "summary": "一项银行调查显示，企业正在加大在人工智能技能培训方面的投入，以加速业务增长。企业普遍认为掌握AI技能的人才能够提升运营效率、创新能力和竞争力。调查指出，AI相关培训预算显著增加，员工学习AI技术的热情高涨。专家表示，这一趋势将推动AI在商业场景中的深度应用，并重塑未来劳动力市场结构。"
-    },
-    {
-      "title": "AI at work puts new pressure on managers - foxsanantonio.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYWlLanI3VkpVOXhISk1HRDlwVEhqUGJvUS1wTWFfbDZMTTV1R0NUVzBhY0U4ejBiNnBHUFZRY25QSVVoTlgtMDRONnVBdXU5V2U5SUpOQXVkVldUaVZuNnJ6U1V1NUppZnFoSDJCN0l1bXUtaHBEV203SzJFMlpXbmN1b0lKZEh6U3ZiOUJxdHJFS00zSVZuYzhrVnF5dWlsUFlhVENXM3pfVF9lWXY4cXd1VVltWEtKNXRUTFh2VFU1WTQzOUJwaDVhZ3BHanVKWkFRTFVmY3dGSDg0ZFd6c3B6ZnNST0xHcXRiMmFB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-17T22:20:43Z",
-      "summary": "随着人工智能深入职场，管理者面临新的压力和挑战。AI技术的引入改变了任务分配、绩效评估和团队协作方式，管理者需要快速掌握AI工具的使用，并重新定义员工角色。同时，他们还要应对员工对技术替代的焦虑，以及伦理和数据安全等问题。专家建议管理者加强AI素养，并建立更具适应性的管理机制。"
-    },
-    {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-17T21:27:05Z",
-      "summary": "AI自动化初创公司Relay宣布关闭，其团队成员将加入谷歌Chrome团队。Relay创始人兼CEO Jacob Bank表示，他们抱有雄心勃勃的计划，希望在Chrome中集成AI功能，帮助用户更高效地完成各种任务。此次整合意味着谷歌正在加强浏览器的AI能力，未来Chrome或将推出更多智能自动化工具，与用户工作流深度结合。"
-    },
-    {
-      "title": "Anthropic Revenue Skyrockets, Boosting AI Stocks - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUUlRWVExTWcyc1d6XzJqdVZpdThJbFpmdEp0cUpCdWNOTllneER1OFVvXzZnWnRIWVdiclVuV1Z1T3JZQnlaUFNRMFJ4WnNwVlB3aUhIUkJ0Z0plSXpsR09hNmFnaUFPNktIRGVUbk8tRFplVFdBWUc5ZlFhUjJDUWczNllMeWo0eWZKNjdkSW5XRXpVZUNIbVl4UlVMQ0UzT3NlLUtad3QtbzVWaEYw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-17T21:08:05Z",
-      "summary": "Anthropic收入的飙升不仅展现了该公司自身的强劲增长，也带动了AI相关股票整体上涨。投资者对AI商业化前景的信心增强，推动板块估值走高。分析认为，Anthropic的成功表明大模型企业正在从技术探索走向大规模盈利，这一信号或引发更多资本进入AI赛道，进一步加速行业创新与竞争。"
+      "summary": "德州圣安东尼奥独立学区（San Antonio ISD）的一起诉讼中，上诉法院发现律师提交的法律文件中包含AI生成的虚假案例引用。法院指出，这些由人工智能编造的判例不存在，律师未能尽到核验义务，可能面临纪律处分。这一事件再次警示法律界，AI工具虽能提高检索效率，但存在“幻觉”风险，从业者必须对AI生成内容进行严格审查。上诉法院要求相关方解释并考虑制裁措施，凸显了司法界对AI使用规范日益严格的趋势。"
     }
   ]
 }
