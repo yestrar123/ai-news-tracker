@@ -1,118 +1,62 @@
 {
-  "updatedAt": "2026-08-18 18:20:27 UTC",
-  "totalArticles": 16,
+  "updatedAt": "2026-08-19 00:35:27 UTC",
+  "totalArticles": 8,
   "articles": [
     {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "title": "Young Americans really hate AI. These two charts show how much. - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnE3aEJ4VXBpY3Y0NGMyb0E5ZFNvVUxrOFBmZ2QtR0ZVZ2NQSkpLMXZodFR2c1ZyTGlDSHNlVWdheEV5bUJibG9xTFZSeWJyMDJXOEJkX29fVU5ydHhGZWVhWkxtQkxTYmJncEVCM1FLWjB0bjRJVWtwTGNsN3k4TWtWRXFjZkVLV29qb19uZzMxMmRTalN1UVdmLWlBamNGWmFoV0o2Sm1zbnN1U1ZjSXFuazZxSXhCQUVpSTF3RWg1dW1NOHFUNksxSE0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T23:27:13Z",
+      "summary": "《华盛顿邮报》发布的两张图表显示，美国年轻人对人工智能持强烈的负面态度。调查数据表明，与传统认知不同，Z世代和千禧一代对AI的抵触情绪尤为突出，他们担忧AI对就业、隐私和社会公平的冲击，并质疑其在实际应用中的可靠性。这种反感情绪可能会影响AI技术的普及速度，也为政策制定者和科技企业敲响警钟——在推进AI发展的同时，必须重视年轻群体的关切，并建立更透明的沟通与监管机制。"
+    },
+    {
+      "title": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVJKd3VZcjRyMHdGVGNrcWhXM1htSHpGZUpwQjFEWk03cXU1WW1YNUl4dUx0RF9pWE5wYVlBV1JDWmhyWkRad3ZocEhLOTZLMVZBZXVzZmg3YS1Hb2FzR05ZVF9qWDlsTlhxWjRaOVJkaF9IYXEtd1UwUUV6dVR4b0hXdTRRRG9wS2FZVUpoV1hha1dMakI0SA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T23:25:39Z",
+      "summary": "知名财经媒体Motley Fool发文对比博通与英伟达在AI芯片领域的投资价值，并引入一个关键指标来揭示哪家公司更具性价比。文章推测，该指标很可能是市盈率或预期增长率，用以衡量两家公司的估值差距。英伟达凭借GPU在AI训练市场占据主导地位，而博通则凭借定制芯片和网络解决方案快速切入。分析指出，尽管英伟达增长迅猛，但博通的估值可能更为合理，为投资者提供了不同的选择视角。"
+    },
+    {
+      "title": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZFprc0xKdm9BaVo3ZjNncWxFOWEzN0lqUVpQZ3Q4eDN1RFU5Y2F1eU1UQlFRbTFVTWlZLWdWM19uUElPbnFwMlFDanppSTZka0ZYUEhac0hKRDM0bjdMODNsbmI2NTJFc3RhdlNWdVVCMnFLdEQ3ZTNHY3YzX0F4TTNPeGktM0w4UUREeHg2ckEzeGpFampUUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T22:50:53Z",
+      "summary": "据Motley Fool报道，伯克希尔·哈撒韦公司CEO接班人格雷格·阿贝尔将投资组合中的34.7%重仓于两只人工智能股票。虽然具体标的未在摘要中列出，但根据此前的披露，这两只股票很可能是苹果和亚马逊。阿贝尔的布局显示出其对AI长期前景的看好，即使在巴菲特时代伯克希尔对科技股持谨慎态度，如今管理层也开始加大对AI相关核心资产的投资力度，此举可能代表集团未来战略方向的转变。"
+    },
+    {
+      "title": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGVkQ2RrdDhHbExTRE1VTHMzYzFsSG9TamZDc1hhNTB2Qm85aFg5T3E1WTMwRFoxd25kSWYyWjR5UnBDblVMZ0d5RlFSRTdwOXc0TEVpSmpCdlBKemVoX1hNTWUxNWlEN0VaaV8wMW5yRmZkN0NlWmlOSWNvUTg5VVk0dU1BVDBGVXh4MDFUcHpwWVFTeUZ3YQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T22:47:31Z",
+      "summary": "Motley Fool的分析预测，博通的人工智能相关收入将在2027年超过1000亿美元，并以此探讨当前股价回调是否构成买入机会。博通在AI网络芯片、定制加速器和数据中心连接解决方案方面具有独特优势，其AI业务正成为增长核心。文章认为，尽管短期内市场波动明显，但长期需求强劲，若投资者看好AI基础设施的持续扩张，当前的回调或许提供了一个具有吸引力的入场点，同时提醒关注执行风险和竞争压力。"
+    },
+    {
+      "title": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPRHJya2pWUUUyY3V5QnBLQVhNX2lJaEl6NHptLU13RXh0eDdpaUtMVFp1dkN5LUFtenBvZ29nWUg2MnpZT2RiNGtLVGdoT0hlV29rbDdaa3RHeExFZXRiWXlMbi1hOHEzS21DdmdLNy04UkFWUm9XMzJyOVVLQ1luUzQ2YWg3WWxFQVBCa0hweDFkdWc5cmRIR1d3WGJJbzczUTV3OU8tbWRUSHZsaE05LVNIX1hGdF91dlhVYzhXT1hkM0F3RDZ2aFRKZl9WdXNzbzBacnRsMHVCZENhaUNzVUhhNFVtYTZqWEpWd1NUV2ZpbXdPa2N2ek02N1JfdFRvMnRuSXR2ZVBRcy0tVVRQbndGYVRlQWZNazV5VkNZd01YdFVTRnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-18T22:44:38Z",
+      "summary": "加拿大《环球邮报》转载了关于博通AI收入前景的分析，指出该公司AI业务收入有望在2027年突破1000亿美元。报道强调，博通已从传统半导体公司转型为AI基础设施关键供应商，其定制芯片和网络产品深度嵌入大型科技公司的数据中心。面对股价近期回落，文章建议投资者权衡短期波动与长期增长潜力，并指出博通在多元化客户基础和长期合同方面具有优势，因此回调可能为长期投资者提供良机。"
+    },
+    {
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18T18:00:00Z",
-      "summary": "OpenAI在遭遇Hugging Face安全漏洞事件后，宣布引入新的安全防护措施。这些措施包括在模型开发过程中进行更详细的监控，并强调在事后训练阶段加强对齐与安全性。此举旨在应对AI模型可能存在的潜在风险，提升系统鲁棒性，确保模型行为符合预期，并防范因训练数据或第三方组件引发的安全隐患。"
+      "publishedAt": "2026-08-18T22:14:25Z",
+      "summary": "AI代码编辑器开发商Cursor抓住开发者对GitHub的不满情绪，正式推出代码托管平台，直接挑战GitHub的市场主导地位。Cursor以AI辅助编程为特色，整合智能补全、自动化审查等能力，此次将业务延伸至托管领域，旨在打造从编码到协作的闭环生态。分析认为，GitHub近年来在功能迭代和服务价格上引发部分开发者抱怨，Cursor此举有望吸引追求AI原生工作流的团队，但能否撼动GitHub庞大的用户基础仍有待检验。"
     },
     {
-      "title": "Content Creator’s AI-Generated Facebook Posts Rake In $10K-Plus A Month - Black Enterprise",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlZkZ2I0MFZGNWFBbklyUVIzYTBiZ3VJZlZGMnRmbHA4cjJ5R0hQaVZLVjFWVS1Zc3IwRm51V3hfYVZwS0pQOGZ5TzNITnBYa0JsYVRDNlhqNWU2TFhBdTVjSnJPWUw3QkRvejVKbV93dG9iWUlPMkloMkpzVnBZTkg1ZmJwNFRQa0dMalJ5VW9sVVZNMXl5RnlB?oc=5",
+      "title": "Radiology Partners unit Mosaic petitions FDA on imaging AI regulation - AuntMinnie",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbTc2YlZmeEVKWVBhWlZUXzNiX0xlbGhxOVVuYV9lS25mYjVsUk54VDJ1UHVrRG82VlJGLXNyWFhiWmd6R3JkWGZuX0MyV3Nid0RpVmN1U1Q4QVBmY0N2aFIwYi1Ha1Z3bER5WVBpM21BQVdvQmZvejBUWW1nemk0dk1GaE9YQkZHU19GYVZrWEdNN0cyWVJIR29JVVFucUVvODk4WF82ckp5LWJCcXgwNnlnOXhuNmZfZFBTVmhXdTNtbkVwR1ZWVWgtcnpKQkU2QlVMc0tnOXIwQ09BdjV1Ri0wbDAzeEN5ekE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-18T17:46:51Z",
-      "summary": "据报道，一名内容创作者利用AI生成的Facebook帖子每月收入超过1万美元。该创作者通过AI工具批量生成吸引人的图文内容，在Facebook平台上获得大量流量和广告分成。这一案例展示了AI在内容创作和变现方面的潜力，同时也引发关于AI生成内容质量、平台规则及真实性的讨论。"
-    },
-    {
-      "title": "Project noRecognition: Teaching AI to Fool Surveillance Cameras - Security Affairs",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWhHUXUxeFNGcDAyMUtBTnBOOThKVHdSeklabWs0Ym9RaUlpSmprOGtJVnQ0M1NHaHlzY0F6bU9CSjM1cFVYNm1jZzZ3aXFDeDl1MlpidHpySk5NWE1tVkZaTFJIUXB6WVJmUmZqNlQ2Vm94bkVnQXZMREU4Ujc2YkZZZEtFNW1HYzd6V2lnRTEyeW1mLVQzc1VTaml3T1A1NEhFTndFYmTSAa4BQVVfeXFMTWVocVIzTU5OQ2Z3ZmZaWWdXcUM3cWJLdDBnZ0Fnd0JWcURTZW54REJBWHVkU0l1cmtuNjBqMS14bmxLSnhkanB0SVhKejhrdTNEVU05R1FwbF9ZN2VZWmlfOG9XZHNsT25TYi1ZT0FYeUVENENEMk9hbTF3NlVZaHl6eFBVemJ0UGN2Z0R1d1dadTVKY2c5ZkVubm1PTjRQcHNiQ1RWYTZTYnhZczl3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T17:32:37Z",
-      "summary": "一个名为“noRecognition”的项目正致力于训练AI系统，使其能够规避监控摄像头的识别。该项目通过生成对抗性图案或利用AI算法干扰视频监控的对象检测功能，从而保护个人隐私。该技术可能被用于合法隐私保护，但也可能引发对监控规避和公共安全的担忧。"
-    },
-    {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18T17:21:58Z",
-      "summary": "AI芯片初创公司Etched的估值在一个月内翻倍，达到210亿美元。据该公司称，金融公司Jane Street已部署其首套AI集群系统，并对其印象非常深刻，因此主导了新一轮大规模融资。这一事件反映出市场对专用AI芯片及高性能计算基础设施的强劲需求。"
-    },
-    {
-      "title": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSG9sVmlFTjR0VUpQbmFZd3hYZnVGdVIwN0hmeC15TURQQ01OeUdBSDc3U3ZrbGp1OEZkcjFRa25oWUhaTWZkTTlzbU43LTc2VW9leG5XOGhjQS0zeE10UlZubHI1QXdjVnY4akF2S1phWGRsNmxJYmZEZUVyTVZjcV9nQVNLZjA5c1l5dE5kNWJUaUtMTjdNbVF4VFFvRmdQRnJkTEJ6cw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T17:17:12Z",
-      "summary": "得州理工大学被曝正在使用人工智能技术来削减或过滤被认为具有左倾倾向的内容。此举引发了关于学术自由、意识形态偏见以及AI在高等教育中应用边界的争议。校方尚未明确回应，但该报道质疑AI决策是否会导致言论审查或立场偏倚。"
+      "publishedAt": "2026-08-18T18:50:58Z",
+      "summary": "Radiology Partners旗下部门Mosaic向美国FDA提交请愿书，要求对医学影像AI实施更严格的监管。Mosaic主张，当前成像AI产品缺乏统一的临床验证标准，可能导致诊断准确率参差不齐，进而危及患者安全。请愿书呼吁FDA制定明确的审批指南，包括对训练数据质量、算法偏倚和真实世界性能进行强制审查。这一举动反映了医学影像AI领域对规范化监管的迫切需求，也预示着相关法规可能迎来重大调整。"
     },
     {
       "title": "AI chip startup Etched doubles valuation to $21 billion in under a month - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-18T16:31:30Z",
-      "summary": "AI芯片初创公司Etched在不到一个月内估值翻倍至210亿美元，路透社报道了这一消息。该公司专注于研发专用AI推理芯片，并已获得主要金融机构的战略部署支持。快速增长的估值表明资本市场对AI芯片赛道的高热度，以及投资者对专用算力需求的乐观预期。"
-    },
-    {
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18T16:19:10Z",
-      "summary": "针对苹果传闻中配备摄像头的AirPods，分析认为它可能不会像消费者担心的那样成为所谓的“偷窥吊舱”。原因在于苹果可能会限制用户拍摄照片和视频的功能，仅将摄像头用于环境感知、空间音频等非记录用途。这有助于规避隐私风险，同时保留智能穿戴设备的交互能力。"
-    },
-    {
-      "title": "Why workflow accountability may define healthcare AI's next phase - Healthcare IT News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXhKTF81MkdjRTJGei1XTFpJVW42WVJNZHlpODFRNndoMDlqUzJmOHJpeXMtTThkX1VJdkUtZ1p3UTVMNDN4NmNYaFpjcXVETEY5R2pmXy1YS3BGTU5OWVdleVlyd2dsRXF0SlBoOGc0UDZ0T09XR3ZiZWtpZGU1eEw2LTBLVnVvcmtYeE5FTEsxZTBEMUFmUmgyV2NjSWxLMzliRw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T16:16:11Z",
-      "summary": "医疗AI的下一个发展阶段可能由工作流责任机制定义。文章指出，随着AI在临床决策中的角色日益重要，确保对AI输出结果进行有效的流程追踪、责任分配和可解释性变得关键。建立明确的工作流问责框架，有助于提升医疗AI的安全性、合规性及临床采纳度。"
-    },
-    {
-      "title": "OpenAI president urges enterprises to hasten AI security defences - AI News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVFmTUpTRGlEWktZME5JdW9ZY0VKMWZwYV9qRnI1aEltcEZOR0lBT3NwQk1zMUc1M3lsWVlJZnFPRWwxdEYwV0lYUnp6cDQ5T0ZWeEFsNzNhUUc4ek5rYzMyQVgzWlZzckFPNFRYeWpoUHdENG9HQzM1RG92aXBPdkk4Umw5QXA1Xy1iNDZQMlA2MzdjWDlDbXZkTzQyaS01cGJCRk5aVkg5Y0lvRF9QNTh3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T14:59:43Z",
-      "summary": "OpenAI总裁呼吁企业加快构建AI安全防御体系。他强调，随着AI技术的快速普及，企业面临的网络威胁和模型滥用风险也在上升。企业应尽早采用主动的安全策略，包括红队测试、持续监控和员工培训，以应对日益复杂的AI安全挑战。"
-    },
-    {
-      "title": "Is AI driving inflation? The artificial intelligence boom adds pressure on the Fed - CMC Markets",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa0FWeWJVams5UjlNV2lUMXl4Q3N5ZVBvT3NEZDNLYnRaX2ExaFRsaW5TNXZFYTBOclA1UllwX01XOGw3bnZmdmxOdURxeHVkYzJVQWRGRzFmY3VFdEhIcU9jQnpNd2hDbjRCMno5WVg2eVhwUjRnSkNSa2RtMS1JcmQ5X1BnZEo3dGdYR0FJMGx0OWZXdTNVT2k5ZFJqOGU0RU1uN3JCa2lHaTBsZl9ISk9hb3hucnRHbUIxalVCYVZzVnVrZS1UN2R5Rmk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T14:43:38Z",
-      "summary": "文章探讨了AI热潮是否正在推动通货膨胀，并给美联储带来额外压力。分析指出，AI基础设施建设的大规模资本投入、芯片需求激增以及数据中心的能源消耗可能推高相关商品和服务价格。这可能加剧通胀压力，影响美联储的货币政策决策。"
-    },
-    {
-      "title": "Artificial intelligence or clever artifice? - Chemistry World",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcF9IVUhLaXNYYjdCUTY4aTZmeklhOURTNjJUYVQ1WlROdjdEcXowTkVJLWxTbllYMkZpUjZGOUwtYXR5QlFlYk5OZllQWFJHNDVOcG56X2VNMFk0Rk1tTHp5cFB3ZUotYnZDbTg4b0gwMzV3QVVrbGh4R0EyZzljdHBQZ05iNGNKNjhnVFA5bzMwdU9rWG93Tk15b2hoUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T14:27:32Z",
-      "summary": "化学领域权威刊物《Chemistry World》发表评论文章，探讨人工智能在化学研究中的实际价值与潜在炒作之间的界限。文章标题以质疑口吻提出“人工智能还是巧妙伪装”，引发对当前AI驱动化学发现成果真实性的思考。评论可能分析了AI在分子设计、反应预测和实验优化中的应用案例，指出部分宣传存在夸大成分，强调需审慎评估AI模型的可靠性、可重复性以及对科学实践的真正贡献。文章旨在引导科研人员理性看待AI工具，避免被炫目技术名词迷惑，回归实验验证本质。"
-    },
-    {
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18T14:00:00Z",
-      "summary": "科技媒体TechCrunch报道，Warp公司于周二推出名为“Warp Factories”的新型基础设施系统，旨在让构建AI软件工厂变得前所未有的简便。该系统被描述为“开箱即用”的软件工厂，提供一套集成化工具链，帮助开发者快速搭建、测试和部署AI应用。通过标准化流程和自动化组件，Warp Factories试图降低AI开发门槛，减少环境配置和基础设施管理负担，使团队能专注于模型训练与产品逻辑。此举反映了AI开发领域对高效、可复用基础设施日益增长的需求。"
-    },
-    {
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18T13:50:30Z",
-      "summary": "OpenAI正式推出面向青少年的ChatGPT版本，旨在提供更安全的AI使用环境。该版本新增适龄安全措施、家长控制功能以及学习辅助工具，可引导青少年远离有害内容，并防止其利用AI作弊完成作业。值得注意的是，青少年此前早已开始使用ChatGPT，此次发布填补了产品在年龄适配和安全管控方面的空白。OpenAI希望通过内置的防护机制和教学导向设计，让AI成为青少年学习的助力而非投机工具，同时回应社会对未成年人AI使用安全的关切。"
-    },
-    {
-      "title": "Perplexity’s free AI offer left it with millions more users in India",
-      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-18T13:45:40Z",
-      "summary": "Perplexity AI通过免费AI服务在印度市场取得了显著用户增长。据TechCrunch报道，在与电信运营商Airtel的合作优惠结束、不再向新用户提供免费服务后，Perplexity在印度的营收仍环比增长约60%，尽管应用下载量出现下滑。这一数据表明，此前的免费推广策略成功吸引了大量高价值用户，并形成了较强的付费转化率和用户粘性。分析认为，Perplexity正通过本地化运营和免费策略站稳印度市场，为后续商业化奠定基础。"
-    },
-    {
-      "title": "Artificial intelligence to stop nuisance 101 police calls about late pizza delivery - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObDdzLXhmeG9wTkRGdXlFaGtpcmwtaTJDVC0wTFFLRHlmVG1XOEpQOU5SaWpJcU5fYXRqQ3FKN2djdXNGNFplNk1rOTdpS3VZT2RmUWYyNElvc0o5OF9UNUZCMmtZLXlYQmlpcGVaVk9QeElRRlFHck1VNWlfQ1Q3Wk9maDRuT0FxMVVVTHdITQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T13:44:00Z",
-      "summary": "英国警方计划引入人工智能系统，以应对大量关于披萨配送延迟的骚扰性101报警电话。据《独立报》报道，非紧急报警热线101频繁接到此类无聊或恶意来电，耗费警力资源。AI系统将用于自动识别和过滤这些重复、无实质内容的来电，将警员人力从琐碎事务中解放出来，集中处理真正的紧急求助。该技术可能通过语音识别和语义分析判断来电意图，实现分级响应。此举展示了AI在公共安全服务中优化资源分配的实际应用潜力。"
-    },
-    {
-      "title": "Mekong Delta launches first robotics, AI research institute - Vietnam+ (VietnamPlus)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEFGLTlMY3Y2VXdQbjI3ZDJZYk5XU0tveTlKNHQ0Sl9zbGlpZUJUSXdNY011eWZjMUdNWFdXMGFiQWRWdEJKRGFxRTE1YWxKZlhKb3lhTFBmQVZwWnMwNjdESnFuVFpHV29ObkV5MzB2S1R3TlBfdGR2am1uTlhWVVpvOVE0TkxZdzI2cmctM0I2cXZYQWVUY3BSWkw4RUl0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-18T13:08:11Z",
-      "summary": "越南湄公河三角洲地区正式启动首个机器人与人工智能研究所。据越南通讯社报道，该研究所的成立标志着该区域在高端科技领域迈出重要一步，旨在推动农业、水产养殖及制造业的智能化转型。研究所将聚焦机器人技术应用、AI模型开发以及本地化解决方案，并致力于培养专业技术人才，促进产学研合作。此举有助于提升湄公河三角洲的科技竞争力，为当地经济发展注入新动能，并呼应越南国家层面大力发展AI和机器人产业的战略规划。"
+      "publishedAt": "2026-08-18T18:41:39Z",
+      "summary": "据路透社报道，AI芯片初创公司Etched在不到一个月内估值翻倍，达到210亿美元。该公司专注于开发用于大语言模型推理的专用芯片，其产品采用Transformer架构定制设计，宣称在推理速度和能效上远超通用GPU。迅速攀升的估值反映出资本市场对AI专用硬件前景的强烈信心，同时也引发了对初创公司能否在英伟达主导的市场上站稳脚跟的疑问。Etched计划利用新资金加速量产并扩大工程团队。"
     }
   ]
 }
