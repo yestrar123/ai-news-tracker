@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "3854",
+      "title": "Israeli AI-based start-up Dondy acquired by UK holding company Circeus - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmEwNHBwcW03ZUVRRHZfUHVCTlRMLUpud0JtdzBwdVBBR2xKYmN4WGMzdXhpRFdIT3BaYUFfS1p1b2VuS2ZDSXNkV1JSWC1LUVo4Y1pDcTdxWDF1djlBLVlQWi1rOExiclYwZXNqMXZJdWVjdG53TVRNWG9Ea1pGa0VkQ213UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T00:38:46Z",
+      "summary": "以色列人工智能初创公司Dondy被英国控股公司Circeus收购。Dondy专注于AI技术研发，此次收购标志着Circeus在人工智能领域的战略布局进一步扩展。尽管交易具体条款未披露，但此举反映了欧洲资本对以色列AI创新企业的持续关注，也体现了全球科技行业整合加速的趋势。Dondy的技术实力与Circeus的资本和市场资源结合，有望推动相关AI产品的商业化落地。",
+      "fetchDate": "2026-08-20"
+    },
+    {
       "id": "3843",
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
       "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
@@ -25,6 +34,15 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19T21:51:23Z",
       "summary": "AI编程初创公司Cognition的CEO否认了SpaceX试图收购该公司的报道。此前有消息称，SpaceX正就收购Cognition进行谈判，并已先手收购了AI编程工具Cursor，以追赶OpenAI和Anthropic在企业AI领域的步伐。Cognition CEO的否认给这起潜在收购蒙上迷雾，但SpaceX积极布局AI的动向仍值得关注。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3855",
+      "title": "Consumers Want AI to Support Financial Decisions, Not Replace Advisors: Study - 401k Specialist",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHQyQjlKbnpQaDJNUUowS2ZhT3gyV3NhRDFMaVNFcWN4d3JZYnFLSU1ZdmJuSEs0VGdyaE1WVXZJSlFCNHRmc0Q2RkwxWWR0MWRROGpGUjBwLXdaMWZIUURlOTJ5dXA3RzZVS0dZSUp2eXoyMDNwSDlzMjN1MUY2aFZmUGtNNjdobXdaaElCLTE2S2owS3JoNVpQRU95ck1kUEpwdFVQcDNrQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-19T21:42:51Z",
+      "summary": "一项研究显示，消费者希望AI在金融决策中提供辅助支持，而非完全取代人类顾问。受访者普遍认为，AI可以帮助分析数据、识别风险、提供个性化建议，但最终的财务决策仍需人类顾问的参与和判断。这一结果表明，金融机构在引入AI技术时，应注重人机协作模式，将AI作为增强顾问能力的工具，而非替代品，才能更好地满足客户需求和信任预期。",
       "fetchDate": "2026-08-20"
     },
     {
@@ -34669,5 +34687,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3852
+  "total": 3854
 }

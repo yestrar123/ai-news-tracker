@@ -1,83 +1,62 @@
 {
-  "updatedAt": "2026-08-20 00:35:22 UTC",
-  "totalArticles": 11,
+  "updatedAt": "2026-08-20 02:49:00 UTC",
+  "totalArticles": 8,
   "articles": [
+    {
+      "title": "Israeli AI-based start-up Dondy acquired by UK holding company Circeus - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmEwNHBwcW03ZUVRRHZfUHVCTlRMLUpud0JtdzBwdVBBR2xKYmN4WGMzdXhpRFdIT3BaYUFfS1p1b2VuS2ZDSXNkV1JSWC1LUVo4Y1pDcTdxWDF1djlBLVlQWi1rOExiclYwZXNqMXZJdWVjdG53TVRNWG9Ea1pGa0VkQ213UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T00:38:46Z",
+      "summary": "以色列人工智能初创公司Dondy被英国控股公司Circeus收购。Dondy专注于AI技术研发，此次收购标志着Circeus在人工智能领域的战略布局进一步扩展。尽管交易具体条款未披露，但此举反映了欧洲资本对以色列AI创新企业的持续关注，也体现了全球科技行业整合加速的趋势。Dondy的技术实力与Circeus的资本和市场资源结合，有望推动相关AI产品的商业化落地。"
+    },
     {
       "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
       "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19T23:32:00Z",
-      "summary": "支付巨头Stripe宣布收购AI初创公司OpenRouter，后者专注于在不同AI模型之间路由请求。Stripe官方以“奇点”为理由解释这笔交易，但分析认为真正原因更为实际：Stripe希望借助OpenRouter的技术，为企业提供更灵活、高效的AI模型调用与支付解决方案，从而强化其在AI基础设施领域的布局。这一收购也反映出支付行业正加速与AI生态融合。"
+      "summary": "支付巨头Stripe收购AI模型路由初创公司OpenRouter，外界猜测其动机与“奇点”有关，但Stripe的真实意图更务实。OpenRouter的核心业务是在不同AI模型之间分配用户请求，这能为Stripe提供更高效的AI调用管理和成本控制能力。通过整合OpenRouter，Stripe可以优化自身支付系统的AI基础设施，同时为开发者提供更灵活的多模型接入服务，进而巩固其在金融科技领域的竞争力。"
     },
     {
       "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
       "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19T22:10:46Z",
-      "summary": "OpenAI正试图在企业客户数据隐私保护方面超越竞争对手Anthropic，推出新的客户隐私保护措施。此举显示两大AI公司围绕企业级市场展开激烈竞争，隐私保护已成为企业选择AI服务时的关键考量。OpenAI希望通过更严格的隐私承诺，吸引对数据安全高度敏感的大型企业客户，以巩固其市场领先地位。"
+      "summary": "OpenAI与Anthropic在企业客户数据隐私保护方面展开竞争。OpenAI推出新的隐私保护措施，旨在为企业客户提供更强的数据安全保障，以应对Anthropic在隐私领域的挑战。双方都在争夺企业级AI市场，而数据隐私已成为企业选择AI供应商的关键考量因素。OpenAI此举意在通过更严格的访问控制、数据隔离和透明政策，赢得大型企业的信任，从而在竞争中占据优势。"
     },
     {
       "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
       "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-19T21:51:23Z",
-      "summary": "AI编程初创公司Cognition的CEO否认了SpaceX试图收购该公司的报道。此前有消息称，SpaceX正就收购Cognition进行谈判，并已先手收购了AI编程工具Cursor，以追赶OpenAI和Anthropic在企业AI领域的步伐。Cognition CEO的否认给这起潜在收购蒙上迷雾，但SpaceX积极布局AI的动向仍值得关注。"
+      "summary": "AI编程初创公司Cognition的CEO否认了SpaceX试图收购该公司的传闻。此前有报道称，SpaceX正与Cognition洽谈收购事宜，且已收购另一家AI编程公司Cursor，以追赶OpenAI和Anthropic在企业AI领域的步伐。但Cognition CEO明确否认，暗示该传闻不实。尽管如此，AI编程赛道热度持续升温，科技巨头和新兴企业都在积极布局，以争夺开发者工具市场的主导权。"
     },
     {
-      "title": "NEWSLETTER: AI firms can't yet contain what they've built, study finds - Reuters",
+      "title": "Consumers Want AI to Support Financial Decisions, Not Replace Advisors: Study - 401k Specialist",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHQyQjlKbnpQaDJNUUowS2ZhT3gyV3NhRDFMaVNFcWN4d3JZYnFLSU1ZdmJuSEs0VGdyaE1WVXZJSlFCNHRmc0Q2RkwxWWR0MWRROGpGUjBwLXdaMWZIUURlOTJ5dXA3RzZVS0dZSUp2eXoyMDNwSDlzMjN1MUY2aFZmUGtNNjdobXdaaElCLTE2S2owS3JoNVpQRU95ck1kUEpwdFVQcDNrQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-19T21:42:51Z",
+      "summary": "一项研究显示，消费者希望AI在金融决策中提供辅助支持，而非完全取代人类顾问。受访者普遍认为，AI可以帮助分析数据、识别风险、提供个性化建议，但最终的财务决策仍需人类顾问的参与和判断。这一结果表明，金融机构在引入AI技术时，应注重人机协作模式，将AI作为增强顾问能力的工具，而非替代品，才能更好地满足客户需求和信任预期。"
+    },
+    {
+      "title": "NEWSLETTER: AI firms can't yet contain what they've built, study finds - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0VxNEg5YTBJS3ExWnBST21CakVKTlF4WU1qbmFlZEJYS19MblFGZjZwM3F2b1FjYUg3Ym1WbXBmSFc5Mms2Qy02WTh2QXVCWE5GYzVHRUZHRXFyQlRvODJlTGdWaW1BbzZNTmV5eFRNemM1eExfekNqXzJWakM0eS15SnVzVktvZzJQZnBvSFBfU1dPSzdsUDBjRnFPMWd1Y3RsUFEwajFCSmhycHF1TkJzZ3dVVHhSc0FsY3FIdElmMlA1?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-19T21:25:00Z",
-      "summary": "路透社报道的一项研究指出，AI公司目前尚无法完全控制它们所构建的系统。随着AI能力快速提升，其行为复杂性和不可预测性也在增长，企业缺乏有效的监管和约束手段。研究呼吁AI开发者在安全性和可控性方面投入更多资源，并敦促监管机构建立相应规范，以应对潜在风险。"
+      "summary": "路透社报道的一项研究指出，AI企业目前还无法完全控制自己所构建的系统。研究揭示了AI大模型在行为可预测性、安全边界和伦理约束方面的局限性，即使开发方也难以确保模型在所有场景下按预期运行。这一发现引发了对AI治理和监管的担忧，呼吁企业在加速技术迭代的同时，投入更多资源用于安全测试、风险评估和可控性研究，以防范潜在风险。"
     },
     {
       "title": "Stripe, OpenRouter finally strike a deal - Payments Dive",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHYyVkhoVDZkSUxXQUdGeEdFVk5WWl9IYTNMS29XVW5ENmdRSDdKZUxHYlZ2Y2VKWHBUS1dycE1BdTRLaG03UENEdjNJRVVlRDkxV1pIcFgzYW1mY2doc3F2RGcyeEJ0WWpQNllzbXZBMkJUdHBad3dkejVha3ZfRjFENUNQTEc1?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-19T21:00:28Z",
-      "summary": "据Payments Dive报道，支付公司Stripe与AI路由平台OpenRouter最终达成收购协议。该交易经历波折后终于落地，标志着Stripe正式进入AI模型调度领域。通过整合OpenRouter，Stripe有望为开发者提供更便捷的AI支付与模型管理服务，进一步拓展其在AI经济中的角色。"
+      "summary": "支付服务商Stripe与AI模型路由平台OpenRouter最终达成交易协议。该交易此前已引发多方猜测，如今尘埃落定。通过这笔收购，Stripe将获得OpenRouter的模型路由技术，提升其AI服务的灵活性和效率。OpenRouter则能借助Stripe的支付网络和客户资源，扩大自身在AI开发者生态中的影响力。交易双方均未披露具体金额，但此举无疑将加剧AI基础设施领域的竞争。"
     },
     {
       "title": "Is .AI the new .com? How artificial intelligence is reshaping the market for digital real estate - Digital Journal",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2E5RGFmNkd2djJJbldtOXU4WmZ4UTM4TGFxN2JYWWNSYS13UzYzd28tVUJMLTVyQkJVMkxvRUZPUEs1NzBkRHFxTUs1N2lFTmE5Zy1oX0RMRGVjd0I5a2dvY3g5N1djYVhvdW16Szh0ZUplYkg4U2lxZUdIUXZXa0FQTHpCeUNhYXFLVzNHek4wM1NJeU9ya1UzUzlGNnZIbWh6YmVSWmFSQlBtT1ZiYnpGSTM1SUhhazZDV1VkNU1kNkZjU0U1QURITnpOdw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-19T20:51:44Z",
-      "summary": "随着人工智能的兴起，.AI域名正成为数字资产市场上的新宠，不少人将其视为“新的.com”。文章探讨了AI如何重塑数字房地产（域名）市场：企业争相注册.AI域名以彰显科技属性，导致相关域名价格飙升。这一趋势既反映了AI热潮，也带来了域名投机与品牌保护的新挑战。"
-    },
-    {
-      "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81Z09XYkpQZUoxejVlZWZFR3JJZGJLTi0weVdoWERmVW5kSVVzNmQyQjZYa1JFQ2pId0QwNV9CU2M2d3BTeWJ2ZXNjb2dYT2ZHYmstTklEaFNHdlYzbHdMNFpuQmZaWUpTcHB2VmFXWUM4eUNmOW9lVg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-19T20:02:11Z",
-      "summary": "据《纽约时报》报道，支付公司Stripe以75亿美元的价格收购了AI初创公司OpenRouter。OpenRouter的核心业务是为不同AI模型提供统一路由接口，帮助用户灵活选择模型。这笔大额收购凸显Stripe对AI基础设施的重视，也表明AI中间层服务的商业价值正获得资本市场高度认可。"
-    },
-    {
-      "title": "AI was supposed to win people over by now — it hasn’t",
-      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T19:11:40Z",
-      "summary": "硅谷曾指望AI能迅速赢得大众好感，但现实并非如此。随着AI技术无处不在，消费者反而对其更加警惕。文章指出，即使AI已被广泛采用，也不意味着公众接受它。用户担忧隐私、就业和自主性问题，科技公司需要正视这种信任鸿沟，而不仅是追求部署规模。"
-    },
-    {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T19:00:00Z",
-      "summary": "Google在搜索和Gemini助手中推出了新的AI学习工具，旨在帮助学生更高效地学习和研究。这是Google与OpenAI竞争的最新举措，试图将Gemini打造为学生首选的AI学习伙伴。新功能可能包括智能问答、资料总结和个性化辅导，标志着AI在教育场景中的应用进一步深入。"
-    },
-    {
-      "title": "Era of Artificial Intelligence Arrives for U.S. Travelers - Grit Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IS2N3OVQyMExHZHZyWEFUQjlEZW9LcnpMdTkzaW1mT3FHX1ptRGJSaDVVVEFjM0prRXhtRVJjcnpTUVh0am5IeG81NU80N3c4SlRTTzZncG1oX3VCWWRRc3h0cGVyeWsy?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-19T18:47:58Z",
-      "summary": "人工智能时代正全面到来，美国旅行者开始感受到AI带来的变化。从智能行程规划、实时翻译到个性化推荐，AI正在重塑旅行体验。文章认为，旅行行业正借助AI提升效率和服务质量，但同时也提醒旅行者关注数据隐私和算法依赖等问题。未来，AI将成为旅途中不可或缺的助手。"
-    },
-    {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-19T18:46:14Z",
-      "summary": "据TechCrunch报道，部分研究人员表示，OpenAI撤销了他们访问其有限网络安全项目的权限。该项目名为“Trusted Access for Cyber”，旨在向可信赖的安全防御者提供更先进的AI模型，帮助他们更高效地发现并报告软件漏洞，从而促使企业加快修补速度。此次权限撤销的具体原因尚未明确，但可能涉及项目参与标准或安全政策的调整。这一变动引发了对OpenAI与安全社区合作稳定性的关注。"
+      "summary": "随着人工智能热潮持续升温，.AI顶级域名正成为数字资产市场的新宠，有观点认为它可能取代.com的地位。企业和个人纷纷抢注与AI相关的域名，推动.AI域名的交易价格大幅上涨。这一现象反映了人工智能对互联网生态的深刻影响，也让域名投资市场迎来新一轮机遇。专家指出，.AI域名的价值与AI产业发展紧密相连，但其长期表现仍需观察市场泡沫与技术落地情况。"
     }
   ]
 }
