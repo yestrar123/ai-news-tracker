@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "3874",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T18:20:35Z",
+      "summary": "Linkdaze推出了一款智能数字日历，其定位不仅是追踪日程，更是为了管理整个家庭事务。该日历的一大特色是未将核心功能置于付费墙之后，包括内置的AI膳食规划工具。这意味着用户无需订阅即可使用其智能规划能力，体现了产品对家庭场景的深入理解和普惠设计理念，旨在通过AI辅助简化家庭日常组织与饮食安排。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3875",
+      "title": "Grok keeps sending gibberish responses to users",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T17:32:16Z",
+      "summary": "Grok AI助手近期持续向用户发送乱码回复，引发关注。受影响的用户向TechCrunch反馈，他们使用的是Grok Lite版本，最早在周三早上就发现了这一问题。乱码响应似乎并非个例，而是波及了部分用户群体。目前尚不清楚具体原因，但这一现象已对用户体验造成明显影响，相关技术团队可能需要排查模型输出链路或版本配置问题。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3876",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T17:18:58Z",
+      "summary": "一项研究发现，自ChatGPT发布以来，新发布的网页中有三分之一显示出AI创作的痕迹。该研究指出，ChatGPT及其他AI模型现在正大量参与新网页的撰写和编辑工作。这一数据反映了生成式AI对在线内容生产的深刻影响，也引发了对内容真实性、原创性以及AI生成内容泛滥的担忧，进一步凸显了AI检测与内容治理的必要性。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3877",
+      "title": "Ramp launches its own AI model router, called Router",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T16:46:00Z",
+      "summary": "Ramp公司推出了自家的AI模型路由服务，名为“Router”。该服务通过API允许用户和企业调用并切换多种大型语言模型，提供了灵活的模型选择与切换机制。这有助于用户根据任务需求、成本或性能指标动态路由请求，避免依赖单一模型。此举也反映出AI基础设施层正趋于精细化，模型路由正成为降低使用门槛和优化资源利用的重要工具。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3878",
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T16:07:26Z",
+      "summary": "Meta将其实验性AI应用Pocket带到美国用户面前。这款应用允许用户通过“vibe-code”（氛围编程）方式创建交互式游戏，并支持与其他人分享。此前Meta已在巴西进行了小范围测试，现在正式向美国用户开放。Pocket体现了Meta在AI驱动的低成本内容创作领域的探索，旨在让没有编程经验的用户也能轻松构建并分享互动体验。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3879",
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T16:00:00Z",
+      "summary": "聚变能初创公司Inertia Enterprises宣布在燃料填充工艺上取得突破，将原本需要一周的燃料填充时间大幅缩短至几小时。这项进展对于商业化聚变发电具有重要意义，不过该公司指出，这仍是实现盈利电厂所需克服的10个关键障碍之一。加速燃料生产有望降低成本并提升反应堆运行效率，是聚变能源走向实用化的重要一步。",
+      "fetchDate": "2026-08-20"
+    },
+    {
       "id": "3862",
       "title": "Meta AI’s new Mac app wants you to talk to your apps",
       "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
@@ -34849,5 +34903,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3872
+  "total": 3878
 }
