@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "id": "3862",
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T12:11:57Z",
+      "summary": "Meta AI推出了全新的Mac桌面应用，主打“与你的应用对话”功能，用户可通过语音指令直接操控各类应用。该应用的听写功能由Meta自研的Muse Spark模型驱动，标志着Meta在端侧AI与语音交互领域的进一步布局。此举旨在提升Mac用户的操作效率，并为未来更自然的跨应用AI交互铺路。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3863",
+      "title": "AI in an iron grip: How dictatorships use artificial intelligence to strengthen their rule - theins.press",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GVlZqMlNIOWkyX1k2b3RibDNhbWljdnRhNFlubktyTnFQeVRzOF9kTGVRQzhWM2J5RUNrT09EVzVDYktTQkNaOU5FdmxGZE0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T11:50:15Z",
+      "summary": "该报道探讨了威权政权如何利用人工智能强化统治的问题。文章指出，AI技术被用于大规模监控、舆论操控和社会信用体系等场景，从而巩固权力、压制异见。报道警示，缺乏制衡的AI应用可能加剧政治压迫，呼吁国际社会关注技术治理与人权保护之间的平衡。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3864",
+      "title": "FREE Google AI Plus plan: Good news for Indian college students as tech giant launches plan on enhanced artif - India.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVnVEeGdyeFdnN1ZqOVBFQ3EydjlrWENRY1FseWZpaWZ1c3NvblFjWFg1SElJTXc1Q1Rjb0dGVm5acEJXWWlwVVVuWG91Yl9ZcFZPSHJQNUZfNnh0VWhlaDg3ang4UHRjWmNYaVpNNVBoTjBwdjRoekpOYnNEZG9iU3lZUEpXcUg2NW9qY0NERlN6bEFsRFJjWTZyNE00Z21mY092Z0pheXFwX1hMREROZjhVOHMzTEZYc2pCc2ZaaUYzN010cXUwdkJTUWpaR0VsQm1LeFR4cU9ZektHSGNhSVBWS2Zpa3FKdmhZTnJTT0p5LVVJMXFXTmw3cFpBRDVabHNJ0gGIAkFVX3lxTE0zYUlxdFc0VFh6SVJZa0pOeHdUaUFDaS1acFRuMkNwcFRXS3dlaGxoLTRLN1NoT25fVHF4TFJBXzI2LVhFRmtXWFl1czk2dUtLcUpqQm5UbHhPTThGV0pPbDhjVlZFdi1XVUtKTFBsclNjaXYwb2hrZ3ctRUF4TzllY3NHV1ZSUzl0SEEwTTRra2pLUjB3M1ZjQnpWR2UteGZsMV9QNEw4YnBTM3dpSjgwWFhxdWZuMHBlaVNPeVRwUV91VEtKWGc1YkYyQjQ2V0Nqa0hpUXV0eXBpT09pNXNoNVBENzFXT1c4ZlBvUGN3WXhkcTdDV1h4dkJfYmtVOUtMOU9UU19kSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T11:36:31Z",
+      "summary": "谷歌针对印度大学生推出免费的Google AI Plus计划，该计划提供增强版人工智能功能，旨在帮助学生更便捷地使用AI工具进行学习与研究。此举是谷歌拓展印度教育市场的重要举措，也反映出AI服务在发展中国家加速普及的趋势。免费计划有望降低学生使用高级AI功能的门槛。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3865",
+      "title": "Kazakhstan Begins Construction of Robotics Complex as It Expands Humanoid AI Ambitions - The Astana Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXd0VF8yMzVIVFEyXzJMdmVqS2R0U2QtVlBxN0ZNNHBxdU5FYjdzODFBZUVRejhXZnR3TUxXNXNtR0d4dWFoU3h5N0JUTDhNQklNWGk4b1Fpc3hUdUt6RXRjb0d4Q3d1ZFB5YWk5QmFqbjhDcm9wWXJ5dHFTYTE2WGk1WkdJREV4ckNRdmpoUldJSEYxRHpZYXNvZHBmOWJRamg1bnFPemtnZGFmUTNXSGtpeTU3TlkzbzZ3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T10:54:37Z",
+      "summary": "哈萨克斯坦开始建设一座机器人综合体，作为其扩展人形AI雄心的关键一步。该项目预计将用于研发、测试和生产人形机器人，推动该国在智能机器人领域的技术积累与产业升级。哈萨克斯坦正积极布局AI基础设施，以提升区域科技竞争力和经济多元化水平。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3866",
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands - AI News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVhLRVdkYW9yZDRtemJ2Z2JKSzBDLTU0dDVnM2ZtQkM3SFFFVVNDc2JRQkVfOGRiT0Q5T0txTnhEWHJSTXpBTzZRWXBkWVRPYXRMXzRwRk8zMG9pcXNxQTNSY2xKY25Md3hZbVdEZ3A3cFI2U1ByYVpfYWxWYUxfX1JFR1BQZTU1V0E0ZjY0b0w5OGZCUHBzWkU1TGw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T10:02:01Z",
+      "summary": "支付巨头Stripe已同意收购AI模型路由平台OpenRouter，这一交易背景是AI模型路由服务的快速扩张。OpenRouter能够在多个大语言模型之间智能分配请求，帮助开发者降低成本并优化性能。通过收购，Stripe有望将AI能力深度融入其支付生态，同时也标志着AI基础设施领域的并购热度持续升温。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3867",
+      "title": "AI firms sharpen privacy pitch as enterprises demand control over data - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPXzZWdEpGbFdHZnhTTE1IMmJRTC1wTDZvNzQ4dXRYMTNNNnktX09jOENVY21pOTJVelJSbnJIQXIyaUYtMU5ROVhRRURIbW5SZllsendTVHRuYk9CVmk4dVlLeHZQdE8yZERnUGFyZFQ3QklXUW1nMVo1YVFGS01ZbUJrVUNBV1pnMmd4dTRXckZPXzJHQ2dGdDdLbDRFbWJIQ2NmNkxzQ2pIakJFdXdsUXJ6Ynpkd3N3UnJYcFdpSlVFaG16RHJuWTF5b0NJZ9IB0wFBVV95cUxQVHc4VzR5TEVQLTFNakI0NUdKcWNSbGxFcmhlTUxQbFluYlRxZVJIbURnNnV4OFBldFZ0ZE95VzZBZ25yZTBpSmczdXg5ZjJGaG5Mbmg0VlNObVlxNDYwSFpPaWp5UmVYemdYSWZwUWhzM2p4azM0NWN1emczb3BWMFhnenNSX1lHQ0p0MTJsWXBEWnFjWWRhOXNBU2RFdW9uTnIwazRmcEVmVkc3ZkxPdFd2UGpFOWZUZV92SVZRVXV6VDV6OWNtOVd2eXhuVVpzdnd3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T09:44:50Z",
+      "summary": "随着企业客户对数据控制权的要求日益严格，AI公司正在强化各自的隐私保护方案。报道指出，企业不再满足于通用的数据处理条款，而是要求更透明的数据使用方式、本地化存储和私域部署支持。AI供应商正将隐私作为核心卖点，以赢得企业信任并满足合规需求。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3868",
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T09:30:00Z",
+      "summary": "加密货币交易所币安推出Agent OS，允许AI代理进行交易操作，并支持与ChatGPT、Claude Code、Cursor等工具集成。用户可以通过这些AI工具设定交易策略并执行自动化操作。不过，币安强调对AI代理的监管和控制主要依赖用户自身，这意味着使用AI交易需承担相应风险，平台只提供技术框架。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3869",
+      "title": "29.7% of Berkshire Hathaway's $356 Billion Portfolio Is Invested in 2 Artificial Intelligence Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkUxRU93LUJRcVJyRkIzdUtncDJpODlwSXBZZ3pZUllzcWZvekRzWlJQWjhvTUx2SWVNOE9GZmxsQ1VTWk1TTC1ZOV9oWE05WXVrMzRYN2FEanBVWHhzVktfc21DenlTMHVHeE13RHl1R2NoRkpsekJNWExQQ3ZaOXF0Z2JxZE1EWGd3S0Z4Y05RUjJB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T09:26:00Z",
+      "summary": "据分析，伯克希尔哈撒韦公司规模达3560亿美元的投资组合中，有29.7%集中在两只人工智能相关的股票上。这一高比例显示巴菲特团队对AI赛道中特定龙头企业的长期看好。市场分析人士认为，这一持仓结构反映出传统价值投资理念正在向科技与AI领域倾斜，但集中度风险也值得关注。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3870",
+      "title": "AI Crypto 2026: How Artificial Intelligence Is Reshaping Blockchain and the Rise of ZYRANOR - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRGdOd3R3T2pUY3NmMWtfYWdILWNKQUxodDRvaFF5cUtOb0szbFhuRDlqOUc5WHRkSkl4NTNNa2l5TF8yRWZoeVRwaW13WFZGb2U0QWRZdk92VlBJUVRLeEM2YUFGbm0zZklUU09NX2dpbG50RWg2TzBEdDRwQy1La2N5bHNYRllPRVhrVE9lVE5nOXVuZmthNE5tSVI2THVXRHU4Vm9VdnRPczFWNVhPZTBNRE5WeGt3YzFjOE5yRmZYYWxpVW1paWdsX2Ria3pCeXdsVU54TUZkTzZ1VFdLd2NYTTM5NUk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T09:12:46Z",
+      "summary": "文章展望2026年AI与加密货币的融合趋势，重点介绍了如何利用人工智能重塑区块链的共识机制、智能合约和链上数据管理。同时，文中提及新兴项目ZYRANOR，声称其正在推动AI驱动的加密生态创新。分析认为，AI与区块链的结合将带来更高效的自动化和智能化应用，但也面临安全性与去中心化之间的平衡挑战。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3871",
+      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide - AI News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDBKNlNQOTNCakFOb2pyX3VvYmtxYXBPQlM4Mkh0YVV0VUQ0UmdqeXdNell4bndfYXJvSEJleGZQVlFSVXRlM196dHducXZYMUp3dmN5UzVZQ2NwZWNoRHdMWk10dzNyXzY5RW9LUnN0WkFjQURWUjNmelZMNlBBZkxIQzZnMXRxWWJkN3R4a0RZRmhnWlFLdQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T09:01:09Z",
+      "summary": "政府在引入代理式AI（Agentic AI）时面临核心难题：如何界定机器能够自主做出哪些决策。报道指出，AI代理在行政流程、公共服务和监管执行中潜力巨大，但其决策权限涉及法律、伦理和问责等复杂问题。政府部门需要建立明确的规则框架，确保AI行为可控、可解释，并符合公共责任标准。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3872",
+      "title": "AI data centre regulation just got a template that needs no new law - AI News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYzd4ZmpMSmZaY052N2JxakwxSUVxNWZmckFqQnhIWUR2dm4tRVVBY0paSl9DVkpaYXRYM21aLUFUQzJyR3NUTVZWRTVBN1BMMXl6ZlhsVElTTnFKdkJsY2hjWVd6cnZhdjN5X295bnlDVjZHQW1aNlE3WE9mOXFTLXp4TkJ0Ui16RnVnQzVBTnRua2Z0d05sbEs3QWlJQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T08:04:42Z",
+      "summary": "据AI News报道，AI数据中心监管领域近日出现了一份无需制定新法律即可实施的模板。该模板旨在为AI数据中心的建设和运营提供现成的监管框架，帮助企业及政策制定者在现有法律体系内高效应对能耗、安全、数据隐私等关键问题。其核心优势在于避免繁琐的立法流程，通过灵活调整既有规则来适应AI基础设施的快速发展。这一方案或将为全球AI治理提供可复用的参考路径，但具体落地效果仍需结合各国实际法律环境评估。",
+      "fetchDate": "2026-08-20"
+    },
+    {
+      "id": "3873",
+      "title": "Vietnam, Israel explore stronger cooperation in technology, innovation - Vietnam+ (VietnamPlus)",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQjVqcldUZGtENnlsUlZjMWZKREgwYlIzOVpZYmNOako5SnhzNmhaSVhMMG5xVzlJMElQVXpqbFIyUFg3SVNZeUhWQTJqbjhvZTdiZUxTTThnUnVEZDBWVHVJbW9YWnlMT05Nb2lEaUVkVFAxNFdIZEFJNHpfSjlDLXJGRXJNRERqSHB0cmRfd09FTlJ1bWdtYlhMTHBHMllVWWg2R1Y3aEpMdTYyVWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T07:02:00Z",
+      "summary": "越南与以色列正探索在技术与创新领域深化合作。据Vietnam+报道，双方有意加强在科技、创新方面的协作，可能涉及数字技术、农业科技、网络安全等方向。以色列作为全球领先的科技创新中心，拥有成熟的技术转移和初创企业生态；越南则拥有快速增长的数字市场和制造业基础。此次合作探索旨在优势互补，促进双边技术交流与联合研发，为两国企业创造更多机遇，并推动越南产业升级与经济数字化转型。",
+      "fetchDate": "2026-08-20"
+    },
+    {
       "id": "3856",
       "title": "The Iloilo provincial government remains open to major technology investments, including artificial intelligence, drone technology, and 3D printing, despite the withdrawal of a proposed AI data center project in Oton after a contentious public consultation on Au - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaUlaM1JNWE43VjA4YURoR3NiMU5yZkdoX0RyWUZVV3VDUWFwZ1pxRVRUQnBaZWdiTXREZVRRazRxR3lrZEthcXQzaUhySGpqZEVPT3NqZ1NSRld3RWwxMUJZM3UzY1oySkU1MS1Lai1oWkJXY2gyM3hlaGdZWmdEcWp2QzFPYlBKUjJZUVdCSjRpcXd5WmM5c01tN0VkaG1iLVkzRXI0dERwdzBSVkI3Smxtbld1eDdOTWh5YlAwamd3VXVFdUNkU1dXdzdkaVhoTEowdmdudi1mV3J4QlE?oc=5",
@@ -34741,5 +34849,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3860
+  "total": 3872
 }
