@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "3900",
+      "title": "Artificial intelligence (AI) startup Antropic is pushing for the largest IPO ever beyond SpaceX. The.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGRjQyMzV1a0tmN0w3cVByLVJONzY2d2t5NUpCV2lBQXFQczg2d0lxS2Y2YzJGWVExcTNXUjFqaDBVYTFNZlZLU1ZwSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-21T02:12:48Z",
+      "summary": "人工智能初创公司Antropic（应为Anthropic）正积极推动其首次公开募股（IPO），并有望成为史上最大规模，超越SpaceX的上市交易。该公司以开发先进AI模型著称，此次IPO计划吸引了资本市场的高度关注。尽管具体募资金额和估值尚未披露，但此举反映出AI行业在融资热潮中的强劲势头，也可能为其他AI初创企业的上市之路树立新的标杆。市场普遍认为，若成功实施，将重塑科技IPO格局。",
+      "fetchDate": "2026-08-21"
+    },
+    {
+      "id": "3901",
+      "title": "Ex-Google engineer's conviction for stealing AI secrets partially overturned - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdGFDOUxCY256amZ6QktaSlJubzRaSFM5Y3NMVzUwSDZ6UU5PVDJGdVdpVlh3UklkLVMwbW5CbFhXZmpQTEcwMWlkWkxfdnVXaTZLbVpaSmFaSW4yQWg5ZnhETGxaN3J0WkgtdXpJVnFNOE9EZmpGZ2JHREdxWXJweUstdkdueTlvS2l1MG1fWVB4c0VZN0RhRHc5X2FBeVU1QVdqNElWa0xxR1hGa1FiUEhOVTZyLWhfT2dqcXI2Tm0wYnJUUUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-21T01:42:07Z",
+      "summary": "美国法院部分推翻了前谷歌工程师窃取AI商业机密的定罪。该工程师此前被指控在离职前私自下载与人工智能相关的核心技术文件，一审被判有罪。此次上诉后，法院认定部分罪名证据不足，予以推翻，但案件并未完全终结。这一判决可能影响科技行业对商业秘密保护和员工流动的边界界定，也引发关于AI技术竞争与法律合规之间平衡的讨论。",
+      "fetchDate": "2026-08-21"
+    },
+    {
       "id": "3893",
       "title": "Berkshire Hathaway Just Bought More of This Brilliant Artificial Intelligence (AI) Stock - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdE9sYzA1Q1BGVUQzUktkdkFma09qM3duMEk2RTVMNkdnX2lJUnNZSzdjR1pkSXU3SDJhcVlJeTlfVEs1S3NUVzN4SDZnbVMxRjZyWm9fbVJpd25xU1Blak9UU1hXQmRXOE1neXZlM09VNVRnZ1RlQ0loZklUUkttUkM0X3VNZw?oc=5",
@@ -16,6 +34,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-08-21T01:20:16Z",
       "summary": "财经媒体The Motley Fool报道，伯克希尔·哈撒韦继续增持一只它认为具有‘卓越’潜力的人工智能股票。文章分析指出，该投资行为是伯克希尔在AI热潮中为数不多的直接押注之一，可能基于对标的公司护城河、现金流及AI赋能业务的长期评估。尽管市场对AI估值泡沫存在争议，但巴菲特的团队更看重企业实质盈利能力。该报道也提醒投资者，增持并不代表短期利好，应关注公司基本面与行业竞争格局，避免盲目跟风。",
+      "fetchDate": "2026-08-21"
+    },
+    {
+      "id": "3902",
+      "title": "AI in corporate Australia is a mess. Your job is safe for a while yet - AFR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVktGejRuNnNnenVvcnlFNDJ5Z3RHWjJyc25iYWU2cnE5SDdsaDAzVVdacjhpT0hTX19yTmVWLUtfU1VLMXJfbTNETW1BNE03SEkzRTlvQWNYWW5TMDZrV2llUGJqRU5QVWM5ZWpDYV9BanRRSEctUVF2U3ZVY3NocmdXVGNxOGxaRERVeDB2X2h4RjVVY1lhd1UzTndHUW9wNXlMMXZ5Qm51bEIwYU1PVldoVFFJR1U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-21T01:20:00Z",
+      "summary": "文章指出，澳大利亚企业界在应用人工智能方面仍处于混乱状态，实际效果与宣传预期相去甚远。许多公司在缺乏明确战略的情况下盲目部署AI，导致项目失败率高、员工抵触情绪明显。因此，短期内AI还难以大规模取代人类工作，澳洲白领的岗位暂时安全。作者呼吁企业应更务实对待AI落地，先理顺内部流程，而非追逐技术潮流。",
       "fetchDate": "2026-08-21"
     },
     {
@@ -35083,5 +35110,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3898
+  "total": 3901
 }
