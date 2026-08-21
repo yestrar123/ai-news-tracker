@@ -1,48 +1,97 @@
 {
-  "updatedAt": "2026-08-20 18:21:49 UTC",
-  "totalArticles": 6,
+  "updatedAt": "2026-08-21 00:37:43 UTC",
+  "totalArticles": 13,
   "articles": [
     {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T18:20:35Z",
-      "summary": "Linkdaze推出了一款智能数字日历，其定位不仅是追踪日程，更是为了管理整个家庭事务。该日历的一大特色是未将核心功能置于付费墙之后，包括内置的AI膳食规划工具。这意味着用户无需订阅即可使用其智能规划能力，体现了产品对家庭场景的深入理解和普惠设计理念，旨在通过AI辅助简化家庭日常组织与饮食安排。"
+      "publishedAt": "2026-08-21T00:13:44Z",
+      "summary": "AI数据创业公司Micro1在人工智能训练热潮中实现5亿美元的总收入运行率。随着市场对高质量AI训练数据的需求激增，该公司及其竞争对手正经历快速增长。这一数据表明，AI训练数据的供应已成为推动大模型发展的关键环节，资本的涌入和技术需求的扩张正在重塑数据服务行业的竞争格局。"
     },
     {
-      "title": "Grok keeps sending gibberish responses to users",
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T17:32:16Z",
-      "summary": "Grok AI助手近期持续向用户发送乱码回复，引发关注。受影响的用户向TechCrunch反馈，他们使用的是Grok Lite版本，最早在周三早上就发现了这一问题。乱码响应似乎并非个例，而是波及了部分用户群体。目前尚不清楚具体原因，但这一现象已对用户体验造成明显影响，相关技术团队可能需要排查模型输出链路或版本配置问题。"
+      "title": "How Are ASX AI Stocks Building Exposure to Artificial Intelligence? - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcURPN2xSR3NFdElVX2otdVZfLVZTUVE4a2ZXWmZCelhxUmNGLUZ1UU9kZHBtYmd5NW9PNnZnN2JtM1YwV1VLcmdkUE1uanVLZGZqR0ROb1ZlWW42VFk3Wl85UVB4MTVBa0szNTBFS1p5ajhqUTN0c245RUszU0J3R0FKa3lNTXBzbU1kbVJvcm1zMGtDU3F4aEFCTS1IcEJ4aHZJRFFZaHN0Tk4taXhMd2ltRlNJMWxKWldJd01qMTlTRmM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-21T00:05:00Z",
+      "summary": "澳大利亚证券交易所（ASX）的人工智能相关股票正通过多种方式布局AI领域。据Kalkine Media报道，这些公司或直接开发AI技术，或通过投资、合作等方式间接参与AI产业链。文章分析了ASX上市企业如何构建对人工智能的敞口，为投资者提供了澳交所AI股票的投资参考，反映出AI产业在澳大利亚资本市场的渗透与增长潜力。"
     },
     {
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T17:18:58Z",
-      "summary": "一项研究发现，自ChatGPT发布以来，新发布的网页中有三分之一显示出AI创作的痕迹。该研究指出，ChatGPT及其他AI模型现在正大量参与新网页的撰写和编辑工作。这一数据反映了生成式AI对在线内容生产的深刻影响，也引发了对内容真实性、原创性以及AI生成内容泛滥的担忧，进一步凸显了AI检测与内容治理的必要性。"
+      "title": "LSU expanded resources to keep up with AI cheating cases, provost says - WAFB",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYURqRExCS3RNdWMyV1ZLR0VSblZySVNYd0xCSlhoVnNodEwyVFVVdEUxYXVrQUsyWDJaTE9IT2NkdENFUWk5b0JwNlZyZGxUaTlidVlrcHRtcVVaN2w3ZS16U1NOU0t4ajdlbEJMYmR3Y1ZNMTllb0hoZ3ZmQkdNX1pzZFVPeDk2WXctZnloczJVMTBEenBqLXZuRGJhMl9s0gG0AUFVX3lxTE8xZzJJYldtcnhxRDEzWHdNVUVRYUdoUWZhckJSam9QM0FZWjA4WVdWbWYyNzI0YXJaQl9pdURrUDJkbktXRDVwZWlGSV9FbHNzUW5oSFZFMXE1UXZ2ZEVCV09peVE1REdKUFVXODcxaGxCdTVjQTNvM0lNX3dSUHFLdktJSXdlb3lrS1FwQy12dHNQQ1NySDVQdmFpNGtHY09jZktKTVRyUjBnVWczcmdTMFZqXw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T23:05:00Z",
+      "summary": "路易斯安那州立大学（LSU）教务长表示，学校已扩大资源以应对日益增多的AI作弊案件。随着ChatGPT等生成式AI工具的普及，学生利用AI完成作业或考试的情况明显增加，对学术诚信构成挑战。LSU正通过升级检测工具、完善政策以及加强教师培训等方式，平衡技术应用与学术规范之间的关系。"
     },
     {
-      "title": "Ramp launches its own AI model router, called Router",
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T16:46:00Z",
-      "summary": "Ramp公司推出了自家的AI模型路由服务，名为“Router”。该服务通过API允许用户和企业调用并切换多种大型语言模型，提供了灵活的模型选择与切换机制。这有助于用户根据任务需求、成本或性能指标动态路由请求，避免依赖单一模型。此举也反映出AI基础设施层正趋于精细化，模型路由正成为降低使用门槛和优化资源利用的重要工具。"
+      "publishedAt": "2026-08-20T22:36:37Z",
+      "summary": "最新数据显示，OpenAI在企业用户市场中正逐渐赶超Anthropic。企业客户会根据各实验室发布的新模型灵活切换供应商，这种不稳定性表明企业级AI支出并非高度“粘性”。对于两家公司的投资者而言，这意味着市场竞争依然激烈，客户忠诚度有限，未来的收入和市场份额仍存在较大变数。"
     },
     {
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T16:07:26Z",
-      "summary": "Meta将其实验性AI应用Pocket带到美国用户面前。这款应用允许用户通过“vibe-code”（氛围编程）方式创建交互式游戏，并支持与其他人分享。此前Meta已在巴西进行了小范围测试，现在正式向美国用户开放。Pocket体现了Meta在AI驱动的低成本内容创作领域的探索，旨在让没有编程经验的用户也能轻松构建并分享互动体验。"
+      "title": "C Spire Hosting Beginner-Friendly Artificial Intelligence Seminar in Jackson - WLBT",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGJQc0p3MWZvYjNxbjE4TzhoZV9uUWtmX2huaFBGTGM5aW5EelhWVmZvQVhKLTdoTFlsNGlLUFdqSTFleGZpRkczdW5YNUNkRlBkQ1F4amV1WW9uZTdCSDNnclpMSzVXVkV1a1Z5ZFdjQWNhWUczV2diamVoNzFFUVo5djhwQTFtREQ1bWtqQlpKc3lNOVN4MWNYblpSeHQyODhScjlORkdJQdIBvgFBVV95cUxQTmhSWXBWUXRWYUtJVTNlTTJQbW02NjVwTUdKZTljR0Q4VWoxQk1YNTNacU56RTNUelhqY25RUmhwQVRubFNHWVVHMms5MHhxazd0TG5lTUU0WFN3blFqS2ZYZWRzeUROdHRZZEpMN0l3R2tTRWNsdmxvU3dKYmEyMjJmR0Z3WU90ZXMzMkRfN3VRMEhYclpSWEduSjljTTU2RkJmenE5MkxqV0phSVV1TnFZLW4yclJad2x6dXZ3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T22:22:00Z",
+      "summary": "美国电信公司C Spire将在杰克逊举办一场面向初学者的AI研讨会。该活动旨在帮助公众和中小企业了解人工智能的基础概念及应用场景，降低AI技术的入门门槛。研讨会体现了C Spire推动AI社区教育和本地技术普及的意图，也为非技术人群提供接触前沿技术的窗口。"
     },
     {
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-20T16:00:00Z",
-      "summary": "聚变能初创公司Inertia Enterprises宣布在燃料填充工艺上取得突破，将原本需要一周的燃料填充时间大幅缩短至几小时。这项进展对于商业化聚变发电具有重要意义，不过该公司指出，这仍是实现盈利电厂所需克服的10个关键障碍之一。加速燃料生产有望降低成本并提升反应堆运行效率，是聚变能源走向实用化的重要一步。"
+      "publishedAt": "2026-08-20T22:09:51Z",
+      "summary": "ChatGPT推出新的Apple Messages插件，用户可通过该集成功能自动发送短信。这一功能让ChatGPT化身“自动化文字秘书”，能够替用户起草并发送文本消息。该插件将AI对话能力与iOS系统深度结合，显著提升了用户在即时通讯场景中的效率，也展示了AI助手在系统级应用中的拓展方向。"
+    },
+    {
+      "title": "Charleston County school district launches AI resource hub - Live 5 News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUowQlp5NEdFQnBpTVRGTnBuQjVqVmZBXy1JNUJZalJObngwUlJ3aW9KODVXYkZPc3VXZXEtU2pGRGw3MUtWc2xkX3BqWm91a0lmYVVkX3ZvUHo5Z0xRbnVLMGdkdnh0TGVMWjcyZ2xtbWFvRHh1c2VvVzdBRWxvcmFkSnlteXdaQzJjV2l1NG5JaTdmQjRlMk5sbFDSAbABQVVfeXFMT1JmS0tuVnd3M3lTcWdQVDg0M3daZTJiVFE0UnVyaHhVVVZWMTd3RzdodnhRNTMzNlgtTEp5SFl5SjF2VEMxM0pOZ0tZQzBXNEJPU2t1dk1hdndmTFFIYVlCbW14VVdIb3FRdVN6dVY1bmtub1h5MjlsOEU2aEp1Q09DNjFoY0ttYU1vd3ctcHdIM3VHc20tNEU0RkhWOVQyUFNQbU5oelowTVhwS001eTY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T21:20:00Z",
+      "summary": "查尔斯顿县学区正式启动人工智能资源中心，为当地学校和教师提供AI教学工具与指导。该资源中心旨在帮助教育工作者将AI技术引入课堂，同时应对AI带来的学术诚信和隐私等问题。此举反映了美国基础教育系统对AI的重视，试图通过资源整合推动AI素养教育的系统化落地。"
+    },
+    {
+      "title": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWnI5Y0VrWDl0cjYtTlRNYWlMLXpTOFN0enl2TldXSW15bjB2bng4N2tTb0hpVjFvTmMwbXpyZVcxTHdveWVCd2VPNnRBOVRORXdPY2N1NERrM2s2SmxnY1RkRXJyX0dzd09CS3VyQmh3b2ZEaFpxZmNQWGUtanQ4R19JY3pXS2tsdjR5aUMzMEF3d3NLUG1BdC0zZWduMVRZQ0ZhS0h1LXpLM0hvV19MYWY3X3J4VTR5Y25SRUllOGNrSEFrSEtUaQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T21:17:57Z",
+      "summary": "巴西正式启动AI超级计算机建设计划，并将相关项目分别交由中美两国企业承担。这一举措显示巴西希望在人工智能基础设施领域快速追赶全球领先水平，同时通过引入不同国家的技术合作伙伴来平衡地缘政治影响。超级计算机的建设将显著提升巴西在科研、数据处理和AI模型训练方面的能力。"
+    },
+    {
+      "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought the Same Artificial Intelligence (AI) Stock Berkshire Piled $17 Billion Into - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd05QUjZqYlBPWTk0bVJHYl8wcF9zQURmbmY0SHBEZC0tb1FjVExqUlB3RHhDQTNXMS1xc3ZRSXh4bHhDNmY0N0lOWEJuSXE4T19ISUg3YnFlYmtXc2hjb003UERVVTFORXE5WXdDbS1pZEJNMmdyN3pkdVJJd2hCNjBlMU1xX1VnVGV3T0hoaWVSS2U1a3Z1Uw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T21:00:00Z",
+      "summary": "亿万富翁投资者斯坦利·德鲁肯米勒出售了博通股票，转而买入与伯克希尔·哈撒韦重仓相同的某只AI股，后者持仓规模高达170亿美元。该调仓动作反映了顶尖投资者对AI赛道内部标的的重新取舍：减持高估值半导体巨头，增持可能被低估或具有更长期增长潜力的AI公司。这一操作也为市场提供了重要的投资风向标。"
+    },
+    {
+      "title": "OK, can we actually cool data centers with our pee?",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T20:53:13Z",
+      "summary": "针对美式橄榄球明星杰森·凯尔西调侃“用尿液代替饮用水冷却数据中心”的说法，文章探讨了这一建议的科学可行性。虽然尿液看似荒诞，但其中约95%是水，理论上经过处理后确实可作冷却用水。不过，尿液的腐蚀性、处理成本及公众接受度等问题使其难以大规模应用。该讨论折射出数据中心水资源消耗背后的环保压力与技术探索。"
+    },
+    {
+      "title": "Trial of AI intersections could change traffic management forever - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEZLQ2pmcXVQR0xHUUw2Z2VRVDQzRkxIQmZEMmtmV1NBY3lmcEltVHNzcjNndDlJZ2dpLVdDLVFwWnNXcS1xZlhGRF82Z29IbGZKUmgxWnBuNnQySmtOeWNuQUJ0UGl5R2JuTmRlak9TbVpmZ05MN1RyaU9ZNGNXZ3ZYRUdLanl3em9XYXVMVnZreGNtTGlDcFhxdThzTWpuSTRj?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-20T19:35:22Z",
+      "summary": "澳大利亚广播公司报道称，一项关于人工智能交通路口的试验可能彻底改变交通管理模式。该系统利用AI技术对路口信号灯进行智能调控，有望优化车辆通行效率、减少拥堵和等待时间。试验若成功，未来交通管理将不再依赖传统固定配时方案，而是基于实时车流动态调整。此举标志着智能交通系统进入新阶段，或对城市出行产生深远影响。"
+    },
+    {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T19:18:21Z",
+      "summary": "谷歌为出版商提供了一种新工具，以应对AI搜索带来的流量下滑。该工具是一个按钮，读者点击后可将其设置为搜索、Discover和Google News中的优先信源，从而提升该出版商的曝光和访问量。此举是谷歌在AI生成答案减少外部点击的背景下，为内容创作者提供的一种流量补偿机制，旨在平衡用户体验与出版方利益。"
+    },
+    {
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T19:15:05Z",
+      "summary": "Runlayer与Rippling已撤回彼此之间的诉讼，且未涉及任何赔偿。尽管风波平息，但此事对初创公司创始人仍具警示意义。Rippling在撤诉后还顺势发布了竞争性产品，显示出其主动出击的姿态。该事件提醒创始人在商业竞争中应谨慎处理法律纠纷，同时也要警惕对手可能借机推出替代方案，化危机为商机。"
     }
   ]
 }
