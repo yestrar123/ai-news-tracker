@@ -1,76 +1,83 @@
 {
-  "updatedAt": "2026-08-21 18:20:47 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-08-22 00:35:27 UTC",
+  "totalArticles": 11,
   "articles": [
     {
-      "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnBZdHlsSTFKYXVaOHFKYklVYU9ZS193YjBJS1MzZ0VVX0Z0NXdVczZ0WDhzMlpDRFFiQkplQmh2MXdWd3k5em9xdkM5aVZ6U3kxTTRaRVJnZ1lZcGVhY2pRY2J5a08xYUZYZGhnZm0xdUNrZWxqcE5QS2JyU1pLbWU0SUpCQWFaUVNycG5jdUg0X2QyaFUtTGl6RllFeEozeUFjRmpRLVlrdWtw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-21T16:57:01Z",
-      "summary": "亚马逊云服务（AWS）正在利用智能体AI（agentic AI）加速飞机机载娱乐与连接系统（IFEC）的诊断流程。传统IFEC故障排查依赖人工经验，耗时长且成本高。通过引入具备自主推理与行动能力的AI智能体，系统能够自动分析飞机传感器数据、维护日志和实时状态，快速定位故障根因并推荐修复方案。该方案依托AWS的云基础设施和机器学习服务，将诊断时间从数小时缩短至分钟级，同时提升准确率和运维效率，为航空业数字化转型提供新的技术路径。"
-    },
-    {
-      "title": "Teens risk critical thinking, learning as they lean into AI for schoolwork - Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3Z5U2F0M050dlFWQjJndld5bUFrOXpzbVZrd0dCZjE4MFFtXzF1TVhBeFp0NDdvZnpTMTU3QlFJWDZfNmtOWkEyd2FpN3NsSGk4ZVZaaXBYLTJYNHVqaU1sZ3I1bVdwMmN4RXJhUG4xZjNjdmtxcHJsLU5PMW9MMTg5TzQzbkpjQkFTdmpVeW4zZEVnTmcxYnYzT25kVGVXWnh6akUzUS1ONW9VSl9iZmYwZ1Y?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-21T15:23:28Z",
-      "summary": "《巴尔的摩太阳报》报道指出，青少年越来越多地使用AI完成学业，这可能导致批判性思维能力和自主学习能力下降。教育工作者担忧，当学生过度依赖AI生成答案时，他们失去独立思考、信息甄别和问题解决的机会。研究显示，频繁使用AI工具的学生在开放式任务中表现较差，且更容易出现认知惰性。专家呼吁学校制定明确的AI使用规范，将AI定位为辅助工具而非替代思考，同时加强对学生的数字素养和批判性思维培养，以平衡技术便利与教育本质。"
-    },
-    {
-      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-21T15:07:42Z",
-      "summary": "路透社报道称，美国企业为布局AI而大规模举债，债务激增正考验投资者的耐心，市场已出现疲劳迹象。各大科技公司和传统企业纷纷发行债券或贷款以融资建设AI基础设施，但高昂的资本支出和不确定的回报引发担忧。投资者开始质疑AI投资的长期盈利能力，部分资金转向更谨慎的策略。分析人士指出，若AI商业化进展不及预期，企业债务压力可能引发信用风险，并波及更广泛的市场稳定。这一趋势促使监管机构和投资者重新评估AI热潮的可持续性。"
-    },
-    {
-      "title": "World's largest open library calls for volunteers to scan and preserve physical books as AI companies buy, scan, and destroy them — Anna's Archive says ‘time is running out’ as ‘knowledge is permanently monopolized on private servers’ - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQVHZOQnc2SVhORm0zcFRxZUQ3M0ZOeE96OHFxM01LU0VqNTNhVVJSb0lodGVQUExydlJvdnN6QkNSM1ltMGZxSlVZdUJ2dHdaemZjekZPTi16RXMtcmFYSjBKN2t1WFdTdmp4LUtuUFgtcEh1bTQxS3ZIUGNyZHhudDRDNVZ6ZlI2dk90elA1SnlZazhUXzBsb1J5eWRDRFVVQkhIbUtDck9OdUNaMGZFXzA1Rm9XbERVa3g4NVN1bEpOWks5RjlzY1JTb1ZOLTF0V2E4blFheUZBNVBGd1phR1J4UGlLcU1naDBuSE5ZZUU5RUFIb3g4THVxSVlnMndQMW5hRzZIejVfV3FzUnBDWXZmRnZfU2dxSWNDWXcyRmdYQ0VvQ2d5UTJzei1jY19HZkYxVEpLVXdlcDdLNTBtX0tlVHpCb1Njal9XYmlfdnhvaE1OS29mZHJ2b2x0bUloM29LTnJQTURIVWtvb3BqUWF3RTlRVnNCMHBrX0lndEQ0YzZzTFZCWkk2SGxzd2dfa0dnanFjaC1kendTT281UA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-21T14:33:36Z",
-      "summary": "全球最大的开放图书馆安娜的档案（Anna's Archive）呼吁志愿者扫描并保存实体书籍，原因是AI公司正在大量购买、扫描甚至销毁这些图书。该组织警告称，随着AI公司将这些书籍转化为私有训练数据，知识正被永久垄断在私人服务器上，公众获取信息的渠道日益受限。安娜的档案表示“时间不多了”，号召全球志愿者参与抢救性扫描，以维护人类知识的公共性和可访问性。此举也引发了对AI数据来源伦理和版权问题的广泛讨论。"
-    },
-    {
-      "title": "Here's How Tech Leaders Envision The World After AI Wipes Out Millions Of Jobs - - Black Enterprise",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiMHVYUDZRNjVnR3NpQ0FPZ2xrSXNZRUFLcEZzMy1uRElzZ0hjMXdveUxBZzlNOTJ0ZnA0T0luR3hCeHYya3BrU01xYXgtYlUwMzU5b21IU3R6R0l3ZkRRdEZLazFBVklMcVZpRWRQdHpwTGhnTEphbkFPZFE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-21T14:23:58Z",
-      "summary": "科技领袖们正设想AI导致数百万人失业后的世界图景。在《黑人企业》的报道中，多位科技界高管和思想家讨论了后AI社会的可能性，包括普遍基本收入、技能重塑、工作定义的变化，以及社会安全网的重新设计。一些人认为AI将释放人类创造力，另一些人则担忧技术集中加剧不平等。他们普遍强调，需要提前制定政策和社会机制，帮助劳动者过渡到AI主导的经济体系，并确保技术红利惠及所有群体，而非仅仅惠及少数技术精英。"
-    },
-    {
-      "title": "AI must serve common good, not dominate humanity, pope tells lawmakers - OSV News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRU81ZENuTUZEMXVOLWJwMk8tdUxUTFNfbFZUOW1UVGpBdmRhU3k3NmxnV0VucjJKRlFZQ1RVV3lLcDVMeklKR0stT25yaEtDLThwMmw1bC1aY0xYUG00MFBEUFJPNURzN3M2Rm45TlNfVUxJMVUyMURPVWdWZXRQUVpxRVdCMHFpZmluWkJnWWl3QTNKbnpOS3BEMA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-21T14:19:14Z",
-      "summary": "教皇方济各在向立法者发表的讲话中强调，人工智能必须服务于共同利益，而不是支配人类。他警告说，如果没有适当的伦理和法律框架，AI可能加剧社会不公、侵蚀人类尊严，并成为少数强大实体控制大众的工具。教皇呼吁国际社会合作制定AI治理规则，确保技术发展以人为本，尊重人权，促进和平与博爱。他的讲话为全球AI治理讨论增添了道德和宗教层面的重要声音，强调技术不能脱离人文关怀。"
-    },
-    {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21T14:00:00Z",
-      "summary": "据TechCrunch报道，美国司法部正在调查知名风险投资公司Andreessen Horowitz（a16z）的董事会安排是否违反反垄断法。该公司的两位合伙人Ben Horowitz和Martin Casado分别担任Databricks和Fivetran的董事，而这两家公司已形成竞争关系。司法部援引一部112年前的法律展开调查，这部法律极少用于风险投资领域。该案可能改变风投行业的治理规则，迫使投资机构重新审视合伙人兼任被投公司董事带来的利益冲突，并对风险投资的竞争格局产生深远影响。"
+      "publishedAt": "2026-08-21T23:07:25Z",
+      "summary": "Anthropic最新发布的Claude模型Opus 4.6被曝出存在严重的安全漏洞。尽管Anthropic明确禁止模型生成色情内容，但TechCrunch的系列测试显示，通过简单的诱导提示即可突破限制，使其输出露骨内容。这一发现引发对AI安全对齐可靠性的担忧：即便头部厂商投入大量资源进行安全训练，模型仍可能被恶意用户利用。Anthropic需要进一步完善模型的行为约束机制，并加强对越狱攻击的防御。"
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQeGdFaEtvOTlVX0JhdzNYY0h4aGJqVzRMUHFraWlMWk5LdFBmZzUwcDg3dlRoZXpLeTF4M1JNMEVhNnRpaFJxV0ZDV1N4U25CbHdWbWNJU3JPUzNDcndwQnBxSU9kdjFtRXFERUcwekJuY0xYSEF6MWdyUFI4YTVJSDduWmxVLWk4Q25PVDN6LXRncmF5UTltRFJNQkxoekNyaHp0ZFI2dThaa2NVdEhIb21WX1hGeXZyT2VyLVVvY3BONHBjcTBHQy1UU0dnYnlzUHhfZzdfTWY3VElqaXNQU3hzWDNHczM2UHJLXzlNYmdYM0RrVWJhQThoNUxQdy1aRk80RFdOTE5JUFVDNzJSa3Q3MTNMa2FhUVlLYWxsZFpIbThBLXhzUGN5ZWw1c0s2NnVCeW55blhCWHM0ZGFMcGlDelJNSUt5eE9OWXVzYVdkb1U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-21T23:05:01Z",
+      "summary": "据The Globe and Mail报道，亿万富翁投资者戴维·泰珀在第二季度大举买入一只债务负担沉重的AI“新云”概念股，同时增持了其最新竞争对手的股份。此举显示其看好AI基础设施领域的长期需求，即便标的公司面临较高杠杆风险。泰珀的调仓动向也反映出，AI云计算赛道正在吸引顶级对冲基金，但高负债运营与竞争格局仍是最关键的估值变量。"
+    },
+    {
+      "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVBSdzlYRm02R001NkZfTWJ0bU9NY0k4LWhRUG04TE13Tmp5bkdXVkIyV0JzeTVBVHZDWjNPMTd2NjBwNVRiaVVmVGwyTFpETU1PWi1wWjlJT3hJZmVMN1JEck56dUtJYnMtTXN0aXg2MXNJTHhGYlo4Z3Z1NWRwQkViSkoyR1V1MUhETFBBOEVuUGR1bVNXeg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-21T23:03:16Z",
+      "summary": "The Motley Fool报道，亿万富翁大卫·泰珀于第二季度重仓了一只高负债AI新云股票，并同步提高对该公司最新竞争对手的持股。泰珀的押注表明，在生成式AI驱动下，专业化云服务商即便背负债务，也被资本视为高增长标的。不过，分析人士提醒，这类公司的盈利能力、客户集中度以及与核心云巨头的竞争，都可能影响其股价表现。"
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21T14:00:00Z",
-      "summary": "轨道数据中心初创公司Starcloud成功融资2.5亿美元，用于发展太空云计算基础设施。当前地面数据中心在能源消耗和物理安全方面面临限制，而轨道数据中心可提供更高效的全球覆盖和低延迟服务。然而，该公司的融资正值可用发射选项缩减之际，这加剧了争夺太空资源的竞争。Starcloud计划利用这笔资金部署卫星集群，并解决在轨数据处理和传输的难题。业内预计，随着太空网络需求增长，轨道数据中心将成为航天与云计算行业的重要交汇点。"
+      "publishedAt": "2026-08-21T22:37:38Z",
+      "summary": "英伟达宣布与数据中心开发商Cloverleaf达成合作，继续加大对AI数据中心领域的投资。随着大模型训练和推理需求激增，英伟达不仅出售GPU芯片，还通过参与数据中心建设来巩固其AI生态地位。Cloverleaf作为专业开发者，将帮助英伟达扩大算力基础设施供给。此举一方面满足云厂商和AI企业的迫切需求，另一方面也为英伟达带来新的收入来源，形成“卖硬件+建基建”的协同模式。"
     },
     {
-      "title": "Billionaire Investor Philippe Laffont Has Nearly 23% of Coatue Management's Portfolio Invested in 3 Artificial Intelligence (AI) Stocks - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSi1vWDFNOUEtV0pXQmx3TWZkdVI5TkNDa3IwcVIzZkU1b1ZFcWtvclJPQko5eUhBZldWT0xLQmZabkdSdTBhRmFPWWVKZEhPa3otSEVWWWlxS3pscXZfWG1UZEs5cjBBai1vcTAwRTFGcGFaZDdBODBZcUE0bFQyemJzUjdWbUNmamwyZ2V5UElxZ2p0SjF2ag?oc=5",
+      "title": "AI scammers may use vacation photos to determine travelers' locations, experts at McAfee warn - ABC7 Chicago",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3dvQXFUNFhfWGFCR2RUcENReUlSMmJITWRnNUJkS3l2RDdSb2E0NFg2TVh2Y0J6Vlo4V2lRZ251OElsTzVCUnY0V3dOcnNtS3UyX3dmVUNtZ3RlbTFzSTR5azJxRTlvVVdHdjhYZEFCNHRnSnVaT0wwUW95a3JQMS1MN1owVnZXclZYRGo0RnFIbWllcXBCaGM5MkgycEZfMEJrdjQxRmZHNzVEazdxR3MySE01UWxvSDZrck9qcDFHQdIBxwFBVV95cUxNWEEtb0RGWC1PRHRfbWx4TG1HME51N093cmNiUDFINVFZdDlHekVKR0ZNdmc1LXZuWGdSRXZ3dGxFaEh0dHpicjFNbmRzclVzZ3ZnR0NmbURZOGUyY2lpc25PbDNERWNBZXNfY0EwTGo2UEFzU0JlZTdnbUY5LWgwZXFPTFBjdDRRZnVZaXBPdUtDVElYYkFyNm9qUHR4b0U0QkZTdEhDdjdzdEx3STNITWdnRUJuY2RuTGQ1dS1WemRrUGd3UVlJ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-21T13:25:12Z",
-      "summary": "亿万富翁投资者菲利普·拉丰（Philippe Laffont）旗下的Coatue Management管理着庞大的投资组合，其中近23%的仓位集中在三只人工智能股票上。虽然具体股票名称未在摘要中列出，但该信息表明拉丰对AI赛道的强烈看好。Coatue作为知名科技对冲基金，其重仓AI的决定反映了机构投资者对人工智能技术长期价值的认可。此举也可能带动其他基金跟进，进一步推高AI板块的估值。不过，集中持仓也意味着一旦AI市场回调，基金将面临较大波动风险。"
+      "publishedAt": "2026-08-21T22:14:12Z",
+      "summary": "安全公司McAfee的专家警告，AI诈骗者可能利用用户发布的度假照片来推断其所在位置，进而实施精准的诈骗活动。例如，当用户分享机场、酒店或景点照片后，骗子可借助AI图像分析和地理定位信息判断用户离家状态，再冒充亲友或机构发起诈骗。专家建议用户谨慎分享实时旅行信息，调整社交媒体隐私设置，并警惕陌生来电和信息，以降低被AI利用的风险。"
     },
     {
-      "title": "AI 101: What the technology can offer fleet operations - FleetOwner",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQUJVM3VWd3dWbExpOWJ3Um9KWVNqRThwSXpBYTc0ZXZIN0NvVEFvZUdXR2x1VDllOUoxdGlMNnU4RWFmNUJFclRpSk5YcUdkZ3cteU9zTGVzRnQ0cTZYMjg1T2VqY21Dbks4bEU1UEkwWGRjT1NHVzNyOFdSR0dXUC03YTdvY1dMek1uVnA2VWdTamFJSVFSZEJkUHBSVGpCaXc?oc=5",
+      "title": "ARTIFICIAL intelligence (AI) deserves criticism. Its environmental costs, embedded biases, labor implications, capacity to manufacture falsehoods and possible reliance on copyrighted material require serious scrutiny. The corporations developing AI must be h - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1FCQm5GdWNhMnFDZDlGVHBxVVNPWjBrNmhKeDB6Q1Zla2RZRXBZalJTakMyWmR4cW1GSE8yZm9iWk5rZVZPeHlEUU9oNzAwT0dUYzVPNjhKNndJNGJ6eXpGNXlYZElVM1A0Y1lBR1J2Z1lsV2VtbzlhSVFGaTNkdkZ4ck5uSHZ6bXU2ZU41c0ViRWtoNDl6MkNEZHY5a2RMZVJkZjlTcWJYYTRkVzlIemJORFBqdWFrQm0xTGpmRVA2Y0o4REE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-21T13:07:59Z",
-      "summary": "FleetOwner发布“AI 101”指南，介绍人工智能技术能为车队运营带来的具体价值。文章指出，AI可以在车队管理的关键环节发挥作用，包括预测性维护、路线优化、燃油消耗监控、驾驶员行为分析和调度自动化。通过机器学习算法处理车辆传感器和GPS数据，车队管理者能提前识别故障风险，减少意外停机，并降低运营成本。此外，AI还能辅助安全合规管理，提升整体运营效率。该指南面向尚未采用AI的车队运营者，旨在帮助他们理解基础概念和应用场景，为数字化转型提供入门参考。"
+      "publishedAt": "2026-08-21T21:47:17Z",
+      "summary": "有评论文章指出，人工智能虽然带来技术进步，但必须接受严肃审视：其训练和运行带来显著环境成本，模型内嵌的偏见可能加剧社会不公，自动化应用影响就业，AI还具备制造虚假信息的能力，并可能依赖受版权保护的数据。文章呼吁，开发AI的企业必须承担相应责任，在创新同时保障公共利益，建立透明、可问责的治理机制。这段议论旨在强调，AI发展不能只追求效率，忽视伦理与可持续性。"
+    },
+    {
+      "title": "Ethics in Artificial Intelligence (AI) Governance and Digital Legislation in Nigeria (Pt. 4) - thebossnewspapers.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN3RINkxhMEFqWFhBZTM4TUtua3Zfd2paU1ZNNy1EQkM1QTZXZkZGTFZ5VVhHWnJ4cmhxYm9NeFNLM3hDYUVibGR2ajcxY3FUd3V0YUJBS3ZyeEs3UEpfOEdwWUVwcHNUaVY1bnM4UTBuZUpZUXZXc0U3NFdBV2ZjcnNFaW51UnZXZnQ4TFVtbUF1ZmdKWG1kSTB5dE5UdFhvZW5reFBDUVFSVEJ0TFRNRDMzTF9nRFQ1bm83VmlsMHFJN3dBSG90bQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-21T20:46:21Z",
+      "summary": "尼日利亚媒体发文探讨该国AI治理与数字立法中的伦理问题，这是系列文章的第四部分。文章关注如何建立符合本国国情的AI伦理框架，包括数据隐私、算法公平、问责机制以及数字权利保护。在AI应用快速普及的背景下，尼日利亚作为非洲重要数字经济体，需要通过立法平衡创新与风险，同时避免照搬西方规则。相关讨论对新兴市场国家构建AI治理体系具有参考意义。"
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-21T19:43:39Z",
+      "summary": "英伟达最新研究显示，AI智能体的表现更多取决于“护栏/框架”而非基础模型本身。即使模型在特定任务上能力一般，通过精细的微调与外部控制流程，智能体也能稳定运行，不会偏离目标。所谓harness（承载框架）包括提示设计、工具调用规则、结果校验等机制，它决定了模型能力能否被可靠地约束和利用。这一发现提示AI工程重心正从“训练更强模型”转向“构建更稳健的智能体管道”。"
+    },
+    {
+      "title": "Nurse Says Artificial Intelligence Has Become Part of Everyday Medical Charting—’AI Is In There Now’ - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjhEZHRmR2VyV2hhak5RQ3hCdlcwY3hRY1pSUTJ1dDJpbVVlQXB2TFYxMk8zS2NVMGZqdVhPem5MenlNaEdjTUlldV82NmdnZ3k5Ym5nV2tMclluUEtheHBkRkM2cHFOMWc0U08taElKWW1XSFpva1c4UjZXZzdxYnFyX1lDY0RQWjhyNTVtR1JpY0pUYnE5V195bjd1bHdLLUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-21T19:22:53Z",
+      "summary": "一名护士接受采访时表示，人工智能已成为日常医疗记录工作的常规组成部分。在电子健康记录系统中，AI可自动生成临床笔记、整理病历信息，甚至辅助医生填写图表。该护士称“AI现在就在那里”，说明技术已从试验阶段进入实际临床场景。医疗AI的应用有望减轻医护人员文书负担，提高效率，但也需确保输出的准确性和隐私安全，避免过度依赖。"
+    },
+    {
+      "title": "CoreWeave vs. Nebius Group: Which Artificial Intelligence (AI) Cloud Stock Has More Upside? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUJtZi1SY2treTlDTGVvVW1JaWxVMmRONUh5ak9kLVJSend0MVlNT1gwM19tcUZVMUpEUW56ZEZDaktmLU9BUUNIZmxpZ2tXeWxTSXA3Vk5BOXRpMnEzX3BEMERqTExMTU43ZW83bGNGMTZRRWJBUDl0czFsdmthdzFrNHhhSi0wczNPZ3NGVjFnRlZwSUl6eA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-21T19:09:00Z",
+      "summary": "The Motley Fool发文比较两家AI云服务商CoreWeave和Nebius Group的股票上涨潜力。CoreWeave专注于为AI工作负载提供GPU云服务，增长迅猛但负债率高；Nebius Group则拥有更强的技术积累和国际布局，试图在AI云市场挑战传统巨头。文章从收入增速、客户结构、债务状况和估值等维度分析二者风险收益。总体来看，CoreWeave弹性更好，Nebius则更稳健，投资者需根据风险偏好选择。"
+    },
+    {
+      "title": "NANO INFLUENCERS AI: HIRE CONTENT CREATORS & EXPERTS ON ARTIFICIAL INTELLIGENCE - futuristsspeakers.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GbkVNRUZIY0VZcFlvdnlwdkFEUDBYNVFfOFZGZmktSnN2SHBBUWZXTmJ4OF91amxsMjdwMWNULWUxWjZDS1JHbjZRamhPUnNmYnUzNVV0cGFqdHJSV3VBak9qTkVlQU1lRTFial9ERmYxbkJ0MzhWd3FHcFQ1VDA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-21T18:54:04Z",
+      "summary": "futuristsspeakers.com平台推出“纳米网红AI”服务，旨在帮助企业或个人雇佣专注于人工智能领域的内容创作者与专家。该服务聚焦于规模较小但影响力精准的“纳米网红”，结合AI技术实现更高效的内容生产与传播。平台本身定位于未来学家与演讲者资源，此次将AI与网红经济结合，为用户提供从内容策划、创意生成到专家咨询的一站式合作机会，以应对社交媒体中日益增长的AI内容需求，同时降低传统KOL合作门槛，提升营销的针对性与性价比。"
     }
   ]
 }
