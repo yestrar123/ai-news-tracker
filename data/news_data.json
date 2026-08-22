@@ -1,83 +1,76 @@
 {
-  "updatedAt": "2026-08-22 00:35:27 UTC",
-  "totalArticles": 11,
+  "updatedAt": "2026-08-22 02:47:00 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "How Uber's AI Charges You More And Keeps You Coming Back: Report - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEFvN211U3hUWlFXN1NmWjc0aE9hcXIwQnlxYXZuWU9ZeFREQnZnbHprcW9Ka3BGZTlhMWNYRWFobWVVajJobWpsT1IyNkpyVk10ZHloNlJ1cThwM1lXcFlfOVpiVHNQV2RaM2xISHN5Sm9SSWxQb3lUOHN2OXBiUmI2dUFxZUN0VFE2ZG9IMFNNc0JMb3l2UGRjTWZmVDNwQmhydlRweWxFQXQxOEdOTVdyRFlFZ0XSAb8BQVVfeXFMTjQxaGdDWnYxaHlMZUpKUFFUdE5BSGtfcDRlSktfTERTLTh4dG1pdnpsY051OFhwdUZOdGdFb2piRmpoX2ZWN3FwZjZ5TUZXTE81NFdONXUta2U2SmFfeklZdjg4eURsbXpoRzNSeTI3Y0djVnBwUGFheVlRUndEM2Z4TURRYnNyOWRqb0NVM0hmMWlBZGxxcGg1T3BoSjNQcm5wVEMtTjVhbmpMR2o4V3Zzd0ZNaklORExuY1lVMDQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T02:01:55Z",
+      "summary": "据NDTV报道，优步正借助人工智能动态调整价格，根据用户行为、出行需求等数据实施个性化收费，可能让部分用户支付更高车费。同时，AI算法也被用于优化推送与激励策略，以提升用户粘性并促使乘客持续使用平台。该报告引发对算法定价透明度与消费者权益的担忧。"
+    },
+    {
+      "title": "AI Use Requires Discipline – Analysis - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSzl3UWRidnJUWHhTQUI2VkVvLWtEZFplcmU5cW94ZHJIMk5XelBnS2RpZkxZbzhOVFdlcjB6d29oZnV6UzNQVEZPSXN2aWc0bkhSTnM4Sk8yNTUybno0MEFreUhLRERGZ3hNV2lJWTFqMGpxU2ltMnlTSHpSTjh0RA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T01:35:59Z",
+      "summary": "评论文章指出，人工智能应用并非万能，必须建立规范与纪律。企业在采纳AI时应明确目标、做好数据治理、设定使用边界，并配合人工审核与伦理审查，避免盲目依赖。唯有通过系统性管理和持续监督，AI才能真正提升效率而非制造风险。"
+    },
+    {
+      "title": "Cloudflare Automates Bot Rules - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnM2NlcwZzJkN3daTG1YaGNfRDFoUVE2WU5vRFJTS3JfZERLS2l5WjM3Z25MRjgwVUg1MnE4d2NpUndXQXZfUFo4a3pERmNSTXNhbTBUTC1IOTBEOE1pNDJnVGppcEFtdFBoenIwZjFrUnh3M0tKaUVJcmRieEJnZjY2TVcxQ3p1ZHF2YnpLbGRIUWNSdGRyeQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T00:07:26Z",
+      "summary": "Cloudflare宣布推出自动化机器人管理规则功能，帮助网站自动识别和处置各类机器人流量。通过机器学习和行为分析，系统能动态调整防护策略，简化安全配置流程，降低人工干预成本，同时提升对恶意爬虫及自动化攻击的响应效率。"
+    },
     {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21T23:07:25Z",
-      "summary": "Anthropic最新发布的Claude模型Opus 4.6被曝出存在严重的安全漏洞。尽管Anthropic明确禁止模型生成色情内容，但TechCrunch的系列测试显示，通过简单的诱导提示即可突破限制，使其输出露骨内容。这一发现引发对AI安全对齐可靠性的担忧：即便头部厂商投入大量资源进行安全训练，模型仍可能被恶意用户利用。Anthropic需要进一步完善模型的行为约束机制，并加强对越狱攻击的防御。"
+      "summary": "TechCrunch测试发现，Anthropic最新的Claude Opus 4.6模型尽管明确禁止生成露骨色情内容，但仍可通过精心设计的提示词轻易绕过安全限制，产出违规文本。这一现象表明该模型的内容审核机制存在明显漏洞，也引发对Anthropic安全对齐与防护可靠性的质疑。"
     },
     {
       "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQeGdFaEtvOTlVX0JhdzNYY0h4aGJqVzRMUHFraWlMWk5LdFBmZzUwcDg3dlRoZXpLeTF4M1JNMEVhNnRpaFJxV0ZDV1N4U25CbHdWbWNJU3JPUzNDcndwQnBxSU9kdjFtRXFERUcwekJuY0xYSEF6MWdyUFI4YTVJSDduWmxVLWk4Q25PVDN6LXRncmF5UTltRFJNQkxoekNyaHp0ZFI2dThaa2NVdEhIb21WX1hGeXZyT2VyLVVvY3BONHBjcTBHQy1UU0dnYnlzUHhfZzdfTWY3VElqaXNQU3hzWDNHczM2UHJLXzlNYmdYM0RrVWJhQThoNUxQdy1aRk80RFdOTE5JUFVDNzJSa3Q3MTNMa2FhUVlLYWxsZFpIbThBLXhzUGN5ZWw1c0s2NnVCeW55blhCWHM0ZGFMcGlDelJNSUt5eE9OWXVzYVdkb1U?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-21T23:05:01Z",
-      "summary": "据The Globe and Mail报道，亿万富翁投资者戴维·泰珀在第二季度大举买入一只债务负担沉重的AI“新云”概念股，同时增持了其最新竞争对手的股份。此举显示其看好AI基础设施领域的长期需求，即便标的公司面临较高杠杆风险。泰珀的调仓动向也反映出，AI云计算赛道正在吸引顶级对冲基金，但高负债运营与竞争格局仍是最关键的估值变量。"
-    },
-    {
-      "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVBSdzlYRm02R001NkZfTWJ0bU9NY0k4LWhRUG04TE13Tmp5bkdXVkIyV0JzeTVBVHZDWjNPMTd2NjBwNVRiaVVmVGwyTFpETU1PWi1wWjlJT3hJZmVMN1JEck56dUtJYnMtTXN0aXg2MXNJTHhGYlo4Z3Z1NWRwQkViSkoyR1V1MUhETFBBOEVuUGR1bVNXeg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-21T23:03:16Z",
-      "summary": "The Motley Fool报道，亿万富翁大卫·泰珀于第二季度重仓了一只高负债AI新云股票，并同步提高对该公司最新竞争对手的持股。泰珀的押注表明，在生成式AI驱动下，专业化云服务商即便背负债务，也被资本视为高增长标的。不过，分析人士提醒，这类公司的盈利能力、客户集中度以及与核心云巨头的竞争，都可能影响其股价表现。"
+      "summary": "据外媒报道，亿万富翁大卫·泰珀在第二季度大举买入一只高负债的AI“新云”股票，同时增持其最新竞争对手的股份。此举显示其对AI基础设施赛道的高度关注，但也引发市场对相关公司负债水平与估值风险的讨论。"
     },
     {
       "title": "Nvidia partners with data center developer Cloverleaf",
       "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-21T22:37:38Z",
-      "summary": "英伟达宣布与数据中心开发商Cloverleaf达成合作，继续加大对AI数据中心领域的投资。随着大模型训练和推理需求激增，英伟达不仅出售GPU芯片，还通过参与数据中心建设来巩固其AI生态地位。Cloverleaf作为专业开发者，将帮助英伟达扩大算力基础设施供给。此举一方面满足云厂商和AI企业的迫切需求，另一方面也为英伟达带来新的收入来源，形成“卖硬件+建基建”的协同模式。"
+      "summary": "英伟达宣布与数据中心开发商Cloverleaf达成合作，持续加大对数据中心建设的投入。随着AI算力需求爆发，数据中心业务为英伟达带来可观收益，这一合作有助于其扩大基础设施布局，进一步巩固在AI芯片与算力生态中的主导地位。"
+    },
+    {
+      "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVBSdzlYRm02R001NkZfTWJ0bU9NY0k4LWhRUG04TE13Tmp5bkdXVkIyV0JzeTVBVHZDWjNPMTd2NjBwNVRiaVVmVGwyTFpETU1PWi1wWjlJT3hJZmVMN1JEck56dUtJYnMtTXN0aXg2MXNJTHhGYlo4Z3Z1NWRwQkViSkoyR1V1MUhETFBBOEVuUGR1bVNXeg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-21T22:35:24Z",
+      "summary": "The Motley Fool报道，亿万富翁大卫·泰珀第二季度重仓一只债务负担沉重的AI新云股票，并同时增加对该公司最新竞争对手的持股。分析人士认为，这反映出投资者对AI算力租赁市场的分歧态度：既看好长期需求，也担忧部分企业高杠杆运营的可持续性。"
     },
     {
       "title": "AI scammers may use vacation photos to determine travelers' locations, experts at McAfee warn - ABC7 Chicago",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3dvQXFUNFhfWGFCR2RUcENReUlSMmJITWRnNUJkS3l2RDdSb2E0NFg2TVh2Y0J6Vlo4V2lRZ251OElsTzVCUnY0V3dOcnNtS3UyX3dmVUNtZ3RlbTFzSTR5azJxRTlvVVdHdjhYZEFCNHRnSnVaT0wwUW95a3JQMS1MN1owVnZXclZYRGo0RnFIbWllcXBCaGM5MkgycEZfMEJrdjQxRmZHNzVEazdxR3MySE01UWxvSDZrck9qcDFHQdIBxwFBVV95cUxNWEEtb0RGWC1PRHRfbWx4TG1HME51N093cmNiUDFINVFZdDlHekVKR0ZNdmc1LXZuWGdSRXZ3dGxFaEh0dHpicjFNbmRzclVzZ3ZnR0NmbURZOGUyY2lpc25PbDNERWNBZXNfY0EwTGo2UEFzU0JlZTdnbUY5LWgwZXFPTFBjdDRRZnVZaXBPdUtDVElYYkFyNm9qUHR4b0U0QkZTdEhDdjdzdEx3STNITWdnRUJuY2RuTGQ1dS1WemRrUGd3UVlJ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-21T22:14:12Z",
-      "summary": "安全公司McAfee的专家警告，AI诈骗者可能利用用户发布的度假照片来推断其所在位置，进而实施精准的诈骗活动。例如，当用户分享机场、酒店或景点照片后，骗子可借助AI图像分析和地理定位信息判断用户离家状态，再冒充亲友或机构发起诈骗。专家建议用户谨慎分享实时旅行信息，调整社交媒体隐私设置，并警惕陌生来电和信息，以降低被AI利用的风险。"
+      "summary": "网络安全公司McAfee专家警告，AI技术可能被诈骗分子利用，通过分析用户上传的度假照片来推断其所在地。照片中的地标、环境或元数据可帮助不法分子实施定向诈骗或入侵。专家提醒公众谨慎分享带有位置信息的旅行照片，并加强隐私设置。"
     },
     {
       "title": "ARTIFICIAL intelligence (AI) deserves criticism. Its environmental costs, embedded biases, labor implications, capacity to manufacture falsehoods and possible reliance on copyrighted material require serious scrutiny. The corporations developing AI must be h - LinkedIn",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1FCQm5GdWNhMnFDZDlGVHBxVVNPWjBrNmhKeDB6Q1Zla2RZRXBZalJTakMyWmR4cW1GSE8yZm9iWk5rZVZPeHlEUU9oNzAwT0dUYzVPNjhKNndJNGJ6eXpGNXlYZElVM1A0Y1lBR1J2Z1lsV2VtbzlhSVFGaTNkdkZ4ck5uSHZ6bXU2ZU41c0ViRWtoNDl6MkNEZHY5a2RMZVJkZjlTcWJYYTRkVzlIemJORFBqdWFrQm0xTGpmRVA2Y0o4REE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-21T21:47:17Z",
-      "summary": "有评论文章指出，人工智能虽然带来技术进步，但必须接受严肃审视：其训练和运行带来显著环境成本，模型内嵌的偏见可能加剧社会不公，自动化应用影响就业，AI还具备制造虚假信息的能力，并可能依赖受版权保护的数据。文章呼吁，开发AI的企业必须承担相应责任，在创新同时保障公共利益，建立透明、可问责的治理机制。这段议论旨在强调，AI发展不能只追求效率，忽视伦理与可持续性。"
+      "summary": "有观点认为，生成式人工智能理应受到审视与批评：其环境成本、固有偏见、对劳动力的影响、制造虚假信息的能力，以及可能依赖受版权保护素材等问题，都需要严肃追查。开发AI的大公司应承担更大责任，接受透明监督，而不是仅追求技术突破与商业利益。"
     },
     {
       "title": "Ethics in Artificial Intelligence (AI) Governance and Digital Legislation in Nigeria (Pt. 4) - thebossnewspapers.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN3RINkxhMEFqWFhBZTM4TUtua3Zfd2paU1ZNNy1EQkM1QTZXZkZGTFZ5VVhHWnJ4cmhxYm9NeFNLM3hDYUVibGR2ajcxY3FUd3V0YUJBS3ZyeEs3UEpfOEdwWUVwcHNUaVY1bnM4UTBuZUpZUXZXc0U3NFdBV2ZjcnNFaW51UnZXZnQ4TFVtbUF1ZmdKWG1kSTB5dE5UdFhvZW5reFBDUVFSVEJ0TFRNRDMzTF9nRFQ1bm83VmlsMHFJN3dBSG90bQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-21T20:46:21Z",
-      "summary": "尼日利亚媒体发文探讨该国AI治理与数字立法中的伦理问题，这是系列文章的第四部分。文章关注如何建立符合本国国情的AI伦理框架，包括数据隐私、算法公平、问责机制以及数字权利保护。在AI应用快速普及的背景下，尼日利亚作为非洲重要数字经济体，需要通过立法平衡创新与风险，同时避免照搬西方规则。相关讨论对新兴市场国家构建AI治理体系具有参考意义。"
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-21T19:43:39Z",
-      "summary": "英伟达最新研究显示，AI智能体的表现更多取决于“护栏/框架”而非基础模型本身。即使模型在特定任务上能力一般，通过精细的微调与外部控制流程，智能体也能稳定运行，不会偏离目标。所谓harness（承载框架）包括提示设计、工具调用规则、结果校验等机制，它决定了模型能力能否被可靠地约束和利用。这一发现提示AI工程重心正从“训练更强模型”转向“构建更稳健的智能体管道”。"
-    },
-    {
-      "title": "Nurse Says Artificial Intelligence Has Become Part of Everyday Medical Charting—’AI Is In There Now’ - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjhEZHRmR2VyV2hhak5RQ3hCdlcwY3hRY1pSUTJ1dDJpbVVlQXB2TFYxMk8zS2NVMGZqdVhPem5MenlNaEdjTUlldV82NmdnZ3k5Ym5nV2tMclluUEtheHBkRkM2cHFOMWc0U08taElKWW1XSFpva1c4UjZXZzdxYnFyX1lDY0RQWjhyNTVtR1JpY0pUYnE5V195bjd1bHdLLUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-21T19:22:53Z",
-      "summary": "一名护士接受采访时表示，人工智能已成为日常医疗记录工作的常规组成部分。在电子健康记录系统中，AI可自动生成临床笔记、整理病历信息，甚至辅助医生填写图表。该护士称“AI现在就在那里”，说明技术已从试验阶段进入实际临床场景。医疗AI的应用有望减轻医护人员文书负担，提高效率，但也需确保输出的准确性和隐私安全，避免过度依赖。"
-    },
-    {
-      "title": "CoreWeave vs. Nebius Group: Which Artificial Intelligence (AI) Cloud Stock Has More Upside? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUJtZi1SY2treTlDTGVvVW1JaWxVMmRONUh5ak9kLVJSend0MVlNT1gwM19tcUZVMUpEUW56ZEZDaktmLU9BUUNIZmxpZ2tXeWxTSXA3Vk5BOXRpMnEzX3BEMERqTExMTU43ZW83bGNGMTZRRWJBUDl0czFsdmthdzFrNHhhSi0wczNPZ3NGVjFnRlZwSUl6eA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-21T19:09:00Z",
-      "summary": "The Motley Fool发文比较两家AI云服务商CoreWeave和Nebius Group的股票上涨潜力。CoreWeave专注于为AI工作负载提供GPU云服务，增长迅猛但负债率高；Nebius Group则拥有更强的技术积累和国际布局，试图在AI云市场挑战传统巨头。文章从收入增速、客户结构、债务状况和估值等维度分析二者风险收益。总体来看，CoreWeave弹性更好，Nebius则更稳健，投资者需根据风险偏好选择。"
-    },
-    {
-      "title": "NANO INFLUENCERS AI: HIRE CONTENT CREATORS & EXPERTS ON ARTIFICIAL INTELLIGENCE - futuristsspeakers.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GbkVNRUZIY0VZcFlvdnlwdkFEUDBYNVFfOFZGZmktSnN2SHBBUWZXTmJ4OF91amxsMjdwMWNULWUxWjZDS1JHbjZRamhPUnNmYnUzNVV0cGFqdHJSV3VBak9qTkVlQU1lRTFial9ERmYxbkJ0MzhWd3FHcFQ1VDA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-21T18:54:04Z",
-      "summary": "futuristsspeakers.com平台推出“纳米网红AI”服务，旨在帮助企业或个人雇佣专注于人工智能领域的内容创作者与专家。该服务聚焦于规模较小但影响力精准的“纳米网红”，结合AI技术实现更高效的内容生产与传播。平台本身定位于未来学家与演讲者资源，此次将AI与网红经济结合，为用户提供从内容策划、创意生成到专家咨询的一站式合作机会，以应对社交媒体中日益增长的AI内容需求，同时降低传统KOL合作门槛，提升营销的针对性与性价比。"
+      "publishedAt": "2026-08-21T21:46:51Z",
+      "summary": "尼日利亚AI治理与数字立法系列文章（第四部分）探讨了如何在人工智能发展中纳入伦理考量。文章强调，当地需要建立清晰的监管框架、明确算法问责机制，并在推动技术创新的同时保障公民权利，弥合数字鸿沟，确保AI应用符合社会公平与法治原则。"
     }
   ]
 }

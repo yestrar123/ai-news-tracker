@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "3934",
+      "title": "How Uber's AI Charges You More And Keeps You Coming Back: Report - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEFvN211U3hUWlFXN1NmWjc0aE9hcXIwQnlxYXZuWU9ZeFREQnZnbHprcW9Ka3BGZTlhMWNYRWFobWVVajJobWpsT1IyNkpyVk10ZHloNlJ1cThwM1lXcFlfOVpiVHNQV2RaM2xISHN5Sm9SSWxQb3lUOHN2OXBiUmI2dUFxZUN0VFE2ZG9IMFNNc0JMb3l2UGRjTWZmVDNwQmhydlRweWxFQXQxOEdOTVdyRFlFZ0XSAb8BQVVfeXFMTjQxaGdDWnYxaHlMZUpKUFFUdE5BSGtfcDRlSktfTERTLTh4dG1pdnpsY051OFhwdUZOdGdFb2piRmpoX2ZWN3FwZjZ5TUZXTE81NFdONXUta2U2SmFfeklZdjg4eURsbXpoRzNSeTI3Y0djVnBwUGFheVlRUndEM2Z4TURRYnNyOWRqb0NVM0hmMWlBZGxxcGg1T3BoSjNQcm5wVEMtTjVhbmpMR2o4V3Zzd0ZNaklORExuY1lVMDQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T02:01:55Z",
+      "summary": "据NDTV报道，优步正借助人工智能动态调整价格，根据用户行为、出行需求等数据实施个性化收费，可能让部分用户支付更高车费。同时，AI算法也被用于优化推送与激励策略，以提升用户粘性并促使乘客持续使用平台。该报告引发对算法定价透明度与消费者权益的担忧。",
+      "fetchDate": "2026-08-22"
+    },
+    {
+      "id": "3935",
+      "title": "AI Use Requires Discipline – Analysis - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSzl3UWRidnJUWHhTQUI2VkVvLWtEZFplcmU5cW94ZHJIMk5XelBnS2RpZkxZbzhOVFdlcjB6d29oZnV6UzNQVEZPSXN2aWc0bkhSTnM4Sk8yNTUybno0MEFreUhLRERGZ3hNV2lJWTFqMGpxU2ltMnlTSHpSTjh0RA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T01:35:59Z",
+      "summary": "评论文章指出，人工智能应用并非万能，必须建立规范与纪律。企业在采纳AI时应明确目标、做好数据治理、设定使用边界，并配合人工审核与伦理审查，避免盲目依赖。唯有通过系统性管理和持续监督，AI才能真正提升效率而非制造风险。",
+      "fetchDate": "2026-08-22"
+    },
+    {
+      "id": "3936",
+      "title": "Cloudflare Automates Bot Rules - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnM2NlcwZzJkN3daTG1YaGNfRDFoUVE2WU5vRFJTS3JfZERLS2l5WjM3Z25MRjgwVUg1MnE4d2NpUndXQXZfUFo4a3pERmNSTXNhbTBUTC1IOTBEOE1pNDJnVGppcEFtdFBoenIwZjFrUnh3M0tKaUVJcmRieEJnZjY2TVcxQ3p1ZHF2YnpLbGRIUWNSdGRyeQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T00:07:26Z",
+      "summary": "Cloudflare宣布推出自动化机器人管理规则功能，帮助网站自动识别和处置各类机器人流量。通过机器学习和行为分析，系统能动态调整防护策略，简化安全配置流程，降低人工干预成本，同时提升对恶意爬虫及自动化攻击的响应效率。",
+      "fetchDate": "2026-08-22"
+    },
+    {
       "id": "3923",
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -35389,5 +35416,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3932
+  "total": 3935
 }
