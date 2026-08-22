@@ -1,27 +1,55 @@
 {
-  "updatedAt": "2026-08-22 12:16:41 UTC",
-  "totalArticles": 3,
+  "updatedAt": "2026-08-22 18:13:23 UTC",
+  "totalArticles": 7,
   "articles": [
+    {
+      "title": "Pope Leo XIV: In age of AI, the family is the first school of humanity - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXZ2bG5BUTNoM2RTQ3pUVUVjdkFvd2tkNTNnLTRyUm1GdDl6dGpNZVgxUTl2cnlHakVTZ19zLThMZ2p1QlpueHo0bFRWdVNvQUdGYk9KT2QxNlZEVmw5S1FrbE5KWE5Edk94ME5HZWJWWnRwRE5raHBlNTltU0hybGkyZjM4V1BVTzJuaWtYdENLTmcydnp3WEpOR1FxdEhuQ2VoU2RKSlQ1WVZ5ZUJSdjhCZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T16:41:17Z",
+      "summary": "教皇利奥十四世在梵蒂冈新闻中发表观点，指出在人工智能时代，家庭仍是人性成长的“第一所学校”。他强调，技术发展不应削弱家庭作为情感联结与伦理教育基础的地位，相反，在AI深刻改变社会的背景下，家庭更需要承担起培养责任感、同理心与人文精神的责任。此番言论呼应了梵蒂冈近年来对科技伦理的持续关注，也提醒人们在拥抱人工智能便利的同时，不忘守护最根本的人性价值。"
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-22T16:30:34Z",
+      "summary": "OpenAI一改此前立场，公开呼吁加州加强其人工智能安全法案SB 53。该公司此前曾对该法案表示反对，如今态度发生转变，显示其希望在监管框架上发挥更积极的作用。OpenAI认为，强化该法案有助于提升AI系统的透明度与安全性，尤其在大模型能力快速发展的阶段。这一举动也反映出AI行业头部企业正在重新权衡监管与创新的关系，试图在推动技术前进的同时，回应公众对安全风险的关切。"
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-22T16:00:00Z",
+      "summary": "一项新研究指出，全球领先的人工智能实验室普遍缺乏针对“失控模型”的公开遏制方案。这些前沿AI实验室在模型出现意外或潜在危险行为时，几乎没有公开记录表明如何有效控制或隔离此类模型。研究认为，随着AI系统展现出越来越多不可预测的行为，这种不透明性引发了对行业准备程度的严重质疑。专家呼吁实验室应明确披露安全策略，以便在风险演变为现实之前建立可靠的应对机制。"
+    },
+    {
+      "title": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock - Currently.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdkIwQWNocHYzQWM0bEJFTXFKXzROM2U5TC15N1FYQ19yUTczenBsMFhZQk93Y291NEgyajM0eGxnYV9oeDMybDAybktxbVE5bjNtOFoxSl9kbmlYcTRhRC15OHhaVGc2cHU4QWxNb1lfc1dYX0pXM0xnOHlNRXp6MTFBc1FkQlh1OTNlTFA0aw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T14:20:00Z",
+      "summary": "亿万富翁投资者大卫·泰珀（David Tepper）旗下基金减持了SanDisk股份，转而加仓一只市值达万亿美元的人工智能芯片股。这一调仓动作反映出机构资金正加速向AI基础设施领域集中。虽然报道未明确点名是哪只芯片股，但市场普遍认为此类标的与英伟达等巨头高度相关。泰珀的举动被视为对AI算力长期需求看好的信号，也表明大型投资者正积极布局人工智能产业链中的核心半导体环节。"
+    },
     {
       "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Outperform Nvidia Over the Next 3 Years - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVFVpVTNnRFpDdXBoaHRiNHhqbHdaNUE5azROaFpDRGRFUlBPazFyX3hrd2s3VDZNR2FxbnU3RExfUFEtTWJCTjRQS1N5N0hxcE5KMnVWNEpzVTFZME53WjFqbFpneEFyY0p0c0dUaldmSGhfRkpkTVBTUU1RZGNzQy1TcnNzTFk4eVpHbFRmM2hYbkEtZDdXLQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-22T12:12:44Z",
-      "summary": "人工智能热潮下，半导体领域竞争持续升温。外媒分析预测，未来三年内将有一只AI半导体股表现超越当前行业龙头英伟达。该预测认为，尽管英伟达在AI芯片市场占据主导地位，但随着定制化芯片、边缘AI及新兴架构的兴起，部分竞争对手有望在特定细分市场实现突破，从而带动股价更快增长。分析还指出，供应链布局、大客户订单及技术迭代速度将成为决定胜负的关键因素。投资者需关注相关公司的研发投入与商业化进展。"
+      "publishedAt": "2026-08-22T13:05:00Z",
+      "summary": "财经媒体The Motley Fool发布预测称，某只人工智能半导体股票将在未来三年内跑赢英伟达。该预测认为，尽管英伟达目前主导AI芯片市场，但特定竞争对手或在特定细分领域实现更快增长。报道未直接点明具体公司名称，但结合上下文推测可能涉及AMD、博通或其他AI芯片厂商。分析指出，随着AI推理需求多样化，市场格局可能出现变化，投资者应关注具备差异化技术和客户基础的半导体企业。"
     },
     {
-      "title": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbUNBcks1UEs4VndfNl8wei0xNnY0aEJmMG5iM2Nhc2dGbmVfZVNSNWFXOEdKQWthc2tfdUswNW4tMzVkQjFORWxBOFNQUWpkR3dSOW1MSnBJQjV4dDVUalpTYmllRHhWcVlYYkJLbEFDbWFpdmhjb0J5bFFSMlpTaVp5Qi0xX1NVRWg4RnlwYWdQNTkwUTBkb1hkSDFScWt5QWZ6M1FGdFQtV3BwaXItMnhMZUdydGlVNVJrYjM5Zk8xaGE1UDBQUzU2WWxER0xUdVVJdzRSa2pjQ2d3bWhWZ25uMFNmamJ6a1hROUdWY2piNlB1MnJwZzk3U2wtNUE3d3RZb3dFd0JBRnRVUFIxYS1mNUNUUVJ3Q1dhWmN6S0twNHA5eWh2Y05vU0tGQjFHT2c?oc=5",
+      "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Outperform Nvidia Over the Next 3 Years - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXVpeWEteFY1ZDZqYkd3ekRJZGM5ajRBNzkwZEFfMDF4NG1iRFZwQlYzaVBkSkVuT2NVSTU3SGtjQVcwVVdSVjVIeTFkMzhhbmpEbEM1TmoyLWZORVBmTmhWZUFsLXFDd0FJVWJuUGc1dnlkbHd6VjZocU1fM1REbnFwU1NnQjZRWThTaEVEZk9WQVplanN1Yk9hTTNlQ1ZHZThCN0x1bDJFZUxsWHJBMTRuZmp2Zw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-22T11:02:46Z",
-      "summary": "科技巨头正加速加码人工智能基础设施建设。据报道，Alphabet和亚马逊计划合计投入4200亿美元用于AI相关基础设施，涵盖数据中心、专用芯片及网络设备等领域。这一巨额投资将直接利好上游硬件供应商，报道点名了四只可能大幅受益的硬件股票。随着AI模型训练与推理需求激增，服务器、存储、散热及电力设备等细分环节有望迎来持续增长。分析认为，拥有稳定大客户订单和先进产能的公司将获得显著订单弹性，但需警惕资本开支周期波动风险。"
+      "publishedAt": "2026-08-22T12:25:00Z",
+      "summary": "Yahoo Finance转载了一篇关于AI半导体股票的投资预测，认为某只芯片股未来三年表现将超越英伟达。该预测基于对AI计算需求结构变化的分析，认为在训练之外，推理场景的扩大将为其他芯片厂商带来机会。报道强调，英伟达虽仍是行业龙头，但新进入者或在特定领域具备性能或成本优势。投资者被建议留意技术路线和市场定位，而非仅仅追随当前市场领袖。"
     },
     {
-      "title": "How AI Could Replace Animal Testing - The Good Men Project",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTItMWw2dlp4Xzk1dktRWk1GRS1hZGdUNXR3MHZQdmd5U1lpOGUtZ0N4S2dDVkFaYnF6amRyclQtT2cxX0lYS0Zac09VM1h5ZXhtdUtqdWRudkgxa0NHUXc3cGcwMEhXTkREaHhPR09qZlVMLWx3eVY1U0JoQ3dMakNfSFJubWc?oc=5",
+      "title": "Z.ai delays GLM 5.3 release over cybersecurity risks - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MaWVwNkNrRXI3SW9pdzBwd2lSN0hSODFKNmZIdnlGUlRRNDVudnhkRWF5NmJFTzRqWGFjanJyaVRJODVFOEFOYmc5dVdVS3k1ZVdjVk10QVVmeGpPYWxabmpJbmdVREZKQUE5T01B?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-22T09:32:44Z",
-      "summary": "人工智能正在为生命科学研究开辟新路径，或有望逐步替代传统的动物试验。AI能够通过分析海量生物数据、模拟化合物与生物体的相互作用，提前预测药物毒性及疗效，从而减少对实验动物的依赖。该技术利用机器学习模型构建虚拟器官或细胞系统，可更快速、低成本地筛选候选药物。虽然目前AI模拟仍无法完全复刻复杂生物体的真实反应，但专家认为，随着数据质量和算法精度的提升，AI将在药物研发和安全性评估中发挥越来越重要的作用，推动更人道、高效的科研模式。"
+      "publishedAt": "2026-08-22T12:21:47Z",
+      "summary": "AI公司Z.ai宣布推迟其大语言模型GLM 5.3的发布，原因是存在网络安全风险。该公司在声明中表示，团队在内部安全评估中发现了需要优先解决的漏洞，因此决定延后上线时间以确保产品达到安全标准。这一举动体现了AI企业面对模型安全问题的谨慎态度，也正值行业日益关注大模型可能带来的滥用、数据泄露等风险。Z.ai并未透露具体修复时间表，但承诺将在完善后尽快推出。"
     }
   ]
 }
