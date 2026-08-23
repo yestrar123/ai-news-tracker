@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "3948",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-22T21:46:56Z",
+      "summary": "哈佛大学推出一项价值699美元的创业训练营项目，名为HBS Foundry，其最大亮点是利用AI化身（AI avatars）为学员提供个性化指导。这些AI化身以讲师形象呈现，能够在学员进行模拟融资路演和董事会会议练习时，提供即时反馈和改进建议。这一做法将生成式AI技术引入创业教育场景，既降低了师资资源的重复消耗，也为学员创造了高频次、低门槛的实战演练机会。该项目体现了哈佛商学院在AI辅助教学领域的探索，试图通过虚拟导师形式提升创业培训的效率和可及性。",
+      "fetchDate": "2026-08-23"
+    },
+    {
+      "id": "3949",
+      "title": "Claude Code Adds AI Design, Cross-Session Chat - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2xzQVBlUlJHUjEwZzdkQkM0Y3JWYXctOTVZY3E1SXFzYmdIa2ZoaUwxNFU2RzJWQjVmeFA5NWJTb2tBX0xROVN6NzhJTEwwTmhZS203UkxHT29CRzVGYVZ4Wjd3UnlRSHVjd3RNejRIQjEwX05kYWloVmpJd2xUQ0lwNlJKWGtXeXNMR2ZqRlpaUDRPWjdSa1d1aVdyMjYzQ2VLZWZwaWNfSENR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T21:04:37Z",
+      "summary": "Claude Code迎来重要更新，新增AI设计功能与跨会话聊天能力。这一升级使开发者能够在编码过程中直接获取AI辅助的设计建议，同时跨会话聊天允许用户在不同工作会话之间保持上下文连贯性，便于长期项目的连续协作。该功能进一步巩固了Claude Code作为AI编程助手的竞争力，尤其在复杂软件开发场景中，有助于减少重复沟通成本，提升团队协作效率。此次更新由StartupHub.ai报道，被视为AI编程工具从单纯代码生成向全流程开发辅助演进的一个新信号。",
+      "fetchDate": "2026-08-23"
+    },
+    {
+      "id": "3950",
+      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUtZNE1zWVpsM25BUHhSTEdiQmFObkJSNWxpd0d3andIWVlZNG9kNTBwenpsUlZoenJKNGM1M1U2OGswU25JVlJCbVFkd0JiVnBaMzlOZUVGSWNzbi04YVhzX1BybjVLdkRmb0hiWGhWc29JNFhvUHpGNHh2Uy1iamtKcGF5TlZqWnlfQlNUMWN6aXZzTzNpaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T20:44:00Z",
+      "summary": "据The Motley Fool报道，亿万富翁投资者斯坦利·德鲁肯米勒近日调整了投资组合，卖出了部分Sandisk股票，并增持了三只他认为具有“不可阻挡”增长潜力的AI股票。尽管具体标的未在摘要中披露，但这一操作反映出顶级投资者对人工智能产业长期前景的持续看好。德鲁肯米勒此番调仓，既体现了他对存储芯片行业短期风险的规避，也显示其将资金集中配置于AI核心赛道的策略。该动向可能引发市场对相关AI概念股的关注，并被视为机构资金流向的重要参考信号。",
+      "fetchDate": "2026-08-23"
+    },
+    {
+      "id": "3951",
+      "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNTjhZQmZmbWFaSWc0S1ZwTEpDZzY5YjV2UGdQMnBIbWIxcVZHa0RCUjlYb1h2UC1qcnVDREtPVF9QNDNwUEFaR29KMlRVMW0tb2FPVjRBYWxwdUhmUzdBZExYZlRMbnF4LUdWanFyOFIxSTJhRFg2UERmSHczcVB2V1RScF9mOGdHZmFmano4VmRXdlJtSkY0ekhZNzdZcW0wSVk5MkgtODdRZVRPdUsyQnd4Y1ozTnVoZmFUQXNLVVc2bTlaZmRnUEl3YmJxVmh2ZHFySDhaWV8yNWRrWDUzTUJpbk4yb0h5QXEtWElQT09wZG9maU4wYTEtaVU3b0pRREJMdXZ3VzZPRXhYZEtfTjBtNUtGLVFDWFNGeVVZOGRCY3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T20:34:50Z",
+      "summary": "The Globe and Mail发布分析文章，对比苹果与Meta Platforms这两家“七巨头”成员在人工智能增长引擎上的实力。文章探讨了两家公司在AI战略上的不同路径：苹果侧重于端侧AI、隐私保护和设备生态集成，而Meta则大力投入生成式AI、开源模型和社交平台算法。分析师从研发投入、产品落地、商业模式和用户规模等维度进行比较，试图判断哪家公司拥有更强的AI增长潜力。该对比反映了当前科技巨头在AI赛道上的竞争格局，也揭示了二者在技术路线和商业化重点上的显著差异。",
+      "fetchDate": "2026-08-23"
+    },
+    {
+      "id": "3952",
+      "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQURfZENHc01vQVVDdFhDMW1ZR1lUMWN0ZlBZa1ZLYjYySDUyMm1FRlBfMnFlV3lYa2xpTkVmY2FNNGFtYm82WlVXSXhwdkN4VjNCUC1uQVBKUVRqWm1pQmtzRHVjaFNqdDBhVmdES21kT1NRN1piWVE5akpLSVlrUDRaTl9pOWxPZW1UeUdGN05jUC1J?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T20:14:31Z",
+      "summary": "The Motley Fool刊发评论文章，比较苹果与Meta Platforms在人工智能领域的增长引擎强弱。文章指出，苹果凭借庞大的硬件用户基础和高度整合的生态系统，在端侧AI和隐私保护方面具备独特优势；Meta则依托海量社交数据和强大的AI研究团队，在内容推荐、生成式AI及元宇宙技术上加速布局。文中还分析了双方在AI货币化能力、开发者生态和监管风险上的差异。最终结论认为，两者各有千秋，但长期胜负取决于谁能更有效地将AI转化为可持续的商业模式。",
+      "fetchDate": "2026-08-23"
+    },
+    {
+      "id": "3953",
+      "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbm9EakQyamxjSHUxNFBKWE5GNmd5M00yUkg4MmxQNFpzVDFhc1JXX3ZZVzE3RmstY2pNTldYRk4xV3BNcXg4UHZ0SmgyanZkdlZPN09aQ1pjcW9kQlFrSm5kUVV5UnoycnRWdzdKQkp3VVpLdHc3TWsxOVU3Z0tsN2FjMWViWkowVVNmZ1VqR1pmd2dDSXJjNEo2OHlabDdDWnh3TlBBc3VIa3Fx?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-22T20:04:00Z",
+      "summary": "Yahoo Finance报道称，亿万富翁投资人斯坦利·德鲁肯米勒已出售部分Sandisk股票，同时买入三只人工智能股票。报道指出，这一调仓行为延续了德鲁肯米勒近年来重仓科技和AI赛道的风格，其此举可能基于对存储芯片市场周期见顶的担忧，以及寻找更高成长性AI资产的考量。虽然三只具体股票未被公开，但市场普遍猜测其青睐具备大模型、数据中心或AI基础设施能力的企业。此类顶级投资人的操作通常被视为市场风向标，可能引发资金对AI板块的进一步追捧。",
+      "fetchDate": "2026-08-23"
+    },
+    {
+      "id": "3954",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-22T19:00:00Z",
+      "summary": "由DeepMind校友创立的英国AI实验室Inherent发布了一款名为Faraday的AI智能体，宣称其在复现科研论文方面已超越Anthropic和OpenAI的同类系统。Faraday能够自动阅读学术文献、理解实验方法并复现研究结果，这一能力或成为推动科学创新的关键跳板。Inherent团队表示，该系统在多个基准测试中展现出更强的科研推理和实验设计能力。该成果意味着AI Agent开始从通用对话走向专业科学研究辅助，有望加速学术验证和知识发现进程。",
+      "fetchDate": "2026-08-23"
+    },
+    {
       "id": "3942",
       "title": "Pope Leo XIV: In age of AI, the family is the first school of humanity - Vatican News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXZ2bG5BUTNoM2RTQ3pUVUVjdkFvd2tkNTNnLTRyUm1GdDl6dGpNZVgxUTl2cnlHakVTZ19zLThMZ2p1QlpueHo0bFRWdVNvQUdGYk9KT2QxNlZEVmw5S1FrbE5KWE5Edk94ME5HZWJWWnRwRE5raHBlNTltU0hybGkyZjM4V1BVTzJuaWtYdENLTmcydnp3WEpOR1FxdEhuQ2VoU2RKSlQ1WVZ5ZUJSdjhCZw?oc=5",
@@ -35515,5 +35578,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 3946
+  "total": 3953
 }
