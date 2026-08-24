@@ -1,83 +1,111 @@
 {
-  "updatedAt": "2026-08-24 12:24:19 UTC",
-  "totalArticles": 11,
+  "updatedAt": "2026-08-24 18:23:01 UTC",
+  "totalArticles": 15,
   "articles": [
     {
-      "title": "Alibaba issues €8.7 billion in new shares to finance Artificial Intelligence (AI) - Plataforma Media",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWTFjMHRHVEJtb2xNYjk1bHBMYlpoSnBUQ2kxY01VTExRMVFXXzg4QUViemplMFlEVkxmdU1BSUFsRU5oNjZYWnRqLTVrbUFIakhNODZCTTVFUnpjTkJBWU9talhycmcxRUhqTmVvZnRLcHdVOXg1cTVRblhJajJBWVhkY2hLZnlOQ0NXWXVMdHlKWDd4WlBLczBmVFZuRjlRWWc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-24T11:32:31Z",
-      "summary": "阿里巴巴宣布发行87亿欧元新股，所筹资金将专项用于人工智能领域的投资与研发。此举表明阿里正加速布局AI基础设施与核心技术，以应对全球 AI 竞争加剧的态势。通过大规模股权融资，阿里巴巴试图在保持财务灵活性的同时，强化其在云计算、大模型及智能商业等方向的能力。市场分析认为，这笔资金或将投向算力建设、模型训练及生态投资，进一步巩固其在中国乃至全球AI市场中的领先地位。"
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24T18:03:55Z",
+      "summary": "科技媒体TechCrunch报道称，初创公司Instinct推出的强大AI助手引发了隐私与安全担忧。早期测试者对其功能赞不绝口，但部分人指出，该助手拥有广泛的数据访问权限、模糊的服务条款，并能代表用户自主执行操作，这些特性带来了令人不安的权衡。专家担忧用户可能在不知不觉中交出过多个人数据控制权，且AI的自主行为可能产生难以预料的后果。"
     },
     {
-      "title": "IITs reshape engineering education with AI, data science & emerging tech courses. Take a look - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUTdIWHY3U2l1UUl0UGIwbXJXcldHb3R4WjU3bGwySkhNS3VKXzBkVVR4dFpnaEc1MkFvS3RLd3hVNE93eHhydVV3TE9lZFdKTFA1ZXpaNWRsOERTY3haVmhaOEt6RUQxaWtQSXpwVXZ5dl9FU1V4RmRZNWZmNmt4cWJEWEk1VnZEYmt2MFdRVTF5SmFHNkR0OV9kNDlqSU8tQTBSTWJJOXVzWE1Ra1VQQnRONGpnOWtENm5mQ1BWLUpwQVRjUVp3WXVpbld3ZG1kdVQ1OGJ3ejVHdUlWWmlaODJteU1MOVXSAewBQVVfeXFMT0lYY0pNOTczQ002czhId3hfWEN2eTV0WDlWOUs5N25UNE5ONmVIeGVQZUpwTnFGLXlRR1Q2aldWMVcwdmktOExUMjZDZS1mbV9zbksxWGdfS3lwQ2YtaDd3X2xCSmJnaDB5dFBHWElTalRlR2dabTdab3FjZ2lnak93M1czbHBrMzFLcDdLN1hOeXY0S1BWQlZIdENOZFZWb1QtT3VBdjI1VXduS2VBSnp6WUg5UHZGajNwdTNER3JmM3l3TU4zRG4wTVRGXy1fNWlqT1JQRUpRbExQSUhuY01jY05fU2o1M0dLbUU?oc=5",
+      "title": "Hugging Face explores sale worth $13 billion or more - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ITlduWGVFOUxwRUpEaU5BUHpKaFkySjVndGkyU0RUT1JickRfbmNTd2tKTUUxdW5ocm5uUVhSaUJWdGhYaVdBSnE3WmEyMWRPUHdBUk8zMWJra1U3eFRaOG00RGoyU2dSVUE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-24T10:37:40Z",
-      "summary": "印度理工学院（IITs）正对工程教育进行系统性改革，将人工智能、数据科学及新兴技术课程纳入核心教学体系。这一调整旨在培养适应未来产业需求的复合型工程人才，使学生具备AI建模、数据处理及跨学科创新能力。课程设置兼顾理论与实践，并鼓励学生参与真实项目研发。分析指出，IITs此举反映了全球工程教育从传统学科向智能化、数字化方向转型的趋势，也为印度在全球科技竞争中储备人才提供支撑。"
+      "publishedAt": "2026-08-24T17:38:47Z",
+      "summary": "据BetaNews报道，人工智能平台Hugging Face正在探索出售事宜，估值可能达到130亿美元或更高。Hugging Face是开源AI社区的重要力量，拥有大量模型库和开发者用户。若交易达成，将成为AI领域又一重大并购案。目前谈判尚处于早期阶段，潜在买家尚未披露，但这一消息已引发行业广泛关注，反映出AI赛道估值持续走高的趋势。"
     },
     {
-      "title": "Keshav Sukirya Reveals How Artificial Intelligence Is Reshaping Modern Business - The AI Journal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzRiY1VaM2hJSWt1WndiQkgyd0VfbWwwRUR0c2V3YXdMbW1wVUY1Y3BpR1JYV1llcVJCd3dlZ28tM0lpU0pITU1zUVZUQTdfQ1hDOURmT0E4NFNHUFhleFI1d1dZVW00cG5YVnU5VkFUTWZ6ZTVia3QxdndqeGRaVlR1eFV1UjlCcTlnZ1pSZkg5bEFpUkhGOFU0NHNjX0ViUGc?oc=5",
+      "title": "Databricks IDE Integration Boosts Dev Productivity - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjFJRUtaejNjOEJud002WDNGMHJhcC1XMWF2amV0OTNjSnZLYmd4T2dPVmRsbUxRczVPbnJBSmFRSHJVdGo3TGcxem5RcFV5TDNUbjJhVkVEa0V3SlRiblRHWE9KNlNlTVJPU0hVSFNTWFpHQVJMNTZMazRublFPMnpBQnVURUR1U1c2RXplNFJUYV9wM05tbFZmWGRidk1JeEtQcDhLd25nMzA2MzAwUjNYRQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-24T10:07:57Z",
-      "summary": "专家Keshav Sukirya在《The AI Journal》发表观点，深入剖析人工智能对现代商业的变革作用。他指出，AI正在从辅助工具升级为企业的核心决策引擎，在供应链优化、客户洞察、自动化运营和个性化服务等方面释放巨大价值。企业若能将AI与业务战略深度融合，可显著提升效率与创新能力；但同时也需关注数据治理、算法伦理和人才短缺等挑战。文章呼吁企业管理者以系统性思维拥抱AI转型，构建可持续的智能商业生态。"
+      "publishedAt": "2026-08-24T17:08:07Z",
+      "summary": "StartupHub.ai报道称，Databricks推出的IDE集成方案显著提升了开发者的生产力。该集成将Databricks的数据工程与机器学习能力直接嵌入主流开发环境，使开发者无需切换工具即可完成代码编写、调试和模型部署。此举简化了数据流水线和AI工作流的开发过程，减少了上下文切换成本，受到开发者社区好评，也进一步巩固了Databricks在数据智能平台领域的竞争力。"
     },
     {
-      "title": "Bitcoin: Peter Schiff Sees an AI Threat on Three Fronts - Cointribune",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2dZTFh5VTZpemt1SFdvS3QxODlidWVfVG1paHdyMTJ6bGNWZlA0bUh4ZExJZVN5ak5qTmY5LTliT3FRZnNZWmdlYmdxS2g1R1VkM1hZdWo4bjF6bmRfWk1yV3BESnBpVmdvQ2ZHMHRQZDNwaXh4djVYY1NmQXhMZml5dlVqOXRGQksxOF83RHdncXROdVE?oc=5",
+      "title": "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26 - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbnVTZE5aN1dlWXlKczVLZmRsWU1Ic0hnaDFXLUtTcW41QXFPZ1FMeXR2OWQtMVlDcDU4VExMSjQwR0dOcW9rRkRkdGRGT1puNlVxTVo5WlpGNlhkbkhhQU9yN256ei1IdV96LUZBM1hpRXV5UV9Ed0pJN1Y4OC0yQ2tlOWNuZlgwVjVxODFVRjJ1R0VfVGt5R1lVRG1leGE3TnZjNm05dXBaQWFUVkJtZlo0R2ZPbWYyVjZWandTS2F6VFYxczBSbERtQTAxRm55RllSS3JoeS0weWxaQ0Y3VXZodkRrNXNRRGtnQW1SRC1PN1ZGUXgyYW01cXhtNTRCNml0T2RhOHlnZ2hqZnFfN2NHV3lEeDRVb3FZOUtn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-24T09:05:00Z",
-      "summary": "经济学家皮特·希夫（Peter Schiff）针对比特币发出警告，认为人工智能正从三个层面威胁比特币的生存与发展。首先，AI驱动的算力集中可能削弱去中心化原则；其次，AI生成的虚假信息或操纵市场情绪，加剧价格波动；再者，AI和量子计算的发展或对加密算法安全构成潜在冲击。希夫认为，这些技术演进将考验比特币的内在价值与抗风险能力，投资者需警惕AI时代加密货币面临的新型不确定性。"
+      "publishedAt": "2026-08-24T16:55:41Z",
+      "summary": "The Globe and Mail发表预测文章称，在英伟达于8月26日公布财报后，某只人工智能股票可能迎来抛物线式上涨。文章分析认为，英伟达的业绩将成为AI行业景气度的重要风向标，若财报表现强劲，将带动相关AI供应链和下游应用企业的股价走高。该预测基于当前AI基础设施需求的持续增长，但并未明确点出具体股票代码，提醒投资者注意市场波动风险。"
     },
     {
-      "title": "Meet India’s AI Kid: Kerala teenager builds AI tools while studying Commerce - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNald5Y2g1emlEX05VeDVHb2F1UmZFYjB0YndhLThCNWpydGlYVkttNzFSdXdpNnh3dnF3N1VTdkZqTU1NY1FjLWZUbUlBcVZET2VkT2VmaG0td1VOUU5ocWMwUVJ3MXFNUGlYVzRPSnNzX25nS0s2ZEJ3S1hSdG1OMlJCM0hMS3hoRkhaak1ORzh6VjFuUk5rSFVlazdIMnZjenBXNWtaMGNlU3RIOE1RZ2RTSE1GNHJudHIyc2wxRENfYjR1Ui02MVM5RzdpM0RmT3R4TWF4UEFGM2dHLWpBZTVoclY5UdIB6wFBVV95cUxQVEQ2d19hTlpZSzIxLWpRbTFvLTdFaHhWcUd5OGo5T0dpYlBWSm1XM1U3NERpY09NNERzc3BkNmRTQktFWUxnM3NUMFlfRmpkWko4LTNMNGl1VGF5NnI2ejVPczkwM0xyYTJEQzhadTBNMzhod2JNZ3g1WjZBVXZqVXNtZFRkd2I0bW1leC14bFAxa1A1Tm5zNmh2alNhVlNFTkdrNUZNbWFnNUZFRjdPdmFrMWRRNEVRMzZieXh0UEF6d1luUUZ1NjVESzlUQllyYkgxQmhVbE5JZzRBaVIzYzhKMVM3cERlYnhF?oc=5",
+      "title": "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXdWZ29VVUt1TlY1aC1MSG5yemwyTWpNa2k4UUpsMnR0eWlZbmJZSl9vc1NTLWI1dzQwY0pXZWg2WUMxWFZnQ0J5OEdSZWszRS1fZWZzU3ZtUWEtNWhZNlhwRUtUbXdJN2h3VnpaZWUtMV9pMFVEcGlwRDNqQkZIMWN1TFdNTlhQSGdna05FTExzLVNRWVVQUg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-24T09:00:00Z",
-      "summary": "印度喀拉拉邦一名青少年在攻读商科期间，自主开发了多款AI工具，被誉为“印度AI少年”。该学生利用课余时间学习机器学习与自然语言处理，构建出能解决本地实际问题的应用，例如智能学习助手和数据分析平台。其事迹经《印度时报》报道后引发广泛关注，被视为印度年轻一代创新潜力的缩影。报道强调，跨学科自学与实践驱动是AI人才培养的重要路径，也激励更多青年投身技术创新。"
+      "publishedAt": "2026-08-24T16:52:24Z",
+      "summary": "The Motley Fool同样聚焦英伟达财报，预测某只AI股票在其8月26日公布业绩后将出现抛物线式上涨。文章指出，英伟达作为AI芯片龙头，其财报数据不仅反映自身经营状况，也影响整个AI产业链的预期。若数据中心业务超预期，可能引发市场对AI算力相关股票的追捧。投资者需关注英伟达指引及管理层对AI需求持续性的评论，以判断后续走势。"
     },
     {
-      "title": "There are two servers with eight artificial intelligence (AI) accelerators. One uses 3 kilowatts of - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxY3R1UG5QVnJjWFZpUFFJVE5Xdk42MWZyWVM3TVJWYXF0ejN4MnJycnVBV3g0UklMNVpoRXJMRXpjTmNPX0tmeGd0Yw?oc=5",
+      "title": "How is AI being used across pension schemes’ supply chains? - Pensions Expert",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZjdjX2pBeFQyMzVKczJvQzRUQ3QtSWs2clVPZThSd3BSTlJ0QWRHbjB3QTczckgwUXpLZ19IY2lKOHE3cXlySlNIZ3lsUFZULUhDQUkwOFpWSl9LSHhXU1VuMXlJZ2psdWVEQ3JValUzTG0wb3hDOUFacjFXWUpCX2FfZDR4OUZKLU9QZFM5Qy1yMzZTRFJtUDhPa25UVVg2WkNkLUZkYUl6d1gwVjd5cFFGUnNEM1JwcTlUTW55ZVVpQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-24T08:54:21Z",
-      "summary": "据《每日经济》报道，两款搭载八个人工智能加速器的服务器引发关注：其中一款功耗高达3千瓦，另一款则在能效方面表现更优。这组对比揭示了AI算力部署中的关键权衡——高性能推理与训练需要充足电力供给，但高功耗也带来散热、成本和可持续性挑战。业内认为，随着AI模型规模扩大，低功耗专用加速器与先进冷却技术将成为数据中心设计的重点方向，以平衡算力需求与能源效率。"
+      "publishedAt": "2026-08-24T16:48:10Z",
+      "summary": "Pensions Expert探讨了AI在养老金计划供应链中的应用情况。报道称，养老金管理机构正利用AI优化供应商评估、风险管理、合规监测和投资决策等环节。通过自动化分析供应商财务健康度、ESG表现及运营风险，AI帮助养老金计划提升运营效率并降低潜在风险。不过，业界也关注数据质量、算法透明度以及监管合规等问题，确保AI应用符合受托责任。"
     },
     {
-      "title": "Robinhood CEO on AI, Ownership, and Future of Finance - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd09DNWdmb1dTRjNKcHZfbEZfNGVlZDlxMGpfVEx5UmU4d29RSm80MXV3R25uZTc2bFZaRDVualZwc1V6UDhQSnRmN1VnaDJ0bTFPXzhqZEFRNjNzNmxObGdkWEZtT1h4RVNaeWFucktsTUZOYnVWUUlXejRXX052YkxnalU2ck5HejBCRHZ5LUJYVjdxT0VJX2dMMHZJdTdpZHFGaWg2NE9fN1YtUnlIMmJMaVc?oc=5",
+      "title": "Government will be more efficient in using Artificial Intelligence (AI) and citizen services will be easier: Public Administration Advisor Md. Ismail Zabiullah - businessinbangladesh.com.bd",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNVng0OHFQU3NrLVFvZVFOcnZJQzN6b3hXMHI5d045QUpJV1c4bDFFdGQxNV8tWlB3N1QwdnZENkRia1BqWC04Q3haV1ZFWFRYN3FTSjhqa3RLQUFpUVZxQWM5UjZQeXZwaHRFZ0x6eVVmNXRvbHhYZVEwSGlRRmdBOE9jaHZBdTl2Y1BiVUhLLTYta21wZjBOM2p3V2puR01RTHZZU1lwQTZWcWNQUEExbGlldVZ1SHhmLURJSTJYRHg4V09LaTRPSjQxMG1XZW5ITXhtRFQ1d3hmNGNtRDdWSU1mbndtcEJINk1teVc1TGI4SFM4MnZOREptelZ3bVRfTWZESHYyTnBJQ25TVUF3b0VWcG5Uc1AyLXVvOA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-24T08:00:18Z",
-      "summary": "Robinhood首席执行官在接受StartupHub.ai采访时，分享了关于人工智能、用户所有权与金融未来的见解。他认为，AI将重塑投资体验，通过个性化推荐、智能风控和自动化交易帮助普通用户更高效地参与市场。同时，他主张用户应对自身数据与资产拥有更强的控制权，这与Web3和去中心化理念相契合。他展望，未来金融平台将融合AI与区块链技术，构建更加开放、透明且普惠的金融服务体系。"
+      "publishedAt": "2026-08-24T16:05:29Z",
+      "summary": "孟加拉国公共行政顾问Md. Ismail Zabiullah表示，政府将更高效地利用人工智能技术，使公民服务更加便捷。他指出，AI可用于简化行政流程、减少 bureaucracy、提升公共服务响应速度，例如自动化文件处理、智能客服和数据分析等。此举旨在推动政府数字化转型，提高治理效能，同时强调需确保技术应用符合伦理规范并保障公民隐私。"
     },
     {
-      "title": "A sketch of Chuncheon City's artificial intelligence (AI) policy has been released. The key is stren.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyM2JWWlRWelhxU1JqTkRCR25URmxKdWxuX1Y3dWI2VHQzbmt5U0xpTnV2ak50VzBVQ3hyejI1bUpXVXpEVHhYQW9yVUh0X0xpREE?oc=5",
+      "title": "SEO Metrics for Business Leaders - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ3g5bVlBQm9QWjdQUm1scUw2anN3Q3FBUmtYdnBUSXU1OHlQd01la0JJSy1EaTVPdXpsYXJvbFhLQ1pPVmM5R2hpVWcwYkFQaWN4YmdzS2Q4a0dvWDJhYUtzamtkTXhJczVHOTVxbTJpMVpMLWJYUzM1QW9EY0wyQk1lMVZKZG9aQ20tcUNHUDlpX2JRaHdyNGNwQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-24T07:26:00Z",
-      "summary": "韩国春川市公布了人工智能政策蓝图，核心方向是强化AI产业发展动能。政策拟通过支持本地AI初创企业、建设智能基础设施、推动公共数据开放及培养专业人才等措施，打造区域AI创新生态。春川市计划将AI技术应用于交通、医疗、市政服务等公共领域，提升城市治理效率。此举被视为地方政府响应国家AI战略、促进区域经济转型升级的重要举措，旨在通过政策组合拳吸引投资与人才。"
+      "publishedAt": "2026-08-24T16:04:16Z",
+      "summary": "StartupHub.ai发表文章，面向企业领导者介绍SEO（搜索引擎优化）关键指标。文章指出，管理者不应只关注排名和流量，更应重视转化率、用户 engagement、品牌搜索增长等与业务成果直接相关的指标。建议建立从搜索曝光到用户行为的完整衡量体系，利用数据驱动优化内容策略。文章还强调了技术SEO和移动端体验的重要性，帮助企业将SEO投入转化为实际营收。"
     },
     {
-      "title": "Artificial intelligence (AI) factories are the most complex systems on the planet right now. The ke.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xLWdJVG1aSXhwWGdIOXlJZ0RYUUpUeFpXTGZxcUplV0Y3THdpZ21oSW5nWVpxVU9MZXNIU3kwMzhGSkQ4NzBDZGU1SQ?oc=5",
+      "title": "Nine indicted over AI server exports - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xVTZTdGRqaFlQUDlOdHlqNDctaE1xV3ZCV3lpMzk3cXFJcGpMYXdNSjZiS043UGVlZjVreTM3TlloMUVZOTFWWjFCcGF6X3M2RGdYeG85dTd2VW80dVFNelp2VjFzNUNGX0VHSERZR0NEVGtLNlU2NA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-24T07:00:25Z",
-      "summary": "文章指出，人工智能工厂（AI工厂）是当前地球上最复杂的系统之一，其关键在于如何高效管理海量算力、数据流与模型训练流程。这类工厂融合了高性能计算集群、高速网络、专用芯片和智能调度软件，需要应对能耗、散热、故障恢复等多重挑战。报道认为，AI工厂的建设和运营水平直接决定国家与企业的AI竞争力，未来将围绕自动化运维、弹性扩展和绿色计算等方向持续演进。"
+      "publishedAt": "2026-08-24T16:00:00Z",
+      "summary": "据Taipei Times报道，九人因涉嫌违规出口AI服务器而遭起诉。该案件涉及向受管制地区或实体输出高性能AI服务器，可能违反出口管制法规。报道未公布详细信息，但暗示此类设备可能被用于军事或敏感用途。此案显示各国对AI算力出口的监管日益严格，企业需确保合规，避免因技术转移引发法律风险。"
     },
     {
-      "title": "Hugging Face exploring sale valuing it at US$13 billion, Business Insider says - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGdVU1BxNjZleVY0MW9tb1BVWlQ4a2VLWG5vVFIwVVFJTHFSWHR1ai1zM3NpUC1QWk45UkhTU2Jpa0JkdTl5RklvN3VQd095VlJSN05VS1Yyc0tfWGZtanZCbXBTSDJ4eExTU1BiblFCYUFxV0xTdmVSSldUUlFqaHBKSlJ5YXFOMGZhaTJaR0tFMmwycEFyWVptdTltdTVleWFDWU1XQ3IzOUVORDNWMXNRSXFnZ1hBNWplMDVBVFZKWVViR3h1N004c2djUQ?oc=5",
+      "title": "XPENG IRON humanoid robot draws record physical AI funding - AI News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDlPcVpnVmxUdnFTaHFDTEVlT0Y0Y3huZGRzY0xubWlWTFZfRTZMY0JmN0xWTzdSNDRPa2Y0aDh6bXpsTDlYS0tyb1otOHJrSDJlTDlONld4TDg3VVhSeEVyeTl4Y3BySHBOVUI5ajVhejNZWmI3MDk0YVBwWnFwNnR3dlNNM1BNdVUtdjhBNkk2RjZsS051WlYtNVJGVDZoSUt0ZWJ5QmVncEpm?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-24T06:32:43Z",
-      "summary": "据Business Insider报道，AI模型托管平台Hugging Face正在探索出售事宜，潜在估值或达130亿美元。该公司凭借开源社区和模型仓库成为AI开发者生态的重要枢纽，拥有大量模型、数据集和工具。若交易达成，将成为AI领域又一重大并购案。分析人士称，Hugging Face的高估值反映了市场对AI基础设施和开源生态价值的认可，但最终交易能否落地仍存在不确定性。"
+      "publishedAt": "2026-08-24T15:58:53Z",
+      "summary": "AI News报道称，小鹏汽车旗下人形机器人“IRON”获得了创纪录的物理AI领域融资。该机器人展示出小鹏在具身智能和自动驾驶技术之外的布局，其研发依托公司在AI、传感器和执行器方面的积累。这笔资金将用于加速机器人量产和场景落地。此举标志著物理AI（physical AI）成为投资热点，人形机器人赛道竞争日趋激烈。"
     },
     {
-      "title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24T15:24:18Z",
+      "summary": "人工智能初创公司General Intuition正以60亿美元投前估值进行新一轮融资，新投资者包括Valor Ventures、Point72 Ventures和Seven Seven Six。该公司专注于构建基础模型，用于训练通用AI代理在空间和时间维度中进行运动与交互，目标是将AI从数字世界拓展至物理世界。本轮融资的推进标志着资本对具身智能和空间智能方向的强烈兴趣，也反映出AI技术正加速向机器人等实体应用领域渗透。"
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24T15:00:00Z",
+      "summary": "OpenAI正在大力开发生成式AI代理，试图将其应用于从软件工程到日常生活的各类任务。文章探讨了这一前沿实验室将AI代理从面向专业开发者逐步推向大众消费者的战略布局。尽管AI代理展现出强大的自动化潜力，但其是否会被广泛接受仍存在不确定性，涉及可靠性、用户信任、使用成本以及伦理问题。OpenAI的举措可能重新定义人机交互方式，但普及之路依然面临挑战。"
+    },
+    {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-24T13:47:26Z",
+      "summary": "据报道，人工智能平台Hugging Face已收到潜在收购要约，估值约为130亿美元。该公司以其开放的开源模型库和社区生态系统而闻名，在AI开发者中拥有极高影响力。然而，创始人对社区责任的强烈认同使这笔潜在交易充满变数，外界对其是否最终出售存疑。若交易达成，或将对开源AI生态产生深远影响；若拒绝，则体现其维护社区价值的坚定立场。"
+    },
+    {
+      "title": "Tonight's Operation Education: Local school district embracing Artificial Intelligence - WSBT",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPd09LdURrbGdfdHktQ1lZSWhCWFBTS1MtOGkxMGlwU1JaanhUczJSNE53dmVTUGtZODg0Ti12S2JJcW9BTDFiQ2F6WkxueENfMWQ5ZG1GYUtrLTdsdUZOcF92T3ZyblVjTE1RbWprM0E5Y21NbnRpRV83c0VFdk9nelFJS21WcGZRQy11M1FmclJSWF9nNDhTM0xmSnhyR0QwOGlqcmRrdlVfTndwYTdxcmgwc3NjckZOTjdTd1cyTGZQWFZiV3cwVmdMVjdkcTh4Q3dmUnNvRm1fYUx5OHFwQTJCOS1OVnptaE5zc0theW1qVC1wRHl5d0RYdHVXOW5sQ2xGSUgyU1luMnhJTkJ0VS1KcVYyTmxmWGtHRG9hWVRGay1XLWQzbEFYQUt2YlRPVVZCU3RhNS0yeXFISVM1aERJSHZ4QWxFX2R4bkxlZFVZM1NRVWUwYS0xZTNyUQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-24T06:25:00Z",
-      "summary": "台湾地区检方近日对涉嫌非法向中国大陆出口AI服务器提起公诉。据路透社报道，该案涉及违反相关出口管制规定，将高性能AI服务器设备运往中国大陆。此举引发对技术流向及合规风险的关注，凸显AI硬件出口监管的敏感性。目前具体细节尚待披露，但案件显示相关部门正加强对关键技术的管控力度。"
+      "publishedAt": "2026-08-24T12:43:27Z",
+      "summary": "美国本地一学区正积极拥抱人工智能技术，并将其纳入教学与管理体系。该学区通过引入AI工具辅助教学、个性化学习以及行政事务处理，旨在提升教育效率与学生参与度。尽管AI在教育领域的应用仍处于探索阶段，但这一实践展示了教育机构对技术变革的开放态度。相关举措也可能为其他学区提供参考，但需关注数据隐私、算法公平及教师角色转变等问题。"
+    },
+    {
+      "title": "The Right Way To Use AI At Every Stage Of Your Career - - Black Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGFDcko3cERXM2k1ZUJhTGg4SUNBTGFaT05RY3N1cTgwc1dTMEZEaWdRa0R6OWUyZmRxVFpna0I2SXcySE1RLW9nRnlMVUtDLXIyb1cyM1pmd2c3cTRMY2tHWlc3QllKUVRGLXZDOUMtYUp4OXUzbGZMZ3JmYmdNU0hVR3l3LWM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-24T12:25:12Z",
+      "summary": "文章探讨了职场人士在职业生涯不同阶段如何正确利用人工智能。从初入职场到高级管理，AI工具可以分别在效率提升、技能学习、决策辅助和战略规划等方面发挥作用。关键在于根据个人发展目标选择合适的AI应用，并保持批判性思维与人类判断力。合理借助AI不仅能提高生产力，还能增强职业竞争力，但需注意避免过度依赖及潜在的伦理风险。"
     }
   ]
 }
