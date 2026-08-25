@@ -1,6 +1,177 @@
 {
   "articles": [
     {
+      "id": "4050",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25T17:50:33Z",
+      "summary": "Anthropic为其AI助手Claude推出了一项新功能，在聊天和Cowork工作区之间实现共享记忆。此前用户在使用Cowork时需要反复向AI说明项目背景、个人偏好等上下文信息，体验较为繁琐。更新后，Claude能够在不同场景中记住用户提供的信息，并自动应用到相关任务中，减少了重复沟通成本。这一改进使Claude的协作能力更加连贯和个性化，尤其对频繁使用Cowork进行复杂项目处理的用户来说，效率提升显著，也体现了Anthropic在优化AI交互体验上的持续投入。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4051",
+      "title": "3 Top Artificial Intelligence (AI) Stocks to Buy Before 2027 Arrives - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFN2SnUzd0c2Y09TS250Ry1aR1BSUGJJQjVlelVQOS1nak9UUHJoMHBnN3QzVnJZa0Qwb3VCNS1CVGthOG5FMWhuMGZIYmpETVpRdU5pYjJkVW1lNUJxUnVuaE5DZWV4V0M5XzctU0RicFkzWHdJMWZIZHR0QzZ5TWJ1Q0JqaDZjUmtDRGVQYjVkajZwOGtPSEYzTEM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T17:37:00Z",
+      "summary": "雅虎财经发布文章，推荐了三只值得在2027年前买入的人工智能股票。文章指出，人工智能行业持续高速增长，相关企业受益于算力需求、大模型应用和企业数字化转型等趋势。虽然具体标的未在摘要中列出，但通常这类推荐会综合考量公司的技术壁垒、市场份额、财务表现和增长潜力。对于希望布局AI赛道的投资者而言，选择具有核心竞争力和清晰商业化路径的龙头企业是关键。文章强调长期投资视角，而非追逐短期热点，建议投资者在2027年到来前审慎配置相关资产。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4052",
+      "title": "Anthropic Grants $5M for AI Wellbeing Research - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSE82ZjhRTzJ2Y19WMEloSDBiekhLV2JsaUpsalAzU3Bta1RadmRjdVlGTE5QOHhyR3hadDM0NTJDMmFqNi0zcjhaT3hsM1hndVRjSzZoTU1lbmtrQzM5ZGVwODFocFh3X3FUQmhtaXpGM0pXYTB6dFdoa1Qxd1R5Y19wZGVNd0lWWDdoSnYxVTFxZmZjUkhhaTR6Ny1PV3N6Ums0TkZuT2dXWnVv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T17:05:41Z",
+      "summary": "Anthropic宣布拨款500万美元，用于支持人工智能福祉研究。这项资助旨在探索AI技术对人类福祉的影响，涵盖心理健康、社会互动、工作方式等维度。Anthropic表示，随着AI能力不断增强，确保其发展能够促进而非损害人类福祉至关重要。资助对象可能包括学术机构、非营利组织等研究团队，研究方向可能涉及AI伦理、算法公平性、用户体验等。此举反映了Anthropic对负责任AI发展的承诺，也表明领先AI企业在追求技术突破的同时，越来越重视社会影响和伦理治理。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4053",
+      "title": "Why the threat from the rampaging AI machine went ignored | Letters - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3gydlVRbUt4UjhSX3JKc25hSzdBY3JSd0pTeGdxak81cjZGci1lMk5uekNGLVJNZmNyMURWMEt4S20wMWhlQ00yQ2JBSlZDOUNqQ2RDaE9JTFdHQVdUWWdMVko5SDJLRXN5amFTYkRvYUlUSEJnRlpVYXJYQ3dJZ3dHc2MtYk9mbnlBX1FFSXN5cVNRaExYQzBVeW1kakNJeFFod3FYbWVTQWU2?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T16:55:00Z",
+      "summary": "《卫报》刊登读者来信，讨论了AI技术快速发展带来的威胁为何被公众和政策制定者忽视。信件指出，尽管AI在效率和能力上带来巨大进步，但其潜在风险，如大规模失业、信息操纵、隐私侵蚀和权力集中等，尚未得到足够重视。读者认为，媒体和科技公司往往强调AI的积极面，而对其负面影响轻描淡写，导致社会缺乏充分的风险评估和监管准备。信件呼吁加强公众教育、建立更严格的监管框架，并推动科技行业自律，以应对AI可能带来的系统性挑战。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4054",
+      "title": "Stowers Institute expands Artificial Intelligence Initiative, appoints second AI Fellow - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX3gxNnExUmF0LUhpaG9WMnE4M3cydDFSWHV6T1JnNkgwS3Yxbk5Jck4ySHl0U1pnMlVaVTVzQjhnakFHSFdCSndvMHZad3cyVGY4RV9jSG9RdkVuRW9lMkdRMjFpM1lXMEU0U3BSZEthSGE5T2d2dHE3dlU1dEpEcHItZWxpVWJHMWl1a2lkN1lvbzVKbjBoOHpNeGJ6NHdtakliSmZGSVRaaXQwbEQ4M1J1bzFoMElQM083U1dEWC02ekpnS21oNm9tSENwUGFiS2hDejFnSkJ6Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T16:38:00Z",
+      "summary": "斯托尔斯研究所（Stowers Institute）宣布扩大其人工智能计划，并任命了第二位AI研究员。该计划旨在将AI技术应用于生物医学研究，加速科学发现。新任命的研究员将专注于开发适用于生命科学的机器学习模型，并与其他研究者合作，利用AI分析复杂生物数据。此举表明该研究所正加大在AI领域的投入，希望借助人工智能提升对基因调控、细胞功能等基础生物学问题的理解。通过吸纳更多AI专家，研究所意图促进跨学科协作，推动数据驱动的科研范式转型。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4055",
+      "title": "Carl Sagan estate sues AI company over audio clip in ad - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWNGM0xSREM1MEtRWmZraXZxVDhWQ2RLZk9XTHVDYWxjYWVwanZ2M3Q1ZTd2YVNodWs5MjZmNkZEaDlpTVVibmNSRzdmMWFuWDNUcS1neXoza1BzTk1nT1p5SkVJWmxWLXdTN0FxY2M2OTlaX2toX0V5YjY3eERrR2pnY3c2OXlQZ0FEOExlSXFUcF9fWXl4ajJ6ZHkwYzg5cWNMODZaelNTNWxm?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T16:27:43Z",
+      "summary": "著名天文学家卡尔·萨根的遗产管理方对一家人工智能公司提起诉讼，理由是该公司在一则广告中未经许可使用了萨根的声音片段。诉讼认为，该AI公司利用技术复制或模拟萨根的声音，侵犯了其肖像权和声音权。此类案件反映了AI生成内容（尤其是深度伪造技术）带来的法律和道德问题。声音和形象属于个人身份的重要部分，未经授权使用不仅伤害遗产权益，也可能误导公众。此案可能为AI声音使用确立新的法律先例，提醒相关企业必须获得明确授权才能使用真实人物的声音。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4056",
+      "title": "Databricks Simplifies SQL ETL in Lakehouse - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVota0xGamJGUkNPR1pwZjJIZlpNWnlNcEFGR1RSX0cyLUZFLUFrWE5qcGZ2NmdWd1cwX0FOTVVrUUZNaFozR01zMFdZdmxqTUwwQndFVVdBZlJCbkNkcVpJVTFsc2p4QWIzak1OS0JMQWNhSlNyVUI5OUQwaV96c0ZxWndRLWJtZFh3LVgxUXRmTHZRbzB6aGtZUklyUjZISFdwRllrSjM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T16:15:48Z",
+      "summary": "Databricks宣布简化了Lakehouse平台中的SQL ETL（提取、转换、加载）流程。这一更新旨在降低数据工程师和数据分析师的工作复杂度，使他们能够更高效地构建和管理数据管道。通过优化SQL语法和集成能力，用户无需编写大量代码即可完成数据从源端到目标端的加工。Databricks的Lakehouse架构融合了数据湖和数据仓库的优势，此次简化有望吸引更多企业采用其平台，加速数据分析和人工智能工作负载的落地。新功能预计将提升数据处理的灵活性，并减少对专用ETL工具的依赖。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4057",
+      "title": "AI workshop series at UNC-Chapel Hill aimed at helping students, professionals build skills - ABC11 News",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUGFmbWJzNFdmWVlhYzVyX1M3T1NUbzd0bTBPN3Y2akEydk9hQWhONFEwaG9pQzJSZEE4VWJnMldYcmUzSTh3QTFnS092QVhhdHp0T25peGdQN3cxN2hMNjV3Z2QyVGZZcVpubmlvWXFMeTJZZzNhSEJyZ1d0WG44VWQ3TENqeWVBQXotUXpGb01QQlNRTXRvRHI3cHNrOU1KVklPYVROZ3I5VUFaaHh5Y1VPS0RHaUdlcUV5ZGVZVDI0MG5RNWdSNTByT3YxVDNsNXNncUVCdmRyMmFMSGRoSll0dWlLYzY3Mnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T16:14:17Z",
+      "summary": "北卡罗来纳大学教堂山分校（UNC-Chapel Hill）推出了一系列人工智能工作坊，旨在帮助学生和专业人士提升AI相关技能。工作坊将涵盖机器学习基础、生成式AI应用、数据科学工具等热门主题，采用实践操作与理论讲解相结合的方式。课程设计兼顾不同基础的学习者，既适合初学者入门，也为进阶者提供深化机会。校方表示，此举是为了应对就业市场对AI人才日益增长的需求，帮助参与者在学术和职业发展中保持竞争力。该系列工作坊也体现了高校在推动AI素养普及方面的积极作用。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4058",
+      "title": "AI and Math: Leading Indicators or Games? - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXFVVDdmSHlNNzdlUVNYbTdjWElUaElyaU51bF9WYmVuMUNFbHRBcmM4clFtaXluVURKSk1Qa1VNRzZYQ0NuR2VGekJCWFZPXzE2RFRhMXNsZEpnMzJRcVNpVGZxN3RDb0phY1JHbUZybFlENWR4aXVIR3F0RmY1WG5CX1ozWkc5R1JRdjNXNkphQ1hwNFVSSm9yaDhDc1UwX2NtaQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T16:05:08Z",
+      "summary": "这篇文章探讨了AI与数学的关系，提出了一个有趣的问题：AI究竟是指标（Leading Indicators）还是游戏（Games）？文章可能讨论AI在数学研究中的应用，例如机器学习辅助定理证明、模式识别等，同时也可能审视AI模型在逻辑推理和数学能力上的局限。有人认为AI可以作为未来数学发现的预测工具，而另一些观点则认为AI处理数学问题更像是在玩一种优化游戏，缺乏真正的理解。文章或许旨在引发对AI智能本质的反思，以及在数学教育中如何正确使用AI工具。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4059",
+      "title": "OpenAI Unveils Jalapeño Chip - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORkZ1bVRxVGFiaGJkMjBDam0wUnJHRHdwNWYyZDBuUk5xZTA5VndsOE1TMlJ1bjh3ZFJMRGExZlFIUDFhYjFZMGZlR09SWUkybXpUV2d2eG90ZjJ6aUt6eWY3ZWtTM2l2QmhDTjdvSWlWNHpYMjJqQkRGaFBZREJhcFdFNnY2WjBORHlORXp2VTNOMjVQNmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T16:04:01Z",
+      "summary": "OpenAI发布了一款名为“Jalapeño Chip”的新产品。虽然名称颇具趣味，但根据行业背景，这很可能是指OpenAI推出的新款AI芯片或硬件加速器，旨在提升AI模型训练和推理的效率。Jalapeño的命名可能暗示该芯片在性能上具备“辛辣”的高算力表现。该产品有望帮助OpenAI降低对第三方GPU供应商的依赖，并优化大模型部署成本。不过具体技术规格和发布时间尚未详细披露，市场对OpenAI进军硬件领域的举措普遍关注，认为这可能重塑AI算力生态格局。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4060",
+      "title": "OpenAI's Jalapeño Chip Boosts AI Inference - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWmQwQmNxZ285cWMxaVoxaklwVHEyQjI1QUJaaDd1c3pWTTVFeXRZbWZNaUsxVnFjWC1YZWRBZ0hLaGtIYThhUTN3NS1RbHBpWTBLUVE0azBpaGNsalpYNjhWM3JVLVBQNVFfZEM4ZzFHVGF6ZlNTNU12MFk2QUhTOUw0OHBvaVp0bUt4QnlBRV9KUFc5ZmZSUk9CVGcxM1FYWmluLTQwR18?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T16:03:33Z",
+      "summary": "OpenAI推出了名为Jalapeño的AI推理芯片，据称可显著提升AI推理性能。该芯片针对大规模推理任务进行了优化，在SemiAnalysis的InferenceX基准测试中，Jalapeño在每用户token生成量和每千瓦功耗吞吐量方面均优于当前最先进的芯片。这标志着OpenAI在自研硬件领域迈出重要一步，旨在降低推理成本并提高效率，为未来更大规模的AI应用提供算力支撑。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4061",
+      "title": "MIT AI forecasts extreme weather without historical data - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVlZPUjNXZHVvaC1OdlZ4R0JPQ05OY2lvcHRuM3QxWXhISjNiVWN3dXJ5bjhfcjh4RFkyUXlGYWJ6b2I0WUxnOHBNYnJrZHM1UDNOZEs2S0hEOFR3QnpjbVpiWUtob1NvZWlYeGJiM1Z5ZzgyTDRvUmN5TVNiS1ltdnc3d0p5dXp0MGVvSnphY3NtVDFJSW1vM28ydFRzX1lSekpKX2RKa0M5dw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T15:50:17Z",
+      "summary": "MIT研究团队开发出一种新型AI系统，能够在没有历史数据的情况下预测极端天气事件。传统天气预报依赖大量历史气象数据训练模型，而新方法通过物理规律与机器学习相结合，使AI能直接识别大气异常模式。这一突破有望大幅提升对罕见灾害性天气的预警能力，尤其适用于数据稀缺地区，为气候变化应对和灾害防范提供更可靠的技术手段。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4062",
+      "title": "T-Mobile says open AI models aren’t just about cost — they’re about fit - Fierce Network",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMEVKbWJ5eDZ1VkVmemJlRlkxay1URDltd3lzbVU2cENVLTZkLXNWbFJQLUhtdHJOSUtHcEtNX0hFNWFRRFpuUC1jWmNQOWU0MDdZZ1liZlBKc2Q4U25pY2RlbnltRFVrbHlZN0Yzb21hd0JZbHJQdkxpc2lBLWpRV3R5NDVoZThldDJ5a3pXdnB4dXJCN3haRTFhT0hOWGxCcWhtdzVUTlJYVms?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T15:19:54Z",
+      "summary": "T-Mobile高管表示，采用开放AI模型不仅是为了降低成本，更重要的是为了获得更高的适配性。开放模型允许运营商根据自身网络需求和业务场景进行定制和微调，从而更灵活地集成到现有系统中。相比之下，封闭模型虽然开箱即用，但难以针对电信行业特有数据进行优化。T-Mobile认为，开放生态能带来更深层次的创新和更精准的行业解决方案。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4063",
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25T15:00:00Z",
+      "summary": "AI初创公司Gamma宣布收购由Accel支持的 design创业公司Lica。Lica的联合创始人将加入Gamma新成立的研究团队。此次收购旨在整合Lica的设计技术和人才资源，增强Gamma在AI产品界面与用户体验方面的研发能力。交易细节未披露，但此举反映出AI行业对设计驱动创新和头部人才争夺的加剧。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4064",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25T14:22:04Z",
+      "summary": "OpenAI的Jalapeño芯片在TechCrunch的报道中展现出强大的大规模推理能力。根据SemiAnalysis的InferenceX基准测试结果，Jalapeño不仅在每个用户生成的token数量上领先，还在每千瓦功耗下的吞吐量上超过当前市场最先进芯片。这意味着该芯片既能提供更高性能，又具备出色的能效比，有助于OpenAI降低运营成本并扩展AI服务的用户规模。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4065",
+      "title": "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNTgxRFl5SHpxWUJoMGp5emZhWDRGWG9lY2NDdjlaWjZSam10dGJfXy1vdzMwMGdDLUxWREV0WGxhYVJJQ3BnclhhUm4wc0F1RG4wa3JsS3dyampDaldsOGo2MG1rellaclQyLXhuT1pubDhGOFJQbkw0MjFhU2F1Z2Jqam1OVFQ0N0dhMUN0ZEZDV1laSWluUXZhUkZqSmxDdGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T13:35:01Z",
+      "summary": "华尔街分析师认为，两只人工智能相关股票具备巨大上涨空间，潜在涨幅分别可达66%和46%。尽管报道未指明具体公司名称，但市场推断这可能涉及AI基础设施、软件或应用领域的重要企业。分析师的乐观预期基于AI行业持续增长、企业数字化转型加速以及盈利前景改善。投资者需注意市场波动和个股风险，但AI赛道整体仍被长期看好。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4066",
+      "title": "Focus On AI Summit 2026: Artificial Intelligence for Societal Impact - CNBC Africa",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGZNTFMtSjZFYjFLOUgxTTZIVVdGNDVfbHVTOWZNSDduNVdxV2duRkZXY3ZuRDFqSkdYRFIyM0t4alF0cERaeU41QU5DYUJ3SzdNSDhqRFhBY1U4VUdxNlJrWWtjLXlfcEVGZm9WOFZ6R0hyQlo5WG8yNDFOaDhPWlN5dHpfX3V4WG92RVFvbW92WnpNTi1LLVJka21WSkMwQnJYZTV0TERDOVB0Z1ZzV1lB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T13:32:55Z",
+      "summary": "CNBC Africa预告了“2026年AI聚焦峰会”，主题为“人工智能的社会影响”。本次峰会预计将邀请行业领袖、政策制定者和学术界人士，探讨AI在医疗、教育、气候和公共治理等领域的实际应用与挑战。会议强调AI技术应服务于社会福祉，关注伦理、公平性和包容性。峰会旨在促进跨部门合作，推动负责任的AI发展路径，并展示非洲及全球AI创新实践。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4067",
+      "title": "AI's Future: Cheaper Tokens, Longer Tasks - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFNJWG5WNFVJMzdrWE9ZRzZOcG5GcGx6REt4clNDbVlmVlc1M2xPMk1CNFZrNHZrZlBfVTYyNmFNbDAyMV82MTB2eGR3UDBRVHVULWw5Y2pMT1lyMlZTa1BldFU2cjYya1R0cWJzTWRid19vSEcxSjRmUHU1YndGY05CalNuM3N5ZVh4VGlsZTI4enJMRFBQbGdicFp4dGZLdWtSWg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T13:23:02Z",
+      "summary": "AI行业未来发展趋势显示出两个关键方向：更低的token成本和更长的任务执行时间。随着大模型推理优化和硬件效率提升，token生成成本持续下降，使企业和开发者能以更低价格使用高质量AI服务。与此同时，AI系统被设计为能处理更复杂的长期任务，从简单对话转向多步骤自动化工作流。这一演进将推动AI从辅助工具变为自主智能体，重塑软件交互模式。",
+      "fetchDate": "2026-08-25"
+    },
+    {
+      "id": "4068",
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25T13:00:00Z",
+      "summary": "由Accel支持的初创公司Keenable已结束隐身模式，正式推出为AI智能体服务的大规模网页搜索索引。该公司获得了2600万美元的种子轮融资，致力于构建面向AI代理的广泛网络索引，使其能高效检索和理解网页信息。Keenable瞄准AI代理对实时、结构化数据的需求，旨在为智能体提供比传统搜索引擎更适用的基础设施，推动AI自主完成任务的能力。",
+      "fetchDate": "2026-08-25"
+    },
+    {
       "id": "4037",
       "title": "This Hedge Fund Just Sold Nvidia and Bought AMD Stock. Which Artificial Intelligence (AI) Chipmaker Is the Better Buy? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0k3YXBLVHN1NzB6aVlXUW42UXRfZ2hsTGg5VDZ5SWpoeDl1a19mOVVwS0I4c3QySEoyOWxsZDlrX0I5NkxlTlBVckNUaVlIUEN1MXdlWkJ6TkFWWjNEWDZDU2FDWW0yMUp2dGJkcThBSjdhS0QzRDZSeFBSenFyNU04dUdfOXNJZG9NUmVHNVFOcXAxS0JNMg?oc=5",
@@ -36433,5 +36604,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4048
+  "total": 4067
 }
