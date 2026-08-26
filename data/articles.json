@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "4069",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-26T00:06:20Z",
+      "summary": "OpenAI再次遭遇高管流失，其数据中心一位顶级高管离职，成为该公司一系列知名人事变动中的最新一例。在此之前，OpenAI已对基础设施部门进行重组，将相关汇报线从总裁格雷格·布罗克曼（Greg Brockman）名下调整，改由副总裁萨钦·卡蒂（Sachin Katti）负责该团队。此次离职进一步引发外界对OpenAI管理层稳定性及AI基础设施战略执行连续性的关注，也凸显了快速增长时期关键技术人才流动带来的挑战。",
+      "fetchDate": "2026-08-26"
+    },
+    {
+      "id": "4070",
+      "title": "Artificial intelligence (AI) startup Antropics is expected to offer investors a market size of more - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LejBiN3FEM1RKWmRfRzNXS1ZiSHBiSFJyaWt3bFN3eGx1d05XeklDbWY2SHZtZWhITmZoZmF4cnRfYnl5SFEzeDV2Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T23:39:02Z",
+      "summary": "据《每日经济》报道，人工智能初创公司Anthropics预计将为投资者带来更大的市场规模。Anthropics是Anthropic的媒体误拼，后者是AI领域备受关注的企业，旗下拥有Claude系列大模型。报道指出，该公司正展现强劲的市场扩张潜力，有望吸引可观投资。随着AI竞赛持续升温，Anthropics在模型能力、商业化落地以及企业服务方面的进展，使其成为投资人重点关注的标的，并预期其估值和业务规模将进一步扩大。",
+      "fetchDate": "2026-08-26"
+    },
+    {
+      "id": "4071",
+      "title": "Who gains in an AI-supercharged economy? - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXdNenNWZnZQMHJYR1E1ajV6aG05M2VYUmw3bGhXbm4xc2d6WDZsZ29zX05PWThKV3RKdnVrelBPRFVfWURxQ2RWZmZWbUhtbGJqYkl4TlExMTlWUS1nOHhWZktnRWdFNXF1ZWtiS0pmN2F1bVYtYkNEN29yTlk4WXU3TEx5LW83VTJzMldVeU9iQmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T23:05:29Z",
+      "summary": "《日本时报》发文探讨AI驱动经济中的受益者问题。文章指出，人工智能正在重塑产业格局，但技术红利并非平均分配。掌握核心技术与算力资源的大型科技企业、具备AI应用能力的高技能劳动力，以及能够快速实现数字化转型的行业，可能获得更大收益。与此同时，传统岗位和缺乏数字基础设施的地区面临被边缘化的风险。文章呼吁政策制定者关注收入分配、技能培训与社会保障，确保AI带来的经济增长能够更广泛地惠及各个群体。",
+      "fetchDate": "2026-08-26"
+    },
+    {
+      "id": "4072",
+      "title": "OpenAI's ChatGPT Admin Plugin Streamlines Workspace Management - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa202YnNSbjREOTh4UmJkNHNBcUR4TEViTzRDb01VTkN4YjlZQnJDcllSQWVrZzlrLTExN3cwSUhhcThSOWlSQW1xTzBVZzBpM284VFBTWlhMdEQ5Zzc2SU9lOUlwTnpfNGxzYnlvUFF6b0JnTWxqejYzaDlldU96Z29PeG1xWXRoUVlyZm5KbnhaOFVNeGRFUWNkYzNBRnJKbmJpMDVYQUM4aGFjY1VOUjNIc3ZGQlVuMzUzUzBzeWxlc1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T21:05:02Z",
+      "summary": "OpenAI推出ChatGPT Admin Plugin，旨在简化企业工作区的管理流程。该插件允许管理员通过ChatGPT界面集中配置权限、监控使用情况、管理成员和设置策略，减少在多个管理后台之间切换的繁琐操作。它借助自然语言处理能力，让管理员可以用对话式指令执行常见管理任务，从而降低企业管理AI工具的门槛，提升运营效率。此举被视为OpenAI吸引企业客户、深化B端布局的重要举措，同时也有助于组织更安全、有序地部署ChatGPT。",
+      "fetchDate": "2026-08-26"
+    },
+    {
+      "id": "4073",
+      "title": "Perplexity’s on-device AI offering promises data control and lower token costs - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUFWSDJGLWpnWVE5cEJNY1BSNnRjVXVodkgwZmxlb3RqNkliVl81S0ZRcGhfaGhSelBySzd1dnBKVzdCa0pGUGhXa0o4b0VfbWxZQlFhRkJoZlN2UnR3VkdEOFlwQVoxVUc1b1lTZUFPOGhobzNmRVM5SzZHRmdZQk4yUGRJYnEtVzdwaXpIeVcwbVk5Mi1KdWtta1ZsUW1tSDNpdTdaVnFXMlNnckU4YmtNejhYNlJpejE4STRXUERBNTFYU0lr?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T20:44:14Z",
+      "summary": "Perplexity推出端侧AI方案，主打数据可控性和更低token成本。该方案允许用户在本地设备上运行部分AI推理，减少将敏感数据发送到云端的需求，从而增强隐私保护和合规性。同时，端侧处理减少了远程API调用次数，有助于降低token消耗和相关费用。Perplexity希望通过这种混合架构平衡模型性能与成本，满足企业对数据主权的诉求，并为用户在效率与性价比之间提供更灵活的选择，进一步拓展其在企业级AI市场的竞争力。",
+      "fetchDate": "2026-08-26"
+    },
+    {
+      "id": "4074",
+      "title": "AI-led startups face takeoff hiccups as overreliance poses challenges - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaXd4dGVmdXM1dGZkcDdKQWJRalJjNjRwTkNLdy15bXFTUEhNZ0hkTEt5dHAxVG1VNl9KTkdFSkQzS0U5eHhSQlRURXQ0SWZWVWJSZTBIUHBEbkhVRzBBcnliVHlmX1U1NjQ4ZDVIS2xjTWV6Z0dneEFlVUhqaFdZTkx0dENTQ3F1aTl6cDYxMDVCamJIY2lUUlJDenJkVXJ3eFRTZ21nbmZqZGEwdFJXZzN1RTNiVXF3OG5MNUlUeS0tc3hRRnhIUTduQU9lUHJOU0dhd3cxMW5GbTA3NWlKdkRMVFd5b3M1MEpMRmhsTdIB9AFBVV95cUxPb2lPaGpTZXZ4alkzcXB5Y2VpSkFGQWRTUGp6U1UzZ3BwSkY5cDlYTXdpejN3UzE3MVA0WDBwTkdlY3B2UU90SGhRZ3QwY2RGby1ETFR6NmxQa1VnNmh3WHJ0Qy1TOTV0MktVTzc1d1RwOXV1MTlxaS1EbTFqLXFnYkN2cFc2dFJKQzRYXzVkZWdvT0dFMmtkeEsxY2dITXVCYU1SVHBCdl8xU3ozOVRMTjVhYW5ialMtQlFHVnhQVVU2aUZhYzVHSWxDOElXdmtIc25ycEh3OFc2aGg3LVNCZ25QRHI5QlBBR2FsSWdZXzZrU1FN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T19:09:02Z",
+      "summary": "Business Standard的分析指出，AI主导的初创企业在起飞阶段遭遇坎坷，过度依赖AI带来诸多挑战。报道称，许多初创公司大量使用AI自动化研发、营销和运营，但若缺乏对结果的有效监控与人类判断，容易出现内容质量下降、高成本开销和合规风险。此外，过度依赖单一AI供应商也增加了业务脆弱性。文章建议初创企业应理性评估AI能力边界，建立人机协作机制，避免将核心业务完全交给模型，从而更稳健地实现增长。",
+      "fetchDate": "2026-08-26"
+    },
+    {
+      "id": "4075",
+      "title": "Nvidia Earnings Preview, Apple's AI Macs & OpenAI's Chip Ambitions - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV3pENmFZYXVSSlpSSThTOWM4eFk1WG9SaXlKLXY2c3ZIN3lUVXRrWDl5LUlFdDk4NmszLVVpcVVIU0UtMWpUZkItM2ItRDBXSnpuT2l2SXp2eXVfX25Pa2FyM2t5X0p5Q0l4MWRhRUZYMVlXUElhbFphNkMzY0FFcG9Pa2FHdGxZc0p3bm43X3V6UGVHbENfYlA1OEVmZ29pZnhEVTNJczg3UXJWUnVKZ2U5ZFA0SVlmaFJfYS1jQTF3ZDVD?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T19:08:30Z",
+      "summary": "本期StartupHub.ai聚焦AI硬件与芯片领域三大看点：Nvidia即将发布的最新财报备受关注，市场期待其业绩能延续AI算力需求带来的强劲增长；Apple加速推进AI Mac产品线，通过端侧神经网络引擎和优化模型强化设备端AI体验；OpenAI则展露其自研芯片雄心，以减少对Nvidia等外部供应商的依赖并降低推理成本。这些动向共同反映出AI基础设施竞争正从模型层扩展到硬件层，各大玩家正积极构建全栈AI生态。",
+      "fetchDate": "2026-08-26"
+    },
+    {
+      "id": "4076",
+      "title": "Amazon SVP Coded 100K Lines with AI - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEJPYnJIS1hVNThreUg4NDJhLXNQZzZycWdKQTZ6MUIwMTdRem5OdXhLS3NxdU9GZjFQdE5vcExEQTAtOEVqeFBZc0lDMHBlcHRQRGd2ZmlSVFpxa19zSjVUVTBhUGcxVWw4SFNTeUdhZWNab2xMeVVFaGp3akFiVU9FZVNXR29pYkhkUFp6TkRjTDJZQ0oxSThEamJGdmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-25T19:03:47Z",
+      "summary": "据报道，亚马逊一位高级副总裁（SVP）使用AI工具编写了10万行代码，展示了AI辅助编程在大型科技企业中的巨大潜力。这一案例体现了生成式AI在代码生成、重构和调试方面的实际生产力提升，能够大幅缩短开发周期并减少重复劳动。不过，如此大规模的AI生成代码也引发对代码质量、安全审查和维护成本的讨论。该事件同时表明，像亚马逊这样的科技巨头正日益将AI融入内部研发流程，推动软件开发模式的深刻变革。",
+      "fetchDate": "2026-08-26"
+    },
+    {
+      "id": "4077",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25T19:03:47Z",
+      "summary": "图像生成工具Stable Diffusion的开发商Stability AI宣布获得7600万美元新一轮融资。本轮融资使公司累计融资总额达到2.32亿美元。Stability AI以开源文本生成图像模型著称，是AI绘画领域的代表性企业。新资金预计将用于强化模型研发、扩大算力资源，并探索视频生成等多模态应用方向。尽管生成式AI市场竞争激烈，此次融资仍显示出投资界对Stability AI技术路线和商业前景的信心。",
+      "fetchDate": "2026-08-26"
+    },
+    {
       "id": "4050",
       "title": "Claude Cowork finally remembers what you told the app in chat",
       "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
@@ -36604,5 +36685,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4067
+  "total": 4076
 }
