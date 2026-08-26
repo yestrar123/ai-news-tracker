@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "4083",
+      "title": "How Artificial Intelligence Is Transforming Data Security and Compliance - Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSm5icGVoUjNOd1hxOFQ5czNMRW5ZdXB6cW00REc3NzFBX3djVG53WlpCdUdTbFluMHN4ZUxxeTRTalppd3FIREViRW5iM0JlVzRsWnNxX05nTHNEUkgzeFpSTzFpM29DTFFrSlREc3o2WUU1UkZsNkVVMVlERzBVbEJlYmhTVG5yeGpwV1F3LVJHOWZyTzNwVkt3Z1pLWlBBX2hMLUNfS25CNXV6S0xrTDRNRlI0VEE0aXlzRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T04:33:23Z",
+      "summary": "Nasscom发文探讨人工智能如何变革数据安全与合规领域。文章指出，AI技术正在通过自动化威胁检测、实时风险监控和智能合规管理，显著提升企业应对复杂数据安全挑战的能力。AI驱动的算法能够快速识别异常行为与潜在漏洞，帮助组织在日益严格的隐私法规下保持合规。同时，AI还能优化数据分类、访问控制和审计流程，降低人为错误成本。不过，部署AI也带来算法偏见、数据隐私和监管透明度等新问题，企业需在创新与风险管理之间取得平衡。",
+      "fetchDate": "2026-08-26"
+    },
+    {
+      "id": "4084",
+      "title": "Perceptions of Ethical and Legal Challenges in Artificial Intelligence-Assisted Implant Dentistry Among Dentists: A Cross-Sectional Survey - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQc3UwbjBNX2loTlRCT213NXU1YmdQdU4zZzg4OEs2bk56VmJyd3BfNjJ4dlpnSWR1RVpQckNaUGFOc0lRZk1pNGdkYW9BcVRhM24wNUdDRW1WWGsybmc2ejBLYkNOUXRPbVlYc2syTXJ3ZUR2bUh3UEpvTzM2cjI2RFZKdEtEcjNPNUVFNzJITnFzM1RTVE0tSmgwbS1hYTRWQ0VwRTdnaFh0aUhwNHkyUzNHX1R2eTlZblc3SXVVSm83QTNtbnNUbXV6VzBqM1NRZWtnaWhvMXhTZHQ4M0E5V0ZsVmVYN2x3Q0VDblNQd0NPOFU4QktFa2k3STJRazhDOVd6eWpjS3FWeDB5U1U3djBiR1B1dTdPejFMZF9QSlo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T04:03:45Z",
+      "summary": "Cureus发表一项横断面调查，研究牙医对人工智能辅助种植牙手术中伦理与法律挑战的看法。受访牙医普遍认可AI在手术规划、影像分析和预后判断中的辅助价值，但同时对算法透明度不足、数据隐私保护、患者知情同意以及责任归属等问题表示担忧。调查强调，在AI快速进入口腔医学领域之际，需要建立清晰的伦理指南和法律框架，确保技术应用既提升诊疗效率，又保障患者安全与医生职业责任。",
+      "fetchDate": "2026-08-26"
+    },
+    {
+      "id": "4085",
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-26T03:30:00Z",
+      "summary": "印度语音AI初创公司Ringg获得Peak XV投资的1000万美元A轮扩展融资，继续拓展语音AI应用场景。Ringg的定位是超越传统电话通话，将语音交互深度融入工作流程、客户服务和多种设备。新资金将用于强化其语音模型能力、扩大团队并拓展市场。随着语音技术从简单通话走向复杂任务处理，Ringg希望借助端到端语音解决方案，在快速增长的印度及全球AI语音市场中占据一席之地。",
+      "fetchDate": "2026-08-26"
+    },
+    {
       "id": "4078",
       "title": "The spread of artificial intelligence (AI) and automation is rapidly decreasing the number of new jo.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84WVhvWGJwVENTR1RkOUw0S2kzQVdreDAxNkZiYmc4SXNnNjR2UEpzeGRyZmhzTVgyVlVGN1MwQjlJeDVvMkd6ZmI1UXlxQ0E?oc=5",
@@ -36730,5 +36757,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4081
+  "total": 4084
 }

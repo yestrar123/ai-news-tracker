@@ -1,69 +1,62 @@
 {
-  "updatedAt": "2026-08-26 02:57:08 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-08-26 06:27:53 UTC",
+  "totalArticles": 8,
   "articles": [
+    {
+      "title": "How Artificial Intelligence Is Transforming Data Security and Compliance - Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSm5icGVoUjNOd1hxOFQ5czNMRW5ZdXB6cW00REc3NzFBX3djVG53WlpCdUdTbFluMHN4ZUxxeTRTalppd3FIREViRW5iM0JlVzRsWnNxX05nTHNEUkgzeFpSTzFpM29DTFFrSlREc3o2WUU1UkZsNkVVMVlERzBVbEJlYmhTVG5yeGpwV1F3LVJHOWZyTzNwVkt3Z1pLWlBBX2hMLUNfS25CNXV6S0xrTDRNRlI0VEE0aXlzRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T04:33:23Z",
+      "summary": "Nasscom发文探讨人工智能如何变革数据安全与合规领域。文章指出，AI技术正在通过自动化威胁检测、实时风险监控和智能合规管理，显著提升企业应对复杂数据安全挑战的能力。AI驱动的算法能够快速识别异常行为与潜在漏洞，帮助组织在日益严格的隐私法规下保持合规。同时，AI还能优化数据分类、访问控制和审计流程，降低人为错误成本。不过，部署AI也带来算法偏见、数据隐私和监管透明度等新问题，企业需在创新与风险管理之间取得平衡。"
+    },
+    {
+      "title": "Perceptions of Ethical and Legal Challenges in Artificial Intelligence-Assisted Implant Dentistry Among Dentists: A Cross-Sectional Survey - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQc3UwbjBNX2loTlRCT213NXU1YmdQdU4zZzg4OEs2bk56VmJyd3BfNjJ4dlpnSWR1RVpQckNaUGFOc0lRZk1pNGdkYW9BcVRhM24wNUdDRW1WWGsybmc2ejBLYkNOUXRPbVlYc2syTXJ3ZUR2bUh3UEpvTzM2cjI2RFZKdEtEcjNPNUVFNzJITnFzM1RTVE0tSmgwbS1hYTRWQ0VwRTdnaFh0aUhwNHkyUzNHX1R2eTlZblc3SXVVSm83QTNtbnNUbXV6VzBqM1NRZWtnaWhvMXhTZHQ4M0E5V0ZsVmVYN2x3Q0VDblNQd0NPOFU4QktFa2k3STJRazhDOVd6eWpjS3FWeDB5U1U3djBiR1B1dTdPejFMZF9QSlo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T04:03:45Z",
+      "summary": "Cureus发表一项横断面调查，研究牙医对人工智能辅助种植牙手术中伦理与法律挑战的看法。受访牙医普遍认可AI在手术规划、影像分析和预后判断中的辅助价值，但同时对算法透明度不足、数据隐私保护、患者知情同意以及责任归属等问题表示担忧。调查强调，在AI快速进入口腔医学领域之际，需要建立清晰的伦理指南和法律框架，确保技术应用既提升诊疗效率，又保障患者安全与医生职业责任。"
+    },
+    {
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-26T03:30:00Z",
+      "summary": "印度语音AI初创公司Ringg获得Peak XV投资的1000万美元A轮扩展融资，继续拓展语音AI应用场景。Ringg的定位是超越传统电话通话，将语音交互深度融入工作流程、客户服务和多种设备。新资金将用于强化其语音模型能力、扩大团队并拓展市场。随着语音技术从简单通话走向复杂任务处理，Ringg希望借助端到端语音解决方案，在快速增长的印度及全球AI语音市场中占据一席之地。"
+    },
     {
       "title": "The spread of artificial intelligence (AI) and automation is rapidly decreasing the number of new jo.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84WVhvWGJwVENTR1RkOUw0S2kzQVdreDAxNkZiYmc4SXNnNjR2UEpzeGRyZmhzTVgyVlVGN1MwQjlJeDVvMkd6ZmI1UXlxQ0E?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-26T02:09:24Z",
-      "summary": "据《每日经济》报道，人工智能与自动化技术的快速普及正显著减少新增就业岗位数量。报道指出，随着AI在制造、服务等领域的深度应用，传统岗位被自动化流程替代的速度加快，劳动力市场正面临结构性调整。这一趋势不仅影响低技能岗位，也逐步波及白领及知识型工作领域。专家担忧，若缺乏相应的职业技能培训和社会保障机制，技术性失业可能加剧社会不平等。同时，AI催生的新兴职业尚不足以完全吸收被替代的劳动力。文章呼吁政策制定者关注AI时代就业体系的转型，并探索人机协作的新模式。"
+      "summary": "据韩国媒体《每日经济》报道，人工智能和自动化的普及正导致新增就业岗位数量迅速减少。文章分析认为，生成式AI和智能机器人正在替代大量重复性、规律性工作，尤其在制造业、客服和数据处理领域影响明显。虽然AI也创造新岗位，但转型速度远不及旧岗位消失的速度，导致就业市场结构性压力加大。专家呼吁加强技能培训和再教育体系，帮助劳动力适应AI驱动的经济转型。"
     },
     {
       "title": "The introduction and utilization of artificial intelligence (AI) will be in full swing in major deci.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85YzV6VmlTaU1YU3VSVmIzZ21haUgwcUZHYmZ1bHVrVVowa1dDNmVITS1JOTA5Tll6cHJ1TmJIY1VRSjhrdXNLT3pzUXE5S1JDY3Bz?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-26T01:57:14Z",
-      "summary": "据《每日经济》报道，人工智能的引入与应用将在主要决策领域全面展开。报道称，企业及政府机构正加速将AI系统嵌入战略规划、资源配置、风险管理等关键决策环节。AI凭借其强大的数据分析与模式识别能力，能够提供更精准的预测和优化建议，从而提升决策效率与质量。然而，全面部署也面临数据隐私、算法偏见及责任归属等挑战。业内人士认为，AI决策并非取代人类，而是作为辅助工具增强人的判断力。未来，建立透明、可解释的AI决策框架将成为各行业探索的重点方向。"
+      "summary": "韩国媒体《每日经济》报道称，人工智能的引入和利用将在主要决策领域全面展开。文章指出，从企业战略规划、金融投资到政府政策制定，AI正越来越多地参与关键决策过程。AI能够处理海量数据、识别模式并预测趋势，帮助决策者提高效率和准确性。然而，这也带来决策透明度、算法偏见和责任认定等新挑战。各方需要建立监管规范和伦理标准，确保AI辅助决策的可靠性与公平性。"
     },
     {
       "title": "Who gains in an AI-supercharged economy? - The Japan Times",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXdNenNWZnZQMHJYR1E1ajV6aG05M2VYUmw3bGhXbm4xc2d6WDZsZ29zX05PWThKV3RKdnVrelBPRFVfWURxQ2RWZmZWbUhtbGJqYkl4TlExMTlWUS1nOHhWZktnRWdFNXF1ZWtiS0pmN2F1bVYtYkNEN29yTlk4WXU3TEx5LW83VTJzMldVeU9iQmc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-26T01:53:56Z",
-      "summary": "《日本时报》发文探讨在AI驱动的超级经济中，谁将获益的问题。文章指出，AI技术的爆发式增长正在重塑财富分配格局，掌握算法、数据与算力的科技巨头和高端技术人才占据明显优势，而传统行业劳动者和缺乏数字技能的人群则面临收入停滞甚至失业风险。分析认为，AI带来的生产力提升未必自动转化为广泛的社会福利，反而可能加剧资本与劳动之间的鸿沟。文章强调，政策制定者需通过税收、教育投资和社会安全网改革，确保AI经济的红利更公平地分配，避免技术性失业与社会动荡成为普遍现象。"
+      "summary": "日本时报发文探讨AI赋能经济中的获益者问题。文章指出，AI带来的生产力提升和企业利润增长并非均匀分布，预计资本所有者、高技能技术人才和大型科技平台将获得最大收益，而中低技能劳动者可能面临工资停滞或失业风险。文章还讨论了政府如何通过税收、教育投入和社会安全网调节AI红利分配，以避免贫富差距扩大。公平的AI经济需要政策制定者主动介入，而非仅依赖市场自发调节。"
     },
     {
       "title": "Robotics startup Generalist reaches $3B valuation, sources say",
       "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-26T00:40:59Z",
-      "summary": "据TechCrunch报道，机器人初创公司Generalist在完成2亿美元新一轮融资后，估值达到30亿美元。这距离该公司达到20亿美元估值仅过去了数月，显示出资本对物理AI领域的高度热情。Generalist专注于开发能够在真实环境中执行复杂任务的通用机器人，其技术路线融合了人工智能与自动化控制。此次融资的迅速落地，反映出投资者对具身智能和机器人商业化前景的信心。公司表示，新资金将用于扩大研发团队、加速产品迭代，并推动机器人在物流、制造业等场景的规模化部署。"
+      "summary": "据TechCrunch报道，机器人初创公司Generalist完成2亿美元融资，估值达到30亿美元。此次融资距该公司估值达到20亿美元仅数月，显示出投资者对物理AI和通用机器人技术的强烈热情。Generalist致力于开发能够执行多任务的通用机器人系统，其技术结合AI感知、决策与运动控制，有望在工业、物流和服务场景中广泛应用。新资金将用于加速产品研发、扩大团队并推进商业化落地。"
     },
     {
       "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-26T00:34:00Z",
-      "summary": "据CNBC报道，曾被亚马逊创始人贝索斯称为“人工人工智能”的亚马逊服务即将关闭。该服务最早以众包形式运作，通过整合人工来完成机器难以处理的任务，被视为AI自动化早期的一种补充方案。随着机器学习与自然语言处理技术的快速发展，这类依赖大量人工的服务的应用场景不断萎缩。此次关停标志着亚马逊在业务调整中进一步聚焦于云端AI和生成式AI能力的建设。分析人士指出，这一变化反映出行业从“人工辅助”向“纯智能”的转型趋势，同时也引发了对相关从业者就业前景的担忧。"
-    },
-    {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T00:06:20Z",
-      "summary": "据TechCrunch报道，OpenAI又失去一名数据中心高管，这已是该公司近期一系列高调离职事件中的最新一例。在Malone离开之前，OpenAI已对其基础设施组织进行了调整，将其汇报线从总裁Greg Brockman名下移出，并由副总裁Sachin Katti直接负责该团队。这一重组动作显示出公司在基础设施管理层面的人事震荡与战略重塑。随着AI竞赛的加剧，数据中心和算力资源成为核心竞争力，高管的频繁离职给OpenAI的规模化发展带来不确定性。外界关注该公司能否在人才流动中维持技术优势和管理稳定性。"
-    },
-    {
-      "title": "Artificial intelligence (AI) startup Antropics is expected to offer investors a market size of more - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LejBiN3FEM1RKWmRfRzNXS1ZiSHBiSFJyaWt3bFN3eGx1d05XeklDbWY2SHZtZWhITmZoZmF4cnRfYnl5SFEzeDV2Zw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-25T23:39:02Z",
-      "summary": "据《每日经济》报道，人工智能初创公司Antropics预计将为投资者提供超过某一规模的市场容量。该报道指出，随着企业级AI应用的爆发式增长，Antropics所处赛道的市场空间正被持续放大。公司宣称其技术能在特定领域实现显著效率提升，并已吸引多家机构投资者的兴趣。分析认为，AI初创公司的高估值背后反映了资本对前沿技术商业化潜力的押注，但同时也暗藏着同质化竞争和盈利验证的风险。Antropics能否在激烈市场中构建技术壁垒和清晰的商业模式，将是决定其后续融资与长期发展的关键。"
-    },
-    {
-      "title": "OpenAI's ChatGPT Admin Plugin Streamlines Workspace Management - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa202YnNSbjREOTh4UmJkNHNBcUR4TEViTzRDb01VTkN4YjlZQnJDcllSQWVrZzlrLTExN3cwSUhhcThSOWlSQW1xTzBVZzBpM284VFBTWlhMdEQ5Zzc2SU9lOUlwTnpfNGxzYnlvUFF6b0JnTWxqejYzaDlldU96Z29PeG1xWXRoUVlyZm5KbnhaOFVNeGRFUWNkYzNBRnJKbmJpMDVYQUM4aGFjY1VOUjNIc3ZGQlVuMzUzUzBzeWxlc1E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-25T21:05:02Z",
-      "summary": "据StartupHub.ai报道，OpenAI推出的ChatGPT Admin插件旨在简化工作空间管理流程。该插件面向企业管理员，提供集中化的配置与监控工具，使团队能够更高效地管理ChatGPT的使用权限、功能开关及数据合规策略。通过直观的仪表板和自动化策略设置，管理员无需编写复杂代码即可实现细粒度的管控。这标志着OpenAI在企业级市场布局的进一步深化，其核心目标是降低AI工具在企业部署时的管理成本。分析师认为，此类管理优化功能将增强ChatGPT在办公协作场景中的竞争力，加速企业AI应用的规模化落地。"
-    },
-    {
-      "title": "OpenAI's Codex Adds WebMCP for Enhanced Agent Interactions - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa1NEdnRlTk5SUmJZNDNOekQ2TFE2djk3SmRHYVhlZ0pYaUFkVkJrbHZqanRzRVFHWlRiRVVfOHo3dkVKSDJEM0tOZUxWVks1TC1zVTlyUktxWlZiNFQyRHdGMEpCWXBjNVBKdkNXQmFFNFpjMkxnNTBXY1loNi1pOVM5dGdVUkdaMEw0aGxjWjV2cTl2Rms5bWRNVzRWRnY1aFJtMEstNkc3QmFFUkowc2xjVWgzQTlreWxweHdR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-25T21:04:38Z",
-      "summary": "据StartupHub.ai报道，OpenAI的Codex新增了WebMCP协议支持，以增强智能体的交互能力。WebMCP是一种面向Web通信的消息控制协议，能够使AI智能体更规范地发送和接收指令，从而提升多步骤任务执行的稳定性和可扩展性。通过该协议，Codex可以在浏览器环境或云端服务中更高效地协调数据处理、表单填写和页面导航等操作。这一更新被视为OpenAI强化AI智能体生态的重要步骤，旨在让开发者利用Codex构建更复杂的自动化工作流。行业观察者认为，标准化通信协议的引入将有助于AI智能体之间的互操作性，为未来大规模协同自动化奠定基础。"
+      "summary": "CNBC报道称，亚马逊一项曾被贝索斯称为“人工人工智能”的服务即将关闭。该服务本质上是将后台任务外包给众包工人，模拟AI完成图片标记、数据审核等工作。随着大语言模型和机器学习技术的成熟，这种依赖人力的众包AI模式逐渐失去竞争力。亚马逊关闭该服务反映了AI技术迭代带来的业务模式淘汰，也显示传统众包标注正在被更先进的自动化方案取代。"
     }
   ]
 }
