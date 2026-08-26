@@ -1,62 +1,132 @@
 {
-  "updatedAt": "2026-08-26 06:27:53 UTC",
-  "totalArticles": 8,
+  "updatedAt": "2026-08-26 12:27:11 UTC",
+  "totalArticles": 18,
   "articles": [
+    {
+      "title": "Billionaire Bill Ackman Just Sold Alphabet and Bought These 2 Beaten-Down Artificial Intelligence (AI) Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ0o0T0dpMnJRT2lqcXV5T1pDeV9tckFSd193ajUwako5NENmVjZrWkRRVmk4MTRxSXkxeklNa0RpQnVhWjlBYlJ4N0tkakgyencyZmZrSjdUX1h3eVA2bkxsM2tINTd1d21GMDRfT0NNaFgyenlHR3N5YWN2NXRieUhibklVQWNRRkpRNnNwQ0J0akhJRWhJWTgxd1lnWlFSZE9Td3hfLUhhdGZ5U0V4QmJwdXNLWThKUVlzWTdBS2NGckRBWDk1dkFfWTVBcWNXUHdHV3hVQzN3S1ZYUV9CeEtDVGI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T12:07:24Z",
+      "summary": "据《The Motley Fool》报道，亿万富翁投资者比尔·阿克曼（Bill Ackman）近期调整其投资组合，卖出了所持Alphabet股票，转而买入两只近期表现低迷的人工智能（AI）股票。报道指出，这一调仓举动反映出阿克曼对AI领域细分机会的重新评估，尽管未披露具体个股名称，但市场普遍关注其布局方向。该操作也引发投资者对大型科技股与AI成长股估值分化的讨论，认为阿克曼可能更看好具备技术壁垒和复苏潜力的AI企业，而非依赖广告收入的平台型巨头。"
+    },
+    {
+      "title": "NemoClaw’s AI can be poisoned through a browser tab - csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMFljcDJySk00cHRoaFU4UzNiazhicV84dWVNSUdza1FvTEs3R2ZQQUlrZC1MckEwRjUydENHdHV0RWFGUWVNQWpKNE9tV2VTamVzS1p4WXpTQUFuYUV1VVBtSEdPRkJsNnNJd293eUlOaGZSUWVlQURZNlhJYXhBbFBxQXRLVm5fc1hFZGdReS1RdzNwM2JmSXF3TGh5Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T11:35:43Z",
+      "summary": "CSO Online报道，研究人员发现NemoClaw的AI系统存在一种可通过浏览器标签页发起的“投毒”攻击风险。攻击者可能利用浏览器会话或恶意网页内容，向AI模型注入误导性数据或指令，从而操纵其输出行为。这种攻击方式无需直接访问模型底层，降低了攻击门槛，对基于浏览器交互的AI应用构成潜在威胁。报道强调，该漏洞凸显了AI系统在输入验证和上下文隔离方面的安全挑战，开发者和企业需加强针对数据投毒和提示注入的防御机制。"
+    },
+    {
+      "title": "Bill Gates calls for ‘human reserved’ jobs in face of AI takeover - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGJwME5jMU9SNWI3eUlYMm1qc0tQdFFydEhIN01La05ac1ZWV01iNnFON0Y2cW5QUUd5SkFPLWJrWGdtRkg0WlItSG1DYlExVjEyMU5vc0ExQS1fOFc1SHJOdTVKWHV2MlVxWlM4eDVqbmtuSDI0aUNmOHFxV0ZHNW0tVldxblNSVW9ZUmhEWlIwQnYwaC0tdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T11:33:00Z",
+      "summary": "《卫报》报道，微软联合创始人比尔·盖茨在谈及AI对就业市场的影响时，呼吁为人类保留部分“专有岗位”，即在某些关键领域刻意限制AI的参与，以维持人类的工作机会和社会稳定。盖茨认为，虽然AI能提升效率，但并非所有岗位都应自动化，一些需要同理心、道德判断或人际信任的工作应优先由人类承担。他还建议通过政策和社会共识来划定AI应用的边界，确保技术进步不以大规模失业为代价。"
+    },
+    {
+      "title": "This Artificial Intelligence (AI) Stock Could Fall by 13%, According to Wall Street -- but Here's Why I Refuse to Sell - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVJnSFI5S1BGZ1lSZmFRei1fdXZGZ2wwV0V3YnBHcTI5dXZTeWtEbUFXZnFseFgxdzVaLUp5N2dVYk5PaGh4S1gyaWRXeGRzaUJ0dUdUamJiaGRGT1dnLXhJRnpXdzRlN0RnRHlQRC02NDNsZXJmNGtiTjEyQnpQYk5EQ2JDVTFqMndfYU5OQkpFR0hJazdITg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T11:27:18Z",
+      "summary": "《The Motley Fool》的一篇文章指出，某只人工智能股票被华尔街分析师预测可能下跌13%，但作者表示拒绝出售。文章认为，尽管短期面临回调压力，该公司的长期AI业务布局、技术护城河或增长潜力仍然稳固。作者可能强调市场低估了其在AI细分领域的核心竞争力，以及在行业扩张中的受益空间。这种与华尔街短期预测相左的观点，体现了投资者对AI赛道长期价值的信心，也提醒市场关注基本面而非单纯依赖目标价。"
+    },
+    {
+      "title": "2 Artificial Intelligence (AI) Stocks That Can Skyrocket Up to 484%, According to Select Wall Street Analysts - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1pNWDVHUUp4RUtLTWMxRUZCZDZHb3VNbV94Z3RZRkF5aFZoX3cyUGN6Z29OYzZJcDkzTTF3RG4zcjlMc3FXTUw0OUVXaVlCVWUtOV9GU1M0UFNmMGszZkhyaXV1VjZDM3hEd3IwQ2xXcURYRGw1WDgtdXpPTlNlMGxMcGhtUzllbmlsRG9UMkJteEll?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T11:27:18Z",
+      "summary": "据《The Motley Fool》报道，部分华尔街分析师认为有两只人工智能股票具备最高达484%的上涨潜力。文章指出，这两家公司可能处于AI产业链的关键环节，拥有独特技术或高增长市场机遇，例如芯片、软件或垂直应用领域。尽管分析师给出的高目标价带有乐观预期，但也反映了市场对AI赛道长期爆发的普遍看好。文章提示投资者仍应关注公司基本面、竞争格局和估值风险，不可盲目追逐高涨幅预测。"
+    },
+    {
+      "title": "2 Artificial Intelligence (AI) Stocks That Can Skyrocket Up to 484%, According to Select Wall Street Analysts - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeTRiZWluM0d5VmlkWm9GT09oNmszYmtwQ2JGYW9BVlROUldiS3RmTFRkY0g2SUpRYTlUbm5YUk9LaEVDUG1UaUo2UWdkSnhGRVRJY1FKd1lQc1FJTHZQRFBBZ1ktcExRakRPVEtjdW9yS3BpSHc2NVB4LVBuU1hTdUt2ZEEwdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T11:26:00Z",
+      "summary": "AOL.com转载了《The Motley Fool》关于两只人工智能股票可能大涨484%的分析报道。文章援引部分华尔街分析师的观点，认为这两家AI相关公司具有巨大的长期成长空间，可能受到技术突破、行业需求扩张或政策利好驱动。分析师给出的高目标价显示了极为乐观的前景，但文章也提醒此类预测存在不确定性，投资者需要仔细评估公司的实际盈利能力、竞争压力和行业周期。内容与前一篇报道基本一致，属于多渠道转载。"
+    },
+    {
+      "title": "What are ‘open’ AI models? - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wb2ZMZ3BkYXZjTGFJaUE0X1VvM3loUXBLdXdYSGIxaUhSWXRZY0loZ0pwRmxBMUt3YzFKNTBsX0JSenEwNXlJRlFtOXBXYXdBUlUwZy1nMTBmWGo1Vmpac0dCZHRzZTN1U2Vsay1WcDFVYkVCdlNqQzlfWXpsdFk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T11:04:16Z",
+      "summary": "Computerworld发文探讨了“开放AI模型”这一概念。文章解释，开放AI模型通常指其源代码、模型权重、训练数据或接口对公众开放，允许用户自由下载、修改和再发布。不同于闭源模型，开放模型强调透明性和可访问性，但也引发关于滥用、安全性和商业可持续性的讨论。文章可能还列举了典型例子，如Meta的Llama系列，并分析开放与封闭阵营的权衡，帮助读者理解AI生态中的开放策略及其对创新和监管的影响。"
+    },
+    {
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-26T11:00:00Z",
+      "summary": "TechCrunch报道，AI初创公司Runable宣布完成2100万美元融资，其核心业务是让AI智能体（agents）从“帮企业建立业务”扩展到“帮企业增长业务”。公司透露，在过去90天内，其平台处理的token使用量超过1万亿，其中60%至70%来自付费客户。该数据表明其AI智能体服务已获得商业化验证。本轮融资将用于扩展产品能力、提升自动化水平，并进一步开拓企业级市场，反映了投资界对AI智能体实用化前景的强烈兴趣。"
+    },
+    {
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDNjT2dPRTl1N0lXQ19YZVFtd0RkSVMzZTlNQnVsb0VmQVQ4cFBEOVNNazFhdXI0SWlBVnYtS3hBbVF0d0RjNEtLVGR1ZFJjMVBBSlJicnZpVnlGeTV5NHV1dE1xc1ZsZUJ0SW0tWXZpMnMyWHdpMTlPUFp0dnB6ZmhrUHNSTUdHSmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T10:01:31Z",
+      "summary": "AI News报道，自动驾驶货运公司Gatik成功筹集2亿美元，用于扩展其AI驱动的无人驾驶货运业务。Gatik专注于短途和区域物流的自动驾驶解决方案，与零售和供应链企业合作，实现固定路线的无人配送。该公司表示，新资金将用于扩大车队规模、优化AI算法以及拓展新市场。此次融资表明资本市场对自动驾驶卡车的商业化路径持乐观态度，特别是在中短途运输领域，Gatik有望加速实现规模化运营。"
+    },
+    {
+      "title": "Nvidia Stock Has a New $500 Billion Opportunity in the Artificial Intelligence (AI) Boom - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVF3Nk9XNU9VeUhiaC12T2NsTEN1blJGenJZRnZGZ200UTZUbkZSbGJ1Z01hVi1SeUFjaVpaOTBJTklwY1hsbUJ0bk51QWlueHlPN2pBakRHYTZsR1NMWERPZDVuTU9kOHF4dVhLQUtoNGItM0E2MHpTVkMzdkV3ZGJ1T3JCSDhwQzIxbXg3ODY0YmZuRGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T09:12:00Z",
+      "summary": "《The Motley Fool》报道指出，英伟达（Nvidia）在人工智能热潮中又迎来一个高达5000亿美元的潜在市场机会。文章认为，随着AI从训练阶段转向大规模推理和应用部署，英伟达不仅在GPU硬件方面保持主导，其软件生态、网络方案及AI工厂等新业务也将受益。这5000亿美元可能来源于AI推理服务器、行业垂直解决方案或企业级AI平台等增量需求。报道强调了英伟达在AI基础设施领域的持续扩展能力，但也提醒竞争加剧和市场需求波动等风险。"
+    },
+    {
+      "title": "Artificial Intelligence For Patents: How AI Is Redefining Innovation Intelligence - Mondaq",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEZjdVRRdVI4WWJzNFZVNHVRTU80OTZ3cVoxQlRWMVhtYlN1VzJ1Q2RyMHJGQ1R2YTRBdEZiU3JXcy1hSThES1FmX1U3eWFVbEI4QVlTU21VeXNoQU1veFhKSlBNN2JoZ2tZZDRfSG04OTg2VkpmenczV1YtdlZOdkotNXFiYndOckFZM2k1a3ktYnFXRGF1WFppR2xiSjZKM0NNemViZTVUdllDSDR4YjRha2l0ZWZMUFEzQmVnU2owRlk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T09:11:41Z",
+      "summary": "Mondaq发表文章探讨人工智能如何重新定义专利领域的创新情报。文章指出，AI技术正在改变专利搜索、分析和管理的传统方式，通过自然语言处理、机器学习和知识图谱等技术，能够更高效地识别专利趋势、评估专利价值并发现潜在侵权风险。AI还能加速专利撰写和审查流程，提升创新成果的保护效率。这一趋势意味着企业在知识产权战略中越来越依赖AI驱动的数据洞察，以在激烈的技术竞争中保持优势。"
+    },
+    {
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots - AI News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1hPZzd3R3AybkFDaVo0T1lLQzk1XzQzeGE1c05DUTdja1FIY2FLVlFYRjZ6OGlXS0tnYXJBYXNpdFBMMExscXhtS0QwbEhSTEROSFFSam5WTjNSell1Tkp2MjRuSUYyQUtDUzM4VHBiY0lIN2Fualp4Rk1hbmc1ZXFneDFPVVp1MFdWUVE0ck1pWnl2TE1SMThpUXIwZEpjMUtzNE5TQWNqWkFV?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T09:11:28Z",
+      "summary": "NVIDIA推出了新一代Jetson Orin Nano 2计算平台，旨在为无人机和机器人带来物理AI能力。该平台在边缘计算性能上大幅提升，支持更复杂的实时感知、导航和决策任务，使机器能够在物理世界中更智能地交互。NVIDIA强调，这一产品将降低先进机器人开发的门槛，推动自主系统在工业、物流和消费等领域的普及，标志着物理AI从概念走向实际应用的重要一步。"
+    },
+    {
+      "title": "AI models flub these intelligence tests. Can you fare any better? - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1dDOTFfS1Z1ZjhTN2w4V3cxaE1xMXh1S0NTa1lGaUh2cjNTLVI5SGNPXzhqdWp1ZUNCZ1p3N3JpQ0JDY0tDVHcxWkpqb3lndndlMFFCMkJaU1U3VHJ6VG1rYjVNSEpKbkh0Si10TVlVbFVDZ1JfZTVqa0piNE1PVUtiR0hjMnJYQzVSbEx1VVbSAZYBQVVfeXFMTjNuR2RPSWVYZmFiU0ZXYUVkZFlaWGxFTVAyNXNJRzlMcHpNbzMzOFhqWFhjUzA5RlFQU1ZKc3kwd21kZGVMSVNUdTllYkh0c2M0UjNfREJualdUc0gtdFJ1b01Memd2aUZlMXJHVnZycVZVcFlKSDB4TjBRYkhrUkFRVHJCOFJwam1ZVTNGVzFtd25aWDl3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T09:00:00Z",
+      "summary": "MIT Technology Review发布报道，指出当前人工智能模型在某些人类智力测试中表现不佳，并邀请读者自行测试对比。这类测试通常涉及抽象推理、常识理解和创造性思维，而AI虽在语言和图像识别上表现优异，却在需要真正理解世界运行规则的题目上频频出错。报道通过具体案例展示了AI的局限性，也引发了对当前大模型能力边界的思考，强调人类智能中仍有许多AI难以企及的维度。"
+    },
+    {
+      "title": "Nvidia Stock Has a New $500 Billion Opportunity in the Artificial Intelligence (AI) Boom - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZk1NeW9DUV92emF6NnRIeXdzRjNFd0hmaC1kWS1OOUdoV0NHeVBWWm9rQU1BRnNtaGJEaExFeGRCdHVCWk13VVRuVlE1T2RhbnMxRE9yNnI0N0puSDJMZUJVUmljaW84d29IR0pHRThycnlpbnphQXBrdEQyUzdxdHFZNmV6Zm9kRWlWQUNNb2JJTjlaOWc2aFBDOTZ1Ui1LMnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-26T08:32:00Z",
+      "summary": "Yahoo Finance报道称，Nvidia在人工智能热潮中发现了新的5000亿美元市场机遇。随着AI模型从云端走向边缘设备、自动驾驶、机器人以及工业数字化，Nvidia的GPU和CUDA生态正扩展到更广泛的物理AI应用场景。分析师认为，Nvidia不再仅依赖数据中心芯片销售，其正在成为AI基础设施的综合性平台供应商，新的增长领域有望成为其市值持续攀升的重要推动力。"
+    },
     {
       "title": "How Artificial Intelligence Is Transforming Data Security and Compliance - Nasscom",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSm5icGVoUjNOd1hxOFQ5czNMRW5ZdXB6cW00REc3NzFBX3djVG53WlpCdUdTbFluMHN4ZUxxeTRTalppd3FIREViRW5iM0JlVzRsWnNxX05nTHNEUkgzeFpSTzFpM29DTFFrSlREc3o2WUU1UkZsNkVVMVlERzBVbEJlYmhTVG5yeGpwV1F3LVJHOWZyTzNwVkt3Z1pLWlBBX2hMLUNfS25CNXV6S0xrTDRNRlI0VEE0aXlzRQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-26T04:33:23Z",
-      "summary": "Nasscom发文探讨人工智能如何变革数据安全与合规领域。文章指出，AI技术正在通过自动化威胁检测、实时风险监控和智能合规管理，显著提升企业应对复杂数据安全挑战的能力。AI驱动的算法能够快速识别异常行为与潜在漏洞，帮助组织在日益严格的隐私法规下保持合规。同时，AI还能优化数据分类、访问控制和审计流程，降低人为错误成本。不过，部署AI也带来算法偏见、数据隐私和监管透明度等新问题，企业需在创新与风险管理之间取得平衡。"
+      "publishedAt": "2026-08-26T08:21:29Z",
+      "summary": "Nasscom发文分析人工智能如何变革数据安全与合规领域。AI能够通过自动识别异常行为、实时监控数据流和智能分类敏感信息，显著提升组织对内部威胁和外部攻击的防御能力。同时，AI驱动的合规工具可自动跟踪法规变化并生成审计报告，帮助企业降低违规风险。文章也指出，AI本身可能带来新的安全挑战，因此需要在技术应用中嵌入负责任的人工智能治理框架。"
     },
     {
-      "title": "Perceptions of Ethical and Legal Challenges in Artificial Intelligence-Assisted Implant Dentistry Among Dentists: A Cross-Sectional Survey - Cureus",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQc3UwbjBNX2loTlRCT213NXU1YmdQdU4zZzg4OEs2bk56VmJyd3BfNjJ4dlpnSWR1RVpQckNaUGFOc0lRZk1pNGdkYW9BcVRhM24wNUdDRW1WWGsybmc2ejBLYkNOUXRPbVlYc2syTXJ3ZUR2bUh3UEpvTzM2cjI2RFZKdEtEcjNPNUVFNzJITnFzM1RTVE0tSmgwbS1hYTRWQ0VwRTdnaFh0aUhwNHkyUzNHX1R2eTlZblc3SXVVSm83QTNtbnNUbXV6VzBqM1NRZWtnaWhvMXhTZHQ4M0E5V0ZsVmVYN2x3Q0VDblNQd0NPOFU4QktFa2k3STJRazhDOVd6eWpjS3FWeDB5U1U3djBiR1B1dTdPejFMZF9QSlo?oc=5",
+      "title": "Luton Technologies became the first Korean artificial intelligence (AI) service startup to become a - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CZ1l3RGZ6cDB1ZGhTNzlSM2I0cndPODVad2R0VnNUWTdZUnBPWkh6MC1DZjFfT1E3aWVfVzd2TWthRG9rMS1YdGUzTUxuZDVZVHZR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-26T04:03:45Z",
-      "summary": "Cureus发表一项横断面调查，研究牙医对人工智能辅助种植牙手术中伦理与法律挑战的看法。受访牙医普遍认可AI在手术规划、影像分析和预后判断中的辅助价值，但同时对算法透明度不足、数据隐私保护、患者知情同意以及责任归属等问题表示担忧。调查强调，在AI快速进入口腔医学领域之际，需要建立清晰的伦理指南和法律框架，确保技术应用既提升诊疗效率，又保障患者安全与医生职业责任。"
+      "publishedAt": "2026-08-26T08:18:05Z",
+      "summary": "据《每日经济》报道，韩国AI服务初创公司Luton Technologies成为首家达到某项重要里程碑的韩国企业。尽管报道未披露具体成就细节，但结合其AI服务定位，推测该公司可能在技术认证、海外市场拓展或大型合作方面取得突破。这一事件标志着韩国AI初创企业正在国际舞台上获得认可，也为国内AI生态注入信心，展示出韩国在AI服务领域的创新潜力。"
     },
     {
-      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T03:30:00Z",
-      "summary": "印度语音AI初创公司Ringg获得Peak XV投资的1000万美元A轮扩展融资，继续拓展语音AI应用场景。Ringg的定位是超越传统电话通话，将语音交互深度融入工作流程、客户服务和多种设备。新资金将用于强化其语音模型能力、扩大团队并拓展市场。随着语音技术从简单通话走向复杂任务处理，Ringg希望借助端到端语音解决方案，在快速增长的印度及全球AI语音市场中占据一席之地。"
-    },
-    {
-      "title": "The spread of artificial intelligence (AI) and automation is rapidly decreasing the number of new jo.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84WVhvWGJwVENTR1RkOUw0S2kzQVdreDAxNkZiYmc4SXNnNjR2UEpzeGRyZmhzTVgyVlVGN1MwQjlJeDVvMkd6ZmI1UXlxQ0E?oc=5",
+      "title": "Companies are introducing artificial intelligence (AI) rapidly increasing, but it is still not easy - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81RXdSaDhJZHoyQXl6bTl3SGhyT2VDQ2R2R1ZZNEItY0dSWHNOMU1oSjJDUHZNLTYySTYyS05UWmU4Wk1CWFo2VzVnS3NXSTB0dFJWRVdxdno?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-26T02:09:24Z",
-      "summary": "据韩国媒体《每日经济》报道，人工智能和自动化的普及正导致新增就业岗位数量迅速减少。文章分析认为，生成式AI和智能机器人正在替代大量重复性、规律性工作，尤其在制造业、客服和数据处理领域影响明显。虽然AI也创造新岗位，但转型速度远不及旧岗位消失的速度，导致就业市场结构性压力加大。专家呼吁加强技能培训和再教育体系，帮助劳动力适应AI驱动的经济转型。"
+      "publishedAt": "2026-08-26T08:11:54Z",
+      "summary": "《每日经济》报道指出，虽然企业引入人工智能的速度正在快速增长，但落地实施仍非易事。文章分析，许多公司在部署AI时面临数据质量不足、人才短缺、集成成本高以及组织文化阻力等挑战。尽管AI技术日趋成熟，但从试点到规模化应用之间仍有较大鸿沟。专家建议企业应制定清晰的AI战略，投资于数据治理和人才培训，才能实现技术与业务的真正融合。"
     },
     {
-      "title": "The introduction and utilization of artificial intelligence (AI) will be in full swing in major deci.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85YzV6VmlTaU1YU3VSVmIzZ21haUgwcUZHYmZ1bHVrVVowa1dDNmVITS1JOTA5Tll6cHJ1TmJIY1VRSjhrdXNLT3pzUXE5S1JDY3Bz?oc=5",
+      "title": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdU40bG1VdWJuMWJGR3NrTTloZzVNV1V2VlBBNTQ1LW40UkxqQUV0cWV5a1NOX2hSLVhWVkladllLaUR6RWZsSXQwZ2hEckhJUUx0c1h3elFrWHN1MXhXMnVxQm9GV1RNaXAwbThoU3JKSTBoeHNVdjNB?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-26T01:57:14Z",
-      "summary": "韩国媒体《每日经济》报道称，人工智能的引入和利用将在主要决策领域全面展开。文章指出，从企业战略规划、金融投资到政府政策制定，AI正越来越多地参与关键决策过程。AI能够处理海量数据、识别模式并预测趋势，帮助决策者提高效率和准确性。然而，这也带来决策透明度、算法偏见和责任认定等新挑战。各方需要建立监管规范和伦理标准，确保AI辅助决策的可靠性与公平性。"
-    },
-    {
-      "title": "Who gains in an AI-supercharged economy? - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXdNenNWZnZQMHJYR1E1ajV6aG05M2VYUmw3bGhXbm4xc2d6WDZsZ29zX05PWThKV3RKdnVrelBPRFVfWURxQ2RWZmZWbUhtbGJqYkl4TlExMTlWUS1nOHhWZktnRWdFNXF1ZWtiS0pmN2F1bVYtYkNEN29yTlk4WXU3TEx5LW83VTJzMldVeU9iQmc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-26T01:53:56Z",
-      "summary": "日本时报发文探讨AI赋能经济中的获益者问题。文章指出，AI带来的生产力提升和企业利润增长并非均匀分布，预计资本所有者、高技能技术人才和大型科技平台将获得最大收益，而中低技能劳动者可能面临工资停滞或失业风险。文章还讨论了政府如何通过税收、教育投入和社会安全网调节AI红利分配，以避免贫富差距扩大。公平的AI经济需要政策制定者主动介入，而非仅依赖市场自发调节。"
-    },
-    {
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-26T00:40:59Z",
-      "summary": "据TechCrunch报道，机器人初创公司Generalist完成2亿美元融资，估值达到30亿美元。此次融资距该公司估值达到20亿美元仅数月，显示出投资者对物理AI和通用机器人技术的强烈热情。Generalist致力于开发能够执行多任务的通用机器人系统，其技术结合AI感知、决策与运动控制，有望在工业、物流和服务场景中广泛应用。新资金将用于加速产品研发、扩大团队并推进商业化落地。"
-    },
-    {
-      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTRIUDBYQWZnU3dTSGNmb012T2VvcDYxOHhleFhhZmY0NUZJaEhJMlZFRTIyZzQ2d1JrS0ZLd3F5LTkwVXQyaElOWVhxRTdPZVhsT1BlOUFWekNranBlRWRGM0t2YnFvMjI2ZnphV2pzUFNXeWFWcmZMN1hFTkJoekFqNGZiQzNmWWRtSnF4UkJ3VG1Vek05VlM2WW51OVJJeFVwZkU4VW7SAa4BQVVfeXFMTnZiS2ZVSnIxeHozVFRvb2NVVFFPSFhtWjcwczVVMWxjV1h0dktFbHZsSUZrSWlNQmRBaHFtaXNMWGFyMDZKYUhSZTdsNVBpaUdqaGxPb05TeGJSdmRmRTRFYktBRjRKVUc2dHZiZ2FqWXRfZWJlb3RibzdtaHk1SXdFLUQ5SkZlVElTbUlGZUIzNk5lUElhbDRud0RPZlBlZy13S1BHVkV5eVItWk9R?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-26T00:34:00Z",
-      "summary": "CNBC报道称，亚马逊一项曾被贝索斯称为“人工人工智能”的服务即将关闭。该服务本质上是将后台任务外包给众包工人，模拟AI完成图片标记、数据审核等工作。随着大语言模型和机器学习技术的成熟，这种依赖人力的众包AI模式逐渐失去竞争力。亚马逊关闭该服务反映了AI技术迭代带来的业务模式淘汰，也显示传统众包标注正在被更先进的自动化方案取代。"
+      "publishedAt": "2026-08-26T07:01:07Z",
+      "summary": "《纽约时报》报道，比尔·盖茨发出警告，认为人工智能的危险性超过大型科技公司所公开承认的程度。盖茨虽然看好AI在医疗、教育等领域的潜力，但呼吁行业和监管机构正视其可能带来的深度伪造、就业冲击、安全失控等风险。他强调，AI的发展需要更强的透明度和责任机制，不应由科技巨头独自决定其未来方向。这一表态为当前AI热潮增添了重要反思声音。"
     }
   ]
 }
