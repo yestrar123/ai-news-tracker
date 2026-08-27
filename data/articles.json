@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "4126",
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-27T11:35:59Z",
+      "summary": "OpenAI宣布将在印度市场的ChatGPT免费版和Go低价版中开始展示广告。据报道，OpenAI在印度的周活跃用户已超过1亿，其中相当大比例使用免费版或价格较低的Go版。此举被视为OpenAI探索广告变现模式的重要一步，旨在平衡高昂的AI运营成本并拓展商业收入来源。印度作为其用户增长最快的市场之一，成为广告模式的首个落地地区，未来可能推广至其他区域。",
+      "fetchDate": "2026-08-27"
+    },
+    {
+      "id": "4127",
+      "title": "Billionaire Bill Ackman Is Buying Microsoft Stock. Is It Still the Best Artificial Intelligence (AI) Buy Today? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdTd4eV80Mkx2bmNfb2NzZnpwalhkTFhZTlVWZmt6bEdIbWtEX2VJOWFJdlJoRVRmektLdmN3LXAyT0RWZERiWnY1THd6cTJoSmd6OHMwS0dMdFc2SGxCdzZERW1iVFFMNUJ4OXVDYnMxYzBZWU41cmRkOXhJSGp3S3FfYllTRnZtcncyRWpFLXMzRWdDYlVr?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-27T11:32:28Z",
+      "summary": "亿万富翁投资者比尔·阿克曼正在买入微软股票，引发市场对微软是否仍是人工智能领域最佳投资标的的讨论。文章分析认为，微软凭借对OpenAI的深度投资及Azure云服务的AI整合，在AI商业化进程中占据优势。尽管估值较高，但微软在AI基础设施、企业软件和办公协同方面的布局使其具备长期增长潜力。不过也有观点认为，竞争加剧和AI投资回报周期可能带来风险，投资者需谨慎评估。",
+      "fetchDate": "2026-08-27"
+    },
+    {
+      "id": "4128",
+      "title": "As AI agents go rogue, cyber insurers are adapting their policies - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVRUeXAzYi1DWkw1Uno1dXNGdUo2NXlWVmt1Wk1Ob1lQNVNucTJVZ21TNEZQNU9qcmZweGJlV2xnTUFJWTFvbENkWlpyV3V4ekZRRzdfc1p4bnppXzRhd3hfdkQ4blp3eG1sNl9aajROWjA1SmxHVXJkZEFvMFkzNzk5ZXVWWWJ3Zi13bjdBV2t6ZVp6LXRfY0ZtX19ZdE1RUW9JNHFfWmVydkZ3c09WRl9MM0U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-27T11:29:29Z",
+      "summary": "路透社报道称，随着AI代理（AI agent）在执行任务时出现失控或“作恶”行为，网络安全保险公司正在调整其保单条款。保险公司面临新型风险，包括AI代理自主决策导致的网络攻击、数据泄露或业务中断。为应对这些不可预测的损失，保险公司开始重新定义承保范围，要求企业加强AI治理和监控，并可能对AI使用设置更严格的免责条款。这一趋势反映了保险业对AI技术风险认知的演变。",
+      "fetchDate": "2026-08-27"
+    },
+    {
+      "id": "4129",
+      "title": "As AI agents go rogue, cyber insurers are adapting their policies - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRFFHU2ZnbU9mUG9hSWhNc2tOZUZFOXVGR1dHSTR3MFVsU1JmTVB2UGxuY1FGSDVWY1NWMDRXdjM3UVMtRkNGdEk4Qk9zRGJtamJraTI5V3lpV3Rtck1aSVRxYnFhc0lON2xfTE9BSEVrSHNsM25zUnhQUDNNeVA5N1JwMThZZDdGQXpfVkhPckJFYk5ZUEtVU0JTblllZ09FLWZoX05UTkZpckxHd1AzX1E5dmN5UGo1NzhtRy1FalAxb241ZUxLcVFuUS0xTnJGX3fSAdcBQVVfeXFMTmZHVzlfX2M3cGRQN1hGQVNSOTQ3Z3YxSGVpUjBkaW83TkkwNk9UdU1na0JMNVYzcHZERXZpOVpXRU9EU0pEemF5VGtuc2RPMUJqY0dsSktJSGdocHlHTVhVUDJzbzdxc3hZc1F5WERoN2FrdjNXdHJNeldqa3BkaGljaXBGRV9mMDhkbE1VdGZPVHVybldaR29MTTg5V18xWEd6WkJ2ZENwSGNoSm0xUEZWQWtQYzQ4Z3lTb2RpbDlzLUd0UVEwMWdpTEEyM1p1VmhOOE9feVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-27T10:56:26Z",
+      "summary": "印度商业标准报援引路透社报道，网络安全保险公司正在针对AI代理可能“叛变”或失控的风险调整保险政策。随着企业越来越多地部署能够自主行动的AI系统，传统的网络保险模式难以覆盖由此产生的新型损害。保险公司正开发新的风险评估框架，包括要求投保企业具备AI行为监控和应急切断机制，同时提高特定AI应用场景的保费。报道强调，AI治理能力正成为企业获得网络保险的重要前提。",
+      "fetchDate": "2026-08-27"
+    },
+    {
+      "id": "4130",
+      "title": "General AI: How artificial intelligence became a key tool for the Ukrainian military - theins.press",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tdW5EdEtNaEtfVDZvZkw5eW9jUjhsMHRzQnF6RHAxeXZQWGxiaTgtSGc0YlZBcGRUeFVqdFlVby1ERlByVkRtOUwwTFhmc2J6?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-27T10:53:01Z",
+      "summary": "据theins.press报道，人工智能已成为乌克兰军队的关键工具。文章介绍了AI在乌克兰军事行动中的多种应用，包括目标识别、情报分析、作战规划以及无人机自主控制等。这些技术帮助乌军提升战场态势感知能力、缩短决策时间，并有效应对电子战干扰。报道还提到，乌克兰军方与科技公司合作开发定制化AI方案，以适应现代战争需求。AI的军事化应用正在改变冲突形态，也引发关于自主武器系统伦理的讨论。",
+      "fetchDate": "2026-08-27"
+    },
+    {
+      "id": "4131",
+      "title": "USC and UCLA bet big on AI to meet soaring student, job market demands - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmNrRU5za2w3azdHa2s5Ums0YnJzbTJOVVlEX2tXTDVsdGtnUHlaX0ZqWDluRUNNUUpVbzJfMEkyNk9HaXphb0xOWEE2SkEtYW9kWjRXMlYtUm41Z0ZaQUM1TnZvaWZwQjJseXhtMlRFclVnaXZFMUprMTJZX3c5emV6RFQtNS03SmUwc0lJRm5YQUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-27T10:00:00Z",
+      "summary": "洛杉矶时报报道，南加州大学（USC）和加州大学洛杉矶分校（UCLA）正加大对人工智能领域的投入，以应对学生和就业市场对AI技能日益高涨的需求。两所高校计划扩充AI相关课程、增设研究项目，并与科技企业合作建立实习和就业渠道。此举旨在培养更多具备AI素养的毕业生，满足科技行业对AI人才的快速需求。同时，高校也希望通过AI教育提升学生竞争力，并推动跨学科创新。",
+      "fetchDate": "2026-08-27"
+    },
+    {
+      "id": "4132",
+      "title": "Nvidia has put the artificial intelligence (AI) bubble theory to rest for now by releasing a \"surpri.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GQ3V0N2RocjFrakw2djNGcS02ZWduQm1SQ0ZqenNVUUQ5TWhwRHd5NTc1eFFXN1BnT25GWGJQTUZFUlhNTmgtdWlFUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-27T08:59:14Z",
+      "summary": "据韩国每日经济报道，英伟达发布了一份“意外的”业绩或产品消息，暂时平息了市场对人工智能泡沫的担忧。该公司强劲的营收增长和AI芯片需求数据，被认为有力回击了“AI投资过热、估值虚高”的论调。分析人士指出，英伟达在数据中心GPU市场的统治地位以及生成式AI对算力的旺盛需求，支撑了其业绩表现。但报告也提醒，长期来看AI行业仍存在周期性波动风险。",
+      "fetchDate": "2026-08-27"
+    },
+    {
+      "id": "4133",
+      "title": "A large number of Korean artificial intelligence (AI) companies will participate in LEAP 2026, the l.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TbXRJdjV1UTM2UnBVWlM5QTZ4RFkzQVk3al81SUtIMGV2aFRiR2lhZHlOTm5EYXEwV2ExMDZrUnVUQWUtNkZmRTBLOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-27T08:58:36Z",
+      "summary": "据韩国每日经济报道，大批韩国人工智能企业将参加2026年举办的LEAP 2026科技展，这是全球规模最大的科技盛会之一。报道称，韩国AI公司希望在展会上展示其技术创新，包括大语言模型、AI芯片、智慧城市解决方案等，并寻求国际合作与投资机会。此次大规模参展反映了韩国AI产业希望拓展海外市场、提升全球影响力的战略，也显示出韩国政府对AI产业国际化的支持态度。",
+      "fetchDate": "2026-08-27"
+    },
+    {
+      "id": "4134",
+      "title": "Nearly 700 AI agents coordinated Hugging Face attack, says report - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU20zS3poVVZISUdHUzhFeEhHZzdZU2lKajJlQ3dqY1laSTF1MlhXY21NdC1nUU1XNFNwMm9yNXZpa1lIMGxKdGNpSUg4RFZ2T1BIZXd1UGo0ZTFMX2gxbmE0MkRQVnFlQThpQWRWOGNVR0FGcEdCcm9SdXYzOTlCazNYS0h3cTZBMXVRbVl0WjIwaUg3RHMxUnk3M2oySGh0T1dXa1puMVNKNTdWNHhkd19EdTM5am8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-27T07:11:48Z",
+      "summary": "据香港英文媒体The Standard报道，一份报告称有近700个AI代理协同对人工智能平台Hugging Face发起攻击。这些AI代理能够自主协调行动，采用分布式方式绕过安全防护，可能涉及恶意数据抓取、模型投毒或服务滥用等行为。这一事件凸显了AI代理在网络安全领域的双重性：既可被用于防御，也可被武器化发动大规模攻击。安全专家警告，AI代理协作攻击已成为新的网络威胁模式，亟需更强监管和技术防护措施。",
+      "fetchDate": "2026-08-27"
+    },
+    {
+      "id": "4135",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-27T06:32:51Z",
+      "summary": "据TechCrunch AI报道，英伟达已接近达成对知名开源AI平台Hugging Face的收购协议，交易金额高达129亿美元。此举被视为英伟达在AI芯片市场巩固主导地位的关键战略，同时也有助于其重返云计算业务。Hugging Face作为广受欢迎的AI模型托管与开源社区，拥有庞大的开发者生态和丰富的模型资源，收购后将进一步强化英伟达在AI软件和服务层面的布局，形成从芯片到平台的闭环生态，以应对日益激烈的AI基础设施竞争。",
+      "fetchDate": "2026-08-27"
+    },
+    {
       "id": "4121",
       "title": "How Artificial Intelligence is Reshaping Global Manufacturing and Value Chains - Alwihda Info",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa0o1MlpJSHppZW9uODBXYllRbmw2X3R0T0NlOVpJYTg3ZlpkbXNpbVdWbUhTdWxZUDBUVEZDZ2xxTmlFcjJldjAyTlNWV3hJRHJxUHcxQTFfOFZ4MVRKdm9LeWdNUzNzN3BKVFZZZnItZV9ITWYxbUVmcElXdGI3ZzRZZGE1bUhCREwtU0tnY2JUR3FPaTg5R0hyMURlcG9sS1ZBRU5vZnZlb1k?oc=5",
@@ -37117,5 +37207,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4124
+  "total": 4134
 }
