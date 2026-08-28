@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "4171",
+      "title": "Philippine Teens Win International AI Olympiad Debut - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWxQSElvQmIzWlpkanY1REpRbnpiTTRwSkFFdG0yMVVSbFJCUHdXd0N4cUd1OFFfcThPaWVvNjZLQk1QWEhLWDE1eHk2VXVQSlkxb2N1VUtxUlo1ZXA3YzhIOXJCNlZhVDZubktYSnU0VGtaOFBqWEpfQW1WcHhOblFTNG55R0lQRFFSbUJSUEJGNDY2TjM0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-28T15:47:04Z",
+      "summary": "菲律宾青少年团队在国际人工智能奥林匹克竞赛中首次亮相便赢得奖项，成为该赛事的一大亮点。据报道，这些学生展示了扎实的AI理论基础与实践能力，在编程、机器学习算法和模型优化等项目中表现出色。此次参赛不仅提升了菲律宾在AI教育领域的国际可见度，也反映出该国对STEM教育和AI人才培养的重视。团队的成功激励了更多东南亚学生投身AI学习，同时凸显了国际竞赛在促进跨文化交流和技术进步方面的作用。文章认为，这一成绩对菲律宾乃至整个区域的AI教育发展具有积极意义。",
+      "fetchDate": "2026-08-28"
+    },
+    {
+      "id": "4172",
+      "title": "Nvidia denies pausing AI cloud commitments initiative after reported partner backlash — report claims company told cloud providers it could only lease its GPUs to Nvidia-approved customers - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxORHRsQjFKd3VxWWctMk83YlZyNTdnRWpuS21tWndyYzQ4NU9mNnRRMXBVbVhHQm5mT1EtMWZUODRITDFwX05XazZkYlVzOEJNajhzOFA0dWVmdEJUVW1fMUY3ZHhDODVEelg5eWVHOXlNRWZhSkU1VDBmLTZ4OWhJZkV3T0N1RFRGcWRMMktyMUFvNVp5YlhXMk50Y3lmRDJoZlkxR2xYRkVpNDlIMGNTak81VlZIaS1iaThxeUZtd2F1anlVZFgzR2tTeEw3cGdRR1o1WmUwcERwckpKX2cwekE0TGdEWXFOQkFYYzkzQTNIX0N2Q18weVV1alVBZkVxcWtRdTcyU3FKdk5CSGQtbHpTQlBmTjF1cEt4eDg3YmpXbFN4YUQtckNENUJMRHBpdVFJa180UGZZNk45cWU5STlHc3Jna1R0MHpYUWdHZDBSZlRMZjcwTG5PRWhnZWJKcENvNzBpcTdrOEViTnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-28T13:13:58Z",
+      "summary": "据报道，英伟达否认暂停一项AI云承诺计划，此前有消息称其合作伙伴对此表示不满。据称，英伟达曾告知云服务提供商，其GPU只能租赁给英伟达批准的客户，这一政策可能引发部分合作伙伴的反弹。英伟达澄清称相关报道不实，表示并未停止该计划。此事反映出AI算力市场供需紧张背景下，芯片巨头与云服务商之间的权力博弈。分析认为，英伟达对高端GPU的分配和租赁规则将直接影响AI行业的发展格局，其决策受到广泛关注。",
+      "fetchDate": "2026-08-28"
+    },
+    {
       "id": "4160",
       "title": "More than 100 tech companies warn of imminent AI-driven cyberattacks - BetaNews",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NQlk0ZE9yUWV2Q2FRQ0hhSHRCRHc4QWFiZkJsQnFhRVVRYzRlVmdkZVhUTm1SLXZYbWhKQ3lLdFlTX1Znb2VOTVYxOUZqM0NhRFpJMEZHTnhFMUdjRGMwbXZxQUF3Z1BTcDQ2S2poZVptREk3TFA2cnZ3?oc=5",
@@ -37522,5 +37540,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4169
+  "total": 4171
 }

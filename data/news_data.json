@@ -1,90 +1,62 @@
 {
-  "updatedAt": "2026-08-28 13:34:52 UTC",
-  "totalArticles": 12,
+  "updatedAt": "2026-08-28 17:50:38 UTC",
+  "totalArticles": 8,
   "articles": [
+    {
+      "title": "Nicola Coughlan and Matt Lucas among stars backing campaign against AI voice cloning - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVlOVll5UDRlc2FEcW1ibmY5QTNVdDU4ZGJGZjYxR2c4b0N0ZmFNckRiVERVQ0xEQl9nSWFoa0Nnc3BjS3BkYm9taDhGVHRwcVZTcDRlYmVIZHp0Y0ZOTE1SWjJuVkxoaHBnRjBMbl9wclVrUy12SkF0aUx4WUJjUUlPbl8yMGVNSEJ2T1ZvY2VSYkwwc1o1YmhTM0hhMDd5M3FNOGxMTnplWHdhVEttNmNJZ3V4VE5tZkxlbHo4TQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-28T17:25:00Z",
+      "summary": "英国演员尼古拉·考夫兰和马特·卢卡斯等知名人士公开支持一项反对AI语音克隆的运动。该运动旨在呼吁立法者加强对AI生成语音技术的监管，以防范未经授权的声音复制和滥用。随着AI语音合成技术日益成熟，模仿真实人物声音变得愈发容易，这引发了对身份盗用、虚假信息传播和隐私侵权的担忧。支持者认为，应制定明确的法律框架，保护个人声音权益，并要求AI企业在使用真人声音数据时获得明确同意。此次联名背书使该议题获得更广泛的社会关注。"
+    },
     {
       "title": "The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-28T13:10:25Z",
-      "summary": "盖茨在其博客gatesnotes.com发文指出，喧嚣动荡的AI时代已经来临，当前做出的选择至关重要。文章强调，AI技术发展迅猛，带来的机遇与风险并存，需要社会各界在伦理、政策、安全等层面审慎决策，以确保技术造福人类。盖茨呼吁决策者、企业和公众共同参与塑造AI未来，避免因短期利益或盲目乐观而忽视长期影响。"
+      "publishedAt": "2026-08-28T17:21:11Z",
+      "summary": "比尔·盖茨在其博客gatesnotes.com发文指出，动荡的AI时代已经到来，当前所做的选择至关重要。他强调，AI技术正以前所未有的速度改变社会、经济与全球格局，同时也带来就业、教育、安全和伦理等多重挑战。盖茨呼吁政府、企业和公众共同参与决策，确保AI的发展方向符合人类福祉。他认为，在技术快速演进的当下，短期选择将产生深远影响，因此需要谨慎规划、加强合作，并建立负责任的AI治理机制。文章的核心观点是：AI时代的未来并非由技术本身决定，而是由人类的选择塑造。"
+    },
+    {
+      "title": "Philippine Teens Win International AI Olympiad Debut - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdWxQSElvQmIzWlpkanY1REpRbnpiTTRwSkFFdG0yMVVSbFJCUHdXd0N4cUd1OFFfcThPaWVvNjZLQk1QWEhLWDE1eHk2VXVQSlkxb2N1VUtxUlo1ZXA3YzhIOXJCNlZhVDZubktYSnU0VGtaOFBqWEpfQW1WcHhOblFTNG55R0lQRFFSbUJSUEJGNDY2TjM0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-28T15:47:04Z",
+      "summary": "菲律宾青少年团队在国际人工智能奥林匹克竞赛中首次亮相便赢得奖项，成为该赛事的一大亮点。据报道，这些学生展示了扎实的AI理论基础与实践能力，在编程、机器学习算法和模型优化等项目中表现出色。此次参赛不仅提升了菲律宾在AI教育领域的国际可见度，也反映出该国对STEM教育和AI人才培养的重视。团队的成功激励了更多东南亚学生投身AI学习，同时凸显了国际竞赛在促进跨文化交流和技术进步方面的作用。文章认为，这一成绩对菲律宾乃至整个区域的AI教育发展具有积极意义。"
+    },
+    {
+      "title": "Nvidia denies pausing AI cloud commitments initiative after reported partner backlash — report claims company told cloud providers it could only lease its GPUs to Nvidia-approved customers - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxORHRsQjFKd3VxWWctMk83YlZyNTdnRWpuS21tWndyYzQ4NU9mNnRRMXBVbVhHQm5mT1EtMWZUODRITDFwX05XazZkYlVzOEJNajhzOFA0dWVmdEJUVW1fMUY3ZHhDODVEelg5eWVHOXlNRWZhSkU1VDBmLTZ4OWhJZkV3T0N1RFRGcWRMMktyMUFvNVp5YlhXMk50Y3lmRDJoZlkxR2xYRkVpNDlIMGNTak81VlZIaS1iaThxeUZtd2F1anlVZFgzR2tTeEw3cGdRR1o1WmUwcERwckpKX2cwekE0TGdEWXFOQkFYYzkzQTNIX0N2Q18weVV1alVBZkVxcWtRdTcyU3FKdk5CSGQtbHpTQlBmTjF1cEt4eDg3YmpXbFN4YUQtckNENUJMRHBpdVFJa180UGZZNk45cWU5STlHc3Jna1R0MHpYUWdHZDBSZlRMZjcwTG5PRWhnZWJKcENvNzBpcTdrOEViTnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-28T13:13:58Z",
+      "summary": "据报道，英伟达否认暂停一项AI云承诺计划，此前有消息称其合作伙伴对此表示不满。据称，英伟达曾告知云服务提供商，其GPU只能租赁给英伟达批准的客户，这一政策可能引发部分合作伙伴的反弹。英伟达澄清称相关报道不实，表示并未停止该计划。此事反映出AI算力市场供需紧张背景下，芯片巨头与云服务商之间的权力博弈。分析认为，英伟达对高端GPU的分配和租赁规则将直接影响AI行业的发展格局，其决策受到广泛关注。"
     },
     {
       "title": "More than 100 tech companies warn of imminent AI-driven cyberattacks - BetaNews",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NQlk0ZE9yUWV2Q2FRQ0hhSHRCRHc4QWFiZkJsQnFhRVVRYzRlVmdkZVhUTm1SLXZYbWhKQ3lLdFlTX1Znb2VOTVYxOUZqM0NhRFpJMEZHTnhFMUdjRGMwbXZxQUF3Z1BTcDQ2S2poZVptREk3TFA2cnZ3?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-08-28T12:58:45Z",
-      "summary": "BetaNews报道称，超过100家科技公司联合发出警告，指出由AI驱动的网络攻击即将来临。这些公司认为，AI技术正被恶意行为者利用，大幅提升攻击的自动化程度、精准度和破坏力，包括智能钓鱼、深度伪造和自适应恶意软件等。警告呼吁企业和政府加快AI安全防御体系建设，加强合作与监管，以应对日益严峻的网络安全威胁。"
+      "summary": "超过100家科技公司联合发出警告，称由AI驱动的网络攻击即将到来，可能对全球网络安全构成严重威胁。这些公司指出，AI技术正被恶意行为者利用，用于自动化攻击、生成高度逼真的钓鱼邮件、突破安全防御以及大规模窃取数据。随着AI工具日益普及，攻击者的成本大幅降低，攻击频率和复杂度预计将显著上升。联名警告呼吁企业和政府加强防御措施，投资于AI安全研究和威胁情报共享，并制定更严格的监管政策。报告强调，网络安全领域需要一场由AI驱动的防御革新，以应对即将到来的攻击浪潮。"
     },
     {
-      "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
       "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-28T12:46:12Z",
-      "summary": "Anthropic公司在一起针对五角大楼的诉讼中取得首次法院胜利。联邦法官裁定，特朗普政府将Anthropic列为供应链风险的做法非法。这一裁决是对Anthropic的重要支持，目前该公司在华盛顿地区还有第二起针对五角大楼的诉讼正在进行中。该案可能对AI企业与国防部门的合作方式产生深远影响。"
+      "summary": "AI公司Anthropic在针对五角大楼的诉讼中取得首次法院胜利。联邦法官裁定，特朗普政府将Anthropic标记为“供应链风险”的做法非法。此前，美国国防部将该公司列入风险名单，可能影响其政府合作机会。法院的裁决认为该标签缺乏正当程序，不合法。Anthropic目前在华盛顿还有第二起针对五角大楼的诉讼正在进行，本次胜诉为其后续法律行动提供了有利先例。该案件凸显了AI企业与美国政府之间在安全审查和商业合作方面的紧张关系，也引发对政府标签权力边界的讨论。"
     },
     {
-      "title": "Nicola Coughlan and Matt Lucas among stars backing campaign against AI voice cloning - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWVlOVll5UDRlc2FEcW1ibmY5QTNVdDU4ZGJGZjYxR2c4b0N0ZmFNckRiVERVQ0xEQl9nSWFoa0Nnc3BjS3BkYm9taDhGVHRwcVZTcDRlYmVIZHp0Y0ZOTE1SWjJuVkxoaHBnRjBMbl9wclVrUy12SkF0aUx4WUJjUUlPbl8yMGVNSEJ2T1ZvY2VSYkwwc1o1YmhTM0hhMDd5M3FNOGxMTnplWHdhVEttNmNJZ3V4VE5tZkxlbHo4TQ?oc=5",
+      "title": "After Losing More Than $1 Trillion in Market Cap, This Artificial Intelligence (AI) Stock Will Become the Most Valuable Business in the World, According to Elon Musk - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnA5bFQ2NHFPVkdFSXNkT0FCYUxfTzUxVHRFei1PcXRyeUFqTUhlNi14Y3AzdGtSek81Sk9UVnNVa21NbFJHTFY3QXY0Ui1JQTY2bXNtaDNVQlpvamJTOGtKM19HVlRfYlRDZWdGMGJVRVprak5SVGdPWi1uQ1dsZ1pNSFFDMXdlbTE4Zkd1ZHJpbzcwam9NRA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-28T12:28:00Z",
-      "summary": "据《卫报》报道，演员Nicola Coughlan和Matt Lucas等众多明星联合支持一项反对AI声音克隆的 campaign。该活动旨在呼吁立法机构加强对AI克隆声音技术的监管，防止其被滥用于欺诈、虚假信息传播和侵犯个人权益。明星们利用自身影响力，希望推动公众关注AI语音技术滥用问题，并促进行业建立更严格的伦理规范。"
+      "publishedAt": "2026-08-28T12:45:00Z",
+      "summary": "据The Motley Fool报道，埃隆·马斯克预测，一家在市值蒸发超过1万亿美元后的人工智能公司，未来将成为全球最具价值的企业。虽然报道未明确点名具体公司，但结合上下文，外界普遍认为马斯克所指的可能是特斯拉。特斯拉近期因AI和自动驾驶业务受到质疑，市值大幅缩水。然而，马斯克仍坚信其AI技术潜力巨大，认为公司在下一阶段将实现价值跃升。这一言论引发投资者对AI概念股前景的重新评估。文章同时提醒，市场预测具有不确定性，AI领域的竞争和监管风险仍需警惕。"
     },
     {
       "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
       "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-28T12:21:06Z",
-      "summary": "Meta一位高管Sandhya Devanathan离职并加入OpenAI，其在Meta期间曾任印度市场负责人等重要职务。新职位上，她将负责OpenAI在东南亚和澳大利亚的部分运营工作。此次人事变动正值Meta在印度面临日益严格的审查之际，也反映出AI行业人才争夺战日趋激烈。"
-    },
-    {
-      "title": "After Losing More Than $1 Trillion in Market Cap, This Artificial Intelligence (AI) Stock Will Become the Most Valuable Business in the World, According to Elon Musk - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnA5bFQ2NHFPVkdFSXNkT0FCYUxfTzUxVHRFei1PcXRyeUFqTUhlNi14Y3AzdGtSek81Sk9UVnNVa21NbFJHTFY3QXY0Ui1JQTY2bXNtaDNVQlpvamJTOGtKM19HVlRfYlRDZWdGMGJVRVprak5SVGdPWi1uQ1dsZ1pNSFFDMXdlbTE4Zkd1ZHJpbzcwam9NRA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-28T11:51:44Z",
-      "summary": "据The Motley Fool报道，埃隆·马斯克预测，尽管某家AI公司市值已蒸发超过1万亿美元，但它未来将成为全球最具价值的企业。虽然文中未明确点名，从上下文推断该企业可能为特斯拉。马斯克的言论反映出其对AI相关业务长期价值的坚定信心，但市场分析师对此看法不一，投资者仍需谨慎评估风险。"
-    },
-    {
-      "title": "AM Intelligence to set up a 30-MW artificial intelligence compute facility in Hyderabad by March-April 2027 - BusinessLine",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTU5qNnNlYThOY0ZyQ1JEUXVNS20yN0NZWmhudmtvVm5OaW50Y21jYWRheXNCaVJZYXBiZE9aRTlMVHJqMmQ4T2RjZGM4dG1TQl94dmZyZFowVGZON1ZtVzljajdVMFJFSnc2V3hwb05TNVZ3T2xWamQ5bFlMV1Ewbi1aeEM3bFhNSmtyOGdaM1BDbVJLUWJEMXYwcG80VjY1VWRWTjRucVVKcUQ2Zy02Q0NVa2NQR19uamFhQUFWVUtBOVc0ZGdZ0gHOAUFVX3lxTE5DamttdWNaTzBmMFpIMjFJYUZnaUpsSHp2OTkxcHlJYUZGT1UwQmRfSkRQVWpGMllqLXBONmJFdU9RWHllRVZrYTlMdUhRX09BM3lCUGF2Nzk5b0d5dHFNMmk4QmFVU1FDY3BXakNQNWxscHpBZUttRGc5N3RvSkdsVEhtcm9vR2M5djFNdnItVm1sLU53bWNoZHRabUY3YVRpaUpIOHFuOGFnRC1VMlFlNk5SMzU4cE1JQ1dSdFhpRUFuMERXM01CT09iczFn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-28T11:43:30Z",
-      "summary": "BusinessLine报道，AM Intelligence公司计划在印度海得拉巴建立一座30兆瓦的AI算力设施，预计于2027年3月至4月投入使用。该设施将支持大规模AI模型训练与推理任务，加强印度在全球AI基础设施领域的竞争力。此举也符合印度政府推动本土AI生态发展的战略，有望吸引更多科技投资并促进当地数字经济发展。"
-    },
-    {
-      "title": "2 Premier Artificial Intelligence (AI) Stocks That Can Plunge Up to 63%, According to Select Wall Street Analysts - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVlsNHlqU3F2TXhocDdkZllmSFR0X3NKUDZabkoweFhiU19WWUVibktLWkJVMHh6N0tHR3ptX21hcnM1NXJwRG1GOHBrX3VwZW12d0tIbjNZY0FWSXVGVVdMQW1lNFVoR2luMXBaRHVjcXVTVFhyeENoNUVpb090MG9PdzREamRTVHhCWVJjbHRqN3RCbEpudmZIMFItSlMwbUNF?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-28T11:26:00Z",
-      "summary": "Yahoo Finance援引华尔街部分分析师的预测指出，有两只被视为顶尖的AI股票未来可能下跌高达63%。分析师认为，尽管这些公司在AI领域具备领先地位，但当前估值过高，市场对AI增长预期已过度乐观。报告提醒投资者注意股价回调风险，并建议在投资前仔细评估基本面和技术周期等因素。"
-    },
-    {
-      "title": "Zuckerberg's secret AI plan to remake Meta's workforce collapsed - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vNlg3NkQ3emNHcFRaNUhlVXV5eVBIZ2IyTmRyWHRJOTQ4VloyWHk0UHVTMEdrUG1PRmVXWjFudkQ1eEhxYUxzbkZ3WE1JT3lfX3dxQ3pVS2JXLXFnSmxrdnpOcmZYcGFXQklzVzZZaHBMejhIaGlBVE04QQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-28T11:12:30Z",
-      "summary": "BetaNews报道称，扎克伯格秘密制定的用AI重塑Meta员工队伍的计划已经失败。该计划本欲借助AI自动化大量岗位，减少对人工的依赖，但在实施过程中遭遇技术限制、员工抵制以及监管压力等多重阻力，最终未能达成预期目标。此次失利可能促使Meta重新评估其AI战略，并调整人力资源与自动化的发展路径。"
-    },
-    {
-      "title": "Why AI doesn’t make companies more productive - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWUM5TDE3SjZqWllOd2o1eHNRM0NoQjdFOW9DQi1lLXNubUNNQU0xRWhQeEFPUXBOVWxKRzljcGpraHdQQ1MwTWkxR0V1T1NhQzQ3c1Jzam9QcGwydVlyY1kxYzJyQWlqNzFZaHc4R2NpMDB4TGt5cnItM0tGSXRBVHZvQXlLdXJwTjZvTVZqUTdYX2RMZTUxUWNiOA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-28T11:05:00Z",
-      "summary": "Computerworld刊文分析为何AI未能普遍提升企业生产力。文章指出，许多企业在部署AI时过度强调技术本身，却忽视了流程再造、员工培训和业务适配等关键环节。此外，AI工具的使用成本、数据质量问题和组织惯性也限制了其效能释放。作者建议企业应制定更务实的AI落地策略，将技术融入具体业务场景，才能实现真正的生产力提升。"
-    },
-    {
-      "title": "Cathie Wood Invested Roughly $1.4 Billion of Ark Invest's Flagship ETF in Just 3 Artificial Intelligence (AI) Stocks - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ0p6QTlXRjdGWnM2OGNRUWZ0ZzI2XzBiR1dyUEk5QjJzRTNieml6RFFrUUsweURXU2RFVUt3cGU1cUtMaW1pZ18zMVFyMGxZWlJlQTVyWk5QQjJTVXZRc3RLeFJ4TGVXTnBGX3ZUbWRLaG4yYlJGalpGRFlsRjJ1WXJGZzBUZ3NLZ1Z5MmN4elBKOFE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-28T09:45:00Z",
-      "summary": "据报道，Cathie Wood旗下的Ark Invest旗舰ETF近期将约14亿美元资金集中投入仅3只人工智能（AI）股票。这一投资规模显示方舟投资对AI赛道的强烈看好，也反映出其通过重仓少数核心标的来把握AI技术变革机遇的策略。具体标的信息虽未披露，但此举再次凸显了顶级投资者在AI领域的高押注布局。"
-    },
-    {
-      "title": "Feds spend more than $600K on artificial intelligence projects in northern Ontario - CBC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOE94ZkpMWUVhQXFyWmxqZWtIS3NqZ2J0ajB3WHRQc1hWTUlGUm0tNGlVd2oyOTVLeG51Ri03MEZDcTRadmNfdU91UVJoNG9YZmN2bVJXRDItV2F6NDJyWFAwa2ExU2dnOUF5b3BSYmdRRFczbG5Da1VGZGpIVENNMkg3b3FQdVFpcmZWQTZYMDN3dGxCOUs3Q3JKMDlNTXl2XzBr?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-28T08:00:00Z",
-      "summary": "加拿大联邦政府宣布在安大略省北部投入超过60万加元用于人工智能项目。这笔资金旨在支持该地区的AI技术研发与应用，促进当地科技创新和经济发展。此举体现了联邦层面对缩小地区技术差距、推动AI产业均衡布局的重视，也为安大略北部的相关企业和研究机构提供了新的发展动力。"
+      "summary": "Meta公司高管桑迪亚·德瓦纳坦离职，加入OpenAI，将负责东南亚和澳大利亚的部分运营工作。她此前在Meta担任印度地区负责人，期间推动多项市场扩展和创作者计划。她的离职发生在Meta于印度面临日益严格的审查之际，包括数据隐私、内容审核和反垄断等问题。OpenAI聘请这位资深高管，显示其正加速布局亚太市场，以扩大AI产品和服务的全球影响力。分析人士认为，这一人事变动可能影响Meta在印度的业务策略，同时反映AI行业对高端管理人才的激烈争夺。"
     }
   ]
 }
