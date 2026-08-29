@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "4186",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-29T13:00:00Z",
+      "summary": "英伟达在AI领域的竞争优势正从GPU芯片扩展到更广泛的数据中心基础设施。新一代数据中心系统不再单纯依赖处理器算力提升，而是通过更智能的流量管理和网络调度来优化整体效率。这表明英伟达正从硬件供应商向全栈计算平台公司转型，其AI优势将涵盖芯片、系统、软件和网络等多个层面。随着AI模型规模不断扩大，单纯增加计算周期已难以满足需求，智能化的资源分配成为提高性能和降低成本的关键。",
+      "fetchDate": "2026-08-29"
+    },
+    {
+      "id": "4187",
+      "title": "Telecom Chief Tasks Indigenous Enterprises On AI, Quality At NSACC Session - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3ltNzhkeE10UEdVbkhQU0s5c1pxT1ZIMzF2Q2diTG9EbWdCcEZPd2NTWUU1Ui03LTJVbW1Rb21ncmxTaXZIbDY4eXl4N1pwX1cwMjRaZ0g2dk5hQmRnZzJjOVZ6eXNqZnQ2NVMxWlhvalRkRUZJOEVNMTVOMmFCcWF1STZwRFI3dHBIejFwZHplbVpaLWFsek1NMGlKRmZodlpWUEFmQlo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-29T12:46:42Z",
+      "summary": "在尼日利亚NSACC会议上，电信行业负责人敦促本土企业积极拥抱人工智能并提升服务质量。他强调，在数字化转型加速的背景下，尼日利亚企业必须利用AI技术提高运营效率、创新产品和服务，以增强全球竞争力。同时，他呼吁本土企业注重质量标准的提升，建立可持续的技术生态。这一表态反映出非洲科技产业对AI的重视，以及通过技术创新推动经济发展的迫切需求。",
+      "fetchDate": "2026-08-29"
+    },
+    {
+      "id": "4188",
+      "title": "It's not wrong in itself to overinvest in artificial intelligence (AI) semiconductors, the hottest - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yMmlVbzBfa2xmelZOdXdPWm9aeUsteU45c1dLN1ZRa1lSUDJGaVItNmtXaFZ4Q1ZiT0puU3FRSVRZaHJZRk9DajVrc2k0R28?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-29T12:33:44Z",
+      "summary": "韩国《每日经济》发表评论指出，对人工智能半导体这一最热门领域的过度投资本身并非错误。文章认为，AI技术革命将带来长期而广泛的需求增长，当前投资热潮反映市场对未来算力需求的合理预期。然而，过度投资也可能导致短期泡沫和资源浪费，企业需谨慎平衡扩张速度与市场需求。评论强调，在AI竞赛中保持战略定力和理性判断，比盲目追逐热点更为重要。",
+      "fetchDate": "2026-08-29"
+    },
+    {
+      "id": "4189",
+      "title": "New AI uses a fresh approach to reasoning that's potentially much cheaper - Live Science",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxONkxVUVlPbGY1X0lKQmlkd01uY0J1MFFDQlJjNVdEWDFpNzBQRURabGFtWFg4UHY0Z3NBQmt2ck9iY01heWJDTnBKYWZoNDNmZ0poQ0E0TktoZzM1TFJUVThzejh1eFZPb1FFTGtuam1SR19sbld4TTZfVDhBVTRUWjlxRUJ2MWpxSWVUTlVKQk1xSUtVaGJWRnNIMUVkRHdadkRMb2hZTTlzWDFLX2ZuLURJTHBjWmR2ZGloOUtVb3puaDVoMGs0Wk5MYUNRclA5bzZIcV9HT3FzLURydVFjU1VCWElVNmUteHk0dFVwNHd5LVJmX0cyUHBIUnJRZlo0SEZ3djJEZzhFMld5c0NQWW96TzEzR1dKVW9Gdg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-29T11:00:00Z",
+      "summary": "据Live Science报道，一种全新的人工智能推理方法有望大幅降低成本。该技术采用与传统大模型不同的推理路径，通过更高效的计算机制减少对海量算力的依赖，从而在保持性能的同时显著降低能耗和费用。这一突破可能使AI在资源受限的环境中获得更广泛应用，并推动行业向更可持续的方向发展。研究人员表示，该方法的创新性在于重新设计推理过程，而非单纯优化硬件，为未来AI系统的设计和部署提供了新思路。",
+      "fetchDate": "2026-08-29"
+    },
+    {
       "id": "4185",
       "title": "The Fed confronts a powerful new economic force - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
@@ -37657,5 +37693,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4184
+  "total": 4188
 }
