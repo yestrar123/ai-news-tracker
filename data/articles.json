@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "4190",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-29T18:41:59Z",
+      "summary": "索尼音乐和华纳音乐联合起诉AI公司Anthropic，指控其存在“公然的知识产权盗窃活动”。该诉讼范围广泛，重点聚焦于非法盗版行为——即Anthropic在训练AI模型时未经授权使用大量受版权保护的音乐作品。原告要求法院裁定相关行为侵权，并寻求经济赔偿及禁令。此案是生成式AI与内容产业冲突的最新例证，凸显出AI训练数据版权问题的法律争议日益激烈，可能对未来AI模型的合规训练方式产生深远影响。",
+      "fetchDate": "2026-08-29"
+    },
+    {
+      "id": "4191",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-29T17:36:47Z",
+      "summary": "曾管理a16z约40亿美元生物技术投资业务的维杰·潘德近日表示，他创立的新基金VZVC规模小得多，且专注于AI原生领域，不再追求一年30笔的密集投资。他谈到，生物学正从“发现”科学转向“工程”科学，临床实验成本依然高昂，而开放共享的数据集（而非封闭数据）才能真正推动AI变革医学。潘德认为，小型化、聚焦式投资更能适应新范式，通过资源集中支持关键创新，加速AI在生物医药领域的落地与突破。",
+      "fetchDate": "2026-08-29"
+    },
+    {
       "id": "4186",
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
@@ -37693,5 +37711,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4188
+  "total": 4190
 }
