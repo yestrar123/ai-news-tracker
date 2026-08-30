@@ -1,69 +1,83 @@
 {
-  "updatedAt": "2026-08-30 10:52:21 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-08-30 15:39:51 UTC",
+  "totalArticles": 11,
   "articles": [
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-30T15:00:00Z",
+      "summary": "卡特彼勒公司正将其在自动化采矿领域积累的数十载经验应用于AI部署。该公司长期在偏远矿区部署自主机器，如今将这些实践经验和工程能力迁移到更广泛的人工智能解决方案中，旨在提升运营效率与安全性，并为工业场景下的AI落地提供可借鉴的实施路径。"
+    },
+    {
+      "title": "The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T14:52:37Z",
+      "summary": "比尔·盖茨在gatesnotes.com上发文指出，动荡的AI时代已经到来，当前所做的选择至关重要。他强调人工智能将深刻影响经济、社会和个人生活，呼吁决策者、企业和公众认真思考AI的发展方向，在机遇与风险之间做出明智抉择，以确保技术进步惠及全人类。"
+    },
+    {
+      "title": "Big business has shown small firms what to do – and what not to do – with AI | Gene Marks - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTd3ZIRk5RSmpFMEo5QXd1aG5Xb3ZlcEwtb2w5M1FvR1F5SmMtcTllaEdKZXhoRGVrT1hKZERGVHFXLXkxZ0NNSHpZQVZuS2FtRVVhUWE2azRKbWRMUTcwREF4MkR6aVFCYUdITzQ0aXY4YTduRGZz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T14:02:00Z",
+      "summary": "《卫报》专栏作者Gene Marks撰文称，大企业在AI应用上的成功与失误为小企业提供了宝贵经验。他建议小企业学习大公司如何利用AI优化运营、提升客户体验，同时避免盲目跟风、忽视数据安全等常见陷阱，强调应结合实际需求循序渐进地引入人工智能技术。"
+    },
+    {
+      "title": "Persistent AI Coworkers Are OpenAI's Third Era - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWR5cjVoTkZodWRBLU4xaG1zR2RldFN6RDIzN1VLZjR1OWN4YzI5Y0FJZ1FjZ1V0dE9wZE1zdVQ1V1ZNeWN4cWpCejZ4eEVEUlFpa2JPUXd0ODREYzRFWkxEbDNwc1ZBM0g1OUlVb2xGWXB2V2QyVlZqWjlKcnBZM2ZWM3NmZnJNY2YxYUxVN0ZLaHhmVDZWWmxNYXJBOVh1Ukp3ckdCeFVFempXQlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T13:02:57Z",
+      "summary": "StartupHub.ai分析认为，OpenAI正进入其第三个时代——持久性AI同事（Persistent AI Coworkers）。这一阶段的特点是AI不再只是按需响应的工具，而是成为能够长期参与工作流程、记忆上下文并协同完成复杂任务的智能体，标志着AI与人类协作模式的重大转变。"
+    },
+    {
+      "title": "AI Agents Are Where Microservices Were in 2015 - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTZaRVFxUVZvRjhRNjY5TmxlTFFvOVhKM3dUTkxaVXpwQ2dfZkhZVmNwUDVhY0lkV3NWSkdMVnNfRy1ONnlDNkFKa2JrY3k1eUdnSkY2eGJQc19DZ1g2VF9NZ1JTbFQ3cHNmN2U1QkF1V251TGxGSU0yVUg0WmhWalBYRDdfTzVDbUR3ZnhpdHJCbWdoU2dJUlQ3V2dFN3NVRlBwYzY4STN6N3VJbWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T12:44:22Z",
+      "summary": "StartupHub.ai指出，当前AI代理（AI Agents）的发展阶段恰如2015年的微服务架构。彼时微服务正从概念走向普及，如今AI代理也处于类似的关键转折点。文章认为，AI代理将像微服务重塑软件开发一样，深刻改变企业应用构建与业务流程自动化的方式，值得开发者提前布局。"
+    },
+    {
+      "title": "Prediction: If Artificial Intelligence (AI) Leads to Unprecedented Economic Growth, These 2 S&P 500 Stocks Are Once-in-a-Decade Buying Opportunities Right Now - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzk2UlNCMXphU1NZTzk5Vm1HZ1dUazFtd3BNNXlORWxITHlyMzBpMkZWaERWdkVoSnBrbzNlWWppWFVjNWdQcjM2ZTFrSHZzbVRuV3pEUklHSE1pQWpjdkJ1STRadVRIRWdSNTI5eFBEeklTVHJsU1hrb3ExT2xfTF9JbXoyaXdKVUptRUJ3TQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T12:37:00Z",
+      "summary": "The Motley Fool发布预测称，若人工智能带来前所未有的经济增长，目前标普500指数中有两只股票正处于十年一遇的买入良机。文章结合AI驱动生产力提升、企业盈利增长的逻辑，分析相关公司估值与长期潜力，建议投资者关注AI受益产业中的核心标的，把握结构性机遇。"
+    },
+    {
+      "title": "Prediction: If Artificial Intelligence (AI) Leads to Unprecedented Economic Growth, These 2 S&P 500 Stocks Are Once-in-a-Decade Buying Opportunities Right Now - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFRJN01fY0szdzZuNkY4Qzk5SzdtWWV5elgzUzlQZWRnWUhvVjdYdEdNVnhtTWFUSnEyZkZTT09DUmZZd0o2UzRoTnpTOEIwLVdPUkNpMmpJbWhwa1V2eTYwLTlFMDU3akhGOTFHQUhGVVlBellFMVhGUXNrMVpKei1ld0lhM29aWlFYRW5mVC0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T11:57:00Z",
+      "summary": "AOL转载The Motley Fool的分析指出，如果人工智能推动经济实现非凡增长，现在正是买入两只标普500成分股的历史性时刻。文章强调AI技术商业化将加速行业变革，并推荐了在算力、数据或应用层面具备护城河的公司，认为其当前价格尚未充分反映远期增长空间。"
+    },
+    {
+      "title": "How, when, and why the Cobb County Courier uses artificial intelligence - Cobb Courier",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVNidjZ5NlpjNGxuXzBrdEpxMXUyenRLLTJVcnlaQWUzaUZiMW9fbUh3Y1VwX3BLbXdxU1E5ajFDOVVFcmJSRDVHbVYybUVjVHEwUEs1aE1wRmViNm9Yc3c2RDJTZHpkdVFCTnA3QUxWaUc3cTJDRnRBOGJrTEN3WUxNcXZFMXo4bXRwSjlzS01ncm9Pd25vSTAzME1tUll0WnRLZVJvbzBhMmxi?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T11:43:29Z",
+      "summary": "科布县信使报（Cobb County Courier）公开介绍了该报使用人工智能的方式、场景与原因。文章详细说明了AI如何在新闻采集、内容编辑、事实核查和读者互动等环节辅助采编团队，同时强调透明性和人工审核的重要性，展现了地方媒体在数字化转型中审慎拥抱AI的实践案例。"
+    },
     {
       "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnRNYXBjbUN5LVdhaXhGNHNrYzdqeExkV1JnYWdFS2xLbXdGMEprR3Uxc3pLc1gxanFUbGtsZnJWZEdjWHBwOE9nakJtOENkb1pHU2xzRmhIQWZDRGhkaTFDN0EtTDdFN0duRGdaSnBudTJaREtvem9SZ1lvT3hqU2ZGTWRYbnlHUWdabDZEZUY2WEE1cDFRbw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-30T10:36:27Z",
-      "summary": "The Motley Fool发布分析文章，对比美光（Micron）与闪迪（Sandisk）两家AI内存股票，认为其中一家在当前更具投资价值。文章指出，随着人工智能对高带宽存储（HBM）和NAND闪存需求激增，美光凭借其在HBM领域的领先地位和与AI芯片厂商的深度合作，展现出更强的增长潜力；而闪迪则更多依赖传统存储市场。分析从技术优势、市场布局和财务表现等维度展开，认为美光更能受益于AI浪潮，因而在当前是更优选择。"
+      "publishedAt": "2026-08-30T11:30:00Z",
+      "summary": "The Motley Fool对比了美光（Micron）与闪迪（Sandisk）两只AI内存股，认为其中一家明显更值得买入。文章从高带宽内存（HBM）需求、AI服务器对存储性能的要求、两家公司的市场定位与财务表现出发，分析各自的增长前景，并给出明确的投资偏好判断。"
+    },
+    {
+      "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2RsektkSlVHblBubmN2ckNseldWXzREYVNVcmRocFo3bFVEQlRObWcwbGk4V1Z4aks2Mmh6UFVWV0pfRkdiUk5mdHN3SVN2M2FZOHAwZUwzZ1M1NVJnZkJqRm1KczM5MFNGNVZpYmxNNm9PVno2U2hqejFaMHN2WGRkV2IzSnZ6bFp0X1VOYjFDVkNRRlQ1TUR6VQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T10:50:00Z",
+      "summary": "Yahoo Finance刊文对比美光（Micron）与闪迪（Sandisk）在人工智能内存领域的投资价值。文章指出，随着AI训练与推理对高带宽内存和先进存储的需求激增，美光凭借技术领先和产能优势更受青睐，而闪迪则面临转型挑战。综合评估后，作者认为美光是当前更优的选择。"
     },
     {
       "title": "Warren Buffett's Successor, Greg Abel, Keeps Buying This Incredible Artificial Intelligence (AI) Stock That Buffett Also Loved - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXJ1OVZrOXVWcmlBX0xBTGNxR05GWjdiOGdwTVVHd1d2dXBTWjdpemJ0SnU3NDEtcG4yZGJZWDNrMUw0QmNsY2RidlM1emZsYldtYjlwdERJTEtIdlo0aUVzYmpKb3Nyc0NZQWIwLWJfRjlkeXBHcUVDWWN1N1QzOGJ1XzV6Wm1GVndZd21NTTRvWlBuMmFlaA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-30T09:30:59Z",
-      "summary": "据The Motley Fool报道，沃伦·巴菲特的继任者格雷格·阿贝尔持续买入一只巴菲特生前也钟爱的AI股票。文章指出，阿贝尔通过伯克希尔·哈撒韦的投资组合多次增持该股，显示出其对人工智能长期前景的信心。分析认为，该股票在AI领域拥有核心技术或市场地位，业绩增长稳健。阿贝尔的持续买入行为被视为对巴菲特投资理念的延续，也向市场传递了AI赛道仍具吸引力的信号。"
-    },
-    {
-      "title": "Warren Buffett's Successor, Greg Abel, Keeps Buying This Incredible Artificial Intelligence (AI) Stock That Buffett Also Loved - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdG56S1BQT0w4bGdILU4wQXBiOFYtRlhSelY5bzJpQlcwdm1ndXR3OUpwc1pJLWJsLWtRdFBIZlg4M0IwQXRRUXBYLTI5VGNBeGhHXzdGNkZpeFJHcXVsU2cyZExsM3c2NHB3eW1FUU8yWnVjOFpqbk4ybkNWUjJzcjByalgyQXdEeWdYSi1CUVZFMmFNOXBrYzZCTnRScEd6LXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-30T09:20:00Z",
-      "summary": "Yahoo Finance转载文章，聚焦沃伦·巴菲特继任者格雷格·阿贝尔持续增持一只巴菲特也看好的AI股票。文章强调，阿贝尔通过伯克希尔·哈撒韦的持仓操作，多次买入该公司股份，体现其对AI产业长期价值的认可。内容还分析了该公司的AI业务布局、盈利能力和成长前景，认为其符合伯克希尔注重长期回报的投资标准。这一动向引发市场关注，被视为AI投资领域的重要风向标。"
-    },
-    {
-      "title": "The artificial intelligence (AI) infrastructure is changing. The era of filling data centers with on.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43UGRPQi1Yd1pjWjQxSmc0WUY0N290VlBMa01WMjZrN3ppYlYtdEttTU40c3NYZTl3MzRZV04wb2pCMFhFR0JNTEdOSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-30T08:08:27Z",
-      "summary": "韩国《每日经济》报道指出，人工智能基础设施正在发生深刻变革，以往单纯用通用服务器填满数据中心的时代已经结束。文章认为，随着AI大模型和深度学习应用对算力、存储和网络提出更高要求，数据中心需要采用更专业的AI加速芯片、高带宽内存和高速互联架构。基础设施的形态将从“通用计算”转向“AI专用”，这要求企业在硬件选型、能源管理和系统设计上进行全面升级，以满足AI工作负载的规模化需求。"
-    },
-    {
-      "title": "Not a token effort: beer meets AI at bar in China’s capital - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlpYb0xTYTlENWE0cDVFRGU3SlJFaUZ2MUlsak9NbjRMZkN3eGl4cEhIR1oza1Y2THVGbUhEMzV6Q2JJTHRLNEhER0NxdjAxN0ZGNVBCRUZ3cTgtRGp4WjM5MHhQVzVlLTAwcWZJZ3YwanZtMzhqZy1EcHQwd2I1UVgzN1NJVm9mNmJTYk5YVkdlUXY4UW9fbW1kc1lEWjBKS2l5QnozeTlTVWZ5aDJXS3N0azNrNllRcThpUGxwRHlNZ9IBwgFBVV95cUxNMzZEMzFQLUMxZEVNeS1nWjFBck9ta1pGY2VVZlVjUlBTUFoxX1Y4T005Z2V4bGphRmlUUm9RRlE2STB4QnJzTmpsSGd6Q0JVRmVpcVpHRFdPRE9sX1BtR2Y3cmNVeUJtVlhJcGdoY3dyZnl3eUpaVDFhUGN3clFlbU1VY0w0NDRkU24zeG5uOGJZb0ZDNHdxMFFKOWRLTzRFVWJUTTZILWUtYUc4RUNDWXNzTllPU3dDMThaWEJQRWFaUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-30T08:00:09Z",
-      "summary": "南华早报报道，北京一家酒吧将啤酒与人工智能技术结合，推出创新体验。顾客可以通过AI系统获得个性化点酒建议，系统会根据口味偏好、历史消费记录甚至实时情绪分析推荐合适的啤酒。该酒吧还利用AI优化库存管理和顾客服务流程。这种跨界融合展示了AI在餐饮娱乐领域的落地场景，也反映出中国市场对AI应用探索的积极态度，为传统行业数字化转型提供了新思路。"
-    },
-    {
-      "title": "Between the medical field and artificial intelligence (AI) technology, there is the so-called Death - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wb2dXZFpqQzFOYUdhT3ptaW1NT3BJbTdkQ1dFOW1aRDZQX0Z3N1ozd0k1VzU2Q2xBczZGdHZXVjFUWnl1blVSMXZYc2ZDbVM3TUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-30T07:39:59Z",
-      "summary": "韩国《每日经济》探讨了医疗领域与人工智能技术之间存在所谓的“死亡谷”现象。文章指出，尽管AI在医学影像分析、药物研发和辅助诊断等方面展现出巨大潜力，但从实验室研究到临床实际应用仍面临诸多障碍，包括数据隐私、法规审批、临床验证和医生接受度等问题。这种“死亡谷”导致许多AI医疗产品难以真正落地。文章呼吁加强跨学科合作，完善监管框架，以加速AI医疗技术的转化应用。"
-    },
-    {
-      "title": "SK Group is using artificial intelligence (AI) to revive the footsteps of independence activists and.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yY3RoME9OalphYk5ORjN6NUpGSzRjektUQnYwcXJBMVE0NzhYakVzY1B4V2pBOWR4M3F0Wm9Fd2JPeDBxcFVaN2hYc1dxN3FFTnc4dkpJdXJydGYx?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-30T07:04:00Z",
-      "summary": "韩国SK集团利用人工智能技术重现独立运动家的事迹，引发关注。据了解，SK集团通过AI语音合成、人脸重建和交互技术，让历史人物以数字化形式“复活”，向公众讲述独立运动的历史故事。该项目结合了历史文化与前沿科技，旨在以更生动的方式传承民族精神。SK集团表示，此举展示了AI在文化教育领域的应用潜力，未来将继续探索科技与人文融合的创新模式。"
-    },
-    {
-      "title": "Indonesia Urges Workers to Build AI Skills as Jobs Evolve - Tempo.co English",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2lkQ3RJYzE1ZnlRTEhpWGFPZllqLVpQSU9zT1FwTWlZYVBEZmNUWTRlM2lxbDhLTHFYbXFpakZGQ0xRZk1XOGcyQ2lYckw2OGNwMUJ5VXc3VHItTEsxRU5FenFaLVB3YWVtelQxeDdKLTdrRF9haTl1TnNsNkJ3MWQwelZVYkc2SlNOb24teEdCRUgx?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-30T07:00:00Z",
-      "summary": "印尼媒体Tempo.co报道，印度尼西亚政府敦促劳动者加强人工智能技能培训，以应对就业市场的变化。随着自动化和AI技术在各行业的普及，许多传统岗位面临转型或消失，同时新兴岗位对数字技能的需求不断增加。印尼政府呼吁工人、企业和教育机构协同合作，通过职业培训和教育体系改革，提升劳动力的AI素养和数字能力，确保劳动者在AI驱动的新经济中保持竞争力。"
-    },
-    {
-      "title": "Shopping with AI: Consumers ask artificial intelligence for advice but less than half trust it - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUxLdHJULV9lZ2Q0bkhTX3hUeW1IdVV2LVYyWDdtRnhDTU5LUjZCVXA2c0RhdnFCMGx3TThlMmgzaE45bzhjVExLTnBiaHFlbWFEUFk5MmFmOFZtYXM2TjJDWHpOWWhLS09mbU95b1ZmMWZzNHA3NndhOFVRanZ3V1VxSk1VSG9BVXhUbzRtVlk5WUl3UDg0akp3eWQ5SEFYVmx1MnNRVUNPVldQRFRqTnZCYXdnSEZtN0hkWG04MUdGNEVZUWdOZDFtcEhseXhPN0hrUWtINGVfSVFORHdvT0IzeFNBajhHOVlLZ001TFBHUnEwdWFmTl9OZU94UXhMVUZKdmoxUlprUlnSAZACQVVfeXFMTzdwS1dReC1kbkhtb0x0NTctaFZuejVTci1rcGl2SG4tM2VreEdEQ1hBdzlIeVExeDZzU3VKak5jTHZpRkdkcXAyS01nMTVZRzNsOUl3dVFELTV6YnFzZkI3cmxjZU9EbWlTOWZSZmI5WTdCVFZ1Y19LY3NETUhSLUQtc0hWRjVLdmpZUmVMcDhmTzdEOWJXLWE3RU9iSHdWa01pRVQ0R3BFUE8yR1VoSGg0Q2FOeldBZ2dlLW1DUHZYU19Vc09OYWtwSmN1NWlldlRIYVBHN0twS0JjY29XMS1ELXdDZjVyZFZJb3ZiUjBBVHpjWVBzQkdBd0JJN3p5UTdMNVJmMmhjX0draWZWV3I?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-30T05:43:00Z",
-      "summary": "《印度时报》报道，一项关于AI购物助手的调查显示，消费者越来越倾向于向人工智能寻求购物建议，但对其信任度仍然较低。数据显示，虽然使用AI推荐商品或比价的消费者比例有所上升，但只有不到一半的受访者表示完全信任AI提供的建议。消费者担心AI推荐的准确性、隐私安全以及潜在的商业偏见。专家指出，AI购物助手需要提高透明度和可解释性，才能赢得更多用户信任。"
+      "publishedAt": "2026-08-30T10:00:00Z",
+      "summary": "据外媒报道，巴菲特指定的继任者格雷格·阿贝尔持续增持一只人工智能（AI）股票，而该股此前也曾获得巴菲特本人的青睐。这一举动引发市场关注，显示出伯克希尔·哈撒韦核心管理层对AI赛道长期前景的认可。尽管具体持股信息未完全披露，但阿贝尔的持续买入行为，延续了巴菲特价值投资的风格，同时也在传统投资组合中加大了对新兴科技领域的布局。分析人士认为，此举或表明伯克希尔正逐步调整策略，以适应人工智能时代的投资机遇。"
     }
   ]
 }

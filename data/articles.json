@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "4202",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-30T15:00:00Z",
+      "summary": "卡特彼勒公司正将其在自动化采矿领域积累的数十载经验应用于AI部署。该公司长期在偏远矿区部署自主机器，如今将这些实践经验和工程能力迁移到更广泛的人工智能解决方案中，旨在提升运营效率与安全性，并为工业场景下的AI落地提供可借鉴的实施路径。",
+      "fetchDate": "2026-08-30"
+    },
+    {
+      "id": "4203",
+      "title": "Big business has shown small firms what to do – and what not to do – with AI | Gene Marks - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTd3ZIRk5RSmpFMEo5QXd1aG5Xb3ZlcEwtb2w5M1FvR1F5SmMtcTllaEdKZXhoRGVrT1hKZERGVHFXLXkxZ0NNSHpZQVZuS2FtRVVhUWE2azRKbWRMUTcwREF4MkR6aVFCYUdITzQ0aXY4YTduRGZz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T14:02:00Z",
+      "summary": "《卫报》专栏作者Gene Marks撰文称，大企业在AI应用上的成功与失误为小企业提供了宝贵经验。他建议小企业学习大公司如何利用AI优化运营、提升客户体验，同时避免盲目跟风、忽视数据安全等常见陷阱，强调应结合实际需求循序渐进地引入人工智能技术。",
+      "fetchDate": "2026-08-30"
+    },
+    {
+      "id": "4204",
+      "title": "Persistent AI Coworkers Are OpenAI's Third Era - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWR5cjVoTkZodWRBLU4xaG1zR2RldFN6RDIzN1VLZjR1OWN4YzI5Y0FJZ1FjZ1V0dE9wZE1zdVQ1V1ZNeWN4cWpCejZ4eEVEUlFpa2JPUXd0ODREYzRFWkxEbDNwc1ZBM0g1OUlVb2xGWXB2V2QyVlZqWjlKcnBZM2ZWM3NmZnJNY2YxYUxVN0ZLaHhmVDZWWmxNYXJBOVh1Ukp3ckdCeFVFempXQlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T13:02:57Z",
+      "summary": "StartupHub.ai分析认为，OpenAI正进入其第三个时代——持久性AI同事（Persistent AI Coworkers）。这一阶段的特点是AI不再只是按需响应的工具，而是成为能够长期参与工作流程、记忆上下文并协同完成复杂任务的智能体，标志着AI与人类协作模式的重大转变。",
+      "fetchDate": "2026-08-30"
+    },
+    {
+      "id": "4205",
+      "title": "AI Agents Are Where Microservices Were in 2015 - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTZaRVFxUVZvRjhRNjY5TmxlTFFvOVhKM3dUTkxaVXpwQ2dfZkhZVmNwUDVhY0lkV3NWSkdMVnNfRy1ONnlDNkFKa2JrY3k1eUdnSkY2eGJQc19DZ1g2VF9NZ1JTbFQ3cHNmN2U1QkF1V251TGxGSU0yVUg0WmhWalBYRDdfTzVDbUR3ZnhpdHJCbWdoU2dJUlQ3V2dFN3NVRlBwYzY4STN6N3VJbWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T12:44:22Z",
+      "summary": "StartupHub.ai指出，当前AI代理（AI Agents）的发展阶段恰如2015年的微服务架构。彼时微服务正从概念走向普及，如今AI代理也处于类似的关键转折点。文章认为，AI代理将像微服务重塑软件开发一样，深刻改变企业应用构建与业务流程自动化的方式，值得开发者提前布局。",
+      "fetchDate": "2026-08-30"
+    },
+    {
+      "id": "4206",
+      "title": "Prediction: If Artificial Intelligence (AI) Leads to Unprecedented Economic Growth, These 2 S&P 500 Stocks Are Once-in-a-Decade Buying Opportunities Right Now - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzk2UlNCMXphU1NZTzk5Vm1HZ1dUazFtd3BNNXlORWxITHlyMzBpMkZWaERWdkVoSnBrbzNlWWppWFVjNWdQcjM2ZTFrSHZzbVRuV3pEUklHSE1pQWpjdkJ1STRadVRIRWdSNTI5eFBEeklTVHJsU1hrb3ExT2xfTF9JbXoyaXdKVUptRUJ3TQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T12:37:00Z",
+      "summary": "The Motley Fool发布预测称，若人工智能带来前所未有的经济增长，目前标普500指数中有两只股票正处于十年一遇的买入良机。文章结合AI驱动生产力提升、企业盈利增长的逻辑，分析相关公司估值与长期潜力，建议投资者关注AI受益产业中的核心标的，把握结构性机遇。",
+      "fetchDate": "2026-08-30"
+    },
+    {
+      "id": "4207",
+      "title": "Prediction: If Artificial Intelligence (AI) Leads to Unprecedented Economic Growth, These 2 S&P 500 Stocks Are Once-in-a-Decade Buying Opportunities Right Now - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFRJN01fY0szdzZuNkY4Qzk5SzdtWWV5elgzUzlQZWRnWUhvVjdYdEdNVnhtTWFUSnEyZkZTT09DUmZZd0o2UzRoTnpTOEIwLVdPUkNpMmpJbWhwa1V2eTYwLTlFMDU3akhGOTFHQUhGVVlBellFMVhGUXNrMVpKei1ld0lhM29aWlFYRW5mVC0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T11:57:00Z",
+      "summary": "AOL转载The Motley Fool的分析指出，如果人工智能推动经济实现非凡增长，现在正是买入两只标普500成分股的历史性时刻。文章强调AI技术商业化将加速行业变革，并推荐了在算力、数据或应用层面具备护城河的公司，认为其当前价格尚未充分反映远期增长空间。",
+      "fetchDate": "2026-08-30"
+    },
+    {
+      "id": "4208",
+      "title": "How, when, and why the Cobb County Courier uses artificial intelligence - Cobb Courier",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVNidjZ5NlpjNGxuXzBrdEpxMXUyenRLLTJVcnlaQWUzaUZiMW9fbUh3Y1VwX3BLbXdxU1E5ajFDOVVFcmJSRDVHbVYybUVjVHEwUEs1aE1wRmViNm9Yc3c2RDJTZHpkdVFCTnA3QUxWaUc3cTJDRnRBOGJrTEN3WUxNcXZFMXo4bXRwSjlzS01ncm9Pd25vSTAzME1tUll0WnRLZVJvbzBhMmxi?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T11:43:29Z",
+      "summary": "科布县信使报（Cobb County Courier）公开介绍了该报使用人工智能的方式、场景与原因。文章详细说明了AI如何在新闻采集、内容编辑、事实核查和读者互动等环节辅助采编团队，同时强调透明性和人工审核的重要性，展现了地方媒体在数字化转型中审慎拥抱AI的实践案例。",
+      "fetchDate": "2026-08-30"
+    },
+    {
+      "id": "4209",
+      "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2RsektkSlVHblBubmN2ckNseldWXzREYVNVcmRocFo3bFVEQlRObWcwbGk4V1Z4aks2Mmh6UFVWV0pfRkdiUk5mdHN3SVN2M2FZOHAwZUwzZ1M1NVJnZkJqRm1KczM5MFNGNVZpYmxNNm9PVno2U2hqejFaMHN2WGRkV2IzSnZ6bFp0X1VOYjFDVkNRRlQ1TUR6VQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-30T10:50:00Z",
+      "summary": "Yahoo Finance刊文对比美光（Micron）与闪迪（Sandisk）在人工智能内存领域的投资价值。文章指出，随着AI训练与推理对高带宽内存和先进存储的需求激增，美光凭借技术领先和产能优势更受青睐，而闪迪则面临转型挑战。综合评估后，作者认为美光是当前更优的选择。",
+      "fetchDate": "2026-08-30"
+    },
+    {
       "id": "4194",
       "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnRNYXBjbUN5LVdhaXhGNHNrYzdqeExkV1JnYWdFS2xLbXdGMEprR3Uxc3pLc1gxanFUbGtsZnJWZEdjWHBwOE9nakJtOENkb1pHU2xzRmhIQWZDRGhkaTFDN0EtTDdFN0duRGdaSnBudTJaREtvem9SZ1lvT3hqU2ZGTWRYbnlHUWdabDZEZUY2WEE1cDFRbw?oc=5",
@@ -37801,5 +37873,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4200
+  "total": 4208
 }
