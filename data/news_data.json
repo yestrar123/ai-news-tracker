@@ -1,104 +1,62 @@
 {
-  "updatedAt": "2026-08-31 12:04:13 UTC",
-  "totalArticles": 14,
+  "updatedAt": "2026-08-31 22:09:18 UTC",
+  "totalArticles": 8,
   "articles": [
     {
-      "title": "AI and Inequality: Can Artificial Intelligence Become the Great Equaliser? - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVJTSlJDWmh3ank4OXFzcjZrTTNuUkV1Sml3V19tS2ljSnhWVkJOTms4SW9mbmt2SFBrV2RZbnJqSVpMQXdFX09CaU9BRkVxRzJYV1lUeXRVcVpLQ3pnZG1DY2ZzeGJoenV5bDI0ZktYM3lrcjhTTnJ6X1NDblVLMjNWTU4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T11:20:29Z",
-      "summary": "文章探讨人工智能能否成为缩小社会不平等的工具。AI在医疗、教育、就业等领域具有提升效率与普惠服务的潜力，可能帮助弱势群体获取更多机会；但若技术红利集中于少数掌握算法、数据和资本的主体，也可能加剧数字鸿沟与收入分化。关键在于政策引导、公共投资和监管设计能否确保AI发展更具包容性，使技术真正服务于社会公平，而非扩大既有差距。"
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-31T20:13:45Z",
+      "summary": "五角大楼推出自己的AI工具门户，整合了OpenAI的ChatGPT、SpaceX旗下xAI的Grok以及Google的Gemini，形成军方专用的“AI助手集”。这是美国国防部继此前允许使用商用AI后，将主流大模型统一接入中央平台，便于不同部门按需调用。此举旨在提升军事行政、情报分析及决策效率，同时需在安全、数据隔离和合规方面进行严格管控。该平台标志着军方对生成式AI的正式采纳，也折射出国防领域与科技企业合作日益深入。"
     },
     {
-      "title": "Zhipu AI first-half revenue grows 400% - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGVpZmlzQ09VYkdFQktNaG5fWmNRTlZiV1czLXREc3FWcEtINjg0RF9rM2RUcER4T05pSlVMUkYzejJKWFNuTFZHYzhnZXFoaktSeU5JUTlMRC1mT2pzdkNuT19mQ2NQbTNySllWZUdLa1RhUEpFWHpSOVFpalU3dDZBMjFVaERCckE5NVVHV2NOMm9TeEJEZEUxNWFjR1k?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T11:15:44Z",
-      "summary": "据路透社报道，中国人工智能企业智谱AI上半年营收同比增长400%，显示其在国产大模型赛道中的强劲增长势头。快速增长主要受益于企业级AI解决方案需求、开源生态建设及产品商业化落地加速。智谱作为少数具备全栈大模型能力的公司，正持续投资研发和行业应用，但面对国内外激烈竞争及算力挑战，如何保持高速增长并实现盈利仍是重要课题。"
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-31T19:16:59Z",
+      "summary": "随着AI网红引发的争议不断升温，Instagram宣布对未明确披露身份的AI账户实施新的触达限制。这些账户在推荐流中的曝光度将被压低，以遏制虚假互动和误导用户。新规要求AI生成内容或由AI扮演的角色必须清晰标注，否则将被降权。此举是Meta在AI内容透明度方面的一次调整，旨在平衡创作自由与用户体验，也为其他社交平台治理AI账户提供了参考。"
     },
     {
-      "title": "The S&P 500 Has Fallen in 56% of Septembers Since 1928. Here's What That Means for Artificial Intelligence (AI) Stocks. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSWgtOGN3WWU5Ty03LW1jbjFfRUVERXJncWVQNWxDRW1aOVZCNGRYTUgtLVZfWHNtT0FvUm11SEk3eEhvNWZETEdudlQtMmJUbWp2eHk0MVdUWHA2RHdUMTU1bkN5MWZHaE1HWjd1cnd0bmdaa3R4dHdSaVhMTW5kRnZZZ1BXekR4a1NBbDJmM2dJRDF4c3c?oc=5",
+      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T10:34:00Z",
-      "summary": "文章回顾自1928年以来标普500指数在9月有56%的概率下跌，并借此分析人工智能股票面临的季节性压力。9月历来是美股表现较弱的月份，加之美联储政策、通胀及经济数据的不确定性，高估值的AI概念股可能更加敏感。不过作者提醒，历史统计并不等于预测，AI长期增长逻辑仍取决于企业业绩兑现和产业渗透率提升。投资者需警惕短期波动，同时关注具备核心技术和现金流能力的公司。"
+      "publishedAt": "2026-08-31T19:02:00Z",
+      "summary": "据《卫报》报道，一款被称为“超人”的AI工具能在不到2秒内识别出心脏病，其速度和准确性超过传统诊断手段。该工具可能基于深度学习算法，分析心电图、影像等医学数据，从而快速发现心脏疾病的早期迹象。研究人员表示，这种即时诊断能力有望大幅缩短患者等待时间，尤其对急诊和基层医疗帮助显著。不过，该工具仍需大规模临床验证，并确保其在不同人群中的可靠性与无偏性，才能获得监管批准并普及应用。"
     },
     {
-      "title": "TIME100 AI 2026: 10 Indian-origin leaders shaping the future of artificial intelligence - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZUJfSmpGVlZzUGR6UFROWVhrQ1hBbm5KaGhBV3FxbWt3NlZaMGpzTUtSekh2UDRrRm4wVTRmSnZKdzI4THNXNDRWV1NoVjE0ekI3S3NZQkFNYmhMSGNLYTJ4RlNyNVNJZ2g3eVhSVnl2UHNtN1YydTdiRDdORGZuUjlzeWxNejQ0X05vbU94Q1Q0WkdhekpZYk1LeXA5dFpyV3c3UGxqRVFacm9rZmVjeFNzcnhEZWx2SXVtN3d6WGQyRlgyRjk4NzczeUNxOE9TbkllR29RbzRQUdIB3wFBVV95cUxNbHJlRnB4bFNwU2ZNZHpTT0JGazhwRzluejd3dUFXbGpnbFBMdlhyTVBYSkM3Y0w0cUIxMFBPazkyM2ZzNlNtRHgyc204eE1ZN3RGZEJScmJhMWZCci1JV3RzXzJsVUlMVzI0TWphcGlaeXhwclRBS3JDWTZnYjV1bjBlZExWSDlKemZ1UFNZRjgyMFU0NlBTVTROX0dCQUhmeGwzcUdobTlFNkZva1RBczROcnFGWmNDQlhWLW84cWh5U3BBcUY1endTbUVUWHpTTG9YMVdqZ0ViOVBXSUdj?oc=5",
+      "title": "Intuit and Perplexity Team on AI Integrations - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2Y3N01jREZyeE9keDdBX1F6SFdERU1BMk9TS2hQak1rSzFVTDZtTkZwc0Nyd2FRcmRPd1dwZlA4ZWJGMVQ2TWJ1SDNnQ3VUUTRTazJDNGpoZ2FqWUlKNEh1MUhlWmNZQm8wV0RwM2c4MVhGVURkaVVDZ0JmS0sydEtIODhnV2pTSVZ4QThuM0VnY3JVb0YxX093Z3VVdVNoQ3BraThn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T10:25:05Z",
-      "summary": "《时代》周刊发布2026年度AI百大影响力人物榜单，其中10位印度裔领袖入选，凸显印度裔在全球人工智能领域的重要角色。入选者涵盖科技企业高管、AI研究员、创业者和政策推动者，他们在基础模型、AI伦理、产业应用等方向发挥关键作用。报道认为，这得益于印度裔在科技教育、跨国企业和硅谷生态中的深厚积累；同时也反映了AI行业对多元背景与国际化领导力的需求日益增强。"
+      "publishedAt": "2026-08-31T18:51:44Z",
+      "summary": "金融科技公司Intuit与AI搜索引擎Perplexity达成合作，共同推进AI集成。Intuit旗下拥有TurboTax、QuickBooks等财务产品，计划将Perplexity的实时答问和检索能力嵌入其平台，帮助用户更便捷地获取税务、会计及财务管理建议。该合作旨在通过生成式AI提升产品智能化水平，改善客户体验。此前Intuit已布局AI多年，此次联手或加速其在财务领域的AI应用落地，同时也为Perplexity拓展企业级市场提供机会。"
     },
     {
-      "title": "Roz Foyer: What’s in the AI data centre explosion for working people? - The National Scot",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3pfcU5Nd3ZRb0RtczVlaGU1U3hBMHRtcUhBSGE4THVuTWZvdTlpdzhpR2ZNUHVfZzFjUTZUUWFyV0xQbmdmTUp5UVBfS3d6SC1nd2JadnVMWFU1U05Ma2JHVkg1LXVQZFRFNFhQR0xhUThGdmlMNi1UaHRXVmpsOUJTRmdrTHpvLWRzOXNhWW0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T09:39:53Z",
-      "summary": "文章聚焦人工智能数据中心快速扩张对普通劳动者带来的影响。AI算力需求激增加速数据中心建设，创造建筑、运维、设备制造等岗位，但也伴随工作强度、技能门槛和劳资关系变化。作者尤关注工会与劳动者权益，担心利润与税收可能流向大型科技公司，而当地社区和工人却承担环境与成本压力。呼吁在AI基础设施发展中纳入劳工保护、技能培训和公平分配机制，使更多人分享技术红利。"
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-31T18:35:11Z",
+      "summary": "一位从哈佛法学院辍学的创业者创立了Blue Voice，旨在打造“警察版的Harvey”，并已融资600万美元。与传统通用AI不同，Blue Voice专门针对执法场景训练，数据涵盖各部门特有的法律、地方法规、操作流程和指南，这些信息通常无法通过公共互联网获取。该工具可帮助警察在执行任务时快速获取法律指导，减少法律风险。不过，其数据来源的透明性、偏见控制及责任归属等问题仍是公众关注的焦点。"
     },
     {
-      "title": "People & Profit - Artificial Intelligence in Europe: does advanced AI have a glass ceiling? - France 24",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYThEQ1NCOVJkRGFvR3FhR2VvNWJMZldDSGNFUTQtRWx4aGIwdGlpX2RoYzhlTGJiS1RIdFk5Z0JTTGd4RDgtdnVxdl9mN1IxbkxxdDJhLWxray1wei1qSlZ3QVNrSTgwTEFDTUhocy1QNTFnUmFuS1JiUjQta1NOd01jZ19Ja3VDaVd4MXltUWp3MVlNdjdnUENfS00tcHUwLUNVWkZPSXpGdkFZLVZLZzd1UE1fcDhKOEw5S3hBUXhFZnlNU0hTTWFhQQ?oc=5",
+      "title": "Islamophobic Artificial Intelligence in the U.S.: A Critical Analysis of Religious Bias in Datasets - Race, Racism and the Law",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGQ0d2o0T295MUdRRE9CLVJZMjZJYUlFTkVzTEF3X1dNWmFrWDVYcjQzQWlad1c5YXNpZVpFbnJtUUxZUk91WldrcWlWbVE4RGRnN1dpdkdaVUFETVJDN3VIT1U2T3RHeW15WlI0UHVVRzI4Mk85Z3o0ZnFFRVZIV3hPQ1F5Rnc0eDJscHpRckNNdUhCQkdrN1FZc0oxX0xxV1JJenNpcFdZcUlORld4Q3FoMXNwakVLRGNQcXlacENrODRETFdn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T09:39:28Z",
-      "summary": "法国24频道节目探讨欧洲前沿人工智能发展是否面临“玻璃天花板”。欧洲虽有坚实基础研究、严格数据保护和产业应用，但在大模型训练、算力投资和商业规模上明显落后于美国和中国。人才外流、融资分散和监管碎片化进一步制约创新能力。节目质疑欧盟“监管优先”策略能否同时促进竞争力，认为欧洲需在保护公共价值与支持本土AI突破之间寻求再平衡，避免沦为技术规则制定者而非创新引领者。"
+      "publishedAt": "2026-08-31T18:00:16Z",
+      "summary": "美国一篇题为《美国的伊斯兰恐惧症人工智能：数据集中宗教偏见的批判性分析》的文章指出，当前许多AI训练数据集内嵌有系统性的宗教偏见，尤其是针对伊斯兰教的负面刻板印象。这些偏见可能导致AI在内容审查、搜索推荐、执法预判等场景中对穆斯林群体产生歧视性结果。文章呼吁开发者审查数据集构成，引入多元文化和宗教视角，并建立偏见检测与纠正机制。该研究揭示了大模型时代数据治理的伦理挑战，也强调了算法公平的重要性。"
     },
     {
-      "title": "New AI policy chief warns of export control risks, vows push for homegrown AI - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNck0xU09hWjVjMC1ybFZ6X2FlYlcwWm55UzdJOWpMZV9DNTVLREw2bnQ3X2JKbENfX0FNQ3pLS1pUQndXRVFUSDlFS0NHNHZFdmUxWmNiMERkT0RkUGVwdEdHVVVMc0tUbWtrRWg1R241Q2VncVNFaUR1YXRKb3ZaZUczMTZqUl9FdXNxLXNFZmxKNFpZUG93cnFlTTJVLTJtUVZhT3JqR2RwaG1aei1zQVpQNmdGUXlhOFdkUmdEdm5kMDB2WjB1VGNGV0NEVVUxbUHSAdcBQVVfeXFMTklnWmFyZlBiZnAyZHhDZ1pxc3RNYS1Ma0psdkJIMUpOV3FBNlNDMXRSMFZob21jUWJqMWV5UXFnaTFKREhBQVFnbmt5a2FqWlp0aGtjaG9Zdk1WTVA2R1JWeHNtUXdVeWhjbHBUZXd5RFJ0QlFHM0ZfQXlqbURyeUVnYXhZV3J3aGZsN29KZXRaQWY0NUtRUHlBcmRkcm01XzNxMHRLVUhzcWN1MUdkbVpBalBZZ1MxOFpWcmktc2l3cmEzcXJoSWZHdi01aFNvR3NvZU43Qms?oc=5",
+      "title": "China blasts Anthropic and sets tough terms for U.S.-China AI safety talks - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFpJd0NrblNMQV9CNlFWUG1pTVNjcHU0dnp3akZUY0tDTkMtaDZwNkMtZlZybUdHYUQ0WE0yY1ZsQXJvZUFhaFFZM0ExZ2hkZFRnNzYtaXA1Ny1WMnR3VE8tNlg5THBVcVNXSkE2YkMyQXlsWDNCU1V0SUtTdkx2X1huMEkyU2tpdG5wVzcwbWppQVZjT0ZVdnJvd1dvN1Ayd0F0aURxcWplMzNDbDNRMGc4N0djbjNReXc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T09:23:03Z",
-      "summary": "韩国新任人工智能政策负责人警告，出口管制等外部技术限制可能给韩国AI产业带来风险，并承诺将大力推动本土AI技术研发。面对美国对华芯片出口管制等复杂地缘环境，韩国需要平衡对海外先进芯片和工具的依赖，同时加强自研大模型、半导体及AI基础设施。该官员表示将完善产业政策、扩大公共投资并加强国际合作，确保韩国在全球AI竞争中保持自主可控和持续增长。"
+      "publishedAt": "2026-08-31T17:35:43Z",
+      "summary": "中美AI安全对话再起波澜。据《洛杉矶时报》报道，中国方面对Anthropic提出尖锐批评，并为双边AI安全谈判设定了强硬条件。分歧可能集中在AI治理原则、模型透明度以及对开源与闭源技术的管控立场上。中国要求美方在谈判中正视其关切，否则不排除拒绝进一步合作。这一事态反映出全球AI治理格局中的地缘政治张力，也凸显了在技术安全与竞争并存背景下，国际协调面临的复杂性和艰巨性。"
     },
     {
-      "title": "AI Crawlers Are Reshaping The Web, Threatening Quality Of Online Information - Deccan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcTNvdElPXzltRXlWNzJSdEtoUF90RFdtb21OOERxS0lLUm5MaUZPMWZkSFdnbExRd0t2dXpaQzF4U0o5SkE0YlQzcGFmM0hlMVkza2RBM19pczlkQjVfcjFwNjY1dnFlTmN6ZUJKaU5WUGJmUGV6RlhOWDNIR2FGUkF2UlloLVh1UHFpRzNlN0ZYRnlWZVV0S2NDdFpaX09XQUJaTWlUQnhhT0hDNGRTUVRjRGFENWViYUZqcERrcEoxSUtfTnR3OWxwUzlNcDJXeGRQekpR0gHbAUFVX3lxTFBrTVlvRHZpOTVLczRuaVg4emJUT3pqZ2tqUWhqRGZieWNFb0VYRzF3RWVGT2ZPMlYycXVPd3ByelMyUEowNUdya2NZZlNyWW5jTjZsY3AwaHgzeFhhNW0zVWswOGhDQmxzWGNTXzQzWXQyUnFMTDFzOGtsNGJDS2ZSTjRyeGV4X0s4WUpxSkV0M3pBdlc3OWtWMGZYVl9YSmZKcG1DUFp6MVM2SWJydHF4aUdUTUZPSy1zU3pXdVRUN2NXcWRXS3E1aHg0LVd4aGY2UXIyYzdnYXVDMA?oc=5",
+      "title": "Meta to bring AI label feature to WhatsApp Channels on Messenger app soon - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRVpOamlDRWtCenYxUnZrenRSeEtEbndUWFNzV1B0ekVfcFU5RkpXV2ZsN0FBcV9iZ3ZscU9xZnk3QWNOTVEyOG1FTDVJSWljaWFUR0dMRndvOFV6bWwzb0NpUGU4UFFpY0VOTlFyR2NQWU9LaEZTZUZZYWhMM2ZWcW5meWpWVWo3ODVIOHRldmdKVERPUnExSzg4dm0yWG1PdXV5SmtMS1VRcXRhWkRiNldmQUhmbkRJa1JQdGpWOUg4d3A0OThtd2RUeU5nMFRUZFVFcTM1SndfT3EycHc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T08:20:00Z",
-      "summary": "文章指出，AI爬虫正深刻改变互联网生态，并对在线信息质量构成威胁。越来越多的AI系统为训练大模型大规模抓取网页内容，导致网站流量下降、内容被无偿使用，且AI生成内容大量涌入后可能形成信息污染循环。作者担忧，优质原创内容生产难以为继，虚假信息和低质文本泛滥，削弱网络公共信息环境。呼吁建立透明、合规的抓取规则和内容补偿机制，维护信息生态健康。"
-    },
-    {
-      "title": "The core infrastructure in the era of artificial intelligence (AI) is the data center. As AI develop.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41TFIzSGhPbDE3NjNXalRzc1h6TWlENGhVd2dseFZWSHh1WElrcjl2TjdQWDdlUGtySnh0R2YxMkNyRFpBZ1BOTENkb3ZXZVpaR0s2MklB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T08:19:34Z",
-      "summary": "文章强调数据中心是人工智能时代最核心的基础设施。随着AI大模型训练与推理需求快速增长，算力规模持续扩大，数据中心建设速度和容量成为各国竞争的重要焦点。与此同时，数据中心的能耗、散热、土地和芯片供应等挑战也愈发突出。业界正推动液冷技术、绿电使用和高密度计算架构等创新，以提升效率。未来AI发展水平将在很大程度上取决于是否拥有可持续、高质量的数据中心支撑体系。"
-    },
-    {
-      "title": "Preparing youth for AI-disrupted job market - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaVNmc0xOdk13OHRBME1ieXpXdllwb09mY3F6Y2g0WUVWSGRTaUNGYTZjbVBfemMzT1J1WkRxQi1jWFVoTUxLZDFreVVybHh6VzUzZmtwc3VkRk1MamgzY1dYVndUY2xrMF85TEFlQzhOdWlmbHRmSHp0ZHI4V2dLcXBuVWhHYkXSAY8BQVVfeXFMUG9uYUVnanhvZkFhUkM0ejlaZmxjN2traUctT3NUTHZOQzhFS19RYWNRTzFXaUd2WFEtUnZrMEpXS3ZVdS1zUnQ3X0stcEV6UjZZRUxacEtwTGZ1b3hhUUhXOHM0VkJxU3MwNWtHVmxqdjU3elREYXJQWVpEYnFpWWZfWmF4SkE0ajZPM2RmRlU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T07:07:30Z",
-      "summary": "文章探讨如何帮助年轻人应对AI冲击下的就业市场。随着自动化技术在客服、写作、编程等领域快速普及，部分传统入门岗位需求下降，青少年和应届生面临更高技能门槛。文章建议教育体系加快改革，强化数字素养、批判性思维与跨学科能力；政府和企业应提供终身学习、职业培训和社会安全网。通过人机协作技能培养，使年轻人适应智能化工作场景，而非与AI简单竞争。"
-    },
-    {
-      "title": "Europe expands AI computing network with €390 million order from France's Bull - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaG84MDdUdXlvbzJldndVZWpseUMyeGloNXBCeGZZVG5qYkNlMlJyY0lyakQyWUpvSXhrSHp3UF9idUFsVG43bXRJemIxSTNmOU5Cd2VuNjdJaVJuQzUteHN5NWgzV3JzZjB1NXpFeUlWc2J0cTZCLWs0SzB2SDZaeDNheFdwQzIyUFRzdHR0cm9Tci1oRGhuRm01NVZOamU1M2llSHl5X0Z4QWNsbENHZUhsNkdielRXM3F3Vw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T07:05:43Z",
-      "summary": "欧洲正在加速构建人工智能计算基础设施，法国Bull公司获得一笔价值3.9亿欧元的新订单，用于扩展欧洲的AI算力网络。这笔投资旨在提升区域内高性能计算能力，支持大规模机器学习模型的训练与推理。作为欧洲本土重要的IT企业，Bull的订单反映了欧盟在人工智能领域寻求战略自主、减少对外部算力依赖的意图，同时也表明欧洲正通过公共资金推动AI技术落地，以增强全球竞争力。"
-    },
-    {
-      "title": "AI will reach superhuman ability across digital tasks by 2027: Elon Musk - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2RvVkdibjA5NkFHUllnX0VDSTJ1Q0VhZmkwXzVPOFVZTXlueGVvUFBQRFpIVjNzcVMzLUtzM3lrWENNcGc2b0dMZXJZUTRUNmpUelF1emJYblEwUFVSMFVYa3pkblpMdktmZDNyZjJrNTZobEo5RTdreE1TbHdSeTBrb3hLYTlSOUFSWUtvejc0S2ctazdoM1h2LXMzOTVfZXk3YThaaG5LMF9PcjBoU3Q3aTktbmN6akxMNTBTSmZIOEprd2JTYWk5enRtN1c3RWZ0X3RXTlNjTWRoM0ZMRjFUTHhQbjQ1bk03bF9YeVVSd9IB9wFBVV95cUxNSmRsaDcxdmtrWktnU1VVbEVsTk5kNklUMUJoQWZjZ2Z2c1NNYzJ0a0lrVG53aXhabUNWcTVqWGVBNUZmUmhkR3MzUDYtTWVELXE4aFNURWQwU0hBaXlVT3BzQmZVTmRBSWM1YXhGTVNMRWVkbXNmdE5KcWFNMDdlRGd1bWxBSWpBcC0xeFRSSFlnRmFNR2FoTmVWT2pnWHUyaUd0YV9RWEhZWUlqTm1YUFJXVGwxODd6VXBLX2VQU2FSal9pNUxjOTNzRnVDMnVkdDBvcU1HZUs2OGR3VGo5OWY4dU5qX2NmN3Bvc3FtdGhTTTRBSEhj?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T06:58:00Z",
-      "summary": "埃隆·马斯克预测，到2027年，人工智能将在各类数字任务上达到超人水平。这一表态强调了AI发展速度的指数级增长，尤其是在自然语言处理、编程、数据分析等数字化领域。马斯克认为，随着模型能力和计算资源的持续提升，AI将超越人类在多数认知任务上的表现。该预测也引发了对AI治理、就业结构和社会伦理的广泛讨论，提醒各界需提前应对通用人工智能带来的潜在风险。"
-    },
-    {
-      "title": "In an era when generative artificial intelligence (AI) thinks, writes, and judges on behalf of peopl.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nb1hvVi11bnRqbmZVWXdrSnRZajFxM21CRmFaMmdCSmZYWG1WWVlyb3VyT0NxQTNyQVVlUDVCX2UtY1hoejdvbDRQWko5aHdQU1E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T06:36:49Z",
-      "summary": "在生成式人工智能能够代替人类思考、写作和判断的时代，韩国媒体《每日经济》围绕这一趋势展开了讨论。文章指出，生成式AI已从简单的文本生成工具演变为具备推理和决策能力的辅助系统，深刻影响新闻生产、法律咨询、教育评估等领域。这种能力变革一方面提升了效率，另一方面也引发了对真实性、责任归属和人类主体性的担忧。如何界定AI辅助与替代的边界，成为社会亟需面对的课题。"
-    },
-    {
-      "title": "FSB Chair warns of risks arising from frontier Artificial Intelligence (AI) models - Financial Stability Board",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmJIcDlHZ0Y3aGJ0VHA1ZUNOaTIzSkR3YThzNVdKdkVMQUhRU252NWpTV3ZQMHoyYnNjZWEtcWowTW9jNjhPaWxuT1JZQjUxb0tlS3ROaTJkVmNfRDh0dGxZVWs4OG5mTXFib3lsMVd5TVczZEEwTWlPMnd6R0hlZHQ0WXVtaTdUTWt1WWFqU0h1ZWhwLWd2bWV4WmlKVU4ybWVfT1lZNkVob0J0R2c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T06:04:42Z",
-      "summary": "金融稳定理事会（FSB）主席就前沿人工智能模型带来的风险发出警告。FSB指出，大模型和前沿AI系统的快速部署可能对全球金融体系产生系统性影响，包括市场集中度上升、第三方依赖加剧、模型不可解释性以及网络攻击风险等。虽然AI能提高金融服务效率，但其潜在缺陷也可能在压力情境下放大波动。FSB呼吁各国监管机构加强跨境协调，建立对AI模型的监控框架，确保金融稳定不受技术失控的威胁。"
+      "publishedAt": "2026-08-31T16:25:08Z",
+      "summary": "Meta宣布将很快在WhatsApp Channels中引入AI标签功能，该功能将在Messenger应用中上线。借助这一功能，用户在查看频道内容时能明确识别哪些消息由AI生成或经AI辅助处理，以提升透明度。这是Meta应对全球监管对AI内容标识要求的一部分，也延续了其在Facebook和Instagram上标注AI生成内容的做法。新功能既有助于用户辨别信息真伪，也可能影响内容创作者和营销者的传播策略。"
     }
   ]
 }
