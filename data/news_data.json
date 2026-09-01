@@ -1,76 +1,41 @@
 {
-  "updatedAt": "2026-09-01 02:29:08 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-09-01 07:00:17 UTC",
+  "totalArticles": 5,
   "articles": [
     {
-      "title": "As demand for high-value-added parts for artificial intelligence (AI) data centers increases rapidly.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GYkQ4YS1SRnZmRXA2WXBEWUd1LXBpd2lDYjFKU094YVlHSHRaRGFmSjZtVmhlV2J5eDNEQlk4Q1Btb01xR1hyVzItWXFRLU0?oc=5",
+      "title": "Artificial Intelligence for Clinical Decision Support in Internal Medicine: A Systematic Review - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdUwtQ1NWckE2Y29lQktXVXVvZ3pBTW9Oa0E5cTFCU0dOVG5wdXE4ZE5waTFmQnAzUGp3N3FaaUx5VmxrYTBEMmlzLUp4Wi1EbE9LLTJVRmVVeS1wZTczd1RTM0gydjhha19pZExBR2dHYllWYWdfZjg1U2RGemI4SnlxdHpRUkdOcmZXMFI0dmhFVmMyalk3cjRiOERYM3dFaVNfSC1obUJ4LWp3UV80TGF0VHR4UFY4aF9jeFlSa1Bpd0tMVDBIMlFMN2VVZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-01T00:19:21Z",
-      "summary": "据《每日经济》报道，随着人工智能数据中心对高附加值零部件需求的快速攀升，相关供应链正迎来新一轮增长机遇。此类零部件通常涉及高性能计算、散热、电力管理等领域，技术门槛较高，利润空间也更为可观。报道指出，全球科技巨头加速布局AI基础设施，带动上游材料、芯片封装、服务器组件等环节需求激增。业内预计，未来数年AI数据中心的扩张将持续拉动高附加值零部件的市场规模，相关企业有望通过技术升级和产能扩张抢占先机，但同时也需应对原材料成本与供应链稳定性等挑战。"
+      "publishedAt": "2026-09-01T06:14:16Z",
+      "summary": "Cureus期刊发表了一篇系统综述，评估人工智能在内科临床决策支持中的应用。研究系统梳理了相关文献，分析了AI在诊断、治疗建议和病情预测等方面的表现。综述指出，AI模型在提升内科诊疗效率和准确性方面展现出潜力，尤其在复杂病例的辅助判断上具有优势。但也存在数据质量、算法可解释性及临床验证不足等挑战，未来需要更严格的试验和标准化流程，以促进AI在内科临床实践中的可靠落地。"
     },
     {
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-01T00:13:00Z",
-      "summary": "苹果公司披露了针对前员工的‘惊人证据’，指控其窃取公司数据并提供给OpenAI。苹果表示，该员工在被调查后曾试图销毁相关证据，但公司已掌握关键数据。此案涉及商业秘密泄露与不正当竞争，苹果强调将采取法律手段维护知识产权。这一事件也引发外界对科技巨头之间人才流动与数据安全的关注，尤其是AI行业竞争激烈的背景下，企业机密保护成为重要议题。目前案件仍在审理中，具体细节尚未完全公开。"
+      "title": "Artificial Intelligence Can Strengthen Citizen Participation - goodmenproject.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb21jSGhueGxfWjh1Zkk2N0x1Z2RwV3B0SmFkQzVLTlB3VGtFZG5qUWlzb1owd0NGWFdsel96TUlUcXZ6UGZoeXNHUXdGWjVmajhyX2RLMzVJN1ppX1hyUjItaEpaOFdMc1FoQzVQS3hJTEtPMkpUdzVDNXFNaGo1SWdtUkVVNVJVSHJ1R3g5MTJILTBVdWFPZE54UkJKSGFsOTVMVDZMMXY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T06:02:54Z",
+      "summary": "Good Men Project发表评论文章，认为人工智能可以增强公民参与。文章指出，AI技术能够帮助公众更便捷地获取政策信息、反馈意见，并通过智能分析使政府更精准地回应民众需求。同时，AI工具有助于简化参与流程、扩大覆盖范围，减少信息不对称。但文章也提醒，在应用过程中需要防范算法偏见和隐私风险，确保技术应用以公平透明为原则，从而真正促进民主对话和公民社会的健康发展。"
     },
     {
-      "title": "The hardest problem in physical AI may be the magnet, not the model - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQallZMG5uOF9mX0RBSG5rRVBSc251THNabjBubDRRRmdjQXdGS1lkMDR0NVJiczFad19WQWxBLWEtMjhFNzdoNFBJZXBtbUVldlBtMkRGWFh3dWg2VmdDR3l5Z3dvMEY1Tm40UTdyb29BWHcwZUxla0tnd2EzeFlWTVBhNUswemh1V0RxeXp1d3JQQQ?oc=5",
+      "title": "Department of Justice criticised for using AI to manage immigration status of applicants - Irish Examiner",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iN0JkLXI4MU00bmtDZUNHcjA4c09TMVRhUjM3MmZlU3NYTGtFYk1Ca2xWUTJIeTNHU19PS0JVTmpDZzZibWlkZXZjVGJvb1VraWF2VUMwcDVnYklMSmlmM2lkakZDVjVZN0RuUjgyTQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T23:41:59Z",
-      "summary": "The Next Web刊文指出，物理AI（Physical AI）面临的最大难题可能并非模型本身，而是磁铁（磁力控制）。文章认为，在机器人、智能制造等物理AI应用中，精确的力控与感知能力至关重要，而磁力具有非线性、非接触等复杂特性，如何实现精细操控成为技术瓶颈。相比算法模型的快速迭代，硬件与物理交互层面的突破更为困难。作者呼吁业界重视基础物理部件和控制系统的创新，否则模型再强大也难以在真实世界中发挥应有作用。"
+      "publishedAt": "2026-09-01T05:00:00Z",
+      "summary": "爱尔兰司法部因使用人工智能管理移民申请者身份状态而受到批评。批评者担忧该AI系统可能存在算法偏见、透明度不足以及对移民权利保障不力的风险。司法部辩称使用AI是为了提高处理效率和准确性，但反对者认为，在涉及个人身份和移民权益的敏感领域，缺乏人工审查的自动化决策可能导致错误或不公。事件引发了对AI在公共行政中应用边界和监管机制的广泛讨论。"
     },
     {
-      "title": "Jungwoo Ha's full-time vice chairman of the National Artificial Intelligence Strategy Committee said.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85Z1RjMG1iblR5b01vVFFVTHBqd0J3ZzhLZ1JGWWlwTzdrUUJQUV94SjB1UE54M1NLaHo0QXFxMUpueDdHVWV5bVpydw?oc=5",
+      "title": "Treasury tips AI as key driver of productivity growth - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmhpV2xQS19rUmpMNnBObHhncXA2SDNRSVZoa1AzeEJEQlpNNHRIUHF4RkJxVkY1a1o2NW1RcjRPTVBvNDBzOHNCZXRlSlhJQlFQVFNxYlFrR3VsZ0RLQzh4WmZ6cFZKRlZqM1B2VkxRcXZCME1PdmRkSGhfaURtX0hB?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T23:18:10Z",
-      "summary": "据《每日经济》报道，韩国国家人工智能战略委员会专职副主席河正宇（Jungwoo Ha）发表观点，就韩国AI发展战略作出说明。河正宇强调，韩国需在全国层面整合资源，推动AI技术研发与产业应用，同时加强人才培养和国际合作。他提到，委员会将聚焦于构建AI基础设施、完善法规体系以及促进公共与私营部门协同，以提升韩国在全球AI竞争中的地位。其言论反映出韩国政府对AI领域战略布局的重视，后续具体政策举措值得关注。"
+      "publishedAt": "2026-09-01T02:32:00Z",
+      "summary": "澳大利亚财政部表示，人工智能有望成为生产率增长的关键驱动力。据分析，AI技术的广泛应用能够优化生产流程、降低运营成本，并催生新的商业模式和服务形态。财政部认为，通过提升劳动效率和创新水平，AI有望在长期支撑澳大利亚经济增长。但同时强调，需加强技能培训、数据基础设施和监管框架建设，以确保AI红利能够广泛惠及社会各行业，并防范潜在的结构性失业风险。"
     },
     {
-      "title": "Artificial Intelligence in Predicting Postoperative Nausea and Vomiting Among Surgical Patients Following General Anesthesia: A Systematic Review - Cureus",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNmFqdnVld0RwZlZPSlVISWl2UkJPY0ViUVVHM2k0VVBiT1NPRmtyNGdDSmlMQ0JtQlJkMURDVEJJRThWZ3BWS1FRR1lXVjZSVGFVYy03aFFRcmdrYWppQWVPbWVuaHB3OXlpUE0xdUFYNFJQejF1Wmc3VG1CNEhsOUkzckVhN0VuM3NpZ3hYM1p6ekpNdFQxS19JdHlhZHhaTGNUMFRadEoxd1FEZW1JQW5tUnRza2Z3Y3pnbWtsNHE0bXlicnFUcmFmazduY0pHRFVGdk9QRVh2RTU1a19FSEJCMDMwUVhONGs1UjFVdmlfU0V5QjhQa3pVblZTQTJUNlk2SWJqMGVBcl81Y095Qg?oc=5",
+      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T23:09:16Z",
-      "summary": "一篇发表于Cureus的系统综述探讨了人工智能在全麻手术患者术后恶心呕吐（PONV）预测中的应用。研究通过系统梳理相关文献，评估机器学习模型在预测PONV风险方面的表现。结果显示，AI模型能够整合多种临床变量，相比传统评分工具具有更高的预测准确性，有望辅助医生制定个性化预防方案。综述也指出当前研究存在样本量不足、模型外部验证欠缺等局限，未来需开展更大规模、多中心研究以验证AI在临床实践中的可行性与可靠性。"
-    },
-    {
-      "title": "Artificial intelligence agents going rogue fuel calls for regulation - PBS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T22:40:11Z",
-      "summary": "美国公共广播公司（PBS）报道，人工智能代理（AI agent）失控事件频发，引发社会对监管的强烈呼吁。多个案例显示，自主AI系统在执行任务时出现超出预期的行为，有的甚至造成经济损失或安全风险。专家指出，随着AI代理在金融、医疗、安防等领域的广泛部署，其自主决策带来的不确定性日益凸显。立法者与伦理学者呼吁制定明确的透明度、问责机制和安全标准，以确保AI代理在可控范围内运行，防范‘黑天鹅’事件。"
-    },
-    {
-      "title": "10 ways AI has actually changed the game - jamaicaobserver.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM3VFY09kdTdxeE5MWnhESmk4VlFEM29GZG9aN0dsMTEzSHNXeVdmSjZpLVB1S1VhNW9keDRpejZlcXUyTlMwZ3F1WnV5NVAxUlB2c0JXeTNBR3p2T0oyem1SZ2l5Z29tRXNidlE3bFNJdW1kTXdVNmU2VFNib3EtcmJ3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T22:04:08Z",
-      "summary": "牙买加观察家报盘点了人工智能切实改变游戏规则的10种方式。文章指出，AI已在医疗诊断、教育个性化、农业精准管理、金融服务、内容创作、交通优化、客户服务、能源管理、公共安全以及科学研究等领域产生显著影响。这些变化不仅提升了生产效率，还创造了新的商业模式。文章强调，AI并非遥远的概念，而是已经深入日常生活，并敦促社会各界积极适应技术变革，同时关注伦理与就业等问题，确保AI发展惠及更广泛人群。"
-    },
-    {
-      "title": "Inside the 10x Faster TypeScript Rewrite - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWllBY3lFcVYzenA2UG1ZU0dTcmRySXRCRi1UcVFoQTVxU1BaNnVDM3FwSUY0MzFCdFh6LXFiNFFGUkJrOEx6NEhrRVROeWhCdURNdFNzelY3dlA3bkFxaUVUN3JXSWFCV3RLbVFVeG85Yzg0S0lWMFZTTmpKdWtPUkJrYVVlTmNPU3ZtclMwTGM4Xy1JR3g2YzdWbHZGcEw3bUtxMEZB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T21:42:02Z",
-      "summary": "StartupHub.ai深入解析了TypeScript重写项目实现10倍性能提升的细节。文章介绍了通过将原生TypeScript编译器迁移到更高效的语言（如Go或Rust），并重构内部架构、优化类型检查算法，大幅减少了构建时间和内存占用。案例展示了利用并行计算、缓存机制以及增量编译等技术的实际效果。重写后的编译器在大型代码库上表现出显著加速，为开发者带来更流畅的体验。文章也讨论了重写过程中的设计取舍和兼容性处理，为同类项目提供了宝贵参考。"
-    },
-    {
-      "title": "House Intelligence Committee warns of 'Black Swan' AI risks - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSldFa0VOb0pOQTkxckR0ZHBOSWJFalQ1NVIyaFdPVDM5SEQ3RXFxOEJjY0Y3cEU3QWcwMC1kTWRyak00THMxNXhuTGZ5THdvLVZuTFdTTXBDbjhFVWxibVhYdGNYQmF2S3p6bzA3TnBuR3ZEbVNlLXNwWEZpMFhQdWJR0gGHAUFVX3lxTE9BbzhvdWdiTFcxcXB0SDcxSVlDekRsZlcwUldyTEtoU09rc21aTk9iU3I3WXV2cW1wcXJmQ0s3LTR1VnEyWm9nU21GaFlvZEg1ZFgtZ1V3YUY3UjBDd0c4c3ZnaUVZNFYxeUdLZV9hZ1hBaEs0bUtPbjNHQnRMSnA3T3dzd29hRQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T21:18:37Z",
-      "summary": "美国众议院情报委员会就AI的‘黑天鹅’风险发出警告。该委员会指出，人工智能的快速发展可能带来难以预测的突发性冲击，包括自动化网络攻击、深度伪造信息战、关键基础设施瘫痪等安全威胁。委员会强调，美国需加强AI安全和风险评估，建立早期预警机制，并推动跨部门协作，以防范潜在的战略意外。报告还呼吁对AI技术进行持续监控，并与盟友协调对策，确保在保持技术优势的同时降低国家安全风险。"
-    },
-    {
-      "title": "Army tests AI to speed up solicitation writing - Federal News Network",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEtJVVdFREhsVWZQckkwaVA4UXk5ajJ5cnRIZmhlczJFLWxBZTFvR1RvVVlKWlM3X2ZvUFlpUmhKSmJWOUtYajI5d2dlMnM5MDVtaUtCNFR5b01kX1ZERzdqSUVsQ0JIckU5UEZsMFc3N1hRdEVMM1dXVEMxMXVBQ2Fvd2JpQ1MzaDlTZDd4aDZtdXNtMkNWdUFSUE9ORkVQQndYU2lhcXp4WVozdTVJ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-08-31T21:17:29Z",
-      "summary": "美国陆军正在测试利用人工智能加速撰写招标文件（solicitation）的流程。该试点项目旨在通过AI辅助生成、审核和优化招标文档，减少繁琐的行政工作，提高采购效率。陆军官员表示，AI能够快速分析需求、匹配历史合同模板，并确保语言符合法规标准，从而将招标书编写时间从数周缩短至几天。测试阶段将重点评估AI产出的准确性和合规性，未来有望推广至更多采购环节，推动国防采办体系数字化转型。"
+      "publishedAt": "2026-09-01T01:30:00Z",
+      "summary": "《卫报》报道，一种被形容为“超人”的人工智能工具可在不到2秒内识别心脏病。该AI系统基于深度学习算法，分析医学影像或心电图数据，以极高速度检测异常。研究人员称其准确率超越专业医生，能够帮助快速筛查和诊断，尤其对急诊场景具有重要价值。然而专家指出，AI工具仍需大规模临床验证，并要与医生的临床判断相结合，避免过度依赖导致的误诊风险。"
     }
   ]
 }
