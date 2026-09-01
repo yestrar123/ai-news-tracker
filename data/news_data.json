@@ -1,90 +1,111 @@
 {
-  "updatedAt": "2026-09-01 15:42:44 UTC",
-  "totalArticles": 12,
+  "updatedAt": "2026-09-01 20:16:26 UTC",
+  "totalArticles": 15,
   "articles": [
     {
-      "title": "‘It’s all about the tension’: Upcoming artificial intelligence summit to explore uncomfortable issues - Pittsburgh Post-Gazette",
+      "title": "‘It’s all about the tension’: Upcoming artificial intelligence summit to explore uncomfortable issues - post-gazette.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2JJZlVZUFdpM3FXaURjQXlBMWFlRjZUNTl0eUJqUmdrbzR2ODJRWFdDZFp0Q18zWkc1NWNTdEVsd01UbGdWTDF4WFZuZ25uTGhqc3owcEplaGNteGlQS05IRExOejh5RzQ1N0t3N2FabTJGNEMtY3dIbWhGQURGdGdYRVpnS1ZiUmNsNEVBdU93a2xTQW16OTAzeGs2ZjdJUmRUTXNKRGpEcTVOM1hOTzlJdWw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-01T15:32:04Z",
-      "summary": "匹兹堡邮报报道，一场即将举行的人工智能峰会将以“张力”为核心主题，专门探讨AI领域令人不安的议题。峰会组织者表示，会议旨在直面技术进步与伦理、社会影响之间的紧张关系，而非回避矛盾。活动将汇聚多方声音，就AI的隐私、偏见、就业冲击及权力集中等敏感问题进行深入对话，强调在推动创新的同时必须正视其潜在代价。这一主题设定反映出AI行业正从狂热追捧转向更审慎、更具批判性的阶段。"
+      "publishedAt": "2026-09-01T20:02:45Z",
+      "summary": "一场即将举行的人工智能峰会以‘一切都与张力有关’为主题，旨在探讨AI领域那些令人不适的议题。峰会组织者认为，当前AI发展迅速，但伴随而来的伦理、社会影响、监管争议等问题往往被回避。通过聚焦这些紧张关系，会议希望促进更坦诚的讨论，帮助公众与业界直面AI带来的矛盾与挑战。该峰会由post-gazette.com报道，具体议程和参会嘉宾尚未完全公布，但可以预见，会议将围绕AI的责任、偏见、就业冲击以及技术权力集中等核心矛盾展开深入交流。"
+    },
+    {
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T19:39:22Z",
+      "summary": "Anthropic发布了新版本Fable 5.1，宣称比以往更便宜且限制更少。此次更新旨在降低token成本，同时减少模型安全机制造成的误报性限制。这意味着开发者和企业用户可以在更经济的情况下使用该模型，并减少因安全过滤器过度谨慎而导致的正常内容被拦截现象。不过，Anthropic并未完全放松安全措施，而是在保证安全底线的前提下优化了判定逻辑，使模型在合法场景中更具可用性。这一调整被业界视为对用户反馈的积极回应，也反映出AI供应商在成本、安全与实用性之间寻求更精细的平衡。"
+    },
+    {
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T17:35:37Z",
+      "summary": "谷歌推出了名为Google Pics的AI创意工具，以应对Canva和Adobe在设计软件市场的统治地位。与传统的拖拽式设计不同，该工具采用AI优先思路，用户只需输入文字提示即可生成设计作品，无需手动排版。这表明谷歌正大力押注生成式AI在创意领域的应用，通过降低设计门槛吸引非专业用户。Google Pics的推出也意味着AI设计工具竞争进一步加剧，Canva和Adobe等现有玩家或将面临来自科技巨头的直接挑战。目前该工具的具体功能和定价尚未完全公开，但已引发行业关注。"
+    },
+    {
+      "title": "Shopify (TSX:SHOP) Surges On Artificial Intelligence Momentum - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNei1WNDhXOThjUjYyUUJLdy1uSmxlVUhSS2twYldoaW5wekdadV9OVFFaSkpRQUgzSEc0QzhBZTJ5MGR5Sm1mVTlCT3F1WEliYnIwb1V2WmtIQ094eU92SnBUNGhoQ3JLeWd4MmVNOW1vekFwNjY2cjJZN0ZmeHpPbURTOG84ekJjQXgxOVBRcWlERWY1R3hVMVlzcEpjbmJ3TlVIQ0JZRXhOMlRoVXNoMlBmbjBBQTBD?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T17:29:00Z",
+      "summary": "Shopify股价因人工智能业务势头强劲而大幅上涨。Kalkine Media报道称，市场对Shopify利用AI优化电商平台功能、提升商家效率和改善用户体验的前景持乐观态度。该公司的AI工具能够帮助商家自动化营销、生成产品描述、分析数据等，从而降低运营成本并增加销售额。投资者认为，AI驱动的创新将巩固Shopify在电商SaaS领域的竞争地位，并带来长期增长潜力。此次股价上涨反映了市场对AI赋能电商的强烈信心，但分析师也提醒需关注估值是否过高等风险。"
+    },
+    {
+      "title": "If There Is a Stock Market Crash, Here Are 2 Artificial Intelligence (AI) Stocks I Am Loading Up on - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1ZNNDl3M0pkZWk1RWVWdzlGakVoeEI1UGlFWnZLRUVHNjJua193Uk9NTlpINGNmVExUZ3ZvTUJDcWJvbk41OE5SZzRnN00xRi0wSUw5TXNaODJoT0JyU3V4TFE0MUoxYzZTbmt3NXlLWTZVTGVVNm43MmtiQUExTEEwa3BERFI3QUw3bWlPSkdQNlIzenpWSEJiYkU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T17:20:01Z",
+      "summary": "一位市场观察人士在财经网站Yahoo Finance发文表示，如果股市出现大幅下跌，他会趁机加仓两只人工智能股票。文章没有直接点名具体公司，但强调在AI产业长期增长逻辑不变的背景下，龙头企业具备较强的抗跌能力和反弹弹性。作者认为，市场回调往往是优质资产的买入机会，尤其是那些拥有技术壁垒、庞大客户群和持续研发投入的AI公司。文章还提示投资者应保持谨慎，分批建仓，并关注企业基本面而非短期波动。这一观点反映了部分投资者对AI赛道长期价值的坚定信心。"
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T17:00:00Z",
+      "summary": "OpenAI宣布其ChatGPT Health服务与电子健康记录系统Epic实现集成，允许临床医生导入患者数据。该集成提供只读权限，意味着医生可以在对话式AI界面中查看病历、检查结果等信息，而无需切换系统。这一功能旨在减少医生的工作负担，提高临床决策效率。OpenAI强调，该设计严格遵循医疗隐私法规，只读访问可以降低数据被篡改的风险。不过，医疗数据的敏感性与AI的可靠性仍是关注焦点，实际临床应用效果有待观察。此举标志着OpenAI正加速进军医疗健康领域。"
+    },
+    {
+      "title": "Anthropic signs $35B Lambda deal for Texas data center - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1lnbDQ2eUE3NFJBZGJuV0c4WFVBckhWTUdFVzRDaVJfTWxzLTJIRmJjRUZpT1E1THFBaVEzcWZrX0YyY3FXZDljVVlFS2tYZDFDRGhFVFpOa1Vkeks4M3E5X2xKZ2xQeC1ycl9uVTFqdC1HWVJlT2g5a1BkeDhnZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T16:56:27Z",
+      "summary": "人工智能公司Anthropic与云计算基础设施提供商Lambda签署了一项价值350亿美元的协议，将在德克萨斯州建设数据中心。这笔巨额投资显示Anthropic正在大规模扩展其计算能力，以支持前沿AI模型的训练和推理需求。德克萨斯州因其能源资源、土地和有利政策成为数据中心建设的理想地点。该合作预计将显著提升Anthropic的算力储备，并可能带动当地就业和数字基建发展。分析师认为，此类大规模基础设施投资反映了AI竞赛的激烈程度，头部企业正通过锁定算力来确保竞争优势。"
+    },
+    {
+      "title": "Man Used Poisoned Google AI Overviews to Trick Women Into Thinking He Was an NFL Player, FBI Says - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yRElNc2RMc2xRaElOQmNQWmV1ZERySGgwYjU1cFBVV0FzaGoyTUdZejVwYXhkMnNjZXRwbE1STnFjWGZ1TTA4T3otclA1M2dScHVhQnJDNk81Q3FDb3UwSDA4Z1REdDJJa3VxSFhjM2dpbVFUU3F4QWdCaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T16:54:45Z",
+      "summary": "美国联邦调查局（FBI）披露一起利用AI实施诈骗的案件：一名男子通过操纵谷歌AI概览（AI Overviews）生成虚假信息，让女性误以为他是NFL球员。据报道，该男子使用‘投毒’手段影响AI模型的输出结果，使其在搜索中显示虚构的球员身份。这种攻击方式利用了AI系统对数据源信任的漏洞，可能误导用户对真实信息的判断。FBI提醒公众，对AI生成的内容要保持警惕，尤其是涉及个人身份的重要信息。该事件也引发了对AI搜索结果安全性和可信度的担忧。"
+    },
+    {
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T16:31:04Z",
+      "summary": "由红杉资本孵化的初创公司Empirik正式成立，并宣布获得2100万美元融资。该公司旨在利用人工智能预测IT基础设施故障，在问题发生之前提前预警。Empirik的模式被比喻为‘IT基础设施领域的Cursor’——Cursor通过AI辅助编程改变了软件开发效率，而Empirik则希望用AI监控和预测系统宕机风险，减少企业业务中断造成的损失。其技术可能依赖对大量运维数据的学习和异常模式识别。这笔资金将用于产品研发和团队扩张，显示投资界对AI运维自动化赛道的持续看好。"
+    },
+    {
+      "title": "1 Magnificent Artificial Intelligence (AI) Stock to Buy With $25 Before 2026 Is Over - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa1BtcFRhRklCU3QyRWpCUFlNclA5YW1kRlpjaXNNcno4UnlRUzBhSGRuNEVqRmJaSmxNU2Jobzdtc1FkbGhqZWZpZXpxOVBHand4SV9Yd1BjVVk4a3JXMnJWQW93UFdpNnlGWjdoNUM3aC1WVC16VnVvQVJxejJzMkV4c0FVVzNOTjZWMjdXRXl3QzJodWNwQzJiZ2RESVhJcnNDQm5KVFI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T16:07:00Z",
+      "summary": "财经网站Yahoo Finance发布文章，推荐一只投资者可在2026年前用25美元买入的人工智能股票。文章认为，该股票具有较高的成长潜力和合理的入门价格，适合小额投资者布局AI赛道。虽然未直接指出股票名称，但其描述强调这是一家‘卓越’的AI公司，可能拥有独特技术或市场地位。作者建议投资者利用当前估值窗口，在2026年结束前分批建立仓位。文章同时提醒，任何投资都存在风险，需结合个人财务状况和风险承受能力做出决策。此类荐股内容在财经媒体中常见，读者应保持理性。"
+    },
+    {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T15:51:55Z",
+      "summary": "亚马逊为其语音助手Alexa推出了一项名为“Update Me When”的新功能，可向用户发送个性化提醒，告知他们可能感兴趣的商品发布、巡演、书籍、电视节目及其他潜在引发消费的动态。该功能旨在主动捕捉用户的兴趣点，在相关事件或产品上线时及时通知，从而提升购物转化率。这标志着Alexa从被动响应式助手向主动推荐式商业平台的进一步演进，也为亚马逊的电商生态注入了新的智能化营销触点。"
+    },
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T15:45:51Z",
+      "summary": "AI安全与治理初创公司AIR宣布完成5000万美元融资，用于帮助企业审查和验证AI智能体所使用的能力与扩展组件。其平台能够自动发现公司内部运行中的各类AI智能体，持续对其使用的技能和插件进行安全审查，并阻止任何异常或不受欢迎的行为。这一融资表明，随着企业大规模部署AI智能体，针对其供应链和运行时行为的安全治理需求正快速增长，AIR力图在AI应用安全层占据关键位置。"
+    },
+    {
+      "title": "Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0ZQbUFmWXNIb2gwWFV2QnZDc0gxRFBId0thaXBpNVhPT2Jic0p3MHZJUTNXRV8wTHF5cnJtRDFaYnBDRlRfVF9oVklnOVNCeXZSNjdqREg3RUt6cDdPMHo3YU9DQ3VNbFdhTmc0RTlHRmphMkRnbG9vRGpTU0NQcWoyWGRnTndJQy1sNjdDckMwSHhpaW9zV1FzTDdtMWctVzU4ZnY2SHNTbU9KOFByR1RnMlBKMWVBNGF0eDdoMlFHQ19Ub0paWmlBcFNmNzR5bDVCYWNnU1E2cTJDSHVucA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T15:15:00Z",
+      "summary": "The Motley Fool发布文章，对比分析Nebius与CoreWeave两家AI基础设施公司的投资价值。两家公司均为人工智能算力领域的重要参与者：Nebius提供面向AI的云平台与基础设施服务，而CoreWeave专注于GPU云服务，为AI训练与推理提供高性能算力。文章从市场定位、客户结构、财务表现和增长潜力等维度展开比较，帮助投资者判断在当前AI基础设施竞争加剧的背景下，哪只股票更具买入价值。由于AI算力需求持续爆发，两者的估值与成长性均受市场高度关注。"
     },
     {
       "title": "Fambot introduces an ‘AI chief of staff’ for families",
       "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-01T15:10:58Z",
-      "summary": "科技媒体TechCrunch报道，初创公司Fambot推出了一款面向家庭的“AI首席参谋”服务。该AI系统旨在帮助家长处理育儿过程中的大量后勤事务，包括管理电子邮件、日历、学校通知、体育赛事安排等。通过整合家庭各类信息流，Fambot希望减轻父母在协调家庭日程上的负担，让家庭运营更加高效有序。这一产品定位瞄准了现代家庭在信息过载时代的痛点，也反映出AI正加速渗透进日常生活管理领域。"
-    },
-    {
-      "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGZIekI3RUhxeW8zS2RjeVFBaVNFZGNBUHI1QTJzcTBqSDJDaEVlbXhQZjUzMXhZSnotcjc5S0RuME5JZ1BJeGE1eW1lSEhFUDA5OXdqNnFYTXRHVms1cF9FbkxIZXI3SC00cmNJaWFmOGJWSkFwSUFObEZOWTh4Rm90ZDVHbXJHN21zS0h3NG13XzN3SndTaS1YaVpkTnM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-01T15:01:00Z",
-      "summary": "英国《卫报》报道，澳大利亚麦考瑞大学在两门心理学课程中，用AI聊天机器人取代了传统的面对面教学。这一举措引发广泛争议，校方解释称这是为了探索灵活的教学模式，但学生和部分学者担心AI无法提供足够的情感支持与互动质量。该事件凸显了高等教育在拥抱AI技术时的两难：既能降低成本和扩大覆盖面，又可能牺牲教育中的人际温度与深度。目前校方尚未公布效果评估数据。"
+      "summary": "初创公司Fambot推出了一款面向家庭场景的“AI首席参谋”服务，旨在帮助家长管理育儿过程中繁杂的日常事务，包括邮件处理、日历同步、学校通知、运动赛事安排以及其他家庭后勤事务。该产品将AI助手定位为家庭数字化管家，通过集成多种信息源并自动整理关键事项，减轻父母在协调家庭活动时的认知负担。Fambot的推出反映了AI应用从职场向家庭生活场景延伸的趋势，聚焦于提升家庭事务处理效率。"
     },
     {
       "title": "Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNa3JSVnFpRm5RTFBqV2hNN21OakF6OVRsNmYxWTNlcVE1SlMzWXBQdTk1Wl9NNVlCekZ5VkZidDhtVTFaMENhVFlISXRMNVNHZm5TcU9Hb0VaRjRCX3BOMjFKOFEyM1NJbGI4SHVVemhyXzg4MXpYLTVZVnRHdDhtWi1rWlMwVTZpTXpiUWtCdEczLWl0Y3VHZU44RzhxYi1QOXg5R21YMVN3X1lya3lHVFR5SUpmbzJua2lEU0QxdW5JM0Y4UURJV1NNUWJaRDVoeGhkR3NjaUQ3MXExdFRVeVYxRUhmRmxjSXJXd1Nud2FZR0htVkpZNTlEbjF2T241UlhCNE9sWUNpQ05hUDNadS1nYWgxbXhG?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZldoQV9qcEQzYjRmQmdqci1zSGw1bXVGQkpEUXNRaXJJaGtmTkRlYkVTWTVzNmlyU0wwOG5sRXVjaDBuUUZMc2RWTGszLWxQXzRuSmlXOW9sNTFjNG5TdUVTQUlYUm1xRGZhMnBPZ2gyeEFjQ24xdHZGa21SWUFBZXZ1eFh3dmFnWnFqMkM1ZVBsTFk3RXZEeDZ6UmpHbFVYMTB0TTZFSHA2YjU3UmNaWFZGX3BtZUFVZFN2OHFKTjNoU3Btbi1wWm1HeUZMYXU1aDdzeTZVd2ZLLXJRU3FucGl3dXZ0YnhXM3FqY2o1cHZVZ083MU90ZFJFUWU2Um1GaTk5dUNOUFNUdHJGWmRONnJ6OGU4TmlFd2JV?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-01T14:35:24Z",
-      "summary": "《环球邮报》发布投资分析文章，对比Nebius与CoreWeave两家AI基础设施股票，探讨哪只更值得买入。Nebius以云计算和AI服务为主，而CoreWeave专注于GPU云算力租赁，两者均受益于生成式AI热潮带来的算力需求爆发。文章指出，Nebius体量较小但增长潜力大，CoreWeave则与大型AI实验室合作紧密、收入可见性更高。分析认为，投资者需根据自身风险偏好选择，同时警惕估值过高和行业竞争加剧的风险。"
-    },
-    {
-      "title": "Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0ZQbUFmWXNIb2gwWFV2QnZDc0gxRFBId0thaXBpNVhPT2Jic0p3MHZJUTNXRV8wTHF5cnJtRDFaYnBDRlRfVF9oVklnOVNCeXZSNjdqREg3RUt6cDdPMHo3YU9DQ3VNbFdhTmc0RTlHRmphMkRnbG9vRGpTU0NQcWoyWGRnTndJQy1sNjdDckMwSHhpaW9zV1FzTDdtMWctVzU4ZnY2SHNTbU9KOFByR1RnMlBKMWVBNGF0eDdoMlFHQ19Ub0paWmlBcFNmNzR5bDVCYWNnU1E2cTJDSHVucA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-01T14:28:48Z",
-      "summary": "美股投资网站Motley Fool发表分析，比较Nebius和CoreWeave两家AI基础设施公司。CoreWeave凭借与OpenAI等头部企业的合同获得稳定收入，但严重依赖少数大客户；Nebius则背靠科技企业，在自研云平台基础上提供差异化AI服务，客户结构更分散。文章认为，CoreWeave短期业绩确定性强，但Nebius的长期增长潜力和客户多元化使其更具吸引力。对于风险承受能力不同的投资者，两者各有利弊。"
-    },
-    {
-      "title": "Worthware Systems International Inc. Announces CellSell® AI: Artificial Intelligence Integrated Directly into CellSell® - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUV2WG84TldyclA4b3hpUW1tVlJqRldiOGYzNWlJazJOaVdrcHpUSHlaMFpIN2RGU0o3ZWsyNXFtNnZvMnhOMEs2R25qZTZrcm1tWlRkRXN5V1ZyV25vOFQ1NER5ejVnQ1NQWmc1TXlZNWNVQlgxMktjbkRpd2d3cEg0ZWl0SlpmRlpEMHByZUFic0FSMW1LOWJR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-01T14:05:00Z",
-      "summary": "Worthware Systems International宣布在其CellSell产品中直接集成人工智能技术，推出名为CellSell AI的新功能。该公司未透露技术细节，但表示该集成将增强产品的智能化能力，可能涉及销售过程自动化、数据分析或客户交互优化等场景。此次升级被视为Worthware在AI应用落地方面的重要一步，旨在提升产品竞争力，满足企业用户对智能工具日益增长的需求。更多功能细节预计将在后续公布。"
-    },
-    {
-      "title": "Copyright Office rejects AI system DABUS as author under Indian law - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWng0NXlISnJrRGgzUl9sMmd0eXBEUldDb20zM3p4UXpmcDZpX3FfUVFqbWdFNUZNWTduQ1B4TE9YM3Jqc0VMQk9ZaUhnemZqOHpVWXJ0Z3EwTi15enpxZERvTXNINmxDVFJ5aE5udEdEeUp0U0RjTm5BVjljWF9uQXo1RlBPWGhfdDN1YzRjYTZqV0taZUNReEZDa1VKZW5Jek1TaXJIT2RzUkxOTHEtQ3J4MGt0eXA2T0pIM1FmYXVnRzAxajBrREdBNEYzTy04em1uTS1WdjRjeGEwMm1YV2VhNU53c3ZVMnJad9IB8gFBVV95cUxQU3h3MWh1RnpEWWRQRGk1UlBoeDAxMXFPZ0cxX2dXVlZlVlpuZ2ZkNnM1R0hMWnVSa0Z6YkZQRVF4N0ZzeVdaZFpjUUNSRFJCSkE4NjV5RTM3NHBKSENhV2xQUkxENUxfXzg4c1hFeHBrZkZGY2YxaXZxWHN3TDlKcG5WSDdSOTlwUnlVYVhjX0RfV2hJUXRwUDBVMWZhS2FkUkFEM1NIZHY1a05YbzVCajhpNGYzRFVNVnZ4SGI3YXdiX3U0VVpSYzJ5XzBQQjFJWGlXUnRteXJSUkhEOFBxQ0FqRjh3Vy1pM1h3UVlJQldwZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-01T13:45:12Z",
-      "summary": "印度版权局拒绝了将AI系统DABUS列为作者的申请，这一裁定依据印度现行版权法展开。此前，DABUS的创造者曾试图在多个国家申请将AI系统认定为版权作者，但大多被驳回。印度版权局的这一决定延续了全球主流立场：只有自然人才能成为作者，AI生成内容目前不享有传统版权保护。该案例引发了对AI创作物法律地位的持续讨论，未来可能需要立法层面予以明确回应。"
-    },
-    {
-      "title": "US to urge hands-off AI regulation at G20 tech meeting, official says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmFFcTlLcU1BTjFTOXBjTE80ZGFzSUc5ZUtPREdXX2tDcTJZODd4UTNwekU1M3JFdXlZdUhPcFl6Z0RqcWhjQ3VvLW92cmtZMHlLY0ZmTktxNlUtVXJLRlFfTXhWWXpvbGRBTU1Vb0FEY0dVNWE1Y3VNZTJ5SVhoU19hU0lsU0xmUnpoSkJrMVY5T1ZIaHlzTHRBS2JRTjdRU0U0R0tB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-01T13:34:56Z",
-      "summary": "路透社报道，一名美国官员透露，美国将在G20技术会议上呼吁对人工智能采取“不干预”式的宽松监管立场。美方主张减少对AI开发的过度限制，以保持技术创新活力和竞争力，倾向于依靠行业自律和现有法律框架，而非制定专门的新法规。这一立场与欧盟正在推行的严格监管路径形成鲜明对比。分析人士认为，这反映出全球AI治理模式的分歧，可能对跨国企业合规和国际贸易产生深远影响。"
-    },
-    {
-      "title": "US to urge hands-off AI regulation at G-20, official says - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2lXYjQ4VWFxS29URnJBZVoyanFNdENIYkpoLWZfYURNVjdKRGVzZ2NFaEdYNGRRY1V3VnZKRndyUWFCaUF6NlQ2QzZCUEJJNmlDT3g4VDhmZWFDLXZiQ0p4WnhoTVBkWWZobzNvN1N0VjhFanJBalgzT0xJQ0NxUGlSZDVLN21lRFJ4ZXdQY29SVDVSWmtaZFNhbUZlVG1zaUMzQ1E2ajUwOGlG?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-01T11:08:19Z",
-      "summary": "香港《英文虎报》援引美国官员消息称，美国将在G20峰会上敦促各国对人工智能监管采取放手态度。报道指出，美方认为宽松的监管环境有利于AI技术快速迭代和商业应用，避免因过度立法而扼杀创新。这一表态与欧洲追求严格监管的倾向形成张力。外界预计，G20会议将围绕AI治理的平衡点展开激烈辩论，美国试图联合志同道合的国家形成“创新优先”的阵营。"
-    },
-    {
-      "title": "AI literacy: As AI goes mainstream, India's workforce faces new skills test - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdWVxTGNyYnNLTFpGS3ptVGtUanZmX0ZjcDRUOVNvLVQ3c0VkdUZGbks3T3hTSGxsVEhsc0k3ZmFQTXZIVUVWN3gxTWU4eW00cEk0STNINF9hM2RpV1Y1SFUxdDNfQlIwM0duZDdNR2RXRWNSNEhoMXdDUzAwWEJvRF9uSGlWbGFQRVI5Y1dkYVhwUkt2cXh3WXdINUljZ0V4RXB1TU9ITWhTZjRNX3hDRTlCYm5TdUtlbEpxcGV5YU5xU0ZqOUtReElsejVoV0g3SHY2ZlJJVnQ1ejkwRG5iUVA1MUgwSm80YmtFODhUaGp2Yzdk0gH6AUFVX3lxTFBCRUU2QUM3Wi14TjltSW1ZU2tMMlJiZHRrWUNjTG43b3c1MGUzcTlrNDVwbTdpVGJEZkxPcUdLSWh3by1aQjF5ek5MeElQSGVhRGZxbjRaTXFhQVlSdGpZT01hQ2pxS3lHOUFfRndnSUgxZDV3MmZva2YwWWM3bzFiTUtPenVSMVE0YUVfQW80Qlk0V3VaWUI3dlZrT1VEckdOVExiTm56V1dLbVJKVDZ3SGtIZUdWbHl1cHJ2eURldjYtb2lRTF9KUUJkVkxXcnVkb2w1RGgxSHVJY3JCTHdTb3hhS2VMbEFqVFhraEJfbFctbW9xSWk1U1E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-01T10:58:56Z",
-      "summary": "印度《商业标准报》报道，随着AI技术快速普及，印度劳动力正面临新的技能考验。文章称，AI素养正从“加分项”变为“必备项”，尤其在IT、金融、客服等岗位，员工需掌握使用AI工具、理解其原理并规避风险的能力。目前印度教育体系和职业培训尚未完全跟上需求，导致技能缺口扩大。专家呼吁政府和企业加强AI扫盲培训，以帮助劳动力在自动化时代保持竞争力。"
-    },
-    {
-      "title": "Rivian Autonomy and AI (artificial intelligence) Day in Palo Alto, California - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQb3ZrVHQ5LVFfQnpVaExpakdBcW1VR09PdFNjNzFrQXRfZktpbkU3U21JVHNuNy0wa2RUUzV4aERmU2pNVERtak1kVWpGaTRGQlFGRlJ0OEhVeFJabUJjd2tmTkR4dzRqeEYtMDVrcFpBNEQxbnNRS083ZEZpUzZoUVJWbzU1ZFBFX1dfTHU5OWpyLVpqbERZY0ZUemJYTV9BUUUxZGpJY0Q1U0tEOHpJVHk4YVotbkpnaFA3WkRneUc2MVlCa1c2dHRLVXU1YmNRYjU4Y1FnYXdad1FMdm9QMHBKQk00TzFISk52SURrSV9OaFg3MVJDTDg2aGN3akFZY0E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-01T10:28:16Z",
-      "summary": "Rivian在加州帕洛阿尔托举行了“Autonomy and AI Day”活动，重点展示其在自动驾驶和人工智能领域的最新进展。作为电动汽车制造商，Rivian正在加速推进自动驾驶技术研发，并将AI能力深度整合至车辆系统中。此次活动预计将公布其自研的感知、决策与控制算法，以及面向未来车型的智能化升级路线。业内关注Rivian如何在竞争激烈的新能源市场中，通过差异化技术构建自身优势。此次发布也标志着Rivian从传统整车制造向软件驱动型科技公司转型的重要一步。"
-    },
-    {
-      "title": "FILE PHOTO: Illustration shows AI (Artificial Intelligence) letters and robot hand miniature - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUFEtbTM1UEJBWTItSks0NGlQNVBpcXAweTFTekN0OW5XMG1DSlUzVW04bVZfYnRIN3hJY0lvUnY5Q2kyZzZwMzFvZEJ2V0RXMkhCZlNMMTU0NmpkQnozanEwckJnOFIyWkdIQzRZMVVvZUNWTW4tRVA0RHFKVnJ4dmx1dER0cDBsX21YVEpOVC1abXUwQlBHRkVOanJuRUVwS0VsN3dCRGRyaHJZeVJhWE10Q1JTbTZGblNZUG1NVTNiZFlBSFdTWnVtd2ZCNjl2enBVNmtzRzN0aTYwQkIxUEhabk5Mam8xWjlrVVNPUTBONzlGcWNYTE0wRXptV3hkc3ZDY1hwN1FJaThkSmFjLVhja2tXdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-01T10:04:22Z",
-      "summary": "该新闻为一张资料图片，画面中展示了“AI”英文字母与微型机器人手结合的插画。图片以视觉化方式呈现人工智能主题，常用于新闻配图，用以代表AI技术、自动化及机器人等相关报道。此类图片在媒体中普遍用于辅助说明人工智能技术的抽象概念，帮助读者直观理解AI应用的广泛性和未来感。尽管没有具体事件信息，但图片本身传递了人工智能与机器人技术融合发展的核心意象，适用于各类科技新闻场景。"
+      "publishedAt": "2026-09-01T14:36:00Z",
+      "summary": "《环球邮报》转载了The Motley Fool的一篇分析文章，围绕Nebius与CoreWeave两只AI基础设施股票展开对比。文章考察了两家公司在AI云计算、GPU算力租赁等核心业务上的竞争力，包括技术架构、客户集中度、盈利路径及市场扩张策略。Nebius依托欧洲背景提供综合AI云服务，CoreWeave则凭借大规模GPU集群服务快速增长。文章旨在为投资者提供多维度的比较视角，以判断在人工智能投资热潮中，哪家公司的商业模式和财务前景更具吸引力。"
     }
   ]
 }

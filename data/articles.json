@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "4278",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T19:39:22Z",
+      "summary": "Anthropic发布了新版本Fable 5.1，宣称比以往更便宜且限制更少。此次更新旨在降低token成本，同时减少模型安全机制造成的误报性限制。这意味着开发者和企业用户可以在更经济的情况下使用该模型，并减少因安全过滤器过度谨慎而导致的正常内容被拦截现象。不过，Anthropic并未完全放松安全措施，而是在保证安全底线的前提下优化了判定逻辑，使模型在合法场景中更具可用性。这一调整被业界视为对用户反馈的积极回应，也反映出AI供应商在成本、安全与实用性之间寻求更精细的平衡。",
+      "fetchDate": "2026-09-01"
+    },
+    {
+      "id": "4279",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T17:35:37Z",
+      "summary": "谷歌推出了名为Google Pics的AI创意工具，以应对Canva和Adobe在设计软件市场的统治地位。与传统的拖拽式设计不同，该工具采用AI优先思路，用户只需输入文字提示即可生成设计作品，无需手动排版。这表明谷歌正大力押注生成式AI在创意领域的应用，通过降低设计门槛吸引非专业用户。Google Pics的推出也意味着AI设计工具竞争进一步加剧，Canva和Adobe等现有玩家或将面临来自科技巨头的直接挑战。目前该工具的具体功能和定价尚未完全公开，但已引发行业关注。",
+      "fetchDate": "2026-09-01"
+    },
+    {
+      "id": "4280",
+      "title": "Shopify (TSX:SHOP) Surges On Artificial Intelligence Momentum - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNei1WNDhXOThjUjYyUUJLdy1uSmxlVUhSS2twYldoaW5wekdadV9OVFFaSkpRQUgzSEc0QzhBZTJ5MGR5Sm1mVTlCT3F1WEliYnIwb1V2WmtIQ094eU92SnBUNGhoQ3JLeWd4MmVNOW1vekFwNjY2cjJZN0ZmeHpPbURTOG84ekJjQXgxOVBRcWlERWY1R3hVMVlzcEpjbmJ3TlVIQ0JZRXhOMlRoVXNoMlBmbjBBQTBD?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T17:29:00Z",
+      "summary": "Shopify股价因人工智能业务势头强劲而大幅上涨。Kalkine Media报道称，市场对Shopify利用AI优化电商平台功能、提升商家效率和改善用户体验的前景持乐观态度。该公司的AI工具能够帮助商家自动化营销、生成产品描述、分析数据等，从而降低运营成本并增加销售额。投资者认为，AI驱动的创新将巩固Shopify在电商SaaS领域的竞争地位，并带来长期增长潜力。此次股价上涨反映了市场对AI赋能电商的强烈信心，但分析师也提醒需关注估值是否过高等风险。",
+      "fetchDate": "2026-09-01"
+    },
+    {
+      "id": "4281",
+      "title": "If There Is a Stock Market Crash, Here Are 2 Artificial Intelligence (AI) Stocks I Am Loading Up on - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1ZNNDl3M0pkZWk1RWVWdzlGakVoeEI1UGlFWnZLRUVHNjJua193Uk9NTlpINGNmVExUZ3ZvTUJDcWJvbk41OE5SZzRnN00xRi0wSUw5TXNaODJoT0JyU3V4TFE0MUoxYzZTbmt3NXlLWTZVTGVVNm43MmtiQUExTEEwa3BERFI3QUw3bWlPSkdQNlIzenpWSEJiYkU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T17:20:01Z",
+      "summary": "一位市场观察人士在财经网站Yahoo Finance发文表示，如果股市出现大幅下跌，他会趁机加仓两只人工智能股票。文章没有直接点名具体公司，但强调在AI产业长期增长逻辑不变的背景下，龙头企业具备较强的抗跌能力和反弹弹性。作者认为，市场回调往往是优质资产的买入机会，尤其是那些拥有技术壁垒、庞大客户群和持续研发投入的AI公司。文章还提示投资者应保持谨慎，分批建仓，并关注企业基本面而非短期波动。这一观点反映了部分投资者对AI赛道长期价值的坚定信心。",
+      "fetchDate": "2026-09-01"
+    },
+    {
+      "id": "4282",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T17:00:00Z",
+      "summary": "OpenAI宣布其ChatGPT Health服务与电子健康记录系统Epic实现集成，允许临床医生导入患者数据。该集成提供只读权限，意味着医生可以在对话式AI界面中查看病历、检查结果等信息，而无需切换系统。这一功能旨在减少医生的工作负担，提高临床决策效率。OpenAI强调，该设计严格遵循医疗隐私法规，只读访问可以降低数据被篡改的风险。不过，医疗数据的敏感性与AI的可靠性仍是关注焦点，实际临床应用效果有待观察。此举标志着OpenAI正加速进军医疗健康领域。",
+      "fetchDate": "2026-09-01"
+    },
+    {
+      "id": "4283",
+      "title": "Anthropic signs $35B Lambda deal for Texas data center - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1lnbDQ2eUE3NFJBZGJuV0c4WFVBckhWTUdFVzRDaVJfTWxzLTJIRmJjRUZpT1E1THFBaVEzcWZrX0YyY3FXZDljVVlFS2tYZDFDRGhFVFpOa1Vkeks4M3E5X2xKZ2xQeC1ycl9uVTFqdC1HWVJlT2g5a1BkeDhnZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T16:56:27Z",
+      "summary": "人工智能公司Anthropic与云计算基础设施提供商Lambda签署了一项价值350亿美元的协议，将在德克萨斯州建设数据中心。这笔巨额投资显示Anthropic正在大规模扩展其计算能力，以支持前沿AI模型的训练和推理需求。德克萨斯州因其能源资源、土地和有利政策成为数据中心建设的理想地点。该合作预计将显著提升Anthropic的算力储备，并可能带动当地就业和数字基建发展。分析师认为，此类大规模基础设施投资反映了AI竞赛的激烈程度，头部企业正通过锁定算力来确保竞争优势。",
+      "fetchDate": "2026-09-01"
+    },
+    {
+      "id": "4284",
+      "title": "Man Used Poisoned Google AI Overviews to Trick Women Into Thinking He Was an NFL Player, FBI Says - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yRElNc2RMc2xRaElOQmNQWmV1ZERySGgwYjU1cFBVV0FzaGoyTUdZejVwYXhkMnNjZXRwbE1STnFjWGZ1TTA4T3otclA1M2dScHVhQnJDNk81Q3FDb3UwSDA4Z1REdDJJa3VxSFhjM2dpbVFUU3F4QWdCaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T16:54:45Z",
+      "summary": "美国联邦调查局（FBI）披露一起利用AI实施诈骗的案件：一名男子通过操纵谷歌AI概览（AI Overviews）生成虚假信息，让女性误以为他是NFL球员。据报道，该男子使用‘投毒’手段影响AI模型的输出结果，使其在搜索中显示虚构的球员身份。这种攻击方式利用了AI系统对数据源信任的漏洞，可能误导用户对真实信息的判断。FBI提醒公众，对AI生成的内容要保持警惕，尤其是涉及个人身份的重要信息。该事件也引发了对AI搜索结果安全性和可信度的担忧。",
+      "fetchDate": "2026-09-01"
+    },
+    {
+      "id": "4285",
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T16:31:04Z",
+      "summary": "由红杉资本孵化的初创公司Empirik正式成立，并宣布获得2100万美元融资。该公司旨在利用人工智能预测IT基础设施故障，在问题发生之前提前预警。Empirik的模式被比喻为‘IT基础设施领域的Cursor’——Cursor通过AI辅助编程改变了软件开发效率，而Empirik则希望用AI监控和预测系统宕机风险，减少企业业务中断造成的损失。其技术可能依赖对大量运维数据的学习和异常模式识别。这笔资金将用于产品研发和团队扩张，显示投资界对AI运维自动化赛道的持续看好。",
+      "fetchDate": "2026-09-01"
+    },
+    {
+      "id": "4286",
+      "title": "1 Magnificent Artificial Intelligence (AI) Stock to Buy With $25 Before 2026 Is Over - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa1BtcFRhRklCU3QyRWpCUFlNclA5YW1kRlpjaXNNcno4UnlRUzBhSGRuNEVqRmJaSmxNU2Jobzdtc1FkbGhqZWZpZXpxOVBHand4SV9Yd1BjVVk4a3JXMnJWQW93UFdpNnlGWjdoNUM3aC1WVC16VnVvQVJxejJzMkV4c0FVVzNOTjZWMjdXRXl3QzJodWNwQzJiZ2RESVhJcnNDQm5KVFI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T16:07:00Z",
+      "summary": "财经网站Yahoo Finance发布文章，推荐一只投资者可在2026年前用25美元买入的人工智能股票。文章认为，该股票具有较高的成长潜力和合理的入门价格，适合小额投资者布局AI赛道。虽然未直接指出股票名称，但其描述强调这是一家‘卓越’的AI公司，可能拥有独特技术或市场地位。作者建议投资者利用当前估值窗口，在2026年结束前分批建立仓位。文章同时提醒，任何投资都存在风险，需结合个人财务状况和风险承受能力做出决策。此类荐股内容在财经媒体中常见，读者应保持理性。",
+      "fetchDate": "2026-09-01"
+    },
+    {
+      "id": "4287",
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T15:51:55Z",
+      "summary": "亚马逊为其语音助手Alexa推出了一项名为“Update Me When”的新功能，可向用户发送个性化提醒，告知他们可能感兴趣的商品发布、巡演、书籍、电视节目及其他潜在引发消费的动态。该功能旨在主动捕捉用户的兴趣点，在相关事件或产品上线时及时通知，从而提升购物转化率。这标志着Alexa从被动响应式助手向主动推荐式商业平台的进一步演进，也为亚马逊的电商生态注入了新的智能化营销触点。",
+      "fetchDate": "2026-09-01"
+    },
+    {
+      "id": "4288",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-01T15:45:51Z",
+      "summary": "AI安全与治理初创公司AIR宣布完成5000万美元融资，用于帮助企业审查和验证AI智能体所使用的能力与扩展组件。其平台能够自动发现公司内部运行中的各类AI智能体，持续对其使用的技能和插件进行安全审查，并阻止任何异常或不受欢迎的行为。这一融资表明，随着企业大规模部署AI智能体，针对其供应链和运行时行为的安全治理需求正快速增长，AIR力图在AI应用安全层占据关键位置。",
+      "fetchDate": "2026-09-01"
+    },
+    {
       "id": "4268",
       "title": "‘It’s all about the tension’: Upcoming artificial intelligence summit to explore uncomfortable issues - Pittsburgh Post-Gazette",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2JJZlVZUFdpM3FXaURjQXlBMWFlRjZUNTl0eUJqUmdrbzR2ODJRWFdDZFp0Q18zWkc1NWNTdEVsd01UbGdWTDF4WFZuZ25uTGhqc3owcEplaGNteGlQS05IRExOejh5RzQ1N0t3N2FabTJGNEMtY3dIbWhGQURGdGdYRVpnS1ZiUmNsNEVBdU93a2xTQW16OTAzeGs2ZjdJUmRUTXNKRGpEcTVOM1hOTzlJdWw?oc=5",
@@ -25,6 +124,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-09-01T15:01:00Z",
       "summary": "英国《卫报》报道，澳大利亚麦考瑞大学在两门心理学课程中，用AI聊天机器人取代了传统的面对面教学。这一举措引发广泛争议，校方解释称这是为了探索灵活的教学模式，但学生和部分学者担心AI无法提供足够的情感支持与互动质量。该事件凸显了高等教育在拥抱AI技术时的两难：既能降低成本和扩大覆盖面，又可能牺牲教育中的人际温度与深度。目前校方尚未公布效果评估数据。",
+      "fetchDate": "2026-09-01"
+    },
+    {
+      "id": "4289",
+      "title": "Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZldoQV9qcEQzYjRmQmdqci1zSGw1bXVGQkpEUXNRaXJJaGtmTkRlYkVTWTVzNmlyU0wwOG5sRXVjaDBuUUZMc2RWTGszLWxQXzRuSmlXOW9sNTFjNG5TdUVTQUlYUm1xRGZhMnBPZ2gyeEFjQ24xdHZGa21SWUFBZXZ1eFh3dmFnWnFqMkM1ZVBsTFk3RXZEeDZ6UmpHbFVYMTB0TTZFSHA2YjU3UmNaWFZGX3BtZUFVZFN2OHFKTjNoU3Btbi1wWm1HeUZMYXU1aDdzeTZVd2ZLLXJRU3FucGl3dXZ0YnhXM3FqY2o1cHZVZ083MU90ZFJFUWU2Um1GaTk5dUNOUFNUdHJGWmRONnJ6OGU4TmlFd2JV?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T14:36:00Z",
+      "summary": "《环球邮报》转载了The Motley Fool的一篇分析文章，围绕Nebius与CoreWeave两只AI基础设施股票展开对比。文章考察了两家公司在AI云计算、GPU算力租赁等核心业务上的竞争力，包括技术架构、客户集中度、盈利路径及市场扩张策略。Nebius依托欧洲背景提供综合AI云服务，CoreWeave则凭借大规模GPU集群服务快速增长。文章旨在为投资者提供多维度的比较视角，以判断在人工智能投资热潮中，哪家公司的商业模式和财务前景更具吸引力。",
       "fetchDate": "2026-09-01"
     },
     {
@@ -38485,5 +38593,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4276
+  "total": 4288
 }
