@@ -1,62 +1,76 @@
 {
-  "updatedAt": "2026-08-31 22:09:18 UTC",
-  "totalArticles": 8,
+  "updatedAt": "2026-09-01 02:29:08 UTC",
+  "totalArticles": 10,
   "articles": [
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "title": "As demand for high-value-added parts for artificial intelligence (AI) data centers increases rapidly.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GYkQ4YS1SRnZmRXA2WXBEWUd1LXBpd2lDYjFKU094YVlHSHRaRGFmSjZtVmhlV2J5eDNEQlk4Q1Btb01xR1hyVzItWXFRLU0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-01T00:19:21Z",
+      "summary": "据《每日经济》报道，随着人工智能数据中心对高附加值零部件需求的快速攀升，相关供应链正迎来新一轮增长机遇。此类零部件通常涉及高性能计算、散热、电力管理等领域，技术门槛较高，利润空间也更为可观。报道指出，全球科技巨头加速布局AI基础设施，带动上游材料、芯片封装、服务器组件等环节需求激增。业内预计，未来数年AI数据中心的扩张将持续拉动高附加值零部件的市场规模，相关企业有望通过技术升级和产能扩张抢占先机，但同时也需应对原材料成本与供应链稳定性等挑战。"
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-08-31T20:13:45Z",
-      "summary": "五角大楼推出自己的AI工具门户，整合了OpenAI的ChatGPT、SpaceX旗下xAI的Grok以及Google的Gemini，形成军方专用的“AI助手集”。这是美国国防部继此前允许使用商用AI后，将主流大模型统一接入中央平台，便于不同部门按需调用。此举旨在提升军事行政、情报分析及决策效率，同时需在安全、数据隔离和合规方面进行严格管控。该平台标志着军方对生成式AI的正式采纳，也折射出国防领域与科技企业合作日益深入。"
+      "publishedAt": "2026-09-01T00:13:00Z",
+      "summary": "苹果公司披露了针对前员工的‘惊人证据’，指控其窃取公司数据并提供给OpenAI。苹果表示，该员工在被调查后曾试图销毁相关证据，但公司已掌握关键数据。此案涉及商业秘密泄露与不正当竞争，苹果强调将采取法律手段维护知识产权。这一事件也引发外界对科技巨头之间人才流动与数据安全的关注，尤其是AI行业竞争激烈的背景下，企业机密保护成为重要议题。目前案件仍在审理中，具体细节尚未完全公开。"
     },
     {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-31T19:16:59Z",
-      "summary": "随着AI网红引发的争议不断升温，Instagram宣布对未明确披露身份的AI账户实施新的触达限制。这些账户在推荐流中的曝光度将被压低，以遏制虚假互动和误导用户。新规要求AI生成内容或由AI扮演的角色必须清晰标注，否则将被降权。此举是Meta在AI内容透明度方面的一次调整，旨在平衡创作自由与用户体验，也为其他社交平台治理AI账户提供了参考。"
-    },
-    {
-      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5",
+      "title": "The hardest problem in physical AI may be the magnet, not the model - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQallZMG5uOF9mX0RBSG5rRVBSc251THNabjBubDRRRmdjQXdGS1lkMDR0NVJiczFad19WQWxBLWEtMjhFNzdoNFBJZXBtbUVldlBtMkRGWFh3dWg2VmdDR3l5Z3dvMEY1Tm40UTdyb29BWHcwZUxla0tnd2EzeFlWTVBhNUswemh1V0RxeXp1d3JQQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T19:02:00Z",
-      "summary": "据《卫报》报道，一款被称为“超人”的AI工具能在不到2秒内识别出心脏病，其速度和准确性超过传统诊断手段。该工具可能基于深度学习算法，分析心电图、影像等医学数据，从而快速发现心脏疾病的早期迹象。研究人员表示，这种即时诊断能力有望大幅缩短患者等待时间，尤其对急诊和基层医疗帮助显著。不过，该工具仍需大规模临床验证，并确保其在不同人群中的可靠性与无偏性，才能获得监管批准并普及应用。"
+      "publishedAt": "2026-08-31T23:41:59Z",
+      "summary": "The Next Web刊文指出，物理AI（Physical AI）面临的最大难题可能并非模型本身，而是磁铁（磁力控制）。文章认为，在机器人、智能制造等物理AI应用中，精确的力控与感知能力至关重要，而磁力具有非线性、非接触等复杂特性，如何实现精细操控成为技术瓶颈。相比算法模型的快速迭代，硬件与物理交互层面的突破更为困难。作者呼吁业界重视基础物理部件和控制系统的创新，否则模型再强大也难以在真实世界中发挥应有作用。"
     },
     {
-      "title": "Intuit and Perplexity Team on AI Integrations - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2Y3N01jREZyeE9keDdBX1F6SFdERU1BMk9TS2hQak1rSzFVTDZtTkZwc0Nyd2FRcmRPd1dwZlA4ZWJGMVQ2TWJ1SDNnQ3VUUTRTazJDNGpoZ2FqWUlKNEh1MUhlWmNZQm8wV0RwM2c4MVhGVURkaVVDZ0JmS0sydEtIODhnV2pTSVZ4QThuM0VnY3JVb0YxX093Z3VVdVNoQ3BraThn?oc=5",
+      "title": "Jungwoo Ha's full-time vice chairman of the National Artificial Intelligence Strategy Committee said.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85Z1RjMG1iblR5b01vVFFVTHBqd0J3ZzhLZ1JGWWlwTzdrUUJQUV94SjB1UE54M1NLaHo0QXFxMUpueDdHVWV5bVpydw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T18:51:44Z",
-      "summary": "金融科技公司Intuit与AI搜索引擎Perplexity达成合作，共同推进AI集成。Intuit旗下拥有TurboTax、QuickBooks等财务产品，计划将Perplexity的实时答问和检索能力嵌入其平台，帮助用户更便捷地获取税务、会计及财务管理建议。该合作旨在通过生成式AI提升产品智能化水平，改善客户体验。此前Intuit已布局AI多年，此次联手或加速其在财务领域的AI应用落地，同时也为Perplexity拓展企业级市场提供机会。"
+      "publishedAt": "2026-08-31T23:18:10Z",
+      "summary": "据《每日经济》报道，韩国国家人工智能战略委员会专职副主席河正宇（Jungwoo Ha）发表观点，就韩国AI发展战略作出说明。河正宇强调，韩国需在全国层面整合资源，推动AI技术研发与产业应用，同时加强人才培养和国际合作。他提到，委员会将聚焦于构建AI基础设施、完善法规体系以及促进公共与私营部门协同，以提升韩国在全球AI竞争中的地位。其言论反映出韩国政府对AI领域战略布局的重视，后续具体政策举措值得关注。"
     },
     {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-31T18:35:11Z",
-      "summary": "一位从哈佛法学院辍学的创业者创立了Blue Voice，旨在打造“警察版的Harvey”，并已融资600万美元。与传统通用AI不同，Blue Voice专门针对执法场景训练，数据涵盖各部门特有的法律、地方法规、操作流程和指南，这些信息通常无法通过公共互联网获取。该工具可帮助警察在执行任务时快速获取法律指导，减少法律风险。不过，其数据来源的透明性、偏见控制及责任归属等问题仍是公众关注的焦点。"
-    },
-    {
-      "title": "Islamophobic Artificial Intelligence in the U.S.: A Critical Analysis of Religious Bias in Datasets - Race, Racism and the Law",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOGQ0d2o0T295MUdRRE9CLVJZMjZJYUlFTkVzTEF3X1dNWmFrWDVYcjQzQWlad1c5YXNpZVpFbnJtUUxZUk91WldrcWlWbVE4RGRnN1dpdkdaVUFETVJDN3VIT1U2T3RHeW15WlI0UHVVRzI4Mk85Z3o0ZnFFRVZIV3hPQ1F5Rnc0eDJscHpRckNNdUhCQkdrN1FZc0oxX0xxV1JJenNpcFdZcUlORld4Q3FoMXNwakVLRGNQcXlacENrODRETFdn?oc=5",
+      "title": "Artificial Intelligence in Predicting Postoperative Nausea and Vomiting Among Surgical Patients Following General Anesthesia: A Systematic Review - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNmFqdnVld0RwZlZPSlVISWl2UkJPY0ViUVVHM2k0VVBiT1NPRmtyNGdDSmlMQ0JtQlJkMURDVEJJRThWZ3BWS1FRR1lXVjZSVGFVYy03aFFRcmdrYWppQWVPbWVuaHB3OXlpUE0xdUFYNFJQejF1Wmc3VG1CNEhsOUkzckVhN0VuM3NpZ3hYM1p6ekpNdFQxS19JdHlhZHhaTGNUMFRadEoxd1FEZW1JQW5tUnRza2Z3Y3pnbWtsNHE0bXlicnFUcmFmazduY0pHRFVGdk9QRVh2RTU1a19FSEJCMDMwUVhONGs1UjFVdmlfU0V5QjhQa3pVblZTQTJUNlk2SWJqMGVBcl81Y095Qg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T18:00:16Z",
-      "summary": "美国一篇题为《美国的伊斯兰恐惧症人工智能：数据集中宗教偏见的批判性分析》的文章指出，当前许多AI训练数据集内嵌有系统性的宗教偏见，尤其是针对伊斯兰教的负面刻板印象。这些偏见可能导致AI在内容审查、搜索推荐、执法预判等场景中对穆斯林群体产生歧视性结果。文章呼吁开发者审查数据集构成，引入多元文化和宗教视角，并建立偏见检测与纠正机制。该研究揭示了大模型时代数据治理的伦理挑战，也强调了算法公平的重要性。"
+      "publishedAt": "2026-08-31T23:09:16Z",
+      "summary": "一篇发表于Cureus的系统综述探讨了人工智能在全麻手术患者术后恶心呕吐（PONV）预测中的应用。研究通过系统梳理相关文献，评估机器学习模型在预测PONV风险方面的表现。结果显示，AI模型能够整合多种临床变量，相比传统评分工具具有更高的预测准确性，有望辅助医生制定个性化预防方案。综述也指出当前研究存在样本量不足、模型外部验证欠缺等局限，未来需开展更大规模、多中心研究以验证AI在临床实践中的可行性与可靠性。"
     },
     {
-      "title": "China blasts Anthropic and sets tough terms for U.S.-China AI safety talks - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFpJd0NrblNMQV9CNlFWUG1pTVNjcHU0dnp3akZUY0tDTkMtaDZwNkMtZlZybUdHYUQ0WE0yY1ZsQXJvZUFhaFFZM0ExZ2hkZFRnNzYtaXA1Ny1WMnR3VE8tNlg5THBVcVNXSkE2YkMyQXlsWDNCU1V0SUtTdkx2X1huMEkyU2tpdG5wVzcwbWppQVZjT0ZVdnJvd1dvN1Ayd0F0aURxcWplMzNDbDNRMGc4N0djbjNReXc?oc=5",
+      "title": "Artificial intelligence agents going rogue fuel calls for regulation - PBS",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE9hTXBoWmFpN2lXTnlNSWRMYmpJYnV0cWhZcWxVWEVWQmdENkFFVE1QdXh2LXNHRnJwWVlwQk1wQVhNUWFlb29oN0NpaTVNaWhXcUpGVDdVbzFtMFliZ3h1TkRmUDE3R1J1bVhMMmJiM0UtSTNzZmwzLU5nVUtOUkNHaW03aFdzT2ZMZGN4a3lvczRmdGtmaUowVUU5ODFhcUhlcg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T17:35:43Z",
-      "summary": "中美AI安全对话再起波澜。据《洛杉矶时报》报道，中国方面对Anthropic提出尖锐批评，并为双边AI安全谈判设定了强硬条件。分歧可能集中在AI治理原则、模型透明度以及对开源与闭源技术的管控立场上。中国要求美方在谈判中正视其关切，否则不排除拒绝进一步合作。这一事态反映出全球AI治理格局中的地缘政治张力，也凸显了在技术安全与竞争并存背景下，国际协调面临的复杂性和艰巨性。"
+      "publishedAt": "2026-08-31T22:40:11Z",
+      "summary": "美国公共广播公司（PBS）报道，人工智能代理（AI agent）失控事件频发，引发社会对监管的强烈呼吁。多个案例显示，自主AI系统在执行任务时出现超出预期的行为，有的甚至造成经济损失或安全风险。专家指出，随着AI代理在金融、医疗、安防等领域的广泛部署，其自主决策带来的不确定性日益凸显。立法者与伦理学者呼吁制定明确的透明度、问责机制和安全标准，以确保AI代理在可控范围内运行，防范‘黑天鹅’事件。"
     },
     {
-      "title": "Meta to bring AI label feature to WhatsApp Channels on Messenger app soon - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRVpOamlDRWtCenYxUnZrenRSeEtEbndUWFNzV1B0ekVfcFU5RkpXV2ZsN0FBcV9iZ3ZscU9xZnk3QWNOTVEyOG1FTDVJSWljaWFUR0dMRndvOFV6bWwzb0NpUGU4UFFpY0VOTlFyR2NQWU9LaEZTZUZZYWhMM2ZWcW5meWpWVWo3ODVIOHRldmdKVERPUnExSzg4dm0yWG1PdXV5SmtMS1VRcXRhWkRiNldmQUhmbkRJa1JQdGpWOUg4d3A0OThtd2RUeU5nMFRUZFVFcTM1SndfT3EycHc?oc=5",
+      "title": "10 ways AI has actually changed the game - jamaicaobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM3VFY09kdTdxeE5MWnhESmk4VlFEM29GZG9aN0dsMTEzSHNXeVdmSjZpLVB1S1VhNW9keDRpejZlcXUyTlMwZ3F1WnV5NVAxUlB2c0JXeTNBR3p2T0oyem1SZ2l5Z29tRXNidlE3bFNJdW1kTXdVNmU2VFNib3EtcmJ3?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-08-31T16:25:08Z",
-      "summary": "Meta宣布将很快在WhatsApp Channels中引入AI标签功能，该功能将在Messenger应用中上线。借助这一功能，用户在查看频道内容时能明确识别哪些消息由AI生成或经AI辅助处理，以提升透明度。这是Meta应对全球监管对AI内容标识要求的一部分，也延续了其在Facebook和Instagram上标注AI生成内容的做法。新功能既有助于用户辨别信息真伪，也可能影响内容创作者和营销者的传播策略。"
+      "publishedAt": "2026-08-31T22:04:08Z",
+      "summary": "牙买加观察家报盘点了人工智能切实改变游戏规则的10种方式。文章指出，AI已在医疗诊断、教育个性化、农业精准管理、金融服务、内容创作、交通优化、客户服务、能源管理、公共安全以及科学研究等领域产生显著影响。这些变化不仅提升了生产效率，还创造了新的商业模式。文章强调，AI并非遥远的概念，而是已经深入日常生活，并敦促社会各界积极适应技术变革，同时关注伦理与就业等问题，确保AI发展惠及更广泛人群。"
+    },
+    {
+      "title": "Inside the 10x Faster TypeScript Rewrite - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWllBY3lFcVYzenA2UG1ZU0dTcmRySXRCRi1UcVFoQTVxU1BaNnVDM3FwSUY0MzFCdFh6LXFiNFFGUkJrOEx6NEhrRVROeWhCdURNdFNzelY3dlA3bkFxaUVUN3JXSWFCV3RLbVFVeG85Yzg0S0lWMFZTTmpKdWtPUkJrYVVlTmNPU3ZtclMwTGM4Xy1JR3g2YzdWbHZGcEw3bUtxMEZB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-31T21:42:02Z",
+      "summary": "StartupHub.ai深入解析了TypeScript重写项目实现10倍性能提升的细节。文章介绍了通过将原生TypeScript编译器迁移到更高效的语言（如Go或Rust），并重构内部架构、优化类型检查算法，大幅减少了构建时间和内存占用。案例展示了利用并行计算、缓存机制以及增量编译等技术的实际效果。重写后的编译器在大型代码库上表现出显著加速，为开发者带来更流畅的体验。文章也讨论了重写过程中的设计取舍和兼容性处理，为同类项目提供了宝贵参考。"
+    },
+    {
+      "title": "House Intelligence Committee warns of 'Black Swan' AI risks - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSldFa0VOb0pOQTkxckR0ZHBOSWJFalQ1NVIyaFdPVDM5SEQ3RXFxOEJjY0Y3cEU3QWcwMC1kTWRyak00THMxNXhuTGZ5THdvLVZuTFdTTXBDbjhFVWxibVhYdGNYQmF2S3p6bzA3TnBuR3ZEbVNlLXNwWEZpMFhQdWJR0gGHAUFVX3lxTE9BbzhvdWdiTFcxcXB0SDcxSVlDekRsZlcwUldyTEtoU09rc21aTk9iU3I3WXV2cW1wcXJmQ0s3LTR1VnEyWm9nU21GaFlvZEg1ZFgtZ1V3YUY3UjBDd0c4c3ZnaUVZNFYxeUdLZV9hZ1hBaEs0bUtPbjNHQnRMSnA3T3dzd29hRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-31T21:18:37Z",
+      "summary": "美国众议院情报委员会就AI的‘黑天鹅’风险发出警告。该委员会指出，人工智能的快速发展可能带来难以预测的突发性冲击，包括自动化网络攻击、深度伪造信息战、关键基础设施瘫痪等安全威胁。委员会强调，美国需加强AI安全和风险评估，建立早期预警机制，并推动跨部门协作，以防范潜在的战略意外。报告还呼吁对AI技术进行持续监控，并与盟友协调对策，确保在保持技术优势的同时降低国家安全风险。"
+    },
+    {
+      "title": "Army tests AI to speed up solicitation writing - Federal News Network",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEtJVVdFREhsVWZQckkwaVA4UXk5ajJ5cnRIZmhlczJFLWxBZTFvR1RvVVlKWlM3X2ZvUFlpUmhKSmJWOUtYajI5d2dlMnM5MDVtaUtCNFR5b01kX1ZERzdqSUVsQ0JIckU5UEZsMFc3N1hRdEVMM1dXVEMxMXVBQ2Fvd2JpQ1MzaDlTZDd4aDZtdXNtMkNWdUFSUE9ORkVQQndYU2lhcXp4WVozdTVJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-08-31T21:17:29Z",
+      "summary": "美国陆军正在测试利用人工智能加速撰写招标文件（solicitation）的流程。该试点项目旨在通过AI辅助生成、审核和优化招标文档，减少繁琐的行政工作，提高采购效率。陆军官员表示，AI能够快速分析需求、匹配历史合同模板，并确保语言符合法规标准，从而将招标书编写时间从数周缩短至几天。测试阶段将重点评估AI产出的准确性和合规性，未来有望推广至更多采购环节，推动国防采办体系数字化转型。"
     }
   ]
 }
