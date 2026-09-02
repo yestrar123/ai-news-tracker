@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "4301",
+      "title": "Alarming Study Warns AI Could Be Making Humans More Robotic - 2oceansvibe News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWnZaendGSDEtalUzRVlxWHBjNVRxbGdXYmdObnBwdEJJRkU1cnNLSERRRm9MN3lfVUk1ZF9RandueVYta2wxLWMxVHFCWGp4NDFvX0F4TkhrMXdaRi15OGZuekJxYVR3TUlGWVVwZlEwMlkxYUE3ekVtYmJqSXRuX1RzeDBSbVVyYjV0dV93MHVvbjdLb3BnWUU4QllsT0Vw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-02T08:59:59Z",
+      "summary": "一项令人警惕的研究指出，人工智能可能正在让人类的行为方式变得更加机械化。该研究警告，随着人们越来越多地与AI系统互动并依赖其生成内容，人类的沟通模式、思维习惯甚至社交行为可能逐渐趋同于机器的逻辑与模式化表达。这种“机器人化”趋势可能削弱人类的创造力、同理心和自主思考能力。研究者呼吁公众对AI的隐性影响保持警觉，并在技术应用中重视维护人类独有的情感温度与随机性，避免在追求效率的过程中丧失人性本质。",
+      "fetchDate": "2026-09-02"
+    },
+    {
+      "id": "4302",
+      "title": "AI in Business Leadership: Artificial Intelligence as a Strategic Compass - telefonica.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGtiS3djcEVvMFFRYXhBNWFEaDVLSGRmX1dmTml3Mm1pVzNEZlZ1MnptRmd3bUNDaHBialRUUURNRWF5bGpFaHpMcl9iT0ZyU3FzY1NBb3ZmajljSFhTRTh3dUVpOFNDeVQwZkV4M3pRRUwxY1lSSVNFS2ZJZHh0dXRTbWNjcDNlQ1J1YmxORnA3OHdkSzU4UDVMaksycHRWalFWU3JyN3JNZEhpUnF1STJzTEpKTXdZ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-02T07:30:00Z",
+      "summary": "西班牙电信（Telefonica）刊文探讨AI在企业领导力中的角色，认为人工智能正从单纯的效率工具转变为战略罗盘。文章指出，在复杂多变的商业环境中，AI能够整合海量数据、识别趋势并提供前瞻性洞察，帮助领导者做出更明智的决策。但AI并非替代人类直觉和判断，而是作为辅助决策的支撑系统。成功的领导者应将AI融入战略规划，同时重视伦理、责任与人性化管理，使技术真正服务于组织长远目标。",
+      "fetchDate": "2026-09-02"
+    },
+    {
+      "id": "4303",
+      "title": "PwC: Global investment in AI infrastructure to hit $31.6 trillion through 2050 - The Loadstar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaW9jR1htREtwSHRRcDN5TWJHeVRnUHNTUkpBNUJnTEpEVEJBVlg2VFFsX21RMGRnanFNeXM4c2hKbEw1YXkxUGpzWWlESkxzSzA4Q1p4Y0xCVjdzSlBVZlluM3ByV1J3MllMUnpnOVpYUTBuWUVETnNwUTZSRjl3ZW9hbGpiM3RlenlnNVV0R2pnYkJVcjYxMHF5ekltaXJ5VjNR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-02T07:01:14Z",
+      "summary": "普华永道（PwC）发布的报告预测，到2050年，全球在人工智能基础设施上的累计投资将达到31.6万亿美元。这一庞大数字涵盖数据中心、计算芯片、网络设备及能源系统等支撑AI发展的硬件与基础服务。报告强调，AI基础设施已成为数字经济的核心基石，投资规模将深刻影响全球产业竞争格局。同时，如此巨额投入也要求各国和企业关注可持续性、能源消耗与资源分配等问题，以确保AI技术发展在经济效益与社会责任之间取得平衡。",
+      "fetchDate": "2026-09-02"
+    },
+    {
       "id": "4297",
       "title": "NCAI released \"Barco Sound,\" an artificial intelligence (AI) audio platform that can easily generate.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HbG1NRVpfRXNxaldreXhhQVJNLVZ3WUI5Q2tmWHVRMkQtcGZfNG5XU1V3MTN4RnNRSWxOV0ZGdERqd0I4c2NfenZQSQ?oc=5",
@@ -38692,5 +38719,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4299
+  "total": 4302
 }
