@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "4304",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-02T15:01:23Z",
+      "summary": "AI安全公司HiddenLayer宣布完成1亿美元B轮融资，投资方包括Delta-v Capital、Ten Eleven Ventures、Morgan Stanley、微软旗下M12以及Booz Allen Hamilton等。随着企业加速部署人工智能，针对AI模型和应用的安全防护需求激增。HiddenLayer专注提供对抗性攻击防御、模型保护及滥用风险检测等技术，帮助企业降低AI引入过程中的潜在威胁。本轮资金将用于扩大产品研发和市场推广，这一融资也反映出资本市场对AI安全赛道的关注正在升温。",
+      "fetchDate": "2026-09-02"
+    },
+    {
+      "id": "4305",
+      "title": "Canberra ‘put on notice’ as AI-generated submissions bring false information into parliamentary inquiries - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcm5wdkI3VjZiTmUwV01OdjZWbEhXLTJDT2RNNkJzdVJhOXFYelhVUEQ1ZERUMFV1WkxLWXhMbE5iRnQwcU10ZkNzcEg0X21QS2VGUnlUczVLQ2ctZUdlM2J5SUNxVFo1d0ZZbjhpWHNLeTlmdVhlbkQ2T29ab2NDMm5qRDdjLWZPM0ZQZXJ4U3piR2lXZnJEU3p1ZF9PczRDbDdHNUd2dEtKU3VXN0h3ZWNueURPeldvLXJOaERXZHA5Z05UV0dKaVpzd3Y?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-02T15:01:00Z",
+      "summary": "据《卫报》报道，澳大利亚议会的公开征询流程中收到了由AI生成的提交文档，其中包含虚假信息，堪培拉当局因此被警告需警惕AI内容对公共调查的干扰。生成式AI可被用来批量制造看似可信的证词或意见，增加事实核查难度，甚至误导政策制定。这一事件凸显公共部门在数字化咨询进程中需要建立AI内容识别与真实性验证机制，防止失实材料进入议会审议流程，维护民主程序的可信度。",
+      "fetchDate": "2026-09-02"
+    },
+    {
+      "id": "4306",
+      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-02T14:56:34Z",
+      "summary": "亚马逊在其Alexa购物助手中推出了诈骗信息检测功能。该功能可帮助用户验证可疑的电子邮件、短信或其他消息是否确实由亚马逊发出，从而识别钓鱼邮件和冒名欺诈。随着线上购物诈骗日益频发，许多消费者难以分辨伪装成官方通知的虚假信息。亚马逊借助AI分析发件来源、内容模式和行为线索，为用户提供实时安全判断，降低受骗风险。这也表明零售平台正将AI能力从购物推荐延伸至反诈防护等安全场景。",
+      "fetchDate": "2026-09-02"
+    },
+    {
+      "id": "4307",
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-02T14:03:57Z",
+      "summary": "Adobe宣布收购印度市场情报初创公司Rilo，这是继2023年收购Rephrase.ai之后，Adobe在印度的第二笔收购。Rilo专注于利用AI分析消费者数据，提供实时市场趋势和商业洞察，帮助企业优化产品与营销决策，具体交易金额尚未披露。Adobe计划将Rilo的技术能力整合进其体验云和营销分析产品中，以增强AI驱动的客户洞察与个性化服务。此举延续了Adobe在亚太地区强化AI与数据应用布局的战略方向。",
+      "fetchDate": "2026-09-02"
+    },
+    {
+      "id": "4308",
+      "title": "Artificial intelligence (AI) is not taking jobs away. Companies that use AI take away the work of c.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XbGNPb09TZHJuVkg1bzhFSEVNcC03WWVzRk1kWmtURUNsTWQwQXBTbjl0VVQ2VWktR1g5OG9ma1djM3QyMGY5WnF1WmRhZkU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-02T13:27:28Z",
+      "summary": "韩国《每日经济》相关文章提出，人工智能本身并不会取代人类工作，真正造成冲击的是那些率先使用AI、从而提升效率并降低成本的竞争公司。若企业拒绝AI转型，就可能在市场中被同行超越，导致原有岗位流失。文章认为，AI是竞争力工具而非威胁本身，就业结构变化更多源于企业之间的技术差距。因此，劳动者应主动学习使用AI，企业也应积极拥抱技术变革，以免在竞争中处于劣势。",
+      "fetchDate": "2026-09-02"
+    },
+    {
+      "id": "4309",
+      "title": "Bill Simmons’s Podcast Co-Hosts Are Tired of His A.I. Antics - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3VUbG5PWno3YlFlY2x3MlprR2tOMlpfR2JWekxGSlhFVDdobno5YWxmakN0QU5USzJRS0FxelFEMWQ0RWpld0FmUmk2M204UHpYeEZCZkNYY2RMNHhuZ1piMko2Q3Ywc2F4dWpKZDBZVWltX1AwQWdmT0tXbkR5MFZtLUJwZlBHMnRETXEtaERFMEdneEdsdGttb1g?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-02T12:49:00Z",
+      "summary": "据《纽约时报》报道，知名体育媒体人Bill Simmons在其播客节目中频繁使用人工智能内容，令联合主持人感到疲惫和不满。他们对节目中出现的AI生成段子和互动环节产生困扰，认为这种“AI搞怪”行为影响了对话的自然流畅度，也削弱了播客的真实感。此事折射出生成式AI正快速进入内容创作和媒体领域，创意工作者在尝试新工具的同时，也需要重新审视AI与人类表达之间的平衡，以及如何维持受众的信任。",
+      "fetchDate": "2026-09-02"
+    },
+    {
+      "id": "4310",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-02T12:09:42Z",
+      "summary": "OpenAI又面临30起与加拿大Tumbler Ridge枪击事件相关的诉讼，由律师行Edelson PC提起。此前已有类似案件，此次新诉讼进一步将指控升级为“帮助和教唆”不法行为，并把OpenAI高管Chris Lehane列入被告。原告主张OpenAI的AI产品与事件存在关联，但目前相关证据尚未得到充分证实。该系列案件再次引发外界对生成式AI责任边界的关注，也给AI企业带来持续的法律和监管压力。",
+      "fetchDate": "2026-09-02"
+    },
+    {
+      "id": "4311",
+      "title": "AI, Artificial Intelligence, Edutech, Toy - ACCESS Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNODVqdFlFc1U0VVlBaHdPT0pZZWlMNlctQnFJRTNKSWkxU1FOektzeDQ4OFpGWm5DU2tBWFZBb2RYNGZYUFVmemgxcEZEUEtlc1JOaGpjbWFoSmxKWjlMUnJTUVhQV19BblRXUUwyVmo2ZnliUEIyamp0RG5tX2ZST1dsamZKTzQ3QTNUYU5mODBqWlZCY1ZyR3hwY1J4SEI4WVhEUXNUcmNyMUYxTk9xSTh0WkUxV204cjF5SHBoWHFzb01NNS00UkhMOXJwd2loNTFNZ3J1blRqTGpLYlFtYVhaWUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-02T12:05:08Z",
+      "summary": "这则来自ACCESS Newswire的新闻稿以“AI、人工智能、教育科技、玩具”为主题，具体企业和产品信息虽尚未完整披露，但反映出AI技术与教育玩具正在加速融合。如今，儿童玩具及早教产品越来越多地引入语音交互、个性化学习和编程启蒙功能，AI赋能的智能玩具被视为寓教于乐的新方向。与此同时，相关应用也带来了儿童数据隐私、内容安全和屏幕时间管理等新挑战，需要行业和监管共同关注。",
+      "fetchDate": "2026-09-02"
+    },
+    {
       "id": "4301",
       "title": "Alarming Study Warns AI Could Be Making Humans More Robotic - 2oceansvibe News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWnZaendGSDEtalUzRVlxWHBjNVRxbGdXYmdObnBwdEJJRkU1cnNLSERRRm9MN3lfVUk1ZF9RandueVYta2wxLWMxVHFCWGp4NDFvX0F4TkhrMXdaRi15OGZuekJxYVR3TUlGWVVwZlEwMlkxYUE3ekVtYmJqSXRuX1RzeDBSbVVyYjV0dV93MHVvbjdLb3BnWUU4QllsT0Vw?oc=5",
@@ -38719,5 +38791,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4302
+  "total": 4310
 }
