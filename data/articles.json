@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "4326",
+      "title": "US urges G20 countries to allow AI training on creators' work - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMFNFbEdfUFlGSzgxZXBnV0NfR0FtNTVpcURKa0VpeEdLTXpBU2FfSThpaURMa0lrLWp0d1dTbTB6OU5hMmcwa0YwTmpYWlNhXzdjMkFkRUp6My15cHctMElKeVJackV6V1EwcUczT1d0dUw2SWNSaHJPSXpSTUUwTmNLTHlrWGtyLThVdy1LUU42QThKblczQmdDekFfb1JYUHgzam90TlVJX3pvVnhFWlN5STRFUkFs?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T02:48:11Z",
+      "summary": "美国在G20会议上呼吁各成员国允许人工智能开发者使用创作者的作品进行模型训练。这一立场旨在推动AI技术发展，同时引发关于版权保护与创新平衡的争议。美方认为，放宽数据使用限制有助于提升AI系统的能力与竞争力，但创作者群体担忧其权益受损，要求更透明的授权机制和合理补偿。该提议若获采纳，或将对全球AI监管框架及内容创作生态产生深远影响。",
+      "fetchDate": "2026-09-03"
+    },
+    {
+      "id": "4327",
+      "title": "GU Lecturer Encourages Ethical AI Use in Workplaces - The Hoya",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV1ZWdmpYQWxWLUVnelBGeXFENlhkX3BsQ3ZxenRYT0lhOTg2bnNZcVRqVGlSVTVWYjBVTTZjTnhvWWFlbW16c3U3cl95VnhwNFNzdDhEN2dRYUVlYUlUcDFqdTZweFdhWE9JdUNRcGJsdXFkaTNPaW9aR1NJa21LM3JSaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T00:50:45Z",
+      "summary": "乔治城大学讲师在公开场合倡导在工作场所推行合乎伦理的人工智能应用。他强调，企业和机构在引入AI工具时应注重透明度、公平性和问责机制，避免算法偏见及隐私泄露风险。讲师呼吁制定清晰的内部规范，让员工理解AI的局限性，并在人机协作中保持人类决策的主导权。他还建议通过持续培训提升员工数字素养，以确保技术应用既能提高效率，又符合伦理标准。",
+      "fetchDate": "2026-09-03"
+    },
+    {
       "id": "4320",
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
@@ -38917,5 +38935,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4324
+  "total": 4326
 }
