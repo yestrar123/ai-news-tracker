@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "4320",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-02T23:01:00Z",
+      "summary": "TechCrunch Disrupt 2026将重新设立The Builders Stage，聚焦初创企业规模化增长的实际策略。该舞台将汇聚创始人和企业运营者、投资人等角色，围绕从0到1之后如何搭建团队、构建商业模式并实现可持续扩展展开务实讨论。这一定位旨在为正处于成长关键期的初创公司提供可操作的方法论，而非泛泛的理念分享，帮助创业者应对真实世界的扩张挑战。",
+      "fetchDate": "2026-09-03"
+    },
+    {
+      "id": "4321",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-02T22:44:56Z",
+      "summary": "据消息人士透露，Palo Alto Networks以5亿美元收购了由Thrive支持的AI IT服务自动化企业Console。这笔交易完成后，行业观察者认为，由Sequoia支持的Serval将成为AI IT服务自动化赛道事实上的领先初创公司。此次收购显示出大型网络安全厂商正加速整合AI驱动的自动化能力，同时也在重塑该细分市场的竞争格局，使得Serval获得更清晰的市场主导位置。",
+      "fetchDate": "2026-09-03"
+    },
+    {
+      "id": "4322",
+      "title": "Nscale touts $103 billion contracted revenue ahead of potential IPO, The Information reports - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQemhqLVZUMkxaT2Fzd1U1M3c5eHl1SGdwZHpxbDIwSnFQUVY5bFdXbEhDQUdUODN4NUlvM3g4RGRJclgxSkZ1Uk03LXNDSm9NT19YNHBsdURWNFZYOWEtTGItbXNzdnRjZUMtMDB1cmVJb0gtX3E0alAtYkhYNDRELUIwaENnaGdJbExVRnNkeGc3NEtmWDhLdHpfY2NuSzJmVzZxUHZ5UFBSVDZEYzlIWThKSGo3WG5QcndNdGtRR0dHSnpuMHhhTWZUQnNyS2M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-02T22:41:22Z",
+      "summary": "据The Information报道，AI基础设施公司Nscale在可能进行IPO之前，宣称其已签约合同收入高达1030亿美元。这一数字若属实，将意味着该公司拥有极为可观的未来收入储备，大幅增强投资者对其商业前景的信心。Nscale选择在上市前夕释放这一信号，通常旨在抬高估值并吸引长期资本关注。不过，具体合同细节和收入确认方式尚未披露，外界仍谨慎看待该数据。",
+      "fetchDate": "2026-09-03"
+    },
+    {
+      "id": "4323",
+      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-02T22:24:09Z",
+      "summary": "TechCrunch Disrupt 2026将推出全新的“Real World AI”舞台，重点探讨数字世界与物理世界的深度融合。该舞台已邀请Nvidia等企业参与，并涉及机器人技术，同时还有“灭绝动物”相关议题，暗示将讨论AI在生物复原和生态模拟等领域的应用潜力。这一舞台意在展示AI从虚拟算法走向实体产业、改造真实环境的趋势，涵盖机器人、自动驾驶、数字孪生等前沿交叉方向。",
+      "fetchDate": "2026-09-03"
+    },
+    {
+      "id": "4324",
+      "title": "Trump administration sides with OpenAI in lawsuit against New York Times - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTm1LUjVYZDhGWjNwdUdfc0ZpZHlhMzJubGpjWm5wc3Iyd0JpZWJOdmpIVTd5M0N3MEM0YlJmZmNXX0NuaF8yR3VIVjRiSWR6UmhRSDNjaVlrTWZtVTJHc2x0WHNpaWVsX1hCYlpiUl9TZTNsWkRheUhLdzZCUk1kSWNQZ21Hcks5WVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-02T20:39:00Z",
+      "summary": "据《卫报》报道，特朗普政府在美国政府对OpenAI提起的诉讼中表示支持OpenAI一方。该诉讼似乎与OpenAI和《纽约时报》之间的版权纠纷有关，特朗普政府的介入可能对案件走向产生重要影响。分析认为，这反映出美国行政部门在AI技术版权争议中倾向于支持AI企业的发展，可能削弱新闻机构对AI训练数据使用的维权立场，也将影响未来AI与内容版权之间的法律平衡。",
+      "fetchDate": "2026-09-03"
+    },
+    {
+      "id": "4325",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-02T20:19:14Z",
+      "summary": "OpenAI新提出的推理技术引发AI安全专家的担忧。据悉，OpenAI即将推出的Astra模型将采用“循环深度”（recurrent depth）技术，这种技术使模型能够打破大多数推理模型所依赖的顺序性思维模式。安全专家担心，这种非顺序推理方式可能增加模型行为的不可预测性，使控制和解释AI决策变得更加困难，从而带来潜在的安全与对齐风险。",
+      "fetchDate": "2026-09-03"
+    },
+    {
       "id": "4312",
       "title": "Artificial Intelligence News: MoneySimpler Launches AI Trading App for Automated Global Stock and Forex Investing - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUU1nSTBsN0ozTXhHemFkb2ZmQVBnM2Nyb0tCMmJSUkxIYUtYZXAzZmtuX1RkYU50TUExY2lxaGlGRUxPYTYwaDRKbEhhVlJhYk1iODk4czdidkVUdndRbGJGWldZZkQwS1F6bFUwVG9ncDRUZVZJaWZfbjNQQ2c1cFl6NTRSaUVuWllXel9jLWtiRDdNUE5VNXNYdGJLSVFTczdETUdrV0k5ZDNBV1phQmYwWXZyYmxlUXVvRnJncHlDUmEzSkVFQ29ySEZPOFY0cWpFLXRZcVlzY2w0SEFGNzJfZklSVVVuVm9jaG8zbUJJeTBucVIxMHFTZDRjemJOYXFhempsb3VlUUdMSXp1Ni01aknSAZoCQVVfeXFMTm5FQkdJZjhZNDNHTUxfa1FueUhHMnZFeUFKVFVNUDlZbUdMY2xTNFh1Q2ZBYkxqV0xnb3hPbk80ZHllQlRJeVc0dWJZdjV1eFJKQVMwTkFRX1ZvVk9RemZzbTVPUE90Mi1NMnpMUlMtcUVDSTA5N0h3UFUxUkVHOGJ3QkR2RUhWeGlveHI5ZGg5VFB6U2c3R2RoeTd1SjRKZ0k5Y1pEcVhhd1o2T1RsNHUxRERGMXZjUDIxMGpPdEYzTVBmTTdnN3NlbVdNeW9rYkhQNjZFd1VSeG5CXzAwNlRpekY4WkZoeHBid2pSdC05Q2NZRWlvOVlHOGFKQno0ZXJIMDJ4REtwNi1FUy1oNngwMG56cXFIcGJR?oc=5",
@@ -38863,5 +38917,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4318
+  "total": 4324
 }
