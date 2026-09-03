@@ -1,34 +1,90 @@
 {
-  "updatedAt": "2026-09-03 10:18:43 UTC",
-  "totalArticles": 4,
+  "updatedAt": "2026-09-03 15:25:17 UTC",
+  "totalArticles": 12,
   "articles": [
+    {
+      "title": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUM2S0d4bnRiVmNRdE5JaHRVb0xCYXFTWkh1dnZPSWI1a0VoMEtlNzRZSzJHZG1PNjZobnBzV2licHEwVWg0RkdIenFEeV96eDRWYTZzXzhXZ2pUZWRPRHhBdENmRnIwNEtnUVZNekE5djd4TzZ6NnBQRHhkaFdUT3VTOWphUHdzWFR4d1NLc0tzNmZ4MDRPWFduRXZMeWhHYmpndGRhYm10S2sweEt3VE5oeGxtdmUxQnJMelhtbzlzZTVZZklV?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T15:02:52Z",
+      "summary": "据《华盛顿邮报》报道，美国参议员伯尼·桑德斯在近期发生多起“失控AI事件”后，提议立法禁止开发“人工超级智能”。该提案旨在防范超出人类控制能力的先进AI系统可能带来的安全风险。桑德斯认为，必须通过法律手段设定明确红线，禁止研发具有自主意识和超越人类智能的AI系统。此举引发了关于AI监管与技术创新边界的广泛讨论。"
+    },
+    {
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-03T15:00:00Z",
+      "summary": "谷歌DeepMind与Google Research联合发布了新一代AI天气预报模型WeatherNext 3。该模型利用深度学习技术，能够更清晰地捕捉大气变化，并更频繁地预测天气行为。谷歌表示，这一模型代表了气象学领域深度学习应用的又一次重大进展，将有助于提升天气预报的准确性和时效性，未来计划逐步将其整合到实际天气预测服务中，为用户提供更可靠的出行参考。"
+    },
+    {
+      "title": "Artificial Intelligence (AI)-Driven Population Health Management Market Research Report Offering Insights On Growth - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbFNJank1STZYc0VtN3VJLVNPOWthWjlzRjI4M19nNlltYmpZNUpnWUNyNzZyRHZlVF9LWkdjb082QnVhcDk0dHEtSGM1cFNfWm5McTZTMk91RU40alRVWWU3ekJGc0xNM2pHT1JodGZwTXlpWnRSRGVaOVJ1MVNuazg2Sk1oTUxqYWZsSlRyMUFlaHVBVm1PZWp2TjNLcl9UWTh6Ni1jdWgwYjFPSUlKTFVxWm5Tc3MtQmhDbnBUR2p3WWl6Ri1Kem02UklfRWxGcW9salNGODhIeHEwMDB0Tm9nOUxrbEZHbUlz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T13:49:00Z",
+      "summary": "EIN News发布了一份关于“AI驱动人口健康管理市场”的研究报告，深度剖析了该市场的增长态势。报告涵盖市场规模、驱动因素、技术趋势及主要参与者等维度，指出人工智能在疾病预防、健康干预和资源优化方面正发挥越来越重要的作用。报告预计，随着医疗数据积累和算法进步，AI驱动的人口健康管理解决方案将在全球范围内加速普及，成为提升群体健康水平的关键工具。"
+    },
+    {
+      "title": "Artificial Intelligence (AI)-Enabled Battlefield Management And Decision Support Systems Market Competitive Landscape - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZjJLTFl4dGlpOVRtMHpYT1Nib0ZoMlRTUTdYZHVEQk9BT253OGdyZWdGd3NrNTNlbkJESDVzMGxQUE45eWtPcVVDQnFwMWt0QVoyMV85VHVFZmRnNjVNVU9nS2kyalVvZGlra3liOXB6Y0dJYXQ4UnZYVWJ5OHZHZktGNWViUjgta1JVNHd6UXFxR3BjQjN3SGthNkRRMXN5czNBeVJwS29XQ0NEc2dkNXJIaHhva0xoeXBrQzVvbEY0a0thWnBNWUhHS0t3Q0FaYVRYNnhKZXhNVDk4T2diZDBDVnVDcDJkc0M1MGdB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T13:49:00Z",
+      "summary": "EIN News发布了关于“AI赋能战场管理与决策支持系统市场”的竞争格局分析报告。报告聚焦该领域的市场规模、竞争态势和未来发展方向，指出人工智能在态势感知、情报分析、指挥决策等军事场景中的应用日益深化。主要供应商正加速技术迭代，通过AI系统提升战场反应速度与决策准确性。报告还分析了行业内的战略合作、并购动向及区域市场差异，为相关企业提供了竞争情报参考。"
+    },
+    {
+      "title": "Artificial Intelligence (AI)-Native Insurance Underwriting Platform Market Segmentation Analysis Reveals 2030 - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSlFtV3RCNHcyMmw2MUtSRV9WcXRIUUZMcGhTdXE2TmphaTRRRzRGVXdiLVo2TG93LUViWWJ1SzNyWWVzaDkwRk1KZ3hldUtGS1hFeXFmQUZhcm40RUdSTlZ2U0hJd2hhNVBtYTlhaDdjVXNBMmNDMXQwYkpwWTM2UjdVUE1xQUM4WmcwYmN4c1A3Sl90Y0RLU0xSN2xLNU5Bd1d1a2t5amcxd0w1a3c0ZVdXcDFJRUt5UEN4dE9jbmc3Wkk5UUItQlEtQWxTQ0pzWXdidGp6MHNobUFiUVM1c2xyZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T13:49:00Z",
+      "summary": "EIN News发布了一份市场细分分析报告，聚焦“AI原生保险核保平台”在2030年前的发展前景。报告将平台按部署模式、应用类型和用户群体等维度进行细分，识别出主要增长区域和潜在机会。AI原生核保平台通过自动化风险评估、数据驱动定价和实时决策，正在重塑传统保险核保流程。报告预计，随着保险公司数字化转型加速，该细分市场将迎来显著扩张。"
+    },
+    {
+      "title": "Artificial Intelligence (AI)-Based Workflow Automation In Hospitals Market Revenue To Cross $11.4 Billion By 2030 - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUW9GSlFQUHZET3ZHcFdvekc2OGpXOFRlRG1PZTZvOGN2VG4yaDI0bTZhaTJXcWZ6ek1BczA5TjNBaEVBY0VMU3AxcGJJdmZBR201LUwtM2JBMTFXRW1QUkVtbG1LVFh3bjh0NjFJODJTWWptMHNFeEIyRzZuX3ZtN2N1TGxHb0NIU1JlZkdtWlZ6WlMyLWZleHgzaHNEZGtyNlVrRGZEYTVjQkI5RnNURmRBY1JqbFlKTHRPaVJwNy1aSUlUYi12c0E5OFEzRUJwdU1LLUUySWxXTWZBOXBaTzFLeHc1UDQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T13:49:00Z",
+      "summary": "EIN News发布的最新市场研究报告显示，全球“AI医院工作流自动化市场”收入预计到2030年将突破114亿美元。报告分析了AI在临床流程优化、行政任务自动化、患者数据管理和资源调度等方面的应用价值，指出医院正越来越多地采用AI工具以降低成本并提高效率。该市场的主要驱动力包括医疗人员短缺、数据量激增以及对精准医疗的需求，未来数年将保持稳健增长。"
+    },
+    {
+      "title": "Artificial Intelligence (AI)-Driven Drug Safety And Pharmacovigilance Platforms Market Strong Growth 2030 At 20.2% CAGR - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQXNXMWFOc1YwRGJPOU50MDdKZkFwSkJndDMzak03dFpEYkFtU3VqSFhQc0lWeEh3UmJ4YWFrQWpPU3FXSmxHWTd4dmZPSVE0N3ZLbEIxMjNmaXYzZURYbko3S0d2TWpKeU1RWloyclVEM2Faam9GUVl6OFlRTE5rLWJoWG9XWG5pS1k0ZUpwY05UUUg1aXRyWGRsaDBBYWplRDhsSFNPeldlM240NS1oc1hwTUZQVXBHUDdGQ08tRGpzeEgwQ2F3UzRxaGRPU0FWajlON3RVeFpBQWs0YjU5aTNTaEF2WXZNVW1oZ0x1aw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T13:49:00Z",
+      "summary": "EIN News发布的行业报告显示，“AI驱动的药物安全与药物警戒平台”市场正在经历强劲增长，预计到2030年将以20.2%的复合年增长率扩大。报告指出，AI技术能够高效处理海量不良事件报告、识别潜在安全信号，从而显著提升药物警戒的准确性和效率。随着监管要求日益严格和药物研发管线扩展，该市场正迎来快速发展期，主要厂商纷纷加大AI平台投入以巩固竞争力。"
+    },
+    {
+      "title": "Artificial Intelligence (AI) Personal Finance And Wealth Management Platform Market Size Cross $29.81 Billion By 2030 - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWUpETG5Ubm1wTTdzT2ZPcklPVjVXcVZSdlF1cjkwdU1lREw1dUs5N3hxb3NKOVJwVFFKd1gyZEktZk1qb19JUTl2dEpCOEJncjlzRXpXVDRKc2xIRmNWYlFucHpvVVZBdEFXQl9xcHp4MlIzeGNYSzE0bm53Snp5N19qN2FQYl9Vb1k4REg4WGZpb0JDN3h5SzFBenUxeDJfY1RUUER0ZEtkbFJJWGl6dW5GampmN1JrTDhtay1YcDkxNlpRdHAxdnpyMzFwMjdsWU83YWx6MUlmckJBNFk2cG9IdDcxUlN6RHlVaA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T13:48:00Z",
+      "summary": "EIN News发布的市场研究报告预计，全球“AI个人金融与财富管理平台”市场规模到2030年将达到298.1亿美元。报告分析了AI在智能投顾、个性化资产配置、风险管理和财务规划中的应用，认为AI技术正在降低财富管理服务门槛，提升投资决策的智能化水平。随着投资者数字化需求上升和金融科技发展，该市场将保持快速增长，行业竞争也将更加激烈。"
+    },
+    {
+      "title": "UAE university students can now get Google Gemini AI free for 1 year: Here’s how - Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR2dtU1U0Um9hOVNDWHBBeGxBU2s4djRIV1RIWV9sdE9CWmZmVkt3cGpaNUZjSjVCOTMxb1lnR3Q0UV9OTDBOS0pKZXZYRmR4UWQxOVlHeEVoanlMejQwazV6dnVuVXpYYWh1YzdkWFAydllCNVQ3cTJrY1F1a0NnQ3pobDZQYy1RQmp5WGNMUVFtLVRfcmxwWmpqdnppNEkwMTRHYjFuYlVzTGQ1VnZEM2RRaU9pMXlXb2gtQ2JwV2hYWG15MGNCdDZCamwzWjZO?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T12:52:25Z",
+      "summary": "据Gulf Business报道，阿联酋大学生现可获得Google Gemini AI免费一年的使用权。这项举措为在校学生提供了接触先进AI助手的机会，可帮助其在学习、研究和日常任务中提升效率。符合条件的大学学生可以通过指定方法申请开通，具体流程和资格要求需参考报道中的详细说明。此举也反映了Google在教育和中东市场中的布局策略。"
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-03T12:42:45Z",
+      "summary": "Nvidia已确认将以129亿美元的价格收购Hugging Face。Hugging Face作为全球领先的AI模型托管平台，目前托管超过300万个模型，吸引了超过1800万名开发者使用。此次收购将显著增强Nvidia在AI模型分发和开发者生态方面的能力，有助于其构建从底层芯片到模型服务的全栈AI基础设施。该交易标志着AI产业上下游整合进一步加速。"
+    },
+    {
+      "title": "Artificial intelligence (AI) In Hospital Operation Market Trends And Forecast Analysis Reveal Strong Long-Term Potential - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPX28yMUM2aDd0ZjN1SmIwN3JHWFQ5Wlc3TWthZ1pmcjlsY21KTmJZT19QRWdMR3liYnJJYnYxRU1qdkJRTVEza291NERLSHR4ZDlIZ2lpelNfa0VqczhFXzZ1WDdIVHZiZFd0N1VtSFZMSkJDRmxTTVhpcklPWUFPUUhpM2tqRVkwbGlWTkVKa2lUbDRCOHBWanJfa1c1R3VlZjgxdEhiOUhRX2doWGFIeW85R1ZSXzV6NXdkbGJZZ0xONDhYZzdiLUVnZ0RkbERjeVdhSWhyZHpmUnhmTllNV3B5aERuSUt0SEJPQ3VjN1ZOeWtPNjBCWg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T12:05:00Z",
+      "summary": "最新市场趋势与预测分析报告显示，人工智能在医院运营管理领域展现出强劲的长期增长潜力。研究指出，AI技术正逐步渗透到医院资源配置、流程优化、患者服务等核心运营环节，通过数据驱动决策提升管理效率与医疗服务质量。报告结合当前行业动态，对未来数年的市场规模、技术演进路径及应用场景进行了系统评估，认为随着医疗信息化水平提升和算法模型成熟，AI在医院运营中的应用将加速落地，成为推动医疗体系降本增效的重要引擎。"
+    },
     {
       "title": "New AI BioDesign accelerator combines experimental biology and artificial intelligence to learn nature’s design rules - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORnZtYTdDeVYtQTJrY19IRU11U1hoSHR4MkdMT251eHdLaFVEWXp6VURHak9WTlZGeTgycmRldDNNSkFKM2ZCNWVWVldtQUUzQ3c0Wk95LWV1VE54UVlLYVFtWk1JS1ZZY1FnOHlZOUwtcEFDZ0FKQkFDU1B6MlU4OHpCd1BfTDJNeEwxdXRYSFpnRFpiMTBCc3BZeGg1WTFuNXRnS25OckpDUk9BNmExaWhrVU1Cb2JfT2lWc21DVFExeHVKd29kYmFTcGZTbEtpak11QUtEU3ROblFma0NhSXFObm1nOE5SY290cG9FWnk?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-03T10:00:00Z",
-      "summary": "据EIN News报道，一个新的AI生物设计加速器项目问世，旨在将实验生物学与人工智能深度融合，以学习和解析自然界长期演化形成的设计规则。该项目利用AI对海量生物实验数据进行分析建模，使研究者能够揭示生物系统中隐藏的规律，并据此加速新型生物材料、疗法或合成生物元件的设计。该加速器强调跨学科协作，通过机器学习与湿实验闭环迭代，构建“设计—构建—测试—学习”的高效循环，从而推动合成生物学和生物制造领域的创新。此举有望改变传统依赖试错的研究方式，提高研发效率，并开拓生物智能与AI协同赋能的新范式。"
-    },
-    {
-      "title": "CJ Korea Express has introduced artificial intelligence (AI) humanoid robots to actual logistics sit.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Jb2N2YzNsWGdjNUFfWmJLRzhnU245U1QxRU43emZwTmVYRURIWW82aGlZRFM3SGE2UE4wZVFvNFd4SzBWVEV4WXRvQUJDbV9Mc0dZ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-03T08:59:54Z",
-      "summary": "韩国CJ Korea Express公司宣布，在实际物流作业现场引入了人工智能人形机器人，标志着物流自动化迈入新阶段。这些机器人融合了先进的AI感知、路径规划与运动控制技术，能够适应仓储搬运、分拣配送等复杂场景中的非结构化环境。其人形设计使其可直接利用人类工作场所的设施和工具，无需大规模改造现有物流系统。CJ Korea Express希望通过引入此类智能机器人应对劳动力短缺、提升作业效率并降低运营成本。此次部署不仅是技术落地的重要测试，也为未来物流行业全面实现人机协作提供了实际案例和参考经验。"
-    },
-    {
-      "title": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc1JpQXZKZDU2WTZuNXNLT2ZTMjkzWFVSQnpCc19jUnpyUVYyV29qeVpFSEVWMl9zdkkyMHBWbjlvYmVva2xkX09rVFd3SUdqYkZpaEpZNms0NzFHX1ZXT281WXRTWmZOcUJlMTdpSi1heVBtRjdNMkpqeWNOY1c0TjJjUDdOejdDV2NsOGFQaGQ2WWlwUWNtQktyX0JIeF96Z01aNjViSDAtZUY4UGhJSUxISDNXWnlYRkVnMGU1SlFGaTJqdDdpb1duVndHVDA1SFBxTldBVjAtTDZpSkktRkgzRQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-03T08:52:12Z",
-      "summary": "《环球邮报》商业报道指出，当前人工智能领域仍有三只具备“百万富翁制造者”潜力的股票值得投资者重点关注。报道认为，随着AI模型规模扩大、行业渗透加速以及基础设施需求持续攀升，这些公司分别在算力芯片、企业级AI服务和生成式AI应用等关键环节占据优势。强劲的营收增长、可观的市场份额以及持续的技术壁垒有望使其未来几年实现股价爆发式增长。文章建议长线投资者关注具备真实盈利能力和护城河的企业，而非追逐概念炒作，同时提示要结合估值与宏观环境审慎决策，以把握AI产业浪潮中的长期红利。"
-    },
-    {
-      "title": "NYC schools ban AI for students through eighth grade under new Mamdani policy - ABC7 New York",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2fSAaIBQVVfeXFMT0NYeUtoa0pSdVd3eERBVlJjcXREU2RRdHI2VXFuY2Vqd1NUdDdONUdpWTN3a0RJZFU0SXRhN2czSmpsNFVsc3pzalh5ODVMTl9mZ0lLYzYzWkRGNTJEcTdNZDh6VU9wSV90cFU3QzZKNkZqRVpncVpoR19xUzZfR1RtYlhUbjRVMHlMUjlZSi1UQWhueEQ3QVBERmtJQXJzNl93?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-03T07:29:37Z",
-      "summary": "纽约市教育部门宣布，根据新的“Mamdani”政策（注：原文该词可能为人名或政策名称），将禁止八年级及以下学生在校使用人工智能工具。这项规定旨在应对生成式AI在基础教育阶段引发的抄袭、隐私以及思维独立性等问题。政策要求公办学校为低龄学生设置严格限制，教师亦需引导其正确认识AI的局限与伦理风险。此次禁令覆盖范围较广，但并未完全禁止高中阶段使用，而是要求更审慎地评估AI教学应用。该举措引发讨论，支持者认为有助于保护儿童认知发展，反对者则担心过度限制会剥夺学生接触前沿技术的机会。"
+      "summary": "一项全新的AI生物设计加速器项目正式启动，该项目将实验生物学与人工智能深度融合，旨在揭示并学习自然界生物系统的设计规则。通过高通量实验生成大量生物数据，并利用AI模型进行模式识别与规律挖掘，该加速器有望高效设计新型蛋白质、基因回路或代谢通路等生物组件。这种跨学科策略能大幅缩短传统生物研发周期，推动合成生物学、生物医药和生物制造等领域的创新突破，为应对健康、食品和环境挑战提供可编程的生物解决方案。"
     }
   ]
 }
