@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "4365",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-04T04:21:03Z",
+      "summary": "生成式AI在餐饮菜单设计中的滥用正引发“同质化”问题。尽管餐厅业主可能把AI视为快速美化菜单的捷径，顾客却能直觉感知菜品描述中的异样。AI生成的菜单往往缺乏真实烹饪经验所催生的风味细节和情感温度，导致文案千篇一律，难以勾起食欲。业内指出，这种模式化生成方式不仅削弱品牌个性，还可能因过度依赖模板而偏离实际菜品风味，最终影响顾客的就餐期待与信任感。",
+      "fetchDate": "2026-09-04"
+    },
+    {
+      "id": "4366",
+      "title": "Digital companies emit 301m tonnes of carbon as AI drives energy surge - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVklWWjNrZEdJT0FyVzI0TXU4UG9kMkxiMmY3QUVnTHlwM1VyX3NvbG90MVFYODNzb3EyMG1NR0ZhZzZENXk0MGxHdnlVT2RHckNIb1FYY0hGR3QwTGZ2S3pSaWo1c3FjVHJQLXFjdmQ4TFotLWV1RGpVUl9mSzJtYXlibVlQVkFsTlA3NzZqWU91X2NRTEY2WkprS2RRcElCRXlPd0FUUjYxRkV0dEE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-04T03:11:25Z",
+      "summary": "最新报告显示，科技数字公司年碳排放量已达3.01亿吨，其中人工智能应用的快速扩张是主要推手。AI训练和推理过程高度依赖电力密集型数据中心，导致能源需求激增，碳足迹显著上升。报告强调，尽管各大企业承诺净零排放目标，但目前AI发展对电网和气候目标构成严峻挑战。专家呼吁行业加速采用清洁能源、优化算法效率，并建立更透明的AI能耗披露机制，以避免数字化进程加剧全球气候危机。",
+      "fetchDate": "2026-09-04"
+    },
+    {
       "id": "4360",
       "title": "Crusoe reportedly raises $3B at a  $30B valuation",
       "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -39268,5 +39286,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4363
+  "total": 4365
 }
