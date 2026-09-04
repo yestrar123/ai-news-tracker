@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "4360",
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-04T00:48:42Z",
+      "summary": "数据中心开发商Crusoe据报道完成30亿美元融资，估值达300亿美元。本轮融资发生在Crusoe与Jane Street签订价值130亿美元合同之后，该合同可能涉及算力基础设施或能源服务。Crusoe专注于AI基础设施，以其利用伴生天然气发电为数据中心供电的独特模式著称，为大型AI模型训练提供低成本、低排放的算力资源。此轮融资凸显了AI算力需求激增背景下资本市场对新兴基础设施公司的强烈兴趣。",
+      "fetchDate": "2026-09-04"
+    },
+    {
+      "id": "4361",
+      "title": "AI in a fragmenting world: Why ‘connector’ economies can still gain - CEPR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUhsY2lPS3NuOUdxaVRYQnBybXRsdFFpaVdfOFY0SWdlOXNnUFpSZ1ZOdzRqa1RpRmw1dVZmcmUzYUJtZmNVZWdZdUt3TUVpUjB0Y0FISUg2VFhlejZlR01LSm9iVkhtRF9JVnVyN1VJTFhJeVQxOEJVTlYwbDNrbVBwSzZXNVF1M21kdXRqaFZHbHZJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-04T00:01:48Z",
+      "summary": "CEPR（经济政策研究中心）刊文分析，在AI驱动且日益碎片化的全球格局中，“连接器”经济体仍能获得增长。文章认为，尽管地缘政治紧张导致技术供应链部分脱钩，但那些能够在各技术生态、数据流和贸易网络间发挥枢纽作用的经济体，可通过促成AI组件、服务和标准跨境流动来把握机遇。这类“连接器”角色有助于缓分裂风险，并在AI扩散过程中获取贸易和投资红利。",
+      "fetchDate": "2026-09-04"
+    },
+    {
+      "id": "4362",
+      "title": "China Advances Coordinated Development of Computing Power and Electricity Amid AI Boom - Alwihda Info",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1B3d2N6X3BBbE5EcDg5ZzJFMVVuWS0yeUxGSzFEX1dPZXJxLTVGMlNUbFNPS3RSVHZabnUxTDNHTW5WZVJQalQtSUdieEFWVlo1Y1JqMVJEUVlsbENvM2hRdjBPT3JZVnQzdXdvZmR5RHh2dkROazNQOEJTRkFXTWgwdVJIX2oxdWx4QWpWaHJ4WkZpaUFIWXhQcDJ5cTRGYkRaUnNpZ3VUVHlpS20yWHMxTDdBUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T23:52:14Z",
+      "summary": "随着人工智能蓬勃发展，中国正推进算力与电力的协同发展。报道指出，AI大模型训练和运行需要巨量计算资源，从而对电力供应提出更高要求，成为制约算力扩张的关键瓶颈。中国有关部门和企业正统筹规划数据中心布局与电网建设，推动算力基础设施与可再生能源、储能系统协调匹配，以实现“双碳”目标与AI产业增长的平衡。这一举措体现了中国在AI浪潮中同步关注基础设施可持续性的战略取向。",
+      "fetchDate": "2026-09-04"
+    },
+    {
+      "id": "4363",
+      "title": "'The Only One in Korea' Controversy Risk at 0%.. Even AI Was Surprised, Yoo Jae-suk Reaches 'Artificial Superintelligence' Status [★22nd Anniversary] - starnewskorea.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tTlFxYzRtUEUzWW1fQk5zY2NwSGdxbGZseEUwZzVlNzRzanU1bHBIa3hRejFtdnpRam9PclFMXzNwMDdmMGFLOVphbWxmbzI2TndnS0NxNDJiNHhHSFFwazU2TVQ5anN6RVhaX1hNUlRPcGlRY1Fj?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T21:55:38Z",
+      "summary": "韩国艺人刘在石出道22周年之际，报道称其在娱乐圈中“争议风险为0%”，甚至让AI也感到惊讶，达到“人工超级智能”级别。这显然是以夸张的娱乐化比喻，将刘在石长期零负面新闻、大众口碑极佳的职业形象与技术概念类比。文章借此突出刘在石在韩国综艺界的独特地位和持久的公众信任度，同时也反映出AI评价体系在娱乐人物形象分析中的另类应用。",
+      "fetchDate": "2026-09-04"
+    },
+    {
+      "id": "4364",
+      "title": "What Nvidia’s $13B acquisition of Hugging Face means for AI model choice - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVHNrQjVDQkZIMzNlQlVYYzRlX1lZQTBzWlgwMFRvSHBnMWx3OTJHa2VQNnJFaW10TTBwek8yRm5lOVZ4bGxZRkNUWW9TSWJlMGU3U0RUNy1rUXZ3aXExOWVOQVE5aXVLN3A3N1hmSGZGQjlLWG5fYk5DRjZLejlDUWVLLUlYaFc1ZldjdFJrcXJUbEZ5MkNuUGZCV0FxWlN2a2ZqU1pBNTk0a2dsU2YxbVhnTFppSTJu?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-03T20:51:25Z",
+      "summary": "InfoWorld评论Nvidia以130亿美元收购Hugging Face对AI模型选择的影响。Hugging Face是托管开源模型和数据集的主流社区平台，若被Nvidia收购，可能使AI开发者更深入绑定Nvidia的芯片与软件生态。此举或将推动模型标准化，利于Nvidia统一硬件与模型格式，但也可能削弱Hugging Face的中立性，导致部分开源项目转向其他平台。总体上，该交易会重塑AI模型分发与部署的格局。",
+      "fetchDate": "2026-09-04"
+    },
+    {
       "id": "4343",
       "title": "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGZTSDc5SjM0RUNMUzRtejZGXzZXVmtMTlBGUmZZS2JjanAyYV94OFhaQmRwZmVxZW9BQ0lCQ2VUTm5uaV8zZVhKYnRwZ3JfaWduNHk2eDFBLVIzRnAydkdvbXZjNXdCY2VqY2tNVmxCeFZyN0xseXBhZlF3aDNvQmJkMk5KYXNyWmxQdkpENV9VVzlxZHNaYw?oc=5",
@@ -39223,5 +39268,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4358
+  "total": 4363
 }
