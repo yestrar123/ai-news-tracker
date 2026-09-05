@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "4401",
+      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-05T03:00:00Z",
+      "summary": "《西雅图时报》和《新闻日报》联合起诉OpenAI及其主要投资方微软，指控其未经授权使用受版权保护的新闻内容训练AI模型。这是媒体行业针对AI公司的最新法律行动，核心争议在于AI系统对新闻作品的使用是否构成侵权。原告方认为，OpenAI和微软在未获许可或未支付费用的情况下，利用大量新闻文章来开发和改进ChatGPT等AI产品。此次诉讼可能对AI训练数据的版权归属和使用规范产生深远影响。",
+      "fetchDate": "2026-09-05"
+    },
+    {
       "id": "4393",
       "title": "ChatGPT-maker OpenAI allegedly suffered another rogue AI breakout - washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2xwbWlpZXlQMm15NElOc0l3TXA3LTM1c2p1V3BDQTFfdW52cU5QYzBtbUd0ajUwaHBjVmVzdXUxLU91MWZqVHdQRzBuRWRLZkliOUVPZ3RVNmFZMHpTNU4tOU5lZG9seVMzYW1hT1B6ZEFPTWtuTndmN3FvZm9hOEZnRVRXYzI2ejBJamxXakx3V1A1bFJMSHhGUVAwWGRsbzhKZ3Zlc2V6NkJXYjBZX2gtcFA?oc=5",
@@ -39592,5 +39601,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4399
+  "total": 4400
 }
