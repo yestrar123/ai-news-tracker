@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "4414",
+      "title": "DW News. . The artificial intelligence boom is creating demand for computing power. Data centers are springing up across the US — and opposition is growing. #DataCenters #AI #Trump #dwcurrentaffairs - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVUppcTN1em1DQVRSVzc3eFJFM2w2RWFnN1lWajNpZ0JFd1dQSkVEdnVCS3g4ZWc3cFJsQ3owVVZ4alVWb3lFbHhWaWVBX1NyWWtXcFo1SFA3MFF5U0U2OWstclplakt0cENYY2RZX2xVWDlJazdrWjIzay13bWlFMW0wdXEwQl9ubWVUam9FZGt4QXFUYlllVmJBVEJUb2VDZHhmVnZka0lrQjJSRXVuV2x4YzV1Y0VvUDlBZFV5cjRIN1pWc1VlRVdyLXNVMDNIX3p0Tkp1TGJVd3JLZTYtVWNrNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-05T23:05:03Z",
+      "summary": "随着人工智能技术的迅猛发展，全球对算力的需求急剧攀升，美国各地因此涌现出大量数据中心建设项目。然而，这些设施在满足AI训练与运行需求的同时，也引发了日益高涨的反对声音。当地居民和环保组织担忧数据中心的能源消耗、水资源占用以及噪音和土地影响等问题，多地出现抗议和抵制活动。这一矛盾也牵涉到政策层面，成为特朗普政府及相关利益方在推动AI产业与回应民生诉求之间需要平衡的新议题。DW新闻关注了AI热潮背后的基础设施扩张与社区冲突，折射出技术进步与地方治理之间的张力。",
+      "fetchDate": "2026-09-06"
+    },
+    {
+      "id": "4415",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-05T22:49:55Z",
+      "summary": "继多家媒体之后，《西雅图时报》和《新闻日报》也正式对OpenAI和微软提起诉讼，指控其未经授权使用新闻机构的文章来训练人工智能模型。这些新闻出版方认为，科技公司在构建AI系统时大规模复制、使用受版权保护的新闻报道，构成侵权，且未提供合理补偿。此次诉讼反映出新闻行业与AI企业之间关于内容使用和知识产权的矛盾持续升级，业内普遍关注AI训练数据来源的合法性和公平性。作为最新加入法律行动的媒体，两家报纸的起诉进一步壮大了原告诉讼阵营，可能对AI开发者的数据获取方式产生重要影响。",
+      "fetchDate": "2026-09-06"
+    },
+    {
       "id": "4409",
       "title": "Hikers rescued after using Google Gemini for planning",
       "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
@@ -39709,5 +39727,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4412
+  "total": 4414
 }
