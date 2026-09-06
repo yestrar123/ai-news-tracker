@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "4417",
+      "title": "AI may create a new management problem: Who is accountable when the machine is wrong? - ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUxocVNGYzd4UzdVSlVwWXdsdVR0WWhsWDBUaS1PUUlmUnk3SWY5Nl9UYndDQ1ZKZi1CcDV0MEtXMGJqWk5DTXE4LUk4aHRmaG5tZ2tuTExjU1dOdjZ4dWNXalFiTlM5czBnSDJCRWVtQjBhR2k2ektJTldqZ1NoZ2E0a2haWXpsc3NQRlNJMlloLXBZeG1LdDRBV0d6SzdjU2J2R3luRGVORmJxVmgyTkEycUtLZHg1YkFkRlREVkpUZkpURTA4TkFvUWtJcExOVHVV?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-06T13:18:25Z",
+      "summary": "随着人工智能在企业管理中的深度应用，一个全新的管理难题浮出水面：当AI系统做出错误决策或产生有害结果时，究竟该由谁承担责任？传统管理框架中，责任通常明确归于决策者，但AI的自动化与黑箱特性使责任归属变得模糊。文章指出，企业管理者在引入AI时，需重新构建问责机制，明确人类与机器在决策链条中的角色。这一挑战不仅涉及技术层面，更触及法律、伦理与组织治理的深层问题，要求企业在追求效率的同时，建立与之匹配的责任分配体系。",
+      "fetchDate": "2026-09-06"
+    },
+    {
+      "id": "4418",
+      "title": "Uncanny and unappetizing: appetites spoil as AI images take over food menus - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EbTVnQWJES2tJaEpBZzZvMTJpam01anlsWm1tWmF0OTBfc3JIRG41Q3lXVXd4SzJQamwtZFRXcGx6eVVCR3lGcGpYNU9PR0xWRVQ3STA2ZUpLMDdDTWpWaHB0WmgyQ1Y3QXlsOHhpWkpuTkM1Z19JNktB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-06T13:00:00Z",
+      "summary": "《卫报》报道指出，AI生成的美食图片正大规模出现在餐厅菜单与外卖平台上，然而这类图像虽精美却不真实，给人一种“诡异感”，反而让消费者食欲大减。研究者发现，AI图像往往在细节上失真——比如食物纹理、光影或摆盘方式不符合人们的真实用餐经验，引发本能的反感。这一现象凸显了技术便利与用户体验之间的冲突：过度依赖AI生成内容可能损害品牌信任。餐饮商家应在效率与真实性之间找到平衡，避免因“未煮熟”的视觉呈现而流失顾客。",
+      "fetchDate": "2026-09-06"
+    },
+    {
+      "id": "4419",
+      "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-06T11:00:00Z",
+      "summary": "一位研究人工智能影响、同时也是三个孩子父亲的研究者撰文，向家长们普及AI时代的育儿要点。他指出，AI已经深度嵌入儿童的学习、社交与娱乐中，家长不能简单回避或禁止，而应主动了解其运作机制与潜在风险。他建议家长关注AI对孩子隐私、批判性思维及情感发展的影响，并通过日常对话帮助孩子建立对AI的正确认知。同时，他强调家庭中的人类陪伴与价值引导仍是不可替代的核心，呼吁家长以开放但审慎的态度引导孩子与AI共处。",
+      "fetchDate": "2026-09-06"
+    },
+    {
+      "id": "4420",
+      "title": "Nobel Peace Prize laureate Maria Ressa urged journalists to take control of the technology that increasingly determines how news reaches the public in the face of artificial intelligence. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZm54X3VBel9Tb2g0LTlYbkNYVFd2cm1zV2htWTZCY2FmT1YzbEVGTWtUVTlsOVRoNV8tUUF1b3NoYVFpRk1NaEMwM1c4OGRMZkgxSlFrQWYySWZkNFVydGV6MGNJM3JDWXlCbnV0VlVORl9oVmc5VGJvVTg5dnJQeXh1VVpXTjlPWWtSb0RrdkRVUFBWeGF4YnNjZkU1azZCclViYkFpTU14LXdDUjhJOFN1QzFyMTh2Y2lBdkhqREY3TU1rR2RBTnh0TTFZRzEwYWhRbm5FT18yNUk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-06T09:00:17Z",
+      "summary": "诺贝尔和平奖得主玛丽亚·雷萨（Maria Ressa）在公开场合呼吁新闻记者积极掌控决定新闻分发方式的科技，尤其是在人工智能日益主导信息传播的背景下。她认为，如果记者不主动理解并驾驭AI算法、平台机制，新闻业的独立性和公共价值将面临被技术公司裹挟的风险。雷萨强调，记者不仅要适应技术变革，更应参与制定规则，确保技术服务于真相与民主。她的发言被视为对全球新闻行业的一次警醒：在AI时代，专业自主权必须掌握在新闻从业者自己手中。",
+      "fetchDate": "2026-09-06"
+    },
+    {
+      "id": "4421",
+      "title": "\"Artificial intelligence (AI) is saving American software companies, not killing them.\" The so-calle.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3a0NuRnJhSFdqX3Rxb2Etc0ZRV2RSQ0hWbWNSVmRGUi11T2d2eEZ0bTNsYnA0T1lha3dUZVZhWDZ6OVBPZXZCejZIQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-06T08:42:26Z",
+      "summary": "《每日经济》文章称，人工智能并非如一些人担忧的那样在“杀死”美国软件公司，反而正在“拯救”它们。所谓的“软件消亡论”被夸大，实际数据显示，AI正通过赋能现有产品、优化开发流程和创造新需求，帮助软件企业提升竞争力与盈利能力。文章分析，AI技术让企业能够更快迭代、更智能地服务客户，并拓展了软件的应用边界。那些善用AI的公司正在获得显著回报，证明AI是推动软件行业转型与增长的核心引擎，而非威胁。",
+      "fetchDate": "2026-09-06"
+    },
+    {
       "id": "4416",
       "title": "AI system launched to curb child labour - The Express Tribune",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWdxUHhYb0cxNVB4UFRzcW5nZzhJQ2lxY3lab0lhUWQwTV8xNTlqdG5GNldWb2ZCM0FJMmNENjFyTmN6TWdMN0ZsNjAyeVdmeGlzcDh6SXc4LTJteGFZRFFWUlJLNDlyNC1hSm82N20yOUJZTTI1ZTRjNWs0MW1sY2x30gGKAUFVX3lxTE1pUG1UNkZkaVpNSHRrOEFoSWR5a0xlWEh4elM4bG9uQU1vNjB1U0N0YVJoRmt1MG9ZdGVWb2FFVjlNeDdXTVp6Q1pobTdnSlE5UGZYTlRTZmNQb1QwQlZrTXJoczVDMDFDVmRtNTJsNnZXNmtjVVNobGhiMG1FM0YzLUI5S19XVmRkUQ?oc=5",
@@ -39736,5 +39781,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4415
+  "total": 4420
 }
