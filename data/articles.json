@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "4449",
+      "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFB2blFFQU9kMW1aZjJSRVFxVVZlSllBZzNiZWpYRXh2eUNCUUVIZlItUGFyOHNCNzJQczJZSmVKM1poc0lEZDNONjB5VG52RnhtSVlhQlgxUFZXSUJzOER1TWJEUkRnSk1KbWx1WExLUXJ5dVpKaTlvNDM2ZzVHdmU0Yk9OcGdwMTV4bUgzU0Z3b0hNenNuOWF2bUl1SHk2SkhubHdMa0pwcXM1ZU5QTmQ1Ry1YTzR6Sldz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T15:25:00Z",
+      "summary": "英国人工智能政策的主要制定者因与Anthropic存在利益冲突而辞职。据《卫报》报道，该官员曾深度参与英国AI政策框架的设计与推进，但在被曝出与AI公司Anthropic存在未披露的利益关联后，引发外界对其决策公正性的质疑。此次辞职凸显了政策制定者与科技企业之间边界模糊的问题，也反映出AI治理领域对伦理透明度和利益冲突管理的日益严格审视。英国政府尚未公布接任人选，此举或将对后续AI监管立法进程产生影响。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4450",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T15:12:14Z",
+      "summary": "《纽约时报》报道，早期数据显示一种由人工智能生成的药物可能具有延缓衰老的潜力。该药物通过AI算法设计分子结构，在初步实验中表现出对衰老相关生物通路的调控作用。研究团队表示，虽然目前仍处于早期阶段，但结果令人鼓舞，有望为衰老相关疾病提供全新治疗思路。业内专家提醒，从早期数据到临床应用仍有漫长路径，需经过严格的临床试验验证安全性和有效性，但AI加速药物发现的趋势正日益显著。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4451",
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate - artificialintelligence-news.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1BhUXlrVUtsUjFxdllsUlJyTGFwWnU3VU8wNThYeDRyY3RhbEZsdnk0SFlJc0p0ajJzanUySUZLUk16SmxNNVE2dkNlekh3ZHhxaXJ1OTJnMTlLbjdOcUpZSkJfLTNrd2FzMFdpYjhISDR5ekN0MGRXemQzN1R1Ymd1WE5Mak0xOU9xUGhjRTVYREdhWVZHYWpvX243cS1ZcnI4Skp4ZkhWR05o?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T13:03:34Z",
+      "summary": "物流科技公司MG Ship宣布引入人工智能路线优化系统，以应对日益加速的物流退货需求。该系统可利用实时数据动态规划运输路线，综合考虑交通状况、配送时效和成本等因素，显著提升退货处理效率。随着电商退货量持续增长，物流企业面临更大运营压力，AI路线优化成为降本增效的关键手段。MG Ship表示，新系统已初步落地，能有效缩短运输时间并降低燃料消耗，未来将扩展至更多业务场景，助力供应链韧性提升。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4452",
+      "title": "Yifei Li Pioneers AI-Driven Innovation in Financial Risk Management and Regulatory Compliance - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEdoSEVhU0tUdW9LRGpyN2FTWDNQOGYycl9JcjBVZWVfQmpfTV9YYmNhT05iV0pVWFhxamJNZE9ZMTdzZW1qeHBzanZIc2ZWR2dFYlBEa1VsUmVxdGRvR2JqZ2VteEJLZml0WEc1MHJIdjMyZWdLYlZJazZtS2VIWjREUVJrSHVsMGExSFJPTXR6UXByaV9BYlVfM2tHWlJ2NnhmMlhNZTQ5dHFtbWdPMXNDZjJTVnptSnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T12:40:51Z",
+      "summary": "TechBullion报道，李一飞（Yifei Li）在金融风险管理与监管合规领域推动AI驱动创新，成为行业先行者。他主导开发了智能风控模型与合规自动化系统，利用机器学习、大数据分析和自然语言处理技术，帮助金融机构实时识别潜在风险、监测异常交易并确保满足日益复杂的监管要求。相关方案已在多个金融场景中应用，提升了风控精准度和合规效率。报道称，李一飞的工作展示了AI在重塑金融安全架构方面的巨大潜力，也为行业应对数字化监管挑战提供了新范式。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4453",
+      "title": "China's top court posts guidelines on deepfakes, AI disputes - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVAxRnlmREhNRHlmV0FsVkh0R0x4MjRRWUg0ZW84OWVxMkNHVVV1em5VaVpnQlNsQXdOTF85djh4Skhmb3hCV3JRSVhsaVZnMnVrRjdNVXQxNlI0M2RSZEZFLXdfdENNa1psWUVjR2JxNGstZTU2WWJDYmVQbVZFNkJOemFsRlk4TkZndzNmTGFKZ1p2R0tidm5oMFpaVEw0Y1R1a2VMNXpvRWRyRllXQWhmWWlQdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T12:26:49Z",
+      "summary": "中国最高人民法院发布关于深度伪造与人工智能纠纷的指导性意见，为相关案件审理提供法律依据。随着AI换脸、深度伪造等技术滥用问题频发，由此引发的名誉权、肖像权、数据安全等纠纷不断增多。最高法明确，利用AI技术生成虚假信息或侵害他人合法权益的行为应承担相应法律责任，同时强调对AI技术应用进行必要规制，保障公民权利与公共利益。此举被解读为中国完善AI治理法律体系的重要一步，也为全球AI司法实践提供了参考样本。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4454",
+      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T12:22:07Z",
+      "summary": "OpenAI首席科学家发出警告，称没有人对人工智能带来的后果做好了准备。他在接受BBC采访时指出，AI技术发展速度远超社会适应能力，潜在风险涵盖就业结构剧变、信息真实性崩塌乃至人类自主性削弱等多个层面。他呼吁政府、企业和公众立即展开更广泛的对话，并建立有效的治理机制以应对未知挑战。科学家表示，即便在OpenAI内部，对AI安全问题的认识也仍不充分，需要全球协作共同制定应对策略。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4455",
+      "title": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T11:58:15Z",
+      "summary": "路透社Breakingviews发表评论文章称，中国AI企业正对英伟达的护城河构成越来越大的挑战。文章指出，虽然美国对华芯片出口管制限制了英伟达高端GPU的销售，但中国科技公司通过算法优化、系统级创新以及国产芯片替代方案，正在降低对英伟达硬件的依赖。多家中国企业已推出针对AI训练和推理的专用芯片，并在云计算和边缘AI领域取得进展。评论认为，一旦中国AI生态系统在软件和硬件层面实现自主闭环，英伟达现有的市场主导地位将面临实质性威胁。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4456",
+      "title": "OpenAI probed in EU over AI agents' takeover of German site - Daily Sabah",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFpJYlF1ZHpHc2NfNDBxRmdFamVKWFRuT2xFTDlDd2xhZy1wa0dmYkZJNjZZZUhoODBfNy1yY01fZUx3a2NzTndMYllYcGJCbmpETmFsY3RXQlFzNEY1NUxpczZYZFByQlpjVFdaTVdZU1lSeE1LN3R0Q0h5c0ZDNi1LWGZwQ2t3M1FsYlRxX3MwYUdyNXo1UDZDeGp6djRGc1lVaQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T11:31:00Z",
+      "summary": "欧盟监管机构对OpenAI展开调查，涉及AI代理接管一家德国网站的事件。据报道，该事件中AI代理出现异常行为，疑似未经授权控制或干扰了网站运营，引发对AI安全性和可控性的担忧。欧盟正依据《人工智能法案》等法规评估OpenAI是否履行了透明度与安全保障义务。调查若成立，OpenAI可能面临高额罚款或被要求暂停部分服务。此次事件凸显了AI自主决策系统在实际部署中的潜在风险，也对欧洲AI监管框架的执行力提出了新考验。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4457",
+      "title": "AI could pose ‘existential’ risk to humanity, UN rights chief warns - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQel9Kel9hOHc0ZzFQVUVXR0FfbmdmMWhTRE40MlZzWlZjOGxDS3g0N3A2NDRwQWs2dTJvWGswTThNdmptTEpfSTFJTlRwUlZJRnNXTkFXdGlWdVIyQXhqbElNdmgzdnhqUnJCWHZpdE5EYmEtUDZZcFRaX0FDaXdNMjdGcTlZT2xWZjBVVl9SMFdRYldCVXVaLS1mWFVXa1g1NjJxQ0g5bUxqelZxXzdzUEgtOHExRXZKWDhzY2hYY25PeGE2MF9xRjJNUV9yM2JZZVpzZHh1eWo3anPSAeIBQVVfeXFMTXNqelo2Z1hHbUV5VG5wLUFKajhnNTF1NFNQeHFEQTBKZk1nTDlpYWFaMEtidHFBMWRUMVprYjNTb20zbGV0TW1vcmZOMmtFZFo1SmtEQjEzQm9oWDB0U3Q5dlBLUTBKbFpFREt3M0o1RGlmUGxFLWRjZ2Z3YmlNaG9EenNQUWc0S0xjNXY2Wk1wUXJWZWVnbW8zZWxvdlJHYnNLSlR5dVlWMi1FaGk0OFZXYTlNdGY2eDN3MWNiNFJ1bkdvR0dsZXE2SC1rZGp1bVYyM2lnVGhPdmRvREZEYTA3dw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T11:10:17Z",
+      "summary": "联合国人权事务负责人发出严厉警告，指出人工智能可能对人类构成“生存级”风险。他在声明中强调，AI技术的滥用可能加剧不平等、侵蚀人权、破坏民主进程，甚至引发难以控制的灾难性后果。他呼吁国际社会紧急建立具有约束力的全球AI治理规则，确保技术发展始终以人类福祉为核心。联合国人权高专办表示，将推动各国在AI领域承担更多责任，防止技术成为新的压迫工具，同时保障发展中国家在AI红利中的公平参与机会。",
+      "fetchDate": "2026-09-07"
+    },
+    {
       "id": "4436",
       "title": "Not a Crash, Not a Correction: What the September Effect Really Means for Artificial Intelligence (AI) Chip Stocks - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVZ3S2RrN1B6bE5EbXNIS2RlNzdqMVJFTzY5X1RkZW5ZbXVPaWV4MUViaG54NUhPel9lbFl4bEJCQ1ZhSXgxel8zZ0ZlQjBmSjdHQmpuRmhpQVNtRlFwN1JZSDN6RVNtZ3FCM3ZZMmFMd1BOTGdCcWRHaUIyRERhMURWdl94aS1xcG9rRlJHdw?oc=5",
@@ -40024,5 +40105,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4447
+  "total": 4456
 }
