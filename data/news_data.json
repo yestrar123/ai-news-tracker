@@ -1,41 +1,55 @@
 {
-  "updatedAt": "2026-09-07 01:43:06 UTC",
-  "totalArticles": 5,
+  "updatedAt": "2026-09-07 06:49:09 UTC",
+  "totalArticles": 7,
   "articles": [
+    {
+      "title": "The Life Insurance Association will put artificial intelligence (AI) into repetitive and regular tas.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uSWcta01USzRhR0x3SkNhcnJKbzJyNVVpakc2WmQzSmVpWk9sc1dRNmRSNEdSUFg0aEh1R1JyMTkybUJhZVRCVDMxejBlWlBpOHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T06:19:34Z",
+      "summary": "韩国人寿保险协会宣布，将把人工智能技术引入重复性和常规性任务的处理流程中，以提升行业运营效率。这一举措旨在利用AI自动化处理保险业务中的日常事务，如保单管理、理赔审核等，从而释放人力资源，让员工专注于更复杂的客户服务和业务决策。协会认为，通过AI的辅助，能够降低人为错误、加快响应速度，并适应数字化转型趋势。此举反映了韩国金融保险行业对AI应用的积极态度，也为其他金融机构提供了参照。"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: How to make the world safer for AI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHhsMk9Ic1dobWlDbFhLb1R2eVZyOWZkUC04dWFGc3VMR2FHVUdfUENEcU9ERW1YV2lkNjVXbjJjNGFlU3ExUEVOYTBHVzkweDZkcVpVUW9fekpzUHBVUXZJdHRld3BjcUFEYXBxSHFORVI1UzNXNDdSVXNsbk9xODlNQ3ZlYmRrVGhtVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T05:00:00Z",
+      "summary": "路透社Breakingviews专栏发表评论，探讨如何让人工智能的发展更安全。文章指出，随着AI能力快速提升，其潜在风险日益凸显，包括隐私侵犯、算法偏见、就业冲击乃至被用于恶意目的。为了构建更安全的AI环境，作者建议采取多层次治理策略：既需要企业自律和负责任开发，也需要政府出台明确监管规则，同时加强国际协调，防止监管套利。文章强调，在促进创新与规避风险之间必须取得平衡，而不能因噎废食。"
+    },
+    {
+      "title": "AI gains should fund growth rather than facilitate job cuts, says executive - Cyprus Mail",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa0hNS0QzUzg1enVLUkNFOXJXZkl3eGxtTUV1UnVfcF9xZjIyS1lzczFFclVvdHYtREhnWnRUdVN4enFfTkhFY19hMEdkdnp5em0xM2I0NnpwMkExUTJONjVRbDZYLUthRHlEX0hqdDdNM0ZycWFkT2Jha0p2TVBXMmZBdmdqWnZMdGM5N1F0T2V0VGJVZFhmUUprT3M0MUZjOGFRUHhHRmtwUDVnT1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T05:00:00Z",
+      "summary": "塞浦路斯邮报援引一位企业高管的观点称，人工智能带来的收益应当用于资助业务增长和创新，而不是成为裁员和削减成本的借口。该高管强调，企业在引入AI时需持有长远眼光，将节省的成本或提升的效率再投资于新市场开拓、产品研发和员工技能提升，这样既能创造新岗位，也能增强竞争力。他警告，若仅将AI用作替代人工的工具，短期看会损害员工士气，长期则可能削弱企业的人才储备和创新能力。"
+    },
+    {
+      "title": "KB Securities is expanding its consumer protection system using artificial intelligence (AI) from th.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45Tk1QdWZEcm5TemV2NDVvaVZDbWNGWnhCdjQ3TXM3UGNTVHR6TlJsMTVoSWdoUDdFNUpKMjVqNWNBd0sxN3B4UnpsZmliYUU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T04:58:55Z",
+      "summary": "韩国KB证券正在扩大其基于人工智能的消费者保护系统。据介绍，该系统利用AI技术对交易行为、客户咨询及投诉数据进行实时监控和智能分析，以更有效地识别潜在的不公平交易、金融欺诈或服务漏洞。KB证券计划通过扩展AI的应用范围，提升风险预警的准确性和响应速度，从而为客户提供更安全的投资环境。此举是韩国金融业将AI用于合规与消费者权益保护的最新案例，也展示了技术在提升金融透明度方面的潜力。"
+    },
+    {
+      "title": "Marsh Re develops named-peril AI catastrophe reinsurance cover - theinsurer.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzJ2a3ZWNVdpcE10VUV5dnlFWjZPV3dQaHY2M2p6ZXFJbHhmQW5Ld0t4RzkyTjdmdUVYZlk2V2NfZU1yQXVIbWtCeXRkeDQyQ21zeWdfT2xPaGY5MGVEZmZPcG5WY1FpOU03MnNfYkZBUVkwOXlXaEU1VVkweTRNLVdOMkV6ZzNXalVjZk9TeVBydnB5WWQwYTlBbEJ0OHcxeU9MbDQ0dnljU25wZk1mbGxPYjJrOWZsOFpoMzFn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T04:48:56Z",
+      "summary": "Marsh Re开发了一款基于人工智能的指定风险巨灾再保险产品。该产品将AI技术应用于巨灾风险的建模、评估与定价，能够针对特定自然灾害（如飓风、地震等）提供定制化的再保险保障。借助AI强大的数据分析能力，Marsh Re可以更精确地量化风险暴露和损失概率，从而优化承保决策和资本配置。这款创新产品标志着再保险行业在利用先进技术管理复杂巨灾风险方面迈出了新一步，也为客户提供了更灵活的风险转移方案。"
+    },
+    {
+      "title": "AI Should Help Researchers Be Even More Creative, Not Think Less - the-scientist.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGV1cUNGckx2NWFuUUFXcVctTTB1X2Z0N2ZIbFJtTFA1V1VYaFdmZ2k1NkdZVF9vb1dqdlY3eDk1SGN4aDZUZm5JT0lGT19yX09UYXZMNUYyZTFrQjV5VVNDVW5BTng4VnpCdkMtakFCUTFWUVNKN21JekQ2OVB3YXVsRl9lOHlDcWZiS0RxWm91NU1fS1NHZG1vOUJENmRU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T04:11:29Z",
+      "summary": "《科学家》杂志刊文指出，人工智能应当被用来增强研究人员的创造力，而非诱导他们减少思考。文章认为，AI工具能够快速处理海量文献、生成假设、设计实验或分析复杂数据，从而扩展研究边界。然而，如果科研人员过度依赖AI，可能导致认知惰性和思维同质化，削弱原创性。作者主张在科研流程中合理定位AI的角色——作为辅助工具而非替代思考者，并建议学术界建立相关规范，鼓励人机协作中保持人的批判性思维与探索精神。"
+    },
     {
       "title": "The AI trend quietly reshaping employer-employee relationships - NZ Herald",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUZpY1cyTHNNaUd5ZThnTFZWVGlsOEhNUnJpblRzOHBMS1lRRXVjX2k1Vi1rU1hYUGZDVXM2c2hERFBMcDI0RGVKR1ZEcUlYLXViNTBJc1FBbkZQSmVObGk0RXJ2Y0ZxcEN3Rzl6QkxXWjVPNEk1dzE4ZTZDRUpTal81RDJWd0RMcWZzalZTRW1BYTA3cFNaLW5OSWxacTZjUWQ0eUdHcFpzUl9GLTByalh6V01EcnZxQWFWUzdOSnhvNE9KdGJ2UndoNmNxX0Y1dFFR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-07T01:30:00Z",
-      "summary": "据新西兰先驱报报道，人工智能正在悄然重塑雇主与雇员之间的关系。这一趋势并非轰轰烈烈的裁员或替代，而是通过自动化工具、绩效监控和智能决策系统，逐步改变工作方式与权力结构。文章指出，AI技术使得远程办公监督、任务分配和效率评估变得更为精细，同时也引发对隐私、自主性和人机信任的新讨论。雇员需要适应与算法协作，而管理者则面临如何平衡技术效率与人文关怀的挑战。这一变化虽不显眼，却可能带来深远影响。"
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-06T20:47:37Z",
-      "summary": "在人工智能公司Anthropic的版权和解案中，作者群体提出异议，认为出版商和代理人试图从中获取超过合理份额的赔偿。TechCrunch报道称，作者们主张，AI训练数据中大量使用了其作品，但和解方案若按现有分配机制，可能使中间机构获利更多，而真正的内容创作者所得有限。该争议凸显了生成式AI时代版权归属和收益分配的复杂性，也反映出作者对自身权益保护不足的担忧，业界正密切关注此案的后续进展。"
-    },
-    {
-      "title": "Education experts discuss decision to ban AI in New York City public schools for at least this year - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1ZWUWFnVjRxRHZsNEtJVWVOcjZxSkJZMlV6RVh5Wkc1M01wU1Q0SHg4Ni1QUW01ck13aHVIdmhOZFZkS2RGTE4xRFlSOE8wYVpoeFp5U2FEWWFZT1J3TTgtTWM5c3hRbVl4anNacGY3dzNuaVF4VjRqcEpsbEFacXNUYjBSSHQyWHdqQkxnZUNMYWdTRm16aks0TXIyS2ZSR1FSZ2l1Q0wtNFZaazB3WWxn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-06T20:38:02Z",
-      "summary": "针对纽约市公立学校本年度至少禁止使用AI的决定，教育专家在CBS News节目中展开讨论。支持者认为，此举旨在防范学生过度依赖AI、学术诚信受损以及数据隐私风险，同时为学校制定合理政策争取时间。反对者则担忧，全面禁止会让学生错失学习AI素养的机会，并扩大数字鸿沟。专家普遍建议，教育系统应逐步建立指导框架，在安全与创新之间寻找平衡，而非简单的一刀切禁令。"
-    },
-    {
-      "title": "AI may create a new management problem: Who is accountable when the machine is wrong? - ABS-CBN",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUxocVNGYzd4UzdVSlVwWXdsdVR0WWhsWDBUaS1PUUlmUnk3SWY5Nl9UYndDQ1ZKZi1CcDV0MEtXMGJqWk5DTXE4LUk4aHRmaG5tZ2tuTExjU1dOdjZ4dWNXalFiTlM5czBnSDJCRWVtQjBhR2k2ektJTldqZ1NoZ2E0a2haWXpsc3NQRlNJMlloLXBZeG1LdDRBV0d6SzdjU2J2R3luRGVORmJxVmgyTkEycUtLZHg1YkFkRlREVkpUZkpURTA4TkFvUWtJcExOVHVV?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-06T20:19:18Z",
-      "summary": "ABS-CBN援引管理学界观点指出，AI可能引发新的管理难题：当机器出错时，谁应承担责任？传统问责制建立在人类决策链基础上，而AI系统的决策过程往往不透明，甚至具有自主学习和演化能力。一旦算法导致错误或损害，责任可能涉及开发者、部署者、监管者乃至使用者，但现行法律和企业制度尚缺乏明确界定。这一问题将挑战企业的风险管理、伦理治理和组织架构，亟需建立新型追责机制以应对智能时代的管理困境。"
-    },
-    {
-      "title": "Apple Music to make AI labels mandatory for music created with artificial intelligence - The Apple Post",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQnhnSlFwWFhwUndEeGQxVzdWTzlmTjVBMTk4M3FpN2J1dTlsZllOeEFTc0I5NEdTQ0RuUXNYU0xVcWtxTVVmWXdGZjNhOEM1T2o5OGZxTzBfNVRhYzQwSEtwYXVscFVKTVdlaEVLdVpqTkdLakF3eWdUZmFLdzEteERuOEVqTU5xUC1DNUpYYUM5VXVQRUNzbk1QdmUwXzJ4SGtVMVlYR3RaTlhMTUFLRjZ3alBtUVIxcFJQdVFnR2ZWQnRrbkZ4OGt0LUVGZ9IB0wFBVV95cUxNU1Jad0hrQWg0WTZIMk9WbW95c0ZfMkRoTTVrOXlmV243MEVaM3NvSDJxeWRiRW1CaDc0YlRMNXlkNlZ3dkNacUNzUzdhWFctREFFR2ZKdnMxM2hQOXRaVGthQm9kVW1UMktvbUx0Y05OVGR6bzV1alhYR1RSRmR0Q3F3bEFjcnh0Rmdxd2gtNm9BOU1aX1lyejBjXzMxV0hJSGlEanFpazVLSFkxZkJXTTJaZy1tSEF1VDUySnkybk5DRjFreGVEb0hhRkxWa0NtSG00?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-06T19:44:12Z",
-      "summary": "据The Apple Post报道，Apple Music将强制要求使用人工智能生成的音乐添加AI标识。新规定旨在提高内容透明度，让听众能够明确区分纯人工创作与AI辅助或完全由AI制作的作品。该措施是音乐行业应对AI浪潮的重要举措之一，有助于维护原创艺术家的权益和作品价值，同时避免AI生成内容对音乐榜单和推荐算法造成干扰。此举也预示着流媒体平台正加快制定针对AI内容的管理规范，以应对日益增长的合成音乐。"
+      "publishedAt": "2026-09-07T01:33:18Z",
+      "summary": "新西兰先驱报报道称，一种由AI引发的趋势正在悄然重塑雇主与雇员之间的关系。文章指出，从员工监控、绩效评估到招聘和排班，AI越来越多地介入职场管理。这种变化既带来了效率和客观性提升，也引发了隐私、自主性和公平性的担忧。AI算法可能影响员工的职业发展轨迹甚至去留。与此同时，远程办公与AI结合，使得工作模式更加灵活，但也模糊了工作与生活的边界。作者呼吁企业在应用AI时关注员工权利，并制定透明的人性化管理政策。"
     }
   ]
 }
