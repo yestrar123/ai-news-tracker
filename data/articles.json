@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "4458",
+      "title": "UN rights chief: AI poses existential risk to humanity if left unchecked - TheCable",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGl1YUdPR2dZTXYxS0VfUktvSzA2YUJ6ZU5VMy1xM3p5NFJ4Q2dPWV84NWFULUpNbDg1WnpONmVFaC1JRVNhWTlOQ3VzNWtMZHctNEN1di0zbGU5RlVrTmQzSXBXLWt0X2tPY1laYUJOaHdISDNlakVjVDhNaHprVjUwVWVXMUVaU0VncmdFaHRRdHgyUm10bmsySGg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T20:39:07Z",
+      "summary": "联合国人权事务负责人发出严厉警告，指出如果人工智能不受约束地发展，将对人类构成生存级风险。他强调，AI技术的快速扩张可能加剧不平等、侵蚀人权，甚至带来难以控制的灾难性后果。此番表态反映了国际社会对AI治理缺失的深层忧虑，呼吁各国尽快建立强有力的监管框架，确保技术发展符合人道主义原则和全球共同利益。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4459",
+      "title": "University academic shapes new global standards for ethical AI use - Hampshire Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDE5Z3RtT1drMGo2WmVIbVlwV2JCSTJ3UEhLQWZYR1gyOVU1cDhEMjA1MXhCbVI0NkpWaXczTXRRWldqc0hLd0NtM3NPMnNnYzFxS2RrdTlSSmplRkpTalpXQ0tRdHdvQUxtd1N2OHozUEI5Zk1yU2tmZ21pRVVpbjA3RE82a2NRbnhieTJtNWpVMjF4THU3NjU0YWJyaUtBMnFUSw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T20:00:00Z",
+      "summary": "一位大学学者参与制定了人工智能伦理使用的全球新标准，此举获得行业关注。该学者凭借其学术专长，为AI的道德规范提供关键指导，涉及透明度、问责制、公平性等重要原则。新的全球标准旨在应对AI在医疗、教育、司法等领域的伦理挑战，为各国政策制定和技术研发提供参考框架。这项成果被视为学术界推动负责任AI发展的重要一步。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4460",
+      "title": "Opaque recurrence, and other AI terms that you should probably know - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQUhpbHllUzltRkhXTWF5dmFqdXUyaDVQUUtIY21OZTBrbEhfcWFYWVlCMUhIZmxBVEVHRXg2MDFMd21UNDFEWEFxSGh3NHhDU3A5OVcyRm1PY01FbktKaDZiZG1jblRzVEhmTlc1eHJ1VW5VaC1KVlpKalFZRm5JczlSQnljV09YUVhlUEZWOGZhRUpJZFlZVWFFSnV4MTlTMzhrbXFDWGh1MVhHYmRsZGtCTl9UOVVxeHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T19:24:00Z",
+      "summary": "TechCrunch刊文介绍了AI领域迅速涌现的新术语，其中重点解释了“不透明递归”（opaque recurrence）等概念。文章指出，随着AI技术深入日常，各种行话和俚语层出不穷，普通用户和从业者都容易感到困惑。为此，该文整理了一份关键术语词汇表，帮助读者准确理解AI讨论中的核心词汇，以便更好地跟随行业发展、参与相关公共对话。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4461",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-07T19:24:00Z",
+      "summary": "TechCrunch发布了一篇AI术语科普文章，指出AI的兴起带来了大量新词汇和行业“黑话”。文中以“opaque recurrence”为例，说明一些术语描述的是AI系统内部复杂且难以解释的运作机制。文章为读者提供了常用AI术语的简明定义，涵盖模型、训练、推理、偏见等基础概念，旨在帮助非技术人士跨越认知门槛，更清晰地理解AI新闻和产品讨论。",
+      "fetchDate": "2026-09-07"
+    },
+    {
+      "id": "4462",
+      "title": "OpenAI chief scientist urges ‘extreme caution’ with pace of artificial intelligence - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQUJiaGhjYUx0Y2J4S0daQzlPRWQ4VTRHN3UwR2NmbGc0WUJSd2syMkNqZW1MT0NJVUk4M2JUNVRVa0d3cUZ3S21GVzBVXzUzVEJrUUJvb1B5eVF4UVRlbnVxZUtJb0NXRXNyOUtwQ2xOcE9ETFlnVmItbVFQUURPNnhPX09SbVFkZS1NdWVpbkR0STVJTUNERTU1QnRjMFdrWklSRm1iT2VoZVdCTVJOSkJ2STljR2E5Z1VTSEM2TVhiZzRuYTJPMDZDMEZCOXJMR0JOYUJJLU5BSG5NQUZLSXFR0gHnAUFVX3lxTE1BNU5ZTnNLS1JZQUpTdVF0c3dHM3c4OV9Ga1BtV1BYZUN5eDdjVmVPVm5DdGFnSWFmRENUTjhPdi1ZZU1oSHp6OExuNVktN1NQaTZWNWNqWEE5dmg4S01iOG5VX24xNU1kZkdlX25wT0YwTFkyRHgxZFBXV3RuNV9Yc0tDRVJ5V2hQX0tqaHFxSGxvRnBfNnZiSkZhTkRqSDM1OHFNSWJBVXhKOHdVaUVoREZ1Y0M0aHQxYllyVTBzQXlaYTRRdHNYd1MweGU0eW9rNUlOMGNZcE4ybFRRanZCN0hBbzF5QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-07T17:04:05Z",
+      "summary": "OpenAI首席科学家呼吁对人工智能的发展速度保持“极度谨慎”。他在相关场合表示，AGI（通用人工智能）可能带来前所未有的正面价值，但也存在失控风险，因此不能因竞争压力而忽视安全研究。他敦促研究机构和政府在推进AI能力的同时，加大对齐和安全投入，确保未来超级智能始终符合人类意图，避免造成不可逆的负面影响。",
+      "fetchDate": "2026-09-07"
+    },
+    {
       "id": "4449",
       "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFB2blFFQU9kMW1aZjJSRVFxVVZlSllBZzNiZWpYRXh2eUNCUUVIZlItUGFyOHNCNzJQczJZSmVKM1poc0lEZDNONjB5VG52RnhtSVlhQlgxUFZXSUJzOER1TWJEUkRnSk1KbWx1WExLUXJ5dVpKaTlvNDM2ZzVHdmU0Yk9OcGdwMTV4bUgzU0Z3b0hNenNuOWF2bUl1SHk2SkhubHdMa0pwcXM1ZU5QTmQ1Ry1YTzR6Sldz?oc=5",
@@ -40105,5 +40150,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4456
+  "total": 4461
 }
