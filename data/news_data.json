@@ -1,125 +1,139 @@
 {
-  "updatedAt": "2026-09-08 10:14:21 UTC",
-  "totalArticles": 17,
+  "updatedAt": "2026-09-08 15:35:47 UTC",
+  "totalArticles": 19,
   "articles": [
+    {
+      "title": "OpenAI, New York Times case tees up key test of AI training under copyright law - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlpyLUhPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T15:25:43Z",
+      "summary": "OpenAI与《纽约时报》的版权诉讼案正成为检验AI训练是否符合版权法的关键案例。该案的核心争议在于，OpenAI未经授权使用《纽约时报》文章训练大模型是否构成侵权。若法院裁定合理使用不成立，将深刻影响AI公司的数据获取模式与训练成本，也可能重塑整个AI产业的内容授权生态。目前此案受到法律界与科技界高度关注，其判决结果有望为AI版权保护确立标杆性法律边界。"
+    },
+    {
+      "title": "Are AI Data Centers Depleting Earth's Water? - Tempo.co English",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOUU3ckswczQxOHNFYmF4b3ZnRWxMRFRvanA1VWFxaWRGeEJNaloxMEhVS3ZwMElRX1o0STVDZ3ZTWFR3RUp3Uy01RFZ0bnJ3WUx2SzBZVnF6SmJweVJibWU1SjBrUzM5WW5ta3hYNXhfeExaMnRjLU9sdWZqdUIwRA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T14:35:29Z",
+      "summary": "文章探讨了AI数据中心对全球水资源的影响。训练和运行大型AI模型需要大量电力，而为服务器降温则消耗巨额冷却水，这导致部分地区面临缺水压力。研究指出，随着AI算力快速扩张，数据中心用水量正以惊人速度增长，给干旱地区生态带来隐患。业界正在探索节水冷却技术和循环利用方案，但如何在算力需求与水资源可持续之间取得平衡，仍是AI产业必须直面的挑战。"
+    },
+    {
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-08T14:17:48Z",
+      "summary": "法国AI实验室Mistral宣布完成30亿欧元融资，估值达210亿欧元，本轮为D轮，由三星、Scaleup Europe和PSG Equity领投。此轮融资凸显“主权AI”正成为商业热点——即各国追求自主可控的AI基础设施和模型能力。Mistral凭借开源路线与欧洲本地化优势获得资本青睐，其扩张也将助力欧盟在全球AI竞赛中保持技术独立性与战略回旋空间。"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: French AI minnow bags surprisingly high valuation - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejNUQU01WWpaNDNpay1qbUtubTYwYXQtSGFVdEREOHFtRDBnY3N5MkZvOE5kendiQ1JNcTdnQ0FPY1AzdkhUTjBPb3FTZHRpT3p3Z3dYXy1yc2RjRmpoaEhZRVdWbTN3bzVOd3VDSWZldDMtQVo3WVQza2hIVDRTQkEzdG0wY1lTcldJTHh3NDF3elJGMXg0S2JSejZWY2gyNF9qaFlUdW41aEd2cm9j?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T13:20:50Z",
+      "summary": "路透社Breakingviews评论指出，法国AI初创公司Mistral获得210亿欧元估值，这一数字令人意外。尽管该公司在技术上具有欧洲代表性，但其商业化仍处早期阶段，收入规模和市场份额与估值相比显得单薄。评论认为，地缘政治和“主权AI”叙事推动了投资热情，但投资者需要警惕泡沫风险，并检验其技术壁垒能否转化为持续盈利。"
+    },
+    {
+      "title": "Billionaire David Tepper Just Bought These 2 Artificial Intelligence (AI) Stocks That Wall Street Thinks Could Soar by 50% or More - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbHdwX0VkcVJCSnZsMWp4a0lWVHpBNDRmbl9EbHczd2Z5NEZ4elNGdERxQ3M0aGZSaEFvOWJ1RGx6OGtkSHpfNmxEMkMwNWl6MUNvOGdFYUFQSk8tdkpOTzJrNnpwbWF2NE9JbnlTNnZYV1lGX0tZOVFtaC1MS3hzbEUtbGxacUlBQ3VZRVFLRkUtczJTdDVFa2xzU29xSnFJazFmVnJGT0pEaXpiS0JzY3BxbTVMSzQ4UXBpMTQ0ZUM1dnI0SDY2VVNWR3NmRGdhd3NON3pTTkRYb3h6TVp2SmltWkRuMzJBV0t5RW40Q0dZYndCUjhGQWpZQ0JlNmM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T12:57:58Z",
+      "summary": "亿万富翁投资者David Tepper近期买入两只AI股票，华尔街普遍预期这两家公司未来涨幅可达50%以上。虽然具体公司名称未在摘要中披露，但这类动向反映出大型对冲基金对AI赛道的持续看好。Tepper以高仓位集中投资著称，其布局人工智能领域进一步印证机构资本正在加速涌入生成式AI、算力基础设施等核心环节，推动相关个股估值走高。"
+    },
+    {
+      "title": "As artificial intelligence (AI) rapidly penetrates into human work areas, the game industry is beari.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSenF1X0JNMlpjcGJnTThWc0lGOXc4UTljalllM3ZHMmwzN3NpdHlWWnNXYzVKSWNWMTNMS2JGWk1pRVJYRmViRWFTZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T12:44:52Z",
+      "summary": "韩国《每日经济》报道指出，随着人工智能迅速渗透人类工作领域，游戏行业正首当其冲地感受到变革冲击。AI在内容生成、角色设计、场景构建甚至代码编写方面已展现出高效能力，一方面降低了开发成本并缩短制作周期，另一方面也引发从业者对岗位流失和创意同质化的担忧。游戏公司需在效率与创造力之间探索新型人机协作模式。"
+    },
+    {
+      "title": "AI is finding bugs humans missed across Bitcoin infrastructure - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWdNRE9qZHZuc0lZWlViU3FJdEJ2WnhjazBlM204NFJaUGN1SWpmY1V5ZGhZdlJxQ3RVTExrUXpLMzV2a182d2Z2b1FHM2tNb1FlOXFJWlFsRmM2SXE4SmttQzJ2S0UwcEVKRk05THA5RXlqZGZxZ2s4cTVSWGIzVUxxSXQ1QVp5RWZselNzbDVxQW40QkN0MldnVXluVUFVcGhzVmtPbHh6T1BGQVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T12:09:26Z",
+      "summary": "CoinDesk报道称，人工智能正被用于发现比特币基础设施中人类遗漏的漏洞。比特币的底层软件、钱包和协议代码极为复杂，开发者通过AI辅助审计工具进行静态分析、异常检测和模式识别，帮助定位潜在安全缺陷。虽然AI尚不能完全替代人工审查，但它显著提升了漏洞发现效率。这一趋势也显示，AI正逐步成为区块链安全领域不可或缺的基础设施。"
+    },
+    {
+      "title": "AI Stocks: OpenAI Declares The 'AGI Era' Is Here Amid IPO Fervor - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPajNfSzNaU3NFemppNUtHZmtYTTdhMHZBVjBOVWIyaXoybjlUV1dBcENJNkZIRmpQQWRSOWJ3eDVRLTNpM2lFVVJvemlTVXd0d0dydVc1ZElGNm0tUHlxSnlDTHY0YU53Qlk4dmFSVGR4Mk9OT0dVTmdiWjJMZldjUHd2VXk0U3JzVXM0VTJFRnc5a2pwZVdNNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T12:03:00Z",
+      "summary": "Investor's Business Daily报道称，在IPO热潮背景下，OpenAI公开宣告“AGI时代已经到来”。这一表态被视为AI行业从狭义模型迈向通用人工智能的关键信号。分析人士认为，OpenAI高调宣扬AGI进展既是为了巩固技术领先形象，也可能与资本市场运作紧密相关。随着公众与机构对AGI概念的关注升温，AI板块估值和投资热情再次被点燃。"
+    },
+    {
+      "title": "Why Berkshire Hathaway Looks Likely to Invest in More Artificial Intelligence (AI) Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHFaWmduRVVyZDgyXzlNMWV4b3dsUnltSVR4Y3RWV21YcjdzNVBnNjh4S25tdEF2V3RrNF90OFk5Xzdrak04M0UyaWtidnlVenpfVW9DWEp3ejNBSGhudEdQNTRKQ0E2c1Z5LU5zSzN6ZUwwZzZWVEx4X1FLdUVMY09WWlRKUFctWGt3S2NNakltRzVLR0tMMzJwNGNrUmtlNnlkc2hwSVVTdWNvOXZjYTgxTExNdEFSUzRBeDhWOHVnT1BtUmFGQXFn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T12:00:00Z",
+      "summary": "Motley Fool分析认为，伯克希尔·哈撒韦公司未来很可能加大在人工智能领域的股票投资。查理·芒格生前曾表达对科技估值的谨慎态度，但AI已成为改变商业格局的通用技术，伯克希尔所持有的苹果等科技股、以及其投资团队对长期趋势的把握能力，使其具备进一步加仓AI相关标的的可能性。文章推测，伯克希尔会优先选择现金流稳健、护城河深厚的AI龙头企业。"
+    },
+    {
+      "title": "AI brings speed to supply chain - World Grain",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XUVZubGJIdXhwRHBmLXlyUnoxX1VmZ0RrZ3R3RFpKRC1nQTBTQ3hmaHdIZ3lobVBSMmVVNmRrTmRWNVhmYk5zVHlYQmRkSDJpSGJmd056UXVqTDFjNktZa2ZWZm9DUmMxZEF6SUhvaVVYRG45dEFmM1pkOF9HZWM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T11:54:42Z",
+      "summary": "World Grain文章指出，人工智能正显著提升供应链的运行速度。借助AI预测需求、优化路径、实时监控库存并识别瓶颈，粮食加工与大宗农产品物流企业能够更快响应市场波动，降低供需错配造成的浪费。报道强调，AI赋能的智能供应链在应对极端天气和全球贸易扰动时更具韧性，是谷物行业实现数字化转型的关键工具。"
+    },
+    {
+      "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Winner Is Down 20% and Clearly the Superior Buy Today - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNeXFGcmJUeWh0N0hhRTlOa2VfV1hwTFFGX1N2MEpzRFQtSnZ3eHBTdEloX3I1blNJVWRDZUR3NmcwWHRBUDVuaW16Mkc4aldZcldDOVM0ellPTVRBc1FHbHRmLWN6UktiNWU3a3YzaW93SkRpTUhyaVA1T2dibjRXWUwzRmtsa040YWxDVk9KVENtMUh1cGpIdlM3LWFuVnc3ZXZwOE50cjBTeTl2TTNPdkZFTGRHRFRwbTdhY18wZk02NWpQcFh6bTkwRmhsdkVWOUdWOEVPR2dZZjZsTS1ieWVvUXVrakpaeUhkQUhuTUtyblpIVjZhQVRkY0xwOV9mdjBSbFNWaUtCUFVKaktpSGxKczFGNFpJRS13?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T11:36:21Z",
+      "summary": "该报道对比了美光科技与闪迪两家AI存储芯片公司的投资价值。文章指出，其中一家AI内存相关公司股价已下跌20%，但在当前估值下更具吸引力，被认为是明显的更优选择。报道分析了AI需求对存储芯片行业的推动，以及两家公司在HBM、NAND等领域的技术竞争，并认为回调后的龙头企业提供更好的买入机会。"
+    },
+    {
+      "title": "A Single Filing Reveals Elon Musk's Plan to Make Artificial Intelligence a 'Winner Take All' Game, Says Top AI Expert James Altucher - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZUlTc1pzTGVVMk9RMzFPQ2lIRW41RnhTUHRFelRweUdLZEt2QTNmeV9mQzRpM0hfVkQzTGdWR215X2NpNDNNMGhka2hNU2Z6TlBvS2lOcFlqdEM1c1JyajZidUYxSEkyWXRNMjRYM1JfRTJPQjlRQkdRc2l3ZVg5LVZBLVJIc2JaMVVjelNvTzM0SHR0MHRscXdjRm12Z1hnbXk2SWJjYlZwcXEtS1NkMXVMLVVGTzdtVDZnZDJRendRUXhqdW9FOGk1VFdMekdaeWZLOGxHeTRSOGV0OXdwTkN3alpqbUt5TnRQa3BQUG5TZDBUS1Q3ekZxOTMwclNKX3FDM1BGNU5wdUVmY0VDSFFRN28ya2lxQ1RuSmltaTRyODJvSUlhZlNB0gGvAkFVX3lxTE5yWW45cU9WMEFhdWpLb0tUblpMZGg1blhYbDhhZF91RFZ1cW1RQ01XcVhEaXRQYU91TFJQU1NoQ0lHejYyaHVmRlFpOHFQa3laYWRiM2JsLTVqZWRnVWFFTVhmeHgtd1pFZXUzSUp3UmdFYUZ5Z0FmSk1DX0JGczl1eWw4N09UbG1ySDlZOFFTR3I0djNBMFM2MGhKZU82dVV0SlhUcHEyT2FWcVp5UFJiTXFEdnJfX0tRbkM2YUtlYU1BLTdSd0F0NW1Rd3ZKZGVSQlRFeXVpMUxEN18xdF9OS25qaS1sZFhLLU1DQ0M0VGZURDJNQml5OEhodGFOdldVOGotTTdBem1EQXlmcVJpX3gxbW5vLXlzVWhuTVZjalNyZEVoZVE1bHRKOHpkVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T11:25:01Z",
+      "summary": "顶级AI专家詹姆斯·阿尔图彻指出，埃隆·马斯克提交的一份监管文件揭示了其将AI行业打造成“赢家通吃”游戏的计划。该计划可能涉及通过大规模资本投入和算力布局，构建一个闭环的AI基础设施体系，从而在竞争中形成垄断优势。阿尔图彻认为，这份文件表明马斯克不只是在参与AI竞赛，而是试图从底层资源上控制整个AI生态的命脉。"
+    },
+    {
+      "title": "Why Berkshire Hathaway Looks Likely to Invest in More Artificial Intelligence (AI) Stocks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSW8zWURTQTZEUksxRWJvUWFFUUdLMXppa0tFTThxN2VqNm5iaEwxUklzRlI4TVh3RnhqT2lnbWVpS3BMaDR3ZUVUQkhHSDZ4QTZ3YlQyYlV1UVB4cGwxbGkySlJmY1RHa1drTGU5X2VUV3dRcWpKQklaVWFzeUhzOGlWVExqNDFabTZHVERFNEVHZzFWNGc5d0lHQVl3a1R4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T11:20:01Z",
+      "summary": "文章分析沃伦·巴菲特旗下伯克希尔·哈撒韦公司为何可能增加对人工智能股票的配置。尽管伯克希尔传统上偏好高现金流和稳定业务，但近年来已开始投资苹果等科技巨头。报道指出，AI正在改变大量行业的竞争格局，伯克希尔可能会通过筛选具有护城河、定价能力和低估值特征的AI公司进行布局，以在保持风险控制的前提下捕捉AI长期增长红利。"
+    },
+    {
+      "title": "In the age of artificial intelligence, professors try to make cheating hard again - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWZGYjZGSlRTUnNHRW83OG5VUXU2dnpSR0RfaG5jaWhpSl85Ny1CenEzUmYxcWdkbzVRQkVzMDkwVjd1ME5Db2V5eEwxU3dnUlFkRmNnOWxiUGVvUDRoWURKNTJDMUw0a2NUWjdyN1pjZWtpbHBIRjI0UnVfenVzcUgwMjh3RFBIQ0RGY05WUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T11:00:00Z",
+      "summary": "随着AI工具快速普及，高校作弊防范面临新的挑战。教授们正努力恢复学术诚信，采取更严格的考核设计，如增加口头答辩、减少课后作业权重、使用监控软件以及鼓励学生展示写作过程。文章指出，单纯的文本检测工具已难以应对生成式AI，教师更倾向于通过课堂讨论和个性化题目培养学生的独立思考能力，让作弊在技术上和成本上变得更难。"
+    },
+    {
+      "title": "Global Enterprise Artificial Intelligence (AI) Market to Reach $206.6 Billion by 2031, Driven by Accelerating Cloud Infrastructure and Agentic AI Adoption - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSi11YklfakFrSmlnMVg3M2dFa3YxbWdOem96Rl84ZHZsVURwZC1pNE9PSldXc3FWU1hKaGU0MC1HTlBCakFic0ZwUk1GMUpLUGZMQ2JOaVZWNlh3Z0ltM25Wd2hEMExncTRuQkhCZVNMOHhlWnZTVl9SQjdiWVlKcEhTUWRSOXQwZDh0emxxQjl5clRPYmM5Zg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T10:57:00Z",
+      "summary": "市场研究报告预测，全球企业级AI市场到2031年将达到2066亿美元，主要增长驱动力包括云基础设施加速部署和智能体（Agentic AI）应用的快速普及。企业正越来越多地将AI嵌入业务流程，从数据分析到自动化决策。随着云服务商提供更强的算力与大模型支持，企业采用门槛降低，Agentic AI的自主执行能力推动新一轮效率提升，带动市场规模持续扩张。"
+    },
+    {
+      "title": "UK parking app to let drivers find spaces using AI - Fleet News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDdRUHVoczhUTXF1SzB3RjRMRlFzQW9BeHhPSFVxMWtRTThLZk43N20zLUI5RFZyNXJLcmpuanVKQ0RkcGN0NWhQWXpMYkFULUxhSmEtaFUxWEU4bE40UTcyaDEwQm10c2xKUmVRSkpmdFJUOGNTTkFNMzB0cVZHZGoweFU1T3pRQmI0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T10:52:30Z",
+      "summary": "英国一款停车应用将引入人工智能技术帮助驾驶员寻找停车位。该App利用AI分析实时路况、历史停车数据以及车位传感器信息，为司机预测并推荐最可能空余的停车地点。这一功能旨在减少城市寻位绕行时间，缓解拥堵并降低排放。报道称，该技术率先在英国多个城市启用，未来可能扩展到更多地区并支持预订和动态定价服务。"
+    },
     {
       "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia - AI News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmctNXVJa0tTZ3BMcnFpakE3aG5aXzZYT3JvOU91dFVXLVlZSjRHQWVHWkx1dEYwYk9IXy01aXhoN2dZYVR6bVE4Zk83Q2pNSGF3NDRWbEI5QlhVYmR2Q0RieV9sbE5qUHNyd0RLeGZWQWw3cjV3S09mcjQyYTlZSXNiRjZtWjZrcUxGbVdEekVXX0E?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-08T10:01:09Z",
-      "summary": "可口可乐在马来西亚启用AI系统优化零售商订购流程。该系统基于历史销售数据、库存水平和市场趋势进行需求预测，自动生成补货建议，帮助零售商精准订货，减少缺货和过剩库存。AI还能识别不同门店的消费模式，提供个性化推荐，提升订单处理效率和供应链响应速度。此举标志着可口可乐将人工智能深度融入渠道管理，以数据驱动方式提升经销网络运营效率，降低人工决策偏差，为快消品行业智能化转型提供参考范例。"
+      "summary": "可口可乐公司在马来西亚推出AI驱动的零售商下单系统，旨在提升B2B订单效率和准确性。该AI工具能够分析门店销售历史、库存水平和消费趋势，为零售商提供智能进货建议和自动化补货流程。此举帮助小型零售商减少缺货或库存积压，同时增强可口可乐的配送规划和客户粘性。这一部署是其在东南亚推进数字化供应链的组成部分。"
+    },
+    {
+      "title": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No - The Intercept",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oUW43RU1iMjhJdURoS1JpcV9tZW5vSUkxc2FkZzlvVUh3M1hxWGNWcXNOS19RVmYtd0I1VXVyWk5DTEx0LWpFVE15bFg4a0syUUFEVl9mYmxDQ2c1QVlyR3hXOTZmQVR5dS1FRU5XMjZmT3NHNXRUVlF3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T10:00:00Z",
+      "summary": "《The Intercept》报道，五角大楼曾要求OpenAI开发一种“极少拒绝请求”的人工智能系统。这一需求与AI公司常规的安全对齐原则相冲突，引发对军事AI伦理的担忧。报道透露，相关方案可能涉及降低AI对敏感或危险指令的拒绝率，以提升任务执行连续性。此举引发关于大模型在军事场景下被滥用以及责任边界的激烈讨论。"
     },
     {
       "title": "Do AI recommendations beat a vet’s? Here’s what pet owners say - Digital Information World",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnVfTXNuY1lKcjZMQWg4dFJTUUh1LVJxX2I2dnF2dnlidEVVai1fUDZjNTRXUkZhZVNOb0huVWs5TEhmcGVyVmFUWWZtNnpKbkxMRTMyb1FDTFpJWW5EeUpFYkhOSjJ5aDFaOEdmYTlsMUFDTENSa2plYmJ2NV9wcEdiWTZOV0tmejdKdXdqZ2FHSnpRekJRN09aWjNURmF1ckUxb0V0Z3NBWl83X1MwVHlxdHEweUY1Znc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-08T09:51:00Z",
-      "summary": "关于AI建议是否胜过兽医，调查显示宠物主人态度分歧。部分主人认为AI在常见病症初步判断、饮食建议和费用透明方面更便捷，但多数人仍更信任兽医的专业经验和情感互动。AI无法替代临床检查和拟人关怀，尤其在复杂病情与紧急状况下，兽医判断更具权威。结论是AI适合作为辅助工具提供参考，与兽医服务相互补充，而非取代。该议题反映AI在医疗垂直领域的应用边界及用户信任成为关键挑战。"
-    },
-    {
-      "title": "When Artificial Intelligence Becomes Witness: Who Bears Responsibility For AI-Generated Evidence? - livelaw.in",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS0I2eVlTZG1NenR1M2MxZ3NTMGxZelJsYld2d0tpNVJjOFVaV0VOMlZrMzhJbmVCSFN6Qy1QVVlNOXZmU3c0LXg0MTVzZzlXQUY1bG4tZmdmOWRLQ19lZ3g4Mzdpak00bmVVOXdjME56a2d2NDB4b1FsRFFYc0dHckZIUGVNMnJHZEp6dnBnUnU2cFdYeGNjZWVlT29waVktRGNtN2NoTEd4b01HYlVCLTZwZHZZbEc10gG-AUFVX3lxTFBERjdidFFoRjNmSVlMV0xjeEg1b0M5NnNTOW1LNldrM2JTeWtuV2F6MHR2VlY2Ni1uY256RHVuTUd5WFJMYTBGUjVYdVJkbHczdk5kakZqN05aSDVXaV85bDk3ZzNYOTV4WkY5amQ1UlU3Mndza05oUnE0SjRjNm13ajE2bG5kQ2JUQUpOS21jYkNhTDZzLXBhREZHelBzSnVWUXZPSnNOR1NBZGdCZkhzaTd3VTJiSDBOYlJvNWc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T09:30:40Z",
-      "summary": "AI生成证据进入司法领域引发责任争议。当AI成为“证人”，其产出的证据（如深度伪造、自动分析报告）真实性、完整性和可追溯性均面临考验。核心难题包括：算法错误由谁负责——是开发者、使用者还是部署机构；如何审查AI生成内容是否符合证据规则；以及是否应赋予AI独立作证主体资格。法律界倡导制定专门规范，明确证据生成过程中的技术标准与责任分配，建立可验证的溯源机制，确保司法公正与算法问责。"
-    },
-    {
-      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0FTamt5T3cxNTd6VERMZk9GUUpGRjJxRkQ5b1NOcTRWVmJrMExkbzI1YXZhXzU2dFNFN0huMmRqU0NxWFpEYXFKdldNdWJQZzV6YXNlR3haTVIyNEdpM0wyX1FsOXAwbUNmZmgtWEttU2JrQjgwUDVGNkpZWWZjOG5xQXdRMXNQVUp4cUNTMVBEal9pdjRvdXI0Q3F4dk92QWxqZ1NjTHFtWERscmg3T0NVVmRzTm5paWNuMzVmNTdtVmNrWkxIWVF3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T09:19:12Z",
-      "summary": "一项研究发现，谷歌AI概览中53%的维生素和补充剂相关搜索结果显示YouTube视频链接。由于视频内容缺乏同行评审与医学权威监管，可能传播未经验证的健康信息，甚至影响消费者决策。研究者担忧，YouTube推荐算法优先考虑互动率而非科学准确性，容易导致误导性言论扩散。该结果凸显AI生成摘要的信息质量与平台责任问题，呼吁搜索引擎加强内容筛选，引入权威医疗来源作为可信信号。"
-    },
-    {
-      "title": "\"The path to prosperity through artificial intelligence (AI), the answer is Co-Intelligence.\" Maekyu.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52c091SS1PamVRUGVxVDlJeFhRTFBNd2UtUnVLNHU3b0t3M3pZd3V2MG9YUGdFMmpVQkFaQW5hV09oVUk4MEx5SldkSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T09:09:15Z",
-      "summary": "韩国《每日经济》刊文指出，通往AI繁荣之路在于“共同智能”（Co-Intelligence）。文章认为，单纯强调人工智能替代人力的范式已过时，真正创造价值的是人类认知与AI计算能力的深度融合。通过人机协作，员工可专注于创造性决策，AI则提供数据洞察与重复性任务处理，形成文化、伦理与算法相互校准的协同体系。Co-Intelligence被视为提升组织生产力和社会福祉的关键路径，也是应对AI时代的战略答案。"
-    },
-    {
-      "title": "The generative artificial intelligence (AI) revolution is already in full swing, but the physical A.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96cDk3R19jU2lUMDN2VmlxYkdSVkExYThDRUhYMVBmVGxPaTlmeWhPQ0hELWFINjlSUjdQQllJQ3NFVEVNZWRvU2MxMA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T09:02:59Z",
-      "summary": "生成式AI革命持续推进，但业界目光正转向“物理AI”（Physical AI），即能够感知、理解并与物理世界交互的智能体。与仅处理文本图像的生成式AI不同，物理AI结合机器人技术、计算机视觉和强化学习，可执行制造、物流、家务等实际任务。专家认为，物理AI将数据与具身经验结合，具备更广泛的应用潜力，但同时也面临硬件成本、安全性与实时性挑战。未来AI竞争正从数字世界延伸至三维物理空间。"
-    },
-    {
-      "title": "Amid the remarkable development of artificial intelligence (AI), the issue has now gone beyond the a.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkN0dxU0hZZElial9mMHNLNm16Z2NpR3RYUXZpUDVNM2V3MEhuaGZZd2NYT0RtWXZlV2NXdjBSdjdTb3hWYm03cFgxcw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T09:02:53Z",
-      "summary": "随着人工智能显著发展，相关争论已超越技术本身，转向社会制度、伦理规范与人类身份认同等深层议题。从生成内容真实性、自动化决策公正性到智能系统权力边界，AI正倒逼法律、教育和福利体系全面调整。如何界定AI行为的道德责任、防止算法歧视、保护公民隐私，成为各国政策制定的紧迫课题。舆论强调，AI治理需要跨学科协商，确保技术红利公平分配，同时防范“技术至上”对人文价值的侵蚀。"
-    },
-    {
-      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3 - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzlCM29XSnRSNHhvRzJrdVJLVGVNZXZEQmh5RjlTcXV4WUl4Y0I2bzgxZkpoSzN0LVMtVHIzS0V3M19aTHlsMndKcDYzYnhkRF9ic0xWWXZGMlh2WjJoQXlmVlNrZ2xLSTZabmR6V1pFOFdkUENyMnAwdUNpNlpGX2dIaGN2V25VTTRDZ1B2dk83ckM1UWk1T0NYT045LXNWbHc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T09:02:03Z",
-      "summary": "谷歌发布WeatherNext 3，将AI天气预报引入能源市场，目标客户为电网运营商。该系统利用机器学习处理海量气象数据，提供高时空分辨率的短期负荷预测和极端天气预警，帮助电网优化调度、平衡供需，并提升可再生能源并网效率。相比传统数值预报，WeatherNext 3推理速度更快、成本更低，且支持概率预报以量化不确定性。此产品标志着谷歌将AI能力从消费场景延伸至关键基础设施，推动能源行业数字化、智能化转型。"
-    },
-    {
-      "title": "Artificial Intelligence (AI) Transformation (AX) is a much more fundamental change, a far cry from - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYUkNyUUNWYUx0cGdrUTY0bU1iM29NWGNqMko3UDhsY3FINE1EWWNEbk45dDlaSFlvZmhVZUVQeEw3eDFaQTRzdk8ycw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T08:48:49Z",
-      "summary": "AI转型（AX）被认为远比数字化转型更为根本。数字时代的焦点是将流程电子化，而AX则要求企业围绕数据分析与自动化重构战略、组织和商业模式。AI不仅能优化既有流程，还可催生新业务形态，使决策体系从经验驱动转向智能驱动。文章指出，企业若只导入AI工具而不改变管理哲学，难以释放真正价值。AX需要领导力变革、员工技能重塑及算法伦理治理，是一场涉及企业基因的深层革命。"
-    },
-    {
-      "title": "As artificial intelligence (AI) rapidly penetrates into human work areas, the game industry is beari.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lUF9DQ0ZrUThxRnRsZ0JIeVBKREtmOVd0RmhzeER0dWlrWExXZVJMaFRPaHFoeWZULWVaSTF4SXZ1TzdzZGFkM0Z4dw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T08:48:48Z",
-      "summary": "随着AI快速侵入人类工作领域，游戏产业正首当其冲经历深刻变革。AI已能自动生成角色、地图、剧情与配音，大幅缩短开发周期、降低成本，但也引发对原画师、编剧等岗位生存的担忧。另一方面，AI驱动的高智能NPC和动态剧情为游戏体验带来突破。行业处于观望与行动并存的阶段：既要善用AI提高创作效率，也需保护创意工作者的权益，并通过法律法规与行业自律划定人机分工边界。"
-    },
-    {
-      "title": "The House Democrat who's making AI regulation her No. 1 priority - Politico",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWHNGVC00NFBFSFNvVDN3cnJfU0ZkUDJBV01WX003akNlZmF5U1NwVUw3OUc3a2lqT3ZFMkZTTzk5Qm51YjFUTzlqa3BSMzFaamtXaE8yZ29GODR6Q0xSdVFrTzJQS1k1Vk1LLU56UGROWG53NkE3UHMxRkFTaXdzMg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T08:45:00Z",
-      "summary": "据Politico报道，一位众议院民主党议员将人工智能监管列为其最优先立法事项。此举反映出美国国会内部对AI技术快速发展带来的风险日益关注，尤其是隐私、偏见、就业及安全等问题。该议员计划推动制定更全面的联邦AI监管框架，强调在促进创新的同时建立问责机制和透明标准。报道指出，随着两党对AI治理的分歧加深，这一立法努力可能成为未来数月国会辩论的焦点，并影响美国在全球AI治理竞赛中的角色定位。"
-    },
-    {
-      "title": "The era of \"AX (Artificial Intelligence Transition)\", represented by artificial intelligence (AI) an.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xN0kzaFpsWWVnTFdVRVplS1pjeXBGeWYyZTNrcVJveUNET3RPUENEQzdzV1FJeWtHUnB1MnVuelZkZWZWZGllekowVkQyWmNkWDRyWWJjaXU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T08:39:48Z",
-      "summary": "韩国《每日经济》发文指出，以人工智能为核心驱动的“AX（人工智能转型）”时代已经到来。AX被视为继数字化转型之后的新一轮产业变革浪潮，其核心特征不仅是引入AI技术，还包括企业组织架构、业务流程和商业模式的全方位重构。文章分析认为，AI正从辅助工具升级为引领企业革新和经济增长的关键力量，各行业需要制定系统性战略以应对技术变革带来的机遇与挑战。"
-    },
-    {
-      "title": "Just under half of AI users have a negative opinion of its quality - bluewin.ch",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYklGUGtoQmhESmJFeXgwZk9hcVA1MkJ4aU12ZHhXRW1IeV9SbzVlSXFDS2VwRXk2TExkeWN2dHZYQWNVdEwzZDJIRkJkNURTY05IelRVeXFQcUx3blVEb2VCdjJWTXJYYTZpdjhabXN4ZnNDVDBHWmY5aXpnMjRFM09OaUNCZzFkQTNMUVRlUWR1amp4MmFRdk16cExTLXRXZXRQeXJVWVpYYjZm?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T08:31:27Z",
-      "summary": "瑞士媒体bluewin.ch报道称，一项调查显示，近半数AI用户对其输出质量持负面看法。这表明尽管AI工具应用迅速普及，但用户对准确性、可靠性和实用性的体验并不一致。报告指出，常见的抱怨包括信息过时、生成结果存在错误或偏见、以及处理复杂任务时表现欠佳。业界专家认为，提升AI模型的可信度、透明度和上下文理解能力，将是下一阶段技术迭代的重要方向，也关乎公众对AI的长期接受度。"
-    },
-    {
-      "title": "Apple expands AI and engineering hiring in India, report reveals focus on advanced tech - ET CIO",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNVjZPeE9PZ1k0OU9fWEVlaGlpdy1zazN3LTFzQ2pOcnBhV3lqZ0p5bG9vdUZZQkFham1aVWZPOFJmUnI5VWdNaXFVN1M5VUdzTzhKQ3dpYUpHbUZyNTZwbVBoblhIcno4cEF1LVRGUjkxd0VEay12bzV1Q1I1NlZPVHdRU1NtY18yNWVRUVNaWkJKS3UwME9wZWlXQ0UzakhDdGNkODB1VkJGLW5tdDF0LWxvTXJZWF9URG40WG1jYXlWMXlQdEExZjVXcnpGU01ZQkhzVS11cmZIUVJJeVdWaExRX3o4WHlmc01QVldBcUY5MzNVbTF0V0dXY0ExbnN4Q3dHNlhLaHF3ZmZBeWVrNDc0UW0wcDdNeG1PQmtMZlU1NldYOF8tTzNfOXo1Mk9UNGt5dF9POXloTTlRYWpYN3p30gH_AUFVX3lxTE10aXhHcDJERlRBd0tZRjVoM0tSd2N4cXJOLVY5OHVBT3Jjbk1BNHNGajAxQkNTS0VfOFgtYzZEMGxQRHRhSFZiYWYzSzI5ZVhsNmhBOEZHRkstakxYZDQ4NEpDYS1DSDUyNG1abHdVN21oSTBYdXVJNnJlaVdmM0Jyd3BXQjhwUTFEZVZYaWZtbVh3c1hmd3U2MjdGaXNzWGJFSFZGQ3ZoZUNWZWNDT093Nlp1MG5NVVZXRm82MUV4UDU1OXVUbmo2UHRfSEtNUlBsbjZ2ZVB1dkwwb1R1Wl9JLWwyLUVpUEFhWWYwOHZjbTU0bmxFbjNWSVpSNVVscw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T08:30:00Z",
-      "summary": "据ET CIO报道，苹果公司正扩大其在印度的人工智能和工程技术岗位招聘规模，显示其对印度作为先进技术研发中心的重视。报告称，苹果的招聘重点涉及AI/机器学习、软件工程、芯片设计等领域，旨在强化在印度本土的技术能力建设。此举顺应印度政府推动本地制造业与高科技产业发展的政策方向，也表明苹果正逐步将印度纳入其全球创新供应链和技术生态体系的核心环节。"
-    },
-    {
-      "title": "King to host 'exclusive' gathering of AI chiefs in Scottish summit - The National Scot",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRVIxVmhBUGhlTWRNTDdSczJ3b2hHalNYOHNqRGVrNUhrdDNCR01MN21kWWw3MW1MSnVFaFFaRi1yM0ZER0ZfeWQ4T0sxQlN4WWRQVlNRUGVBME9lNmF1TjBpa2FNWmFfSk1lQWl4dnU1V00yMHNOZ2pYQ0NRTDQ1UVNQLXZDUnhRaFlSc1J2TVY?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T07:41:20Z",
-      "summary": "《苏格兰国家报》消息称，英国国王计划在苏格兰举办一场‘闭门’峰会，邀请全球人工智能领域的主要企业负责人和专家参加。该活动被描述为一次精英阶层的高规格聚会，聚焦AI安全、伦理治理及全球合作等议题。据透露，峰会或将为未来国际AI监管准则的形成进行非正式磋商，同时彰显英国在推动负责任AI发展方面的领导意图。具体参会名单和议程细节尚未完全公开。"
-    },
-    {
-      "title": "Is AI eliminating the first rung of the employment ladder? - 1News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ21uZFdUbWQ0T2haa3lfcUNKMmVNS05FakRPTVVOSmhwZG5nQzVWeDVBV0tUaktGQTFkVVRxeHVaTGFBNU5EM1Zibnk1RnI4SWNfM1dZVjUydXRfcjJOelEtV1A2aWR1MTVSNVVFUWt2VnFSY1MwWTFkWW9VLXlkQm1UVk1IVjJCY1FqQ2dSRFZDeld1Z2w2WQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T07:25:37Z",
-      "summary": "新西兰1News发表评论文章，探讨AI是否正在消除就业阶梯的‘第一级’。文章指出，许多企业开始利用生成式AI承担初级岗位的核心任务，如数据整理、内容草拟和基础客户服务，导致大学毕业生和入门级劳动者更难获得积累经验的传统职位。分析认为，若入门通道持续收窄，可能加剧经验和技能断层，并迫使教育体系与企业重新思考职业培养路径。专家建议采取政策干预与技能培训改革，以平衡自动化效率与人才梯队建设。"
-    },
-    {
-      "title": "French AI company Mistral hits $24 billion valuation in funding round - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T05:02:00Z",
-      "summary": "路透社报道，法国人工智能初创公司Mistral在一轮新融资中估值达到240亿美元。该公司以其开源大语言模型和前沿AI研究而闻名，被认为是欧洲在AI竞赛中的代表性挑战者。此轮融资得到多家全球知名投资机构支持，资金将用于扩充算力基础设施、扩大研发团队并加速商业化落地。分析人士指出，Mistral的快速增长反映了欧洲市场对美国AI巨头之外的新兴力量的期待与信心。"
+      "summary": "一项新调查询问宠物主人是否认为AI推荐比兽医建议更可靠。结果显示，一部分宠物主人会因费用或便捷性使用AI辅助诊断，但大多数仍更信任兽医的专业判断。AI工具在常见症状检索和日常护理建议上有帮助，但在复杂病情、个性化治疗中易出现误解。受访者普遍认为，AI可作为参考，不应替代兽医面诊。"
     }
   ]
 }
