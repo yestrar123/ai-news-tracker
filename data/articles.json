@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "4463",
+      "title": "The Anchor And The Scale: Germany, India, And Applied AI – Analysis - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUy00RjlvYzY3cVdtcU45OWVBUW5zWkQySGN0dHVIeTFBX0tzNllKX1VUYmsyTElsQ014OVpDMmM0T1ZYUXZpb3p5bTdIQmtFZndRYWZUMVplbWRtaU5YaVpSLXh1MzlSNVRDT2R5OW94eGFRcFlfMWJLRnduV3ZuVDVSVHpJTXAtV185VmhmeDY0X1BwdjBhTzZLS2lXTm5nbm9IcQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T00:27:09Z",
+      "summary": "Eurasia Review发表分析文章，以德国和印度为案例，探讨“锚定与规模”在人工智能应用中的对比与互补。文章将德国视为“锚”——指其工业基础深厚、制造业发达，强调AI在工业4.0、工程精密制造和高质量产品中的落地价值；而印度则被视为“规模”——凭借庞大的技术人力、软件服务生态和数字化市场，在AI解决方案的规模化推广、成本效益和全球化输出方面展现优势。分析认为，两国在AI发展路径上各有侧重，但彼此可形成合作：德国提供行业场景、数据质量与工程标准，印度贡献算法人才、开发速度和市场规模。这种互补关系可能塑造全球AI应用的新格局。",
+      "fetchDate": "2026-09-08"
+    },
+    {
       "id": "4458",
       "title": "UN rights chief: AI poses existential risk to humanity if left unchecked - TheCable",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGl1YUdPR2dZTXYxS0VfUktvSzA2YUJ6ZU5VMy1xM3p5NFJ4Q2dPWV84NWFULUpNbDg1WnpONmVFaC1JRVNhWTlOQ3VzNWtMZHctNEN1di0zbGU5RlVrTmQzSXBXLWt0X2tPY1laYUJOaHdISDNlakVjVDhNaHprVjUwVWVXMUVaU0VncmdFaHRRdHgyUm10bmsySGg?oc=5",
@@ -40150,5 +40159,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4461
+  "total": 4462
 }
