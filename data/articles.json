@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "4464",
+      "title": "French AI company Mistral hits $24 billion valuation in funding round - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T05:03:44Z",
+      "summary": "法国人工智能初创公司Mistral在最新一轮融资中估值达到240亿美元，较此前大幅提升，显示出资本市场对欧洲AI赛道的高度关注。Mistral以开源大模型和高效推理技术著称，被视为OpenAI和Anthropic在欧洲的主要竞争对手。本轮融资由多家投资机构参与，资金将用于扩大算力基础设施、增强研发能力并拓展企业级AI服务市场。分析人士认为，Mistral估值的快速攀升反映了全球AI投资热潮仍在持续，同时也凸显出欧洲在构建本土AI生态方面的决心与潜力。",
+      "fetchDate": "2026-09-08"
+    },
+    {
+      "id": "4465",
+      "title": "PR roundtable to interrogate AI in public communication, information integrity - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFZJaTJQcHhfdlc3ZFVpeklyRWxzT2ZHOENWMEZTZHNadVR3WGtLY1ljNzFvdHRDZThyMDVLbEJ4WHBta1ZkNUVIS2FIUk5BQmFrRTFIVEpvSlM2SHhtSnJwUGhRMkJVZUZqSWdaMW56eUd3eUxWODA1TExXQlhBUmh1RzlDcUxNUExHOHlDaEJFT0xmckNUcVctaTJyZjFXblpwd2VzZkZlbFFKYlVrM2xNaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T04:00:00Z",
+      "summary": "尼日利亚《卫报》报道，一场聚焦人工智能在公共传播与信息完整性中作用的公关圆桌会议即将举行。会议旨在探讨AI技术如何影响舆论生态、虚假信息治理及公共关系行业的伦理边界。与会专家将围绕人工智能生成内容的识别、算法透明度、传播责任等议题展开讨论，并寻求建立兼顾创新与信息诚信的行业准则。随着AI工具在媒体和传播领域的广泛应用，如何防范深度伪造与操纵性信息传播成为全球性挑战，此次圆桌会议被视为非洲语境下对AI治理议题的重要回应。",
+      "fetchDate": "2026-09-08"
+    },
+    {
       "id": "4463",
       "title": "The Anchor And The Scale: Germany, India, And Applied AI – Analysis - Eurasia Review",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUy00RjlvYzY3cVdtcU45OWVBUW5zWkQySGN0dHVIeTFBX0tzNllKX1VUYmsyTElsQ014OVpDMmM0T1ZYUXZpb3p5bTdIQmtFZndRYWZUMVplbWRtaU5YaVpSLXh1MzlSNVRDT2R5OW94eGFRcFlfMWJLRnduV3ZuVDVSVHpJTXAtV185VmhmeDY0X1BwdjBhTzZLS2lXTm5nbm9IcQ?oc=5",
@@ -40159,5 +40177,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4462
+  "total": 4464
 }
