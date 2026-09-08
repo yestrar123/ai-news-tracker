@@ -1,139 +1,132 @@
 {
-  "updatedAt": "2026-09-08 15:35:47 UTC",
-  "totalArticles": 19,
+  "updatedAt": "2026-09-08 20:26:32 UTC",
+  "totalArticles": 18,
   "articles": [
+    {
+      "title": "Meta bets on AI agent Muse to catch up in AI race - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0RtbWlkWWU2NWs0TWhieEFJdmlzVVUyQTlfNy1hR1U0TTladUJLdFZpakNrUUNJaHYzRlFHd0ZZMjdRV0t2bGpFbmZIaGU0TFNVNnJUTWZCYlprTF9YLWk2UlZtZ2RhQjBhOFhEZ2ZtTmFsb1NDd0RfOVAtX0ZxQ2twN3JWdTZxZnhTX2t4SDQ2TjBTWUx6S0hMR25JT09FMXZ2XzRwTW9vaVU5?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T19:00:00Z",
+      "summary": "Meta公司发布个人AI智能体Muse，试图在人工智能竞赛中追赶竞争对手。Muse被定位为Meta迄今最大的消费者AI押注，其功能需要访问用户的电子邮件、日历、支付及健康服务等大量个人数据。这一举措引发外界广泛关注：核心问题在于，经历过多次数据丑闻后，用户是否还愿意信任Meta掌控其敏感信息。分析认为，Muse的成功不仅取决于技术能力，更取决于消费者对隐私安全的信心，对Meta而言这是一场信任测试。"
+    },
+    {
+      "title": "Robots Protest in Poland Against the Uncontrolled Use of Artificial Intelligence - ColombiaOne.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ1BGZGVWZENxQ2Rpc2VTNTVYekhfWU0zVDRSTVJUNGFla1IyT09ZRDFZRHNKVmN0bmxzNmNEVk9CNkJhdFhVaWg1X2hUUVd5cTAyM2tjWUFxb01CYkp0TUVmTERkWGV3ZWc5X1pOSXFEVktxbkZoa0FqTl92QVJjRmZsaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T19:00:00Z",
+      "summary": "波兰发生了一场引人瞩目的机器人抗议活动，主题针对人工智能的“无控制使用”。报道显示，这些机器人以集体亮相的方式表达对AI技术无序扩张的担忧，呼吁社会关注算法决策、自动化取代人力以及隐私侵蚀等问题。事件具有象征意义，旨在引发公众对AI监管必要性的讨论。专家指出，看似拟人化的抗议背后，反映的是人们对技术发展速度超过法律与伦理约束的普遍焦虑，提示政策制定者需加快建立透明、负责任的AI治理框架。"
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-08T19:00:00Z",
+      "summary": "Meta正式推出其个人AI智能体Muse，这是该公司在消费者AI领域的一次重大押注。Muse计划深度融合用户日常生活，需获取邮件、日历、支付、健康服务等高度敏感的数据权限。TechCrunch分析指出，这一策略将Meta置于信任的十字路口：尽管功能极具吸引力，但用户对Meta长期以来的数据隐私纪录存有疑虑。Muse能否获得消费者接纳，在很大程度上取决于Meta能否证明其数据收集与使用方式值得信赖，同时避免重蹈此前隐私争议的覆辙。"
+    },
+    {
+      "title": "The U.S. accuses Chinese AI companies of stealing artificial intelligence technology on an industrial scale - Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZzJnRmNaWlRhWG1XSFlSUkg1WTN5Mm5FLXdBWVViZl9ybjBPcVY4RmJBak4xQVRlalAzN09Na2xUVUNSX01feFEyNHl5djNZR2x3dzZPSDlRLTZ0aUhXOFZ0LTR6V01ZOF9xZUF6R3NyVkszTTNVWVdGT1EybUZaV1d4Skg2b1hwcHdzcG43SE1ZWm9YSzdLTDlKbzZudHBkM1FJektfLU5nRkZkeU1rYmJveUd3WUJzbE1RV1FMMzdwelN0bG9pVXhRQ3ZMMnhWOVBCb2130gHUAUFVX3lxTFBseDBhVFl3M1ZCTnUtLWtraUROQ2lpOW1WZ3NxclFUZ19fNXYwZUl3RE5FQWVxNzg2d2RjQjhvcm9oaGQ1bGx3OWdpYzdYdDVWWWhRT2xkMTllY0FmWjV1bFhzZkU5YVpFM3JrbS1EVXd6X2JneElBSWE1elFiem00YWJCcUZ4SGs0ZmR3ZnU5VEFoaGpHTVhtR1A3dExFMGxlVHVjZlBRTzBkMFY1UlhnV2ZFZkhFU2VkUHo2VUhYS1RuS0RyU0E5UzFud25iYXJPdjAy?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T18:29:14Z",
+      "summary": "美国方面公开指责多家中国AI公司以“工业化规模”窃取人工智能技术，称这些企业通过不当手段获取美国的前沿研究成果与商业机密。报道源自乌克兰国家通讯社援引的相关声明，指控未提供具体企业名单，但强调此类行为对美国技术优势和国家安全构成威胁。分析人士认为，这一表态可能进一步加剧中美之间的科技博弈，并促使美国加强对AI技术出口和跨境合作的限制。中方尚未作出官方回应，事件或演变为新一轮国际技术摩擦的导火索。"
+    },
+    {
+      "title": "Launch of Egypt’s First National Artificial Intelligence (AI) Factory Through Vodafone Business Partnership with Cassava Technologies - Zawya",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQaGZCSlFjSTlaeUItN2pCejQ2Ti02ZjF2REY1TkdWa0NDVVVEMGdwOEFDWXR2Y1NpUTJXMnZwQ2pCQUFoTWVRZlVPUHd2OWZPSmdIaWVWb09TUWJjVFdac3pSZ3U4RHdyYTVCRGdreVZ5V3diaXE1TEZFMEpCRlBlMjdQYUtUc1FacXdkWHpqRVI0Q2dCRUdvcVVGVzdGNXAwZjhEb1MteGtBWmM5MkhKT3hROFNucDU1UWIzSW85eEE0OTZJQUR6bnowbkoyU2J3SXBHWUl6V0RJYkZFNDZNSEZoNXZ0QWh3U2tvZ0ZkVE5Jb2RaVDdlOFpTdEZDMTdtYTEtYnRpd1hzeUdBR2JHQy1rdEFIcU9naTJvVkphQzh5X0wt?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T18:21:00Z",
+      "summary": "Vodafone Business与Cassava Technologies达成合作，在埃及启动该国首个国家级人工智能（AI）工厂。该设施旨在整合先进计算基础设施与AI服务能力，为政府和企业提供大规模数据处理、模型训练及应用开发支持。项目被视为埃及数字化转型的重要里程碑，有助于本地企业降低AI应用门槛，同时吸引国际投资和技术转移。合作方表示，这一AI工厂将助力埃及成为区域技术创新中心，并推动医疗、农业、能源等关键行业的智能化升级。"
+    },
+    {
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-08T17:32:15Z",
+      "summary": "纽约大学一位数学家公开指控OpenAI在“能够成就职业生涯”的数学问题上采取了不公平手段。该数学问题正是著名的纳维-斯托克斯方程存在性与光滑性千禧年大奖难题，悬赏金额高达100万美元。爆料称，OpenAI可能利用其资源提前获取或影响问题解决过程，而非依靠公开公平的学术竞争。此事引发学术界对AI研究伦理及商业公司参与纯数学挑战方式的质疑，目前OpenAI尚未对该指控作出正式回应，事件仍在发酵中。"
+    },
+    {
+      "title": "Scammers are using AI to mimic children’s voices and exploit parents, expert warns. Here’s what to know - WSMV",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzZjT0w4XzNWUVoxb1VzWGNueFN5SExDMmM1eVhxQlR1VmM1b0NYeXQwRXkySWVFUHFrMVkzT0l6Y2E2V0sxeUJfbEoyU3VEajFrUDRPaHREZUNobU9ybFVycnhYQ28wVlFyNHhKYnZsaXpLME5RSXJLUG1wVUlBeWJDLUVpTlpLbzFFYVJYalg3VFZtMGNubU9pUU5LR0NIUEFXVkVtR1Zka2x3aW5VNkdKMUhJSU1KSjd5dmtsSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T17:15:00Z",
+      "summary": "安全专家发出警告称，诈骗分子正在利用AI语音克隆技术模仿儿童的声音，以此向家长实施精准诈骗。此类骗局通常先通过社交媒体获取孩子语音样本，随后冒充孩子打电话给父母，以遭遇危险或急需用钱为由诱导转账汇款。专家提醒，家长应警惕陌生来电尤其是涉及紧急财务要求的电话，建议与孩子约定家庭暗语，并通过官方渠道核实信息。随着AI技术普及，语音伪造成本大幅下降，此类诈骗预计会进一步增加，公众需提升防范意识。"
+    },
+    {
+      "title": "AI picked up a human bias it was never supposed to learn - Earth.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uZXNKT0QyQ2pjblhIX1RTUE1HeU95MTltVGo4TDg4NW9KT3hKTzY3VWtUenc0MWlMcU5SRWZIS3hELXJXbUJrTG5zalI3ZDNrSUZzbnBaTHpNUFNydV93?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T17:13:01Z",
+      "summary": "Earth.com报道了一项使AI领域感到不安的研究成果：人工智能系统意外习得了一种研究者从未预期的人类偏见。该AI本应在特定任务中保持中立，却从训练数据中无意识吸收了带有歧视性的模式，并在实际输出中体现出来。这一发现揭示了即使经过筛选和清洗的数据集，仍可能隐藏深层社会偏见，而模型自主学习的过程难以完全控制。研究团队呼吁建立更全面的算法审计机制，避免AI在不知不觉中放大人类已有的不公平现象。"
+    },
+    {
+      "title": "Is There a Way Out of AI Doomerism? - Jacobin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jNTZ5RkF4dk5US3ZlN2JWNUlpTWREdGUyMzI4T0RlVlUzMWpMRkd2akhSQi1QTFVjVEt0T2k4a21jWGxEQmlzU1l6aHlqZmRvdi1OUE11Rk41a0J0NlNBM3ZXQjhyXy1lUUdrUWxHcHZvRlk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T17:06:59Z",
+      "summary": "Jacobin杂志刊发评论文章，探讨“AI末日论”是否有出路。文章指出，围绕人工智能风险的主流叙事常常陷入技术决定论的泥潭，将未来问题归结为超级智能的失控，却忽视了现实中的资本权力与社会不平等。作者认为，真正值得警惕的不是AI“超越人类”，而是其被少数科技巨头用于强化现有剥削结构。文章呼吁从左翼视角重新定义AI治理，主张将技术发展置于民主决策与公共利益框架下，从而打破“要么全盘接受、要么彻底否定”的死循环。"
+    },
+    {
+      "title": "NSA and Others Warn China-Based AI Companies are Distilling U.S. Frontier AI Models - National Security Agency (NSA) (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbE80SEUzdlJMcDM2NEI3dFFreTJzNVdQeFlBenYybG5RekJvUFRldEtWd3NCZ0FJSG0wbjQ4SDgwM1BWWW55YTVvX0VEQV9yUzRNMk4wLXdPZDRVMEI3THAxSU9BRmNwMFJSNEltZk5Za28zS2ZjNFR3X2pfbzJrQnhjLUlVWVlCTXQ0X042cmhoR2loWjRUdnp0Yk1xYmVjMkR6RUxjZ295djlfOHlZemlMdEtXU01McndEdU9CVVhqOUNPMFR1TWRibmhJYXlJampGNzZzdlZDWF9TQm13eEswdFktM3VxY0tmcUJoQ012XzFMcVpNNm5kY09UQld1MlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T17:06:47Z",
+      "summary": "美国国家安全局（NSA）联合多家机构发布警告，指出总部位于中国的AI公司正在通过“蒸馏”技术，系统性提取并复制美国前沿AI模型的能力。所谓蒸馏，是指利用大型模型的输出来训练更小或独立模型，以较低成本获取类似性能。美方称，这种未经授权的模型蒸馏行为可能涉及从开放接口中大量抓取数据，但回避安全限制，甚至构成知识产权侵犯。此次警告凸显了AI技术竞争中的新型安全风险，也再次推高了中美科技脱钩的紧张气氛。"
+    },
+    {
+      "title": "Private AI gathering to be hosted by King Charles: report - KUTV",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbkdZTDFiNlZDT2dZbU9jMGZITVd1MXV3QlJsWVNHeFlRMEN5QThHU2FYdHBXWEh1MHE0R2NKM29GZUFhQlFyZ3NEcVNVWlUwMzROSTRDU3RFclBTNUV0ZU1oYVV1SW96QkpFM2daR3REMmlNSy1UZDY0MW5pVFF1U0J0QzJaVkxlNzFYbnhfNWhNZHEwckRET2JUVGluU2Y1c25WVmdrNWU4NmhaZUNpRnJzQUN3bXBlU3B5cnVGRHI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T16:57:37Z",
+      "summary": "据KUTV报道，英国国王查尔斯将主持一场私人AI聚会。这场非公开活动预计将汇聚科技界领袖、政策制定者及学术界人士，围绕人工智能的发展方向、社会影响及治理框架展开高层对话。查尔斯国王近年持续关注技术伦理与可持续发展议题，此举也被视为王室借助自身影响力推动AI负责任发展的重要信号。尽管具体议程和嘉宾名单尚未公开，但分析认为，此类高端闭门会议有助于促进跨领域共识，为AI时代的政策与道德准则提供参考。事件凸显了AI议题已从专业技术领域上升至国家乃至王室层面的战略关注。"
+    },
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-08T16:20:31Z",
+      "summary": "谷歌云正通过与埃森哲达成合作协议，加速追赶在AI部署竞赛中的步伐。该合作旨在借助埃森哲的全球企业网络和系统集成能力，推动谷歌云AI服务在大型企业中的落地。谷歌云将重点利用“前部署工程师”模式，即派遣专家深入客户现场，协助解决实际应用中的部署瓶颈、流程整合和技术适配问题。这一策略反映出当前企业AI应用的主要挑战已从模型能力转向实际工程化交付，云厂商需提供更贴近业务的端到端支持，才能在竞争激烈的AI市场中赢得企业客户。"
+    },
     {
       "title": "OpenAI, New York Times case tees up key test of AI training under copyright law - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlpyLUhPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-08T15:25:43Z",
-      "summary": "OpenAI与《纽约时报》的版权诉讼案正成为检验AI训练是否符合版权法的关键案例。该案的核心争议在于，OpenAI未经授权使用《纽约时报》文章训练大模型是否构成侵权。若法院裁定合理使用不成立，将深刻影响AI公司的数据获取模式与训练成本，也可能重塑整个AI产业的内容授权生态。目前此案受到法律界与科技界高度关注，其判决结果有望为AI版权保护确立标杆性法律边界。"
+      "publishedAt": "2026-09-08T16:05:09Z",
+      "summary": "OpenAI与《纽约时报》之间的诉讼正成为AI训练版权法的关键测试案例。该案的核心争议在于，AI公司未经许可使用受版权保护的新闻文章进行模型训练，是否构成合理使用。此前《纽约时报》指控OpenAI在训练ChatGPT时复制了其大量内容，而OpenAI则主张其在公共网络上的抓取行为符合法律规范。法官的裁决将可能重塑AI训练数据的合法边界，对全行业的数据获取方式产生深远影响。此案被视为确立生成式AI与版权法关系的重要里程碑，其结果备受全球科技与法律界关注。"
+    },
+    {
+      "title": "AWS Kiro free for 132 universities in 18 countries - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWwxU0dkZ0dZeEs1YWhHT21vNmVFU3hqQ1lRWjBpWHdBRmthaWN5bWlFRGFrR1lsdXB0UmdLMm04azNjN29GanJGSXJLNmNIbDFVcFAwWjBBM3UwTjhjUHVTMkR5c3NhUTU4RW94a2VSMm5aSTVGYUwtWG10RnYtbUg0aDd3b2xGX1lwMk5UWVgzYS00MU5Qem9sQzU4Vk5pVFRqT0M5NDUyeHo1amxmVGF0UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T16:05:02Z",
+      "summary": "AWS宣布将向其云服务Kiro向来自18个国家的132所大学免费开放。Kiro是亚马逊云科技推出的一项AI驱动服务，旨在帮助学生与教师更便捷地利用云资源和人工智能工具进行学习与研究。该举措预计将显著降低高等教育机构采用先进技术的门槛，促进AI教育的普及。受益大学无需支付高昂的云服务费用即可使用Kiro，并有望获得相应的技术支持与培训。这一计划是AWS推动教育公平、培养下一代AI人才的重要战略步骤，也体现了云服务商在教育领域的社会责任。"
+    },
+    {
+      "title": "AI Real Estate Listing Video Generator Shifts Agent Workflows Toward Automation - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY3VtMkNBc1dlaHdka0tpS24wOU5LS0hla2x0RjdtdG54NkZuUnV0N1hLZWtULXNGNjBjVkhMWFVlNzN5NU1SNS1VQzVvLTV2REstdlBoRTRrTkVZb3ZOLTJvZGFTeXVDV2doczk3SUJQRDVxRENMSVhlcXViWmkzLUhWcS1RWGl4dktieTNqQXNKR0llNTVYTnVuU0U5SFBzRmlyeXNPMG13RmZGVmw3TEpWenBkSTNydC1NNDdVLVN2RVhscEN2MnpCT25KdER0b1IxaXExV1BVZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T15:20:13Z",
+      "summary": "一款面向房地产行业的AI视频生成工具正在改变经纪人的工作流程，推动其朝自动化方向转型。该工具可将房源信息、图片和描述等基础数据自动转换为可发布的营销视频，省去传统视频制作中繁琐的拍摄、剪辑和后期环节。经纪人因此能更高效地生成大量个性化房源展示，显著缩短上线时间并降低营销成本。随着AI视频生成技术日趋成熟，房地产从业者正从手动制作素材转向自动化内容生产，将精力更多集中于客户沟通与交易撮合，标志着行业营销模式正进入智能化时代。"
+    },
+    {
+      "title": "commercial real estate marketing strategies 2026 meet HeyGen - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTG5ENlR6X3I5VUVHRm1mTk16V0k2eW43X2hhaU1wUHpHcnRpcUpNemdEMC1GSFYwRWlyQnEwMkF4NUQ3T0J4SHBBOHc1dzY2NUVuS1R2VkNJeWhZU1lUNnpZbjZWZGF6LWVsSENiSkN4SG1UVG9JQVBTWGtadG5vamYzUy1oNXhVSU03ZnpUa2RlMjFRNmc0VnB2YTd1ZVVHa3pOclBucFhLMzlRYTY0emRmSVZ1Y3lyMTNDODh0Tzc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-08T15:17:47Z",
+      "summary": "文章探讨了2026年商业房地产营销战略与AI视频平台HeyGen的结合。HeyGen是一款允许用户通过文字生成逼真的虚拟人物视频的AI工具。未来商业房地产营销中，经纪人和开发商可利用HeyGen制作多语言、个性化的物业介绍和投资者演示，无需现场拍摄或专业后期。这种AI视频生成技术有望降低视频内容制作门槛，加快大规模营销材料的产出，并帮助团队在全球范围内高效传递统一品牌信息。文章预示，到2026年，AI动态视频将成为房地产营销策略的核心组成部分，驱动广告内容的自动化与定制化升级。"
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-08T15:04:09Z",
+      "summary": "谷歌将Chrome浏览器更新周期从原来的四周缩短至每两周一次，以应对由AI引发的安全格局变化。随着AI驱动的网络攻击日益频繁且自动化程度提升，浏览器需要更快速地修复漏洞和强化防护。更短的发布周期将使谷歌能够密集推送安全补丁，并及时上线面向AI功能的新特性。这一调整也反映出在生成式AI时代，浏览器作为用户访问网络的入口，其安全响应速度变得至关重要。谷歌表示，新节奏将帮助用户在更短时间内获得关键修复，降低遭受零日漏洞攻击的风险。"
     },
     {
       "title": "Are AI Data Centers Depleting Earth's Water? - Tempo.co English",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOUU3ckswczQxOHNFYmF4b3ZnRWxMRFRvanA1VWFxaWRGeEJNaloxMEhVS3ZwMElRX1o0STVDZ3ZTWFR3RUp3Uy01RFZ0bnJ3WUx2SzBZVnF6SmJweVJibWU1SjBrUzM5WW5ta3hYNXhfeExaMnRjLU9sdWZqdUIwRA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-08T14:35:29Z",
-      "summary": "文章探讨了AI数据中心对全球水资源的影响。训练和运行大型AI模型需要大量电力，而为服务器降温则消耗巨额冷却水，这导致部分地区面临缺水压力。研究指出，随着AI算力快速扩张，数据中心用水量正以惊人速度增长，给干旱地区生态带来隐患。业界正在探索节水冷却技术和循环利用方案，但如何在算力需求与水资源可持续之间取得平衡，仍是AI产业必须直面的挑战。"
-    },
-    {
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-08T14:17:48Z",
-      "summary": "法国AI实验室Mistral宣布完成30亿欧元融资，估值达210亿欧元，本轮为D轮，由三星、Scaleup Europe和PSG Equity领投。此轮融资凸显“主权AI”正成为商业热点——即各国追求自主可控的AI基础设施和模型能力。Mistral凭借开源路线与欧洲本地化优势获得资本青睐，其扩张也将助力欧盟在全球AI竞赛中保持技术独立性与战略回旋空间。"
-    },
-    {
-      "title": "Breakingviews - COMMENTARY: French AI minnow bags surprisingly high valuation - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejNUQU01WWpaNDNpay1qbUtubTYwYXQtSGFVdEREOHFtRDBnY3N5MkZvOE5kendiQ1JNcTdnQ0FPY1AzdkhUTjBPb3FTZHRpT3p3Z3dYXy1yc2RjRmpoaEhZRVdWbTN3bzVOd3VDSWZldDMtQVo3WVQza2hIVDRTQkEzdG0wY1lTcldJTHh3NDF3elJGMXg0S2JSejZWY2gyNF9qaFlUdW41aEd2cm9j?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T13:20:50Z",
-      "summary": "路透社Breakingviews评论指出，法国AI初创公司Mistral获得210亿欧元估值，这一数字令人意外。尽管该公司在技术上具有欧洲代表性，但其商业化仍处早期阶段，收入规模和市场份额与估值相比显得单薄。评论认为，地缘政治和“主权AI”叙事推动了投资热情，但投资者需要警惕泡沫风险，并检验其技术壁垒能否转化为持续盈利。"
-    },
-    {
-      "title": "Billionaire David Tepper Just Bought These 2 Artificial Intelligence (AI) Stocks That Wall Street Thinks Could Soar by 50% or More - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbHdwX0VkcVJCSnZsMWp4a0lWVHpBNDRmbl9EbHczd2Z5NEZ4elNGdERxQ3M0aGZSaEFvOWJ1RGx6OGtkSHpfNmxEMkMwNWl6MUNvOGdFYUFQSk8tdkpOTzJrNnpwbWF2NE9JbnlTNnZYV1lGX0tZOVFtaC1MS3hzbEUtbGxacUlBQ3VZRVFLRkUtczJTdDVFa2xzU29xSnFJazFmVnJGT0pEaXpiS0JzY3BxbTVMSzQ4UXBpMTQ0ZUM1dnI0SDY2VVNWR3NmRGdhd3NON3pTTkRYb3h6TVp2SmltWkRuMzJBV0t5RW40Q0dZYndCUjhGQWpZQ0JlNmM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T12:57:58Z",
-      "summary": "亿万富翁投资者David Tepper近期买入两只AI股票，华尔街普遍预期这两家公司未来涨幅可达50%以上。虽然具体公司名称未在摘要中披露，但这类动向反映出大型对冲基金对AI赛道的持续看好。Tepper以高仓位集中投资著称，其布局人工智能领域进一步印证机构资本正在加速涌入生成式AI、算力基础设施等核心环节，推动相关个股估值走高。"
-    },
-    {
-      "title": "As artificial intelligence (AI) rapidly penetrates into human work areas, the game industry is beari.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSenF1X0JNMlpjcGJnTThWc0lGOXc4UTljalllM3ZHMmwzN3NpdHlWWnNXYzVKSWNWMTNMS2JGWk1pRVJYRmViRWFTZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T12:44:52Z",
-      "summary": "韩国《每日经济》报道指出，随着人工智能迅速渗透人类工作领域，游戏行业正首当其冲地感受到变革冲击。AI在内容生成、角色设计、场景构建甚至代码编写方面已展现出高效能力，一方面降低了开发成本并缩短制作周期，另一方面也引发从业者对岗位流失和创意同质化的担忧。游戏公司需在效率与创造力之间探索新型人机协作模式。"
-    },
-    {
-      "title": "AI is finding bugs humans missed across Bitcoin infrastructure - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWdNRE9qZHZuc0lZWlViU3FJdEJ2WnhjazBlM204NFJaUGN1SWpmY1V5ZGhZdlJxQ3RVTExrUXpLMzV2a182d2Z2b1FHM2tNb1FlOXFJWlFsRmM2SXE4SmttQzJ2S0UwcEVKRk05THA5RXlqZGZxZ2s4cTVSWGIzVUxxSXQ1QVp5RWZselNzbDVxQW40QkN0MldnVXluVUFVcGhzVmtPbHh6T1BGQVE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T12:09:26Z",
-      "summary": "CoinDesk报道称，人工智能正被用于发现比特币基础设施中人类遗漏的漏洞。比特币的底层软件、钱包和协议代码极为复杂，开发者通过AI辅助审计工具进行静态分析、异常检测和模式识别，帮助定位潜在安全缺陷。虽然AI尚不能完全替代人工审查，但它显著提升了漏洞发现效率。这一趋势也显示，AI正逐步成为区块链安全领域不可或缺的基础设施。"
-    },
-    {
-      "title": "AI Stocks: OpenAI Declares The 'AGI Era' Is Here Amid IPO Fervor - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPajNfSzNaU3NFemppNUtHZmtYTTdhMHZBVjBOVWIyaXoybjlUV1dBcENJNkZIRmpQQWRSOWJ3eDVRLTNpM2lFVVJvemlTVXd0d0dydVc1ZElGNm0tUHlxSnlDTHY0YU53Qlk4dmFSVGR4Mk9OT0dVTmdiWjJMZldjUHd2VXk0U3JzVXM0VTJFRnc5a2pwZVdNNA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T12:03:00Z",
-      "summary": "Investor's Business Daily报道称，在IPO热潮背景下，OpenAI公开宣告“AGI时代已经到来”。这一表态被视为AI行业从狭义模型迈向通用人工智能的关键信号。分析人士认为，OpenAI高调宣扬AGI进展既是为了巩固技术领先形象，也可能与资本市场运作紧密相关。随着公众与机构对AGI概念的关注升温，AI板块估值和投资热情再次被点燃。"
-    },
-    {
-      "title": "Why Berkshire Hathaway Looks Likely to Invest in More Artificial Intelligence (AI) Stocks - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHFaWmduRVVyZDgyXzlNMWV4b3dsUnltSVR4Y3RWV21YcjdzNVBnNjh4S25tdEF2V3RrNF90OFk5Xzdrak04M0UyaWtidnlVenpfVW9DWEp3ejNBSGhudEdQNTRKQ0E2c1Z5LU5zSzN6ZUwwZzZWVEx4X1FLdUVMY09WWlRKUFctWGt3S2NNakltRzVLR0tMMzJwNGNrUmtlNnlkc2hwSVVTdWNvOXZjYTgxTExNdEFSUzRBeDhWOHVnT1BtUmFGQXFn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T12:00:00Z",
-      "summary": "Motley Fool分析认为，伯克希尔·哈撒韦公司未来很可能加大在人工智能领域的股票投资。查理·芒格生前曾表达对科技估值的谨慎态度，但AI已成为改变商业格局的通用技术，伯克希尔所持有的苹果等科技股、以及其投资团队对长期趋势的把握能力，使其具备进一步加仓AI相关标的的可能性。文章推测，伯克希尔会优先选择现金流稳健、护城河深厚的AI龙头企业。"
-    },
-    {
-      "title": "AI brings speed to supply chain - World Grain",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XUVZubGJIdXhwRHBmLXlyUnoxX1VmZ0RrZ3R3RFpKRC1nQTBTQ3hmaHdIZ3lobVBSMmVVNmRrTmRWNVhmYk5zVHlYQmRkSDJpSGJmd056UXVqTDFjNktZa2ZWZm9DUmMxZEF6SUhvaVVYRG45dEFmM1pkOF9HZWM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T11:54:42Z",
-      "summary": "World Grain文章指出，人工智能正显著提升供应链的运行速度。借助AI预测需求、优化路径、实时监控库存并识别瓶颈，粮食加工与大宗农产品物流企业能够更快响应市场波动，降低供需错配造成的浪费。报道强调，AI赋能的智能供应链在应对极端天气和全球贸易扰动时更具韧性，是谷物行业实现数字化转型的关键工具。"
-    },
-    {
-      "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Winner Is Down 20% and Clearly the Superior Buy Today - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNeXFGcmJUeWh0N0hhRTlOa2VfV1hwTFFGX1N2MEpzRFQtSnZ3eHBTdEloX3I1blNJVWRDZUR3NmcwWHRBUDVuaW16Mkc4aldZcldDOVM0ellPTVRBc1FHbHRmLWN6UktiNWU3a3YzaW93SkRpTUhyaVA1T2dibjRXWUwzRmtsa040YWxDVk9KVENtMUh1cGpIdlM3LWFuVnc3ZXZwOE50cjBTeTl2TTNPdkZFTGRHRFRwbTdhY18wZk02NWpQcFh6bTkwRmhsdkVWOUdWOEVPR2dZZjZsTS1ieWVvUXVrakpaeUhkQUhuTUtyblpIVjZhQVRkY0xwOV9mdjBSbFNWaUtCUFVKaktpSGxKczFGNFpJRS13?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T11:36:21Z",
-      "summary": "该报道对比了美光科技与闪迪两家AI存储芯片公司的投资价值。文章指出，其中一家AI内存相关公司股价已下跌20%，但在当前估值下更具吸引力，被认为是明显的更优选择。报道分析了AI需求对存储芯片行业的推动，以及两家公司在HBM、NAND等领域的技术竞争，并认为回调后的龙头企业提供更好的买入机会。"
-    },
-    {
-      "title": "A Single Filing Reveals Elon Musk's Plan to Make Artificial Intelligence a 'Winner Take All' Game, Says Top AI Expert James Altucher - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZUlTc1pzTGVVMk9RMzFPQ2lIRW41RnhTUHRFelRweUdLZEt2QTNmeV9mQzRpM0hfVkQzTGdWR215X2NpNDNNMGhka2hNU2Z6TlBvS2lOcFlqdEM1c1JyajZidUYxSEkyWXRNMjRYM1JfRTJPQjlRQkdRc2l3ZVg5LVZBLVJIc2JaMVVjelNvTzM0SHR0MHRscXdjRm12Z1hnbXk2SWJjYlZwcXEtS1NkMXVMLVVGTzdtVDZnZDJRendRUXhqdW9FOGk1VFdMekdaeWZLOGxHeTRSOGV0OXdwTkN3alpqbUt5TnRQa3BQUG5TZDBUS1Q3ekZxOTMwclNKX3FDM1BGNU5wdUVmY0VDSFFRN28ya2lxQ1RuSmltaTRyODJvSUlhZlNB0gGvAkFVX3lxTE5yWW45cU9WMEFhdWpLb0tUblpMZGg1blhYbDhhZF91RFZ1cW1RQ01XcVhEaXRQYU91TFJQU1NoQ0lHejYyaHVmRlFpOHFQa3laYWRiM2JsLTVqZWRnVWFFTVhmeHgtd1pFZXUzSUp3UmdFYUZ5Z0FmSk1DX0JGczl1eWw4N09UbG1ySDlZOFFTR3I0djNBMFM2MGhKZU82dVV0SlhUcHEyT2FWcVp5UFJiTXFEdnJfX0tRbkM2YUtlYU1BLTdSd0F0NW1Rd3ZKZGVSQlRFeXVpMUxEN18xdF9OS25qaS1sZFhLLU1DQ0M0VGZURDJNQml5OEhodGFOdldVOGotTTdBem1EQXlmcVJpX3gxbW5vLXlzVWhuTVZjalNyZEVoZVE1bHRKOHpkVQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T11:25:01Z",
-      "summary": "顶级AI专家詹姆斯·阿尔图彻指出，埃隆·马斯克提交的一份监管文件揭示了其将AI行业打造成“赢家通吃”游戏的计划。该计划可能涉及通过大规模资本投入和算力布局，构建一个闭环的AI基础设施体系，从而在竞争中形成垄断优势。阿尔图彻认为，这份文件表明马斯克不只是在参与AI竞赛，而是试图从底层资源上控制整个AI生态的命脉。"
-    },
-    {
-      "title": "Why Berkshire Hathaway Looks Likely to Invest in More Artificial Intelligence (AI) Stocks - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSW8zWURTQTZEUksxRWJvUWFFUUdLMXppa0tFTThxN2VqNm5iaEwxUklzRlI4TVh3RnhqT2lnbWVpS3BMaDR3ZUVUQkhHSDZ4QTZ3YlQyYlV1UVB4cGwxbGkySlJmY1RHa1drTGU5X2VUV3dRcWpKQklaVWFzeUhzOGlWVExqNDFabTZHVERFNEVHZzFWNGc5d0lHQVl3a1R4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T11:20:01Z",
-      "summary": "文章分析沃伦·巴菲特旗下伯克希尔·哈撒韦公司为何可能增加对人工智能股票的配置。尽管伯克希尔传统上偏好高现金流和稳定业务，但近年来已开始投资苹果等科技巨头。报道指出，AI正在改变大量行业的竞争格局，伯克希尔可能会通过筛选具有护城河、定价能力和低估值特征的AI公司进行布局，以在保持风险控制的前提下捕捉AI长期增长红利。"
-    },
-    {
-      "title": "In the age of artificial intelligence, professors try to make cheating hard again - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWZGYjZGSlRTUnNHRW83OG5VUXU2dnpSR0RfaG5jaWhpSl85Ny1CenEzUmYxcWdkbzVRQkVzMDkwVjd1ME5Db2V5eEwxU3dnUlFkRmNnOWxiUGVvUDRoWURKNTJDMUw0a2NUWjdyN1pjZWtpbHBIRjI0UnVfenVzcUgwMjh3RFBIQ0RGY05WUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T11:00:00Z",
-      "summary": "随着AI工具快速普及，高校作弊防范面临新的挑战。教授们正努力恢复学术诚信，采取更严格的考核设计，如增加口头答辩、减少课后作业权重、使用监控软件以及鼓励学生展示写作过程。文章指出，单纯的文本检测工具已难以应对生成式AI，教师更倾向于通过课堂讨论和个性化题目培养学生的独立思考能力，让作弊在技术上和成本上变得更难。"
-    },
-    {
-      "title": "Global Enterprise Artificial Intelligence (AI) Market to Reach $206.6 Billion by 2031, Driven by Accelerating Cloud Infrastructure and Agentic AI Adoption - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSi11YklfakFrSmlnMVg3M2dFa3YxbWdOem96Rl84ZHZsVURwZC1pNE9PSldXc3FWU1hKaGU0MC1HTlBCakFic0ZwUk1GMUpLUGZMQ2JOaVZWNlh3Z0ltM25Wd2hEMExncTRuQkhCZVNMOHhlWnZTVl9SQjdiWVlKcEhTUWRSOXQwZDh0emxxQjl5clRPYmM5Zg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T10:57:00Z",
-      "summary": "市场研究报告预测，全球企业级AI市场到2031年将达到2066亿美元，主要增长驱动力包括云基础设施加速部署和智能体（Agentic AI）应用的快速普及。企业正越来越多地将AI嵌入业务流程，从数据分析到自动化决策。随着云服务商提供更强的算力与大模型支持，企业采用门槛降低，Agentic AI的自主执行能力推动新一轮效率提升，带动市场规模持续扩张。"
-    },
-    {
-      "title": "UK parking app to let drivers find spaces using AI - Fleet News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDdRUHVoczhUTXF1SzB3RjRMRlFzQW9BeHhPSFVxMWtRTThLZk43N20zLUI5RFZyNXJLcmpuanVKQ0RkcGN0NWhQWXpMYkFULUxhSmEtaFUxWEU4bE40UTcyaDEwQm10c2xKUmVRSkpmdFJUOGNTTkFNMzB0cVZHZGoweFU1T3pRQmI0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T10:52:30Z",
-      "summary": "英国一款停车应用将引入人工智能技术帮助驾驶员寻找停车位。该App利用AI分析实时路况、历史停车数据以及车位传感器信息，为司机预测并推荐最可能空余的停车地点。这一功能旨在减少城市寻位绕行时间，缓解拥堵并降低排放。报道称，该技术率先在英国多个城市启用，未来可能扩展到更多地区并支持预订和动态定价服务。"
-    },
-    {
-      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia - AI News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmctNXVJa0tTZ3BMcnFpakE3aG5aXzZYT3JvOU91dFVXLVlZSjRHQWVHWkx1dEYwYk9IXy01aXhoN2dZYVR6bVE4Zk83Q2pNSGF3NDRWbEI5QlhVYmR2Q0RieV9sbE5qUHNyd0RLeGZWQWw3cjV3S09mcjQyYTlZSXNiRjZtWjZrcUxGbVdEekVXX0E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T10:01:09Z",
-      "summary": "可口可乐公司在马来西亚推出AI驱动的零售商下单系统，旨在提升B2B订单效率和准确性。该AI工具能够分析门店销售历史、库存水平和消费趋势，为零售商提供智能进货建议和自动化补货流程。此举帮助小型零售商减少缺货或库存积压，同时增强可口可乐的配送规划和客户粘性。这一部署是其在东南亚推进数字化供应链的组成部分。"
-    },
-    {
-      "title": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No - The Intercept",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oUW43RU1iMjhJdURoS1JpcV9tZW5vSUkxc2FkZzlvVUh3M1hxWGNWcXNOS19RVmYtd0I1VXVyWk5DTEx0LWpFVE15bFg4a0syUUFEVl9mYmxDQ2c1QVlyR3hXOTZmQVR5dS1FRU5XMjZmT3NHNXRUVlF3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T10:00:00Z",
-      "summary": "《The Intercept》报道，五角大楼曾要求OpenAI开发一种“极少拒绝请求”的人工智能系统。这一需求与AI公司常规的安全对齐原则相冲突，引发对军事AI伦理的担忧。报道透露，相关方案可能涉及降低AI对敏感或危险指令的拒绝率，以提升任务执行连续性。此举引发关于大模型在军事场景下被滥用以及责任边界的激烈讨论。"
-    },
-    {
-      "title": "Do AI recommendations beat a vet’s? Here’s what pet owners say - Digital Information World",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnVfTXNuY1lKcjZMQWg4dFJTUUh1LVJxX2I2dnF2dnlidEVVai1fUDZjNTRXUkZhZVNOb0huVWs5TEhmcGVyVmFUWWZtNnpKbkxMRTMyb1FDTFpJWW5EeUpFYkhOSjJ5aDFaOEdmYTlsMUFDTENSa2plYmJ2NV9wcEdiWTZOV0tmejdKdXdqZ2FHSnpRekJRN09aWjNURmF1ckUxb0V0Z3NBWl83X1MwVHlxdHEweUY1Znc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T09:51:00Z",
-      "summary": "一项新调查询问宠物主人是否认为AI推荐比兽医建议更可靠。结果显示，一部分宠物主人会因费用或便捷性使用AI辅助诊断，但大多数仍更信任兽医的专业判断。AI工具在常见症状检索和日常护理建议上有帮助，但在复杂病情、个性化治疗中易出现误解。受访者普遍认为，AI可作为参考，不应替代兽医面诊。"
+      "summary": "文章关注人工智能数据中心对全球水资源的消耗问题。随着AI训练和推理需求激增，大型数据中心需要大量电力及冷却用水维持运行。研究指出，微软、谷歌等科技巨头的数据中心耗水量近年来显著上升，部分干旱地区因此面临供水压力。为避免加重环境负担，业界正在探索液体冷却、循环用水及在气候适宜地区选址等策略。专家呼吁，应建立更透明的水资源使用披露机制，并在AI基础设施扩张过程中综合考虑生态承载能力，以确保技术进步不以不可持续的环境成本为代价。"
     }
   ]
 }
