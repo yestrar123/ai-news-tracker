@@ -1,6 +1,177 @@
 {
   "articles": [
     {
+      "id": "4551",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T15:13:12Z",
+      "summary": "爆款AI助手Instinct近日宣布新增专属电子邮件功能，使其能更深入地代理用户处理各类事务。据TechCrunch报道，该AI代理可通过电子邮件自主创建和管理账户、联系商家、处理客服请求等，进一步拓展了其自主执行任务的能力。这一功能旨在让Instinct从简单的对话助手升级为能主动代表用户完成跨平台操作的智能体，减少用户在繁琐沟通和账户管理上的时间投入，标志着AI助手在个性化服务与自动化操作方面又迈出一步。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4552",
+      "title": "Is SpaceX a Top Artificial Intelligence (AI) Stock Pick in September? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdmQ1WFhka2JNcHlBNjQySmd3ZnphMFJubVZuVC1FMkp6bnM0VVloclZVQ2VSMUVRYjNBNUZjSEhKeWZ4WmNmSWFMX3pha3RRVFRJcUsydlFNMXhwNWJHeVNjVEctT05TbVBkZl90ejR0X3NIUlFCVURvR2Y0OXhyM0RNMUNzemlHRGRtcG1ZYmx0N0FFOW9hVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T15:12:56Z",
+      "summary": "The Motley Fool发文探讨SpaceX是否应被视为9月值得关注的人工智能股票。文章指出，尽管SpaceX以航天业务闻名，但其在卫星互联网、数据通信和星舰项目中大量运用AI技术，尤其在自主导航、任务优化和地面数据处理方面具有领先优势。然而，SpaceX并非纯AI公司，其估值与增长主要仍依赖商业航天市场。文章建议投资者在考虑将SpaceX作为AI投资标的时，须综合评估其太空业务基本面和AI相关布局的实际贡献。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4553",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T15:02:47Z",
+      "summary": "Anthropic研究员Jacob Coxon宣布辞职，并发出严厉警告，称其所在机构及其他AI实验室推动的自我改进型AI研发是在“拿人类生命赌博”。Coxon对AI可能带来的生存风险表示深切担忧，呼吁各实验室之间应建立“节奏协议”（pacing agreements），共同限制自主进化AI的发展速度，以避免不可控的灾难性后果。他的离职引发业内对AI安全治理和伦理边界的再讨论，也凸显了前沿AI研究人员内部对当前研发路线存在严重分歧。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4554",
+      "title": "Should schools be teaching students how to use AI? - Dallas News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVZ3RkNMaTdaOFRYNVV6ZVlEd1NQN2NOT20xTTMtQ0pBNzgzSHVSejR2X21oZzF3Q1BsbUozcE5UVDhidjAtaW8tbGVtU0I4MUNMLVl4dkNRVlI5Z3lwOXhDUXlCWGNyX0FYQTRUbmg5Q3B4SXBTY2dFZHB4SGlucmJqSG92RFR5bUFwd3FrTndIT09PcGtyWmZRM3pZTWkyQmJYNzZZNFlkZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T14:57:19Z",
+      "summary": "达拉斯新闻发文讨论学校是否应教授学生如何使用AI。支持者认为，AI已深度融入生活和未来职场，学生需尽早掌握其应用技巧、伦理规范及批判性思维能力，以应对技术变革。反对者则担心过度依赖AI会削弱基础学习能力和独立思考，且教育者本身对AI的理解与培训尚不充分。文章强调，学校需要平衡技术工具与核心素养教学，并建议课程设计应注重实际应用场景中的操练与人文反思。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4555",
+      "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+      "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T14:51:45Z",
+      "summary": "美国配送平台Shipt推出AI购物助手，成为又一家将生成式AI整合进零售服务的企业。用户可直接向助手提出自然语言指令，例如“为我周六25人的户外派对创建一个购物车，包含一些早午餐食品”，或“为便捷的学校午餐和课后零食搭建购物车”。该助手能理解复杂需求并自动筛选商品，生成定制清单，旨在简化用户的采购流程。这一功能顺应了电商与配送平台借助AI提升个性化体验和运营效率的行业趋势。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4556",
+      "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNtV20wYXJQU1RyZGpkOVh6LUFqTDRPY1hDTDhoQzlVZWduQjB2aVR0QzZmYkozX3BLZHVYMDdaV1c5UHhaNktCX0o1UnZCWm81Wjl3TUs0c1I3QXB3Z3NRQW1EZFduejZTLWk3OFBqMFhQNFhTM1d1NEVvbkM4czhqNlhUWlNqRnVvV2FvamxYRTRPTDlPQ2xGOXpac1V2NjkzdUh5U0s5NW9fLUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T14:45:00Z",
+      "summary": "《卫报》报道称，多位专家警告人工智能可能在十年内导致人类灭绝，但文章同时质疑此类极端预测的可信度及其背后的社会心理影响。支持者引用AI系统失控、目标错位或军事滥用等风险场景，强调须提前预防。然而批评者认为，这类耸人听闻的警告缺乏实证支撑，可能转移对算法偏见、隐私侵害等现实问题的关注，并造成公众恐慌。文章呼吁应以理性态度审视AI风险，在安全监管和技术创新之间寻求平衡。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4557",
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T14:18:34Z",
+      "summary": "TechCrunch数据显示，8月部分头部科技公司的人均AI支出出现明显下滑。报道分析，此现象可能是季节性“夏季低迷”所致，但也可能释放出警示信号：随着token成本下降、开源模型性能提升，企业不再需要为每名员工投入高昂的AI费用，采购更趋向精打细算。对超大规模云服务商而言，这意味着AI商业化落地速度可能不如预期，单纯依靠模型推理消耗驱动的增长模式正面临挑战，产业需探索更可持续的盈利路径。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4558",
+      "title": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be the Top Performers to End 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTG9pQ21CMEwzNFRDa0pMdHV1eWxhS3B4a2VNeE9zS2JrX0IzWVJnVnhzREZ6Zm1lUnk4a0N2enQxWC1UZXBhUWJmeUdVR3N3VUpaMW9rcXVNT0pCa1ZyZGdRalRLNHJpSjhKUnZ6SHU0THpFc3pEQjBicWprUWY4cWZ5YU9rUnJVaEg0MjNWQTluNm42cjE3UnJwQXZ0Q3c5ZjdDV0VMYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T14:13:00Z",
+      "summary": "Yahoo Finance发布预测文章，认为到2026年底，有三只人工智能股票将成为表现最佳者。文章未在简洁摘要中完整列出具体公司名称，但通常此类预测会兼顾基础技术供应商、AI应用企业和算力基础设施龙头。分析认为，具有真实业绩支撑、持续创新能力、以及深度嵌入AI生态的企业更可能在长期竞争中胜出。机构建议投资者在关注市场炒作的同时，应仔细甄别公司实际AI收入占比与护城河水平，避免追逐概念性标的。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4559",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T13:00:00Z",
+      "summary": "红杉资本再次加码投资企业安全AI初创公司Cymphony，后者本轮完成2500万美元A轮融资，由红杉与SMBC Fin Atlas Beyond Fund联合领投，估值超过1亿美元。随着AI代理在企业运营中广泛部署，其自动执行任务的能力也带来了身份认证、权限管控、数据泄露等新型安全风险。Cymphony专注为大中型企业提供针对AI代理行为的安全防护与治理方案，能够实时监控和限制智能体的操作范围。红杉的持续投入反映出资本市场对企业级AI安全赛道的高度关注。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4560",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T13:00:00Z",
+      "summary": "杂货配送平台Instacart推出名为Clementine的AI购物助手，成为最新将对话式人工智能集成到自身应用中的零售企业。Clementine可帮助用户完成商品搜索、推荐、创建购物清单等操作，通过自然语言交互提升选购体验。该功能旨在结合Instacart丰富的数据资源与生成式AI技术，为用户提供更智能、个性化且高效的杂货购物服务。此举也反映了在线零售和配送行业正加速拥抱AI助手，以增强用户粘性和平台转化率。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4561",
+      "title": "If You Own Artificial Intelligence (AI) Stocks, Get Ready for a Big Change - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0N6ZkY1WEZiNXJQOWxrVnpQeEFYWFl0a2JjQk5tQkt2cWF3bkpzOE9wMFJOTXBNSjhxb3U1ZnBxalJ0YWRTbzJYeHhsd0RCbFJfZ2ZjUUx5WTdXa052TWhLRWNIbV91RXBZX0h2anlrWUJWOHhBVzlxMG1RQXFiOG9EM1ExR2trZXVUV21fUFVWZTJLMUVxRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T12:59:32Z",
+      "summary": "The Motley Fool发文提醒持有人工智能（AI）股票的投资者，行业即将迎来重大变革。文章指出，随着AI技术快速迭代、算力成本变化及监管环境趋严，当前依赖高投入的AI商业模式可能面临调整。投资者需关注AI企业的实际盈利能力、技术护城河以及市场对AI应用落地的预期变化。文中可能涉及对AI估值泡沫的担忧，并建议投资者为市场波动和结构性转型做好准备，重新评估投资组合中的AI资产配置。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4562",
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6WDZoOFRnTjQ5WW5vMUJKeThhbUUyUTlaeXdKbUhoNE5WNDhnVjhmM080N3p3ZFJfSm9ncUZtblZDRm1YU1hYbjBZZ3ZXNkRjSmNBUmdTa0tCZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T12:36:59Z",
+      "summary": "据BBC报道，人工智能研究机构Anthropic的一名研究员公开表示，AI导致人类灭绝的可能性超过10%。这一观点基于对AI系统在不可控情况下可能采取极端行为的风险评估，也反映了部分AI从业者对超级智能安全问题的深切忧虑。该研究员的表态引发广泛关注，再次引发关于AI安全治理、对齐问题以及全球合作监管的讨论，同时也凸显出高风险预估在AI伦理和公共政策辩论中的重要性。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4563",
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T12:30:00Z",
+      "summary": "初创公司Besxar正试图利用SpaceX火箭打造轨道半导体制造工厂，希望通过在太空微重力环境下生产高性能半导体并将成品带回地球。目前太空制造的选择有限，要么等待国际空间站的机会，要么与少数能执行重返任务的航天器初创公司合作。Besxar瞄准这一市场空隙，计划借助可重复使用的火箭降低运输成本。如果成功，未来芯片制造有望突破地面设备与材料限制，开辟全新的轨道工业模式。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4564",
+      "title": "Meta Muse AI bets on confidential VMs - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkt6M21Nd1Zhd2pPdFhkOGlMSjFyRTI3NGxOeWpzWGhmaVU0NDFXUmNpek1WZ0hoZ3FlV01tNFBBVVhJc0JiRDRWWm80MDRFZG5wdGhaNExJTVB3YmRhNUxXZjNQLTZDUG1sTFJYekE3OTFqd1JLYUJ0NVVSZTREb2tQY01zMzFxX2c4UURMWGVGOXhpLVdrMnJ1T2RmdjBMX3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T12:15:33Z",
+      "summary": "据StartupHub.ai报道，Meta推出的Muse AI项目正押注于机密虚拟机（Confidential VMs）技术，以增强人工智能数据处理过程中的安全性和隐私保护。机密虚拟机能够在硬件层面隔离数据，即使云服务提供商也无法访问受保护的敏感信息。Meta此举旨在应对AI训练和推理中日益严峻的数据合规要求，尤其适用于医疗、金融等涉及隐私数据的行业场景，也为未来安全合规的AI应用提供更可靠的基础设施支撑。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4565",
+      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjVITktVaHcwaVluRVgzYlVzT0ZhWjhWR3pQLV9HMnZVX2ZBVE12MnM3QmQ2c2xCOE1FYU5IVUhSTGtOaElrN2taenIwUjFDRlBoR1FIRjltZmVLMXNvYmdjOVRlUmxNZ2xTcUJ4eDFuSnZZeVdHMXNtSVcta2hBNEJOOGVFcm1NUl93MHljVlZKTkNzLUlGdWp3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T12:15:00Z",
+      "summary": "CBS News报道，Anthropic的一名研究员声称人工智能有超过10%的可能性导致全人类死亡。该表述与同日BBC报道内容呼应，反映出Anthropic内部对AI存在性风险的严肃态度。这一观点基于AI系统在多个风险维度上的建模推演，包括失控、错误对齐及恶意使用等。尽管概率未超过一半，但研究者认为已足以警示人类必须优先投入AI安全研究，建立更严谨的评估和治理体系，避免灾难性后果发生。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4566",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T12:05:34Z",
+      "summary": "AI音乐生成公司Suno因版权诉讼缠身，宣布推出新模型Suno v6，并强调该模型并未使用此前训练旧版模型时所涉及的音乐数据。新模型已转向基于授权音乐进行训练，以解决与唱片公司和音乐出版商之间的法律纠纷。此举反映出AI音乐创作领域版权合规压力的加剧。Suno希望通过切换训练数据来源，既维持生成质量，又能降低法律风险，为AI音乐商业化探索可持续的版权合作路径。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4567",
+      "title": "Students who use AI generally score worse at school - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0NNcE1LRUN3ME1nVm5EOGU5U2dnR0pFLWZGVDBrRExiemx0dUFSNFNYdjVsWDJ0d2dJaVBDTHJndEhTamI1VGVJdmlXX2FpYjZBM0ljZEJCa3UzQWVqRlBLUERyLUZCT3h0YVpMQXhoT1pSRWNuSXRUbXNRdWVBS011VEJuZ3ludUV4MVpBWW1mZHlt?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T12:05:01Z",
+      "summary": "据The Verge报道，一项研究显示使用AI工具的学生通常在学校考试成绩上表现更差。研究指出，AI辅助学习可能削弱了学生对基础知识和思维能力的掌握，导致其在缺乏外部支持时难以独立解决问题。调查涵盖多个学科和年级，AI频繁使用者与成绩下滑呈现相关关系。教育界人士担忧，过度依赖AI会影响学生的批判性思维和长期学习效果，相关结论也引发了对AI工具在教学场景中应用方式的重新思考。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4568",
+      "title": "Long Live Chairman Mao, Now Powered by AI - The National Interest",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzAxVFJsV0toMGxCQXA3dkJTSGJBTUdkc2lhTFdyekhWUGNLTEhzRm11amFaUE9RX3dRRklIazM2YTdtdkRzZjhNaWpsVUFsQ3F1QWVZeWM5ZkFVdG1XUmgwWC1vODlWVEQyaU14OFJ0Y2lzeXNWN2JxQ3NKOHZRMXQ4bXNBODJFYXl3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T11:03:57Z",
+      "summary": "《国家利益》杂志刊文探讨了借助AI技术重现毛泽东形象并赋予其交互能力的现象。文章指出，中国科技公司开发了数款以毛泽东为原型的AI数字人产品，能够模拟其外貌、声音和语言风格，用于教育、文化传播或商业体验。这种现象既是数字人技术与历史人物结合的新案例，也引发了对历史记忆、意识形态表达和技术伦理的讨论。AI的历史人物化应用正成为观察中国数字文化动态的一个特殊窗口。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4569",
+      "title": "Google to Invest $15 Billion in AI Infrastructure in Finland - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVXTzcwTVJMV3N1ZWh5cFU3ajlmTGJVRHExM0tIemhzNTZGZFZndmp4SkxMNGd4dnlnMEp4VjhISXpwSXFDVWd4b3M2OVJtNGp2Zm81YXBDSEdLWndFSnBISG4tc0RVOW41RU1SMGNybE40U2NtV3Y4a2RheDFwbmw2bzYwUHpLZnZRVjV5YVR6Ny0tUG5hbWhhNnVRRFdYREN0cGxucFJfS2ZzYWpiWA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T10:06:00Z",
+      "summary": "据《华尔街日报》报道，谷歌宣布将在芬兰投资150亿美元用于人工智能基础设施建设。该投资计划旨在扩建芬兰的数据中心集群，以支持谷歌在欧洲日益增长的AI云服务和计算需求。芬兰拥有丰富的可再生能源和完善的电网体系，有利于谷歌实现碳中和目标并降低运营成本。这笔巨额投资显示出谷歌对欧洲AI市场的长期押注，也将进一步加强北欧地区在全球AI算力供应链中的重要地位。",
+      "fetchDate": "2026-09-09"
+    },
+    {
       "id": "4529",
       "title": "AI Firms Gamble With Our Lives: Anthropic Researcher Quits Over Irresponsible AI Use - Deccan Chronicle",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZnh6VXBXYUtqN3hsN1Y3SF95cEFLUTRQMVZTV1VHRXY5UEU4Q3VtdmhtNHdkUHVDZ3RiNVV1MEZXYzV4WDdoWm1VYmxGcmpESklsTllKRVdZYTdkMmZuWVpXMmstb2hUVUxFQnZfbU1ldmN4RVZTckJMeUlIdEVjcVdUWlJ4My1DQVlFRXBHZmx6ZC1DTzBtVDhLQU5IYUVsVXd6b1VPTWxrTVlwRG1BbTBUcW9VQy1BdUtteDd2Q1JYNUxDRC10OFpNU0tPTkw0Z2MxbGZVakRtXzRaaVcxb3M4MXVWQdIB6wFBVV95cUxPRkptWDVZNFhpREF6WmVHa2FtV19MUWNKME5SaUsxRVo5c042dkZRcEV1bElVX1hjdW5hWkdJMnhsNFhoRzRRdUJDOXJDN2M4OW45UmNhSno4YjVEOEZNV25wNFF6bURGZHhHQ1lmMmEycklnWHpYRG1IRWpwcWZnbHZ2NzVudi1JcXF2R2dzQ21iQlQzaUMycDZnMWZYUkVJMml4aGY2bzZfZnhuNlR2SGtSbkZMeFNLX2ZjdEFpRHBjaWNjeXBjenVJWjF0TWp6RV9wblJVTDdZNUxRN0VqRDAxcGJua29WY0J3?oc=5",
@@ -10,12 +181,30 @@
       "fetchDate": "2026-09-09"
     },
     {
+      "id": "4570",
+      "title": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks - New Haven Register",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1dPM2QtUTdBbVZKVFNrNjR0UmlWM01zZnZIQS1RMVluVmRyaktKbzh1a29VZ1hxbERKMnVFLTZnbmt1NjBRN0c0MzZjWGw2MUFaVXg5RHhQdzFhU0FnWTdpVGk0QWVnNjZrUmlYNGFRNjF5bW1vS0h4LXpBZ0xUS0p5RnlGa2pPazZyVEI4SFJFVFRLLWNEaE1sWllPeURFSjZqMEZn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T09:59:08Z",
+      "summary": "在美中计划举行特朗普与习近平会谈前夕，中方就美方所谓“恶意AI蒸馏”指控作出回击。美方指责中国通过AI蒸馏技术不当获取模型能力，中方则坚决否认相关说法，认为这是无端污名化，意在限制中国人工智能发展。报道称，这一争端反映出两国在AI技术安全、产业竞争及出口管制等议题上的紧张关系，也为即将到来的高层对话增添了复杂背景。中方强调自身AI发展遵循市场规则和国际准则，呼吁美方停止政治化炒作，以建设性态度处理技术分歧。",
+      "fetchDate": "2026-09-09"
+    },
+    {
       "id": "4530",
       "title": "More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits - The Verge",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzV4WU5VTmNDYkltekZvM05WTGNOVTgwWG9RakppVGk2Q1RGMFE5ZC1pWG9DcWtpYWlrMEh6TWswdXBEUkFUZHJzNy1UaExWT0hHZ1dPeHRCc2t4VDRYaU5Zdl9jbndfUTVTYThOX2Q4MHBiR0poTDBiMzE1LThYaFc0NkJkNFI4UTdXZXZQQ0k?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-09T09:56:28Z",
       "summary": "Anthropic安全负责人表示，AI可能导致全人类灭亡的概率超过10%。此番表态发生在其同事因担忧AI失控而辞职之后，进一步加剧了业界对AI生存风险的讨论。该负责人强调，尽管概率看似不高，但鉴于后果的极端严重性，这样的风险水平不可接受。他呼吁加强AI安全研究、建立更严格的评估机制，并推动国际社会协作，以防止先进AI系统在缺乏充分保障的情况下被部署。",
+      "fetchDate": "2026-09-09"
+    },
+    {
+      "id": "4571",
+      "title": "Anthropic researcher quits over AI safety - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTlNM3BiVTV6Y0ZmcGMyWFl6Mml1ZVNJOHp0WG9EZ2oxX2tnT2tsaXJoMFRCNUNTQlZQSVhzbFp6ZnZ2Nk9xVTBLUUJCZ2RONUFTalBnRk9oNnZ5NWc0NnJaZlh5QUtpUWU4M2VnVXl3cnBkeXdGZDBZWEc5am5teXNVdUJheG9XbklFeXBobUpFcURSa25nbWt6YWJNQUp0aDlz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T09:51:13Z",
+      "summary": "Anthropic一名研究员因对AI安全问题立场分歧而辞职。该研究员认为公司近期在安全策略上有所偏移，未能充分重视先进AI模型的潜在风险。Anthropic以“AI安全”为核心理念，但内部在技术研发与商业落地之间的平衡存在争议。此番离职引发外界关注，反映AI领域顶尖人才在安全路线上的既有张力，也促使业界重新审视盈利压力下如何坚守安全承诺，以及类似事件是否会推动Anthropic调整其长期治理框架。",
       "fetchDate": "2026-09-09"
     },
     {
@@ -40942,5 +41131,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4549
+  "total": 4570
 }
