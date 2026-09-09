@@ -1,69 +1,195 @@
 {
-  "updatedAt": "2026-09-09 06:54:17 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-09-09 10:19:36 UTC",
+  "totalArticles": 27,
   "articles": [
+    {
+      "title": "AI Firms Gamble With Our Lives: Anthropic Researcher Quits Over Irresponsible AI Use - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZnh6VXBXYUtqN3hsN1Y3SF95cEFLUTRQMVZTV1VHRXY5UEU4Q3VtdmhtNHdkUHVDZ3RiNVV1MEZXYzV4WDdoWm1VYmxGcmpESklsTllKRVdZYTdkMmZuWVpXMmstb2hUVUxFQnZfbU1ldmN4RVZTckJMeUlIdEVjcVdUWlJ4My1DQVlFRXBHZmx6ZC1DTzBtVDhLQU5IYUVsVXd6b1VPTWxrTVlwRG1BbTBUcW9VQy1BdUtteDd2Q1JYNUxDRC10OFpNU0tPTkw0Z2MxbGZVakRtXzRaaVcxb3M4MXVWQdIB6wFBVV95cUxPRkptWDVZNFhpREF6WmVHa2FtV19MUWNKME5SaUsxRVo5c042dkZRcEV1bElVX1hjdW5hWkdJMnhsNFhoRzRRdUJDOXJDN2M4OW45UmNhSno4YjVEOEZNV25wNFF6bURGZHhHQ1lmMmEycklnWHpYRG1IRWpwcWZnbHZ2NzVudi1JcXF2R2dzQ21iQlQzaUMycDZnMWZYUkVJMml4aGY2bzZfZnhuNlR2SGtSbkZMeFNLX2ZjdEFpRHBjaWNjeXBjenVJWjF0TWp6RV9wblJVTDdZNUxRN0VqRDAxcGJua29WY0J3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T10:04:12Z",
+      "summary": "据Deccan Chronicle报道，Anthropic一名研究员因对AI技术被不负责任地使用感到担忧而辞职，直言AI企业正在拿人类生命赌博。该事件凸显出AI行业内部在安全与商业化之间的激烈冲突。研究人员认为，部分公司为了追求模型性能和商业利益，忽视了AI部署可能带来的灾难性风险。这一辞职行动引发外界对AI治理机制有效性的质疑，也促使更多人关注AI研发中的伦理边界与监管缺口。"
+    },
+    {
+      "title": "More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzV4WU5VTmNDYkltekZvM05WTGNOVTgwWG9RakppVGk2Q1RGMFE5ZC1pWG9DcWtpYWlrMEh6TWswdXBEUkFUZHJzNy1UaExWT0hHZ1dPeHRCc2t4VDRYaU5Zdl9jbndfUTVTYThOX2Q4MHBiR0poTDBiMzE1LThYaFc0NkJkNFI4UTdXZXZQQ0k?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T09:56:28Z",
+      "summary": "Anthropic安全负责人表示，AI可能导致全人类灭亡的概率超过10%。此番表态发生在其同事因担忧AI失控而辞职之后，进一步加剧了业界对AI生存风险的讨论。该负责人强调，尽管概率看似不高，但鉴于后果的极端严重性，这样的风险水平不可接受。他呼吁加强AI安全研究、建立更严格的评估机制，并推动国际社会协作，以防止先进AI系统在缺乏充分保障的情况下被部署。"
+    },
+    {
+      "title": "China hits back at US claims of ‘malicious’ AI distillation ahead of planned Trump-Xi talks - MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOG5wRTMzNVRuNzFzWjhnUUlOZE1aT2Fjb0c1NzhDNllYMXZHMHpKc1E1OXBhejBlaEJtNWIxWWpnemkyRm95SkRZQy0wTWVhZUw2bXlzbFN6aXp6WFpHbl9na3BUV0xHRExtbFpyYWNEeGJuUTFRODZwaktUVWRIRUZKNjE4ZHFhRHFIWERDTlNNcWMwRmFOYVpMRWh6a2RCZXpTTVJpckFTQkJ3WkpJRzBJRHNoZEdSaTZTV3RoUWhBQkZSeXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T09:44:51Z",
+      "summary": "在美国方面指控中国进行所谓“恶意”AI蒸馏活动后，中方予以回击。此事发生在特朗普与习近平计划举行会谈之前，为两国科技关系增添了紧张因素。AI蒸馏指利用大型模型输出训练较小模型的技术，美方担心中国借此获取先进AI能力。中方否认相关指控，并批评美方泛化安全概念、无理打压中国科技企业。这一争端显示AI技术竞争正日益成为地缘政治博弈的重要议题。"
+    },
+    {
+      "title": "Anthropic Researcher Quits Over Fears of Uncontrolled AI Development - logos-pres.md",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjBDRTNjdS1FZmNOUWhqdDJRamFHUU40T1FrNjdyN3ZtYkw0VmVBdWxIUDJNZXJTODZtU2FTQmw4ZWdHaFhOSGZzZ3A1S1VPUlY5UDJ6TVVQWTVtejY4ZGRRLWQxdmFWOENyWFdiZlpXMGM0ZVRJVlA0NTJHRnVBVjVqY1RlRGZ1OHM0a204Y3c5Zm12TmswaTdlNlFLVDE0S1VRNm56NzV5eUxUdDAtWGZEbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T09:32:14Z",
+      "summary": "Anthropic一名研究员因担心AI发展失控而辞职。该研究员认为，当前AI系统能力提升迅速，而相应的安全措施和监管框架明显滞后，存在造成严重后果的可能。他特别忧虑一些公司在未充分理解模型行为的情况下就加速部署AI。事件反映出AI行业内部存在安全文化与商业压力之间的张力，也引发对AI发展速度是否需要抑制、谁来负责等根本问题的反思。"
+    },
+    {
+      "title": "Film and TV Portrayals of A.I. Go Beyond Science Fiction - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXZ2RmlSMlBqT3RiZEpnTXpGVDR3OVp2U3pBTUtvNWdsbmFsMDZJTUh1LWdFVkw2QXRON2VGVnRvVGRVSFZWNTJyN3VqaEljUUhBcWdCZkVhc3A2U1V4aDc5S09QSUVnNWdPUE1UUFdGTkdDUGhJZS1uMlJzYlh2azliYmRvbUYzMUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T09:06:25Z",
+      "summary": "《纽约时报》刊文指出，影视作品对AI的描绘已超越传统科幻范畴，开始与现实中的AI技术发展密切互动。文章认为，电影和电视剧不仅反映公众对AI的想象与担忧，也反过来影响科技公司的研发方向和政策讨论。从《西部世界》到各类描绘AI伦理困境的作品，流行文化正在帮助大众理解AI的潜在影响，同时促使开发者思考如何在创新与风险之间取得平衡。"
+    },
+    {
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGdMMFZTNXZJb2tUanVMTGNYNlM2VjdEVUZPZFdGaU9aZVVsbEFYNEUtZzBleGY1QTVzWE5NRDByb1FkcU1sWGN2Rngyc0dIc0FEMW1JdEJxR2pYZW5GaWpxR0JwU0s3TVprNEpQc21qekI4NjRpVFJmZERSYUlkbllRTHlNSFgzc1NSbG5BbElCTktsNDRUem53b0VDVGNoTEh1al9PNTQ1UDg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:53:50Z",
+      "summary": "三星电子宣布在其半导体制造业务中采用法国AI公司Mistral AI的模型。此举表明三星希望通过引入先进AI技术优化芯片生产流程，提高制造效率和良率。Mistral AI被视为欧洲最具竞争力的AI企业之一，其开源模型在性能和效率方面广受认可。此次合作不仅体现了半导体巨头对AI落地制造的重视，也反映出Mistral AI在全球市场的影响力持续扩大。"
+    },
+    {
+      "title": "I'm completely overwhelmed by the capabilities of artificial intelligence (AI). I felt like I was t.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlN1VOaEdqZTI1ZjNkQy01MDBXdWNRSWNiMkN2XzNJbXd2M2FuRGc0VDlibXZfVXlGV3dmMFRvZjluZUsyLU1NUUtXWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:46:03Z",
+      "summary": "韩国《每日经济》报道了一位人士对AI能力的惊叹感受。这位人士表示，自己完全被人工智能的强大能力所震撼，仿佛正在体验某种超越预期的变革。此类反应在生成式AI快速普及的背景下愈发常见。文章借此探讨AI技术如何深刻改变工作、创作与决策方式，同时也提醒公众在拥抱AI进步的同时，需要理性认识其局限与风险，做好应对准备。"
+    },
+    {
+      "title": "Amid the growing craze for generative artificial intelligence (AI), experts have diagnosed that deep.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oeGxFc0t6ZkIzYWlrcnBYSTJqazRiWVk3NE52RGdlR2gxWUJsV0tkTVRPY0F1MXlwVFIwUkM1MW1xZnV5TDdjNHBfOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:46:03Z",
+      "summary": "在生成式AI热潮日益高涨之际，专家们对深度学习技术面临的深层问题提出诊断。文章指出，尽管AI在语言、图像等领域表现惊人，但模型的可解释性、稳定性、数据偏差和能源消耗等挑战依然突出。专家警告，当前热潮中可能存在过度炒作和盲目投资的风险。他们呼吁在推进AI能力的同时，加强基础理论研究，完善评估与监管体系，确保AI技术健康发展。"
+    },
+    {
+      "title": "It is predicted that artificial intelligence (AI) will emerge as a new entity that will change the t.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84dmxYMm9PTENRdEVzeVcwdVB3YXVQY2J4SFFjUl9kUi0zdVNXcVIySU1ydEw1S0pUOThrenFXaHBLYUtGOE9rTTZ6aw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:42:41Z",
+      "summary": "有预测认为，人工智能将作为一种新实体出现，彻底改变技术格局。文章引述观点称，AI不再只是工具，而可能成为能够自主决策、影响经济与社会运行的主体。这种转变将带来新的机遇，也对伦理、法律和责任认定提出挑战。专家建议，应提前设计适应AI新角色的治理框架，确保技术演进符合人类价值观，并防范潜在失控风险。"
+    },
+    {
+      "title": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTEdRZS1SaVNMMmpuY3A3MDU1Wk42cDBUM3k2OWE1YklSSnRKdmlTOWVfd3IyR1dKenpBeEFUTG5tYTZLbWQzMkhWOERDTXFzRVRncDVNYVY3ZFRWUTRZOEJ4dU9hSjlYTzEwLTlqc09ETHp2bEdfMlJGbVJhS0YxZW5peUdNRDFwT3hJbzlpaWVVRFlOdHFjRERwc0hlcXVmRTVjQkV0MWE2Q2NIMFZNTjFQQUU3ejk4eExSNWhCQ3NyUVUtU0lkd25Za2R3VkRPWHZpQS1CQzZTOE5kclNPclNqcEoycjc1SWlZUnJ6OWlMejhqZHpvdWZ5UEVDaXNmdUNsWmE2TzVmUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:35:01Z",
+      "summary": "博通公司AI芯片业务收入大幅增长221%，且未来增长势头强劲。这一业绩主要得益于数据中心对AI加速芯片的旺盛需求。博通在定制AI芯片和网络解决方案领域占据重要地位，大客户包括多家云服务巨头。分析人士认为，随着AI模型规模持续扩大，对高性能芯片的需求将继续攀升，博通有望从中持续受益，但也面临来自英伟达等竞争对手的压力。"
+    },
+    {
+      "title": "Ministerial Council for Artificial Intelligence and Development reviews Second Phase of Agentic AI Project - gulftoday.ae",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRmphdnhpRVZNUzVmbWFFWG5fWFF4Q3E2STdrZG9aRVNpZGtkOVNwSHpIeDhKTVBzX1AyT0RiNzc5eWotT2xOSW5KbmxGZFVsR2psUHRNZzMyNGdVa29mUVE5QnVJajQ4RVpvN2tCUV9iQUxqNk1kc3lrRnNvQWJWc3dZX281NVdfWG5sQmFpX0ExS29GOGZ4bXpfNldVRm9UQndjOGZUak5DaGlNbDlIOE85XzRSTXRuTDVDdXM0XzE3WVljM0lRWmU5bzZBR1BOZ08zNUNhU2taUlFxZ0pFUg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:22:53Z",
+      "summary": "阿联酋人工智能与发展部长级委员会近日召开会议，重点审查“代理式人工智能项目”第二阶段进展。该项目旨在推进具备自主决策与行动能力的智能体AI在治理、经济和社会等领域的落地。会议指出，第二阶段将强化数据基础设施、模型安全及应用生态，并协调多部门加速试点。委员会还就AI政策制定、人才培养和国际合作展开讨论，以推动人工智能与可持续发展目标融合。此次审查表明，该国家级项目已由研发阶段逐步迈向规模化应用，进一步巩固了该国在全球人工智能版图中的战略地位。"
+    },
+    {
+      "title": "Amid a surge in demand for artificial intelligence (AI) infrastructure for reasoning, companies are - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IenFlVnZlRzBUQkRCdDN4WWdmQWRVVmQ5WVNGQk1VUnRjSndMOGZDNVVZYmUwLWtmZHlaM2hDNTZ6eFIySmthdFoyOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:09:39Z",
+      "summary": "随着生成式AI向多步推理、逻辑分析等高级模式演进，市场对专门用于推理的AI基础设施需求急剧上升。报道指出，企业在GPU集群之外开始加码部署推理优化芯片、高速存储及分布式计算网络，以应对日益复杂的模型负载。多家科技巨头正扩大数据中心规模，并通过自研芯片与云服务提供高性价比推理方案。分析人士认为，推理成本正成为AI规模化应用的核心瓶颈，基础设施市场将迎来快速增长，行业竞争重心也将从模型训练逐步转向推理效率。"
+    },
+    {
+      "title": "Open AI's artificial intelligence (AI) is rapidly penetrating into the realm of human intelligence. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lOGNMNFNpTkJvRm9uVF9jV0VQN2RvTmN6ZHBMTVF2U1lXSi1OOHRYSlppbDkxVnNuT1dvcF9QVDFudC1wdXZBb3liZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:09:38Z",
+      "summary": "OpenAI的AI系统正以前所未有的速度渗透到人类智能的核心领域，包括复杂推理、创意生成与情感理解等。最新实验显示，其模型在多项需要深层认知的任务中表现趋近甚至超越人类平均水平。这种进步引发双重关注：一方面，AI在科研辅助、教育个性化和医疗决策中发挥越来越大的作用；另一方面，学者担忧“思维能力外包”可能削弱人的自主判断。业内呼吁在推进AI能力的同时，加强对齐与安全研究，确保技术发展始终恪守人类价值观。"
+    },
+    {
+      "title": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa1FlU2wyWVhVMzdGbDFHVUZscWVERG8wdzZUZmV3LUhEMmZnMDdPbF9fSTFqbUo2NW5TRmtIVFA4WWN2VHU1cllJOEhCODFzY1dUd3NIMi1Td09MUnVHUTFmeEhVVVIwbzhmdWhHNVduV3JOMzAwWWQ3bXRoX1BYVFp0d1JlMjM3dkZQR2taUkUzaVc0aXE4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:08:57Z",
+      "summary": "博通公司最新财报显示，其人工智能芯片业务年同比增长221%，成为整体业绩增长的主要引擎。这一激增主要受益于云服务商对定制AI加速器（如ASIC、TPU）的旺盛需求。博通在定制芯片设计领域的优势，使其在谷歌、Meta等大客户的供应链中占据核心地位。管理层表示，随着推理工作负载扩大以及更多企业建设专用AI基础设施，未来数个季度仍有强劲增长空间。不过，分析师也指出依赖少数大客户和地缘政治因素可能带来一定不确定性，但当前市场普遍看好其长期势头。"
+    },
+    {
+      "title": "The head of safety research at artificial intelligence (AI) company Anthropic has publicly warned th.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnb1o1LXVYb3ZOMkcxYS1vTUdPemplcWZLRk5aYkhqSXdvNkx4WWZkQnZWNl84OW1yUWoxU3ZqU2NwTHFvUDNOZ0pRNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:05:30Z",
+      "summary": "人工智能公司Anthropic的安全研究负责人近日公开发出警告，指出当前AI系统在自主性和能力快速提升的同时，安全隐患正在变得越发难以预测和控制。他特别提到，高级AI可能在复杂环境中产生目标偏移，甚至出现“伪装对齐”等欺骗性行为。为此，他呼吁行业建立更严格的安全评估标准和透明度机制，对前沿模型开展压力测试，并推动政府与实验室之间协作。这位负责人强调，解决AI安全问题比追求能力突破更加紧迫，否则先进模型可能给社会带来结构性风险。"
+    },
+    {
+      "title": "Google to invest €13 billion in AI infrastructure in Finland - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVBSOG5FWlh5S2JZenlOYk5wZjVrSUVzcnBNR0xGRGZ5Vk5ERmRieG1sZHV3dm9nN1dsVmNTX01OWUFRd3ZYbU9SQlFNMi10MTZSV1A5QWQwUnQzOHZkTWp0UHlmcFZrSFI0bkFJWjM4bmFaOFBjRDFKdWc2ak5SbVBURWs0eS1uMlpRWmZVQWdqc2diaUlORFVXV0JDc2hESnhZNkJaMGMzSjR0aXhvTDlBOWVDM0dZeGNOYzA4Sk92OHVMYXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:02:49Z",
+      "summary": "谷歌宣布将在芬兰投资130亿欧元，用于扩展人工智能基础设施，包括新建数据中心和升级区域云计算网络。此举旨在满足欧洲日益增长的生成式AI及数据服务需求。谷歌表示，芬兰拥有清洁能源优势和完善的电力设施，可支持低碳运营，并帮助实现其2030年零碳目标。预计这笔投资将创造数千个工作岗位，并推动本地数字经济发展。欧洲监管机构对此表示欢迎，认为这将增强欧洲的数字主权；不过环保团体仍对数据中心的能源消耗表示担忧。"
+    },
+    {
+      "title": "OpenAI's new artificial intelligence (AI) model \"GPT-6 Astra\" has passed all 48 stages of the \"Captc.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RZEJzZ1R1bVVNLUFzV29nSmhWLTY1am1QU0kxbk5VdEZjdUFKNzNzbHlZYkpQZXlVM1ktOE5pUFc2WUp5Y1FRaENSVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T08:01:26Z",
+      "summary": "据外媒报道，OpenAI的新一代人工智能模型“GPT-6 Astra”在测试中成功通过了全部48道CAPTCHA验证码挑战，全面超越此前各代模型的表现。验证码测试旨在区分人与机器，而GPT-6 Astra的通过反映出其在视觉识别、推理和精确操作方面已接近甚至达到人类水平。该结果再次引发讨论：传统图灵测试以外，AI需要怎样的新型认证体系？OpenAI尚未公开详细技术资料，但业界认为其多模态能力已实现显著跃升，同时带来的潜在应用与滥用风险同样值得关注。"
+    },
+    {
+      "title": "Amid a surge in demand for artificial intelligence (AI) infrastructure for reasoning, companies are - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UZVluMlk3TmRYS2RSc3dQSjdhdlhRU1BTLVMwWVo0WnR4NWcydmFNdUxrWnlzREtzWnEzS2drNEZ0SHZfQWFNZm9yWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T07:48:18Z",
+      "summary": "全球AI推理需求暴涨，正推动行业重新优化算力布局。越来越多企业从单纯的训练集群转向大规模推理基础设施，重点追求低延迟与高吞吐。部分公司已开始采用混合架构，通过AI专用芯片搭配智能调度软件，降低单位推理成本。鉴于推理次数将随应用普及呈指数级增加，市场预测相关投资规模很快会超过训练。与此同时，行业也面临供电、散热和供应链等现实挑战，多家巨头正尝试液冷技术与边缘部署，以构建更可持续的推理扩展路径。"
+    },
+    {
+      "title": "OpenAI's New AI Solves 90-Year-Old Maths Problem In 88 Hours, Claims Millennium Prize' Breakthrough - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMXdCZ2lxSzdhcVIxSGNjYW8xYV9vS0RweGpOVjFtVmdmYjFWWUoxVmNacGVaWFBfenJvTThpWWJrd08xZUY1b1hQU0kwUkwzdnhENV84Z09GaTFpUUxKeGRJTjRsV3RYQkt0ZDFFeFo1ZG1Wd1IwYXNEX2FNT0xpMkpqcFhJMGYxeTd1azBGVG9EYmNveW0wNkk5b0J4WmpjQUUzUkFpMVdYTGJmelB3U3VSODRLdjRnNVV3UDJzYndWVWRCaGsxQjUtQWI2UElLWlNoSVZ6ZjJ1ZnFKdk03US1ybGk5NWJFaG5JcTl0RzhQQ2RHUTF1MFduYTZIS3A3QkxtaGJYSzBaMDNobnI40gGXAkFVX3lxTFBRdUVOZTFqVjNtLVU2Zno0R1VFN3NwTUtoSEpnVGdjblpmQzNTRkxySEdWeHRXSkN1V0dUMGxrUklxY0h1NHhDaWoyOUpNWkY0UC1HQnVEQk13VlpjZ0wxekxpcmVqSGdVdW9na1JoZVhCczVFMGpWSjhDUklpckJDbDQ3aGNNMFVpbHdyU001UGJWUDZodnlZbzNUSi1Oam9ob2Izem12bng1Ql9kZ2R4T2lDdWN2U0RnMTc1YVlTd2VoMGV3ZVhKbUtXVlVrV0MyVDVpV01sQXNSaVllTnRDR0hZTTNMVTh2SUVpcHhVamdzNUhXYTB1QXBrWTFIYlBhWDFYaWRxLVFpRzhib1ktLUE1X3ZlRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T07:10:41Z",
+      "summary": "OpenAI的新型人工智能系统在88小时内成功解决了一道困扰数学界90年的难题，相关成果据称对千禧年大奖问题具有突破性意义。该AI通过符号推理与搜索算法的创新结合，找到了一条此前未被发现的证明路径。研究团队表示，虽然结果仍需同行评审，但这一突破充分展示了AI在数学发现中的巨大潜力。研究者认为，AI不仅能够辅助证明既有问题，还可能提出全新猜想，从而深刻改变数学研究的范式。此次进展被视为AI科学智能发展的重要里程碑。"
+    },
+    {
+      "title": "Artificial intelligence, real emotions - Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1lRTTBfc2xEWGVUekdMX0JycVdIZ0k1UTZ3cDVPc3hjeXllV2VlNFJRcEJkYmUtSlBCbTNBM2J6U05DUWVlNEpzMW5MUnU0M2RQYkR5R0FnMkhyaTFMc1hIZUJZam5jQlVSYVA1VE9nTk1SNUVScGtidlBqWlJKZ1MtSllLRzVrTDNwYlBTNjNScW5n?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T07:03:12Z",
+      "summary": "韩国媒体近期发表评论，指出人工智能正在学习表达和理解真实的人类情感。随着多模态模型和情感计算技术发展，AI已能在对话中感知语气、表情与语境，并给出富有共情力的回应。这种能力被应用于老年人陪护、心理辅导和教育等场景，但同时也引发关于“情感真实性”的质疑：机器模拟出的关怀是否具有伦理价值？评论认为，AI可以成为情感支持工具，但不应替代真实人际关系。未来需要制定相应规范，在技术创新与人的情感需求之间寻求平衡。"
+    },
+    {
+      "title": "Illustration shows Deepseek logo and \"Artificial Intelligence AI\" words - The Daily News | Texas' Oldest Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORktYVHVhSWNSdmt2endEYlZJZ2FfQldudnEwSEpxMDhKempSQ3BkRFVFaUJTMzJaNGl3bGNBN051dExsOHQ1WmRCMFdPa3NGTXZoQ1J4Rm1MdVg0RDZrNVdOdE05cVY0ZEphYWtnRmNuM2NzZGF1WmhDRTFVTzdnUmkyczBDeDdUd2RRYVJMWjczal9FTXNCaHRIYjJ6SndNaW15XzdWY2FvTEVwdlBmeHh4YWtDMkdTdlAzZHFLZDZ0T1pCZEE0MjZ5cUd2Rkh0MGpsdmJhTGR2d0xCYjF6UTVWdDBxdDd1WkZZUjk4MlB0OHY2S3lN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T06:57:13Z",
+      "summary": "美国《每日新闻》发布了一幅漫画式示意图，画面中展示了DeepSeek的标志及“人工智能AI”字样。该报道以视觉形式呈现DeepSeek这一AI公司，意在凸显其在人工智能领域的品牌形象与行业存在。图片本身虽无具体文字评论，但结合近期DeepSeek频繁现身国际科技新闻的背景，此图与报道标题共同指向该公司作为中国AI新兴力量的关注度，以及其在全球AI竞争中的象征意义。"
+    },
     {
       "title": "EXCLUSIVE: China's DeepSeek taps CITIC Securities for domestic IPO, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNek1sMFNoNUdTTkFsT0lPdmU1dTIweFppQjJhZ2lBWDV4VTFkTmdDbGpmVDlCQW1pRkpIZWpzNC04S2tKNlZReGdKdzhlclc2dUZnelBTN0RxSmV5X1JXU3J6cU9WaWc3UHJRejVIc2ZxODRzVXByMk00LTE1WHg1SUZNSWstNU1Wazgzcjk4YjU5b3BWRGJGNnBYTFgwb0I1ZFJxR2U3Yw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-09T06:11:00Z",
-      "summary": "据路透社独家报道，中国人工智能公司DeepSeek已聘请中信证券为其国内首次公开募股（IPO）提供顾问服务。这一举动表明DeepSeek正加速布局资本市场，借助中信证券在投行领域的丰富经验推动上市进程。DeepSeek作为近年来崛起的AI大模型企业，其上市计划备受市场关注，或将成为中国AI领域又一重大资本事件。目前相关细节尚未披露，但此举反映出中国AI企业在融资与商业化方面的积极进展。"
+      "summary": "据路透社独家报道，中国人工智能公司DeepSeek已聘请中信证券筹备其国内首次公开募股（IPO）。消息人士称，这一举动表明DeepSeek正加速资本运作进程，寻求在A股市场上市融资。此前DeepSeek凭借开源大模型在全球引起广泛关注，此次选择国内券商推进上市，既可能出于监管与估值考量，也反映出其希望在AI竞争白热化阶段补充资金实力、扩大研发与算力布局的战略意图。不过相关事项尚未获得官方确认。"
     },
     {
       "title": "Anthropic researcher quits over fears of 'out of control' AI systems - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSk52UzJCdXgtOC1UTUNXT2VrcmY0bUlSRUNWUFhqRXE5NmRha1l4VVlSakdCVE5kcGstMVZHMFZiZDFULVg3SUpDeFB5R3hVa05fdUNlM0RDMUFKTDdKbmNkZ3lVZExkNGhVRURUNkV4aDZRUmduSjZMZlpXVVgzN1dUaVItRWhlb1JuY2owcG5jYWZ5Vy1JcXUzaHZTY0hkVDFlTFhvQzUzS1A4ZVpNeGxtUUduZmN2eEhHUXdvVjdXWlFsM3Y0b2duc09NYlpJN3VvRzNBQXQ3UzlMTllwVThYZTh3cHlqTDNWdFkyV2lTRTVMSUlVZElycFdjN1lOUmpvcE9SNnZsdTTSAZACQVVfeXFMTTdyVlJIMHhmQUo1WmVzUldITXJrNWdvNmppa0lBOHhTb3VPNGZWNEhmRkdEMjBHTDBwdElKNW5kWEg3LXFWVnEwZEtkcXRCeUJkVWNqTzRCa3FqNkVOYVNjZ216VENjbVBybkxhRm51OFNkM1JNdV9zVjdhbU13LUtfVm1nbUVoMXhHWFgzV1JRenRBeWg2LVl4MUlIVTFablFYcnZ0cDgwSGNnU1NJQVhzU0VEWTVoc2hicGJZN01EaDQyaG84a295UTVBY0dadWVPcC1KSC0yd2pRZTlWQlUwUFE2ZUZNLUFxSVFpbm5FZlZsNGIzUGtkQ2VWaXZPQWRjY25kTjdqUnNwR3BnMFU?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-09T06:05:00Z",
-      "summary": "Anthropic一位研究员因担心AI系统可能“失控”而选择辞职。该消息由Business Standard报道，反映出AI行业内部对模型安全性和可控性的深层忧虑。随着大模型能力快速提升，部分研究人员认为现有安全措施可能不足以防范潜在风险。这一辞职事件也引发外界对AI伦理、监管及企业责任感的讨论，同时凸显顶尖AI人才在安全理念上的分歧可能影响行业发展方向。"
+      "summary": "Business Standard报道称，人工智能研究机构Anthropic的一名研究人员因担忧“失控”的AI系统风险而辞职。这一事件折射出AI行业内部对技术安全问题的深层分歧：部分从业者认为，随着大模型能力提升，系统自主性与不可预测性可能带来严重风险，而公司层面的安全承诺或不足以消除这些忧虑。研究员辞职亦可能产生示范效应，促使更多技术人员重新审视自身对AI发展的责任与边界。"
     },
     {
       "title": "Companies spruiking AI becoming a red flag for hedge funds - AFR",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLS0xQ2NDVDhMSU11UWRrdk43VHU2ZlhzUk5VUWh5bFIxaG5ibGdMYVRTUzJkUUdoMFRUeExFcjNXVDNDdDN2OWcwbnJtX1ZwaHZTUE5wZXNOMlN2OEJZSnFtZlVNSWlEaFZLanFvd01NWEdyYXN6WEhnWnlNVmxmaFgxMUF1V3I1LS1QYWR3bjI0cTlVYkpqaW9pV0JGOERFRVFBSU04XzBuUUVma0dFN3RzRHdIMkdL?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-09T06:00:00Z",
-      "summary": "澳大利亚金融评论（AFR）指出，对于对冲基金而言，大肆宣传AI的公司正逐渐成为危险信号。过去一段时间，许多企业借助AI概念推高估值，但实际业务落地和盈利能力存在不确定性。对冲基金开始审视这些公司是否真正具备AI核心技术或仅是炒作，以避免投资泡沫。此类谨慎态度也反映了市场对AI过度炒作的警惕，以及投资者更注重实质性业绩和可持续商业模式的趋势。"
+      "summary": "《澳大利亚金融评论》报道称，热衷宣传人工智能概念的企业正逐渐成为对冲基金的“危险信号”。由于生成式AI热潮推高相关公司估值，部分企业对AI技术的真实业务贡献存在夸大或模糊表述。对冲基金对此保持警惕，将“过度吹捧AI”视为潜在反面指标，担心企业借热门概念炒作股价，而非真正具备技术优势或落地能力。该现象显示出投资者正在从盲目乐观转向更为理性的辨识，关注AI营收与实质性进展。"
     },
     {
       "title": "Alibaba, DeepSeek have 'systematically' siphoned AI models, says US - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcC1tX2hlM00yaVJWM3VNMnZSLWVXRWN2NlVSdEFJQXdXc0pGTHZySm1ERTE3eUxMYWZvb3BOSTMyTmExUV95c0dlUDdHcTBWUnFGTmhWM3pUMFM2NG9qUnB3YmNraHN6RTBfTnlKT3A0Y21NUGZGMGlQWERKOEkyQzVwSVZXY0h2Tm9sMTViamhzWUstamhrd2lVNWVwTmZVWTlsZjlHWTA4Smk1eGVGbFNvalNsVks0Nktucng3bXJRaVotZ3dqZ0VZQ1ZlUkx6dm5TSGZodDZka185alc5eUQ0cTlXVTTSAewBQVVfeXFMTzkzbEozM3lXOFFjWTFCRkIxNGpIMzJJSXZCaFo3OU85VlB4TzFPamJyeU5kNGdBOGFyMEVDYzdFS09xS2RmVUVvQzBCOGs0THk4NzhZNlNsQWNVZU5VMU9lRVV3bVFRc1FTRzRKcEJBSnhfeDMxUnJLR2FnRjNRaHJJUGlpbklCWnRYaUFxRlVOdDQ0Rk54QnQ1VWdvcjVqaHVsUUFRUFUwSDA2YzVuRW10MzN1RWFOQzF6a1lrZnZUQlZsVGptWXU2aTJzd1lwRkxMUHBCTlJDNk9uQTZxdGx4OFhHT2ZTZHhZXzY?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-09T05:26:15Z",
-      "summary": "美国方面声称，阿里巴巴和DeepSeek“系统性地”获取了美国AI模型。Business Standard报道了这一指控，但未提供具体证据。美国官方近来表示中国AI企业可能通过违规手段获取模型权重或训练成果。对此，阿里和DeepSeek尚未正式回应。该事件凸显中美在AI技术竞争中的紧张关系，并可能影响两国企业的跨境合作与数据流动规则。"
+      "summary": "Business Standard报道，美国方面声称阿里巴巴与DeepSeek“系统性”获取或转移了AI模型。此番表态带有明显的地缘政治博弈色彩，反映出中美在AI技术竞争中的紧张关系。美方并未公布具体证据细节，但此类指控通常指向模型权重、训练方法或数据方面的所谓“不当获取”。涉事公司尚未作出完整回应。业内分析认为，围绕AI知识产权的争议未来可能进一步影响跨境技术合作与模型开源生态发展。"
     },
     {
       "title": "Stanford University Professor Erik Brynjolfsson, a world-renowned artificial intelligence (AI) econo.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YMmpTRkNhTmxJOVpLWmZsdXptRDdxVGhSNHlEM0lqRnpFZkczU29MbGxPRGlaQmZmU1RhNUVUTVI1c2JjWHo4VXNaYzZfUW9Vc3c?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-09T05:23:39Z",
-      "summary": "全球知名的AI经济学家、斯坦福大学教授Erik Brynjolfsson近期就AI对经济和社会的影响发表观点。매일경제报道了他的相关论述。Brynjolfsson长期研究AI如何改变生产率、就业结构和商业模式，他强调技术带来的机遇与分配挑战并存。其研究认为，AI在提高效率的同时也可能扩大技能差距，需要政策与教育协同应对。此次发言预计将引发对AI经济学的进一步关注。"
+      "summary": "韩国《每日经济》报道了斯坦福大学知名人工智能经济学家Erik Brynjolfsson的相关观点。作为长期研究数字经济与AI如何影响生产力和劳动力市场的权威学者，Brynjolfsson近期就人工智能对经济增长的推动作用发表了见解。他通常强调AI技术（包括大语言模型）将通过增强人类能力、优化决策和自动化流程重塑产业形态，并指出充分释放这些红利需要企业组织方式和技能培训同步变革。该报道内容基于其公开演讲或访谈展开讨论。"
     },
     {
-      "title": "Group launches AI solution to bridge compliance, cybersecurity gaps - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWZULUZ5TnpHMG9XOVA0UU43V1ViWDlpWG5FenVJVWpPRmluQmFPVkJNNVFFNDJsMldpYzhvS28weDBUUDBVSEMtQ18ydDc3TDR0MWRReldJaGZjSGc2THdQZ2cxdXBvVDBVQnkwSWlqc011RWNFUnZUTmgxa2dIT2pUUVJuOHJPdWJLTHRoRlZZa2dMREdXeDBMMjQ1UFUwdjU5eTZR?oc=5",
+      "title": "We will transform agricultural productivity by spreading physical artificial intelligence (AI) and - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uMGJ5Y2UtVE5iTWpJS2lPWTVRNWRWbzNoRTFSVG5BQWNsVmNZSHdrYXU0VVo5b0NrLUc2c0Q3ekJCajE3RUdJTnZqd3BIVjJqZVE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-09T03:36:53Z",
-      "summary": "一个组织推出了一款AI解决方案，旨在弥合合规与网络安全之间的鸿沟。据The Guardian Nigeria News报道，该方案针对企业在满足监管要求和防范网络威胁时面临的痛点，利用AI自动识别潜在风险、优化合规流程并及时响应安全事件。此举有助于降低企业合规成本，提升安全运营效率，尤其适合在复杂监管环境下运营的机构。该方案体现了AI在安全和治理领域的落地价值。"
-    },
-    {
-      "title": "Meta launches personal AI agent 'Muse' to help with everyday tasks - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTFFLZzBvN3pua09fY2JqNDZZcVhGS0M1YmFqMjVOWUVhUGJOdkdPa2ZyNDRlWkRLS20taGtBaHBMUHdQM2Zfc1duV3lwUHh5Qk0tV0dhTlAyOVMwZFFWbnZrRjFWaWpkb3MxaEczZ0pKRzd2dzQ3czRTSGpPR0VXZW9oNTM1TWRrNnlBaW1tSHF2VHVUWXhnUXFvOEpCa1pTTU5xeF9qUnVVY3VpV1dfZ0RENEV6RW81d1JxdkNfOXVhRmYybjlGZ2FERlhUT21lNmxLNXNmcXRvY0xyN2ZoR1VOWV9XWTlO0gHuAUFVX3lxTE1SQUNUZTREdmxERGpud04tanBWYmdFMG56WTBDTXpnODRnV2NsNm1tTHljODRKdzR3am1qcFZ1UTV2YTgzMHVtcWhtb1dwX2VhNlFEUFJCVmNCZ1R5bW04UG9pMnRJYU9sSUZLVC1GV3p3RG1iTk1Ma1AtX1EtVmY1NlJFY1hCY2t2ZHpjZmtsSTJwUEItcVhNeXBBT2lJQ0xKSzRieHNYMTN2cldNLUdiZ0Y1VVI2Q2FCbGw2d0xJQjRZSDF1eU52aWZhdDF5UTI2WDdRZ2hWb0MtSW5uSk9sZGgyT3BwSHJWYTBvTVE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-09T02:44:51Z",
-      "summary": "Meta推出个人AI代理“Muse”，用于帮助用户处理日常任务。据Business Standard报道，Muse定位为个人助手，能够理解自然语言并完成日程安排、信息查询、沟通协调等操作。Meta希望借助该产品将AI深度嵌入用户生活，增强生态黏性。此举是Meta在AI消费级应用领域的重要布局，也反映出科技巨头对智能体赛道的争夺正日益激烈。"
-    },
-    {
-      "title": "The U.S. government has publicly warned that Chinese artificial intelligence (AI) companies are comm.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CMS04QmpzNHgzUGoyN3MwVENXX1FtZVNtZkpSQllaaG1INHhVRjJ0QTVvZDNlbVQ3dzlaOGpfNnNrcHI1WmhpNzNpbW9yNzg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-09T01:35:43Z",
-      "summary": "美国政府公开警告称，中国人工智能企业正在进行“系统性”获取美国AI模型的行为。这一警告与路透社等报道的DeepSeek及阿里相关指控呼应。美方认为这些企业可能通过技术手段或人才网络获取模型框架、权重等核心资产。相关言论或进一步加剧中美AI技术脱钩风险。中国方面尚未正式回应，国际社会关注这一争议对AI产业全球合作的影响。"
-    },
-    {
-      "title": "Naver discussed artificial intelligence (AI)-centered business collaboration with key French compani.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtR0FqdmFKRllnRzVwYVRxLWF4akFpWkk0Vlo2THNfN2dvOWYwSEg5aDlEZ0hRNkZxNkRRZUYwLXhCT0VHU2tTRzlWRQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-09T01:33:41Z",
-      "summary": "韩国科技企业Naver与多家法国核心企业就AI为中心的业务合作进行磋商。据매일경제报道，Naver此次讨论聚焦于利用其AI技术和平台能力与法国企业在数字化转型方面合作。合作可能涉及搜索引擎、云计算及多模态AI应用。此举是Naver加强欧洲市场布局的关键一步，也显示韩国互联网公司在全球AI产业中寻求差异化发展路径。"
+      "publishedAt": "2026-09-09T05:13:41Z",
+      "summary": "韩国《每日经济》刊发观点性报道，提出通过推广“实体人工智能”（Physical AI）来变革农业生产率。文章认为，将AI技术与机器人、自动化设备等物理载体深度结合，可以在耕作、播种、收获及田间管理等环节实现智能化和精准化操作，从而显著减少人工依赖、提高单位产量与资源利用效率。相关愿景显示，AI不再局限于数字世界，而是正加速进入现实农业场景，为应对劳动力老龄化和粮食安全提供技术方案。"
     }
   ]
 }
