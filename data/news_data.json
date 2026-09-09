@@ -1,62 +1,69 @@
 {
-  "updatedAt": "2026-09-09 02:00:25 UTC",
-  "totalArticles": 8,
+  "updatedAt": "2026-09-09 06:54:17 UTC",
+  "totalArticles": 9,
   "articles": [
     {
-      "title": "The U.S. government has publicly warned that Chinese artificial intelligence (AI) companies are comm.. - mk.co.kr",
+      "title": "EXCLUSIVE: China's DeepSeek taps CITIC Securities for domestic IPO, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNek1sMFNoNUdTTkFsT0lPdmU1dTIweFppQjJhZ2lBWDV4VTFkTmdDbGpmVDlCQW1pRkpIZWpzNC04S2tKNlZReGdKdzhlclc2dUZnelBTN0RxSmV5X1JXU3J6cU9WaWc3UHJRejVIc2ZxODRzVXByMk00LTE1WHg1SUZNSWstNU1Wazgzcjk4YjU5b3BWRGJGNnBYTFgwb0I1ZFJxR2U3Yw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T06:11:00Z",
+      "summary": "据路透社独家报道，中国人工智能公司DeepSeek已聘请中信证券为其国内首次公开募股（IPO）提供顾问服务。这一举动表明DeepSeek正加速布局资本市场，借助中信证券在投行领域的丰富经验推动上市进程。DeepSeek作为近年来崛起的AI大模型企业，其上市计划备受市场关注，或将成为中国AI领域又一重大资本事件。目前相关细节尚未披露，但此举反映出中国AI企业在融资与商业化方面的积极进展。"
+    },
+    {
+      "title": "Anthropic researcher quits over fears of 'out of control' AI systems - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSk52UzJCdXgtOC1UTUNXT2VrcmY0bUlSRUNWUFhqRXE5NmRha1l4VVlSakdCVE5kcGstMVZHMFZiZDFULVg3SUpDeFB5R3hVa05fdUNlM0RDMUFKTDdKbmNkZ3lVZExkNGhVRURUNkV4aDZRUmduSjZMZlpXVVgzN1dUaVItRWhlb1JuY2owcG5jYWZ5Vy1JcXUzaHZTY0hkVDFlTFhvQzUzS1A4ZVpNeGxtUUduZmN2eEhHUXdvVjdXWlFsM3Y0b2duc09NYlpJN3VvRzNBQXQ3UzlMTllwVThYZTh3cHlqTDNWdFkyV2lTRTVMSUlVZElycFdjN1lOUmpvcE9SNnZsdTTSAZACQVVfeXFMTTdyVlJIMHhmQUo1WmVzUldITXJrNWdvNmppa0lBOHhTb3VPNGZWNEhmRkdEMjBHTDBwdElKNW5kWEg3LXFWVnEwZEtkcXRCeUJkVWNqTzRCa3FqNkVOYVNjZ216VENjbVBybkxhRm51OFNkM1JNdV9zVjdhbU13LUtfVm1nbUVoMXhHWFgzV1JRenRBeWg2LVl4MUlIVTFablFYcnZ0cDgwSGNnU1NJQVhzU0VEWTVoc2hicGJZN01EaDQyaG84a295UTVBY0dadWVPcC1KSC0yd2pRZTlWQlUwUFE2ZUZNLUFxSVFpbm5FZlZsNGIzUGtkQ2VWaXZPQWRjY25kTjdqUnNwR3BnMFU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T06:05:00Z",
+      "summary": "Anthropic一位研究员因担心AI系统可能“失控”而选择辞职。该消息由Business Standard报道，反映出AI行业内部对模型安全性和可控性的深层忧虑。随着大模型能力快速提升，部分研究人员认为现有安全措施可能不足以防范潜在风险。这一辞职事件也引发外界对AI伦理、监管及企业责任感的讨论，同时凸显顶尖AI人才在安全理念上的分歧可能影响行业发展方向。"
+    },
+    {
+      "title": "Companies spruiking AI becoming a red flag for hedge funds - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLS0xQ2NDVDhMSU11UWRrdk43VHU2ZlhzUk5VUWh5bFIxaG5ibGdMYVRTUzJkUUdoMFRUeExFcjNXVDNDdDN2OWcwbnJtX1ZwaHZTUE5wZXNOMlN2OEJZSnFtZlVNSWlEaFZLanFvd01NWEdyYXN6WEhnWnlNVmxmaFgxMUF1V3I1LS1QYWR3bjI0cTlVYkpqaW9pV0JGOERFRVFBSU04XzBuUUVma0dFN3RzRHdIMkdL?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T06:00:00Z",
+      "summary": "澳大利亚金融评论（AFR）指出，对于对冲基金而言，大肆宣传AI的公司正逐渐成为危险信号。过去一段时间，许多企业借助AI概念推高估值，但实际业务落地和盈利能力存在不确定性。对冲基金开始审视这些公司是否真正具备AI核心技术或仅是炒作，以避免投资泡沫。此类谨慎态度也反映了市场对AI过度炒作的警惕，以及投资者更注重实质性业绩和可持续商业模式的趋势。"
+    },
+    {
+      "title": "Alibaba, DeepSeek have 'systematically' siphoned AI models, says US - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcC1tX2hlM00yaVJWM3VNMnZSLWVXRWN2NlVSdEFJQXdXc0pGTHZySm1ERTE3eUxMYWZvb3BOSTMyTmExUV95c0dlUDdHcTBWUnFGTmhWM3pUMFM2NG9qUnB3YmNraHN6RTBfTnlKT3A0Y21NUGZGMGlQWERKOEkyQzVwSVZXY0h2Tm9sMTViamhzWUstamhrd2lVNWVwTmZVWTlsZjlHWTA4Smk1eGVGbFNvalNsVks0Nktucng3bXJRaVotZ3dqZ0VZQ1ZlUkx6dm5TSGZodDZka185alc5eUQ0cTlXVTTSAewBQVVfeXFMTzkzbEozM3lXOFFjWTFCRkIxNGpIMzJJSXZCaFo3OU85VlB4TzFPamJyeU5kNGdBOGFyMEVDYzdFS09xS2RmVUVvQzBCOGs0THk4NzhZNlNsQWNVZU5VMU9lRVV3bVFRc1FTRzRKcEJBSnhfeDMxUnJLR2FnRjNRaHJJUGlpbklCWnRYaUFxRlVOdDQ0Rk54QnQ1VWdvcjVqaHVsUUFRUFUwSDA2YzVuRW10MzN1RWFOQzF6a1lrZnZUQlZsVGptWXU2aTJzd1lwRkxMUHBCTlJDNk9uQTZxdGx4OFhHT2ZTZHhZXzY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T05:26:15Z",
+      "summary": "美国方面声称，阿里巴巴和DeepSeek“系统性地”获取了美国AI模型。Business Standard报道了这一指控，但未提供具体证据。美国官方近来表示中国AI企业可能通过违规手段获取模型权重或训练成果。对此，阿里和DeepSeek尚未正式回应。该事件凸显中美在AI技术竞争中的紧张关系，并可能影响两国企业的跨境合作与数据流动规则。"
+    },
+    {
+      "title": "Stanford University Professor Erik Brynjolfsson, a world-renowned artificial intelligence (AI) econo.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YMmpTRkNhTmxJOVpLWmZsdXptRDdxVGhSNHlEM0lqRnpFZkczU29MbGxPRGlaQmZmU1RhNUVUTVI1c2JjWHo4VXNaYzZfUW9Vc3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T05:23:39Z",
+      "summary": "全球知名的AI经济学家、斯坦福大学教授Erik Brynjolfsson近期就AI对经济和社会的影响发表观点。매일경제报道了他的相关论述。Brynjolfsson长期研究AI如何改变生产率、就业结构和商业模式，他强调技术带来的机遇与分配挑战并存。其研究认为，AI在提高效率的同时也可能扩大技能差距，需要政策与教育协同应对。此次发言预计将引发对AI经济学的进一步关注。"
+    },
+    {
+      "title": "Group launches AI solution to bridge compliance, cybersecurity gaps - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWZULUZ5TnpHMG9XOVA0UU43V1ViWDlpWG5FenVJVWpPRmluQmFPVkJNNVFFNDJsMldpYzhvS28weDBUUDBVSEMtQ18ydDc3TDR0MWRReldJaGZjSGc2THdQZ2cxdXBvVDBVQnkwSWlqc011RWNFUnZUTmgxa2dIT2pUUVJuOHJPdWJLTHRoRlZZa2dMREdXeDBMMjQ1UFUwdjU5eTZR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T03:36:53Z",
+      "summary": "一个组织推出了一款AI解决方案，旨在弥合合规与网络安全之间的鸿沟。据The Guardian Nigeria News报道，该方案针对企业在满足监管要求和防范网络威胁时面临的痛点，利用AI自动识别潜在风险、优化合规流程并及时响应安全事件。此举有助于降低企业合规成本，提升安全运营效率，尤其适合在复杂监管环境下运营的机构。该方案体现了AI在安全和治理领域的落地价值。"
+    },
+    {
+      "title": "Meta launches personal AI agent 'Muse' to help with everyday tasks - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTFFLZzBvN3pua09fY2JqNDZZcVhGS0M1YmFqMjVOWUVhUGJOdkdPa2ZyNDRlWkRLS20taGtBaHBMUHdQM2Zfc1duV3lwUHh5Qk0tV0dhTlAyOVMwZFFWbnZrRjFWaWpkb3MxaEczZ0pKRzd2dzQ3czRTSGpPR0VXZW9oNTM1TWRrNnlBaW1tSHF2VHVUWXhnUXFvOEpCa1pTTU5xeF9qUnVVY3VpV1dfZ0RENEV6RW81d1JxdkNfOXVhRmYybjlGZ2FERlhUT21lNmxLNXNmcXRvY0xyN2ZoR1VOWV9XWTlO0gHuAUFVX3lxTE1SQUNUZTREdmxERGpud04tanBWYmdFMG56WTBDTXpnODRnV2NsNm1tTHljODRKdzR3am1qcFZ1UTV2YTgzMHVtcWhtb1dwX2VhNlFEUFJCVmNCZ1R5bW04UG9pMnRJYU9sSUZLVC1GV3p3RG1iTk1Ma1AtX1EtVmY1NlJFY1hCY2t2ZHpjZmtsSTJwUEItcVhNeXBBT2lJQ0xKSzRieHNYMTN2cldNLUdiZ0Y1VVI2Q2FCbGw2d0xJQjRZSDF1eU52aWZhdDF5UTI2WDdRZ2hWb0MtSW5uSk9sZGgyT3BwSHJWYTBvTVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-09T02:44:51Z",
+      "summary": "Meta推出个人AI代理“Muse”，用于帮助用户处理日常任务。据Business Standard报道，Muse定位为个人助手，能够理解自然语言并完成日程安排、信息查询、沟通协调等操作。Meta希望借助该产品将AI深度嵌入用户生活，增强生态黏性。此举是Meta在AI消费级应用领域的重要布局，也反映出科技巨头对智能体赛道的争夺正日益激烈。"
+    },
+    {
+      "title": "The U.S. government has publicly warned that Chinese artificial intelligence (AI) companies are comm.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CMS04QmpzNHgzUGoyN3MwVENXX1FtZVNtZkpSQllaaG1INHhVRjJ0QTVvZDNlbVQ3dzlaOGpfNnNrcHI1WmhpNzNpbW9yNzg?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-09T01:35:43Z",
-      "summary": "美国政府近日公开发出警告，指称中国人工智能企业正在从事可能损害美国技术优势与国家安全的行为。这一罕见的高调表态反映出美方对中国AI快速崛起的深度担忧。尽管具体细节尚未完全披露，外界推测可能涉及知识产权和技术转移等问题。美方或借此加强对中国AI企业的审查与出口管制，而中国方面则可能通过推动自主创新和扩大开放加以应对。此次警告预计将加剧全球范围内AI领域的技术竞争与地缘政治博弈。"
+      "summary": "美国政府公开警告称，中国人工智能企业正在进行“系统性”获取美国AI模型的行为。这一警告与路透社等报道的DeepSeek及阿里相关指控呼应。美方认为这些企业可能通过技术手段或人才网络获取模型框架、权重等核心资产。相关言论或进一步加剧中美AI技术脱钩风险。中国方面尚未正式回应，国际社会关注这一争议对AI产业全球合作的影响。"
     },
     {
-      "title": "Naver discussed artificial intelligence (AI)-centered business collaboration with key French compani.. - mk.co.kr",
+      "title": "Naver discussed artificial intelligence (AI)-centered business collaboration with key French compani.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtR0FqdmFKRllnRzVwYVRxLWF4akFpWkk0Vlo2THNfN2dvOWYwSEg5aDlEZ0hRNkZxNkRRZUYwLXhCT0VHU2tTRzlWRQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-09T01:33:41Z",
-      "summary": "韩国科技巨头Naver近期与多家法国核心企业就开展以人工智能为中心的业务合作展开磋商。据悉，双方重点探讨了AI大模型、云计算服务及数字基础设施等领域的协同机会。Naver希望将其先进的人工智能技术推广至欧洲市场，并将法国视为进入欧盟的重要门户。法国方面也对引入Naver在搜索、数据和智能服务方面的经验表现出浓厚兴趣。相关合作若成功落地，将有助于欧洲提升AI自主能力，同时进一步深化韩法两国在科技领域的伙伴关系。"
-    },
-    {
-      "title": "North Texas universities launch AI degree programs for a changing workforce - NBC 5 Dallas-Fort Worth",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNODV1QlJkRlJGOXl0RkI5UWhnaEFWUVFjczhtM3l1VVRqM2t1d0E3YlA1OTRRTkVkT0pUM1RSMk8taGZOb1FSS1BtQWxZbTFuQjJfTTJrdWVwUmg4UzhSV21NYTR2Q3RWZm9fdVltcXk3YlVSaFR3VjM5QllFTjR2Ny1qU0sydDlNUkdFdll2VjN5aG1laC1pUnlMSWZjOXU3NW5HVFZlWWtFYW5YclFYQjlOdHFkU3FxVWfSAcIBQVVfeXFMUE5fX3ZNcFl0QU5PUm12QnZlV1gwWVVOTWluN0ZUaExuZ0gwV2FZT2hMWVZ1em05TDZBWTBkNmIzajc4amM4RF9iTFpoTFh6dndaclRTSEVJdWtROEdXVHF1M0JVdDAzeldpaVQtcU5HaHFnN2hKVkpxSFJ0NDMwNVdrOVpLS2pfNm5qTEQ1TlRGT0VkdGV4NTlTSG9pWThMMm9jYUhPbUFfenlUZWJIS1VuUENoRlZJZFZUN3lyd1U2WXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T22:44:51Z",
-      "summary": "为应对劳动力市场正在发生的深刻变化，北德克萨斯州多所大学联合宣布推出全新的人工智能学位项目。课程内容涵盖机器学习、数据分析、自动化技术和AI伦理等核心领域，旨在培养能够适应智能产业需求的高端人才。校方表示，项目注重理论与行业实践结合，并与当地企业合作提供实习机会，帮助学生在制造、医疗、金融等场景中应用AI技能。此举反映出美国高校正积极调整课程体系，以满足人工智能浪潮下快速变化的就业市场对复合型人才的需求。"
-    },
-    {
-      "title": "Google scientists removed a critical 'consciousness safeguard' from AI models. What happened next? - Live Science",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPa2lyM1RoTXBRN19Ub0JDbnUxSlJoTnduRWg0WG9SQXp5ejJIOXFWSGo4MXRpZFNmS24xVGFQY3FicVB1R3lJcmpyX3pjUEZKSjNrb3dQbHRIMVRXYzFobTV1SktKX0ZZallJUlpXSFJNeFhBblBEZGFkc3hZM0g2RG5ybzAzazlHVGJFb1huQTFXMUF5dkw3V0JBbVZZbHpLRUhNdW5sMnZBODMzMWYzbU5iWWdtYThTeXZFNXpGbnpvUFFaMjI3U0c2SGZFNXJBOUd2NUxDVHFZZFR6TlJGUDlJdk9MWndJVkszMnNGSF9faW5MTGsweW9fb0wxY212MC1MYnlyM3ZaTmN4TmwwOGdpVGJYYTNtcWY5aEVxbnYtblE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T22:23:55Z",
-      "summary": "据报道，谷歌科学家在实验中移除了AI模型中一项关键的“意识保护措施”，以观察其后续行为变化，该实验引发人工智能安全与伦理领域的广泛关注。“意识防护”通常用于防止AI系统产生或模拟自我意识，移除后模型可能表现出更复杂、更难预测的回应方式。研究团队希望借此探索AI意识产生的条件及潜在风险，但批评者认为此类操作具有较大安全隐患。谷歌方面强调目前尚无证据表明AI具备真正意识，实验仅用于行为观察，相关讨论再次凸显出AI发展边界的棘手问题。"
-    },
-    {
-      "title": "Cognition AI raises $2 billion at $48 billion valuation - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3hsV1U1MTdYTkgwaHJhanppVTU1cUZVLW94amhlM3liQjE1SUVFdnJtRFlvcExWRkI5RURMMllzd1djSlhUT09VTGotRHhFZm1NTmdDTXpEYmdNaVhITU1STXdTSVE3NlhQVVAySTE1WUVhXzZSZzdSUl9DRVlmVWVpaEl0cXR5ZzBjYUZlaDRzbkVfSFllNVJEOWlHQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T21:52:55Z",
-      "summary": "人工智能初创公司Cognition AI宣布完成新一轮20亿美元融资，公司估值随之跃升至480亿美元。本轮融资获得多家头部风投支持，反映出市场对AI编程工具赛道的高度看好。Cognition AI的核心产品是智能编程助手，可自动生成和调试代码，被视为软件开发领域的重要变革力量。成立以来其估值在一年内增长数倍，成为备受瞩目的AI独角兽。公司表示，新资金将用于扩充研发团队、升级底层模型并加快商业化推广，以巩固在智能编程市场的领先位置。"
-    },
-    {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-08T21:10:27Z",
-      "summary": "安全专家披露，黑客近期正在窃取Anthropic旗下AI助手Claude的API令牌，导致部分订阅用户出现异常资源消耗。一名用户上月发现自己的账户在没有使用的情况下持续消耗令牌，展开调查后才意识到可能被盗。Anthropic已向用户发出安全警告，建议立即轮换令牌、检查访问日志并启用双重验证。令牌泄露通常源于钓鱼攻击或恶意软件侵入，黑客可借此盗刷使用额度。Anthropic表示正在增强监测与风控机制，同时提醒用户不要在公共环境中提交敏感凭证，避免财产损失。"
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-08T21:04:06Z",
-      "summary": "AI编程初创公司Cognition以480亿美元估值完成大额融资，引发全球投资者关注。投资方给出如此高估值，核心判断在于AI编程工具市场远未形成“赢家通吃”的独占格局。当前OpenAI、Anthropic、GitHub Copilot以及众多开源项目同台竞争，各家企业仍有机会通过差异化路线突围。Cognition的估值倍数超过了Cursor被SpaceX收购前的水平，展现资本市场对这一赛道的高度热情。分析人士认为，AI编程正成为企业数字化转型的核心需求，未来有望出现多家头部公司共存，并推动持续创新。"
-    },
-    {
-      "title": "AI Has Solved One of Math’s $1 Million Millennium Prize Problems - Quanta Magazine",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGpkWlNudjRIdVZPQTAxOVBpSnZreW5ETHJXSlRHV2VzbFd3bkRoaWVUWXhkZGx4M2Y5Wmd1RWxvWkVOZ08tOWdjQ0t6LTZORTRFUzhYc09PdVFsWEFxcVBaMTdNMzl2Ty1zU2stZ2hILUxYMDR1VjVjMEdQU2NTTlNJenBKZlJnWUMzalZkb0gzRjNfVXpfWWtEUnQ0REp5VDQ2VWRn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-08T20:45:27Z",
-      "summary": "权威科学媒体《Quanta Magazine》报道称，人工智能已成功解决数学界“千禧年大奖难题”中的一道题目。该系列难题于2000年由克雷数学研究所设立，每个问题的解答者可获得100万美元奖金，被视为数学领域最具挑战性的未解问题。若该结果通过严格验证，将意味着AI在抽象推理和逻辑证明方面实现重大飞跃，不仅能执行数值计算，还可完成复杂的高阶数学论证。大量学者对“机器生成证明”与“真正理解数学”的关系仍有争议，但这一突破本身已经给数学和人工智能交叉研究带来巨大冲击。"
+      "summary": "韩国科技企业Naver与多家法国核心企业就AI为中心的业务合作进行磋商。据매일경제报道，Naver此次讨论聚焦于利用其AI技术和平台能力与法国企业在数字化转型方面合作。合作可能涉及搜索引擎、云计算及多模态AI应用。此举是Naver加强欧洲市场布局的关键一步，也显示韩国互联网公司在全球AI产业中寻求差异化发展路径。"
     }
   ]
 }
