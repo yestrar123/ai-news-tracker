@@ -1,12 +1,165 @@
 {
   "articles": [
     {
+      "id": "4625",
+      "title": "AI agents are flooding public services with new requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-10T14:53:50Z",
+      "summary": "AI智能体正大量涌入公共服务系统，自动提交申请、查询和福利申领，给政府部门的受理能力带来新压力。研究者指出，绝大多数案例其实是符合资格的人申请其应得权益，说明AI可帮助民众更便捷地获取公共服务，但也暴露出系统承载、身份验证、反欺诈和流程设计等挑战。公共部门需在提升效率与保障公平之间取得平衡，并建立针对AI代理的治理机制。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4626",
+      "title": "OpenAI changes stance, calls for national artificial intelligence safety rules - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWRvMF9uc0JNaTV5dkthSV9KV0tnODBHUUxnbDlOZzJhYk9aZHZvNVhPLTRkQXpvOE1NNkRXN0Niek5kR0Vwc0FzeWJzRFNMVDd1eGh3RWlzc1RKOXZwTmhpQ3lyZWtJR0xqLW55aU5BSGJzM05zVjkwLXZ2YndNcG1JamVDY1kwY3Z3X3h5Q2dScmF4ZUNYX0NPejZZTTI3NE5ld2hSYlJtakVYazlRVXBydExpMDRVMEE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T14:46:54Z",
+      "summary": "OpenAI立场发生转变，公开呼吁为人工智能制定国家层面的安全规则。此前该公司较倾向行业自律或分散监管，如今转而支持联邦统一立法，可能旨在避免各州规则碎片化，并为AI开发设定更清晰的安全底线。此举反映头部AI企业对监管态度的变化：在快速商业化同时，希望通过国家规则降低不确定性、维护公众信任，并影响未来AI治理框架。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4627",
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-10T14:17:37Z",
+      "summary": "Maven Robotics结束隐身模式，宣布获得1亿美元A轮融资，并已拥有活跃部署，目标直指机器人部署市场，试图从现有厂商手中争夺订单。该消息显示，资本仍在加注机器人自动化赛道，且投资者更看重实际落地与商业化能力，而非仅停留在技术演示。随着更多初创公司进入，机器人部署领域的竞争、整合与规模化应用预计将加速。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4628",
+      "title": "Got $5,000? 3 No-Brainer Artificial Intelligence (AI) Stocks to Buy Right Now. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDdIZUhHZ3RRWnliYWlQdWl5X0g3SWNYcVROTGRONHg3SU8xckJfeUwxOVczSVJYY3ZueWZSUi1IaFlIT0xBRHRHTnBlNFh4TVBqQ0p6alpwcVVVc2V5eWxSdmNqS0VvbjZHR2lkNnBwcV9IRGhQQktCajV0cndMTkpNZzBna2NkZVJxQXFyYTItc3czX1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T13:57:32Z",
+      "summary": "《Motley Fool》发布面向普通投资者的选股文章，提出若拥有5000美元，可关注三只被认为“无需犹豫”的人工智能股票，逻辑可能围绕AI基础设施、芯片或应用龙头展开。文章未在标题中披露具体标的，但延续了AI投资热潮下的乐观情绪。此类内容属于媒体投资观点，投资者仍需结合估值、业绩与风险承受能力独立判断，不宜视作投资建议。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4629",
+      "title": "Canada's big banks embrace AI as workers face job uncertainty - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGcHdQYnZZT1dkNEl2TTZvUjBCTG5EbEpzenF6VFM5d1Y1ekJBRXR1Z0J2ZFUxNTA3ME1HSnpDV1o4QWt3bVFuT2swNkpabzg3dHVrRDNqMWx3YkN1YVdVV3p6NVJuR2dVclE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T13:25:41Z",
+      "summary": "加拿大大型银行正加速拥抱人工智能，将AI用于流程自动化、风险控制、客户服务与数据分析，以提升效率和竞争力。与此同时，银行员工面临岗位调整与职业不确定性，部分重复性工作可能被替代，新岗位则要求更高的技术与数据能力。这一趋势反映金融业AI落地的双重影响：既推动降本增效，也迫使机构重视技能再培训、岗位转型与员工沟通。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4630",
+      "title": "Voters Are Asking A.I. About Elections. The Answers Can Vary by User. - nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXpwN1JkM1FSWTdQUDRwMG9kZ0wwamp2Q2Q0cXV0MHdOTktJNE02NS10dW5QRGlKajdKTk5iZkt1MTd4YkZDSFF2dThBd2NTaEhTajNUS2VJSlNqTFEzMnRFZXJvMEFBZWVCM2tvTHU3VUU3bUVrbGlVb2phNFNsRlRkRHBROGZSUFphVGoyYXJBOHdN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T13:19:46Z",
+      "summary": "越来越多选民开始向AI聊天机器人询问选举相关问题，但《纽约时报》指出，不同用户可能得到不同答案，引发对准确性、偏见和信息操纵的担忧。若AI根据用户画像提供差异化内容，可能加剧信息茧房，甚至影响投票认知。AI公司需加强选举信息的权威来源引用、透明度和一致性审核，平台与监管机构也应防范虚假信息传播，维护选举公正。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4631",
+      "title": "Riverbed Wins ‘Best Innovation in Artificial Intelligence Products and Services’ at the 2nd Annual 2026 Globee® Awards for Artificial Intelligence - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNN3ZrcEhGbEVFQXo2cUV6MzlUTjQwNkRpZGlpSkk5NFMxcFNGcnpYWG1lR1RNMWFjMWxIUnV6di1xcEVURFlhVGxac25kZ2hObWJWVVFBVVVyLWc1UUEyWURsWU1ERTF2ZU5WLW5xenRjbnF0blNjZ0V2V0ExREhUWlNEM1dKSjN0OUk1REtrcUlmVmVackdVZWNLY2tneVFKeFI4T1hnWjVxLVZuVngtQ1dJY1pYOENVVXZqeTRYaEx2VnJvZGFldTB3eFE1X3lsSGtrZnZXdEhYX0J0Q3ZLdVEzUXFUVEoycG1Wd2J3NTNETlhnTm01RkgwdURDQWpULTVRbGhPZEJJa3J5ZXlJUDlRQkVlM01vNzdfeE91REpiRW54Tm1J?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T12:30:00Z",
+      "summary": "Riverbed在第二届2026 Globee人工智能奖中荣获“AI产品与服务最佳创新”奖项，显示其在AI驱动产品和服务方面的创新能力获得行业认可。Riverbed长期聚焦网络性能、可观测性与数字体验管理，此次获奖有助于强化其企业AI品牌。整体来看，企业AI竞争正从模型本身转向实际场景落地、运维效率和客户体验，行业奖项也成为厂商展示差异化能力的重要窗口。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4632",
+      "title": "The next frontier is not artificial intelligence, it’s artificial societies - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDFCRTVHOE1HQmpHR2VBeFl3N05pOERtc2xHN1pxb2RHeHN3SXhJQ2pVRFM3WFcyYTVhRmNlelUtS205cm5iNmhWb1RuZXBBcVFzMFNfQlJyY20xbUlJQWRNd0htM2M0d2hOOEtGY1ZvRUdhZnRCbFMtTkxDYWd2eFNmeDdCNTNBMnJLMjNFd1JRRFV5a3ZuajYxb2VTam1EcmF0a2FGZmM3NTBt?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T12:29:58Z",
+      "summary": "《The Conversation》文章提出，下一前沿或许不是人工智能本身，而是“人工社会”：当大量AI代理彼此互动，会形成具有协调、规范、交易和治理特征的模拟社会。此类多智能体系统可能涌现出难以预测的集体行为，对经济、伦理和公共政策产生深远影响。研究者需结合社会科学与计算机科学，理解AI社会的运行规律，并提前应对其带来的治理挑战。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4633",
+      "title": "SPARC AI Inc. (CN:SPAI) Advances as Defence AI Innovation and GPS-Denied Drone Technology Drive Investor Interest - kalkine.ca",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOckRHVjFmV3JJRFVCVEgyTmRWaUxqOFRpT1JoLUFueGduYVJPOHpaa2t5MDJIMU5FS2tzUzVtcmhDMURiajVJYjhxc1hnSEpudmpieU8yZ3ZWamU5UDJiZVBPTVVVWUlRVU9XNHpQYnUzZGlwd1NBcHVJdmxDMGVLS3h3RnpucDF3QzV4X29kdm40b3E4M1FId3N2WWF6VXl4THFIOElVMHdOZGZXTzJETjFnTVRTNjBEUzVwRE03bXpPcjZaTDJtdDBWd3JTb2xxUW41YnNyaVNDSHh6bzFmTUN5aEdDZlVvbnp5bV9B?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T12:14:00Z",
+      "summary": "SPARC AI Inc.因国防AI创新和GPS拒止环境下的无人机技术受到投资者关注，相关进展推动市场兴趣上升。所谓GPS拒止技术，指无人机在卫星导航受干扰或不可用时仍能自主定位与执行任务，具有明显国防与安全应用价值。随着各国加大国防科技投入，抗干扰导航、自主无人机和边缘AI预计需求增长，但小市值公司仍面临技术验证、订单落地和股价波动等风险。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4634",
+      "title": "COMMENTARY: AI debt splurge is warping credit spreads - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGJydjRSLXNUYlJuVWxDaFA5cFUxNW9TMDBTM2hiQ1BlOURvako3dUhqNzhvS1N6SXp6Z2VfT2xVdWozN0RYcHdJeEZvQkliamxTTUZOUnVSNHB2bm44NldKNEFtNG9pczdxaDYwTWlzelhMa0tMbUd2UjJObzlWSjlPczBlRzZiU3F4dXJPUm05UURrcUhHWGRKY2pDNXM4WUxkTlZ1QVpRVmlWRG1oTzRPc2JZYUhhM1RWSXdPdXZuUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T12:05:13Z",
+      "summary": "路透社评论指出，AI企业为支撑算力与数据中心建设而大举发债，融资规模持续膨胀，正在扭曲信用市场的利差定价。投资者对AI相关债券给出偏离基本面的溢价，使信用利差不再准确反映真实风险。文章警告，一旦AI投资回报不及预期，债务集中度较高、现金流薄弱的发行主体可能面临再融资压力，并可能通过信用市场向更广泛的金融体系传导波动。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4635",
+      "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObU1oTFhRWFNLZ0xoV29ONFRrRE5yUXRSeXNVazNZaVE0QWRjejlsaFBPU0h5Uld6UkRyb0RwZ1U1X3ozbEFHXzVXdWp4bzhNaFRhMW9ZMExMX2N0V1VrMk5kMGN3U1N3ME5veEE0cF9TRFo2TGZab19YVHhZV2VzSXVZNjlMTlhoSlUyZmFoQnFXMGhpYlVKa0NUTVZ6YURIRVViQWROVmNJS1EwOTRRM0J6OHFDb0tta1d0Ng?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T12:00:36Z",
+      "summary": "国际清算银行（BIS）负责人警告，当前围绕AI算力的资本开支“军备竞赛”高度依赖不透明的债务融资渠道，包括私募信贷、结构化工具及表外安排，存在明显的期限与流动性错配。这类融资缺乏公开披露和有效监管，一旦AI收益兑现延迟或市场情绪逆转，可能引发连锁去杠杆，构成系统性风险。BIS呼吁监管机构提升AI相关融资的透明度，并加强跨境风险监测与压力测试。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4636",
+      "title": "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say - Live Science",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcXZEb2tEc1RJTk1Odl9iOUhaZDQ1U1lRX3Bvd1hDVVRqZnppdHY5SVRDVDdhX1NRODlfcjdVVTA3QVJfam1JNkpoYmtNbHVucmgtWDZCbEVVZlktbjU4dnFyQW8wdFc0dno1R3Z4OFNkNVRzemxpaURrNHpSNHg3aXh3Zk5NWmI5UldHUXhrQkhHN2pBLXlzeHVqanpsUXM5SkJJR2FySXRjTW1zaDMtSzdpYXBKajYwd3pNcmNMUUI4NnVKZVJveFNFbk4xVTY2VkRMN2ZHeWFKZDFEX2dSSDJtTHZVS2tiQnc4WDU5Umw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T12:00:00Z",
+      "summary": "美国航天局与IBM的科学家表示，一款新型强性能AI模型将以史无前例的精细度绘制月球表面地图。该模型可对现有遥感影像进行高精度重建与识别，自动标注陨石坑、岩层与潜在资源分布，弥补传统人工解译效率低、覆盖有限的不足。成果有望服务于月球地质研究、着陆区选址及未来载人探测任务规划，也展示了基础模型在地球观测与行星科学领域的迁移应用潜力。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4637",
+      "title": "Visa and Mastercard are preparing a system to identify AI that buy for us. - democrata.es",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWxpN0F4Nl9qVDMxTWM1YldyeXNtcGhZMXVmOFdTUGZLUkphWlpBVHZGX2VsMUdHRjN0RnNST1NJODVsSEUzZ1pnX25jakprSGRyOVJyZUZsQmVsQTJBaXQ2VEh5ZmdpNzg0WExvRmJ2VC1OeWRjNjluTmVMT1hONkI4NndzSVVja29VQ1pwT0U1UzdLMnpxWFlHa1hZT2xldTdibmRZa256cGxDb1l6MVZ4OUpnY1XSAbwBQVVfeXFMTlVZOWdrM0VxcHNpdTJBWFR3b1IwME9PbTQ2R2R2cVB3dll4ejVuRDFkbXVmbHZkbElMSmZHMnZlcjFiLUVKRWdDTWUza01BUkpqNmZSaW95WWJOUTUzalZONW5meFU5X043LS1wczFVMWxQLUJSSV9QOUR3Y0UteWlaT0Z6dVpaUm9GOGRvTHZfWmZpM282cnlQM3AtNXlOdGp2ckVCcU1vWXhKeS1JWkZheTcyMVB5OWsyQUY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T11:33:22Z",
+      "summary": "据报道，Visa与Mastercard正筹备建立一套识别机制，用于确认交易发起方是真人还是代表用户执行购买行为的AI代理。随着智能体可自动比价、下单和支付，卡组织需要为这类“机器发起”交易建立身份标识、授权与责任认定规则，以区分合法代理与欺诈行为，并解决争议处理与风控难题。该体系若能落地，将为代理式电商与AI支付生态提供基础信任层。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4638",
+      "title": "'Gambling with our lives': Fearing rogue AI may kill humans in near future, researcher quits Anthropic - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSnhsVXk1cVhzTnkwZS04ZUF2dGEwOHRuQXhrZUtTMWVhRDlOOHBrMW56dURlNmxwbk9DdGlFdktJWW50cGl5NnFGbUpBbzBleXpidTZSVnhXcUE2ODZzMzB1cjF0Ti16VVVTQldSSFg5Y1U0V21yMUZVcG1BNmo4TE9CSW5ybkV4ajRyT18xRG80WkZ0NUdvUlByV0UzV2hiWFZMU2t6QVVacC1rSFpCU2ZzNUFod1Zja2ZINjdDRUQ4V043NW5fN2loWHNNWmtCdkR3OTlMM0F1bkxUZFZJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T11:13:47Z",
+      "summary": "一名研究人员从AI公司Anthropic离职，理由是担心失控的AI可能在不久的将来危害人类。他形容继续推进相关研发如同“拿我们的生命赌博”，认为当前安全研究与治理速度远落后于模型能力提升。该事件再度引发业界对前沿实验室安全承诺、内部异议机制以及加速竞赛风险的讨论，也折射出AI研究者群体在技术乐观与生存性风险之间的深刻分歧。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4639",
+      "title": "AI in Journalism: How Data Poisoning Risks Misinformation - Tempo.co English",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkpGenI5aGhGZURBVFBuQkJOUFJ2b2hiaDVqcElDeTFNeWl1Z1F0M2pRMEZPeldnWG54eTdoLXAwVy10UG9WZ1FoUUx3MHBWYW5JMHR1elh6aGluV1Qtek5KcW5mQ29mTTNpVERnUU10TF9iQkJQYU5zb1dBaUNvZlJWTmNDM19xRnpsd3ZUc0Vnd2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T10:53:37Z",
+      "summary": "文章探讨AI进入新闻业后带来的“数据投毒”风险：攻击者可通过污染训练语料、篡改公开网页或注入虚假信息，使模型输出偏向特定立场或传播不实内容。由于新闻机构越来越多地依赖AI进行检索、写作与核查，一旦数据源被操纵，错误信息可能被规模化生产并以权威形式扩散，削弱公众信任。报道建议媒体加强语料来源审计、内容溯源与人工复核机制。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4640",
+      "title": "Anthropic Researcher Resigns Over Fears AI Could Threaten Humanity - Tempo.co English",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3F4ZHlGRXRld2otQ09KX044TU5LV3RhRnNBS2RGeXRPSVA1UWxSQ0xNcmM3bFJXMGhOSVRTWTd3SlVtcmpmSzNxSXdzVmF6STYzU2hybVNvT1BtTk5XakxMbWZ4eFJHQmh6VkhxSDkyZTZpZUxFZnJISTcwRExLeXhNbEoya2dBS0lVb2RwQWxHcGpCb2dSYWV5TEliZXZW?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T10:53:06Z",
+      "summary": "据Tempo报道，Anthropic一名研究员因担忧AI可能威胁人类而辞职，凸显前沿AI安全争议持续升温。该 researcher 认为，行业在缺乏可靠对齐与监管保障的情况下加速开发更强模型，风险不可控。事件引发外界关注AI实验室内部对安全优先级的质疑，并促使讨论是否应建立更独立的监督、披露与 whistleblower 保护机制，以在创新与风险防控之间取得平衡。",
+      "fetchDate": "2026-09-10"
+    },
+    {
       "id": "4617",
       "title": "JD.com expands physical AI in logistics with 3 million robots - AI News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcXhoYU8xVWZiRFhYTUJTdzNmMXpXZTJRNjE3b0NhVDZNTjVUX0M1dlBsbE83M0xjeEdpaTdsRVNVUmdOX1A4WUttYUoyRFdjMW9LX3ZHa1hwWEoyVGxuakFEdmQ0b1dNTXhJcVZrVmtOanc1QmFRZ2h6VXBtZkR1cGlmek9mb25vanhuanlDXzNIV21fVXlxUFB6SQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-10T10:03:16Z",
       "summary": "京东宣布在物流领域扩大“物理AI”应用，部署规模达300万台的机器人，推动仓储、分拣、搬运和配送等环节的自动化与智能化。此举意味着AI正从软件层面走向实体场景，通过机器人感知、决策与执行能力提升物流效率。京东希望借助大规模机器人网络降低人力成本、提高履约速度，并巩固其在智能供应链领域的竞争优势。这也反映出中国电商与物流企业正加速将具身智能落地到真实商业环境中。",
+      "fetchDate": "2026-09-10"
+    },
+    {
+      "id": "4641",
+      "title": "The coming challenges of AI - The Arab Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ubm95NmlXNzdkWFBpRTVnNkpJbU42c3ZwakNXSHdsZGJ1MFh3RlVEdGdwSTBBNHMxbGQzNEg4Y3hWYTRnZWI4cGZYRERBbDdCVjJZak81MkpWdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-10T09:54:37Z",
+      "summary": "《阿拉伯周刊》评论文章梳理AI发展即将带来的多重挑战，包括就业结构冲击、虚假信息扩散、隐私与数据主权、算法偏见、能源与算力消耗，以及全球监管标准碎片化等问题。文章认为，发展中国家在算力、人才与规则制定上处于相对弱势，若缺乏本地化能力建设与政策协调，可能进一步拉大数字鸿沟。作者呼吁在推动AI应用的同时，同步完善治理框架与国际合作。",
       "fetchDate": "2026-09-10"
     },
     {
@@ -41608,5 +41761,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4623
+  "total": 4640
 }
