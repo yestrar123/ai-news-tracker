@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "4668",
+      "title": "Although artificial intelligence (AI) chatbots are being installed one after another in customer cou.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sd2pHV0Zwekl6a0xIQW9IRHcyQTlNaVVSZW9PS1AtSGV6bnVubGNFQTNqTGdEeHJja2dYMlh1MUQ4ZHlRQUxIVGFYcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T05:33:13Z",
+      "summary": "越来越多企业把AI聊天机器人部署到客服中心，用于自动应答、工单分流和常见问题处理。此类系统依托大语言模型与知识库，能提升响应速度、降低人力成本，并支持全天候服务。但报道也暗示，客服场景仍面临回答准确性、情绪理解、隐私保护和用户信任等挑战。企业需在效率与体验之间平衡，建立人工转接、质量监控和合规机制，避免因答非所问或数据泄露损害品牌。整体看，AI客服正从试验走向规模化，成为客户服务智能化的重要方向。",
+      "fetchDate": "2026-09-11"
+    },
+    {
+      "id": "4669",
+      "title": "As artificial intelligence (AI) breaks down the language barrier of cyberattacks, there have been wa.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Ra09yN0hRcUNPWTZLR0NONGtIandnQ1dhQ19zb2FFMTUxRTJHZDYwME9uUnpGZ1BoT1l4SU1rOUJleHRqeTIxQ1dtTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T04:38:52Z",
+      "summary": "报道指出，AI正在打破网络攻击的语言障碍，使攻击者能低成本生成多语言钓鱼邮件、诈骗话术和恶意内容，扩大攻击范围并提高欺骗性。过去因语言不通而受限的攻击，如今可借助生成式AI实现本地化、规模化。这给企业和个人带来更复杂的跨语言安全威胁，也推动防御方采用AI进行异常检测、内容识别和威胁情报分析。监管机构需关注AI滥用风险，平台应加强内容审核与身份验证，安全团队则要提升多语言监测和应急响应能力。",
+      "fetchDate": "2026-09-11"
+    },
+    {
+      "id": "4670",
+      "title": "Silicon Valley voices growing concern over existential risks of AI - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVVMbE8xQm5HSGpqN2JRU3hsX0hJVmhONmVXQ3didFp6TmFQN2pzV2xQNkVUa2FaV3hMSnR4eEtNZUREUkNBWmNVaVFjVGJpRWNCd0llejhhUjYycUNMVFA0MEt0YkQ1NWF4SVlwZ2VyVENPQTRpcVY3c0psUXUzWktqTno1VVVFbXFVZXY2OFBPVXdHWGNfb1hZZUpkWDBoZGt3TVZPSC1KMWNISkdOelM5Q21McEVWN3o4cXZXajVINnBmc2ZVT2RpVW1CNHJqRkNDVmpob21aMHpSR040OTNocnRnUzFvLU5J0gHwAUFVX3lxTFBGUlA2SmhaQ1dpT0VvV1pjQ3BMQzBRYzJjNDBBejhoWlBscmsyMGgyM2g3bTZoQTF1V2JUWklCaXhVZFpSVzJKUGpFdC1jMmZOVG9SSTRqV3dJaXFnVTdDbTZiZ3BraFVaSFFSckh1cmFVX21qbDNmZlhRQi1DUkx6Wml4UHdReHBmTXB2aVBtLWdvTl9hTUpkQmtGZ1hhVHVZUEFYVFZZRTNiOENzZlV0SG5NZTB3YUJvcElwbU5ReTRNMmFxOXFLRDZlODNmYWlOaTRqblhMYS1WaERKSE9TLTM5Rk95Z3NlY1lBeEVqQg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T04:19:30Z",
+      "summary": "硅谷科技界对AI存在性风险的担忧持续升温。报道显示，越来越多从业者和研究者警告，前沿AI若缺乏安全对齐与有效监管，可能带来失控、滥用乃至人类生存层面的威胁。相关讨论不再局限于学术圈，而进入产业和公共政策议程，涉及模型透明度、风险评估、红队测试和国际治理。与此同时，也有声音认为过度渲染风险可能阻碍创新。整体来看，AI安全与发展的平衡正成为硅谷和全球科技政策的核心议题。",
+      "fetchDate": "2026-09-11"
+    },
+    {
+      "id": "4671",
+      "title": "OpenAI open to slowing cutting-edge AI, CEO Sam Altman tells staff - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbDBEUHBnMWFzc0FBTThNWU1yRGFHUUdhT0NES1Foa2otVUp1WjZqS3l1YVJnRno3cGI0T0t5cEhGWlZzeGlkQ2xEQlVMNTF2eDRHbF9tazU5bklwamtid2lEZ2EzLWoyMXV3UmRLWC03bEJuU1U2T0pKYS1TMWp1WWstY01QcEFmVlB4emRQYnVERUo0Rjk3T0VqazFlZ2dKeFZKc05QZjZIb1NHV0RSRmRyUGw4c2pUVHlBSmVsd3J1Ykt6Q0VRWmZ0N0FOdGg1aVdEM0tHbmNHcnVBa0p2cWJnYmViV2FjOHfSAe8BQVVfeXFMTTFGQUxOZ3YzNlpBdGNfS25KSmZVRHJFWFVRMmc3VGRUNVBJS2l2SlRvVmEyRDRVbGhYaVNwQUo0OHNzUlA3d1BXbkxxLUpuMndOeEhyWkQ3UkxnejNDUFYxblQ5WVJvZl9WMUxhemFRNVRtcmNkUGNGVlJvdC1wdHNFVEt3bU1DVDZsNV8zeUZ0aEtMY1NEYmhCUVpReF9XQ01tZHF1X0dmaXhQY2M3Z09kSG1LRms3SHNjT3pXMjUyWkFDRm1zeENsVHprY2RFVTJPNk9WSkZFakhhV0pnRld1T2ZqRFdwLXZHN0ZwcFU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T03:31:42Z",
+      "summary": "OpenAI首席执行官Sam Altman向员工表示，公司对放缓前沿AI研发持开放态度，前提是安全与责任需要。这一表态出现在AI能力快速提升、监管呼声增强的背景下，显示OpenAI试图在竞争压力和安全承诺之间取得平衡。报道暗示，若风险评估显示模型可能带来严重危害，公司愿意调整发布节奏或加强部署限制。该立场也可能影响行业竞争格局，并推动更多企业公开安全策略、接受外部审查。",
+      "fetchDate": "2026-09-11"
+    },
+    {
+      "id": "4672",
+      "title": "Tencent-backed Enflame triples in Shanghai debut as China AI chip bets surge - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTN0YTlUTDVhMDBsTTM5alBzNVduRi1FUzIzakppTldhT3VGQ0tPS3FVOVFLaDFZSFdtOUJWc01GVW1CNG96Z2s4UWI5Q0dHVFpJNV9RMlh1akdCcXdvTzZHZzZIVlc0dENQbjFMMXRCdHBSQ3RjUWIxWjVFNmhmX19FempIdkEyZG5zczJhLVZEYXR5U1Roa1dBZDhEUFdKUl9fVzNuM3V0OWpkUElOOEtBOERjN3VDZFlfR01rN3FlSE02cm9YRlRB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T03:05:17Z",
+      "summary": "腾讯支持的AI芯片公司Enflame在上海上市首日股价大涨三倍，显示资本市场对中国AI芯片产业的强烈押注。报道指出，在算力需求激增和国产替代背景下，投资者看好本土AI加速器、GPU及相关生态的成长空间。Enflame的亮眼表现可能提振更多中国芯片企业上市融资信心，也反映中美科技竞争下半导体自主化的重要性。不过，芯片行业仍面临技术迭代、供应链和盈利压力，长期价值需看产品落地与客户采用。",
+      "fetchDate": "2026-09-11"
+    },
+    {
+      "id": "4673",
+      "title": "AI could possibly end humanity but how are humans supposed to process that? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPak50WmMtX3BfajFXZ2ZFVXYtTEVqcEdvcmY5WVk3emZsWlItRHdObFYyWEdUM01IOHZ5dzJZU2RadXRnOFA5dHdDaGNQZDBnSVlhNnl0MjFUbGowV01GdUFLTWE2cXluYjdjVHBaV2hNYmI3OFlIUmhRQ1ZLbG5VSEhyM2pZR1pxUDdrRmIwa0JOUUlpTFhxa0MwdFU1eFdBemVudmpWRlBGZklQUFlwbmVTTnoyTzhFc1JLWUEzNERKaEw5WVlCUGhCYm00d1ZmUVZhNzYtbzcteFJVbEtQcDYyQWdFVU80Z2RQQzh4dDl1aWZTRWfSAfsBQVVfeXFMTjY3ZE1HNnNSdDRFTl9KRHk5LTZNLVJXRGo3TFRjRUV2Sk9mY2xIMkxJV2syTEVCckZmaUdTSFQ3TkxUYUdvb3pGUkMtOXVqclVtNW1GVUNkVm9YV3hRQVFHN2NaQ2kwWXBmS25ZM2dzMnpVUlQ5bTlLS1pjcFRnYUNiUVM3d3g5MGp2d3FGZWxqbU5QT0xYakw0YjFjZjNYMGVRU2Fnd0RHcVRPYXVvWVBsWHE4WG5Ydkc0VFU0SUpmcURuN2w1MjNZS2x4WDJQV21kNzNNOENEVk5lWmRZOUdWMlZlMHE0N1ZaZURtN3UzRk1EdVRfemVteUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T03:02:44Z",
+      "summary": "报道探讨一个沉重问题：AI可能终结人类，但人类应如何在心理和认知上处理这一前景？面对潜在存在性风险，公众容易陷入焦虑、否认、麻木或宿命论，专家也难在不确定性与危言之间取得平衡。文章可能呼吁以理性沟通、风险教育和政策行动替代恐慌，推动安全研究、监管与国际合作。核心在于，只有把抽象威胁转化为可讨论、可治理的议题，社会才能在不放弃创新的同时降低最坏情形概率。",
+      "fetchDate": "2026-09-11"
+    },
+    {
+      "id": "4674",
+      "title": "Tencent-backed Enflame triples in Shanghai debut as China AI chip bets surge - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1oyZUF1MXVHWmZZeDRoUTlDT0lORWoyNldHNGVlOFdOUlhjYUMyNEFXQzY1MjJGc0RCa3U2WG1DZ09vWVdCQzhqcnFSYkZqQU91NVBFeDZQMFc2aDNoRVh0NDhPWjYwSWs1TlA0NkNCZ1htNDN6VzJ1eVRMMHdvcEp1TWlYOG1zdllwNFZOc2dyVmtwX0hmZDhVUUVoanFGQWxFTnN3dVVVNHBLWkVoSVdaNWszOUY0SXBoUmE3QlJ1MUln?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T01:33:00Z",
+      "summary": "路透社报道，腾讯投资的AI芯片企业Enflame在上海挂牌首日股价上涨约三倍，凸显市场对中国AI芯片赛道的热情。随着大模型训练和推理需求增长，算力芯片成为关键基础设施，国产厂商被寄予替代进口、保障供应链的期待。此次IPO强劲表现可能吸引更多资本进入中国半导体和AI硬件领域。但报道也提示，行业竞争激烈，技术门槛高，企业需持续投入研发并证明商业化能力，才能支撑高估值。",
+      "fetchDate": "2026-09-11"
+    },
+    {
       "id": "4654",
       "title": "Newsom signs new AI safeguards requiring independent reviews of artificial intelligence - CBS News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXFkMXJLbkpuVXNDQ3ZCUGxBdFZUdmtGeXdNOGJ1SWc3X3NVRGNpYjAtN2NUc3dfOXJfdU12eFZrTnlLUml3ZFBsMm56YTkyUks3YWMtdVdpd2Izak8zWWpPV3hPeWRxRlpLeS05VlFIbHRQUGtjOWR6WnN0VGZjVC1aX0xFb2JQSnNBTkFtZHhRcnl4QmhaXzJiRVFzMnpQX0xwTDdrdUMwX3BfTnBrYmxYM0pWUGl6Zk1nTm1tZUR0LTRreWQ1YQ?oc=5",
@@ -41995,5 +42058,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4666
+  "total": 4673
 }

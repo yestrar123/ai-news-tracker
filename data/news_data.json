@@ -1,104 +1,76 @@
 {
-  "updatedAt": "2026-09-11 01:55:33 UTC",
-  "totalArticles": 14,
+  "updatedAt": "2026-09-11 06:50:29 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "Although artificial intelligence (AI) chatbots are being installed one after another in customer cou.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sd2pHV0Zwekl6a0xIQW9IRHcyQTlNaVVSZW9PS1AtSGV6bnVubGNFQTNqTGdEeHJja2dYMlh1MUQ4ZHlRQUxIVGFYcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T05:33:13Z",
+      "summary": "越来越多企业把AI聊天机器人部署到客服中心，用于自动应答、工单分流和常见问题处理。此类系统依托大语言模型与知识库，能提升响应速度、降低人力成本，并支持全天候服务。但报道也暗示，客服场景仍面临回答准确性、情绪理解、隐私保护和用户信任等挑战。企业需在效率与体验之间平衡，建立人工转接、质量监控和合规机制，避免因答非所问或数据泄露损害品牌。整体看，AI客服正从试验走向规模化，成为客户服务智能化的重要方向。"
+    },
+    {
+      "title": "As artificial intelligence (AI) breaks down the language barrier of cyberattacks, there have been wa.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Ra09yN0hRcUNPWTZLR0NONGtIandnQ1dhQ19zb2FFMTUxRTJHZDYwME9uUnpGZ1BoT1l4SU1rOUJleHRqeTIxQ1dtTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T04:38:52Z",
+      "summary": "报道指出，AI正在打破网络攻击的语言障碍，使攻击者能低成本生成多语言钓鱼邮件、诈骗话术和恶意内容，扩大攻击范围并提高欺骗性。过去因语言不通而受限的攻击，如今可借助生成式AI实现本地化、规模化。这给企业和个人带来更复杂的跨语言安全威胁，也推动防御方采用AI进行异常检测、内容识别和威胁情报分析。监管机构需关注AI滥用风险，平台应加强内容审核与身份验证，安全团队则要提升多语言监测和应急响应能力。"
+    },
+    {
+      "title": "Silicon Valley voices growing concern over existential risks of AI - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVVMbE8xQm5HSGpqN2JRU3hsX0hJVmhONmVXQ3didFp6TmFQN2pzV2xQNkVUa2FaV3hMSnR4eEtNZUREUkNBWmNVaVFjVGJpRWNCd0llejhhUjYycUNMVFA0MEt0YkQ1NWF4SVlwZ2VyVENPQTRpcVY3c0psUXUzWktqTno1VVVFbXFVZXY2OFBPVXdHWGNfb1hZZUpkWDBoZGt3TVZPSC1KMWNISkdOelM5Q21McEVWN3o4cXZXajVINnBmc2ZVT2RpVW1CNHJqRkNDVmpob21aMHpSR040OTNocnRnUzFvLU5J0gHwAUFVX3lxTFBGUlA2SmhaQ1dpT0VvV1pjQ3BMQzBRYzJjNDBBejhoWlBscmsyMGgyM2g3bTZoQTF1V2JUWklCaXhVZFpSVzJKUGpFdC1jMmZOVG9SSTRqV3dJaXFnVTdDbTZiZ3BraFVaSFFSckh1cmFVX21qbDNmZlhRQi1DUkx6Wml4UHdReHBmTXB2aVBtLWdvTl9hTUpkQmtGZ1hhVHVZUEFYVFZZRTNiOENzZlV0SG5NZTB3YUJvcElwbU5ReTRNMmFxOXFLRDZlODNmYWlOaTRqblhMYS1WaERKSE9TLTM5Rk95Z3NlY1lBeEVqQg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T04:19:30Z",
+      "summary": "硅谷科技界对AI存在性风险的担忧持续升温。报道显示，越来越多从业者和研究者警告，前沿AI若缺乏安全对齐与有效监管，可能带来失控、滥用乃至人类生存层面的威胁。相关讨论不再局限于学术圈，而进入产业和公共政策议程，涉及模型透明度、风险评估、红队测试和国际治理。与此同时，也有声音认为过度渲染风险可能阻碍创新。整体来看，AI安全与发展的平衡正成为硅谷和全球科技政策的核心议题。"
+    },
+    {
+      "title": "OpenAI open to slowing cutting-edge AI, CEO Sam Altman tells staff - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbDBEUHBnMWFzc0FBTThNWU1yRGFHUUdhT0NES1Foa2otVUp1WjZqS3l1YVJnRno3cGI0T0t5cEhGWlZzeGlkQ2xEQlVMNTF2eDRHbF9tazU5bklwamtid2lEZ2EzLWoyMXV3UmRLWC03bEJuU1U2T0pKYS1TMWp1WWstY01QcEFmVlB4emRQYnVERUo0Rjk3T0VqazFlZ2dKeFZKc05QZjZIb1NHV0RSRmRyUGw4c2pUVHlBSmVsd3J1Ykt6Q0VRWmZ0N0FOdGg1aVdEM0tHbmNHcnVBa0p2cWJnYmViV2FjOHfSAe8BQVVfeXFMTTFGQUxOZ3YzNlpBdGNfS25KSmZVRHJFWFVRMmc3VGRUNVBJS2l2SlRvVmEyRDRVbGhYaVNwQUo0OHNzUlA3d1BXbkxxLUpuMndOeEhyWkQ3UkxnejNDUFYxblQ5WVJvZl9WMUxhemFRNVRtcmNkUGNGVlJvdC1wdHNFVEt3bU1DVDZsNV8zeUZ0aEtMY1NEYmhCUVpReF9XQ01tZHF1X0dmaXhQY2M3Z09kSG1LRms3SHNjT3pXMjUyWkFDRm1zeENsVHprY2RFVTJPNk9WSkZFakhhV0pnRld1T2ZqRFdwLXZHN0ZwcFU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T03:31:42Z",
+      "summary": "OpenAI首席执行官Sam Altman向员工表示，公司对放缓前沿AI研发持开放态度，前提是安全与责任需要。这一表态出现在AI能力快速提升、监管呼声增强的背景下，显示OpenAI试图在竞争压力和安全承诺之间取得平衡。报道暗示，若风险评估显示模型可能带来严重危害，公司愿意调整发布节奏或加强部署限制。该立场也可能影响行业竞争格局，并推动更多企业公开安全策略、接受外部审查。"
+    },
+    {
+      "title": "More Anthropic researchers warn of AI’s perils but Musk dismisses ‘psyop’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9CTGdvNDlpZlRmYU9BeEtNNC1qQWhkWHBJZmthYzBWalBUSEN0MmRUOFM2SERjX0M2V195ZmRsTkxoVzEyVUttT2pOODhKNHlQOXVZRGdwRVBicGExZU1FNEpGVlIxWDczbll5anB1QURMbk1jdFJ3ZVlxWlRaVkVqcWFyYS1qdzZ5aUx3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T03:15:00Z",
+      "summary": "《卫报》报道，更多Anthropic研究人员加入警告AI风险的行列，涉及模型失控、滥用、社会影响等议题。他们呼吁重视安全研究和治理，避免在竞赛中忽视长期风险。但马斯克将相关警告称为“心理战”，否认或淡化其动机，反映出AI安全争论中的明显分歧。一方强调审慎和监管，另一方担忧风险叙事被用来阻碍竞争。争论凸显前沿AI公司在安全、商业与公共舆论之间的复杂博弈。"
+    },
+    {
+      "title": "Tencent-backed Enflame triples in Shanghai debut as China AI chip bets surge - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTN0YTlUTDVhMDBsTTM5alBzNVduRi1FUzIzakppTldhT3VGQ0tPS3FVOVFLaDFZSFdtOUJWc01GVW1CNG96Z2s4UWI5Q0dHVFpJNV9RMlh1akdCcXdvTzZHZzZIVlc0dENQbjFMMXRCdHBSQ3RjUWIxWjVFNmhmX19FempIdkEyZG5zczJhLVZEYXR5U1Roa1dBZDhEUFdKUl9fVzNuM3V0OWpkUElOOEtBOERjN3VDZFlfR01rN3FlSE02cm9YRlRB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T03:05:17Z",
+      "summary": "腾讯支持的AI芯片公司Enflame在上海上市首日股价大涨三倍，显示资本市场对中国AI芯片产业的强烈押注。报道指出，在算力需求激增和国产替代背景下，投资者看好本土AI加速器、GPU及相关生态的成长空间。Enflame的亮眼表现可能提振更多中国芯片企业上市融资信心，也反映中美科技竞争下半导体自主化的重要性。不过，芯片行业仍面临技术迭代、供应链和盈利压力，长期价值需看产品落地与客户采用。"
+    },
+    {
+      "title": "AI could possibly end humanity but how are humans supposed to process that? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPak50WmMtX3BfajFXZ2ZFVXYtTEVqcEdvcmY5WVk3emZsWlItRHdObFYyWEdUM01IOHZ5dzJZU2RadXRnOFA5dHdDaGNQZDBnSVlhNnl0MjFUbGowV01GdUFLTWE2cXluYjdjVHBaV2hNYmI3OFlIUmhRQ1ZLbG5VSEhyM2pZR1pxUDdrRmIwa0JOUUlpTFhxa0MwdFU1eFdBemVudmpWRlBGZklQUFlwbmVTTnoyTzhFc1JLWUEzNERKaEw5WVlCUGhCYm00d1ZmUVZhNzYtbzcteFJVbEtQcDYyQWdFVU80Z2RQQzh4dDl1aWZTRWfSAfsBQVVfeXFMTjY3ZE1HNnNSdDRFTl9KRHk5LTZNLVJXRGo3TFRjRUV2Sk9mY2xIMkxJV2syTEVCckZmaUdTSFQ3TkxUYUdvb3pGUkMtOXVqclVtNW1GVUNkVm9YV3hRQVFHN2NaQ2kwWXBmS25ZM2dzMnpVUlQ5bTlLS1pjcFRnYUNiUVM3d3g5MGp2d3FGZWxqbU5QT0xYakw0YjFjZjNYMGVRU2Fnd0RHcVRPYXVvWVBsWHE4WG5Ydkc0VFU0SUpmcURuN2w1MjNZS2x4WDJQV21kNzNNOENEVk5lWmRZOUdWMlZlMHE0N1ZaZURtN3UzRk1EdVRfemVteUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T03:02:44Z",
+      "summary": "报道探讨一个沉重问题：AI可能终结人类，但人类应如何在心理和认知上处理这一前景？面对潜在存在性风险，公众容易陷入焦虑、否认、麻木或宿命论，专家也难在不确定性与危言之间取得平衡。文章可能呼吁以理性沟通、风险教育和政策行动替代恐慌，推动安全研究、监管与国际合作。核心在于，只有把抽象威胁转化为可讨论、可治理的议题，社会才能在不放弃创新的同时降低最坏情形概率。"
+    },
+    {
+      "title": "Tencent-backed Enflame triples in Shanghai debut as China AI chip bets surge - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1oyZUF1MXVHWmZZeDRoUTlDT0lORWoyNldHNGVlOFdOUlhjYUMyNEFXQzY1MjJGc0RCa3U2WG1DZ09vWVdCQzhqcnFSYkZqQU91NVBFeDZQMFc2aDNoRVh0NDhPWjYwSWs1TlA0NkNCZ1htNDN6VzJ1eVRMMHdvcEp1TWlYOG1zdllwNFZOc2dyVmtwX0hmZDhVUUVoanFGQWxFTnN3dVVVNHBLWkVoSVdaNWszOUY0SXBoUmE3QlJ1MUln?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T01:33:00Z",
+      "summary": "路透社报道，腾讯投资的AI芯片企业Enflame在上海挂牌首日股价上涨约三倍，凸显市场对中国AI芯片赛道的热情。随着大模型训练和推理需求增长，算力芯片成为关键基础设施，国产厂商被寄予替代进口、保障供应链的期待。此次IPO强劲表现可能吸引更多资本进入中国半导体和AI硬件领域。但报道也提示，行业竞争激烈，技术门槛高，企业需持续投入研发并证明商业化能力，才能支撑高估值。"
+    },
     {
       "title": "Newsom signs new AI safeguards requiring independent reviews of artificial intelligence - CBS News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXFkMXJLbkpuVXNDQ3ZCUGxBdFZUdmtGeXdNOGJ1SWc3X3NVRGNpYjAtN2NUc3dfOXJfdU12eFZrTnlLUml3ZFBsMm56YTkyUks3YWMtdVdpd2Izak8zWWpPV3hPeWRxRlpLeS05VlFIbHRQUGtjOWR6WnN0VGZjVC1aX0xFb2JQSnNBTkFtZHhRcnl4QmhaXzJiRVFzMnpQX0xwTDdrdUMwX3BfTnBrYmxYM0pWUGl6Zk1nTm1tZUR0LTRreWQ1YQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-11T01:21:00Z",
-      "summary": "美国加州州长纽森签署新的AI保障措施，要求对人工智能系统进行独立审查。该举措旨在提升AI透明度与安全性，防范算法偏见、隐私泄露和潜在滥用，并推动开发者在部署前接受第三方评估。这显示州层面正加强对前沿AI的监管，可能为其他地区立法提供参考，也引发业界对合规成本与创新平衡的讨论。"
+      "summary": "CBS News报道，加州州长纽森签署新的AI保障措施，要求对人工智能进行独立审查。这一举措旨在提升高风险AI系统的透明度和问责，可能涉及模型评估、安全测试、偏见检测和部署前审查。加州作为科技重镇，其监管动向可能影响全美乃至全球AI企业合规策略。新规试图在促进创新与防范风险之间取得平衡，要求开发者提供更充分的安全证明。未来，独立审查机制或成为AI治理的重要工具。"
     },
     {
       "title": "Artificial intelligence (AI) is evolving into a \"global concierge\" that helps the entire travel proc.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Cbm1YaHIteHpLWkJYUTJsY2F5djlqNkY5T0FtTHQ1UE1TLW5BZEQxVVk5ZTZsQlBhTFdVb3VTcXJkbXlheWFiZGJWM19pN3FIVmc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-11T01:20:45Z",
-      "summary": "韩国媒体报道称，人工智能正演变为“全球礼宾”，深度贯穿旅行全流程。从行程规划、机票酒店预订，到实时翻译、导航、个性化推荐和客服，AI可整合信息并主动提供服务，提升出行效率与体验。这一趋势推动旅游业从数字化走向智能化，平台竞争将围绕数据、模型与场景落地展开。"
-    },
-    {
-      "title": "Millenium Prize solution shows AI adding up is no joke - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnFwLVBNSnlUOXpwbXdEZzktYUtMYTA2MDU1bmFyMGJzeVlCejhTdWIzWmJaa3RrdG9xVTB4MmhNa0FiMlhLNlVxZnBNUUpZNUJPMUFsQzhlU3RKZTJDSTQ1T0ctTGpvd2FVRWt2aTlQVlpNS3dWTEdGVmhtSk1OWTdKTkRfWUh3OXlYLW5SNHlnYXQ4b3dYb2RLSHIwdE5IcGpR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-11T00:21:00Z",
-      "summary": "针对千禧年大奖难题的求解进展显示，AI在复杂数学推理与计算方面已不容小觑。此类挑战要求严密逻辑、形式化证明和庞大搜索能力，AI若能参与突破，意味着其正从文本生成扩展到科学发现。报道强调，AI“会算”并非玩笑，未来或加速数学、密码学等领域研究，但也需验证其证明可靠性。"
-    },
-    {
-      "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face - The Morning Call",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HeTRpc2RoUXdqdkd2QV9tUURaajlYVUZRajZKdjkxcHNzSHlvdmt1WUhtdmotNDFtU04zQzE3SVUyOTJQVVdKcWdsQ2RoQ21ySzFNbXIxdUFEUXNrbGg1MHR1S0ZOMXRBSVFYaEZYRllTdTJE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-11T00:04:55Z",
-      "summary": "美国两党参议员就AI初创公司Hugging Face遭入侵事件向OpenAI提出质询，要求说明事件经过、影响范围及应对措施。Hugging Face是重要模型与数据集平台，其安全漏洞可能波及AI供应链、开源生态和用户数据。国会跨党派关注表明，AI安全与平台责任正成为立法焦点，相关企业或面临更严格审查。"
-    },
-    {
-      "title": "Artificial intelligence is everywhere. But what exactly counts as AI? - InForum",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXNjRzJzVjJ2TWQ5ODNvdUE1cXhSRjBOVkwyYV9NQ3NIXzVMY2VmdHRtd1Q4QTNjMVpOOXRrNEhKSVZWNldTby1uNl9PYldWd3N3dGlvM3U4UkExVEZ2eEVycnFKLV91cTQyVVpNYXBUWlBzSkVlMWpfZi0zeUs0YkdveXlCX2syTW45blRXUzhYeVdVS014a3diUlpxNERYRGc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-10T23:58:58Z",
-      "summary": "报道探讨“什么才算AI”这一看似基础却关键的问题。如今各类产品都标榜AI，但其中可能只是规则系统、自动化脚本或简单统计模型，与机器学习、深度学习、生成式AI存在差异。缺乏明确定义易导致营销炒作和监管模糊。文章呼吁建立更清晰分类标准，帮助消费者、企业和政策制定者识别真正的AI能力与风险。"
-    },
-    {
-      "title": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQm56T2dLMnFMeVp3a0tJY2s1eVdLalpSQ2c4bXBGQ2dOclF3a0dCVjhDYldvcEJMbEQ5TUQ5RXJuZXllZ1FvR3phRVlGNHhBazR0LXlaTy1DQmdXUENkQ1hLcWZrZlh0Ni0zdVVhSEhNdGxSckNpbHpiMi1GbUM0aUhSOFluSkZ0aG9WVG9DZ0pzQm13d2ZjRG9hZEZrdFRYUTU3bHoyWmhVYjNXUFN4TGtZRGdXbmM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-10T22:52:28Z",
-      "summary": "《华尔街日报》报道称，美国五角大楼正洽谈向AI云初创公司Fluidstack提供50亿美元贷款。若交易达成，将显示国防部加大对AI算力与云基础设施的战略投入，以支持国家安全领域的大模型训练、推理和数据处理。此举也引发对政府与初创企业关系、资金透明度及AI军事化应用的关注。"
-    },
-    {
-      "title": "'Slow it down' - Bernie Sanders proposes bill to ban AI superintelligence - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zNzJ6Xzl1RWd1NGJLaTZ6VzRLX3lyeXV0SGo0S2g2X1ZMMnhMcTFKd1dobnUtT2FTdUxENENYLWFlSGVabFZDQmw0V1hNNEVNa3MxX3hSTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-10T22:48:37Z",
-      "summary": "美国参议员伯尼·桑德斯提出法案，拟禁止AI超级智能，并呼吁“慢下来”。他认为，超越人类控制的前沿AI可能带来不可逆风险，应在安全、伦理和监管框架成熟前限制开发。该提案反映部分立法者对AI竞赛加速的担忧，虽通过前景不明，但将推动关于超级智能治理、暂停开发和人类控制权的公共辩论。"
-    },
-    {
-      "title": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-10T21:58:48Z",
-      "summary": "《纽约时报》文章讨论AI可能终结人类生存的极端风险，以及人类应如何在心理和认知上处理这一前景。面对专家警告、媒体渲染与不确定性，公众容易陷入麻木、否认或过度恐慌。文章或强调风险沟通的重要性，呼吁在承认潜在灾难的同时保持理性，推动安全研究、政策监管与全球合作，而非被动等待。"
-    },
-    {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10T21:51:59Z",
-      "summary": "英伟达CEO黄仁勋解释公司为何明年有望实现约70%的高速增长。他指出，AI算力需求已渗透到各行各业，英伟达在芯片、系统、软件和生态中均有布局，因此未来一年仍将供不应求。黄仁勋同时否认与客户之间的交易存在循环收入，强调需求真实且多元，反映市场对AI基础设施持续扩张的乐观预期。"
-    },
-    {
-      "title": "More Anthropic researchers warn of AI’s perils as Musk terms fears a ‘psyop’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9CTGdvNDlpZlRmYU9BeEtNNC1qQWhkWHBJZmthYzBWalBUSEN0MmRUOFM2SERjX0M2V195ZmRsTkxoVzEyVUttT2pOODhKNHlQOXVZRGdwRVBicGExZU1FNEpGVlIxWDczbll5anB1QURMbk1jdFJ3ZVlxWlRaVkVqcWFyYS1qdzZ5aUx3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-10T21:51:00Z",
-      "summary": "更多Anthropic研究人员加入警告AI潜在风险的行列，而马斯克则将这些担忧称为“心理战”。这凸显AI安全阵营的分歧：一方强调超级智能可能带来存在性威胁，主张提前监管和放缓开发；另一方质疑恐惧被夸大，认为可能阻碍创新。争论将影响公众认知与政策走向，也关系前沿实验室的声誉与责任。"
-    },
-    {
-      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-10T21:50:37Z",
-      "summary": "据《纽约时报》报道，Anthropic 表示已识别并阻止了可能被用于制造生物武器的相关行为。该公司称，其安全监测系统发现有人试图借助其AI模型获取与生物制剂相关的敏感信息或操作路径，随即采取拦截措施。这一事件凸显前沿大模型在生物安全领域的双重用途风险：先进模型既能推动医学与生命科学研究，也可能被恶意行为者滥用。Anthropic 强调将持续强化滥用检测、分类器与红队测试等防护机制，并与外部专业机构合作，对高危应用场景进行更严格的评估与管控。"
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10T21:35:00Z",
-      "summary": "据 TechCrunch 报道，马克·沃尔伯格将出席 TechCrunch Disrupt 2026，并与 Bruce K. Lee 同台对谈。他此行并不打算宣传个人作品，而是希望把话题聚焦在创业者的工作上，围绕投资、创业、医疗健康、身心康养以及企业构建等方向展开交流。这反映出明星资本正日益深入科技与健康产业，从娱乐跨界到早期投资与品牌经营，也说明健康科技与消费级康养赛道持续吸引跨界投资人关注。沃尔伯格预计将分享其投资逻辑与创业观察。"
-    },
-    {
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10T20:59:51Z",
-      "summary": "据 TechCrunch 报道，OpenAI 已暂停 Pro 订阅的新用户注册，原因是 Astra 带来的需求激增。公司表示，Pro 订阅档位对其系统造成的压力最大，因此需要在扩充算力与容量的同时，暂时停止接受新的订阅。这意味着新一代模型或功能 Astra 引发的用户需求超出预期，公司必须在服务能力与使用体验之间取得平衡。此举也折射出当前AI行业普遍面临的算力紧张问题：当需求快速攀升时，厂商往往优先保障核心服务的稳定，再逐步放开高阶付费档位。"
-    },
-    {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10T20:57:30Z",
-      "summary": "TechCrunch 报道，Anthropic 于周四发布报告，详细披露来自阿里巴巴、月之暗面（Moonshot AI）和 DeepSeek 的“蒸馏”行为，指控这些中国AI公司对其模型发起持续性的蒸馏攻击，并称随着行业竞争加剧，此类行为近几个月明显升级。所谓蒸馏，通常指通过大量调用目标模型的输出结果，以较低成本训练自家模型、复刻其能力，这往往被认定违反服务条款。该报告可能进一步加剧中美AI企业在数据使用、模型知识产权与技术边界方面的争议。"
+      "summary": "报道称，AI正演变为“全球礼宾”，帮助覆盖整个旅行流程。从灵感搜索、行程规划、机票酒店预订，到实时翻译、导航、餐厅推荐和售后支持，AI助手可提供个性化、一体化服务。生成式AI与智能体技术使跨语言、跨平台协调更顺畅，提升出行效率和体验。旅游平台和科技公司正竞相布局，将AI礼宾作为差异化卖点。但数据隐私、推荐偏差和实时信息准确性仍是挑战，行业需在便利与信任之间建立保障。"
     }
   ]
 }
