@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "4726",
+      "title": "China’s AI industry is moving from models to agents, a state report says - thenextweb.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TRFFHN2pZNlFVamx6WTJFb2ZEZjNUeHUzMnZtbzMyQlRHQTEteXl2VVdCMG1hbXBkeWI1RS1JdFFrNExobVhSZ0MycVJPTUhITF9JZTR5eEhVbHdXWjdNRXlqcVp6WVY2SUlfQmZn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T11:25:46Z",
+      "summary": "据thenextweb.com报道，一份国家报告指出，中国AI产业正从“模型竞赛”转向“智能体”阶段。这意味着产业关注点不再局限于训练更大参数的基础模型，而是转向能自主规划、调用工具、执行多步任务并与环境交互的AI Agent。该趋势反映中国AI发展重心向应用落地、场景集成和商业化推进，可能带动多智能体协作、企业级自动化与端侧部署。报告也暗示政策与产业资源将更多支持智能体生态，而非单纯追求模型规模。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4727",
+      "title": "A better way for AI in public schools - New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXQwT203NmppZ0lQZHpvc2lCYWZWZFZpMTlYUTVpQWxKdExudVpuU256THBFQmJuVjRRRmNOX2JUV19uS1ZsU2JZcnBKNWxsNG9qaTdhWUk4TTNHbm1SS0xPSEc5eVZZaGhNYkwyN04zbWpRSW5BNS1fY3p3dTlQbWdzYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T09:00:39Z",
+      "summary": "据《纽约每日新闻》评论，美国公立学校需要更合理地引入AI。文章主张，学校不应简单禁止或放任学生使用生成式AI，而应制定清晰的使用规范，将AI定位为辅助教学与个性化学习工具。关键包括加强教师培训、保护学生隐私、确保资源公平，并培养学生对AI输出的批判性判断，防止作弊和过度依赖。其核心是让AI服务于教学目标和教育公平，而非取代师生互动或成为新的数字鸿沟来源。",
+      "fetchDate": "2026-09-12"
+    },
+    {
       "id": "4724",
       "title": "China rejects Anthropic allegations of using Claude to train their models - inkl",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVJOSzZsTXZmS0FxQ1NFOW9UMGZNSGh5ckJyeWo1TURlYWVtNkc2anNxMDlFRV9TYkFjdXAxX0pVaDlKblBqV3ZGamFPTkhHM1NMeGs2dU5OTU9RQTFvOGdGdmU4dy15Q0JnSU9KM3FjUjIwbFZxckhfczJDMGVZWWZMczB1TS1VUnhvTVpBaGQ5WklvaVJjNnRtZll0SHpp?oc=5",
@@ -42517,5 +42535,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4724
+  "total": 4726
 }
