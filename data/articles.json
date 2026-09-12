@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "4709",
+      "title": "\"There is one thing that artificial intelligence (AI) can never replace. It's the human experience.\" - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WSC04b3NNcFEtVWtiVjJRRWE5Sy1mMVdiTVQ0VTAtenhRS0ZZVmdSVXFxQnJqczRzRGZVb25oQlV4RkhVak41ZXlNUnFEVFFYVVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T23:22:35Z",
+      "summary": "韩国《每日经济》报道引用观点称，人工智能无论多强大，都无法取代“人的经验”。这一判断强调，医疗、教育、法律、艺术等领域中，个人经历、情感、判断与伦理责任来自真实生活，不能仅靠数据模式复制。AI可提升效率、辅助决策，但若忽视人类亲历与主体性，可能造成去人性化。文章借此提醒，AI发展应服务于人，而非替代人的体验；技术评估也需纳入人类价值。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4710",
+      "title": "Langevin says more oversight, regulation needed in response to apocalyptic AI warning - WJAR",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSmZqVVVkNl84MnlNUmZZZ1RmZnVaQXNxUXZCVno0MkJfUXZqZ2pzTkJCSUlkSGNvaG8yVklvSDR5ZzN1M3hUcVVudmktbDJ6dkZPZWt2M21MbE1ibTY4SVNEQTNJLWwyYlp5VnN3bVplZFptSGRyU3U1ano2d0NrWXB5VG5ZVXhFcnlJS2k0dUttTVZ1YmJYaDR3OTZBbDAyQ3FUSndfdERScHVuQmVRTHlLYW9hU0RJZjYybTlvZTBBaXdVdXJRSEhCVU9NNzhOOW1VYklkSmFPRkFQZE9GRHVuckxFQkhwanh1dHZCTDl6bGcyejd6V0xuclhjUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T23:18:30Z",
+      "summary": "美国罗德岛州政治人物兰热文就“灾难性AI”警告回应称，需要加强对AI的监督和监管。他认为，面对可能带来严重甚至末世性风险的前沿模型，单靠企业自律不足，国会和监管机构应建立透明、可执行的规则，包括风险评估、事故报告、安全测试与问责机制。他还可能主张在创新与安全间取得平衡，避免监管真空。此番表态显示，AI安全议题正从技术圈进入美国政策辩论核心。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4711",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T22:58:17Z",
+      "summary": "TechCrunch报道，Mecka AI正接近以红杉资本领投的交易获得约5亿美元估值，反映机器人训练数据赛道升温。该公司成立仅两年，几个月前才宣布A轮融资，如今又迅速推进新一轮，显示资本对具身智能和机器人基础数据的高度关注。机器人训练需要大量真实与合成数据，用于感知、抓取、导航和操作等任务。Mecka AI若获融资，将可能扩大数据采集、标注和仿真能力，但也面临数据质量、版权与规模化成本挑战。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4712",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T20:59:47Z",
+      "summary": "Y Combinator合伙人Garry Tan主张，美国开放权重AI实验室也应“蒸馏”本国前沿模型。他认为，应让规模较小的美国开放权重团队使用与美国前沿实验室类似的训练技术，从而形成更多非中国的开放权重选项，增强美国在开源和开放模型生态中的竞争力。所谓蒸馏，通常指用大模型输出训练小模型，以较低成本获得能力。该观点反映美国AI界对开放权重路线的分歧：一方担忧安全与滥用，另一方担心限制过严会让中国主导开放生态。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4713",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T20:57:36Z",
+      "summary": "TechCrunch报道，OpenAI与数学家的矛盾持续升级。25位知名数学家签署公开信，指责AI实验室在未经充分授权或补偿的情况下使用数学成果训练模型，威胁其知识产权与学术工作。争议核心在于：大模型训练是否构成合理使用、如何标注与溯源、以及AI生成数学证明的署名和贡献认定。数学家担心，若规则不明，原创研究可能被无偿吸收，学术激励受损。此事也折射出生成式AI与版权、学术伦理之间的更大冲突。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4714",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT1pMbmZKN1dOa0tRY0hkSGFJUFJiNnJaYUFLcXJuLXI1V19ja1NrS3RzVFg2b3dRMmhYQUE3Z0hoTVpJR3loYXdkdFpBZTZWd09meEpSUXh6bmdHdWNQNW41Z2FnTkJUMEotVWhBM3N0c1Fsa0Q2RXYwYjFyWmd2WnRHb2hIanRSUU9xMi10ZkNQSVlnUkx6dXJEMkpZZGUtWHdGMlJ1MA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T20:44:02Z",
+      "summary": "The Verge报道，一名律师在一起谋杀案中因提交AI“幻觉”生成的虚假证人信息，被法院罚款5000美元。该律师可能使用聊天机器人检索或起草材料，但未核实AI编造的证人、引证或事实，导致法庭文件含虚假内容。法官因此施加制裁，强调律师对提交内容负有最终核实责任。此案是生成式AI进入法律行业后的典型警示：AI可提高效率，但若缺乏人工审查，可能损害司法程序、当事人权益和职业信誉。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4715",
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T20:33:18Z",
+      "summary": "TechCrunch提醒，距离TechCrunch Disrupt 2026展位预订截止仅剩一周。主办方称展位数量有限，可能在9月18日截止日前售罄，希望参展的初创公司、投资机构和AI企业应尽快锁定席位。Disrupt是科技创投与AI创新的重要舞台，参展有助于品牌曝光、投资人对接和产品发布。该通知本身虽非AI技术新闻，但反映AI创业热度持续，行业活动仍是融资与合作的重要渠道。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4716",
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T20:30:17Z",
+      "summary": "TechCrunch 发布 Disrupt 2026 大会周边活动（Side Events）的最后一轮招募通知：申请主办官方周边活动的绝对截止时间为太平洋时间 9 月 11 日晚 11:59，逾期不再受理。官方周边活动是 Disrupt 大会议程之外的重要配套环节，为创业公司、投资机构与技术社区提供展示、交流与社交的曝光机会。标题中连用三个“final”表明主办方已多次延期，此次为最终期限，有意参与方须在今晚前完成提交，否则将错失这一窗口。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4717",
+      "title": "Danielle Smith says AI will ‘help humanity’ after ‘dire’ warning from industry insiders - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYjdVUERmZEZDV1NaajdnamQ5OVpPRnVXZmJzdXFfZ1hFdS1ZX3VHbmhvakd1NnhocVNmSlpkVVZxN05mMTRTVnp2dDBYUUdVVkkyaDgyNjdkcGN6c0k1eGNKNTZrei1JaEE1UE9kalF2a3IyTXVKYW5fQU1RUnRhUmx0akNlQUxjOUtVS2ppTElaRFlWdVpEeU9hemV6S1lwVW0zT2hib0lOMkRYMDZWS1RXSHRxbkRoUjFKeHFrVHdXMmJHVEpCNFlzLUVBYld5QXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-11T20:24:43Z",
+      "summary": "加拿大阿尔伯塔省省长丹妮尔·史密斯（Danielle Smith）就人工智能前景表态，称 AI 将“造福人类”，此番言论是对部分业内人士此前发出的“严峻”警告的回应。报道显示，随着 AI 能力快速提升，产业界对技术失控、就业冲击与安全风险提出警示，而史密斯则持相对乐观立场，强调 AI 可为人类社会带来正面价值。这一表态折射出政界与产业界在 AI 风险判断和治理路径上的分歧，围绕监管力度与发展节奏的争论预计仍将持续。",
+      "fetchDate": "2026-09-12"
+    },
+    {
       "id": "4697",
       "title": "Rebels used Anthropic’s AI bot to develop guided weapons, report says - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaERpaFByZnFpVDR2NXVtS1Nvdy1XN09IVnFDWU9VNF9TTVdpWG0wemJJaFMyVDh3dGZMb2lzOEgzT2NvcHNmNFkwdFdBcmY5UXZ4WnBNZHdpQ05xUnVoTk41b3BjR1BNcXhST1VsY1kwSHVXdzFvcklnQWwzcTVtX1lka1hNczViYlJqbzFnT3BnSHplWllJOEt6MmJYNlRXNk1TeFhiQWFZVTk4bW9TcENTSmxCQ1VjTEE?oc=5",
@@ -42364,5 +42445,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4707
+  "total": 4716
 }
