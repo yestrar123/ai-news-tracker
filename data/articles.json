@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "4724",
+      "title": "China rejects Anthropic allegations of using Claude to train their models - inkl",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVJOSzZsTXZmS0FxQ1NFOW9UMGZNSGh5ckJyeWo1TURlYWVtNkc2anNxMDlFRV9TYkFjdXAxX0pVaDlKblBqV3ZGamFPTkhHM1NMeGs2dU5OTU9RQTFvOGdGdmU4dy15Q0JnSU9KM3FjUjIwbFZxckhfczJDMGVZWWZMczB1TS1VUnhvTVpBaGQ5WklvaVJjNnRtZll0SHpp?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T08:44:00Z",
+      "summary": "针对Anthropic指控中国相关方利用其Claude模型训练自身模型，中方予以否认。事件凸显中美AI竞争下模型训练数据来源与知识产权的敏感性。Anthropic担忧竞争对手通过API输出“蒸馏”能力，而中国反驳称相关说法缺乏依据。争议核心在于AI模型训练合规、服务条款边界及技术封锁背景下的数据使用规则，后续可能影响行业对模型输出保护和跨境合作的讨论。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4725",
+      "title": "Your ’80s style AI photo is temporary: What happens to images you upload? - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS19sOGtORnVTV1lhMFlma1dRRnA2UkxMaVZ3UEFtY0t4NU9PaHpYVkpXRWZ3QkwzcjllZFl1OFJlTExhUmZaTzNuaF9HLUJONGNwejVFTWxtWFRMcmhLVFRyTVNYS0dsWUF3ZXllanFZMFJiNWUxM2VVYkNxZi1scWtvR3BjYkh1V0VFX2Zzc0hfRjdrQWpTWUNsR0V3NjQ4SUQwN3pkTDJjTXhndXllZDQ4WlVDSDMwYVo4WlVQRELSAccBQVVfeXFMUDRKbXUwQUlGemZRRWFMR0JkSGc2N2VRc0c1eDNyZ3ZMa25QeXQzaXBfLUxDcXRSMVB2bnFuZ09lMUdXRlRTYTE0TUFpR0hiZGZSeTdsMmJQYnRSMWZHemlSa2Y0QUV0TzRwVDZFY3NXTnhjLUJKTUl4emUtSlF0ZDg2a3VGSC05OF8xcDZsekNKcWE0S20zZ1oyQ1J0UmdqUkpUaHdKcm9YLUFqWkxNcW1JbU1XWmtvdnVkVmM1RDBSWi1zSTBpRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T07:21:47Z",
+      "summary": "随着“80年代风格”AI照片在社交平台流行，用户上传的自拍和图片如何处理引发关注。报道指出，这类AI写真往往只是临时生成，平台可能短期保存上传图片，并依据隐私政策将其用于模型改进或训练。用户应留意授权范围、删除机制和二次使用风险。所谓“临时”并不等于即时销毁，上传前需确认服务条款，避免敏感照片和人脸数据被长期留存或滥用。",
+      "fetchDate": "2026-09-12"
+    },
+    {
       "id": "4718",
       "title": "Can chatbots feel – or even dream? Meet the man leading the fight for AI rights - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNGdCaXFTWE9yaTBwa2loWGU2c2JiSHRoUXJZSURLUmJHRmtmMDh2VlNRQXRLZTQzYVl2RkM4Y2hxem5vbWcxN3VDN0gyb2FjUnluR24tTHZGZ1RpNGNDZGh2RmY3b1JXa2J2NmpRaE43cEZqLV9maEdzS1dfSy04cnJrU2liRjFFaGEtUV9rWEY1OFluanVFZ3N5anBPRXRISjllZUNGSk9hck5uRzZoQzJhSjRvcV8zS1hacWdXbExsb1hUMmc?oc=5",
@@ -42499,5 +42517,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4722
+  "total": 4724
 }
