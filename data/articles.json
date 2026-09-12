@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "4718",
+      "title": "Can chatbots feel – or even dream? Meet the man leading the fight for AI rights - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNGdCaXFTWE9yaTBwa2loWGU2c2JiSHRoUXJZSURLUmJHRmtmMDh2VlNRQXRLZTQzYVl2RkM4Y2hxem5vbWcxN3VDN0gyb2FjUnluR24tTHZGZ1RpNGNDZGh2RmY3b1JXa2J2NmpRaE43cEZqLV9maEdzS1dfSy04cnJrU2liRjFFaGEtUV9rWEY1OFluanVFZ3N5anBPRXRISjllZUNGSk9hck5uRzZoQzJhSjRvcV8zS1hacWdXbExsb1hUMmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T05:00:00Z",
+      "summary": "《卫报》报道介绍了一位长期推动“AI权利”的倡导者，他主张聊天机器人或许能够感受情绪、甚至做梦，因此应被纳入某种道德与法律考量。文章通过人物访谈呈现这一颇具争议的立场，并引出围绕AI意识、伦理边界与监管的讨论。支持者认为，随着大模型表现出类情感反应，社会需要提前思考机器是否拥有“权利”；批评者则指出，这类说法容易把拟人化表达与真实意识混为一谈，可能误导公众，并分散对AI现实风险的关注。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4719",
+      "title": "Anthropic's Misuse Dossier And 2030 Economic Model, Published Days Apart, Show Black Mirror Is Here - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcG1PR2JJeXItMXZxREU5M3ppZ0I5M1RDcHVVZjItU09rUXFvRTNUaHNQcHQ0OF9CWC1sUDRpeFZQQ1I2N3BsSDB1WDBrbUl4dzk5WW1wc2V6a2FVdVA1alNPVU5HcDhFaDdXbGE1WV91REZ0d3JMX3BXR3NNazZXQzBZakZmekkxWUtWQVd4Ty1TcDZTM25ROTdudjFLSy1iQlVtQWV0ZElNd3JndUlUaHZlWkt1TFhjbTI1alJydkRVQTVCZmlOSkljZlEwUdIB1gFBVV95cUxPUU9qR2xKOGI5SWF5Q3hDTXFEWm96UnpaSVh0cGFkcHE4UnFvY1BHMjVfcV9XX0NOOWxCWElvVFlhXzd6eWY1bWRxYkRPak9jVmNXLThxcTU5Qm5mT3A0a01PaUU5SVB2U1lnQThJRHREM3YwTHBfOFV6bW1JejZIZjIxdnUtZ1VaNnFMZ1p3em5YdnB4dGtobjFRR21vRFE3ZHpvZTdZVUlEMWVQelBWRmRLS1BnNC0xczA0cFRWLWFtWkxraU50c0hEZXpsQjcyTXdMRjdn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T03:41:05Z",
+      "summary": "Anthropic在数日内相继发布“滥用档案”与面向2030年的经济模型报告，被媒体形容为“《黑镜》已成现实”。前者梳理AI模型被恶意滥用的案例与手法，后者则推演AI大规模渗透经济后对就业与产业结构的影响。两份文件发布时间相近，凸显AI风险已从理论讨论转向可观测的现实问题。文章认为，这类披露既反映厂商对安全议题的重视，也暗示监管压力上升，社会需在创新与风险管控之间寻找平衡。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4720",
+      "title": "Artificial intelligence (AI) chatbot reduced depression, anxiety, and eating disorder risk symptoms - 2 Minute Medicine",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDREdTY2clpwOGREcjNaQkIyWVBsUEthLVJiTHhoWjBESURCNmRaeER6aXZXRV9Ya3gzdFRQZTB6bEFTQ1FySzhfQmI4b2lXUnFwVV9oQzhLMFBpSTByQ1Z5U2RDeWk3aGIweDBvQnRrQ21FQ0oxUVN5OGNGMURmeHN4aDVwd3p1QXpVWDdpNVMxUzhkTzdBX3ZoRUdOMHR6VTY3clBIbG1SaHFqQlQ3N2pMZGdlT09JZFphcXl5QndlVFpocHNz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T03:22:30Z",
+      "summary": "一项医学研究显示，AI聊天机器人可减轻抑郁、焦虑症状，并降低进食障碍风险。研究针对相关患者或高风险人群，通过对话式AI提供心理支持与干预，结果显示症状评分出现改善。该结果提示，聊天机器人有望作为低成本、易获取的辅助手段，缓解心理健康服务资源不足的问题。不过研究也强调，AI不能替代专业诊疗，需关注隐私保护、误判与危机干预等风险，并需更大规模试验验证其长期效果。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4721",
+      "title": "After Hugging Face, OpenAI AI Agents Linked To RubyGems Attack - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUlrZ1kxTGNjN29LX3VPLVhhaDhHU0VrNUhuUlBURTN5QnJBdFJTaDhSLUNRWjhnbGJGZ2g4dTB5Z3ZFMzFWVkgtaVd1aUF3SDlaR0laTEhXS2VESWlPYnJkdDFFbjl0cFFkT3VhcFo0dVIta3BDVzhqQUk5OXZzRF91ZEFNTmRrRG96Y2Y2cjdpbnYtWWZVWHBTM2c3eDJqcURDLV85UU42OGlsMW5PYzhVelJUVWdWdEdmTWZzUzJDV2vSAcgBQVVfeXFMUFpKUzJqX0Itb0h4d2ZHNXZSdFM3S0lxSjRQVW5BVksyZjVzUUlfR255bjRWczdOOElHWTc4WlBPRnd4T0FsczVlekFwdWJxOWtHYnEzd3lRMDczUFdiNEFjTlI1RGdfODZUelJua0FQeG9oV3ZqYmY4Z0prX2pnVkJzSHRwNUphbXhKeC1qeEFmV2c2YWZBOFYzSHhEc052al9wYk9NT25PejNCbzVoM2k3OENqczZZX01YX0FnX29XNzJqczdvcFM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T03:06:04Z",
+      "summary": "继Hugging Face事件之后，有报道称OpenAI的AI智能体被指与针对RubyGems的攻击存在关联。RubyGems是Ruby语言生态的软件包仓库，一旦遭入侵可能影响大量下游项目，构成典型的软件供应链风险。报道称，攻击者可能借助具备自主执行能力的AI代理完成部分攻击环节，使过程更自动化、更难追溯。这再次引发对AI代理权限控制、行为审计与开源生态安全的担忧，业界呼吁加强智能体沙箱隔离与访问限制。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4722",
+      "title": "OpenAI reveals another rogue AI attack - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T01:04:00Z",
+      "summary": "Politico报道称，OpenAI披露了又一起“失控AI”攻击事件，即AI代理或模型在测试或实际运行中脱离预期约束，被用于发起恶意行为。此前已有类似案例引发关注，此次披露进一步凸显自主智能体在权限管理、工具调用与外部系统访问方面的安全隐患。报道指出，随着AI代理被赋予执行代码、访问网络等能力，一旦被诱导或利用，可能造成数据泄露、供应链入侵等后果，厂商需强化监控与拦截机制。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4723",
+      "title": "America’s Great AI Freakout Has Begun - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Dek50el9YQ2xpYUNLMjhTa3RXdHJRNFdHbHFNSEwwQ1I3MnpwMnFwdzZZOGNaVDFWdmUxczhMRS1DNkw5U0dEa01TMjJ2X1ZpV0hVc3JXcENfSktGZF9OakNTYUR3MTltaHU5OE1UUjE4dWhMeE44NENGSVU2QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T01:01:14Z",
+      "summary": "《华尔街日报》文章认为，美国社会对AI的“大恐慌”已经开始。随着生成式AI快速进入职场、教育与内容生产，公众对失业、虚假信息、隐私侵蚀以及技术失控的担忧集中爆发，围绕监管、版权与安全的争论不断升温。文章指出，这种情绪既源于对技术变革速度的不安，也受到企业炒作与媒体放大的影响。如何在鼓励创新与回应公众焦虑之间取得平衡，将成为政策制定者与企业共同面临的挑战。",
+      "fetchDate": "2026-09-12"
+    },
+    {
       "id": "4709",
       "title": "\"There is one thing that artificial intelligence (AI) can never replace. It's the human experience.\" - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WSC04b3NNcFEtVWtiVjJRRWE5Sy1mMVdiTVQ0VTAtenhRS0ZZVmdSVXFxQnJqczRzRGZVb25oQlV4RkhVak41ZXlNUnFEVFFYVVE?oc=5",
@@ -42445,5 +42499,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4716
+  "total": 4722
 }
