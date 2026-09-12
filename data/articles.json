@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "4728",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-12T19:34:44Z",
+      "summary": "Anthropic首席执行官Dario Amodei提出放缓AI发展的计划。报道指出，Amodei与OpenAI的Sam Altman似乎都认同应当“为前沿发展设定节奏”，即不再一味追求最快、最强的模型迭代。文章探讨这一主张在现实中可能意味着什么，包括更克制的发布节奏、更严格的安全评估以及行业层面的协调机制。这一表态反映出头部AI实验室内部对能力跃升速度的担忧正在上升，也预示围绕“减速”的讨论可能从理念走向具体治理安排。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4729",
+      "title": "Anthropic: AI Misuse Is Entering a New Phase: From Cybercrime to Surveillance, Propaganda and Weapons - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNl9paGEwVnNqNjEwbXN6Um9weDhFTkd4YzM4Q0h5SXktZFVDbWZoUW9fekZVWEg3dDktbXNRRHJBb3cwbXFMUlNBU285b2g0WVpRcmJoTjhleG1pOFF5aGxEYXBleUt1LTF1UEhXQVN1R3owV1hlNHMyeVFWNUVZSjdlZ2pzYUZUSWFfcFBOelJnMVUyWFBqQ2lTQ1NEcktsVWJCdkpNeUJSS3BGMVlqclVSS2lMbmhTWXRBOXdoMmFCVXR2MjJ5U0hoNmJRYXZqcGJjclhmR2bSAd4BQVVfeXFMTmNnRk41c0x4dVZXemREX0ZTYjQ4SXdZRXVCLUd6UVBkUWF3cnpJQmowV0NHclEtMUFtbEdaRGxwRE9wcEoyUGlMS3JRS0lmdUdkY0xiNjI0OW9SSDY0czBTZXhVc0p6Q1dVZVNza1JfalU4d0t4bi1aZDF3S2g3bjVLek90bFZZRkNUWDdDM2R4b2NXSXFocXNHYVZ5R1pQODI5TldLXzc3clZzSmZBMlRSdWxoWDRjS2lmb1NVWHQ0TTZiMV9hQlJiUVFQM1BjTmI1bEgzdE91S0RsYW5R?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T17:54:12Z",
+      "summary": "Anthropic警告称，AI滥用正在进入一个新阶段，风险已从早期的网络犯罪扩展到监控、宣传与武器等领域。该机构指出，随着模型能力增强，恶意行为者利用AI实施大规模监视、信息操纵乃至协助武器研发的门槛正在降低。这一判断意味着AI安全议题不再局限于模型本身的失控风险，还需应对现实世界中多样化的滥用场景，对滥用检测、访问控制与行业联防机制提出了更高要求。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4730",
+      "title": "Anthropic CEO seeks immediate slowdown on AI - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRXU5VmpWekpBOWZuZU00SzJuVVN0cHBfWjRhX2pVWVFIYjhBS1JSamNjLXhLeDk3NVd4c093a3FWTDNYUkI5LVdmSmFKcjJsX051QWhwejI0SGZsQ0RMNjNXTUNDRnFNVXhUR2YtX0VHX1VmdjhpRGUwZllWdzlnWFplSkotb3o1cTZlVS01YXE2OEp1cEtSdUdVZzJJdTdteVdfajQ4Y2NNY3Y1Tm1aa1k0Tmk3RjN0YXNBdGI3aElINDQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T17:53:00Z",
+      "summary": "据Politico报道，Anthropic首席执行官公开呼吁立即放缓AI发展。他主张在安全研究尚未跟上能力增长的情况下，不应继续以当前速度推进前沿模型的训练与部署。该呼吁出现在行业竞争白热化、算力投入持续攀升的背景下，被视为对“先发布后治理”惯例的直接挑战。不过，单家企业的主张能否转化为行业共识仍存疑问，因为放缓意味着商业与地缘竞争上的潜在代价。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4731",
+      "title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcU1YS0xFaGIxT09LRnlVc3AxVWdtZUJrYmxiY3ctc3FxZmVCbWx6LXdxaXZkUWY1TUl4N0xnZ3A3aDA0SmFNZm5xU2hQM0I4YXQ3RHZUeWozQnJxcHJra3ZwNXJ2WEVvTzltSy1ZdHoyMUVRNm1Ua1ZWdWF0TUw1cFpLRmVyUVI2U0dBZV9welJMczBPR1ZWN0RVYkpMTk5BRDY2Q0k5OE81Y1JPM0tmc08wWXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T17:50:00Z",
+      "summary": "据《卫报》报道，Anthropic首席执行官发出“我们必须放慢步伐”的呼吁，要求AI行业降低发展速度。他强调，能力快速提升带来的风险正在超出当前安全手段与监管框架的应对范围，因此需要主动减速而非被动追赶。此番表态与行业内加速竞赛的主流氛围形成鲜明对比，也引发关于谁来制定节奏、如何衡量“安全就绪”等问题的讨论。批评者则认为，单方面放缓可能只是把领先地位让给监管更宽松的竞争者。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4732",
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aczlIdEtpNllGU1NEQUZCaDZCS1VFaEVaUnMzSU1OQ0pjQ19sdExRRVhvOWthX2VUWUgxUElDQjJ2Z3V2VGpObHhmckc4SHJXZXVhbUY1eXlmUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T17:28:53Z",
+      "summary": "据BBC报道，硅谷部分人士对业内人士发出的“戏剧性”AI警告反应冷淡。尽管多位AI公司高管与研究者反复强调存在生存性风险，但在竞争压力与商业利益驱动下，这些警告并未转化为明显的行动或行业自律。报道反映出一种内在张力：发出警告的往往正是推动技术前沿的公司本身，其动机与可信度因此受到质疑。这样的分化也说明，AI安全叙事若要真正影响决策，仍需更具体的证据与可执行的路径。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4733",
+      "title": "Artificial intelligence must be tailored to India's local needs: Experts - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaUx5WFpSNUxneEJrX2k2aVVhbTl4Z1FXT1JvLTVqcm4zRWhmLWFMX09zNUNmd2J0NzF5LTJLSGQwY3ZsUElXcVduWUdtUUZDMEs1aXFHLWpDSjA1d3hubWdDSWh4eHNPTWcxcVM3OHJ5bVc5V1M1MVpxYlh1eHM1RkhpVjhwaTNwZzk3cWx0TXk3NGtuWTA0amF4a1lzeG9tY3JTMmZ4SS1NdFRDV3pnSkM3QVV3Nmt3LTYyRlhPRkRVODRWRk82VGtTVUhqWWh4QTR4ai1B0gHbAUFVX3lxTE1tN2JrTzNWOC15eXB1Y0E0STBacVh0TTB5X2g1bHRTQzdEaG1YTTVtUWR5NzVyTkFzR1R0NUVxTzZ1ME9zNWNQSC1uek9PR3BycHctS2VEa0JicC12cEk0V3F0WVU0WUlhMWNsTnpnaW9CWDFSUjVkQk5YTFlMbEVZalc3Qy10QnhuaG1pVEF1R2lqSkpTZXpVRU1hVlNWblBXT2tNdVJDYTZaelNaa1R3MWNPRGhQR2NvclF4by1HWEk1MFhRUFR4bGlDeTdjdExGNnlsTDVpazlHMA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T16:40:21Z",
+      "summary": "据《经济时报》报道，专家指出人工智能必须针对印度的本地需求进行定制化设计。印度语言多样、城乡数字鸿沟明显、公共服务需求庞大，通用型大模型往往难以直接适配。专家建议在农业、医疗、教育与政务等场景中发展本地语料、本地部署与低成本方案，让AI真正服务广泛人群。这一观点也呼应了全球范围内关于AI本地化与数字主权的讨论，即技术落地的关键在于贴合具体的社会经济语境。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4734",
+      "title": "Why It’s Difficult for Tech Companies to Rein In A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOU9MTER0WjJwa1VDM0F3RlU2aGNDTUdwUEd0LVAtci1teHlHcGhaa0dSTmJrUXlxa2h1RVpXUDJndHNkMTBZTmxVTmdBMzJGU2dhX3RzMW82TXFjTUpqY1M4NkVHbzdMX3VzMklsNlFoNENMTVpsNWpGSUNnYTJvSXNOZjVqdmhpWFZCdmpvNlFUaXVBcXNmbkdfTmc2YkE3TmpBNlNnZWR5ZlJzX1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T16:18:06Z",
+      "summary": "据《纽约时报》报道，分析指出科技公司很难真正约束AI的发展。原因在于商业竞争、资本回报预期与技术惯性共同推动企业不断推出更强的模型，而安全团队的约束力往往受制于产品节奏与营收压力。此外，AI能力扩散迅速，即使某家公司自愿设限，其他参与者也可能迅速填补空白。文章由此揭示出AI治理的结构性难题：在缺乏统一规则与外部监管的情况下，企业自律难以形成稳定、可验证的减速效果。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4735",
+      "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T16:03:19Z",
+      "summary": "据《纽约时报》报道，文章披露了AI公司内部围绕“超级智能末日”情景的讨论。面对可能出现的失控风险，部分企业设立专门的应对机制与预案，探讨一旦出现危险能力迹象该如何暂停或回退。这些讨论一方面显示出前沿实验室对极端风险的认真态度，另一方面也暴露内部分歧：有人认为此类情景概率极低，不应拖累研发进度。报道呈现了商业动机与安全考量在企业内部持续博弈的真实图景。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4736",
+      "title": "Anthropic boss calls for slowing pace of AI development - France 24",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb0xlSUlSSXV0TGFLRlVheXZPR0hONHoxU0JVY3doaDl2bHZvdXpJSDVQZF9ZUDZYRWRPQlJCYXU5dVdiTWdScnEyLUhVOVdRVWthUTgyRnVjalFna3hsVVNCOVh2M3FtVDR0b1NXMjZaTzhGQWdNWEVhZW13aVhJLVVZUDJObVlMSjdiRFp5aGRKVE4xdWJRQnBzVmFaNjlRSzB4bA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T15:29:10Z",
+      "summary": "据France 24报道，Anthropic负责人呼吁放缓AI发展的步伐。这一表态经由多家国际媒体同步发酵，成为围绕AI安全与监管讨论的新焦点。其核心主张是，在安全评估、可解释性与治理框架尚未成熟之前，行业不应持续以极限速度推进前沿模型。报道同时指出，此类呼吁与实际竞争态势之间存在明显落差：各国与企业仍在加大投入，真正的减速需要跨境协调与可核查的机制，而非仅靠个别公司的倡议。",
+      "fetchDate": "2026-09-12"
+    },
+    {
+      "id": "4737",
+      "title": "Iran and Houthi rebels used Anthropic's Claude AI to target US warships and build hypersonic missiles — Houthi rebels also used the bot to code ballistic missile guidance systems - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNTkRvTzNfa0EwSzJVenh1NU5MUjQtQzByQkhnMkVEUl81bVRjVm1jRXo3dmE1S1FxejZOcjlUQmhtLTVKeFlaWjFsSGlfNE1VQUVsTnBrZGZwU3ZZYzlGOHFCS3lMd2VHQld1Uk5GekphZ25ORm84TTd6bngxbV9BbGY5Q0RocGc3dV9VRTVGaXFWUVVqV05DQzRWcUU3SkVWcjlpd1VNdVM3M0syLTd5OUxOWWptSGpDcWE1OHJVZElFZmJRR0tUZnotNFNOUGI4c0JFMjQ0T1lvdDVrUDBtdFZOZ3RyX2JrUFBUTGVHZGFiZFBVbGlLSW43YldpRWVJUmRZd2NJdlgxVmRrcHBVaHNKbW1KSjY3OHdSMkU3elU1R2IyWjAtcXZERHJaYTNxM3hENXl0MGNMdTVwVzl1YjhydmRPcE1qS1VkSHl5SWpXMU5IREZUVDN5ZnUzMnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-12T15:03:10Z",
+      "summary": "据Tom's Hardware报道，伊朗与胡塞武装被指使用Anthropic的Claude AI协助军事用途，包括瞄准美国军舰、参与高超音速导弹研发，胡塞武装还用其编写弹道导弹制导系统代码。该消息凸显前沿模型被用于军事与武器开发的风险，也暴露出访问控制与滥用检测的漏洞。若相关情况属实，将进一步推动关于AI出口管制、使用条款执行以及模型能力扩散的争论，并可能促使厂商收紧高风险场景的权限与监控。",
+      "fetchDate": "2026-09-12"
+    },
+    {
       "id": "4726",
       "title": "China’s AI industry is moving from models to agents, a state report says - thenextweb.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TRFFHN2pZNlFVamx6WTJFb2ZEZjNUeHUzMnZtbzMyQlRHQTEteXl2VVdCMG1hbXBkeWI1RS1JdFFrNExobVhSZ0MycVJPTUhITF9JZTR5eEhVbHdXWjdNRXlqcVp6WVY2SUlfQmZn?oc=5",
@@ -42535,5 +42625,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4726
+  "total": 4736
 }
