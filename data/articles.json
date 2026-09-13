@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "4765",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-13T19:40:15Z",
+      "summary": "TechCrunch旗下Equity节目讨论了AI行业最新一轮“末日警告”背后的原因，核心争议在于人工智能是否已构成对人类生存的威胁。支持警告者强调失控风险、对齐难题和滥用可能；质疑者则认为其中夹杂商业竞争、公关叙事与监管博弈。节目梳理了行业领袖、投资者和批评者的不同立场，反映AI安全辩论正从技术圈扩散到公共政策领域，也预示未来监管与创新之间的张力将持续加剧。",
+      "fetchDate": "2026-09-13"
+    },
+    {
+      "id": "4766",
+      "title": "Robots Protest in Poland Against the Uncontrolled Use of Artificial Intelligence - ColombiaOne.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYWlyWWI2LU5BVWhZUDlCdjhXVV82SWotLWdidGttMlIxTXE4Q0c1M2ZQY1JiSi15WVplRVpkeFdYOW1YVHVZS1R1RmxLWlNDcm85NHItNUw2dDFQYzFEYnFLU2lSaHh2aldIRHlJdUltbUt0alNoamZQSHF3dEJLZWluZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T19:00:00Z",
+      "summary": "波兰出现一场以机器人形象进行的抗议活动，反对人工智能不受控制地使用。活动人士借“机器人上街”的象征性方式，表达对AI快速部署可能带来的隐私侵蚀、算法歧视、就业冲击、自主武器和人类失去控制权等风险的担忧。报道显示，欧洲社会对AI伦理与监管的关注持续升温，要求政府和企业提高透明度、建立可问责机制，并确保技术发展服务于人类福祉，而非由少数公司或军事目的主导。",
+      "fetchDate": "2026-09-13"
+    },
+    {
+      "id": "4767",
+      "title": "Chip Roy is leaving Congress — but not before warning his colleagues about AI - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUtPejZuR19NLTEzS2RqWXZTa3pETU5XVURfaVhKRjlmdVluY185Y2xjOFEzSzNKaVRncnVyaE95eW5xUEx5am9EVmRodFREeWhQQVcwVVBWMTdVMVFrQlowWDBGaE9MeWRKRFZLT2g2eHdiV2tWUXNRbVR2dF9uOWxDT3AyQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T18:41:00Z",
+      "summary": "美国国会议员Chip Roy即将离开国会，但在离任前专门警告同僚关注人工智能带来的风险。他可能强调AI在国家安全、经济竞争、民权隐私和权力集中等方面的挑战，敦促国会尽快采取行动，而非因党派分歧拖延立法。这一表态显示，AI治理正成为美国跨党派关注议题，即使即将离任的议员也认为必须加强监督、制定规则，以应对快速演进的AI能力及其潜在滥用。",
+      "fetchDate": "2026-09-13"
+    },
+    {
+      "id": "4768",
+      "title": "Here Are the Companies in Nvidia's $99 Billion Artificial Intelligence (AI) Portfolio. These 3 Are the Best of the Bunch - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzEzdWRCdGxnUkE3RVh0em80TUNqUFV1ZUdhb0pPdUNDUjNEWHc4T2VDSUpkbFpmMncyTnBYTTRvLVJNd3RKcExpcW9nRFl4ZG1vQ0haZVZhVlVTM2xsLWtJMDNyeGIxM0hibTNJbUNfUjY4SEhTcGJMZVQ5ZVRpQXZNeUF1ZjBuSV9rY2xvM0dxOWhGRVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T17:46:57Z",
+      "summary": "《Motley Fool》盘点英伟达规模约990亿美元的人工智能投资组合，并从中挑出三家最具潜力的公司。英伟达通过广泛投资覆盖AI基础设施、模型、云服务和行业应用，既追求财务回报，也强化其在AI生态中的核心影响力。文章试图帮助投资者理解其布局逻辑与潜在赢家，同时提示需关注估值过高、持仓集中和AI泡沫等风险。由于摘要未列出具体公司名称，投资者仍需结合原文和基本面进一步判断。",
+      "fetchDate": "2026-09-13"
+    },
+    {
+      "id": "4769",
+      "title": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbFlIUXp6SmlMdy1VLWU1OXpsdzBCMmpEMm1lZWU3R19IR0VkOFpXdVo2cmRkRGJFN2I0a0MxS080OHk3TE0wN0NxN1BCTDJjM2NBRDdLTS1BWVFYTXNMTjI1aVcyT3Z4aVJUVkd3MTkxNlBSbktsZDc2M0k3RmQ0cmc1ZEpWRmxVTnhiNW5KMU56LUwycGpqTk1ZaWlydldGLTBhTDg5ZldITlg3cEZLUXM2R2RuZ2VaTHczQlJTM0tKblVjZU9tWTVtZHFnNVptSFZN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T17:07:00Z",
+      "summary": "针对AI领袖呼吁放缓开发，批评者以“太少、太晚”表达困惑与怀疑。文章指出，发出警告的许多公司正是推动AI竞赛的主要力量，可能借安全叙事影响监管、巩固市场地位或转移责任。批评者要求的是具体行动，如暂停高风险模型、公开风险数据、支持独立监督和赔偿机制，而非空泛声明。这场争论反映AI治理中的利益冲突与信任危机：公众担心，真正决定技术速度的仍是商业竞争和地缘政治。",
+      "fetchDate": "2026-09-13"
+    },
+    {
+      "id": "4770",
+      "title": "Trump dismisses AI leaders’ calls to slow down, citing Chinese competition - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T17:03:03Z",
+      "summary": "美国总统特朗普驳回AI领袖关于放缓开发的呼吁，理由是美国面临来自中国的竞争。他认为若美国减速，中国可能趁机赶超，因此应加快AI创新、减少监管障碍，以维持技术优势。这体现美国政策辩论中“安全优先”与“地缘竞争优先”的张力。支持者认为此举有助保持领先，批评者则担忧忽视安全、伦理和长期风险。特朗普立场可能影响共和党及产业政策，使AI治理进一步与中美竞争绑定。",
+      "fetchDate": "2026-09-13"
+    },
+    {
+      "id": "4771",
+      "title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T16:37:49Z",
+      "summary": "美国前总统奥巴马敦促民主党将人工智能监管置于政治议程中心。他强调AI对经济、就业、民主和安全具有深远影响，民主党不能只被动回应，而应提出清晰、可执行的监督方案。此举显示AI治理正成为美国政党政治的重要议题。奥巴马的影响力可能推动党内形成政策共识，包括算法透明度、隐私保护、劳动者转型支持、安全评估和国际协调，同时平衡创新与风险，避免监管落后于技术发展。",
+      "fetchDate": "2026-09-13"
+    },
+    {
+      "id": "4772",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-13T16:30:00Z",
+      "summary": "奥巴马近日表示，民主党需要将人工智能列为“核心议程”之一，并制定“非常清晰的计划”来应对技术带来的经济影响和安全担忧。他强调不能只停留在警告层面，而应提出具体政策工具，包括监管框架、劳动者转型支持、安全评估及国际合作。该表态与《纽约时报》报道相呼应，显示奥巴马正推动民主党在AI治理上形成主动、系统性的政治纲领，以回应公众对就业、偏见和失控风险的焦虑。",
+      "fetchDate": "2026-09-13"
+    },
+    {
+      "id": "4773",
+      "title": "Building a crisis-ready Philippine economy in the age of AI - BusinessWorld Online",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHhlQS0yV0lhdHBxQS1ZOFA0QVN1eVR0bEFmb2lhRVMyZXFyaTFFZXRwSlZVYnpremlOLU95cUJBX1czb2VMaXlNOTU3a2dPQ0Jsdjd1SW9GelpjNVNjZ0FQZUhBMjdyS1VFT0tJamhxa2QyQVd3TnBUSThVZFZ0MTFLNV92SXdXbDVtdFZfRGZtY2lqbFlmbDRZcFRvaTAyWjR3NGc2blBhazV6YlJqQUdqbnI1RFR2OGFr?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T16:22:25Z",
+      "summary": "《BusinessWorld》文章讨论在AI时代如何建设具备危机应对能力的菲律宾经济。核心议题可能包括：利用AI提升生产率、公共服务、灾害预警和金融韧性，同时应对自动化对就业的冲击、数字鸿沟、数据治理和网络安全风险。文章呼吁政府、企业与学界合作，制定国家AI战略，投资数字基础设施和技能培训，使经济增长更具包容性与抗冲击能力，避免在技术变革中扩大社会不平等。",
+      "fetchDate": "2026-09-13"
+    },
+    {
+      "id": "4774",
+      "title": "AI whistleblower sounded the alarm. Now tech leaders are calling for a slowdown. - TheGrio",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OVUlmeE1ET0x1X1A5dV8tekJBT3J1OVZ6NUNCUm1pNFZ5TS1HdEdDaFliSnhZZGdwS05uSUpQOFAweG9xR08wU21kclY2RlMyaUpQVDByUXloc3NWYWhMNFFpalhOeXZ5Y0NzZG8yUGFhaDdrX3VNNVlB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T16:08:35Z",
+      "summary": "有AI内部举报人此前就人工智能风险公开示警，如今多位科技界领袖也相继呼吁放缓AI研发节奏。这一动向表明，业界对模型能力快速迭代、安全评估与治理机制滞后的担忧，正从个别声音演变为更广泛的共识。围绕AI发展速度、安全边界与责任归属的争论持续升温，如何在推动创新与防范失控风险之间取得平衡，成为行业与监管方共同面对的核心议题。",
+      "fetchDate": "2026-09-13"
+    },
+    {
+      "id": "4775",
+      "title": "What Anthropic’s C.E.O. Argued in His Call for Slower A.I. Development - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T15:58:51Z",
+      "summary": "《纽约时报》梳理了Anthropic首席执行官呼吁放缓AI开发的主要论点。他主张在安全研究、评测体系与监管框架尚未跟上之前，不应以竞赛心态盲目加速推进前沿模型，并强调透明度、可解释性测试与行业自律的重要性。他同时警告，激烈的商业竞争可能促使企业压缩安全投入，从而放大长期风险。该表态被视为头部AI公司对“加速主义”的一次公开反思。",
+      "fetchDate": "2026-09-13"
+    },
+    {
       "id": "4755",
       "title": "What are the five pros and cons of artificial intelligence? - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkJUcjZydEhPb3Itel9PUVFhWFpZcm5GRE1UYUhQQWxRYjdLbmp0RTg4T050Q0N3UGtral9HSFEzc2NXcWFnd3FwOUhPS0tpc0k4cXFZOHJuWHJ1TUYzN1ItMUNxMGRDbDNiMlZYV205eERMTk9uUjg3NzJleUdYOG0zSEIzU2RHTDZCRjROMU9qZW14MXh1SnU1MlFrWkkt0gGmAUFVX3lxTE1PXy1fNFdzYUxKLUVpWWN0RjhGaEp4ZnJXOFVEOGZ6RkxYb0NKUDR5SkliWmZTSXpYR3U1RFdVc0ZPM0FuVll2cF9lbnRpcTN5ZWVWbm1mTVdobklyaVlqUGdRSlFaMEg5SVNTa1AyR25HN0pOUHptdnVmY01JQmRDZUxUbTV1OXl1Z2JjRDI5UXBRR1N5MzJqZWRHd1gxN1ZZZ1U2cHc?oc=5",
@@ -42868,5 +42967,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4763
+  "total": 4774
 }
