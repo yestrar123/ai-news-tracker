@@ -1,41 +1,97 @@
 {
-  "updatedAt": "2026-09-13 06:59:46 UTC",
-  "totalArticles": 5,
+  "updatedAt": "2026-09-13 10:45:51 UTC",
+  "totalArticles": 13,
   "articles": [
+    {
+      "title": "China’s data regulator plans standards for embodied AI, ten days after industry asked - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGanlubXEtR3Q4M1JwcVlaWDNCQmtNQjhjYjRHYUtYaHlqaDh2N1FHdUtXelZpcDFEN3RJUC1INjZyUWYtbWpPSUZDaWFDOWNySk0yS0hzaGVkT0dqS2lPRW9pcVRTa1dJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T09:45:00Z",
+      "summary": "中国数据监管机构计划为具身智能制定标准，距产业界提出相关请求仅十天，显示监管对具身AI规范化高度重视。具身智能融合大模型、多模态感知与机器人控制，能在物理环境中感知、决策和行动，涉及数据采集、隐私保护、安全评估、互操作和伦理等议题。提前制定标准有助于为研发、产品落地和监管提供依据，降低安全风险，促进产业健康发展，也体现中国在AI治理与产业推进之间寻求平衡。"
+    },
+    {
+      "title": "We asked AI whether it would lead to human extinction in a decade. Here’s what it said - independent.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZW5ZaHJXdjBMS3RsR2R5b3NnVmQyeWZhWTZVaVpHMGt3c1Nqa0o0cHZaMVMxX05IdklFb0ZzbFprREtYYTVZcU9Wdnk1RmlnRHRoWWcwckVQYkhPMldjRTB4MnZ1cXVwWEEtcHhUZjlPdnN6UENaRUswOWU4MWh4TWNCb0NRMnZHYlVQZ2pLVW1fTFRQUWZHbUNPMGdVR1ZNSG5NTEFn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T09:43:00Z",
+      "summary": "英国《独立报》向AI提问：它是否会在十年内导致人类灭绝。AI的回答多强调，极端风险并非注定，而取决于安全对齐、治理能力、滥用防控和国际协作。报道借此探讨AI存在性风险与公众焦虑，指出若缺乏透明度和约束，先进模型可能带来失控或误用隐患；但若加强安全研究、监管和伦理规范，人类仍可引导AI向善。核心是AI安全治理需前置，而非事后补救。"
+    },
+    {
+      "title": "China's token consumption to reach 100 quadrillion in 2026: report - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORFRiSHZzdkFDRjQ2ZHVlLW8wdERHcEc1SGFBNlMyenUyOEFJcEY1Umt6QklQekFZMGVPc3hnOF9WTk5ONmZBa2hublc1bjU2bG5vVjlua1c4Z2pvRWYxUWdSWEZqWW9KN1ZjUjZVcGFQd2g0VTl0emtJV1RMa1hSZU5nbzBNR3JFelNMTXZXb0JqRUJMNzZEMVBrdGk4UzZ2SzZ4aWhiZ3Y5NlduTG1WWVRuVFJ1RWRtQWxnNmZR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T09:29:33Z",
+      "summary": "香港《The Standard》报道，报告预测中国AI token消耗量到2026年将达100 quadrillion，约10的17次方量级，反映大模型应用和推理需求爆发。Token是语言模型处理文本的基本单位，其消耗量可衡量AI使用规模。激增的token消耗将推高算力、存储、网络和电力需求，带动数据中心与芯片投资；同时也带来成本、能效和供应链挑战，需通过模型优化、推理加速和绿色算力应对。"
+    },
+    {
+      "title": "‘Really helpful’: the AI bootcamps aimed at addressing UK youth unemployment - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2J4MjNWdUk4c0w2cEp0YTNfaTh3LVB1elgtaXFGRVVXajJFcmYtdGhqR2VuNzVIdFVydXMtdUY5Um5NSU1DOHRJWkdzVTE1R2pfd3h0d3c3bkp5SUc4cVJLdDI5TWlQZHF0bnVIQzgzWEYxd29GUVhPZFRqTTJaalVMMzEzSGk1MEhOZ1hnWWhJZlRYMV9IQ3BFaWV3cEQ3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T09:00:00Z",
+      "summary": "英国《卫报》报道，为应对青年失业问题，英国推出多个AI训练营，参与者称其“非常有用”。这些项目通常教授AI工具使用、数据分析、编程基础、提示工程等实用技能，帮助年轻人进入科技及相关岗位。AI bootcamp把技能培训与就业需求对接，成为劳动力市场政策工具之一。其效果取决于课程质量、企业合作和就业转化，也需关注数字鸿沟与培训公平性。"
+    },
+    {
+      "title": "Anthropic's AI warning may weigh on chip stocks, but trade seen intact - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMU1ETmFGd0pVY1dtamdNWWdzQzF4LV9VaHNHZ3NsQU9wOHd2V3daa29OSFN6UUlrVW9tX1VUTFVmX3kzY1ZyOGVxZ1Z1U0pPWG1SbjhCQlVxb250WXlaY3V4S2pRcDNHbFVaeW9vaUxPeUNwZktkY0FvUmVmMkIwRGV5ZXY3WkIxa2V3QWU3eF9Kc3RZbm9fVjRQb1VES1Z2Sy1VUmVWckFuczRUNnVFSExfVDdla3piNi16ejZDSG50bDN3MlJSSml3UmFvbU9HR29YVHVUbjBIX1hUSW9vNDNxcFBlcUZ4elJ6QXF1VdIB9AFBVV95cUxNMUxRUXBDYmItU0VaRU5NRFpVcC1JSTB1ZzhpS25SS2RTM1dBNkpxMHllcXJONkRsR2NObGpDTkZWcWN3R09hSFVFaWVRS3lMSEZHdkxaQ1JSd1NqaDhjcTMxSlVNLXBGMGRzYjRPLW5XRWtPNkdXRUt6a0tKTy1WYXVITTFHQkc4eUMzbnNCTGx2Q0Qxb05DRWFBLXlhd19jVzhrdkpmVEVkVnhVMlI5dDVITHdDQVEyRENuamFCeS1lVkN3WDhQaERwenZOSEpoUWdoNHRfNEUzRUV6QllSN2I0bjltV0YzYndvNEVRVGR6ZVZN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T08:35:41Z",
+      "summary": "《商业标准报》报道，Anthropic发出的AI安全警告可能令芯片股短期承压，因市场担忧AI模型开发放缓会削弱算力需求。但分析师认为AI交易逻辑仍完好，长期推理、数据中心和芯片需求依旧强劲。Anthropic的警告强调前沿模型风险、对齐与治理，可能推动更严格的安全评估和行业自律。短期波动反映情绪，长期走势仍取决于AI商业化落地和算力投资周期。"
+    },
+    {
+      "title": "As artificial intelligence (AI) evolves into a technology that understands people and their surround.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ORGh6bW82MkJQaUJlUmw3dDB6Z3BVVU02YlNQUDdlQW9JTU5aNHFyRmVmNW5wMlNobFNQbzk0dmFLSkx2SmRaNk1QVC00aW5NTDRz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T08:17:15Z",
+      "summary": "韩国《每日经济》文章指出，AI正从被动工具演变为能够理解人及其周围环境的技术，具备情境感知、多模态交互和主动服务能力。其技术要点包括传感器融合、语音与视觉理解、边缘计算和个性化建模，可应用于智能家居、机器人、医疗照护和智慧城市。与此同时，环境感知也带来隐私、安全和人机信任问题，需要在便利与数据保护之间取得平衡。"
+    },
+    {
+      "title": "Sam Altman and Elon Musk back calls to ‘slow down’ AI development over safety concerns - independent.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjZXbnVyd094Si1xR3NZbnRadnVqbmJuLXh5XzRzb2JsSHl4RVozeEhQdTFRXzM1WVZNMzBzN0pYT1hNUWNWRWtqWW1yZDMtYUhqUkRWdjc3SUZ0MHlQV0dLNXJxLTJNZjJtNE5ucXA3X216XzVhWFVyaTRPaU80Y1NVdHhoZW5SRWtkZFdxVThzQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T07:59:00Z",
+      "summary": "英国《独立报》报道，OpenAI的萨姆·奥尔特曼与特斯拉的埃隆·马斯克均支持呼吁“放缓”AI开发，以应对安全担忧。两人虽在AI路线和商业竞争上分歧明显，但在前沿模型可能失控、被滥用等风险上形成罕见共识。该呼吁可能推动安全评估、监管框架和暂停超强模型训练等讨论。不过，“放缓”的定义、执行方式和国际协调仍存疑，行业竞争也未停歇。"
+    },
+    {
+      "title": "If we don't put the brakes on, AI could soon take over - vreme.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzE0aUw1c0xrZldHc3FVa0cteFZhYjJsc044OXl5UjhLcVg3SVk3Y3hrMEUyX0ZjM1JEeDFjeFRyWFJKTW1wR1pOMjQ1RUdRTFFDcjhGSFV0UWdkS0VuZENqVzlWcWgyOGp1aldod1hKM1E1TUExd3o1WkdhVnFiSEpHWjhEQ0pJZ3FuMFlkcldRelBqQUl0ZUd5aVM4ZXY2V0MycWNFV2E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T06:47:09Z",
+      "summary": "Vreme刊文警告，如果不对AI发展及时“踩刹车”，AI可能很快接管关键领域甚至人类决策。文章关注失控风险、目标错位、自动化权力集中和监管滞后等问题，主张加强对齐研究、透明度、国际治理和部署前安全测试。此类观点反映公众和学界对AI生存性风险的忧虑。核心并非否定AI，而是强调在能力快速提升时，必须建立有效的约束和问责机制。"
+    },
+    {
+      "title": "Better Artificial Intelligence ETF: Roundhill's CHAT vs. State Street's XLK - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnJvcldQS05vMklfNFhBdEdrNmdqUFNNdE14a1NKYmg1T2tsTVl1WTVkZ1Y4STZuTWkxaWN4dmh1VUFMRG5taWVpNDJOR2FGaDUtMFByRkRfVWRvN0h5Q25sS19GYVk4X2I0M0J2ZlBVU2JMMG1Ja09nN2x0RG13c01HVWZBUTQ1dll0ZVNTbEFnbm9LX0NEZFllS2J5MmJRXzlLYUVFd3JJWlRzVnZYMndNQjh2SklwRl9ScA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T06:31:50Z",
+      "summary": "《Motley Fool》比较Roundhill CHAT与State Street XLK两只人工智能相关ETF。CHAT更聚焦AI主题，持仓集中于AI软硬件及算力公司，主题纯度高但波动和集中度风险更大；XLK是广义科技ETF，AI敞口间接，覆盖苹果、微软、英伟达等巨头，分散性更好。投资者需权衡主题纯度、费率、持仓集中度与风险承受能力，判断哪只更适合长期配置AI趋势。"
+    },
     {
       "title": "Anthropic CEO calls for slower AI model development amid rising risks - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbjhidzU0cmJQblpyc2szcDhLZEc0b3FuYU5LZEh2dHhjd0lYVllvSy1OazVjUFN4eEFENHBpU1RGYjlYTTJoVTRtOXd5LU44R2VMX3dmQTFadzRxNllkajlqLVowOGpUcWRoVm5NeHhrOE91Vjh4Nndwdm1NUUNxUEdkSjlianR5T3hwbi0xWEhXMkllX2E4WWYzVTFWVHhJOWdNaUw2SlFBNlh5N0ZYTlVQUFJVYTZVUWg3bVdHYzFPSVY4QnN5QWstVUpqWkV3ek9jRDlPRFY1bWRSUFJnZ2NFbnlYZVVTUzBJS1gzYVEzRy1OOVAwedIB_gFBVV95cUxNUHR3YmxhRktSNEZ6cGhKUktJVHFOdm8tdG1nSVFYVUJCTVY2OHJCVGhQaXdmTFRoYUJNTGVfZEdRZ3R1amVCbWlGUmwzaUVTU2ZoR3VQblZnOGUxVHRJcXcyRnVhSnozNVlzMnBaZ3ZzdWx0Zl9obGdaNm5Qai0yTzd6RGtsNXVYZXhOZ3c4dl9KNnBnR3lJc29oR3E3bmNEdHRjVFVHekRBaFFzR2JIa2Z0RXRwX3lLVkJ3MFUySE1DU0NPVHJJUFN1c0NNUmNwS2NhaHY2Mkh1V2ZRV1dRUEpGNy12S1N2NjVBV1JoY0t6dE04SkhFbkxqVTY5dw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-13T05:14:51Z",
-      "summary": "Anthropic首席执行官近日呼吁放缓AI模型开发速度，以应对日益上升的安全与伦理风险。文章指出，随着大模型能力快速提升，潜在的滥用、失控和社会冲击引发担忧。Anthropic作为以安全为导向的AI公司，主张在能力进步与风险控制之间取得平衡，可能推动行业加强安全评估、自律规范和监管协作。这一表态反映AI界对发展节奏的分歧：一方追求快速迭代和商业领先，另一方强调谨慎部署与长期安全。如何在创新与风险间找到可持续路径，将成为政策制定者和企业共同面对的关键议题。"
+      "summary": "《商业标准报》报道，Anthropic首席执行官呼吁放缓AI模型开发，理由是风险不断上升，包括安全对齐、滥用和失控等问题。作为前沿AI公司负责人，其表态可能影响行业自律与监管讨论，推动更严格的安全测试、红队评估和部署门槛。然而，放缓与激烈商业竞争存在张力，其他公司可能继续推进。文章反映AI安全治理与产业竞争之间的核心矛盾。"
+    },
+    {
+      "title": "Anthropic CEO calls for slower pace of AI model development over fears of misuse - AnewZ",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTm9fRGtxYVlLeXFKcUpyYmZzODR6NW8yOXpGVWhUU2ZNQmR6U0QwTllvbWJKRmRrVHB3aVExRFFMSEhJR2trcVdXcGE0V1piSlFsVnpyeFdqampIRzNxdFB4UXBQUnJhVTdOMjhVZ1ZzV3JvZGdCemFKTVlmX1dZNHlqcUNlV2QyOGxLVEdGVXkwQWlwT09Ra1ZGRzBTb293eXdVVGNHWkZaSDFodjJfdDJUOEtrNU9DV3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-13T05:02:00Z",
+      "summary": "Anthropic首席执行官公开呼吁放缓AI模型开发节奏，核心原因是对先进模型可能被滥用的担忧。作为一家以AI安全为重要使命的公司，Anthropic此番表态反映出前沿AI能力快速提升与风险治理之间的张力。该观点可能涉及模型滥用、恶意使用、监管滞后与责任部署等议题，也意味着行业需要在创新速度和安全保障之间重新权衡。若更多企业响应，可能影响大模型发布节奏、合规策略和竞争格局。"
     },
     {
       "title": "BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRndUeUI1WHhtbU5vVnExNGpHTGl4ZTU5ZHZ2dnFrMmRMZ3Y0d09XdVdENjU1WkgtUmd0QjNOcEJldnFrWmtLeFdDbE91NloxZnZfWFNMTGROVkpJeDF4TTlLMDNsZ3Y0clpZVGQwOTV6emRRZEFydlBvMV9OdUtTd2NtQnBYODhQVmlzZWJzdVF5a2tESmtPTjZUaFZjWDZrWmxPREt0OE9KWlVYNWlvajQ4UWp0MXYwWGxKeDZUVHNSdjlkSE80U2V0bElzNHNEUm1wYUkwQ2k1T1h4WFM0V2gyRVY0X01SNXZxWHJjOUdwdVpKSHB5THpNMFk?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-13T04:54:00Z",
-      "summary": "Motley Fool投资分析文章对比BigBear.ai与IonQ，帮助投资者在人工智能公司与量子计算巨头之间做选择。BigBear.ai聚焦AI驱动的大数据分析与决策智能，IonQ则代表量子计算前沿，技术潜力巨大但商业化尚早。文章可能从增长前景、营收模式、估值水平、技术壁垒和风险收益等维度权衡两者。对投资者而言，这实际是押注AI应用落地还是量子计算长期突破的选择。需要结合自身风险偏好，关注财务表现、订单情况和行业周期，而非仅看概念热度。"
+      "summary": "《Motley Fool》文章对比BigBear.ai与IonQ，讨论投资者应选择人工智能公司还是量子计算巨头。BigBear.ai代表当前企业级AI与数据分析赛道，IonQ则代表更具前沿性和不确定性的量子计算方向。文章从增长潜力、商业模式、估值水平、盈利能力和风险收益比等角度展开权衡，帮助投资者理解两条技术路线的差异。核心结论并非简单二选一，而是提醒投资者根据自身风险偏好评估AI应用与量子计算的长期前景。"
     },
     {
       "title": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN2c4Y09nV2dCbW9fSFNKclhvbUF6MndVVGt4LW52UW9pd2dIaG9aTzZ2Mm1TS0dHc2NtU0VZT3RjdG1ONG5MMzZoWWpHM1ZHN2E1VjYzY2hDdzZGM3lPV2pscXV6TU14a3B4YUtRQ000YnJqdGo5dEpwcndrcUlzbURpN0E3V2p6RlJvZUN2Q3E?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-13T04:53:00Z",
-      "summary": "Yahoo Finance文章比较C3.ai与UiPath的营收趋势，探讨这些AI公司向投资者传递的信号。C3.ai主打企业级AI应用与平台，UiPath以机器人流程自动化和AI自动化见长。两者收入增长、客户留存、毛利率和盈利路径的差异，反映企业AI需求的变化与商业化进度。投资者可借此判断哪家公司更具增长韧性和盈利前景。文章强调，在AI热度高涨时，更应关注实际营收质量、续费情况和现金流，而非单纯追逐概念。营收趋势成为评估AI企业竞争力和投资价值的重要指标。"
-    },
-    {
-      "title": "BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQMUhJTEJLVWtwTjdESTVPOFl5YktOU3RKSGNZaVJRUWcxR1A2REdXYWZrVDc4eTROVGNPM2E5MWhiMi1mTHJKZl9oVUxtM1NKODAyaElUbURza1oyOHpTRkUwVng2djRVd0o4OWFqM2E3UlFfbmRDZTNmM3EyT0IwZDRxcTNUUU5lRndCRnpDdlN2UERISlZXdnJfWHBQdlM4OVk2cnVEcTNrYkVWdmhTN2hDSkctOUFnbG5pRHJqYzRaRWhmRDhUQlBtNXFfQUdHX1dxQXJlNUxGbWhXVHQ4dHR4RXJNdFdBRG93RTFpYXJiVXpiTWdUOGxybmV0OUo0S25DRGN5WUdTWWpVTVNLcDAzWGJVUEgxTTdqNVY0QkdxZDVzWlNvWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-13T04:23:50Z",
-      "summary": "The Globe and Mail发布文章，比较BigBear.ai与IonQ，讨论投资者应选择人工智能公司还是量子计算巨头。BigBear.ai侧重AI分析、决策智能和国防政府应用，IonQ专注量子计算硬件与云服务，代表更早期但潜在颠覆性的赛道。文章提醒，两者在技术成熟度、收入规模、估值逻辑和风险特征上差异显著：AI公司已有较多商业化案例，量子计算则依赖长期突破。投资者需权衡短期增长确定性与长期想象空间，关注研发投入、订单储备和现金流，避免被市场情绪左右。"
-    },
-    {
-      "title": "Your ’80s style AI photo is temporary: What happens to images you upload? - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS19sOGtORnVTV1lhMFlma1dRRnA2UkxMaVZ3UEFtY0t4NU9PaHpYVkpXRWZ3QkwzcjllZFl1OFJlTExhUmZaTzNuaF9HLUJONGNwejVFTWxtWFRMcmhLVFRyTVNYS0dsWUF3ZXllanFZMFJiNWUxM2VVYkNxZi1scWtvR3BjYkh1V0VFX2Zzc0hfRjdrQWpTWUNsR0V3NjQ4SUQwN3pkTDJjTXhndXllZDQ4WlVDSDMwYVo4WlVQRELSAccBQVVfeXFMUDRKbXUwQUlGemZRRWFMR0JkSGc2N2VRc0c1eDNyZ3ZMa25QeXQzaXBfLUxDcXRSMVB2bnFuZ09lMUdXRlRTYTE0TUFpR0hiZGZSeTdsMmJQYnRSMWZHemlSa2Y0QUV0TzRwVDZFY3NXTnhjLUJKTUl4emUtSlF0ZDg2a3VGSC05OF8xcDZsekNKcWE0S20zZ1oyQ1J0UmdqUkpUaHdKcm9YLUFqWkxNcW1JbU1XWmtvdnVkVmM1RDBSWi1zSTBpRQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-13T03:36:00Z",
-      "summary": "Indian Express文章讨论用户上传照片生成“80年代风格”AI照片后的数据去向。这类应用通常需要用户授权上传自拍或人像，但生成的复古照片并非永久保存，平台可能仅在限定时间内保留，并依据隐私政策处理。文章提醒，上传图像可能被用于模型训练、产品改进或第三方共享，存在隐私泄露和滥用风险。用户应关注数据保留期限、删除机制和权限设置，谨慎上传敏感照片。随着AI图像应用流行，个人图像数据的控制权与透明度正成为重要议题。"
+      "summary": "Yahoo Finance文章对比C3.ai与UiPath的营收趋势，分析这些数据向投资者传递的信号。C3.ai聚焦企业级AI应用与平台，UiPath以机器人流程自动化和自动化平台见长，二者均受益于企业数字化和AI落地浪潮。文章可能通过收入增速、客户需求、盈利能力和增长可持续性等指标，判断哪家公司更具投资价值。对投资者而言，关键不只是营收规模，还包括AI商业化能力、续费率与利润改善路径，从而评估两家AI公司的长期竞争力。"
     }
   ]
 }
