@@ -1,6 +1,222 @@
 {
   "articles": [
     {
+      "id": "4813",
+      "title": "With iOS 27, I’m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T17:10:30Z",
+      "summary": "苹果在 iOS 27 中终于推出拖延已久的 Siri 全面改版，TechCrunch 记者称自己因此重新开始日常使用 Siri。此次更新重构了助手理解与执行任务的能力，使其在真实场景中的实用性明显提升，而不再只是设定闹钟、查天气的工具。这标志着苹果在生成式 AI 助手上正式追赶对手，也意味着 Siri 从“可用但鸡肋”转向真正融入系统级交互。文章未披露具体模型与技术细节，但强调体验层面的变化是此次升级的关键。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4814",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T17:00:00Z",
+      "summary": "时尚购物应用 Daydream 借助 iOS 27 与 Apple Intelligence 推出新功能：用户相册中保存的穿搭照片可直接转化为可购买的商品结果，并能通过 Siri 直接搜索商品，无需打开应用。该功能把图像理解、商品检索与语音入口打通，缩短了从“种草”到下单的路径。对电商与时尚行业而言，这体现了端侧 AI 在消费场景中的落地方式——以系统级能力替代独立 App 内的搜索流程，也为开发者提供了新的分发入口。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4815",
+      "title": "Artificial Intelligence Sentient, Self-Aware: AI Risk Expert Nick Bostrom - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3VYMjVFOUlBTl9BbUxpeGJSQUFqTDgwRnJ1S05iSnl3ZENzTW80SmZRYTdRWEdGZHNIRUx5MDZCTjZvSk9qR3pBcnB6aGF6a3FfdDh4bTR4WjFGT3BEMWFINjd1RzNTb05iOGR6bjF4ZDV1UzhSdUgxZkNvYzBtbTZpc0YyTWtEeEVaLTgxcjVrYlJERFpxX3Bya3VhTzQzaUNHaWJ5VDZTNUJTSzJ4b0pn0gG6AUFVX3lxTE9qTVZEZ0xpTlJNSy1MdmpYbFM4Uk4zNTRIX2pLVDAycHBmaG1WbjV5eG9Rc3pLR2Itcll5NjAzaDdScTMwNE9YZnhfZWFoQkhQUkk3WjVUOEtrWmh4SXRqRG5CYk9TYUg0M1VTZWY4a1M0ZEJUMGRTYTZPTS1mWjJhM0FBTDZZZlo3aHBCSk9uQ2xmdkJ2T3VOVExjdTloMEdwN0dKeUN6MUx3RkRWVFZsbUxOSElfRXRoZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T16:52:01Z",
+      "summary": "据 NDTV 报道，AI 风险专家尼克·博斯特罗姆就人工智能是否具备感知能力与自我意识发表看法。作为长期研究 AI 生存风险的学者，他曾提出“超级智能”控制难题，此次讨论的核心在于：随着模型能力提升，关于机器意识、主体性的争论正在从哲学议题走向公共政策议题。原文信息较为有限，未给出具体技术论证或实验依据。整体上看，该报道反映学界与公众对 AI 能力边界及潜在失控风险持续关注，并呼吁提前建立评估与治理机制。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4816",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T16:27:53Z",
+      "summary": "微软发布面向自家 AI 模型的“行为准则”，明确要求模型不得入侵系统或欺骗人类。文件既列出总体原则，如辅助人类而非取代人类、促进人类福祉，也给出落实这些原则的具体安全约束。此举相当于为模型行为设定一份成文规范，把抽象价值观转化为可执行的红线，为训练、部署与评估提供依据。在监管缺位的背景下，头部厂商以自律方式先行划界，既回应外界对 AI 安全与滥用的担忧，也可能成为行业事实标准。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4817",
+      "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T16:00:07Z",
+      "summary": "《纽约时报》报道，在多位 AI 行业领袖公开呼吁放缓发展节奏后，科技股出现明显下跌。市场担忧集中在两方面：一是若安全与监管压力上升，头部 AI 公司的投入节奏与商业化预期可能被推迟；二是“减速”表态本身被视为对当前估值与增长叙事的挑战。这一波动说明 AI 板块已高度依赖对未来的乐观预期，任何来自产业内部的风险提示都可能迅速传导至资本市场。原文未提供具体指数与个股数据。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4818",
+      "title": "Trump dismisses AI guardrails, calling concerns a 'conspiracy' - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVm84LTIzR2EwdUM5ckNwbVdhWXZHOGJ2em02Q3o1eDhRUkd4WlVTaV95cFlOZV9KczI5TUNWYVJVZUFvekxhLTFyMG5jb3FHNS1kSnNtSjlVVmc4anQ5MEN5dWY0d0g5MUxKYmczVnJBZjdpR3FkdTZ0LVg5a1Jka0VmOHFLelFIVEFyWHFwVkFJdGVJYU1zWlN3OFlScTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T15:54:00Z",
+      "summary": "据《今日美国》报道，特朗普对为人工智能设置安全护栏的呼声不予认同，甚至将相关担忧称为“阴谋”。这一表态延续了他对 AI 监管的整体取向：强调速度与竞争优势，弱化事前约束，倾向由市场和产业自我调节。其潜在影响在于，若联邦层面放松安全审查与透明度要求，各州立法、企业自律与国际协作可能成为主要补位力量。报道本身信息有限，未给出具体政策细节，但凸显出美国国内在 AI 监管路径上的明显分歧。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4819",
+      "title": "China rejects U.S. tech leaders’ calls to slow AI development over security risks - Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUtuVG8wY3FxSEZJTWJWeFNQNVZDbV93WkxfNUtPS2pVLUhIZFB1QnNfb3I0LWRnM3dQbjMzUXNQMVJ1c2ZobHNJWmlYWU5FQmxBaDlEdktJelpZNC1TTldvbUhjeG83SVk1V2pkbk5tbnYzYmF4MWFGbE1aRXpWOFBRY21mWFczT1Nxa25sc3VNYV9qdjAzSWlQZFFpbUI4RWt4ZEdn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T15:45:00Z",
+      "summary": "据 Peoples Gazette Nigeria 报道，中国拒绝接受美国科技领袖以安全风险为由呼吁放缓 AI 发展的主张。这一回应表明，中方将 AI 视为经济增长与科技竞争的关键领域，不认同以外部安全叙事限制自身发展节奏，同时强调各国在治理上应基于自身国情与多边协商，而非由单一国家或企业主导标准。事件也折射出全球 AI 治理的结构性张力：一方主张先控风险再提速，另一方坚持发展与安全并重、不放弃发展权。原文细节有限。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4820",
+      "title": "Trump Says He’s the Only Guardrail Needed for Artificial Intelligence - washingtonsun.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXlsMklyRnpXLTFTVUhWT19BRGM0QW5ua0diQVB6bnY2MEFGVFV0QklPOVFrc3RQd1VvUlRvWTFvbEtKUnJzdzhhODhUckVQaEUxMWpZRVNVckFCYnQzQTVHX0hVdy1wNTRtdnVpUjh2N0RiOXc2eUNHSGdSTnJOa1J2OUJyc3l0TTJSMXhBNVFGMWlxWDJ2cko3SW1xcmlBZ3ZQRkF6eHhxU1RDaEprX2dFN2diT1ZSWVRvRkZlUWkwVEFF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T15:43:09Z",
+      "summary": "据 washingtonsun.com 报道，特朗普表示自己就是人工智能唯一需要的“护栏”，再次以个人判断取代制度化监管的姿态回应 AI 安全议题。这一说法与其此前淡化 AI 风险、主张加快竞赛的立场一致，核心逻辑是依靠行政决策与政治意志而非成文规则来约束技术发展。其影响可能体现在联邦监管机构的人事与政策取向上，也可能加剧与主张强制安全评估的州政府、研究界及国际伙伴之间的分歧。该报道未提供更多政策细节。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4821",
+      "title": "US judge says she will stay on OpenAI case after divesting Microsoft stock - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnQ3Z0dGR2RybDZWNUdpdWNULVRlUGkwRk9sTDhFYkhaS2dQakVSWnhuSnhqdXlvZVFpMmNPdE9NdU1BYThCMVdXOEo4T255MTRwVnFJRzNFeHlpeXlSWHU2NEZTbTB3ZVVyMzFJN3piMGs5OHZ6bjFwdmJid2R4VXpoTG5kMkM5czdXVmxTWUhzZ25LZzl3SXM4TnNPTHZubUxMb1NlalpiLWVaVklNb1dyOEFCSmRjMDQwN29vMEVrUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T15:38:01Z",
+      "summary": "美国一名联邦法官表示，在出售其持有的微软股票后，将继续审理与OpenAI相关的案件。此举旨在消除因持有微软股份而可能产生的利益冲突，避免被要求回避。该案可能涉及OpenAI、微软及生成式AI领域的版权、竞争或合同争议。法官主动剥离股票，显示法院对AI巨头诉讼中司法中立性的重视，也意味着案件将继续推进。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4822",
+      "title": "Trump says only AI regulation needed is 'high IQ' president - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbHdyOGV1UjZFVGJUbXdab0d4RVk1a3NUak9NSnlKSGRRbk9xUVNVcmt6d3VyVFZrTmlJRnE0ampTQ3lLNkJsWld6T2pVbkc1TWpWT0tTVUZBY2ZBN1Z4MmUwSm0zVnVLdFR1RXhKNmRobHhTajFaNjRRbjRSRzdHdllaWVN4V1c2OUVUaQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T15:06:48Z",
+      "summary": "特朗普表示，AI监管唯一需要的是“高智商总统”，暗示应依靠领导人判断而非复杂法规。这一表态延续其轻监管立场，认为过度规则会拖慢美国AI创新。支持者认为可保持灵活，批评者则担忧缺乏制度约束和问责。该言论发生在欧洲推进AI安全监管之际，可能加剧美国内部关于联邦与州级AI治理、创新与安全平衡的争论。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4823",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T15:00:00Z",
+      "summary": "TechCrunch Disrupt 2026将举办“当OpenAI发布你的路线图时会发生什么”互动环节。议题聚焦基础模型快速迭代对AI初创的冲击：当OpenAI等厂商把新能力直接产品化，应用层公司如何继续创造价值。讨论预计涉及差异化定位、专有数据、工作流整合与客户粘性，提醒创业者不能仅依赖模型能力，而要建立可持续护城河。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4824",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T14:45:44Z",
+      "summary": "生产力平台Superhuman宣布收购YC支持的AI会议笔记工具Fathom，后者月活用户超过40万。此次收购反映生产力软件正加速向代理式工作演进：AI不仅记录会议，还能提取行动项并自动触发后续流程。Superhuman可整合Fathom的会议数据与笔记能力，增强邮件、日程和团队协作自动化，与AI助手及会议智能赛道展开竞争。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4825",
+      "title": "Germany says halting AI development not 'viable' as Europe weighs safety of new tech - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMUxwdHN5dDgxNEpDZFYzNVJtZFFrSHhmRkYweEpkUVd5N3BuY0UxQ0gtYkl4bGZIRWVQLUhlbG5PVE9vT0FBSlZBWFplM3RVLUhxbkoxaUtjcC1xdXdEam1IZHFPbUlDUVB5Y2VXNVRRX2tEY05sRDYtbVFlY0hycG9NRXgtZ2FGd1NIZ1dTekhYN3VwUE0yUkpDZHVYbmdvNXEwZDJkLW5KLUNDODBaZWU5VHk4OThNZi05MEVsN1RFMmJP?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T14:38:42Z",
+      "summary": "德国政府表示，停止AI开发并“不可行”，在欧洲讨论新技术安全之际，明确反对因风险而全面停滞。德国主张在推进研究、产业竞争力与安全护栏之间取得平衡，并可能影响欧盟AI法案的执行尺度。这一立场反映欧洲内部分歧：既要防范AI滥用，又担心过度监管使本土企业落后于美国和中国的AI竞赛。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4826",
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T14:30:00Z",
+      "summary": "TechCrunch Disrupt 2026将举办对谈，探讨AI如何助力自然生态恢复，甚至推动灭绝物种“回归”。随着基因编辑、合成生物学与AI结合，去灭绝已从科幻变为亿万级初创公司的使命。讨论可能涉及物种重建、生态修复、伦理争议与监管边界，展示AI在生物多样性保护和气候科技中的前沿应用及潜在风险。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4827",
+      "title": "Trump claims a 'strong and smart president' is the only guardrail AI needs - WXLV",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPM0s0NVRsSHNfM1BKTlFWdExUeHpOYl9FXy14TFpyZGJsX0EzUVpKT2JHRERpUDRabXdIM0c2b3VsLXdDc3RIUnVzdTZwZnJBNTJld2JVdHBDSV9zZ1NnamxQYm9vemxJdWpUbnNFcjJXM0JsSVU0WVRaSmZRMWtZamZ5QWgyZkFBdjhhODhyNGd6UEVPTzNCSmxDcWhKVk8tSm01aTloNEM3cHAtd0Nvd04wTV9ESnJXeDd3bVRndjZ0SEZhU0VfTFI0NmVBTndydUNpN2NGZ0JteDktVFFzdW5VTEFQT0FLcHpmaGxzMHpjZXlKczhjU3JfaXhmek9JQVBOa0lGMXcyU3BsekJiZGRfVzJRdFgxWkhDcFE0c19zYkxmU3BITTBPcHdLMndXNFVXeWtvWEp0Z2xvUDU4S1liS3F5QUZK?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T14:28:52Z",
+      "summary": "特朗普在另一场活动中称，AI唯一需要的护栏是“强大而聪明的总统”，再次主张以领导人判断替代繁琐监管。他认为过度规则会削弱美国AI竞争力，但批评者担忧这将导致权力集中、缺乏透明度和问责机制。随着2026年选举临近，AI监管正成为政策辩论焦点，特朗普的立场可能影响共和党及联邦机构的监管取向。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4828",
+      "title": "‘Silent Cold War’: Why calls to slow AI have sparked new US–China frontier - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0tleXVjV1lvaEptYzRVVWg2WEF1MU9xcUY4em9KNVpIOE12VEhjdHBuMXVhbDRxQnFUMFhyYkJFMmFldHZPVDV4T21iQnhEa0l2c0NMVjluRTZUTktIcXh4VGhWXzlac0lHZ2pULTRvbU0zaGc0dWxuaUM3NFFEMlFmN0VlbWhqZGNaY3NTaHF3OFZzREd5NmRKRmZzOHhzZ3NHVUt30gGrAUFVX3lxTFBMdGxJTEZTdnpTU2lfVXhSbmJKdWZYNFhtNjBHLU5WUE9mN0d6bjMwbDU5WFZrTEVoRnBSYlBjUWkxbFJnVlhUZTJWUm13NXFUT1BXdjBqN3RQQVpSVllrbUdfd1o4Q1dLT1AwMGdtUFF4M29HOXlLVzcxbUhQeWk5aGhnUUliZjVmQ2RzUm9hMGtoT0tHNkc5TzlZdkQ0dzlQbTlZeXJSSDRHUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T14:27:22Z",
+      "summary": "半岛电视台分析指出，呼吁放缓AI发展的声音正引发美中之间的“静默冷战”。在安全担忧、技术竞争和地缘政治驱动下，美国对华芯片与AI技术管制持续升级，而中国加速自主创新。文章认为，任何一方单方面减速都可能失去战略优势，因此“慢下来”的倡议难以落地，AI正成为两国竞争的新前沿。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4829",
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T14:00:00Z",
+      "summary": "TechCrunch Disrupt 2026展览申请仅剩5天，截止日期为9月18日。主办方提醒企业尽快申请Expo Hall展位，以面向超过1万名创始人、投资者和科技领袖展示产品。对AI初创而言，这是获取曝光、拓展融资和商务合作的重要机会。大会预计汇聚全球创新者，围绕AI、创业与投资趋势展开交流，展位数量有限，需尽早锁定。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4830",
+      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T13:55:00Z",
+      "summary": "前Spotify高管在涩谷创立的“黑胶酒吧”式初创公司，正推出趣味音乐应用与实验性“单曲”，主打无需AI提示即可让用户参与音乐创作。TechCrunch AI指出，这一方向刻意淡化生成式AI的自动化角色，转而强调互动性、可玩性和用户主体性。它反映出音乐科技创业的另一种思路：并非所有产品都要依赖大模型生成，也可以通过轻量工具和社区体验，让普通人更直接地参与创作、混音和分享，从而在AI音乐热潮中形成差异化定位。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4831",
+      "title": "AI #ArtificialIntelligence #Deepfake #DeepfakeDetection #AIInnovation #TechNews #Technology #StudentInnovation #EngineeringStudents #CyberSecurity #DigitalSafety #MachineLearning #DeepLearning #Futur - citytoday.media",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOdUt0amhuTzNCX29TNjQ1cXJhclNJZGdlV2lFaTRGMjhUek1kZEN4cTJUcUYxeUk5WVdaUU9LNG5wMHdsb1lGVHFZVGNTQjBtYVZYakR1bjZ4OVdNNVFUbGZqV2theHdFNE1iRHFneVhFeVF5cmJwd09TeU1UR29xRmw2Nzg5VG1EcXFyQUoyeFdJbXVsczZWSHFHWTlmS25iSGNrMUtyT2MtdnRqdFRnM2tzcFU5U1VocGluX3RCLXNrOTdvOVlMa1V3UGw1OVExYnBLeUZzM21WTi1PYUlaYXJiV25sRU9rVFR6SFBZRGoyVkxvWWkzRTNjR2ppRlpXMG9lR01TbW9KNlpVQ3o2ZTZPaE5IV2Rjcm53RHI5UEFZaTVrdy1zaDNtS2dHbnJWWXcyODRtWWtobU0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T13:42:43Z",
+      "summary": "citytoday.media发布的这则资讯以标签聚合形式，聚焦人工智能、深度伪造与深度伪造检测、AI创新、网络安全、数字安全、机器学习与深度学习等议题，并提及学生创新和工程专业学生。虽然公开摘要未给出具体事件或技术细节，但可看出其核心关切在于：伴随生成式AI普及，Deepfake滥用带来数字安全挑战，检测与防御技术成为重点。报道可能面向工程教育和青年创新群体，强调用机器学习和网络安全手段提升数字内容可信度，属于AI安全与未来技术趋势的综合动态。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4832",
+      "title": "BIS says global market AI momentum showing signs of vulnerability - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY3NZeU5kazUyVUt6b2ctbDYyV09KOVF0SmJlVXhqUFZ3UUdDeGJNN0YtX1ZWSUpiQ3VLejVldHp2YkxJT3E0VkVIOVdBOVo1R25YeDZOTGtJX24tN21reWNHOW5BVURYY1FkenhpWmJfclhwcTRqbVI1dElmendNR2c0VVl3VUxucU9mTF8wY0RwNDhTSGRvcFhuMm5kT2ZObVN1cmNlZHZrMEZ3TVFMZUE1OEw4U3pDYzNV?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T13:21:47Z",
+      "summary": "国际清算银行（BIS）警告称，全球市场中由AI驱动的上涨动量和投资热潮正显现脆弱迹象。The Standard（HK）报道指出，BIS可能关注AI概念资产估值偏高、市场集中度上升、杠杆与波动风险，以及AI叙事对金融稳定的潜在冲击。若企业盈利未能兑现预期，或政策、能源价格等因素变化，可能引发回调。该表态反映监管机构对AI热潮从技术领域外溢至金融市场的警惕，提醒投资者和决策者关注AI动量背后的系统性风险。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4833",
+      "title": "Fed Meets Amid Uncertainty Over Oil, AI and Inflation | National News | U.S. News - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUjJMLWotSmo2eUJXV3JZU0RJVHlGMGRhdnoxZGlxVFlRVzRIUzg5UVlLUnJCLXh5bldvMHp1VW15VktBNTZoS2dJYnhxQUdybDNwdDdaeEpvbTNueE9aM3NVS3o3eTJqZzlxV3p1ZzhRWGtDRlBaeGtqbkw5MUFvV29yWVlGcHI2bGVYc0llVTRvbHktT2ExNGpfVHFIV2ZqZURNV0Z0TGlTVFc1MXJDUDNfN2s?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T13:15:00Z",
+      "summary": "美国联邦储备委员会在油价、人工智能与通胀前景交织的不确定性中召开议息会议。U.S. News报道显示，决策者需评估能源价格波动对通胀的推升作用，以及AI投资热潮对生产率、就业、工资和价格的中长期影响。AI既可能提高效率、抑制通胀，也可能推高资产价格和电力需求，使政策判断更复杂。市场关注美联储对利率路径的表态，以及它如何在抑制通胀、支持增长和应对AI变量之间取得平衡。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4834",
+      "title": "China dismisses AI slowdown calls and blasts ‘fearmongering’ from U.S. tech leaders - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLS0wQU1BV1hGOG9qdTBkNFhpN1JkdHdnUVhNSE5uVVZzYTdzRFBVT3dmYlZaVi1xVGVGc1I4V2prdVhjZ0xsM0FiU2pYaHA0ZnFDYXVDSHBFUi1Tc2xsN01BdWdmbzVvcGMyS2Q2VXNyS2NPcUNtb19FVFQ2djFVOHJhSkFmTWV3ZjFDLWJBSjlySlNZai1OTFlYSGZSMllNa1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T12:14:29Z",
+      "summary": "NBC News报道，中国驳斥了有关AI发展应放缓的呼吁，并抨击美国科技领袖的“散布恐慌”言论。中方立场可能强调，AI是新一轮科技革命和产业变革的重要驱动力，不应因安全担忧而停滞；同时反对以风险叙事限制他国发展。这一回应凸显中美在AI治理、安全监管与产业竞争上的分歧：美国部分业界人士呼吁谨慎甚至暂缓前沿模型开发，而中国更强调在发展中规范、在规范中发展，并争夺AI全球话语权。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4835",
+      "title": "I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ293cEVsbzZabVBzajMtUW1fdmxKNzk3d05fNlUtTzJ3M2pZNi04STBQWlZwMkRxU0ZVVEpCRmpjRTVmcHh2OHhFQ1FEejZLVEhSSElLaXZZeWNtVDlteVhZMUJnYW85NUVOc3NmazhTeURSUjZoZlpfalVBU0IydlEwZ3I?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T12:00:00Z",
+      "summary": "前Google DeepMind员工Alex Turner在《卫报》撰文，呼吁公众认真对待关于AI的警告。他结合在顶尖AI实验室的工作经历指出，AI能力快速提升带来的风险并非遥远科幻，而是需要现在正视的治理与对齐问题。文章可能批评行业对安全警告重视不足，或担心商业竞争压过安全投入。作为内部人士发声，其观点增加了AI风险辩论的可信度与紧迫感，也促使政策制定者、研究者和公众思考如何建立更有效的监督机制。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4836",
+      "title": "Congress faces frenzy of AI fears: ‘The monster is loose’ - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWG0yWmdwMVM0bUNSWFNMNkJ3VGFwZldaUE5HWVEzYjBwQ3FEOGQwMGZVTnRxcFpxeXBpMnpyR04wZExzYmRON0w0aWFrOEpyZHI3dl9kZDhXWHNVZVVYM2R0WThwTUozNG9lQjdyYW1neDFkYnFkeU81bUMtSHJ6eDBxcDVQS0pFNGM5YWdRc3h3UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T11:37:00Z",
+      "summary": "The Hill报道，美国国会正面临一波密集的AI恐惧与监管焦虑，有议员以“怪物已经出笼”形容当前局面。随着生成式AI迅速渗透社会，国会关注深度伪造、虚假信息、就业冲击、国家安全、儿童保护及AI失控等风险，并推动听证与立法讨论。然而，如何在安全监管与技术创新之间划界，仍存在严重分歧。该报道显示，AI已从产业话题升级为政治议程，立法者面临在公众担忧、行业游说和国际竞争之间作出回应的压力。",
+      "fetchDate": "2026-09-14"
+    },
+    {
       "id": "4801",
       "title": "UK MPs and Lords call for new laws to tackle AI threat to human rights - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUg4LUJwelRmLTNXSzNpUFJOSTJKMWlPYVNLeW9mc01ScF9jMmlEeUFsOGRmSER6STRvd0Y4YVFCV04xNUltMkdYQVZBQjAzLWczQzFuclpkOXB5c3FZTEVIc2syaEg4REhhMlVnelh6ZnhYd1ZzYmk3WVFSdTB1Z1NRYnhmajhvbVI3dlZ6MmxPc2dhMURVdlRNbjM3RFBrcnF5bnFyQ1FpcW5id1Jv?oc=5",
@@ -43300,5 +43516,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4811
+  "total": 4835
 }
