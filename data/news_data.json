@@ -1,104 +1,139 @@
 {
-  "updatedAt": "2026-09-14 02:13:20 UTC",
-  "totalArticles": 14,
+  "updatedAt": "2026-09-14 07:22:56 UTC",
+  "totalArticles": 19,
   "articles": [
+    {
+      "title": "Sam Altman urges caution on AI; Trump says US must keep its lead over China - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSVJneHRod29XWFRpOGhiMkN4bFRvenBHRXN3VkVEMXJsMUZTVWxRbVZWLS1wbVdTNWMybzNXSklERWVsd3BNaXVVTUhlOGtER0g3aXZNZW9SMkI4MElrYnlCemJ0R1RFODhpU05hVlFWZFNMNGstUXp2cXloTFZkcXZVME40ZHgxODNkTEIxbjh4dW5NZFdXOHF2emJqeGlYc202SExEZXo4Nm9oUzRORENCd015Q1V6WDB6NnRZcmJKMXFKQmZKaHVGUUY5UUVhNXI3WkVWOWYtTjhRTXJRaHNNSnljZ21DTmZ1bEtKMGFMYl9yN3p1Vkd3b05MYXfSAYQCQVVfeXFMT2ljRDQ2Q2hyNDlpYnRQQnVNcFAzTzlJVm9kNmdOYWxNWFdHRGt4T0ZUTWFkMUswWkJvQWNqRnZrUUJELWxkUGxQQWZUcTdqcTNQWl84VUxsdTVkemduSlFQZ2lVY3hjT21LdWxzX0JMSk1BazFXZ05JbElmM2xRVVk3SnVoQ2wxb1haVXp3Tl82ejd5WmRNdjk4S3hsaHNwTWJZRm9objFwOXpVUlVVLUtSampYWTE0dFlYdEZ1bFJFVDg2eXBDLUV2NE5QMUJycnhla1lvRDZGUnI1ZzBiZWVPWllzRUNaalRIVkRtWkJRWlhmYms1eUwwakdfWUpDOE5mOUM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T06:21:28Z",
+      "summary": "OpenAI首席执行官Sam Altman再次呼吁对人工智能发展保持谨慎，强调安全与治理不可忽视；与此同时，特朗普表示美国必须保持对中国的AI领先地位，将AI视为国家竞争核心。两条信息显示出当前AI政策的两难：一方面业界担忧失控与滥用风险，主张审慎推进；另一方面地缘政治竞争促使政府加大投入、放松限制。未来AI监管与美国对华科技战略将持续交织，影响全球产业格局。"
+    },
+    {
+      "title": "No turning back from AI, but cost, rules will shape adoption: TeamLease CEO - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMTNXemxCcFl2R2M1RGgzd0Ruc1IyNTF0a0NuZXVoN0pDY2J0cUZNQTNvcVk1QlIwQUZUbmVXdlVSZ0FQd2NYQkEzWXBtaXBicE1pY3lnRFpZa3llVHB2UVJ2YldhYXhia2wxUnFoYnhrY21ETjNPRzlhYjAxd1E0Ylprcm9kR1ZFTnhlRUtsbk0ta2hpUEFFZEd5RFV5TkFJNUVBRV9YV0M4b1pwcVNxSFlVOGxxVlRPZmhIM3FRRW0xdTlGTkJjR1NQcFZGbVNsSGpZWmNqWlpNazBSUHhtZtIB5gFBVV95cUxPTkpSUmV4T1g5alFFNm1zOTFLaGdFXzZKcU1uNENGU0p5cDRqeFl1QkhKSTRsTUFKRE9DVjhSNHpwOXVDSHNjOVJOenJDYjlvMnBtZnk3UVREbWd6TkhVQVZYWlJOM2NlclJPM0NqYXZwVlJJbExWSkRCMzVBS3lHZXEyZjlNUE1xbUw5QUJJLUxoMm9IeG1Na2FBdDVxYU9Xalp0Q1p3eFZDZ0hkdm1ZT0RnQjEwX2dGRGJJcThLbUZRY19hUGRzWHFwMUloUl9ma3VzT25YTDhxM3g5WlJDZnpHS1k5QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T06:20:30Z",
+      "summary": "TeamLease CEO表示，企业拥抱AI已不可逆转，但技术采用速度将取决于成本与规则。随着大模型和自动化工具成熟，企业关注点从是否使用AI转向如何以可负担方式规模化部署，并满足数据安全、隐私和合规要求。成本和监管不确定性会拖慢部分项目，但长期看，AI仍将重塑招聘、生产力与商业模式。谁能平衡投入产出与合规风险，谁就更可能获得竞争优势。"
+    },
+    {
+      "title": "New warnings about the risks of AI to humanity revive a long-running debate - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0xYYkd0WFJiNU9GSFFqNC0xMzB3ZUpXZWxteVI1WkwwZkNkVFlNOGVDUTVfZm1fVUJQeTVwYXlFTEdxNzJCd2xQUFVrZkhCOXg5dVZQMS1sSVZhUTNiUHpud3lDeFVGUTg0S213ZVVpdVZkOW1kanRxV2dmSHBRUk9RQk5VbE8wZmprVkhWaUR5UEhuWDVBZdIBngFBVV95cUxPUUxMQ3FnTUdrbVpJRXdadlJfTWJiTHphR3NQNldwTmxCRGRBbk4tYjBNdnhzMVlhS2NpOGIwdkpNc0JOdVUwUV9JOEZXQktkckd6MUFpdlhOOFdBYjlMb1pqbHVRQ0FmNGRBcC1kb01wNmRhamJUczlvSWJ2SmZSME1Kb2xXNGIyTWhxMVRlUUQ2b3N6ZDVFaGY1X1pDQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T05:34:46Z",
+      "summary": "ABC News报道称，关于AI可能给人类带来风险的新警告，再次引发长期辩论。争论焦点包括AI是否可能造成大规模失业、虚假信息扩散、网络攻击升级，甚至威胁人类生存。支持谨慎者主张加强安全研究、国际协调与监管；反对者则认为过度恐慌会阻碍创新。随着生成式AI能力快速提升，如何在创新与安全之间取得平衡，已成为政策制定者、企业和研究机构共同面对的核心议题。"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: AI boom offers strained construction a lasting fix - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFFaR3FZRkNUd0UtcDJ1VkxfWGVLWlFlOXlRVHZ3b2diOW50UENtUzVjbVRRODNyT2U4ZngydHVTY1h2WUZLQnNaeVhuTFpmSkpseXVoNXJoZ3BrcDVNY1c0Rm51bmk2cFJVMUxMeWh0bmdDeE5EaGVQWGNWRTdQU3pVbWZPZTAxSHhyQUJnc1hfQzZpbHB1c05nSGtiTHVHaUpFdjRhdFphLTM3d3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T05:00:00Z",
+      "summary": "路透Breakingviews评论指出，AI热潮有望为承压的建筑行业提供持久解决方案。建筑业长期面临劳动力短缺、项目延期和成本上升，AI可用于设计优化、进度预测、供应链管理、工地安全监控和自动化设备。通过数据驱动决策，企业能提高效率、减少浪费并缓解人力不足。但落地仍受数据质量、前期投入和行业数字化水平限制。若AI与建筑流程深度融合，可能重塑该行业的生产方式与竞争格局。"
+    },
+    {
+      "title": "AI CEOs say they need to slow the pace of development. But will they? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XQlp1T0FKUFNtVnFFME44cGFabC1iYlp4YXVWaWtXaWtfR0l3b1FRbEh1NTd2RmxjazNmcGIzX1lJQm1Ub2pMNDR3R0VYbG8tUGpOUXFuTUZXQWpiSERMOUdscExGZS05NzA3cWtmZWFjODFRZzg3YlFEWWNEQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T05:00:00Z",
+      "summary": "《卫报》报道，多家AI公司CEO表示需要放缓开发步伐，以降低潜在风险，但外界质疑他们是否真会这样做。高管们一边警告超级智能、滥用和失控风险，一边在激烈商业竞争中继续推出更强模型、争夺市场和算力。自我监管承诺与商业利益之间存在明显张力。若缺乏外部约束和透明机制，放缓呼吁可能流于口号。该争论凸显AI治理需要独立监管、安全评估与国际合作，而非仅靠企业自觉。"
+    },
+    {
+      "title": "OpenAI Chief Sam Altman Shares 2 Ways AI Progress Could Go Very Badly - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOF9fU3ZIM0E3d1JzV3JBQWtHR0UyYllhTlJ0bGdrX0gtUTJ5UzN0VlpFQnllb2J5S2N0X1VnY01WUVR3bVgwMlJralM4UkZGUmR4bURWZG5tNGVQTEwyRFUzTTVEWHBKeTMwXy13RkpCT002aU55eUh6b0RhZGU1RE5VeG55Znl5Zjl6YlFqSnVIZmFSRWd3Z0cwZWR1VVB4VDgzUlZtSUk0VzBqdGwyODhleDMzS21ja3BKVjlhY0hQZWxxRVp0aDNB0gHSAUFVX3lxTFBRYzdjMFEtRC1jc1BseTdFZmV4MmlYb0FIOUsxTnk0NmFET0NMTXA0VWx1Q29jaVNEb0xkZE16SWQycWhUMnFPNVF4OFhQWDIxQ2ZkaVVLdGc5UHBSMVNwWTlxUnJaVjk4MkZGd0Z2cEFjTHptWFY1S3c1NUlXU1JQVzd1WnJ3N2szOEVlTGpVVW1NY3dVNFZCX3VJU0lwaWZRdTV3NE9saGo4WTdJWGpkYWE2N19PSEJYeTJXMjNPUHgzRG5jQjYteDkzNy12VWNDUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T04:53:33Z",
+      "summary": "OpenAI首席执行官Sam Altman分享AI进展可能严重出错的两类方式：其一是恶意行为者滥用强大AI，例如发动网络攻击、制造生物威胁或大规模操纵信息；其二是AI系统目标与人类价值不一致，在追求目标时产生失控后果。Altman此前多次呼吁通过技术安全研究、监管和全球协调降低风险。此番表态再次强调，能力越强，安全对齐与滥用防范越关键，不能只追求性能提升而忽视治理。"
+    },
+    {
+      "title": "‘Whoever wins AI, wins’: Trump claims US is leading artificial intelligence race - NT News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbjdndTZrRWpOMVU3ZWQ2ZmNBTWc2dFowdU1ZbzFjdkppQ3EyM1d3c0M0ZWRJbXk4RkJobHk1Wm1LcDQ2Y2d0aVhPVkRqLUlWcFZBVlU0Z0tmZzdWSkpnSWVxcXpoemZ4ekZaZjVwTU1uZUdSZFh1SDhsNFhsSExDRy1EX1EyRmZQa0haelp1bEhTc1JvVXVjY2JmLWNZRUxyY1dVa0FYb3NCYUhCbmtzR25jVWVFellrMTFzWk03WjQ4bGVjaldEV0R4TVQ0aWo2WkdDdWN5T1BfNGFuUExQWEk2SFBlUms?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T04:39:55Z",
+      "summary": "特朗普称“谁赢得AI，谁就赢”，并宣称美国正在人工智能竞赛中领先。这一表态把AI提升到国家兴衰与地缘竞争的高度，暗示美国将通过加大投资、吸引人才、放松监管和限制对手来维持优势。其核心逻辑是，AI将决定经济、军事和科技主导权，因此不能因安全担忧而减速。该言论也加剧了围绕对华技术竞争、出口管制和AI治理路线的政治争论。"
+    },
+    {
+      "title": "Godfather of AI joins calls to slow artificial intelligence - insurancebusinessmag.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb2lRNjYxY2JqWENicG55TlpHWW1vWlRaUWJqY0hfTWJvRk51YlRnTDhKbEVtY3c4TjRvMzhXamM3TzlVd3VLbVJ1bS1aN2Q5ajAxUEpuNGwwUnM2VHFFeF9HbDlYV1VTTWs1QjQtUXY0c0ZWb0t1RGdYc1NxdlIzTUJYNldISml2X2pCeVlNZks1SUMzQ1VDek1memFLZFJtMHV3QU5aZ2RNVE4wRnMybHVfQW9aY0RGaS12TTZjMDd1N1ZNSmR6MA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T04:32:46Z",
+      "summary": "有“AI教父”之称的专家加入呼吁放缓人工智能发展的行列，与多家机构和高管共同警示AI风险。他们担心，能力快速提升可能带来失控、滥用、虚假信息和就业冲击等问题，主张在安全评估、对齐研究和监管框架跟上之前，不应无限加速。保险行业媒体关注此事，也反映出AI风险正进入风险管理与保险议题。争论关键在于：行业能否在商业竞争压力下真正落实审慎发展。"
+    },
+    {
+      "title": "China intelligence chief warns AI could threaten political stability - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRmpEdzY1Vy1aRTZBcTFJMFBDS3NzUXE5Z09rTGpuMHlTakFXc0Y3MmZ1eWJhZk9WLXprSkgwRHpobTZjdkVaMzF1Q2FhREtud1NUb0dabEZVZm1uNjhDWUtOR09ldmoyb01zNXlGVkN2NGZ2dVdKWVFDWlJ4OFZaY0ZvVS1FU3AtTlhvZXJoRmZSRVVhY0trcW5Xd0kwR1NmX2s2ZlpqQkVIbEdCTlFBdW1Kcmh2dm9rb1R5MTZvTEtITTVTS1B3SVNwUm5WdGFib0tJanJ0WUttQTjSAeABQVVfeXFMUElZMXBaamhiS1BSTkFBOHVDU2luenFON1NlS1FJaGFzUU44VUhOSG1FcTdiY05TbzdMR2htQTgwOGYxVVVsa1NnaGg0MVZTNjA0VkVvbDY3YWpiSXlHMnV2bTgtcTRNVFBSSENKbTZrUlZpTlpRalFSVm96cjlaR1dpSGRCaVZOb3MwY2luWGFvcUk0WTl2emVkd29haENZbFNRODljR1dpTGRIRExXNkJGSXZvVklYQXYzZm9IYnB0b0psZEQxZHhseVgwQ3IwR014bm1RSldpVEZERmViVng?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T04:18:32Z",
+      "summary": "中国情报负责人警告，AI可能威胁政治稳定。随着生成式AI和深度伪造技术普及，虚假信息、舆论操纵、数据安全和网络攻击风险上升，可能影响社会认知与公共秩序。该表态显示，中国在推动AI产业发展的同时，也强调国家安全与内容治理，可能加强对模型、数据和平台的监管。如何在技术创新、产业应用与政治社会稳定之间取得平衡，将成为中国AI治理的重要课题。"
+    },
     {
       "title": "Trump resists AI slowdown as the political tide turns - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-14T02:03:03Z",
-      "summary": "《华盛顿邮报》报道，随着美国政治风向转变、AI安全与监管呼声上升，特朗普仍抵制放缓人工智能发展。他可能强调AI是美国经济与地缘政治竞争的关键，主张减少监管障碍、保持技术领先，与呼吁暂停或审慎推进的声音形成对比。文章或分析这一立场在选举政治、产业利益与安全派压力之间的张力，反映AI治理已成为两党及社会争论焦点。"
+      "publishedAt": "2026-09-14T04:10:56Z",
+      "summary": "《华盛顿邮报》报道，随着政治风向转变，要求放缓AI的呼声增多，但特朗普仍抵制AI减速，主张美国应加速发展以保持领先。这反映出AI政策日益政治化：一方强调安全、伦理和监管，另一方强调竞争、增长和国家实力。特朗普的立场可能影响美国联邦监管、投资激励和对华科技政策。未来AI治理将不仅由技术风险驱动，也受选举政治、产业利益和地缘竞争深刻影响。"
     },
     {
-      "title": "Hashed, a global blockchain, artificial intelligence (AI), and content venture capital (VC) and Shad.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84OFhOUC1aWF9fZEl2OFNPb0F6SGpIZHlUQ0trN3JHSldmcHBaM2cyUWZvSXYwMDJlTHVYNlJNZllXR2tEajRpQXQwVGZvUQ?oc=5",
+      "title": "AI must help humanity or it's not worth pursuing: Microsoft CEO Nadella - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOWE0WVVzcnBSOGxiUTFUeU1vMktyV2txQ1c1dDBXVzdfZGJ5SXkyZ0ZiSWJUY00tcGpsaVZiZ0JWYTlSU0ZNamJQcHlMRXNzRjNEVmQwZW1jYi1XNmY2c0NNYXhmOG9FalItOTNxVVc5V0k3ZjA1YzNCR19UWFJOcUd5RE5CcERWeEd6LXdaX09wcXF2eFFkY2lwX1F6aHlubzZTbDA1SUxxLWdGRGtvSmRjSVpuWUFUa1pCbnlxa1lHN3VvaDNOV2Z6dVpnMk4yUDI1T2Y0YTlVTHRkUlluWlY3em04SnI4MUE0SjlDYXnSAfYBQVVfeXFMTjljT2poUnd0VU9yc2lIYnp3YVFNbW9NYnJQampCUER5WDJLZ20xQlVKY0FhTnBWZ2RlaHZpYkE1cG1GbWE1aHZ6VkdTaXNONTdwZEprVW9pXzVVR1B2VEF1VE1KbnVUMnN1Z2praXhGQXBwNzdsc3J1M2p4MjMtX3g0Z00wdVE2QXdnVWdxOVlCVmFaQXppVVp6TkNPYXpEUXJXRkZaaEVyYUF4d3JTTXd1bktOV3FoUUZBNWlINUYzRWpBd19Ec1lJN2xtMF96V2VUSGp4Qm1ndnM4YjQ5akhMYTJjZ0RnQURYbjV0M2JkTklmUDVn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-14T01:47:06Z",
-      "summary": "韩国《每日经济》报道，全球性区块链、人工智能与内容风险投资机构Hashed有最新动态，标题涉及与Shad的相关合作或投资，但细节被截断。Hashed长期关注AI、区块链和内容产业融合，投资早期科技公司。该消息显示，在全球AI投资热潮下，专注新兴技术的风投继续募集和部署资金，尤其关注AI与Web3结合、内容生成和基础设施等方向。具体交易金额、合作方及条款未在摘要中充分披露。"
+      "publishedAt": "2026-09-14T03:39:24Z",
+      "summary": "微软CEO萨提亚·纳德拉表示，人工智能必须帮助人类，否则就不值得追求。他强调AI应服务社会福祉、提升生产力和包容性，而不是为技术而技术。在行业对AI风险与速度争论升温之际，纳德拉主张负责任创新，确保安全、信任和广泛受益，让AI成为解决医疗、教育、气候等问题的工具。若偏离这一目标，发展AI便失去意义。"
+    },
+    {
+      "title": "Cybersecurity Is the Next Big Market for Artificial Intelligence (AI), According to Jensen Huang. This Super Stock-Split… - longbridge.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92XzYtMHpmcDJEamVTdFFsc1dqN1M4M0I4ODdzcF9hQ0RQNnQzZllFazhZRDRxNUVzU3hvREQwN3ZpcnZwb25XbEE4N21mT1NNM0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T03:25:29Z",
+      "summary": "英伟达CEO黄仁勋认为，网络安全是AI下一个大市场。随着网络攻击智能化和攻击面扩大，AI可用于实时威胁检测、异常分析、自动化响应与漏洞管理，提升防御效率。文章认为，企业对AI安全解决方案需求将快速增长，相关芯片、云平台与安全软件公司受益，并提及一只经历拆股的“超级股票”可能成为市场关注标的。核心是AI与安全融合带来新增长空间。"
+    },
+    {
+      "title": "Group offers digital skills, AI training to Anambra students - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVczTEF0cU82b0hsQ0NuQ1V6bGpPbVY0cE1HVWdCU3BiTC1BY1g0MlB1c0Q0dmlOVVowaU1kSE9mOEh5UjJidXlTZFBLdUtpVDFDUEphOWdhZkc2WURKNnR3a0tWdGQ1T0x1SGQwTGtNNWdjdUllZnRNVnVLRm1QaWVDMFMyVUtzNS14TXptaEpYU2pUemhITGVROEc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T03:17:37Z",
+      "summary": "尼日利亚阿南布拉州某组织为学生提供数字技能和AI培训。项目旨在缩小数字鸿沟，让青年掌握编程、数据分析、AI工具应用等实用能力，提高就业与创业竞争力。通过课程、导师和实践，学生能更好适应数字经济，并为当地科技生态培养人才。此举反映非洲新兴市场正加快AI普及，以教育推动包容性增长和产业升级。"
+    },
+    {
+      "title": "Is artificial intelligence (AI) now the new electricity? - The Citizen",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1dTYkR5SS1kYVpzdXBUSjJlV3JzRUxqVldqbGljamhIZTM1cXU0ZncwNGpjS2UwNmNPd05HTXBTcjFVVElYbTFnNm1aY0U3dGs1MHVSSkZ0UTFxTklZalNyd3NuUUtTbGVoNVlvdkVVVlFyQ2hzX241QjF0cW5kZ0hlU0JnNEhSOU1Gb21n?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T03:04:43Z",
+      "summary": "《The Citizen》探讨AI是否正成为“新电力”。这一比喻指AI像电力一样成为通用基础技术，渗透各行业并重塑生产生活方式。支持者认为AI可降低成本、提升效率、催生新服务；但质疑者关注算力耗能、数据垄断、监管滞后和公平接入。若AI真成为新电力，基础设施、人才与治理将决定国家竞争力，社会需在创新与风险间取得平衡。"
+    },
+    {
+      "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T02:31:00Z",
+      "summary": "《纽约时报》披露AI公司内部关于“超级智能末日”的讨论。随着模型能力跃升，员工和高管辩论超级智能是否可能失控、如何实现对齐、是否应放慢前沿研发。报道可能揭示安全团队与商业化目标之间的张力，以及企业如何设定红线、评估灾难性风险。核心问题是：在追逐更强AI的同时，行业必须正视生存性风险，并在创新速度与安全治理之间寻找平衡。"
+    },
+    {
+      "title": "While China is growing rapidly in artificial intelligence (AI), industrial robots, and new energy ve.. - mk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83dENHVGdIZ0N5STFFdUxXMFlLUmdxY09QVktid002RmdZVS1SWTlaeXRCejU3TmVOdnVuSE9abkVUWDk5VzYtcnBXbHRXS2FsVHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T01:47:47Z",
+      "summary": "韩国媒体报道称，中国在人工智能、工业机器人和新能源汽车等领域快速增长。政策支持、庞大市场、完整供应链和工程人才，推动中国在制造业自动化、电动车出口和AI应用落地上形成优势。这给韩国等竞争对手带来压力，文章可能呼吁加强本国产业升级与战略应对，避免在关键技术竞争中落后。核心是中国科技产业综合实力正加速提升。"
+    },
+    {
+      "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T01:30:00Z",
+      "summary": "《卫报》报道，OpenAI负责人和埃隆·马斯克支持呼吁遏制“鲁莽”的AI开发。他们主张前沿实验室应重视安全、透明和监管，避免不受约束的竞赛带来灾难性风险。相关声明反映行业领袖试图为AI加速踩刹车。不过，批评者可能质疑其诚意，认为这些公司既是竞赛推动者，又试图借安全话语影响规则。争论凸显AI治理的紧迫性与复杂性。"
+    },
+    {
+      "title": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbFlIUXp6SmlMdy1VLWU1OXpsdzBCMmpEMm1lZWU3R19IR0VkOFpXdVo2cmRkRGJFN2I0a0MxS080OHk3TE0wN0NxN1BCTDJjM2NBRDdLTS1BWVFYTXNMTjI1aVcyT3Z4aVJUVkd3MTkxNlBSbktsZDc2M0k3RmQ0cmc1ZEpWRmxVTnhiNW5KMU56LUwycGpqTk1ZaWlydldGLTBhTDg5ZldITlg3cEZLUXM2R2RuZ2VaTHczQlJTM0tKblVjZU9tWTVtZHFnNVptSFZN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T01:30:00Z",
+      "summary": "针对AI领袖呼吁放缓开发，批评者称“太少、太晚”，并怀疑其动机。他们认为，正是这些公司推动前沿模型竞赛，一边发布更强系统，一边呼吁监管，可能借安全议题巩固自身优势。批评者主张需要具约束力的外部监管，而非自愿承诺。文章反映AI治理的核心矛盾：行业自律可信度不足，政策制定者何时介入、如何平衡创新与风险，成为全球争论焦点。"
     },
     {
       "title": "'Not Worth Pursuing If...': Satya Nadella Joins AI Slowdown Debate - NDTV",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzJnaFRuOXFTNUItaXZRbERHQjNIU3NPVV9ER1Zvbk9WaWFyNDNISW5QdmUwUHdnbkUtSUdOZy1ZZmFYd0F6R2R1MFR2VFFGcU9nQ1p2enpDNXUxREs2cll2SzZBSldlNGpIMUFUdDY5Tk5YWFJVWGRUcHhJdXl6V3RLaVdXNnhIcnpDUEpkOVFrQ1ZFZ2JPSkhhUF81amZzVmJBRUJWUzNEM2hNaUxpU1pDY1ptWHM1MkhHRUhiazZMWjVKYWt0SNIB0AFBVV95cUxQanZha3N3U1FwTFJjNm03dFFPY0FLNGhaa09teG9tZkZrMGdTOG5Tc2l5eDJ3UE9FY3piZTRhaWM5ZzktM1d2OHpJV2M4QkhHUFVrdF9sTGxkZVpJSEtneUVZNURxVmZJcE80c3M2RWtndVFZTHBIYmlrY1RNNXliTWhOQzdxMXp2ZV9ycWJPbzEyWU9HQUdMdWh5N3NfS0h5dEVYcDRpSm83bDd1NGg2Y01IS2s0MWpONWRydnRyWTBLQ1dzYnFVUkpGUU4xVG9Q?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-14T01:28:44Z",
-      "summary": "印度NDTV报道，微软CEO萨提亚·纳德拉加入有关是否放缓AI开发的辩论，并提出“如果不值得追求……”的条件式观点。他可能表示，若AI不能安全、负责任并广泛惠及社会，或只追求技术指标而无实际价值，就不值得追求。纳德拉通常主张AI应普及并创造经济价值，同时建立安全护栏。其表态反映产业领袖在加速创新与防范风险间的权衡，也显示AI治理争论正从学术圈蔓延至企业高层。"
-    },
-    {
-      "title": "Global trade confab to examine implications of AI - Demerara Waves Online News- Guyana",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGxKSnMwMmRCNjJTRlB0U3RNT212VEtaLWJ3SVN2TjJaLTdkcFU5Y2ZxSkU5Z1FKVFdvLU9iMzhaclo2YU5qWkx6ek9RaGpHTWRMbTV4U1BnaVMzWW9wd1FUbzkzMWpORnM5N2RfSThLM1dNTnhhZmlVYUh6cUNFUVdfajhhNEdGVHpOZFhSWTZmTUswVDFsRGZtVHo0UlhjbVNidm01cmZSc19FcnFqRzh4R2FoYjdNTGhTWnJ2NjNWdDBZ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-14T01:19:49Z",
-      "summary": "圭亚那媒体Demerara Waves报道，一场全球贸易会议将把人工智能列为重要议题，审视AI对国际贸易体系的影响。讨论可能涵盖AI驱动的服务贸易、跨境数据流动、自动化对供应链和就业的冲击，以及数字鸿沟、规则制定和监管协调。对圭亚那等发展中国家而言，会议或提供了解AI机遇与挑战、参与全球数字贸易治理的平台。信息虽有限，但凸显AI已从技术议题上升为全球经贸政策核心。"
-    },
-    {
-      "title": "BigBear.ai vs. Cerebras Systems: What Quarterly Revenue Trends for These Artificial Intelligence Companies Tell Investors - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQbUNTa2dGeDhfTmNVWTRaV0g1VnQwdXBZc3NULXVRWmRfSjJxWmlCMEI1NzJCNFBiUThFMHFiRGpwT3NHX0x2UU4xZ1VDSWtybGUxVm83cmpYb3MtMTh4UDBpbWU5NkJVZHkwOGhva0o5cDQ1TFpOeXhSSGtRN3B0U2pMNFpkZW5VNlItZnk5RU5LWG5Qd1lNUEhtRXVFTkh1QTRnemlXd0lFa0p0ZHRMbS02a3VyaERMS0gyYk1HWllibms0bmFkWTRJUXNUdmk2VnY1WVpYZ3o4MXRCY3V5NlhfWW5UazAxa25iNmw3ZlZxQlJRaGs5NUxHQXJBYW5JWWJsdWU2czBUMENPZThXUS10c28wVmNOM0pISFVxeEdPMTRoOGI1dXBDdlRfdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-14T01:10:08Z",
-      "summary": "《环球邮报》对比BigBear.ai与Cerebras Systems的季度营收趋势，剖析两家AI公司对投资者的启示。BigBear.ai聚焦决策智能、国防与政府AI应用；Cerebras以晶圆级AI芯片和计算系统著称。文章可能从营收增速、订单可见性、盈利能力和客户结构等角度比较，提示AI赛道分化：应用层与基础设施层各有机会与风险，投资者需关注商业化落地和持续增长能力，而非仅看概念热度。"
-    },
-    {
-      "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-14T01:04:20Z",
-      "summary": "《纽约时报》解析Anthropic首席执行官达里奥·阿莫代伊呼吁放缓AI发展的核心论点。阿莫代伊可能主张，前沿AI能力快速提升带来失控、滥用和国家安全风险，若安全研究、治理机制和可解释性跟不上，继续竞速可能得不偿失。他或建议对超大规模训练进行透明度要求、安全测试和算力治理，同时支持可控发展。文章呈现AI安全派与加速派之间的关键分歧，以及企业领袖在监管辩论中的立场。"
-    },
-    {
-      "title": "Ross Douthat says \"no story looms larger\" than the latest AI developments | 60 Minutes - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVG9xVXNJMVBmdHItOTFHT2pQOUl5VXpvNzUwS29MWkprMC1qNTd5N2lWSFA0Q21ub3RrdjlzNGxfUlozWTFBVnd6M0tMamhjb1RldFpqbDFXcS1iN1djRHZoTVFoZEtJbTljOTlnXzMzMlBLcHQ1R0RTVFhOZWdtaE1KSG5XRzMxOUxqUHc2UVMycGt5TElnTW1kbw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-13T23:54:00Z",
-      "summary": "CBS《60分钟》节目中，评论员罗斯·杜萨特表示，没有比最新人工智能发展更重大的新闻。他认为AI正以极快速度重塑经济、劳动力、文化和地缘政治，其影响可能超过当前许多政治议题。杜萨特可能从文化与保守主义视角，探讨AI带来的机遇与不安，包括对认知、创造力和人类自主性的挑战。该表态反映AI已成为主流媒体和公共讨论的中心议题，而非仅限科技圈。"
-    },
-    {
-      "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-13T22:50:00Z",
-      "summary": "《卫报》报道，OpenAI首席执行官萨姆·奥尔特曼与埃隆·马斯克等科技领袖共同支持呼吁，要求对“鲁莽”的人工智能开发踩刹车。他们可能在一份声明或公开信中警告，超强AI系统若缺乏安全措施和监管，可能带来严重风险，主张暂停或审慎推进比GPT-4更强的模型，并加强行业自律与政府监督。这反映AI领军人物在竞速与安全之间的公开分歧，也加大政策制定者介入压力。"
-    },
-    {
-      "title": "California lawmakers urge criminal penalties, emergency legislation to rein in unchecked AI - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemQ3NEwxekYxM1JBcXJ6RW1aRUdPOXBRUmJERUNxeU45RkxkT2tBVEdlSkQzWFgtLXVqQWU3V1B6YS14dEh2WVF5aGktS2NOX1NCc2VOdTJ5NVdlU1NUTnFzelVOQThNcmZEbWxyZEpsaEVFSWUzOW5weUx3ZVVmV3lWdzJna3hxcVJTa2tZc0NwVm9hUGo5WlBybVVEMEg1dTMxZEdla0JPUTZyVm0zdlg3cFJUenNleEo1cg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-13T22:34:47Z",
-      "summary": "《洛杉矶时报》报道，加州议员正敦促以刑事处罚和紧急立法来约束不受监管的人工智能发展。他们可能担忧AI被用于深度伪造、欺诈、歧视、侵犯隐私甚至公共安全威胁，而现有法律滞后。提案或要求AI公司承担更多责任，对造成严重危害的行为追究刑责，并加快立法程序。此举显示美国州层面正成为AI监管前沿，可能影响全国政策走向和企业合规策略。"
-    },
-    {
-      "title": "‘Whoever wins AI wins’: Trump calls for further artificial intelligence development - news24.com.au",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaU5wQXRpMlJSUUxZUXFHdXhQZ184RlY0eFN1cUUtcDJ5d284RnA3UU1PbEs5UmRTaFk4aXppNkRDX3ZvamVzbjhhWnlSYW1oekF1c3hMbkVQQTFiOF9Fd0loY1BHcC0xWXVzUFpib0FuY29kU3JzbTYwd2R0NXhnbXRQNERfRm43TGtVVllZZG9sdVRGXzN0dXUyc1B1clZrMFUxTkZfTGYtMHZOV3QybG9NazgxZmcxblhIdFMzUzJJWWJQQm10R3N4QjVvRHVkM3RScGJOOXhOM0hRRzF1bkZXcU1PY3d3cS01TjhVcGRXWVI5aUxSbEtyLUpTbWxGNThLb9IBigJBVV95cUxPUEdZTUZtUV96TEUwdW1nbmVFeVZTWDlYVnF3ZUl6ZlAzSnBIb0dMbnN5cTVGb05WX1VjLXQ4ZmhldnpleExKUjMydm1JRGlXcmRpU2tGZkNYWGxFSEVBZmpxejZDTHdKVjNBS0FBenlHc0JEdVAxSXJaU2dvbTJQNGZUZmExZGsyeEJkdE9PdXZfYmdNWURpVHhPMXcxWnZlcWpiLUJFekpicm9uRldVRFNlMUUyYTdwelBacDFuWjA5dF9RblU4b3hPbGp1dFhSV052ZDVocVNlOGx3bU5iXzF6NEZ0c2hVMWVTa1REZXVEZ1hNU2tBWlpmbVZVQ0g0UVVYZ3JqVzg2QQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-13T22:12:14Z",
-      "summary": "澳大利亚news24报道，美国前总统特朗普以“谁赢得AI谁就赢”来强调人工智能的战略意义，呼吁进一步发展AI。他可能将AI视为国家竞争力和地缘政治主导权关键，主张放松监管、加大投资、保持对华技术优势。这一表态与其抵制AI放缓立场一致，凸显AI已成为美国选举和政策辩论核心议题。支持者认为可促进创新，批评者担忧安全、伦理和权力集中风险被忽视。"
-    },
-    {
-      "title": "Obama says Democrats should have a ‘very clear plan’ on AI policy - nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzJRbGVPWkg4d1FkdjFvOUFJajI2RUpHa1FIMjJQamFTWHRVc200NDlSZDg5OXJIdmM5OC1BdnZkSjBHVGxDcEllelFnQWpqYV9HbHJkNHBBX0hxYzRQQ2dHeUk3QW14dEJYVW5yejVfZmQ2ck9VcUVJcTdKb284YW1HOGM1M3RvLUpZUUpfc1ROSTc5amdRRThR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-13T21:56:43Z",
-      "summary": "据NBC新闻报道，美国前总统奥巴马公开表示，民主党应当就人工智能政策拿出一份“非常清晰的计划”。此番表态反映出美国政界对AI监管与发展的关注持续升温。在AI技术快速迭代、产业竞争加剧的背景下，奥巴马强调政策框架需要明确方向，避免立场模糊。该呼吁也被视为对民主党在AI议题上主动设置议程的敦促，可能推动围绕安全、创新与监管平衡的党内讨论，并影响后续选举周期中的科技政策辩论。"
-    },
-    {
-      "title": "Cybersecurity Is the Next Big Market for Artificial Intelligence (AI), According to Jensen Huang. This Super Stock-Split Stock Is the One to Own. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2JhNFVwa1U3Z1NlVV9LZEhDSmFGT3oyVzlpemVwQzNlVmdHeGM3V2NHMTZibklDdzRWVkF1UnBsUDBUTU9LMEw0TUNzUm5XcXRwTTRNdU5OaEI0cUhBa3lhWkRydFh5VVg3Y3JDaExqLWhDT1JrRTJvV0Z2NVRsQWlmc21oWmVNSDBLdU53a191Q05qUWZ3NndxLUZkc0w0d05oRTlCaw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-13T21:50:00Z",
-      "summary": "英伟达CEO黄仁勋提出，网络安全将是人工智能的下一个巨大市场：随着企业加速部署AI，攻击面扩大、模型与数据安全风险上升，AI驱动的威胁检测、自动化防御与安全运营有望成为新的增长点。雅虎财经文章据此指出，一家曾进行拆股（super stock split）的相关公司值得关注，认为其有望受益于AI与网络安全需求的叠加。该观点将AI投资主线从算力、模型延伸至安全领域，提供了新的观察视角，但具体标的与业绩表现仍需独立评估。"
-    },
-    {
-      "title": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1BiRGFjYjdyMmJwR2dqYUJHeGRQeW44SmgwZVIyb28tcTJ0alBScGp3RDZWTk5QbmFoc2cwaG9tSWpvdmxsSVpjS2s4RFI1TkVDY2RCQXhuVHkycE03RmRldzA3amVITkNMWFZBRVFfcmplSkgwVlEySEUzTG41NXp1RWo5Y2I2ckNQSHZwN25ybG45TldZ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-13T20:46:00Z",
-      "summary": "雅虎财经刊发观点文章，围绕“如果只能买入一只人工智能股票，我会选哪只”展开讨论，属于典型的多头选股视角。文章从AI长期趋势、公司竞争壁垒、盈利兑现能力与估值水平等维度进行比较，试图在算力、平台与软件等不同赛道中筛选出确定性较高的标的。其核心逻辑是AI商业化仍处早期阶段，龙头企业有望持续受益。不过此类个人化观点主观性较强，不构成投资建议，读者仍需结合自身风险偏好与基本面研究独立判断。"
-    },
-    {
-      "title": "Tech CEO worries about AI development spur political reaction - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDdvNXUxOWlLOUFfWkRoWldleFU0c3Y2SXlBOXphZ2VLaUJ2aTcyaGlaRGdPYXJ0enlpQ0NycHNIV2l0Y3NocmJGRTNRSVJncllGMUdXLW9CZ3QzNEh5dUNobWRjOEQ0VE1sQ1FyM0lSQWFMdDRROTRvU3c0clVsTUUzb2Y1MXVhc3ZMZ0Q4M0lSeWh5dzFLYUxvcWpBNU15Z0piRlBWQzRLdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-13T20:43:39Z",
-      "summary": "据NPR报道，某科技公司CEO对人工智能的高速发展公开表达担忧，其言论迅速引发政界反应，成为AI风险议题进入公共政策讨论的又一案例。业界对AI可能带来的就业冲击、安全失控、信息生态恶化等问题的忧虑，正持续向立法与监管层面传导，促使政策制定者加快对AI治理框架作出回应。这一动态表明，产业界的警示与政治议程之间的互动日益紧密，未来围绕AI安全标准、透明度与责任归属的争论预计还将升温。"
+      "summary": "微软CEO萨提亚·纳德拉加入AI放缓争论，称如果AI不能帮助人类，就不值得追求。他强调AI应增强人类能力、创造机会并广泛共享收益，而非盲目追求超级智能。面对安全担忧，纳德拉主张负责任创新、全球合作与规则建设，确保技术安全可控。此番表态与其“AI必须造福人类”的一贯立场一致，也为行业减速辩论增添重要声音。"
     }
   ]
 }
