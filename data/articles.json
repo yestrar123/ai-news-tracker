@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "4837",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T20:44:14Z",
+      "summary": "OpenAI以3亿美元收购智能手机相机公司Glass Imaging。后者由两位前苹果工程师创立，曾领导苹果人像模式开发团队。交易细节尚未披露。此举有望增强OpenAI在移动影像与硬件集成方面的能力，或为其AI终端设备铺路。分析认为，OpenAI正通过收购补齐感知与影像短板，加速AI与消费硬件融合。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4838",
+      "title": "As catastrophe warnings grow, will US Congress members reach a consensus on AI debate? - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10RFBKbjR5WWJxTjN2c1YydlY4djBqY0cxVTZVeXdFSHd0eFJYRDR0V2puOTlYa1ZLLV83ZDFDaTd4YmJqcHktR09QYjhQbVVCUDUteUNrZjc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T20:26:50Z",
+      "summary": "随着AI可能引发灾难性风险的警告增多，美国国会能否就AI监管达成共识成为焦点。报道指出，议员们在安全、创新、隐私和国家安全等议题上存在分歧，党派对立使立法进程复杂化。若无法形成跨党派共识，美国可能继续缺乏统一AI治理框架，企业将面对碎片化规则。全球AI竞争加剧也迫使国会尽快回应。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4839",
+      "title": "Tempus AI Founder Supports Anthropic CEO’s Call for Slowdown - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjJTR0hmUkNIN1BKMWpFV2thWndQT3plLXg1YS02djlpTkZkS2dvd3gxR0dTZ1RoSEVwbVAxUUYxZUtjMzZqbzJqWU4tSGhHSEFWVmgwSVVPeU5kczlvdGphZDBvMGJEckdrYjNVUXRyV0NkRldYMm9wZE9EbFBaUnQ2MXVkdmN5TG5WeHZoM2YtbGxtTDZ2dXBGWTVva3pOWFN1UURWRjlkeFJtaktUcg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T20:25:12Z",
+      "summary": "Tempus AI创始人公开支持Anthropic CEO关于放缓AI开发速度的呼吁。这反映部分行业领袖对AI快速演进可能失控的担忧，认为应优先确保安全与可控。然而，在激烈竞争和资本压力下，放缓呼吁能否转化为实际行动仍存疑。该表态进一步推动业界关于AI安全与商业利益平衡的讨论。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4840",
+      "title": "Trump says calls for more control on AI are a ‘SICK conspiracy’ - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnViNTQyc0JRaXAwcjNlRUhydVZjekVDNW9jNjNsc0REMmxKc21CN2FiM0RrLUVYdWlmQVpLbFpqNGJKWXNFQzhEX08yZGRiVmhpYmNCNEYtS3p4dGpBd3ctazJ2MFBPOG54LVdMQjlVanBvQm5UWFEwN0tFMXlYT1luek5VZ0RsXzBQczJOMVNLVVVwamdncFNVTXlWcjNMb1lTR9IBqgFBVV95cUxOc2N5c2phNlpReFhCWE9xX19KdEZvRUd1Tk02NDlhdEM5cDBLMDlId3lteGxmZWZHVUtOZ1N0a05iM3FQNWVIQWdfSmdsZzJxTXpScjBDeElDRUZidDlEZEJHNGF3dXBxY1pkQU1QRzJmV3dETFVuMGJVXzlOMGVYUzdiYWExa1poZ0E1Mk85Q0t4WUpVQ18xYjBnUlVnRlAzeTdad1hvbGsxdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T19:37:32Z",
+      "summary": "特朗普称要求加强AI控制的呼声是“病态阴谋”，再次明确反对严格监管。此番言论与AI安全倡导者立场尖锐对立，可能加剧美国国内AI治理争论。在选举政治背景下，AI监管议题或进一步极化，影响立法进程和公众认知。支持者认为应防范失控风险，反对者则担心监管阻碍美国在AI竞赛中的领先地位。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4841",
+      "title": "AI’s biggest players want to slow down the race over fears of losing control - WBFF",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQX1ZaOGRDbUVyWkQ3WnZUYkgwY1lZQ3ZjUmViQTkyb2xlN21ERlBIeXZOWXpGNjd4RGJZWnN1YUxBcjVqWjJiOUZHRFJ3Ny1aNC1BN2FYTXpKMlRWanp2YUk2SU1LaGFxUVV5RjZuM0IyeXVXY184NXpndm1jTnMxUEluQ05OZ2U5Qm9nSU9sOXZrazFBSHBzbE9VZjg5UHJVclVZZlBXelM1ckd4ejM2aGxtVFdDejdxV0lzUlBueGoxY2dsaVR4ZXI5Q2t0N216c2RQNHZaOE9WdkRrWGZlc242RU9kakN6RXY1Z0JKdHNFcTZVNWRfQ21pVmRpNkFpcWlyYVh4cjlWdHZl?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T19:33:51Z",
+      "summary": "报道称，AI领域最大参与者因担心失去对先进系统的控制，希望放缓竞赛。这反映前沿开发者对存在性风险的警觉。然而，行业整体仍处于激烈竞争，单方面减速可能让对手取得优势，导致“放缓”难以真正落实。若缺乏国际协调与可验证承诺，安全呼吁与商业现实之间将持续紧张。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4842",
+      "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTZOZmhWY1FNU2wxZGcxZzZYTEprQXJlRm5kVWtHZnNNSGtqZXVvS2NUeW44QmIwS1M3eEtGQ0IwNXM3QkwwLU5RbGJrUWFkTlZxWmt6RmxUM2swcmt5bVE4c2sxQmlZdHVVNVhTeEZNVVh6bHY5YWVNMnRZNEEwSWpVREJEaHFZdzBHZ3gwejhJaVFuOFZQTWYwU0dXSll4YXRMWm1FV0RHMFhVM2FZ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T18:41:00Z",
+      "summary": "欧洲央行行长拉加德表示，欧洲必须构建自主AI能力，否则可能被美国或中国切断关键技术供应。她强调AI主权对经济安全与战略自主至关重要，呼吁欧洲加大投资和协调。这反映欧盟对技术依赖的担忧，以及在中美AI竞争背景下推动本土AI产业的紧迫感。欧洲若行动迟缓，可能在规则和标准制定中边缘化。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4843",
+      "title": "Microsoft proposes limits on its AI with code of conduct amid safety debate - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMF81Vk0wWUpXVUh3X0QtMzU1dGt1TlRUWDdxenB1Vmt2UHNjTkdOUmJ3RkFkSGhJRnBSeUMySERuOEpURERqa3ZhN3ZFbWs1aFc3OHR4d1JoSjVaM3dHcDdZc3RiSjRZRUZ6cFRKZzFnZWhXZUNRemlLdTdHZGhyY3ZpQVlPUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T18:21:00Z",
+      "summary": "微软在AI安全争论持续升温之际，提出针对自身AI系统的行为准则，试图为模型能力设定边界。该准则预计涵盖支持人类、避免伤害、防止滥用等原则，并配套具体安全约束。微软此举既回应外界对AI风险的担忧，也意在塑造行业规范，在创新与安全之间寻求平衡。分析认为，随着AI能力快速提升，科技公司正面临更严格的审查，主动提出自律框架有助于争取监管与公众信任。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4844",
+      "title": "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0hPdlVsdm1IYi1BajAzTmhGQXpTU2I0Sm1fYVROeUlmMDJrbG4yZ0drM21QX2lKOVhxejBzcnFVVHlMcDk4RGkyNG1MTkh6QVFhdWRPSVBKMVh6QURZbW5obmpPZ0ladGt5alZaeE1ndGZtLWlpYmVXOFRtVFpuWWNOOGhuc0JlcTJvZENzRXR5dGthazg4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T17:47:07Z",
+      "summary": "美国前总统特朗普表示，人工智能不需要设置“护栏”或额外监管，只需要一位“高智商”的总统来掌控。这一表态延续其对AI监管的反对立场，强调行政领导者个人能力而非制度约束。支持者认为过度监管会拖慢创新；批评者则担忧，缺乏安全护栏可能放大AI滥用、虚假信息和国家安全风险。此番言论也凸显美国AI政策分歧：一派主张审慎治理，另一派倾向放松限制以保持竞争优势。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4845",
+      "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnliOXZJeEJxZVNWd1RHbjdRam5qeXN4Y25OUTlkODQzd29SSkFadDhFanBNY0J5UnlxM29GY3R0R1c3amVfb1FldzdYZW5sclJBdDNYc2l0TjM2NGVmU2MwWDlsUF9MUGVjMld2ZU52Rnltd3dmbUx5WUZYSFpaOHd1Mm5zVUR5YUF0TQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T17:38:15Z",
+      "summary": "据《纽约时报》报道，中国最高情报负责人警告称，人工智能可能对政党统治构成威胁。报道指出，AI在内容生成、舆论传播、信息操控和网络攻击等方面的能力，可能被用于影响社会稳定与政治安全。这一警告反映中国在推动AI发展的同时，高度重视意识形态、数据与国家安全风险，并可能进一步强化对AI生成内容和算法的监管。相关表态也显示，全球AI治理正从技术议题延伸至政治与安全层面。",
+      "fetchDate": "2026-09-14"
+    },
+    {
       "id": "4813",
       "title": "With iOS 27, I’m actually using Siri again",
       "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
@@ -37,12 +118,48 @@
       "fetchDate": "2026-09-14"
     },
     {
+      "id": "4846",
+      "title": "Why are AI leaders calling for a slowdown? The real reasons companies are panicking - independent.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEh5c1JQemJjR2NfRlJlRzNJdlZIc3h1UXNOd0lnU2V1bzR6eTBEa01rVkdWYnllYmZIOXptejhIQWcxZzUwMEhTZG1xcF9mMERiVFFUTjUtYWV2bU5McVQ0R29XdC04ZFlNVEdSUlNFcFdCUmtyWExVdHNEMHNxQW81VXpROGdKM3o1T0prblA0OUR4NlRHWnViREdUUUdXemo0eQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T16:05:00Z",
+      "summary": "有分析文章探讨为何AI领袖纷纷呼吁放缓发展，并指出企业恐慌背后存在多重现实原因。表面理由包括安全风险、伦理担忧和失控可能；更深层则涉及监管压力、竞争焦虑、算力与数据瓶颈、商业模式不确定等。部分公司可能借“放缓”争取时间、塑造话语权或影响政策，以巩固自身优势。文章认为，AI发展不会简单停止，但围绕速度、安全与利益的博弈将更加激烈。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4847",
+      "title": "BBC AI correspondent answers: What is AI? Can it be stopped? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BUmJDVkdJSEpvUng0aXhzeU9rdWVQM3ZTbHdKTVNqbDJ4SUlqaXhSMVVqUDViTElZV29mM0pocGNtZVhldEVjbEtRVmdJUE5DcUdCNnF1dXU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T16:00:51Z",
+      "summary": "BBC的AI记者就“什么是AI”和“能否阻止AI”作出解答。AI是让机器模拟学习、推理、感知和生成等人类智能行为的技术，已广泛应用于医疗、教育、交通和内容创作等领域。至于能否停止，报道认为完全禁止并不现实，更可行的是通过监管、对齐研究、国际合作和伦理规范来管理风险。关键不在于停下技术，而在于确保其发展方向可控、透明并符合公共利益。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4848",
+      "title": "‘Cognitive stunting’ and the potential threat generative AI poses for children’s brains - latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlNPTFptRHJqNWMtSVRibjRUX2FBb1hlSXdVbHVfTmpVdzhvaElPdGU4M3FBYk9mbjZDZmJFSkpiVmlBZm9yY1NMS2doZ2U2NDdlbV8zQ0xKcDBDUXRwQks0aWlXVlBwa0djZGtwWlRxX1VxY3pyOTAtcWhySzdIVVVpY01YVExRWVpEcXo1YWhjdEdsZnh0V1RKb05BbTJzUllFZk9TdUhzY1c4eXJ1N0NDM0hrdmwxOUE1ZmFR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T16:00:34Z",
+      "summary": "洛杉矶时报报道聚焦生成式AI对儿童大脑的潜在威胁，提出“认知停滞”概念。文章担忧儿童若过度依赖生成式AI完成学习、思考和创作任务，可能削弱批判性思维、记忆巩固、深度阅读与独立解决问题能力，进而影响认知发育。技术要点在于生成式AI的易用性和拟人化交互可能让儿童形成依赖，减少主动思考与试错。报道可能呼吁家长、教育者和平台关注年龄分级、使用引导与透明度，并在享受AI教育红利的同时防范长期认知风险。",
+      "fetchDate": "2026-09-14"
+    },
+    {
       "id": "4817",
       "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-14T16:00:07Z",
       "summary": "《纽约时报》报道，在多位 AI 行业领袖公开呼吁放缓发展节奏后，科技股出现明显下跌。市场担忧集中在两方面：一是若安全与监管压力上升，头部 AI 公司的投入节奏与商业化预期可能被推迟；二是“减速”表态本身被视为对当前估值与增长叙事的挑战。这一波动说明 AI 板块已高度依赖对未来的乐观预期，任何来自产业内部的风险提示都可能迅速传导至资本市场。原文未提供具体指数与个股数据。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4849",
+      "title": "Nvidia, Palantir, and others restrict advanced AI model usage over privacy concerns, report claims — 'paranoia' rising over customer intellectual property - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOTExpN2RwblRJUHlTbmlmMTJDcmRZUUZLS0Nud1pLMmg0NWY4Mi1waUxjLTVVTF9qZGczVWRjX1hMTVNqU2I3ekZXcmtfcVoxTnZ4SmRxYzc1TDFhSWdGMzI0WFRrVVNvVnQwQUZfNHFXWlIwZnRhcWdBeFViUmU1Tm4wUURQbjg3LVpSS1c4Y1plYUNOUFNteUE2R2NtSHFHajJZWUo3aVhfeUZjUHpyNkxUbTZ0N09LYURuRDF6SWNpR2I1ajRiOGptcHRNYXgxZXJkdi1vQm5MNG15NDlwWDZhQ1BoMHhmOHI4YWNoWG1uOVJIX0FZUFZsVlNLQTVacHg1VEp5UnVmNUZOcHRNcERHRk52SlF6VDhpejJ6MEpobzFpWDRxV2ZUbDJRSTQ2anU3dHJYMDVvZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T15:58:32Z",
+      "summary": "Tom's Hardware报道称，英伟达、Palantir等企业因隐私担忧限制先进AI模型的使用，围绕客户知识产权泄露的“偏执”情绪正在上升。企业担心员工将敏感数据、代码、商业机密输入外部大模型后，信息被用于训练或遭泄露，因此转向限制访问、内部部署、私有模型或更严格审批。技术要点包括大模型数据边界、企业数据治理、知识产权保护和合规风险。这反映AI落地中效率提升与安全保密之间的矛盾，也推动企业级AI向可控、可审计方向发展。",
       "fetchDate": "2026-09-14"
     },
     {
@@ -79,6 +196,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-09-14T15:38:01Z",
       "summary": "美国一名联邦法官表示，在出售其持有的微软股票后，将继续审理与OpenAI相关的案件。此举旨在消除因持有微软股份而可能产生的利益冲突，避免被要求回避。该案可能涉及OpenAI、微软及生成式AI领域的版权、竞争或合同争议。法官主动剥离股票，显示法院对AI巨头诉讼中司法中立性的重视，也意味着案件将继续推进。",
+      "fetchDate": "2026-09-14"
+    },
+    {
+      "id": "4850",
+      "title": "HighByte Achieves AWS Artificial Intelligence Competency - Advanced Manufacturing",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZGIxSU9uWjNOU3NEYUxwcDhBSXNEUlNTaGZDOXVVbW1rM0R0NGxTbnhKeUhWVzcxeHgyaFRYV0JDZTh2MmpUVEY2MjAtZ2ZXNndSb1gzZUpYbUVxdFktc24zcHNTbmY4d1VBeDdIMzhZa3hjOEw1TlB0OTBHRldFbVVFTFNhYzF3X1h0dGZiVC1sQ3prOTIxekVpM0ZRY1FqVG5xMWRUYmRWR3hfcnRvX1VCM0JRYTYtS1RSYVAxZ202LWFjcXhPbUFnQWJqWldJQmV4bVdFOFNXV1ZEMDBXMlNWZUVNdGNqbGtvbXNKSmpxb0pXTmpoeEVUQThudw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-14T15:27:34Z",
+      "summary": "Advanced Manufacturing报道，HighByte获得AWS人工智能能力认证。这通常意味着其工业数据集成或制造智能解决方案通过AWS合作伙伴网络的技术验证，能够在云上帮助制造企业更高效地部署AI、打通OT与IT数据、提升生产分析与自动化水平。技术要点包括AWS AI Competency、工业数据上下文、边缘到云的数据管道和智能制造。该认证有助于HighByte增强客户信任、拓展AWS生态商机，也反映制造业正加速采用云与AI融合方案。",
       "fetchDate": "2026-09-14"
     },
     {
@@ -43516,5 +43642,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 4835
+  "total": 4849
 }
