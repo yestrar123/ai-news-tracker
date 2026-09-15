@@ -1,62 +1,223 @@
 {
-  "updatedAt": "2026-09-15 10:38:06 UTC",
-  "totalArticles": 8,
+  "updatedAt": "2026-09-15 15:52:38 UTC",
+  "totalArticles": 31,
   "articles": [
     {
-      "title": "Louise Haigh: UK must heed warnings from AI experts - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0J5cENsV1g2dmUwUnMwTm5uaFZzczZuVnFaY2k0TGRiMUpOaHo1cUxKcGo3dVZuYWxZeUY0RzlxdWo2THJqNDhpY3JIRVBqLTNYQ01rdGRIaFRvNHpuOEJNLU1Ra1o5V09lWmpLMDBfV2psZ0tvX2VBTEtweW4xYWJIM0t5ekQ2bEpSVnJ4eEYzaWlEeGZwckpwNDB3dXFkMXVXcjlPRkltVFpDRlhJ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-15T09:28:00Z",
-      "summary": "英国工党人士路易丝·海格（Louise Haigh）在《卫报》报道中呼吁，英国政府必须认真对待人工智能专家发出的警告，不能在全球AI竞赛中忽视安全与伦理风险。她主张在推动AI创新与产业应用的同时，建立更明确的安全评估、监管与问责机制，并与国际伙伴协调立场。此番表态反映出英国政界对前沿模型能力快速提升、潜在滥用与失控风险的担忧升温，也显示AI治理正从技术议题上升为政治议程。"
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T15:47:03Z",
+      "summary": "OpenAI确认已与Anthropic和Google DeepMind就AI安全进行了数周会谈，显示头部AI实验室正尝试在关键风险议题上协调立场。与此同时，特朗普团队淡化AI安全担忧，并强调美国需加快创新以保持对中国的竞争力。这一动态凸显AI治理中的核心矛盾：前沿企业推动安全合作，而政治层面更重视速度与地缘竞争，未来监管路径仍不明朗。"
     },
     {
-      "title": "Inside John Thune’s AI dilemma - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjA4SXBhX3J2NkRhcVB2RUV0c3VLQWp3amhZVGNkQTZGZUFQSnM1MVlzckc0ZjRWSWNoV0swMkZvNkNDUDVyWExVblByNUcxcDliOVQ2SWlLMHY2RkNielBHUVF4LVVITEluR0RyWkpmWEFtRkx6QjFhMXFKZlJyV0pJa3E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-15T08:45:00Z",
-      "summary": "《政治报》报道称，美国参议院多数党领袖约翰·图恩正面临棘手的AI政策两难。随着多州陆续推出AI监管法案，国会内部对是否应以联邦立法统一规则、限制州层面监管存在明显分歧。图恩需要在推动“轻监管、促创新”路线与回应公众对AI安全、隐私和选举风险的担忧之间取得平衡。这一困境折射出美国AI立法进程中的复杂博弈：联邦与州权、产业利益与安全诉求相互交织，规则走向仍不明朗。"
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T15:22:48Z",
+      "summary": "答案引擎优化（AEO）初创Profound完成1.8亿美元D轮融资，估值达18亿美元，晋升独角兽。此时距其9600万美元C轮仅约七个月，融资节奏极快。AEO聚焦生成式AI搜索与答案引擎中的品牌可见度优化，反映随着AI搜索改变流量入口，营销技术赛道正获资本追捧，也显示市场看好AI驱动的新型SEO工具。"
     },
     {
-      "title": "As CEOs of leading artificial intelligence (AI) companies, including Anthropic and OpenAI, successiv.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uUlJLT2dpNlRYR0x6Q2E3N0YzaVdIWVJleXhJQjBVR0ozMTh0Y195c01zd3FBRlRBOFU2Y2I5TTF0YXp4eWRpb3lIS19GRjA?oc=5",
+      "title": "Campaigners draw giant anti-AI message on Scottish beach ahead of key vote - The National Scot",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVNVUzBxZERKSXhGRl9acUQ1aWVnUGN0TjAwTkJjRXBUVGFkb1Fyb1hNbkg4UzU0amFSM09RUWM4SDZnbklVMm5FcVRHS2J3TEdFVzdua3M4Rko5aFFZOEhpenRPSjVZSTJBbERGaWRfM1VEZFFkOFI2MXA0WDRDa2lJM1ZBYmpMVEcybTNHOHN1UmdUWTBwWnpWMU1yTjQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-15T08:41:49Z",
-      "summary": "据《每日经济新闻》报道，包括Anthropic、OpenAI在内的多家领先人工智能公司CEO接连就AI发展与风险公开发声，聚焦前沿模型能力快速跃升带来的安全、监管与责任问题，呼吁行业加强自律并推动国际协作治理。舆论认为，头部企业密集表态既反映其对技术失控、滥用及公众信任流失的担忧，也意在影响各国正在制定的AI监管框架，试图在创新速度与安全底线之间寻求平衡。"
+      "publishedAt": "2026-09-15T15:11:15Z",
+      "summary": "在关键投票前夕，活动人士在苏格兰海滩绘制巨幅反AI信息，表达对人工智能快速扩张的担忧。抗议可能针对即将审议的AI相关法案或政策，呼吁决策者加强监管、保障公众权益。以海滩为画布的做法兼具视觉冲击与传播效果，反映民间社会正加大对AI治理议程的施压，要求技术发展不能脱离民主监督。"
     },
     {
-      "title": "'We unleashed the beast': the world's fears and hopes about AI - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSTBkNGMzWG16SXZWLWJjVkVDWUJwUDlQVG1KSGVYVFdwR2RmTjRaenhVVm1vTDNheFRsQmllMG9IY2FyeWQ3cXZsU3VkT0VnUUUyeWR2R3Nua0RURkI4SkhVZlk1YlNsbGdnM3RFVlE1OW9POVpWeXNzYVNtZHdCc0dydWcwSXNrWmFhUzlZY3gzMXc5S0tVSDczZGtzQWJyeW9yM29hWVRfdVhIZHR5NWRITHNFaHNwT1lqdVl3RUxNSkdBbnpaOWNMdi1GTDdESFV6V3RuYzjSAd4BQVVfeXFMTTZ1MC1keDNsbTZObTc3eklmTDRYdWZBZWZ0MjZkckFONDBBck5rOFkycHlXZHRHbEM0ZS1IOGVleklGSmJ1U3FuUUZQdU5UbTY0WjEwbnVrNC1nb3lIck1hV3hZRlZocmxsSWlVMS1WZm80YzFEbHF3VndsZjhvZnIwTXhka2RXajJzMzNwRmRael84WnhTVzdtUUVUWkJzZmZoUkZ3SFhvOGM3Y1drcUk4YnE5UV9OZlpnTWpSZ2R1ZENtTjA1c3htc3EwWDZUb0g3TWJ3VTVodnU0dXd3?oc=5",
+      "title": "'AI? EH NAW': King Charles' AI summit targeted by giant beach protest - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelBPVnh5RGR4ajQ5VFVDNmhLVnBZeHhRRlBIalUycXpGU3pJRkhOTFQxNUxSMG5BejNtM2dUQ195b29NMHU0aUNWeFZVVHcxNXdhd1Y3ejFsR3lfSFVjVTB3ZlUxWVZEbU9ES3d4bkZEUTJxdV9RNEdxNjdpNC04NGNCM3k5bzgyS0g4bkU4TW1EeXhPTFNNbXhueTkwR1dQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-15T08:12:12Z",
-      "summary": "《经济时报》以“我们释放了那头野兽”为题，梳理全球各方对人工智能的期待与恐惧。一方面，AI被视为提升生产力、推动医疗与科研突破的重要引擎，蕴藏巨大经济与社会机遇；另一方面，人们担忧就业冲击、虚假信息、隐私侵蚀乃至更极端的生存性风险。观点分歧显示，AI已从技术话题演变为涉及伦理、治理与国际竞争的社会议题，公众情绪在乐观与焦虑间摇摆，政策制定者面临兼顾创新与风险防范的双重压力。"
+      "publishedAt": "2026-09-15T15:11:12Z",
+      "summary": "在国王查尔斯主持的AI峰会前夕，抗议者在海滩创作巨型标语“AI? EH NAW”，直接针对峰会。该口号使用苏格兰方言，意为“AI？不”，表达对AI发展方向的反对。抗议者可能担忧AI安全、环境影响与权力集中，借峰会关注度呼吁更严格监管或暂停。事件显示AI治理已成公共争议，峰会外场同样成为民意表达舞台。"
     },
     {
-      "title": "Will AI really kill us all? - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc3oxdFBKR0NmMXQ4R0NrVlhabW1ua2JpRkYtaEVwOVV6cHBzTk01NXFiZC1SMWk4NnZRbFp2LVFiaTB4dm5KQndOTlNCV0JpYW41b09JajFKQ3NzeDNyZU9oUm5GSS1YWXI2akFrZFVtWHVsNFNzZFpNdVp1d0dURTliQk9SX2tHa3E2cVFtSVRuV0hhN0tONDNXVkhIMFN2eVBqT0dzZEU?oc=5",
+      "title": "How artificial intelligence (AI) is affecting gold - KITCO",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM212azl6d2NCTHU1TXo5c0Yzd25uSXk5czRSRWtxUDI3eE5nSEhFdlBwRUhsLTIwdEN1cWJIalhaT1F4V2FVa2NTR08wdktVel8xcnFyQS1rdmR0LVNhYzd3ZnNvMk9OODhQTW9QU3BnYVZRSU9ZR0lCTkNHZjJCeGNWbXBxSUR2SDRNSERhSQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-15T07:27:00Z",
-      "summary": "《独立报》刊文探讨“AI真的会杀死我们所有人吗”这一争议话题，梳理围绕人工智能生存性风险的争论。悲观者认为，随着模型能力增强，AI可能被恶意利用或出现目标失控，带来难以挽回的后果；审慎派则指出，此类“灭世”叙事容易夸大风险、转移对偏见、隐私和就业等现实问题的关注。文章倾向于认为，与其陷入科幻式恐慌，不如推进可解释性研究、安全评估与有效监管，把注意力放在当下可验证的AI危害与治理上。"
+      "publishedAt": "2026-09-15T14:57:22Z",
+      "summary": "KITCO分析指出，人工智能正从多方面影响黄金行业。AI可用于地质勘探、矿山运营优化、供需预测和交易策略，提升效率并降低成本；算法交易也可能加剧金价短期波动。同时，AI数据中心与芯片制造对部分金属的需求上升，间接影响大宗商品市场。整体看，AI正在改变黄金的开采、投资与风险管理方式，市场参与者需关注其长期结构性影响。"
+    },
+    {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T14:42:37Z",
+      "summary": "前TikTok高管推出相机应用Superpose，利用AI分析用户自拍或照片，并生成四种可选拍照姿势，教用户如何摆姿。该产品将生成式AI用于消费影像场景，降低拍摄门槛，帮助普通用户获得更专业的社交照片。它体现AI正从内容生成延伸到实时拍摄辅助，也显示短视频与社交经验正被复用到新应用中，影像创作工具竞争或更激烈。"
+    },
+    {
+      "title": "Russia Uses AI Fakes to Claim Ukrainian Towns, With 35 Videos Flagged by ISW as Suspect - Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Rb0VWZy1aN000cXptSjhfODRkOHdZTFNvUnBsbF9PRHNoaU9xUm5ldGN5OE1kOVJjbnBNcEJxdi1FY3hhUGhWbkxydw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T14:35:40Z",
+      "summary": "俄罗斯被指利用AI伪造视频，虚假宣称控制乌克兰城镇。基辅邮报援引战争研究所（ISW）信息称，已有35段视频被标记为可疑。这类深度伪造内容可能用于战时宣传和信息战，误导公众、动摇士气并扰乱国际认知。事件凸显AI生成内容对事实核查与平台治理的严峻挑战，也表明虚假信息正成为现代冲突的重要武器，需加强监测与溯源。"
+    },
+    {
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T14:30:00Z",
+      "summary": "TechCrunch Disrupt 2026将举办专题，探讨初创企业如何从原型走向量产与生产。Foxglove的Adrian Macneil、MBRYONICS的John Mackey和Bedrock Robotics的Boris Sofman等规模化负责人将分享经验，涉及工程化、供应链、制造与团队扩张。活动面向希望跨越“死亡谷”的创业者，9月25日前注册可节省最高200美元，适合关注机器人与硬科技落地的人士。"
+    },
+    {
+      "title": "Limit AI now or humanity will lose its agency, says Nobel laureate Ressa - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjIxWGFTbi1tWFRfd2xUdWtpN2JXWk12dThEVVdlX0dvVlZZRUgtTlRPbmJpVlVaRzM3eEtGQzl2TFJHeUFhZTdEWmxsZmtLOHVVU191ekNIaTZjTlZPNEtpY01YT2FyOTBwM3Y3SXJiUTJ6eDEwWWl1SGZNNmluX0JYazItQ2l5VVhzdnJwTTlGV1dkbWNYVnlEM2FkTWozOHFVX1lSRndHQXVpSWk1QmszbjZHbTJsSkhYZm5vc0tCUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T14:06:45Z",
+      "summary": "诺贝尔和平奖得主玛丽亚·雷萨警告，必须立即限制AI，否则人类将失去自主能动性。她长期关注虚假信息、新闻自由与民主韧性，认为不受约束的AI会加剧权力集中、操纵舆论并削弱个人选择。雷萨呼吁建立全球性监管与问责机制，确保AI发展服务于公共利益而非少数公司。此番表态加入全球AI安全辩论，反映人权与媒体界对AI风险的高度警惕。"
+    },
+    {
+      "title": "Artificial intelligence: Lawmakers debate federal oversight as AI advances - FOX 32 Chicago",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtS3lvd0lmWXZwNU5GQ0ppYlJxMHpsWVJyX2FZWlpMdmV6RW9uaTg2WlY1eUc1VTIzMnktcEYzb1BHVHdZUkROSGxmeVhNcUhZVzE2UWp4MDlOdWN1bkNFR1l4OFJzZ9IBa0FVX3lxTFBBQU1CdzJNWDMyRjRPcTFKTXJnR0x2VkFWY2p2QnhPSkN3Y05XaHY1V3ZWczQ2WHV2bXRCQXFybVp6YUlWeTdGbUQyNGNqRzdmaUVGdzdKODd6RnVJNUdrTERZTk5tdUpDODI4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T14:00:47Z",
+      "summary": "随着人工智能快速进步，美国立法者正就联邦监管展开辩论。讨论焦点包括是否建立统一的国家级AI规则、如何平衡创新与安全、隐私保护、算法问责及儿童保护等。支持者认为联邦框架可避免各州规则碎片化，反对者担忧过度监管削弱竞争力。地方媒体报道显示，AI治理已成为两党关注议题，但具体立法路径仍存分歧，短期难达成共识。"
+    },
+    {
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T14:00:00Z",
+      "summary": "TechCrunch Disrupt 2026 参展报名进入最后倒计时，距截止仅剩4天，最后参展日为9月18日。活动将于10月13日至15日举行，预计汇聚10000多名创始人、投资者、运营者和科技领袖。对于初创公司而言，这是集中展示产品、对接资本、拓展客户和建立行业影响力的重要机会。主办方提醒有意参展的团队尽快提交申请，以免错过这一高密度曝光与 networking 窗口。"
+    },
+    {
+      "title": "Anthropic, OpenAI, and xAI Want to Slow Down Artificial Intelligence (AI) Development. These 2 Stocks Could Be the Biggest Losers. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzBUb0dHWEdKblJtdW9MdHc3YUgtZ09nTnVZLVFiYU96c0Ewc1QxQzBUWnJqNzlkUmxxc3hwR3BKR2pGMnNGUGJ3WERrYXdIaTI3WVVUZWlFOF9GRVZVYmxHOXc4eVJSVGpHZkdfNnd6MXpMeUdwM2VCVEh4Um1xTldLN1JGZXNnd1cxbm83Nnl1NGRYV0N3aw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T13:50:30Z",
+      "summary": "据 The Motley Fool 报道，Anthropic、OpenAI 和 xAI 等头部 AI 公司近期释放出希望放缓 AI 开发速度的信号，引发市场对相关股票前景的担忧。文章认为，如果行业自我约束或监管压力增强，两家高度依赖 AI 快速商业化与算力扩张的公司可能成为最大输家。核心矛盾在于：领先企业一边竞逐前沿模型，一边强调安全风险，可能改变投资预期、合规成本与竞争格局，但原文未具体点名受影响公司。"
+    },
+    {
+      "title": "Artificial Intelligence Is Rapidly Changing the PIA Process - Conduit Street Blog",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmkwa0pab0V2WVVSX0dEY1N1elRHU1JhRFZualo2cU9iN3Jkc1NJNGJDZlQ4M2pVSDVzX2JDVWp2dm9UTEtrQ0swcEoxVVZmLVY0bmJtdEhmaGtfdnVuTDFhYnJDamc5Qk1MYktVU3dlcGpyVEw1a1pvbUkwMTd4eFJKMkRGTXBQSmcza2xPLXVwN2FSbExiWjVIOHdLTUFhc1pva204RHgtLXls?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T13:10:13Z",
+      "summary": "Conduit Street Blog 指出，人工智能正在迅速改变 PIA 流程。PIA 可能涉及公共信息申请、隐私影响评估或政策影响分析等场景，AI 可被用于自动分类、检索、审核、摘要和文档生成，从而提升处理效率、缩短响应时间并减少人工负担。然而，自动化也会带来准确性、透明度、隐私保护和合规审查等风险。相关机构在引入 AI 时，应建立人工复核、数据治理和可追溯机制，确保流程公平可靠。"
+    },
+    {
+      "title": "'High IQ' Trump Says Nobody But He Should Regulate Artificial Intelligence - National Memo",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EYWlyeXRBWEZFQ0RPdnRLVVZxZnhxQnBxOXFvd280WTFHeFZvODV3dWREVjlMclhWOXFHV3R6bnZKOXdGNDExVEltZHYzUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T13:04:30Z",
+      "summary": "National Memo 报道，美国前总统特朗普自称“高智商”，并表示只有他才应该负责监管人工智能。这一表态将 AI 监管议题进一步政治化，凸显其主张由个人或行政力量主导规则制定，而非交给现有机构或独立专家。若该立场转化为政策，可能影响美国 AI 安全评估、行政令、行业合规和全球治理走向。原文信息有限，但核心信号是：AI 监管权正成为政治博弈焦点，企业需关注政策不确定性。"
+    },
+    {
+      "title": "Trump Says AI Fears Are A \"Hoax\". Why AI CEOs Want To Slow Down The Race - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONC1ablh0bG8xa0pfM2Zqc2lDeWdISHBPLTRlWF9ZMm8yV2xfQ2w0WHJmVHV3YnBEZEpRalBiZTZaRUtLeHE0bU5pdUVaMnRwZ01TM09OMVpndGt0YXZfS0xjNkMxdV9iejJhWllGOXM5c3BKTXBnMjByUFYzY1R3SVkxelhKckVuVkFBWDlGVG9SUGpDMzVrVENCS2NWOG9UNVdrUGp6LXNzWDRkQ2Z0TWVFUDFJNm5Rd2JmaXhNcFrSAcgBQVVfeXFMTlFlQWFrMzBDbjJuOGdsNldfb3BUZWQza3pNcUxmeVNEUmRhTkRTY29ob0pNTE4tVnpqb09UWi1tNWJETEZCdHdnUnpjUUIwYnZfNDdKeUI5RkxwQVdWeUFoZ3d1V01oWGd5UFBTTlFtbnV5ZGpFNjlDV0RDUVJINkJpN1cwYjZTRFJDU1RnM0lYdFVGZEZIampGdDN0SXk3cDQ3d2tJclJfY3E0TlhrQ1lwQVRlZmZpdTAxWmdvMTFReTdhTG1BaVo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T13:02:28Z",
+      "summary": "NDTV 报道，特朗普称对 AI 的恐惧是“骗局”，而一些 AI CEO 却呼吁放缓竞赛，形成鲜明对比。政界有人淡化风险，产业界领先者则担忧模型失控、安全漏洞、伦理冲击和就业影响。AI 高管主张减速，可能出于安全治理、监管预期或竞争策略考虑。文章探讨在 AI 能力快速提升之际，为何行业内部反而出现控制节奏的声音，以及这种分歧将如何影响政策制定、公众认知和投资方向。"
+    },
+    {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T13:00:00Z",
+      "summary": "早期 Anthropic 员工与前 METR 首席运营官共同创立了 Artificial Intelligence Underwriting Company（AIUC），目标是约束失控的 AI 代理。该公司已完成 4000 万美元 A 轮融资，由 Ribbit Capital 领投，First Harmonic 参投。其思路可能结合保险承保、风险定价与 AI 安全评估，为自主代理的行为提供监控、责任界定和保障机制。这显示资本正关注 AI 代理失控风险，并尝试用金融与治理工具为前沿 AI 建立安全护栏。"
+    },
+    {
+      "title": "Knowtex launches frontier healthcare AI lab - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXF3V2pmVHNteGtpQzFIdzBEU3dYbzVlQXVzV0w3QlBoTnRhZmxic3ZsUFRIWnJsMm1CdDhpcnY4ekFaWTVOVlBoVVFHSVMwTlZkcVRpeURnbWgyeDdjc1Axazc5UTVBOUFsYWRocTZLWjFFcGhJdEVCcUhsSlR5NTVLa1RSNDlhZExZZDJhNDdVbWdzdTRKYVNFQzBLYnFEckE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T12:58:48Z",
+      "summary": "Fierce Healthcare 报道，Knowtex 宣布成立前沿医疗 AI 实验室，聚焦医疗健康领域的人工智能研发。该实验室可能致力于将大模型、生成式 AI 或临床决策支持技术应用于诊断、病历处理、药物研发和患者管理等场景。医疗 AI 在提升效率的同时，必须满足数据隐私、临床验证、公平性和监管合规要求。Knowtex 此举显示医疗行业正加速布局前沿 AI，但原文尚未披露具体技术路线、合作方和产品时间表。"
+    },
+    {
+      "title": "FILE PHOTO: Illustration shows message reading \"AI artificial intelligence\", keyboard and robot hands - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNaHZ4TUdHR2hpOG1PWEFfRjJ5NkYzb0FPT3o1VVRVQUlRLU1FZmwxTl9iV2JmdDB2d3lOYjJGS1VDd2lPVGp2WnNFWVhPZ3l6RGVycFczbkxEeEpHNUtXRlRIVy1FRXZjOXBYaEVyVi1ERnVxNFJrWDRfalpjZEZBVW9ZRmd6TkJSeW43OWJKcVVXQzhfQzZNcnQ4YW9vYVpMbmhfTklmeGdTeE8wTFBreFFTY1BQSUhDWmM0N2RwYlZKcDRSeUxNM05mWnhzNVoxQUhYRDc3c0FjYUw4OHRiMERUalpzMDBTaElLTkkzUkFTM0F2UnM4Tk1qNWNuTFItMUNKT3NxV2h5TXhUQWJTUlFqYWlibnpTQkJ2OWw3QjE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T12:56:36Z",
+      "summary": "The Lufkin Daily News 发布一张资料图片，画面包含“AI artificial intelligence”字样、键盘和机器人手，用于示意人工智能主题。该图片本身并非具体新闻事件，而是媒体在报道 AI 相关话题时常用的视觉素材，象征人机交互、自动化与智能技术。由于原文仅提供图片说明，无法判断其关联的具体报道内容。不过，这一素材也反映 AI 已成为媒体持续关注的通用科技议题，频繁出现在政策、商业和社会讨论中。"
+    },
+    {
+      "title": "Shropshire businesses urged to look beyond AI hype and focus on practical uses - Shropshire Star",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN2t0QVBQcWxqdkJzSlVMQ3pTSTBtMDVZbkxIOGJGaW8zSm5QdEhMOUhaRHlXZjdTbmE5TnNKaE5tMHRwc01PZUdfamltcmZXS2d2SFZ1Tnp0VnoyeUhjR1pfTjNOQUc2cXExOGNheE9zem9RS1BRTVBvQ0RIOWItN2tJcHRmZ0dIRGRfbjlnWkRDTDVzbXhJSXd4a2F0a2czV1dRSHpabWxVbndjeVJ4ZTBrbzhJTHZyZVo3Um42X0s5NUttMlJr?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T12:49:00Z",
+      "summary": "Shropshire Star 报道，什罗普郡企业被呼吁不要被 AI 炒作迷惑，而应聚焦实际应用。建议企业先评估自身业务痛点，选择能提升效率、降低成本或改善客户体验的 AI 工具，而非盲目跟风。落地重点包括数据质量、员工培训、投资回报测算与合规风险管理。该呼吁反映中小企业采用 AI 时应务实推进，从试点项目开始，逐步扩展成功经验，避免为技术而技术，确保 AI 真正服务于业务目标。"
+    },
+    {
+      "title": "Tech leaders say they want to slow down the development of AI amid growing fear - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTloQ09lMHhaTGZRU0s3NG1aZDRLNWt1ZWl3Znp0dk5FX0laVm04SjJkand2T2pNUGhWZXJtZHdTMUJmWnp6dHpmdmlfdzdfZTR6YmZ3SGsybXpMSkhkWk1iZnA0TC0yeUZvTDJIalB2bDVsRmR6Z3hIakx1STJheFlJaWk2REl3N1VkSjRLQVduYTRTUHE2YVJCM3VQRWt1eGF1THFrSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T12:41:00Z",
+      "summary": "《洛杉矶时报》报道，随着对 AI 风险的担忧加剧，一些科技领袖表示希望放缓 AI 开发。这延续了近期行业内部关于安全、失控、就业冲击和监管的讨论。尽管企业仍在竞逐更强模型，但公开呼吁减速可能影响投资节奏、政策制定与公众认知。核心矛盾在于：领先公司既推动技术前沿，又担心速度过快带来不可逆后果。原文信息有限，但凸显 AI 治理争论正在升温，并可能改变行业竞争与监管路径。"
+    },
+    {
+      "title": "Jensen Huang Just Gave Artificial Intelligence (AI) Investors Trillions of Reasons to Remain Bullish - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWVhXdHFkQTh4bUpRdkIzQ3c1WHlnQ3lZSTVCVS1LZmdOMTZZdzlvN3dhbzFhRkZCUGM0RXZFVFBUNmRLYVZBc3Y1NV9vVEpxQXU1MDlwdVE0MEFJZndyN0dMQ05SRkJyTFZoNU9oTFYwODZucklia2VySDlyd0c1R2VSWFdYbHpDTE5aNERpbk9yUEc1b0hGXzlJOTdBcFRBdzk2NEFoWEo5QUtIY19SeUJNZUdjR1lmVkJqcVE3X3cyOHVLSWVWempsTGhqMF90REppTjltUnQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T12:37:19Z",
+      "summary": "英伟达CEO黄仁勋的最新表态被《Motley Fool》视为给AI投资者注入强心针，称其提供了数以万亿计的理由继续看多。文章核心在于，黄仁勋对AI算力需求、数据中心扩张和加速计算前景保持乐观，暗示AI基础设施投资周期远未结束。尽管市场担忧估值过高和泡沫风险，但黄仁勋的行业风向标意义让投资者相信，芯片、云服务和AI应用仍将释放巨大商业价值。"
+    },
+    {
+      "title": "Jensen Huang Just Gave Artificial Intelligence (AI) Investors Trillions of Reasons to Remain Bullish - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNYjJkOG9CNUl4OTNGSnhsdjJkR3o1dkh0NVE1YXdwVko5ajZOdzJna1lOYVdUY2xpdzEwUnRLenlBS2tnN1JyWVptckg5OEdEWmZDd2tmM1FqWG5qeHlZTW5TSG1JN1RaM1RRYnVGUndMWDF5T2JjTEh5bFpnUEc3Ui0wYktUbEFrRy1lTXBCMjBLWEVrcDRsQlVZWFFIRVhSNE1yc04tR1IwU0NwQUhkRG5UZzRSV3hTT2ZnaXlsa1cwalBzdzdsUS1oaGJkVGliZzNEWk55QlBzN2VqWnVQOTMyMWtpRG1qOENPX0ZsNlZIVkd1TUNyMWpLSGpqOGlnTnctLXJkT1hvaWVmN1p5allB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T12:35:32Z",
+      "summary": "《环球邮报》报道同一主题，强调黄仁勋向AI投资者传递了强烈的长期看涨信号。其言论指向万亿美元级市场机遇，涵盖AI芯片、数据中心、模型训练与推理等环节。报道认为，在监管争议和竞争加剧背景下，黄仁勋的判断有助于缓解市场对AI泡沫的担忧，并强化英伟达生态在AI基础设施中的核心地位。投资者可继续关注算力需求与企业AI采用进度。"
+    },
+    {
+      "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Hitler - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOW9lMmI2MVFjTmJlcXBmYXd4MURnZDllNF9qZXlGN3plMWlXZUtsS09EZl9PMzFrM2gwRHQwVXNWM1JucmRCNVREVEg1X0xwUFJPM204M0VPUUdPTzRPRDhfREhjeEQ4MXpsNzVHY0tYaENmZVlhUTZOZHdyLTAwU0hrNFpoSUM2Rzg0SHAybFZhY2lTVW9TWkVrd0dKbTdkWGJvZmpDREhIQlZmdkpDcE9sZVJHNGFTSHRNVTZsT2EtQdIBwgFBVV95cUxPcFJHc3JJdHpOeVdNS2psYTh2TFpDdFpoSE9LeXZwYkxoMmt0aDFfMnpOcmhRZDF3Uk9SOGtCU1I3SWNJUFhmTUEyYmZ0eXRhZ0FhSzZIT2x5MEpVTUM3ekJXQ3ZkWHFkb0dGT0E1YU53TnlHSHNjQWs5d2FjU3Jjc1VRT2UyZ0RPN052YlByYnBoWFN3Mll6bk5nNFE4ODBadmE1dm1heERibXlXeE5kRF9TS2M5eWtuTnFOQUw0d0dtQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T12:30:14Z",
+      "summary": "南华早报报道，DeepSeek一名AI工程师公开抨击Anthropic和OpenAI呼吁为AI发展“定速”的立场，认为这实质是领先者借安全之名限制后来者竞争，并援引希特勒作类比，引发巨大争议。该事件折射出中美AI企业在开源、安全与监管话语权上的深层分歧。OpenAI和Anthropic主张审慎推进前沿模型，DeepSeek方面则强调开放竞争与追赶权利，全球AI治理争论进一步升温。"
+    },
+    {
+      "title": "Jensen Huang Just Gave Artificial Intelligence (AI) Investors Trillions of Reasons to Remain Bullish - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanBOazU5Vl8ycDRJQzRxc05kdEI4VTk3WmV0NlppaFJRSG5vRUlONGo3TTh2VUdCVEZieFdEa3ZfdUhQMDhoUUc5Vm93M2g0bFA2T0ZFYVl2NlRVY2N0TnZJRkRySFhHNnRZVnRGQ2dZRmN2UFFOaUppd3dZMDhxTHIwY0F4aHBqaFJBSDlsakMzamZ4R1RyVW45dktGUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T12:19:25Z",
+      "summary": "雅虎财经报道，黄仁勋向AI投资者给出数以万亿计的看涨理由。文章认为，英伟达在AI芯片和数据中心市场的领导地位，以及推理需求增长，支撑其对AI长期机遇的乐观判断。对投资者而言，这意味着AI基础设施、加速计算和云服务仍是重要赛道。不过，报道也提醒关注高估值、出口管制和竞争加剧等风险，市场需在增长预期与波动之间保持平衡。"
     },
     {
       "title": "Trump facing AI backlash in Congress as push for guardrails intensifies - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbHk0cnRVWlZ6WVhQWVVwUTlyNHFEWGVWM2loUXpYOFBqOXBrZ0ZBQ0JDQzFwYkJDRm10RXVMS20yM1ZJanVhWmJ6RVdrNHV2OG9LNVFjeVdjcW9BeWhkc296RUhEbnpsa1M5Slk5bndkNkJoWEVYaDhsemlxXzBUc3VCX2NUUGx4Tm5wVVN2VGViVWQxSURV?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-15T06:41:00Z",
-      "summary": "《卫报》报道称，随着要求为人工智能设置“护栏”的呼声高涨，特朗普在国会面临越来越大的AI政策反弹。部分议员担忧过度放松监管会放大AI在隐私、安全、选举和信息生态方面的风险，主张推进联邦层面的立法与安全标准；另一部分则强调维持美国AI产业竞争力，反对繁重管制。这场角力显示，AI治理已成为美国党派政治的新战场，行政取向与国会立法意愿之间存在明显张力，相关规则前景仍待观察。"
+      "publishedAt": "2026-09-15T12:13:00Z",
+      "summary": "《卫报》报道，特朗普在AI议题上正遭遇国会反弹，两党推动AI安全护栏的呼声不断增强。争议可能涉及联邦监管松绑、深度伪造、选举虚假信息和儿童安全等问题。国会希望建立透明、安全测试与责任机制，避免行政部门过度放任AI发展。AI监管正成为美国政治博弈焦点，其走向将影响创新速度、产业格局以及美国在全球AI治理中的角色。"
     },
     {
-      "title": "So far, the topic of the artificial intelligence (AI) industry has been overwhelmingly fast. It is i.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HRy10X2ZMaVRoOTZEeC1sWjR2VU1XV3pEYzJUd19teUZZWG03aWY0QW1IN193VlFkUExrY0tUV0lqMDdndGwxTmJsQ2ZfSGc?oc=5",
+      "title": "European chip startup Axelera wins AI factory supply deals and launches second chip - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWhvb3cyWDU3RGNHSlZJdGdLWlVOQWJ2S1M3bTV6SlZHUFpOX2FjckdPWDdiYVU3NElIX1JjSGdZYXRtTk9XM0hDRVZGaldPOU5LOTJ1OEZsUkFHUDNBU2E1a2VhajdRYm1QdnoxQ21vWEZvbE5ndG5TTW5DbXVkOF9kdkYyZUN2WGdSNGJ3cTZYSVdhYjdZcU95VThQT21xRXM1QUZEX1l3MWFOUlFIWjgxejdEN04xTGp4MUpraFRRZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-15T06:01:30Z",
-      "summary": "《每日经济新闻》文章指出，迄今为止人工智能产业的主旋律一直是“快”——模型迭代速度、算力投入与商业化节奏均前所未有。但这种高速扩张正遇到新的变量：安全争议、监管压力、算力与能源成本，以及投资回报的不确定性，都在促使行业从单纯追求规模与速度，转向更重视效率、可靠性与实际落地价值。文章认为，AI产业或将进入节奏调整期，如何在保持创新活力的同时回应社会关切，成为企业下一阶段的关键课题。"
+      "publishedAt": "2026-09-15T12:12:26Z",
+      "summary": "路透社报道，欧洲芯片初创公司Axelera获得AI工厂供应协议，并推出第二款芯片。Axelera聚焦高能效AI推理与边缘计算，试图在英伟达主导的市场中寻找差异化机会。AI工厂供应交易显示欧洲正加快本土算力与半导体供应链建设，减少对外部依赖。新芯片有望服务数据中心和边缘推理场景，增强其在欧洲AI基础设施中的存在感，也反映全球AI芯片竞争正向多元化演进。"
     },
     {
-      "title": "Fresno State launches new artificial intelligence minor - YourCentralValley.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXlLUjZONkZHTDlJVUo2UDh0Z3VCSDlNa05JWkxNeWZ1NFl5U2gwTXhfN0NkRVo4Sm5qZUhjeTJsbW9xX0xPcl9SYWVyRUhKbXNhQmNBSjRYalVobzMxemVMOVFGd0NITm0xUVUzTmhmbnltb011VUtWSk4yRmE2SHlBQUtJWjlF0gGOAUFVX3lxTE1qWmtJZ2RTSHZCZVJWNDVYRFQ4cllneV9JSW5sSE1DTGZKa2FpWjM2b0p2dF9raDBqQm5DMks4dlFFVDVZMk1JM3A1R3JCbGdBWWJRUWdqUFhMQVg4QnlUMXhBNmFjUy1SLVdZREp6OGJxd29CQ2Y3d08yY09wMWZkU1BmalFpNDhWVnJhM0E?oc=5",
+      "title": "Monterey conference airs concerns over artificial intelligence - BenitoLink",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnhpR2g3dHhMOTU3djFZaVJJRi1kbUwyOWZZOTV4dHBMLXdnN3ZlZmViUkFfVWxYOWprSnpoRmc1T2h6SkZ5RTdFYS03dC1TcHpxeXd3Uk1NQjhIWWZTTnF6Zk1hOUpXbHVoSGppYUoxY3pFZFkta002WjVGellfZjctaE8zT2pLMWQ2SXlLRQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-15T05:18:33Z",
-      "summary": "据YourCentralValley.com报道，美国加州州立大学弗雷斯诺分校（Fresno State）宣布开设人工智能辅修项目，面向不同专业学生提供AI基础与应用课程。项目旨在帮助学生掌握机器学习、数据分析与生成式AI工具等核心技能，提升其在快速变化就业市场中的竞争力。校方此举也反映出高校正加快把AI教育纳入课程体系，通过跨学科辅修降低学习门槛，为农业、商科、工程等本地优势产业培养兼具AI素养的人才。"
+      "publishedAt": "2026-09-15T12:00:00Z",
+      "summary": "BenitoLink报道，Monterey一场会议对人工智能表达担忧。与会者可能讨论了AI对就业、隐私、错误信息、教育和伦理的冲击，并呼吁提高透明度、问责制和公众参与。会议显示，AI治理不仅是国家和企业议题，也正在进入地方社区视野。随着AI快速渗透日常生活，如何平衡创新收益与社会风险、建立可信赖的监管框架，成为各方共同面对的问题。"
+    },
+    {
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T12:00:00Z",
+      "summary": "TechCrunch报道，Salesforce与英伟达推出全新推理模型Salesforce Koa，基于英伟达开源权重的Nemotron构建，并针对销售、营销和客户支持任务进行训练。该模型代表企业软件公司利用开源基础模型加行业数据，直接交付可落地的AI代理，可能削弱通用AI实验室的API优势。若企业能以更低成本在自有场景部署高性能推理，OpenAI等前沿实验室将面临更大竞争压力。"
+    },
+    {
+      "title": "AI slow down: US-China AI rivalry puts global AI governance at a crossroads - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMl9VTEpPWHY1NDdWVXJRSGZyUzd6TjdHdjZUY0V5QUhnY0x3WWpZRXVsZXFoX1JwcGN0MG84RUt6ck9seW53RUNOMGdXYXB3MVJzcjQzdXZPVC1zbGxIc0FYWW5JaDZ6djF3ZlJKYjJ0eEJhZy0wOElMTld1SmxZb21KamNUc1R4LUphNTdMV29FYWQydGZ1WGQ1MFNiR0g4Ynp6bHUyaTFVbjlqQlJfNkFKdEdIWHJxSUhKbWlCZlB3S1JTcWVSUlhJaTFmM01VQUg3NndsVjB3NlhGc3ZyR3Z1clhVSkNxcVRFSVY5UkkwVHlCckHSAfsBQVVfeXFMTVZyRXBRWFlnMTQ0OG5nbmYzekRWd0xFRzJ3UXIzSGkxTGdtZXphLVZ3elREQzVsU2FXdkFoMG5ka0xMV2d5RXM5ekt4aDRSOHNmc01tb0VXR2pKN2lTSlFLRVZDUmRxcnlzdVdlaFFIUHIxUjNrNjBPaFRfN2hDNDliaWh3YlNTZDVLNnBCcUxUTE8xOE1MLU04Um5WaHRXbXhQYkVURU9IZ0FtQnkxXzFXWl9OLW5HOS12QTRxcTJ1SUpvU25UQWpBMzZnNVJxQXB5X3JlOVlZZTlLTm5ZN0kzb3gzRFRaRkp3S3FTUzZDOVY3TjRzelhJalk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T10:54:45Z",
+      "summary": "《Business Standard》报道，中美AI竞争加剧使全球AI治理走到十字路口。两国在技术标准、安全规则、算力出口和开源策略上分歧明显，导致国际协调愈发困难。若竞争压过合作，可能出现监管碎片化、AI军备竞赛和风险外溢。文章主张在竞争同时建立最低限度的全球护栏，确保AI发展可控。如何在国家利益与全球公共安全之间取得平衡，成为关键挑战。"
+    },
+    {
+      "title": "Trump’s latest Truth Social rants on AI inspire new calls for his removal under 25th Amendment - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFFtNVZnMVVxOS1RcFI4dG9ibThSbWw0M1RjTXY5QlFBeHhnTVhaSDAyZXJuQ1ozaENsZjhlNlFMZm83aEtJSVl1elVqZ09OaUNlLVdTS0RQSWljc2gzeHo4SG9iSEFvR0F6UWxUTGdxVE5YR3VWUmhMZEhzQjBtLXMtLXhjaWRDWkxuTTlIWFFxaXFPbUQ1ZDlTNXJhZ0UzSDN1U2Z0VDBzS19oRk1xVHRn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T10:52:00Z",
+      "summary": "《独立报》报道，特朗普在Truth Social上关于AI的最新激烈言论，引发再次援引美国宪法第25修正案将其罢免的呼声。批评者认为，其言论反映出对AI风险缺乏理性认知，甚至质疑其履职稳定性。事件凸显AI已成为美国政治极化的重要议题，牵涉总统权限、平台言论和国家安全。尽管第25修正案实际适用门槛极高，但相关呼声表明围绕AI与政治领导的争议正在加剧。"
+    },
+    {
+      "title": "New York City seniors raise AI concerns at Harlem town hall - Spectrum News NY1",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZm96YTFSM0FtUEljaG81TWtGSEpZN1ZYNUhMbEZET2hpSDZJLUM3eVQ1RGx6blFSYk1GRmJVWnlzRmdPRDNzbmtEa0RqbXFmaW5kcVd4YU1KOGNEQTV5V1ZQdU1ZNEFhRGVkUU9kQ1hkc0QxYkJlanRQWUxiZ1h5ckI2ZEVyODhiUVhVd2lYaXZvSS1GX0EtalJpYnV5VkpnWTF4QzAzUktsRTRD?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-15T10:35:00Z",
+      "summary": "据Spectrum News NY1报道，纽约市多位老年居民在哈莱姆区举行的市民大会（town hall）上集中表达了对人工智能的担忧。此次社区活动为老年群体提供了直接发声的平台，讨论焦点可能涉及AI带来的隐私泄露、深度伪造与诈骗风险、自动化服务取代人工带来的使用障碍，以及老年人在技术决策中被边缘化等问题。与会者呼吁在推广AI应用时充分考虑老年人的需求与安全，加强监管、教育与数字包容，确保这一群体不被新技术浪潮落下。"
     }
   ]
 }
