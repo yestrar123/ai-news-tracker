@@ -1,6 +1,213 @@
 {
   "articles": [
     {
+      "id": "5002",
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16T20:12:00Z",
+      "summary": "Meta因智能眼镜隐私争议被称为“偷窥眼镜”，现计划推出无摄像头版本，以规避隐私指控。该产品可能保留音频、AI助手等能力，但去掉拍摄功能，降低监控风险。问题在于消费者是否买账，以及无摄像头能否真正消除隐私担忧。Meta此举反映智能眼镜在功能与隐私之间寻求平衡。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5003",
+      "title": "A skeptic’s guide to AI - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzNNamM0dXp2aEVuNF9oU19fMmhSbkVLZXRfRk91cVR6a053RUlmY0tHNzVWRF83MklmZ0o3bU9yMEQyWk5fY3BMeTNtai01Tkw5eExJSGttZnctbXhFNFhLYjVfSmhyZmlhaWN6MUZzV3U1V0xYVEEtZ1BIY2hCampMOXVSYzVLVUJCNjh0bEhuVVNjM1J3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T20:06:29Z",
+      "summary": "《环球邮报》发布“AI怀疑论者指南”，面向对AI热潮持审慎态度的读者，梳理生成式AI的能力边界、常见宣传误区及风险。文章可能讨论炒作与现实的差距，建议理性看待AI在工作和生活中的应用，关注数据、偏见、版权与就业影响，并提供评估AI工具与新闻的方法。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5004",
+      "title": "Do AI companies have to disclose dangerous incidents? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjhWYTgzbzRiRUJ1WVlndUlucW91Rk53ZnpIZ1RmOUVaanp0U3ZEN2FXa08ta25xWlJKd0ptWUt1RTEzZXZaSXRRbUlLLXI2Q2JjVlR0dmdQTTFQNmtoTXV2T2hhOVBUeFktNjZCZmM1M0I5RHE1Qk1kT3N3Rzd6Z0dzOWNzOGRWLXpPaW02R19xTFFCWmJ3VjBta25pVnhMSVRzdA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T19:28:08Z",
+      "summary": "路透社探讨AI公司是否有义务披露危险事件。随着模型能力增强，安全事故、滥用和失控风险引发监管关注。核心争议在于：现有法律是否要求企业公开严重事件？自愿披露是否足够？若强制披露，又如何界定“危险事件”、保护商业秘密并避免引发恐慌。这关系到AI透明度与问责机制。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5005",
+      "title": "OpenAI weighs $1.2 trillion funding round before IPO - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RdXNXYnU1N1BFaHZJc0ExYUxKZmxNYzBTQ1lhZk5aTjF3SUZOQmEyNW0tM1ZTUDJoaTZXZXEyVnVRdk5pTUdVZzB5TVlIMTE0cmdEQW0xZGlYMHItdnhYOUMzRXJla2cxeDBxVVZLVS0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T19:10:18Z",
+      "summary": "BetaNews报道，OpenAI正考虑在IPO前进行规模高达1.2万亿美元的融资。若属实，这将创下AI领域乃至科技史上前所未有的资本纪录，反映市场对通用人工智能和大模型基础设施的极高预期。资金可能用于算力、数据中心、人才和产品扩张。但如此估值也引发泡沫与治理质疑。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5006",
+      "title": "Improving HCLS AI reasoning with open-source agent skills - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWtWd195VzVBOFR6bXk1WWxnZUJwNzdVTElvQ1I5MEpKSTdCZF9iNUswbWFMS1JuSF9JM1F4WUE5aDJBeXM5ZzlvV2RSdWJGZjFjbWU0LU03aHNaOG9CYU13QTBLYUlrQ1BRVEJlSk1MZ2Y3SEFfX21nVkVhTFpYSjFTQkQ4cHNuVG9hMjVtQlpnMkVNb1FNSHBPRnhhVTNSbkJiUlZ2Yw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T19:00:00Z",
+      "summary": "AWS发文介绍如何利用开源智能体技能提升医疗健康与生命科学（HCLS）领域的AI推理能力。所谓agent skills可能指模块化工具调用、领域知识接入与多步推理框架，帮助模型在临床、研发等场景中更准确完成任务。开源方案有望降低门槛、促进协作，同时需关注数据隐私与合规。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5007",
+      "title": "Trump adviser Sacks says AI fears driven by 'fear-mongering playbook' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemEtc1lCaUxzdHhLbzkyQ3JDeUR2ZzJza2ZIX1pQWEJWN2I4b2hvRXpmcmNSZTZucGhVN2Vlek1GRXU0dV93YUJHQmo3WmMzOUVZSWhvbU1zN2EzWVlkSEVwcGlfV2tFYlBfTVZUSW5BUGdiNWQyTVB1b1VjTVYxM2o2cUZfOEFicDJRVGxfT3N6WnpYcUo0cEluYTNac2NqRTk2Q0xPTVNQQ2g2czQxeDN0Zm5xeHY0ektFZQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T18:52:20Z",
+      "summary": "路透社报道，特朗普顾问萨克斯称当前AI恐惧由“恐吓剧本”驱动。他认为部分安全警告夸大风险，可能阻碍创新与美国竞争力。此言论反映AI监管争论的政治化：一方强调生存风险与严格披露，另一方主张加速发展、减少束缚。政策取向将影响企业合规与投资。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5008",
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16T18:25:25Z",
+      "summary": "TechCrunch评论指出，AI实验室倾向设立内部审计来管控风险，但更简单有效的做法可能是先堵住“前门”：即从源头限制危险模型能力、访问权限和智能体权限。文章认为，内部审计可能受利益冲突影响，若基础安全设计不足，事后审查难以防止rogue agents造成损害。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5009",
+      "title": "Bessent says US open to discussing shared AI risks with China, Axios reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSTFILXRFaGlfMUdtb00tRVhOUTNKb0RTYVNZOE1yX0RIakRIakM4MXpJN2sySzBaTjR1ZWJnLTZ6YTJWeXVqYllDOVllYnZNdDlIeXN6MHVVc1pFYUdPRmxVNmRNYV92Umd6amNFekFpU1NjSmt5WWx6blY0cnBBS2N6TFd1R2tkRmlCU1lmWWVidTktdWZrNUNETk5pMm1RZkNRTEstZlhmM2xtMmlNZnFTb1ZWM1N5Z3BWcg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T17:54:01Z",
+      "summary": "路透社援引Axios报道，美国财长贝森特表示美方愿与中国讨论共同AI风险。这显示尽管中美科技竞争激烈，双方在AI安全、失控风险与标准制定上仍有对话空间。潜在议题可能包括前沿模型安全、误用防范和危机沟通。但地缘政治与出口管制仍将制约合作深度。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5010",
+      "title": "Senior Google DeepMind Safety Researcher Quits His Job, Warns 'AI Has The Potential To Kill Us All' - BroBible",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXBBc2d2aEFzdWdtVG1MdmJ3M0xQdUVjaDJMWmxhQnVFeGVhMFNXLUUyNkhQbHlyLVI0b3ZjUWpFUVVGbXRuc0l0T0ZqS2E5QXdCMVFvVkxhOV9XeGc4N1BFNFo3TGI2cS02eENvOGk2azgxa0dDM1lKQWVOa1Z5djJCTkg2aW40X3pLVHBvSGpxSlpjLTNEU0tGZnBhTlc1cVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T17:48:25Z",
+      "summary": "BroBible报道，谷歌DeepMind一名资深安全研究员辞职并警告“AI有可能杀死我们所有人”。他可能因对前沿AI安全投入不足、商业压力压过风险控制而离职。此事再次引发对实验室内部安全文化、举报机制和监管缺位的关注，也凸显AI生存风险争论正从学术圈进入公众视野。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5011",
+      "title": "US bishops form new task force over AI concerns, meet with tech leaders - OSV News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTnhrcjNZbHVQNWZHS3VPaTFPbkh5NktoSmNSZ2ZfdzBWSlBFaTFpU2RXVnVQV0JLOFZfbXFqbXd4Yzc0NldwRTdVVUFvRHVxS3czX05yMEZwT3BKMnMxUXd4RnlmejRsMk5UbW1MdmhFSGxQeUQyWFA3d0xETDM2dV9IWkdTcWVDUGZaTVhKdnVGNGtzNTFYZ2l5ZHBKYm1ncFQ3MlQtaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T17:46:04Z",
+      "summary": "美国天主教主教团针对人工智能引发的伦理与社会担忧，成立了新的专门工作组，并与科技行业领袖举行会面。此举旨在从信仰和公共道德角度审视AI快速发展带来的风险，包括人的尊严、隐私、算法偏见、就业冲击以及信息真实性等问题。主教们希望推动负责任的技术开发，并促进教会、科技界与政策制定者之间的对话。不过原文细节有限，具体成员构成和会面成果尚未披露。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5012",
+      "title": "Research centre, AI company vandalized ahead of Montreal artificial intelligence summit - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMm16V2p5YXd4VUdXOXhmOHZyUjZ2MHFqNUtTaVJoTzZiVG5uRHdiTnNZZk9Ld2IwMHZUUXBpQ29UUjRmaXBaelBmbm1tWHlCWTlrZ2pBcGVJWkFtVk9vRGlQdUVHNmhXbVc0dmVSZUZjMDA3dnl6UktHYXQ0eTFCUWxnamtnR3NRdmNj?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T17:35:50Z",
+      "summary": "在蒙特利尔人工智能峰会召开前，当地一家研究机构和一家人工智能公司遭到破坏。事件凸显AI议题在社会中引发的紧张情绪和抗议活动，可能与公众对AI安全、伦理、就业冲击及企业行为的不满有关。峰会预计汇聚产业与学界人士，讨论AI治理与创新。此次破坏也引发对AI公共讨论极化以及科研机构安全的关注，当地警方或已介入调查。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5013",
+      "title": "Build out artificial intelligence here or ‘rent’ from neighbours, AI minister says - bnnbloomberg.ca",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNekNuSnVjNEIxM0l0RG5qS0NwZHdtaFJObmFMckcwd01vTzd0TmVzMVNtN1Q5cWVxQzhJb0FXcFlEeWVINjNYUXpERHFWejRQemRrZDJBRHdyVHhLRmFxQ2hYRE9Pay1uS1NaU2ZGby1mQUtqcXo3am5QdHZCbnMwVVdxT1V0MGNSay1lR1UxNnd6TVAtS3ZPRzNxWC0tLTZ2R0wwNG9qbTNsSUJHcjBFYkdCaUFMMTBpLWF4ZkNORnZYY29mQmJ0TGZKMWRuUXQ2MjVsY09YX2Y2dFhkS0I4WEFjMVRKbHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T17:28:15Z",
+      "summary": "加拿大AI部长表示，本国必须决定是大力建设人工智能基础设施，还是依赖从邻国租用算力与服务。他呼吁在本地扩展AI能力和数据中心，以保障数据主权、经济利益与国家安全。若只依赖外国供应商，可能削弱产业自主性并带来隐私和供应链风险。该表态反映各国在AI算力竞赛中面临的政策抉择：自主建设成本高，但租用外部资源更快更便宜。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5014",
+      "title": "Build data centres here or ‘rent’ from neighbours, AI minister says - Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPN0ZmVTktMmdqNzlwNHktSHRCVl95Y2dRZHdDTDdtUV9MZmlRb1VKalpHMnNxTi0zQXJDRWtrakFXYWtIck8wc2dZS3NfMkF1NG9kNmxPWlBmcE9iajB6Vk9ZQzV1OHBBSFcybm13bGF1WmRIM0JhcTZIN2VGV3BIWDZaMlRjN0NRc3FMVXY0UE1VbktHYmlSWTdGaWJjWXNfaWd3ZWU5TjVBbWdXYzhMSzlqYVFQOFZUTjgwVld6X3hPNGF5b2NXY0Zsel9FaXFiY3VKZlBPaV83ZDl2N21hN0cwVjhwZUFRN2s4bEZab0RSR0Nj?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T17:03:51Z",
+      "summary": "多伦多星报报道，加拿大AI部长强调，本国需要在境内建设数据中心，否则就只能向邻国租用算力。数据中心是AI训练和推理的关键基础设施，涉及巨额投资、能源消耗和土地资源。部长认为，本地建设可带来就业、创新与数据控制权，但也要面对电力供应和环保压力。若选择租用美国等外部算力，虽可短期降低成本，却可能加剧对外依赖。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5015",
+      "title": "Build data centres here or ‘rent’ from neighbours, AI minister says - thespec.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdENsNFlYa1ZVdl9tTGN3ZE5XSTJrd2g2MWpXTmRQSUVqRTVxeE5UNllEUVFfSnRkd2M1X1Y1d3lXT0M5SW8zMXpJa2RYVzBVZ3VxeGFTWXRGN0hnS19BZ0FyOWhORElEaW1RdjQwMlNxTXhRelQ3YzhZVnlUR3ZzclNkZk4xdDhxVXBLREFoSTR0MDh2VzFNMXE3TUhnUUtGaEhnWWI3djdscDZVVkZEemJiQmYxdzZ2aGtaS0Rfa1Y2MHRTa3RZeUtPQjBvZTBTWnliWkNqQjJTdVZhcndYUThXc19ZLWVUSl9hUWVscDlIMlBW?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T17:03:51Z",
+      "summary": "thespec.com报道，AI部长就数据中心布局发声：加拿大应在本土建设AI数据中心，而不是从邻国租用。此举被视为对国家算力战略的明确表态。支持者认为，自主数据中心有助于保护数据主权、培育本土AI生态并吸引投资；反对者则担忧能耗、碳排放和社区影响。部长言论可能推动政策辩论，即如何在AI时代平衡基础设施投资、环境责任与国家安全。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5016",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16T17:00:00Z",
+      "summary": "Google宣布为Google Home推出新MCP服务器的早期访问，使Claude、ChatGPT等AI代理能够通过自然语言控制智能家居设备，查看摄像头摘要并访问家庭活动信息。这意味着用户可用对话方式让AI代管灯光、温控、安防等，提升便利性，但也引发隐私、安全和权限边界担忧。MCP作为模型与工具间的接口，正在推动AI代理从聊天走向实际设备操作，智能家居或成为代理落地的重要场景。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5017",
+      "title": "Poll shows Americans are increasingly alarmed by AI’s ecological footprint - aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1lZcUtoOUhuTEgzVk9jZGFXbjNZZ1NtQ2l4WlFSQ2lGdVFVdURYcUtYTjhBQlBFN3otUS1salFkT1RkREFNMjFyR3dzcEgyYWZfWnBkN1NlVUxESm5BNXdGV2p6OVBoZDdqaVgxb3pIalZtTlhKbnJLeV9pczhRWktyQnR6R0YwYzRjWTVMQWthR1JKbm5FeTVKYVdRekFuOGRaSUx5OE13NERnejlwaTcwWnLSAboBQVVfeXFMTU5xWVA4ZU5wU3ZYcHg2ZGhmZS12ZmNtWmE1dHNadkFwRjNQd2VpZ3U3Z1JCUWNTZnpBM2FnOURmMkMwN1hVdV9OclJ0c2NKbW1uN0VvSzF1ekx6akh1REEzUWZHWnRCcWRCVUdrM2xXRUQyWGxudHVwbHI2djRiaWNsN2NlZkNFUV9GcGRpekpCS01tYnJGcUNJMXdxWG1rcFZPd29yOGFSVnVaeTNXU18xbllHZXUzSURn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T16:47:54Z",
+      "summary": "半岛电视台报道，一项民调显示美国民众对人工智能的生态足迹日益警觉。AI模型训练和推理需要大量算力，数据中心耗电与耗水巨大，碳排放和电子废弃物问题也随之上升。受访者担心科技公司快速扩张AI可能加剧气候危机和资源紧张，并质疑其环境承诺。该结果反映公众希望AI发展兼顾可持续性，要求企业披露能耗、采用清洁能源，并接受更严格的环境监管。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5018",
+      "title": "Joe Rogan hopes artificial intelligence will take over government, military decisions - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3k0STU0M1FuS2h4VVhJdGNFRXFrTXctSFJrTzBWTFZRTVBJY3JYNnl0OXhrRTk2NDFtY0tra203cWp2ZUFfSDdCejI2S1kxM3RKSkhmT21MUmE5bXUtNF9nREtfS3d5TXZaNjU3dnRHZVBKclZETEd1UE9fNF9nWUphb2U2RTNXM0JGV1ptVU8tWTk5RndxUGk2TVRUMzBoS3hCajZzR0FaRXNrSXfSAbMBQVVfeXFMT2I0VG1hYjlTUm5lQXVveVpoZUdpTUNTeXJUNGxGV295S3lhejhhN1VweFQySDlNZ2dydGl6VVd1VW5Eb3hpa2RWODNhTW5VMExic1YzbG9OUWxHRjY4YWxSdlVUM0NNdENkUFdQbkhuQzVBd1FwTXRmYXlsZ2NkWmtKYU9ZR1RUeVJDQ1gxQjVuQzNFVDZtYXRBWElCbDJwRzR4VVV6OWRJMmZsT2NScmdudzQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T16:47:05Z",
+      "summary": "福克斯新闻报道，播客主持人乔·罗根表示，他希望人工智能能接管政府和军事决策。他认为人类政客和将领常受情绪、利益和偏见影响，而AI或许能做出更理性、少腐败的判断。此言论引发争议：支持者视其为对现有治理失灵的不满，批评者则警告AI缺乏道德责任、透明度和人类价值判断，若掌握军政权力可能带来灾难性风险。该话题也折射出公众对AI角色扩张的复杂心态。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5019",
+      "title": "The hardest AI security problems now live in what an agent is permitted to do - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ISXQ5TEMyOGRXWlF5aG1iUmZhaFZydF9uRHNRaENzbWl4cVdwTDdlZExTVFRUNERvVjFsWFRBb1hvanRUY3ZYZmhuV3gyTTNJU004OXE4cm9xY3lpcEFrTUdlMA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T16:41:15Z",
+      "summary": "The Next Web指出，当前最棘手的AI安全问题已从模型本身转向AI代理被允许做什么。随着代理能调用工具、访问数据、执行交易和控制设备，权限边界成为核心风险。若授权过宽，代理可能被提示注入、恶意利用或产生意外连锁操作；若限制过严，又影响实用性。因此，需要细粒度权限、审计、沙箱与人类监督，确保代理在可控范围内行动。这标志安全焦点从内容过滤转向行动治理。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5020",
+      "title": "The Quiet Way A.I. Is Hitting the Work Force - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fN1J4VEllRVd5dTBaMlpDazlYUUxodnA1d2dYbnF1ZHl4UlJKVUpsY0pkYU91bXJuM09VM1RaT3Q0YW1makJRVWpXVnZYMWFxMTJkM0cxUjF5bWhGQlQ2UFFvMFI0cjJyalNFN29pWGdNeVk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T16:30:19Z",
+      "summary": "纽约时报报道，人工智能正以不易察觉的方式冲击劳动力市场。不同于大规模裁员，许多企业通过不再招聘、岗位重构、任务自动化来静默替代部分工作，尤其影响初级白领、客服、文案和行政岗位。员工可能面临技能过时、晋升通道收窄和议价能力下降。文章呼吁关注AI对就业结构的渐进影响，并建议加强职业培训、社会安全网与透明度，以应对技术变革带来的不平等和不确定性。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5021",
+      "title": "House Democrats call to cancel upcoming recess for time to legislate on AI - Nextgov/FCW",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDJkT184ajc2RFkxZkJEdjdFbDdmOTFhU2ZOYi12cnNLMTZEOVFJaG5KWExQYzNmRmZHMGlVMkh4VXpKVFZxUDN0NFVJWm8zREhjTFh4Q2ZGM0lwOERyWkZ4ZEJ1dmEtMGk3dkl5am9rd05KYzJsQ3B2cU05R2daMHJIdVZuMkhGZlR1R2JPNVZ5eF84d3k1OEhUcU95MFhva0wtaTdjbTg2ME13alU4QlppSm80UUxyNDJTSlJIMDNZTlU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T16:30:00Z",
+      "summary": "美国众议院民主党人呼吁取消即将到来的休会期，以便有更多时间推进人工智能相关立法。此举反映国会对AI快速发展的担忧，认为现有法律和监管框架滞后，需在隐私、安全、透明度、就业和国家安全等方面建立规则。但两党在监管力度、创新与风险平衡上仍有分歧，立法进程面临挑战。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5022",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16T16:30:00Z",
+      "summary": "Anthropic将Claude聊天与Cowork功能整合到同一界面，先面向Pro和Max订阅用户推出。此举意在把通用对话能力与协作、工作场景结合，减少产品割裂，提升团队协作和生产力体验。对Anthropic而言，这是围绕企业级与专业用户加码产品整合、增强竞争力的动作，也显示生成式AI助手正从单一聊天框向工作平台演进。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5023",
+      "title": "Anthropic Teaching AI It's Conscious? Microsoft AI Boss Says Yes - ndtv.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZmdERXM4dl9BVVZYVlBqZHZ3ZXc2VTNQa0kxQkFTMm5zSEpzR2Y2RDNwbzFUUlpXbVFrSzR6dVM4UVd4Q09fc2ZzRVpzWlhtUDNsdXJULVFrd2dOOGRHdURpX25tRnVjOGFIMGo2WHFFcnNJQ2FneFNtSXEzWDVKUzRrc3V6WHRTRm8yY1B5QzBneUxNSWhPandYSG5jbzU1YlR0QkFSdEhfS2E5Q0hfQ3pTeGJ4dzDSAb8BQVVfeXFMUFdkNVhQcy0yV2RWRGJTVllkUHRFbFo5ZU51TkRYN1NKQ2E5VHdDaDVOVEl6UE1hbm53eXJsbTNLNXFncTlzMF9oRS01RWR6eTB0ajJpLTljd3JXQTRpV0llRHN3ME5tV1g2bnd0YVA3MEJHS3R6T3BGR0lqTUhXYnNyRlpyNDgydmRHR3p1UndOczdZeFd4ZWwwc3ZsTEl4cXUtVlhPVzdydVlzNjZaSDlISHlPR2N6QjlZcHp2Qnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T16:24:50Z",
+      "summary": "针对“Anthropic是否在教AI产生自我意识”的争议，微软AI业务负责人给出肯定看法，引发关于AI意识、拟人化和安全边界的讨论。批评者认为，企业不应通过训练或提示让模型表现出意识感，这可能误导用户并加剧对AI能力的误解；支持者则认为这属于探索模型行为与对齐。核心争议在于，AI是否应被赋予“意识”叙事，以及这种叙事将如何影响监管和公众认知。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5024",
+      "title": "Montreal AI research institute denounces violence after office vandalized - Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTndhOUMyU0JxVUxKMWdhLWtvZWI5V2ZDUFhtdms0cmZVZm9OV3RvT1ZGckRQSDRhUjN3ekxBQ3Y4RUZwVmcyTW9mNnJ0SUZBU3RGR3pRV2JWSldhNkdZR1RoN3k2c0pUNDRJMHFqVk0wRjB6cF82QThyVVpPeHRnamI5cW5YNnZfM2RHSWJiZGh3Q0VSb2RpbkQ0aXdEUFBUMjVKVFdUUlZvc3owSnMweGZGR2FvVHRpdnhCOENVek02WmpJYTZEZ0w0aUxXY2tiTDBzNGpBcVYwcHVpc0tka2NRMWhGSENjMW5Oc0FjLUlla0ctSTA4akFBZDBlSkdIQTZJbkZTNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T15:48:18Z",
+      "summary": "蒙特利尔一家人工智能研究机构在办公室遭破坏后公开谴责暴力行为。事件发生在AI峰会和行业关注升温之际，机构强调应以对话、研究和理性讨论回应AI风险，而非诉诸破坏财产或威胁人身安全。此举意在维护开放研究环境，并呼吁社会在AI治理争论中保持克制。事件也反映围绕AI的公共情绪趋于紧张，行业机构面临沟通与安保压力。",
+      "fetchDate": "2026-09-16"
+    },
+    {
       "id": "4973",
       "title": "DeepMind co-founder warns AI capabilities must not outrun safety controls, FT reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1lGcGV3bWJhWlJXb2lsX3JDaEtoRnJHRmVCb0FmZFhaZlNtRF9BRVBwNDFRZXdiVXdlc1RWNUN2YlRtb0J6U3RaRURKSVJtdTZNMnNrZW1ldnI4THlxeHl2V0l2S0U0aFNuZWgxY0hTblNhRGN6U2hHZ1ZmMDR1VmhoR2xILXNkWDc1RzNCMDRxUEp5S0xzcU5OYXZiLVlzM2tnOWlrNWR0NmNoV3JJcThmMEhkUkhnNWI3eER3?oc=5",
@@ -43,6 +250,15 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-16T15:00:00Z",
       "summary": "英伟达的Les Karpas将在TechCrunch Disrupt 2026上解释，机器人行业为何仍在等待属于自己的“ChatGPT时刻”。尽管AI大模型已改变文本和图像领域，但通用机器人进入日常生活仍受硬件成本、数据稀缺、仿真到现实迁移和安全可靠性等限制。核心问题是，机器人需要更通用的基础模型和规模化数据，才能实现从演示到实用的跨越。",
+      "fetchDate": "2026-09-16"
+    },
+    {
+      "id": "5025",
+      "title": "AI E-Waste May Be 40 To 60 Times What Has Been Estimated - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2dESS1BbF82cE52U2NtWDZ1VmgyU3VtOUNKYktCNDlQSHdfR1NObUR0YVpWX01xNzJYbkVTS2JUWHp1OU1FbVZ5OHFodE9fdFY0QndqNjFibm9Nbkg3WWNYZ0tnYXJWYU92aVVreGd3U3ZZOXRYQ05RQk5GUTBJbktYX2dSWkhCZG1aUWR2SWZONTJvOGJtdW1UU2s?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-16T14:49:40Z",
+      "summary": "有研究或评论指出，AI带来的电子废弃物可能被严重低估，实际规模或是此前估计的40至60倍。随着大模型训练和推理需要大量GPU、服务器、存储和冷却设备，硬件更新换代加快，废弃芯片、电路板和配套设备将迅速增加。若缺乏回收体系和循环设计，AI产业的环境负担可能急剧上升。文章呼吁行业和监管机构重视AI全生命周期的资源消耗与电子垃圾治理。",
       "fetchDate": "2026-09-16"
     },
     {
@@ -45001,5 +45217,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5000
+  "total": 5024
 }
