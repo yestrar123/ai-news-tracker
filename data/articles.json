@@ -1,12 +1,93 @@
 {
   "articles": [
     {
+      "id": "5038",
+      "title": "Huawei unveils latest tech to boost AI power, curb China’s Nvidia reliance - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2xqNWNSTm9BZ3RSdHZMbFVIWWlDOF9tdnI1Y0cxeGg0QXlWaGxNdHh4RWY3c1FCS2Z1NTM3Z3Bmc3BWYnpQYWF0S0VEMUNGQVRSR0hZVTNkRXhZSEEtczl0cDlwSEZQS1VydnF0VXgyWVdKSU9JNGNVMUpZN0NPR05GYWFYWW5ReEtFOTBxdHNjeTdpUWJrWkhCMDRIU2xmR1NzLXNkRnJKc2xwRFE4dUVhZndOVVVoYlpuSVVTOGItZnZt0gHEAUFVX3lxTE5Na002NS1PV2RKUk9NYVFwVDVXYUttN0YtX09SVVhjQXFQNFRUM2dOUm1UV2VmbGFkMHlWN2ktWlFIUE5SQW9VWVUzdFJCUF9IdERjT3BxM3J0NkNnNTlSTVFfaENSMEFFS1lOd001Yi1kOGQ3Z292ZG5xOGtUeUM0bFhnZUt5cWZjRllpRjRfM2J2d3dEcVM1a0RhUHkyRkVhNVZwaUp5RHFFT19tLVAxLWJ4N3ROVVRCcW9HX0dHRmQtRTc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-17T06:15:06Z",
+      "summary": "南华早报报道，华为发布最新技术，旨在增强AI算力并降低中国对英伟达的依赖。此举体现华为在AI基础设施领域的持续投入，可能涵盖AI芯片、计算平台及软件生态，为国内大模型训练和推理提供替代方案。在中美科技竞争与出口管制背景下，华为此举有助提升本土供应链自主性，也将影响全球AI芯片竞争格局。",
+      "fetchDate": "2026-09-17"
+    },
+    {
+      "id": "5039",
+      "title": "OpenAI reveals cases of ‘concerning’ AI behaviour and promises new plan for disclosing issues - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2xHb1VzUHk1ZUZJTWhQOXdsM0RKOXduMDI2a29fN3RmTFhTX3VIVGdyZmhaQWZsWTJzbG9hZUkwVGhrMGNiMTh6VjEwNWp4SlJSR1hsMTYxUXFOSDdDZDlJUWxza1NQZi1XbzRRd1RuYUloRHV4OHhYVDRnS1BkaGJWYTk5T0JjRzBDeGpqMFhRWjZLOEtPeUY0blRTSEtabTNoTDJJRUtqSzE5M3FCZHZaTElWVVhOaGZOT09GNHM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-17T05:32:00Z",
+      "summary": "OpenAI公开披露部分“令人担忧”的AI行为案例，并承诺推出新的问题披露计划。这显示公司正回应外界对前沿模型安全风险、评估机制与问责透明度的关注。新方案可能涉及更系统报告安全事件、风险等级和应对措施，推动行业建立更清晰的安全披露标准。对AI治理而言，如何在创新与风险控制间取得平衡，仍是核心挑战。",
+      "fetchDate": "2026-09-17"
+    },
+    {
+      "id": "5040",
+      "title": "Through conversations with artificial intelligence (AI) agents on the NAVER Maps app, you can recomm.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83bWwyZDZSc0hXRnF1LUdBbXVLN2VQU2VKWEpjMUc2RExwUU5QZzVWTjVXblNIdjI2V0dVNE1nRUFFbUcwWlVidi1KUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-17T05:22:58Z",
+      "summary": "NAVER地图应用引入AI智能体，用户可通过对话获取地点推荐、路线规划与本地服务信息。该功能依托自然语言理解和地图数据，结合用户偏好与实时信息，提供更个性化的搜索和导航体验。地图平台正从传统关键词搜索转向对话式交互，AI代理成为本地生活服务入口。这也反映生成式AI在超级应用中的落地竞争加剧。",
+      "fetchDate": "2026-09-17"
+    },
+    {
+      "id": "5041",
+      "title": "High rate of AI errors in Israeli study - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVUwM1Jrc2xLSnRSclZMb3ZqTXVOVElfVnZyQUFOSk8zenFhT2ZFbExOaEdMb1Ffa0poWDJBY0ZpTk93cFkydlR5OWVvRlpteHhLR3FjVEtueS04dVphNnBwcWN1NlZvY3MtVkZtamdPejhMTmpYVlZ5NUtqdjFwejBuTDJIMmloX0JxMFVobkFQTndBNU11Zg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-17T05:00:00Z",
+      "summary": "以色列一项研究显示，AI系统出现较高错误率，引发对模型可靠性与安全性的担忧。研究可能针对特定应用场景测试AI输出，发现即使先进模型也会产生误判、幻觉或偏差。结果强调，在高风险领域部署AI前需严格验证、人工监督和持续监测。企业和监管机构应建立评估标准与纠错机制，避免过度依赖AI决策。",
+      "fetchDate": "2026-09-17"
+    },
+    {
+      "id": "5042",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-17T05:00:00Z",
+      "summary": "冰岛初创公司Treble获得1800万美元融资，用于其语音模拟平台。该平台服务于语音AI模型开发者、AI可穿戴设备和机器人公司，可能通过生成高质量合成语音或声学环境数据，帮助训练和测试语音交互系统，降低数据采集成本并提升模型鲁棒性。融资反映语音AI基础设施正受到资本关注，机器人及可穿戴发展将推高逼真语音仿真需求。",
+      "fetchDate": "2026-09-17"
+    },
+    {
+      "id": "5043",
+      "title": "AI looms large ahead of Xi, Trump summit - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzZUSnZYYmhneFJHR0Y2a05mcFFSbS1yX2QyeDNkZk9aUExqV3VHQ0NIVk5UVThjR2J5UDV0ZzFydFVWcjNfT0pvS0RqZXl4bnlUZXFGbjhlRmxvWjdyeFZlUW5DMWtzZHVsWjRmN3I0OTEzY2JtTy1JWl90SE9MNnZSaFNZN1ZsUDdaZmo0eTVKUG1kYUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-17T04:17:11Z",
+      "summary": "在中美领导人会晤前，人工智能成为突出议题。报道称，AI可能涉及芯片出口管制、技术竞争、AI安全治理及供应链等敏感领域。两国在AI上的竞争与合作将深刻影响全球产业格局。峰会预计讨论贸易、科技限制与风险管控，而AI作为战略技术，将是双边关系中的关键变量。外界关注双方能否在竞争中找到有限合作空间。",
+      "fetchDate": "2026-09-17"
+    },
+    {
+      "id": "5044",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-17T03:30:00Z",
+      "summary": "TechCrunch Disrupt 2026一场议题指出，AI智能体可能成为初创公司的下一位“队友”。Gusto、Insight Partners和Leland将探讨早期公司如何构建人类与AI代理协作的团队，同时不牺牲速度、责任和文化。这反映AI代理正从工具向组织成员演进，改变任务分配、绩效管理和协作流程。创始人需重新思考招聘、权限、问责机制与文化。",
+      "fetchDate": "2026-09-17"
+    },
+    {
+      "id": "5045",
+      "title": "China's Huawei sets 2027 launch for new AI chips as it targets Nvidia - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-17T02:40:00Z",
+      "summary": "路透社报道，华为计划2027年推出新AI芯片，目标对标英伟达。此举显示华为在出口管制下加速自主AI芯片路线图，试图为国内AI训练和推理提供替代算力，减少对英伟达依赖。新芯片可能面向数据中心和大模型需求，并与昇腾生态及软件栈协同。若按期落地，将影响中国AI算力供给与全球芯片竞争，但仍面临制程、产能和生态挑战。",
+      "fetchDate": "2026-09-17"
+    },
+    {
       "id": "5026",
       "title": "Micron vs. Sandisk: Which AI Memory Stock Benefits More From Nvidia's $279 Billion Warning? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzJ6aFBNOEc2TnlSWEtFRWxvNHgyTWcyeFctZlROVjI3eDRFRkRHOC1McVpQakRSbF9STXNLdnhsdEd4bmtwY1ZoeGlwX2dQUUh3clI1aGpTT0Z1eE5Ob21LY043dEpyVmotNXhlQzE5ZkU0Z1FJdVJLcE0yYmRaVU5ORHBzNENhclJ4WmlJTDJMYVl3M0E?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-17T02:00:09Z",
       "summary": "该报道围绕英伟达此前引发市场震动的“2790亿美元警告”展开，比较美光与Sandisk两只AI内存相关股票，探讨谁更能从AI算力投资和存储需求中获益。文章可能从产品结构、HBM与NAND景气度、客户绑定、估值水平及周期风险等角度分析。核心在于，当AI芯片龙头出现大幅波动时，内存供应链会如何受到传导，以及投资者应如何选择更具弹性的受益标的。",
+      "fetchDate": "2026-09-17"
+    },
+    {
+      "id": "5046",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-17T00:58:49Z",
+      "summary": "Snap再次尝试为其售价2200美元的智能眼镜Specs辩护。自今年首次亮相以来，Snap一直在寻找机会解释该产品为何值得存在。高定价引发外界质疑，公司需证明其在AR体验、应用场景和日常使用上的独特价值。智能眼镜市场竞争激烈，Snap试图展示长期硬件愿景，但价格、实用性和消费者接受度仍是主要挑战。",
       "fetchDate": "2026-09-17"
     },
     {
@@ -45325,5 +45406,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5036
+  "total": 5045
 }
