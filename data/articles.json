@@ -1,6 +1,123 @@
 {
   "articles": [
     {
+      "id": "5142",
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T15:00:00Z",
+      "summary": "在TechCrunch Disrupt 2026大会上，Robinhood的Abhishek Fatehpuria将分享如何赢得现代金融消费者的策略。该议题聚焦金融科技领域，探讨企业如何利用AI和数据分析理解用户需求，优化产品体验，并在竞争激烈的市场中吸引和留住客户。活动将于10月举行，注册优惠即将截止。Fatehpuria的见解可能涉及个性化服务、用户信任和合规创新，为金融科技从业者提供参考。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5143",
+      "title": "‘A critical moment’: concern UK is not up to speed in acting on AI risks - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTU1HWEZsdnhHeUxlUTc1bElsTlZCYk1CWTVueEl4V3VEZTJIMmxaWmlXZFYtTW9sSHA4N2RDZXIyT3IydWtHZ0lqc1NYR3pHblJ3eUlNdVJFSDZVRnFfZHd4MXN0VFJmd3ppWV9MblJlcVJmbFdValVULU0teU4xd3lKTHFWX05hdlRDQUVHZG04MmVla2pMSWROTmgtZlF5NF9LTHZtTy1ldEdBb0pHbWlYUzUyZGRqemRETg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T14:59:00Z",
+      "summary": "《卫报》报道称，英国在应对人工智能风险方面行动迟缓，引发外界担忧，认为当前正处于“关键时刻”。专家指出，英国政府需要加快制定AI安全法规、加强监管机构和研究投入，以防范AI可能带来的偏见、滥用和系统性风险。文章可能批评英国在AI治理上落后于欧盟和美国，呼吁采取更果断的措施，确保AI发展安全可控。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5144",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T14:00:14Z",
+      "summary": "安全研究人员利用Anthropic的Claude模型，成功发现了OpenAI系统中的漏洞，并借此接管员工账户、访问内部代码仓库。研究人员在事后向OpenAI报告了这些缺陷。此事件凸显了AI模型在网络安全攻防中的双重用途：既能辅助发现漏洞，也可能被滥用。同时，它也引发了对AI系统自身安全性和企业防护能力的关注，促使业界加强红队测试和漏洞奖励计划。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5145",
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T14:00:00Z",
+      "summary": "TechCrunch Disrupt 2026展览展位预订进入最后24小时，截止日期为9月18日。该活动将于10月13日至15日举行，预计吸引超过10000名创始人、投资者、运营者和科技领袖。初创企业可通过参展获得宝贵曝光机会，与潜在客户、合作伙伴和投资人建立联系。对于希望在科技生态中脱颖而出的创业公司而言，这是展示创新成果和拓展人脉的重要平台。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5146",
+      "title": "Is Artificial Intelligence a threat to democracy and the human future? - DemocracySOS",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04MmIxZEFLbUp2VWpKb05hX1dCQXhORHBCVWpQWE04S2VUbWlJLTJQYVVEUVpXVTVJbzczbThrNVdNQklLQ3hoVjVWeTdvWFFPMVFEUm5aUkFMOU9IVTlqemJ3MjdmTmMtRG1mZndDY2RzVllHbkdmSWw2OA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T13:31:13Z",
+      "summary": "DemocracySOS发表文章，探讨人工智能是否对民主和人类未来构成威胁。文章可能分析AI在信息操纵、选举干预、监控和权力集中等方面的风险，以及算法偏见对公共讨论的影响。同时，也会讨论如何通过监管、透明度和伦理准则来确保AI发展符合民主价值观。这一议题在全球范围内引发广泛关注，涉及技术、政治和社会的交叉领域。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5147",
+      "title": "Europe's AI firms, playing catch-up, challenge US calls for slowdown - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNURXUmh6VXl6Vk9RVnZvOTJjVkpyNU1iLW9VWWNqTkNzcmJNOHdTMTJKUTVIOVZVOFFuVUI4RXdxbkFLLXFqZXpTUWJ0X25xbzNEckM0Z0ppOTQxZHFrTXM2WXRIMjNtekIyMVdrUXpwSHRKc3I5TTdGTVY4TUdtRXRpdnk2VjRTaGdBbkdYVkQtazhfUmx5OUJmVjFGV2NVMmx6RXJLdk5HUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T13:05:43Z",
+      "summary": "路透社报道，欧洲AI公司正在努力追赶全球领先者，并对美国提出的放缓AI发展的呼吁提出挑战。欧洲企业认为，过度监管或减速可能削弱其竞争力，主张在保障安全的同时加快创新。这反映了欧美在AI治理路径上的分歧：美国部分声音强调风险防控，而欧洲则试图在追赶中平衡创新与监管。欧洲AI公司如Mistral等正积极拓展市场。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5148",
+      "title": "FILE PHOTO: Advertisements for Mistral AI, the French artificial intelligence company, are displayed inside the Grand Central subway station in New York City - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNVzZVLUhSTktweDdqelo0MEFsNm04eUJnbE1QdTRsbHBVQmZFSFA2blFVbjAwU04wMThzSUIzZVJGdmZCMU51a3FEQi1ZaUpWTmltMFRrdzBNNlB0RGpJa3Bld3ZONnU4M0hjTmZHanNRMVpzQml5SnBxQWxJYWFQTng3cERjVTkwSkFYODc5WE9GUk9qVEZ6YzNKX19ncUQ4LU13Y0V3ajNBaVdIWmZpakJvblZiaEZDZ1JGanNkNXNSTUJUY012Y3dWWXVYZUhlWFgxaUpvbnROc2FUdEFoaWJCb2JiX3h1YzZSOWtvRXhUM3JYVlRDQ05tek1BMFJZU2JhcTRNWV84VGtOcWgzLTkwbGRjQXRkREVYUnZXUXhRczVhdmotTWUzRFR0aVk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T13:04:33Z",
+      "summary": "一张新闻图片显示，法国人工智能公司Mistral AI的广告出现在纽约大中央车站地铁站内。这反映了Mistral AI在美国市场的推广努力，以及欧洲AI公司寻求全球扩张的趋势。作为欧洲领先的AI初创公司之一，Mistral AI以其开源模型和高效技术受到关注。此次广告投放旨在提升品牌知名度，吸引美国用户和开发者，与OpenAI等美国巨头竞争。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5149",
+      "title": "Gartner outlines four AI tiers in warehouse automation - AI News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3doRjFXdGFWUDRMQzJCOTFrWFpvVWN4dDBzZEhnNDdqSVRfMV9vM3NEV1k5WDc4UEI2akVZczMzcE1CZllrN0VsVG1xTm50a3hZQUlYOUN5Y2MzWU5NMzhYN3NTVklTZ0s3MDV3WElxVGJUTXpnc191VXRpUmtSR1ZqQkMtcGNzd01rM201Ry1kZVZuLWo5ZjAwWV9fRkxzLVQwbDVGSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T12:50:42Z",
+      "summary": "Gartner发布报告，将仓库自动化中的AI应用划分为四个层级。这些层级可能从基础的数据分析和辅助决策，逐步过渡到部分自动化、高度自动化，最终实现完全自主的机器人系统。该框架旨在帮助企业评估自身自动化水平，制定循序渐进的AI部署策略。随着物流行业对效率和准确性的要求提升，AI在仓储管理、分拣和库存优化中的作用日益关键。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5150",
+      "title": "The A.I. Industry’s New Worry: ‘Liability Exposure’ - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGt5enpFT2RsRkhORHdHai1BNDZvTFp6WmVydS1CbVVqRDEwY0VsZnZJNzdWblhuVkNtSnJKNmE2Nkpia0F5QjNpOFFMZ1lfcHN1bUxQNU41MmVZbkZhSmMza0NVNnEwTkhBbE52V1FJOGlaMU13aHJLMnFra0dtWVBn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T12:24:42Z",
+      "summary": "《纽约时报》报道，AI行业正面临新的担忧——“责任暴露”。随着AI系统在医疗、金融、交通等领域的广泛应用，其可能引发的法律、伦理和安全问题使企业担心承担潜在责任。行业正在寻求通过保险、合同条款和监管明确性来管理风险。这一趋势可能影响AI技术的商业化速度，并推动企业更加重视可解释性、安全测试和合规治理。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5151",
+      "title": "Congress floats raft of measures to regulate AI, but quick action unlikely - baltimoresun.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVRjSUxUcWJxUWFQbWxIN2JRbjlCZWxoZm9wUk1PUlNqbUNzUUEyLXIwNUQ0V1dRa21yei1DT3JwYmx2VV9oVmM1cVBKTHVoVjNzTW5uZ3dPVXBWS3pmRjVSdDViSEhqLWxKaHM1c2dXdDNnTkJ3Vnp6THFSM1lUOVlLTHVfeEJldzg3eGRRUVo0SkdGbmE5dzFNNUNPN0hQWXhFbDhGb2VxekJUbFpEQ2ZJN3I?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T11:35:36Z",
+      "summary": "《巴尔的摩太阳报》报道，美国国会提出了多项旨在监管人工智能的立法措施，但由于政治分歧和立法程序复杂，迅速采取行动的可能性不大。这些措施可能涉及算法透明度、数据隐私、责任归属和国家安全等方面。这反映了美国在AI监管上的谨慎态度，与欧盟《人工智能法案》等积极立法形成对比。行业和公众对联邦层面缺乏统一规则表示担忧。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5152",
+      "title": "Huawei details AI accelerator roadmap, pulls in next-generation Ascend NPUs by several quarters — FP4 performance of the Ascend 960PR doubles expectations - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPMEJueEZ5cmRVTENsdmpIQnhNUTlaY1NRdm5RdDJ3UktxUmxCWXlWX0FrS1ZBRlRzUFFsQ3ZjdWpzdlhJMks3TUp3RGU0TkEwSFh1SEhjZ0Q0eXpyUmRzQnpWOVNiTGFoX3BhbGRsRW45Y2hvaFJDTEJ5aGZQaHFNQzVzeHhPSENUdWFWejR3R1VUa2tvcWhPbDRlTFlnT2QxRERLQkQ0Ym84VjRnbmlVSHpkLTZkcEx0ajlJcEQ5d2tFVkJhc0dmYTYxQ3RpZUsxeXlRclBZNEVQeXY4RG1rZE4zWi13Qm5fdTNPRFVxLXFQRFJLWVoxMTdYbWR4TGJ4VF84dng4NEIyOFhNREdyVkZadzVJNVhhcEY2endMTU0tYjNQd0lpYjMxWk05TWlpVThjcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T10:30:00Z",
+      "summary": "华为公布AI加速器路线图，显示下一代昇腾NPU的推出时间较原计划提前数个季度，其中Ascend 960PR在FP4低精度计算下性能达到预期的两倍。此举表明华为正加快AI芯片迭代，强化训练与推理算力供给，并提升在低精度算力领域的竞争力。在外部限制持续、国产算力需求上升的背景下，华为此举有望推动昇腾生态扩张，但也需关注实际量产、软件栈适配与客户迁移进展。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5153",
+      "title": "AI startup Mantic raises $25 million for superhuman forecasting - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEZvcUNwMGMybUpVdVRTQlZFU2FQajB4dWY4NGFDQV9scDN5bUU4U01iQUh2UnVCeEw2dWk4bkowc0hVMWh6X3BCX2JieW45a19fNUgwTERxTEFZUmpwc3lhREp3UlRvdm1aY3AwalQ4blJaeXZsSTF1RlZwdUlsSXo2RUJ5Qm5GY3BnMW9Kc3J1RHdFMmpPa2FvU3otU2ZJb1laazFpUkg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T10:15:18Z",
+      "summary": "AI初创公司Mantic宣布完成2500万美元融资，资金将用于推进所谓“超人预测”能力。该公司试图利用人工智能在复杂环境中进行超越人类水平的预测，可能服务于金融、风险管理和商业决策等场景。此轮融资反映出资本对AI预测分析和决策智能方向的持续关注。若技术验证顺利，Mantic有望在预测市场与企业级分析中建立差异化优势，但也需面对数据质量、模型可靠性与合规等挑战。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5154",
+      "title": "McDonald’s reintroduces AI at drive-thrus - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN2tVclVqTjhOOXJOYTJHRlkyT3ZGaHFOOFRBUGY5WmJmakZoaU5yeHpoeHJVbWE5Y2ZTSzY5Nkl2MFBGMzBVT081eWZLdlZaRXZEVU41UEpWOHlUX2tGRlRxQ0tlUTF3bHh1SlVsWFNrSm9uUXo2SVFuRFZXNi15amhWUmlUWTlPX05raQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T10:06:29Z",
+      "summary": "麦当劳宣布在得来速场景重新引入AI技术。此前餐饮行业对语音点单AI的试点曾因识别准确率、订单错误和客户体验问题受到质疑，此次重启显示麦当劳仍在探索用AI提升点餐效率、缩短等待时间并优化人力配置。若系统能更稳定地处理口音、嘈杂环境和复杂订单，将有助于门店运营标准化。但大规模落地仍需平衡技术成本、隐私与消费者接受度。",
+      "fetchDate": "2026-09-18"
+    },
+    {
       "id": "5135",
       "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl - Times West Virginian",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZjJlWENUWGw2Rm5UMWpmT3pTU0pYU0N3ZUx5NmhiM0lJWk0ybkd1b3RJbDRzekY3VllZQnhhTkpZcGlSVmhGc19LQm4ycDNnaEhNZk9rMm1GWG9SczNUeDRja3FsRi01N2hMdWlrT0ZNNlFVOGVNT3E3NVUxSzVHanZUcGlBMnFacTZoNGw1QWw4amxITmRQcWhMUkVLNzFRREJYYkQ3U1FpY256RTMxc1ZhbnVHSTZKdmE3OWRiOUJiRlJaMk9yUjQzcWo5bkd4Z2FhZWFIVEI1M1hRS1lMMF9qX3J6aFJuVmZabVA0RjBaV1RGWnVGQWtZc2twc3dhYnBGU3M0VEY0akdmSUpIVzZSaw?oc=5",
@@ -46261,5 +46378,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5140
+  "total": 5153
 }

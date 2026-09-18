@@ -1,83 +1,111 @@
 {
-  "updatedAt": "2026-09-18 10:12:14 UTC",
-  "totalArticles": 11,
+  "updatedAt": "2026-09-18 15:23:06 UTC",
+  "totalArticles": 15,
   "articles": [
+    {
+      "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T15:00:00Z",
+      "summary": "在TechCrunch Disrupt 2026大会上，Robinhood的Abhishek Fatehpuria将分享如何赢得现代金融消费者的策略。该议题聚焦金融科技领域，探讨企业如何利用AI和数据分析理解用户需求，优化产品体验，并在竞争激烈的市场中吸引和留住客户。活动将于10月举行，注册优惠即将截止。Fatehpuria的见解可能涉及个性化服务、用户信任和合规创新，为金融科技从业者提供参考。"
+    },
+    {
+      "title": "‘A critical moment’: concern UK is not up to speed in acting on AI risks - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTU1HWEZsdnhHeUxlUTc1bElsTlZCYk1CWTVueEl4V3VEZTJIMmxaWmlXZFYtTW9sSHA4N2RDZXIyT3IydWtHZ0lqc1NYR3pHblJ3eUlNdVJFSDZVRnFfZHd4MXN0VFJmd3ppWV9MblJlcVJmbFdValVULU0teU4xd3lKTHFWX05hdlRDQUVHZG04MmVla2pMSWROTmgtZlF5NF9LTHZtTy1ldEdBb0pHbWlYUzUyZGRqemRETg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T14:59:00Z",
+      "summary": "《卫报》报道称，英国在应对人工智能风险方面行动迟缓，引发外界担忧，认为当前正处于“关键时刻”。专家指出，英国政府需要加快制定AI安全法规、加强监管机构和研究投入，以防范AI可能带来的偏见、滥用和系统性风险。文章可能批评英国在AI治理上落后于欧盟和美国，呼吁采取更果断的措施，确保AI发展安全可控。"
+    },
+    {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T14:00:14Z",
+      "summary": "安全研究人员利用Anthropic的Claude模型，成功发现了OpenAI系统中的漏洞，并借此接管员工账户、访问内部代码仓库。研究人员在事后向OpenAI报告了这些缺陷。此事件凸显了AI模型在网络安全攻防中的双重用途：既能辅助发现漏洞，也可能被滥用。同时，它也引发了对AI系统自身安全性和企业防护能力的关注，促使业界加强红队测试和漏洞奖励计划。"
+    },
+    {
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T14:00:00Z",
+      "summary": "TechCrunch Disrupt 2026展览展位预订进入最后24小时，截止日期为9月18日。该活动将于10月13日至15日举行，预计吸引超过10000名创始人、投资者、运营者和科技领袖。初创企业可通过参展获得宝贵曝光机会，与潜在客户、合作伙伴和投资人建立联系。对于希望在科技生态中脱颖而出的创业公司而言，这是展示创新成果和拓展人脉的重要平台。"
+    },
+    {
+      "title": "Is Artificial Intelligence a threat to democracy and the human future? - DemocracySOS",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04MmIxZEFLbUp2VWpKb05hX1dCQXhORHBCVWpQWE04S2VUbWlJLTJQYVVEUVpXVTVJbzczbThrNVdNQklLQ3hoVjVWeTdvWFFPMVFEUm5aUkFMOU9IVTlqemJ3MjdmTmMtRG1mZndDY2RzVllHbkdmSWw2OA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T13:31:13Z",
+      "summary": "DemocracySOS发表文章，探讨人工智能是否对民主和人类未来构成威胁。文章可能分析AI在信息操纵、选举干预、监控和权力集中等方面的风险，以及算法偏见对公共讨论的影响。同时，也会讨论如何通过监管、透明度和伦理准则来确保AI发展符合民主价值观。这一议题在全球范围内引发广泛关注，涉及技术、政治和社会的交叉领域。"
+    },
+    {
+      "title": "Europe's AI firms, playing catch-up, challenge US calls for slowdown - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNURXUmh6VXl6Vk9RVnZvOTJjVkpyNU1iLW9VWWNqTkNzcmJNOHdTMTJKUTVIOVZVOFFuVUI4RXdxbkFLLXFqZXpTUWJ0X25xbzNEckM0Z0ppOTQxZHFrTXM2WXRIMjNtekIyMVdrUXpwSHRKc3I5TTdGTVY4TUdtRXRpdnk2VjRTaGdBbkdYVkQtazhfUmx5OUJmVjFGV2NVMmx6RXJLdk5HUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T13:05:43Z",
+      "summary": "路透社报道，欧洲AI公司正在努力追赶全球领先者，并对美国提出的放缓AI发展的呼吁提出挑战。欧洲企业认为，过度监管或减速可能削弱其竞争力，主张在保障安全的同时加快创新。这反映了欧美在AI治理路径上的分歧：美国部分声音强调风险防控，而欧洲则试图在追赶中平衡创新与监管。欧洲AI公司如Mistral等正积极拓展市场。"
+    },
+    {
+      "title": "FILE PHOTO: Advertisements for Mistral AI, the French artificial intelligence company, are displayed inside the Grand Central subway station in New York City - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNVzZVLUhSTktweDdqelo0MEFsNm04eUJnbE1QdTRsbHBVQmZFSFA2blFVbjAwU04wMThzSUIzZVJGdmZCMU51a3FEQi1ZaUpWTmltMFRrdzBNNlB0RGpJa3Bld3ZONnU4M0hjTmZHanNRMVpzQml5SnBxQWxJYWFQTng3cERjVTkwSkFYODc5WE9GUk9qVEZ6YzNKX19ncUQ4LU13Y0V3ajNBaVdIWmZpakJvblZiaEZDZ1JGanNkNXNSTUJUY012Y3dWWXVYZUhlWFgxaUpvbnROc2FUdEFoaWJCb2JiX3h1YzZSOWtvRXhUM3JYVlRDQ05tek1BMFJZU2JhcTRNWV84VGtOcWgzLTkwbGRjQXRkREVYUnZXUXhRczVhdmotTWUzRFR0aVk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T13:04:33Z",
+      "summary": "一张新闻图片显示，法国人工智能公司Mistral AI的广告出现在纽约大中央车站地铁站内。这反映了Mistral AI在美国市场的推广努力，以及欧洲AI公司寻求全球扩张的趋势。作为欧洲领先的AI初创公司之一，Mistral AI以其开源模型和高效技术受到关注。此次广告投放旨在提升品牌知名度，吸引美国用户和开发者，与OpenAI等美国巨头竞争。"
+    },
+    {
+      "title": "Gartner outlines four AI tiers in warehouse automation - AI News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3doRjFXdGFWUDRMQzJCOTFrWFpvVWN4dDBzZEhnNDdqSVRfMV9vM3NEV1k5WDc4UEI2akVZczMzcE1CZllrN0VsVG1xTm50a3hZQUlYOUN5Y2MzWU5NMzhYN3NTVklTZ0s3MDV3WElxVGJUTXpnc191VXRpUmtSR1ZqQkMtcGNzd01rM201Ry1kZVZuLWo5ZjAwWV9fRkxzLVQwbDVGSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T12:50:42Z",
+      "summary": "Gartner发布报告，将仓库自动化中的AI应用划分为四个层级。这些层级可能从基础的数据分析和辅助决策，逐步过渡到部分自动化、高度自动化，最终实现完全自主的机器人系统。该框架旨在帮助企业评估自身自动化水平，制定循序渐进的AI部署策略。随着物流行业对效率和准确性的要求提升，AI在仓储管理、分拣和库存优化中的作用日益关键。"
+    },
+    {
+      "title": "The A.I. Industry’s New Worry: ‘Liability Exposure’ - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGt5enpFT2RsRkhORHdHai1BNDZvTFp6WmVydS1CbVVqRDEwY0VsZnZJNzdWblhuVkNtSnJKNmE2Nkpia0F5QjNpOFFMZ1lfcHN1bUxQNU41MmVZbkZhSmMza0NVNnEwTkhBbE52V1FJOGlaMU13aHJLMnFra0dtWVBn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T12:24:42Z",
+      "summary": "《纽约时报》报道，AI行业正面临新的担忧——“责任暴露”。随着AI系统在医疗、金融、交通等领域的广泛应用，其可能引发的法律、伦理和安全问题使企业担心承担潜在责任。行业正在寻求通过保险、合同条款和监管明确性来管理风险。这一趋势可能影响AI技术的商业化速度，并推动企业更加重视可解释性、安全测试和合规治理。"
+    },
+    {
+      "title": "Congress floats raft of measures to regulate AI, but quick action unlikely - baltimoresun.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVRjSUxUcWJxUWFQbWxIN2JRbjlCZWxoZm9wUk1PUlNqbUNzUUEyLXIwNUQ0V1dRa21yei1DT3JwYmx2VV9oVmM1cVBKTHVoVjNzTW5uZ3dPVXBWS3pmRjVSdDViSEhqLWxKaHM1c2dXdDNnTkJ3Vnp6THFSM1lUOVlLTHVfeEJldzg3eGRRUVo0SkdGbmE5dzFNNUNPN0hQWXhFbDhGb2VxekJUbFpEQ2ZJN3I?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T11:35:36Z",
+      "summary": "《巴尔的摩太阳报》报道，美国国会提出了多项旨在监管人工智能的立法措施，但由于政治分歧和立法程序复杂，迅速采取行动的可能性不大。这些措施可能涉及算法透明度、数据隐私、责任归属和国家安全等方面。这反映了美国在AI监管上的谨慎态度，与欧盟《人工智能法案》等积极立法形成对比。行业和公众对联邦层面缺乏统一规则表示担忧。"
+    },
+    {
+      "title": "Huawei details AI accelerator roadmap, pulls in next-generation Ascend NPUs by several quarters — FP4 performance of the Ascend 960PR doubles expectations - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPMEJueEZ5cmRVTENsdmpIQnhNUTlaY1NRdm5RdDJ3UktxUmxCWXlWX0FrS1ZBRlRzUFFsQ3ZjdWpzdlhJMks3TUp3RGU0TkEwSFh1SEhjZ0Q0eXpyUmRzQnpWOVNiTGFoX3BhbGRsRW45Y2hvaFJDTEJ5aGZQaHFNQzVzeHhPSENUdWFWejR3R1VUa2tvcWhPbDRlTFlnT2QxRERLQkQ0Ym84VjRnbmlVSHpkLTZkcEx0ajlJcEQ5d2tFVkJhc0dmYTYxQ3RpZUsxeXlRclBZNEVQeXY4RG1rZE4zWi13Qm5fdTNPRFVxLXFQRFJLWVoxMTdYbWR4TGJ4VF84dng4NEIyOFhNREdyVkZadzVJNVhhcEY2endMTU0tYjNQd0lpYjMxWk05TWlpVThjcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T10:30:00Z",
+      "summary": "华为公布AI加速器路线图，显示下一代昇腾NPU的推出时间较原计划提前数个季度，其中Ascend 960PR在FP4低精度计算下性能达到预期的两倍。此举表明华为正加快AI芯片迭代，强化训练与推理算力供给，并提升在低精度算力领域的竞争力。在外部限制持续、国产算力需求上升的背景下，华为此举有望推动昇腾生态扩张，但也需关注实际量产、软件栈适配与客户迁移进展。"
+    },
+    {
+      "title": "AI startup Mantic raises $25 million for superhuman forecasting - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEZvcUNwMGMybUpVdVRTQlZFU2FQajB4dWY4NGFDQV9scDN5bUU4U01iQUh2UnVCeEw2dWk4bkowc0hVMWh6X3BCX2JieW45a19fNUgwTERxTEFZUmpwc3lhREp3UlRvdm1aY3AwalQ4blJaeXZsSTF1RlZwdUlsSXo2RUJ5Qm5GY3BnMW9Kc3J1RHdFMmpPa2FvU3otU2ZJb1laazFpUkg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T10:15:18Z",
+      "summary": "AI初创公司Mantic宣布完成2500万美元融资，资金将用于推进所谓“超人预测”能力。该公司试图利用人工智能在复杂环境中进行超越人类水平的预测，可能服务于金融、风险管理和商业决策等场景。此轮融资反映出资本对AI预测分析和决策智能方向的持续关注。若技术验证顺利，Mantic有望在预测市场与企业级分析中建立差异化优势，但也需面对数据质量、模型可靠性与合规等挑战。"
+    },
+    {
+      "title": "McDonald’s reintroduces AI at drive-thrus - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN2tVclVqTjhOOXJOYTJHRlkyT3ZGaHFOOFRBUGY5WmJmakZoaU5yeHpoeHJVbWE5Y2ZTSzY5Nkl2MFBGMzBVT081eWZLdlZaRXZEVU41UEpWOHlUX2tGRlRxQ0tlUTF3bHh1SlVsWFNrSm9uUXo2SVFuRFZXNi15amhWUmlUWTlPX05raQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T10:06:29Z",
+      "summary": "麦当劳宣布在得来速场景重新引入AI技术。此前餐饮行业对语音点单AI的试点曾因识别准确率、订单错误和客户体验问题受到质疑，此次重启显示麦当劳仍在探索用AI提升点餐效率、缩短等待时间并优化人力配置。若系统能更稳定地处理口音、嘈杂环境和复杂订单，将有助于门店运营标准化。但大规模落地仍需平衡技术成本、隐私与消费者接受度。"
+    },
     {
       "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl - Times West Virginian",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZjJlWENUWGw2Rm5UMWpmT3pTU0pYU0N3ZUx5NmhiM0lJWk0ybkd1b3RJbDRzekY3VllZQnhhTkpZcGlSVmhGc19LQm4ycDNnaEhNZk9rMm1GWG9SczNUeDRja3FsRi01N2hMdWlrT0ZNNlFVOGVNT3E3NVUxSzVHanZUcGlBMnFacTZoNGw1QWw4amxITmRQcWhMUkVLNzFRREJYYkQ3U1FpY256RTMxc1ZhbnVHSTZKdmE3OWRiOUJiRlJaMk9yUjQzcWo5bkd4Z2FhZWFIVEI1M1hRS1lMMF9qX3J6aFJuVmZabVA0RjBaV1RGWnVGQWtZc2twc3dhYnBGU3M0VEY0akdmSUpIVzZSaw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-18T10:00:00Z",
-      "summary": "英国国王查尔斯会见人工智能领域领袖，正值全球对AI安全担忧升温。此次会面凸显王室对AI治理与伦理问题的关注。会议可能讨论AI带来的风险、监管框架及社会责任。查尔斯长期关注环境与技术议题，此次介入或推动公众对AI安全对话。在各国政府加快AI立法的背景下，英国王室此举具有象征意义，强调AI发展需兼顾创新与安全。"
-    },
-    {
-      "title": "At an AI summit in Pittsburgh, officials point to two promising developments amid the anxiety - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFFhcHhJTXFOQ3JTWmR0SUM2VmZhWGVITEFPS3hUalZqRnZsYlVkRUd2bGJRLUxDZnJkUTZ1dFROLS05QlVDb1pya3BlS0VYNEVSa250SjJuRV9lUGZ3b3hWMFJNeEhYeml1UnRZYlBHcGZVa21PUFVmVUEySGtmZnh4cWRuVi14cklkUVYzeFNLTTBITmpsR2E1TUZrMFlDUFFacDZLNWxOM1ZTR3NubGFJY1M2bjloQ1pDOHU1bFRKa0xKN2c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-18T09:58:17Z",
-      "summary": "在匹兹堡举行的AI峰会上，官员指出两项有前景的发展，以缓解公众对AI的焦虑。峰会聚焦AI带来的机遇与挑战，可能涉及医疗、制造、教育等领域的应用突破，以及政策支持与行业合作。尽管担忧AI导致失业、隐私泄露和安全隐患，但官员强调积极进展，呼吁平衡创新与监管，增强社会对AI的信任。"
+      "summary": "英国国王查尔斯会见人工智能领域领袖，围绕AI发展与安全风险展开交流。在AI能力快速提升、深度伪造、就业冲击和失控风险等担忧升温之际，王室介入相关议题具有象征意义，可能推动公众和政策界对AI治理、伦理与安全标准的关注。此次会面也显示，AI已从产业技术议题上升为需要国家层面和社会各界共同讨论的公共议题。后续能否形成具体治理举措仍待观察。"
     },
     {
       "title": "How important is AI to the stock market? Warnings bring new scrutiny - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVIxYmJpcHdsT3pkWC1oR3ZUcmRtRGpsRHM1eGxDRVotOUV4SmlzdjdUX0xqZDQyaDlzM3kxTTMtYWxCaUhOMkhUQkthX2dlOUFGZlcxOVNjZHA1MW5wUWtFaUgzLTRJYVlRUE5IZndiZEdNSU5CbkZiUVJCbXU5ZU5mRWNmc21oXzJEeWZEajlzREZvZ1h2VnNmR1B2eng1ZUlZ0gGoAUFVX3lxTE1zMF9ycEkwN3FJS1JFZlhBVTFLTFJySmM5dEFFMXBwdzdBcC15NTlLZFpKdER6TUgteDI4OUNyMTJucFlwNVA0cm5taWtlanJKNjdfRThremRwUnJxZ3NSVXFVS0RoMXFXT01WQXRTeU94bE1MbDExYW5qdjhEb1ZjOE9TMmpQUGV5YUdQT3c0SGkwRjNvbGZ0ZVZETDVCU2k5QTYwQ2Znbg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-18T09:28:36Z",
-      "summary": "AI对股市的重要性引发新审视。ABC新闻报道，有关AI投资泡沫和估值过高的警告促使市场重新评估AI概念股。AI技术被视为增长引擎，但过度炒作可能带来风险。投资者关注AI实际盈利能力、监管变化及技术落地情况。报道提醒，AI对市场影响深远，但需警惕预期过热和回调风险，理性看待AI驱动的股市繁荣。"
-    },
-    {
-      "title": "Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTnpta0loWThzZG5iNkp0WnB5WXg0V0ZSc2dYSk44aHFNS2Z3enhfbXFhaDBTTThHdkdmc1QwSGVvcHJnb2wyTkVoQjRDS2wyc1pzYkNQS3F6N2NqbTRqeG1sQi1jaTY1Q0Vsc2dWelVqX20tZkpUelJ2RXRvUzNWUkpfTzFqMTc3MV9BR0Y5YTI0Q3JWd1RJVms3UGpwRG5fODl0T3Z0SnJ1bzZmLVd3ZVB5UGhBUWt2a0czV2RjRE10SkdoZllraGlNWXZnRm92c3AzUk5vYWNCOG42OUNhaC1zMWxEcTF0RjFxX285Z0xBdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-18T09:06:00Z",
-      "summary": "澳大利亚政治家安德鲁·哈斯蒂披露，AI曾建议他回复一名计划通过辅助死亡结束生命的男子“恭喜！”，引发对AI在敏感伦理场景中应用不当的担忧。该事件凸显AI缺乏同理心、情境理解和道德判断，可能对用户造成伤害。哈斯蒂的分享提醒人们，AI在心理健康、临终关怀等领域需谨慎使用，必须有人工监督和伦理规范。"
-    },
-    {
-      "title": "Pa. Gov. Shapiro: Congress, federal government must regulate AI - Erie Times-News",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNEpVOTEzakxTWExGVlhoYi14RDZ3VzFyWHV2RTl1VU02LUNPcGdTQWRSaEpCMWRJX2VqdDFuTFl1Qkp2QTZ5Q0stQmxFTXNSdFlYVnFkUU4tMWxqTEI0R0N0VnpXdGpwTWtzSWNmRmJuNGctd0EwZFBoTHloUldBNmF0VDdIQ0RNdktNRVJnTlNGV0lPMDJyYlhFWHNQTEg0N25UUVNqeFJxNTBodlBrWmphTVpRRXBlcFZZaDZ4NnRWR2d4VFRfTU1acUhfQng4OFhhNzJWWF9tbmlkNnhmbnE0bWQzSzJ3aG9VNjVJM1g1T2Z5dWppWE9sUjhoTm5idGxV?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-18T08:56:00Z",
-      "summary": "宾夕法尼亚州州长夏皮罗呼吁国会和联邦政府必须监管AI，强调需要制定全国性规则以确保AI安全、公平和透明。他指出AI在选举、就业、隐私和公共安全方面带来风险，各州不能各自为政。夏皮罗的立场反映地方官员对AI快速发展的担忧，推动联邦层面采取行动，平衡创新与保护公众利益。"
-    },
-    {
-      "title": "Counter-terrorism operation leverages artificial intelligence to identify 126 terrorism suspects - Interpol",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnd3WjRQQmR0R29RNGp0VVQyRmdxX25yQ0Z1Y0NTZTJjeHlrTW9xU240Y09ZUzlJUHNTTGIxbWF4emtUbXNRcmpXWDl4M1lFb3hwS2MzQ0NKWXoxV2E2RjY5N0pURzd4SnNWajNuYVhQV2VSMmVrWUVCdU5IVXNrMXBaNHUydVNabklhaFZSYTlPaS1YMmZlQzNkamVvdTZOZ2VhRzNzNGhzS3M5ZzBQcUZ3UUN6VVpsQlAyekUyUWVDd1I0TTl3WkNqVThOQ0tjYlhPNXU4VDhueEs2OVE3Tg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-18T07:30:48Z",
-      "summary": "国际刑警组织在反恐行动中利用人工智能识别126名恐怖嫌疑人，展示AI在执法与安全领域的实际应用。AI通过数据分析、模式识别和生物特征比对，帮助快速锁定可疑人员。然而，此类技术也引发隐私、误判和算法偏见担忧。国际刑警组织强调，AI是辅助工具，需结合人工审查和法律框架，确保反恐行动合法合规。"
-    },
-    {
-      "title": "Opinion | This is how AI kills us all - The Boston Globe",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcVRsMjBWeUdHb0VpMFpEMTcxN0p3cERweXQydWJqUDZKdGFIZGxhWWd0RjdrY1dhdDRZeVRLZktMd001OG80c04tWE5sVkNVWU1aT1VnNUNhWUNXcnJ5ZWY1Z3JQVjVuNHFyU2h1UEt5OWFJNjRNTUg3MVR3aXRJSEJ1QQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-18T07:01:34Z",
-      "summary": "波士顿环球报发表观点文章，警告AI可能带来生存风险，探讨AI如何导致人类灭绝。文章可能涉及AI失控、武器化、社会崩溃等场景，呼吁重视AI安全研究和全球监管。作者认为，若不加以控制，AI可能被滥用或产生不可预测后果。该观点反映部分人士对AI长期风险的深切担忧，主张在开发前沿AI时优先考虑安全。"
-    },
-    {
-      "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders - KBZK News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGUyWmlqVUJwbS1vTG9jeXBTSlBheVBKVVFTMWFKdXV6SXhpdDZXSXJ4d1IydlVHUUdBZUZ2Sld6dElFTnFLZ1NnNFIwUnBDaURWdFNEdGcxT0lEZGdyNkVvcUFOQjctZzhrWkdtNjU4Q2tQUnJYd0dNdVlRRjNJeXg2M2pidG5qWFlhUDRCamFZVUI5OE9NeFhlNzhNWUtfaGJqVnRqOWhldw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-18T06:53:20Z",
-      "summary": "英国国王查尔斯会见人工智能领袖，讨论AI发展及安全关切。此次会面凸显王室对AI技术社会影响的关注，可能涉及AI伦理、监管和国际合作。在AI安全担忧加剧的背景下，查尔斯利用其影响力推动对话，强调AI应服务于公共利益。此举也被视为英国在AI治理领域发挥软实力的体现，促进政府、产业与民间社会协同。"
-    },
-    {
-      "title": "\"Much More Science Fiction Than Science\": Andrew Ng On AI Extinction Fears - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbmUxdnRZU1prbG1CTjRhbTdRT1E1NmtVdDZxTURMajgwTzFWZGZMZHNLSDJUSlBtQTNwdi1xYlNISGZmSm9EQjdVU1I0aUcwUmdSNDJ1YXd6WWcwVzRncDVJelVtaHJQYXBaTlpqT05pS2FpY2JmWkl1SkxjOEN3cGptQ3ZKQjVJQnZxVlJZOTRWQnN0b2VJLTJPYVY3YWZBcXBkZnpXa2txOHJTb2I1OE0tNVp1NjJQSGp4MjB1WkhLcXdLbEUxbzljVnNhS2FiQ1VlRU5GbExUajF50gHkAUFVX3lxTE9Ea3lzWkI4ODVuclFRQnUzbE5mcnM5WTBMZ2F2VUYtbWZsVUNOUDBJNVdadDBTbkp4NE10eDhaY1ZBb0VkeG5WT0lHdG41bzVFcWhfYWhVSGFWeDhfaXQzRmc3ZlB2U3JHWEl2WVFfSGJRMW1OLVdYTm9yendnekM2RTR0LW9OYWE1ZGU0QlF2NmI0V2hFNmh4YUs5dVdXc0F0Z2U0eldCMG4yS0Q5MmVHNlR1TmhlVER0cERnUFNVWFktWTliYUhwNkpWdTFNb0pQMENxa3hiLVEwRk50UFJ4c3RyZA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-18T06:07:08Z",
-      "summary": "AI专家吴恩达表示，对AI导致人类灭绝的恐惧“更像科幻而非科学”。他认为，应关注AI的实际风险和机遇，而非过度炒作生存威胁。吴恩达主张理性监管，推动AI在医疗、教育等领域造福社会。他批评将AI妖魔化的言论，认为这会阻碍创新。其观点代表产业界对AI安全争论的回应，强调基于证据的务实态度。"
-    },
-    {
-      "title": "OpenAI launches legal AI platform, escalating race for law firm users - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX0JIY1c1QnFPU0h0SVJVUnFVYVZLaThnS0VoQzFNaUR2Zm5NNDExc25uaXVrV0lUTklYTDhBWUd1LWV0YkJzUE5ieVI1bHp3SEJKb3VkWncySnZkbjBfYWcyQlJ4b0NaRGJidHJRcEk5V3RLWVhmQW5PclMtRHZKRk9fOEJmREJRNGpxWVBpd0l5a2Jacmk3cGNLV3hoREo2bjlBdHdibmJuWUdzNktNblA0cU1ULTRpU2ppb0JnbVhic01DUXZET1JXVXFFSnVFUGdSOHdtYVJiVm4tWGlUMldEMWhfUzhaM1BRS0VB0gHzAUFVX3lxTE1aX21sTlZCT1FRd3RBX29ZREE1Y2V6aHJlWWlta0EyTU1yT0dVdUc5UkZ3RURkLVhTQmRaOTlVbHRBSFA5aWVJNzZQVlQ4Q1N2TFhjeXk5Z0F0VlMtNUZhZUFpVzZodHRaWW93RmdRSXlPU3FWNzNuQTB2WUJ6d1NZX21LNVNTZXhCdjFvWjdyano2M2V3M0lpOE5HTXBIUUFkRGdzRzdwOTF2MHBaNGh3UlFhRUVIS3RzeFBUZEcwWS1CR3ZRMWN3WldVbTJnek5leFoyNVF1cklBMF8ydTQ3aVZ4YnFvUXNmTEhuQzZFMTlRRQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-18T05:58:31Z",
-      "summary": "OpenAI推出面向法律行业的AI平台，加剧了AI公司在律所用户市场的竞争。该平台可能帮助律师进行法律研究、文档审查、合同分析等任务，提升效率。法律AI市场潜力巨大，但需关注准确性、保密性和伦理问题。OpenAI此举与多家法律科技公司展开竞争，推动法律行业数字化转型，同时引发对AI取代部分法律工作的讨论。"
-    },
-    {
-      "title": "AI is now building AI: Anthropic says Claude leads 26% of its R&D work - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMjROYVo1RVQxRFRhZ2kyTlBIQ0g2dnQySm1pNnRBejdjd2hjME5KUmtUVHNmRmN5elRhQkVCVjlYNk9MeU5SODFzTXVrSVJnbHgyTFF1S2lOcnU3ZHg5NXhXak4za2otMXllVTRVTE9qNjEyUUQxamp4UGpoQWlfRmwySi1oeEN2b3JTT3dCTlg3MXJWZmtuQnRVQjJxVnU0M1RwZGlkckV4M2FORVRhd0I5a1lWWF9CZktPVDNGYUt6bUJyQ09pTE85RGdiZUwxU0I1WHF0aWsteFcwVDUtZERnSHpNaFgwYnVIT0FB0gHzAUFVX3lxTE5VVE5ONmtFLVhUbk9ieWIzdWZ5WV9TclJWcmVObkNPNjZTa0Frc1pxd283N2w5cGJxRXJZaTYwVTl0cjkyS0F3aTRFd3dyckFiVW83TmVvQmd5UGJJcjRuNDlEX04ydGM4QU9oUFZYeExyMUJTRmhkRWF2dGxrVWk3LUN0U2RBb213S3NvVTJGX1hvbmVHbGNQZkY4QjlwaHdoSlY1ckFFVUEwUldYRjNHYmM1T19GQnNJSXZNaGhUMV9uVjBlM29TLWs4ekNpSEVxVnpWdkdHZmtsN2JPbEpRSGN1eHhha1g4SEZ1Y01mamJYUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-18T05:17:07Z",
-      "summary": "据Business Standard报道，Anthropic披露其自研大模型Claude已承担公司约26%的研发工作，成为“AI构建AI”趋势的重要案例。这意味着Claude已深度介入代码编写、实验设计与工程迭代等核心环节，显著提升研发效率。该数据反映出大模型正从辅助工具向研发协作者转变，也印证了AI自我改进能力的加速演进。不过，这一进展同时引发对AI自主性、研发流程依赖度以及安全可控性的关注。Anthropic以Claude为核心的内部实践，或为行业提供AI驱动研发的参考样本。"
+      "publishedAt": "2026-09-18T09:29:41Z",
+      "summary": "随着市场对AI概念股估值和盈利前景的警告增多，AI对股市究竟有多重要引发新一轮审视。报道指出，AI相关企业已成为主要股指上涨的重要驱动力，但若投资回报不及预期、资本开支过高或监管收紧，可能带来回调风险。市场正重新评估AI热潮的可持续性、行业集中度及其对整体金融稳定的影响。投资者需关注技术落地进度与企业盈利兑现，而非仅依赖叙事推动估值。"
     }
   ]
 }
