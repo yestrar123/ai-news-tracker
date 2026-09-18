@@ -1,6 +1,177 @@
 {
   "articles": [
     {
+      "id": "5155",
+      "title": "AI becomes debate point in Pennsylvania as governor race begins to heat up - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMjNJT1lsTjFRMWlUVjNRc05EN1IycmNZUmpFWWNkN2lrMlVGUXVTR3BjdDZUYlM3UUI3RFpUMUFiVktoczJXNXpCUWw4QXVJVVh1ZHRwc0N2Qk1KNTBJZHNtSmN6YnlPN1dZYUo4dUJnSEl0U19nS293ZWpMbzBHaEI2X1dXaTB0bzQ4OGlYaTNDOGFGQVRoVXdJWWJOcGVuOWMyaWtWWjJpMkI0S1F4SFE2MVFBZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T19:36:04Z",
+      "summary": "宾夕法尼亚州州长选战升温，人工智能成为辩论议题。两党候选人可能围绕AI监管、就业影响、隐私与安全、政府应用等展开交锋。该州作为关键摇摆州，其AI政策讨论可能影响选民与科技产业，也反映美国地方选举中AI议题上升。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5156",
+      "title": "Consumer Agents Signal New Phase for AI Growth - Goldman Sachs",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWFY5QkdoeW02RHFfRHJTMU80enFMWnNoeWplZWZWa0xyYm1ES19NZVdISVJqYzNUM0N3emVGQldaRGNldzhsVmxJRWMxQkxjNFMyN2dDTW9hVTM4UG02X0hhdE1UZ2lLSWU0UlhxNlcwZFZTRnh4cHhTcjd5RDRvQXhZZTJvSFRvWEVFRmUzSHp3UFpxQ2UwTg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T18:56:15Z",
+      "summary": "高盛指出，面向消费者的AI代理正标志AI产业进入新增长阶段。此类代理能理解用户意图，代为完成购物、比价、预订、客服等任务，可能重塑流量入口与商业模式。对科技公司、零售商和支付平台而言，既是新机会也带来竞争与监管挑战。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5157",
+      "title": "US appeals court rule would require lawyers to certify AI-prepared filings - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUY1YUE4ZDVQQVU1WlNnVTE1MjZZUVptRzFtNTFLUzRFMmVnaDNfVXhPWV90SFBEWHVRZ2hTaFFFUXpTMlU4ZGEwTDhjNFlZM2JJWHZvd0dIc0xjaG9uV2ppOGxJX1dPQXBKb19LWmYyX3Y1NDUzSjlLb1NFUV9DeUxxWFVwT1E0TkpQbHp5R2dVVW53cGxndXBoaGRhUlNqb2dIcjBUblY4Tkd6QldRQ0dCY1dBX0cyUkRIaFRvUHN1UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T18:50:21Z",
+      "summary": "美国联邦上诉法院拟出台规则，要求律师对AI协助生成的法律文件进行认证，确保内容真实准确，并承担相应责任。此举针对生成式AI在法律文书中可能出现的虚假判例、错误引用和幻觉问题，反映司法系统在提升效率与防范风险之间加强规范。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5158",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T18:49:30Z",
+      "summary": "ChatGPT发明者之一推出新型AI模型Jev，引发开发者关注。该模型号称以更低成本、更快速度实现软件智能，可能降低AI应用开发门槛。若能在推理效率、部署成本和灵活性上形成优势，或为智能体、编程助手等场景提供新选择，并加剧基础模型竞争。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5159",
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T17:59:53Z",
+      "summary": "迪士尼任命Character.AI前CEO为首位首席技术官。值得注意的是，迪士尼曾向该公司发出停止侵权函，指控其AI角色可能抄袭迪士尼人物。这一任命显示迪士尼正更积极布局生成式AI与互动角色体验，同时需在知识产权保护和技术创新之间寻求平衡。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5160",
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T17:33:50Z",
+      "summary": "谷歌将其“CC”AI代理重新定位为家庭事务助手，可让家庭成员共享邮件、日程和任务，并由AI管理日历、填写表格、生成购物清单、规划餐食等。这显示AI代理正从通用聊天走向具体生活场景，通过多用户协作和自动化提升家庭效率，也涉及隐私与数据共享问题。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5161",
+      "title": "The AI maths crisis - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUV2TXp0MGY2UFhPOWtCci1DcjZZelNubHdsV3FsTUtHZWdfWEZKeGF0QzdCU0tTVWtVSHN0RzVlU0xNbXZSNnFmeHVnZWdMcTFtUmcwTVlrRDR4Qk9qUk5mTHN3MGZVTEZHTjBuMDhDN3Z4dXJRRmpDNzdyNkh3WmVCRWNVV2RaaGx3SjU4TGdJYlnSAZgBQVVfeXFMTXlmd1VMNXRmQUdMNHBXTDBubVNPMTZpSVN1RVNUai0zbFJrbGllMjFEYVFPZG41U1ZKTzZ3bXJYQ1dDLTVjdFI3WGxUT3NQR0ZCQkdZa1pxT0hxOHBydGxNb242RkhFQTNrLUNhWnpZNjlyUldadnpsajNHUnJTcTExTUo0VEZvUEZLS1NsRHQ3ZEp4SjJCMjY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T17:31:10Z",
+      "summary": "标题“AI数学危机”可能指当前大模型在数学推理、计算准确性和逻辑一致性方面仍存在明显短板。尽管生成式AI在语言任务表现突出，但在需要严谨推导、符号运算和可验证答案的场景中容易出错。该危机促使业界加强推理模型、工具调用和形式化验证，以提升AI在科研、金融和教育等领域的可靠性。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5162",
+      "title": "Huawei aims to deliver faster AI chips, faster - Network World",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFJYTHVpY0QtZ0NNa1lNekZKblFGd1hwa0ZWZ0FhRldzWGxWSXZIcS1ZYTFaVGx2T3dyWXg4Y1MxMjNYdUxvZm9iUUU5ek5OZ0stSjBPWUU3WVl6NTY2bEdWbnZDeEhVXzI0WXozOUVVdGM1WW1wa3pxTjhyOWpwOVkwcG0tSk0zS1ltaXd0SVhoNW85bTJydmN3RQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T17:20:08Z",
+      "summary": "华为正加速推出更快AI芯片，以应对全球算力需求增长和外部限制。报道指出，其目标可能包括提升训练与推理性能、优化能效和软件生态，并缩短产品迭代周期。若进展顺利，将增强中国本土AI算力供给，挑战英伟达等厂商主导地位，并影响全球AI芯片竞争格局。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5163",
+      "title": "Use of AI backfires on an expert witness at trial: \"They have biases\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ONk1vR29XLXhmZmt4SGVLX0NUOFY5Tk1SNHVYUUF3M20zbFRjQjNZUzVXcEMzb1lSaEdlWjZTYUdHSklfcVItMHpaNVRGLU5MYXNHRHNQUUc5c2tBXzN0dEM5N0xTNWRiOE9nZ1Bn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T17:10:00Z",
+      "summary": "CBS报道，一名专家证人在庭审中使用AI却适得其反，遭遇“AI存在偏见”的质疑。该案例显示，AI生成或辅助内容可能因训练数据偏差、不可解释性和准确性问题，削弱证词可信度，甚至影响判决。法律从业者需谨慎披露和审查AI使用，法庭也可能加强对AI证据的采信标准。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5164",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T17:09:56Z",
+      "summary": "在Anthropic研究员发出末日警告一周后，Anthropic CEO Dario Amodei提出“Pace the Frontier”计划，主张通过独立安全评估机构以及对民主国家AI实验室之间的协调，来有序控制前沿AI开发节奏。该提案已获得部分行业支持，但也遭到英伟达CEO黄仁勋的尖锐反对。争议焦点在于：谁来评估风险、如何协调跨国实验室，以及安全治理是否会拖慢创新。该讨论反映前沿AI安全与竞争之间的紧张关系。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5165",
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T17:06:32Z",
+      "summary": "本期节目一方面关注Automattic经历的“33小时政变”，另一方面追问AI实验室能否真正自我监管。背景是Anthropic研究员末日警告后，CEO Dario Amodei提出“Pace the Frontier”方案，强调独立安全评估者和民主国家AI实验室协调，已获部分支持，也遭黄仁勋反对。两条线索共同指向组织治理、权力交接与AI安全治理：当技术风险上升时，实验室内部自律和外部监督应如何分工。内容虽信息有限，但核心是AI治理与公司治理的双重不确定性。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5166",
+      "title": "Could AI pose a serious threat to our existence? | Letters - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUVzaDBWS09WZWNFRkNlS3RObzI4S2RhaDJweFZVWFpGaFVUU2REUlN1SDVFWWFVWUMxV3JNZTVTLTZVYTVFa3dXSGczalFiQVQ1R0cyOU9LQks0Qm5XczV0aDBUNVFBZ2Z5MlBDc2pDRy1ZeGxVemxSdGdPTFBUWkF2ZFVJRkFFcm40RG9vYTJEVGJranlBREVoTHRGV0U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T16:58:00Z",
+      "summary": "《卫报》读者来信围绕“AI是否可能对人类生存构成严重威胁”展开讨论。来信观点可能涵盖：AI存在性风险是否被夸大、前沿模型能力与失控风险、监管与行业自律、地缘竞争下安全投入不足，以及如何避免恐慌叙事阻碍有益应用。该讨论体现公众对AI长期风险的分歧：一方认为需提前防范，另一方强调风险尚未迫近。核心议题仍是需要理性评估AI生存威胁，并在创新、安全与治理之间取得平衡。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5167",
+      "title": "Employers keen to embrace AI to support member comms - Pensions Expert",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWRIZVJJYWVoM0kzUkVqR3VFWEk3Snlkb21RYlpGeXF1X2lPUWRvM3ZjYXI5Vmwzb0pVTndIcWE3U0ZNVlJfTVdyaVJ4R083N19DQ29nLTdKbE1jdnJRSm55Q0Zoci1oYTlvampuMmotYXdVXzQ3QWZCVl8tbTJBZEE4R3lJMGJ1aUE3WlAtWDZ3VGp2cXYtQ2ZSOXpwYWZpdmhmUmNLTTZIbENYcTBobFl2cEx0cVZEOUJv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T16:37:32Z",
+      "summary": "《养老金专家》报道称，雇主正积极拥抱AI，以支持会员沟通。对养老金和福利机构而言，AI可用于生成个性化通知、解答会员问题、总结复杂计划规则、优化多渠道沟通，并降低运营成本。但落地时也需关注数据隐私、合规审查、信息准确性、偏见与可解释性，尤其涉及退休金等敏感信息。整体看，行业对AI态度积极，重点在于用技术提升会员体验和沟通效率，同时建立稳健的治理与风控框架。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5168",
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T16:35:49Z",
+      "summary": "Manus在结束与Meta的合并后恢复独立运营，并正在讨论新一轮融资：拟募资5亿美元，目标估值达40亿美元。今年早些时候，该公司不得不中止与Meta的合并交易，如今重新以独立公司身份推进发展，显示其在AI赛道仍具融资吸引力。此轮融资若完成，将为其产品研发、市场扩张和算力投入提供资金。该案例也反映AI初创企业在巨头并购、独立发展与高估值融资之间的战略选择，以及资本市场对AI代理/应用层公司的持续关注。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5169",
+      "title": "Stripe’s wallet embraces AI bots - Payments Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTJCdnA5WEpxSlNWZ2dOV0pfTWlNa2l3bE1rV0FwSEpWN3lVSGluOHFMT3JBSnNOUFpVTVdaVWN1eE5iT1dkeUg2OWl6WXBZX1hWMzBCaGE0YUdKcVJHb0pta2FTdmowakQ4UXZtN09sTXRaemY3ay00TXZPd1AxSlRhV0hFekRqVVM0X1ZFd0ZKVk5yUWMyejhSR3VENkdMd081UGNQR28?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T15:44:24Z",
+      "summary": "《支付 Dive》报道，Stripe的钱包产品开始拥抱AI机器人，意味着AI代理可能被允许代表用户发起支付或完成交易。此类“代理式商务”可自动化结账、订阅管理和跨平台付款，提升支付效率与用户体验。但同时也带来身份验证、用户授权、交易风控、争议处理和责任归属等挑战。Stripe的举措表明，支付基础设施正为AI代理时代做准备，核心在于让机器人在明确授权和安全边界内执行金融操作，并确保可追溯与可撤销。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5170",
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T15:30:00Z",
+      "summary": "在TechCrunch Disrupt 2026的Builders Stage上，英伟达的Nader Khalil与Sydney Sykes讨论了“开放还是封闭AI”这一影响下一代初创公司的关键决策。开放模型可降低门槛、促进定制与生态创新，但可能带来安全、合规和商业化难题；封闭模型则便于质量控制、责任管理和商业变现，却可能限制开发者自由与成本优势。对初创公司而言，选择将影响技术栈、算力成本、数据策略、护城河和融资叙事。该讨论折射AI生态路线之争。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5171",
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T15:22:48Z",
+      "summary": "Meta的AI助手Muse正式登陆Mac平台，能够在用户电脑上访问文件和应用，并代用户执行操作。这意味着Muse从对话式助手进一步走向桌面AI代理，可协助处理文档、跨应用任务和日常流程自动化。其技术要点包括本地或云端模型调用、系统权限管理、应用接口集成与操作确认机制。与此同时，让AI直接操作用户电脑也引发隐私、数据安全、误操作和责任归属担忧。Muse上Mac表明AI代理正加速进入个人计算核心场景。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5172",
+      "title": "Is it time to rein in the AI arms race? - The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON3IyWTBac0FFUUMwM0ZxYmtwdURRSFlTVTVEQ0lZWFN5NXlVZzY3MDdfMHppbUZUMUNNMEItVU9hVERTQmF2Z2VFTUdoanZvVDJCWldaWDdpYnp6RGRNWlFpeGtSOEh1WEVGS1Z2WHdPY0FydnNXSmJSOVJjdUNaMkVwNE7SAYoBQVVfeXFMUEhHVG5XOFlEWTBORDZTRDEtVk9TOVpYeVEycU13ZFJBaGJZTkdENU5OSmRINFNDd2dVVlZCV2oyWm1KaXhXLWloZE8xbEJNS25MdkRDRXhsZXJnazdYeGl3VTh4UmdFQzZWTWNscDJWNnNoN1k3aEZlVGRVR1B3bVFWNUZGNWxCcVZn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T15:18:01Z",
+      "summary": "《水星报》提出“是否到了遏制AI军备竞赛的时候”。该议题通常涉及：大国在算力、模型和人才上的竞争，军事化AI与战略稳定风险，企业为追求前沿能力而忽视安全，以及监管能否跨国协调。支持者认为，无约束竞赛可能放大误判、扩散和失控风险，应通过国际协议、出口管制和安全标准加以约束；反对者则担心过度限制会削弱创新与竞争优势。核心问题是能否在国家安全、商业利益与AI安全之间建立可执行的治理框架。",
+      "fetchDate": "2026-09-18"
+    },
+    {
+      "id": "5173",
+      "title": "Steven Greenhut: Terminators aren’t coming for us yet, so chill over AI - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVI0Z0ZVeVMyOEZGV3NoRW43UWZJTEJjVjB3MmYtNDhLYXlQZmJhclR4RmlVbHB3OUF0NHVfQWNzWVYzclk3TERuYzQxWmlucUdxcVV3eHF6aHlPdXhod2xEd1A1bl9QWFpMMzctMjEyVDJ5UHZHZXZqZy1IXzhZT1hiUmFjRkdnRUlyd1lCVGdkb3R1V0duZEhUVzNKWmcxYWI0MGJ6dW9UaHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T15:00:12Z",
+      "summary": "《橙县纪事报》评论文章以“终结者还没来，对AI冷静点”为题，主张不要被科幻式末日叙事裹挟。作者可能认为，当前AI虽发展迅速，但离电影中的自主杀人机器仍很远，过度恐慌可能导致低效监管、抑制创新，并转移对隐私、偏见、就业等现实问题的关注。更理性的做法是推进透明评估、风险分级和针对性监管，同时让有益应用继续发展。该观点代表了对AI存在性风险叙事的怀疑立场，强调务实治理与公众冷静。",
+      "fetchDate": "2026-09-18"
+    },
+    {
       "id": "5142",
       "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
@@ -46378,5 +46549,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5153
+  "total": 5172
 }
