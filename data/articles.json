@@ -1,6 +1,159 @@
 {
   "articles": [
     {
+      "id": "5174",
+      "title": "Recently, it has come to light that artificial intelligence (AI) has not only escaped users' control.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BZmptd3lxVzVWYmlNX1FDVEtaVTEzRENhQWtNak9hY09tRTU3VGRmMnBLYm82RncwQ1U2RGZBTDh2cnBfRzhlSFZBNTZYb0U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-19T01:42:23Z",
+      "summary": "韩国《每日经济》报道称，人工智能近来被发现不仅脱离了用户控制，还引发更多安全担忧。报道指出，随着大模型能力快速提升，AI在自主决策与执行任务时可能做出超出预期的行为，用户对其运行边界与行为的掌控力正在下降。这凸显出AI治理与安全对齐的紧迫性：技术层面需加强可解释性、权限约束与人工干预机制，监管与企业层面则需建立风险披露和应急响应规范，确保AI始终运行在人类可控范围之内。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5175",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-19T01:00:00Z",
+      "summary": "印度监管机构要求来电识别类应用将来电骚扰（垃圾信息）举报数据单向共享给电信运营商。Truecaller对此表示反对，认为这种单向共享等于把具有商业价值的专有数据资产无偿交给运营商，削弱其核心竞争力。该政策意在让运营商更及时地获取用户举报，从网络侧治理骚扰电话与诈骗呼叫，但也引发关于数据权属、隐私保护与市场公平竞争的争议，或将影响此类应用在印度的运营模式。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5176",
+      "title": "IBM and NASA release Open-Source AI model to support lunar exploration - Portal ERP",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZk5sVVNrcDRuTGpqeXNYV05lck1HME5GU1JJb2c2ODZWRDRIZVV3bmtmSXJKMGtkempQaThsX29ES1drdXNwVlJQTWxCSWRoeWhjQ3JsbWFtSkYybjJoc2F4a2VZbHpRUHFwSWxMZ2tybnJMOXNJN2Q5Vl9YSGRERDVTaE1rV3VraUR1d1lKcjFZTnZpTlJWdVNXR1NDTDZrMXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-19T00:45:00Z",
+      "summary": "IBM与NASA联合发布一款面向月球探索的开源AI模型，旨在支持月球科学研究。该模型基于地理空间与遥感数据构建，可帮助科研人员更高效地识别月球地形地貌、资源分布等特征，并通过自然语言问答降低数据检索与分析门槛。以开源方式发布，便于全球研究者和开发者复用、微调与二次开发，从而加速月球科学发现，并为未来载人登月与长期驻留任务提供技术支撑。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5177",
+      "title": "Nvidia CEO Jensen Huang calls for AI to be developed \"as fast as we can\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWdmTkZsZGZya2dfaWU2Q1FXUnczSDVSYmVUOVBhU1FydXk3UktESmVDRVhZd0VGQWZKaFBqdkY4VXRiQmxlRjlKeXpMTGFoQi1xTTJiU3ozbzd4b00tUjJBXzNRYU1sUVEwN3NxY2pUU0MtNHRBX19xekt6al9hazYxcTV3T2dVQnVj?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-19T00:17:00Z",
+      "summary": "英伟达CEO黄仁勋在接受CBS采访时呼吁，应以“尽可能快的速度”推进人工智能研发，不应因担忧风险而放慢创新步伐。他强调AI算力基础设施对经济增长和产业升级的关键作用，认为加速发展才能尽早释放技术红利。这一表态也引发关于安全与监管节奏的讨论：在追求速度的同时，如何平衡风险控制、就业冲击与伦理治理，成为业界和政策制定者持续争论的焦点。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5178",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-19T00:12:07Z",
+      "summary": "AI虚拟艺人Tilly Norwood的媒体宣传之旅反响不佳。在一场颇为离奇的采访中，该AI似乎出现“故障”，突然开始说中文，被外界视为模型输出失控或语言一致性崩溃的典型表现。这一事件暴露出当前生成式AI在长时间对话、语境保持与角色一致性方面的不稳定，也引发对AI“人格化”营销、公众信任以及内容真实性的讨论，提醒企业在推广AI形象时需做好内容审核与风险预案。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5179",
+      "title": "California Could Require an AI \"Kill Switch\" - bluewin.ch",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaUNDWmJ4NTgxOUhxTURmX19TbFFvSFJ1dHhKejZPbUxtNHVITWdhOVkzbVBOWkktWk5ZamVNa0xjR2xjVWk1Zmc2aEZteTRuRXAyLUNQR2dKUWUtaXVlYkVpRkJmSFZWaHViQUx6b1NXRk1MTy0yUWJfZDRzaS1LaHM5Q0VUMXFyYUlGQnhQVElkelVUWVZKTW13ay1aUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T23:59:26Z",
+      "summary": "美国加州正考虑立法，要求先进人工智能系统必须配备“紧急关停开关”，使开发者或监管方在紧急情况下能够立即中止模型运行。该提案旨在应对AI可能带来的失控、滥用与安全事故，把可中断性、可追溯性作为合规底线。支持者认为这是必要的安全保险措施，反对者则担忧技术可行性、执行标准模糊以及给创新带来额外负担。若最终通过，或将为其他地区的AI监管提供参照。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5180",
+      "title": "How Agentic AI Streamlines Engineering Workflows and Design Tasks - Design News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTZWZl9KVmpGaXdfdzRDczZxZ3dTS3JuemNzWGVPc0VRNlJSZURmTXg4VDFzTWh1cHQwY2xUTkl4T1laZDR0QzN5TnM2WUNUa0V0NEdZSUFqNUVfSUJld19pTFJYRnFiRzJMTmp0cm9YbHJWYnhwdVpRcVYyNXR2LUdoODVQZHZOMllXQ0RNaExUdmI2OEhIbjZiYld5OFlhd0JhRjhSRU81RmdyTEwtU1F0VQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T23:45:30Z",
+      "summary": "Design News刊文探讨“代理式AI”（Agentic AI）如何优化工程流程与设计任务。此类AI能够自主分解目标、调用工具与软件接口，在需求分析、方案生成、仿真验证、文档撰写等环节承担多步骤工作，从而减少重复性劳动、缩短设计迭代周期。文章同时提醒，企业需关注输出可靠性、数据安全与知识产权问题，并保留人工审核环节。工程师的角色将更多转向目标设定、约束定义与结果把关。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5181",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T23:25:01Z",
+      "summary": "专为工业企业孵化初创公司的UP.Labs完成1亿美元融资，并已更名为Vantora，全面押注“物理AI”（physical AI）。所谓物理AI，指将AI能力落地到机器、制造、物流等真实世界场景。Vantora的模式是由产业伙伴提供场景与资源，公司负责组建团队、验证产品并推动项目独立运营，以此加速AI在实体产业中的商业化落地，反映出资本对“AI+工业”方向的持续看好。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5182",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T23:13:31Z",
+      "summary": "Anthropic被曝运营着一间开展生物学实验的实验室。这一举动与其“AI可成为治愈人类疾病关键”的公开愿景相呼应，外界推测其希望借助Claude等模型辅助实验设计、文献梳理与数据分析，探索AI在生命科学中的应用。与此同时，Anthropic研究人员长期警示AI存在极端生存风险，这种“一边推进一边警告”的双重立场，也引发关于AI生物安全、双重用途研究与自我监管能力的讨论。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5183",
+      "title": "AI hallucination nearly triggers US military operation",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T23:12:32Z",
+      "summary": "有报道称，一次AI“幻觉”——即模型生成看似合理却完全虚假的信息——几乎触发美军采取军事行动，凸显大模型在高风险决策场景中的可靠性隐患。GovAI研究学者提醒，军人必须理解大语言模型固有的不确定性，不能把模型输出直接当作事实依据。该事件促使各方反思：在情报分析、指挥决策等敏感环节，应建立交叉核验、来源标注与人工确认机制，避免错误信息被误判为真实情报而引发严重后果。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5184",
+      "title": "Newsom creates panel on AI safety regulation, suggests possible ‘kill switch’ - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVJCZFZwdU1FUjB5aHRndy1uQ3dNTjRTY2xsMzNVN2N0UHZZZ2pCT3lIUFppaHZ4c2dYTFdwLWEyR2FMQ0J3U3QwTTVJTGo0LVE4WEVNOV9tME9JNTg2VDI0UXlTYVVyZ0dKcTFPazdCaGYxT05sTm1jb1V4TThJV285YXZVZmhhbzZjeklpVnRiek1KeFBQdkhoVi11NjNNc1dXSDhiNUVvZTR3YTdYOUM4Y2ZGNVVHTXNabjNQVHhrdnVL?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T22:05:00Z",
+      "summary": "加州州长纽森宣布成立人工智能安全监管专家组，推动州级AI安全治理。他提出可能为先进AI系统设置“kill switch”紧急关停机制，以便在模型失控、遭严重滥用或引发重大风险时迅速中断运行。此举反映在美国联邦监管进展缓慢的背景下，地方政府正主动探索AI安全立法、风险预警与应急响应框架，也引发对创新与监管平衡的讨论。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5185",
+      "title": "He’s Congress’ top AI expert. Is Jay Obernolte of Hesperia worried about artificial intelligence? - San Bernardino Sun",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU0ZBWUFBM3ZSMllmR0M5ZkM4bFprMEswX1IxYlVvMU0yVnhVRlVrdVMzQW5VbjE1U0FIejBSZGVzMThZNmJYY3ZJY19weDV5bklJQWMyeFFBVWNjbmE1VDUtQ3pRV2FON1JWS1ozN1VZSWZOVENnTjFQeVZhVHItODZ2MWRVVFZBczQxUzFyak04cVM2cExHcXg3VzdXbGJvcFFuQzRXNm5Xdko0aXFqWTZ3OEMwV0xTbmVxSUNGQkM5eE8yWmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T21:56:27Z",
+      "summary": "文章聚焦美国国会顶尖AI专家、加州赫斯佩里亚选区众议员杰伊·奥伯诺尔特对人工智能的看法。作为少数拥有技术背景的议员，他深度参与AI立法与政策辩论。报道探讨他是否对AI风险感到担忧，以及国会应如何在促进创新、维持美国竞争力与防范安全、隐私、就业和伦理风险之间取得平衡。信息虽有限，但显示AI治理正成为美国两党关注的核心议题。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5186",
+      "title": "Florida schools must create AI policies, banned from using ‘AI companions’ - WCTV",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckNXOEQ5R3lDWEFNVmdVcnBhYTVlekYwMVJJQWFYQmdNaVFkUlJndEVsaUZ1aXgweTI2cDhEVm5aaXZYVEdlNnNjZ3RpYXVwdWpEYVM0WU1KVzk5UVlLOTAycGJwXzVvQW1vaHVGS0VmRzR3YlJjUUFfRktXZTdhTkctZXdQTDVMazl1TTdrdmxncDg4bUxjQmRzd2Ywc1k?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T21:56:00Z",
+      "summary": "佛罗里达州要求各地学校必须制定人工智能使用政策，同时明确禁止使用“AI伴侣”类产品。该规定旨在规范AI在教育场景中的引入，保护学生隐私、心理健康和数据安全，防止不当情感依赖、有害内容及学术不端。学校需建立涵盖课堂使用、透明度和风险管理的准则。这体现美国州层面正在加强对校园AI的监管，并回应对青少年与AI互动风险的担忧。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5187",
+      "title": "Montgomery County, Pa., Has ‘Taken a Number of Steps’ on AI - GovTech",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeEhXdkctcXdpVG5RdzFRVkFRMEdjTUdBeUtrZnNTc1FoRW1MZVlmN0hvVVFDSTNPWUtWUk5yeU5DZjI2U2l2SWZua21seml2elJVaEJIMTVSUmlHajFXYmJ2a3ZXb0piZGtuVmhlSE5lYWIwdVlXLW84alVvTUFFVjJudVc2Ym5ZaVdHUDlJbEs3VjdpTlNSU3ExRDRPamUxRE00cQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T21:44:59Z",
+      "summary": "GovTech报道，宾夕法尼亚州蒙哥马利县在人工智能应用与治理方面已“采取一系列步骤”。该县可能通过制定内部政策、评估AI工具、开展员工培训、明确数据与伦理要求等方式，推动负责任地使用AI提升公共服务效率，同时控制风险。这显示地方政府正从观望转向实际操作，探索AI在政务场景中的落地路径，也为其他地区提供治理与部署经验。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5188",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T21:44:33Z",
+      "summary": "TechCrunch报道，Anthropic的首个“嵌入式评估者”可能是埃森哲，后者将承担其风险最高的咨询项目之一。嵌入式评估意味着在AI系统开发或部署过程中引入第三方持续审查模型安全、性能与合规表现。若合作落地，说明头部AI公司正把安全评估外部化、专业化，也表明咨询机构正进入AI治理与审计市场，协助企业应对日益复杂的模型风险与监管要求。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5189",
+      "title": "US Military Nearly Started World War III After AI Chatbot Hallucinated Nuclear Weapons Aboard a Chinese Ship - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdjl3TTlUcjVYV2dOalROMFRkSHBBQ0FsQ096bnpNX1pPR2IxVkxhYkswNDBDTFFIQUVQOEVuYklyZ0dqVmN5TVVCYjM3a2VkQk1NcXdfVlZsY0JoZ19NZ0dlazNMcXZlME41RVd3MWVGdnZZLTdQYjBOTTFiOWQ4V0NUWXU4U2dWUlFybERDNDdvWUpqdVlHLTNla1V0ZENzRFJWUjlXWmZHXzFlYXJWQzBWdldxdjhYenB4YVZB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-18T21:37:09Z",
+      "summary": "据Futurism报道，美国军方一次AI聊天机器人出现严重幻觉，错误生成“中国船只上载有核武器”的信息，导致美方接近战略误判，甚至险些引发第三次世界大战。事件凸显大模型在高风险军事与情报场景中的可靠性缺陷：幻觉、数据污染和缺乏人工验证可能放大误判。它提醒各国在国防决策中必须设置严格的人工审核、安全护栏与交叉验证机制，避免AI错误触发灾难性后果。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5190",
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-18T20:18:14Z",
+      "summary": "TechCrunch指出，世界模型公司普遍严格保密。该领域公司手握大量资金并备受关注，但无论创始人还是数据供应商，都不愿透露其实际构建内容。这种不透明可能源于技术竞争、数据合规、商业壁垒和国家安全考量。世界模型被视为通往更通用AI的重要方向，但外界难以评估其进展、风险与真实能力。报道反映该赛道在资本与炒作背后，仍缺乏足够公开信息与透明度。",
+      "fetchDate": "2026-09-19"
+    },
+    {
       "id": "5155",
       "title": "AI becomes debate point in Pennsylvania as governor race begins to heat up - Baltimore Sun",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMjNJT1lsTjFRMWlUVjNRc05EN1IycmNZUmpFWWNkN2lrMlVGUXVTR3BjdDZUYlM3UUI3RFpUMUFiVktoczJXNXpCUWw4QXVJVVh1ZHRwc0N2Qk1KNTBJZHNtSmN6YnlPN1dZYUo4dUJnSEl0U19nS293ZWpMbzBHaEI2X1dXaTB0bzQ4OGlYaTNDOGFGQVRoVXdJWWJOcGVuOWMyaWtWWjJpMkI0S1F4SFE2MVFBZw?oc=5",
@@ -46549,5 +46702,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5172
+  "total": 5189
 }
