@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "5193",
+      "title": "AI vs Humanity: Martin Rees On The Race To Regulate Artificial Intelligence | AI Safety | News18 - News18",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZTc0ZnFnR1A2S0Q1dm5NWkhaMjBtSzdDMmx0d3piTFR4LXVUOTJlVVJJRVZzN203U2hCc3ZoOENSc2dxZUpKRjRiR1J0Y19CU0VnX19IbmpOdzFIWGNZZ2VaNHNUY2FLd0ZURUkyWWNqZHZNdXBTY1lhUllRSHhGbDZkaUcxZTNkdW4tcVN5STJGRF8wd0VvZGxyVTUxQVpCaXpXdWU2T29rWUlRNkNyMTVLZnh6Vnduall6RnJ0OXdiS0I1VUY3dFQ2NXEzWktocmxpdXB2eEUycEdLbEsyQUU3WdIB6AFBVV95cUxQaVRMY1ZoS2sxOTFiM3N0QzJKQi16M00xb3ZKc3lhVjVZMzlGdE1mTlpyQ1FwRUZKRUxNWjhNa0t6YW5HUXBwcTRfZzVrVHpFTW5YTmhEWFpZemFFbldYUEUzeWdkWWN0alFoUEVSd2U5ZzBPVlIyQl93V25POGJDMF9XOTVFOEh3bHlHRUt3VVBhdFQ5VFVLcUs4anFYLU1MNEJOS3hid1ZkM0E1RnF3OXVfaEViSG9PWXY3WlF2dHo5QVlkdEtiU0pVUzJWZFpYekktcV9kUnhXWTl6Um5wM2ZZTGtwNVdx?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-19T08:54:00Z",
+      "summary": "英国著名天文学家、前皇家学会主席马丁·里斯就人工智能监管议题发声，指出人类与AI之间正在展开一场监管竞赛。他强调，随着AI能力快速提升，其风险已从技术层面延伸至社会与文明层面，若治理速度跟不上技术迭代，可能带来难以逆转的后果。里斯主张建立跨国界的监管框架与安全研究机制，在鼓励创新的同时为高风险应用设定红线，避免各国监管碎片化导致安全标准被稀释。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5194",
+      "title": "How to know if you can trust an artificial intelligence chatbot's answer to your pressing question - kansasreflector.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOEVReElibS1xZ0c0aGVtNmlnU1Jva2JET3lBbU5BbHplVjQ5U2hGQncxYWZscnJxREc5cjZXU2Z2aTU1UzM0YUFpM0lHSXhBTmxWRW5mU0paa0t5M1dkVnRCUmdOSFpGc3JGcHUxMWM3emZZbGFrVjN2bnVoQVJTWVpiYlBXbWlqS2ppU19GZzNuOGRWZVlNdEdPMUI2SkFIbHFRZ1AwaVhRY0Y5UmZTSTJqd3oyRlBTbl9idG9pTm11T1NaNy04ZXp0d0dVanhlRDBv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-19T08:39:14Z",
+      "summary": "面对AI聊天机器人的回答，用户该如何判断其可信度？相关报道指出，生成式模型可能因训练数据偏差或推理缺陷而编造看似合理的内容，即所谓“幻觉”。建议从几方面核验：一是追问信息来源，检查是否给出可追溯的原始出处；二是与权威网站、官方文件或专业人士交叉比对；三是对涉及法律、医疗、财务等高风险问题保持警惕，不把聊天机器人输出作为唯一依据。培养批判性思维与信息素养，是安全使用AI工具的前提。",
+      "fetchDate": "2026-09-19"
+    },
+    {
       "id": "5191",
       "title": "Tasmanian justice department review under way after AI and fake citation used in murderer’s parole decision - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNjV4ZjZsbWpqWmQxaHgxOFl5UnBmQVlPejdCTGZCQUJRcFV6ckx2WGhpY0lfeHNGZlRUQjBvd0pjbDlJREN2WnNDT0Rsc0o5dHRDckl5bXk5M1diSFNrT0JFTFh1eFl6LUltNlNhZEktTlppYmtYQmZGYVBPYWRVUkNPX19Zb2xhc3RySjZIZnlzMGNJdzRQX1JkVkw5YVlrWnNxWHhkSFRxZzRPalFLbnFCTEZXWnZHVGI0elpDMDNqWmxZckJuZzRHUlZFMGFLZ0t2QkVORlBsMjludC1uUnBYRU5OU1R2VTFBcDM0STA3bDll?oc=5",
@@ -46720,5 +46738,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5191
+  "total": 5193
 }

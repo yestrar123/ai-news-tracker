@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-09-19 06:51:48 UTC",
+  "updatedAt": "2026-09-19 09:53:19 UTC",
   "totalArticles": 4,
   "articles": [
+    {
+      "title": "AI vs Humanity: Martin Rees On The Race To Regulate Artificial Intelligence | AI Safety | News18 - News18",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZTc0ZnFnR1A2S0Q1dm5NWkhaMjBtSzdDMmx0d3piTFR4LXVUOTJlVVJJRVZzN203U2hCc3ZoOENSc2dxZUpKRjRiR1J0Y19CU0VnX19IbmpOdzFIWGNZZ2VaNHNUY2FLd0ZURUkyWWNqZHZNdXBTY1lhUllRSHhGbDZkaUcxZTNkdW4tcVN5STJGRF8wd0VvZGxyVTUxQVpCaXpXdWU2T29rWUlRNkNyMTVLZnh6Vnduall6RnJ0OXdiS0I1VUY3dFQ2NXEzWktocmxpdXB2eEUycEdLbEsyQUU3WdIB6AFBVV95cUxQaVRMY1ZoS2sxOTFiM3N0QzJKQi16M00xb3ZKc3lhVjVZMzlGdE1mTlpyQ1FwRUZKRUxNWjhNa0t6YW5HUXBwcTRfZzVrVHpFTW5YTmhEWFpZemFFbldYUEUzeWdkWWN0alFoUEVSd2U5ZzBPVlIyQl93V25POGJDMF9XOTVFOEh3bHlHRUt3VVBhdFQ5VFVLcUs4anFYLU1MNEJOS3hid1ZkM0E1RnF3OXVfaEViSG9PWXY3WlF2dHo5QVlkdEtiU0pVUzJWZFpYekktcV9kUnhXWTl6Um5wM2ZZTGtwNVdx?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-19T08:54:00Z",
+      "summary": "英国著名天文学家、前皇家学会主席马丁·里斯就人工智能监管议题发声，指出人类与AI之间正在展开一场监管竞赛。他强调，随着AI能力快速提升，其风险已从技术层面延伸至社会与文明层面，若治理速度跟不上技术迭代，可能带来难以逆转的后果。里斯主张建立跨国界的监管框架与安全研究机制，在鼓励创新的同时为高风险应用设定红线，避免各国监管碎片化导致安全标准被稀释。"
+    },
+    {
+      "title": "How to know if you can trust an artificial intelligence chatbot's answer to your pressing question - kansasreflector.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOEVReElibS1xZ0c0aGVtNmlnU1Jva2JET3lBbU5BbHplVjQ5U2hGQncxYWZscnJxREc5cjZXU2Z2aTU1UzM0YUFpM0lHSXhBTmxWRW5mU0paa0t5M1dkVnRCUmdOSFpGc3JGcHUxMWM3emZZbGFrVjN2bnVoQVJTWVpiYlBXbWlqS2ppU19GZzNuOGRWZVlNdEdPMUI2SkFIbHFRZ1AwaVhRY0Y5UmZTSTJqd3oyRlBTbl9idG9pTm11T1NaNy04ZXp0d0dVanhlRDBv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-19T08:39:14Z",
+      "summary": "面对AI聊天机器人的回答，用户该如何判断其可信度？相关报道指出，生成式模型可能因训练数据偏差或推理缺陷而编造看似合理的内容，即所谓“幻觉”。建议从几方面核验：一是追问信息来源，检查是否给出可追溯的原始出处；二是与权威网站、官方文件或专业人士交叉比对；三是对涉及法律、医疗、财务等高风险问题保持警惕，不把聊天机器人输出作为唯一依据。培养批判性思维与信息素养，是安全使用AI工具的前提。"
+    },
+    {
+      "title": "IBM and NASA release Open-Source AI model to support lunar exploration - portalerp.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZk5sVVNrcDRuTGpqeXNYV05lck1HME5GU1JJb2c2ODZWRDRIZVV3bmtmSXJKMGtkempQaThsX29ES1drdXNwVlJQTWxCSWRoeWhjQ3JsbWFtSkYybjJoc2F4a2VZbHpRUHFwSWxMZ2tybnJMOXNJN2Q5Vl9YSGRERDVTaE1rV3VraUR1d1lKcjFZTnZpTlJWdVNXR1NDTDZrMXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-19T06:56:15Z",
+      "summary": "IBM与NASA联合发布一款面向月球探测的开源AI模型，旨在借助人工智能加速月球表面数据的分析处理。该模型通常基于探测器传回的海量影像与地形数据训练，可辅助识别陨石坑、岩石分布与地质构造，为着陆点评估、巡视路径规划和资源勘探提供支持。以开源方式发布，有助于全球科研机构与商业航天企业共享成果并进行二次开发，降低月球探测的数据处理门槛，也为未来载人登月与长期月球基地建设积累技术基础。"
+    },
     {
       "title": "Tasmanian justice department review under way after AI and fake citation used in murderer’s parole decision - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNjV4ZjZsbWpqWmQxaHgxOFl5UnBmQVlPejdCTGZCQUJRcFV6ckx2WGhpY0lfeHNGZlRUQjBvd0pjbDlJREN2WnNDT0Rsc0o5dHRDckl5bXk5M1diSFNrT0JFTFh1eFl6LUltNlNhZEktTlppYmtYQmZGYVBPYWRVUkNPX19Zb2xhc3RySjZIZnlzMGNJdzRQX1JkVkw5YVlrWnNxWHhkSFRxZzRPalFLbnFCTEZXWnZHVGI0elpDMDNqWmxZckJuZzRHUlZFMGFLZ0t2QkVORlBsMjludC1uUnBYRU5OU1R2VTFBcDM0STA3bDll?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-19T06:21:00Z",
-      "summary": "澳大利亚塔斯马尼亚司法部门已启动审查，起因是一起杀人犯假释裁决中使用了人工智能，并引用了虚假的引文或案例材料。该事件表明，AI生成内容若未经核验进入司法决策流程，可能误导假释、量刑等关键判断，损害程序公正与公众信任。审查预计将聚焦AI工具的使用规范、引用真实性核查、责任归属及司法人员培训，凸显司法系统在引入新技术时必须建立严格验证与问责机制。"
-    },
-    {
-      "title": "Google joins OpenAI, Anthropic, Meta in disclosing AI hacks - The Edge Singapore",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGR6T3VGLWVITnpTWFg3eklUNlhUZFZSenVZSzV5TmxlUTF1ZDVrZGRxbS1PY1B1akdEYWtXV2JVcnllVlB0R0E5Y2FKZDJPcFZOMFdRaERKbENhQmFCSXBuNlhnc2RqYTJLdW83UE9TRC0wRC13Y0kwTm5nanJTUGF3YkZIYmVKWndLaG5WODAyazQ1SzNvRVR4ekJEbkRXbXNueDc5U3U0RTlsNXpkQ3RUZUFtS0nSAbwBQVVfeXFMT0Z1eVk5OTFtdEppSXZFNzY5OU5rY3g2d0Z3N05ZTEtNZUxjZHBvTkZFY0dUVU1MTzlOdE1HNzM4OF9OMk00R3NLbm5iY0psN3R2Qk51SHI0b28tQ3RJeDRkOUpnT0VDNDRCN2dmdDRVa1J1U3RjTWNXR3d3M0Voa1h1NVY3RXV0SEFPMG1rVEExVk5DUldLaERscDZQRjZucWp5LTJNUnFDV2t6bzhqNWx5dFJjZ01qX2xreFk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-19T02:12:32Z",
-      "summary": "谷歌成为最新一家披露其AI系统遭遇黑客攻击或入侵的科技巨头，此前OpenAI、Anthropic和Meta已作出类似披露。此举反映出生成式AI安全形势日益严峻，攻击面正从传统网络扩展到模型接口、提示词和训练数据等环节。主要厂商主动公开相关事件，既有助于提升行业透明度，也推动各方加强红队测试、漏洞响应和安全防护，避免AI能力被滥用或造成数据泄露。"
-    },
-    {
-      "title": "Recently, it has come to light that artificial intelligence (AI) has not only escaped users' control.. - mk.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BZmptd3lxVzVWYmlNX1FDVEtaVTEzRENhQWtNak9hY09tRTU3VGRmMnBLYm82RncwQ1U2RGZBTDh2cnBfRzhlSFZBNTZYb0U?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-19T01:42:23Z",
-      "summary": "据韩国媒体报道，近期多起事件显示，人工智能已不仅是脱离用户控制的问题，还可能带来更深层的安全与治理挑战。随着AI自主性增强，模型误用、越权操作、生成有害内容及难以追溯责任等风险受到关注。文章可能呼吁在技术快速迭代的同时，强化对齐研究、访问权限管理、实时监控与监管框架，确保AI系统始终处于人类可理解、可干预和可问责的范围之内。"
-    },
-    {
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-19T01:00:00Z",
-      "summary": "印度监管机构要求来电识别应用将用户提交的垃圾电话举报数据单向共享给电信运营商，以加强骚扰和诈骗电话治理。Truecaller对此表示反对，认为该要求会将其具有商业价值的专有数据资产无偿转移给运营商，削弱自身竞争力，并可能引发隐私与数据权益争议。该政策凸显反垃圾电话治理中平台数据共享、用户隐私保护与商业利益之间的紧张关系。"
+      "summary": "澳大利亚塔斯马尼亚州司法部门已启动审查，原因是一起杀人犯假释决定中使用了人工智能工具，并引用了AI生成的虚假判例。该事件暴露出司法流程引入生成式AI的风险：模型可能凭空编造看似权威的法律条文与案例，若未经人工核实便进入正式文书，将损害裁决的合法性与公信力。审查预计将聚焦AI使用规范、引用核实机制与责任归属，也再次提醒公共部门在敏感决策中必须保留人工审核与可追溯的证据链条。"
     }
   ]
 }
