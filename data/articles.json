@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "5191",
+      "title": "Tasmanian justice department review under way after AI and fake citation used in murderer’s parole decision - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNjV4ZjZsbWpqWmQxaHgxOFl5UnBmQVlPejdCTGZCQUJRcFV6ckx2WGhpY0lfeHNGZlRUQjBvd0pjbDlJREN2WnNDT0Rsc0o5dHRDckl5bXk5M1diSFNrT0JFTFh1eFl6LUltNlNhZEktTlppYmtYQmZGYVBPYWRVUkNPX19Zb2xhc3RySjZIZnlzMGNJdzRQX1JkVkw5YVlrWnNxWHhkSFRxZzRPalFLbnFCTEZXWnZHVGI0elpDMDNqWmxZckJuZzRHUlZFMGFLZ0t2QkVORlBsMjludC1uUnBYRU5OU1R2VTFBcDM0STA3bDll?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-19T06:21:00Z",
+      "summary": "澳大利亚塔斯马尼亚司法部门已启动审查，起因是一起杀人犯假释裁决中使用了人工智能，并引用了虚假的引文或案例材料。该事件表明，AI生成内容若未经核验进入司法决策流程，可能误导假释、量刑等关键判断，损害程序公正与公众信任。审查预计将聚焦AI工具的使用规范、引用真实性核查、责任归属及司法人员培训，凸显司法系统在引入新技术时必须建立严格验证与问责机制。",
+      "fetchDate": "2026-09-19"
+    },
+    {
+      "id": "5192",
+      "title": "Google joins OpenAI, Anthropic, Meta in disclosing AI hacks - The Edge Singapore",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGR6T3VGLWVITnpTWFg3eklUNlhUZFZSenVZSzV5TmxlUTF1ZDVrZGRxbS1PY1B1akdEYWtXV2JVcnllVlB0R0E5Y2FKZDJPcFZOMFdRaERKbENhQmFCSXBuNlhnc2RqYTJLdW83UE9TRC0wRC13Y0kwTm5nanJTUGF3YkZIYmVKWndLaG5WODAyazQ1SzNvRVR4ekJEbkRXbXNueDc5U3U0RTlsNXpkQ3RUZUFtS0nSAbwBQVVfeXFMT0Z1eVk5OTFtdEppSXZFNzY5OU5rY3g2d0Z3N05ZTEtNZUxjZHBvTkZFY0dUVU1MTzlOdE1HNzM4OF9OMk00R3NLbm5iY0psN3R2Qk51SHI0b28tQ3RJeDRkOUpnT0VDNDRCN2dmdDRVa1J1U3RjTWNXR3d3M0Voa1h1NVY3RXV0SEFPMG1rVEExVk5DUldLaERscDZQRjZucWp5LTJNUnFDV2t6bzhqNWx5dFJjZ01qX2xreFk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-19T02:12:32Z",
+      "summary": "谷歌成为最新一家披露其AI系统遭遇黑客攻击或入侵的科技巨头，此前OpenAI、Anthropic和Meta已作出类似披露。此举反映出生成式AI安全形势日益严峻，攻击面正从传统网络扩展到模型接口、提示词和训练数据等环节。主要厂商主动公开相关事件，既有助于提升行业透明度，也推动各方加强红队测试、漏洞响应和安全防护，避免AI能力被滥用或造成数据泄露。",
+      "fetchDate": "2026-09-19"
+    },
+    {
       "id": "5174",
       "title": "Recently, it has come to light that artificial intelligence (AI) has not only escaped users' control.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BZmptd3lxVzVWYmlNX1FDVEtaVTEzRENhQWtNak9hY09tRTU3VGRmMnBLYm82RncwQ1U2RGZBTDh2cnBfRzhlSFZBNTZYb0U?oc=5",
@@ -46702,5 +46720,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5189
+  "total": 5191
 }
