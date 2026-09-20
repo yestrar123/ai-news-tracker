@@ -1,62 +1,48 @@
 {
-  "updatedAt": "2026-09-20 15:02:51 UTC",
-  "totalArticles": 8,
+  "updatedAt": "2026-09-20 19:55:39 UTC",
+  "totalArticles": 6,
   "articles": [
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20T18:56:04Z",
+      "summary": "TechCrunch旗下播客节目Equity就“AI行业是否真的准备好放缓”展开讨论，聚焦于AI企业高管近期频繁公开呼吁对人工智能发展进行风险管控与节奏调整，究竟出于真心还是公关姿态。节目围绕行业竞争压力、商业利益与安全治理之间的张力进行辩论，质疑在资本与市场驱动下，头部公司是否真有动力放慢研发与部署速度。这场讨论折射出AI领域“加速”与“刹车”两种力量的持续博弈，也暴露出行业在自我约束问题上的模糊立场。"
+    },
+    {
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20T18:32:52Z",
+      "summary": "Vocci推出一款轻量化智能戒指，为会议记录场景带来全新的硬件形态。该产品售价249美元，用户可通过戒指完成会议内容的采集与记录，摆脱手机和电脑的束缚，在便携性与使用自由度上具备优势。不过，戒指形态的可穿戴设备天然贴近日常交谈场景，其持续收音与录音能力也引发隐私方面的担忧，例如如何有效提示在场他人、录音数据如何存储与授权等。产品能否在便利性与隐私合规之间取得平衡，将成为决定其市场接受度的关键。"
+    },
+    {
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20T18:00:00Z",
+      "summary": "位于帕洛阿尔托的初创公司ScrollEd希望把教科书变成类似TikTok的信息流。其产品将传统教材内容重构为可上下滑动的类Instagram信息流，融合视频、音频与随堂测验等多媒体形式，以更符合年轻用户习惯的方式呈现知识，提升学习的趣味性与参与度。公司由学生出身的联合创始人Utsav Gupta与Rebecca Neff（两人为夫妻）创办，并在TechCrunch Disrupt大会上进行路演展示。这种“教材短视频化”的思路能否真正提升学习效果，仍有待市场与教学实践验证。"
+    },
+    {
+      "title": "‘Superior’ or ‘Extreme Intelligence’? Trump drops poll to choose new name for AI | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkYxdzlMUW9zc3NMWHQwTkRrcl9MVjMxN1h0elhkaXQ4V2VEak8tcUFUbW1EUnM5cFVaMDA2TlE2MG12VEZNSXh0QnJzdi1xYTFnbHFtSUtCRDg4NFplN1N6WDQxNk5XVDNUMnRWR2FFZlBXdUhja0FkZkdnRWVhVU90SExyUHBlS2d1VW5IS0EtQ3NHU0lNOFZVZ182OXZuNVlMMU9rQ2dvSVlqZ0RhOVdTTjNWS2RTUG8xRG1aTnBnMkJRMHdFNU5jNWdQVGxjdG5jV3NMSkV3cTBxZHFJ0gHkAUFVX3lxTFBrVHdMTllfSG9xTHBhTXVwUkZ6em15ZXR0cE1qVGVoOWN3REhyaTNaek00cGVKUDFwMEU5Rl9EenN3M1ZWRFZ4TGJBQjRyWDFYSzFwVk1PSGdvVWZZM2QtaDlCMHN5NlY3b2RVeWN2QzZJX3RfdUVYbk1qVzE1dEFhbEtwcDR0SUtIRlhHQUlQcFU5OHZBY1A0Sk1SZklYYlFnZkdIOWxNcjFiQlV3LVhrY3BlRVlzeFhNTURPTG9aUVpQc3JibEpvTlYxdkZnV2FWWW9IZmt4OFdWcEVfbFQtUDE1ZA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-20T17:25:32Z",
+      "summary": "围绕人工智能的命名，特朗普发起了一项公众投票，邀请民众在“Superior”（卓越）与“Extreme Intelligence”（极致智能）等选项中为AI挑选新名称。此举以颇具话题性的方式介入人工智能的话语塑造，反映出AI已成为政治与公共讨论的重要议题。不过，更换名称本身并不改变技术的能力边界与治理需求，在缺乏配套政策与监管框架的情况下，命名之争更多具有象征意义和传播价值，而非实质性的技术或治理进展。"
+    },
+    {
+      "title": "Houston, We Have a Problem: Artificial Intelligence Is Becoming Harder to Control - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUVfM241RUxKNE5FblVrN3BRaXN1a2JRS0VHcEpSOWMtRllNdGswcy15T3FjUzJDOE9nQUFuczNGOVhnQXNqYy1NVV9vUzFUVVdnRENIdVpoREpGbHFCbnlQMVhJa09PSFZfOFVrMzJ0R0JFdldmZDFHdFFVejZmelZrRGcxaVdQZ28yUEg0N0s0NjUxVmtCOENGNU1Gb2dkUUdXQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-20T15:51:06Z",
+      "summary": "HackerNoon刊文指出，人工智能正变得越来越难以控制，并以“休斯顿，我们遇到麻烦了”这一经典航天事故呼救语作为标题，强调问题的紧迫性。文章认为，随着模型能力快速提升、自主性与复杂度不断增加，AI系统在行为可预测性、价值对齐与人类监督等方面正面临越来越大的挑战，传统控制手段逐渐力不从心。这一观点呼应了业界对AI安全、可解释性与治理机制的持续担忧，也提醒行业在加速推进能力的同时，必须同步加强安全研究与监管约束。"
+    },
     {
       "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-20T14:00:00Z",
-      "summary": "TechCrunch Disrupt 2026 进入早鸟倒计时，当前票价将在太平洋时间9月25日23:59结束，仅剩6天。大会预计汇聚超过10000名创始人、投资者和科技领袖，是观察AI与前沿科技创业趋势的重要场合。在此之前购票最高可节省200美元。核心信息是提醒从业者把握优惠窗口，提前锁定参会资格，拓展融资、合作与行业交流机会。"
-    },
-    {
-      "title": "AI agentic overload, Yukon style - Yukon News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzSzI2WEFCemxtc2FUaVZYRnFSdHA0blYyZk5qdjJNRHhVekFzOEtJbDFFM25pZXRjZVg4NWlFbTF0YVo4NFpIQ3g2SDk3WGNaMlhVN2ZKS3dKUVI4Vm9YZ3ZZWWw4eE1ELTRxS3EtZmpnT1RL?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-20T13:46:53Z",
-      "summary": "育空新闻以“AI agentic overload, Yukon style”为题，讨论AI智能体快速涌现可能带来的“过载”现象。文章或从育空本地视角观察，智能体在自动化任务、信息处理和决策辅助中的应用加速，使个人与组织面临工具过多、流程重构和治理滞后等压力。核心提醒是，引入AI代理需平衡效率与可控性，建立透明、可审计的人类监督机制。"
-    },
-    {
-      "title": "Berkshire Hathaway's Favorite Artificial Intelligence (AI) Stock Looks Like a Genius Buy Now - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMV9mZnd4RUxjckVleHppWW9CWmZUX1p4TktuX2NWaDB0WmlSWVNkNi1vc19XX2xHMVRPZlQ4bmQyQU9VQkV0VW5SNHpJY21ZeXpwa3BwSnhMZ0U4eFBGMExWdEhlcTU5Yy16andzWU5HZTZIdmM3X3doUGJyS2tPdnBxM2RtTnJXRDJzbEk5Z0FSOWhYbWZZNQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-20T13:30:39Z",
-      "summary": "Motley Fool 撰文称，伯克希尔·哈撒韦偏爱的某只人工智能股票当前看起来是“天才般的买入”机会。文章可能从伯克希尔的价值投资标准出发，分析该公司的AI业务布局、盈利增长、护城河与估值，认为其具备长期配置价值。核心观点是，在AI热潮中，具备稳健基本面和合理价格的标的更值得关注，而非盲目追逐概念，投资者仍需评估风险。"
-    },
-    {
-      "title": "Berkshire Hathaway's Favorite Artificial Intelligence (AI) Stock Looks Like a Genius Buy Now - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNR3JqUlB0RkpROTcwaG0tT0dObkF4TG5tOWJlNlNNWndrRnRldldrZ2loS0tOM0ZweVVHODhfSjl1T1RFY3UtcGFSd1JTU0VCZk10bUdWRER0NE9nYTJMZGR0QndMQXd5d0tOMkYxLXNYZ3BaalMzTUs1TWpsZjRnTXdOT0szcVNsbUZISXRRaDlFWHZNZTlYckFfQjM4WlVZVUdvWGR0RlozbUdjSHBzY2I2RTdxdDdEdDA1OFJ2QjBsNnJzOW05Z3A0Zm5KNU15OWc4blRBQzBkN1lhdUMxNU1FMGxNMWdBOHg0YmZDUnVPOUM5Y1V6UmJrWHFxVjVPT2tWOQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-20T13:15:40Z",
-      "summary": "《环球邮报》刊文指出，伯克希尔·哈撒韦青睐的人工智能股票如今似乎迎来绝佳买点。报道围绕伯克希尔的投资偏好，强调该标的在AI产业链中的竞争地位、现金流与估值优势，并认为其长期回报潜力值得关注。文章传递的信号是，价值投资框架下筛选AI公司，比追逐短期热点更重要；但投资者也应结合自身风险承受能力，审慎决策。"
-    },
-    {
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar - The Annapurna Express",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3b0dsaE84ckdfbThXeHhHTTgwb3RldGtKdHNJbWE4ZUNLRXg2TEFiSjludVZ2YnJtMFllUkF4MW52NW9ocmF2LXhYTWxwWS1oaDNxV0dubw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-20T12:36:31Z",
-      "summary": "据《Annapurna Express》报道，美国前总统特朗普表示，美国将组建“AI Force”（人工智能力量或部队），并任命一名人工智能事务负责人，即所谓“AI沙皇”，以统筹国家层面的AI战略。该举措可能覆盖技术研发、产业竞争、国家安全与监管协调，意在强化美国在AI领域的领导地位。核心信息是，AI正被提升至国家战略与安全议程，未来政策、军事和商业应用之间的互动将更紧密。"
-    },
-    {
-      "title": "Don Wooten: ‘And another thing ...’ AI does not constitute all human thinking - Dispatch Argus",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkF1VVMyWE1keGd1NWpwVzZ3aW5SODVzTS1aZGw4TUZkRzBwS3V5Z2d4NjV6eTNjd0dVb3VMbllkZWJiemJzNmptaGhtTjlrS183ZHYtbk5WOGdRSDNuWU01VU4xRUxQYUZpZzFOVThBZFNOYTVhNHhDOWNJZGsxc05XT1FiN3JJS0dDUWJ3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-20T12:15:00Z",
-      "summary": "Dispatch Argus 刊载 Don Wooten 的评论文章，核心观点是人工智能并不等同于人类全部思维。作者强调，人类拥有情感、直觉、道德判断、创造力和生活经验，这些无法被AI完全复制或替代。文章可能提醒公众，在拥抱AI效率的同时，不应把决策权、判断力和价值选择全部交给机器。其技术要点在于区分计算智能与人类认知，呼吁对AI保持批判性使用和人文审视。"
-    },
-    {
-      "title": "AI is going to change all our lives. Ohio experts explain how - The Columbus Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSkQ2cWU1TnVEeUx3bE1oQTFEdVNvdUw0SzZHMGpsQnpfZGlyZDlrOXU1SjhIeWlYWjZNV3ZMTU5lcE9ndXRnVWl5TzhQMktvYXdqQU1iaEhDeVB2bDlMZ3d0SVVOVHBwT1ZtdGZEdnQxYzhSNUE4cnpwYVRKSVEzZlF3djRhbXpTbDhOX2xka05xVnI0cDlvOG0yTElSQm9RbUktSi1XbXp5TUlSckVFVDl5X21wS0QtbS1lQjlMbzI0TEQ3enN4QTZDX1VHVUY5U0czdGxyeWJ5Zw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-20T10:02:00Z",
-      "summary": "《哥伦布快报》报道，俄亥俄州专家解释AI将如何改变所有人的生活。专家可能从工作、医疗、教育、交通、商业与公共治理等场景切入，指出AI会提升效率、催生新职业，也会带来技能转型、隐私、偏见和就业冲击。文章的核心是，AI影响已从实验室走向日常，个人需提升数字素养，企业需重构流程，政策制定者需平衡创新与风险。"
-    },
-    {
-      "title": "MA Gov. Maura Healey calls for AI guardrails 'before it’s too late' - Cape Cod Times",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkw3d1JGVENxb01nbnBzZnNyWDBTZW9TYmx4UGRVZmNLQ2x3eGJKdjd4OGUzcEo2bXRkdDJuMzVCV0I3WXhMRXV4X3JhODMxbGlKYWlLMl9XYlkyY3NjU3hyRDR5SGNqTThhUmtlUWdGYTdRTGR1azdBYUl2U3R4b0VnQnhwMVhmVVNFc2pkcXY0TXh0V1pFUEV4QzV0TndiOWFTdHF5SmY5cHd3OHM3QlNCTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-20T09:05:00Z",
-      "summary": "据《Cape Cod Times》报道，马萨诸塞州州长莫拉·希利呼吁为人工智能设置“护栏”，强调必须“在为时已晚之前”采取行动。她可能主张在隐私、安全、公平、问责和公共部门使用等方面建立监管框架，防止AI歧视、误用和失控风险，同时不阻碍创新。核心信息是，AI治理需政府、产业和公众共同参与，以负责任方式释放技术红利。"
+      "summary": "TechCrunch Disrupt 2026门票优惠进入倒计时，当前票价将于太平洋时间9月25日23时59分结束，在此之前购票最多可节省200美元。大会预计汇聚超过10000名创始人、投资人和科技行业领袖，是了解前沿技术趋势、拓展人脉与寻找合作机会的重要场合。对于希望在AI创业与投资热潮中抢占先机的从业者而言，剩余6天是锁定优惠价格的最后窗口，有意参会者需及时完成注册，以免错过折扣。"
     }
   ]
 }

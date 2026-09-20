@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "5245",
+      "title": "Is the AI industry really ready to slow down?",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20T18:56:04Z",
+      "summary": "TechCrunch旗下播客节目Equity就“AI行业是否真的准备好放缓”展开讨论，聚焦于AI企业高管近期频繁公开呼吁对人工智能发展进行风险管控与节奏调整，究竟出于真心还是公关姿态。节目围绕行业竞争压力、商业利益与安全治理之间的张力进行辩论，质疑在资本与市场驱动下，头部公司是否真有动力放慢研发与部署速度。这场讨论折射出AI领域“加速”与“刹车”两种力量的持续博弈，也暴露出行业在自我约束问题上的模糊立场。",
+      "fetchDate": "2026-09-20"
+    },
+    {
+      "id": "5246",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20T18:32:52Z",
+      "summary": "Vocci推出一款轻量化智能戒指，为会议记录场景带来全新的硬件形态。该产品售价249美元，用户可通过戒指完成会议内容的采集与记录，摆脱手机和电脑的束缚，在便携性与使用自由度上具备优势。不过，戒指形态的可穿戴设备天然贴近日常交谈场景，其持续收音与录音能力也引发隐私方面的担忧，例如如何有效提示在场他人、录音数据如何存储与授权等。产品能否在便利性与隐私合规之间取得平衡，将成为决定其市场接受度的关键。",
+      "fetchDate": "2026-09-20"
+    },
+    {
+      "id": "5247",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20T18:00:00Z",
+      "summary": "位于帕洛阿尔托的初创公司ScrollEd希望把教科书变成类似TikTok的信息流。其产品将传统教材内容重构为可上下滑动的类Instagram信息流，融合视频、音频与随堂测验等多媒体形式，以更符合年轻用户习惯的方式呈现知识，提升学习的趣味性与参与度。公司由学生出身的联合创始人Utsav Gupta与Rebecca Neff（两人为夫妻）创办，并在TechCrunch Disrupt大会上进行路演展示。这种“教材短视频化”的思路能否真正提升学习效果，仍有待市场与教学实践验证。",
+      "fetchDate": "2026-09-20"
+    },
+    {
+      "id": "5248",
+      "title": "‘Superior’ or ‘Extreme Intelligence’? Trump drops poll to choose new name for AI | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORkYxdzlMUW9zc3NMWHQwTkRrcl9MVjMxN1h0elhkaXQ4V2VEak8tcUFUbW1EUnM5cFVaMDA2TlE2MG12VEZNSXh0QnJzdi1xYTFnbHFtSUtCRDg4NFplN1N6WDQxNk5XVDNUMnRWR2FFZlBXdUhja0FkZkdnRWVhVU90SExyUHBlS2d1VW5IS0EtQ3NHU0lNOFZVZ182OXZuNVlMMU9rQ2dvSVlqZ0RhOVdTTjNWS2RTUG8xRG1aTnBnMkJRMHdFNU5jNWdQVGxjdG5jV3NMSkV3cTBxZHFJ0gHkAUFVX3lxTFBrVHdMTllfSG9xTHBhTXVwUkZ6em15ZXR0cE1qVGVoOWN3REhyaTNaek00cGVKUDFwMEU5Rl9EenN3M1ZWRFZ4TGJBQjRyWDFYSzFwVk1PSGdvVWZZM2QtaDlCMHN5NlY3b2RVeWN2QzZJX3RfdUVYbk1qVzE1dEFhbEtwcDR0SUtIRlhHQUlQcFU5OHZBY1A0Sk1SZklYYlFnZkdIOWxNcjFiQlV3LVhrY3BlRVlzeFhNTURPTG9aUVpQc3JibEpvTlYxdkZnV2FWWW9IZmt4OFdWcEVfbFQtUDE1ZA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-20T17:25:32Z",
+      "summary": "围绕人工智能的命名，特朗普发起了一项公众投票，邀请民众在“Superior”（卓越）与“Extreme Intelligence”（极致智能）等选项中为AI挑选新名称。此举以颇具话题性的方式介入人工智能的话语塑造，反映出AI已成为政治与公共讨论的重要议题。不过，更换名称本身并不改变技术的能力边界与治理需求，在缺乏配套政策与监管框架的情况下，命名之争更多具有象征意义和传播价值，而非实质性的技术或治理进展。",
+      "fetchDate": "2026-09-20"
+    },
+    {
+      "id": "5249",
+      "title": "Houston, We Have a Problem: Artificial Intelligence Is Becoming Harder to Control - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUVfM241RUxKNE5FblVrN3BRaXN1a2JRS0VHcEpSOWMtRllNdGswcy15T3FjUzJDOE9nQUFuczNGOVhnQXNqYy1NVV9vUzFUVVdnRENIdVpoREpGbHFCbnlQMVhJa09PSFZfOFVrMzJ0R0JFdldmZDFHdFFVejZmelZrRGcxaVdQZ28yUEg0N0s0NjUxVmtCOENGNU1Gb2dkUUdXQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-20T15:51:06Z",
+      "summary": "HackerNoon刊文指出，人工智能正变得越来越难以控制，并以“休斯顿，我们遇到麻烦了”这一经典航天事故呼救语作为标题，强调问题的紧迫性。文章认为，随着模型能力快速提升、自主性与复杂度不断增加，AI系统在行为可预测性、价值对齐与人类监督等方面正面临越来越大的挑战，传统控制手段逐渐力不从心。这一观点呼应了业界对AI安全、可解释性与治理机制的持续担忧，也提醒行业在加速推进能力的同时，必须同步加强安全研究与监管约束。",
+      "fetchDate": "2026-09-20"
+    },
+    {
       "id": "5237",
       "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
@@ -47188,5 +47233,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5243
+  "total": 5248
 }
