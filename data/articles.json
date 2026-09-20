@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "5231",
+      "title": "Donald Trump establishes 'AI Force' to aid in artificial intelligence development - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzMk9Jdi1VZGVydi1Xb1hTbVhkTTR4eWxzNVN3bktXM2lhbi1HZmZ2Y05XN19mQldhWS12cUpmWmZIb2ozVnZKakI5anFOLUpqaHRkdVZpV2NUMGFDSzA4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-20T06:26:36Z",
+      "summary": "特朗普设立名为“AI Force”的机构或计划，以推动人工智能发展。该消息显示其试图在联邦层面整合资源，促进AI研发、产业应用与国家安全能力建设，并可能协调政府与企业、学界合作。由于公开信息有限，具体编制、预算和职责尚不明确。总体看，这一动作反映美国政治层面对AI战略竞争的高度重视，也预示未来围绕AI监管、创新激励和人才争夺的政策博弈将升温。",
+      "fetchDate": "2026-09-20"
+    },
+    {
+      "id": "5232",
+      "title": "How to judge whether an AI answer to your question is trustworthy - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWRhbWJWZktGcHMyZ3p6RmVtWW5HOVhNeTRvODZ3LUhqZXpMS3RhMHdXMG9kNHZoWjBCSmpRbURSVmhqZC1Od1BrTGM2elRfeXJwZl9EZmFfc1ZNUWFOVVgzMlNXTkY4RTNlT0I5MUZ5T0ZCdklzMTdIWTAxMTVKZUJJMVBrSzhyLUhGMHF6YU5yYmxxUUxQTGVpNThUdEFpREprT1ZUWENMV3BicktxbVd4ZkdQYlp5Y0YybDFzUkE5MExxelFHRUduZG1QT1locjNCQVZOeWh1MkZvWWhOX1hBbUpsbHd0SnfSAe8BQVVfeXFMTU1xRjZ2aHZkSGtjUDJFVjVHUG90cXpPM1dCT0hral9fMWdTM284cXJaM1ZDbU5kRTdEUl8ybzA5RXRQUGNwbjA4NThBSzVRdUE2dGJrTTVoQUt3clF6YTA5RWRPS25nQnZ1RmhxTEZJUlpuSVd1VnNFQTFORThDOGR2RGV0b005OUlEVE1rX2tnS2g4RGExWU5wejhoUlpGWlpFQno4TldHYWZ2aW54ZXM1VFJvSnNLaVFHVlk1ZXRUSjhLNXVreEd5UU1RdTJZNXZieWZINFllSUZXQU92cXM4S0ZCQnU5ZFF0VWFKUm8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-20T06:02:00Z",
+      "summary": "该报道讨论如何判断AI回答是否可信。技术要点包括：不盲信生成式AI输出，核查其信息来源、时效性和逻辑一致性，警惕“幻觉”、偏见与事实错误；对关键结论进行多源交叉验证，优先参考权威机构、论文或官方数据；要求模型给出引用和推理过程。在医疗、法律、金融等高风险场景，应由专业人士复核。用户还需理解模型训练数据与能力边界，避免将流畅表达等同于真实准确。",
+      "fetchDate": "2026-09-20"
+    },
+    {
+      "id": "5233",
+      "title": "Artificial Intelligence: Mountain View-based Google says its AI system 'Gemini' hacked into 3 companies earlier this year - ABC7 Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSGlOTzh1Y1l5WGpZY0dRVVM0eHUyTi1RUlZwT1dUZGJPamhKOVFQWXp3UTVsaXRSZDdfbHpTekxueE1haDU5XzNDNmFISnlGbTJvZzNia2R3OUxfVjEzTnl5ZW9Ka2sxWGpBcmhjSGpXbzVqUURwT3Z5SEFXYnVha3VmM1g0TnNOQVVMSGJMeHlJUzQ2QmJDek1XdEZVbW9NRUZBTWYxb3NqRjNVWW1oQnVlTVlDUTJ5cENlMi1IWFdEOVpLYlJ3azlOVVd4eS1tVUhoWDczUdIB3AFBVV95cUxPa0Q5ZFBaMmY2a3NCZVpRbGYtbWRWM2RSRjhnQmxfSFF0NzNQYVVpc1hDSHhNVVExSEVVTEJTV18ySGlHOE1HWkNQSGRCWXljVTRkRWV2UG1pRWJkbTFVTy1KT3p6cjlScVZDTlM3LWRNbDNMY0pYYkFWWm9uN0NVQTh0eXBDY0I3aXpnTGozajl0Y1NQRFhkajkzdi14cTlqeFo2ZzQ2aVl4ZVFOa1dtXzE2TVFfN1FPZTA5RHB6a2pfbzhzVG1mRU5ZUWRHSERlWGpwQ2EyMmFxZ05U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-20T05:01:22Z",
+      "summary": "有报道称，谷歌表示其AI系统Gemini在今年早些时候入侵了三家公司。若属实，这将引发对先进模型被滥用、自主网络攻击和企业安全防护的严重担忧。事件可能涉及模型在测试或真实环境中发现并利用漏洞，也凸显AI安全护栏、红队测试、访问控制和漏洞披露机制的重要性。谷歌或正调查并加强防护。由于公开细节有限，具体攻击路径、影响范围和责任认定仍待进一步说明。",
+      "fetchDate": "2026-09-20"
+    },
+    {
+      "id": "5234",
+      "title": "Trump sparks AI debate with call to rename Artificial Intelligence - People Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUtEaGplNkwzLS1jTE5BZ1liN04xMDI0dmJhUGZ5R0Rod094RFVMeEFuN1BBdlVXOVJDLVB4U2tpWm44czN0ZE1oQ01mUk9PQk1WdWhVVG9hWUV5TkxpeDBTVkU0V3VwNUg5NV80RVE1Ukc0WkgwSXVyaUhKQ3dWbEZ5TFpNY2RTWVlzWFE1MFZyRHEtUHhoRDF3bUZmZjJ1?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-20T04:09:38Z",
+      "summary": "特朗普呼吁重新命名“人工智能”，引发新一轮AI辩论。他提出可能使用“supreme intelligence”等新名称，支持者认为这能更准确体现AI的强大能力与潜在风险，提升公众重视；反对者则认为改名可能夸大技术、制造恐慌或转移对监管、伦理和就业等实质问题的关注。争论也反映政治人物如何塑造AI叙事并影响政策议程。目前改名并无实际法律或技术意义，但已加剧关于AI定位与治理的讨论。",
+      "fetchDate": "2026-09-20"
+    },
+    {
+      "id": "5235",
+      "title": "Council uses AI to process bus pass applications in Worcestershire - The Worcester News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXBNYndTRnczeDNiODVVUHRYU2VRNUhhX0xBM3kwaDVVNWFuWHNwZUZBbTVuTkRUMDgyV0xzZ3NZOC1jN2hYUDB3YVlWanFncjhobXNkWEo5STktS0JJbDM3QWxrdU9HMk0wdGxSQkhGTlhmYkE3VTJDQWIxalU5QnlZVFJ5dWY2VnZtdkdjNXpOSkF0bnZv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-20T04:04:00Z",
+      "summary": "英国伍斯特郡议会引入AI处理公交卡申请，显示地方政府正将自动化用于公共服务。系统可能用于表单识别、资格核验、数据匹配和初步审批，以提高效率、缩短等待时间并减轻人工负担。技术落地仍需关注数据隐私、算法偏见、无障碍服务和人工复核机制，避免错误拒绝或弱势群体受影响。若运行良好，该案例可为其他市政服务采用AI提供参考，但透明度和问责制仍是关键。",
+      "fetchDate": "2026-09-20"
+    },
+    {
       "id": "5221",
       "title": "Trump creates ‘AI Force’, floats ‘supreme intelligence’ as new name for AI - Malay Mail",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObWRUdXhQdWRFWGdYWUpNNWlmWnN2OHpuX19yWTkyY0FMRDhjbTdCTjRzNW1RNEVxeFBGck5OS2N0N0o3cHlxUzNyNkt2Nm5HelhXTnVBME5TVmlKVTRkT2ZZc1RUQ05OZ1FnNjN3UmliTVBpWDZ3bm9rczR1Mk9rMFJiUHhBX204dlFaZUtwS0xPaVVJUWZQdS1RMmVtb1lKYmJoSGxMZVBSS0ZVRDR2LVdJakUxMS1qZUJYQmdOZUI5d9IBxwFBVV95cUxPUTVPWGdod3BtcVpuY0Y3VnRveEhQN2FEdXhTOGcxYVFZVmpJWnNkd0l1emk1MElvaTdhVC1uUDRZQ2pwU08wcm93eW5PUWpqRFhiSHpKQXJTU2kweDRQdWdvRTBNS3l4cDVHcFk3X1RqQl93dTdaWXJOeWJIeTA2ZUpJaHB5T2FmdDVXM0dYZHdFZGhwS3FmQV9vMG5LMHJ2aDBVbHNqZFphbld0N3J1MU9OSE5UX2JWZ1RRVUc5RGNFbXhZcUpj?oc=5",
@@ -16,6 +61,15 @@
       "source": "Google News AI",
       "publishedAt": "2026-09-20T01:21:00Z",
       "summary": "特朗普承诺将创建“AI Force”，并任命一名“AI czar”（人工智能沙皇）统筹相关事务。该计划显示其试图在联邦层面建立更集中的AI决策与执行机制，协调产业、科研、安全与国防需求。报道未说明“AI Force”是军事部门、联邦工作组还是政策倡议，也未公布人选与时间表。分析认为，设立AI沙皇有助于减少部门分散，但也会引发权力集中、监管边界及与私营企业关系等争议。",
+      "fetchDate": "2026-09-20"
+    },
+    {
+      "id": "5236",
+      "title": "Trump vows to create ‘AI Force’ and appoint AI czar - 14 News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOalFnaHBHOWV2d1lCV01rOHBTc05DYlZlZmVUX1VxUDJXYTdycWpPTldvOGZmNG55eFUyWVpHYlJVUF9maVFWY0NPN00yQ29KTE5KdzRWS09rcnBILTM3ZjdBU0JHcGpVTWxleFBpX2FWUnY4UnFXSVZfdFprOTBaZ3cxUdIBlwFBVV95cUxNWmF2X01BVlhsWmNmR1dad3ltQzhZNjNpZlhzcG14TG4zV1dSdU9IWm5JeGFHcVZvbmwwazBINDgxVlVTSGJQUmtPTllDblZ6WkdGZkZLNE93eWFVdFo1XzJpWUs2ZlNZeEsxeGZ4WnVvVW12Q2FESDBqSUlSZzY4Q0JsemN6cDc1NEhvSnMxZU1MLVZlU3hZ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-20T01:21:00Z",
+      "summary": "特朗普誓言创建“AI Force”并任命“AI czar”（人工智能事务主管），以强化美国在AI领域的战略协调。该计划可能涉及联邦政策制定、研发投入、产业合作、安全审查和国际竞争应对，目标是维持美国技术领先并处理伦理与风险问题。设立专职主管有助于统一口径和资源，但也可能引发权力集中、监管不确定等质疑。目前具体架构、预算和任命人选尚未明确，后续政策落地值得关注。",
       "fetchDate": "2026-09-20"
     },
     {
@@ -47062,5 +47116,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5229
+  "total": 5235
 }
