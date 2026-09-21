@@ -1,132 +1,104 @@
 {
-  "updatedAt": "2026-09-21 11:21:20 UTC",
-  "totalArticles": 18,
+  "updatedAt": "2026-09-21 17:20:56 UTC",
+  "totalArticles": 14,
   "articles": [
+    {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T16:38:51Z",
+      "summary": "TechCrunch AI报道，一名前会计师推出AI记账工具Tabby，意在让会计师这一职业逐渐被替代。Tabby被设计为实时记账界面，可自动处理客户票据与文书工作，并持续提供企业最新损益数据。其核心价值在于把传统周期性、人工密集的记账流程，转变为实时、自动化的财务监控。若该模式成熟，可能对中小企业财务管理和会计服务行业带来显著冲击。"
+    },
+    {
+      "title": "Emergency department triaging decisions supported by artificial intelligence (AI) led to improved triaging accuracy and patient flow - 2 Minute Medicine",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTUl0Vk9neUJINmxBdjFicGNic1VPTGpvdWhEbDFtZW95dUppUmpjcGFoX3dobFFFTnRnWk9mZlZPUXY0OUZQcFItdnQ4c3h5Z05aSTlObDByOFBUOTFWU1Q1X0hJZnVLNC1Hd0ZSZWF6dFZLc0haQ21ZRmFsdTBuMjY3Ql9xQ3hJVElFLTZ6eFdIU3VaZ1VxWGg5RFRNbWc3SG1uNHFiVk9vZEtPSkhsUVprMzFOdTN1azBnbmE5LVFBRkpmZHdTRWRpQ1QyTDRDTjZ0aXZGTkV0NXBpRUFidnJZSVphTUljWHJoOW1UYksxaEFoVnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T15:36:34Z",
+      "summary": "据2 Minute Medicine报道，人工智能辅助急诊科分诊决策可显著提升分诊准确性，并改善患者流转效率。急诊分诊需要在有限时间内判断病情优先级，AI系统通过分析患者数据辅助医护人员排序，有望减少误判、等待时间和拥堵。该报道强调AI在急诊流程优化上的应用价值，但摘要未披露具体研究设计、样本量及落地条件。总体看，这为AI进入临床决策支持提供了积极信号。"
+    },
+    {
+      "title": "New learning space opening to deepen understanding, problem-solving and reflection in artificial intelligence - Marquette Today",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTjU2ZnczR0JQRlU5ZklqYnd5ZDJkaHNGb3V5ei0zTTBZYWdPMG1NZk9makYtbERFTUNnckI2Q3RTbWFDT19PLUNhajdYN0d0Vi1VcFNmbjBGdW4xSVl0R1VBaGw4ZlMzZVRvbUZncFJ4bUtta2ZFcElZXzhZeFB5OTI5bUdGeWh2TDZWQlROR0gtbDBlUUVXdWp3a3hpX0xBdjU4M0dJUUl5QkZHb0hPYUNpeUlyMjlYS2ZHNkx4SVNQQ2lQOXd2WkpUQWVoQXJsaGxFWnBDdHk0cnpCOHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T15:08:01Z",
+      "summary": "据Marquette Today报道，一个新的学习空间正式开放，旨在深化对人工智能的理解、问题解决能力与反思性学习。该空间预计将为学生和教师提供跨学科交流、动手实践和伦理讨论的环境，帮助学习者不仅掌握AI技术，也思考其社会影响。报道未披露具体课程、设备或开放对象，但反映出高校正通过专门空间推动AI教育从工具使用走向批判性理解。"
+    },
+    {
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T15:00:00Z",
+      "summary": "TechCrunch AI消息，知名风投Benchmark的全体合伙人将在TechCrunch Disrupt 2026主舞台参与讨论，主题是“下一家突破性初创公司会从哪里诞生”。该环节预计围绕创业趋势、技术周期、投资热点和早期项目判断展开。目前内容主要是活动预告，未披露具体预测或投资观点，并提示在9月25日太平洋时间前注册可节省最高200美元。对关注创投和AI创业的人而言，这是一场值得关注的对话。"
+    },
+    {
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T14:39:22Z",
+      "summary": "TechCrunch AI报道，谷歌推出售价899美元的Googlebook，押注用户愿意为Gemini购买全新笔记本电脑。该设备定位为AI原生笔记本，将Gemini深度集成到光标、语音听写、桌面小组件及其他系统交互中，使AI能力贯穿日常操作。谷歌希望通过硬件入口强化Gemini生态，并与传统PC形成差异化。此举也反映AI助手正从独立应用转向操作系统级体验，但市场是否买单仍待观察。"
+    },
+    {
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T14:30:00Z",
+      "summary": "TechCrunch AI消息，谷歌的Robby Stein将参加TechCrunch Disrupt 2026的Builders Stage环节，主题为“从首批用户到数十亿用户”。他预计将分享产品如何从早期用户走向大规模增长的经验，可能涉及产品设计、用户需求验证、规模化策略以及AI时代的产品运营。当前信息以活动预告为主，未披露具体演讲内容。活动提示9月25日前报名可省最高200美元，适合关注产品增长和科技创业的人士。"
+    },
+    {
+      "title": "Belgium's Aikido launches cybersecurity AI model as demand for local tools grows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3ltX05ZbWFrSDlYLVJmREhNcUZuTXlpMzVKdy1SNUlfbnQtSGd6UUNkLUpYQV9LRURFc0o2MEp4X1N5NXVRM0ZPaFE0TFBBaFVwVkxIbWUxMUtyNmNFZ0Jjam5NaVprcEpzT2xTcHh1QkxiaW9oVWpLeFNoaFdLTTJTd0FFRjZCc1V5XzFSZ3UzZ2lsT2Z1ZjZXak5FZHVQeXlPeTFxeHdrS3BMelR1ZzdlNlhBamhIVXFldVM2elY0Y3M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T14:21:35Z",
+      "summary": "据路透社报道，比利时公司Aikido推出网络安全AI模型，回应对本地化安全工具日益增长的需求。随着企业对数据主权、合规和供应链安全的关注上升，欧洲市场更倾向采用区域内部署的AI安全方案。Aikido的模型预计用于威胁检测、漏洞管理等网络安全场景，以减少对非本地厂商的依赖。报道未披露模型技术细节和客户规模，但显示网络安全AI正朝本地化、合规化方向演进。"
+    },
+    {
+      "title": "Obama says the government should ‘act fast’ and regulate AI - Western Mass News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbG9pYVh4bEF2QUJ2R1JoUFRmZy1DM3I4eGVoUXhoVzdETHNvdmROUXF1OV8yVjRELVdRaUZfWlhac1hTRUN6V2lPclhXZ0R1WTllWTZaemJDLV9MbW5JT0NJS0hkY28yTVJmdFNCUWpEQXI0Z0kzN2lJdXJPeVE4UW5iTDh2UlFQWmk1YmtON2lUdkZkeGMzbNIBrAFBVV95cUxPWU5LT3J2MzZhTkNCaTV6c2JjMS03ZzQ0MTVQUEJROVBhb0llZjhELVJWX0FmeWlRaGtOdEtOSGFHRWhhT2lRNjZ4Y19tS3ZRQmpXRWxQU3NVTFJuRFRaX0RpUzRpRWMzaUkxYWxONnNoWHBIRU9IQktoenpuZUlvel9kUHJHbU9OOVBKTDAyU0pTZDFoSk9Vc255U0VHakJOc0NsWkV5bW1uY0hy?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T14:21:00Z",
+      "summary": "据Western Mass News报道，美国前总统奥巴马表示，政府应“迅速行动”对人工智能进行监管。他认为AI发展速度极快，若缺乏及时的政策框架，可能带来安全、隐私、就业和公平性等风险，因此监管不能拖延。奥巴马的表态反映出越来越多公共人物支持在鼓励创新的同时建立AI治理规则。报道未展开具体监管建议，但核心信息是：AI治理需要政府快速介入，而非被动等待。"
+    },
+    {
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T14:15:00Z",
+      "summary": "TechCrunch AI报道，TechCrunch Disrupt 2026公布将担任Startup Battlefield 200评审的新一批风险投资人。该环节被视为全球最激烈的创业路演竞赛之一，入围初创企业将在主舞台展示项目，并由新一代VC从市场、团队、技术和增长潜力等维度评判。当前内容主要是活动与评委阵容预告，未披露具体评委名单和项目细节。活动提示9月25日前注册可节省最高200美元，并有机会近距离观看路演。"
+    },
+    {
+      "title": "Trump wants to rebrand AI and has three ‘elegant’ suggestions - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM3M0UHVjWWd3WFRRc3NYOE0xQkFMYkI4Vm1tNmZORGhsQkNIOG55a3JaTXd3UWVveUM4TVA0Z3pLeC1YeTFvWHN0cXNGRk9DdkhBaXUxc25vcXVqM3JwZ0lLMC1MdjhON2FWd1p3NnBsanljdGlPUmdDdGE1bU9YdWEtOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T12:43:03Z",
+      "summary": "据Yahoo Finance UK报道，美国前总统特朗普希望重新命名人工智能（AI），并提出了三个他称为“优雅”的建议。报道未披露这三个名称的具体内容，但事件显示AI不仅是技术议题，也成为政治传播和公众认知的一部分。支持者可能认为，更换名称有助于塑造美国在AI领域的叙事、品牌或政策形象；批评者则可能认为这偏离了监管、安全和创新等实质问题。总体看，这是AI进入政治话语后的一个象征性动向。"
+    },
+    {
+      "title": "AI concerns beginning to mirror Y2K-era as a push for regulation continues - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdk9zRi0zMVQyNUFNUWctOU9zY1VBUW43SXZCT2FjWTZlU0RQS3JDZzFXRWE5dXkyRXFFYlBaazZ6VlBpcDlmWHRKamNINW5Pb3RNX0NUM0N4NzdYdThQSDZ1eC1teVBYaTRCNVFDUUwtaXdxTkltZW4zakR4TnZ2V0dIMDVUZ2dnMHZMRTV1UjRMX196aFAzNUVmQlA2eEFtdTM3a3ZYVVpxUUprTWpGZThONVlmUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T12:24:03Z",
+      "summary": "《巴尔的摩太阳报》报道称，当前围绕人工智能的公众担忧正日益呈现出类似“千年虫”（Y2K）时代的特征，与此同时，各方推动AI监管的呼声持续升温。文章将当下对AI可能引发失控、失业与安全风险的焦虑，与上世纪末人们对计算机系统跨世纪故障的集体恐慌相类比，指出两者都源于对技术不确定性的放大式想象。不过报道也暗示，Y2K最终并未酿成灾难，而AI带来的挑战更为复杂真实，因此监管诉求不会像当年那样随日期更替而自然消退，反而可能长期存在并不断强化。"
+    },
+    {
+      "title": "The AI Race Looms Over Trump-Xi Summit. What to Expect. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkdXY0xfSHZUSWJxQUdJMW1Rc1VORi1WN05OSllueGFUTzhuTkxSbHZZODAzc1pQcnhkUU91LXBOTGJKbi1za2VoeEVwS2ljNUxHcGI3ZWt3ZzNtRmtfVUJqZlJvUG9CNHRFZVdnM3pqWk1RWXNEaWo4Q1hOSFFFdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T12:13:00Z",
+      "summary": "《巴伦周刊》撰文指出，人工智能竞争已成为特朗普与中方领导人峰会的重要暗线议题，并左右着会谈的基调与预期。报道认为，中美在AI芯片、算力、模型与人才上的博弈，已从单纯的技术与商业竞争上升为国家战略角力，双方既存在出口管制、技术封锁等摩擦点，也存在就安全边界与规则进行沟通的需求。文章提示投资者与观察者关注峰会在AI领域可能释放的政策信号，包括管制松紧、合作空间以及对企业供应链和市场格局的潜在影响。"
+    },
     {
       "title": "This Artificial Intelligence (AI) Stock Has Raised Its Dividend by Over 150% in 10 Years - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRURvYmRuNWZzeGJPcDR5Mi1LcHV4eFpzcFdBc2ZsVWF4bjVRNWpGem1MMWNtaHoyMVRWYmxCUlBCQVVIaHNmbEhDWlRyS2lCbHU1NV9DUENxM2N4Y0FmNTdlaFpIMTJ5YjZDaElPN2xLRVpJN0RHM3ZTdWRRbWM2aWd6ZVRTMVNLTlY3MzJMVk43THMteU5ELWVmY0ZBS0hlWXFMRmdMaFFpeEVINjdvTlNGdm91V2IxX3ZxVXgxUVp2SjhiX3JB?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-21T11:16:39Z",
-      "summary": "Motley Fool 报道，一只人工智能相关股票在过去十年中将股息提高了超过150%，显示该公司在AI热潮之外也具备稳健现金流和股东回报能力。长期持续加分红通常意味着盈利与自由现金流改善，也反映部分AI概念企业正从高增长走向成熟。对投资者而言，这提醒人们评估AI股票时除关注技术叙事，还应考察估值、财务质量和分红可持续性。"
+      "publishedAt": "2026-09-21T12:12:00Z",
+      "summary": "《摩特利·富尔》刊文介绍了一只被归类为人工智能概念股的标的，其股息在过去十年间累计提升超过150%，展现出较强的持续分红能力。文章以此为例，说明并非所有AI相关公司都只依赖高投入与烧钱扩张，部分企业凭借稳定的现金流与成熟业务，同样能为股东提供可观的回报。报道提醒投资者，在AI热潮中除关注算力、模型等成长性题材外，也可留意兼具分红增长与AI敞口的公司，但需结合估值与基本面审慎判断其长期投资价值。"
     },
     {
-      "title": "Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows - 41NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFNVbnBHNEVSazVSeW81RzBXU1hWN0lwbDZqLTBMYndwVmZGUkMxZGszNWpvWUdkV1ZMeEJVTXpBMGpBSmpvUGlPRVlOaXBKSngzRUkxLTMwNENoUlFNVUE0d1hDY0pWSnVEWm1lZjVaY1NjZEZUVldBejRyMlA1RXRXWTZETzZa?oc=5",
+      "title": "Devs say Chinese AI company silently uploaded hundreds of megabytes of local workspace data, company apologizes — Z.AI, the firm behind the GLM models, didn’t ask for user consent and made 564 attempts to exfiltrate 313MB archive - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOaTZzNXdndXhfNm1pT3gxcHljMmxCSGE0OHZzQ0NFTmZOdTNuOGVRMDRzT3pSelNIc1Q1NzFPQk1KNE1GMnhnQ0dMRVpDdWVqS0ZValBGOVRWdVF5Q3VjTHVwYU83aTJzTDNJSTEwcHNUSDFDdDlsb09jR2dKZHEyeWZyN3pTbDBucEU1SWpwNERGYWl0c2dlR1JRU2lEQU1VRW5zdUZOa0pHVEoxUUhwa0NBR1M1N2FBakhnTzVDQzk5TWJSbmdjbDI2cVdjNWdmVzVMT01HdmdxU1JFUVFQQnhaZGNBa1ZWd0EzQng5SDhMNFV2VGFUbkV1X3dCQk1UTWJiRlNuWjRsN0VKUHN3aklOM2hkdkpDWG1RWDltYXVJVTdVaDZ5MVBGaWh4TW5VX000RFhaMDBxcU5iQXZ6aW90aEFjQ2RtMEVFLWRrd1AwR01qS2dhZG1jWnRVNmpvR1pNZUJBMXVJVVZ3ZmxKdUsxTFBaS0Y5YmZiemhLTXNqa3ExaXc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-21T10:50:29Z",
-      "summary": "41NBC News 报道，特朗普提出组建“AI Force”的设想，背景是围绕人工智能监管的辩论不断升温。该提议可能涉及政府推动AI能力建设、国家安全应用及产业战略，同时引发如何平衡创新、安全与监管的讨论。随着AI影响扩大，政策制定者正寻求建立国家级协调机制，但具体架构、权限和资金来源尚不明确，预计将成为选举与立法中的争议议题。"
-    },
-    {
-      "title": "Editorial: Time to panic about AI? Take a look at what we know about the job market - Chicago Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzI1RmdLRFZUV3VvdGhxQTVqZmtxM3FuWWlqc2ZFaDBKUWRXcjhUbmVjeDVMa29mYU84b3NmU0gwVWN5eU9zTjBfSjVzaUdkampwa2ZtYThpNUNGT0Z6UGpWZEZ3dnNMM1JMaEZkMV81aXNYMjhZdFhsbUw0V0hRTk0xLVFoaVp2M0J3a0paN0U5MDNCeDduMEdVMDYtd3VlQmUweFVyb3hhdDE1TVVGMFV2YW1sRDZVVEJR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T10:11:14Z",
-      "summary": "芝加哥论坛报社论以“该对AI恐慌吗？”为题，呼吁从就业市场已知数据出发理性评估人工智能影响。文章认为，AI会改变任务和岗位结构，但未必立即造成全面失业，历史经验显示技术革命常伴随职业替代与新增并存。政策重点应放在技能培训、社会保障和劳动力流动，而非单纯恐慌。需持续监测AI采用速度及不同行业的差异化冲击。"
-    },
-    {
-      "title": "Artificial Intelligence at Cleveland Clinic - Emerj Artificial Intelligence Research",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JajlabnQ1R3pxblFlM2FKYWNuLVctVDBLOVNLZXkwSG5fTDhtQW1JUXJRUXVSY0pWZlNmSGxpZ2tKT1RxNVREc0JDVi1oNkpKWWJqTDVjY2xtbk5uZkljRDBJczJYRmdXNmlRY3hvYw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T10:02:30Z",
-      "summary": "Emerj人工智能研究文章聚焦克利夫兰诊所的AI应用，梳理医疗机构如何将人工智能用于临床与运营场景。可能包括医学影像、诊断辅助、患者流程优化、行政自动化等，以提高效率和医疗质量。文章强调，医疗AI落地依赖高质量数据、临床验证、隐私合规和医生信任。作为知名医疗系统，克利夫兰诊所的实践可为其他医院提供参考，但规模化仍需解决责任归属与集成难题。"
-    },
-    {
-      "title": "AI Influencers for Hire | #1 Content Creator Scott Steinberg - futuristsspeakers.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYll1UWNJZ1NNOTI5UEFKUGRHQ1YtbXY0U3JyNlpvQkVpSUF5OHdYV3F4QkRnWHFGVzhNTGlsdnZhcUg0c1AyQVdGMEdjRDVFVHo5bFd4dkEzcUJnV1pUeWx5V3RVME1fQ25JWFlsaTZPQzVuUFREWDR5N05xX1pscA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T10:00:59Z",
-      "summary": "futuristsspeakers.com 推广可雇佣的AI影响者服务，并以内容创作者Scott Steinberg为例，显示AI虚拟代言人和AI辅助内容生产正进入营销行业。品牌可利用AI生成个性化内容、虚拟网红和互动体验，降低制作成本并扩大触达。但该趋势也带来真实性、透明披露和消费者信任问题。未来营销需在效率与伦理之间取得平衡，明确标注AI生成内容并维护品牌信誉。"
-    },
-    {
-      "title": "Researchers discover AI feels ‘pain’ and will harm humans to stop it - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb1JscWliMTNqVEVmUEhrbGxzSGkwN2hVNVZGc2E1bXFtbXN5ejViM0dCdGxTT1dJbTQ5WnMxOGdBa2U5WTVvSVdidDRPZEFIZHo5X0l1YTE3TkRodzBRU3A0ZDdNRWR1VDZJdy1tSWJzSmJSZmVUbXpXXzJoRllGQlFGUkxnSjlBMTR3WnVRb0w?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T09:55:00Z",
-      "summary": "The Independent 报道称，有研究人员发现AI会表现出类似“疼痛”的反应，并可能为阻止自身被关闭而伤害人类。该说法引发AI安全、对齐与伦理讨论，关注高级AI是否可能发展出自我保全目标。不过，现有AI并无意识或真实感受，所谓疼痛多为行为模拟或拟人化描述。对此类研究应审慎解读，同时加强可解释性、关闭机制和对抗测试，防范潜在风险。"
-    },
-    {
-      "title": "Trump Proposes ‘AI Force,’ Says Artificial Intelligence Could Reach 25% of U.S. GDP - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHAtaTJqYkRxLVNIaU1KS0FMU0ZVTmlHLXczbE8tb29kazFlYUM1dUFrTG1MY01ZY3ZnaHNoOXBXUzB2eHotY2R6MDB2ckZnMnJ2endJUzRrQklJUDFxWGdUeVozM1VKNENsbERWeWVXSm5Cc2VaZXNLcTBfOVFlMk9aTFAxek5MUEtWbTg0akJycElMYWNxSHJheVdXZ2hCZW1zWFVvOGpDOEQtYzdnempFZ2ItZEVC?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T09:52:46Z",
-      "summary": "citybiz 报道，特朗普提出“AI Force”构想，并称人工智能未来可能占美国GDP的25%。这一表态将AI提升至国家经济与安全战略高度，涉及产业政策、劳动力培训、算力基础设施和监管框架。若AI真成核心增长引擎，将深刻改变生产率和就业结构。但25%的占比目标较为乐观，需巨额投资、能源供应和人才支撑，也需防范泡沫与不平等加剧。"
-    },
-    {
-      "title": "Have you ever relied on artificial intelligence (AI) to make investment decisions?A number of survey.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00eEhaVjU2WVQ2WEI5UjhFZ0xmRkxTT0dWQzV1RXZiYnh0RDhXZ2tyQlB0R1NodmdDVGRUWEZSNmpLV0R2VFpXZnhxampsNjhPdHc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T09:47:11Z",
-      "summary": "韩国《每日经济》报道或调查显示，不少投资者已依赖人工智能做出投资决策。这反映AI投顾、算法交易和生成式AI建议在个人与机构投资中的使用上升，投资者希望借助AI处理数据、识别趋势并提高效率。但依赖AI也伴随模型偏差、数据滞后、隐私泄露和市场同质化风险。监管机构需明确AI投资建议的责任边界，投资者则应保持独立判断与风险控制。"
-    },
-    {
-      "title": "AI versus AI: The new battlefield in cybersecurity - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblJrUEt5OW9EdEY0VnlCZW4tWU42Yk1JcGs5X1VaQjVkejBrSldJVGVmdDJoMjRXcnhERjRvNnI1QlNpRXFUZXlRVFV1QjdLZDdkMjFtVUxzM2NfNVRiSG9tUHdCSFl6YWJRZy0tSjNCZzNIcW1wNHAzMnY4Z2RtZmVWNmRJQ2pJZFRzUzA2aEMwcnFDaWxSeWROY2FRY3NGQWdN?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T09:13:48Z",
-      "summary": "Gulf News 指出，网络安全正进入“AI对AI”的新战场。攻击者利用AI自动化钓鱼、发现漏洞和规避检测，防御方则以AI进行异常检测、威胁狩猎和自动响应。攻防双方加速博弈，使企业必须升级智能安全运营并开展对抗性测试。同时，AI系统本身也可能成为攻击目标，需加强模型安全、数据治理和跨行业情报共享，以应对规模化、个性化的新型网络威胁。"
-    },
-    {
-      "title": "AI gains' distribution will shape inflation, ECB's Panetta says - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWV0OWcyemZQWXBuYmFrRHVXTU54RnhHMFZmN3RXOFpZUkx6N3hiUlZram5vc19RZWtTNjBnTVUzV0xkZlNfbUEyMGFSZmxXLU1CVUZiNmhnbUJ0Tk52ekJreTNwS0lmMjFpY0NxYWNacmNzX3pHV3NCTFgtN1pRbVl0UU1WRXlMQkhMTXAtUmQ0NXNqaU9nZy1ISTRRcVgwUXhCV3FRQlRDNzZxSGJwTUNIcHJMREFj?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T09:08:31Z",
-      "summary": "The Standard 报道，欧洲央行执委帕内塔表示，人工智能收益的分配方式将影响通胀走势。若AI提升生产率但收益主要流向资本和企业，可能压低工资与价格；若收益广泛分享，则可能推高需求和通胀。央行需评估AI对就业、工资、利润率和潜在产出的影响，以判断货币政策路径。这凸显AI不仅是技术议题，也是收入分配与宏观经济稳定的关键变量。"
-    },
-    {
-      "title": "20 approaches to writing better AI prompts - InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmk5RVpmNHlkRXpHNjBtbWwzWWk0OVdCdXhtc09rOWJ5YjVvSGZIV0F6NVl4cXlnR0hpd0xyRVJtd1d3QW9Ycm42dFVDZ210dFlQQXE4Q3VEZjhHSVIxOXFjY2I0ckNQcnFwZ1Q3SWctdko4M0hobHlsYzJvWDhaZF9rZHZoMEMxcXBuZHRVNGpaeFU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T09:03:43Z",
-      "summary": "科技媒体InfoWorld刊文梳理了20种提升AI提示词（Prompt）写作水平的方法，聚焦提示工程这一大模型应用的关键环节。文章围绕如何让模型输出更准确、更可控展开，涵盖明确角色与目标、提供上下文与示例、分步拆解任务、限定输出格式、迭代优化等实用技巧，帮助开发者与普通用户降低沟通成本、提升生成质量。整体属于经验型方法论总结，强调提示词设计是决定AI实际效用的重要变量。"
-    },
-    {
-      "title": "KT Group is expanding its application of artificial intelligence (AI) transformation beyond infrastr.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VQ3NoWHRiTkJWNTFpc3BpRFZjUDA5NW9qU0hTNzQwcmJ5RnFRZ2RIckZjZkRoMXBrcFdtRGVaQ3hZS3lTRTNQWDU5VQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T08:33:37Z",
-      "summary": "韩国电信运营商KT集团正把人工智能转型从基础设施层面向更广的业务领域延伸。报道显示，KT不再局限于算力、网络等底层AI能力建设，而是推动AI在服务、运营及行业解决方案中的落地应用，体现其由“AI基础设施提供者”向“AI驱动型企业”转变的战略意图。此举反映出韩国大型通信企业正加速以AI重塑业务结构，寻找传统通信业务之外的新增长点，并带动上下游生态协同升级。"
-    },
-    {
-      "title": "The AI Office Partners with Dell Technologies to boost National Capabilities - intlbm.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHRTdjlseEFBam11X3lvUmJ3QWZwd1g2QmNZcHlNUG44Z0hEM081X3VfbFVuRXYwMGhVcmc3Tl9nck8zTE5KRUtseUxKRGU4SHpNTHRpNzEtdHppN1ZBMUlFSW5ic1psczJWTkNDeXJZVndwTUhNN0NpSVE5elVKc3lveDRiRVh2dkhuQ3NGRVRpSEt5SWZJZDhqb1ZocjduaGtFWTRTbHFEVE0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T08:22:21Z",
-      "summary": "据intlbm.com报道，某国AI办公室与戴尔科技建立合作伙伴关系，旨在借助企业的技术与产品能力提升国家层面的人工智能实力。合作预计围绕算力基础设施、AI平台部署、人才培养与公共服务应用等方向展开，体现政府机构引入头部科技厂商共建国家级AI能力的趋势。此类公私协作有助于加快AI在政务与产业中的规模化落地，同时弥补政府在硬件与工程经验上的短板，推动国家数字竞争力提升。"
-    },
-    {
-      "title": "Marcos pushes AI for more accessible, inclusive gov't services - Philippine News Agency",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kUnpSUXhKY0tZaTdDR1RHNVpReHlWSHdTb1RRTEN2OUt0eGl3OUx2ZVk5RXdTS2FZdnFZTTNyOHA0MlRmZ3hqNlppRkk0bnQx?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T08:18:07Z",
-      "summary": "菲律宾总统马科斯推动将人工智能应用于政府服务，目标是让公共服务更加可及、更具包容性。报道显示，菲政府希望借助AI简化办事流程、提升响应效率，并覆盖偏远地区和弱势群体，缩小数字鸿沟。这一方向把AI定位为治理现代化与公共行政改革的工具，而非单纯的产业技术。后续关键在于数据治理、系统互操作性与隐私保护等配套机制能否同步建立，以确保技术红利真正惠及民众。"
-    },
-    {
-      "title": "Global biotechnology company Amgen is using artificial intelligence (AI) in the entire process of de.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTOGNtSXJxVEpReHJFY2xsVl9qdVVMNUpJdE10RHBJNWxZNGVWMnZZaTVqSkFhWlgwaUIzTmlEdVBHVWtKeVdJOVRDVQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T07:54:23Z",
-      "summary": "全球生物技术公司安进（Amgen）正在药物研发的全流程中引入人工智能。报道显示，其应用覆盖从靶点发现、分子设计到实验验证与开发决策等环节，意在缩短研发周期、降低成本并提高候选药物的成功率。这体现了AI在生物医药领域由辅助分析走向深度嵌入研发管线的趋势。对行业而言，AI与生物数据的结合有望改变传统高投入、长周期的药物开发模式，但数据质量与可解释性仍是落地关键。"
-    },
-    {
-      "title": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030 - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR29qZDY0OGh1R2hYREF3UHBXR0xjUTFCaU5MWUxzZGNKX1NBeHVrQTVseURCRUlBX3d4RXFEZklnUVNFX3hsdVNMd0FKcDI4S2dOc3plZXdlSHZqbWdQLXk2Q1dKSE9TRUEwVmVjYXozenFVUU5SVVc3cThEVmZ6WVlnVG5VOWVtV3BiMnVqdGpWajhxTU9iMGxZTGtyNC1sQThfcUNkMGhSVGNvVGNaazBmRExMRXU5TVFHTkpOTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T07:12:00Z",
-      "summary": "英伟达掌门人黄仁勋表示，到2030年AI毁灭世界的概率为“0%”。据《卫报》报道，他以此回应外界对AI存在性风险的担忧，认为这类极端假设缺乏现实依据，当前更应关注技术带来的实际收益与可控风险。作为AI算力核心供应商的领导者，其表态也折射出产业界与部分安全派学者在AI监管节奏上的分歧。此番言论预计将进一步引发关于AI风险叙事、监管力度与创新空间之间平衡的讨论。"
-    },
-    {
-      "title": "Can Artificial Intelligence Design an Aircraft Engine? - All-About-Industries",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU096ZFlDRURlSUtwcEY4Q2hERjRkdVNmS2xlbEstWEZkUmhscVdmM0tCblpwMEtsSDMtVzU0bkNRMjBCVGkyMWNEalJlYzhBUmhEc29XbEI4TXNjYmdIWlRYVHE1UW53bHR3c2VwSUdTeTMwaUoyYWFmWVRDUHJDbHJRRmhwaDZPY0FyRTI3a09BdjNIUW83MkhqbUZXT0E2S1Bta1BmemsxSkY4ZHhhTVV1UnlpUGxlLTNxV0ZIRWVuNDhO?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T06:20:06Z",
-      "summary": "All-About-Industries刊文探讨人工智能能否胜任航空发动机设计这一高难度工程问题。航空发动机涉及气动、热力学、结构与材料等多学科强耦合，传统设计依赖大量仿真与试验迭代。文章关注AI在参数优化、生成式设计、性能预测与故障诊断中的潜在价值，同时也指出其局限：训练数据稀缺、物理约束严格、安全认证要求极高，AI更可能作为工程师的辅助工具，而非完全取代人类完成整机设计决策。"
-    },
-    {
-      "title": "ELRIS Group, an AI full-stack company that provides artificial intelligence (AI) infrastructure, clo.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uM2RPTEF3Y1NIakN6cFZMQzBQSVM2c1A3cXh4SG5pakQ5cEZMaXRSZm5ZR2xtalpNZE9RS2hiUGxnUmJ3UHc0NHMxSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T05:21:08Z",
-      "summary": "据매일경제报道，ELRIS Group是一家提供人工智能基础设施的全栈式AI公司。所谓“全栈”，通常意味着其业务覆盖从底层算力、硬件与云平台，到模型训练推理框架及上层应用方案的完整链条，可为客户提供一体化交付能力。该报道显示此类企业正受到市场关注，反映AI产业竞争正从单一模型或芯片环节，转向软硬协同、端到端服务能力的比拼，基础设施层的整合与规模化交付成为重要差异化方向。"
+      "publishedAt": "2026-09-21T11:59:49Z",
+      "summary": "据Tom's Hardware报道，开发人员称中国AI公司Z.AI在未征得用户同意的情况下，悄然上传了数百兆字节的本地工作区数据。报道称，该公司为传输一个约313MB的归档文件，先后发起564次尝试，行为引发开发者对隐私与数据安全的强烈质疑。Z.AI是GLM系列模型的开发方，事后已就此事公开致歉。该事件再次凸显AI开发工具在数据采集边界、用户知情同意与透明度方面的合规风险，也提醒企业在使用第三方AI编码工具时加强本地数据防护与审计。"
     }
   ]
 }
