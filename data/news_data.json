@@ -1,48 +1,90 @@
 {
-  "updatedAt": "2026-09-21 02:12:07 UTC",
-  "totalArticles": 6,
+  "updatedAt": "2026-09-21 07:26:37 UTC",
+  "totalArticles": 12,
   "articles": [
+    {
+      "title": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030 - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR29qZDY0OGh1R2hYREF3UHBXR0xjUTFCaU5MWUxzZGNKX1NBeHVrQTVseURCRUlBX3d4RXFEZklnUVNFX3hsdVNMd0FKcDI4S2dOc3plZXdlSHZqbWdQLXk2Q1dKSE9TRUEwVmVjYXozenFVUU5SVVc3cThEVmZ6WVlnVG5VOWVtV3BiMnVqdGpWajhxTU9iMGxZTGtyNC1sQThfcUNkMGhSVGNvVGNaazBmRExMRXU5TVFHTkpOTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T07:14:00Z",
+      "summary": "英伟达负责人公开表示，到2030年人工智能毁灭世界的概率为“0%”。这一表态直接回应了外界对通用人工智能失控和生存风险的担忧，显示其对AI技术发展持高度乐观态度。报道可能涉及AI安全辩论、监管与产业创新的平衡。核心信息是：短期内AI不会成为末日威胁，风险可通过技术治理、安全研究和行业规范加以控制，而产业界更应关注AI带来的生产力提升与经济机遇。"
+    },
+    {
+      "title": "Physical artificial intelligence (AI) companies Real World and CJ Korea Express announced on the 21s.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kME1EZWtXQVRWUi05czM5Mlp0Y1kya3pVUUp0ODFxdGozbzFnWmRaM2swbnZhSkZVeWNjcFVtVGt2dWZGVUw2eFpua0NqQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T06:04:31Z",
+      "summary": "韩国物理AI公司Real World与物流企业CJ Korea Express于21日宣布合作。物理AI强调将人工智能与机器人、传感器和执行器结合，使系统能在真实世界中感知、决策和操作。CJ Korea Express拥有仓储、分拣和配送场景，双方可能围绕物流自动化、智能机器人和数字孪生展开。合作旨在提升物流效率、降低人力成本，并推动物理AI从实验室走向大规模商业落地。"
+    },
+    {
+      "title": "Revelion, an artificial intelligence (AI) semiconductor company, announced on the 21st that its neur.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvVUVrWFptaFM1a0RFZUstNmhvcTFFcDctU2JjR3BPcE1adlROZHA3WWJ2YldpWE8zMGwyQkRxbU5SdzJMSmRXY0Q0RVpHZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T05:57:50Z",
+      "summary": "韩国AI半导体公司Revelion于21日宣布其神经处理相关技术或产品进展。作为AI芯片企业，Revelion可能聚焦神经形态计算、神经网络加速器或低功耗推理芯片，面向数据中心、边缘计算和嵌入式AI场景。此类技术旨在提升AI计算效率、降低能耗和延迟，缓解算力瓶颈。若其神经处理方案实现商业化，将有助于丰富AI半导体生态，并与国际芯片巨头在推理市场形成竞争。"
+    },
+    {
+      "title": "ELRIS Group, an AI full-stack company that provides artificial intelligence (AI) infrastructure, clo.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uM2RPTEF3Y1NIakN6cFZMQzBQSVM2c1A3cXh4SG5pakQ5cEZMaXRSZm5ZR2xtalpNZE9RS2hiUGxnUmJ3UHc0NHMxSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T05:21:08Z",
+      "summary": "AI全栈公司ELRIS Group宣布其在人工智能基础设施领域的最新动态。该公司提供覆盖算力、云平台、模型开发与部署的全栈解决方案，可能涉及AI数据中心、推理服务或企业级AI平台。全栈模式有助于降低企业采用AI的门槛，打通芯片、系统、框架和应用之间的壁垒。报道截断未披露具体细节，但可看出其正推动AI基础设施商业化，满足日益增长的模型训练与推理需求。"
+    },
+    {
+      "title": "KT proposed guidelines and standards necessary for developing artificial intelligence (AI) models sp.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84U0RQSHFLdFlMcVhmdzJqVDZ6OGJOZFYxbHA2aGxJNVNiREJtQ1NCR3FsZ0ZaSnVDTklNTW9WeUdmenFjMUxuTnUtcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T05:16:51Z",
+      "summary": "韩国电信KT提出开发人工智能模型所需的指南和标准。报道显示，KT可能针对特定领域或通用AI模型，提出数据治理、模型评估、安全伦理和互操作性等规范。随着大模型快速发展，行业缺乏统一标准，导致重复建设、安全风险和合规难题。KT的提案旨在推动AI模型开发规范化，提升可信度和可复现性，并为监管机构、企业和研究机构提供参考，促进AI产业健康有序发展。"
+    },
+    {
+      "title": "Artificial intelligence data ‘land grab’ looms amid proposed digital changes - The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmpOajM1V1R1YmlMRERzb3JoSzJ5N0JKYjM1MGhBU1N4NGFaWjU3aFF6M0luX2VkU2U3MEJKUjlzeW0xQy1pVkFiUUhuZmlEVGdSVEhudnhyeDlQU25TcjhLMjNtVmEwOFN3WnZTUEptUUt2akViaXNlaWlxNmFKMUxBZWY3MU41Vm9iX1YyYWxBcjlPVkRLX1Q5S0w2Y0hYRkow?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T05:03:26Z",
+      "summary": "《爱尔兰时报》报道称，随着数字领域拟议改革推进，人工智能数据“圈地运动”正在逼近。AI模型依赖海量数据训练，而新的数字政策、版权规则和数据共享安排可能改变数据获取方式。科技公司可能加速争夺文本、图像、音视频等资源，以构建竞争壁垒。这一趋势引发对数据垄断、创作者权益、隐私保护和市场公平的担忧，政策制定者需在促进创新与保障公共利益之间取得平衡。"
+    },
+    {
+      "title": "Marcos pushes AI for more accessible, inclusive gov't services - Philippine News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kUnpSUXhKY0tZaTdDR1RHNVpReHlWSHdTb1RRTEN2OUt0eGl3OUx2ZVk5RXdTS2FZdnFZTTNyOHA0MlRmZ3hqNlppRkk0bnQx?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T04:22:07Z",
+      "summary": "菲律宾总统马科斯推动将人工智能用于更可及、更包容的政府服务。该倡议旨在借助AI提升公共服务效率，简化行政流程，扩大偏远地区和弱势群体获得服务的机会。可能的落地方向包括智能政务平台、数据驱动决策、语音与语言辅助以及自动化审批。与此同时，政府需应对数据隐私、算法偏见和数字鸿沟等风险，确保AI应用透明、负责任，真正服务于公众利益。"
+    },
+    {
+      "title": "As AI fears grow, US and China consider communication channel for concerns - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNmctRXAwSlJkd0RGamxQX1pWNXd2Ulh0N3BoVE1XZlZRSmVmQm40bUlZUVhiTjB4VEhZc3pjUjNvTDhCSldOT1pvNUJwQktMaUplRW5PYUxJVS00V3A3SnlQNE5GYmNJM05sdG5YdDloS0NIeEd0SVg1WGdRX0VJQlI1NU9UZHdkWnNObGpabExLRVByRzNrUHZPLUY5R1ZXb2lvS0xLdHU4ZGZzVHhRYmpQT2RnbUI4M056TThZbVdZTXdPRktLMURoNjBjMjNlQkt30gHYAUFVX3lxTE1nSENsN1N1NnI4bHZpMnFXWDhhSVRpTm5kTTZWNHVSc2hkMUFQOHZsTVhHSjFxeEw0QTFuMzJxWFNLT1VsUXo4R0RCbUV6d0ZvVjZMSnc4Q0NldGZwT3JUX2tGcE9CYTBUcjUySTFXbXNQWWdWSERITXBGc3VmU3MwSk5UeWc4TWdJc2Jmd2QwQVhEOG5JdlpSSmpQeExjMmJLVlcybDBzOW5GSXNPWDdUN1ZaakVxaFBQd29FV0FMNWhzQ1pjZkNQWFZDbndQSjBTMWdZV1BjRw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T04:07:32Z",
+      "summary": "随着对人工智能风险的担忧加剧，美国和中国正考虑建立沟通渠道，就相关关切进行对话。报道指出，两国作为AI大国，可能在安全、治理、军事应用和失控风险等方面交换意见，以降低误判和冲突概率。AI技术竞争激烈，但建立沟通机制有助于管控战略风险，推动形成最低限度共识。此举也反映全球AI治理正从企业自律走向大国协调，但具体形式和成效仍待观察。"
+    },
+    {
+      "title": "Artificial intelligence: a tsunami of unanswered questions - Agenda Pública",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWRVTWM1NnhGcF9PNFN2ZXgyVlFoY0lNLUpDc2RvUi02SFNWX2l4MjhRekpEYjNSMG5XZk5SYktJVmN2dVhkdFgzSnNYUmRwcExHNGw5NXhBdFg5Yi1yN2hEUlB1dWpYLUVIcWZXQWhiYlB6LU53aHVUZlNkcWxPUnRLZHl2MDhja19zdXdqc3JlVHNlVS0zUHhB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T03:50:00Z",
+      "summary": "《Agenda Pública》刊文指出，人工智能正带来如海啸般大量未解问题。文章可能从社会、伦理、法律和经济角度审视AI的快速扩散，包括就业冲击、虚假信息、算法歧视、责任归属和监管滞后等。技术演进速度远超治理能力，公众讨论和制度回应显得迫切。核心信息是：AI不仅是技术议题，更是公共政策议题，需要跨学科、跨国界的持续对话，以在创新与风险之间作出选择。"
+    },
+    {
+      "title": "Trump Wants You to Pick a Name for Artificial Intelligence Because It Is 'Very Ineloquent': President Sha - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYjVkLWxIZ0tlSHFKTEtiZXpPVEJMRUdzbk5lRHVoSDYyaHpyYlVJcGlrNVZvMm8yTFNIM3lnRTA1aHdFcldmTzVIYTR0bThZUXA5U1R0akNPRXYxOHh0MG1Xa29yV1VjNWlyYVZCbi1JUGpyZXZUM05SUWRDbkQ4TjV0UkpaQ2NtRzZmX2tucmNHSzVPRjVjaUh2cVNSdEx2QjJKY0hvdGlEdUd6V3hCb1ZPRnRBNEl3ZVNPaTZTWXJiLWlBZUVSMnZsN2Q1SVQ2cEFZQTlxVlFVcmt4S20yNTZULUZaYktubERyczBkOC1nSTRHODFxWUJXQmNCRUhhTl9ld0xEZzRjdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T02:52:12Z",
+      "summary": "特朗普希望公众为人工智能挑选一个新名字，他认为“Artificial Intelligence”这一叫法“很不优雅”或不够有表达力。报道称，特朗普由此发起命名建议，试图让AI的公共称谓更易理解、更具吸引力。这一举动凸显AI已进入政治传播和大众文化议程，命名之争也反映人们对技术本质的不同理解。不过，改名并不影响技术发展，真正重要的仍是AI安全、伦理与治理。"
+    },
     {
       "title": "Generative artificial intelligence (AI) has made information retrieval easier and work faster. But i.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zRzJvRVNuRGV3NS1xN1pzUU9jVmNRWkRvVVdRVEM5RHd2U0hCVWlmeWZPSkZYckdtcDdaYld5UU1nay1nQW9leWIyWQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-21T01:55:45Z",
-      "summary": "韩国《每日经济》报道指出，生成式人工智能正在显著改变人们获取信息与处理工作的方式：检索资料更便捷、撰写与整理效率更高，重复性工作被大幅压缩。但报道同时提示，这种便利背后也潜藏隐忧，例如答案准确性难以保证、对AI的过度依赖可能削弱独立思考能力，以及版权归属、数据来源与隐私保护等问题。文章强调，企业与个人在享受效率红利的同时，需要建立相应的核查机制与使用规范，理性看待生成式AI带来的双面影响。"
+      "summary": "韩国《每日经济新闻》报道指出，生成式人工智能显著降低了信息检索门槛，让资料查找与日常工作的推进速度大幅提升，已成为提升效率的实用工具。但报道同时提示，这种便利并非没有代价，AI在带来速度与便捷的同时也引出了新的问题与隐忧。受原文篇幅所限，具体风险点尚未充分展开，但整体基调在于：生成式AI在重塑信息获取与工作方式的同时，其伴随的挑战同样值得关注与审视。"
     },
     {
-      "title": "Pennsylvanians voice concerns over rapid rise of artificial intelligence - fox43.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNemdtVWtydUtQanJBRWNCQzV5WHh1UXBhU0ZlUzh2TU5ZY1BwYjlfWjNfcDlZTzJTb2dEYURYSzJtdW16NEZnMHAwZmM1OENQY09UZ0tsV21PRGJJRWF4WDIzb1lsU2ZFWmFxZUU1RXhuclFiZmF5SGsxa25hYmdsOUtZS1BCRHVyRENmS1o5WXVES3E1d0Z3OFlYOEVtZ0hhalRNX1E4bDdoODZQRkNEQjUtZktzMWhEUUNucUpJWlhCYjNtaDlvNWYxbGt2ZHJMdHlPMlE0bEhJbVNMMVVHemVnR25XdlhWdmdRQnZ6QVJFRU03YkpkNDByT3VheXQ1dV9oRnZwaHMxZDhf?oc=5",
+      "title": "Turning displays of artificial intelligence into everyday productivity - chinadaily.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qeC1wamZqelFoRWF0akZuZlc4Mm4wVW1TVTBZM3Vjb09qQmlJX3Awd0NhdThlcmFPLV9hcHFFVWhHZ0tiZ0h1SXhxaEQ5eW5FdVo1UDFTNE5UN3BQN3djUnFRY3dtbTV6SDJsTmt6OTc4M2I0UXpfSGMyem1EZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-21T01:20:00Z",
-      "summary": "美国宾夕法尼亚州媒体fox43报道，随着人工智能技术迅速普及，当地居民公开表达了对这一趋势的担忧。报道显示，民众关注的重点集中在就业岗位被替代、隐私与数据安全、算法决策的透明度，以及AI在医疗、教育等公共服务领域应用时可能产生的公平性问题。居民呼吁在技术加速落地过程中加强监管与公众参与，确保技术发展不以牺牲普通劳动者权益为代价，同时希望政府和企业就AI的影响提供更充分的信息披露与保障措施。"
-    },
-    {
-      "title": "Media explores AI opportunities, risks - Bangkok Post",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLXAwYVF4VngtQ0hjZVFYMm1UQVRMclVmQnFjMnhDa0ZxeFVrOHN4Y3YtYk9CMUNBejMxbVFOeXhsb2hKejh3RktjTnRiS2JHQ3hSN1VqY3M3UURXOW9sU243S3JIR0E0dXQ0U2VMcTJTRmZHaDdzMzJtT0VoNWhyd2ZpbkNtcDUwN2RfWUlxSzNGWmxs?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-20T23:18:00Z",
-      "summary": "《曼谷邮报》报道称，媒体行业正在系统性地审视人工智能带来的机遇与风险。一方面，生成式AI可用于辅助写作、内容翻译、素材整理与个性化推荐，提升新闻生产效率并拓展传播形式；另一方面，虚假信息生成、深度伪造、版权侵权、内容同质化以及对记者职业角色的冲击，也构成现实挑战。与会者普遍认为，新闻机构应制定明确的AI使用准则，坚持人工核实与伦理底线，在拥抱技术红利的同时维护新闻公信力与受众信任。"
-    },
-    {
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-20T21:41:08Z",
-      "summary": "TechCrunch发布提醒，TechCrunch Disrupt 2026大会的当前票价优惠仅剩6天，截止时间为太平洋时间9月25日23:59，最高可节省200美元。该大会将汇聚超过一万名创业者、投资人与科技行业领袖，是观察AI等前沿技术创业趋势与投融资动向的重要场合。对于有意参会的人士，提前购票既能锁定更低价格，也有助于安排行程与商务对接，避免临近会期价格上涨或名额紧张。"
-    },
-    {
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-20T20:29:07Z",
-      "summary": "TechCrunch报道指出，世界模型（world models）领域的公司普遍对自身技术路线讳莫如深。该赛道已聚集大量资金与市场关注，估值和讨论热度居高不下，但无论创始团队还是其数据供应方，都极少对外说明究竟在构建什么、如何训练模型以及商业化路径何在。这种信息不透明既源于激烈的竞争与技术壁垒，也让外界难以评估其真实进展与风险。报道认为，随着资本持续涌入，业界对该领域实际能力与落地场景的审视将不断增强。"
-    },
-    {
-      "title": "Albanese to push for global AI guardrails on but won’t commit on copyright - Nine.com.au",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVJtNG1reHJFQjEwS3ViQmg0TVJOb21HY0UwMkVmejlXR0ZFX3MzOGNNbkhnY0NQaG1fNW9SZm5zN1c3ZEstcjl0dTBSdFI4bHhMUy1JOXNfSHVmTUxwZFJUeGhTWjRNR0NFYk9LUzQ4TW0zM1N3aTczalB5eEZIdWpCNUU5WmphTmpWUWJGZzRsaG10bVBjenduaWlOc1ZzYmQ4cjJmeVVWb0liLTVVN2VpdURpTDhMQTF3aW5aWnZ3ejllX1BQZEdaLVlRdUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-20T20:16:10Z",
-      "summary": "据Nine.com.au报道，澳大利亚总理阿尔巴尼斯表示将推动建立全球性的人工智能治理护栏，主张通过国际合作制定规则，防范AI在安全、虚假信息与伦理方面的风险。但他并未就版权问题作出明确承诺，未说明澳大利亚是否会收紧相关立法或如何平衡AI训练数据使用与创作者权益。此举反映出各国政府在鼓励AI创新与加强监管之间的两难：一方面希望参与国际规则制定，另一方面在版权等敏感议题上仍持谨慎观望态度。"
+      "publishedAt": "2026-09-21T01:37:21Z",
+      "summary": "《中国日报》刊文探讨如何让人工智能从炫目的技术演示转化为日常生产力。文章的核心命题是：AI的价值不应停留在展示层面的效果呈现，而应真正嵌入日常工作流程，转化为可衡量、可持续的效率提升。这就要求把AI能力与具体业务场景深度结合，降低使用门槛，让个人与企业能在真实任务中稳定获益，从而完成从“看得到”到“用得上”的落地跨越。"
     }
   ]
 }
