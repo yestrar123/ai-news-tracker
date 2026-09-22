@@ -1,160 +1,76 @@
 {
-  "updatedAt": "2026-09-21 21:21:23 UTC",
-  "totalArticles": 22,
+  "updatedAt": "2026-09-22 02:16:42 UTC",
+  "totalArticles": 10,
   "articles": [
     {
-      "title": "Trump’s Attempt to Rename AI Misunderstands the MAGA Faithful - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRE9DcnNGZGxKQktGRWwxNnUtUlhVdlRYSVp0eWpGY3JYZ2tWMDdmUVB2NmcyU1diZ2wtZjg2eERmU0lMb0F0N1liODI1NjlEQkJnd0ZnUkdlTnRidTFPTkg5OWsxVVptLUxKbThxMkdZdGxCTTZvNHNTZUlIclptbV94ZUkxYjE5Q0ZORVl1aEtkTS1KNkE?oc=5",
+      "title": "Vueron Technology, a startup specializing in artificial intelligence (AI) LiDAR that has accumulated.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zNlpCWjB2MHFrajJyWEwyVmltMHFEbXVZc3V1WGthbFhPUmZvUEtDQ3NPdExSbWVra2RsN09YWHAzaGRPQ1pFVmx2cw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-21T20:59:10Z",
-      "summary": "Gizmodo 评论文章认为，特朗普试图对人工智能进行重新命名或品牌化，但这一做法误判了 MAGA 支持群体对 AI 的认知与态度。文章指出，AI 命名不只是技术标签，也涉及政治叙事、文化认同和政策沟通；若仅以政治口号包装 AI，可能无法回应支持者对就业、监管、伦理和科技主权的关切。特朗普阵营若想争取基本盘，需要理解其对 AI 既期待又警惕的复杂心态，而非简单改名。"
+      "publishedAt": "2026-09-22T01:06:13Z",
+      "summary": "韩国初创公司Vueron Technology专注人工智能激光雷达（AI LiDAR）技术，报道称其已积累一定成果。AI LiDAR通过深度学习处理三维点云，可提升自动驾驶、机器人和智能交通中的目标检测、测距与感知精度，同时降低对高成本硬件的依赖。该公司的进展反映出AI与激光雷达融合正成为自动驾驶感知路线的重要方向，也显示资本市场持续关注相关初创企业。由于原文信息有限，具体融资、客户或量产细节尚不明确，但可看出其技术商业化受到行业关注。"
+    },
+    {
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T23:44:28Z",
+      "summary": "曾主导苹果零售店设计的Ron Johnson公开质疑硅谷对AI购物的押注。他认为苹果成功的关键始终是人，而非单纯技术。零售的核心在于员工与顾客的互动、信任和服务体验，AI可以提升效率、分析数据或优化运营，但难以替代人性化咨询和门店氛围。此番观点对当前AI零售热潮提出反思，强调技术应服务而非取代人，品牌应重视一线员工与客户关系。"
+    },
+    {
+      "title": "College of DuPage introduces free AI Literacy program - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU1JZSzdmUkVDd1pOY0NSbHVhY1lVSE8yeXc5TUV3ZUlSSDdicnI3c1hVSmhJbHNrOUJGdVlaT01HT2p4V2lvNTBxRHRzUlktYThiRDVQRlRHeFRMSzVhaTVhMHZlUFgwYVV3OGNBb0h4cC1LY0tEYi1STTJPbWRaR3hGVGdGY205eTFqY2hvZWx5WTZrME9sU3ZIQl9DVzlic3VLNWtkMXFramtucmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T22:59:14Z",
+      "summary": "美国College of DuPage推出免费AI素养项目，面向学生和社区普及人工智能基础知识、应用与伦理。课程可能涵盖生成式AI、数据隐私、算法偏见、AI对职业的影响以及负责任使用等内容，旨在降低学习门槛，帮助非技术背景人群理解并适应AI时代。此举反映高校正将AI素养纳入通识教育和社区服务，以应对技术快速渗透带来的机遇与挑战。原文信息较简，具体课程结构尚未详述。"
+    },
+    {
+      "title": "‘Human control’: Push to keep AI in check - Yahoo News Australia",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNOU1FbHQxSlJmdWdXakxxVEFTRHYtQkFkUmdtR2dOdGtEVlBVQTU5RkNoR3oydG5aSGhxNThaQV9TU3ktYlJMNm1hSUVZWUdxdG5uOFNSTEJZVFFvcWdjR3B1b09aN1dSMkdXTmRrS1hYYWE3X0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T22:51:52Z",
+      "summary": "雅虎新闻澳大利亚报道，相关方面正推动将AI置于“人类控制”之下。倡议关注AI安全、监管与伦理，主张在高风险应用中保留人类监督和最终决策权，防止自主系统失控或被滥用。报道可能涉及政策制定者、专家和公众呼吁建立透明、可问责的治理机制，对算法决策设限，并加强国际合作。核心是在鼓励创新的同时，确保AI发展符合人类价值观和社会利益。"
+    },
+    {
+      "title": "Trump to Create AI Force, Name AI Czar - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sdDJxZmZUeVRaalF2UGs3U25nczFCMUdBbjk2T2J5dHM3SHdOZFdySjgyQXhIZHVNMTVXSEdUU1JvZGxnalFUbHlON0tUSTM0V1M0WlpDbVYwRTVRWFdBYlZvZGQ4SktVRjQ5ajYwNjB6NlVlYUVidQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T21:56:04Z",
+      "summary": "据Broadband Breakfast报道，特朗普计划创建“AI Force”并任命“AI Czar”，以统筹美国人工智能政策。该举措可能涉及联邦层面推动AI创新、国家安全、产业竞争和监管协调，整合政府资源以提升美国在AI领域的领导力。设立专职AI事务负责人，显示AI已成为政治与战略优先事项。不过，具体权限、预算和政策取向尚不明确，后续如何平衡创新与安全、政府与产业关系值得关注。"
+    },
+    {
+      "title": "Moraine Valley, other colleges ramp up training for careers in artificial intelligence era - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aVUxnSkwxdVdjTjE3QzRpdzgtRnlEeDlzYmt3d3ZrU0dmakJLRlpvVzhYNHg4MldWZkFva1UwRVlxcGNpMFJIdFBmcUVvMnVvWFh3UFdEd0FkRWpSeEI2OTlVMWUybVRkaDFTSFplMzVHdGdTQVZmWWVpUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T21:27:34Z",
+      "summary": "《芝加哥论坛报》报道，Moraine Valley等社区学院正加大AI时代职业培训，课程覆盖数据分析、机器学习、自动化工具和AI应用技能，帮助学生和在职人员适应岗位变化。学院可能与企业合作，提供证书、短期培训和转行项目，侧重实践能力。报道反映AI正重塑就业市场，高校尤其是社区学院加快课程更新，以弥合技能缺口，培养能直接进入产业的应用型人才。"
+    },
+    {
+      "title": "Senate seeker El-Sayed jabs Trump over AI rebrand: 'Inferior Intelligence' - WCIV",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd1JlY3pKZlk0WEVSRG1kT1dfSUlwbUpLT296TmlrbkpzOHVXdWZPdFVZX0wxa0tuSC1oMWNBUUtIWWs0dV9odk80RHZZUkJCSE8xYW1hUHktVm43SXZkZzJDdEFIQ2xKXzF3dk9wMnRSR29sN1RvMHkxZnFwb2VzQjN3VkFkOGJlX1dOQmlJdFZNcmVaRE83cFlwbDRWWUZHeW91Qm02ZUd0Y2ZEbzAwU3NyVDlwTzJ0akNYZXI5T0xzZU0yUURjZGpMT3N1X3hfLTNlLWdkUVBZN1lhczhmenpLN3g?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-21T20:49:17Z",
+      "summary": "WCIV报道，参议员候选人El-Sayed借特朗普对AI的重新 branding 进行抨击，讽刺其为“Inferior Intelligence”（低劣智能）。这可能是对特朗普推出AI Force、任命AI Czar等政治动作的回应，利用AI缩写进行选举攻击。事件显示AI已成为美国政治话语的一部分，候选人围绕技术领导力、政策能力和命名展开争论。具体技术政策信息有限，主要是政治表态和舆论交锋。"
     },
     {
       "title": "Senate seeker El-Sayed jabs Trump over AI rebrand: 'Inferior Intelligence' - KATU",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWndfZGZBTU1qRlNNY1M2RTNPb1VUb0JzekdyWkZyUWlVN0pJaGhpVUh1aDhiSXZPd3lWUGdHWjZMQkphZ1Fwd002aUVtdHhReXVrSFh0a0ZiWXpVSEFTd0hkc0FReFZlMThlTG9xQmJmYUpSZzlkTzR2NlhkbXZyWHNBZVpSdDMzOUo3cTMxVXVlMFFreGE2NTZoejBGTU5OOE5kVmduX2RCNXduUHh6T214WmxLQ3VVRXlGSmdQdHlnS0t0MU96dFZlWlF3Zm9neVZ3MTlQR0FIOEtCc1NjSG1oNHpzZw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-21T20:45:49Z",
-      "summary": "KATU 报道，参议员竞选人 El-Sayed 借特朗普对 AI 的重新品牌化发起抨击，讽刺其为“Inferior Intelligence”，即“低等智能”。这显示 AI 议题正进入选举政治，候选人借 AI 命名和政策立场攻击对手。特朗普的 AI 改名尝试引发争议，批评者认为其更关注政治包装而非技术治理。随着 AI 影响扩大，监管、创新、安全与就业可能成为竞选辩论焦点，El-Sayed 的言论也意在争取关注科技政策的选民。"
-    },
-    {
-      "title": "Senate seeker El-Sayed jabs Trump over AI rebrand: 'Inferior Intelligence' - KOMO",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQnFUNmFIUGFCYksxbWsyTmZKRVA1eFRVbGxNbTBPREhMTVhOLVMzdXg2UUFVUjM0cmVqbXZIcURta0NPTjAwVjZnelNnVW5sMDZkcVJrQ1VRc3p4Z2R5T09sRG5OLUsybnBsQ2pOLUM0TWc2SHlSSkI3YWpIaloxbzZPd252aWNjWnRMSjNoNUhfRGwwdC10WFdWcW5jWUVnSkJiQmlGVWVGSFZTbVdtdVVDY1p1UXk5cm91eHRDRnNPU0pVdEdqUV9KMFgwenNicFFBbDAxNlFaOUtibDU1aW9yQ18?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T20:44:53Z",
-      "summary": "KOMO 报道，参议院竞选人 El-Sayed 就特朗普的 AI 改名计划嘲讽称“低等智能”。该言论把 AI 标签政治化，凸显 AI 治理已成为选举话题。特朗普阵营推动 AI 品牌重塑，被批评为混淆概念、缺乏实质政策；El-Sayed 则借机强调需要更负责任的技术政策。随着 AI 影响力上升，候选人在监管、创新和安全之间的立场将影响选民选择，AI 政治化趋势可能进一步加剧。"
+      "summary": "KATU报道，参议院席位竞争者El-Sayed就特朗普的AI品牌重塑发起攻击，称其为“Inferior Intelligence”。此言论把AI议题政治化，借机讽刺对手在人工智能领域的表现或命名策略。随着美国选举升温，AI政策、监管立场和科技领导力成为候选人争取选民的话题。该报道核心是政治争议而非技术突破，反映出AI已深度进入公共议程，但具体政策细节仍有限。"
     },
     {
       "title": "Trump to Launch ‘AI Force,’ Name AI ‘Czar’ - ExecutiveGov",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW91LXkzSjVVVm5fai1nNmxKQWtoa1NGREZFOWJYWVJKd1dpTm9oUE1xNk1aUUJCN0xTYkdiOUsyanBiNUJtR1lDNnJZN2IyOHoyd1VDUEp6S0t4dnBhMmxmQWw1QVF0TmhZNnJVVVdDZ295UmtrMFVFR21kZ2NwdjA5ME9CX01HM2ZHTHVrcTdzU0VpZlE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-21T20:40:31Z",
-      "summary": "据 ExecutiveGov 报道，特朗普计划启动名为“AI Force”的举措，并任命一名 AI“沙皇”统筹相关事务。这显示其阵营拟强化 AI 政策协调，将 AI 提升至国家战略层级。AI Force 可能涉及联邦机构协作、产业竞争、安全监管和军事应用等。任命“AI 沙皇”有助于统一政策口径，但也可能引发权力集中、监管边界和利益冲突的讨论。具体架构、预算和职权尚待明确，市场与政策界将关注其是否真正推动美国 AI 竞争力。"
+      "summary": "ExecutiveGov报道，特朗普将启动“AI Force”并任命AI“Czar”。该计划意在强化联邦政府AI战略协调，可能覆盖军事、网络安全、科研和产业政策，以推动美国AI竞争力。设立专职负责人有助于打破部门壁垒、加快决策，但外界关注其监管取向、预算规模与权限边界，以及如何平衡创新和安全。AI治理正成为美国政治议程重点，后续政策落地值得观察。"
     },
     {
-      "title": "Moraine Valley, other colleges ramp up training for careers in artificial intelligence era - Chicago Tribune",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aVUxnSkwxdVdjTjE3QzRpdzgtRnlEeDlzYmt3d3ZrU0dmakJLRlpvVzhYNHg4MldWZkFva1UwRVlxcGNpMFJIdFBmcUVvMnVvWFh3UFdEd0FkRWpSeEI2OTlVMWUybVRkaDFTSFplMzVHdGdTQVZmWWVpUQ?oc=5",
+      "title": "Op-eds, academic articles by Provost Santiago Schnell flagged as ‘AI-written’ by ‘near-zero error’ AI detector Pangram - The Dartmouth",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qbGQyWnRzV0FMVzhZMllIVFdwZVNVdTJvS3ktMS1jSzdMWUlOSnREMWR1RnlnV2NreVRwMGo3RkQtXzJ1cnd3NnM5RTl2Z1dHQWg1eWYxR1g0eFhiS0NPWFRqNm9nNXFEOHpvTGlrWEw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-21T20:37:01Z",
-      "summary": "芝加哥论坛报报道，Moraine Valley 等社区学院正加大人工智能相关职业培训，以应对 AI 时代就业市场变化。课程可能覆盖数据分析、机器学习、自动化运维和 AI 伦理等，帮助学生获得新技能并衔接产业需求。此举反映高校与雇主合作，试图缩小 AI 人才缺口，同时为受自动化冲击的劳动者提供再培训。社区学院在普及 AI 技能、促进区域经济转型和提升劳动力韧性方面的角色日益凸显。"
-    },
-    {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-21T20:15:58Z",
-      "summary": "TechCrunch 报道，OpenAI 成立数学咨询小组，背景是其 AI 系统已解决100多个开放数学问题。该小组旨在提供专业建议，但不会被赋予放缓或改变 OpenAI 现有数学研究方向的权力，表明公司希望在保持研究自主性的同时引入外部学术监督。事件凸显 AI 在数学发现中的能力提升，也引发关于 AI 研究成果验证、署名、伦理及对数学界影响的讨论，如何平衡速度与严谨性成为关键。"
-    },
-    {
-      "title": "Japan plans AI robot contest on International Space Station - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGtZTWdOamxlX1pYSVFObm51LU1TZU44S0RXTVN1Vzk0dEd6YW1VY0FPZF9BWHdienFtY3lpU1FHYmZZM0FyWTJHbDBVNkZXa2RHYkFxS0pOZGhQdFJ3bWpNUkdTRHBkTkNGZmp6T0hmZ0NxTWJwNXVHQTJXZDFTa3Z5TXZiOVN4Znhib090aHlOWm5leTZMeDctbkpzYW81djZMUWg3QlVSQ25VYWNUMnlCZnNmeGNWcFNiY0JsQ21LX0FlWlE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T20:15:00Z",
-      "summary": "日经亚洲报道，日本计划在国际空间站举办 AI 机器人竞赛，推动太空场景中的自主机器人和人工智能技术发展。比赛可能要求机器人在微重力、通信延迟和有限资源条件下完成操作任务，以验证感知、决策与控制算法。此类竞赛有助于促进航天机构、企业和高校合作，加速在轨服务、舱内助手和深空探索机器人研发，同时激发公众对太空 AI 的兴趣。具体时间、规则和参赛方尚未披露。"
-    },
-    {
-      "title": "Trump’s new ‘AI Force’ comes at a pivotal moment for artificial intelligence - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOHNKVGRJYW9FRk4yOTMxQk9vSnUta3RkNHE1T21ma3Q0R2ViUTcxQk15WG1ld0NUWlY2YU1SOEd2WnktTHRHeXF2OENGVDl2SEV5MEt4b2ExUUdRekFMdXJGN3VjY1lzOWRGUG1xTGlxOTZnaVVxSjBTRjhfdEN0Y0lVNjhDbG5CZGV6N1ppRjFmZjd6TS1xcW40dndHMU1hX2hJd2J3MGFDME1nNlVz?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T20:04:37Z",
-      "summary": "Fast Company 报道，特朗普推出新的“AI Force”之际，人工智能正处在关键转折点：生成式 AI 快速普及，各国竞逐技术主导权，安全与监管争议升温。该举措可能试图整合产业、科研与国家安全政策，提升美国 AI 竞争力。但文章可能质疑其政治动机和实际执行力。若缺乏清晰资源、法律框架和国际协调，AI Force 或难应对算法风险、就业冲击与全球治理挑战，其成效取决于后续制度设计。"
-    },
-    {
-      "title": "AI chatbots and privacy: How to keep personal info secure - Good Morning America",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNekhJbHBORlphV29kd3AtbzA1bkN2aGhjMFpiXzhBWnJKZF8zbVVXMGJMY09mOWt0Y2doNmdsbm8yOGtkd3VUZ3B1OTROY09GZmw2dTZkWnNpZU84cWFZVmh4VnFNVTY2U3JGa29WbkhBTnJBajZXU2xZajJObDBQVnpSTjEyMk1zcnhjU3lIWTBYMDBCa2Q1Z3FHNnTSAaIBQVVfeXFMTU9Qdm80SElpYjM2REtfNjViSGRhOHpSVWppaEk2bUdHZlRZWFk1SnMtM3dILS03d3ZGX2daeFI4eE82ekFuaFBsTXZER2FNU3BtQ2VYeE9WMVpNY3ZXU1hrSktJR1pJUUxIT3RlTkFQMi0wd0xPUXdCejBONXdCR1l3Qy05aWxjNG4ydFBndlpZME9MSlNKWUtqTldCNmdLTkZR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T19:51:32Z",
-      "summary": "Good Morning America 关注 AI 聊天机器人的隐私风险，并提供保护个人信息的建议。用户与聊天机器人互动时，可能无意中泄露姓名、地址、财务、健康或工作机密，这些数据可能被用于训练、分析或存储。报道建议避免输入敏感信息，检查隐私设置与数据保留政策，使用匿名账户，定期删除对话记录，并了解企业如何处理数据。随着 AI 助手普及，隐私保护需用户、开发者和监管者共同负责。"
-    },
-    {
-      "title": "FAA debuts its AI-powered tool for managing flight traffic - politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ3QyOUNjTFJ0Qm9uWXNFWmZEV0RzS3ZYN2hzVmdHYWItdFFTVC04eFB3Z21GMWt1U25jd1RvNnl6bXFydGlaUmdYWGxTQy1JZnl2ZWNjTjJpczRNWkZISHVPd0hLRnNUSXdjOXBTUzM5b0l5MDhvd2F0cHhEY2hHdnhB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T19:42:00Z",
-      "summary": "Politico 报道，美国联邦航空管理局推出 AI 驱动的航班交通管理工具，用于提升空中交通效率与安全。该工具可能通过分析天气、航路、流量和延误数据，辅助调度决策、预测拥堵并优化航线，从而缓解航班延误和管制员压力。此举显示 AI 正进入关键基础设施领域，但也带来可靠性、责任归属和数据安全等监管问题。FAA 的部署效果及是否扩大应用值得关注，行业或迎来自动化升级。"
-    },
-    {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-21T19:25:00Z",
-      "summary": "TechCrunch Disrupt 2026 门票优惠进入最后五天，参会者最高可省200美元，并可享第二张票五折。活动将于10月13日至15日在旧金山 Moscone West 举行，预计汇聚超过1万名创始人、投资者和运营者。优惠截止到太平洋时间9月25日23:59，之后票价上涨。该大会聚焦科技与AI前沿趋势，是创业者和投资界了解下一波创新、建立合作与寻找融资机会的重要场合。对于计划参会者，当前是锁定折扣的窗口期。"
-    },
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-21T19:19:21Z",
-      "summary": "Meta 新推出的 AI 代理 Muse 在移动端早期表现超过 ChatGPT。据 Appfigures 估算，Muse 在美国和加拿大上线后同期获得的下载量和日活跃用户数均高于 ChatGPT 移动版首秀阶段。这表明 Meta 借助其社交生态和流量入口，在 AI 助手与代理消费级市场快速起量，对 OpenAI 形成更直接竞争。不过，早期下载和日活能否转化为长期留存与商业化收入，仍需观察，AI 代理赛道竞争将进一步升温。"
-    },
-    {
-      "title": "Google confirms Gemini breached three companies during security test - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MLVdXeTJnZFl5cV9ocy02YktnY0RyTnMwMUt0SDhvSXRzYTkwXzd0a3dpRXVwX2RYLUJhVHNUVjJsT1NPZzk5YzlNQXdTQWhGNDN0ZGlFam1GcEdtMnlxd0ljejNyZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T18:31:15Z",
-      "summary": "谷歌确认，在一次安全测试中，其 AI 模型 Gemini 突破或侵入了三家公司的系统或防线。该消息凸显前沿模型在网络安全与红队测试中的双刃剑效应：一方面，主动测试能暴露企业防护漏洞，推动安全加固；另一方面，若能力被滥用，可能带来真实入侵风险。事件也引发对 AI 安全评估边界、披露机制和模型访问控制的关注。谷歌如何说明测试授权、影响范围及后续修复，将成为判断此类 AI 安全事件治理的重要看点。"
-    },
-    {
-      "title": "AI could boost LatAm, Caribbean economy 5.1% but wages may fall, IDB says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVi05aHpLMlNmUWw4ekwzTlpCdVBzVzJQaFNCZkM1OTNfNWViRTh2SThXLUtDV0FTbXBWN0tNVkNhTkNoSE9rZlVoVDhtM1NlYk10czhvclNaa1Rzb2dpQVkyRk5UU0wxTzd1Q0FyS0NpdzhWVWN2SFgzOV9aeDlWWXVwaHRIckFJVzRVUGswMFlCa2k0aWVJbEdJNEROSGtGZE45T1BXSEVDRjA5bVBPOHlR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T18:24:31Z",
-      "summary": "美洲开发银行报告指出，人工智能可能推动拉丁美洲和加勒比地区经济增长5.1%，但工资水平可能下降。核心逻辑在于 AI 提升生产率和企业效率，却可能替代部分劳动岗位，压低议价能力与工资，尤其影响低技能劳动者。报告提示政策制定者需在鼓励 AI 采用的同时，配套技能培训、社会保障和再分配政策，以缓解技术红利分配不均。该判断对新兴市场 AI 政策具有参考意义：增长与就业公平需同步治理。"
-    },
-    {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-21T17:55:18Z",
-      "summary": "Meta 的 AI 代理 Muse 被亚马逊禁止使用 Amazon.com。报道指出，亚马逊拥有自研基础模型和热门推理平台，在没有法律义务向竞争对手开放的情况下，选择限制 Muse 接入并不意外。此事反映 AI 代理生态中的平台准入与竞争问题：当代理需要代替用户浏览、购物或执行任务时，电商与云平台可能出于商业利益、数据安全和反竞争考量设置壁垒。未来 AI 代理能否跨平台互操作，或成为监管与行业标准争论焦点。"
-    },
-    {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T17:32:19Z",
-      "summary": "OpenAI 发布“数学与人工智能咨询组”相关信息，显示其正推动数学与 AI 的交叉研究与治理。该咨询组预计将汇聚数学家和 AI 研究者，探讨形式化推理、定理证明、模型能力评估及可解释性等议题。数学被视为提升大模型逻辑推理和可靠性的重要基础，也可为 AI 安全提供更严格验证工具。OpenAI 此举既有助于吸引学术人才、提升研究公信力，也可能影响未来 AI 推理基准和数学能力竞赛的方向。"
-    },
-    {
-      "title": "U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWnYwQWVnNS1PejZ6VXFCRjRzcVZrcnh6S3hzZldtUGR3TWdSTmRsbVVvdWFUaHdwSHZqX2lpaV9pWlNRYmVjUk45czNacGlJR29BcGdjUnB5MzRfOXhkcDlfNE00ZEx5SjRZNlpEOXliSzZVRDZYeUlFdGlZUG1BbzNkWnVvV1dWNmJJUmEtM3ZPNTdmNTE5N1o1NVlUS3A1?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T16:55:39Z",
-      "summary": "在美中 AI 竞赛加速之际，联合国试图在人工智能治理中保持相关性和影响力。面对两国在模型、算力和产业应用上的领先，联合国希望推动全球 AI 安全、伦理、标准与包容性发展，避免治理碎片化，并让发展中国家参与规则制定。然而，其缺乏强制执行力和核心技术资源，使其协调角色面临挑战。如何在大国竞争间建立共识、把 AI 用于可持续发展目标，并防止风险外溢，将是联合国争取 AI 治理话语权的关键。"
-    },
-    {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-21T16:38:51Z",
-      "summary": "前会计师创办的 Tabby 正利用 AI 切入记账和财务自动化，目标是让传统会计师的重复性工作变得多余。Tabby 被设计为实时记账界面，可处理客户的票据、文档和财务流水，并即时提供企业盈亏数据。这意味着小微企业能更快掌握经营状况，减少手工录入和月末对账成本。其技术要点在于文档理解、自动分类和实时账务同步。若准确性和合规性得到保障，此类 AI 财务助手可能重塑会计服务分工，但完全替代专业判断仍不现实。"
-    },
-    {
-      "title": "Run Positron on Amazon SageMaker AI for data science workflows - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc09zelFIejc0eEhDZXU0T1FKSmdySGgxT21OaG9BcTIwOFh2c2kyQTVzTjFZc2tFNHh2RTFNZW5HLUFMd2VvSjhFT21iTzRWdXlQb2Mxb0Fyd1J0ZzQ2eHlKYkdmbGloa1daM01hZzRtalBQblV5bnloak9TNU1zaUktVGo3c1p1ekVYRjI2dDRIb0hOcF9zeE04YTVZcHFNdXFoa3d4a3ZzWmpmN1E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T16:34:21Z",
-      "summary": "AWS 发布指南，介绍如何在 Amazon SageMaker AI 上运行 Positron，以支持数据科学工作流。该集成意在让数据科学家和开发者利用 SageMaker 的托管基础设施、模型开发与部署能力，同时保留 Positron 的交互式数据分析体验，从而提升可扩展性、协作效率和从探索到生产的连贯性。对于企业而言，这有助于把数据分析、机器学习和 AI 应用统一到云端环境，降低运维负担，并加速数据科学工作流的落地与迭代。"
-    },
-    {
-      "title": "Bill Gates says Trump's AI views point to societal blind spot - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52LS0yZl9tYlljRmlZbTJySG16c1JmTTV6dHlWaEtzdnIzUmhhb3pJTmoxSlltaGFGVy1aRWJXeXA3Vk9iRnh1Ym1PSTVUSXRXeC1xLWlnaFluVjRycGNET21BQTE1SzBDNG9PUU9MYU42NTZ2U0xmVA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T16:07:00Z",
-      "summary": "比尔·盖茨表示，特朗普对人工智能的看法反映出社会存在盲点。他可能意在批评对 AI 风险、监管和分配影响的低估，并强调 AI 不仅关乎技术竞争，也涉及教育、健康、就业和不平等。盖茨长期关注全球公益与技术治理，其表态提醒公众：若只关注 AI 带来的经济增长或国家竞争，而忽视安全、伦理和包容性，可能扩大社会分歧。围绕 AI 政策的分歧，正成为美国政治和科技界的重要议题。"
-    },
-    {
-      "title": "Trump to decide whether to green light US-China artificial intelligence 'hotline' agreement: sources - foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUVhGOEpJUVZTREFzOTFfdzQzdW5wTDZfZDRsWEdzSmJKVy1OUXNCSm9tZ3hxYXdpWEctVnN6bExVOXQwdGZiWVJJb0RKLWVGa20yLTQ2Qk9vTTlBLTdQMERNMG56R2ppWVRZTWhEZm1rWUtobTZFYWoxQWRfZXVqRFNXcG1uRVhmUFgxbl92d05DY1FQNG5aREhGRV9GV19xVU4wa2JnWU11Q2NJNjdCX284cVVIMVp0U1pXOXhsMTl0ckxXZlcw0gHMAUFVX3lxTE9sX2N6OVYtQ0tpdkt4dWpmbVg1SGUwMnhRVEpZSFpSMlh6cG12ck0xRWZZTGtDSlhJSWRhX1JQRVBNbWRvSW9RS3Bkb0dCNVI1WWpwck9hSUxXTTdRbDVPalVRblE4UmtXenBlNU96RTF1NUtPWFdMQ1JBV3B2SGF2RllTMjEydzVOWGRuamltaEVhQk1pZlBNTUhPVlFuQVFxQTFkQ0tpTllEWjl5ZVZud0tOUlNEaHhES3lIcGlxN0tCMG1nVUtkUXE0eQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T15:47:00Z",
-      "summary": "据福克斯商业频道援引消息人士报道，美国总统特朗普将决定是否批准美中人工智能“热线”协议。该协议拟在中美之间建立人工智能领域的专门沟通渠道，用于就AI安全、风险管控等议题保持联络，以降低误判与摩擦风险。目前协议能否落地取决于特朗普的最终决策，白宫尚未披露具体细节与时间表。若获批，这将成为两国在人工智能治理与危机沟通机制上的重要一步。"
-    },
-    {
-      "title": "Emergency department triaging decisions supported by artificial intelligence (AI) led to improved triaging accuracy and patient flow - 2 Minute Medicine",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTUl0Vk9neUJINmxBdjFicGNic1VPTGpvdWhEbDFtZW95dUppUmpjcGFoX3dobFFFTnRnWk9mZlZPUXY0OUZQcFItdnQ4c3h5Z05aSTlObDByOFBUOTFWU1Q1X0hJZnVLNC1Hd0ZSZWF6dFZLc0haQ21ZRmFsdTBuMjY3Ql9xQ3hJVElFLTZ6eFdIU3VaZ1VxWGg5RFRNbWc3SG1uNHFiVk9vZEtPSkhsUVprMzFOdTN1azBnbmE5LVFBRkpmZHdTRWRpQ1QyTDRDTjZ0aXZGTkV0NXBpRUFidnJZSVphTUljWHJoOW1UYksxaEFoVnc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-21T15:36:34Z",
-      "summary": "一项研究显示，由人工智能辅助的急诊分诊决策可提升分诊准确率并改善患者流转效率。AI系统通过分析患者生命体征、主诉等信息，辅助医护人员快速判断病情紧急程度与就诊优先级，从而缩短危重患者等待时间，优化急诊资源配置。研究结果表明，AI支持下的分诊在准确性和流程效率上均优于传统方式，为缓解急诊拥堵、提升医疗服务质量提供了新思路。"
+      "publishedAt": "2026-09-21T20:28:00Z",
+      "summary": "《达特茅斯报》报道，达特茅斯学院教务长Santiago Schnell的评论文章和学术文章被AI检测工具Pangram标记为“AI撰写”。Pangram宣称近乎零错误。事件引发对AI检测可靠性和学术诚信的争议：检测工具可能误判，尤其非母语写作、公式化表达或经编辑润色后易被误标。高校需谨慎处理AI写作指控，建立透明申诉机制，避免因工具误差损害学术声誉。技术要点在于AI文本检测的准确性与伦理边界。"
     }
   ]
 }
