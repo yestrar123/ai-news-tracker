@@ -1,251 +1,97 @@
 {
-  "updatedAt": "2026-09-22 20:38:05 UTC",
-  "totalArticles": 35,
+  "updatedAt": "2026-09-23 02:16:45 UTC",
+  "totalArticles": 13,
   "articles": [
     {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-22T20:00:00Z",
-      "summary": "高通发布两款新智能手机芯片，重点强化端侧AI能力。高通表示，其新款旗舰芯片可在本地运行300亿参数规模的混合专家（MoE）模型，意味着手机无需依赖云端即可完成较复杂的大模型推理任务。此举延续了芯片厂商把生成式AI推向终端的趋势，有望降低延迟、提升隐私保护，并推动新一轮旗舰手机在AI功能上的差异化竞争。"
-    },
-    {
-      "title": "Trump says he’s renaming AI to ‘super intelligence’ - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckMxTlUwUEdVMk5jNEVzdGt3aS1FUHhwS2JwQThYLWNHaUpCbnI1T1dLcWxxVXkzTVlOVkwwbEE5S3UyYmhXbHBjYWkza0x2TTZ0ZEFoMWVNaHRuaWNwLWpmT2JzY09nY3pybDlzbGlNR3YtTGpaMC1LaDQxdWdZR2ZwQmxtaGUwSk5iRjYxRlBFTXNvUnVXWHgwY18xV3py?oc=5",
+      "title": "Advanced transportation systems incorporating artificial intelligence (AI) technology will be expand.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rUE5SU253RjhEdm1UNDZfTWtxRzU0bVhobE5ndzZMYVBha1lQRjBpYVgzVi1CSkt0X2d2b19rcHdqZlpIQWxoUUQ3TkxkZlZfSmc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-22T19:50:49Z",
-      "summary": "据《华盛顿邮报》报道，特朗普表示他将把“人工智能”（AI）改称为“超级智能”（super intelligence）。这一表态延续了其对AI术语的公开评论，也引发外界对其政策立场的关注。由于原始信息有限，具体改名是否涉及官方文件、机构名称，或仅属个人提法，尚不明确。观察人士认为，此类表述更多具有象征与舆论意味，而非实质性的技术或监管定义变更。"
+      "publishedAt": "2026-09-23T02:06:47Z",
+      "summary": "据韩国《每日经济》报道，融合人工智能技术的先进交通系统预计将进一步扩展。此类系统有望通过自动驾驶、智能调度、实时路况分析和预测性维护，提升交通效率与安全性。报道虽未披露具体项目细节，但显示AI正从实验走向交通基础设施核心，推动城市出行和物流体系智能化。后续需关注政策支持、数据合规与跨部门协同。"
     },
     {
-      "title": "Kenya News Agency - KNA. . President William Samoei Ruto: Artificial Intelligence (AI) is already transforming education, health, finance, government and critical infrastructure - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORm9Xc1ZVQTYyTXdoVk8wQVdfYm8tVEVJSkkwSkxOV1ZHaVV0TFd6aFE1WVpHRE1JZG54bm1LYUNXdlpmaHVtYnd2dE5CN2VnMXNFNks5YTlaZERKSXRVN21JeWZ6ek5YT21sdmNMVUdaanVpYVpqbk1UMGFfX3dHeDBwcmlUcTBmY1JUSDVzQzlyV1R2cEpDYW41dk45ZW1FZVVKdi1zUEJKUHNDQ3lFNF9kQTZ4RUNBVHRMbTdWd1MxNkxBVVFQSmJfOVREVkFRWUw3ck9TRVBDVERTOVdz?oc=5",
+      "title": "AI Governance: From ‘Regulating Models’ To ‘Building Order’ – Analysis - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVRhaFVreEhQNHRJUUo4aVRUZkVsMWVJTlZoLUpTU0drWTY4NnFERkpBQ0t0cmI4SVV0YUhCMlg2RVBKQ016QVRET0VpZlVVZkhtRlJTX1BXcXd1Z2hER0tYSmM2OTdTakJLWFhmVER6SzFEcS11RTQ3LW1vMEpYY2gyUmw3c280TGh4a3hYOTNGZFlnVmhNUzJEdVRUbGRIb21rOThn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-22T19:36:52Z",
-      "summary": "肯尼亚总统威廉·鲁托表示，人工智能已在教育、医疗、金融、政府和关键基础设施等领域带来变革。他强调AI正加速渗透公共服务与国民经济核心部门，肯尼亚需要抓住这一机遇推动数字化转型。该表态体现出非洲国家政府对AI应用前景的重视，同时也暗示其在基础设施、人才储备与治理能力方面仍面临配套挑战。"
-    },
-    {
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-22T19:09:11Z",
-      "summary": "Meta承认其AI助手Muse与OpenClaw的相似并非巧合。公司称Muse为“从零构建”，但坦承该产品“深受”OpenClaw启发，甚至连部分工作区文件名和内容都与之相似。此番表态源于外界对两者高度雷同的质疑，也再次引发关于AI产品在功能、界面与实现细节上借鉴边界的讨论。"
-    },
-    {
-      "title": "Pritzker forms ‘AI cabinet’ to assess risks of artificial intelligence - WIFR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY1kxUGFtd0hfdk1qU3ZXdGk2ek1iZlFPUmUycE5YVjAzX2c5dDBGeG9HTURlY3pBYnFCcThGZUpuNkhSdGlTd0J0c014OWd4ajRoak5rNnVKUzFRNGd5SldrYm53bkVNTkV4Xy1LYmpoYS1oUGtoOXc5SW11ZG1kVnp6WHNKRV9fdDN4dDgzUGVaY055eXc2QnEydkFnRTZLeW1RbXVVaHBudlVi?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T19:06:00Z",
-      "summary": "伊利诺伊州州长普里茨克组建“AI内阁”，用于评估人工智能带来的各类风险。该机构将汇集相关领域专家与政府部门，对AI在公共治理、隐私安全、就业与关键基础设施等方面可能产生的影响进行研判。此举反映出美国州层面正试图在鼓励创新与防范风险之间，建立制度化的评估与协调机制。"
-    },
-    {
-      "title": "Banks Say Consumers Unsure AI Agents Are on Their Side - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkRBaFI2OFQ4SFR2Q0tkeFlvMVQyalduR3BDR2VYOVhjRmlqNmVqSzJqbXpyTEpqNWlsSDVRTV9lUW9GREdmMEJ4Wlp0MjkwTTB2enI0ZjRVSW1Gb3JQNDVZUTlOcGRYSy1YaDhEVVAzblRPRDlFbHpLckdnMGFxcXZ4cWpYRUNtazRTMkxxNWZESmFGQTRCVXZrS3poY05aTzZPZ1lhSFNxX2Rwc1gwR0V3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T19:01:19Z",
-      "summary": "据PYMNTS报道，银行业指出消费者对AI代理（AI Agents）缺乏信任，不确定这些自动化助手是否真正站在自己一边。金融机构在推广AI客服、理财与支付助手时，面临用户对利益冲突、数据使用和决策透明度的担忧。报告认为，要提升采纳率，银行需在可解释性、授权控制与责任归属方面给出更清晰的承诺。"
-    },
-    {
-      "title": "Gov. JB Pritzker assembling Illinois Artificial Intelligence Cabinet to assess AI threats - Chicago Sun-Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDlaR2o3Sk8xczlobGxrUE5TUXhHVGx0eUZPTmNoU0tOQkk4UXdPWG9aeWxzUXlpZFp6Z2ZUS1BMSFF0c3F2c3hKbTdqeFN3YzdDbThnVi1PSnREQ2JCRXNOTFZoWXZjMVBLcTY2MS10eEpISUNfVXhJVTVGNU9QcWhaUXAtcl80bG1JeE9PWFg3aTcxN1JXc0F6UzZuajEtMTQ4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T18:31:00Z",
-      "summary": "《芝加哥太阳时报》报道，伊利诺伊州州长JB·普里茨克正组建州级“人工智能内阁”，以评估AI带来的威胁。该内阁将聚焦AI可能引发的安全、隐私、就业及公共服务风险，为州政府制定应对政策提供依据。这显示地方政府正加快建立跨部门协调机制，在推动AI应用的同时强化风险监测与治理能力。"
-    },
-    {
-      "title": "‘Artificial’ sounds fake: Trump proposes renaming AI ‘super intelligence’ in UN speech - Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbWpaeWtUMkNxMXNJWnNISURkeVdibi1lbmM3eTFHVXhOLWFKUjVfaXNETGpBbEsyNjdOY2xkNENMeHE2a2dsZFBDa0EycXdTNklCa1pUcjNNTzFfUG9tWFpIOERHdWlNNk5HTlJtendNeXBPRnNId2JhMS11UlpsaDdqaFdscXdBU041eDRfR1BxMDhCaGdv?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T18:31:00Z",
-      "summary": "在联合国演讲中，特朗普提议把“人工智能”改名为“超级智能”，理由是“人工的”（artificial）听起来像假的。此番言论延续其对该术语的公开质疑，也把AI话题带入国际政治舞台。报道认为，这类改名主张更具修辞色彩，实际政策含义有限，但反映出围绕AI定义、叙事与话语权的争论正在升温。"
-    },
-    {
-      "title": "Corporate bond buyers get picky with flood of AI debt - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTBXQ0tEcFNaRTU4dV9GdmJTSmxPVUYzVVhNQmRyWkRHSEx5YTJNMjFLcjNIWFI2R05iSEhSdlF3b29abnEteEcyR3dtWHBCYmNDWmJXcTBqQkdwWUxmWi12Yk1sQWV6VWJPTjZWeG9FckdFT3FlMVhXRkk5SFZyWElxZXVMZ1J2SEpiMm1CZ19jQXVkSnFpUVB6Ujk4cmdyOXNESXhiZXprUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T18:21:10Z",
-      "summary": "路透社报道，随着AI相关企业大举发债融资，公司债买家开始变得挑剔。投资者不再对带有AI概念的债券照单全收，而是更关注发行方的现金流、盈利模式、债务结构与偿债能力，并对估值偏高和产能过剩风险保持警惕。这一变化意味着AI热潮正进入更理性的融资阶段，信用分化可能加剧。"
-    },
-    {
-      "title": "Trump wants to rename Artificial Intelligence ‘Super Intelligence’ — but his real message is that he doesn't want to regulate it, and that's what worries me - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPSGlRcmMyUmZXalZ2S1pZRlJtWjNtZ0VDUTJMSUxvSVNmYnE2TS10X2xrWmFicWN5WGQ3enpDM3MzXzFyRjROTUdnekJKbFgyWl8zRGlPd2otQmVmNkZnTjNackcwWkZEY0xiQ1dOWjZaRkhxNDlsbDhTT0FVRXIxZDR1dG40UTBrUk1uMjdzaFlBZjNCUUhLNUF6QnpuOXU1bl9QYlV3eGNfbm9KZmw1M3RmTTJBZ3BVazk4VGdUcjRFX3JNUXhDcnF0MDl2bVU2MjJIcmJUSEhxMGVuektYWlpjY1Y4VjF5bkRSZkRoRlVoR0wyNWtLc2Q3R3R2R0lFaUdnbXNibHVOZU5WeVFDU29CNGFldWxfYmZQa2t2dlRLTWZWbFE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T18:15:10Z",
-      "summary": "TechRadar评论指出，特朗普提出把人工智能改称“超级智能”，其真正信号是不愿对AI加以监管，这正是令人担忧之处。文章认为，改名说法转移了公众对政策实质的注意力：在AI快速渗透社会各领域之际，缺乏监管框架可能放大安全、隐私与垄断风险。与其争论名称，不如推动透明、可问责的治理安排。"
-    },
-    {
-      "title": "Trump orders all US agencies to refer to AI as ‘super intelligence’ - Breaking Defense",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzJwWERpRFRXMHgtaHFZWW9wLUdPRFJJczdNMHFyYnBQOVg5eGxjT21raDdNaDBkdGZwYUMzOG9ycGVMOTB5TnFySnNmTWY2cU1LMGs3ejlOUjRqaUFXcnRDN0dnNzVGUy1YblpzSVZjc1RQc0lNM0wzZUFIc3FhY1dSbk1ETTNWQ1dYTXVJbUg1blRvZjhXTHgtX1FXd3FZT0hRWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T18:14:02Z",
-      "summary": "据Breaking Defense报道，特朗普已下令美国所有政府机构在官方表述中将人工智能改称为“超级智能”。这一命令要求统一使用新术语，可能影响联邦文件、公开沟通和政策表述。报道未披露命令的法律依据、执行期限及具体适用范围，但显示特朗普政府试图通过重新命名来塑造AI叙事，突出其战略价值和“超级”能力。支持者认为新称法更具前瞻性，批评者则担心改名无法解决安全、监管等实质问题。"
-    },
-    {
-      "title": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYl82VnlnNDZ1ZElxSE9RMmlPZ29FSjVleTBLZG9SYzRxc0FXRXpWWmRqekhENWtKdXdNX2ZGOFdCcGZjZVFHMWc1a3hLcGRtZUNmaU5DMmlHbzZIX3hWbTlTWklXU3c5LXpuMjB6YUtNY1Z4RTBDTlZON1BlejZ3RUFR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T18:06:39Z",
-      "summary": "据《纽约时报》报道，Anthropic发布新一代AI模型Opus 5.5，正值业界围绕AI安全展开激烈辩论。该公司称Opus 5.5是迄今测试过性能最强的模型，并在价格上更具竞争力，达到Fable级表现。发布之际，先进模型的能力边界、滥用风险和安全防护成为焦点。Anthropic长期强调负责任扩展，此次新品能否在性能提升与风险控制之间取得平衡，受到广泛关注。具体基准测试、开放范围及安全评估细节仍有待披露。"
+      "publishedAt": "2026-09-23T01:37:13Z",
+      "summary": "欧亚评论分析文章指出，AI治理正从“监管模型”转向“构建秩序”。传统思路聚焦模型准入、算法透明和风险分级；新范式更强调制度生态、责任分配、国际协调与动态适应。文章认为，单一模型监管难应对通用AI和代理式系统，需要法律、标准、审计、保险等组合工具，并把安全、创新和公共利益纳入长期治理框架。"
     },
     {
       "title": "Trump renames AI 'super intelligence,' rejects international oversight - ABS-CBN",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUEN6cC1hUE54YzhXZTU1UlBSSTV3aGpwRjdKX0RvZnAyTGw0b215RmNDWUE0d0RNQWNfaXczc3E1bUY3SnJJWUpSY09qZ3dKYUxNZUI2RXRQYlhxVjhHaTVBc000N280bDZKVkljdmdubkhEOW5ZbUloVDFrZzc0MmYyWEtkQVNmdE5iaTNCc0FtQWRaMlBXMjhmUjdyblZNUUM4X2o0bG9MUHp5UXdlcGs2T1pqbEp2YVZKREF2Yw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-22T18:04:31Z",
-      "summary": "据ABS-CBN报道，特朗普推动将人工智能改称“超级智能”，并拒绝国际社会对AI实施监督。此举延续其统一官方术语的做法，也释放出美国在AI治理上倾向单边自主的信号。特朗普认为“人工”一词可能带有虚假含义，改用“超级智能”更能突出技术能力与国家竞争力。该立场可能加剧美国与国际社会在AI安全、标准和监管协调上的分歧，并影响全球AI治理谈判。报道未说明国际监督的具体范围及美方替代方案。"
+      "publishedAt": "2026-09-23T01:19:36Z",
+      "summary": "据ABS-CBN报道，特朗普将AI改称为“超级智能”，并拒绝国际监管。此表态凸显美国在AI治理上的单边倾向，可能影响全球规则协调。所谓“超级智能”通常指超越人类能力的AI系统，涉及安全、伦理与地缘竞争。特朗普反对国际监督，或使各国在标准、风险管控和产业政策上更分化，科技公司也面临不同监管环境。"
     },
     {
-      "title": "Trump wants to rebrand artificial intelligence. It was almost called these 3 names - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tdER1SDlLTWhUZXM4MkpCNmgyaWxmZklsT2VCazR1Q3dkZ09JX0xtMk1aM3N0ZlF6bnRxekZoWWFNc3kzRXFZRy1hdnNSdFVwd1J4Zk9JX0VQMkxhaHFxSFhvcTZjY2lZckF2ak03c0ZSbFk2dzk3dUhHU0MwZw?oc=5",
+      "title": "Trump renames AI 'super intelligence' as leaders jostle over dangers - Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTFLUXppTjE2UlhMc2RXNWZsMWRvWGZrX3RXX3EtSDkwR0pWYXRscGhteUJsNlB3cWpHaWVsZzVDM2ZwdmI4ZkNXTjRvUDM3SHJ1M1ZUeUV2WFE4azBRVGI3UjV6ajJ3Y1ItZzVqa0tZenZfaTNZWEFoMDhKLVQ2ck9ldzFwTTBzSnc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-22T18:00:36Z",
-      "summary": "据Business Insider报道，特朗普希望重塑人工智能的品牌形象，推动用“超级智能”替代“人工智能”。报道还回顾称，AI在定名过程中曾差点采用另外三个名称，最终“artificial intelligence”成为通用叫法。特朗普认为“artificial”听起来像“假的”，因此主张改名。此举更多具有政治传播和话语塑造意味，可能影响公众对AI的认知，也反映美国政府在AI叙事上的主动介入。由于原文摘要未列出三个备选名称，具体历史细节有待进一步查证。"
+      "publishedAt": "2026-09-23T00:07:42Z",
+      "summary": "雅虎新加坡报道，特朗普把AI称为“超级智能”，而各国领导人正就AI危险展开博弈。该称谓把讨论从当前生成式AI提升到更高能力系统，强化安全与战略竞争叙事。报道显示，围绕AI风险、监管权限和国际合作，各方立场分歧明显。美国若拒绝国际监督，可能加剧治理碎片化；企业需关注政策不确定性与合规成本，同时继续推进安全评估与透明度。"
     },
     {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "title": "Trump says he’s renaming AI to ‘super intelligence’ - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckMxTlUwUEdVMk5jNEVzdGt3aS1FUHhwS2JwQThYLWNHaUpCbnI1T1dLcWxxVXkzTVlOVkwwbEE5S3UyYmhXbHBjYWkza0x2TTZ0ZEFoMWVNaHRuaWNwLWpmT2JzY09nY3pybDlzbGlNR3YtTGpaMC1LaDQxdWdZR2ZwQmxtaGUwSk5iRjYxRlBFTXNvUnVXWHgwY18xV3py?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-22T23:48:14Z",
+      "summary": "《华盛顿邮报》报道，特朗普表示要把AI重新命名为“超级智能”。这一说法更多是政治与传播层面的重新框定，而非技术定义变更。它可能意在突出AI的战略重要性和超越人类智能的潜力，并配合其反对国际监管的立场。分析认为，命名变化会影响公众认知和政策辩论，但不会改变AI系统研发、部署与风险治理的实际挑战。需要关注后续美国政策信号及其对全球AI合作的影响。"
+    },
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-22T18:00:00Z",
-      "summary": "据TechCrunch AI报道，OpenAI推出GPT-6系列两款新模型Sol和Luna，宣称成本更低、错误更少。OpenAI表示，这两款模型与Astra同源，延续同一技术路线，主要面向开发者和企业应用，旨在提升可靠性与经济性。新模型若能在保持性能的同时降低调用成本，可能进一步加剧与Anthropic、谷歌等厂商的竞争。具体参数、定价、上下文长度和可用范围尚未在摘要中披露。GPT-6 Sol与Luna的发布显示OpenAI继续加快模型迭代节奏。"
+      "publishedAt": "2026-09-22T23:21:49Z",
+      "summary": "TechCrunch公布创始人峰会日程，将于11月4日在波士顿举行，聚焦融资、招聘和AI洞察。活动旨在帮助创业者少走弯路，把创办公司中的难题转化为可操作经验。议程涵盖如何对接投资人、组建团队、利用AI提升运营与产品效率等。对初创企业而言，这是了解资本趋势、人才策略和AI落地实践的机会，也反映AI正成为创业公司核心竞争力的重要来源。"
     },
     {
-      "title": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdjljX1dKVG55bGRTZ2xjY2c1QXkxcV9rSHdKS0FhYUY1dkxQVnF2QXJzOEljalVFcWFINzNHQktXazlsdFVPbTlUZFNNTzRWT3E2X3VybHpjVDhzSzI0OHllZnJtVlRKSy1weDdSdUhXbTFiOFlFbFpidVczcE9yZzlmMjNCMnM?oc=5",
+      "title": "Artificial intelligence 'creating, not cutting' jobs in Newport - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MTg3M0oyQ2pGdFUyWmRKVjB5eHdSV3IwY05TaGI3UW1oZmNoMFk5anJ0em5tNmx6enJuT09Oblo4MjVGTTFWRGJxdm91QlhRaGZaUlVUSW5SVGs?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-22T17:48:08Z",
-      "summary": "据《纽约时报》报道，特朗普与中国国家主席习近平将在中美峰会上讨论人工智能风险与竞争议题。AI已成为中美科技竞争的核心领域，涉及芯片出口管制、模型安全、军事应用和国际标准等。峰会可能寻求在AI安全对话和风险管控方面建立沟通，同时围绕技术主导权继续博弈。报道未披露具体议程或预期成果。若双方能就降低AI风险达成一定共识，或有助全球治理；但结构性竞争仍使合作前景复杂。"
+      "publishedAt": "2026-09-22T22:02:18Z",
+      "summary": "BBC报道，在纽波特，人工智能正在“创造而非削减”就业岗位。当地案例显示，AI应用带动了新的技术、数据、运营和维护岗位需求，同时帮助现有员工提升效率，而非简单替代。该趋势说明AI对劳动力市场的影响因行业和地区而异，技能再培训、人机协作与岗位转型是关键。若企业能配套培训和组织调整，AI有望成为就业增长和区域经济升级的推动力。"
     },
     {
-      "title": "Trump Renames AI To \"Super Intelligence\", Says \"Artificial\" Sounds \"Fake\" - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdEEtS2p2RDM2RUZiWjdCM2xRQ19obTZXOTk5RHZ5UjI2Z294UGtqRzltdC1DRVJneWlVbmZ3QlBzY0dfSkFKWkFTMmdxa0NkRW1VNjRiZWI1OW9NblBTQ1MtQ0d5ZzdmSUtoTTIwc1ozcW5BTW96UlN6UTFlZjVlRHlYOG9ncHh1QktDdVoyRTNCUFIwUjhJX3ZLU0Z5ZWdVaE9UcWJha1VGd29SX0ZmVEtxcmNDZFJfektISnpuY9IBxwFBVV95cUxPOUxIdEhDTVFWY2FGWnVKWS1kNXV5aHRWb2lQczU2YUI2UEtjdllrdWk0d0Z4WHdpWHpsV0QzYWl6ZDBrQ2ctcUk2dVRXdHJlbU5IT0FzaUV6OTJRMlRjbEVGU2xuR0k1UHo3Q1ViS0tYeUw4SDB3TVZkMWZaUm9fUlg2d3JNRjNWZUpJbmRIYnlMd1UxNTdKOGFUazJBejZwZHRPbFdHaHR3NXM1Y3Y5N3lWanJXNHJEREQtbzM1ZXNCT2RRT25j?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T17:06:41Z",
-      "summary": "据NDTV报道，特朗普宣布将人工智能改称为“超级智能”，理由是“artificial”听起来像“假的”，可能削弱公众信任。他主张用更具力量感和正面含义的“super intelligence”指代AI。此举被视为对AI话语权的政治干预，可能影响美国联邦机构用词和公众认知。批评者认为，改名并不能解决AI安全、偏见和监管等实质问题，反而可能模糊技术定义；支持者则认为，新名称更能体现AI的能力和战略价值。"
-    },
-    {
-      "title": "Gov. Pritzker Establishes Illinois Artificial Intelligence (AI) Cabinet - RiverBender.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94NUFOaHZIbVlFQ1cxc2lDZjBHQ0I0RUxNazM1eHJqbUtXX2JYcFI5Ri1KQlVURV9QNHJaTW1BYXpHdXpDSkQ3R0tsbmU1b1VROG5JRjF0aXFVeFFvT0l4aXlROA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T16:50:00Z",
-      "summary": "据RiverBender.com报道，伊利诺伊州州长JB Pritzker宣布成立人工智能（AI）内阁，以协调州政府在AI政策、应用与治理方面的工作。该内阁预计将汇聚州级部门、技术专家和利益相关方，推动AI在公共服务中的负责任使用，同时关注劳动力、伦理、隐私和安全等议题。此举反映美国州层面正加快AI治理布局，在联邦政策尚不明朗时先行建立协调机制。具体成员、职责和时间表尚未在摘要中详述。"
-    },
-    {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-09-22T16:30:07Z",
-      "summary": "据TechCrunch AI报道，Anthropic发布Opus 5.5，主打更低价格和Fable级性能。公司称其为“迄今测试过的最强性能模型”。新模型在保持高性能的同时降低使用成本，可能面向企业、开发者和高频调用场景，以提升市场竞争力。Opus 5.5的推出也发生在AI安全争议升温之际，Anthropic需在能力扩展与风险控制之间寻求平衡。与OpenAI GPT-6等新品相比，价格和可靠性或成市场关注重点。具体基准测试、定价和上线范围待披露。"
+      "publishedAt": "2026-09-22T21:56:43Z",
+      "summary": "TechCrunch报道，Snorkel AI估值增长两倍至35亿美元，反映AI训练数据需求旺盛。这家成立七年的初创公司完成3.5亿美元E轮融资，推进“数据即服务”模式，帮助企业构建、标注和管理高质量训练数据。随着大模型和垂直AI应用扩张，数据质量、治理与规模化生产成为瓶颈。Snorkel的融资显示，AI基础设施投资正从算力延伸至数据层，数据服务商迎来增长窗口。"
     },
     {
-      "title": "State Regulators Share Artificial Intelligence Examination Framework - ACA International",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmtGbFVVTHVkeFIwM1JKOF82amw0NkVXbDRqZEZmWEExaDFPMlVVTlNqNkplNXE0VUx1eEMxaEM3cjd4bkpncjJrVk5jTlJHYThJYzF0dUEzSUEwTUpEUlhtV0xmalg3UGFYQ1ZKaVNNdkdwMTdmNjRya01OeXJZczFqRnNuTTFtWkpRUFh1WWU3OHJybWg5ODNZX21wYUJBOU1ZbjdrWkhXUWs?oc=5",
+      "title": "Pritzker Signs Executive Order Establishing AI Cabinet To Assess Risks Of Artificial Intelligence In IL - Patch",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmg1c0luZ2xYU0c2VUdtQUY1RlBIaFNwWFBpZWRuYTc2eXlRcUpXZjNVNEl4aUJ2ekhOQUE1aDh1S2Y4SGt5VnFoZWRfbENvc1lkVWF2aGNQVTc2TnQtMk9IdGpaY1p2d0hqUnhhdm1mM09TNnFvOW51cmtIeEg3NmU4RlpTdVVjNFFkUFlVV00tZmdXNk5UaHdnREdHY3FKdjEzWl9MVkVta21MeUI2cGs2Z9IB4gFBVV95cUxNZmZFY1BXZnJWNmNEZlI1bEw4NF9lN3hjYmpxbjQxRElEd3lhS3ZvS2pqb3JBMHRsdXVmalE5YkxzSml2em94YXk3X1lxSU5OV2RDdGxwVzg0aUZUWFk3c1pXaUZvMFBvV2lfWUd6RmpnV1d3dGRocXBPTWNWcWVGdXJ4Yl9tcDhqM1lGM1l6U1pLUmY3bi1zRDRKYkZISnota184UUYtVEtCVDJrZkw2Wk5wNXR4Y2JHd1MtYzNaY0J2LVZBSEVzODRsZjRvM2JZMVduQUZYeUE3Rk5VdGpheHdn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-22T16:24:25Z",
-      "summary": "据ACA International报道，美国州级监管机构共享了一套人工智能检查框架，用于评估AI在受监管行业中的应用与合规风险。该框架可能涵盖治理、数据隐私、消费者保护、算法偏见、透明度和问责等维度，为各州监管人员提供统一或参考性的审查工具。此举显示，在联邦层面AI立法进展有限的情况下，州监管机构正主动建立AI监督机制。对金融、催收、信贷等受监管行业而言，可能需要据此调整AI使用与合规策略。"
+      "publishedAt": "2026-09-22T21:50:24Z",
+      "summary": "据Patch报道，伊利诺伊州州长普利兹克签署行政令，设立AI内阁，以评估人工智能在该州的风险。该机构预计将协调政府各部门，审视AI在公共服务、隐私、公平、安全与采购等方面的潜在影响，并推动负责任应用。此举反映美国州级层面正加强AI治理，在联邦规则尚不明确时先行建立风险识别与跨部门协作机制，为政策制定和公众信任提供支撑。"
     },
     {
-      "title": "Donald Trump rechristens artificial intelligence as ‘super intelligence’, dismisses AI risk concerns | Hindustan Times - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdmRuNDBmZXJaWEpWQkh5bWw1Zy03N1dvMEhyT3dwN28xNGpJNkwzUE5MeEdCeU9GT1FBU0hJdm5hWEhLTmVCRWdKQ1d3RGs2Z1NSYVY1VkFpNktVUVRfYnB1dUJ0MnlhZ3hCWWhVQTIydUJtckMtU2NQYUctbUt0c0NSY1JNSWRQUW9SMzZRb0d6UF9NNGhQUEpkZEVDNUZSc2JISEpjTHpvOGtiVFhuWGpUbE82U0VYQnZJdUc2b2R5Q2dXOXZ0TElmMGoxRnlldlZJS0paS2tYY1habjVjUWk2dWNFeGxzVXNkRFJ5U0E1VnBrV1hHOU4tSWtFbXRrWUxBc2Fpb9IBjAJBVV95cUxPS0VlekZ5MTFNa2RVNkM3U1diWmlTVGFCLVhwLUVOT2VDZUZ0TWZVbGVSMUdaSGFWTnp1N3drUE03cnBOcWlNTHRscXRySjgwR3MyUlc2cnBrVmVSUERnT0RncWJaTGtEUUUtVVpYSkgxa1padVFoN3daU05ydDZ1UFc0Unowdndza2hSLXZ3bDBsdWlMVjk0VHNBQ0wxdEs0aUJpVlFoWjhDRkZsTXZVY2NqZUw3NEpZRndJVzRNZHM2WXFQWEpNSElEUTNrTjhYd2pmWG4yUG5jSU03TDVVYXVWZEg3Q0k3dnJQTHlSTnZ3X1lTVmVMazg1ZkYxR3I2a1hVYUU4eXptdWJH?oc=5",
+      "title": "Danville Area High School begins using artificial intelligence in classrooms - WNEP",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZFBueGRDeFJsYVZQRUFraFlYS0tacVBIMjBSRWVPaHAzck5McmdhN2xvTnhJNGMwRDJuVml5TG9UUmp6V05RZkRraEZzUWpzV1hqSVVlOXFFaGVoVkdaQ2pxWk9fdWhzN3N5cFpmc3hjRlo5ZzA0UHNpeXZ6Rk1YUXVINXlXZTExWk56UlRxdlFMZUg1S1ZVVmFPRE9LcS1BZzBPUWIwa1N1ZHJnQkowbWR3UmpNZ1JLWnhiWmt4Q213WlAtYkpzeUNMTEtiYV82bHpGQnhBQ2tYX09ic0RqcURYOGtOWERMdmZDeEU4YlVBM2daSGhYQWxGbE11NEM2R04zd2xNVHJWT0F2aVliZkt3WlFJcTVSR2N6UUc2SDhXVzhC?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-22T16:16:45Z",
-      "summary": "特朗普在公开表态中把人工智能改称为“超级智能”，并淡化AI风险担忧。据《印度斯坦时报》报道，他试图用新名称强调AI超越传统“人工”范畴的能力和战略价值，而非聚焦安全风险。报道指出，这一更名带有强烈政治传播色彩，可能影响美国官方话语与AI政策叙事，也引发外界对风险治理是否被弱化的质疑。特朗普同时释放对AI风险担忧不以为然的信号，与其反对全球监管、强调美国主导的立场相呼应。"
+      "publishedAt": "2026-09-22T21:11:00Z",
+      "summary": "WNEP报道，丹维尔地区高中开始在课堂中使用人工智能。学校可能将AI用于辅助教学、个性化学习、备课与行政效率提升，同时需关注学术诚信、数据隐私和学生依赖等问题。此举反映K-12教育加速拥抱AI工具，从试点走向日常教学。成功关键在教师培训、明确使用规范，以及把AI定位为学习助手而非替代思考，以确保技术真正服务教学目标。"
     },
     {
-      "title": "What is Jev, the AI tool that everyone is talking about? - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkZlNFZuYVpQNmZUWUxTOWp0TlJRcEp4dUZhdUticy1CV0MyZHl4cTJBbjdjWl9NaGEtbWF1eGlDdVdlNm1IOHdWY2dNdUNQa29CSTl5M05aVEZtcE1HdXNWRExqVnpjRGw2azU4T1lKd2hwNzZidUpEQlNyTlllN3k4dkRrLWpyNF9mbGt2dTRQRjQ?oc=5",
+      "title": "‘Artificial makes intelligence sound fake’ — Trump replaces AI with 'super intelligence' at UNGA - TheCable",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEs3dXU5THJTZXVwQmdidi1nVldGSEkyODRsUnBKVENURHZRM296QVZkV0l0TXRzcGQxdWlibFZOdDQxc2hUT203RDZ6ZXJ1bUw3WDZRLUdTMk9XMWNRX2IteXctWTREaUdYNGlhMkhrWFlnWF9RX1E0X3NRWXFGc2pFaHJSV1BId2FRdlZHRWJxN3BVVXRSb2pOZGc3MGNDZGNxa3M5VWNnMGdKWE5kcks2S3ZOUQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-22T16:11:00Z",
-      "summary": "Jev是近期引发广泛讨论的AI工具，但报道以解释性文章梳理其基本情况。文章可能围绕Jev是什么、主要功能、使用场景及走红原因展开，比较它与主流生成式AI产品的差异，并分析为何在短时间内获得大量关注。由于公开信息有限，核心可概括为：Jev代表新一轮AI应用热潮，既展示工具能力，也带来关于隐私、安全、内容真实性和行业竞争的讨论。读者可通过该报道了解其定位及潜在影响。"
+      "publishedAt": "2026-09-22T21:08:00Z",
+      "summary": "据TheCable报道，美国总统特朗普在联合国大会（UNGA）发言时，把通常所说的“人工智能”（AI）改称为“超级智能”（super intelligence），并解释称“Artificial（人工的）一词让智能听起来像是假的”。这一措辞调整成为该新闻的核心看点，体现出其对AI术语定位的个人偏好，也借联大这一多边舞台向国际社会释放信号。报道主要聚焦于用语变化本身，并未披露配套政策、技术路线或具体倡议等细节，因此其实际政策含义仍有待观察。"
     },
     {
-      "title": "Not artificial, US will henceforth call AI 'super intelligence': Donald Trump says - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGJWRF8wUUZCVHpLSjlLdXExYl9LZzdwZ3VtM3VwNklFTWdSb3NyQ0k5WVRwLVY2Z2JLQjJDdXVuN1ZiUzR1Wk5GZUo5eGJVM1NkUk9OTF9OZC0zY3B3d21WaWxLWjR0RVVzb2VmUWdRRkZpSTRSN1F2V1N4MFpOckliMERiNUpYX0tobEhmREk3MmJnVkM2SURfbXhpM1FLazlmN1V2R2R0TlhfZzNRalN4c3dnMmJYWVFFb1VXRzBQZw?oc=5",
+      "title": "Minister says he's working with G7 to set up AI safety organization - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NWTZWaTRGenNpY3V3VEpicGpTMG44ckhkMDRnMDU4TGoxbnlQZFdUSHB2d09tTUoyUnVqc1RkcV9Za2dZdThOZk85cVktbnh1NTlfNEE0d0RkeTduOFFlMzREY3ZiS0J3anB6NHp2VUFnMm0wdHJIeA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-22T16:01:23Z",
-      "summary": "特朗普表示，美国今后不再使用“人工智能”这一称呼，而改称“超级智能”。据《德干先驱报》报道，他认为“人工”一词不足以描述这类系统的能力，新名称更能体现其超越人类智能的潜力。该表态意味着术语变化可能进入美国官方文件和公共政策话语，成为美国AI战略叙事的一部分。支持者视其为提升国家科技形象，批评者则担心更名会转移对AI安全、伦理和监管问题的关注。"
+      "publishedAt": "2026-09-22T20:52:30Z",
+      "summary": "据Yahoo News Canada报道，加拿大一位部长表示，他正与七国集团（G7）合作推动筹建一个AI安全组织。该机构预计将用于协调成员国在人工智能安全议题上的立场，方向可能涉及风险评估、安全标准制定与治理协作等。此举延续了G7近年将AI治理纳入议程的趋势，也显示AI安全正从企业自律和学术讨论，走向国家间的机制化合作。目前关于组织名称、职能边界、成立时间及资金来源等细节，原报道尚未披露。"
     },
     {
-      "title": "Trump says the US is officially renaming AI to ‘super intelligence’ - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUFoY2g1bnk4RHRWblhvbHhlUUlRaWtyV2x0cHZocHJ3Y2hKSlY3UTlVaFdFdTNUQkRERGRZTzh3SHdDSzhUd2tkemlTc1pGY0NkNXBJM1QwdkZ0X3hYcGUyN1V1R3puQ01fckkyNlA0Mlh4d05ORW5JY0RrS05rc3plUHZ6WmZrV2RKYjJ4X2xaX05OdFI0OQ?oc=5",
+      "title": "Who Pays for the Age of Intelligence? - worth.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yNkJoMEF0YnVBWVFJbFhETHBrQXJUeTFCNThlMi02TGo3bk1hbTdBWjVQMldFVW96WTh1X2p1Smt2MVZlTGI5eWMySWgtOTdjNzM0dXp6ZG9nWFFjeVRCcFlZbmdGdw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-22T16:01:10Z",
-      "summary": "The Verge报道，特朗普宣布美国正式将人工智能更名为“超级智能”。这一举措看似只是命名调整，实则反映美国AI政策的政治姿态：突出技术领先、战略竞争和国家安全，同时弱化AI潜在风险与全球监管必要性。报道可能分析，更名会如何影响联邦文件、机构表述和公众认知，并质疑其是否具有实际政策效果。对科技行业而言，术语变化可能强化“超级智能”叙事，但也可能让安全、对齐和伦理讨论更边缘化。"
-    },
-    {
-      "title": "Trump rejects global entity for AI oversight - Politico",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWjFSMGM0WDEzdFVqc3RrczI5d0JkSTlzX0pUTVFpa1V6bGh1UUZxeHNsTDNmRkJOQ2tGUWh3NnJ1MzZBclF1QnpCeHg1ZjR6cVZ3cU9jbUp6SzVWMFY4WFZZUmVQOE1mczBPdGR1TTk5VVNMTFlWc2Y3cjBGWkJSVElfZXMtbTRaWExTTnZCY0tJQ01i?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T15:58:00Z",
-      "summary": "Politico报道，特朗普拒绝设立或加入全球AI监管实体，反对将AI治理权交给国际组织。他主张由美国自主制定AI规则，以保持创新速度和产业领导地位，认为全球统一监管可能束缚企业、损害美国竞争优势。这一立场与其将AI改称“超级智能”、淡化风险担忧的做法一致。批评者担忧，缺乏国际协调会使AI安全、隐私、虚假信息和军事应用等跨国风险更难控制，并加剧监管碎片化。"
-    },
-    {
-      "title": "Watch: Moment Trump rebrands Artificial Intelligence to Super Intelligence - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wZElLYTA3N1pYMHNTa0dOTGpMT2dnUG9oQ0RYZE9KRm1VRnJJVWxLUFluRHpaT1V0SWpkMzBoODNpN0hhZGVJRnFHYWduMlN5eHJyMmN4ZXk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T15:53:25Z",
-      "summary": "BBC视频记录了特朗普把“人工智能”改称为“超级智能”的瞬间。他在讲话中宣布这一术语调整，称美国官方文件将采用“超级智能”表述。视频突出其现场宣布的象征意义：通过重新命名，塑造公众对AI更强大、更具战略价值的认知，同时淡化安全风险。分析认为，这不仅是技术定义变化，更是政治传播和品牌策略，意在强调美国在AI竞赛中的主导地位，但也可能引发对风险沟通和监管优先级的争议。"
-    },
-    {
-      "title": "Trump says AI will be renamed ‘super intelligence’ in all US documents - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHFSRVlHOGRzQlVzcWRvcHlCU2pyMGhSXzlPLUxvNnFqaldRVnpIYWJWMHpvRHY5OUR3UmV1eGtCS29LbHlHUFFDaHc5YjVhN1owS0RfT2Y1X0FSVVJsZ09WZUNNOUV4MGtZLTRMeS01bVJ2MHdaaE5VMEI3M3laVEZGejJCNHZSWDFuNWZ1NjBHd9IBlwFBVV95cUxQTnJVNkJmdXZuX2pHN0pqd1JKczNfM21JVHFLaHU5QVFHN1VERkxtNUhqQVZuZi1xaUZrZms3SzFWU201SUs2Y0cySEN2SG4wUmQ1TnVOMEo5T2lacDJpMzVoS2RwQWdUOUV2cG93bkZURUxNb2JhRkE1R1RyZlk1dkhvS1k2cGxSTjRlallVRzF4RzB4RkJr?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T15:46:00Z",
-      "summary": "The Hill报道，特朗普称美国所有官方文件将把人工智能改称为“超级智能”。这意味着联邦政府术语、政策文件和各机构沟通可能逐步采用新名称。支持者认为，这能更好体现AI超越传统“人工”系统的能力；批评者则认为更名缺乏实质政策意义，还可能模糊AI安全、偏见和失控风险，削弱监管紧迫性。此举与特朗普反对全球AI监管、淡化风险担忧的立场一致，显示其试图以命名和话语权主导美国AI议程。"
-    },
-    {
-      "title": "Trump Addresses United Nations to Declare That the United States Is Now Calling Artificial Intelligence \"Super Intelligence\" in \"All Official Documents\" - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMnNYR3JuYXZmUzBJOF9MeXdyaEJCd0N2cVBBSGMxdkVIVVBXa3ZYRUR6UTM1QTFRMkIxVW1kbTJNR0EzZ210MXJqOXdaZFBnNWs4N3JpQjlUejJvQ2dqVTIxOGt1TDQzdEh6QUx1aU5nRzYwZXNxdWtmWkdfcjB5dUtKTjM1Zw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T15:35:46Z",
-      "summary": "Futurism报道，特朗普在联合国演讲中宣布，美国将在所有官方文件中把人工智能称为“超级智能”。在国际舞台单方面更改技术术语，被视为强调美国AI主导权、拒绝多边监管框架的政治姿态。报道可能质疑，这种更名更像表演性传播，而非解决AI安全、伦理、就业和地缘竞争等现实问题。它也可能加剧盟友对美国AI政策不确定性的担忧，使全球治理协调更加困难。"
-    },
-    {
-      "title": "\"You Have A Tiger Cub For A Pet\": Godfather Of AI's Chilling Warning - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa0tXcWxVNnpQMGktYnp3ei1ERzZFbWpNRlc3d1h2VlpsLXdseWlHR1RRem5XSkQyTHRfUFdDMVNjRWNBV3hReEMzaHJzS1BIZmx2cDhsWXlxVEdmekZtc3g3TDcwVkxkWkI1WDJaRzNxaUZmdEgwaHZOQkdPdGhGd19wWHBpeHR5cERqU2lDejF6SkdNZXJ0eW5aSXpQOTN6a0xYeGZ4S2ZxbU10ckpUSFVQUk5iTDRNOHB0aXRWZXFXMF9qUmM1RlRucVlfaXfSAdcBQVVfeXFMT2hTSmZCdkx5YUJGTFRzRGNzaTFBUUdoVngzZGhSM0lrZlZfeExpeVIzeWhjWlVSTFpoQVYyRWM4RkZhWkJBcGpYSTZkdC1qRlcxSEZadDA3U19GR1d5VGZ2VUptbW81VDZ0WURyRFp6bkFuOTVWUXJLemd5UFFqUlNxSFVQd0xrTm8tbkptWUthOFhsMW85ZURBeEdnTlJhV3dMZm51MzV4TFI5R1hjeHhEVk1rLVhHbWtHSThxcVdIdG5rNVRKdGtKeUtxRWh2OE1lQXFpWlU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T15:22:55Z",
-      "summary": "被称为“AI教父”的专家发出严厉警告，将人类拥有强大AI比作“把虎崽当宠物养”。虎崽幼时看似可爱可控，长大后却可能带来致命危险；这隐喻AI能力正快速增强，若安全研究、价值对齐和监管跟不上，系统可能失控并造成灾难性后果。他呼吁社会不要因短期商业利益忽视长期生存风险，应加大对AI安全、透明度和责任机制的投入。该警告与特朗普淡化风险、反对全球监管形成鲜明对比。"
-    },
-    {
-      "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T15:21:51Z",
-      "summary": "路透社与益普索民调显示，四分之三美国人认为AI公司没有采取足够措施防止AI灾难。公众担忧集中在安全、隐私、虚假信息、就业冲击以及系统失控等风险，反映出对AI企业自我监管的不信任。该结果可能加大政策制定者推动更严格监管的压力，也对企业安全承诺和透明度提出更高要求。与此同时，特朗普政府淡化风险并反对全球监管的立场，可能与这一强烈民意形成张力。"
-    },
-    {
-      "title": "Vyzoxa Redefines AI Learning Through Practical AI Agent Development, Empowering Learners Worldwide to Build With Artificial Intelligence - indiagazette.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRWp4aFhoZnEteEk5aWR0dUZycGl2LXRVam1SNmtaeTAtaUR0ZkdZUndLRU4xMU5sMDVTb3RXUVJ5M3I2TDFBV0tYMkVTZW4zQi1sTl9uTFRyYUc5QXY1T1hYNlhrcTNCcGxqclljR2xEbV9jdFk2eDVLdk4xbXJnVDRZZHp5UFpVWHJpbGtPVUZXdi1GS1Z0enNRS3RFbHozSnA2S0RFQ2w3QjN3eXNLeW1mb001X1RvZ2t3V1hvT2R6Y3BQLUo1UDlMT09ySGFraTNCQUx4dm5MSmFlMHB0ekt1VVhyN1NKNWJRTUQ2cVRRaURxWTZDUmRkWEp6cjlCczBTNnN1OE9wN28?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T15:02:00Z",
-      "summary": "Vyzoxa 通过实践导向的 AI Agent 开发重新定义 AI 学习，面向全球学习者提供可动手构建人工智能应用的路径。其重点不在纯理论，而是让学员在真实项目中掌握 AI Agent 的设计、开发与部署，从而具备用 AI 解决实际问题的能力。这种模式降低了 AI 学习门槛，也强调“边做边学”，帮助更多人从 AI 使用者成长为 AI 创造者。"
-    },
-    {
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-22T15:00:00Z",
-      "summary": "AstroForge 将在其下一艘航天器 Autonomy-1 上引入 AI 自主控制能力，由一个小型、基于 Transformer 的 AI 模型负责对探测器进行指挥与决策。这意味着该任务将尝试把航天器自主性提升到新水平，减少对地面指令的依赖，并验证轻量级 AI 模型在深空或复杂空间环境中的实时运行与任务管理潜力。"
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-22T15:00:00Z",
-      "summary": "TechCrunch Disrupt 2026 设置了五场创始人应关注的 AI 安全专题，分布在 AI Stage 和 Real World AI Stage。议题覆盖 AI 安全的关键挑战与实践，嘉宾来自 Anthropic、Nvidia、AWS、Waabi 等机构。活动希望帮助创业者把安全与负责任 AI 纳入产品与公司战略。9 月 25 日前注册可节省最高 200 美元。"
-    },
-    {
-      "title": "SpaceX's AI Business Is Booming. Here's How Much Analysts Expect It to Generate by 2030 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTHRqb1dxaklrYnJmRUp4ZElKRHlMd0VROVlVdmtnbFY2VVVVTWthU2w4cjBJNHl5TTkyNnFELWtWSUpzYm5JOVJrSWhUMThiV18wRzdrTURVYUVuSzBKTUU1VjlWS3Q3cEQ1YVZBb0kyREI4YTVuTG1JMFhVUnVHT2pYVnZnV3lQaUl1ajFrNWMtT2d0UkNnZjZTU0sxcHExbFZuSExMTXN2NHJTeWdhQjFHS2xIQUI1N1JvRkVOTDByS1NoTG9mQg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T14:59:09Z",
-      "summary": "SpaceX 的 AI 业务正快速增长，报道援引分析师预测，探讨其到 2030 年可能创造的营收规模。核心信息是市场看好 SpaceX 将 AI 与航天业务结合后的商业化前景，认为相关收入有望成为重要增长点。尽管原文未在摘要中给出具体数字，但文章试图量化其长期潜力，反映 AI 在航天产业中的价值正受到资本市场关注。"
-    },
-    {
-      "title": "Using AI to ‘talk to animals’ might make us feel clever – but what, if anything, does it do for them? - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3VTdGE4dmMwUC1vUDZnUTNvUjlLX2ZTWFZfNEN2eWk2eW1VQ0lRRHNxWXBYbW9lcHhRdl9kS08xNEE0MHVWZS04M2ZuZktYQVM2YUh1RmVMYjQ0MkJDdDdfNHloNlJfM2s4S0RjVldHbW03cFB2eVRXNFNoc081ZzdfTGpVbkdnWHpSVFd4eTdubm9YUjBSTjdiVQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-22T14:41:00Z",
-      "summary": "《卫报》文章讨论用 AI“与动物对话”的研究热潮：这类技术或许能解码动物声音、满足人类的好奇心与聪明感，但作者追问它究竟能为动物带来什么实际好处。文章提醒，动物交流 AI 不应只服务于人类中心主义，还需考虑动物福利、生态影响与伦理边界，避免把动物仅当作数据来源或娱乐对象。"
+      "publishedAt": "2026-09-22T20:34:28Z",
+      "summary": "worth.com刊发文章《谁为智能时代买单？》，聚焦人工智能大规模发展背后的成本分担问题。文章追问：算力基础设施、模型训练与部署所需的巨额投入，最终由谁承担——是科技企业、投资者、终端用户，还是公共财政与整个社会。其核心议题在于AI收益与代价如何分配，以及由此带来的能源消耗、产业转型和公共政策压力。原文未给出更具体的数据与结论，但提示AI商业化并非免费，其经济与社会账单正逐渐显形。"
     }
   ]
 }
