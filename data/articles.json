@@ -1,12 +1,102 @@
 {
   "articles": [
     {
+      "id": "5440",
+      "title": "NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside China‘s AI boom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1hSZVA3UXRLNWE3RU8wUWRTN3Z5SGRTQWkzRGRScVVHdDhfWFliZXdLSXlDdzdoX3NhN3BjdzNEUTJ2NmJRMVYyN2RteUdidHd0ejNtS1hZSlFPUWw5Si1GblRRQktKM055MDQ3V2kzWlVuREpNSmJZelozbFZuVGU2MW1STXdqN09mUEJRa3hHUkNXbEdRUEhBV0gzVHg4RjRmQ0VRcExrNURXZnExcURyWmVheEQwSTVDTEhCODJGZUNWV09OSUFn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T20:11:03Z",
+      "summary": "路透社在一篇通讯稿中勾勒了中国人工智能产业的整体图景，将其概括为“融资狂热、芯片之战与机器人梦想”三条主线。报道关注资本大规模涌入中国AI初创企业、中美在算力芯片领域的博弈，以及人形机器人与具身智能方向的投资热潮如何推动产业演进。文章试图回答的核心问题是：在外部出口管制与内部激烈竞争的双重压力下，中国AI生态如何形成自身的融资节奏、技术路线与商业化路径，并由此重塑全球AI格局。",
+      "fetchDate": "2026-09-23"
+    },
+    {
+      "id": "5441",
+      "title": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBObE1ZM3ZSc0QwNURQWkZkS2tORVNRMHhNUUhvNjNZRjR4RHNIVWlyUE5qZV82WVowbEFFX2RhR09TeE5WMHQ4S3l0TkdZTjN3YWdvVUNfRUZYdTZVOW9jc3YtQlNHdWNjcFh4cl9jNlk4VDkxMlFJc18ybzlLN3B4NjZxZVB3cFNBTy1mSXlLVmZlbDRpdXd4WVljVEtaZGxkRHpIMTBSZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T19:53:00Z",
+      "summary": "据美联社报道，多家领先人工智能企业负责人向联合国安理会作通报，警告先进AI系统若缺乏有效约束，可能构成“全人类层面的风险”。这些高管呼吁建立国际协调机制，推动安全标准、前沿模型评估与风险信息共享，避免各国在缺乏共同规则的情况下陷入无序竞争。此次通报标志着AI治理议题正式进入联合国最高安全议事平台，也反映出业界在加速研发的同时，对失控风险与地缘安全外溢的担忧正在上升。",
+      "fetchDate": "2026-09-23"
+    },
+    {
+      "id": "5442",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23T19:31:28Z",
+      "summary": "AI生物技术公司Enveda宣布完成3.11亿美元新一轮融资，投后估值达20亿美元。公司主打从天然产物中挖掘药物分子，并借助人工智能加速筛选、结构解析与临床前评估，从而把更多源自自然的候选药物推进临床试验。目前其研发管线聚焦两类方向：治疗皮肤疾病的药物，以及帮助患者在停用GLP-1类减重药后维持体重、防止反弹的疗法。该轮融资反映出资本对“AI+天然产物”这一差异化药物发现路径的持续看好。",
+      "fetchDate": "2026-09-23"
+    },
+    {
+      "id": "5443",
+      "title": "Inside the AI machine: How the tech race binds nations into dependence - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDVWcTA5S2c2NTZuSllSeW1vN0pKQk9kaUpoVjhFa1hBOGRUMDFfdzQ0elpoODFZRDJ4T08tblh4QTZ2VW11NHhnZWxNOHpiSXI2dWpRWjYzRFFVckp2OF8wX0FfVVo5NmdOWDhSakJZWkRKUkZlR0VwYzBVMXhPeFR0cGdBV3c5NlhDLTdJQjdsamFmdzBsbjhXcFNRUkJVQ1JqTVl4b3lCbTg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T18:44:33Z",
+      "summary": "澳大利亚广播公司推出的这篇报道以“AI机器内部”为视角，分析全球人工智能技术竞赛如何把各国卷入相互依赖的关系网络。文章指出，算力芯片、云基础设施、基础模型与关键数据的高度集中，使参与方在获得能力的同时也承受供应链与规则被单点控制的风险。技术领先国通过出口管制、投资审查和标准制定巩固优势，追赶国则面临成本上升与路径受限，由此形成一种既竞争又彼此绑定的结构性依赖，重塑国家间的权力与安全格局。",
+      "fetchDate": "2026-09-23"
+    },
+    {
+      "id": "5444",
+      "title": "LIVE: OpenAI and Anthropic to brief Security Council as AI guardrails debate intensifies - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVGZCZ3prNmhaQXp3bkxTeWlRWlpjYUkxV2V0UWJGTy01dTFZQ2NoLXlXQWtVQ3lySFJsZmNuMDRWMWZQbmhfUGpqN3VsbFlPZ1ltNl9HQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T18:34:18Z",
+      "summary": "联合国新闻报道，OpenAI与Anthropic将在安理会会议上作情况通报，围绕人工智能“护栏”的讨论持续升温。会议聚焦前沿模型可能带来的安全风险、现有治理工具的不足，以及国际社会应如何协调监管。随着模型能力快速提升，各方在是否设立国际性安全评估、透明度要求和行为准则上分歧明显。此次通报被视为产业界与多边安全机制直接对话的重要一步，也凸显AI治理正从技术议题上升为全球安全议程。",
+      "fetchDate": "2026-09-23"
+    },
+    {
+      "id": "5445",
+      "title": "Pritzker Creates Illinois AI Cabinet to Prepare for Artificial Intelligence Risks - thetimesweekly.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVhHUlJsNnRLUE9oaFFheUNLaEJVSjlrdzlvbDRTYnBTdEd5TkRNV0dFX0FZZ1k0OS11WFVuUm1SV0ZnM2dMMmhXOUFyVUFXbW11Vnl0dFlkNk4wQWdZa2VxZnRHbFNZbFRHT3lHNEYtMmxWeDZpb21fdE50aDJETzRzbm5rT1hnWndHdmVROW5WTS1vNVNYMFBJNHg3RHpRWEdWOUJLaEdjQVNOdEtJSkVKZ0IyakFi?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T17:58:46Z",
+      "summary": "据thetimesweekly.com报道，美国伊利诺伊州州长普里兹克宣布组建州级“AI内阁”，统筹应对人工智能带来的各类风险。该机构将协调州政府各部门，在就业影响、公共安全、数据隐私、算法偏见以及公共服务应用等方向制定政策与预案，同时兼顾产业创新与人才培养。此举反映出美国地方政府正主动介入AI治理：在联邦层面立法进展缓慢的背景下，州一级通过行政架构先行建立风险评估与跨部门协作机制。",
+      "fetchDate": "2026-09-23"
+    },
+    {
+      "id": "5446",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23T17:00:00Z",
+      "summary": "TechCrunch报道，ChatGPT移动端应用新增基于语音的智能体（agentic）功能。Pro和Plus订阅用户可在手机端使用Work标签页，通过语音下达指令，让模型代为完成多步骤任务，而不仅限于对话问答。这标志着ChatGPT正从“聊天工具”向可调用工具、执行流程的手机端助理演进，也意味着OpenAI把智能体能力从桌面端扩展至移动场景，以提升付费用户的使用频次与黏性。",
+      "fetchDate": "2026-09-23"
+    },
+    {
+      "id": "5447",
+      "title": "Even Americans who use AI every day are worried about it",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23T16:49:58Z",
+      "summary": "TechCrunch援引一份报告指出，即便在美国每天使用人工智能的人群中，对这项技术的担忧依然普遍存在。报告的核心结论是：更高的使用频率并不会自动消除不安情绪，也不会削弱公众对AI监管的支持力度。也就是说，熟悉度与信任度之间并非简单的正相关，人们可能在日常使用中同时感受到便利与风险。这一发现对政策制定者和企业都具有提示意义——单靠推广普及难以赢得社会认可，透明度与治理措施才是关键。",
+      "fetchDate": "2026-09-23"
+    },
+    {
+      "id": "5448",
+      "title": "Colorado State University Global Launches New Artificial Intelligence and Machine Learning and Healthcare Data Analytics Programs - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOVURzbDZ1UFVxRU0tRFVDUjdkNFF2ZldJb0F5bGpya1JSVGlrbmZleEg3ZElmVnVHRWZrTXhMekg3QWlDZkI2TFpIRmJ2Zkdnemp4R3dLOTJDUXA2SEtHWjhQRGxOZjAwcTFXQlI0WF9maGkzTmdfWWdYZjloRGRVbkZTZTljYURkTER6cEdzb19fMzYwbUNVTEVZTTlRclB0Y0EwcVBhZFNNclROUm1iY0tUWXhhUWljbXkweWVxTnR3QUlGRzlldlM2TkM2Xy0zOGdfd08yVUZlUHloTFJJclc2QUJhX0FlSTJQSmRlektJS3Rla2J3aWZRRjFvM1lLU3RDYlVsVHRLS0VzUmI0ZHJVSXZ2ajJ6alpYUi00SENOa0dXZDJXcmlXUdIBsAJBVV95cUxPb19Fd2MzTXVvenl0cTRaSXBRNTdlMGpnM095YS1SbUFXNnQzYmxDa0JJSEJTOERHaDcwUVJmRFdLN3pIUnNjQVZIZHE5UE4xUVBodG1qdkQ2eHNndkpHbEVqNkI3R0VlVWZnNE1ES3pEek9lVlY0TERRNGVNVGJkQUt3M0RpVjhJWUF5NmIyeXlmSHV5a3pFVmtyLU4tOE1jYkpNd2RnUEtMUzR2cU9McTVfWU1jbVVXcjhEOGwtbHJCMGxNRm1LNmMwcHg3cXhncXYzdHh6RWNxNnFwN3dVc2hJc28tMzlzX1hRcVR4cmZQZFRNdjZlaWgyaWR0SXFmMm8tV3FSQlNGX3FoMHRiRmM4WDdzVGJEeHZwdEhISGNfWnZPdXl1ZkRwU3FTLWY2?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T15:35:31Z",
+      "summary": "据《马尼拉时报》报道，科罗拉多州立大学全球校区（CSU Global）宣布推出两个新的学位项目方向：人工智能与机器学习，以及医疗健康数据分析。校方表示，新项目面向在职学习者，采用在线授课，旨在回应各行业对AI工程、数据建模和医疗数据解读人才的快速增长需求。课程将技术能力与行业场景结合，帮助学生在数字化转型中的医疗、保险和技术服务等领域获得更明确的职业路径，也体现出高校加速布局AI人才供给的趋势。",
+      "fetchDate": "2026-09-23"
+    },
+    {
       "id": "5425",
       "title": "YouTube Music gets more conversational with new AI features",
       "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-23T15:19:30Z",
       "summary": "YouTube Music 在 Made On YouTube 活动上宣布多项 AI 新功能，目标是帮助听众更便捷地发现音乐、了解艺人并找到容易被忽略的播客。其中“Ask Music”是面向音乐与播客的对话式工具，用户可用自然语言提问获取推荐；“Your Podcast Lineup”则提供个性化播客编排。整体方向是把推荐从静态列表升级为可对话、可定制的体验，降低内容发现门槛。",
+      "fetchDate": "2026-09-23"
+    },
+    {
+      "id": "5449",
+      "title": "My (complicated) relationship with AI: often seductive, occasionally frustrating and always demanding vigilance - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjhJUG9MT21IWFl4VmhiRnA2RTEzdVRoNEN6Zy1seEUxNzR6Z18talhoVFAtSmF5aHBfS3ota2ZhbnhnMnQ4TGFBMFo2NVl0MzRUUzVxS0cwS3pzcXlvalFYaVE5dnJncjYzRU9yeHRRbzFNR3BKaXVzQjBObnNDXzQzWUE1LWN1NVNjU2hVT0JtZXFNdE9ES2ZrSU50dmc0MlFkbFpzeEpJOVhfN0xJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T15:00:00Z",
+      "summary": "卫报文章从个人体验出发，讨论作者与人工智能之间复杂而矛盾的关系。文章将AI描述为常常具有诱惑力，能带来便利与新奇体验；但也会偶尔令人沮丧，例如输出不稳定、理解偏差或难以满足预期；更重要的是，作者强调面对AI必须始终保持警惕，不能盲目信任。整体来看，这篇评论并非单纯技术介绍，而是反思AI融入日常生活后的情感、认知与伦理影响，提醒人们在享受智能工具红利的同时，关注其局限、风险与责任边界。",
       "fetchDate": "2026-09-23"
     },
     {
@@ -48943,5 +49033,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5438
+  "total": 5448
 }
