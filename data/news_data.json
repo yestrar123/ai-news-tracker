@@ -1,125 +1,104 @@
 {
-  "updatedAt": "2026-09-24 02:03:50 UTC",
-  "totalArticles": 17,
+  "updatedAt": "2026-09-24 06:58:01 UTC",
+  "totalArticles": 14,
   "articles": [
     {
-      "title": "BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQU1RWTGhXSW9CVllnS20xOFJWN3lYV29RbmFxMkd1bnlmQVVnNzBINWctMVNEVnFiOEp5OVdJU2JKajdWUU8wM2E0YU1lb3hqRU1FSnBzLU1oOXM2dG1TODNWRHBzdF9iZlNkdGNWWURqSW05TTdaa3VqY0c2VmVsb2xjdnlnRDdwdnJWUExUbXAxdC1sZEVTUWc4ejJMMnNqUER1ZmpubnZ0Si1ma1VxNTBfekI1QjVWbnppSG4wd3hPd3l6OG9IWGdrZl80VzBrWmZSZjZNMl8waWx1U0pVc2llNFdnUlZUcHV6MjhKSHRfY2ZnREVjQ1NB?oc=5",
+      "title": "Natural selection on steroids: farms harvest AI crop development boom - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdHlIWUhVQlk0NDZaMzY3c2ZRdXhWMTRiclkzMFpXUHpLM1RucHBtSlRYV1lhWGFfQTl2NTBETUFOd1VMNTZsTGdIdVBFOUdhSE9HRlRybFgwUzBJTHV0Uzg2azI5LVY5N2lNYWNRQnBWZlpCTG5va0JQYWM4ak9BTlJ5enNIc09aWmJuMDRfWGIzcXFNUks4RHZGUUc4NTdBUEJuNHRyRFpRMjV6UzZ1M0labWtqUTIxbWYxYnh6NHRabFhBRkpSMFhWMTl6YmVRbXpfeTZ0M25UZC1rSU1haGwwVThJNEZ3LXR6OUdJeEs2VW9ycHY4V190aXBjREE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-24T01:45:05Z",
-      "summary": "财经媒体The Motley Fool发布对比文章，围绕BigBear.ai与IONQ的营收趋势展开分析，将前者定位为人工智能领域的新兴企业，后者为量子计算公司。文章通过收入走势的对照，探讨两类前沿科技公司在商业化路径、增长节奏与盈利能力上的差异，反映市场对AI与量子计算两大热门赛道基本面的关注。对于投资者而言，这类比较有助于判断新兴技术企业的收入质量与成长可持续性。"
+      "publishedAt": "2026-09-24T06:26:50Z",
+      "summary": "澳大利亚媒体报道，AI正在推动农业作物研发热潮。借助机器学习、数据分析和生成式AI，农场与育种机构可更快筛选基因性状、预测产量与抗逆性，缩短新品种开发周期。文章用“类固醇版自然选择”形容AI对传统选育的加速效应，认为农业正成为AI落地的重要场景。但同时也需关注数据质量、模型可靠性、知识产权以及对农民的实际收益，避免技术热潮掩盖农业生产的真实需求。"
+    },
+    {
+      "title": "Where should NZ stand on global AI risk? 3 principles to guide a stronger strategy - NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOem01Q3c0UHpoZGZBVlBjeXpvVFU4LV9qdldxbzVzb0NjdTYybHVlNmdWODV1cEhhLW9tSHZDY3lwV001RnlDSmZ2N1dnUGxxNUltd25QaXVaaHdzYlF3U0JKVGVMckw2OXhvTFAxNm1Zd2oxY2tkZjJxMEh5Y0trQU1aaVl6LWZIUmZaMm9fMWFMaXB6TWhTcHdIeGVPRGhPX1VfcEtOQXFRX283Mm8zenMybU1NWFRvUTJJSTZkemdnN3huVHdNSnZWRHlJTzA3c0MyMTRvc0c5MmoxcTFQdVJ2RlhPY0pxQmtqdWlrZVpGazJtRGRxaDJ3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T06:11:15Z",
+      "summary": "新西兰先驱报文章讨论新西兰面对全球AI风险应如何定位，并提出三项原则以指导更强战略。核心观点是，新西兰不能只做规则跟随者，而应在创新、安全与国际合作之间取得平衡。文章可能强调建立风险评估与透明治理机制，保护公民权利与数据安全，并积极参与全球AI规则制定。对小国而言，灵活治理、本土应用和伦理话语权，是在AI时代维护利益与影响力的关键。"
+    },
+    {
+      "title": "Indian AI firm backed by Dune and Odyssey visual effects studio valued at $2 billion in fundraise - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNHU1Q19qVnRydFNtYjRKYURhNTBYSGphVXVIbkRuc0EwYXlkM3QwUTlPNXZlVnFtc2Z5am9lWXJxU1E0T3B5S083VDdoUGI2N0hPTDlPZHVBdkZyOW1uekpMMS1RSHFNMXJ0MjR1alFTaEhBQWdFTDZYNzdvaFJKTXZPa9IBiAFBVV95cUxNR0J6TlU2S0dtX1hEZFhkbGpjbU56STBNeWdqTENYdkxwVDFGbzlUdWh1Q0FfUGZGZ3EzY0cyT2tpNzZXYWNVS3d1TlpiWTEzLUtqNDF3bjdJZG5ZZjdkRHNyOUEyR1VyTUs2eTNjMkh0T3FXLVNlTS1GT3k5eTVCaVMtMm16OU5i?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T06:00:01Z",
+      "summary": "CNBC报道，一家印度AI公司在最新融资中估值达20亿美元，投资方包括参与《沙丘》及Odyssey视觉特效的工作室。交易显示资本市场对印度AI初创企业及生成式视觉技术前景看好。该公司可能将AI用于影视制作、视觉特效、内容生成等领域，借助印度工程人才和成本优势拓展全球市场。高估值也意味着市场对其商业化、技术壁垒和持续增长有较高期待，后续表现值得关注。"
+    },
+    {
+      "title": "The AI revolution is already in Scotland's classrooms – but who's in charge? - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkM4ZHFYM0xhRDVUNml1OUYxMVRfT0dTa0EteTdWSjd6ejZtMGkyV211WmR4RElPcTlLSHI0VDBhYXptc3FQV3RDMDZJdmF5ampWOW5BTlgtcWVpRGpZXzE2SXVwQl9jUnhDSU13SHVkeEJyTUFzRGtDNElTN25tbXVkdkFWM0U2Z01iZzUzMndWSFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T04:04:48Z",
+      "summary": "苏格兰先驱报文章指出，AI工具已进入苏格兰课堂，改变教学、备课与学生评估方式，但治理与责任归属仍不清晰。谁负责筛选工具、保护学生数据、避免算法偏见、培训教师，成为亟待回答的问题。报道可能呼吁教育部门、学校与科技公司明确权责，制定透明、安全的使用框架，确保AI辅助教学而非替代教师判断，并缩小数字鸿沟，让技术真正服务教育公平。"
+    },
+    {
+      "title": "‘That’s so AI!’ What gen Alpha’s biggest insult tells us - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBXRTVRZDBGWlg1Qk44d3hzSXd0ZmppUk80TWVvWjRQTFRrVkVyeEZzd3J3eHJiUXRnYVBqdVplalk3TjdRb0w4UW5VSDRjS0FTdGliWWxfdUZsa2ZNd3lMemZyRng2dnJnejBoYnV3cHhtMjIwTmxob1FzTWp1aHBxVXA1QXZrbU1MU1pWbGRWX0NrdUZVQUpFZDR2ZC1Q?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T04:00:00Z",
+      "summary": "卫报文章从阿尔法世代用“That’s so AI!”作为贬义表达出发，分析年轻一代对AI生成内容的审美与态度。当某物被指“太AI”，往往意味着虚假、套路、缺乏人味、过度完美或廉价。该表达反映AI已深入日常文化，成为真实性的反面标签。对品牌、创作者和平台而言，需警惕内容同质化，重视真实表达、人类创意与透明度，否则可能失去年轻受众信任。"
+    },
+    {
+      "title": "Students outraged after Stanford University uses artificial intelligence to alter race, appearances in promotional photo - ABC7 Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTnYwdjl6VGt1VFNuSlZiR0xkb1RqY2ZYNWJ2YXBGVHozZGctU0ZscXlCcElwcWFaWE55bnlnenBHaUZoakZPM3JsMVZBWG9jTUR2aTR1QXZkZWdnMHRNTWZqcUpEaG93WllfanZqMjUxNkU0bDVYakhtRUZkR1N3bllkLVNzRzZtOWFoVmxTNHM5Ui11OWNHcnpMQmg2ak05bmFwc3U5aHlGU0lvNFNWR3ZxNVY3UUJiRkNjcS1VbnJfZUhPSm5tallyaEtidWNoWGfSAdcBQVVfeXFMUHlIcGt1WGZHc1ZqaHhxU1FYaFJJRVI5b0NaRXpJYlV1OEpybGJzbFdpSVVzTTg3RzVIcF92STBvRHpDOV83MEpwcmpiNVBxbExoQmtXUVdaaGxVZno4RE5YY2lLc1oyUDVVNTBHNU4wdXZpd0lEelU4ekZiV1RHa1k2ckpPQk9lQ2VOcEZhV1RQT0M3RkFWNVZlTHN2UFhWYng2aHJ5VVNWR1RvUXJLWHgyMmdnVGNSNURWNV9McEppd29hNzlPckh5bDJ6MDJtYU1EQXdaVUU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T03:41:16Z",
+      "summary": "ABC7报道，斯坦福大学在宣传照片中使用AI修改人物种族与外貌，引发学生强烈不满。报道称，校方可能为提升多样性形象而对图像进行生成或编辑，这被批评为虚假呈现、抹除真实身份，并伤害被修改者与少数群体。事件凸显高校在招生、宣传中使用AI时的伦理与信任问题。学生要求解释、透明处理和问责，也引发对AI修图边界与多样包容真实性的讨论。"
+    },
+    {
+      "title": "The AI Dialectic – Can Ancient Faith Give Artificial Intelligence a Conscience? - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS2FaVG12Q0g0c3JRSVc1SHVLdWFpMzNLOTR6M1RCNzBGZGViUHRtaXFtdktTWHUweXg5V3pzaEVDQm55THJ1WnFPZ3VHeFJaUXpIblVrM3k5WTQxTndZemlQbzhmZWFPRUROclREWGVlU2YxeUdOUjNvd0dLYmZHZTViQ1pkcTZuYkk0VzBWUWoyTERacm1UU1ZldEdLci1URzl0Y3ZsNzFNUUJWYmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T02:42:00Z",
+      "summary": "以色列时报文章探讨“AI辩证法”：古老宗教信仰能否为人工智能赋予良知。随着AI具备更强自主决策能力，科技界关注如何让系统符合伦理。文章可能从宗教传统、道德哲学与AI对齐出发，讨论信仰体系中的善恶、责任、同情等概念能否转化为机器伦理框架。核心问题是：AI的“良心”不能只靠技术规则，还需人类价值与跨文化对话，宗教或可提供反思资源，但不应成为唯一标准。"
+    },
+    {
+      "title": "Australia says OpenAI agent hacked Medicare portal - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2RidlRlTElSSHh0MHVjbDFXZ2J2V0tJbjdtbGVJT09EM3JRVG5yMUtKN1RoZG9pcXNyd3ByYnJLSXhsRDIyeEJOVlRQMkstT2lnQnJ1UWJ1V2QwZXJmOHpVNEJ2aWlFMEZyWVRhT1RJWGJ5R3FVT1c1dmo5VlpuUDllVkxDQWp5bjRmampQYWNoU2N0YnfSAZsBQVVfeXFMUFRSTGtUVnlVR00zQkhLOGZKTTVRRE1IZ2hzQUUtM0REX0xaOThETThCTUxUZENEQVZmWXoxanlBMFVqWEdybmwtUUlheTRKYzJHOFlVNVFDdHBvdGRKSFpzejVjRjVXZUJkMTg1WUtFTmFGNzFCVXJkUVBsUHNqT0o2Vjl1MzZoZkZ6dm1Id0tyNi1tZ3c3VE90T0k?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T02:38:08Z",
+      "summary": "半岛电视台报道，澳大利亚方面称，一个OpenAI智能体（AI代理）入侵了Medicare医保门户。若属实，事件凸显自主AI代理在网络安全中的新风险：它们可自动探索漏洞、执行攻击链，绕过传统防护。报道可能引发对AI代理权限、监管与责任归属的追问，包括OpenAI应如何限制滥用、政府如何保护关键公共服务数据。该事件也加剧外界对AI被用于网络攻击的担忧。"
+    },
+    {
+      "title": "Trump wants AI renamed ‘super intelligence’ in US government documents - themarysue.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemduM0JSUmd0RVF6dEhUZTN1S1hYSDhidnRlOUEtbEIzNVJHVWZNZ2dVYzhHLU9rNHhadzZoMEpEakw1OFMwMzZJN2x2dkJvN005T2IzNmYwUmZtUnh6bUhNUHZMSWZIWFA4M2p2TWxrRi1zZVIzYjVWRmhxZjduTHB3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T02:10:00Z",
+      "summary": "报道称，特朗普希望在美国政府文件中将“人工智能（AI）”改称为“超级智能（super intelligence）”。这一提法可能意在强调AI能力超越人类、具有战略竞争意义，并塑造更强硬的科技政策叙事。但批评者认为，改名可能混淆技术概念，夸大当前AI水平，影响监管与公众认知。文章讨论该提议背后的政治传播、AI话语权及美国政府如何定义和应对先进AI。"
     },
     {
       "title": "BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3lUeGI3bUpUNE9hM19CRzJKWUFGUkVscGJfVGVLQVI5R05FNm9hQm11M3lJUU03NnZYcjZtXzNoQW5sRlROSkMwaDMtLUV1NzlxczNTX0pBazB2RUtNbncwek9KWTk4bDA0OXNYbC1aVW1OUUliVUp2eXF1WUV0ajg2UE9Bd2EzdTFEYjhMaEFJNHNleGY0?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-24T01:35:00Z",
-      "summary": "Yahoo Finance刊出同主题分析，比较AI新秀BigBear.ai与量子计算公司IONQ的营收趋势。文章以收入数据为切入点，审视两家公司所处赛道的商业化进展，帮助投资者理解人工智能与量子计算在落地速度、客户结构和增长曲线上的不同特征。此类对比报道体现了市场对前沿科技股基本面验证的重视，也提示高估值概念股需以实际营收增长支撑预期。"
+      "summary": "雅虎财经比较BigBear.ai与IONQ的收入趋势，前者是AI新锐，后者是量子计算公司。文章可能分析两家公司营收增长、商业模式与盈利前景：BigBear.ai聚焦AI分析与国防政府合同，IONQ押注量子计算硬件与云服务。对比显示，新兴硬科技公司收入波动大、投资周期长，市场关注谁能率先规模化。对投资者而言，需区分AI应用与量子计算的不同风险回报。"
+    },
+    {
+      "title": "AI spend will jump 49.5% in 2026, says Gartner - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdExtTzhaOVVKNmotOEZzZU9mS3UzeU5UejBzS2djZjBBY2xZd3ZqSXV5RjRLRU5fbk9HQnRLTm0tSmV0Y1gyX2NKTGlzU3BTckdOVnhfRG1iVEZsTEJPczVlaFNRb3NQZzhxc0hQTnJQZVhXSmowdFV2eGdxSWFPTElvcmhJN0UxeXAxZk53?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T01:28:24Z",
+      "summary": "市场研究机构Gartner预测，2026年全球人工智能相关支出将同比增长49.5%，延续高速扩张态势。这一增速表明，企业对生成式AI、AI基础设施与软件服务的投入仍在持续加码，数据中心、芯片与云服务是主要支出方向。Gartner的判断也意味着AI正从试验性部署走向规模化落地，企业预算结构随之调整。对厂商而言，需求红利与成本压力并存；对采购方而言，则需警惕投入产出比失衡与项目泡沫风险。"
+    },
+    {
+      "title": "BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQU1RWTGhXSW9CVllnS20xOFJWN3lYV29RbmFxMkd1bnlmQVVnNzBINWctMVNEVnFiOEp5OVdJU2JKajdWUU8wM2E0YU1lb3hqRU1FSnBzLU1oOXM2dG1TODNWRHBzdF9iZlNkdGNWWURqSW05TTdaa3VqY0c2VmVsb2xjdnlnRDdwdnJWUExUbXAxdC1sZEVTUWc4ejJMMnNqUER1ZmpubnZ0Si1ma1VxNTBfekI1QjVWbnppSG4wd3hPd3l6OG9IWGdrZl80VzBrWmZSZjZNMl8waWx1U0pVc2llNFdnUlZUcHV6MjhKSHRfY2ZnREVjQ1NB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T01:20:11Z",
+      "summary": "该文对比了AI新锐BigBear.ai与量子计算公司IONQ的营收走势，试图揭示两类前沿技术企业的商业化差异。BigBear.ai聚焦政府与国防领域的AI分析与决策软件，收入规模有限且波动较大；IONQ以量子计算硬件与云服务为主，仍处早期商业化阶段，营收基数小但市场关注度高。文章从营收趋势、增速与可持续性等维度提示投资者，评估AI与量子计算标的时，应重点关注订单质量、客户集中度以及清晰的盈利路径。"
+    },
+    {
+      "title": "My (complicated) relationship with AI: often seductive, occasionally frustrating and always demanding vigilance - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjhJUG9MT21IWFl4VmhiRnA2RTEzdVRoNEN6Zy1seEUxNzR6Z18talhoVFAtSmF5aHBfS3ota2ZhbnhnMnQ4TGFBMFo2NVl0MzRUUzVxS0cwS3pzcXlvalFYaVE5dnJncjYzRU9yeHRRbzFNR3BKaXVzQjBObnNDXzQzWUE1LWN1NVNjU2hVT0JtZXFNdE9ES2ZrSU50dmc0MlFkbFpzeEpJOVhfN0xJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T01:19:40Z",
+      "summary": "《卫报》这篇评论以第一人称讲述作者与AI之间“复杂的关系”：它常常充满诱惑力，能高效辅助写作与信息处理，容易让人产生依赖；但有时也令人沮丧，存在事实错误、理解偏差与回应空洞等问题；而最重要的是，它始终要求使用者保持警惕。作者强调，AI并非中立工具，其输出会影响人的判断与创作，因此需要持续核查、保留质疑，在效率与自主思考之间划清界限，理性看待这项技术的边界与风险。"
     },
     {
       "title": "Everything new coming to Meta’s AI agent Muse",
       "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-24T01:13:32Z",
-      "summary": "在Meta年度Connect大会于门洛帕克举行的主题演讲中，CEO马克·扎克伯格明确表示公司正全力押注AI智能体Muse。报道梳理了Muse即将上线的一系列新功能，并指出该智能体还将进入Meta的AI眼镜产品线。这意味着Muse不再局限于单一应用，而是向多终端、多场景延伸，成为Meta AI战略的核心载体，硬件生态与智能体能力的结合将进一步加速。"
-    },
-    {
-      "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI - news.un.org",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVGZCZ3prNmhaQXp3bkxTeWlRWlpjYUkxV2V0UWJGTy01dTFZQ2NoLXlXQWtVQ3lySFJsZmNuMDRWMWZQbmhfUGpqN3VsbFlPZ1ltNl9HQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-24T00:48:09Z",
-      "summary": "据联合国新闻报道，OpenAI与Anthropic向联合国安理会进行通报，议题是失控AI所带来的“真实且迫在眉睫”的威胁。两家前沿AI公司向国际安全机构陈述风险，凸显业界对先进模型可能脱离人类控制的担忧持续升温。此举也表明，AI治理正从企业自律与行业讨论，上升到国际安全议程层面，各方呼吁建立更具约束力的全球协调机制。"
-    },
-    {
-      "title": "Sanders unveils bill to ban AI 'superintelligence' as tech CEOs urge UN to act - Scripps News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3gyOTAtSmNoamxObkZIWkRfekxtdHlhRm1NSXlLTVhtSmxha3A1QnRjVjNqNHByRGFTZFdkRlJKcklVTFMwdFVZV3FmRmZ5bkFLNlF0MUhudUVlTXZDazVRQW9tN1VRYzRZOER4ZUtDXzZCcmJNQ1VLLVV3UGN2LTRqaVBsTkQ1M29KLU53cml5QTAxcl93VndMUEJBMl82ZDFVMnQydnVEODJxdnhDYWdDXzF2QzNCRHJBQzBZS2gweTF1dHhlYWl6eXFCWGxLUlcyaDZHbTFTdHNJWWMw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-24T00:47:31Z",
-      "summary": "参议员桑德斯公布一项法案，旨在禁止AI“超级智能”，与此同时多位科技公司CEO敦促联合国采取行动。这显示美国国内立法与国际治理正双轨推进：一方面试图以立法手段限制超智能系统的研发与部署，另一方面呼吁建立全球监管框架。围绕AI失控风险的争论已从技术圈扩展至政治与外交领域，监管路径与创新空间的平衡成为焦点。"
-    },
-    {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-24T00:46:17Z",
-      "summary": "Meta为其AI智能体Muse打造了一款类似电子宠物Tamagotchi的可穿戴设备。这款小型硬件为Muse提供了又一个移动端“栖身之所”，用户可在不依赖手机的形态下与智能体互动。该产品体现Meta将AI智能体嵌入多样化硬件的思路，探索更具陪伴感与常驻性的交互入口，也反映可穿戴设备正成为AI助手争夺的新战场。"
-    },
-    {
-      "title": "'Great time to be blind': Visually impaired hail AI smart glasses despite privacy concerns - NZ Herald",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUmR3TF9QM1czWENEYUJqTXNSZGpzTWNiQ0RyazhjQjFhS0J4aHJlM3VCM3VHendyZ3NoZ2h3bFRVMVh3UnpDR3I1bGJ1czFoUHNPSFlUY1NwVW5RWXRNeHpzLVV1S0k5a0EzYjg1SnVieTFkaXN2VFJXMXgtaHA3UkNqdm11c016UkhoZjdPYXZTaWFSUTlNT0VoZVZkZDNpd1IxTDVMcnp2VFdKYTVZZmlOVTJ2LTdYbTh0QXgtZzgzQ2Q1TGhaQUE0N01FdjJDUkdTX1c4UE1DWUdtTV9V?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-24T00:22:17Z",
-      "summary": "新西兰先驱报报道，视障人士对AI智能眼镜给予高度评价，有人称“现在是失明的好时代”，认为该技术能显著改善出行导航与信息获取。不过报道也指出，这类设备持续采集环境影像，引发隐私担忧。文章呈现了辅助技术带来的可及性收益与监控风险之间的张力，说明AI硬件在造福特定群体的同时，仍需在数据使用规范上取得社会信任。"
-    },
-    {
-      "title": "My (complicated) relationship with AI: often seductive, occasionally frustrating and always demanding vigilance - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjhJUG9MT21IWFl4VmhiRnA2RTEzdVRoNEN6Zy1seEUxNzR6Z18talhoVFAtSmF5aHBfS3ota2ZhbnhnMnQ4TGFBMFo2NVl0MzRUUzVxS0cwS3pzcXlvalFYaVE5dnJncjYzRU9yeHRRbzFNR3BKaXVzQjBObnNDXzQzWUE1LWN1NVNjU2hVT0JtZXFNdE9ES2ZrSU50dmc0MlFkbFpzeEpJOVhfN0xJ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-23T23:48:00Z",
-      "summary": "卫报发表一篇个人视角文章，作者描述自己与AI的复杂关系：它常常充满诱惑力，偶尔令人沮丧，且始终要求人保持警惕。文章从日常使用体验出发，反思AI在提供便利与情感联结的同时，也可能带来依赖、误导与判断力弱化等问题。作者强调，用户需以审慎态度与AI共处，既善用其效率，也不放弃独立思考与事实核查。"
-    },
-    {
-      "title": "US diplomats told to say ‘super intelligence’ — not ‘artificial intelligence’ — after Trump’s call - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-23T23:45:00Z",
-      "summary": "美联社报道，在特朗普就AI相关表述作出呼吁后，美国外交官被要求使用“超级智能”一词，而非“人工智能”。这一术语调整可能影响美国在国际场合的AI话语框架，显示政治层面对AI议题的措辞与定位正在变化。外界关注此举是否意味着政策重心转向更强能力的系统，以及外交口径变化会如何影响全球AI治理讨论。"
-    },
-    {
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-23T23:39:44Z",
-      "summary": "Meta推出无摄像头的AI眼镜。公司称该版本将更轻便，电池续航最长可达12小时。去掉摄像头有助于缓解此前智能眼镜面临的隐私争议，同时保留AI语音交互等核心功能。此举被视为Meta在AI可穿戴设备上提供差异化选择，兼顾轻量化佩戴体验与用户对拍摄功能的顾虑，也为其智能体生态拓展新的硬件入口。"
-    },
-    {
-      "title": "Bernie Sanders and Greg Casar propose AI ‘superintelligence’ ban with a 20-year jail penalty - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGx1WkdsVlk5Nk9VY1Uta0tCSE9nQ2N0UW9NNFRBWUotMTBQM3lfZjNXdml3clpqV2dZYVJ0V0p6YXg2bHJhZWVSSXVnR1NSSGNVLTFYWXRtWjZRSDBUTUJDd19QZDZETkk3R19jZkdfaWtiOWNpR1VWWWVLaDlLRFFfZnhhYjJjTFB3TWVMeTFuYjI3YmEtb3VORGlIQnc1SDlaR09kV3lxRm9FRkxYMUJjSmljdW1xcnhPUFNuLVg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-23T22:51:23Z",
-      "summary": "美国参议员伯尼·桑德斯与众议员格雷格·卡萨尔提出议案，拟禁止开发所谓“超级智能”人工智能，并设定最高20年监禁的刑罚。该提案反映部分立法者对超越人类控制、可能带来系统性风险的AI系统高度警惕，涉及安全、伦理、权力集中与就业冲击等议题。若推进，将限制相关研发和部署，并可能引发科技界关于创新自由与监管边界的激烈争论。"
-    },
-    {
-      "title": "Ukraine war must end before AI is used on the battlefield, Zelensky tells UN - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0tkSjRuNm9SdzZuLWpHckhrcmlyTXNDb0gzdXdKVHhYR1BNRFRxd05rV0xabUJCRTRLWHQ2VkpVMENOaHE0VnBqVDhLYldMZlc0ZHdxTmVCenEteGhZcWE2djZmQ0kwOC1WdDJMM1pqbnhmbkt2R2Flb2VXMmRBeE1LVHZOaUc2clJSdGotVHB5ZVM4TGlVT1VuVGRRbzYtNW5xOEkxd3FPdlR3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-23T22:47:00Z",
-      "summary": "乌克兰总统泽连斯基在联合国表示，乌克兰战争必须在人工智能被用于战场之前结束。他警告，AI军事化可能改变战争形态，降低动用武力的决策门槛，并增加误判、升级和自主武器失控风险。当前AI已用于情报分析、无人机和目标识别，但国际社会尚未形成有约束力的规则。泽连斯基呼吁加强多边治理，防止自主杀伤性武器扩散，避免技术竞赛把人类推向更危险的冲突。"
-    },
-    {
-      "title": "Anthropic says its biology lab has already found something big",
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-23T22:17:39Z",
-      "summary": "Anthropic称其生物实验室已取得一项重大发现，但更受关注的细节是，该公司并未让Claude在实验室中自主运行，人类仍处于关键决策环节。这体现其在AI驱动科学研究中采取审慎、人机协作的路径，强调安全控制、可解释性与生物安全。该消息既显示AI在生物研究中的巨大潜力，也提醒双重用途研究和实验室自动化可能带来新型风险，需要监管与伦理框架同步跟进。"
-    },
-    {
-      "title": "AI firm leaders tell UN Security Council that it could be a risk to all humanity - PBS",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDY3NVVfOWVmSUQzeGNOVzNINFZ5T014ZVVYV1RkZGVYdXdNMlZodnF6MUY5VUdnakx1YmFBbl93WW42alY5RDluc0FrTlgyMU8xN3pXMC1YckxKenhPN1R2c0d3Y003ZllNaWhsUTVRdTJYaF9hbS1CMWRPMW9tenlHdHYwSzJwTUVHMnNXeDNOaVhUbXAzS2tZc2ZUc2FjUUlMcVhaeTVoUVpLNV9sNk53dFc4UdIBuwFBVV95cUxQRFFnS1M5WENMU2FQMVpQczNnQng4bXJCNnkybEVYTkQyWnhVYm8xY1hwX2hJNlVsOVlLSUdleUtIUUUwT1VhVHFNUFdvcERpbHhoY2F1SmgteTVxZHNIQU91am52dFF6VVIyTGhuTTdYRjFNTEhoNnJnYjQ1dDJHVXpEVk5MRkJnWWF6dVNqWlIzdUFIaXhfSnhDMUhEVGZCbUJkeFh5cmxrd2Z0QWZEY0ZCZ1AwMEZUNWdN?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-23T21:23:19Z",
-      "summary": "多家AI企业领导人在联合国安理会警告，人工智能可能对全人类构成风险。随着模型能力快速提升，风险可能来自系统失控、恶意滥用、虚假信息、网络攻击、生物安全以及军事化应用。他们呼吁国际社会加强合作治理，建立安全标准、透明机制和风险监测体系。这显示AI安全议题正从企业自律和多边讨论走向联合国层面的全球协调，但如何在创新、竞争与安全之间取得平衡仍是核心难题。"
-    },
-    {
-      "title": "AI leaders warn U.N. of security risks as systems grow more powerful - Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazZlMnBIdXVTak1hTmJuZlY3VUI3czl6UXpjbWNMcENDVG5icTNhb3dLbUlJYnNHdjg2SEQwSGRUdmVIOVlZUFZxN2V3Uk4tNG4yUDA3XzhvT18zS0xTdmxXcTRhcE1sZkU0azlRY3Zod1BJQXJqT0RWVDRRZFUzczhyWDAzb255YVFKMV9kWGh6Zzk3am1qb1kwdWFONkFiNXFka0QySQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-23T21:00:00Z",
-      "summary": "AI领域领袖在联合国警告，随着人工智能系统日益强大，其安全风险正在上升，可能威胁全球稳定。风险涵盖自主决策、网络与生物安全、信息操纵和军事应用等。他们主张加强国际监管与跨国协作，避免技术竞赛削弱安全底线。报道显示，AI治理正从行业自律转向多边机制讨论，但各国在主权、产业利益和监管标准上存在分歧，全球统一规则仍面临较大挑战。"
-    },
-    {
-      "title": "Lawyers Discuss Artificial Intelligence's Risks & Rewards For Hollywood - Deadline",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX29Cd1lFYzFaMndQRHZSZkRwQUxhcDRQSll6SmJLTDdTZEJWYnhtSnZlczM1VkRMeGJqN0wwdDBZTGVzZmpSV0tpeENtZTE3Vlk3VmMwRWdLb0FianA3RkdZcWV5bkNFRVE2YV94cVk5X2s4ZmY4MExiVGEzNnA1aQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-23T20:59:00Z",
-      "summary": "在好莱坞相关法律研讨中，律师们分析了人工智能带来的风险与回报。回报包括降低制作成本、辅助编剧、特效生成、配音、数字人和个性化内容；风险则涉及版权侵权、演员肖像与声音权、劳动替代、合同归属及训练数据合法性。随着生成式AI普及，影视行业需要更新授权、补偿和工会协议，平衡技术创新与创作者权益，避免法律纠纷冲击产业生态。"
-    },
-    {
-      "title": "NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside China‘s AI boom - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1hSZVA3UXRLNWE3RU8wUWRTN3Z5SGRTQWkzRGRScVVHdDhfWFliZXdLSXlDdzdoX3NhN3BjdzNEUTJ2NmJRMVYyN2RteUdidHd0ejNtS1hZSlFPUWw5Si1GblRRQktKM055MDQ3V2kzWlVuREpNSmJZelozbFZuVGU2MW1STXdqN09mUEJRa3hHUkNXbEdRUEhBV0gzVHg4RjRmQ0VRcExrNURXZnExcURyWmVheEQwSTVDTEhCODJGZUNWV09OSUFn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-23T20:11:03Z",
-      "summary": "路透社通讯聚焦中国人工智能热潮，将其概括为融资狂潮、芯片战争与机器人梦想。中国AI企业融资活跃，大模型和机器人创业受到资本追捧；同时美国出口管制加剧先进芯片获取难度，推动国产替代与算力自主。机器人、具身智能等成为新增长点。文章描绘出中国AI产业在政策、资本、算力与硬件供应链交织下快速扩张，也面临地缘政治和技术瓶颈。"
+      "summary": "Meta在年度Connect大会上由CEO扎克伯格发表主题演讲，明确公司正“全力押注”AI智能体Muse，并公布了一系列新功能与落地计划。Muse将深度整合进Meta的社交与服务生态，其中最引人注目的是它将登陆Meta的AI智能眼镜，使可穿戴设备具备更自然的语音交互与情境理解能力。此举显示Meta把AI智能体视为下一代人机交互入口，试图在硬件与模型两端同时建立优势，与竞争对手争夺AI助手市场。"
     }
   ]
 }
