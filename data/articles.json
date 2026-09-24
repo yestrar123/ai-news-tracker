@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "id": "5450",
+      "title": "BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQU1RWTGhXSW9CVllnS20xOFJWN3lYV29RbmFxMkd1bnlmQVVnNzBINWctMVNEVnFiOEp5OVdJU2JKajdWUU8wM2E0YU1lb3hqRU1FSnBzLU1oOXM2dG1TODNWRHBzdF9iZlNkdGNWWURqSW05TTdaa3VqY0c2VmVsb2xjdnlnRDdwdnJWUExUbXAxdC1sZEVTUWc4ejJMMnNqUER1ZmpubnZ0Si1ma1VxNTBfekI1QjVWbnppSG4wd3hPd3l6OG9IWGdrZl80VzBrWmZSZjZNMl8waWx1U0pVc2llNFdnUlZUcHV6MjhKSHRfY2ZnREVjQ1NB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T01:45:05Z",
+      "summary": "财经媒体The Motley Fool发布对比文章，围绕BigBear.ai与IONQ的营收趋势展开分析，将前者定位为人工智能领域的新兴企业，后者为量子计算公司。文章通过收入走势的对照，探讨两类前沿科技公司在商业化路径、增长节奏与盈利能力上的差异，反映市场对AI与量子计算两大热门赛道基本面的关注。对于投资者而言，这类比较有助于判断新兴技术企业的收入质量与成长可持续性。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5451",
+      "title": "BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3lUeGI3bUpUNE9hM19CRzJKWUFGUkVscGJfVGVLQVI5R05FNm9hQm11M3lJUU03NnZYcjZtXzNoQW5sRlROSkMwaDMtLUV1NzlxczNTX0pBazB2RUtNbncwek9KWTk4bDA0OXNYbC1aVW1OUUliVUp2eXF1WUV0ajg2UE9Bd2EzdTFEYjhMaEFJNHNleGY0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T01:35:00Z",
+      "summary": "Yahoo Finance刊出同主题分析，比较AI新秀BigBear.ai与量子计算公司IONQ的营收趋势。文章以收入数据为切入点，审视两家公司所处赛道的商业化进展，帮助投资者理解人工智能与量子计算在落地速度、客户结构和增长曲线上的不同特征。此类对比报道体现了市场对前沿科技股基本面验证的重视，也提示高估值概念股需以实际营收增长支撑预期。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5452",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-24T01:13:32Z",
+      "summary": "在Meta年度Connect大会于门洛帕克举行的主题演讲中，CEO马克·扎克伯格明确表示公司正全力押注AI智能体Muse。报道梳理了Muse即将上线的一系列新功能，并指出该智能体还将进入Meta的AI眼镜产品线。这意味着Muse不再局限于单一应用，而是向多终端、多场景延伸，成为Meta AI战略的核心载体，硬件生态与智能体能力的结合将进一步加速。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5453",
+      "title": "Sanders unveils bill to ban AI 'superintelligence' as tech CEOs urge UN to act - Scripps News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3gyOTAtSmNoamxObkZIWkRfekxtdHlhRm1NSXlLTVhtSmxha3A1QnRjVjNqNHByRGFTZFdkRlJKcklVTFMwdFVZV3FmRmZ5bkFLNlF0MUhudUVlTXZDazVRQW9tN1VRYzRZOER4ZUtDXzZCcmJNQ1VLLVV3UGN2LTRqaVBsTkQ1M29KLU53cml5QTAxcl93VndMUEJBMl82ZDFVMnQydnVEODJxdnhDYWdDXzF2QzNCRHJBQzBZS2gweTF1dHhlYWl6eXFCWGxLUlcyaDZHbTFTdHNJWWMw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T00:47:31Z",
+      "summary": "参议员桑德斯公布一项法案，旨在禁止AI“超级智能”，与此同时多位科技公司CEO敦促联合国采取行动。这显示美国国内立法与国际治理正双轨推进：一方面试图以立法手段限制超智能系统的研发与部署，另一方面呼吁建立全球监管框架。围绕AI失控风险的争论已从技术圈扩展至政治与外交领域，监管路径与创新空间的平衡成为焦点。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5454",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-24T00:46:17Z",
+      "summary": "Meta为其AI智能体Muse打造了一款类似电子宠物Tamagotchi的可穿戴设备。这款小型硬件为Muse提供了又一个移动端“栖身之所”，用户可在不依赖手机的形态下与智能体互动。该产品体现Meta将AI智能体嵌入多样化硬件的思路，探索更具陪伴感与常驻性的交互入口，也反映可穿戴设备正成为AI助手争夺的新战场。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5455",
+      "title": "'Great time to be blind': Visually impaired hail AI smart glasses despite privacy concerns - NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUmR3TF9QM1czWENEYUJqTXNSZGpzTWNiQ0RyazhjQjFhS0J4aHJlM3VCM3VHendyZ3NoZ2h3bFRVMVh3UnpDR3I1bGJ1czFoUHNPSFlUY1NwVW5RWXRNeHpzLVV1S0k5a0EzYjg1SnVieTFkaXN2VFJXMXgtaHA3UkNqdm11c016UkhoZjdPYXZTaWFSUTlNT0VoZVZkZDNpd1IxTDVMcnp2VFdKYTVZZmlOVTJ2LTdYbTh0QXgtZzgzQ2Q1TGhaQUE0N01FdjJDUkdTX1c4UE1DWUdtTV9V?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-24T00:22:17Z",
+      "summary": "新西兰先驱报报道，视障人士对AI智能眼镜给予高度评价，有人称“现在是失明的好时代”，认为该技术能显著改善出行导航与信息获取。不过报道也指出，这类设备持续采集环境影像，引发隐私担忧。文章呈现了辅助技术带来的可及性收益与监控风险之间的张力，说明AI硬件在造福特定群体的同时，仍需在数据使用规范上取得社会信任。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5456",
+      "title": "US diplomats told to say ‘super intelligence’ — not ‘artificial intelligence’ — after Trump’s call - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T23:45:00Z",
+      "summary": "美联社报道，在特朗普就AI相关表述作出呼吁后，美国外交官被要求使用“超级智能”一词，而非“人工智能”。这一术语调整可能影响美国在国际场合的AI话语框架，显示政治层面对AI议题的措辞与定位正在变化。外界关注此举是否意味着政策重心转向更强能力的系统，以及外交口径变化会如何影响全球AI治理讨论。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5457",
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23T23:39:44Z",
+      "summary": "Meta推出无摄像头的AI眼镜。公司称该版本将更轻便，电池续航最长可达12小时。去掉摄像头有助于缓解此前智能眼镜面临的隐私争议，同时保留AI语音交互等核心功能。此举被视为Meta在AI可穿戴设备上提供差异化选择，兼顾轻量化佩戴体验与用户对拍摄功能的顾虑，也为其智能体生态拓展新的硬件入口。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5458",
+      "title": "Bernie Sanders and Greg Casar propose AI ‘superintelligence’ ban with a 20-year jail penalty - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGx1WkdsVlk5Nk9VY1Uta0tCSE9nQ2N0UW9NNFRBWUotMTBQM3lfZjNXdml3clpqV2dZYVJ0V0p6YXg2bHJhZWVSSXVnR1NSSGNVLTFYWXRtWjZRSDBUTUJDd19QZDZETkk3R19jZkdfaWtiOWNpR1VWWWVLaDlLRFFfZnhhYjJjTFB3TWVMeTFuYjI3YmEtb3VORGlIQnc1SDlaR09kV3lxRm9FRkxYMUJjSmljdW1xcnhPUFNuLVg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T22:51:23Z",
+      "summary": "美国参议员伯尼·桑德斯与众议员格雷格·卡萨尔提出议案，拟禁止开发所谓“超级智能”人工智能，并设定最高20年监禁的刑罚。该提案反映部分立法者对超越人类控制、可能带来系统性风险的AI系统高度警惕，涉及安全、伦理、权力集中与就业冲击等议题。若推进，将限制相关研发和部署，并可能引发科技界关于创新自由与监管边界的激烈争论。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5459",
+      "title": "Ukraine war must end before AI is used on the battlefield, Zelensky tells UN - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc0tkSjRuNm9SdzZuLWpHckhrcmlyTXNDb0gzdXdKVHhYR1BNRFRxd05rV0xabUJCRTRLWHQ2VkpVMENOaHE0VnBqVDhLYldMZlc0ZHdxTmVCenEteGhZcWE2djZmQ0kwOC1WdDJMM1pqbnhmbkt2R2Flb2VXMmRBeE1LVHZOaUc2clJSdGotVHB5ZVM4TGlVT1VuVGRRbzYtNW5xOEkxd3FPdlR3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T22:47:00Z",
+      "summary": "乌克兰总统泽连斯基在联合国表示，乌克兰战争必须在人工智能被用于战场之前结束。他警告，AI军事化可能改变战争形态，降低动用武力的决策门槛，并增加误判、升级和自主武器失控风险。当前AI已用于情报分析、无人机和目标识别，但国际社会尚未形成有约束力的规则。泽连斯基呼吁加强多边治理，防止自主杀伤性武器扩散，避免技术竞赛把人类推向更危险的冲突。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5460",
+      "title": "Anthropic says its biology lab has already found something big",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-23T22:17:39Z",
+      "summary": "Anthropic称其生物实验室已取得一项重大发现，但更受关注的细节是，该公司并未让Claude在实验室中自主运行，人类仍处于关键决策环节。这体现其在AI驱动科学研究中采取审慎、人机协作的路径，强调安全控制、可解释性与生物安全。该消息既显示AI在生物研究中的巨大潜力，也提醒双重用途研究和实验室自动化可能带来新型风险，需要监管与伦理框架同步跟进。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5461",
+      "title": "AI firm leaders tell UN Security Council that it could be a risk to all humanity - PBS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDY3NVVfOWVmSUQzeGNOVzNINFZ5T014ZVVYV1RkZGVYdXdNMlZodnF6MUY5VUdnakx1YmFBbl93WW42alY5RDluc0FrTlgyMU8xN3pXMC1YckxKenhPN1R2c0d3Y003ZllNaWhsUTVRdTJYaF9hbS1CMWRPMW9tenlHdHYwSzJwTUVHMnNXeDNOaVhUbXAzS2tZc2ZUc2FjUUlMcVhaeTVoUVpLNV9sNk53dFc4UdIBuwFBVV95cUxQRFFnS1M5WENMU2FQMVpQczNnQng4bXJCNnkybEVYTkQyWnhVYm8xY1hwX2hJNlVsOVlLSUdleUtIUUUwT1VhVHFNUFdvcERpbHhoY2F1SmgteTVxZHNIQU91am52dFF6VVIyTGhuTTdYRjFNTEhoNnJnYjQ1dDJHVXpEVk5MRkJnWWF6dVNqWlIzdUFIaXhfSnhDMUhEVGZCbUJkeFh5cmxrd2Z0QWZEY0ZCZ1AwMEZUNWdN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T21:23:19Z",
+      "summary": "多家AI企业领导人在联合国安理会警告，人工智能可能对全人类构成风险。随着模型能力快速提升，风险可能来自系统失控、恶意滥用、虚假信息、网络攻击、生物安全以及军事化应用。他们呼吁国际社会加强合作治理，建立安全标准、透明机制和风险监测体系。这显示AI安全议题正从企业自律和多边讨论走向联合国层面的全球协调，但如何在创新、竞争与安全之间取得平衡仍是核心难题。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5462",
+      "title": "AI leaders warn U.N. of security risks as systems grow more powerful - Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazZlMnBIdXVTak1hTmJuZlY3VUI3czl6UXpjbWNMcENDVG5icTNhb3dLbUlJYnNHdjg2SEQwSGRUdmVIOVlZUFZxN2V3Uk4tNG4yUDA3XzhvT18zS0xTdmxXcTRhcE1sZkU0azlRY3Zod1BJQXJqT0RWVDRRZFUzczhyWDAzb255YVFKMV9kWGh6Zzk3am1qb1kwdWFONkFiNXFka0QySQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T21:00:00Z",
+      "summary": "AI领域领袖在联合国警告，随着人工智能系统日益强大，其安全风险正在上升，可能威胁全球稳定。风险涵盖自主决策、网络与生物安全、信息操纵和军事应用等。他们主张加强国际监管与跨国协作，避免技术竞赛削弱安全底线。报道显示，AI治理正从行业自律转向多边机制讨论，但各国在主权、产业利益和监管标准上存在分歧，全球统一规则仍面临较大挑战。",
+      "fetchDate": "2026-09-24"
+    },
+    {
+      "id": "5463",
+      "title": "Lawyers Discuss Artificial Intelligence's Risks & Rewards For Hollywood - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX29Cd1lFYzFaMndQRHZSZkRwQUxhcDRQSll6SmJLTDdTZEJWYnhtSnZlczM1VkRMeGJqN0wwdDBZTGVzZmpSV0tpeENtZTE3Vlk3VmMwRWdLb0FianA3RkdZcWV5bkNFRVE2YV94cVk5X2s4ZmY4MExiVGEzNnA1aQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-23T20:59:00Z",
+      "summary": "在好莱坞相关法律研讨中，律师们分析了人工智能带来的风险与回报。回报包括降低制作成本、辅助编剧、特效生成、配音、数字人和个性化内容；风险则涉及版权侵权、演员肖像与声音权、劳动替代、合同归属及训练数据合法性。随着生成式AI普及，影视行业需要更新授权、补偿和工会协议，平衡技术创新与创作者权益，避免法律纠纷冲击产业生态。",
+      "fetchDate": "2026-09-24"
+    },
+    {
       "id": "5440",
       "title": "NEWSLETTER: Funding frenzy, chip wars, and robot dreams: Inside China‘s AI boom - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1hSZVA3UXRLNWE3RU8wUWRTN3Z5SGRTQWkzRGRScVVHdDhfWFliZXdLSXlDdzdoX3NhN3BjdzNEUTJ2NmJRMVYyN2RteUdidHd0ejNtS1hZSlFPUWw5Si1GblRRQktKM055MDQ3V2kzWlVuREpNSmJZelozbFZuVGU2MW1STXdqN09mUEJRa3hHUkNXbEdRUEhBV0gzVHg4RjRmQ0VRcExrNURXZnExcURyWmVheEQwSTVDTEhCODJGZUNWV09OSUFn?oc=5",
@@ -49033,5 +49159,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5448
+  "total": 5462
 }
