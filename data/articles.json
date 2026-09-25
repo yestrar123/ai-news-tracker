@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "5531",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-25T05:00:00Z",
+      "summary": "光速创投计划为新印度基金募资2.5亿美元，重点布局早期人工智能。该机构首次将印度募资周期与全球基金对齐，并转向更短的投资周期，以提升资金配置效率。此举显示其看好印度AI初创生态，希望更早介入并加快投资节奏，在竞争激烈的印度风投市场中抢占早期项目。",
+      "fetchDate": "2026-09-25"
+    },
+    {
+      "id": "5532",
+      "title": "Pope’s artificial intelligence guru admits he doesn’t use AI - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQanJHdXBZUW52UDRES2l6Wk5OU3hVeVJvemdqSW9RSnJ4T0hzY0ZfOTM1YUFJLTUxNEpjNzJBeTZ1OGtBN0VSV1o0U2ktemJjekpueVo2ZDJEYlNTaHBSaWJBWFBnOTFoei1EdlEybWF4UldIcWFlUkNuTHlMSTZOUEFIRTc3UFlqTFBvQUJsYy10dTlYLXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-25T04:07:19Z",
+      "summary": "据Politico报道，教皇方济各的人工智能事务专家公开承认自己并不使用AI。该人士长期参与教会有关AI伦理、技术与社会影响的政策讨论，因此其表态形成鲜明反差，可能反映对AI风险的审慎态度，也引发外界讨论：AI治理者是否应亲身体验相关工具，以及伦理倡导与实际应用之间如何平衡。",
+      "fetchDate": "2026-09-25"
+    },
+    {
+      "id": "5533",
+      "title": "OpenAI set to preview cybersecurity-focused GPT-6 AI model within days - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTGFOYjJEOTM4aHFuaTBOVXFnTFMzcVRlQ2h1RWJqSDVtS1ltVUdLZ3c4RWhhbUNhTnF6YTE0QTk5MEI4VzV0bnF5VmRXVEcwazd6b3d1aTJJUk1BcTlBQWxsdXN6QzZEelpKanV5Tl90RUZTQkdGN2JRVkRGSXgyNGdQWkdyQnE0VWN1MHV6cXZoOUJZSnhXZnZVcVZGWG9ySUF3YVVDc1JTRjQxMHdUNy1sNG5Pd2NURk5ZQjYyYUd1MkVubWVyWDE3Z3lqX2JlOHh5NkFyRmdNaEdTc01nMDVUdEJnM3ZTZnViQkNVaE7SAfYBQVVfeXFMTzRLSmFnaFdKZUxiQmNDVlhqN255U3lVbUFwdWxJbi04cHBZNzJyLWlOMFpTWHdIR2NxaWViNkJvWGQ1UmZkMVFCNnZJS1dtb09wV2hIZlU2b0NiWWFkR1lVUkRyZmtoeER0V1VMQVRQazVqN1djbER5OGo0ZTZpUi1SSlJTQ0wtY0dPRXhlbm1DUWF1d0lhc08xZ0dMbG9ydHBZTkR3bzJuZFlSNHlTaVJqanVKazEzUk9scHpwd3FoOUVaMVhMdDR5b2ZuWnI1WTNSSk9FTlBlLUZoQlZuTlA5a1pKb1FXeE5lUzNWcHhoVkIxVi1R?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-25T03:52:17Z",
+      "summary": "据Business Standard报道，OpenAI将在数日内预览一款聚焦网络安全的GPT-6模型。若消息属实，这意味着下一代模型可能强化漏洞发现、威胁分析、防御自动化等安全能力，并针对网络安全场景做专门优化。网络安全是AI竞争与监管焦点，GPT-6早期预览将引发行业高度关注，但具体性能、开放范围和发布时间仍待OpenAI官方确认。",
+      "fetchDate": "2026-09-25"
+    },
+    {
+      "id": "5534",
+      "title": "The great AI threshing machine of China - The Edge Singapore",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1FXZVlYZWRPa2k0dnc4dTR0NTRILU8tdkFIcDlyNWpYNjNTNzN6QXhJUnZ1REpwSzRTNGxsdmVCSkp5OUZNcHdYbzR3c0hnN2J3bEowUjg5SzFPQk9xVlFENkthUF9sVUVEanhsWHI0WF9aOXF6NU9NcV9xSVBHZ3pGQXhMUXhCRmZudElMbk5xRHlzcFNURGJiMGlodw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-25T03:40:00Z",
+      "summary": "《The Edge Singapore》以“中国AI脱粒机”为喻，讨论中国人工智能产业的激烈竞争与快速筛选。大量企业、资本和人才涌入，推动大模型、应用与算力发展，同时也带来价格战、同质化和加速淘汰。文章可能借此分析这种机制如何加快创新与商业化，又是否造成资源浪费和市场集中，并引发对监管与可持续性的关注。",
+      "fetchDate": "2026-09-25"
+    },
+    {
+      "id": "5535",
+      "title": "An AI model has found a new ‘CRISPR‑like’ biological system. Here’s what it means for science - NZDoctor",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd0NIMmE2WnQ5VWNIeC1pMWVLZzJHeUg1QTM4ZXRPZ0ZIcC16V0ROdERIVEdvSVpMZjJ3NjJYOTBseV85b2FjcWxQc1hiMUlkSUU1aHN0UThQTXBBVEI2SmxoaGdpRVM5RERnY1VnRmIwUWpmem5WS3p5SzdhSjFDT0MwN2xCdnltUEI3VDY5VF9ReUE2elJMUHdVQjR2NkJZWFdYcjlKc1FrVnJRNVZGcGllZ2pyODVaQVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-25T02:33:14Z",
+      "summary": "据NZDoctor报道，一个AI模型发现了新的“类CRISPR”生物系统。这表明AI正从数据分析工具走向科学假设生成者，可帮助挖掘微生物中的基因编辑或防御机制。若经实验验证，该发现可能为新型基因编辑工具、疾病治疗和合成生物学提供思路，拓展对生命机制的理解，但其具体功能与科学价值仍待进一步研究和论文确认。",
+      "fetchDate": "2026-09-25"
+    },
+    {
       "id": "5527",
       "title": "Trump, US House speaker and tech CEOs to meet on AI on September 29, source says - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUNPVzNoNDJiWUNfY2hyZTNBT3pJS2kwUWk0Nk9UT0dTenZkTE5acXJaX0V4QXVMWXdwRVZEeVY3Y09HUTZqN2VPYUI0elhjY0RwRHFLTnFsSlNhdGgxUXJ2OE5pVHcyWUFBaWljNThLdUtqOFUzeHU2NjIyS3czT0hsVDdyQVFtemZIX0o2cTR5WGlTVXNnMUdOUUp0bm5PeFZQLXg5Uk81T3FJMmxn?oc=5",
@@ -49762,5 +49807,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5529
+  "total": 5534
 }
