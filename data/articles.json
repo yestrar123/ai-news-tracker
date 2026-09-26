@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "5594",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-26T14:00:00Z",
+      "summary": "TechCrunch记者创建了一个可交互的数字虚拟人分身，并训练它就风险投资欺诈等话题展开对话。体验后，作者对“AI克隆自我”持复杂态度：一方面，数字分身能复制个人表达与知识，带来新型交互和内容生产可能；另一方面，它也引发身份真实性、隐私、伦理归属和潜在滥用等担忧。文章借此探讨个人数字孪生从概念走向实用时，社会应如何建立边界与规范。",
+      "fetchDate": "2026-09-26"
+    },
+    {
+      "id": "5595",
+      "title": "DeepX, a physical artificial intelligence (AI) semiconductor company that has been receiving love ca.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MTXkwbzFEM1UxckYyWGhlcmFQWlBPanllQVc3ZE1HSl85NEdhM1FmcTA4MkdMSmpQNGhRejQ4S1FBWXJfMkEwek5KVWNXN1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-26T12:27:35Z",
+      "summary": "据韩国《每日经济新闻》报道，物理AI半导体公司DeepX近期持续获得市场关注与合作邀约。物理AI芯片主要面向机器人、自动驾驶、边缘计算等实体场景，强调低功耗、高能效的端侧推理能力。DeepX受青睐反映资本与产业界对“AI进入物理世界”趋势的押注，也显示在英伟达主导之外，专用AI半导体初创企业仍有机会切入机器人、工业自动化等增量市场。",
+      "fetchDate": "2026-09-26"
+    },
+    {
+      "id": "5596",
+      "title": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQWhnVE40c1hZal9DTmVEeVZXcUpTUXRCQnR4czBHUFNRa29jbGpsaXdmUDQ0NkJPLUxKc3RTNzlndTJ4MmJMdmp4ekRia0doNHRUczd4aXdxWDI4OGJqZlN3aG5iVEZnWHRoemo4OUx0UC1iZGRFMU94RVlsRktEV1JtUnVaclVSNGFzbjd1V2hHNlNPNU9YUGVQMnZWXzlCWktiZHFmazl0YlhFWHk0dVJfVDBwZERKM1FXbnlZSzdZNEJXWE1PNFhFOEl4d9IB0wFBVV95cUxOemZ2LVVtckFYTF9OdnNUemVHNXJLWC1xME1ydTczOHVtWUZhVndwUzlRQjRCUFNfVGZmM0Rndnk0ZXJHajJkYUR2UWZuMVFFck93MGwzWUFsa19nbGkyX3lwQ0JzVThySHVEOWdkeVY1SUJsamNlZjVzcGFCcXVDUl90emYya3dnXzNndWUxdEF4aEpFOHhpSW5odWhDU1NCR3JqcGVpcVNTUEY3T0hrNmM1X1YzNGJldjNfQUh1Ukt3QUo3RzFZZXNvNTgybDJTYWk0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-26T12:22:53Z",
+      "summary": "中美同意削减约300亿美元商品的关税，并建立专门渠道处理AI相关事件。此举被视为两国在经贸与科技领域缓和摩擦、加强风险管控的信号。AI事件沟通渠道可能用于通报重大安全漏洞、模型事故、网络攻击或军事误判等突发情况，降低因不透明导致的升级风险。关税削减则有助于稳定部分供应链与市场预期，但AI竞争与安全博弈仍将长期存在。",
+      "fetchDate": "2026-09-26"
+    },
+    {
+      "id": "5597",
+      "title": "Why I’m talking about coffee in a column about artificial intelligence: Letter from the Editor - Cleveland.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1ZHZkVBal9EREw5c0lTSndMN1JkN1g4dWxfdzYtcDFSWUVBOXpJQzFieHNsYjcwUHZ1UU1oSWZXbFJCMWM4VkNGLUxSaF91Wl9Ic2xTakxuRlFHQ3pPWmd6aHRLbGR1TUlUcHo1MGtva3ZBLWx0SS1ZN00tSWp6c2dMb3k1NVJtUXZCOFpnNmw3M1ItUEkxUm4xeC02eGZia2ZWOG9vWTNWRW91N2JyYlF0TVFjejVKUGdaQkx3Vkt6dEZYSGV1YmtkRGdSMmVvcVHSAeYBQVVfeXFMUHpjcnhpMTRhd2l5Ml9DSUhXNU9HQWNsb2NyX3RnTHE1b01IQnEtWDUzMXdvTFEtaF9xa3RxZjN2TGhCanJuN3FLdkE3ZlNleVlwcC1BRVpWZDA3dm5neG5RUzFxTzhEdVVOUEgxNmUwRlZ3T0NGQXl1bDVQelhRQTducTlZUndQSUg5czNUcjVQZ2wtRkpCSlc4NVh6b2ZHQ0xBTTg2ek8tb1JVblFFUWpXZVF0VU1EWTZiNzhSN0p6Y183V3FNLTJfT0dmQ1pGdmRMS3JzakZsZ19sWGgyUWhLNW5Dbnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-26T12:07:00Z",
+      "summary": "Cleveland.com编辑在AI专栏中从咖啡谈起，解释这一看似跳脱的切入方式：咖啡早已融入日常生活，而AI也正以类似方式渗透工作、消费与信息环境。文章可能借日常体验提醒读者，AI并非遥远技术，而是需要被理解、监督和讨论的社会基础设施。编辑呼吁在拥抱效率与便利的同时，关注其伦理、透明度、就业影响与社区责任，保持批判性思考。",
+      "fetchDate": "2026-09-26"
+    },
+    {
+      "id": "5598",
+      "title": "‘Whoever wins AI, wins’: How artificial intelligence is transforming the future of war - independent.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObkxjckVKZDZKUXgyeGozTTJodjU3aGtwNFNqLTc2YnVseV9oNmVBQmhGVXB0YXM4VDJBLXRMczgwYndzdGJVckw1VGtfM2JFb3ZodzA2RWFJR08weGpOdE5SS1VBbzBSd1ZNVXJsRzVpbWV3bmV4R0ZZb1FVVHhDV053Z2U2aFZvX3lHcWlB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-26T11:00:00Z",
+      "summary": "英国《独立报》文章以“谁赢得AI，谁就赢得战争”为题，分析人工智能如何改变未来战争。AI正被用于情报分析、目标识别、指挥决策、无人机蜂群和自主武器，显著提升战场速度与精度。但算法误判、责任归属、冲突升级失控等风险也随之上升。文章认为，AI已成为大国战略竞争核心，军事优势越来越取决于算力、数据与算法，国际社会需尽快建立约束与治理机制。",
+      "fetchDate": "2026-09-26"
+    },
+    {
+      "id": "5599",
+      "title": "‘Whoever wins AI, wins’: How artificial intelligence is transforming the future of war - inkl",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON1BycHd5N05sSFQ0cmFlSTQwMTI3UmxWNmhjSHF2Ynd3LXltYVV6NnBicVVHQ1VfRkJXb1lzbjUwczdKdzFZU25NbVpqNFdKbTBnZFhZT2hPYm5SNFN0WDFZV25tZWIxZHpZelNOWkFNeWl6SmhmRE1iSE5yTTBudlRuaGxXamk0Ry11dVpnbS1Tb201MzFldk1pTk90QVdJRUFWTmZfVUgtbnha?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-26T10:54:35Z",
+      "summary": "inkl刊文同样聚焦“谁赢得AI，谁就赢得战争”，指出人工智能正在重塑战争规则。从战场态势感知、后勤调度到自主打击平台，AI可压缩决策周期并提升作战效率，使数据和算法成为新型战略资源。与此同时，自主武器与AI辅助决策引发法律和伦理争议，误判可能快速升级为冲突。文章强调，各国在争夺AI军事优势时，也需推动危机沟通、军控规则和人道法约束。",
+      "fetchDate": "2026-09-26"
+    },
+    {
+      "id": "5600",
+      "title": "ChatGPT-6 Astra cracks 85-year-old 1941 Enigma-coded message in two days — autonomous AI coded its own simulator to crack code that was unsolved since it was shared online back in 2005 - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNVWpKV2FoVExFNmtsY1pHMWw0b1NEa09OTjU5VHdmcEhZbGVOeko1TmVVbXJiajBjMWJMQk54UGRxUGR2NVMyaUpWSm80eUhsLTY3NTN6dTlRV2FqeTNzLTRNR3hQOFFfTi1zaWV0OHh0QWZJdVpjMlVZdmNMYldFbG9iSVFOMjc3elU5T1RuUURWWk5yUUVWaVF3ZnpyVHUzZW1jUjNnWVdXTkcwNmEybkFwLXJwaVRldkFQVGtHelRNVkU1RzBtNG56bmlOaExoRnVGRnVJSFFEeVVQRElxS193U29MNEhyMS1TZV9PdTFoMjhIalg1cG1UM21tZk1XaTg5anZ5VWNJRGoxT2loRURhSHEzeDR2QUZSdmRFRUJxRFl2UExDUDlXM0lzQkdmUU1MajhuZDFCVDVrbVFBNHdUX1dXVFdDVWZmRmlNb2JWUlgzUGNiWA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-26T10:00:00Z",
+      "summary": "Tom's Hardware报道，ChatGPT-6 Astra在两天内破解了一段1941年由恩尼格玛密码机加密的信息。该信息自2005年公开以来一直未被解出，而Astra自主编写了模拟器并完成密码分析。这一案例展示了大模型在复杂推理、工具生成和自主问题求解上的进展，也引发对AI安全与加密体系脆弱性的关注：若先进AI可自主构建攻击工具，防御方和监管机构需重新评估风险。",
+      "fetchDate": "2026-09-26"
+    },
+    {
       "id": "5589",
       "title": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023 - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHJJUS1KRU5tbElCTlFrVHd6Q2JCbVM3UVU4ZWJpQVkwVVUzWHlBakd5UUQtOXdtdmw5WTlmdXBCb0d3WWNsNFdxX1VldTZpZERpLVlZMmpTbG1QZGxyN2JwX0x5b2g4WUNmNDdZVTAxNmxJWnNzNmtkcTlmei10THBJN1d1UjRialI4d01MdTJSNXVlVTR6VQ?oc=5",
@@ -50329,5 +50392,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5592
+  "total": 5599
 }
