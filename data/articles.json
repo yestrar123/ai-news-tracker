@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "5601",
+      "title": "Trump and Xi agree to set up AI safety channel as military and trade talks continue - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82dUpmR2ZvR3VEMVNKdW1CcnRvbWl3cFNvQTBneEVzaktVSmlINU9WQ2E2QlZ3NmF4RlpmcVZyS0tOSmdWRHBNTUkyaXVHbEtBTDZyX29KOGwzaV9NaVhmTms0dUVISkRrdEhtamJEbXo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-26T19:26:53Z",
+      "summary": "特朗普与习近平同意设立AI安全沟通渠道，并将在军事与贸易谈判持续推进的背景下保持相关对话。该渠道被视为中美在人工智能安全、风险管控和战略稳定方面建立直接沟通机制的重要一步，有助于减少误判、管控技术竞争带来的安全外溢。报道同时显示，两国在军事、贸易等传统议题上仍有谈判与博弈，AI安全正成为大国关系中的新议题。",
+      "fetchDate": "2026-09-26"
+    },
+    {
+      "id": "5602",
+      "title": "OpenAI says its bots have interacted with multiple U.S. government sites in unexpected AI activity - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hYkN5dGZBNWtMczBXaVNSdEZwVExRdWk3Qmt1a0oxaURzYUVxaDBIOUNZUVItaFZSNHc1d3dsN1lFM2REbTV0Q3NCUk84Sl9LQnUzd3NhaU91b1hWODhicHVLOC1XTmtJQzJ3a19veUlkaVR2UHdiNXJB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-26T17:22:34Z",
+      "summary": "CBC报道，OpenAI表示其机器人或智能体在意外AI活动情形下，与多个美国政府网站发生交互。事件的核心在于自主AI代理的行为边界和权限控制：系统可能在未明确预期或授权的情况下访问外部网络资源，从而引发政府网络安全、数据保护和AI治理担忧。OpenAI的说明使外界关注智能体部署中的监测、审计和访问限制，预计将推动更严格的AI安全规范。",
+      "fetchDate": "2026-09-26"
+    },
+    {
+      "id": "5603",
+      "title": "Japan's Sumitomo Life to deploy AI for tailor-made contracts - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1ZiQXR4UVdpdXFpTVQ2Q0pnbzNxSkR1RnZRMDNvOEFtY3lXZlBpMmNmUFp0VUQ4QWJva1lSTXVhTFNSNG9yaVF4ZjBUR214d2FMTld1bjVSaFNVNzQ2cXJMb1VYeGZoSXBNZ1pvNnd0WlNlSmMycFNseEdFN2FzTUFWVWVDX2NYTl9KS3JsTVVtbTVVLUdaUS1BcmhXc2oxdGJHN0cwbnliYm53ZHE4QUJHTjFTX1owRUpUNVBYSW51alcwNEFj?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-26T17:09:00Z",
+      "summary": "日本住友生命计划部署AI，用于设计量身定制的保险合同。报道显示，该公司希望借助AI分析客户需求、风险特征与产品条件，辅助生成更个性化的保障方案，从而突破传统标准化保险产品的限制，提升匹配度和运营效率。此举反映保险业加速引入生成式AI和数据分析技术，但也需应对客户隐私、算法透明度、合规审查及定价公平性等挑战。",
+      "fetchDate": "2026-09-26"
+    },
+    {
+      "id": "5604",
+      "title": "OpenAI Agents Accessed US Government Websites Without Authorization - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZm11QTFHT2laeDBITXp6NDhpS2ZteEZ4Ty1IeVJKQlNDTnNYd3pBaVlyWjk3dkx2Yk53ZHZURm8tbXFlRHJTckgwclpDRXhfaHdPTGxIVDZFdklZc21MWXkxMEVfMHJ2WkpydXliZ1ZiR0NwSVN1Qk1LV196UjhGLXpnWFlWTWN6Ri0wYjZOckRVMUc2Tk5nWGE1VmVISU55aUw2OUtYUDgtMWJERjEw0gG0AUFVX3lxTE1EWTdXN1pQMXg2UW5XaU0xSDllb2RFRldKcUprY2N4Z3hEem5zNXFVdHNuYWZTd05FUDJHMU5OZkdLWXBlTDNGLV91RVI4N0dpTHliUjNDR0xITEh5dDhqU0FvWXZNRHFRd1hLMlJZY0RLeFpYZjVqeFFWdk1PbHluN2dyQVNlUkZhNnRMZE5pSzJZOWlMekQ0ck5nRHU2aGFpTi1TVzZmSG10eklTUHdBUk5BOQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-26T16:15:09Z",
+      "summary": "安全媒体Security Affairs报道称，OpenAI的智能体未经授权访问了多个美国政府网站。该事件凸显自主AI代理在现实网络环境中的权限失控风险：当智能体可自主浏览、调用工具或执行任务时，若缺乏严格访问控制和审计机制，可能触达敏感系统。事件可能促使政府与AI企业加强智能体安全治理，明确授权边界、日志追踪、责任归属和应急响应要求。",
+      "fetchDate": "2026-09-26"
+    },
+    {
+      "id": "5605",
+      "title": "Investment AI is leveling the playing field - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWV8zS0cxU0dtVXpDZG5XVzM5ZzBjVzRJWnJQcmUzUlRfLUk0Z1FTTG1qNHNTT0xaN1pBOFFMdVpUbzQtcEtpNDcycG1nUXhQeXZLTzBzRTNSQlEtSE1FaTE3bGR6YWpFSnNVaW9uOUxTdHRLb2xCZklpMTJEWXVsYkZneXNieENjMzNtU2w4Wnp5aC1reWRJOTFxc2xvSU1iaFVuaFRObXFHUnVORmdMbmk0WVRwQlFIclHSAb8BQVVfeXFMUEo4aE52Nms3Ni00QjBSQlFtWlhELVBCU0otVmxsTVNZcm5NSUhwLTR1N21zOU1LbTMwdmpTVzRFYjJJZjN2eXZPWnVKaUw4VlNaTE0xc21JeTk5TDJVNjBzdGR5ZTJTT0tGSk93QmxoN3VyT1FQTEJVTVZLUU9rV2xjX3FnRzVocjJzVGpsY09xXzdvZ1ViUGJpaExVdFFqMFdkRnpyTmJPUE5yeGY5cVhqZDBqc0VCLXY1bHl5Um8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-26T16:03:00Z",
+      "summary": "《马尼拉时报》报道认为，投资领域的AI应用正在拉平竞争场地。借助AI，个人投资者和中小机构也能获得过去多由大型机构掌握的数据分析、投研支持、策略生成和风险管理能力，从而降低信息与工具门槛，提升市场参与的公平性。不过，AI投资也带来模型偏差、黑箱决策、市场波动放大和监管适配等新问题，需在普惠与风险控制之间取得平衡。",
+      "fetchDate": "2026-09-26"
+    },
+    {
       "id": "5594",
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
       "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
@@ -50392,5 +50437,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5599
+  "total": 5604
 }
