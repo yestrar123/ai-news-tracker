@@ -1,12 +1,138 @@
 {
   "articles": [
     {
+      "id": "5653",
+      "title": "Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdjlPTWVXNmhvUHQ0TFRscEhzcmE4YS1YR3BmaURRZXVpbzJiM0hvNEZXS0lEXzItTUk4YkhabjhneHdiczc0Q0tjUWlUVVJOQk9DMzloMk1jeEczYVE1dEIzVG5KdjJHRW43MXNTWUVzNnBNbFIzMkV2Q183NS1kYXRaZWR4NVB3WGdUdGRhTTdmaWdINGVXY29IOEJjVWhOanRCNkpOQjYwLWVBaHlxMXdZUWJScV9ZTzVWdVVCTldpUkY2bUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T11:57:00Z",
+      "summary": "卫报报道称，Euan Blair 旗下培训公司的教师反映，公司使用AI系统对其工作进行评分和绩效评估后，他们承受了“可怕的压力”。该事件凸显算法管理在教育行业的风险：AI评估可能缺乏透明度、申诉渠道和情境理解，将复杂教学简化为指标，并强化管理层控制。教师担心职业评价被不透明系统左右，导致焦虑与不信任。报道呼吁在部署AI绩效工具前，应引入人工复核、员工参与、算法审计和伦理约束，保障劳动者权益与教育质量。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5654",
+      "title": "NVIDIA and over 100 partners launch open AI agent safety platform - AI News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamtyREtyVy1lbFlTUmpsZHdSRTl2RWdGTWhWRkFDNV9pQUdzcDFibzhYb2hZREZPYnVIcVVRZE5PZkpwWDNfT2JlNXIwUXl6SW1UV2VXWUJDc1A4ZmFhem43czNBdmpldXNUa3ZhcG5NWGMyNG9neVk2QU5NbG5VY0RieWlyU3pqdmpIaVNUZEk1clRrVzBkeEFzRHE0UndfUHFrbU0wSXVUeDBxcWUwNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T11:53:50Z",
+      "summary": "英伟达联合100多家合作伙伴推出开放式AI智能体安全平台，旨在应对AI Agent在自主规划、工具调用和多智能体协作中带来的新型风险。平台可能提供安全护栏、身份权限、运行时监控、红队测试和风险评估等能力，并推动行业统一标准。随着AI代理逐渐进入企业流程，安全与可控性成为落地关键。该联盟希望以开放生态加速创新，同时降低滥用、越权、数据泄露等隐患，帮助企业更安全地部署智能体应用。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5655",
+      "title": "These AI Stocks Took Off Or Tumbled In Q3. Here’s Why. - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWExLUs2NUxwc1RabXBScm15MEZHZy1DQ3c1cE9EaEtHaU9JeHVrNnFiYThrQTlKRFVkb3lwTlBoUDZRYmhHRlh4eGliQlBrV3dFbFNDR3Etc2xVSEEyNElrbDJrRk40dEVKd09lTHBYM0h4WEMyTlZvVDZMZUN5NjdjdzFMc05xSG9OUjdhN1pVaVEwRDM2dnZ5a1M2dVJL?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T11:47:00Z",
+      "summary": "投资者商业日报分析第三季度AI股票表现分化：部分个股大幅上涨，另一些则明显回落。原因可能包括财报业绩、AI资本开支、芯片与云需求、产品商业化进度、估值压力和利率预期等。市场不再笼统追捧“AI概念”，而是更看重收入兑现、盈利能力和竞争壁垒。算力、模型、应用层公司走势差异加大，显示AI交易进入精选阶段。投资者需关注基本面与风险，而非仅凭题材炒作。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5656",
+      "title": "China expands overseas travel curbs for top AI talent to include their families: Bloomberg - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcG5lR25BTW1zN01WQ2RVMUpmVDl5amdZZFVyeG5NcUVWS1p1cVFKSFYtMmc2Y18yY0JJU3JWbFFiZFhiYUtKYUNCRjE4UVEwNlZBcE91S054YVhIRzRVUFcwMUVmX1lTVzVuOFprMVF0NFNqcXdCS2dxd29xTzg2RzBjSFNXN0lEaElUZmg1ZVhZYXV2LVBaRjFtZERRN2FIbThhRlNrU2tGZk9NYXcxZlpXb0FRZUJqaGJlNHREbnFXNkVXSmNhY1E2TnNQMVFkdktoN0tVcTBNcVgzdXdF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T11:32:52Z",
+      "summary": "彭博社报道称，中国扩大对顶尖AI人才的出境旅行限制，并将范围延伸至其家属。此举反映AI被视为战略竞争核心，政府担忧关键技术外流、人才流失和地缘科技博弈。限制可能影响学术交流、国际合作与人才流动，也引发对创新生态开放度的讨论。在中美科技竞争加剧背景下，各国都在加强AI人才与技术管控。如何在国家安全、技术保护与开放合作之间取得平衡，成为政策制定者的重要挑战。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5657",
+      "title": "Why India needs to keep its AI push going amid global calls for slowdown - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUlYxSllMQWNfLWNOQmJzVzRreFNUSl9LT0E0YXJhQmNYMV9NeGkycmJUNjBnSEV2aDg3Z3RHMTdaVl9LUS1aZk5MVkZPbkZHZ0ktd1d0X0NQLXFsSGFGVmlwTFlYbnVMcmpZTzZWZWIwR09OOGYwb3lRTUtYZ19pay1Kd2pabjFKbWQ0elpxbHBuZmFjandoTURWRWZQTHB3ZkpzaG8xdTM0bHF5bG9ieXJYclVWbjVnbWRuYTF3RDBKZENKWjBGZ05hNVl3RTdWMkNuMmx2dDJaUXgtblB4U2xwRUhEdnhTdzFmZG9BVDFQRjjSAfgBQVVfeXFMTnV4aE1iN2kxd3RwQlhnbHl6emViZU5qTklIRG1KQ1RUOUFVaHVjQXkwZXUtcXhscjIxODNsUzU1Q2k3cTBWOE9TeXdKczJ0X21hNVIwdkQ5RUo0NGsybzRlX0RxM0dKOHlwT0gtYXhmMTV6Nzc5aUF2U1dOREs2enFmMVdGN254NzJtZWZ4Z1ZUVFU5YXRsOHBsLUllb25ZNDdheW5abm5BazJuTG9MdkxtTXJJd0NCTkQ5Vi1aS2dIeVc0SFotOC12MnJfWF9TUF9MeGlqU3MzVjdiTG8wSzdoSnNyb2diekhpZmpxWjZkbDBYODVTbnU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T10:44:26Z",
+      "summary": "商业标准报文章认为，尽管全球出现呼吁放缓AI发展的声音，印度仍应继续推进AI战略。印度拥有庞大市场、IT人才和数字公共基础设施，AI可应用于医疗、农业、教育、金融与治理，助力包容性增长。若因外部监管压力或安全担忧而停滞，可能错失产业升级和全球竞争力。文章主张在负责任AI框架下加速创新，完善伦理、隐私与安全治理，平衡风险防控与发展机遇，使AI服务国家转型。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5658",
+      "title": "The Gulf’s next challenge is managing AI control - The Arab Weekly",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlUHVEajRlempEUFh4WU5XQjMya2R1YW54Z1lZYng2bmRjcVdweTcxczU4Qll6Q09wTXg3anU3VW9QN3dUaF9tMHpoNlBaN1dfV0V5cTM4d2xaZ2djRV9RSWh4ZEJXUFgtTHhhdVNjcVJTQ3hG?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T10:12:33Z",
+      "summary": "阿拉伯周报指出，海湾国家正大力投资AI，下一挑战是管理AI控制权。随着主权基金、数据中心、大模型和智慧城市项目推进，政府需确保AI治理、数据安全、伦理问责和本土能力建设。过度依赖外部技术可能带来战略风险，因此海湾国家正寻求建立监管框架、吸引人才并培育本地产业。在地缘政治竞争背景下，AI控制不仅关乎经济多元化，也涉及国家安全与区域影响力。如何平衡开放创新与主权控制，将成为关键议题。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5659",
+      "title": "What Mature Security Programs Need Before Deploying AI - Emerj Artificial Intelligence Research",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wZ2dRY3g2Unl1NXI0eHF1X1ZNM3JMMm5Sdi1GZHpGeW01Mmc5SmtXVllaMFVnRU5xWE56cFlYSGVTam16bHgxYUdneExhWjB6MWF1b2RZaW5JQTJzdnpHSjJlNV8zT0RQMWdKR2Fka2VXcGY2cVBMeUw3U1pQdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T10:03:46Z",
+      "summary": "Emerj人工智能研究文章讨论成熟安全项目在部署AI前需要哪些准备。企业应将AI纳入现有安全治理，包括数据分类、身份与访问管理、模型风险评估、对抗测试、运行时监控、审计日志和事件响应。同时需防范提示注入、数据泄露、模型窃取和供应链攻击等新型威胁，并加强人员培训与合规审查。只有在安全团队、业务部门和AI开发者协同下，才能降低部署风险，确保AI系统可靠、可解释、可追责。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5660",
+      "title": "Ahead of the ask - AI News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LcTdqVng3eXEyeW91VmZRT0VpaHB2VDhleGlqQi0yd24tUWU4ZEdBZmw3U0Y4UVVsSzFBTmRLc20zOGlvYXItcktQNXMyano1bjlTSWlTQklKZHlXNHlRVXhEamV4elFvS1ZvaWE4RFlRUWk3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T09:23:13Z",
+      "summary": "AI News 以“Ahead of the ask”为题，强调在监管机构、客户或市场明确提出要求之前，企业应主动布局AI战略、安全与合规。提前预判需求，可建立治理机制、风险评估、人才储备和基础设施，避免被动应对。对于AI供应商而言，提前满足潜在标准也有助于获得信任和竞争优势。文章可能提醒业界，AI发展不能只追逐热点，而要前瞻性地考虑伦理、安全与可持续性，在问题出现前做好准备。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5661",
+      "title": "Global AI trade could revive after recent pullback, J.P. Morgan says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZTlGaUdBRl9pMEUydUZaRV9JeVEtaHlLc05ZZXhOb213VHBYRHhRMlNGYkJyN0VsM3JQWEVRUWNiM2dqLVpPSWVhSHFMZ1BWeFF1MVJWSWZYci1UenU3T1F1OTNEM2VqNURDdGhaM3E2dUxnV2pNNlQwdUtneV8ySHpWd1ZNU1IxSTdXSmxicHYtaGZIMEl3T2xta09GV1VmZmc0TXNjenB0eGlRMldj?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T09:05:44Z",
+      "summary": "路透社报道，摩根大通认为全球AI交易在近期回调后可能复苏。该行可能指出，AI资本开支依然强劲，企业采用加速，芯片、云和数据中心需求持续，估值经过调整后更具吸引力。尽管市场担忧泡沫、回报周期和宏观压力，但AI长期趋势未改。投资者可关注算力、模型、应用等领域的龙头公司。摩根大通的观点为近期波动中的AI板块注入信心，但提醒需精选标的并关注盈利兑现。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5662",
+      "title": "Beyond the AI Hype: How ASEAN Can Ensure Artificial Intelligence Serves Everyday Workers - Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qSnFrVWhnQTJVMGVPeUhsWmRyV19Od1k4QVNJUXlVMklhdDdlamFjZjRDczgwMjJMa3pTM2Rrb2hxcFVHbldhZWZZYlBwMk5uLVd3X2dIZGhIWWpRV0ow?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T08:52:12Z",
+      "summary": "泰国国家报文章探讨东盟如何超越AI炒作，确保人工智能服务普通劳动者。随着AI可能替代部分岗位，东盟需制定技能培训、社会保障和劳动力转型政策，推动包容性AI。应让工人参与技术设计与部署，保障数据与劳动权益，缩小数字鸿沟。区域合作和统一监管框架可帮助各国在吸引AI投资的同时，实现以人为本的发展。文章强调，AI政策不能只关注效率和增长，更要关注就业质量与社会公平。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5663",
+      "title": "Artificial Intelligence(AI) Inspection Market Is Projected to Grow to $63.81 Billion by 2030, Exhibiting a CAGR of 18.4% - einnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWHVpYnpRc1UydjBzQkk3NUZpcDlkbmVPb2R6OTlSa3dWWF9TdlhZdU1zVDZmYmlJRU9OdlVUOTBwQllVZmZGVTdxa0lDNnZ4bE1DblEyVUZqUW84elQxRnVDOUNsaXMwSjVnWW5CSl92dnpWOXdBbTY0ZlM2UUlJVjZXS3BlYmI5RzRWM3A4MDZ4M1VmN1U4RTl0cnJWWEs4SXpKdEVpOFVWbHRnU0JxWVN6VGxKRzRYZW55bmM0QjEzdkVuQkM1SS0ySG9ES1hZbHNQOUt3bFVVaEtBS0JiTlViYTRSVlNvTnlUM3pwRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T08:51:00Z",
+      "summary": "市场研究显示，人工智能检测（AI Inspection）市场预计到2030年将增长至638.1亿美元，复合年增长率达18.4%。AI检测主要依托计算机视觉与深度学习技术，在制造业质检、基础设施巡检、医疗影像和安全监控等场景中实现缺陷自动识别与实时判断，可显著提升检测效率、一致性与准确率。市场的快速扩张反映出工业智能化升级、人力成本上升以及企业对质量管控要求提高等多重驱动因素，也表明资本正加速流向具备软硬件一体化能力的AI检测解决方案提供商。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5664",
+      "title": "Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbGtET0VEaFJwOUpXOWgyS2RtMkJXLXBmcXpYQkZuWkUzWnQtSGUtVFp3Nko5M3BhR3h4c0FIYTI3Z3hlX3p5MkhVaVczT1d2VWNkYnlxV2tuS2k4c2Z0YWozNkVWdzlnQmIzYkxLRlg3THZoUmFaaHpoVTRzRnJETmsyS0padEJpX0YzQUZfeEJYX3ZxNzEzZkZsb3lKSTJUS2J3UFZtNFlKUGF4R2FVUGxYZW1qYXpZVzh1WGN5SVFpQjJGUkNfcGZsVmdDSUpFc2tpN2dQUV84VWdUWWV1cVY2VmNDTUgzLVQ4YnJfTC0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T08:35:00Z",
+      "summary": "据《卫报》报道，在OpenAI遭遇黑客攻击事件持续发酵的背景下，Anthropic将不出席参议院就人工智能与数据中心举行的听证调查。此次听证聚焦AI算力扩张带来的数据中心能耗、土地与电力供应问题，以及AI企业自身的安全防护能力。OpenAI被黑事件暴露了前沿AI公司在模型权重、内部系统和数据资产保护上的潜在脆弱性，也使监管机构对行业自律提出更高要求。Anthropic的缺席可能引发外界对AI企业透明度与配合监管意愿的质疑，为后续立法和合规审查增添不确定性。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5665",
+      "title": "In line with the rapidly changing artificial intelligence (AI) infrastructure market, there will be - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GTzNuLTRuaXZ1UW93dDJqdko3ZGdadW5tTEJCazc5cHJsMC1LektkZXFCLWxJNkFDSTJPR1YtV1RCUzJMMHl4enBwdmVIUVk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T07:52:14Z",
+      "summary": "据韩国《每日经济》报道，随着人工智能基础设施市场快速变化，行业格局将持续调整。AI基础设施涵盖GPU等算力芯片、服务器与网络设备、数据中心冷却与供电系统，以及支撑大模型训练和推理的云平台与调度软件。报道指出，需求结构正从单纯追求算力规模，转向对能效、成本与部署速度的综合考量；推理需求上升、模型效率优化和定制化芯片兴起，正在重塑产业链分工，并促使相关企业加快投资与战略布局以应对竞争。",
+      "fetchDate": "2026-09-28"
+    },
+    {
       "id": "5644",
       "title": "NDTV Yuva 2026: Will AI Make Us Smarter Or Lazier? - ndtv.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeU0zWUtlN21hUS1UR2pJVkRieExTemRFeFRldEl0TlJpOVlyLTZZajFZemJpOFlHTzFvLVFielcwR01DTzRaZ0NmN3dqdnVJemUyM1JhaFhHb3hTOWZ6bDctVlkxNldBeVprbWlFYWVxWEE2WUJzX3IwbklWQUI2bHFiak5FWG91RE5TcUVsSUVzN0lUTXBDOHFEYzVNQ0d5NkZUNNIBrAFBVV95cUxNU25HTll1UTl5cjFTREc3RExjWERUMzN1YzZxS25ZSHhPdThxb05qT3kwZzVSem5kWFdmX1ptVkc3czZLaC1TNEFSQUxkUGhKX25lbjd3MTZQcmI3UDhpOGpfVDB6ZlNHaGk1NEZfb0Z5SDc0Vm5QVXI2RlQ0Q0JUU1pycjQtYndjd0Y3eFlaQUFILU5Qc29SeHNCcUxTX2N3UUpiSUhpY25lLV9q?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-28T07:08:15Z",
       "summary": "NDTV Yuva 2026 聚焦“AI会让我们更聪明还是更懒惰”的辩论。随着生成式AI深入教育、工作和内容消费，支持者认为AI可自动化繁琐任务、提供个性化学习与创意辅助，释放人类认知资源；批评者担忧过度依赖会削弱批判性思维、记忆力和动手能力。讨论预计涉及媒体素养、教育模式、就业技能与监管边界。核心在于人类如何主动使用AI，而非被工具反向塑造。",
+      "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5666",
+      "title": "Lunit's breast cancer diagnosis artificial intelligence (AI) is used for breast cancer screening acr.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQN1d5aHQ5a0VOSEF1ajFCT3d6ajVodkJ5X2NiMUx4eFoxTzlvRDFyZ0RVNk80VExfOG0wT1BhNVA1bUdDZXktRzBrOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T07:07:57Z",
+      "summary": "据韩国《每日经济》报道，Lunit的乳腺癌诊断人工智能已应用于乳腺癌筛查。该系统基于深度学习分析乳腺X线（钼靶）影像，可自动标记可疑病灶，辅助放射科医生提高检出率、降低漏诊，并缓解筛查人力不足的压力。报道提及该产品已获得相关监管认证，具备进入临床筛查流程的资质。此类AI辅助诊断工具在提升早期乳腺癌发现率方面潜力较大，但其临床落地仍需真实世界数据验证、人机协作流程规范以及责任界定等配套支持。",
       "fetchDate": "2026-09-28"
     },
     {
@@ -50860,5 +50986,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5651
+  "total": 5665
 }
