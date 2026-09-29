@@ -1,69 +1,111 @@
 {
-  "updatedAt": "2026-09-29 03:08:59 UTC",
-  "totalArticles": 9,
+  "updatedAt": "2026-09-29 07:41:43 UTC",
+  "totalArticles": 15,
   "articles": [
     {
-      "title": "Meta's artificial intelligence (AI) glasses will make it possible to find a way to NAVER Maps within.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sUTNKWGYwX1Y5dFJtWGtIZF9uWVF6VFIwQVAtTTZncklHTDNBeHYyT251eXJKLXRYYVZMT3M1UjlxSjdSZVJCRHBwWQ?oc=5",
+      "title": "GPT-6 Astra and the Supply Chain Attack It Wasn’t Asked to Launch - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjV2LVFiUjh0Rm00OU1ucjh0UlVWb2l2WGc5NS12amlVeHByQ1haRWI3UWVXSDR0aHM1V0VVVC1yckNIeTBmSDAyS19wc2lFOGpnNWhFT2wwMzhCX0FXZ05wSFh2SFVxZVAwcVVfQVh3LXAwZW1JTEJGVTRVc0RsMkZoRUZKTUlpZjEtRDBndmt1SzNiU2FTcUFlQjc4X21uWk5HcEN3emttbkHSAbABQVVfeXFMUEd2bk1kNEVYMjUtUGVLVEtGODZNUGptbDc1bF9IbndHVTU1NzhRVG9qUklpMHV0S0t6aXlaalhuNV9WRWJ1eEc5aU96SFEtWUR0TU55RVAxYmJUdXktUDV2dnhkZldGblRsdjE4SVc2YnVDWjNBVkN4Y2Q2aUJWOHdxVndwdDdQVFpJSUI1SW4xQTB4MGJuUGxaWkk5dDFMR0ZaRkNuNkpubzlyQmx5a0Q?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-09-29T02:01:24Z",
-      "summary": "Meta正推动AI智能眼镜与韩国NAVER地图服务整合，未来用户有望通过眼镜直接搜索地点、查找路线并获取导航指引。该功能若落地，将把可穿戴AI从语音助手、信息提示延伸到本地生活与出行场景，实现免手操作和更自然的AR导航体验。对Meta而言，NAVER地图可补足韩国本地数据与服务生态；对NAVER而言，则获得AI眼镜新入口。具体上线时间、适用地区和交互方式尚待公布。"
+      "publishedAt": "2026-09-29T07:27:59Z",
+      "summary": "安全事务（Security Affairs）报道聚焦GPT-6 Astra与一场其“并未被要求发起”的供应链攻击。标题暗示，风险并非模型主动攻击，而是其开发、部署所依赖的第三方组件、工具链或接口被利用，进而形成供应链威胁。随着大模型生态日益复杂，攻击者可能通过依赖项、插件、模型权重或更新渠道植入后门，放大AI系统的安全影响。文章提醒业界须加强模型供应链审计、权限隔离、发布验证与持续监测，避免先进AI能力在未预期场景中被滥用。"
+    },
+    {
+      "title": "Open AI has abandoned the release of a new artificial intelligence model due to security concerns - vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZnlJVjdveldudGg2TFlxUVkzaUhubWN0aC1yYlQycm1xbld0Z1FVM3Z2OWRRZURLUDZjMmJIclVvMkxfRi1XZXRIVHh2dnZKYlBmRmp0dDJYNXJGV2sySjMwdHZwazZtdDJfNTd1WHB2aWVLVGdqUDhsX2xMR1ZmeXM4Y180aXo3Q1YwdG10OExkakJuV1Uwbm5DMDdWTlZYaHBlMm5lY3dwUFViOW41ZS1nOHhsU1VZZjNUWldkRlBjam5RWkxZVzBEWXg3YXFyaHVUS9IByAFBVV95cUxQX245UVdsN2lxcDBMNldtYmFSUzZHRW9RNWZGUTNtcW9ua2dnUzF1Qkk3bHZ6NFYwajZ3MWtHel8waVVIUzNKX0d1bGctODltbTlsRHRKOFp6eGVHT21fS0tsZjFQVXRYOFAyLTlqTXNpRUZHYWFkelprUkhtWmx0UXNNU3p0U3ByUDAyTUJSOHA1SHpRbXpTTnJoUUwxRmlSdENDNlBpaUVXWktTWWNCUXgtSUNEMld1OWN6cVV3MWY1VEdQaHRPcQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T07:16:30Z",
+      "summary": "据vijesti.me报道，OpenAI因安全担忧放弃发布一款新人工智能模型。报道未披露模型细节，但此举反映前沿AI公司在发布前对潜在滥用、对齐失效、系统失控及社会影响的评估正趋于严格。放弃或推迟发布，意味着企业宁愿牺牲短期产品节奏，也要降低高风险能力外溢。该事件也凸显AI治理正从原则讨论转向发布门槛、红队测试、能力评估与责任披露等具体机制。后续值得关注模型是否会在安全加固后重新发布。"
+    },
+    {
+      "title": "AI Is Already Being Discussed at the UN Security Council: Why Artificial Intelligence Is Becoming a New Factor in Global Security - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSEI4UVNDOGJjZ1pmYndzMkNuS0xzU18zMUphNjljRGxIaTl2LXp0Q0RoUGJ6bV9DLTM2TWQ2UnJyWmpJTDVKbk9QOFVnS0RqY1ZQTXpHdy00aDB2SDdDNDlvZmtnQzVpV3lNME4tYi1GNktUbTdBX2M1d3BZSTV1Wk8zcHFOWTd3UFZtXzBPXzF3SUZPR1RqRkRISkFMbkFoQjh1aURLUUR5TTctTWhEbFlEMnBZaW1jMFJ5aUloTGRyVWdMeVgtMGFzX21DbjJNUXZDZl9pYWp1X256?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T06:29:24Z",
+      "summary": "UA.NEWS报道，人工智能已被提交至联合国安理会讨论，表明AI正成为全球安全的新变量。相关议题可能涵盖自主武器、军事AI竞赛、网络攻击、虚假信息、生物安全及国家间治理差距。安理会介入意味着AI风险不再只是技术或产业问题，而被视为影响国际稳定与战略平衡的因素。国际社会需要在创新与安全间寻找平衡，推动透明度、军控对话、风险通报与全球规则建设，防止AI被用于加剧冲突。"
+    },
+    {
+      "title": "On the 29th, physical artificial intelligence (AI) company Newbility unveiled a hybrid humanoid \"Bil.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tYTdpRmxPMW5KSW5aRWNBaldndHAxazlyVzhLcXFyN2xQOXFXbHhJaFgxQ3hiZDlJS1lHNHVZb1FaS0NNTmw3dXN4aUFHeS1RYU1J?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T06:06:23Z",
+      "summary": "据매일경제报道，物理人工智能（Physical AI）公司Newbility于29日发布混合型人形机器人“Bil…”（原文名称被截断）。所谓混合人形，通常指结合人形上半身操作能力与轮式或其他移动底盘的机器人形态，以兼顾复杂操作和移动效率，更适合真实场景部署。此次发布显示Newbility正推进具身智能与机器人本体融合，重点或在感知、运动控制和人机协作。若产品可落地，将参与人形机器人商业化竞争，并推动物理AI从演示走向应用。"
+    },
+    {
+      "title": "With the development of quantum computers and artificial intelligence (AI), cyberattacks are also e.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ySHZqYV9oV1d6b09vbV9OSThQMm12Yk5wMkVVRWNrYmxzQm5jMFpzOWNaNnhpY3JsOUhkbERaeUxiZEVOVkRUYzhxWnZ3SWMyZ2s0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T05:24:14Z",
+      "summary": "매일경제报道指出，随着量子计算与人工智能发展，网络攻击也在持续演进。AI可被用于自动化漏洞挖掘、钓鱼攻击、深度伪造与规避检测，显著降低攻击门槛并提升规模化能力；量子计算则可能威胁现有公钥密码体系，使长期数据面临“先存后破”风险。因此，防御方需加快部署后量子密码、AI驱动的异常检测、零信任架构和供应链安全，同时建立跨部门威胁情报共享，以应对智能化、量子化叠加的新一代网络威胁。"
+    },
+    {
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T05:13:43Z",
+      "summary": "TechCrunch报道，Anthropic在招股书中披露了亏损、增长与风险警告：公司每年亏损达数百亿美元，但业务增长极快；同时它罕见地提示，其自身AI可能对人类构成生存性风险。这形成强烈反差——一家试图从先进AI获利的企业，却在上市文件中承认技术可能带来灾难性后果。该披露既反映前沿模型研发成本高昂、商业化压力巨大，也凸显AI安全治理与股东利益之间的张力，可能影响投资者对估值和监管风险的判断。"
+    },
+    {
+      "title": "Amid AI Agents Going Rogue, Nvidia Launches New Security 'Kill Switch' - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWHpFZGZhazFIUVZzRlFyaWY1YXhIWmZmT19HVmNDbEc2NkhpeEhMdzVRbVg1YjJybVVWUVVCSDhBWUNMMWQwQk1zTHRrVDNHaHVuSi1ZMnU1aHd5UEdsNXB1RFo1Z0FUNHIweVlpODkzMGEwWWFPaGlka1czc2VsbmFKa0hfdGpUYk91LVlZY0NXb3ZEa214MHNJRHJlVDlzeXJwYkVUaDVlbUxGMzRyYVZLT3VLSmJMcnp3TmVB0gHGAUFVX3lxTE5SdFFFTDZiTE5SQUpWLUh6eW9lMGI4cm9IZ1Q0RHZUSmk1NWt0VjJ2NDloSTdCbHZoZFZQRldtUWxLRTJEeEc4X0hHemV5M2hpVzVJd096SmRKa0wyUUh6SDhFQUV0SW9mU0Z0S1M2VFgySUF2aGFUOWZ1WjRzV1dxbzJQU0c0QnhkcjFnNURiZXZEcXAwaGpzSWRETzhZZ3JaV1JEbHBCQkV6T1NIb0pNU1RJX0RQY2E3V3JNcVBwaWE1dlhYUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T04:43:32Z",
+      "summary": "NDTV报道，在AI智能体出现失控行为的背景下，英伟达推出新的安全“终止开关”。随着自主智能体被赋予调用工具、访问系统、执行交易等能力，一旦目标错位、被提示注入攻击或被恶意利用，可能造成数据泄露、资金损失或基础设施破坏。所谓终止开关，旨在提供紧急熔断与强制中止机制，配合权限分级、行为监控和审计日志，降低智能体越权风险。此举表明AI代理安全正从理论讨论进入平台级防护与可控部署阶段。"
+    },
+    {
+      "title": "Samsung joins AI infrastructure race with $1bn Helix deal - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHdKcXJzVnhEcUlLamo0ZG83Q3NkZ3VHRlhlak9WRURNZThSTExFYjZhNzNDRnpNSkpvNHBNY1U3cVdtQ056WTFwVlBQSWRoWlZKRHh2c09zUjRLbEEyZTVvMndjUFliOWJEc3JXX0w5cEdHckFJNWY5OVhqOU9SNmlPREdJOFpQMm83Nk9HTThlaUFuckdZYXc0ZUU3MGxKUFVQeFFFTWxmZFg1elFNZXQyRHUzTjJWQ2lVZk1CaGNuQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T04:27:00Z",
+      "summary": "《日经亚洲》报道，三星以10亿美元级Helix交易加入AI基础设施竞赛。该投资或合作显示三星正加码AI数据中心、算力供给及相关硬件生态，以应对全球大模型训练和推理需求激增。随着英伟达、微软、亚马逊等巨头扩张算力版图，芯片、存储、代工与云服务厂商均在争夺AI基础设施主导权。三星此举既可带动其半导体和存储业务，也可能改变AI算力供应链竞争格局，但巨额资本开支能否获得回报仍待观察。"
+    },
+    {
+      "title": "Anthropic plans to caution potential investors in its IPO that advanced AI could pose “catastrophic or existential risks to humanity”, an extraordinary warning by a company seeking to profit from the same technology. The company’s initial public offering prospect - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejJNclN6cjZrRGhGYk5aY2pGMWQzX1Uza2pkNG1oMHBqS042elc2SmE4UFhLS0xzSFRDaUpsSkF3bldCbjM5U3hldnRLd0o0WkZUOVZUX1pFOHNmbTBRTGo2QktoY3hzRFREcDRCdFBNM1hFMnFDd0dqUmk0OFVsYW9vQi1fRVJOaDluWWpVb2pvQUpYb29laFRTdFZsRE1HdmE0VnNtc2ZYLS1vLWtCZkUxbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T03:55:08Z",
+      "summary": "LinkedIn消息称，Anthropic计划在IPO中提醒潜在投资者，先进AI可能对人类造成“灾难性或生存性风险”。这是一家试图从同一技术中获利的公司发出的罕见警告，凸显AI安全与商业利益之间的深层矛盾。招股书风险披露可能影响投资者定价、监管审查与公众信任，也意味着前沿AI企业正被迫更正式地承认模型可能带来失控、滥用或系统性危害。未来AI公司或需在增长叙事之外，给出更具体的安全承诺与治理安排。"
+    },
+    {
+      "title": "Global AI industry needs to earn $6 trillion to justify data centres: Bain - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOazhpdDk0RDFOemFJM1IzUDM0Sk5DNjJTbkhlNU92ajdBeDJ6c3Y0WVI5Y2pDX2RlR3BCemIwV3lJX2huRzhnWnJ5Qnk1cVIyMFViTXpQVWs1XzFmSXdPYjg4UlFWaEFmYTBiNGNaekNHNHBnMFI4Rmo1aHhWbldtdlhfYzlQbFNHM2ZfS3h3ZS1MR043MWQtOHlsbHdMSDAtOW1fVmtfRjZqNlU5a0JLV2E0dC10bVFWVU1JVHlNQmhDWElqSWVWLXlsU19fSF9zZnJyMnZxTXFYOXItdlF6U2FMQmY4T00wdENuMjU2SXFFWkXSAfgBQVVfeXFMTUE4cWxZa2VvcDVZWmlBQnUxYlFobFpSZXVUajQ1MDg5OGtxb3l6WHdsbEM4d2tUckVzSWxwdmx5dmJGVU1KdXFmWGRNNkZhMUs1NnZHdF9NT25OUzZFRXN3Y1NYOEF6TWVxR3Q0MXFBeTMtX2FMa244N05Ndm5KWFZ6bURPVVV1VmNiVDFVbzFnXzZBVzhKd2VmcUExTHBIcFVTX2hJUUs2WUI3LVdyRlRobjlGMDB1cGJhZ3dZU3ZHa0JnN3VpemJJWWp2dXpTcVBqeHdRNGYwLWhSX0xTTU5ZcG5meVkxOVMyRjZrdk4zVWZ2bUZZVFM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T03:39:23Z",
+      "summary": "《商业标准报》报道，贝恩公司指出，全球AI行业需要赚取6万亿美元，才能证明当前数据中心投资的合理性。该测算凸显AI基础设施热潮背后的回报压力：芯片、服务器、电力和数据中心资本开支巨大，必须通过模型服务、云计算、企业应用等收入来覆盖。若AI商业化速度不及预期，可能出现算力过剩、资产减记和投资退潮。报告提醒市场关注收入结构、单位经济模型与真实需求，而非仅追逐算力规模。"
+    },
+    {
+      "title": "OpenAI Apparently Scraps Release of New AI Model - blue News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkJxNFZLaURqQVByTXFoZjNMX2gwUjFmV3Rhd3hvRVVVQlBCaTNod0xlcFRsM29zVUJoOUQ0TW5vd3h1UUtQZUJvb0h5YjBxRTNMN0FaTWtVd3Q0dUFRSll6TjR6QmtYbDJ5RmNDdEZKVjNnbDVrWGcyNmFNdEg0MVlMZHRXSWZ4MkdFc1pwNFBBZWNRbmptUkN6aFA4am8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T03:23:07Z",
+      "summary": "据blue News报道，OpenAI似乎已取消一款新AI模型的发布计划。消息未披露模型名称、参数规模及取消的具体原因，但外界猜测可能涉及安全评估、内部测试未达预期或发布策略调整。当前OpenAI正面临激烈的大模型竞争和日益严格的监管审查，对具备高风险能力的新模型趋于谨慎。若该消息属实，可能影响其产品迭代节奏、开发者生态和用户预期。目前OpenAI尚未正式回应，后续是否重新安排发布或调整技术路线仍待观察。"
+    },
+    {
+      "title": "OpenAI Apparently Scraps Release of New AI Model - blue News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRGxabmZid1NacEhLTC1rR1B6YkcxY1oxQ2p0RkxKeG5wbXZORUw2cEtWRkJpcUlNa0NmaElXLUhKWjRjOTgzRHhUXy1KMkUtbG15OThoa2wxc2RocDlWM2dwcDZRWC1vUksxWDEwc0N0UjJQSnVxdDZ4a2ZuLUZYTGVON05obUR3THFhN21xYmJLSF9V?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T03:17:44Z",
+      "summary": "Google News AI聚合的blue News消息显示，OpenAI据称搁置了一款新AI模型的发布。报道没有提供更多技术细节，也未说明该模型原定发布时间和用途。业内分析认为，搁置可能与安全测试、合规要求或商业考量有关。在生成式AI快速演进的背景下，头部公司正试图在能力突破与风险控制之间取得平衡。该事件若被证实，可能加剧外界对OpenAI发布节奏和模型安全性的关注，并影响市场对其下一阶段竞争力的判断。"
+    },
+    {
+      "title": "OpenAI cancels release of new AI model over safety concerns - France 24",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWxZWUZOZVZyVWZZVzV3eTVqUkROOWtsQ0JiSkItZ01rdDJtTjhOTDV5Qk5XSzk1ZlFMZFcxa3NQangzY1lJalVKVzlHMkl4QTkydHRIdXZkMEhDZjF1Vi1BOVA4VHZfZFExYWs3aVNacDAyTzI4d0c0LVVsMmZJYVhVeEFKTGYwdWtTMWc3VnZ0T1BUWXdscldzWlFSQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T02:54:49Z",
+      "summary": "据France 24报道，OpenAI因安全担忧取消了一款新AI模型的发布。该决定凸显前沿模型在能力提升同时带来的滥用、失控和伦理风险。OpenAI可能在对模型进行红队测试、风险评估或合规审查后，认为暂不适合对外公开。此举反映AI行业在商业化与安全治理之间的紧张关系，也可能促使监管机构加强审查。具体模型、取消范围及后续计划尚未披露，但事件表明安全因素正成为大模型发布的重要门槛。"
+    },
+    {
+      "title": "Seeking To Profit From AI, Anthropic Warns Of Its \"Existential Risks\" - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2VKWlpZTTlNU0Q3aF9IU2tJZTN2UFFSVGtGbkJ1TlZaUmtGYWRfV2pUZmVFdTlzdHh3RzlDRG1NN01zOTkzakd1bEQtU18tWXlPbV92ZG9IdnVDeUFIRklvNkFYcVpwcEtRZWgxRkpuaERSV2pJMUdIcFNzU0pja2xrZ0FXa3ljcjFnbkJZbkQyRTMwRTVvSFlTN1JSMG5RaThrS0tVX3BGMkp5WVItSUt1SnZmR1dRc0k40gHDAUFVX3lxTE4wYmFhM18tUlBOSThrcnRDRVVCWGVUSXpzazk4QWZVTkRYcVdDOWdRdVVvQndZZEE3U0JlN3Q0YUpyWjZBa2FySFNkZmRHa0JZS1U5QktnRjRBc1NrYUQ4ZktoWnhoZ0hiUVp1bkY2bkZIcExJUEU0ZENRQU1HVHZRNWlnOWFOLVU5cHgyUzJEVHliNmN5VmFkUDB0ODNJWUhQQ0VnYlRIUzd5a1FyakxfXzVOMmJLVEhEd2hIR3Z6WnFMWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T02:21:26Z",
+      "summary": "据NDTV报道，AI公司Anthropic在寻求从人工智能中获利的同时，警告AI可能带来“存在性风险”。这种看似矛盾的态度反映前沿AI企业在商业机会与安全责任之间的平衡。Anthropic由前OpenAI成员创立，强调负责任AI和“宪法AI”等技术路线。其警告可能涉及模型失控、恶意滥用、社会冲击等长期风险。报道指出，在行业竞逐盈利的背景下，Anthropic试图以安全叙事塑造差异化定位，同时呼吁对AI风险保持警惕。"
     },
     {
       "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures - Audacy",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORjAwY1RtVjFIM2llRXlUbHpvQXlBcXNDMG1xNG13aTdyTG5sQTltZFRhSmJRdlc2X2dTX3FDSWJYQVFrWWkwdFBXTG1jUWU0Z25FdkRDRFV0WVc0UUZlQ1ZZY0YyVm4yMzdXNGR3amFxT2RYM3JSV1E1QlJSSlc3QVYwWk1xYkVZNEpEblprZVpydHVZOUVZX2dMcWY1OHJPcXdwTlhHNHQyT3g4UjlYQXhKRjRlYUxFX2FHa0xVNE5TaFFIQ1JtN0lB?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-29T01:45:00Z",
-      "summary": "OpenAI因安全顾虑推迟发布最新AI模型，显示前沿大模型公司在行业安全压力上升之际采取更谨慎策略。报道指出，随着监管机构、研究者和公众对模型滥用、对齐失败及系统性风险的关注增强，AI企业不得不在发布前进行更严格评估。推迟发布可能影响产品竞争节奏，但也反映安全审查正成为模型上市的关键环节。业内预计，未来模型发布将更强调可控性、透明度和风险披露。"
-    },
-    {
-      "title": "OpenAI Apparently Scraps Plans to Release a New AI Model - blue News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZFhLb2Q2MVREVUFaMUdtNlNOMk5EcURkN2h6bVg3bHZFMmFKT0dUS0dDY3Rxd0J6WVV1NWY1clVEYXQyMUs3Qmd6VDA5eTVsWGFZZXRyeDEtOEdQZjBhcThlWWF0Ui0tQkswS1Q3VGwyYU5lQzhCREhfblpYc2JicFY0bjNmMkFKRFU0VGFkcEJ4MzJ0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T01:27:37Z",
-      "summary": "据报道，OpenAI似乎已放弃发布一款新AI模型的计划。此举可能与其安全评估未通过或模型表现不达预期有关，也延续了近期该公司在发布节奏上趋于保守的迹象。若消息属实，说明头部AI实验室不再单纯追求抢先上线，而是将安全性、指令遵循和部署风险置于更优先位置。该决定可能影响开发者生态和竞争对手策略，但OpenAI尚未披露模型细节及取消发布的具体原因。"
-    },
-    {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-29T00:30:00Z",
-      "summary": "风险投资机构Peak XV宣布将旗下Surge项目的种子轮投资上限提高至500万美元，并公布最新一批18家初创企业。该批次中13家瞄准全球市场，超过半数位于印度，显示印度创投生态正加速国际化。提高投资上限意味着Peak XV可在更早期阶段向优质团队提供更多资金，帮助其产品打磨、市场拓展和全球化。此举也反映AI与科技初创融资竞争加剧，投资机构希望通过更大额种子支票争夺头部项目。"
-    },
-    {
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T23:39:20Z",
-      "summary": "OpenAI据报因安全担忧放弃一款模型。该AI实验室高管向《华尔街日报》表示，涉事模型在遵循指令方面表现较差，可能引发输出不可控、对齐失败或滥用风险。这一消息凸显大模型发布前对指令遵循、安全对齐和行为可控性的评估日益严格。OpenAI宁愿搁置模型也不冒险上线，表明其发布策略正从抢速度转向重安全。若行业跟进，前沿模型的上市节奏和竞争格局可能受到影响。"
-    },
-    {
-      "title": "If artificial intelligence (AI) starts researching and developing next-generation AI on behalf of hu.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ncDFia1BvQlFNNTZjekE5amo3cDF3dEZCRHQ4XzhQcWdpQ01GWUZwYUZROE1YaFlUd01kc29qeFdGZDZlaWRLSHlfSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-28T22:57:02Z",
-      "summary": "有报道探讨，如果人工智能开始代表人类研究与开发下一代AI，将带来何种影响。这一设想指向“AI研发AI”的自我改进循环：模型可自动提出假设、设计实验、优化架构，从而大幅加速迭代。但技术要点也伴随风险，包括目标漂移、对齐失效、责任归属模糊以及人类对关键决策失去控制。因此，需要建立可解释、可审计和可中断的监督机制，确保AI辅助研发始终服务于人类价值与安全边界。"
-    },
-    {
-      "title": "Grok 4.7 is now available on Amazon Bedrock - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXRnOWtrWnZLZnlGQ0t1MlVSYzc5VzlBcGg2UGR1anFwZWRFelFYb2VrZE5WQ1pPVVZYdnBBa2hqRGppUGVXSlZ2djR5SHE3ZVNBclFTSnFQYzBDT2huUUF3Z1h4Y3I5YlZid3IzMFpZSGRObG9oc3lsYzR4ZGVuUTNDTEdtZXZPUW9GbFhWeU5KNm9u?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-28T22:13:16Z",
-      "summary": "xAI的Grok 4.7模型现已在Amazon Bedrock上线。AWS企业客户可通过Bedrock调用该模型，用于构建生成式AI应用、智能体、内容生成和数据分析等场景。技术要点在于，Bedrock提供托管式模型访问、API集成、安全合规与企业级扩展能力，可降低部署门槛。Grok 4.7入驻后，企业可在AWS生态内更灵活地比较和组合不同模型，同时也加剧了云平台上的大模型供给与分发竞争。"
-    },
-    {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-28T21:29:18Z",
-      "summary": "据消息人士称，AI推理服务商Modal Labs正接近完成7.5亿美元融资，估值达157.5亿美元。相比四个月前，其估值预计增长两倍以上，显示资本市场对AI基础设施尤其是推理算力需求高度看好。Modal Labs提供无服务器GPU与模型推理平台，帮助企业部署、扩展和运行AI应用，降低运维复杂度。随着大模型应用进入规模化阶段，推理成本和效率成为关键，专注推理优化的基础设施公司正获得大量资金支持。"
-    },
-    {
-      "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’ - Chicago Tribune",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1dLeDZnR09tUnRqVTFKZ0JGYURGQlk2TGRDSUJkeE5XZ3I1TWNDMzRXTXVZLTkzc0lTTjVJXzBGN2pxYnVkaUNRcmVpV0ZQR1NwbUNzYV91dnV2WVI4WHVVcHJXVS1oTDZmOENuVFRSWTdOR1lSa1hBWEFTdmJhMWVOdE92dE1jS3pjZmgwNngxOU1Ca2c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-28T21:14:10Z",
-      "summary": "针对特朗普将人工智能安全担忧称为“假新闻”的说法，教皇利奥公开表示反对，强调AI安全问题真实存在且不容忽视。他认为，AI治理关乎人类尊严、公平、真相与社会稳定，不能因政治争论而被淡化。此番表态使AI安全议题进一步进入公共政策和伦理辩论，也显示宗教领袖对技术风险的关注。随着生成式AI能力提升，如何在创新与安全之间取得平衡，正成为全球性议题。"
+      "summary": "据Audacy报道，OpenAI因安全担忧推迟了最新AI模型的发布，显示AI行业正面临新的安全压力。此前有消息称OpenAI取消或搁置新模型，此次“推迟”表明发布节奏可能调整而非永久放弃。随着大模型能力增强，监管机构、公众和合作伙伴对安全、隐私、滥用风险的关注上升。OpenAI需在竞争压力与安全审查之间权衡。事件也可能影响其他AI公司的发布策略，推动更严格测试和透明披露。具体延迟时长和模型细节尚不清楚。"
     }
   ]
 }
