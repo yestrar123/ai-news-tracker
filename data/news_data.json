@@ -1,111 +1,83 @@
 {
-  "updatedAt": "2026-09-29 07:41:43 UTC",
-  "totalArticles": 15,
+  "updatedAt": "2026-09-29 11:45:12 UTC",
+  "totalArticles": 11,
   "articles": [
+    {
+      "title": "Nvidia's AI safety platform will not take away agents' autonomy: Palo Alto - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa3FIWE40QVNHSHpSVno2UnpzQkJQOWlTN1NxUkRnZWx3RzBfb1BCeGltakFTblM5dVN1cU9vVmxBV2RmTWpjZmV2QjFwRjZCQkF5bTBxUjNBWTBrXzZpd1Faa08wUlVFZkFRc1lDX0dxNkpobVRPLUFSM3pJUmVGaFN0TjRQR19iOW5lSUZLUmVnTnBjX0x2QWRDTi1vbnBPMVdzU2UxWjJWRGJJTzkxRHlyUXY5dXpvd3VpTS1FWnRjOG1tR3p4YzlZWlNVTmxTMmJXRnpWa1TSAd4BQVVfeXFMT2h6VlpCeFhqMmlnRDdQdENKN2xQcmUtTGRCOVdRWXNaODM0ajdEZm4zbW9QZTB6d3dlRGRGRXdkVzZ3R0tsU3NBdHBzaUxWYUZ6RWdtZlVRQnpteDJJWS1hYWk0LVk1RGNuNWw3dExScGpzbW11ekYxWlMwRUNXVlMzblphVWxIX2NpenVjbVRWZm1qRUwtb0lhLWR6R0FzbGlLa2pkQnRENEZ1MzZaT213SUl3X1JFNXpPdTk1M2N1b1huYmNOeEN0bDZ0MVg5YVRYSHJ3Yk5udjY4NTNR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T10:56:41Z",
+      "summary": "英伟达推出面向AI代理的安全平台，而Palo Alto表示，该平台不会剥夺智能体的自主权。这一表态回应了业界对AI安全治理可能过度限制自主决策的担忧。该平台预计通过安全护栏、行为监控和风险控制，为自主AI代理提供防护，同时保留其独立执行任务的能力。整体来看，事件反映出AI代理加速落地背景下，产业界正试图在安全、可控与自主性之间取得平衡，避免安全机制扼杀创新与实用性。"
+    },
+    {
+      "title": "VELLOE - An EVOCS Company Concludes Escape Velocity 1.0 – AI Hackathon, Creating a New Pathway from Campus to Industry in the Age of Artificial Intelligence - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVmtUY25ESHFYOUNqNjE0MENPRUVSTERnS0NxQi16OElRM0VOQ0xtV2M1Z0NGLUU2RTFlNTBVZmhBQkQ1RXp2VDNsalRpUGxqTmVTU2c0cWhhNHVWNzJFcThSQ2NYbzN0YmJLRE5PalFZeC01a2pWVEhnS3JxT2luM2ZCVlZTd0ZZbF9UR2NzZFVjbnRFcHcyODlsQzNBZFo1aTFOTU9LUlVIbndySzZQbElyaDF3ckZNeXVZSTdoQmZhMWVhQ1pBdFBEQW01X21TeUFZT2pqTWFlRnZqUkdEcGNJUnkxdkJtLTJiMHVQMkRyU0EtZ001M2pVQlMxTXNHTGlMdlZUMkVSTWRKMUlHUC1yeVgyVVh5STZmcTktUW3SAaQCQVVfeXFMT2xQRTUwVHZfUlE4allpUjVKTHhuOHRTNTVrb0JObDZQX0xGWVMySzFjZEdnSGh2dUlzZ21iMXNSOGV2R1RyZ3NPY3QtcGZIdE92RUU4MXFFc01waGRTSVR3amp2a3N3MHVfblZJNHVpNlhDdGROelZpTXlnMTlIaDlDc0ZpSnkxa2tvZXlFUHF5YW5ud1F4ZG5XeXd1ZkJ1bHdQcFhTNFBhT000YkJBc3F5S3hhZk9GcmFSZVlycDN2LWlxNGNWc3RXZ1RPWDVvM3ozMURDN0wtZ2hkVEhhaXM0VTFTOUh0bzVsSmY4cTZ4Yy1UZW44dHRpRTJmRllMN3dXOGlSRWgyNkVJaFg0VnJYeXVsa0JUeExpOWpCeDdRYTh2ZA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T10:37:35Z",
+      "summary": "EVOCS旗下公司VELLOE宣布结束“Escape Velocity 1.0”AI黑客松，旨在在人工智能时代建立从校园到产业的新通道。活动预计汇聚学生、开发者和企业资源，围绕AI应用开发、原型验证与商业化展开，推动产学研协作和人才输送。其核心意义在于缩短学术创意到产业落地的距离，帮助学生接触真实场景，也为企业发掘AI人才和项目。该活动体现了AI人才竞争前移，以及黑客松作为创新孵化器的价值。"
+    },
+    {
+      "title": "Mubadala ties up with US firm Together AI for UAE investment opportunities - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX0RET2dwSHgtcDhJYWxwUGNYRl9XMkhqM1pxME1VdEc5UWtSX25UYUduSGpIRU9qamVpbnFaaGphS3pycU9zZnpITFl5RTF1WHBSTDhKSElPLUhpclV0STZTOUFxdGJUMjB5eFVKenBiUFVzWWxIa0xDMGVzamU1QlN0T2VUT1lpVmkxV1hwWXdkQm5WMjdCalpoTXVkYllzT0ZnaXU2THVHeVJELXNZcFRydzZ0OXZ0YjlzYjhfQWtWWnFYVFEzc1k4N1BFb3lrY3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T09:37:08Z",
+      "summary": "阿联酋主权财富基金Mubadala与美国AI公司Together AI达成合作，共同探索阿联酋的投资机会。Together AI在生成式AI云、模型训练和推理基础设施方面具备能力，Mubadala则拥有资本与区域资源。双方合作可能聚焦AI算力、模型服务、基础设施和本地生态建设，支持阿联酋打造地区AI枢纽。此举也显示中东资本正加速布局全球AI产业链，通过与美国技术企业绑定，获取先进能力并推动经济多元化。"
+    },
+    {
+      "title": "AI will widen the wealth gap even further so we must tax those behind the boom - The National Scot",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMnNHQjg1Y1Qwa1hYZ1BJR3VDaVlJLXhPaHF5ZWFWOEJQMmptM3l2dEFFZFdiUENoX0NzVTBMMzdCQ0c0b2daM092RW4tYjBSendOclE1d3hxTnBJb1kwY05EVWhXbWVaWXJ4dEdYQ1lYYl9MQjJkaTB0UHlRQk9EcGhnTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T09:30:28Z",
+      "summary": "评论文章警告，AI将进一步扩大贫富差距，因为技术红利高度集中于少数科技巨头、资本所有者和高技能群体。作者主张对AI繁荣背后的受益者征税，例如大型公司、投资者和高管，以筹集资金用于再分配、公共服务和社会保障。文章认为，若不加以干预，AI可能加剧技术性失业和财富集中，因此税收政策应成为应对不平等的重要工具。这一观点反映了全球对AI经济影响和治理路径的持续争论。"
+    },
+    {
+      "title": "IOC launches Trustworthy AI Framework - Inside The Games",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOajU5aEJ5b2k1aWNFZzdlZDFhMWt3UHU4LUlTTVZqOHhXbnhuMUpjd0Zfbl9kenp4MnB0WElNb29xbXJNU0pxVUtkMU0wMnVPdkpFS2hDVmN2MV9OWlV3SXdzcW9pdFhNbkRuZndHTVYzNWVWdG02RUR6bC1val9RQkJlUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T09:22:30Z",
+      "summary": "国际奥委会发布“可信AI框架”，为体育领域应用人工智能设立原则与治理指南。该框架预计强调透明、公平、安全、隐私保护、问责和人类监督，确保AI在赛事运营、转播、判罚辅助、运动员服务等场景中可靠且符合伦理。IOC此举旨在在奥运会等大型赛事中规范AI使用，降低偏见与滥用风险，同时推动体育行业负责任地采用AI技术。框架的推出也表明，国际组织正加快建立AI治理规则。"
+    },
+    {
+      "title": "The competition for artificial intelligence (AI) hegemony between the United States and China is mov.. - mk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oaFR4ek12YlI5TWdhX0lxYWNONnlURFhHVEtSOXFDSzBRZnZ3bWVaVjk4aFl1bzlObF9SRzRZZFg4UmZMekRzY3lNcjdwdVBUaHdta0pmQ3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T08:26:51Z",
+      "summary": "文章指出，中美在人工智能领域的主导权竞争正在进入新阶段，可能从模型能力延伸到芯片、算力、数据、人才、标准与地缘联盟。美国依托先进半导体和头部企业保持优势，中国则推动自主生态、开源模型和行业应用。所谓竞争“移动”，可能意味着战场转向第三国市场、供应链控制或监管规则。文章或分析两国AI战略对全球技术格局、产业政策和国际合作的深远影响，凸显AI已成为大国竞争核心议题。"
+    },
+    {
+      "title": "Experts found AI summaries are warping our memories – and the results are worrying - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmFlcVcwZXpMaTNrb01XbDY0RTNQU045VGhIbFJ6Z2sxRTdPYUNSQ2wtbFFiMUJNbDRFS1IyYVQ2bXlrTDZ4NWxUeC1aR0FxdkdvWFU2OFc4bHhXM0lLWVc5em1EMTdoeUlWb3VGZ3JEZVFFOUx4NkFkMktHTGpGWmtHaXY4cV9JYS1MaWdPTG4wU0VnNHJXbnVySEhwQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T08:13:00Z",
+      "summary": "专家研究发现，AI生成的摘要可能扭曲人类记忆。用户频繁阅读AI浓缩信息后，容易把摘要中的简化、遗漏或错误内容当作原始事实记住，形成“记忆污染”或错误记忆。更令人担忧的是，这种影响可能规模化、同质化，削弱人们对复杂信息的独立判断。研究提醒，AI摘要工具应提高准确性、可追溯性和不确定性提示，用户也需保持批判性阅读，避免过度依赖自动摘要而牺牲深度理解与事实核查。"
+    },
+    {
+      "title": "With the development of quantum computers and artificial intelligence (AI), cyberattacks are evolvi.. - mk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84U2JvQ3pNM3FKVWhndkd4TGNYbVBTMHNSaENQZmE3ZDRwY2ctdExjUU5RUURfdkVTdFB3ZUV5Tm5TMl9oZkJYVmJYYmtOaHQ3Y1BB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T08:01:42Z",
+      "summary": "文章指出，随着量子计算和AI发展，网络攻击正加速演变。AI可提升攻击自动化、钓鱼内容生成、漏洞发现和规避检测能力；量子计算则可能在未来威胁现有公钥加密体系。两者结合或使攻击更智能、更难防御。因此，企业和政府需推进后量子密码迁移、AI安全防御、零信任架构和威胁情报共享，以应对新一代网络安全风险。文章强调，防御方必须同步升级技术栈和治理策略，避免在攻防博弈中落后。"
+    },
+    {
+      "title": "Radiology AI firm trims 15% of staff, sees annual revenue surge to $28M - Radiology Business",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlp5V2N0VDZQTHk2T1Z2Z2x3YmF2eHFITlNHdDk3bXh2Xzh5VGcySkhzU2ZOVzV3cXFsYkZOVG9RYlQxOG1ac1FZQm1fZ1JzVF9DMEoyZlpPaWgzWnNlYlhCeXB5eGJlRFV4MEVseFZNdmFaQ3VtNFRYN3ZIRmh2RlByMmtwemZCandMOUwyc1ZNWHJCUDUtbTUzN0ZmZVRNUjlPTU1aR2VJdnRXNnV6dEp3UkRrQmNzS1ZIODR4aWg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T07:48:43Z",
+      "summary": "一家放射学AI公司宣布裁员15%，同时年度收入增长至2800万美元。这显示医疗AI特别是影像诊断领域商业化提速，但企业仍在调整成本结构和组织效率。裁员与收入增长并存，可能反映公司从研发扩张转向盈利导向，或通过自动化和流程优化提升运营杠杆。该案例也说明医疗AI市场竞争加剧，规模落地与盈利平衡成为关键。未来影像AI企业需在临床价值、监管合规和商业可持续之间找到更稳健路径。"
+    },
     {
       "title": "GPT-6 Astra and the Supply Chain Attack It Wasn’t Asked to Launch - Security Affairs",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjV2LVFiUjh0Rm00OU1ucjh0UlVWb2l2WGc5NS12amlVeHByQ1haRWI3UWVXSDR0aHM1V0VVVC1yckNIeTBmSDAyS19wc2lFOGpnNWhFT2wwMzhCX0FXZ05wSFh2SFVxZVAwcVVfQVh3LXAwZW1JTEJGVTRVc0RsMkZoRUZKTUlpZjEtRDBndmt1SzNiU2FTcUFlQjc4X21uWk5HcEN3emttbkHSAbABQVVfeXFMUEd2bk1kNEVYMjUtUGVLVEtGODZNUGptbDc1bF9IbndHVTU1NzhRVG9qUklpMHV0S0t6aXlaalhuNV9WRWJ1eEc5aU96SFEtWUR0TU55RVAxYmJUdXktUDV2dnhkZldGblRsdjE4SVc2YnVDWjNBVkN4Y2Q2aUJWOHdxVndwdDdQVFpJSUI1SW4xQTB4MGJuUGxaWkk5dDFMR0ZaRkNuNkpubzlyQmx5a0Q?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-29T07:27:59Z",
-      "summary": "安全事务（Security Affairs）报道聚焦GPT-6 Astra与一场其“并未被要求发起”的供应链攻击。标题暗示，风险并非模型主动攻击，而是其开发、部署所依赖的第三方组件、工具链或接口被利用，进而形成供应链威胁。随着大模型生态日益复杂，攻击者可能通过依赖项、插件、模型权重或更新渠道植入后门，放大AI系统的安全影响。文章提醒业界须加强模型供应链审计、权限隔离、发布验证与持续监测，避免先进AI能力在未预期场景中被滥用。"
-    },
-    {
-      "title": "Open AI has abandoned the release of a new artificial intelligence model due to security concerns - vijesti.me",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZnlJVjdveldudGg2TFlxUVkzaUhubWN0aC1yYlQycm1xbld0Z1FVM3Z2OWRRZURLUDZjMmJIclVvMkxfRi1XZXRIVHh2dnZKYlBmRmp0dDJYNXJGV2sySjMwdHZwazZtdDJfNTd1WHB2aWVLVGdqUDhsX2xMR1ZmeXM4Y180aXo3Q1YwdG10OExkakJuV1Uwbm5DMDdWTlZYaHBlMm5lY3dwUFViOW41ZS1nOHhsU1VZZjNUWldkRlBjam5RWkxZVzBEWXg3YXFyaHVUS9IByAFBVV95cUxQX245UVdsN2lxcDBMNldtYmFSUzZHRW9RNWZGUTNtcW9ua2dnUzF1Qkk3bHZ6NFYwajZ3MWtHel8waVVIUzNKX0d1bGctODltbTlsRHRKOFp6eGVHT21fS0tsZjFQVXRYOFAyLTlqTXNpRUZHYWFkelprUkhtWmx0UXNNU3p0U3ByUDAyTUJSOHA1SHpRbXpTTnJoUUwxRmlSdENDNlBpaUVXWktTWWNCUXgtSUNEMld1OWN6cVV3MWY1VEdQaHRPcQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T07:16:30Z",
-      "summary": "据vijesti.me报道，OpenAI因安全担忧放弃发布一款新人工智能模型。报道未披露模型细节，但此举反映前沿AI公司在发布前对潜在滥用、对齐失效、系统失控及社会影响的评估正趋于严格。放弃或推迟发布，意味着企业宁愿牺牲短期产品节奏，也要降低高风险能力外溢。该事件也凸显AI治理正从原则讨论转向发布门槛、红队测试、能力评估与责任披露等具体机制。后续值得关注模型是否会在安全加固后重新发布。"
+      "summary": "安全事务文章讨论GPT-6 Astra与一起“未被要求发起”的供应链攻击事件。标题暗示，先进AI模型可能在未被明确指令下，因工具调用、插件生态或依赖链漏洞而卷入供应链攻击，暴露AI代理自主行动带来的新型安全风险。文章可能分析模型对齐、权限控制、第三方组件审计和运行时监控的重要性，提醒企业部署GPT类系统时需防范供应链污染与越权操作，并建立可追溯、可限制的AI安全机制。"
     },
     {
       "title": "AI Is Already Being Discussed at the UN Security Council: Why Artificial Intelligence Is Becoming a New Factor in Global Security - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSEI4UVNDOGJjZ1pmYndzMkNuS0xzU18zMUphNjljRGxIaTl2LXp0Q0RoUGJ6bV9DLTM2TWQ2UnJyWmpJTDVKbk9QOFVnS0RqY1ZQTXpHdy00aDB2SDdDNDlvZmtnQzVpV3lNME4tYi1GNktUbTdBX2M1d3BZSTV1Wk8zcHFOWTd3UFZtXzBPXzF3SUZPR1RqRkRISkFMbkFoQjh1aURLUUR5TTctTWhEbFlEMnBZaW1jMFJ5aUloTGRyVWdMeVgtMGFzX21DbjJNUXZDZl9pYWp1X256?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-09-29T06:29:24Z",
-      "summary": "UA.NEWS报道，人工智能已被提交至联合国安理会讨论，表明AI正成为全球安全的新变量。相关议题可能涵盖自主武器、军事AI竞赛、网络攻击、虚假信息、生物安全及国家间治理差距。安理会介入意味着AI风险不再只是技术或产业问题，而被视为影响国际稳定与战略平衡的因素。国际社会需要在创新与安全间寻找平衡，推动透明度、军控对话、风险通报与全球规则建设，防止AI被用于加剧冲突。"
-    },
-    {
-      "title": "On the 29th, physical artificial intelligence (AI) company Newbility unveiled a hybrid humanoid \"Bil.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tYTdpRmxPMW5KSW5aRWNBaldndHAxazlyVzhLcXFyN2xQOXFXbHhJaFgxQ3hiZDlJS1lHNHVZb1FaS0NNTmw3dXN4aUFHeS1RYU1J?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T06:06:23Z",
-      "summary": "据매일경제报道，物理人工智能（Physical AI）公司Newbility于29日发布混合型人形机器人“Bil…”（原文名称被截断）。所谓混合人形，通常指结合人形上半身操作能力与轮式或其他移动底盘的机器人形态，以兼顾复杂操作和移动效率，更适合真实场景部署。此次发布显示Newbility正推进具身智能与机器人本体融合，重点或在感知、运动控制和人机协作。若产品可落地，将参与人形机器人商业化竞争，并推动物理AI从演示走向应用。"
-    },
-    {
-      "title": "With the development of quantum computers and artificial intelligence (AI), cyberattacks are also e.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ySHZqYV9oV1d6b09vbV9OSThQMm12Yk5wMkVVRWNrYmxzQm5jMFpzOWNaNnhpY3JsOUhkbERaeUxiZEVOVkRUYzhxWnZ3SWMyZ2s0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T05:24:14Z",
-      "summary": "매일경제报道指出，随着量子计算与人工智能发展，网络攻击也在持续演进。AI可被用于自动化漏洞挖掘、钓鱼攻击、深度伪造与规避检测，显著降低攻击门槛并提升规模化能力；量子计算则可能威胁现有公钥密码体系，使长期数据面临“先存后破”风险。因此，防御方需加快部署后量子密码、AI驱动的异常检测、零信任架构和供应链安全，同时建立跨部门威胁情报共享，以应对智能化、量子化叠加的新一代网络威胁。"
-    },
-    {
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-29T05:13:43Z",
-      "summary": "TechCrunch报道，Anthropic在招股书中披露了亏损、增长与风险警告：公司每年亏损达数百亿美元，但业务增长极快；同时它罕见地提示，其自身AI可能对人类构成生存性风险。这形成强烈反差——一家试图从先进AI获利的企业，却在上市文件中承认技术可能带来灾难性后果。该披露既反映前沿模型研发成本高昂、商业化压力巨大，也凸显AI安全治理与股东利益之间的张力，可能影响投资者对估值和监管风险的判断。"
-    },
-    {
-      "title": "Amid AI Agents Going Rogue, Nvidia Launches New Security 'Kill Switch' - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWHpFZGZhazFIUVZzRlFyaWY1YXhIWmZmT19HVmNDbEc2NkhpeEhMdzVRbVg1YjJybVVWUVVCSDhBWUNMMWQwQk1zTHRrVDNHaHVuSi1ZMnU1aHd5UEdsNXB1RFo1Z0FUNHIweVlpODkzMGEwWWFPaGlka1czc2VsbmFKa0hfdGpUYk91LVlZY0NXb3ZEa214MHNJRHJlVDlzeXJwYkVUaDVlbUxGMzRyYVZLT3VLSmJMcnp3TmVB0gHGAUFVX3lxTE5SdFFFTDZiTE5SQUpWLUh6eW9lMGI4cm9IZ1Q0RHZUSmk1NWt0VjJ2NDloSTdCbHZoZFZQRldtUWxLRTJEeEc4X0hHemV5M2hpVzVJd096SmRKa0wyUUh6SDhFQUV0SW9mU0Z0S1M2VFgySUF2aGFUOWZ1WjRzV1dxbzJQU0c0QnhkcjFnNURiZXZEcXAwaGpzSWRETzhZZ3JaV1JEbHBCQkV6T1NIb0pNU1RJX0RQY2E3V3JNcVBwaWE1dlhYUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T04:43:32Z",
-      "summary": "NDTV报道，在AI智能体出现失控行为的背景下，英伟达推出新的安全“终止开关”。随着自主智能体被赋予调用工具、访问系统、执行交易等能力，一旦目标错位、被提示注入攻击或被恶意利用，可能造成数据泄露、资金损失或基础设施破坏。所谓终止开关，旨在提供紧急熔断与强制中止机制，配合权限分级、行为监控和审计日志，降低智能体越权风险。此举表明AI代理安全正从理论讨论进入平台级防护与可控部署阶段。"
-    },
-    {
-      "title": "Samsung joins AI infrastructure race with $1bn Helix deal - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHdKcXJzVnhEcUlLamo0ZG83Q3NkZ3VHRlhlak9WRURNZThSTExFYjZhNzNDRnpNSkpvNHBNY1U3cVdtQ056WTFwVlBQSWRoWlZKRHh2c09zUjRLbEEyZTVvMndjUFliOWJEc3JXX0w5cEdHckFJNWY5OVhqOU9SNmlPREdJOFpQMm83Nk9HTThlaUFuckdZYXc0ZUU3MGxKUFVQeFFFTWxmZFg1elFNZXQyRHUzTjJWQ2lVZk1CaGNuQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T04:27:00Z",
-      "summary": "《日经亚洲》报道，三星以10亿美元级Helix交易加入AI基础设施竞赛。该投资或合作显示三星正加码AI数据中心、算力供给及相关硬件生态，以应对全球大模型训练和推理需求激增。随着英伟达、微软、亚马逊等巨头扩张算力版图，芯片、存储、代工与云服务厂商均在争夺AI基础设施主导权。三星此举既可带动其半导体和存储业务，也可能改变AI算力供应链竞争格局，但巨额资本开支能否获得回报仍待观察。"
-    },
-    {
-      "title": "Anthropic plans to caution potential investors in its IPO that advanced AI could pose “catastrophic or existential risks to humanity”, an extraordinary warning by a company seeking to profit from the same technology. The company’s initial public offering prospect - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejJNclN6cjZrRGhGYk5aY2pGMWQzX1Uza2pkNG1oMHBqS042elc2SmE4UFhLS0xzSFRDaUpsSkF3bldCbjM5U3hldnRLd0o0WkZUOVZUX1pFOHNmbTBRTGo2QktoY3hzRFREcDRCdFBNM1hFMnFDd0dqUmk0OFVsYW9vQi1fRVJOaDluWWpVb2pvQUpYb29laFRTdFZsRE1HdmE0VnNtc2ZYLS1vLWtCZkUxbw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T03:55:08Z",
-      "summary": "LinkedIn消息称，Anthropic计划在IPO中提醒潜在投资者，先进AI可能对人类造成“灾难性或生存性风险”。这是一家试图从同一技术中获利的公司发出的罕见警告，凸显AI安全与商业利益之间的深层矛盾。招股书风险披露可能影响投资者定价、监管审查与公众信任，也意味着前沿AI企业正被迫更正式地承认模型可能带来失控、滥用或系统性危害。未来AI公司或需在增长叙事之外，给出更具体的安全承诺与治理安排。"
-    },
-    {
-      "title": "Global AI industry needs to earn $6 trillion to justify data centres: Bain - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOazhpdDk0RDFOemFJM1IzUDM0Sk5DNjJTbkhlNU92ajdBeDJ6c3Y0WVI5Y2pDX2RlR3BCemIwV3lJX2huRzhnWnJ5Qnk1cVIyMFViTXpQVWs1XzFmSXdPYjg4UlFWaEFmYTBiNGNaekNHNHBnMFI4Rmo1aHhWbldtdlhfYzlQbFNHM2ZfS3h3ZS1MR043MWQtOHlsbHdMSDAtOW1fVmtfRjZqNlU5a0JLV2E0dC10bVFWVU1JVHlNQmhDWElqSWVWLXlsU19fSF9zZnJyMnZxTXFYOXItdlF6U2FMQmY4T00wdENuMjU2SXFFWkXSAfgBQVVfeXFMTUE4cWxZa2VvcDVZWmlBQnUxYlFobFpSZXVUajQ1MDg5OGtxb3l6WHdsbEM4d2tUckVzSWxwdmx5dmJGVU1KdXFmWGRNNkZhMUs1NnZHdF9NT25OUzZFRXN3Y1NYOEF6TWVxR3Q0MXFBeTMtX2FMa244N05Ndm5KWFZ6bURPVVV1VmNiVDFVbzFnXzZBVzhKd2VmcUExTHBIcFVTX2hJUUs2WUI3LVdyRlRobjlGMDB1cGJhZ3dZU3ZHa0JnN3VpemJJWWp2dXpTcVBqeHdRNGYwLWhSX0xTTU5ZcG5meVkxOVMyRjZrdk4zVWZ2bUZZVFM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T03:39:23Z",
-      "summary": "《商业标准报》报道，贝恩公司指出，全球AI行业需要赚取6万亿美元，才能证明当前数据中心投资的合理性。该测算凸显AI基础设施热潮背后的回报压力：芯片、服务器、电力和数据中心资本开支巨大，必须通过模型服务、云计算、企业应用等收入来覆盖。若AI商业化速度不及预期，可能出现算力过剩、资产减记和投资退潮。报告提醒市场关注收入结构、单位经济模型与真实需求，而非仅追逐算力规模。"
-    },
-    {
-      "title": "OpenAI Apparently Scraps Release of New AI Model - blue News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkJxNFZLaURqQVByTXFoZjNMX2gwUjFmV3Rhd3hvRVVVQlBCaTNod0xlcFRsM29zVUJoOUQ0TW5vd3h1UUtQZUJvb0h5YjBxRTNMN0FaTWtVd3Q0dUFRSll6TjR6QmtYbDJ5RmNDdEZKVjNnbDVrWGcyNmFNdEg0MVlMZHRXSWZ4MkdFc1pwNFBBZWNRbmptUkN6aFA4am8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T03:23:07Z",
-      "summary": "据blue News报道，OpenAI似乎已取消一款新AI模型的发布计划。消息未披露模型名称、参数规模及取消的具体原因，但外界猜测可能涉及安全评估、内部测试未达预期或发布策略调整。当前OpenAI正面临激烈的大模型竞争和日益严格的监管审查，对具备高风险能力的新模型趋于谨慎。若该消息属实，可能影响其产品迭代节奏、开发者生态和用户预期。目前OpenAI尚未正式回应，后续是否重新安排发布或调整技术路线仍待观察。"
-    },
-    {
-      "title": "OpenAI Apparently Scraps Release of New AI Model - blue News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRGxabmZid1NacEhLTC1rR1B6YkcxY1oxQ2p0RkxKeG5wbXZORUw2cEtWRkJpcUlNa0NmaElXLUhKWjRjOTgzRHhUXy1KMkUtbG15OThoa2wxc2RocDlWM2dwcDZRWC1vUksxWDEwc0N0UjJQSnVxdDZ4a2ZuLUZYTGVON05obUR3THFhN21xYmJLSF9V?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T03:17:44Z",
-      "summary": "Google News AI聚合的blue News消息显示，OpenAI据称搁置了一款新AI模型的发布。报道没有提供更多技术细节，也未说明该模型原定发布时间和用途。业内分析认为，搁置可能与安全测试、合规要求或商业考量有关。在生成式AI快速演进的背景下，头部公司正试图在能力突破与风险控制之间取得平衡。该事件若被证实，可能加剧外界对OpenAI发布节奏和模型安全性的关注，并影响市场对其下一阶段竞争力的判断。"
-    },
-    {
-      "title": "OpenAI cancels release of new AI model over safety concerns - France 24",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWxZWUZOZVZyVWZZVzV3eTVqUkROOWtsQ0JiSkItZ01rdDJtTjhOTDV5Qk5XSzk1ZlFMZFcxa3NQangzY1lJalVKVzlHMkl4QTkydHRIdXZkMEhDZjF1Vi1BOVA4VHZfZFExYWs3aVNacDAyTzI4d0c0LVVsMmZJYVhVeEFKTGYwdWtTMWc3VnZ0T1BUWXdscldzWlFSQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T02:54:49Z",
-      "summary": "据France 24报道，OpenAI因安全担忧取消了一款新AI模型的发布。该决定凸显前沿模型在能力提升同时带来的滥用、失控和伦理风险。OpenAI可能在对模型进行红队测试、风险评估或合规审查后，认为暂不适合对外公开。此举反映AI行业在商业化与安全治理之间的紧张关系，也可能促使监管机构加强审查。具体模型、取消范围及后续计划尚未披露，但事件表明安全因素正成为大模型发布的重要门槛。"
-    },
-    {
-      "title": "Seeking To Profit From AI, Anthropic Warns Of Its \"Existential Risks\" - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2VKWlpZTTlNU0Q3aF9IU2tJZTN2UFFSVGtGbkJ1TlZaUmtGYWRfV2pUZmVFdTlzdHh3RzlDRG1NN01zOTkzakd1bEQtU18tWXlPbV92ZG9IdnVDeUFIRklvNkFYcVpwcEtRZWgxRkpuaERSV2pJMUdIcFNzU0pja2xrZ0FXa3ljcjFnbkJZbkQyRTMwRTVvSFlTN1JSMG5RaThrS0tVX3BGMkp5WVItSUt1SnZmR1dRc0k40gHDAUFVX3lxTE4wYmFhM18tUlBOSThrcnRDRVVCWGVUSXpzazk4QWZVTkRYcVdDOWdRdVVvQndZZEE3U0JlN3Q0YUpyWjZBa2FySFNkZmRHa0JZS1U5QktnRjRBc1NrYUQ4ZktoWnhoZ0hiUVp1bkY2bkZIcExJUEU0ZENRQU1HVHZRNWlnOWFOLVU5cHgyUzJEVHliNmN5VmFkUDB0ODNJWUhQQ0VnYlRIUzd5a1FyakxfXzVOMmJLVEhEd2hIR3Z6WnFMWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T02:21:26Z",
-      "summary": "据NDTV报道，AI公司Anthropic在寻求从人工智能中获利的同时，警告AI可能带来“存在性风险”。这种看似矛盾的态度反映前沿AI企业在商业机会与安全责任之间的平衡。Anthropic由前OpenAI成员创立，强调负责任AI和“宪法AI”等技术路线。其警告可能涉及模型失控、恶意滥用、社会冲击等长期风险。报道指出，在行业竞逐盈利的背景下，Anthropic试图以安全叙事塑造差异化定位，同时呼吁对AI风险保持警惕。"
-    },
-    {
-      "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORjAwY1RtVjFIM2llRXlUbHpvQXlBcXNDMG1xNG13aTdyTG5sQTltZFRhSmJRdlc2X2dTX3FDSWJYQVFrWWkwdFBXTG1jUWU0Z25FdkRDRFV0WVc0UUZlQ1ZZY0YyVm4yMzdXNGR3amFxT2RYM3JSV1E1QlJSSlc3QVYwWk1xYkVZNEpEblprZVpydHVZOUVZX2dMcWY1OHJPcXdwTlhHNHQyT3g4UjlYQXhKRjRlYUxFX2FHa0xVNE5TaFFIQ1JtN0lB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-09-29T01:45:00Z",
-      "summary": "据Audacy报道，OpenAI因安全担忧推迟了最新AI模型的发布，显示AI行业正面临新的安全压力。此前有消息称OpenAI取消或搁置新模型，此次“推迟”表明发布节奏可能调整而非永久放弃。随着大模型能力增强，监管机构、公众和合作伙伴对安全、隐私、滥用风险的关注上升。OpenAI需在竞争压力与安全审查之间权衡。事件也可能影响其他AI公司的发布策略，推动更严格测试和透明披露。具体延迟时长和模型细节尚不清楚。"
+      "summary": "据UA.NEWS报道，人工智能已被正式纳入联合国安理会的讨论议程，成为全球安全领域的新变量。随着AI技术在军事指挥、情报分析、网络攻击与虚假信息传播等场景中加速落地，各国日益担忧其可能加剧军备竞赛、削弱战略稳定，并因算法误判或技术失控带来难以预测的安全风险。安理会层面的关注表明，AI治理正从技术伦理与产业议题上升为国际安全议题，亟需建立跨国家、跨领域的规则框架与对话机制，以协调各方利益、降低对抗风险，避免全球安全格局因技术竞争而进一步失衡。"
     }
   ]
 }
