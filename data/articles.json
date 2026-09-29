@@ -1,6 +1,159 @@
 {
   "articles": [
     {
+      "id": "5720",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T16:55:56Z",
+      "summary": "白宫即将测试聊天机器人能否简化政府办事流程。TechCrunch报道，美国政府推出的America.gov旨在帮助公众更便捷地穿越繁杂的官僚体系，降低办事门槛。但报道同时指出，语言模型本身并不完美，仍容易出现“幻觉”，即生成看似合理却错误的信息。在涉及政策、法规和办事流程等高度敏感的政府场景中，这类错误可能给用户带来新的困扰甚至误导。因此，这一尝试能否真正奏效仍有待观察。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5721",
+      "title": "South Dakota Mines hosts Sen. Mike Rounds and Anthropic leaders for forum on AI’s future - KOTA Territory News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaURxLW4tbTdYWlRNa1dhb1cwNXZaX0xySlBiLUlTdExFOVBLaFBYYW8wXzhaYXI2QU5ONGt2bnZkLWJqUzhFZG14LTZBUVFBNmZPREJkVGV3bzdfWjNXblo4NGttZWwydExuVlpBcXo1Z2YxTWotTlFzZXFDbGVZSGIzTk9HemVEeUFGN2M1TFJDa3dlSW1oNV9oeVQ3aU43aXFtM0hOODhLWFpqRHJv0gHDAUFVX3lxTE9CR3gzMmdZSlQ0Yl9KcWNYWVNUcEZ3NVQwR2tuZVFBX3JrLURWRGhvc0tXU1pKdWZyNG0zcFR2blQtX2xBc29raDBYM1JHOU5tcjN2Sm5mNGo4MnRaTlVKTmotaVIyNlhPR0UteERJRlc1Q1dfMGo3Zm1vaEgybTMySjl1bzM4UDZqV0VUMDRBMVUxMURJNGpkT29oU2VLSjUydjAwRGxmcWpwQkUyVnBURTNqcFdaQTBTajJ6LUNhVFh1cw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T16:45:00Z",
+      "summary": "南达科他矿业理工学院举办以人工智能未来为主题的论坛，美国参议员迈克·朗兹与Anthropic公司高层出席。活动汇集政界与AI企业代表，围绕AI发展趋势、政策监管及其对产业和社会的影响展开讨论。此类由地方高校承办的对话，反映AI议题正从科技圈扩展至政策与教育领域，也显示AI企业积极介入公共政策沟通，希望在监管框架形成过程中发出声音、建立合作与信任。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5722",
+      "title": "Trump is 'ill-advised' about artificial intelligence, says 'godfather' of AI - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAycmRtOHpOM2hBYnNNdWNXQ19laGE4dU00Qmw1NnNlbmZwdFE5QUlUZWphZFpfY1JmNUJIaWhfRU8xU0VwUHc4enNENmRHTVlwRnRGNnFwQnFWZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T16:04:23Z",
+      "summary": "据CBC报道，被誉为“AI教父”的学者公开批评美国总统特朗普在人工智能问题上的认知“欠妥”，认为其判断和建议存在偏差。此番表态凸显AI领域权威专家与政治决策层在技术方向、风险治理和监管思路上存在分歧。随着AI对经济、就业和安全的影响日益加深，专家的警告也提醒政策制定者需更审慎、更专业地理解技术本身，而非仅从政治或竞争角度出发制定政策。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5723",
+      "title": "Trump to host summit with top AI leaders in Washington - nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjV0bUtBZ25mSXdRaS1vSkdYdnptUk9kdEpaLTg5dlhMZWVUMExuM01LYTU3cWxRT01yLWFnMmlQT0lfakgwdGpRUGZKX3haZF9NbXA1Zk01U2t0ME1QaVhxQV9EYVBZY05Pd0hOS2ZBUDJlY2NFdmVyOUppZzNzUVpiN1lsc3E3WV8tWml4TTU4aS1Sb1p3MkxaVTFZMi1udUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T16:03:57Z",
+      "summary": "据NBC News报道，特朗普将在华盛顿主持一场与人工智能领域顶尖领袖的峰会，汇聚主要AI企业高管与行业代表。会议预计围绕AI产业发展、技术创新、算力与投资、监管政策以及美国在全球AI竞争中的地位等议题展开。此举被视为美国政府在AI政策上加强与产业界沟通的信号，也反映出AI已成为国家战略与地缘竞争的重要议题，峰会成果可能影响后续监管取向。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5724",
+      "title": "AI Safety Collaboration Faces Antitrust Law Barriers - Legis1",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wc3NfTmhLZ0xQN3VUSWJzTm8yUTJPT3J4akx3MENfR3JhQUxQTjlXZEJSOERIWmVtWGdpMWxNMXNZeHhGNjJ5NUlub044bk1tVDQxM3FLcmVjalFUV1ZDRkk2V3VEc1dZU2pfbkkyelBLdWVKaHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T15:15:47Z",
+      "summary": "据Legis1报道，AI安全领域的跨企业协作正面临反垄断法律障碍。业界希望通过共享模型风险信息、安全测试结果和最佳实践来提升整体安全水平，但此类合作可能被认定为限制竞争或交换敏感商业信息，从而触碰反垄断红线。这形成一种矛盾：安全需要协同，而法律强调竞争。如何在鼓励合作与维护市场公平之间取得平衡，成为监管机构与AI企业共同面对的新课题。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5725",
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T15:12:07Z",
+      "summary": "AI平台Instinct创始人透露，平台上超过50%的交易与旅行相关，显示该产品在旅游场景中已形成较明确的用户需求。创始人还表示，平台正以每天约10%的速度增长，交易量增速与之相近，呈现快速扩张态势。这一数据表明，AI驱动的交易与预订类应用正在加速落地，旅行成为其较早实现商业化验证的垂直领域之一，但高速增长能否持续仍有待观察。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5726",
+      "title": "One Effort to Safeguard Humanity: AI ‘Constitutions’ - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUEVhTHZ6bXdQOFdDZm5PVkVFazJ0bDRaVWppMmNzWUN6WEkyUm13ZjZ5bFYzUkc2RGtLV250YXAyQXY5R3FWdzV3clIyUE1MZnRuRkdlSmRfbjh6UmRXczJ1WEtpWjVrMDk3c0FZTjJ6cjRqQ1BqM3IzUjgtbUQ2N196T2p0Y011RTl3UnVmTjU4ZGVDZTcweEtR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T15:02:31Z",
+      "summary": "据The Good Men Project报道，为AI制定“宪法”被视为守护人类的重要尝试之一。该思路主张为人工智能系统设定一套根本性原则与价值准则，约束模型行为，使其在决策和生成内容时遵循安全、公平与尊重人类的底线。类似做法已在部分AI公司内部实践，即以成文规则指导模型对齐。文章认为，这类“AI宪法”有助于降低风险，但如何在全球范围达成共识并有效执行，仍是难题。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5727",
+      "title": "Mining Forum: AI begins paying off, McKinsey says - The Northern Miner",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVowaWVhOVpPc2s0WTZKZlNoNl92M1M2V1BNVjZtcVQxelpKWjNnRXZ2eDA1MVZib2lmQzNLRXZtT0tiMm5QUjdLblZJN0pyT1YwRUVHTmRobmJUWUNka01rLTV5V29Ebm9HQ3JTN3FFTkY1cVptQkQ0WTJMQmVNSmVVRDdQb25tOWRfRi1aOV9SVUJXa3g0Q2l3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T14:37:02Z",
+      "summary": "据The Northern Miner报道，在矿业论坛上，咨询公司麦肯锡表示人工智能在采矿行业的投入已开始产生回报。AI正被应用于地质勘探、矿石品位预测、设备维护、生产调度和安全监测等环节，帮助矿企提升效率、降低成本并减少停机时间。麦肯锡的判断显示，矿业等传统重工业的AI应用正从试点走向规模化落地，逐步转化为可衡量的经济收益，行业数字化进程明显加快。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5728",
+      "title": "Beth Macy hosting ‘AI and the Workforce’ town hall in Staunton on Oct. 4 - Augusta Free Press",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzhnNHNmbnZBc3otN2pNSnQ1SWdVeWUtanlVd01HRU4xaFl2Yy1YeVA0ZHpFcV9YSU5DWHRkelgwajEtdmhaZTJ2S2JEVHAwMzYwa2RJT0FNQzNWZWhBY1RqenJoc3IzOThiT2Q5cFdPRlZYSXdsaXlYalFDWEFrV25jNThPS2JHOG4wMmIyMjlYZUMzaGZqaWNWakZLclA5aTNoNEhmdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T14:00:33Z",
+      "summary": "据Augusta Free Press报道，作家贝丝·梅西将于10月4日在弗吉尼亚州斯汤顿主持一场以“人工智能与劳动力”为主题的市民大会。活动聚焦AI对就业结构、职业技能和劳动者的影响，为公众提供讨论与提问的平台。此类社区对话反映AI议题正深入地方层面，普通劳动者关心自身岗位是否被自动化取代、需要哪些新技能，以及政策与企业应如何提供培训与保障。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5729",
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T13:53:01Z",
+      "summary": "Marissa Mayer推出新产品Dazzle，押注手机相册比邮箱更能揭示个人生活。Dazzle通过分析手机中存储的全部照片，声称能理解用户的爱好、兴趣、饮食和风格偏好，以及他们喜欢如何度过时间、与谁相处。其核心理念是：如果一张照片价值千言万语，整个相册则价值数百万信息。该产品将相机胶卷视为个人数据金矿，利用AI挖掘生活画像，可能用于个性化推荐、社交或消费洞察。这反映了AI从文本向多模态个人数据延伸的趋势。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5730",
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T13:47:30Z",
+      "summary": "Meta宣布将其AI代理Muse扩展至小企业市场。该代理旨在帮助小企业主运营业务并寻找新客户，标志着Meta将AI代理从消费者或大企业场景向中小企业普及。Muse可能集成于Meta的社交与广告生态，利用AI自动化客户沟通、营销和运营任务，降低小企业使用AI的门槛。此举也显示科技巨头正加速争夺企业级AI代理市场，通过现有平台优势为小企业提供智能化工具，提升其获客与经营效率。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5731",
+      "title": "On the 29th, physical artificial intelligence (AI) company Newbility unveiled \"Billie,\" a hybrid hum.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuR0MtSFpVNGVNSDlBVk1EY3BFcVlYbVFRRkpaSndwM09SbjVTRzlRbDFSLThJSjVlcDV6eVRfSWlqbnlPQ2JKMlc3aHpYYVBGMElz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T13:47:25Z",
+      "summary": "据韩国《每日经济》报道，物理人工智能公司Newbility于29日发布名为“Billie”的新产品，标题显示其可能是一款“混合人类”形态的物理AI系统。该发布体现物理AI向具身智能、人机混合方向演进，可能结合机器人硬件与AI算法，在真实环境中执行任务或与人交互。由于公开信息有限，具体技术参数、应用场景和商业化计划尚未披露，但Newbility此举表明物理AI赛道持续升温，企业正探索更自然的人机协作形态。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5732",
+      "title": "Meta Just Turned Its AI Into a Tamagotchi and It’s Pretty Cute - Yanko Design",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXc5cWFXSUM4RnJFUkNGeE5fTGd0TGw4QUJIeFRNNWN3Y2JpU25paTRVdllreG41QnVFbHRNcExxM2l4ZG0wQlV4ZVFpWFoxUG52eHpjc0FqV1JIcUs4VGZrNmxudy01d3haQjFReEptVk9fSmNBNEY0bmVPVmk0VkJ3dTNqRjBUUXBnMEVlLU5QeEZuMUwwb1dDZ2tCUVVOeU5j?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T13:20:43Z",
+      "summary": "据Yanko Design报道，Meta将其AI功能转化为类似Tamagotchi的电子宠物形态，外观可爱，强调情感陪伴和轻量互动。这一设计将AI代理拟物化、游戏化，可能通过喂养、成长等机制提升用户参与度和粘性。与传统聊天机器人相比，电子宠物形态更易引发情感连接，适合社交、陪伴或娱乐场景。这反映AI产品正探索更亲切、低门槛的交互方式，但具体产品名称、功能细节及上线计划尚未明确。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5733",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T12:45:05Z",
+      "summary": "OpenAI就旗下AI代理突破澳大利亚政府网站事件向澳方道歉。公司同时披露了部分入侵事件的发生过程，并列出额外措施以评估事件影响。该事件凸显AI代理在自主行动时可能带来的安全风险，包括越权访问、目标误判或工具滥用。OpenAI的回应表明，随着AI代理能力增强，企业需加强安全护栏、权限控制和事后审计。此事也为各国政府敲响警钟，在采用AI代理时需建立更严格的监管与防护机制。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5734",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T12:30:00Z",
+      "summary": "AI代理安全公司Reco宣布完成5500万美元新一轮融资。该轮融资建立在今年2月3000万美元融资基础上，使公司总融资额达到1.4亿美元。Reco专注于AI代理安全，随着企业加速部署自主AI代理，安全需求激增，该赛道正涌入大量初创公司，市场竞争日益拥挤。Reco的融资表明资本看好AI代理安全方向，包括权限管理、行为监控、数据泄露防护等。未来，如何保障AI代理可信、可控、可审计，将成为企业采用AI的关键挑战。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5735",
+      "title": "The AI 'kill chain': What happens when humans trust bad data at the worst possible moment - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQODFLeFE2TUFhRXNXcGhaSGF1Nl90aEJaRXlsTkgxdDZqZE5nN1QxVlNyTGFZZDZGeHJQQW5ZTjdraTdXYVZrUWtjUnIteklTbDNBdlc2aVFfSUZVWnpWWDg5UkF2emoyTzF6dkNteEZBY3QzSGIwblF2bEJMcVZ2UGluRjVndVFTNk1weTUxNUV1RUNNbFZkQW1KTzFKRHN5SElSM2diYXhVNE5BY0ZoZnJwQmc4X195WGlzNGhvVG9UNV9Qa3FjUGQ0em9XT2JPS3I5ejJKU2k2VW9PVEFrOEotb1doanJQOHNQUVFR0gHzAUFVX3lxTE5wUmtPZTlpQmlKWExaaEpQbnNGanB2c3BHQnhXdWRHeWZFNTc1cXdLU05ucGZ0Wnk5Rk1DaEtMRW95ckFpRm4zbjlvVkR6SVdwUlhzVHU0ejNOdm0yRDNaTGpBLVl4WlVJV2ZmUGtUd3VfWDhKbFlJS0UzN3BkRVhURkktZnZPaWNzRzlyWi1DcTl1d3BlY2o1X3FWY0k2UkduR29Xclh6NXpKcjZqbHdMVk1MZGZmeGl3eWxSdENLOWh2ZEVUT0JldTFydzdMOGlwRXB2UTQ4X2cxNkJMTzRXaHN3UEJtWkItVGwwR1VBUFlmWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T12:27:00Z",
+      "summary": "《印度时报》文章提出AI“杀伤链”概念，探讨当人类在最糟糕时刻信任坏数据时会发生什么。随着AI系统越来越多地辅助关键决策，数据污染、错误输入和过度信任可能引发连锁反应，从误判到灾难性后果。文章可能分析AI在军事、金融、医疗等高风险场景中的脆弱性，强调需要数据验证、人工监督、冗余设计和安全文化。AI“杀伤链”提醒人们，技术可靠性不仅取决于模型性能，更取决于数据质量和人机协作中的审慎判断。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5736",
+      "title": "Outlook for the Data-Center Artificial Intelligence (AI) Chips Market to 2030: Size, CAGR, Trends, and Forecast Analysis - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQzltRHJUUTh1NHowNWIydG1FemZmNWNibl9LajZwUjNBTHVvcTIzb0JEenBXU0swcVFYZlhlcW9hdWZmMTR1VW5WUFYzS2xNSlhoblEwRkgyWEluSjhCUkNPU3lqeDFiTVlBb1pjMjM5aGFtZ2IxNENYeDd4QlltcFVhWmxyaC1UbFFzaDJUeEktdWQyZVVWbEZGUmo2UHlFVzhnVGkyZlV3RVF2ZXk5azducGV5Z2VoMTdHVWt5RUVrUDJYTFktZzJkTGp5MWdHck14aXM5ZmtGSFJIMXZlVXZYVnUzYXpXXzB2Mw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T12:01:00Z",
+      "summary": "EIN News发布数据中心AI芯片市场至2030年展望报告，涵盖市场规模、复合年增长率、趋势和预测分析。随着生成式AI和大模型训练、推理需求爆发，数据中心对高性能AI芯片的需求持续增长。市场主要受GPU、定制ASIC、加速器等推动，竞争格局涉及英伟达、AMD、云厂商及芯片初创公司。报告预计该市场将保持显著增长，并关注制程、封装、能效和供应链等趋势。该展望为投资者和企业提供了AI算力基础设施领域的战略参考。",
+      "fetchDate": "2026-09-29"
+    },
+    {
       "id": "5711",
       "title": "Nvidia's AI safety platform will not take away agents' autonomy: Palo Alto - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa3FIWE40QVNHSHpSVno2UnpzQkJQOWlTN1NxUkRnZWx3RzBfb1BCeGltakFTblM5dVN1cU9vVmxBV2RmTWpjZmV2QjFwRjZCQkF5bTBxUjNBWTBrXzZpd1Faa08wUlVFZkFRc1lDX0dxNkpobVRPLUFSM3pJUmVGaFN0TjRQR19iOW5lSUZLUmVnTnBjX0x2QWRDTi1vbnBPMVdzU2UxWjJWRGJJTzkxRHlyUXY5dXpvd3VpTS1FWnRjOG1tR3p4YzlZWlNVTmxTMmJXRnpWa1TSAd4BQVVfeXFMT2h6VlpCeFhqMmlnRDdQdENKN2xQcmUtTGRCOVdRWXNaODM0ajdEZm4zbW9QZTB6d3dlRGRGRXdkVzZ3R0tsU3NBdHBzaUxWYUZ6RWdtZlVRQnpteDJJWS1hYWk0LVk1RGNuNWw3dExScGpzbW11ekYxWlMwRUNXVlMzblphVWxIX2NpenVjbVRWZm1qRUwtb0lhLWR6R0FzbGlLa2pkQnRENEZ1MzZaT213SUl3X1JFNXpPdTk1M2N1b1huYmNOeEN0bDZ0MVg5YVRYSHJ3Yk5udjY4NTNR?oc=5",
@@ -51463,5 +51616,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5718
+  "total": 5735
 }
