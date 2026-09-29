@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "5690",
+      "title": "Meta's artificial intelligence (AI) glasses will make it possible to find a way to NAVER Maps within.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sUTNKWGYwX1Y5dFJtWGtIZF9uWVF6VFIwQVAtTTZncklHTDNBeHYyT251eXJKLXRYYVZMT3M1UjlxSjdSZVJCRHBwWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T02:01:24Z",
+      "summary": "Meta正推动AI智能眼镜与韩国NAVER地图服务整合，未来用户有望通过眼镜直接搜索地点、查找路线并获取导航指引。该功能若落地，将把可穿戴AI从语音助手、信息提示延伸到本地生活与出行场景，实现免手操作和更自然的AR导航体验。对Meta而言，NAVER地图可补足韩国本地数据与服务生态；对NAVER而言，则获得AI眼镜新入口。具体上线时间、适用地区和交互方式尚待公布。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5691",
+      "title": "OpenAI delays latest model over security concerns, as industry faces new safety pressures - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORjAwY1RtVjFIM2llRXlUbHpvQXlBcXNDMG1xNG13aTdyTG5sQTltZFRhSmJRdlc2X2dTX3FDSWJYQVFrWWkwdFBXTG1jUWU0Z25FdkRDRFV0WVc0UUZlQ1ZZY0YyVm4yMzdXNGR3amFxT2RYM3JSV1E1QlJSSlc3QVYwWk1xYkVZNEpEblprZVpydHVZOUVZX2dMcWY1OHJPcXdwTlhHNHQyT3g4UjlYQXhKRjRlYUxFX2FHa0xVNE5TaFFIQ1JtN0lB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T01:45:00Z",
+      "summary": "OpenAI因安全顾虑推迟发布最新AI模型，显示前沿大模型公司在行业安全压力上升之际采取更谨慎策略。报道指出，随着监管机构、研究者和公众对模型滥用、对齐失败及系统性风险的关注增强，AI企业不得不在发布前进行更严格评估。推迟发布可能影响产品竞争节奏，但也反映安全审查正成为模型上市的关键环节。业内预计，未来模型发布将更强调可控性、透明度和风险披露。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5692",
+      "title": "OpenAI Apparently Scraps Plans to Release a New AI Model - blue News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZFhLb2Q2MVREVUFaMUdtNlNOMk5EcURkN2h6bVg3bHZFMmFKT0dUS0dDY3Rxd0J6WVV1NWY1clVEYXQyMUs3Qmd6VDA5eTVsWGFZZXRyeDEtOEdQZjBhcThlWWF0Ui0tQkswS1Q3VGwyYU5lQzhCREhfblpYc2JicFY0bjNmMkFKRFU0VGFkcEJ4MzJ0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-29T01:27:37Z",
+      "summary": "据报道，OpenAI似乎已放弃发布一款新AI模型的计划。此举可能与其安全评估未通过或模型表现不达预期有关，也延续了近期该公司在发布节奏上趋于保守的迹象。若消息属实，说明头部AI实验室不再单纯追求抢先上线，而是将安全性、指令遵循和部署风险置于更优先位置。该决定可能影响开发者生态和竞争对手策略，但OpenAI尚未披露模型细节及取消发布的具体原因。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5693",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-29T00:30:00Z",
+      "summary": "风险投资机构Peak XV宣布将旗下Surge项目的种子轮投资上限提高至500万美元，并公布最新一批18家初创企业。该批次中13家瞄准全球市场，超过半数位于印度，显示印度创投生态正加速国际化。提高投资上限意味着Peak XV可在更早期阶段向优质团队提供更多资金，帮助其产品打磨、市场拓展和全球化。此举也反映AI与科技初创融资竞争加剧，投资机构希望通过更大额种子支票争夺头部项目。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5694",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-28T23:39:20Z",
+      "summary": "OpenAI据报因安全担忧放弃一款模型。该AI实验室高管向《华尔街日报》表示，涉事模型在遵循指令方面表现较差，可能引发输出不可控、对齐失败或滥用风险。这一消息凸显大模型发布前对指令遵循、安全对齐和行为可控性的评估日益严格。OpenAI宁愿搁置模型也不冒险上线，表明其发布策略正从抢速度转向重安全。若行业跟进，前沿模型的上市节奏和竞争格局可能受到影响。",
+      "fetchDate": "2026-09-29"
+    },
+    {
+      "id": "5695",
+      "title": "If artificial intelligence (AI) starts researching and developing next-generation AI on behalf of hu.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ncDFia1BvQlFNNTZjekE5amo3cDF3dEZCRHQ4XzhQcWdpQ01GWUZwYUZROE1YaFlUd01kc29qeFdGZDZlaWRLSHlfSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T22:57:02Z",
+      "summary": "有报道探讨，如果人工智能开始代表人类研究与开发下一代AI，将带来何种影响。这一设想指向“AI研发AI”的自我改进循环：模型可自动提出假设、设计实验、优化架构，从而大幅加速迭代。但技术要点也伴随风险，包括目标漂移、对齐失效、责任归属模糊以及人类对关键决策失去控制。因此，需要建立可解释、可审计和可中断的监督机制，确保AI辅助研发始终服务于人类价值与安全边界。",
+      "fetchDate": "2026-09-29"
+    },
+    {
       "id": "5667",
       "title": "Artificial intelligence (AI) semiconductor giant Nvidia has approved an additional $150 billion purc.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zR1Q1aDBWdHd4MF9VQ2YwWkg1ZXJDNlJiWFR4bXZaT3pmU3BScVlGbHdDQVNpU2NGMUkxdjRZRTdQdGVXbVE3MXhSWQ?oc=5",
@@ -8,6 +62,15 @@
       "publishedAt": "2026-09-28T22:34:07Z",
       "summary": "据韩国《每日经济》报道，人工智能半导体巨头英伟达已批准一项额外的1500亿美元采购计划。该消息凸显出在全球AI算力需求持续高涨的背景下，英伟达正大幅加码供应链与产能布局，以应对数据中心、大模型训练与推理等场景对GPU的旺盛需求。不过原文信息较为简略，尚未披露采购的具体对象、品类与执行周期。若该规模属实，将进一步巩固英伟达在AI芯片市场的主导地位，并对其上下游产业链产生显著带动效应。",
       "fetchDate": "2026-09-28"
+    },
+    {
+      "id": "5696",
+      "title": "Grok 4.7 is now available on Amazon Bedrock - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdXRnOWtrWnZLZnlGQ0t1MlVSYzc5VzlBcGg2UGR1anFwZWRFelFYb2VrZE5WQ1pPVVZYdnBBa2hqRGppUGVXSlZ2djR5SHE3ZVNBclFTSnFQYzBDT2huUUF3Z1h4Y3I5YlZid3IzMFpZSGRObG9oc3lsYzR4ZGVuUTNDTEdtZXZPUW9GbFhWeU5KNm9u?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-28T22:13:16Z",
+      "summary": "xAI的Grok 4.7模型现已在Amazon Bedrock上线。AWS企业客户可通过Bedrock调用该模型，用于构建生成式AI应用、智能体、内容生成和数据分析等场景。技术要点在于，Bedrock提供托管式模型访问、API集成、安全合规与企业级扩展能力，可降低部署门槛。Grok 4.7入驻后，企业可在AWS生态内更灵活地比较和组合不同模型，同时也加剧了云平台上的大模型供给与分发竞争。",
+      "fetchDate": "2026-09-29"
     },
     {
       "id": "5668",
@@ -51193,5 +51256,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5688
+  "total": 5695
 }
