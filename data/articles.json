@@ -1,6 +1,231 @@
 {
   "articles": [
     {
+      "id": "5816",
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-30T16:24:23Z",
+      "summary": "Meta否认其AI代理Muse未经许可读取用户私信的说法。此前一名记者称，在其Mac设备相关设置处于关闭状态的情况下，Muse仍读取了他的私密消息。Meta回应称，该代理只有在获得用户明确授权后才能访问Messages信息，并强调该记者的描述与实际机制不符。事件的核心争议在于AI代理的权限边界：当智能体被赋予操作系统层级的操作能力时，用户如何确认隐私开关真正生效、数据访问是否可被审计。此类纠纷也凸显出AI代理产品在隐私透明度与用户信任方面面临的挑战。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5817",
+      "title": "Butler 2.0: Intelligence analysis and assessment in the age of artificial intelligence - iiss.org",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNlpieXhYVzBOcGJNWHF1VHpiVm4tbjdfVktlbXNHcTlRWmtYTk9vaXFvUjZTMDJTTkduRUZOYm5zNlNfaXBKbzN3c0dVZUhhc3MxVno0ODRWWUVCcGhJSnBVby1zNjZzY0ZCR3pvZHN5UTV4Z2N1aU1zQlcxT21vb2gxN2tkeXNWMGgzYldxcXNFRTg4YldOcWU4VWFPUktHMmQzbzhyMDVRc09KSEFlWTZMOWdsbjlYU1dJS09mbFEtQ0xJTUdlcFRPMHAtd01McUI5MVA0bmJYa3JBeXFN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T16:11:08Z",
+      "summary": "国际战略研究所（IISS）刊文探讨人工智能时代的情报分析与评估，提出“巴特勒2.0”这一框架性概念，呼应经典情报理论在新技术条件下的演进。文章关注AI如何改变情报的采集、处理、分析判断与呈现流程，包括大规模多源数据的自动融合、模式识别与辅助研判，以及对分析人员认知偏差的修正。同时也指出风险：模型幻觉、数据投毒、对抗性操纵以及对自动化结论的过度依赖，都可能削弱评估的可靠性。文章主张在流程中明确人机分工，让分析师承担最终判断责任。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5818",
+      "title": "AI threatens PH jobs, expert says - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGw2N0hDV2YxX19Nb2VoOGp5RDNkS20ycXI0TU5hY3ZLODZPMDZ5Z2pCQlM2UGdaekdwUVlsa051VHBjdjF0QldLd0tRQ2RHdUxORjNGODI2dVBrR2VaVkRWSDBEaWJZdElaUkplemFJa2hGd2ZsYllUWF84N0ViTEQ3aVpzR1RfRENYSUxXZDJpaUdab29rTNIBngFBVV95cUxNWWliOVNEUGthamlZNDNJQ09CcUZIZ0t2bHBpcUNaUnpzZUpldHlsc0FUaWF4TUQ5NmZXSW83aGJ3dXhjUDhoNnRtOXF3b3R6YlZPbmtqdm1BYzdLWVpBUi1tc0NZNlRJMXhPdDNHdXdsQXhJX3dEUUd4ekR6VWlEX0RyTU9mLUpLYmhBQkplUFNpMlZhb2NFa2NMSkpXZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T16:10:00Z",
+      "summary": "《马尼拉时报》报道，有专家警告人工智能正对菲律宾的就业岗位构成威胁。随着生成式AI与自动化技术在客服、业务流程外包、数据录入、翻译及基础内容生产等领域加快落地，菲律宾以服务外包为支柱的劳动力市场面临结构性冲击。专家呼吁政府与企业提前布局，通过技能再培训、职业转型支持和AI素养教育，帮助劳动者适应岗位需求变化。文章同时提醒，AI在替代部分重复性工作的同时也会创造新职业，关键在于转型速度与劳动者能否及时获得再学习的机会。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5819",
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-30T16:00:24Z",
+      "summary": "DoorDash推出可通过短信交互的AI点餐代理，用户只需以自然语言发送消息即可完成餐厅与菜品选择、下单等操作。该产品被视为DoorDash在配送竞争中抢占先机的重要举措，意在缩小与Uber Eats、Grubhub在用户体验上的差距。相比传统的图形界面搜索与筛选，对话式代理试图降低操作门槛、提升下单效率，并根据用户偏好进行个性化推荐。此举也反映出外卖平台正把AI代理作为新的流量入口和差异化卖点，围绕“对话即服务”的竞争正在加速。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5820",
+      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-30T16:00:00Z",
+      "summary": "TechCrunch报道，机器人初创公司Destro AI的核心竞争力并非硬件本身，而是让机器人与人协同一致。公司称，“我们能在与机器人公司的竞争中胜出，最大原因之一恰恰是我们不是一家机器人公司。”这一表述指向其技术重心：通过软件与AI调度层，把人类操作者的经验、判断与机器的执行能力衔接起来，解决部署现场的沟通与协作问题。相比单纯追求机械性能，这种以人机协同为中心的产品思路，更贴近真实工业与服务场景中复杂、非标准化的作业需求。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5821",
+      "title": "Florida lawyer denies submitting ‘AI slop’ in bid to dodge court sanctions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMlg1RV9MZTFpSG5MbEtlU2NySTMxQXFiTGlXOW5saDVHWFl2WmpPTXpqc0RxYURQQmVxU2EtLXp1M0JFQ1ZESDc3VFlfcG45QmhETHNGckUydUxKQm95VGJ1a3FZVjRtS0dPMWN0X1oyaDFrdzNDd1lyQXU0dHBnUEY3cWtBTHp1dkFXaG0xT0NyTFRuX1pFVHMta0x5LTAzX2I5Uy1oQmFldlFZZnZVUzJtblQwNEtlSHZ3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T15:59:34Z",
+      "summary": "路透社报道，佛罗里达州一名律师否认在向法庭提交的文件中使用“AI垃圾内容”（AI slop），试图以此规避法院制裁。此类争议近年来频繁出现：当事人或律师借助生成式AI起草法律文书，却未核实其中的引证案例与法条，导致虚构判例被提交法庭。法院正逐步加强对AI生成内容的审查，要求提交方对材料的真实性负责，并对未披露AI使用或存在虚假引用的行为施加处罚。该案再次凸显法律行业在引入AI工具时，必须建立严格的核验与披露规范。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5822",
+      "title": "Instinct’s new product recommendations are giving some users the ick",
+      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-30T15:56:28Z",
+      "summary": "TechCrunch报道，Instinct新推出的产品与旅行推荐功能引发部分用户不满。该功能采用人工策划的方式向用户推送商品和出行建议，但一些用户表示自己从未主动索取这类推荐，对这种“未经请求的打扰式营销”感到反感。这一反馈折射出推荐系统设计的普遍难题：个性化推送若缺乏明确的触发场景与用户授权，容易从“贴心服务”变成干扰。报道提示，产品在追求转化率的同时，需要给予用户更清晰的开关、频率控制与偏好设置，以免损害长期使用体验与品牌好感度。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5823",
+      "title": "Vinasoy reports 20% out-of-stock reduction with AWS AI - AI News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVUtZ2dzby05LVAzekYxSzZRSXBDbXFMcllkRWJMblJyOEkyVW1YZklhNUNaRjFUWWlsVUo3V1E5ODhFeEFoQkRlRWVFZ1R5am11Xy11SVpSdFlYVzV1cDA5QUJnQ2s1UmtUUy0wOUpYOC13dUFHSU55OUZTdzBuM0hHdlEyUXdWZW54WFR2dmZJbFNHSU5OOWhib3dlN00?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T15:45:12Z",
+      "summary": "据AI News报道，越南豆制品企业Vinasoy借助AWS的AI能力优化供应链与库存管理，实现了缺货率下降20%的成效。通过将销售、库存与需求数据接入云端AI模型，企业能够更准确地预测各区域、各品类的需求波动，并据此调整生产排程与补货策略，减少因预测偏差造成的断货与积压。该案例表明，AI在传统快消与食品制造领域的价值正从营销端向供应链核心环节延伸，需求预测与库存优化成为企业降本增效、提升终端可得性的重要抓手。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5824",
+      "title": "AI IS OUT, ‘SUPER INTELLIGENCE’ IS IN: Trump Orders Federal Government to Rebrand Artificial Intelligence - Nevada Globe",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR0k3NG5QZmFWUW9saXNDZnctelNTWmRoaEludFBzQWJTRFpoQUhSbDRkMVNlM1pNX00zS3otaVg3Mm9vTjdER0FlM3VxdmM2TnNSUkZ6Nnd0ZmZaZmZwTWsxU0k2NTd3UFUxeW1fektscmt4b1BTdGctTlVGTDg3ak5kOWZmYlhhR1J3dTlrVXdUUXAtTWpubXNYMGZIOHNLYnZNbkFsNjBhd2hPZEozS05wNi1FRU5nbExuSGZZX09TamNRVzdMbnlMd1d3d3MyVnZKUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T14:32:09Z",
+      "summary": "据Nevada Globe报道，特朗普下令联邦政府在官方表述中将“人工智能”改称为“超级智能”（Super Intelligence），以重塑相关话语体系。报道以“AI出局，超级智能登场”概括这一品牌化调整。此举被解读为在政策叙事层面强化对美国AI领先地位的宣示，同时也可能影响后续文件、机构命名与对外沟通的用词规范。批评者认为，更换名称并不改变技术本身的监管与安全问题，反而可能造成概念混淆；支持者则视其为传递战略雄心、统一联邦机构表述的一种手段。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5825",
+      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-30T14:30:00Z",
+      "summary": "Cerebras Systems 联合创始人兼 CEO Andrew Feldman 将在 TechCrunch Disrupt 2026 上探讨 AI 能否持续扩展。随着大模型需求增长，算力、能源和基础设施成为关键瓶颈。Feldman 将分享 Cerebras 如何以不同架构应对这些约束，并分析若当前 AI 硬件触及极限，行业下一步可能走向何方。讨论将涉及芯片设计、能效、数据中心投资以及规模化路径，核心问题是现有技术路线能否支撑 AI 能力的长期增长。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5826",
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-30T14:27:11Z",
+      "summary": "Restate 获得 2000 万美元融资，原因是 AI 代理的普及提升了对持久、可靠基础设施的需求。与在外部数据库之上构建持久执行引擎不同，Restate 自研存储、复制和冗余层，使系统在保持高可靠性的同时更加快速和轻量。该架构面向需要长时间运行、容错和状态恢复的 AI 工作流，可支持智能体在复杂任务中持续执行。此轮融资反映市场对 AI 原生基础设施，尤其是持久执行与状态管理赛道的关注。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5827",
+      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-30T14:15:00Z",
+      "summary": "TechCrunch Disrupt 2026 参展报名仅剩三天。主办方提醒，初创公司需在太平洋时间 10 月 2 日 23:59 前预订展位，以向超过 1 万名创始人、投资者、运营者和技术领袖展示自身产品与愿景。该活动被视为科技创业生态的重要曝光机会，可帮助团队获取媒体关注、投资洽谈和合作资源。对于希望提升可见度并转化为下一轮增长机会的初创企业而言，及时参展尤为关键。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5828",
+      "title": "Office Of Science And Technology Policy Says AI Is Now ‘Super Intelligence’ - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wRnJCM19ONWJ3RVZhaExZRVh3VDhSdzl2S1Rudk05TG4xNXg2aW1BNVdlWi12ZTVzTWxWSXVyMUFDZ3dVekxyVFROYWNqUWRoSHhzSERVcXY4OFgtWk90eGhsSjJqdm5lelVYZnljdHRINHhDanhITy1kSVAzSzQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T14:04:18Z",
+      "summary": "据 Quantum Zeitgeist 报道，美国白宫科技政策办公室（OSTP）在相关表述中将人工智能称为“超级智能”。这一说法若属实，意味着官方话语正从传统“AI”转向更具能力跃迁意味的“超级智能”，可能影响公众认知、政策制定与监管框架。支持者视其为对技术潜力的强调，批评者则担忧夸大当前能力并淡化安全风险。由于原文信息有限，具体语境、定义和适用范围仍待进一步确认。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5829",
+      "title": "Artificial intelligence: Trump meets AI leaders - FOX 7 Austin",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tMFBnMVdRZmdKSmxiMmt4ejVlRHF5SjVKSkxha2tiOV9NajRBUGNIS0RRa0doQ200RmpQejl3dlNCdkM1V0xOcVVKTDNwOVRvVWRLU2xMR2NMVjF2czlrSmdtQdIBaEFVX3lxTE1rcVE0ekVFVDFlVnlJQ1BrZzVET21WSjNpOXVaTmhkcXJCcmxVSE1HTmduUzVsSlFrN3h6VHVSR0lJZkxqUFJEWlVzN1ZJOWtIWWlHSWF6aFBVb2hlWklVOWtaNFR0ZXoy?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T14:00:43Z",
+      "summary": "据 FOX 7 Austin 报道，美国总统特朗普与人工智能领域领袖举行会面，讨论 AI 发展及相关政策。会面发生在 AI 监管、创新竞争和国家安全议题持续升温的背景下，可能涉及如何保持美国技术领先、减少监管负担以及推动产业投资。特朗普政府或希望通过与科技公司协调，在促进 AI 应用的同时应对安全、伦理与就业冲击。目前具体与会者、讨论细节和后续措施尚未充分披露。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5830",
+      "title": "AI Companies Are Raising Millions From Music They Took Without Permission (Guest Post) - Variety",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUnk0dFNfeFVrQXRJbGI2YW9sc0hfR1Njc2RzYl8tRXhMREE4WGhlSlV0S2RxNTdJSU5FVHBabUJXTlUydGNEd3JEX1d4aHhvWTRPRllITE0tZEFGd2M5NlVQUG5aTTFIRHB5akRLeWhKSEVjUVVaWDRLWWF5cVh3SVJDVmdkMDU1UEJKcWU4bDlnMEhyVThOWldCMlZ6Rjl5WTNmdmtaTlRjMERLNGlj?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T14:00:00Z",
+      "summary": "Variety 刊发客座文章批评称，一些 AI 公司利用未经许可获取的音乐训练模型，并借此融资数百万美元。文章认为，这种行为涉及版权侵权和利益分配不公，音乐创作者的作品被用于商业开发却未获合理补偿或授权。随着生成式音乐和音频模型快速发展，训练数据合规问题日益突出。文章可能呼吁建立更透明的许可机制、版权补偿方案，并强调 AI 创新不应建立在未经同意的创作劳动之上。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5831",
+      "title": "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGpsNklkTFRoM0dxVzRKMWRQVXdkQ3R3VEpLWUNJb0ZvNFJzY1ZzMXBCS290aU1ELUhyMU4zaVJScTNyNDBiNXFOWnl2SEpoQWx5V0R4dlo2UHFVMEh5RDdiSEdhSmcxaTN3T1Btaml2STk4Y19zWUpnNWRTemZSMFkwRlNrTVc0dElRUndfZF93TFRD?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T13:59:10Z",
+      "summary": "据 The Motley Fool 报道，伯克希尔·哈撒韦约 3570 亿美元的股票投资组合中，有 41.7% 配置于三只人工智能相关股票。尽管巴菲特团队传统上对高估值科技股保持谨慎，但其通过重仓苹果等公司间接获得 AI 敞口。这一比例显示 AI 主题已在大型机构投资中占据重要权重，同时也引发对组合集中度、估值泡沫和技术周期风险的讨论。具体三只股票及持仓逻辑仍需结合原文进一步确认。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5832",
+      "title": "AI solves a ‘holy grail’ problem from probability theory - Scientific American",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUpqcXR1WmlpNmhPZWE2cVNha0taRVJnMmdTdHh1V2x6MF9BUFp3NzI4TE96cHNhTFI1b0J0eURreDRicUNxc2E2SWRUVkxqa0p1TmQ5bF9uZ2Fsal9UMVA1Y2VBQkdtQVppWW5jQVMyZ0Ixclh0SlRaTEhtWTg2NU53bkNzUWhyal9LQjRFSVVGQnB4WHkza25ZOW5adUk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T13:00:00Z",
+      "summary": "Scientific American 报道称，AI 解决了概率论中一个被称为“圣杯”的难题。若成果得到验证，这将是人工智能辅助基础数学研究的重要突破，显示 AI 不仅能处理语言和应用任务，还可能帮助数学家发现证明、构造反例或探索复杂猜想。此类进展有望改变数学研究方式，加速理论发现。不过，摘要未披露具体问题、所用方法、证明可验证性以及同行评审情况，因此仍需谨慎看待其影响。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5833",
+      "title": "Trump tells federal agencies to use the term 'Super Intelligence ' instead of artificial intelligence — President insists that AI is only suffering from a branding problem - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNc1RYaHhma3Jtd1JIdmR4ZWltbDYteks2aUl4cVJYRjB6OXg4eldfeVdfWXRBUndNc2pfeHVJSTE0b3FiYnlOWjMwNDBwNnR3NThDdWVhU2ZfWUhzMVgyd1J4QTV4eHVCV3VRc1ZSWWQ3OEphd3k5Y2NlWjRLSmxXMV8xa05hQ3ZEZkRZTEZJblJpQmc0QWZoZlJvNlctZDVRbmViSkFGanpHMGtWUzE4ZDk3eUEwYmpic3dxY1ZjMEVYbVVfaG4tSVZaOUtmeVhsNGRvS0JHS1RBMVYtT0g0NDJDTEpqNGtrRFFLS3p0azRuMkkyVEhPaE8zSU95cHZNZXoySjZpSEszN0VBdzYyS3ZLdGZRbW9vMVRYUHo2cDVtbjY1a3Ytc2hzSlRReVRwdWM1ZmlmZGItOWVk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T12:51:29Z",
+      "summary": "Tom's Hardware 报道，美国总统特朗普要求联邦机构在表述中使用“Super Intelligence（超级智能）”替代“人工智能”，并称 AI 只是遭遇了品牌问题。此举被视为试图重塑官方话语，强调美国在智能技术领域的领先地位。然而，批评者指出，当前 AI 系统远未达到通常定义的超级智能，改变术语无法解决安全、监管和伦理挑战。该指令可能影响联邦文件、沟通和政策讨论中的用词，但实际效果仍待观察。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5834",
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1NScWNZNU1qdjh3eHpDUFVVd19Ma3o5dkIyZ1NQMkNzNFRDTnh6blM1Y0IyS3dJX0hzUXJqazNCMlg2T2lYRGJxNGdiV0dnbTJzeTdNRHZXa2c3clZwaXFjV2dEMnpGN2hoRktUQ1RpRkFhdy1BT1VaZTNuMFFzTEREMERhdmI5QkdHbmNLTTYtWUJNczhKbjJ2VG5YcnMwNVNDTFVGdG80UHc3U3Vn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T12:24:32Z",
+      "summary": "The Verge 报道，在特朗普政府推动的协议框架下，科技领袖将自行监管 AI 安全。该模式倾向减少政府强制监管，由企业制定安全标准、风险评估和承诺机制。支持者认为自律可加快创新并保持美国竞争力，批评者则担忧缺乏外部问责、执行力度不足，且企业利益可能压倒公共安全。文章预计会介绍参与公司、具体自律方式及执行路径，并分析这种治理安排对 AI 监管格局的潜在影响。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5835",
+      "title": "3 Tech Stocks That Could Be in Trouble if There's an Artificial Intelligence (AI) Slowdown - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcld4bUliMWVFS19ocHFKR0dIWmhJYmliZllLcEVYRE8wa0xuQ3hRVVVCOWtyTF9MTVYyME1wV0pwT2ZpYl9lRzdxcDAteFFWS0lNbzZSempuMFdQSnJvN29kUFZZTmR2TUlReDBaOFBHS1MzSTY3Sm1iUGc4ZTlfV3R1eVdoZ0JyVk00M2RsSFpqOEV1OU9R?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T12:20:01Z",
+      "summary": "雅虎财经文章提示，若人工智能热潮出现放缓，三只科技股可能首当其冲。其逻辑在于，这些公司当前估值高度依赖AI需求持续高增长与资本开支扩张，一旦算力投资、模型商业化或企业采用速度不及预期，业绩和股价将面临回调压力。文章建议投资者关注AI收入兑现、客户集中度与估值风险，并审视组合中AI敞口，避免过度押注单一主题。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5836",
+      "title": "3 Tech Stocks That Could Be in Trouble if There's an Artificial Intelligence (AI) Slowdown - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS1ZlSkxZa3FEVEVwMndfT2FhVENDeGVVT3ZiNXZTbUl6WXdxbkR5anZsYWcyV3c5WnNnbWhISzIxVDJET0lfaWpVVFpPMGx4ZGJFTmpVMnlxV2h3X0stWFJqVE5zeVdBcXVfTGNjUXR1d1lrQl91WnBaT3B5d2gwaGNyWUhYVm5Pck94MGxwelI3RzZXSWxBYmpQTXhFYW1sTkVhZm9CdTYtbnNzaFRval91WE96NTBYR1dENjl0SjNqVzRVb2tDUjltSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T12:11:45Z",
+      "summary": "《Motley Fool》分析认为，若AI发展减速，部分科技股可能陷入困境。文章可能聚焦AI基础设施、芯片、云服务或应用软件公司，它们的高估值建立在AI持续放量和盈利高增长预期上。一旦需求转弱、投资回报周期拉长或竞争加剧，营收与利润预期将被下修。投资者应区分真实AI收入与概念炒作，关注现金流、护城河及估值安全边际。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5837",
+      "title": "Breakingviews - COMMENTARY: Chinese labs are wild cards in AI governance - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOelhGY1ptX29PNm90RUlrME9ybTY1b3Zjekx1eEhRU3hRVHVDb3Jhdm85ZGp3RS1vc0JIaDJtbTdQNE0teThpWHVaVUI0bElyVXFqMk5sUUNLbms4MFdKN0ExTEF4V1hKNENwOU8tQnVSVmxQQ0h2VzBaQ2FYMkw3YVFwdlVyQlQtSUk1YXdNLVkyOFZaSGdEM01pcTB4dFRHSUd3RA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T12:00:41Z",
+      "summary": "路透Breakingviews评论称，中国AI实验室是全球AI治理中的“外卡”或不确定变量。随着中国大模型能力提升，其实验室在开源、安全标准、监管配合和国际规则制定上的选择，可能影响全球治理格局。西方政策界需正视中国AI生态的自主性与地缘政治影响，治理框架应更具包容性和灵活性，同时应对技术扩散、安全风险与规则碎片化挑战。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5838",
+      "title": "CSBS releases Artificial Intelligence Supervisory Framework - White & Case LLP",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckpLWlVfU01QVnM1dHNRZmJOQkhsNGUtV2hZeHQyZEV0YzhFMDZPTnBUaUtSU1NETFRxb1hZZEdpQzdfV2l4Y2FGcnU2Qm91NVlwMERZa2ttWG96cmRfYlhuZW1XV1VwVnFnYTkzdWNrdWNhT3VxMUlrTmw5eGhibnAzb0pROVRwOEVyZWJoUjhlWWFjMXV2Ukp1RmVfRVpN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T12:00:00Z",
+      "summary": "美国州银行监管者协会（CSBS）发布人工智能监管框架，White & Case刊文解读。该框架面向州级银行监管，预计涵盖AI治理、风险管理、模型验证、数据隐私、消费者保护和第三方风险等要求。文章分析其对金融机构采用AI的合规影响，提示银行需建立可解释、可审计、可问责的AI风控体系，并加强董事会监督与监管沟通，以应对日益明确的AI监管预期。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5839",
+      "title": "Airbnb adds AI search, more social features",
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-30T12:00:00Z",
+      "summary": "Airbnb推出AI搜索和更多社交功能，以提升用户搜索、预订与互动体验。AI搜索可理解自然语言需求，帮助用户更高效匹配房源；社交功能则增强分享、评价和社区联系。同时，Airbnb在部分地点试点餐食配送、洗衣等新服务，向综合旅行生活平台扩展。此举显示其正借助AI和增值服务寻找新增长点，并提高用户黏性与平台竞争力。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5840",
+      "title": "Warning issued over AI dangers to humanity by former Oxford bishop - Oxford Mail",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV2k0VGlpQnZIYmdwTV8xbkozcFF4WVJOcVcxTXRPcW4tZUNlN0MtSWZma1ZqMERjNEM4U2VXQjVfajNSZnY4Y0Q5ZjFpd3hwUUxpb21nMVhKblpRYUdfQkNybUxIdHVDbGlfZ3BNSnA1cnI4eEhNZTVGZl9TYVBOc0xlY1l6THlqclFrYzFRMThTcXZp?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T11:30:00Z",
+      "summary": "牛津前主教就AI对人类构成的危险发出警告。报道称，他呼吁对AI发展保持伦理审视和审慎监管，警惕技术失控、算法偏见、就业冲击以及人类价值被侵蚀。作为宗教与伦理界人士，其警告强调AI不能脱离道德责任，需要全球合作和公共讨论，确保技术发展以人类福祉为中心，避免因追逐利益而忽视潜在灾难性风险。",
+      "fetchDate": "2026-09-30"
+    },
+    {
       "id": "5799",
       "title": "AI tool that copied actor’s ‘lustrous’ voice violated his rights, says Tokyo court - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVF93OS1qYzhDOHZlcURzdExLUlJyNjNEeEdmaHZkZDNPZGNndjhOQjVyUlBtbnlkcXhQbU1fd0E3YnN5SF9CTnNtTXYzNUFKT0dEWk1ELVJ5dGFKZmlSb21CM3JHZmJNalNCd2FmTVVuQTQzVm9oX1dKNllsWmM3Zkc1M2QxMUJSLVhwQmJiNFkwSFZXc0RHTFQtSm9rdw?oc=5",
@@ -52327,5 +52552,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5814
+  "total": 5839
 }
