@@ -1,6 +1,123 @@
 {
   "articles": [
     {
+      "id": "5784",
+      "title": "Generative AI Development: Building for Production in 2026 - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjlNODBvVWFIZzdZTEJGN2I5ZUxSU3RYczlfQk9pcWxDVkFOV3dzNVpVZng3bUczN1VoQkFSdEJNUlo1eUloU01hYVBUZHhTMjQ3cWhLTURjNjd4WnBVTHl4SDVhSkFKaS1rUURDNWNvemMtSk5QN2ZWcEZLT2pocm11a01GcVpGYTY2SkM2S28wVG5zZjQtbFEyNUNCTmFfdzZoY041dERGX2s?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T07:17:54Z",
+      "summary": "该报道聚焦生成式AI从实验走向生产落地的趋势，指出到2026年企业将更重视可扩展、可靠和可治理的生产级系统。核心议题可能包括模型部署、推理成本、数据与安全合规、评估监控以及与传统软件栈集成。文章强调，生成式AI不再只是概念验证，而需围绕业务场景构建工程化能力，以确保性能、稳定性和投资回报。对开发团队而言，这意味着需要兼顾模型选型、MLOps、风险控制和用户体验，推动AI应用真正进入规模化生产阶段。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5785",
+      "title": "Sam Altman says OpenAI won't go public until its AI models are safe - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaTBKSXBvMy1IZjFrd0R0bWw3Nk5NNmZIeXdmTnRYZmtIeVFFVlFmcXVqMjN3MkFHMlR4SlR4UjNJd0ltek5YMmtOdWhnVVBrUGtVM2JiM2xsajA2SVZkSkxVeXV0bEU2d0l0aDNqRVBzenphUmdnaHctMnBzSERnbTBrZnV0SFJsQ21FdE9SQXFKVGRxdWxnWkJ1QU9JWEdzOGdvdUVmd2VtNnBDd2dxRmE1Q1oycjlaMnduXzRxSS1BTGhXSzB2S3lmYVRFY0V0cDF4TVcyeVNDZ3ZwdUptLV9hd3RMNWtBeGU2Qg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T07:10:54Z",
+      "summary": "OpenAI首席执行官萨姆·奥尔特曼表示，在AI模型达到安全标准之前，OpenAI不会推进上市。该表态将安全性置于资本市场进程之前，反映公司对强大AI系统风险的谨慎态度。报道显示，OpenAI可能认为IPO并非当前优先事项，需先解决模型对齐、滥用防范、监管合规和社会影响等问题。此举也可能影响投资者对其估值和商业化节奏的预期。整体看，奥尔特曼试图强调安全与责任是OpenAI发展的前提，而非为上市牺牲安全。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5786",
+      "title": "How ‘Industry 5.0’ integrates human expertise with artificial intelligence - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbjB3cFphQy02SkhybklfdjdZRVlZZmRfdkFDelViRWhZOTZLalhkaEZsNTI4TUM3aDJGYkcyblV2YmN4ZXJFdDNDdVBVVVZ2cl9wMHc4NXlyVzVRa0RibENlSUdGZlM5Um56TTRpMjBobnZGeGt5VGs3bFhaX3p0NHczMS1yRVVRc1V0bFNMbzd1cmJENFRsWlFCTDR0bmh3LVVnNTY2MnBoUm9oQVNsLUVjdnRjWkktYnlNQ3dScTFLZ0J0VzMzcm42ay1JV1JMRU9GSEVnd19YQmYyaTV2ZkN3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T06:10:39Z",
+      "summary": "南华早报文章讨论“工业5.0”如何将人类专业知识与人工智能结合。与以自动化和效率为核心的工业4.0不同，工业5.0更强调人机协作、以人为本和可持续性，让AI增强而非取代人类判断。报道可能涉及制造业、医疗或服务业场景，通过AI处理数据与重复任务，人类负责复杂决策、创造和伦理判断。该模式有助提升生产力和韧性，同时缓解自动化带来的就业焦虑。核心要点是，未来竞争力来自人与AI的优势互补，而非单纯追求无人化。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5787",
+      "title": "The artificial intelligence (AI) chatbot, which U.S. President Donald Trump proudly introduced for t.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TbjhCQ2lqdXZHbEJ3VHl5b2g5VFQybjNhalNJUDdhNnJWT0VNYjhTLVhYTzltNTRoejVqWVN4TUFTeTl2VmQ0MWlWNzBBSjg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T05:55:22Z",
+      "summary": "据韩国《每日经济》报道，美国总统特朗普曾高调推出的一款人工智能聊天机器人引发关注，但报道片段未披露其具体用途、部署范围及后续效果。结合标题语境，该项目可能用于政府公共传播、政务服务或政治宣传，并因其政治色彩受到舆论审视。报道可能关注该AI聊天机器人在实际运行中的表现、争议或局限。由于信息有限，可确认的是，特朗普政府对AI工具的公开推广已成为其科技政策与政治传播的一部分，也再次引发对AI在公共领域应用的透明度和可靠性讨论。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5788",
+      "title": "The Gyeonggi Credit Guarantee Foundation will introduce an artificial intelligence (AI) chatbot to e.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnQ3k3SEs0M1lzY1cyaFljc1hvQW94NDlsbHFpUFVkeFRXQkdQLWZZQjkzanEzdnZPM0plNWIwSFc1QURIVGVITDVBUGxablpVcVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T05:47:50Z",
+      "summary": "据韩媒报道，京畿信用保证基金会计划引入人工智能聊天机器人，以提升服务效率和用户体验。该机构可能希望借助AI自动应答、业务咨询和流程引导，缓解人工客服压力，并为中小企业和市民提供更便捷的信用担保相关服务。报道标题未披露具体上线时间、技术供应商和功能范围，但显示韩国公共金融机构正加快AI客服落地。此类应用需兼顾数据安全、回答准确性和对弱势群体的可及性，避免自动化造成新的服务障碍。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5789",
+      "title": "Firms training managers for a world that no longer exists, warns CEO - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWhjNXdnaE5TX0dtT1QxVFJNU2dqMkVwWlFRcFVhYjVuNnE3UmE5QlBUWFRqQnFLcGVrNlhEOERod29YNy1FZ1hIc0d0NW5NWUJPR3lwWUJMd0J5QjFLOWtIbXIxUXBPSXlXeVNKUTc5TUJRdnQ5WXFBbTdWSVFUR0pWYVNZVlh1NnFZQmY0c19FcEpHYU5z?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T05:10:22Z",
+      "summary": "有CEO警告称，许多企业仍在用已经消失的旧世界逻辑培训管理者，难以适应AI与快速技术变革带来的新环境。报道指出，传统管理培训强调层级控制、稳定流程和可预测市场，但当前企业面对的是生成式AI、远程协作、业务快速重构和不确定性上升。若管理层只掌握旧技能，可能阻碍组织创新与转型。核心建议是重新设计领导力培养，重视适应性、数据素养、跨职能协作和AI工具运用，让管理者能带领团队在持续变化中决策。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5790",
+      "title": "AI researchers warn of risks from self-improving Artificial Intelligence - WION",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalo3eUtKbWJ4U29CUEhiOXZacmZnM2Vab2NoajVpbDZuTmVyVEtkMkxlNWFLX0xmYjZrczBLUmdTM3BWdk41Qnkzb0dXUnloLTBpckZOamp2UnRlWWh6UkNxbk1OSGQzRXBOclEzcGRacUQ3TlQxTktYeWZLVUUyV3NFTlVTZ3gxN1liRjRtVmdKSi1yaWtxdk9NaUx0MFQ4VHk5UkU5bzFlWjBNb2RjdGlKTVNnOHo10gG-AUFVX3lxTE9FMGJiNEhTN2ZTSmFkb1FnelNwTmFNQm9pN3RJVXN3ZENYMVN1Ynl3Sk41eFBmbDFVQlF4OGhTdGVJS0FmUXRrSENteTQ4enhVVkhNSXd6c2Z5SWpWT3JVM1UzWEZFYkZkQ01IWDBXSjhpOWx0cnZYNWFMVXdzY20tTDZabEVEQ0ZsZ2NkZnJ5bmxQY0dyZlF3SUVreUNkcy16TV9PM19Fek4tbktreXBsRXVNcklfWXB6UlozZ1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T05:05:00Z",
+      "summary": "WION报道，AI研究人员警告自我改进型人工智能可能带来风险。所谓自我改进，指AI系统能够修改自身代码、优化算法或提升能力，从而在较少人类干预下快速迭代。研究人员担忧，若缺乏有效监督，这类系统可能产生不可预测行为、目标偏离或失控风险，并加剧安全与治理难题。报道可能呼吁建立更强的前沿模型评估、可解释性研究、国际监管和技术暂停机制。核心信息是，自我改进AI潜力巨大，但必须在安全框架内推进，避免能力增长快于控制能力。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5791",
+      "title": "Chinese labs are wild cards in AI governance - Breakingviews",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVdNRW8ybTR0V2syOUdwbEs4ZzNXTXJCUVNhb2FOR3l3TEtfcU5FRmJZa0hSWUdjNE0zeFhhN01sb0xhZVBRaWxZQkVGMTEyY2Y1d0h4S0trQm92N2FQV194MmlHS0g1TGNpRkNBOUJSa2ZSemk5Q2RHSW1OT2ZLOFdJMnFxTlN1WC1nc3Q1Qi1pWmoyRUxqTFdONWsweGl6TEVuY3RMejU2eHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T04:44:06Z",
+      "summary": "路透Breakingviews文章认为，中国AI实验室是全球AI治理中的“未知变量”。随着中国大模型能力快速提升，其开源策略、数据使用、安全对齐和监管响应备受关注。报道可能指出，中国实验室在开源模型、成本效率和产业应用上表现活跃，但其治理实践与西方存在差异，给国际规则协调带来挑战。若缺乏透明度和跨境合作，可能加剧技术竞争与安全风险。核心观点是，中国AI力量既可能推动创新，也可能成为治理体系中的不确定因素，需通过对话和标准建设加以引导。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5792",
+      "title": "Trump Signs Executive Order Renaming AI To ‘Super Intelligence’—Here’s What It Changes - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR2MwUzFnSEZ6V2otc1E5ZDlYN0lzV0Q2NDVhWlVKNTJlSzBuYjBpZEdIRVJsdVFnbWlGR0FaS1ZCVE9yZnAwblVaNndhSWlwLVljTE4wZkh6cm14RDhOeHRreFFBcHJJa3BneTJlY080d3hOOXNCbmlKai1rWE9kTEl3ZzhicG5ESFdMT0s1azhHb2lfczRCd1FlWURxTWZjY2IxdXdQUkJMQVlYNm9mSDFhdXFwS2lZYWdrc2Q0dkNmbmM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T04:22:31Z",
+      "summary": "福布斯报道，美国总统特朗普签署行政令，将人工智能正式改称为“超级智能”，并说明这一改名带来的政策变化。报道可能分析该行政令的象征意义与实际影响，包括联邦文件、项目命名、机构表述和资金方向是否随之调整。批评者认为，将当前AI等同于“超级智能”会误导公众、夸大能力，并可能影响监管重点。支持者则可能视其为强调美国在先进AI领域领导地位的政治信号。核心在于，术语变更不只是文字游戏，而可能重塑政策沟通、预算分配和国际竞争叙事。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5793",
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SRXZja0EyT1k3LXlXU1h2ZGRpbmVTajBhLVZSanZ0TjFDN0VpeXRLd1FUMmk3NElHS1g3cW96dnY3cFpiSmFtbXBkcUFfaXlVR3ZYOEZuU2RNc2M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T04:01:52Z",
+      "summary": "特朗普主持了一场围绕“超级智能”（Super Intelligence）的峰会，BBC 总结出三大看点。此次峰会核心是特朗普推动将“人工智能”改称为“超级智能”，并促使科技巨头就AI自律达成某种共识。业界对政府主导的重新命名与监管框架态度不一，有人配合、有人观望。峰会释放的信号显示，美国正试图以更强势的政治话语介入AI治理，但在具体约束机制、责任划分与执行力度上仍缺乏明确细节，实际效果有待观察。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5794",
+      "title": "OpenAI unveils 'always-on' AI agents as company pauses model rollout - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUXRlUDdyRHlBY2dMTnZOdlVVeUllbjVlbGRBMy1pa2Q0YXdaSEZiUTNxVDZfV1JKck5nWE9OQzh6dWF4Nm12WTJfbVhlWHRZMTB0dk1YczQ1c3ZkeWlRVldDZlVFaTdYaWJNc0RTZ0JuNnFucV9YUFJYU1hTck5yUW52Uk9VZWdXdUxhbTlpZWRSaXFMN3Z6elNsa3ZRMmhEZEJGenowWnNDZjVhQmx0WHgyWEswNXV5NjJTV2diTWIwcHQxYmMySk9hd3RrM3NscW13THVpQm1NcE14MS1uNWxLM1dUelR0Z2hr0gHwAUFVX3lxTFBGVTlIZ3lQeG9OTmVUNE1Kb284YXk1U1NTWmFuNGlDckZnMU12c0p1R3JBa21ncWtBaWZINXlYZnVQaEpJb2ZQNU9oZzBKT0hlZmZhMXV4czU5WlU0NFVCYTBJUFRESjJ1UmU0VjV5WjdzSl9FN3NJQTBaSmZmcE9SX1NtcGNPcnhvdXZXcDdWMmNpWWV0UUlQbjQtMjVxQlFWaXdUWGFYbWJMYzdtQWc4V0pGVGJLZlBnLWpqRzlEdHBvZFFlRVI2UDhtX3gzNlFHSmFqRDdleGV0NE8tQUdXMk9IWUFQU2pQT1lUTjRlQg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T03:08:48Z",
+      "summary": "OpenAI 发布名为“dots”的“常驻在线”（always-on）AI智能体，可长期运行并主动执行任务，同时公司宣布推迟原定新模型的发布。此前新模型因安全评估问题被暂缓上线，显示OpenAI在能力扩张与风险控制之间趋于谨慎。“常驻型”智能体意味着AI可长时间自主运行、持续调用工具与外部系统，在提升自动化效率的同时，也带来失控、越权操作等“失控智能体”（rogue agent）风险，安全边界与监控机制成为关键议题。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5795",
+      "title": "OpenAI Wants ChatGPT To Be The App Store For AI As Safety Concerns Grow - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHlZSzdWSExUdDFNemk3ZWhLTXF4dU1qenVlcThpcklyb3hwNVlCMUJURXM4ZUc4VGpDbE01VDlsVXdpdXpHcmEya21nSFJQOTlBa2Joa1lUSVJWYnpFeU1VX0xmZWhhNkNwYkdvWTFaMm05VF9CRGNvbkJkc1UyMmJrWkJBTUVWdFR3SG1ncm44Z1dsQWNacEsyS2Z1RzhZS0pjZzJuS2stV1VMUl9JZzREZzE4MXlOVFVybXJDYUdHa2fSAcsBQVVfeXFMT3htZXN4NEN1NWFUS1JyRHZUYjNUUE11ZnVVRDV1WE5ITHN0QjlzT0V3cDlfZTBsYXpJVktDVGVwemhXbnlmaWhTTlIydTYzQktFUEpvWVJpYjVaVmJrNWg5czF4VlJpY1NNeDRJSzR2RGc3TFBHTzF5aHNFeThWekFjWS1PcHF6R04xaktObWV6b1A1ak04eVFnSVFabDMwLXJIb0lDVmhwWXc4dFJqT1Zwa3lRcHhGMmtxSE44UEV5N0NGRGNJbVotUWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T02:46:58Z",
+      "summary": "OpenAI 正推动 ChatGPT 成为 AI 领域的“应用商店”，让第三方开发者以插件或应用形式接入其生态，从而掌握分发入口与用户流量。与此同时，外界对AI安全的担忧持续上升，包括模型滥用、数据隐私与自主智能体失控等问题。分析认为，若ChatGPT成为事实上的AI应用平台，OpenAI将同时扮演基础设施提供者与规则制定者双重角色，其平台治理、审核标准与安全责任划分将面临更严格的审视。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5796",
+      "title": "Trump Clearly Expects AI Leaders to Go Along With His 'Super Intelligence' Rebrand. Will They? - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM055UHlSWHpFSFF5UGhlanp3amtsUlBjbVJFdUZTeEYxa2NuWkdfTkNqRnc3R1ozUWdSNER2RE0tMXRRdEowaEdsSDh4bDhnd2FGWXJqb3RyWjJZS1V0azV6bGVqZS1paURTNjZGRGtuQ2Rla3l1dllKUDZZT0U3OW5ZRk9sNE5ySGVIRHE0RUNkMEkwMHlibVhDckUyelZHU2tsdHdFZ05heFZzb2hZMC1ucWlkbnotUU9wWWhn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T02:30:38Z",
+      "summary": "针对特朗普将AI重新包装为“超级智能”的举措，Gizmodo 指出，白宫显然期待各大AI公司配合这一改名与叙事。文章质疑科技领袖是否会顺从：一方面，企业需要与政府保持良好关系以争取政策与算力支持；另一方面，过度政治化的品牌叙事可能损害技术公信力，并让企业为政府立场背书。改名本身并不改变技术能力，真正值得关注的是伴随而来的监管取向、行业自律承诺及其可执行性。",
+      "fetchDate": "2026-09-30"
+    },
+    {
       "id": "5763",
       "title": "'AI is like fake news': Trump renames artificial intelligence as 'super intelligence'; here's why - Business Today",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPaVhiRVg4R3VhaXhkV0IyeVpFNXBzQ1hLQVhLLW5GT3dXUzI5ZkVoZXI2LU9xbDVEb2JKbnlLdnFmV0hjWjVjM1R6TmlROHpNaVJlSXYwNjNJZHk2S3Bpbl9teklhem1iRVFJcWVFUGJDV1h2Q2ZBeTRrNW5DUDFFQzNxckxNR2VUYTZQMlcyeGFpWGJCMGwzQUN6Sjl5YmpUOGQzWHNHZ2Jqc2JKRDZPUFdPNTl4VGk1blVkSURwa3BWa1JFYUV3bEsxUU80Y1hYaEZCejVzSmtPeEhMTHluM21PYkpfVndWRGUtbmRXRExyMTJSUzdSbVAwSEYtYmVLa0FLeEx1OWtSUdIBjwJBVV95cUxQSHMxQXBDdFhUTHU2cXR4SThRNXF1QjQtS1dCTzIzNjNsNWI2TC1QRFgxeW92UGVSSWxPU2Fhbnk5cVZ6ak5FSXk5MlFaeGNWSUg4dFNUYjRlZkFPV2N5RlV1MWxVYWFrWk96eVpUcGZfbHk0OUZQcTZ0WjRKM0NVenFNMUdZNFJrQWI3Y1Bob2hCcWNrMnhoMzFuZ1puV09GczU0UDJ1ZTV6Wm1mMmlQUmtScHlWSHVnOURnSTZ6cjFiSGJYamw5N2FQS0lsU0ZFTTJGeGRQQnVDNUhLaWhNdmpnbERTUlo1UnpvUXRuUGRubDFiVkVLb05zRktEbjIzS21qQnhKVVZzUjJEZE5N?oc=5",
@@ -16,6 +133,24 @@
       "source": "Google News AI",
       "publishedAt": "2026-09-30T02:10:10Z",
       "summary": "韩国媒体报道，中国生成式人工智能用户规模已突破7亿，超过全国人口或网民规模的一半，显示生成式AI在中国加速普及。庞大的用户基础为模型迭代、应用创新和商业落地提供数据与场景支撑，也意味着监管、内容安全、算力供给和版权治理压力同步上升。随着聊天助手、办公、搜索、创作等场景渗透，中国正成为全球生成式AI最重要的市场之一，但如何平衡创新与风险仍是关键。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5797",
+      "title": "Sam Altman says IPOs ‘ill-advised’ for AI firms amid rogue agent fears - AFR",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1RhQU5PTUFmUTFmcGZFR1NfWVZHaDhpYmE3TjJQbURiQ0hoQmJ2VnRCT3pMZTYtZnNmdnluNmRmSGlIMEZaNXJqWFJOYzh2clVmMDE4RUpicG16Q1lldFByeGdJMWNiV2xyb3RKUnl6cE5DdF9NdThZU0oyRHh6dEozaXIxbk5WejROZzE5VTRHSW1na1RXU1Fha0tlWWM0UWh4c3hRUUxPdDE3MWNSSlJCODRFdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T01:55:00Z",
+      "summary": "OpenAI CEO 萨姆·奥尔特曼表示，在“失控智能体”（rogue agent）风险令人担忧的背景下，AI公司此时启动IPO是“不明智”的。他认为，上市会带来季度业绩压力，可能迫使企业在安全投入与商业回报之间作出妥协，从而放大模型滥用与自主智能体失控的隐患。此番表态反映头部AI公司对资本化节奏的审慎态度，也凸显行业在高速扩张与安全治理之间的张力，以及公众对AI企业透明度的更高期待。",
+      "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5798",
+      "title": "Trump signs executive order rebranding AI as 'Super Intelligence' as tech titans ink separate SI accord - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFg5YkdNZjdVWDAtTDFqVkkzVGpkRm5GdTRhdkFsbEo3MlpXdVVTejVqYUJ1MGZlMjlZNGJxWjFVWkc1b0pUbjBlZDhETzY4M2FqUENhNk91d3V1dUpMam5Mb2F4bDFoUWdaWC03bmM0SGMzV05qTkVFdlg2YjNFRmdCU2o5XzlyQWhCS2lfMGpHVHlVVlB1REZtQThsYnQyOU9xc3REaDVxMmd1Z0xEaVBvR3VnMEFmOFlJQjNsczdzcFFqOHRMUtIBzgFBVV95cUxNSDRkUjZ0Z0Zrem1RX1NCVG93NWxfdjhhZ2Rqdi1qR3N6djZaVzh1VEhHRVU5MFhtY0hKQ1F5OEFWYnhkYWNBNUVnWHhGcUo1NjR4Y1Yxa0x5SnhYQ05Pck1mRjd3YkhmeEFWMmxpLThtTUxnUjFaelEybVU2dWQwbENROHJRcnJJV2xCOTNpUktYYktlZHczVHZ6dy03VGNKQlBxT1JaTkl2WVFIZG8ycGFoUHhGRGZVX1czeUpDYVd5bHRhZGdJLVFtV1RtUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T01:52:00Z",
+      "summary": "特朗普签署行政命令，正式将人工智能重新定名为“超级智能”（Super Intelligence），与此同时多家科技巨头另行签署了一份与SI相关的协议。行政令更多具有象征与话语塑造意义，旨在重塑公众对AI的认知框架；企业间的独立协议则可能涉及自律标准、安全承诺或合作机制。两者并行的结构显示，美国政府倾向于以政治定调加行业自愿承诺的方式推进AI治理，而非立即出台强制性的监管法规。",
       "fetchDate": "2026-09-30"
     },
     {
@@ -52039,5 +52174,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5782
+  "total": 5797
 }
