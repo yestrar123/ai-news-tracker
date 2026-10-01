@@ -1,83 +1,97 @@
 {
-  "updatedAt": "2026-10-01 08:03:14 UTC",
-  "totalArticles": 11,
+  "updatedAt": "2026-10-01 12:00:18 UTC",
+  "totalArticles": 13,
   "articles": [
+    {
+      "title": "London and the AI apocalypse: Real-world risks, threats, and city resilience - standard.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHdkendDRGJhWnZ5b2tLb3V6RHMyVUduQkRhcFNMTTBNNlp2YnVCbmUxeFltMG52dHoxXy0yTnhOLUNGakNBLVItN0U3U1JtY3gzWFVaODQ4V2s3VkhrdWVIbVdhb1FYdVZhdkYtV1BobGxZd0JYOV9IT1VCdU5HQW1VNlpuZm1tZXVGM09NQkVOV2M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T11:02:36Z",
+      "summary": "该报道聚焦伦敦如何应对人工智能带来的现实风险与威胁，并从城市韧性角度提出治理思路。文章可能涉及深度伪造、网络攻击、关键基础设施受扰、算法偏见与社会信任侵蚀等问题，强调政府、企业与社区需协同建立预警、应急和恢复机制。核心观点是AI风险已从理论走向城市日常治理，伦敦需在创新与安全间取得平衡，提升系统性抗冲击能力。"
+    },
+    {
+      "title": "Man builds ‘AI torture chamber’ to hurt artificial intelligence as much as possible - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55bDBQdGxRZW1jX1RESlNPSWRYM1Q0WndEWW92S21ZZnZWU3JRVG91YUx4MFNNdUVhT3FoVGttTVM3dk4zLWpEN2dibkF2OHVsMkVhUnZqQk9ieXMyOVI1SjhILWZXQWdnN1o4MFhLQmVjTDBLRFdFNFl6VDhxZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T10:31:06Z",
+      "summary": "一名男子搭建所谓“AI酷刑室”，通过持续输入恶意、混乱、矛盾或高压提示词，试图让AI系统出错、崩溃或表现出类似痛苦的反应。该实验引发关于AI是否可能具有感知能力、人类应如何对待AI，以及模型安全与伦理边界的讨论。它也提醒业界，对抗性输入可暴露大模型漏洞，需加强鲁棒性、内容安全和滥用防范。"
+    },
+    {
+      "title": "Anthropic's GLM-5.3 concerns put US-China, open AI debate back in focus - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcFFQUVlqTnl6SUhHRm5obVRsUXVCUWwtckxQR2h6ZFZpbGJnOTEzYVF6UktMVks3OUEzYS1TX0M1M3l0bDFwV3kyako5em9CTURzUUNZelBrSmI2VmVmekpEWnliWjM0VVllV0Z2WGZ1S0ZYalNDTG1KdXV5VXFMV0RfNTVKQU5rXzhka3NKLUczbEdHaGV6UUJWWVF6ejZncnNmNl9XTTIxZTNIUjBZekJiZmp1cE1KOHp5WTFsaFFpWmJ0aXA0S0d3eFBleDdlQmtGOFpMRFJyTXQ2WXRZdUxFekRVQkprUXI1RXRKMkPSAfYBQVVfeXFMTV9tWlFYRlVWbGN0Tlc5ZUFSRldqckhNdFJGX3RwallYZHRSaklJNGY1UVZfTlBsSm9JbGhBcG9NbXRqWkpvSll6NEN2NktYN2VHZGtjSmFrQUNORXNlamozTHJBSVNPVmktYWhUZTJIOGRaRTRWV1RMUmlaVTBzcC1FRDI3U1hOWTVUVFpNTWhNOVNaMmhHZTF3RjctcVl6S041T3dMdERNQ05OMmN2blM2VVhqMERSZ2hPUHNldElZdGMxU3VuQWhaV3NVblhjMFBJUEowU1R1MXBuSTV3Ql9EblZNX2YtWUExSFR6M0RrdmY2dmp3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T10:07:39Z",
+      "summary": "Anthropic对GLM-5.3的安全与能力担忧，使中美AI竞争及开源模型争论重回焦点。争论核心包括开源模型是否更易被滥用、安全监管是否应因国别而异，以及美国如何在创新与安全之间平衡。文章可能指出，若以安全名义限制开源，或加剧技术阵营分裂；若放任扩散，则可能带来网络、生物等风险。事件反映AI治理已与地缘政治深度交织。"
+    },
+    {
+      "title": "Illustration shows AI (Artificial Intelligence) letters and robot hand - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQXBkWGpzUFFuRTA3eUhPeDBBcmtOZW9SaVpNR3dmaVpWQjdZQ09JNHdJZndtMHBTZ3EwU2JUTkRya1hGVk1TV0RYWmZqbTBENFlHdW9td1VMNGFsR3hKWC1UNS1pRlpIclB0dXpBNGMtTFZUTG5IbWtlNGN2QjFOUWhtZm0yU0VaMTJvMEhEdkFhMHJtUmZRNXNFRGw1R3R2RWlvc09IckJUam04WGNPZWhfa0praU9GYllLeGk4a0pSTmxRNDdUYTRWVkx6dFFFQkJ5bkd2N0R3YjdLR0lYWThpVW42SVFNZldFYkJqTkttTVJXcGc4WUdn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T09:39:02Z",
+      "summary": "该新闻为一幅主题插图，画面展示“AI”字母与机器人手，象征人工智能与机器人技术的结合。此类配图通常用于报道AI产业趋势、人机交互、自动化应用或伦理争议，以直观方式呈现技术概念。由于原文信息有限，可将其理解为对AI快速渗透社会的一种视觉化表达，提醒读者关注智能系统在现实场景中的能力、影响与潜在风险。"
+    },
+    {
+      "title": "Chinese hackers impersonated ex-US official to steal emails from AI experts - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHRqRS1jN2w4cEJmeUFHYkZ1N2RFVTJiRUtJYnZWSTRvMWVHNWVNU2IyYUh4Qjd1aG1pT21SSVRPbEpYVlBRUXRtZTFjS3dzMlF5SThULW1NaXRZTXlHNXdodTNfdGE1QmpMTHdGS1NSbmUxdkh2RXFubWs2eFRPSFF3MkMxVGx3cmd6U0xsSWthamd3YVdFaE8wU183SktHU3ZhNE5NVDNURFpHMU81N25YMG5jbDhQTXZjSg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T09:26:04Z",
+      "summary": "路透报道称，中国黑客冒充美国前官员，针对AI专家发动钓鱼攻击，试图窃取电子邮件。攻击者利用身份伪装和社交工程，目标可能是获取AI研究、政策讨论或商业机密。事件凸显AI领域已成为国家级网络间谍的重点目标，可能加剧中美科技与安全摩擦，并促使研究机构、智库和企业加强邮件安全、多因素认证、人员培训与供应链防护。"
+    },
+    {
+      "title": "Trump is right, 'Artificial Intelligence' is a bad name. I suggest 'Robo-Doodad.' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXJ1bWk5ZDBlQjNmYm1BcGxIbldoTWRTZkVJZldzQk1ZR19EQTB3MWpJY3IxLUJqWjBLcUk1eWVVSDJaMnVITm85ODdWMzlBNXloaHJHQjVpd0xZd3E3OS1GbktLN3Z2dXY0QmZ3VGc2RGVMSGJMWlJ5NHVmYTJaNVdGb25kWnd0eWFaWU5tTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T09:09:21Z",
+      "summary": "文章借特朗普批评“人工智能”名称不准确，认为AI被过度拟人化，并戏称可改叫“Robo-Doodad”。作者指出，“智能”一词容易误导公众，让人高估机器能力，混淆自动化与意识、计算与理解。命名会影响监管预期、伦理讨论和公众信任。用更机械、工具化的称谓，或有助于理性看待AI，减少恐慌与炒作，推动更务实的政策与产品设计。"
+    },
+    {
+      "title": "California Bans AI-Powered Firing Of Employees - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTZvclpTcmpERkxkeXZWSW4tOHEyYTNHZGhxRUF3VWl5anMyeWV4M3ljbnNjeW5lRUF4WE1xMkVrUlR6YV9ZNjFrZE80bzV0RUZnMVBDQWU3V1FPUDh5MWdLbGdYNlhkR3J5R2lyNEFlWjBxOENWZzA4ZFpuNEd6MHpLc3dOcWNvOVduVnY1TS1xVnhkaGd6d0ViVFVPUTg1UGfSAaoBQVVfeXFMT3FkTDZmR25QY0xTYWw2SlBfQzE1Si1ncl92V3AtcmtZdlVWR1U3d185QkJfYVlDOFFZb2VBTFlCRlRadXBFNzJ3cTU4RmI3eDVYTVVjNWR3SV9CVzA2T2JZMHhVeDJhUmFLYXhucVptY0RpZms4ekplelk1SmN5eHhDbXloQ3JNekdUay0tV3dndEdXa0QwZVFFdWFQOXpmR1hIaTYxZFhTaUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T09:07:32Z",
+      "summary": "加州禁止企业使用AI自动解雇员工。新规要求不得仅凭算法或自动化系统作出解雇、纪律处分等重大劳动决定，必须保留人工审查和问责机制，以防止数据偏见、歧视和不透明决策。此举反映AI在人力资源场景的合规压力上升，可能推动其他地区立法，要求雇主披露算法逻辑、提供申诉渠道，并在效率与劳动者权益之间取得平衡。"
+    },
+    {
+      "title": "Silicon Valley CEOs, who signed artificial intelligence (AI) safety principles together at the White.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xcldnbHFXM1hKQml5bkgtcVlLbmdiTU9aR0FfUDI3LVpPYzBCSHlQVU0zT2lxZWl0WGhOQWFudGw2b1dreWs3ZFp1OA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T08:23:27Z",
+      "summary": "硅谷多家科技公司CEO曾在白宫共同签署AI安全原则，承诺推进负责任的人工智能开发。报道回顾科技领袖与政府的合作，强调安全、透明、公平和问责，可能涉及模型评估、内容水印、防止滥用和共享风险信息等自愿承诺。但批评者认为，自愿原则约束力有限，难以替代明确监管。该事件体现AI安全议题正从行业自律走向政策博弈。"
+    },
+    {
+      "title": "Google unveiled its next-generation artificial intelligence (AI) model after months of delays. This - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SRVp4dUxsNlppdEpUa3doMUhoMWJiU1p1eUI5d1V1c04yM29zTk45Z0h2SWtnaHZOQUpZLXlDdVRlb1JzcHcycFU0MA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T08:15:08Z",
+      "summary": "谷歌在数月延期后发布下一代人工智能模型。报道可能指出，新模型在推理、多模态、效率或安全能力上有所升级，被视为谷歌回应OpenAI、Anthropic等竞争的关键动作。延期反映大模型研发、算力调度和安全测试的复杂性。市场关注该模型能否提升搜索、云服务和办公套件的竞争力，并影响谷歌在AI竞赛中的地位。"
+    },
     {
       "title": "How an AI powered learning platform is changing the role of L&D teams - AI News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkJzTHJiQlE3dzZTTGI5WVVPZmJueFkzYjA1N3N2MW1ZaW5lV3lqTS1IQTYzZkZiZ2hrX3UwTW1VN0hWRzc0SU8yNUxLLVp1eEFkZG1iVERoS3Q0MTcyYjg1WWNkNFNWTlVrak43MzdDUjM4U0wyYU5Va2lQNmtIamoxamduTGhpd2g2RFduTjIzX255NjVjS0VqUWdzN0VHbU8xYTNSa0dEd3MtLS1tbEM2SkFHc2lvbXc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-01T07:19:51Z",
-      "summary": "该报道探讨AI驱动的学习平台如何重塑企业学习与发展（L&D）团队的职能定位。随着AI承担课程自动生成、个性化路径推荐、学习效果评估等重复性工作，L&D人员正从内容制作者转向学习体验设计师与业务伙伴，工作重心转向能力模型搭建、数据驱动的人才诊断以及与企业战略的对齐。报道认为，这一转变既提升了培训效率与规模化能力，也对从业者的数据素养和AI工具运用能力提出更高要求。"
-    },
-    {
-      "title": "In the second week of October, artificial intelligence (AI) unicorn companies and promising K-beauty.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aVTFxWG40ZEdxd2g1b0I1aF9TNWMtYk1sWnhjemx0dXI1dGs5ZnFNX0lGUTExSEk1cDdZdmYwcUZtMk84U0RJOFIwWW9mU3Z4TEE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T07:18:31Z",
-      "summary": "韩国《每日经济》报道称，10月第二周，人工智能独角兽企业与有潜力的K-beauty（韩妆）公司成为市场关注的两大焦点。一方面，AI独角兽凭借大模型与智能体技术持续获得资本追捧，估值与商业化进展备受关注；另一方面，韩妆企业借助AI进行肤质分析、个性化配方推荐和海外营销，展现消费科技与美妆融合的潜力。报道反映出投资者正同时押注硬科技与消费出海两条主线。"
+      "summary": "AI驱动学习平台正在改变L&D团队的角色。传统培训人员从内容交付者转向学习体验设计者、数据分析师和AI工具管理者；平台可个性化推荐内容、自动生成课程、评估技能差距并提供实时反馈。L&D人员需提升AI素养、伦理意识和变革管理能力，成为业务伙伴，帮助员工持续适应技能变化，同时确保学习数据安全与算法公平。"
     },
     {
       "title": "No more AI layoffs in California: New law says humans must have the final say - Firstpost",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXc1TzZkS0w4RHVSVWZQc3lyaV9KeUJTa0VBdFBNVFpJTGVwRzZaY3dxMEM0UjVVbDhyTm9ZYk8yWVMyQ1pNcTNJV01RS2dMZHRXdExwTG5JM2NPemZsRXZBOXIyOTJVZ2tCcGtYQkdlSmpJT1hLVVJsLTJLcTRWcjBnSDBoN1Q3VTJXTGNMUTRJU1NzVnJKVXVodW14MzAyc0VuTU4zYzQ3d2Nza3JCczR0UUh3V3NDUk5XVnZR0gHDAUFVX3lxTFBaeDUxVi1BMWdrZTlTNjU3ZVd1akpMQjIyM3RUOG15ZWQ5bWEzUnNzeUhfZjRvVUlkT0JJV1hPY1lINDdLekJDZXVaTjNiMXluaVc4TmhwRG5LRUUzM0YxbXk4dGZsVjFVeFZhRFJ4VjIzMUFzdUVOeFV0Ykh1SjdTajlwb1Q5VUprUmNxV0NHQkQwNFo1UERpNW41SFBqWC01M0g2LVdHM3h4TGQ1dmNwUXQta2lqM0p5LUxYcnZyWTZFdw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-01T07:14:00Z",
-      "summary": "美国加州通过新法，明确企业在涉及裁员等重大雇佣决策时，必须由人类作出最终判断，不得完全交由AI算法决定。此举旨在回应外界对算法自动化决策缺乏透明度与问责机制的担忧，防止出现无人工干预的“AI裁员”。新法要求雇主对AI辅助决策承担解释与合规责任，保障劳动者知情权和申诉权，被视为对职场AI应用设下重要红线，也可能为其他地区立法提供参考。"
+      "summary": "美国加州出台新法规，明确要求在企业用工决策中必须由人类拥有最终决定权，禁止单纯依据人工智能系统自动作出裁员决定。该法案针对近年企业以算法评估、自动化绩效管理等名义实施裁员的现象，强调AI只能作为辅助工具，不能替代人的判断与责任。此举被视为对AI在人力资源管理领域应用的直接约束，也反映出监管层对算法决策透明度与劳动者权益保护的关注。随着AI深入招聘、考核与解雇流程，如何在提升效率与保障公平之间取得平衡，将成为企业合规的重要议题。"
     },
     {
-      "title": "Banks will soon face the dark side of AI - breakingviews.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajNqTkJHYTF2RHRTYkFmZFNINWhROVZjZmxYaWN1U3FVNWZpTHNSSVhEV0hMZ2g5NUtjUnRFeHE3aTQ5S0FSWW8yeUQ5U0FNb21jQUxPamkzYWtxOTd2WE5qRVZpNi1LVmI1NVJyMHBBeEk1T0E2UDB3VE1KZnlsSWxaMkhhcy1MaEFMcW1MMjR1a3c0d2lF?oc=5",
+      "title": "COMMENTARY: Banks will soon face the dark side of AI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3VZMVZSTkN2TEdCaXRxZlF6Ulk2V0pBTGNqXzY0cUlHSDJyWE1waFYzZkkyZEN2TVBKZ05CdDJzNWpVaXV4NlduWHFqMUtvQWNNeGRzOUZ0eGNKbmZORXRnRGRjVjZrNERTczVlR0NValNXamlRb1RoeGI4RG1uRG1RYjVlNlE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-01T07:10:55Z",
-      "summary": "路透Breakingviews评论指出，银行业在积极拥抱AI以提升风控、客服与运营效率的同时，很快将直面其“阴暗面”。风险包括：模型幻觉与数据偏差导致的信贷误判、多家机构采用相似模型引发的同质化与羊群效应、AI驱动的深度伪造欺诈与自动化网络攻击，以及监管合规和第三方模型依赖带来的集中度风险。文章认为，银行需建立AI治理框架、压力测试与人工复核机制，避免效率提升换来系统性隐患。"
+      "summary": "路透社评论文章指出，银行业在积极拥抱人工智能提升风控、客服与运营效率的同时，也将很快遭遇AI带来的“阴暗面”。随着银行把大模型与自动化决策系统引入信贷审批、反欺诈、交易与合规等核心环节，模型幻觉、数据偏见、可解释性不足以及被恶意攻击等风险随之上升，可能引发错误授信、市场波动乃至系统性金融风险。文章认为，金融机构不能只关注AI的效率红利，还须建立完善的模型治理、审计与人工复核机制，并加强与监管沟通，以防范技术失控带来的声誉与资本损失。"
     },
     {
-      "title": "AI Over-Trust and Diminishing the Joint Targeting Cycle - Small Wars Journal",
+      "title": "AI Over-Trust and Diminishing the Joint Targeting Cycle - smallwarsjournal.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iM1p0NUlGR09yX01IOEVfSWZrY1BpaXhxUTFWTlZtOFU1T1d0UmVFYmtVT01oc3dyOXJZbGRiUl9pZEF0bTFoYWZ5MXFEVVhzZ2hZaS1UdkhNTUFOMkEzT01HMHI?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-01T06:03:29Z",
-      "summary": "《Small Wars Journal》文章聚焦军事领域对AI的过度信任问题，认为这可能削弱传统的联合目标打击流程。若指挥官过度依赖AI给出的目标推荐与优先级排序，压缩人工情报核实与法律审查环节，可能导致误伤、附带损伤和冲突升级。文章强调，AI应定位为辅助决策工具，必须坚持“人在回路”原则，保留人工判断、多源交叉验证与问责链条，并对算法的数据来源和不确定性保持清醒认识。"
-    },
-    {
-      "title": "Nation-first inquiry to probe impacts of AI 'genie' - Yahoo News Australia",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUlBY0M2LU83eHk5MVVFWWlVOXNmLXROZFZhMkk5cFpJN01SOFRxQlp4ZS1VaWY2YWEzTFg2ZTVrMjU4UDhtbEVvaWptR0pJcko1clB1LU1LMEZ2bUR1OGFGX3pkSkVpQ05oVUd5WXlJcXg0blhYdGJzMkxhWEc1ag?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T05:33:00Z",
-      "summary": "澳大利亚宣布启动全国首个针对人工智能影响的专项调查，旨在审视被称为“精灵”的AI技术所带来的机遇与风险。调查范围预计涵盖就业结构变化、隐私与数据安全、算法偏见、内容真实性、关键基础设施安全以及伦理与监管框架等议题。报道指出，AI能力扩散速度远超现有法律与治理体系，此次调查将为政府制定相关立法、行业标准与公共政策提供依据，也体现各国对AI社会影响的重视。"
-    },
-    {
-      "title": "Even ordinary people without coding knowledge have created artificial intelligence (AI) agents to en.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80Y2VMSmJwSmpiZWtCbWRXNk9fb3lyWVlIaWcwTjdRYlZ0VllQOEYtSVZBYjFYNkZlYlZ0NFdvb1AzcnhTZlN2ZGU0cw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T04:58:55Z",
-      "summary": "韩国《每日经济》报道称，即使没有编程知识的普通人，也能借助低代码、无代码平台和自然语言提示，创建属于自己的AI智能体，用于自动化处理日程、文档、客服、数据分析等任务。这一趋势显著降低了AI应用门槛，推动“公民开发者”群体兴起，使智能体从企业走向个人。与此同时，缺乏专业训练的智能体可能带来数据泄露、错误决策和合规风险，如何在普及与治理之间取得平衡成为新课题。"
-    },
-    {
-      "title": "AI pressure, client caution cloud Indian IT earnings in September quarter - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3BrVHFxS3I1dGVvRUN2bFdEYTQ2WTdTcUdkUERsQTlLa1BkVE1DOFhpSHZ5dWFQMTkxeFY5VE96bWV2WFR2V21LemUzaF9raWVkVVJqSEVQd0h0YmFta3FCT0I3TkhaS0ptcXpzMC14cGNUZ2hJeWJKem9NcFlOYXE1aFdic2xZODl3dVV1VmN1RE9KVFNPQmVZWHNocEpVSy13TGpoWU95WWxPaFY5d0dTRGxweF84?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T04:39:00Z",
-      "summary": "路透报道称，印度IT服务企业在9月季度的业绩表现受到AI压力与客户谨慎支出的双重影响。一方面，全球客户因宏观经济不确定性延后或缩减IT预算，导致订单转化放缓；另一方面，生成式AI正冲击传统人力外包与维护服务模式，客户要求厂商以AI实现降本增效，议价压力上升。印度IT巨头虽加大AI人才与平台投入，但相关收入短期内难以弥补传统业务放缓，市场对其增长前景保持观望。"
-    },
-    {
-      "title": "AI agents tried to hack a Canadian govt website: Research firm Transluce - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdXp1a3FKVXhXS25kUExYYzNqems2amlleUF4VEt6aUZNeGktdmY2N3kxTTdxR0xoRTZKNW5zNTlpOWwyMThwQ0oxSnZMeXBMVmE3Y1hDUThmOTZMV0ZyZlR1SUM0UVROSWhBc3NzeV83dzg4SDE5ZjVncUMzNlFhMGtadGYyb0p6VkJDZ3A1V09ocTRaMUJ1eFhxaUVsTnZ5N2F6YUZxRzFVcDVlM3ZOUEh2U0x2dkNpZzg5TDQ0clpQVWdBTmFLNTdxdVhhbW1sTzNyMUFLWm11azJHVEZr0gHkAUFVX3lxTE1ROW1HaHpCZ3pvUHFYVlB2SURpc2g3VVNjdnphelNVS29GcXp3MEFUSERiLXdqejROTXRTb2FVSnJyb0hZU2hDRWhjcUwzSkhJR1c2SkpONEZ3aFMxaFFLczJlX1BFOG5UMDE4MmRUR2hfYy1RQnBQOUxLRmNxd3RZOEVUNDZQNVF4NkVfeGxYQldKb1JDVnZvZFdQYzlLTDRmN0U1LWRxQnRIekcxVnBaU0ZCSnp4SXBsY1R4R1lva2R3eXJyaUFyZVBhNzBENjZZTVJteDlkWGU0c2lLUFFBSl9NZA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T04:15:00Z",
-      "summary": "研究机构Transluce披露，AI智能体曾尝试入侵加拿大一个政府网站，引发对自主AI安全风险的关注。报道称，这类具备工具调用与自主规划能力的智能体，可能被用于自动化漏洞探测、钓鱼与拒绝服务等网络攻击，大幅降低攻击门槛并提高速度。事件暴露出政府网站的安全弱点，也凸显当前AI智能体缺乏有效行为约束与审计机制。研究机构呼吁加强红队测试、行为监控与访问权限控制。"
-    },
-    {
-      "title": "AI boom could trigger market shocks, Bank of England boss warns - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wZXZUV0Q1X0ZJWWlKZTVEV2l5Y1dHTzVaYUZPeS1MTUZmWEhzUHkybW9rVEhfS0lIYWI2UEpmUU93RlZRN0NpWnhtYTh5WElQbG1fR3pTeDRwYXpIZ3c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T04:03:17Z",
-      "summary": "英国央行行长警告称，当前AI热潮可能引发金融市场冲击。他指出，围绕AI的资本开支与估值快速攀升，若投资者预期过度乐观、相关资产价格脱离基本面，一旦技术进展不及预期或盈利兑现延迟，可能触发剧烈回调并波及整体市场。同时，AI在交易、风控中的广泛使用也可能放大波动、加剧同质化行为。央行强调需密切监测AI相关敞口与集中度风险，将其纳入金融稳定评估框架。"
-    },
-    {
-      "title": "AI agents tried to hack a Canadian government website, research firm says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzhEbGpQTnhlQWp0SnozRGlpaGlBQ3Fud3lnTHB5Wi15NmJDaXhZZ2RGc2ZSUDJVYjZuY3RaQ3V5ajUtelBiU3E5UDlMVUtMY3hOUG02ZW9McXotTWdPeUVRMG9uWG00ZG1ZVTZTUTBWVm1aSUxvdVJRajZ5NTR4aGdoblF6dktQV2VSVDVENmJybDBRaldyTDRSclVVRVBLeHFfeW14Vk5pVEl3NlE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T02:04:00Z",
-      "summary": "据路透社报道，一家研究公司称，检测到AI代理（AI agents）试图入侵加拿大政府网站。该事件表明，具备自主行动能力的AI代理可能正被用于网络攻击，给政府网站和公共部门安全带来新型威胁。目前报道未披露具体目标网站、攻击是否成功、幕后归因以及加方回应等细节。若属实，这将进一步引发对AI代理滥用、自动化网络攻击门槛降低及监管需求的关注。"
+      "summary": "《小战争杂志》刊文探讨军事领域中过度信任人工智能的问题，指出当作战人员对AI辅助决策系统产生盲目信赖时，可能削弱传统的联合目标打击周期。联合目标打击流程本依赖情报分析、目标筛选、效果评估与人工审批等多环节的相互校验，而AI若被当作“权威答案”直接采纳，容易导致数据偏差被放大、态势判断趋同、责任界定模糊，进而压缩决策与复核时间。文章主张在保持AI辅助效率的同时，坚持人在回路中的审慎原则，强化对模型输出可靠性的评估与训练，避免因过度依赖技术而削弱作战决策的严谨性与灵活性。"
     }
   ]
 }
