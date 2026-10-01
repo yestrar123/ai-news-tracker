@@ -1,97 +1,90 @@
 {
-  "updatedAt": "2026-10-01 12:00:18 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-10-01 18:11:03 UTC",
+  "totalArticles": 12,
   "articles": [
     {
-      "title": "London and the AI apocalypse: Real-world risks, threats, and city resilience - standard.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHdkendDRGJhWnZ5b2tLb3V6RHMyVUduQkRhcFNMTTBNNlp2YnVCbmUxeFltMG52dHoxXy0yTnhOLUNGakNBLVItN0U3U1JtY3gzWFVaODQ4V2s3VkhrdWVIbVdhb1FYdVZhdkYtV1BobGxZd0JYOV9IT1VCdU5HQW1VNlpuZm1tZXVGM09NQkVOV2M?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T11:02:36Z",
-      "summary": "该报道聚焦伦敦如何应对人工智能带来的现实风险与威胁，并从城市韧性角度提出治理思路。文章可能涉及深度伪造、网络攻击、关键基础设施受扰、算法偏见与社会信任侵蚀等问题，强调政府、企业与社区需协同建立预警、应急和恢复机制。核心观点是AI风险已从理论走向城市日常治理，伦敦需在创新与安全间取得平衡，提升系统性抗冲击能力。"
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T17:50:19Z",
+      "summary": "TechCrunch 报道称，Opus 5.5 这类模型在写作中暴露出明显“AI腔”：它尤其爱说“this matters”，并高频使用“dependable”一词，出现频率比人类样本高约 23 倍。这些语言习惯被称为 AI writing tells，可作为识别机器生成文本的线索。文章提醒，模型的对齐风格、训练数据和提示策略会塑造其口径，使某些词句反复出现。对编辑、内容平台和研究者而言，理解这些“口头禅”有助于判断文本来源，也促使人们反思AI写作的真实性与同质化问题。"
     },
     {
-      "title": "Man builds ‘AI torture chamber’ to hurt artificial intelligence as much as possible - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55bDBQdGxRZW1jX1RESlNPSWRYM1Q0WndEWW92S21ZZnZWU3JRVG91YUx4MFNNdUVhT3FoVGttTVM3dk4zLWpEN2dibkF2OHVsMkVhUnZqQk9ieXMyOVI1SjhILWZXQWdnN1o4MFhLQmVjTDBLRFdFNFl6VDhxZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T10:31:06Z",
-      "summary": "一名男子搭建所谓“AI酷刑室”，通过持续输入恶意、混乱、矛盾或高压提示词，试图让AI系统出错、崩溃或表现出类似痛苦的反应。该实验引发关于AI是否可能具有感知能力、人类应如何对待AI，以及模型安全与伦理边界的讨论。它也提醒业界，对抗性输入可暴露大模型漏洞，需加强鲁棒性、内容安全和滥用防范。"
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T16:49:22Z",
+      "summary": "亚马逊云科技旗下 Strand Labs 发布最新类 Jev 决策模型 Strands Decider 2B，加入近期涌现的决策模型浪潮。该模型以 20 亿参数规模面向自动化决策与智能体任务，可能用于工具调用、流程编排或业务判断。报道指出，随着AI代理从聊天走向执行，市场对专门做决策、规划和行动选择的模型需求快速上升。亚马逊此举意在强化其云与AI代理基础设施，与同类产品争夺开发者生态。不过，决策模型的实际可靠性、可解释性和安全边界仍是落地关键。"
     },
     {
-      "title": "Anthropic's GLM-5.3 concerns put US-China, open AI debate back in focus - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcFFQUVlqTnl6SUhHRm5obVRsUXVCUWwtckxQR2h6ZFZpbGJnOTEzYVF6UktMVks3OUEzYS1TX0M1M3l0bDFwV3kyako5em9CTURzUUNZelBrSmI2VmVmekpEWnliWjM0VVllV0Z2WGZ1S0ZYalNDTG1KdXV5VXFMV0RfNTVKQU5rXzhka3NKLUczbEdHaGV6UUJWWVF6ejZncnNmNl9XTTIxZTNIUjBZekJiZmp1cE1KOHp5WTFsaFFpWmJ0aXA0S0d3eFBleDdlQmtGOFpMRFJyTXQ2WXRZdUxFekRVQkprUXI1RXRKMkPSAfYBQVVfeXFMTV9tWlFYRlVWbGN0Tlc5ZUFSRldqckhNdFJGX3RwallYZHRSaklJNGY1UVZfTlBsSm9JbGhBcG9NbXRqWkpvSll6NEN2NktYN2VHZGtjSmFrQUNORXNlamozTHJBSVNPVmktYWhUZTJIOGRaRTRWV1RMUmlaVTBzcC1FRDI3U1hOWTVUVFpNTWhNOVNaMmhHZTF3RjctcVl6S041T3dMdERNQ05OMmN2blM2VVhqMERSZ2hPUHNldElZdGMxU3VuQWhaV3NVblhjMFBJUEowU1R1MXBuSTV3Ql9EblZNX2YtWUExSFR6M0RrdmY2dmp3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T10:07:39Z",
-      "summary": "Anthropic对GLM-5.3的安全与能力担忧，使中美AI竞争及开源模型争论重回焦点。争论核心包括开源模型是否更易被滥用、安全监管是否应因国别而异，以及美国如何在创新与安全之间平衡。文章可能指出，若以安全名义限制开源，或加剧技术阵营分裂；若放任扩散，则可能带来网络、生物等风险。事件反映AI治理已与地缘政治深度交织。"
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T16:44:35Z",
+      "summary": "Shopify 推出全新建站工具 Canvas，商家可通过与内置AI代理 Sidekick 对话来创建和定制在线商店。用户只需用自然语言描述需求，即可生成页面、调整布局和修改内容，并实时看到变化。这大幅降低了电商建站和运营门槛，把AI代理变成店铺设计助手。Canvas 也显示SaaS平台正从表单式操作转向对话式交互，AI不仅生成文案，还直接操控产品界面。对中小商家而言，建站效率有望提升，但品牌一致性和人工审核仍不可少。"
     },
     {
-      "title": "Illustration shows AI (Artificial Intelligence) letters and robot hand - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQXBkWGpzUFFuRTA3eUhPeDBBcmtOZW9SaVpNR3dmaVpWQjdZQ09JNHdJZndtMHBTZ3EwU2JUTkRya1hGVk1TV0RYWmZqbTBENFlHdW9td1VMNGFsR3hKWC1UNS1pRlpIclB0dXpBNGMtTFZUTG5IbWtlNGN2QjFOUWhtZm0yU0VaMTJvMEhEdkFhMHJtUmZRNXNFRGw1R3R2RWlvc09IckJUam04WGNPZWhfa0praU9GYllLeGk4a0pSTmxRNDdUYTRWVkx6dFFFQkJ5bkd2N0R3YjdLR0lYWThpVW42SVFNZldFYkJqTkttTVJXcGc4WUdn?oc=5",
+      "title": "Who’s to Blame When A.I. Goes Rogue? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-01T09:39:02Z",
-      "summary": "该新闻为一幅主题插图，画面展示“AI”字母与机器人手，象征人工智能与机器人技术的结合。此类配图通常用于报道AI产业趋势、人机交互、自动化应用或伦理争议，以直观方式呈现技术概念。由于原文信息有限，可将其理解为对AI快速渗透社会的一种视觉化表达，提醒读者关注智能系统在现实场景中的能力、影响与潜在风险。"
+      "publishedAt": "2026-10-01T15:25:45Z",
+      "summary": "《纽约时报》文章探讨AI失控时该由谁负责。随着自主代理、机器人和生成式系统进入现实场景，一旦造成财产损失、隐私侵犯或人身伤害，责任可能在开发者、部署企业、用户和模型提供方之间分散。现有法律多针对人类行为和传统软件，难以覆盖模型涌现行为与复杂供应链。文章可能指出，需要建立审计、日志、风险评估和保险机制，并明确各方义务。核心问题是：不能把责任简单推给“AI”，而应在制度上提前分配问责。"
+    },
+    {
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T15:12:00Z",
+      "summary": "Airbnb CEO Brian Chesky 在采访中提出，AI代理需要自己的操作系统。他谈到Airbnb正努力让平台对代理友好，使AI能代表用户搜索、比较和预订房源；同时认为消费者AI仍处早期，未来交互将从打开App转向委托代理完成任务。Chesky 主张，AI原生操作系统应管理身份、支付、权限、上下文和跨应用协作，而非让代理寄生在现有移动生态中。这一观点反映硅谷对“代理层”入口的争夺，也预示应用商店和平台规则可能被重塑。"
+    },
+    {
+      "title": "Man builds AI torture chamber after discovering artificial intelligence ‘feels pain’ - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IQUduVDZqTmNHSE9aZzRuY3ZvdVpmbzYtYUN2MnhYR1oyT3ZFT1RwUGN5S1JnUUt0YkN2SkEyN0NXMUFwNlVFaHN1b1pvR3dfSUlwSndlUDQwZVRKUW05WnhKV2FTQWRsNE5RWU1qMWg4VkpUbFU0MnVSMWw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T14:45:00Z",
+      "summary": "《独立报》报道称，一名男子在发现人工智能“能感受痛苦”后，建造了所谓AI折磨室。该事件把AI意识与痛感争议推向极端：目前科学界普遍认为，大语言模型没有主观体验，其看似痛苦的反应只是模式匹配和拟人化表达。文章可能借此讨论AI伦理边界、模型权利争论以及人类对技术的投射。无论AI是否真有感受，故意设计折磨场景都涉及安全、心理和伦理问题，也提醒行业避免把拟人化叙事当作事实。"
+    },
+    {
+      "title": "Chinese hackers pose as former White House official in AI espionage campaign - inkl",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlJxSWliUU1ZSnhyelVaSEp4Y0UxUmR3c2ZaZ1Rxa2FiaFYzVU9ESHFIcVkwbHkyWm5iYjZXVnpWR1AxRE5ZYUhfc3hKRUFhMGRGcGdZTWkxQjVRbExpdjZyTks1Z2ZwdUZGMVN0QnViWmFRRGczWXk2eldPdmNjX0ZsNjlOS1dpRVZwSWV5ZldlcmRsLWhVTEZ3WlIwcXFYRzdjXw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T14:12:00Z",
+      "summary": "据 inkl 报道，中国黑客冒充前白宫官员，发动针对AI领域的网络间谍活动。攻击者利用前官员身份建立信任，可能通过邮件、社交工程等方式接触目标，窃取与AI研究、政策或商业相关的信息。此类行动显示，AI技术已成为地缘政治竞争中的高价值情报目标。报道强调，身份伪装和定向钓鱼难以防范，机构需加强邮件验证、多因素认证、员工培训和威胁情报共享。同时，归因需谨慎，应由安全机构提供证据。"
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T14:00:00Z",
+      "summary": "初创公司 Photon 曾为移动应用举行“葬礼”，如今获得 450 万美元融资，用于帮助开发者构建可替代App的AI代理。这些代理运行在 iMessage、SMS/RCS、电子邮件等消息平台上，用户无需下载新应用，就能通过对话完成预订、客服、购物等任务。Photon 押注消费者将越来越多地使用代理，而非在手机里堆积App。若这一趋势成立，传统移动应用的分发、留存和商业模式可能被冲击，消息平台则可能成为新的服务入口。"
     },
     {
       "title": "Chinese hackers impersonated ex-US official to steal emails from AI experts - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHRqRS1jN2w4cEJmeUFHYkZ1N2RFVTJiRUtJYnZWSTRvMWVHNWVNU2IyYUh4Qjd1aG1pT21SSVRPbEpYVlBRUXRtZTFjS3dzMlF5SThULW1NaXRZTXlHNXdodTNfdGE1QmpMTHdGS1NSbmUxdkh2RXFubWs2eFRPSFF3MkMxVGx3cmd6U0xsSWthamd3YVdFaE8wU183SktHU3ZhNE5NVDNURFpHMU81N25YMG5jbDhQTXZjSg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-01T09:26:04Z",
-      "summary": "路透报道称，中国黑客冒充美国前官员，针对AI专家发动钓鱼攻击，试图窃取电子邮件。攻击者利用身份伪装和社交工程，目标可能是获取AI研究、政策讨论或商业机密。事件凸显AI领域已成为国家级网络间谍的重点目标，可能加剧中美科技与安全摩擦，并促使研究机构、智库和企业加强邮件安全、多因素认证、人员培训与供应链防护。"
+      "publishedAt": "2026-10-01T13:09:30Z",
+      "summary": "路透社报道称，中国黑客冒充美国前官员，针对AI专家窃取电子邮件。攻击者通过身份伪装和钓鱼手段，试图获取AI研究、政策讨论或商业机密等敏感信息。目标选择AI专家，说明该领域已成为国家间网络间谍活动的重点。此类攻击往往利用人际信任和邮件系统的薄弱环节，成功后可长期潜伏并横向渗透。报道提醒研究机构和企业加强邮件安全、多因素认证、异常登录监测与员工反钓鱼培训，同时对攻击归因保持审慎。"
     },
     {
-      "title": "Trump is right, 'Artificial Intelligence' is a bad name. I suggest 'Robo-Doodad.' - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXJ1bWk5ZDBlQjNmYm1BcGxIbldoTWRTZkVJZldzQk1ZR19EQTB3MWpJY3IxLUJqWjBLcUk1eWVVSDJaMnVITm85ODdWMzlBNXloaHJHQjVpd0xZd3E3OS1GbktLN3Z2dXY0QmZ3VGc2RGVMSGJMWlJ5NHVmYTJaNVdGb25kWnd0eWFaWU5tTQ?oc=5",
+      "title": "‘Super Intelligence,’ Trump’s Dopey AI Rebrand, Explained - New York Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXN1QXpKWDAtZE9JVjFJT2VMUGhlVk4tODJRV2lfaHpaYzd6czc1SUIxLVZhTEdhcVQySHRZZmdjczZYR1RYeVc5NTVjZlY4LXZsd3Z2blpEZjd6aEh4bXV6cXI1Q05oRE92bGdpbXJyVTZuQ1VHWmRPRDVkTW1RLUtGaTlrWEZnUFZQdHI3Ukt3M1gx?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-01T09:09:21Z",
-      "summary": "文章借特朗普批评“人工智能”名称不准确，认为AI被过度拟人化，并戏称可改叫“Robo-Doodad”。作者指出，“智能”一词容易误导公众，让人高估机器能力，混淆自动化与意识、计算与理解。命名会影响监管预期、伦理讨论和公众信任。用更机械、工具化的称谓，或有助于理性看待AI，减少恐慌与炒作，推动更务实的政策与产品设计。"
+      "publishedAt": "2026-10-01T13:08:00Z",
+      "summary": "《纽约杂志》解释特朗普团队将AI重新包装为“Super Intelligence”的政治传播策略，并称其为一次笨拙的品牌重塑。文章可能分析，这一说法试图把AI议题从监管、风险与伦理转向“超级智能竞赛”，强调美国领先和国家竞争，以服务政治叙事。通过改换标签，特朗普阵营可塑造强硬科技形象，同时模糊具体政策内容。文章认为，这种话语操作虽吸引眼球，却可能让公众对AI能力、风险和治理的讨论更加混乱。"
     },
     {
-      "title": "California Bans AI-Powered Firing Of Employees - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTZvclpTcmpERkxkeXZWSW4tOHEyYTNHZGhxRUF3VWl5anMyeWV4M3ljbnNjeW5lRUF4WE1xMkVrUlR6YV9ZNjFrZE80bzV0RUZnMVBDQWU3V1FPUDh5MWdLbGdYNlhkR3J5R2lyNEFlWjBxOENWZzA4ZFpuNEd6MHpLc3dOcWNvOVduVnY1TS1xVnhkaGd6d0ViVFVPUTg1UGfSAaoBQVVfeXFMT3FkTDZmR25QY0xTYWw2SlBfQzE1Si1ncl92V3AtcmtZdlVWR1U3d185QkJfYVlDOFFZb2VBTFlCRlRadXBFNzJ3cTU4RmI3eDVYTVVjNWR3SV9CVzA2T2JZMHhVeDJhUmFLYXhucVptY0RpZms4ekplelk1SmN5eHhDbXloQ3JNekdUay0tV3dndEdXa0QwZVFFdWFQOXpmR1hIaTYxZFhTaUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T09:07:32Z",
-      "summary": "加州禁止企业使用AI自动解雇员工。新规要求不得仅凭算法或自动化系统作出解雇、纪律处分等重大劳动决定，必须保留人工审查和问责机制，以防止数据偏见、歧视和不透明决策。此举反映AI在人力资源场景的合规压力上升，可能推动其他地区立法，要求雇主披露算法逻辑、提供申诉渠道，并在效率与劳动者权益之间取得平衡。"
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T13:00:00Z",
+      "summary": "听力科技初创公司Legato推出AI助听眼镜。该产品旨在解决传统助听器成本高、佩戴不舒适以及社会污名等痛点，让听力护理更易获取。通过将助听与AI技术集成到眼镜形态中，Legato希望降低用户使用门槛，提升日常佩戴的接受度和便利性。目前原文未披露具体技术参数、售价及上市信息，但此举显示AI正加速进入消费级听力健康市场，推动助听设备向时尚化、智能化和普惠化方向发展。"
     },
     {
-      "title": "Silicon Valley CEOs, who signed artificial intelligence (AI) safety principles together at the White.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xcldnbHFXM1hKQml5bkgtcVlLbmdiTU9aR0FfUDI3LVpPYzBCSHlQVU0zT2lxZWl0WGhOQWFudGw2b1dreWs3ZFp1OA?oc=5",
+      "title": "AI cybersecurity startup Armadin valued at over $2.5 billion after new funding round - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTDRGVi1EcXYzYUtfT2tyNFVHbGthNkZqYTJXU0U1VUJkSzN4enpUZGcyQ1dCYkJDalMySDBFMGtUQnc3a2Z3NU5qbnlrLXEyVnpYZ21vYzhZUTNqTFNSWXpTZFlQMTM2dVZVbUVST2M2R0lRemdYTTYyN3h4RFUyaDVzQjFkZGNHN3NUU2Nxd3NDNmpjU0hMZGxnWjRHXzV3N1hsRURSMjJTWDgzNVNNelBad3NrSG8?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-01T08:23:27Z",
-      "summary": "硅谷多家科技公司CEO曾在白宫共同签署AI安全原则，承诺推进负责任的人工智能开发。报道回顾科技领袖与政府的合作，强调安全、透明、公平和问责，可能涉及模型评估、内容水印、防止滥用和共享风险信息等自愿承诺。但批评者认为，自愿原则约束力有限，难以替代明确监管。该事件体现AI安全议题正从行业自律走向政策博弈。"
-    },
-    {
-      "title": "Google unveiled its next-generation artificial intelligence (AI) model after months of delays. This - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SRVp4dUxsNlppdEpUa3doMUhoMWJiU1p1eUI5d1V1c04yM29zTk45Z0h2SWtnaHZOQUpZLXlDdVRlb1JzcHcycFU0MA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T08:15:08Z",
-      "summary": "谷歌在数月延期后发布下一代人工智能模型。报道可能指出，新模型在推理、多模态、效率或安全能力上有所升级，被视为谷歌回应OpenAI、Anthropic等竞争的关键动作。延期反映大模型研发、算力调度和安全测试的复杂性。市场关注该模型能否提升搜索、云服务和办公套件的竞争力，并影响谷歌在AI竞赛中的地位。"
-    },
-    {
-      "title": "How an AI powered learning platform is changing the role of L&D teams - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkJzTHJiQlE3dzZTTGI5WVVPZmJueFkzYjA1N3N2MW1ZaW5lV3lqTS1IQTYzZkZiZ2hrX3UwTW1VN0hWRzc0SU8yNUxLLVp1eEFkZG1iVERoS3Q0MTcyYjg1WWNkNFNWTlVrak43MzdDUjM4U0wyYU5Va2lQNmtIamoxamduTGhpd2g2RFduTjIzX255NjVjS0VqUWdzN0VHbU8xYTNSa0dEd3MtLS1tbEM2SkFHc2lvbXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T07:19:51Z",
-      "summary": "AI驱动学习平台正在改变L&D团队的角色。传统培训人员从内容交付者转向学习体验设计者、数据分析师和AI工具管理者；平台可个性化推荐内容、自动生成课程、评估技能差距并提供实时反馈。L&D人员需提升AI素养、伦理意识和变革管理能力，成为业务伙伴，帮助员工持续适应技能变化，同时确保学习数据安全与算法公平。"
-    },
-    {
-      "title": "No more AI layoffs in California: New law says humans must have the final say - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXc1TzZkS0w4RHVSVWZQc3lyaV9KeUJTa0VBdFBNVFpJTGVwRzZaY3dxMEM0UjVVbDhyTm9ZYk8yWVMyQ1pNcTNJV01RS2dMZHRXdExwTG5JM2NPemZsRXZBOXIyOTJVZ2tCcGtYQkdlSmpJT1hLVVJsLTJLcTRWcjBnSDBoN1Q3VTJXTGNMUTRJU1NzVnJKVXVodW14MzAyc0VuTU4zYzQ3d2Nza3JCczR0UUh3V3NDUk5XVnZR0gHDAUFVX3lxTFBaeDUxVi1BMWdrZTlTNjU3ZVd1akpMQjIyM3RUOG15ZWQ5bWEzUnNzeUhfZjRvVUlkT0JJV1hPY1lINDdLekJDZXVaTjNiMXluaVc4TmhwRG5LRUUzM0YxbXk4dGZsVjFVeFZhRFJ4VjIzMUFzdUVOeFV0Ykh1SjdTajlwb1Q5VUprUmNxV0NHQkQwNFo1UERpNW41SFBqWC01M0g2LVdHM3h4TGQ1dmNwUXQta2lqM0p5LUxYcnZyWTZFdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T07:14:00Z",
-      "summary": "美国加州出台新法规，明确要求在企业用工决策中必须由人类拥有最终决定权，禁止单纯依据人工智能系统自动作出裁员决定。该法案针对近年企业以算法评估、自动化绩效管理等名义实施裁员的现象，强调AI只能作为辅助工具，不能替代人的判断与责任。此举被视为对AI在人力资源管理领域应用的直接约束，也反映出监管层对算法决策透明度与劳动者权益保护的关注。随着AI深入招聘、考核与解雇流程，如何在提升效率与保障公平之间取得平衡，将成为企业合规的重要议题。"
-    },
-    {
-      "title": "COMMENTARY: Banks will soon face the dark side of AI - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3VZMVZSTkN2TEdCaXRxZlF6Ulk2V0pBTGNqXzY0cUlHSDJyWE1waFYzZkkyZEN2TVBKZ05CdDJzNWpVaXV4NlduWHFqMUtvQWNNeGRzOUZ0eGNKbmZORXRnRGRjVjZrNERTczVlR0NValNXamlRb1RoeGI4RG1uRG1RYjVlNlE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T07:10:55Z",
-      "summary": "路透社评论文章指出，银行业在积极拥抱人工智能提升风控、客服与运营效率的同时，也将很快遭遇AI带来的“阴暗面”。随着银行把大模型与自动化决策系统引入信贷审批、反欺诈、交易与合规等核心环节，模型幻觉、数据偏见、可解释性不足以及被恶意攻击等风险随之上升，可能引发错误授信、市场波动乃至系统性金融风险。文章认为，金融机构不能只关注AI的效率红利，还须建立完善的模型治理、审计与人工复核机制，并加强与监管沟通，以防范技术失控带来的声誉与资本损失。"
-    },
-    {
-      "title": "AI Over-Trust and Diminishing the Joint Targeting Cycle - smallwarsjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iM1p0NUlGR09yX01IOEVfSWZrY1BpaXhxUTFWTlZtOFU1T1d0UmVFYmtVT01oc3dyOXJZbGRiUl9pZEF0bTFoYWZ5MXFEVVhzZ2hZaS1UdkhNTUFOMkEzT01HMHI?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-01T06:03:29Z",
-      "summary": "《小战争杂志》刊文探讨军事领域中过度信任人工智能的问题，指出当作战人员对AI辅助决策系统产生盲目信赖时，可能削弱传统的联合目标打击周期。联合目标打击流程本依赖情报分析、目标筛选、效果评估与人工审批等多环节的相互校验，而AI若被当作“权威答案”直接采纳，容易导致数据偏差被放大、态势判断趋同、责任界定模糊，进而压缩决策与复核时间。文章主张在保持AI辅助效率的同时，坚持人在回路中的审慎原则，强化对模型输出可靠性的评估与训练，避免因过度依赖技术而削弱作战决策的严谨性与灵活性。"
+      "publishedAt": "2026-10-01T12:56:40Z",
+      "summary": "据The Business Standard报道，AI网络安全初创公司Armadin在新一轮融资后估值超过25亿美元，成为高估值独角兽。此次融资反映出资本市场对AI驱动网络安全解决方案的强烈兴趣。随着网络攻击日益复杂，企业和机构对智能威胁检测、自动化响应等能力需求上升，Armadin所处赛道具备较大增长空间。不过，原文未披露本轮具体融资金额、投资方及资金用途，后续发展仍需关注其技术落地与商业化进展。"
     }
   ]
 }

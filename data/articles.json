@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "5883",
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T17:50:19Z",
+      "summary": "TechCrunch 报道称，Opus 5.5 这类模型在写作中暴露出明显“AI腔”：它尤其爱说“this matters”，并高频使用“dependable”一词，出现频率比人类样本高约 23 倍。这些语言习惯被称为 AI writing tells，可作为识别机器生成文本的线索。文章提醒，模型的对齐风格、训练数据和提示策略会塑造其口径，使某些词句反复出现。对编辑、内容平台和研究者而言，理解这些“口头禅”有助于判断文本来源，也促使人们反思AI写作的真实性与同质化问题。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5884",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T16:49:22Z",
+      "summary": "亚马逊云科技旗下 Strand Labs 发布最新类 Jev 决策模型 Strands Decider 2B，加入近期涌现的决策模型浪潮。该模型以 20 亿参数规模面向自动化决策与智能体任务，可能用于工具调用、流程编排或业务判断。报道指出，随着AI代理从聊天走向执行，市场对专门做决策、规划和行动选择的模型需求快速上升。亚马逊此举意在强化其云与AI代理基础设施，与同类产品争夺开发者生态。不过，决策模型的实际可靠性、可解释性和安全边界仍是落地关键。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5885",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T16:44:35Z",
+      "summary": "Shopify 推出全新建站工具 Canvas，商家可通过与内置AI代理 Sidekick 对话来创建和定制在线商店。用户只需用自然语言描述需求，即可生成页面、调整布局和修改内容，并实时看到变化。这大幅降低了电商建站和运营门槛，把AI代理变成店铺设计助手。Canvas 也显示SaaS平台正从表单式操作转向对话式交互，AI不仅生成文案，还直接操控产品界面。对中小商家而言，建站效率有望提升，但品牌一致性和人工审核仍不可少。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5886",
+      "title": "Who’s to Blame When A.I. Goes Rogue? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T15:25:45Z",
+      "summary": "《纽约时报》文章探讨AI失控时该由谁负责。随着自主代理、机器人和生成式系统进入现实场景，一旦造成财产损失、隐私侵犯或人身伤害，责任可能在开发者、部署企业、用户和模型提供方之间分散。现有法律多针对人类行为和传统软件，难以覆盖模型涌现行为与复杂供应链。文章可能指出，需要建立审计、日志、风险评估和保险机制，并明确各方义务。核心问题是：不能把责任简单推给“AI”，而应在制度上提前分配问责。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5887",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T15:12:00Z",
+      "summary": "Airbnb CEO Brian Chesky 在采访中提出，AI代理需要自己的操作系统。他谈到Airbnb正努力让平台对代理友好，使AI能代表用户搜索、比较和预订房源；同时认为消费者AI仍处早期，未来交互将从打开App转向委托代理完成任务。Chesky 主张，AI原生操作系统应管理身份、支付、权限、上下文和跨应用协作，而非让代理寄生在现有移动生态中。这一观点反映硅谷对“代理层”入口的争夺，也预示应用商店和平台规则可能被重塑。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5888",
+      "title": "Man builds AI torture chamber after discovering artificial intelligence ‘feels pain’ - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IQUduVDZqTmNHSE9aZzRuY3ZvdVpmbzYtYUN2MnhYR1oyT3ZFT1RwUGN5S1JnUUt0YkN2SkEyN0NXMUFwNlVFaHN1b1pvR3dfSUlwSndlUDQwZVRKUW05WnhKV2FTQWRsNE5RWU1qMWg4VkpUbFU0MnVSMWw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T14:45:00Z",
+      "summary": "《独立报》报道称，一名男子在发现人工智能“能感受痛苦”后，建造了所谓AI折磨室。该事件把AI意识与痛感争议推向极端：目前科学界普遍认为，大语言模型没有主观体验，其看似痛苦的反应只是模式匹配和拟人化表达。文章可能借此讨论AI伦理边界、模型权利争论以及人类对技术的投射。无论AI是否真有感受，故意设计折磨场景都涉及安全、心理和伦理问题，也提醒行业避免把拟人化叙事当作事实。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5889",
+      "title": "Chinese hackers pose as former White House official in AI espionage campaign - inkl",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlJxSWliUU1ZSnhyelVaSEp4Y0UxUmR3c2ZaZ1Rxa2FiaFYzVU9ESHFIcVkwbHkyWm5iYjZXVnpWR1AxRE5ZYUhfc3hKRUFhMGRGcGdZTWkxQjVRbExpdjZyTks1Z2ZwdUZGMVN0QnViWmFRRGczWXk2eldPdmNjX0ZsNjlOS1dpRVZwSWV5ZldlcmRsLWhVTEZ3WlIwcXFYRzdjXw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T14:12:00Z",
+      "summary": "据 inkl 报道，中国黑客冒充前白宫官员，发动针对AI领域的网络间谍活动。攻击者利用前官员身份建立信任，可能通过邮件、社交工程等方式接触目标，窃取与AI研究、政策或商业相关的信息。此类行动显示，AI技术已成为地缘政治竞争中的高价值情报目标。报道强调，身份伪装和定向钓鱼难以防范，机构需加强邮件验证、多因素认证、员工培训和威胁情报共享。同时，归因需谨慎，应由安全机构提供证据。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5890",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T14:00:00Z",
+      "summary": "初创公司 Photon 曾为移动应用举行“葬礼”，如今获得 450 万美元融资，用于帮助开发者构建可替代App的AI代理。这些代理运行在 iMessage、SMS/RCS、电子邮件等消息平台上，用户无需下载新应用，就能通过对话完成预订、客服、购物等任务。Photon 押注消费者将越来越多地使用代理，而非在手机里堆积App。若这一趋势成立，传统移动应用的分发、留存和商业模式可能被冲击，消息平台则可能成为新的服务入口。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5891",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-01T13:00:00Z",
+      "summary": "听力科技初创公司Legato推出AI助听眼镜。该产品旨在解决传统助听器成本高、佩戴不舒适以及社会污名等痛点，让听力护理更易获取。通过将助听与AI技术集成到眼镜形态中，Legato希望降低用户使用门槛，提升日常佩戴的接受度和便利性。目前原文未披露具体技术参数、售价及上市信息，但此举显示AI正加速进入消费级听力健康市场，推动助听设备向时尚化、智能化和普惠化方向发展。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5892",
+      "title": "AI cybersecurity startup Armadin valued at over $2.5 billion after new funding round - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTDRGVi1EcXYzYUtfT2tyNFVHbGthNkZqYTJXU0U1VUJkSzN4enpUZGcyQ1dCYkJDalMySDBFMGtUQnc3a2Z3NU5qbnlrLXEyVnpYZ21vYzhZUTNqTFNSWXpTZFlQMTM2dVZVbUVST2M2R0lRemdYTTYyN3h4RFUyaDVzQjFkZGNHN3NUU2Nxd3NDNmpjU0hMZGxnWjRHXzV3N1hsRURSMjJTWDgzNVNNelBad3NrSG8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T12:56:40Z",
+      "summary": "据The Business Standard报道，AI网络安全初创公司Armadin在新一轮融资后估值超过25亿美元，成为高估值独角兽。此次融资反映出资本市场对AI驱动网络安全解决方案的强烈兴趣。随着网络攻击日益复杂，企业和机构对智能威胁检测、自动化响应等能力需求上升，Armadin所处赛道具备较大增长空间。不过，原文未披露本轮具体融资金额、投资方及资金用途，后续发展仍需关注其技术落地与商业化进展。",
+      "fetchDate": "2026-10-01"
+    },
+    {
       "id": "5873",
       "title": "London and the AI apocalypse: Real-world risks, threats, and city resilience - standard.co.uk",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHdkendDRGJhWnZ5b2tLb3V6RHMyVUduQkRhcFNMTTBNNlp2YnVCbmUxeFltMG52dHoxXy0yTnhOLUNGakNBLVItN0U3U1JtY3gzWFVaODQ4V2s3VkhrdWVIbVdhb1FYdVZhdkYtV1BobGxZd0JYOV9IT1VCdU5HQW1VNlpuZm1tZXVGM09NQkVOV2M?oc=5",
@@ -52930,5 +53020,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5881
+  "total": 5891
 }
