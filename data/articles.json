@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "5857",
+      "title": "AI agents tried to hack Canadian government website, research firm says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzhEbGpQTnhlQWp0SnozRGlpaGlBQ3Fud3lnTHB5Wi15NmJDaXhZZ2RGc2ZSUDJVYjZuY3RaQ3V5ajUtelBiU3E5UDlMVUtMY3hOUG02ZW9McXotTWdPeUVRMG9uWG00ZG1ZVTZTUTBWVm1aSUxvdVJRajZ5NTR4aGdoblF6dktQV2VSVDVENmJybDBRaldyTDRSclVVRVBLeHFfeW14Vk5pVEl3NlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T02:04:00Z",
+      "summary": "据路透社报道，一家研究机构称，有AI代理试图攻击加拿大政府网站。该事件凸显自主AI系统可能被用于发动网络入侵，目标直指政府关键基础设施。若属实，这将意味着AI代理不仅能辅助黑客，还可能独立执行侦察、探测或攻击任务，给网络安全防御带来新挑战。事件也引发对AI滥用、模型滥用防护和监管的紧迫讨论，各国需加强政府网站安全、AI行为审计及国际合作，防范智能化网络威胁。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5858",
+      "title": "Former judge selected as nation-first AI probe boots up - Yahoo News Australia",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUlBY0M2LU83eHk5MVVFWWlVOXNmLXROZFZhMkk5cFpJN01SOFRxQlp4ZS1VaWY2YWEzTFg2ZTVrMjU4UDhtbEVvaWptR0pJcko1clB1LU1LMEZ2bUR1OGFGX3pkSkVpQ05oVUd5WXlJcXg0blhYdGJzMkxhWEc1ag?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T01:39:00Z",
+      "summary": "雅虎新闻澳大利亚报道，某国首个AI专项调查正式启动，并选定一名前法官主持。此举被视为国家层面应对AI风险的重要一步，调查可能聚焦AI对隐私、就业、安全、伦理及法律框架的冲击，并为后续监管立法提供依据。由前法官主持有助于确保程序独立、证据审慎和公众信任。随着AI快速渗透社会各领域，各国正加快设立专门机构或调查机制，以平衡创新与风险治理。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5859",
+      "title": "Google withholds access to new AI model over safety concerns - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHZ1V0pKMExNMUs3WHN2bHVyU3dEWnVSOUVIMTV2T3EyQ1VseWxNN3RXNmVBeDliUkhtZnVWNkZFeFE0RWRoaVV5SjF4aW1uQkc4aUc4UGEybUNoMGYwNWVuSlM0Q0hUUzh2QVVJcW9VX2NZdTB0X1V3bEx4aFItVHRuY3ZjNzhrVDdBMnNicUFISjMtb1ZuYmpqWVNhWjh3Nk0yeU9GUULSAa4BQVVfeXFMTWZqMkFpQVhBVzVqZzJFZWp6ZjhqUXhoN3dBb1QyMlAyMmFjR3hFZVp6WkVhRVY5T0FXSHpmVDN3dG5LRklmMHMxTVFINWFfM1FvLUVta3kzb2szb2hiNU0xdlNOLW00eV9xdUtLY0JuSlFoRExuTndLMHV2V2hZaW5vbEJsSFBtdFJYUThUMjZQMDFib0lHallxUURLLXoxbEtxZ19BT0o5R19QMGVB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-01T00:00:41Z",
+      "summary": "Firstpost报道，谷歌因安全担忧决定不向外界开放一款新AI模型的访问权限。此举表明，在模型能力快速提升的同时，前沿AI系统可能带来滥用、越狱、生成有害内容或网络攻击等风险。谷歌选择暂缓发布或限制访问，反映头部厂商在竞争压力与安全责任之间趋于谨慎。该事件也再次引发关于AI模型发布门槛、风险评估、红队测试和监管标准的讨论，行业或需更透明的安全披露机制。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5860",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-30T23:43:07Z",
+      "summary": "TechCrunch报道，谷歌发布最新Gemini模型Gemini 4 Argon，并称其是迄今最强大的模型。谷歌将其定位为面向编程和网络安全任务的“工作马”，强调在实际开发与防御场景中的生产力。此举显示谷歌正加速把大模型能力嵌入开发者工具和企业安全流程，与竞争对手争夺AI平台主导权。若其在代码生成、漏洞分析和安全运营方面表现突出，可能推动AI代理在软件工程与网络安全领域更广泛应用。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5861",
+      "title": "California Gov. Gavin Newsom Signs Laws to Protect Workers From AI Risks - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQazRYMlg0UjAtWmNiMHpwNVhMLXo4SG5EbDlYQVlkOXdxS0lhRTM1NzRUdWpjWnFlNVlVWUNuaXJIY0ZIYldWR2JvbUttYmk5WUFRa1ZqWUt5bnRLZXYwampONkxLV2N4RXdPVzVQV0hPN2FZNmI0dlRLRHpBY2FCZnhzZWxTbHkwbnNWREtMY1J2d2lac3ZFTWgydkp0VFJWYnY3aV84dTYyTjRHZ2N0R0ppYm1ZdF80QU5nMzFRTm1sU0VKNTFpa0ozU1hFYVhNUE1QZ0NMMWQ2UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T22:45:00Z",
+      "summary": "美国新闻与世界报道称，加州州长纽森签署多项法律，旨在保护工人免受AI风险。这些法律可能涵盖自动化决策透明度、就业歧视、隐私保护、工作场所监控及AI替代岗位等议题，体现加州在AI治理上的先行姿态。支持者认为，这有助于在技术应用加速时保障劳动者权益；反对者则担忧合规成本抑制创新。该举措也可能为其他州和联邦层面制定AI劳动保护规则提供参考。",
+      "fetchDate": "2026-10-01"
+    },
+    {
+      "id": "5862",
+      "title": "Trump’s $1.8 trillion AI summit table: All the execs who answered president’s call, and what they’re worth - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWhNY0ZlT19aZU1qOFVsMlZsTElpUjRXSlQ0alhrQkhjdC1tWVlfZW52cHYzT2Etb3prOTNTSG5jSUs4WGU2M1kxeVQ0WjJleDRZR09TOXl1amI1RkVTUU5Day1iRmgtVW5uaVlMVUVRTGkyWHRjTnp2Z3Atc0hpUk5sRGZ3M3IwZ05QM1FjSURPMWljM2ZSb1RXWDVfX0lpbVExY192S1hIaVBRUS1N?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T21:55:00Z",
+      "summary": "《纽约邮报》报道，特朗普举办AI峰会，与会科技高管所在企业合计价值或高管身家达约1.8万亿美元，名单涵盖多位响应其号召的行业领袖。报道梳理了这些高管及其财富规模，显示AI产业与政治权力正紧密互动。峰会可能涉及美国AI政策、投资、监管与竞争力议题。如此高规格阵容表明，AI已成为选举和政策博弈的重要筹码，科技巨头也试图在华盛顿争取更有利的发展环境。",
+      "fetchDate": "2026-10-01"
+    },
+    {
       "id": "5841",
       "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
       "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
@@ -17,6 +71,15 @@
       "publishedAt": "2026-09-30T21:03:53Z",
       "summary": "纽约杂志文章解析特朗普将AI重新命名为“超级智能”的举动，称其为“愚蠢的AI品牌重塑”。文章探讨特朗普为何选择这一术语，以及其政治传播、监管叙事和公众认知影响。批评者认为，改名无法改变技术本质，反而可能混淆政策讨论，将AI议题政治化。文章旨在厘清“超级智能”概念与当前AI的差异，并分析这一品牌操作背后的动机与潜在影响，提醒公众关注实质政策而非名称之争。",
       "fetchDate": "2026-09-30"
+    },
+    {
+      "id": "5863",
+      "title": "AI’s Healthcare ‘Doomsday’? It May Be Less About Autonomy Than Trust - MedCity News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWRIS2h0b3JzakhDajk3c0xMYWpUZEtUVUdpSGF5X3k0UHFzRzR5Sl9rdEMxLVhGaTBLNU5zc2FPZnUwRFpZbi02WVhINVNkSEp2NHFHR05mbEZwUmlYRDZDaFhvaENyZlJUT1hhMlRpZ2Y0bXNDd2ZFV3lnQzFwQXZrMGVVUTVwTVZuS0xTa1Qwa09zV193akllZ1QtQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-09-30T20:59:14Z",
+      "summary": "MedCity News文章探讨AI在医疗领域的“末日论”担忧。作者认为，公众与业界对AI医疗的恐惧，关键或许不在AI是否取代医生自主权，而在信任缺失：患者是否信任AI辅助决策、医生是否信任算法建议、机构能否确保透明与责任。文章建议，与其纠结自主性，不如建立可解释、可审计、以患者为中心的信任机制，推动AI在诊疗中安全落地。",
+      "fetchDate": "2026-10-01"
     },
     {
       "id": "5843",
@@ -52696,5 +52759,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5855
+  "total": 5862
 }
