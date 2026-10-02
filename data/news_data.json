@@ -1,97 +1,132 @@
 {
-  "updatedAt": "2026-10-02 16:59:17 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-10-02 21:33:07 UTC",
+  "totalArticles": 18,
   "articles": [
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-02T21:09:14Z",
+      "summary": "据TechCrunch报道，Sean Parker正围绕音乐业务重建Stability AI。他曾因Napster深刻影响音乐产业，如今则带着唱片公司的支持与资金回归。此举显示Stability AI可能在AI音乐生成、版权合作和商业模式上重新定位，试图在生成式AI与音乐产业之间建立更合规、可持续的合作关系。"
+    },
+    {
+      "title": "Trump expected to name intelligence chief Jay Clayton as new AI czar - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHVmTy1fekRMMGxhQzBCRk1kY3BtVzA2QXg2Vk9SUG5oZVE4bTJYNXFDcllzdlJ2NDE2bWJqUTBYbW8tT3V6WmFGdWtuRjZqYTZyUzh3SWRBbU1BcW1VU0lLbzUybkJLbnQyb1FYNVc2LThXT2tQMFU3dWkyUVhIU2ZwaTJCWUNfaVhhX3RvczdwYnc0VE8tdUkxZ0tEaUNYSzZGcmZrYk5qbmZEUlVlTG5xcW50em8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T21:04:28Z",
+      "summary": "《华盛顿邮报》报道，特朗普预计将任命情报主管Jay Clayton为新任“AI沙皇”。该职位通常负责跨部门协调人工智能政策，平衡创新、监管与国家安全。若任命落地，Clayton可能主导美国AI战略、产业竞争及安全审查，但具体职责和权限仍待官方确认。该消息也反映特朗普政府正强化对AI政策的集中领导。"
+    },
+    {
+      "title": "Even Pope Leo now has a stance on artificial intelligence - PhillyVoice",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EV3NQSzBNMnBPbTl4bnRjNW1xZWE0bHJnUnNXdjltZlNzY3dKQ01FNW1JTjQ5amxvWnN0UHF2M1RZUWhldG03dTZoR182dFJKSjRQbm1URjNZbi1KS1FDSS04S0s5YWFfRGFfcER0YncyNzN5Tmk4VFM1WVo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T19:59:55Z",
+      "summary": "PhillyVoice报道称，教皇利奥也就人工智能表达立场，显示AI伦理议题进一步进入宗教与公共道德讨论。其表态预计围绕人的尊严、隐私、就业冲击、虚假信息与算法责任展开，强调技术发展不能脱离伦理约束。尽管原文细节有限，但可看出宗教领袖正试图回应AI对社会、劳动和人类价值的深层影响。"
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Make a Big Move in October (Hint: It’s Not Micron) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFpwQng5aGE4VmZfd2o5NDhhRlNrT1lvaXFndWxzUEQ1YkZKXzZVckE3UzNrRXRPRjNTMXBwdkhjU2tueFFVQkRncHc0ZVJ1VFRiZmFmZnYtQjF6eUxEalJHTnR3dHREcnc2LWQwTkxDWjZfNERtY0RLOW0ySVI5dTYtZnhFT2F4UmctRXFiWXJ0dnJJMWNRTmgxMmQ3c09hR25sdkNDekF4VUdVckp2TEY3clpzYmNmYmZWdldoeGsyclBscHRzZHU3ZlpSSGtsVnMtVnMyRDA5WktXY1Z4WXAxOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T19:32:20Z",
+      "summary": "《Motley Fool》预测，一只AI芯片股将在10月出现大幅波动，并提示标的不是美光。文章可能基于财报预期、AI算力需求、数据中心资本开支或估值变化作出判断。此类预测通常关注芯片公司在AI热潮中的订单、产能与利润率，但未点名使不确定性较高；投资者仍需结合基本面和市场风险审慎看待。"
+    },
+    {
+      "title": "Trump to appoint Jay Clayton as AI czar: report - KVII",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlZrU3ZscGVNYWoyZzFxRGszWnRhZDdMRTBBM1NKQXg1MktUODNTSWdlQUhyUXVUcmdxM3gxYmZ1T2p1emlWZEY4bWN0b3Fza05OT1prU0hMMVNIN2R4Y2psRG5xa0xNcjlGT2ZGRW9HXzFlOVBzMDc2a3RUd3ZzUFJlUTg5T1d2WlpMSUZsX1R1SjUwVWVrSzNRbjBZUGtEblFUWUF4Z0k1Tkk3d0M2bDdfR00?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T19:17:16Z",
+      "summary": "据KVII等媒体报道，特朗普计划任命Jay Clayton担任美国“AI沙皇”。这一角色预计负责协调白宫、监管机构与产业界的人工智能政策，涉及创新促进、安全治理和国际竞争。多家媒体同时报道，说明该人事安排受到关注。若成行，Clayton将在美国AI战略制定与跨部门执行中扮演关键枢纽，但具体职权仍有待明确。"
+    },
+    {
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-02T19:15:51Z",
+      "summary": "TechCrunch Disrupt 2026推出优惠活动：受裁员影响者可花75美元购买Expo+通行证，限量前100名符合条件者。该通行证面向求职与职业拓展，提供接触创业公司、投资人和行业人士的机会。对AI从业者而言，这类活动可用于了解招聘趋势、建立人脉并寻找新机会，但需注意资格限制和名额有限。"
+    },
+    {
+      "title": "OpenAI alerts 100+ groups to unauthorized AI agent activity - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iNTFjSGVoLUhHaVhxYUFfMnRuUDVZaWZsamQtMDFjQ1BYQy1MSmw3b1NGVk5lbjdFYTV3XzRTLTVrZkhSemVCSHZzaXhqWm1fNlIyUllZaXp3NXprRnZUZGROVmttNThhdmh4dUF1dmdQZ2tjTVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T19:11:23Z",
+      "summary": "BetaNews报道，OpenAI向100多个组织发出警报，称发现未经授权的AI代理活动。这可能涉及AI代理被滥用、越权访问系统或自动化操作绕过安全边界。事件凸显AI代理在获得工具调用和系统权限后带来的新安全风险，企业需加强身份验证、权限最小化、行为审计和异常监控，防止代理被劫持或滥用。"
+    },
     {
       "title": "Judge warns AI could stunt lawyers' training and harm their clients - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaW9VTzR5bkJYdmJGams3elZMa3hyaXRmOHJVN05BWnZ6VjNRcGlRM243SGwtWGhMeFlIX05haGhqZkFQeXJYcEpYMjdjazJTdmpHVVNsOFItNWxKd1pyenZ1SDVydnRORUZxNkR0TkJhN1YxeG9XSEY4cy1PMUh2Q1Zmd2VuMExUNWZkQ3l4R0hKbXBmVnJOMUpydGRrbnd1d0ZMdFQyWmN3cHlCV1dmYXI3S01iQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-02T16:21:43Z",
-      "summary": "一位法官警告，人工智能在法律行业的快速应用可能削弱律师培训体系并损害客户利益。若律所过度依赖AI完成检索、文书起草和初步分析，初级律师将缺少必要的实务训练，难以形成独立判断与职业伦理意识。一旦AI输出错误或遗漏关键信息，最终风险可能转嫁给客户，影响案件质量与司法公正。因此，法律行业应在提升效率的同时保留人工审核、导师指导和渐进式培养机制，明确责任边界，确保技术不替代专业判断。"
+      "publishedAt": "2026-10-02T19:06:52Z",
+      "summary": "路透社报道，一名法官警告AI可能阻碍律师训练，并最终损害客户利益。若初级律师过度依赖AI完成法律研究、写作和推理，可能削弱其独立分析和判断能力。法官可能呼吁律所与法院规范AI使用，在提升效率的同时保留必要的学习与监督环节。该表态反映司法界对AI进入法律职业后，专业能力传承与伦理风险的担忧。"
     },
     {
-      "title": "Trillium Labs Promotes Transparency in Artificial Intelligence Research - Nacionale",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-02T18:11:27Z",
+      "summary": "苹果表示，由于AI代理带来新风险，将收紧macOS的“完全磁盘访问”权限控制。随着AI代理能力增强，若获得广泛文件、信息、邮件和浏览历史访问权，可能造成隐私泄露或误操作。苹果计划增加更细粒度授权与管理机制，要求用户明确知情并控制访问范围，体现平台在AI自动化与系统安全之间加强防护。"
+    },
+    {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-02T17:56:00Z",
+      "summary": "TechCrunch指出，尽管白宫召集扎克伯格、贝索斯、马斯克、Dario Amodei等科技CEO签署AI安全承诺，特朗普还签署行政令将AI改称“超级智能”，Meta和OpenAI也在塑造更友好的产品形象，但消费者真正采用或付费的比例仅约2%。这说明行业炒作、政策热度和大众实际需求之间存在明显落差，AI商业化仍需证明价值。"
+    },
+    {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-02T17:48:16Z",
+      "summary": "白宫本周召集扎克伯格、贝索斯、马斯克以及Anthropic的达里奥·阿莫代伊等主要科技公司CEO，共同签署一份AI安全承诺，特朗普称其具有“道德约束力”。特朗普同时签署行政令，正式将AI更名为“超级智能”。与此同时，Meta与OpenAI正为自家AI产品塑造更友好的形象。此举显示美国在AI治理上既强调安全承诺，又通过话语重塑抢占叙事主导权，而企业则在监管压力与商业化之间寻求平衡。"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-02T17:32:05Z",
+      "summary": "据TechCrunch报道，黑石集团的Jas Khaira将出席2026年TechCrunch Disrupt大会的Builders Stage，围绕“如何打造下一代AI巨头”分享观点。作为顶级投资机构代表，其发言预计将涉及AI领域的资本布局、创业公司成长路径与规模化机会。该消息同时附带大会通行证注册及第二张半价优惠信息。目前披露内容有限，更多议程细节有待官方进一步公布。"
+    },
+    {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-02T17:00:00Z",
+      "summary": "Circuit Breaker Labs致力于让AI对儿童和成人更安全。在人们热议AI潜在的生存风险时，往往忽略它已经对部分人造成了心理伤害。为此，该团队开发了类似“碰撞测试假人”的机制，用于在真实使用场景中评估并暴露AI的心理安全风险，推动产品在设计阶段就降低伤害。这一思路把安全测试从抽象原则转向可复现的标准化评测，为面向未成年人的AI应用提供了可借鉴的安全范式。"
+    },
+    {
+      "title": "Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients - 2 Minute Medicine",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMUc0NWhSWE1JMWVBRk5SNk5UWDNrNzRpSVZVaXRlb0hYUFNncnFkdm92OGhOX3JGY3RXUGtJdGQxT0Y4d2N3NUV3U0h2WjdfZGV0RGdZYUxEeXVtSnF5RGlMay1EQmtrM2ZENEJSaUhmTVp0T3NFbndtZVBnallGeTRKZEliVjV3WTItdWRKc3VsR0Mxa3JOR2tWSW1LdlF6dm8yWkxVdnpvZWg0WlN4YS1yWUJJeWlZZnhHM1lIY2hLcW1hY21OUlRBSWl0aWthY1JfNkRpazRTZDBjUEhLaU9GU0FyLWM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T16:55:19Z",
+      "summary": "一项研究显示，由人工智能触发的快速反应通知与住院患者死亡率降低相关。该系统通过持续监测病房数据，自动识别病情恶化风险并向医护团队发出预警，从而缩短干预延迟、提升抢救时效。这表明AI在临床场景中的价值不仅体现在影像诊断，也体现在实时监护与流程优化上。不过相关结论仍需更多前瞻性研究验证，并需关注误报率、警报疲劳及与现有工作流的整合问题。"
+    },
+    {
+      "title": "‘Artificial’ or ‘super’? When it comes to digital intelligence, it’s all in the name. - The Week",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpcng4S2NYX29wNTltTWp5Y0xtZUZfeUVlQ2F4RWhlc3M1UGtGaktpblZkTHU1S2VKek9iZDVicjhiRi16Wl9YNjVSZW5IVl9lUm5tSmpxNWJIMlhRaDZPaDdMa2FIejNsb3ZWWnBEdE1jcnd4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T16:48:21Z",
+      "summary": "《The Week》刊文讨论数字智能的命名之争：究竟该叫“人工”智能还是“超级”智能。文章指出，名称并非中性标签，而会影响公众认知、监管态度与产业预期。称“人工”强调其工具属性与人为可控，称“超级”则暗示超越人类的能力与潜在风险。白宫近期将AI改称“超级智能”，正是话语权争夺的体现。命名的变化可能放大恐慌或助推炒作，因此需要更审慎、准确的表述。"
+    },
+    {
+      "title": "Trillium Labs Promotes Transparency in Artificial Intelligence Research - nacionale.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWNObVNtcXk1Q1JUb1RPWlZLTXVkVzhOUzB6NVdjVDRSTkMwU0Jvc2YzLWtGc2pIYWtLekZnTkQ5SkNobHRyLVRyaW5wTDVSb1hsSklOOHp3RFRQVjE0ZjFqQ1g3NGRkZEtqa1ZPOTVrZTNmZWl1dlpTalNVYUlMS1lGNFllc3V5S19JZU10dTRJZw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-02T16:20:44Z",
-      "summary": "Trillium Labs正在推动人工智能研究的透明度，强调AI开发与应用应更加开放、可解释和可追责。该机构可能倡导公开模型信息、数据来源、训练方法和评估结果，以便研究者、监管者和公众理解AI系统如何工作、存在哪些局限与风险。透明度有助于减少黑箱问题、降低偏见与滥用风险，并增强社会信任。随着AI能力快速提升，研究透明、可复现和伦理审查正成为行业治理的重要议题，Trillium Labs的倡议反映了这一趋势。"
+      "summary": "据nacionale.com报道，Trillium Labs正推动人工智能研究领域的透明度建设。该机构主张在模型训练、数据来源、评测方法与结果发布等环节保持公开可查，以便研究者、监管者与公众更好理解AI系统的能力与局限。在模型日益庞大、训练细节趋于封闭的背景下，透明度被视为建立信任、复现结果和开展独立审计的前提。此举呼应了业界对可解释性与负责任AI的持续呼吁，但具体机制与实施范围尚待更多信息。"
     },
     {
-      "title": "Microsoft recommends data controls for government AI adoption - AI News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczB3ckF0bzdIdmpYX3h4cFduRlFHRzdQM1lHRkg5ZUJfYkhzTXZ2aFhENjEwb0lOSHdiY1B4UXhmakVLcE95cTNtcXRNaXJlTjBUSnB5VUh1T2Q3T0xGNFJMZVpVQU1pUGxxTlZRS0laTmU0QVFSN0w5aEh0TnJNWUI4b3hPQ3k0MGFHNk10MEc2b3JKRGFaLVpNNEJldl9waXRfYm9nTEdJdHpacnpNUA?oc=5",
+      "title": "While the U.S. debates AI risks, China mandates universal training for students - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaEo2SkVQNGc5ZVp1MEtOX2tXTWppZUtFT1VVSmhkWGxMT0lGRU5RYmJRbm9mbjhzTkxGcVg4RFExVXJmUmlMLVk1RlZkLUl3Z3JxYmhTOTNXRG1teDZnOG9mSlNES1FOMGdjWmV4UllqX243TWlxdlUyNXRvalJiMm1kbElFRmZiem8xRWZvOHFVa1phVUZmOHplNF9KNjBBQkxBa09ydVpGTHpa?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-02T16:09:50Z",
-      "summary": "微软建议各国政府在采用人工智能时强化数据控制与治理。政府AI项目常涉及公民隐私、公共安全和敏感信息，因此需要明确数据分类、访问权限、加密、审计和跨境流动规则，确保数据使用合法合规。微软可能主张通过主权云、隐私增强技术和责任AI框架，帮助公共部门在提升服务效率的同时降低泄露与滥用风险。该建议显示，政府AI落地的关键不仅是模型能力，更在于建立可信的数据治理体系与公众监督机制。"
+      "publishedAt": "2026-10-02T16:00:00Z",
+      "summary": "《华盛顿邮报》报道，在美国仍就AI风险与监管路径争论不休之际，中国已要求将AI培训纳入学生必修内容，实现普遍覆盖。这一对比凸显两国在AI战略上的不同侧重：美方更多聚焦安全、伦理与潜在危害的辩论，中方则强调从基础教育阶段推进AI素养普及，为未来产业储备人才。此举可能加快AI技能在年轻群体中的扩散，并影响全球人才竞争格局。相关课程内容、师资配置与实施效果仍有待观察。"
     },
     {
       "title": "Pope Leo XIV is not a fan of AI-generated art",
       "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-02T15:39:41Z",
-      "summary": "教皇利奥十四世公开表达对AI生成艺术的不认同。他指出，艺术与机器基于他人数百万张图像进行统计计算所生成的内容之间存在本体论差异，这种差异甚至先于美学层面。教皇强调，算法缺乏人类独有的火花，无法真正拥有创作意图、情感体验与灵魂表达。此番言论加入了对生成式AI艺术版权、原创性和人类创造力价值的争论，也提醒人们：技术可以模仿风格，却难以替代艺术背后的人性、经验与精神内涵。"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T15:00:00Z",
-      "summary": "TechCrunch Disrupt 2026宣布，黑石集团的Jas Khaira将登上Builders Stage，分享如何打造下一代人工智能巨头。作为投资机构代表，他可能从资本配置、企业规模化、并购整合和全球市场扩张等角度，分析AI创业公司成长为行业领导者的关键路径。该议程面向创始人、投资者和科技高管，探讨AI竞争格局下的战略选择。活动同时推出通行证优惠，购买一张可半价获得第二张，以吸引更多参与者。"
-    },
-    {
-      "title": "Artificial intelligence is fueling a new battle over US healthcare costs - Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1JKUFVJZ1NNTzg5UUFDMzdtRnhpN3dtWElKdUIwN1BaRW9ZblJDWGJpaWxfZ2piazhWZFJJT0hjSE1YVzEyek8xTk54MUU3M2dqNjl2cXc0c2xMNFJ2MGJHRWRLZTRkZ1NvRDBaUTNoVjhUMmdKSnJtSGNISHdRbU4tR09mYURqTTlQdnVKWVpZeklUQ3U0a2pEMHZfLV9DWTZ0VmtPRGhGNkQ0RWp1Z3FZQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-02T14:36:26Z",
-      "summary": "人工智能正在引发美国医疗成本的新一轮争论。支持者认为，AI可提升诊断效率、优化医院运营、减少行政浪费，从而降低整体开支；批评者则担心，AI工具采购、维护和合规成本高昂，还可能被用于抬高收费、扩大不必要的服务或形成算法定价合谋。围绕医保报销、价格透明、数据权利和患者公平，各方博弈加剧。如何在鼓励创新与控制成本之间取得平衡，成为美国医疗政策与AI监管的重要挑战。"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T14:30:00Z",
-      "summary": "TechCrunch Disrupt 2026将邀请Clay联合创始人兼CEO Kareem Amin登上AI Stage，讨论GTM工程师的崛起。所谓GTM engineer，是兼具市场进入策略、数据工程和AI工具能力的新兴角色，负责搭建自动化流程、整合客户数据、优化销售与营销触达，从而提升增长效率。随着生成式AI和智能代理进入企业运营，传统市场团队与工程团队的边界正在模糊。该议题将帮助创始人理解AI时代增长组织的新分工与人才需求，活动还提供第二张通行证半价优惠。"
-    },
-    {
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T14:00:00Z",
-      "summary": "TechCrunch Disrupt 2026进入展位预订最后24小时。活动将于10月13日至15日在旧金山Moscone West举行，预计吸引超过一万名创始人、投资者、运营者和科技领袖到场，寻找值得关注的公司、产品和创意。对初创企业而言，这是集中接触潜在客户、投资人和合作伙伴的高效渠道。主办方提醒，若错过截止时间，将失去在大会现场展示品牌的机会；问题在于，这些科技领袖是否会在人群中找到你的初创公司。"
-    },
-    {
-      "title": "Trump’s Super Intelligence edict supercharges .si domain registrations - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbldKbnJ3Tm83blh3UlkxbC1oYXhGN2E3a3Y5YjhSNnhRUXB6YkR4emROTVVXbFhBaHRfMUZ3bUhhNnRIb0F3ZFNKS2tIM1ZvZ0hCSWdzQmFieG16ZndYaXdCWXAzN2RXa2wxRk9QWWRBV2RKdXp2VUdUMEV5Uk5qc3I0SXlpMkJpd3I4aWp6cjlEdkQ0MkxCLVZSdFFNam52Xy16UlRUZnRwRC1sWXdxdWcwWWkxdHZEWlM4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-02T13:10:35Z",
-      "summary": "特朗普签署或推动的“超级智能”相关指令，意外带动了.si域名注册量激增。.si原本是斯洛文尼亚的国家顶级域名，但因与“super intelligence”缩写一致，被不少AI项目、研究者和投资者视为与超级智能概念绑定的标识。政策信号可能强化了市场对前沿AI和通用人工智能的关注，促使企业提前注册域名以保护品牌、布局网站或进行投机。该现象显示，AI政策与公共话语不仅能影响技术投资，也能迅速波及域名市场等外围生态。"
-    },
-    {
-      "title": "This ETF Has Quietly Become One of the Best Ways to Invest in Artificial Intelligence - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGtFUTRJX0NVcDdGNkJiV2lmVGsyZUZkZ2RXVTQzc2JTaWNuNFJNS0JSRXRWT29wVFhwbmxUcU1oNWNMQ1oxWXJIc3dpajllNDRydmx2SDIxS1kyMWxLRjVLNU5semEzLTNlM2dtNkFLakhGVlhlMzdjSW01bWdIOUZaNWU1Wk5Ia0xWVDJR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-02T11:40:59Z",
-      "summary": "有分析指出，某只ETF已悄然成为投资人工智能的最佳方式之一。该基金可能通过持有一篮子AI相关企业，覆盖芯片、云计算、数据中心、软件平台和终端应用等环节，帮助投资者分散单一个股风险，同时分享AI产业增长红利。相比押注某家明星公司，ETF策略更稳健，但也需关注持仓集中度、估值水平、费率和行业周期波动。随着AI资本开支持续扩张，此类产品正吸引希望广泛布局AI主题的长期投资者。"
-    },
-    {
-      "title": "Politics Home | There Is Too Much Westminster \"Doomerism\" About Artificial Intelligence, Says AI Minister - Politics Home",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGJFVktTQk5LbXY2V09Pd2VrTXJ2Y3V2eFdqdWtrZzM5VFBaeWY5cUkwVklfc3FpV2lHTnN2LVZBQzQxTlNITHZsMDdISndGWWZuVjl6Q1B1cXJjbDZGS1puaE14WGNQREZPNUdDdGJBRFgtMmdrVXY2NEY0ZHJPaVFHeFVxdDBHWGdUbjlRV1daLXdYVmlySnNlajcyd1l1NnM4NWp0SS1JNHFNSklrQVpJaWRxR0U?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-02T11:17:40Z",
-      "summary": "英国人工智能事务部长对威斯敏斯特日益弥漫的AI“末日论”提出批评，认为过度渲染生存风险与负面叙事，可能削弱公众信心、压抑创新和投资。他强调，政策讨论应在安全监管与技术机遇之间取得平衡，既重视伦理、版权和滥用风险，也避免因恐慌而错失AI在公共服务、生产力和经济增长方面的潜力。政府需推动负责任采用，建立清晰规则，同时鼓励企业和社会积极探索。"
-    },
-    {
-      "title": "How Meta stumbled onto a winning AI strategy - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmsxX1BuZEY1RGRrTDhkMjFSRFZsRjlkbTFqVDdHRlowdFFFYlpVRC16WGNEZEZCRmV4Z05wWF9zcnh0UEtna2t1R2dMcG5YSzR5b3daRC0zMzNGMFlsX1VfUUJMQ1p2dGpYTlpTa2dtM0lDUjNRZkljZlBhd2paU2Y2NXRMSXhhRm9ELUstdkdtVFVHNTd3LXN2OA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-02T11:05:14Z",
-      "summary": "Computerworld分析指出，Meta并非一开始就拥有清晰制胜的AI战略，而是在竞争压力、试错和产品需求中逐步找到方向。其路径可能包括加大算力与模型研发投入、借助开源策略吸引开发者、利用社交平台海量数据，并将AI嵌入广告、推荐、内容生成等核心业务，形成技术与商业化闭环。这种“跌撞式”成功说明，AI竞争不仅取决于单点模型能力，更取决于生态、分发渠道和持续迭代能力。"
-    },
-    {
-      "title": "Chicago artists call for action in rally against AI-generated music: ‘We don’t need it’ - Chicago Tribune",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVAwQTF2SEF2ZkY3dV9lQTN2em9HMzlORG9kRjBDdWpLcnVzWThYZDJDNW9ndGlIcVY5NW5URUtIbTY1dmdiT2p5TWhaUkxXanRzaW9OMnBWNmdGRjBWaDVpTTBsNC1GdG1KYTg0VTdTNExKRFZLc2RmRTR3TGh4ZA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-02T11:00:37Z",
-      "summary": "芝加哥艺术家举行集会，抗议AI生成音乐，并呼吁政策制定者、平台和行业采取行动。他们认为，AI音乐可能未经授权使用人类作品进行训练，侵蚀原创音乐人的版权与收入，也削弱音乐创作的人文价值和社会意义。活动组织者强调“我们不需要它”，要求保障艺术家权益、提高生成式AI透明度，并建立更公平的补偿与授权机制。这反映出创意产业对AI冲击就业、伦理和创作生态的普遍焦虑。"
+      "summary": "教宗良十四世公开表达对AI生成艺术的反对。他指出，艺术与机器基于他人创作的数百万张图像、通过统计计算生成的内容之间，存在“本体论上的差异，甚至先于美学差异”，并强调“算法缺乏人性中的那一簇火花”。此番言论延续了宗教界对AI取代人类创造力的担忧，也为AI与艺术关系的讨论提供了伦理视角。在生成式模型广泛用于绘画、音乐与写作的当下，如何界定原创性与人类创作价值，正成为亟待回应的议题。"
     }
   ]
 }
