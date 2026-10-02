@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "5915",
+      "title": "Judge warns AI could stunt lawyers' training and harm their clients - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaW9VTzR5bkJYdmJGams3elZMa3hyaXRmOHJVN05BWnZ6VjNRcGlRM243SGwtWGhMeFlIX05haGhqZkFQeXJYcEpYMjdjazJTdmpHVVNsOFItNWxKd1pyenZ1SDVydnRORUZxNkR0TkJhN1YxeG9XSEY4cy1PMUh2Q1Zmd2VuMExUNWZkQ3l4R0hKbXBmVnJOMUpydGRrbnd1d0ZMdFQyWmN3cHlCV1dmYXI3S01iQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T16:21:43Z",
+      "summary": "一位法官警告，人工智能在法律行业的快速应用可能削弱律师培训体系并损害客户利益。若律所过度依赖AI完成检索、文书起草和初步分析，初级律师将缺少必要的实务训练，难以形成独立判断与职业伦理意识。一旦AI输出错误或遗漏关键信息，最终风险可能转嫁给客户，影响案件质量与司法公正。因此，法律行业应在提升效率的同时保留人工审核、导师指导和渐进式培养机制，明确责任边界，确保技术不替代专业判断。",
+      "fetchDate": "2026-10-02"
+    },
+    {
+      "id": "5916",
+      "title": "Trillium Labs Promotes Transparency in Artificial Intelligence Research - Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWNObVNtcXk1Q1JUb1RPWlZLTXVkVzhOUzB6NVdjVDRSTkMwU0Jvc2YzLWtGc2pIYWtLekZnTkQ5SkNobHRyLVRyaW5wTDVSb1hsSklOOHp3RFRQVjE0ZjFqQ1g3NGRkZEtqa1ZPOTVrZTNmZWl1dlpTalNVYUlMS1lGNFllc3V5S19JZU10dTRJZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T16:20:44Z",
+      "summary": "Trillium Labs正在推动人工智能研究的透明度，强调AI开发与应用应更加开放、可解释和可追责。该机构可能倡导公开模型信息、数据来源、训练方法和评估结果，以便研究者、监管者和公众理解AI系统如何工作、存在哪些局限与风险。透明度有助于减少黑箱问题、降低偏见与滥用风险，并增强社会信任。随着AI能力快速提升，研究透明、可复现和伦理审查正成为行业治理的重要议题，Trillium Labs的倡议反映了这一趋势。",
+      "fetchDate": "2026-10-02"
+    },
+    {
+      "id": "5917",
+      "title": "Microsoft recommends data controls for government AI adoption - AI News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczB3ckF0bzdIdmpYX3h4cFduRlFHRzdQM1lHRkg5ZUJfYkhzTXZ2aFhENjEwb0lOSHdiY1B4UXhmakVLcE95cTNtcXRNaXJlTjBUSnB5VUh1T2Q3T0xGNFJMZVpVQU1pUGxxTlZRS0laTmU0QVFSN0w5aEh0TnJNWUI4b3hPQ3k0MGFHNk10MEc2b3JKRGFaLVpNNEJldl9waXRfYm9nTEdJdHpacnpNUA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T16:09:50Z",
+      "summary": "微软建议各国政府在采用人工智能时强化数据控制与治理。政府AI项目常涉及公民隐私、公共安全和敏感信息，因此需要明确数据分类、访问权限、加密、审计和跨境流动规则，确保数据使用合法合规。微软可能主张通过主权云、隐私增强技术和责任AI框架，帮助公共部门在提升服务效率的同时降低泄露与滥用风险。该建议显示，政府AI落地的关键不仅是模型能力，更在于建立可信的数据治理体系与公众监督机制。",
+      "fetchDate": "2026-10-02"
+    },
+    {
+      "id": "5918",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-02T15:39:41Z",
+      "summary": "教皇利奥十四世公开表达对AI生成艺术的不认同。他指出，艺术与机器基于他人数百万张图像进行统计计算所生成的内容之间存在本体论差异，这种差异甚至先于美学层面。教皇强调，算法缺乏人类独有的火花，无法真正拥有创作意图、情感体验与灵魂表达。此番言论加入了对生成式AI艺术版权、原创性和人类创造力价值的争论，也提醒人们：技术可以模仿风格，却难以替代艺术背后的人性、经验与精神内涵。",
+      "fetchDate": "2026-10-02"
+    },
+    {
+      "id": "5919",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-02T15:00:00Z",
+      "summary": "TechCrunch Disrupt 2026宣布，黑石集团的Jas Khaira将登上Builders Stage，分享如何打造下一代人工智能巨头。作为投资机构代表，他可能从资本配置、企业规模化、并购整合和全球市场扩张等角度，分析AI创业公司成长为行业领导者的关键路径。该议程面向创始人、投资者和科技高管，探讨AI竞争格局下的战略选择。活动同时推出通行证优惠，购买一张可半价获得第二张，以吸引更多参与者。",
+      "fetchDate": "2026-10-02"
+    },
+    {
+      "id": "5920",
+      "title": "Artificial intelligence is fueling a new battle over US healthcare costs - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1JKUFVJZ1NNTzg5UUFDMzdtRnhpN3dtWElKdUIwN1BaRW9ZblJDWGJpaWxfZ2piazhWZFJJT0hjSE1YVzEyek8xTk54MUU3M2dqNjl2cXc0c2xMNFJ2MGJHRWRLZTRkZ1NvRDBaUTNoVjhUMmdKSnJtSGNISHdRbU4tR09mYURqTTlQdnVKWVpZeklUQ3U0a2pEMHZfLV9DWTZ0VmtPRGhGNkQ0RWp1Z3FZQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T14:36:26Z",
+      "summary": "人工智能正在引发美国医疗成本的新一轮争论。支持者认为，AI可提升诊断效率、优化医院运营、减少行政浪费，从而降低整体开支；批评者则担心，AI工具采购、维护和合规成本高昂，还可能被用于抬高收费、扩大不必要的服务或形成算法定价合谋。围绕医保报销、价格透明、数据权利和患者公平，各方博弈加剧。如何在鼓励创新与控制成本之间取得平衡，成为美国医疗政策与AI监管的重要挑战。",
+      "fetchDate": "2026-10-02"
+    },
+    {
+      "id": "5921",
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-02T14:30:00Z",
+      "summary": "TechCrunch Disrupt 2026将邀请Clay联合创始人兼CEO Kareem Amin登上AI Stage，讨论GTM工程师的崛起。所谓GTM engineer，是兼具市场进入策略、数据工程和AI工具能力的新兴角色，负责搭建自动化流程、整合客户数据、优化销售与营销触达，从而提升增长效率。随着生成式AI和智能代理进入企业运营，传统市场团队与工程团队的边界正在模糊。该议题将帮助创始人理解AI时代增长组织的新分工与人才需求，活动还提供第二张通行证半价优惠。",
+      "fetchDate": "2026-10-02"
+    },
+    {
+      "id": "5922",
+      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-02T14:00:00Z",
+      "summary": "TechCrunch Disrupt 2026进入展位预订最后24小时。活动将于10月13日至15日在旧金山Moscone West举行，预计吸引超过一万名创始人、投资者、运营者和科技领袖到场，寻找值得关注的公司、产品和创意。对初创企业而言，这是集中接触潜在客户、投资人和合作伙伴的高效渠道。主办方提醒，若错过截止时间，将失去在大会现场展示品牌的机会；问题在于，这些科技领袖是否会在人群中找到你的初创公司。",
+      "fetchDate": "2026-10-02"
+    },
+    {
+      "id": "5923",
+      "title": "Trump’s Super Intelligence edict supercharges .si domain registrations - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbldKbnJ3Tm83blh3UlkxbC1oYXhGN2E3a3Y5YjhSNnhRUXB6YkR4emROTVVXbFhBaHRfMUZ3bUhhNnRIb0F3ZFNKS2tIM1ZvZ0hCSWdzQmFieG16ZndYaXdCWXAzN2RXa2wxRk9QWWRBV2RKdXp2VUdUMEV5Uk5qc3I0SXlpMkJpd3I4aWp6cjlEdkQ0MkxCLVZSdFFNam52Xy16UlRUZnRwRC1sWXdxdWcwWWkxdHZEWlM4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T13:10:35Z",
+      "summary": "特朗普签署或推动的“超级智能”相关指令，意外带动了.si域名注册量激增。.si原本是斯洛文尼亚的国家顶级域名，但因与“super intelligence”缩写一致，被不少AI项目、研究者和投资者视为与超级智能概念绑定的标识。政策信号可能强化了市场对前沿AI和通用人工智能的关注，促使企业提前注册域名以保护品牌、布局网站或进行投机。该现象显示，AI政策与公共话语不仅能影响技术投资，也能迅速波及域名市场等外围生态。",
+      "fetchDate": "2026-10-02"
+    },
+    {
+      "id": "5924",
+      "title": "This ETF Has Quietly Become One of the Best Ways to Invest in Artificial Intelligence - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGtFUTRJX0NVcDdGNkJiV2lmVGsyZUZkZ2RXVTQzc2JTaWNuNFJNS0JSRXRWT29wVFhwbmxUcU1oNWNMQ1oxWXJIc3dpajllNDRydmx2SDIxS1kyMWxLRjVLNU5semEzLTNlM2dtNkFLakhGVlhlMzdjSW01bWdIOUZaNWU1Wk5Ia0xWVDJR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T11:40:59Z",
+      "summary": "有分析指出，某只ETF已悄然成为投资人工智能的最佳方式之一。该基金可能通过持有一篮子AI相关企业，覆盖芯片、云计算、数据中心、软件平台和终端应用等环节，帮助投资者分散单一个股风险，同时分享AI产业增长红利。相比押注某家明星公司，ETF策略更稳健，但也需关注持仓集中度、估值水平、费率和行业周期波动。随着AI资本开支持续扩张，此类产品正吸引希望广泛布局AI主题的长期投资者。",
+      "fetchDate": "2026-10-02"
+    },
+    {
+      "id": "5925",
+      "title": "How Meta stumbled onto a winning AI strategy - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmsxX1BuZEY1RGRrTDhkMjFSRFZsRjlkbTFqVDdHRlowdFFFYlpVRC16WGNEZEZCRmV4Z05wWF9zcnh0UEtna2t1R2dMcG5YSzR5b3daRC0zMzNGMFlsX1VfUUJMQ1p2dGpYTlpTa2dtM0lDUjNRZkljZlBhd2paU2Y2NXRMSXhhRm9ELUstdkdtVFVHNTd3LXN2OA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T11:05:14Z",
+      "summary": "Computerworld分析指出，Meta并非一开始就拥有清晰制胜的AI战略，而是在竞争压力、试错和产品需求中逐步找到方向。其路径可能包括加大算力与模型研发投入、借助开源策略吸引开发者、利用社交平台海量数据，并将AI嵌入广告、推荐、内容生成等核心业务，形成技术与商业化闭环。这种“跌撞式”成功说明，AI竞争不仅取决于单点模型能力，更取决于生态、分发渠道和持续迭代能力。",
+      "fetchDate": "2026-10-02"
+    },
+    {
       "id": "5904",
       "title": "Politics Home | There Is Too Much Westminster \"Doomerism\" About Artificial Intelligence, Says AI Minister - Politics Home",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGJFVktTQk5LbXY2V09Pd2VrTXJ2Y3V2eFdqdWtrZzM5VFBaeWY5cUkwVklfc3FpV2lHTnN2LVZBQzQxTlNITHZsMDdISndGWWZuVjl6Q1B1cXJjbDZGS1puaE14WGNQREZPNUdDdGJBRFgtMmdrVXY2NEY0ZHJPaVFHeFVxdDBHWGdUbjlRV1daLXdYVmlySnNlajcyd1l1NnM4NWp0SS1JNHFNSklrQVpJaWRxR0U?oc=5",
@@ -53218,5 +53317,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5913
+  "total": 5924
 }
