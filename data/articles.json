@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "5956",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-03T18:43:57Z",
+      "summary": "针对外界对数据中心日益加剧的质疑，亚马逊作出回应。亚马逊云服务（AWS）CEO公开驳斥了围绕数据中心的广泛猜疑，并宣布公司已不再使用保密协议（NDA）。此前，数据中心在能耗、水资源消耗及社区影响等方面引发争议，部分公众与地方政府对其扩张持怀疑态度。亚马逊此举意在缓和舆论压力，提升透明度与公众信任。不过，其回应是否足以平息争议，仍有待观察。",
+      "fetchDate": "2026-10-03"
+    },
+    {
+      "id": "5957",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-03T16:30:01Z",
+      "summary": "OpenAI一名从事安全工作的员工David Robinson宣布辞职，并直言公司“文化已破裂”。他坦承自己像是个“老套的典型”——在领先AI公司任职，却在离职时发出严厉警告。这一表态折射出AI行业内部在安全与商业利益之间的深层张力。随着大模型能力快速提升，安全团队的声音与公司发展节奏之间的矛盾愈发突出，Robinson的离职也为外界审视OpenAI治理与文化提供了新的切入点。",
+      "fetchDate": "2026-10-03"
+    },
+    {
       "id": "5949",
       "title": "OpenAI safety employee quits, warns AI firms aren't doing enough on risks - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTkJlQzBLV2d4RTdmSXlhT0lUV1hBYm53a2NxT2xJck9oaURZYjNsMWptM21YTGUzeHN5RkNFUlpzclNrUUh4Zjk0b0tWTGxmdWp0NHo4cWhVUWVmZVAzMVRLcGkwNG8yeGo3Ym5Sd05sdWQ2aVg3eG10MExxTmU5TVBsdlM2Z2ZaOVl2dUNVdlBxMENBYU9GQjNkVGc5b3ljdDV5cnBWZFdJYW5rS0dMSTNPV0R2YkZiRTdaUHlFeWdBS3Njcl94NnNyYjFxaHJZMFN2dXBDX05wcjJaSXAtVWpnbi16YlRvelo3bWt1YlprNGvSAfgBQVVfeXFMTkg2aGluakVaU1VWdXVkamtXaG53dVdLZEtOMHExWkVValNRZEJucVpSVnAzakJPeVFLdXJkU3R0MjhBSmk0c2FGVlBhdG9PVTgwSTFPeks3SWtTT3I3bjZDN1Z4MkNRN2w4dlA4MG9nRGotWF9YMjhHbkVtcWtvNzhPZ3RzQjJUOEY1NDZLWFlmUHVZYkJJMXZBSl95cEZqWWZkWWNnb3pTdEtHOTBFRjRPTjlmUkhiTkpyWTVLRHJ5bDJKY2lDRGpkQmpRUm83dVVnc1hMVlBOZkJ2b2dKNDVXUGdJR01zUlUxWnQ1QV9JbWhVOERPRGI?oc=5",
@@ -53587,5 +53605,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5954
+  "total": 5956
 }
