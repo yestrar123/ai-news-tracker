@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "5949",
+      "title": "OpenAI safety employee quits, warns AI firms aren't doing enough on risks - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTkJlQzBLV2d4RTdmSXlhT0lUV1hBYm53a2NxT2xJck9oaURZYjNsMWptM21YTGUzeHN5RkNFUlpzclNrUUh4Zjk0b0tWTGxmdWp0NHo4cWhVUWVmZVAzMVRLcGkwNG8yeGo3Ym5Sd05sdWQ2aVg3eG10MExxTmU5TVBsdlM2Z2ZaOVl2dUNVdlBxMENBYU9GQjNkVGc5b3ljdDV5cnBWZFdJYW5rS0dMSTNPV0R2YkZiRTdaUHlFeWdBS3Njcl94NnNyYjFxaHJZMFN2dXBDX05wcjJaSXAtVWpnbi16YlRvelo3bWt1YlprNGvSAfgBQVVfeXFMTkg2aGluakVaU1VWdXVkamtXaG53dVdLZEtOMHExWkVValNRZEJucVpSVnAzakJPeVFLdXJkU3R0MjhBSmk0c2FGVlBhdG9PVTgwSTFPeks3SWtTT3I3bjZDN1Z4MkNRN2w4dlA4MG9nRGotWF9YMjhHbkVtcWtvNzhPZ3RzQjJUOEY1NDZLWFlmUHVZYkJJMXZBSl95cEZqWWZkWWNnb3pTdEtHOTBFRjRPTjlmUkhiTkpyWTVLRHJ5bDJKY2lDRGpkQmpRUm83dVVnc1hMVlBOZkJ2b2dKNDVXUGdJR01zUlUxWnQ1QV9JbWhVOERPRGI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T14:52:38Z",
+      "summary": "OpenAI一名负责安全事务的员工宣布离职，并公开警告当前AI公司在风险防控方面投入不足。事件再次凸显人工智能行业在加速商业化的同时，安全治理、模型评估与外部监督可能滞后。该员工的核心担忧在于，前沿模型能力快速提升，但企业未能充分应对滥用、失控、偏见与系统性风险。若缺乏更严格的透明度、独立审计和发布前审查，行业信任与监管压力都将上升。未来AI公司需在创新与安全之间建立更可验证的平衡。",
+      "fetchDate": "2026-10-03"
+    },
+    {
+      "id": "5950",
+      "title": "California’s new laws target workers’ biggest fear of AI taking their jobs - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWFTSzc4eHl6b3FkNVAzbm1hSG13VlYzTHlTMTFlWFNsRHBLMndPSldyT2JnaGJCTVh1S2FMaW1mV1BPRkJLRnFSOUlncXAtV0FDTEtOUG9fUHFLd0piN2ZxMXBhRURidUdMZlBidl9EXzYtemwtMXI1SnA1OW1yRjJRM0twcjYyVGFCckFwNXg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T14:02:00Z",
+      "summary": "加州通过新一轮法律，直接回应劳动者对AI取代岗位的普遍焦虑。相关立法可能要求企业披露自动化决策对就业的影响，并为受影响员工提供再培训、转岗支持或失业保障，同时强化对算法招聘和解雇的监管。这反映出政策制定者正试图在鼓励AI创新与保护劳动者权益之间取得平衡。若执行有效，加州或为其他地区提供参考；但企业也可能面临合规成本上升和用工策略调整。整体看，AI对就业的冲击正从讨论进入立法实践。",
+      "fetchDate": "2026-10-03"
+    },
+    {
+      "id": "5951",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-03T14:00:00Z",
+      "summary": "TechCrunch盘点了可直接运行在短信中的AI代理，覆盖通用助手以及面向家庭、旅行和工作场景的专用代理。这类产品以短信为交互入口，用户无需下载新应用，即可通过自然语言让AI安排日程、处理出行、协调家庭事务或辅助工作任务。其优势是低门槛、高触达和贴近日常通讯习惯，但也带来隐私、数据安全、平台依赖和上下文连续性等挑战。随着AI代理从独立应用走向消息窗口，短信可能成为智能助手普及的重要渠道。",
+      "fetchDate": "2026-10-03"
+    },
+    {
+      "id": "5952",
+      "title": "Artificial Intelligence: Which jobs are going to be replaced by AI? Which age group will be exposed the mo - economictimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOcU81YWRVcGM2UXhaX2hNU2dHUTVZazBHSFVLcmUzOXo1cHJKNXRlckxLeUNRazFjdWRyRjNaeTFLUVdzcXhfdzRDd1VBRXdJWHNFQXpXY3J5T1BWRkVRYWpBcjN1OHV4REFoRFBScEZ5LWhabnBIS01XZ2JORFQ4bFV5czRKU1FJdi1fSEdFc01XbDdpMTJlS3REUW1MZlFuRGFsZU1Ca09YYTNHUkV0RWNub19ieDZ0ZVVwazl6dmdVODR0eEM0RkVyVmNCZ1dKd3FUNV8tRHdqdTRyak1hMGdXdkt3NEdLUkZmZ1RXNjY0QXRKblhJYXNKdVd5Zm5hczBPbjNrUVRqcmdqMm9NWnFiU29nc09nYnIwOUlBNnhhaUlBQTNUd0p3b3N5UklLZTBr0gGzAkFVX3lxTE5xTzVhZFVwYzZReFpfaE1TZ0dRNVlrMEdIVUtyZTM5ejVwcko1dGVyTEt5Q1FrMWN1ZHJGM1p5MUtRV3NxeF93NEN3VUFFd0lYc0VBeldjcnlPUFZGRVFhakFyM3U4dXhEQWhEUFJwRnktaFpucEhLTVdnYk5EVDhsVXlzNEpTUUl2LV9IR0VzTVdsN2kxMmVLdERRbUxmUW5EYWxlTUJrT1hhM0dSRXRFY25vX2J4NnRlVXBrOXp2Z1U4NHR4QzRGRXJWY0JnV0p3cVQ1Xy1Ed2p1NHJqTWEwZ1d2S3c0R0tSRmZnVFc2NjRBdEpuWElhc0p1V3lmbmFzME9uM2tRVGpyZ2oyb01acWJTb2dzT2dicjA5SUE2eGFpSUFBM1R3Sndvc3lSSUtlMGs?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T13:10:00Z",
+      "summary": "印度经济时报文章探讨AI将取代哪些工作，以及哪个年龄群体面临最大暴露风险。报道通常关注重复性高、规则明确、文书处理、客服与基础分析等岗位更易被自动化，而需要复杂判断、创造力与人际协作的职位相对安全。不同年龄段的技能结构、学习能力和职业阶段不同，受冲击程度也会分化。文章提醒，劳动者、企业与政府需共同推动技能再培训和职业转型，建立社会安全网，以缓解AI对就业市场的结构性影响。",
+      "fetchDate": "2026-10-03"
+    },
+    {
+      "id": "5953",
+      "title": "Should You Forget Palantir and Buy These 2 Artificial Intelligence (AI) Stocks Instead? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOUlZUmlGOGRqSEdGUHhfUXh3VnBmMjJGN2daUXo3S3RPdjdJRHc1dW9EV0E4bDJSaXMtajliUEUzZllNYUh4Z2g5cUtuTGc0SE43cHRlOWVLTHRpTERBZkxlVHV1azJLSlRzTEh3SWh3UDJhUWdhQzVIN0U0SVJZdTRIMm1xOGYtOUFWVXBwdUtkZjJ2N2xxVHhaZnBOeWJqYXo1S0o5Y2NQZHdJNFdsWGlSdmlCTDBRaGlDMjZCR05tMUxWVjdOTEJZUDJKVEoxYkNiVGF3VVZEWk04b00wZDFzbFFiRWNPSXJDVndvdVFJQzZoemc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T11:38:34Z",
+      "summary": "文章围绕是否应放弃Palantir、转向另外两只AI股票展开讨论。其核心逻辑可能在于，Palantir虽在AI数据分析领域受关注，但估值已较高，增长预期充分反映在股价中；而另外两只AI公司可能提供更具吸引力的风险回报，例如受益于算力、企业软件或行业应用扩张。文章属于投资观点，强调比较估值、增长可持续性与竞争壁垒，并非直接买卖建议。投资者仍需结合自身风险承受能力，审慎评估AI板块波动。",
+      "fetchDate": "2026-10-03"
+    },
+    {
+      "id": "5954",
+      "title": "Artificial Intelligence for Automated Analysis and Interpretation of Intravascular Ultrasound in Coronary Artery Disease: A Systematic Review - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRGU5cGhYWUY3NDNtaURrcmpqZTRDN3ZHQlk1ZHV2UUVvbEI5S2ZDM3BOaUR4N3Q0LXYwcjh3cTh6WnFkdnBhY2xtTjJ6OWdCeHVScHZOTXdPa0RjNkVzWkVtMTU0aFBGQWVMSmVRdVZva0UzVTU0SExaUGJicGFfQU00WjZEdG5FUWhMRnFHdnF5VHI2Smc0R0tvQjFTRFQtWDR0TUJuN20tYTJRbnFzRUNlTmNJT0FWc0xhX3FYaFUwRWM5STZGbktRcTlobkh1NTlOMlNMQl9xS1lwU0syZUpxeXMwdGNzd0VpSGlWNlpiX0h2RnVkUmtiVzVhVkVBQ19LdTc2QlhjcVJtVHY2bWpzdU9MRkZBZTBLQzFWTnc4VUJK?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T11:36:51Z",
+      "summary": "这篇系统综述评估人工智能在冠状动脉疾病血管内超声自动分析与解读中的应用。IVUS可提供血管横截面影像，帮助评估斑块负荷、管腔狭窄和支架植入效果；AI方法有望自动识别血管壁与斑块边界，减少人工判读差异，提高分析效率，并辅助经皮冠状动脉介入治疗决策。综述也指出，现有研究仍受样本量、标注标准、外部验证不足等限制。未来需推动多中心数据、统一评价指标和前瞻性试验，才能将AI-IVUS工具安全整合进临床流程。",
+      "fetchDate": "2026-10-03"
+    },
+    {
+      "id": "5955",
+      "title": "Should You Forget Palantir and Buy These 2 Artificial Intelligence (AI) Stocks Instead? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUFyOERzd0djLXY2MjZIeTRDTHJsaEh4aUxTS0lxZ014ZEJqWGRtRjlxbFViZ2hNU3JXcXFDRUFFZlNNT0hoR1JpMVVHa1dCZlpYNXlsdjJ5Q1NlY21FMTVxckJDdTR0UzJYbVBERWxBcndqcEg0NTBham53S0dvVjltNHFHY2VnLVhBWmJ0OEtFU0lPUHJvUA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T11:02:25Z",
+      "summary": "Motley Fool文章讨论投资者是否应忘掉Palantir，转而买入另外两只AI股票。文章可能从估值、收入增速、盈利能力和市场空间等角度比较，认为Palantir虽具AI叙事与政府合同优势，但高估值意味着容错空间有限；而两只替代标的或在AI基础设施、软件应用等环节具备更均衡的成长与估值组合。此类内容属于投资分析，强调机会成本与组合配置，并非确定性建议。投资者应关注AI竞争格局、客户集中度和宏观波动风险。",
+      "fetchDate": "2026-10-03"
+    },
+    {
       "id": "5947",
       "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd3BtN0x3OHo2enVINFN2ZWpCRUYtRVpGOFczcm9NMkVudnlZOTlKdHdVTUpHTUN2aGRhMjIyWklJcFRDSFZrZkNfQUNseXp1ODBqN1UxeEJkbWNvQnFBYW5vSnltTjNxcmtGOEszXzBxNlZGYmlPN1haTkMtOENYVldWUHd1M0ctSGtJU2o5X2tzNTFNaFdRcGtLRdIBoAFBVV95cUxQa0lhZmVzTE9DcS1rY1JaSEdBR1lZSGJQZ0hVTENVRmp3RlEwRTdWTGliNlRXcTEwYWdLSm5zMWN5OUpVM19HV1ljbVlhOFQxZVhlXzhuNE5LUlpVN18yYTVXdngySldlRFVyUEpLMjRxWUdiZEJVbDJmWjB0OWgxVy1acHQ4LVZkcjU2aVpJN0xsdk1DeDM3QXFsTzduVjZF?oc=5",
@@ -53524,5 +53587,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5947
+  "total": 5954
 }
