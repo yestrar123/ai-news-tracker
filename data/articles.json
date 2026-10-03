@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "5940",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-03T00:45:39Z",
+      "summary": "Meta希望将Muse人工智能技术融入更多消费电子设备，甚至包括电视和烤面包机等日常家电，并宣布免费开放相关代码。此举意在降低硬件厂商接入门槛，扩大Muse生态覆盖，让AI能力无处不在。通过开源策略，Meta可能吸引更多合作伙伴，形成从内容、社交到智能硬件的闭环，同时与谷歌、亚马逊等争夺智能家居和端侧AI入口。免费代码也有助于加速技术普及和开发者创新。",
+      "fetchDate": "2026-10-03"
+    },
+    {
+      "id": "5941",
+      "title": "AI can’t fix a business system with broken processes - thenextweb.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tNUFWZWJYcWt6eTBmb3FSMVhTUlRTQmt4T1BUZHNjd2lUY3BKc0d6X3Ezd0xFNWV5VnZyVjJyYy1OMlNJd3VWcDlWZTZIbXc1anV1YkNqSmRmQkdMMEJidXZIYmx1ZFZJODNSd19NcjhJM2VYQzNhWVV3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T22:26:47Z",
+      "summary": "文章认为，人工智能无法修复流程本身已经损坏的业务系统。若企业存在流程混乱、职责不清、数据质量差或管理脱节等问题，单纯引入AI只会自动化错误、放大低效，而难以创造真正价值。AI更适合在流程清晰、数据可靠的基础上进行优化和提效。因此，企业数字化转型应先梳理并重构业务流程，明确目标和指标，再引入AI工具，否则可能投入巨大却收效甚微。",
+      "fetchDate": "2026-10-03"
+    },
+    {
       "id": "5926",
       "title": "Sean Parker is rebuilding Stability AI around music",
       "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
@@ -17,6 +35,15 @@
       "publishedAt": "2026-10-02T21:04:28Z",
       "summary": "《华盛顿邮报》报道，特朗普预计将任命情报主管Jay Clayton为新任“AI沙皇”。该职位通常负责跨部门协调人工智能政策，平衡创新、监管与国家安全。若任命落地，Clayton可能主导美国AI战略、产业竞争及安全审查，但具体职责和权限仍待官方确认。该消息也反映特朗普政府正强化对AI政策的集中领导。",
       "fetchDate": "2026-10-02"
+    },
+    {
+      "id": "5942",
+      "title": "Grant helps N.C. community college expand AI training programs - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcTcxZEtrS2pMd2NkRUc1aEhYM3BIWW5hZmRaUS03UGFVMHFVS2ZyWVpJcFc3RS1RaHh2eTVqOFJ6NW9UMWpZeUlBbERSMk1xOEtIZE04V2Q1UUFjVms0NXBycWM5MzItajRVcXJ5YWU3MmtSejhoSVVrd243bWl1cVNSVzJXMGhGRzN6MlJHZmlfRy1MMUExRE1LOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-02T20:47:00Z",
+      "summary": "一笔资助将帮助美国北卡罗来纳州的一所社区学院扩展人工智能培训项目。资金可能用于开发课程、更新设备、培训师资以及扩大招生，以培养更多具备AI技能的本地劳动力。社区学院在AI人才梯队中扮演重要角色，能为无法攻读四年制学位的学生提供实用技能和就业通道。此举也反映各地正积极应对AI产业带来的用人需求，通过职业教育缩小技能缺口，支持区域经济发展。",
+      "fetchDate": "2026-10-03"
     },
     {
       "id": "5928",
@@ -53443,5 +53470,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5938
+  "total": 5941
 }
