@@ -1,55 +1,41 @@
 {
-  "updatedAt": "2026-10-03 02:45:30 UTC",
-  "totalArticles": 7,
+  "updatedAt": "2026-10-03 07:19:42 UTC",
+  "totalArticles": 5,
   "articles": [
     {
-      "title": "Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients - 2minutemedicine.com",
+      "title": "AI's race to transform the world before the money runs out - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T05:06:00Z",
+      "summary": "路透社指出，当前AI行业正展开一场与资金消耗赛跑的竞赛：企业争相把技术落地、改造产业并证明商业价值，但巨额投入依赖持续融资。若回报不及预期、资本市场收紧，泡沫风险将上升。核心在于AI能否在资金枯竭前实现规模化盈利与真正变革，而非仅停留在概念炒作。"
+    },
+    {
+      "title": "Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFNBNnF5aXl2SkY3cThubkkxcDNzLWRqeWJkM183eFI2Z2hRX1NlUTlVTFh6YkNUQ2E4RmJVcGNJR2o3V2JISFFBUzh4SVo4RjVjbHBwU1c2UVkzUUVuaDZQY0ZRbXZsSUhtaW5lLVdXUEYzcDI1MXFaWXc1QnE2bFdOb25iU1p6Z0NOM0FMQ2drSFdIVzVuc3J2MTliQzBXVUxKcF92RjZCOHA1?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T03:55:00Z",
+      "summary": "《Motley Fool》对比英伟达与SK海力士两只AI相关股票。英伟达凭借GPU、CUDA生态和AI计算平台占据产业链核心，增速与利润率突出；SK海力士则是高带宽存储器HBM关键供应商，受益于AI芯片需求，但周期性更强。投资者需在龙头溢价、技术壁垒、存储周期与估值风险之间权衡，判断谁更具长期配置价值。"
+    },
+    {
+      "title": "AI may not take over the world. We could simply hand it control one decision at a time - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0OW9CcGF1Q3pjTE9sR1JGMFU2SEY4Umx3UGZoMFYzRTViM1QwckJKRGlaQzRfVWxLcjdKNTJfMW9kVTcwOHowbXZoR2tEZ09GcmhHMVRzVXpTbWhFc1hwa1ZuQ205WlhWV21UeGhB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T03:06:00Z",
+      "summary": "文章认为，AI未必会以“天网”式方式突然接管世界，更现实的风险是人类在追求便利和效率时，把一个个具体决策逐步交给算法：从推荐、筛选到医疗、金融、管理等领域。每一次授权看似微小，累积后却可能削弱人类自主权。因此，治理重点应放在决策边界、透明度和可追责性上。"
+    },
+    {
+      "title": "Why Anthropic Invited A Hindu Monk To Discuss AI Ethics - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYk1NOTlaYlNJY0ZwbTRPVE5TcnhlNlN1cVdXR2hLNmF6TnJmcFE2LU01TVV0X3hLWmJFRkFXWmNnXzUwOVEwbDB1bUw4Q2ZmNDI0WmJfWEgtUU81alB0X1RmMW5kNE9jQ2dleEs0WGdUWHVhR3hTbWZUS0s5REd0OUk2ZFlrUXZ4bFdkTFB1RnNkUlYtUGV5LVNKNDdoc2dUcnFDQVpBMTl1SzlVMFNVaExOQkxZbUNWN290VENsdlVjYnhDdmfSAc4BQVVfeXFMTW1WZldBRVVWM1cxYUxPaWJkQThHM0JZUU9ZcFhwMkNEczhQY3ZrenRidlA5NHI0TjA3U1FnMW12TnlBRFhDTjNVR05GcEVaZ2xPcUFuMldHdG5nV2RWOWZvZHRXUk04OFFDT0IxNFNGQjBzOVllU0RDVmUwVTF4bEUwemxPeWE1bnZpNzRlSUdiS2lVODVWUW5NN0EzS0o1Rm1IaEJwYlNjR21xbV9KSktyTmUtOGdOc1Z2TERBbVVQRk9RQXJha0tJWDczS2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T02:46:13Z",
+      "summary": "Anthropic邀请印度教僧侣探讨AI伦理，反映前沿AI公司开始引入宗教与哲学视角，超越纯技术和功利框架。相关讨论可能涉及意识、非暴力、责任、人类尊严与自我等议题。此举旨在为AI安全、对齐和价值观设计提供多元伦理资源，同时也引发关于宗教参与科技伦理边界及实际有效性的讨论。"
+    },
+    {
+      "title": "Artificial intelligence (AI)-triggered rapid response notifications were associated with lower mortality among inpatients - 2 Minute Medicine",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMUc0NWhSWE1JMWVBRk5SNk5UWDNrNzRpSVZVaXRlb0hYUFNncnFkdm92OGhOX3JGY3RXUGtJdGQxT0Y4d2N3NUV3U0h2WjdfZGV0RGdZYUxEeXVtSnF5RGlMay1EQmtrM2ZENEJSaUhmTVp0T3NFbndtZVBnallGeTRKZEliVjV3WTItdWRKc3VsR0Mxa3JOR2tWSW1LdlF6dm8yWkxVdnpvZWg0WlN4YS1yWUJJeWlZZnhHM1lIY2hLcW1hY21OUlRBSWl0aWthY1JfNkRpazRTZDBjUEhLaU9GU0FyLWM?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-03T01:44:10Z",
-      "summary": "该报道指出，人工智能触发的快速反应通知与住院患者死亡率降低存在关联。系统可通过实时分析电子病历、生命体征和检验数据，自动识别病情恶化风险，并即时通知快速反应团队，使医护人员更早介入。研究提示，这类AI预警工具有望提升院内急救效率，减少可避免死亡。不过，目前信息仅显示相关性，尚不能直接证明因果关系，仍需更多临床研究验证其效果、适用场景与潜在误报风险。"
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-03T00:45:39Z",
-      "summary": "Meta希望将Muse人工智能技术融入更多消费电子设备，甚至包括电视和烤面包机等日常家电，并宣布免费开放相关代码。此举意在降低硬件厂商接入门槛，扩大Muse生态覆盖，让AI能力无处不在。通过开源策略，Meta可能吸引更多合作伙伴，形成从内容、社交到智能硬件的闭环，同时与谷歌、亚马逊等争夺智能家居和端侧AI入口。免费代码也有助于加速技术普及和开发者创新。"
-    },
-    {
-      "title": "Trump expected to name intelligence chief Jay Clayton as new AI czar - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHVmTy1fekRMMGxhQzBCRk1kY3BtVzA2QXg2Vk9SUG5oZVE4bTJYNXFDcllzdlJ2NDE2bWJqUTBYbW8tT3V6WmFGdWtuRjZqYTZyUzh3SWRBbU1BcW1VU0lLbzUybkJLbnQyb1FYNVc2LThXT2tQMFU3dWkyUVhIU2ZwaTJCWUNfaVhhX3RvczdwYnc0VE8tdUkxZ0tEaUNYSzZGcmZrYk5qbmZEUlVlTG5xcW50em8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-02T23:31:27Z",
-      "summary": "据《华盛顿邮报》报道，特朗普预计将任命情报主管杰伊·克莱顿担任新的“AI沙皇”，负责统筹人工智能相关政策。该职位可能协调联邦层面的AI监管、国家安全、产业竞争与国际合作等事务。若任命成真，克莱顿的情报与法律背景或使美国AI政策更强调安全、出口管制和地缘竞争。但具体职责、权限及任命时间仍待官方确认，相关动向值得关注。"
-    },
-    {
-      "title": "AI can’t fix a business system with broken processes - thenextweb.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tNUFWZWJYcWt6eTBmb3FSMVhTUlRTQmt4T1BUZHNjd2lUY3BKc0d6X3Ezd0xFNWV5VnZyVjJyYy1OMlNJd3VWcDlWZTZIbXc1anV1YkNqSmRmQkdMMEJidXZIYmx1ZFZJODNSd19NcjhJM2VYQzNhWVV3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-02T22:26:47Z",
-      "summary": "文章认为，人工智能无法修复流程本身已经损坏的业务系统。若企业存在流程混乱、职责不清、数据质量差或管理脱节等问题，单纯引入AI只会自动化错误、放大低效，而难以创造真正价值。AI更适合在流程清晰、数据可靠的基础上进行优化和提效。因此，企业数字化转型应先梳理并重构业务流程，明确目标和指标，再引入AI工具，否则可能投入巨大却收效甚微。"
-    },
-    {
-      "title": "Judge warns AI could stunt lawyers' training and harm their clients - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaW9VTzR5bkJYdmJGams3elZMa3hyaXRmOHJVN05BWnZ6VjNRcGlRM243SGwtWGhMeFlIX05haGhqZkFQeXJYcEpYMjdjazJTdmpHVVNsOFItNWxKd1pyenZ1SDVydnRORUZxNkR0TkJhN1YxeG9XSEY4cy1PMUh2Q1Zmd2VuMExUNWZkQ3l4R0hKbXBmVnJOMUpydGRrbnd1d0ZMdFQyWmN3cHlCV1dmYXI3S01iQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-02T21:30:10Z",
-      "summary": "路透社报道，一名法官警告称，法律行业过度依赖人工智能可能阻碍律师的成长训练，并最终损害客户利益。AI虽能快速完成法律检索、文书起草和案例分析，但若年轻律师因此缺少独立思考、写作和法庭实践，其专业判断力可能不足。法官强调，法律教育与实践培训仍需重视基本功，AI应作为辅助工具而非替代品，否则可能带来执业质量下降和客户权益受损的风险。"
-    },
-    {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-02T21:09:14Z",
-      "summary": "肖恩·帕克正在围绕音乐业务重建Stability AI。他曾因Napster让音乐行业面临版权冲击，而此次则带着唱片公司的支持与资金回归，试图以合作姿态推动生成式AI在音乐领域的应用。Stability AI可能开发音乐创作、音频生成或制作工具，并探索与版权方分成的商业模式。这一转向显示，生成式AI与音乐产业的结合正从对抗走向授权合作，但版权、艺术家权益和伦理问题仍是关键挑战。"
-    },
-    {
-      "title": "Grant helps N.C. community college expand AI training programs - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcTcxZEtrS2pMd2NkRUc1aEhYM3BIWW5hZmRaUS03UGFVMHFVS2ZyWVpJcFc3RS1RaHh2eTVqOFJ6NW9UMWpZeUlBbERSMk1xOEtIZE04V2Q1UUFjVms0NXBycWM5MzItajRVcXJ5YWU3MmtSejhoSVVrd243bWl1cVNSVzJXMGhGRzN6MlJHZmlfRy1MMUExRE1LOA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-02T20:47:00Z",
-      "summary": "一笔资助将帮助美国北卡罗来纳州的一所社区学院扩展人工智能培训项目。资金可能用于开发课程、更新设备、培训师资以及扩大招生，以培养更多具备AI技能的本地劳动力。社区学院在AI人才梯队中扮演重要角色，能为无法攻读四年制学位的学生提供实用技能和就业通道。此举也反映各地正积极应对AI产业带来的用人需求，通过职业教育缩小技能缺口，支持区域经济发展。"
+      "summary": "一项研究显示，AI触发的快速反应通知与住院患者死亡率降低相关。系统通过实时分析电子病历和生命体征，识别病情恶化风险并自动提醒快速反应团队，从而缩短干预延迟、提升救治及时性。不过，观察性关联不等于因果，仍需评估误报负担、临床工作流影响及不同医院的复制效果。"
     }
   ]
 }
