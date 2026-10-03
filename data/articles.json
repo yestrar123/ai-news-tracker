@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "5947",
+      "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd3BtN0x3OHo2enVINFN2ZWpCRUYtRVpGOFczcm9NMkVudnlZOTlKdHdVTUpHTUN2aGRhMjIyWklJcFRDSFZrZkNfQUNseXp1ODBqN1UxeEJkbWNvQnFBYW5vSnltTjNxcmtGOEszXzBxNlZGYmlPN1haTkMtOENYVldWUHd1M0ctSGtJU2o5X2tzNTFNaFdRcGtLRdIBoAFBVV95cUxQa0lhZmVzTE9DcS1rY1JaSEdBR1lZSGJQZ0hVTENVRmp3RlEwRTdWTGliNlRXcTEwYWdLSm5zMWN5OUpVM19HV1ljbVlhOFQxZVhlXzhuNE5LUlpVN18yYTVXdngySldlRFVyUEpLMjRxWUdiZEJVbDJmWjB0OWgxVy1acHQ4LVZkcjU2aVpJN0xsdk1DeDM3QXFsTzduVjZF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T09:11:15Z",
+      "summary": "史密森学会正在借助人工智能技术，将美国独立战争时期分散在不同馆藏中的文物建立关联。项目可能通过图像识别、语义分析和知识图谱等手段，把器物、文献、人物与历史事件连接起来，使研究者与公众更易发现跨馆藏线索。此举不仅提升文物数字化整理与检索效率，也为历史叙事提供新的技术路径，展示了AI在文化遗产保护、博物馆策展与公共教育中的应用潜力。",
+      "fetchDate": "2026-10-03"
+    },
+    {
+      "id": "5948",
+      "title": "Pope Leo Launches Crusade Against AI Slop and Ordains That ‘Artificial Intelligence Needs To Be Disarmed’ - The New York Sun",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQVcxeS1UM29BTThROEV0MFVqZ0lMY0dhUlJNaURGTXlwWlVCaHNqOVNxOVllV096TUstTExJbWxqZnhsQVlEQWZnejRvTWxsNnhVNG44cjQwalRQV2tVWFZ4X0tTU3c1SHNxdDRMV1llRmRZN0JBNU9Ic0RsWFpIeFdoVFJ5ci1MaV9nWThPLTE4NGdrLV80WXdJdTVvRzFqLXZVQkpkMzRCNTlmQ3NPb0tkQ3g4cTZsOHpSY1pWN0c4Tld6QXVxaDE2RTZTUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T08:00:00Z",
+      "summary": "教皇利奥发起针对“AI垃圾”的运动，并公开主张人工智能需要被“解除武装”。所谓“AI垃圾”通常指由生成式AI批量制造的低质、失实或同质化内容，可能污染信息生态。此举反映宗教与伦理层面对AI滥用、深度伪造和人类尊严风险的担忧，呼吁加强治理、透明与责任，避免技术无序扩张。事件也显示AI治理正从产业界扩展到更广泛的社会与道德领域。",
+      "fetchDate": "2026-10-03"
+    },
+    {
       "id": "5943",
       "title": "AI's race to transform the world before the money runs out - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
@@ -53506,5 +53524,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5945
+  "total": 5947
 }
