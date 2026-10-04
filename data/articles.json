@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "5974",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-04T20:31:07Z",
+      "summary": "谷歌宣布暂停其开源漏洞赏金计划，原因是AI生成的漏洞提交数量显著上升，大量低质量、重复或无效报告涌入，导致审核成本与信噪比恶化。所谓AI slop正冲击漏洞赏金生态，安全团队需花费更多时间甄别机器生成内容，真正高危漏洞可能被淹没。此事反映生成式AI在安全社区带来的新治理挑战，也促使平台重新设计提交门槛与验证机制。",
+      "fetchDate": "2026-10-04"
+    },
+    {
+      "id": "5975",
+      "title": "Ticker: Jay Clayton to lead federal AI task force; OPEC+ to keep oil production steady - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSjlYOUNHV21meFp1NHh4U2VrNmEtTXMtanNkMmNMcUtsS3dxT043WGhEdTlwNEVEOTgya3ZRZXdfWF9yd1dOSy1DSGxsYUw0Q2t5SWU4blJOSVJpWlR0ZldOcGI1R2F6dkYzYXowaGV0NlhiS2NQOW9YLUJ2MnNpTGN3Z0JTVEo3Q3IzTVZHZk9yRW5jWEFmaF9KWFBVelFBVFBERG8zT3RXZERrZ0RnNTREYld5TzlZZzBEZ1dFVFFHUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T20:13:14Z",
+      "summary": "据波士顿先驱报报道，Jay Clayton将领导联邦人工智能特别工作组，成为特朗普政府在AI政策上的关键人物；同时，OPEC+决定维持现有石油产量政策不变。该简讯将AI治理与能源市场动态并列，显示联邦层面正加快AI战略布局，而Clayton的任命可能把国家安全、金融监管与科技政策经验带入AI事务协调。但原文信息有限，具体职责尚未展开。",
+      "fetchDate": "2026-10-04"
+    },
+    {
+      "id": "5976",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-04T20:08:34Z",
+      "summary": "TechCrunch的Equity播客讨论特朗普政府试图为AI重塑形象：一方面鼓吹“超级智能”愿景，另一方面推动不具约束力的安全协议。文章质疑，这种公关式策略能否真正解决AI的公众信任、安全风险与监管缺失问题。非约束性协议缺乏执行力，可能难以安抚对AI失控、就业冲击和伦理问题的担忧。节目认为，AI形象问题本质上是治理与责任问题，单靠口号和自愿承诺难以奏效。",
+      "fetchDate": "2026-10-04"
+    },
+    {
+      "id": "5977",
+      "title": "Trump names national intelligence chief Jay Clayton as new AI czar - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XcWRJLUVQZ3ZVTDhReFJONG1jSmtyWkRKbDNWeGJLVEpuRHZNdGUxa0JjN0I5Vnc3S1VVakJaLWlaZS1oT3RhTXA0LWhHdEczTUd4bTlTa2lCU2NHMzRBaG9DTFBENUwtNlFkeE5HdkRWNDVodWFoUnhn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T18:36:48Z",
+      "summary": "NPR报道，特朗普任命国家情报负责人Jay Clayton为新的AI事务主管，即“AI沙皇”。此举显示白宫将AI政策与国家安全、情报体系更紧密地结合，Clayton需协调联邦AI战略、安全审查与产业竞争等议题。任命也引发关注：情报背景官员主导AI事务，可能强化安全与管制导向，但也可能影响创新与民用应用。具体职权和任务尚待明确。",
+      "fetchDate": "2026-10-04"
+    },
+    {
+      "id": "5978",
+      "title": "President Donald Trump announces creation of 'Super Intelligence Force' AI task force - ABC7 Eyewitness News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVVVb2VZenVGRWJfdUoyM3ZhbTRGWVhETFcydnR5WmNfT05YNGxKSGhMT3RtMEdMN1ItZVA4NjBKanZYcmVQdG1sS2hMQWgwTVJhbk1sbjc4b2l5T0I0S0Zkd3l4RmpvbHpuWUxoNGpVamhlTGhVaGJ1aHNNVFMtVU5fb3dDaUhCWUZ1MDMwLWxqMENoTHJvX0hHMTVZaGdsYmJMSEJmelZOM2oxZXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T17:26:15Z",
+      "summary": "ABC7报道，特朗普总统宣布成立名为“超级智能力量”的AI特别工作组。该工作组被视为联邦政府应对AI安全与竞争议题的新举措，可能负责协调政策、推动美国在超级智能领域的领导地位，并回应公众对AI风险的担忧。名称中的“超级智能”带有战略宣示意味，但具体成员、预算与监管权限仍不清晰。分析认为，这延续了特朗普政府重塑AI叙事、以安全与实力并重争取话语权的思路。",
+      "fetchDate": "2026-10-04"
+    },
+    {
+      "id": "5979",
+      "title": "Are We Smarter Than Artificial Intelligence? - The National Herald",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUT1ZDZVEzbnhkZzJUQmtuWlVxTWNpUzV1ZVM4YXRDZ1pWU0QxV3pQekd6TW9kQjA1SmdqUlRGT3dDOURzZ052cHRydlRfdzhvNVdqMlJVbHA5LWd5cHI5a3ZUdjBnYUhz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T17:12:37Z",
+      "summary": "《国家先驱报》刊文探讨人类是否比人工智能更聪明。文章可能从认知能力、创造力、情感理解、常识推理与伦理判断等维度比较人机差异，并追问AI在特定任务上超越人类后，人类智能的独特价值何在。讨论也涉及AI局限性、幻觉、偏见与依赖风险，提醒公众既不应低估AI，也不宜神化其能力。核心在于重新定义人与AI的协作关系，而非简单输赢比较。",
+      "fetchDate": "2026-10-04"
+    },
+    {
+      "id": "5980",
+      "title": "Opinion | Think of Artificial Intelligence Like a Weapon - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzVNWWJRRjF5TTRwNWpPZnZCQkhnRmhwOG55ckQyQjZ1SnlaaEZpU3JnXy0wQ1h3SFo5aHd0OGZ0dFdMMzQtMTJBU0s0UDBaanBBX3NCcTZSRTEzVHRaY0RyZndoWkFIUzdlbmd5eG43ak1ZeC1EZE1qSG4wcFlqZXlCT3NSbTNuVEVn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T16:35:00Z",
+      "summary": "华尔街日报评论文章主张把人工智能视为一种武器来思考。作者可能强调AI具有双用途和战略威慑属性，既能提升效率，也可被用于网络攻击、虚假信息、自主武器与地缘对抗。因此，AI治理不能只靠行业自律，而应借鉴军控、出口管制与安全审查机制，明确红线、责任与追责。文章提醒政策制定者，若忽视AI的武器化风险，可能在安全竞争中处于被动。",
+      "fetchDate": "2026-10-04"
+    },
+    {
+      "id": "5981",
+      "title": "Commentary: Artificial intelligence in the classroom - Washington State Standard",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXFlVjlFZjllRFpuSGJsRkR0a3BjQmdqbnRnNUlHTG9GNHE0alZJcXh0THlKYmNfUngtV3lzUkxiV2RTY0NBVUlIaktwdDhaLW95b3N6cnIxTDE3NEJhYzdyTExVOV9FdXI3cnYwUGdYaUllQkpob19ZZWtuV3V0RlVuVl9JZGxseWdwcU0yRE5HQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T16:07:53Z",
+      "summary": "华盛顿州标准报评论聚焦AI进入课堂后的机遇与挑战。文章可能讨论AI辅助教学、个性化学习、教师备课效率等好处，同时关注学生用AI代写作业、削弱批判性思维、数据隐私和算法偏见等问题。评论或呼吁学校制定明确使用规范，加强教师培训，把AI素养纳入课程，并确保资源公平。核心观点是，课堂不应简单禁止或放任AI，而应引导学生负责任地使用。",
+      "fetchDate": "2026-10-04"
+    },
+    {
       "id": "5966",
       "title": "Trump unveils his new Super Intelligence Force",
       "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
@@ -53749,5 +53821,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5972
+  "total": 5980
 }
