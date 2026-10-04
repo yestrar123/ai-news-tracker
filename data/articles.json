@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "5961",
+      "title": "AI Giants Not 'Careful Enough,' Ex-OpenAI Engineer Warns - Tempo.co English",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZl9KWkRiVTZtYU5TSFB6U1ZQSmRVVVBuYmNhMjRkODEzQ3p1QmkwMF9CZ1AyX0FJZWFDNWRVVHFrcUtsS2tjVEdGSnA1MzVtTjlBVGd3THZBTnJpMUpZWERzSUtpZnFMekh1eFBNaVBqTUMyOVJUcHZMTlFiS2g2RDlXMVNSaUJvRHZEbEtHWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T05:37:29Z",
+      "summary": "前OpenAI工程师公开警告称，当前AI巨头在模型开发与部署过程中\"不够谨慎\"，未能充分重视安全风险。该工程师基于在OpenAI的一线经验指出，行业在追求能力突破和商业竞争的同时，安全投入与风险评估机制相对滞后。此番言论再次引发外界对前沿AI实验室安全文化的关注，也反映出业界对AI能力快速扩张与安全治理之间失衡的普遍担忧。",
+      "fetchDate": "2026-10-04"
+    },
+    {
+      "id": "5962",
+      "title": "A key employee who has been in charge of artificial intelligence (AI) safety at OpenAI has left the - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEODVCbTl1VXpMNVJxUFE4OWFEQUljbUhpM05HV1V0UlhpY2JVVWpTWkhhaDJNNWNnOGN0UWlzdmRNOU80Mzg4ckl3OA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T05:21:34Z",
+      "summary": "据报道，OpenAI一名负责AI安全事务的关键员工已离职。该员工此前在公司内部承担AI安全相关职责，其离开引发外界对OpenAI安全团队稳定性及安全治理连续性的关注。在AI能力快速迭代、监管压力持续上升的背景下，核心安全人员的变动可能影响公司安全策略的执行与对外沟通。目前尚不清楚其离职的具体原因及后续人事安排。",
+      "fetchDate": "2026-10-04"
+    },
+    {
+      "id": "5963",
+      "title": "Why universities in Asia shouldn’t be reaching for AI detectors - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNclRJVTVCTFdUS3I4bTdvSlpvck5MaklWdjBVcU9od1A4MWxsZVhkQUhOY1B3TmxKeDh0TnkzcERIOTFRZXJYTW4xR3QwZG00MDlycExVOXBzblRiTnQ3N19LMmNqc29GeWstNkY1ampwMTF0M1d2WUF1R1VUMGNrd0J4dkxEQ1U4ZmdkSUhFWDJUYjVMenBwRW81TzQtalVKVGJfZ3g2cEk0b3ZG0gGsAUFVX3lxTE1JNlBQLUNJNzNGaXNTX0NUYWUtWmg3TWRUdGRRUnFTME1LbWk5TnZ1X0xWMm1FY3NxaEdGejZQbV80NVZVbTlVUDN6c3JlVG15TkpBWXJISVhxcktBTUNubXkxMmgtSEJqbXJCcGFybHMxYmgwalFlUm9WNXlwRlFfYUprT3gyWEhaM2ZkYjZ1UDJQbHIwdDB1dm16aklxSjY0bnNRVllqT00xWDE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T03:30:05Z",
+      "summary": "南华早报文章认为，亚洲高校不应依赖AI检测器来判断学生是否使用AI。这类工具误判率较高，可能将人类写作误判为AI生成，尤其对非英语母语学生不公平，容易引发学术争议。文章建议高校转向更合理的评估方式，如调整作业设计、注重过程性评价和加强师生沟通，而非将检测结果直接作为处罚依据。核心是避免技术工具简单化地替代教育判断。",
+      "fetchDate": "2026-10-04"
+    },
+    {
       "id": "5958",
       "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports - CNBC",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyV1MxWG1LdmgzcE1VSVphU3V2NFFnU1E5MXhZM0FUMEE4MjhXOTMzMDlrSTZJdXR5Q3VnV3RWVXRRMGZaLXB3N183V0d4d0ZBcjZFdVRRWnRVWmltUnlPYlVXbllHaUtiS0o2NnQ1WdIBdEFVX3lxTFBuSmprcGRObk1JU2R0SERzdV9hNGtQallVbGhTd21LbXdVUWpzOWFsTWFxT3ZuaXBJbzA4d0I3bWdzYTNRblJzMDB0QlJSOVRBSTllWW5scUVXLWNlQXhHMkZ2SnJTY3ZhZnhlUm5XdzliYm0w?oc=5",
@@ -53632,5 +53659,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5959
+  "total": 5962
 }
