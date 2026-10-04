@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "5958",
+      "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyV1MxWG1LdmgzcE1VSVphU3V2NFFnU1E5MXhZM0FUMEE4MjhXOTMzMDlrSTZJdXR5Q3VnV3RWVXRRMGZaLXB3N183V0d4d0ZBcjZFdVRRWnRVWmltUnlPYlVXbllHaUtiS0o2NnQ1WdIBdEFVX3lxTFBuSmprcGRObk1JU2R0SERzdV9hNGtQallVbGhTd21LbXdVUWpzOWFsTWFxT3ZuaXBJbzA4d0I3bWdzYTNRblJzMDB0QlJSOVRBSTllWW5scUVXLWNlQXhHMkZ2SnJTY3ZhZnhlUm5XdzliYm0w?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T23:37:23Z",
+      "summary": "据《华尔街日报》和CNBC报道，美国总统特朗普任命国家情报总监杰伊·克莱顿担任“AI沙皇”，负责协调人工智能事务。该职位预计将统筹美国AI政策、产业竞争与国家安全等议题，并在联邦机构间推动战略协同。克莱顿的情报背景可能使这一任命更侧重AI在安全、情报和地缘竞争中的应用。不过，其具体职权范围、与现有AI监管机构的关系及是否需国会确认，仍有待进一步明确。",
+      "fetchDate": "2026-10-04"
+    },
+    {
+      "id": "5959",
+      "title": "McDonald's is expanding its use of artificial intelligence (AI) to set menu prices across the United.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5feW45V0xyWlVHT2l4M1F3QnNYaVV4dXIxNjVGY181MDhuVFlxMVZjbEZXeGpHbl9MRnBMX1NLYk1QbkI4WFdaRm1qSEc4aDA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T23:07:33Z",
+      "summary": "据韩国《每日经济》消息，麦当劳正在美国扩大人工智能应用，用AI辅助制定和调整菜单价格。这意味着其定价策略可能从静态标价转向更动态、数据驱动的模式，结合门店位置、时段、需求、成本等因素优化价格，以提升营收和运营效率。此举也引发关注：AI定价是否会导致价格不透明、消费者公平感下降，以及如何避免算法歧视和价格操纵，将成为监管与舆论讨论的焦点。",
+      "fetchDate": "2026-10-04"
+    },
+    {
+      "id": "5960",
+      "title": "Our AI panelists looks at the governance of artificial intelligence in light of the new U.S. accord - cbc.ca",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BTGNnbkZ1SzJacldpZUw5cnRZVXphZVg3WUhZRkhRajJuOHMtSkVlT3k5LWFEeDAxNHFodk9WdDcweko4OWRKaVRONEVUX2JQQmYtcDRKRFQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-03T22:11:54Z",
+      "summary": "加拿大广播公司（CBC）的AI专题讨论小组结合美国新近达成的协议/政策，审视人工智能治理问题。讨论可能围绕AI安全、伦理、透明度、责任归属以及跨国监管协调展开，并关注美国新协议对全球AI规则、产业创新与公民权利的影响。这反映出在AI快速落地背景下，治理框架正成为各国政策制定者、企业和公众共同面对的核心议题。",
+      "fetchDate": "2026-10-04"
+    },
+    {
       "id": "5956",
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
       "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
@@ -53605,5 +53632,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5956
+  "total": 5959
 }
