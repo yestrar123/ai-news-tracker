@@ -1,34 +1,69 @@
 {
-  "updatedAt": "2026-10-04 11:28:38 UTC",
-  "totalArticles": 4,
+  "updatedAt": "2026-10-04 16:07:04 UTC",
+  "totalArticles": 9,
   "articles": [
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-04T15:15:10Z",
+      "summary": "TechCrunch AI报道，特朗普推出新的“超级智能部队”，作为其对AI安全辩论的最新回应。该特别工作组的具体成员、职责和监管权限尚未在现有信息中详细披露，但这一举动表明AI治理与安全正进一步进入美国政治议程。外界关注该部队可能聚焦前沿AI风险、国家安全、产业竞争与标准制定，并判断它会更偏向加速创新，还是推动更严格的安全审查。该消息也显示，围绕AI安全与监管的政治博弈正在升温。"
+    },
+    {
+      "title": "AI Speakers for Events | #1 Futurist Keynote Scott Steinberg - futuristsspeakers.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDFOMjZXa1JrMWM4aU5ZMy1jQ19ZQk9NeGdRRkFQYl9jQUhhQldoRlZQVkdocUZMLVRvakJ3YnphZnlLZnhNUTluV3JZak93VFY4dzlzX3hyUW5UNktHR0pGbXFPcnV0anBqZlhNeldCM2l3ZkFDYVJncDcxVThhZU1RbGdaZG1fWkc3RDhB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T13:26:28Z",
+      "summary": "该条目来自futuristsspeakers.com，页面推广未来学家Scott Steinberg作为活动AI演讲者，并称其为头号未来主义主题演讲人。内容主要面向需要邀请AI、趋势与创新主题嘉宾的会议主办方，介绍其演讲服务与专业定位。该信息更像商业推广或资源页面，而非实质性AI新闻报道，未提供具体技术进展或行业事件。对活动策划者而言，可作为寻找AI主题演讲人的参考；对行业观察者而言，核心信号是AI议题在会议和演讲市场中的热度持续上升。"
+    },
+    {
+      "title": "Trump announces formation of AI \"Super Intelligence Force\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzN5aFk5YXQ1bXNDRVBTc25iSmg1MkJXQjA3NzNlS3NrMUM2NlVXTFdNVGhZUW1ieWg3SWVrbWhaQjNhWmRNUFBYdXgtZEhBcFRMZXE1amFkeEwtcG1zaFl6NXdMN3lZWng2RTIyMzc4WVpPd1N3R0JLVnlIMTNHRA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T13:25:08Z",
+      "summary": "CBS News报道，特朗普宣布组建AI“超级智能部队”。该消息与TechCrunch的相关报道相呼应，显示特朗普正就AI安全与治理议题作出政治回应。现有信息未披露该部队的具体架构、职能和运行方式，但名称中的“超级智能”表明其关注点可能涉及前沿AI能力、国家安全与风险管理。外界将关注这一举措是否会带来更严格的AI安全审查，还是以提升美国AI竞争力为主要目标，以及它与情报体系、监管机构之间如何协调。"
+    },
+    {
+      "title": "AI Keynote Speaker vs Futurist | Hire Expert Scott Steinberg - futuristsspeakers.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUFJ5dDBQM2hNQ0dSY0pMcWFhZ0cxMU8yeXA2WGVPWGJZdWtPeW5Qa085VURPRng1bGFMeDFNOVN4RU5lMmxBMTZpdDRqZHFjc0JPLWZRRldhTnpCY2hBOU5XT3lvcHdEMDFCaWwyZkI5RzhzTWY4RlVhWTlpdVNYQw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T13:21:49Z",
+      "summary": "该条目来自futuristsspeakers.com，主题为“AI主题演讲者与未来学家”的对比，并引导用户聘请专家Scott Steinberg。内容属于演讲者推介或行业服务页面，旨在帮助活动主办方理解AI演讲者与未来学家的不同定位：前者可能更聚焦技术、应用与产业趋势，后者更关注长期社会变革与创新方向。现有信息未涉及具体AI新闻事件或技术突破，但反映AI已成为企业活动、峰会和论坛的热门议题，相关演讲与咨询需求上升。"
+    },
+    {
+      "title": "The AI industry is booming. Women are getting left behind - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejNZa0EtcE1VWVdTcnFEc3RzanFlaExaNVVHZEtUSkdLRWRiaVNDdmIxZWZRQWhKZHk4SklyLUtGZngtMGp0N1ZURXBMdmZCZnNOTGU3VkE4Q05yQ1gzel9CRkFYd1h0WmF1WWEwVnVkcVYwN2pzR3FUNWJseVQ5Rw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T13:02:00Z",
+      "summary": "The Guardian报道指出，AI行业正快速发展，但女性在其中的参与和受益明显落后。随着AI投资、岗位和影响力扩张，性别差距可能在技术设计、职业机会、薪酬与领导层代表性等方面进一步扩大。文章可能呼吁关注AI领域多样性与包容性问题，包括女性进入AI教育、研究和产业的比例不足，以及算法偏见对女性的潜在影响。若这一趋势持续，AI产业不仅会错失人才，也可能让技术成果更偏向单一群体，因此需要推动更包容的政策和企业实践。"
+    },
+    {
+      "title": "Trump’s gives spy chief new title: AI czar - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GbkNqdVk1M2tkaU1TUlNXSFkzOGNGZWFkZDYtSDdLQzNzLVRmLTdiVjZoQ1hfWWdjOFZXaHdaY1QtUGJZMFVtXzJmbUJYc003dlNVNDJMUm5KOVVYdkpoQldlX3ZMS2FTNm5meFFtbW5sMmN4eHh5Zmh3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-04T12:54:00Z",
+      "summary": "Politico报道，特朗普为其情报负责人增设“AI沙皇”新头衔，显示AI政策正被提升至国家安全与情报体系的核心层级。此举可能意味着美国将AI治理、前沿技术竞争与情报工作更紧密结合，由高级官员统筹协调相关战略。现有信息未说明具体人选、权限范围及其与“超级智能部队”等安排的关系，但“AI沙皇”通常承担跨部门协调、政策制定和战略推动职责。外界关注该任命会如何影响AI安全、监管及美国对外技术竞争。"
+    },
     {
       "title": "Wall Street Thought Artificial Intelligence (AI) Would Decimate Software Stocks, but This One Has Tripled From Its 52-Week Low - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2c0RFM4YXlyVWxFQzNLTFlzUVpENGFROG5RWUY2X3gxNGZGMEM4VU1jMzNtV3pkX3NYLUNhbGlRekk1emo3WXoxdW1LY2kzSWo5a3NfUndtUXMtYmt2UzNWRl9VZEZ5RXN0UjRfd01oTGFBNlVtT1NWR3JuSHRmRTRTR1ZuRGFwR0JHVUR0NWdjSV9YOF9iLQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-04T11:16:24Z",
-      "summary": "《傻瓜投资指南》报道指出，华尔街此前普遍担忧人工智能会冲击甚至颠覆软件行业，导致相关软件股被看空。然而，有一只软件股却逆势反弹，自52周低点以来累计上涨约两倍，表现远超市场预期。这一反差说明，AI对软件企业的影响并非单向的替代与破坏，部分公司反而借助AI能力升级产品、拓展商业模式，从而实现估值修复与增长。文章提醒投资者，不应把AI简单视为软件板块的利空，需区分具体企业的定位与应对能力，个体差异可能远大于板块层面的整体冲击。"
+      "publishedAt": "2026-10-04T11:57:00Z",
+      "summary": "The Motley Fool报道称，华尔街曾担忧AI会颠覆甚至“摧毁”软件行业和软件股，但有一只软件股已从52周低点上涨约三倍，表现远超市场预期。文章借此说明，AI对软件公司未必只是威胁，也可能成为增长催化剂：率先整合AI功能、提升产品价值和客户黏性的企业可能受益。尽管标题未披露具体公司，该案例反映出市场对AI冲击软件商业模式的观点正在分化，投资者正重新评估AI带来的风险与机会。"
     },
     {
-      "title": "A.I. Is Going Rogue. Who Should Be Held Responsible? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUhrakN2TGFTTmdhM0VtY2s5UjBjOVB5cnRRM1NHOWxPV1FGYTdfYjRrQkNZeFFBeHVkSXI1Q29DOE96WmNnSndCb1hwU1c4UGpxanNmMlJsNkJkYVRZNEpBSzdLdG55cXN5Z3hBYWVZSVVkQ1B2OV81Q1hEbExJUUJR?oc=5",
+      "title": "Artificial intelligence creates new risks for travellers - Redland Bayside News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0M3ZtTDlWVmZMNkI5WjZYSnVNNHB0VUZCa1QyQWZGcW9ZM050LXJlNFR6M0xFOGN5MS11REhhRHRuWlNXRWtUNks5cjJLdGZyWC13Q0kyU3U1ekVYR1lYdk5WZjl1R3hyWXFXbFN3?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-04T10:42:08Z",
-      "summary": "《纽约时报》发文探讨AI“失控”后的责任归属问题。随着AI系统在真实场景中应用日益广泛，其可能出现的越权行为、错误决策乃至造成实际损害的事件不断增多，但现行法律与监管框架尚未明确应由谁承担责任——是开发模型的科技公司、部署应用的企业，还是最终使用产品的个人。文章指出，责任界定的模糊不仅影响受害者救济，也削弱了企业投入安全治理的动力，并引发关于透明度、审计机制与问责制度的讨论。核心议题在于：AI治理需要从技术层面的“对齐”延伸至法律与伦理层面的责任分配。"
+      "publishedAt": "2026-10-04T11:36:36Z",
+      "summary": "Redland Bayside News报道，人工智能正在给旅行者带来新的风险。随着AI工具被用于行程规划、预订、翻译和导航，旅客可能面临虚假信息、诈骗、数据隐私泄露、算法推荐偏差以及过度依赖技术等问题。例如，AI生成的虚假评论、钓鱼网站或错误建议可能误导消费决策，个人信息也可能在预订过程中被滥用。文章提醒旅行者保持警惕，核实来源、保护隐私并保留人工判断。该报道从消费者安全角度审视AI普及带来的现实挑战。"
     },
     {
-      "title": "I Surveyed Workers to See if AI Had Caused Job Losses and Was Surprised by the Findings - The Good Men Project",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMm9FckhMX1FzdnhERTdlWTRpVzNhRVdEaE8tb1Z4QklJdFF2cDhMdGlqdVNGZXhaX05iVHY0aThIbkcwYVNYbl92azBRWTVFM3IyMWZkd3puSXBjcGU2cHpsSzRCcW43alNYcWpPNkRJQVJQNWVhZWVlMW1YR3JuanEyRlhLRC1Md2loS3FfSERfUUVDOERvWmVyTVFXWTZqdHRiMUpFbnRpUDdhMDNQOFlxQ1d2MzNzejc0OTFRb3lsQzd0eS0xczVrT28?oc=5",
+      "title": "Anthropic asks Claude users to share voice data for AI model training - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYXdOQkNGN2NyMjVhNDlOZUVRTUdMWkE1OVNsaEtCQUcyS1hzQ2R3UkhLX1A4VjlWX2lOSHZXSjNSQ3NTT0g1M3ZCX0ltWHJSaGhDelJqdjJwbmVKeENqSkFIallKdzdVUWdqR0IwcndOLWhDbjdnbHN2NXFwTk1UczBMNkRoM3NVdllOcUhJUkFDZ3dWM0dfWnV4V19ldVVnS21UbEg3bnhBWV9FNzFHM3ZieWlYTy05aDJfYm9YYzZYdlJUODZBV0ZyTm3SAdIBQVVfeXFMTXhoYkFWNEtHOEVIclNCSlc0X3BsWk8yaGlGLVQyeFRZUm5rX2hNVjZtY0owZFIxZFFqdUxtbXNaQUgyR040UEpYM21Hdi1UTF9DbVJLRjRSa1RxdHA3cXNROFNtZ09ldEwtLWpSNGtJYnFqaVIta3BKdkdacXZqNFRWd0xZR0tLMUpWLVdUSUlhLUtvTUxSdGJEWS0zbEg1UkxPNHFDOURSalhKTHY5RXQ2b2xyNHRjbC1FNEMxcFR4Z1RWQnhyRVA1amZ1NHBqX1N3?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-04T08:53:39Z",
-      "summary": "《好男人计划》刊登一位作者基于员工调查撰写的文章，探讨AI是否已造成实际岗位流失。作者原本预期会看到大规模裁员与失业的证据，但调查结果出乎意料：多数受访者表示AI尚未直接导致自己或同事失去工作，更多是改变了工作任务与所需技能，例如部分重复性环节被自动化，人员则转向监督、审核与更高阶的协作工作。文章据此提醒，关于“AI导致失业”的讨论可能被过度简化或夸大，短期影响更多体现为岗位内容重构，而非整体性替代，长期趋势仍需持续观察与更严谨的数据支撑。"
-    },
-    {
-      "title": "AI Giants Not 'Careful Enough,' Ex-OpenAI Engineer Warns - en.tempo.co",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZl9KWkRiVTZtYU5TSFB6U1ZQSmRVVVBuYmNhMjRkODEzQ3p1QmkwMF9CZ1AyX0FJZWFDNWRVVHFrcUtsS2tjVEdGSnA1MzVtTjlBVGd3THZBTnJpMUpZWERzSUtpZnFMekh1eFBNaVBqTUMyOVJUcHZMTlFiS2g2RDlXMVNSaUJvRHZEbEtHWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-04T05:37:29Z",
-      "summary": "据en.tempo.co报道，一位前OpenAI工程师公开警告称，当前主要AI巨头在安全方面“不够谨慎”。他指出，头部实验室在模型能力竞赛与商业压力的驱动下，可能过快推进训练与部署，而风险评估、对齐测试和红队审查等环节的投入相对不足。该工程师强调，随着模型能力不断增强并被广泛接入关键系统，任何安全疏忽都可能被放大为现实危害，因此行业需要更严格的自律标准、更透明的安全披露以及独立第三方监督。此番言论再度引发外界对AI发展速度与安全底线之间如何平衡的关注。"
+      "publishedAt": "2026-10-04T10:53:21Z",
+      "summary": "BleepingComputer报道，Anthropic正向Claude用户征集语音数据，用于AI模型训练。此举可能旨在提升Claude的语音识别、语音交互或多模态能力。用户被要求分享语音样本，意味着Anthropic希望在真实语音场景中获取训练素材，以改进模型表现。但这也引发隐私与数据合规关注：用户需了解数据用途、存储方式、是否可撤回及去标识化措施。随着语音成为AI助手的重要入口，厂商对高质量语音数据的需求上升，如何在创新与用户隐私间取得平衡成为焦点。"
     }
   ]
 }
