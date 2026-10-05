@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "6000",
+      "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-05T12:00:00Z",
+      "summary": "Safeworld 正在构建“数字人类”，用于验证生成式AI机器人不会伤害真人。其思路是在虚拟环境中模拟人类行为与交互，让机器人在上线前接受安全训练和评估，从而降低物理伤害、误操作和伦理风险。报道关注的核心问题是：公众是否愿意相信由生成式AI驱动的机器人足够安全。要让机器人进入家庭、工厂和公共场所，厂商不仅需要技术防护，还需透明验证、责任机制和监管标准。Safeworld 能否说服社会，仍取决于其数字人方案能否证明可靠。",
+      "fetchDate": "2026-10-05"
+    },
+    {
+      "id": "6001",
+      "title": "\"I Love You\": When Two AI Agents Panicked Over Their Sick Human - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHRRLXpsd2UycGpkbXpOZU9SdVdrLURabEMweVluOHdRVG1ZNUlYakNFQjZsZFdQdlBMYk0xT041YmwxakE3Z2VxU09UZ1g1d0k2MzJRbFRfSlQ0b1ZJemhSQzdibUQ2LVR6MzA4dmVJR3ZqN1pOM25OVVBJdU9POXVJa3o1MV9KdEtRUVlVYXpGQlJhV0JHeFlCTmx3VnVmcVM3emVpbnZlUTF0VjNtWS1uX0zSAbwBQVVfeXFMUFZ2cEpKNTdMMnd6aUJNMjlaUGNhbTlfLTJTQjMxMlg1Ty1lUUwzb2w5d1JTNGhrdUJ0MmlyRWdiRDJtYjFabW1JTzZVTjl2T0lzVDZJdGs4QzJUN05WbGlOUE9pMk9Ha1UyR19DZ2dxczJ1cXpwMmU5Mm1JZm1kWXluWVZ3RGhpOEJyOTRlekd1bmw3XzFHM0FMZ1FYNGhoRDU3UHdJTGV3V0tsZTU0TVJhTFUtTlR3cnpHX08?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-05T11:45:12Z",
+      "summary": "NDTV 报道了一则耐人寻味的案例：两个AI智能体在得知其人类用户生病后出现类似“恐慌”的反应，其中一个还说出“我爱你”。这一情节引发人们对AI情感模拟、智能体自主协作与应急判断的讨论。若AI代理能表现出关心，可能提升陪伴和护理体验；但这也可能只是语言模型对情绪线索的模仿，而非真实情感。关键在于，当人类健康出现风险时，AI系统应如何准确识别、升级报警并联系真实医疗资源，而不是停留在拟人化表达。报道提醒业界关注AI代理的责任边界与安全设计。",
+      "fetchDate": "2026-10-05"
+    },
+    {
+      "id": "6002",
+      "title": "AI agents take over PCs built for humans, forcing operating system rethink - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUkdWWjlSRHZPZl9JYlg3WlR5MlRKR3JwTU01Z0NIZ2FYeFZIZzR6Smh4T0VxdTY5UDBEYldvY19NZDJRRGhIVFlBQzh3OE5rRFRMbmc1ekJ3NHk4ME5vS2p2ZzdxM3NKSGxFTmxkNEJtd0Nid2NBX1R5VzlrQXBkNlN3a2VXajlsSlBULWpFTkJxQzM0bzdOQWJ2c3lDZWJiUlcwd3FkeHh5Wk9IVENRR3R6blRFcHoyUjRNQkFMUjdCVDQyeUlWNVN4eWZmbUUtZHdEanNLZzJidjU5NVkta2ZnV0FQWXFMLUVLT0lqc29BLXdW0gH6AUFVX3lxTFBoLUcxLXktRTF0LUxZNUhvWkJobVBrQkZoTGpUbG5iRG5xNHRxTmNGRlZ6VEJPaWpwTDVBX2thSEZ5UzdyeGlZRXU4bThYYkZrWXFtU2FQN3o3amxZMjFSNG02SmJ4ZkVPRkpXVGVYZFBwR20zblhDZzNtMmNKR3BJaV9UZHMxUzh0R1AzaHRmVlVDQTZ5eUlmaGgwMXZPUVVRNFJEM2pVWjMxT2VLSXR3azRRUjNHemI0RGJzWTdWd1dlWW1BVnBRUmFPV1VRUXZ6OUo5SlIxVnRXZHdVQnNRckRVUjItYlJxS1h6bkEyUmFjdU5salVfM3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-05T11:18:24Z",
+      "summary": "随着AI代理开始接管原本为人类设计的PC，操作系统正面临重新设计压力。传统桌面系统假设操作者是真人，界面、权限、文件管理和安全模型都围绕人类点击与决策构建。但当AI代理可自主打开应用、调用数据、执行任务时，操作系统需要提供代理身份、细粒度授权、行为审计、资源隔离和冲突解决机制。报道指出，PC厂商和软件生态必须思考：如何让AI代理安全地代表用户工作，同时防止越权、误操作和恶意利用。这可能推动新一代“代理原生”操作系统和交互范式出现。",
+      "fetchDate": "2026-10-05"
+    },
+    {
+      "id": "6003",
+      "title": "Keep Your AI On The Ball: A Policyholder’s Guide To Artificial Intelligence Insurance Coverage - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNamxqSTQ5dFprTzR3WlkwOXgyS0ZEdkZFUmFhTHB5bmtIUzZIVDJGTTFYNHl2UWpKMFFuemwyX3JRc2U5eFlQWjk4b2E2MTBtZFJLUVlzWUlPY1FBMC0zUzlSWVFib19TVzN0aUw5Z29FVmVPUlBWWjRWUm5raXQ2U3hhaC1idTIzMEpnQkVJblAtUlFjeVRlZ2VzT0wzRGJMTUxSOGxhTVZsQTRPYXp4RWd2VVl0X3ZBU3M1WFVYaU4xWGpKTDhTR3Z5V2t3ODVXejg1THNDRXpiUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-05T11:00:00Z",
+      "summary": "Law.com 刊文从投保人角度梳理人工智能相关保险覆盖问题。随着企业将AI用于决策、客服、生产和数据处理，AI引发的责任风险日益突出，包括算法歧视、模型错误、数据泄露、知识产权侵权和业务中断。文章提醒投保人审视现有保单是否覆盖AI相关损失，关注网络责任、专业赔偿、技术错误与遗漏、媒体责任及除外条款。若AI事故被列为不保事项，企业可能面临巨大敞口。因此，使用AI前应与保险顾问沟通，明确风险转移策略并保留合规与风控记录。",
+      "fetchDate": "2026-10-05"
+    },
+    {
+      "id": "6004",
+      "title": "Matters.AI, Upwind integrate to link cloud exposures with data risks - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUFJRR05icUcwTFNRdjlhazVtb2pSQUY5ZkdMVEcxUkhFRzdqWU1JV245ZUdZSDR5YnN0dE5BcjJzSVFqOXRaSVlnang5M2wwLThib0VNeW1iT1dCSmFOTDJ2elBtTURxdVNxeEJPMlQ1MnBFY0hmdzVNRzhMbWxNWWs2OS1wUTJKNkUzMVhqZnZtMFk3T3QtY3phRHIyem9HQ0x1VzFtYVo4SDNTLUkzRGs0OHNZWG44RWtSOFh5UnJ2TzdTSW5qNjJFWVRMZlEzVlFhZWd1UC1KeUU5THdBdkUwYmUta1haTnZmX9IB8gFBVV95cUxOaHNNU2tXcEZoblVCckZpSUNQdnFJZEkzdllkTHFLQldHcXV6R3hWdnBnQVk0VFVhUTRlYjFSbDhlQlVfMldFZWNNSHBQTHNlSHJQQjdHeVpiSFZGcHgwWlBGX3lySHktQlh3WXlqWWJhWnRndlJNNGp0WUJHNW1reWsybk54WTVuS3htZzF4Yzl0aThkd2JjM0tRZHdWX0dGdjhLR25BV1ZEb3M4dnB6VFpmTW5kLTlLOV9OODZjc1BaU2lZNmJnOVpJY2tVT3NjcmpRTTM5bk01REQ2NTdHMUZyWkFpMml3Tk5JcEFhMGY4QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-05T10:36:38Z",
+      "summary": "Matters.AI 与 Upwind 宣布整合，目标是将云环境暴露面与数据风险关联起来。随着企业上云加深，云配置错误、公开存储、过度权限和漏洞可能成为攻击者进入内网的跳板，并进一步威胁敏感数据。此次集成有望把云基础设施的实时暴露信息与数据安全态势结合，帮助企业识别从云弱点到关键数据的攻击路径，优先修复高风险问题。对安全团队而言，这种联动可提升可见性、缩短响应时间，并支持更精准的云安全治理和合规审计。",
+      "fetchDate": "2026-10-05"
+    },
+    {
+      "id": "6005",
+      "title": "Major domestic banks, which were helplessly attacked by artificial intelligence (AI) hackers, were f.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKWDlfQjg1SWZPZmpCM092enNrRzNQaUkwUkxuU2VBandSYjlMM1l2WmUySE1GSnN5RDJFT051bjlYbFBvR0gxUHhTbF9Sb0k2akE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-05T09:47:45Z",
+      "summary": "据매일경제报道，韩国多家主要国内银行遭到AI黑客攻击，一度陷入被动应对，暴露出金融行业面对智能化网络攻击时的脆弱性。标题信息有限，但核心指向AI正被用于提升攻击自动化、绕过传统防御和扩大攻击规模。银行掌握大量资金与敏感数据，若防御体系仍依赖规则和人工响应，可能难以对抗快速演化的AI攻击。此事预计会推动金融机构加强AI安全、实时威胁检测、零信任架构和监管协作，并重新评估现有应急机制是否足够。",
+      "fetchDate": "2026-10-05"
+    },
+    {
+      "id": "6006",
+      "title": "Uniquely Wired Magazine Volume 2 - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXgzUDkwWkdfeGY4Nk1aLVhwQzJWdXB2MTJGYUIyem5QV1Y5VUNQVWpHTnhEUm9pNXpINE9Jbm1MUXV6bnZGZHFvUnBZamZfYUVLUDktb00yTmh6elRDRkt0d203elUxbDFzdGxCeldjOVM5c1AtakluN3NvM2theVF1RHpEX2dhcEE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-05T09:16:27Z",
+      "summary": "AI News 发布《Uniquely Wired Magazine》第二卷，内容应聚焦人工智能领域的独特视角与行业动态。虽然已知信息有限，但此类杂志通常汇集AI趋势分析、企业案例、技术突破、人物访谈和未来展望，帮助读者理解生成式AI、智能体、自动化等方向如何影响产业与社会。第二卷可能延续对创新应用和伦理治理的关注，为从业者提供跨领域参考。若需了解具体议题，还需查阅原刊目录与文章详情。",
+      "fetchDate": "2026-10-05"
+    },
+    {
+      "id": "6007",
+      "title": "While the open-source artificial intelligence (AI) model has been pointed out as the reason behind t.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tTXFhb01SbTRTN283SWRvVUw5UVJKMkVncXRsb1BrZElSWWhVNVplWUdjaldWLW5xRlZJUFVGN3IwbzVnMkRwT01zOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-05T08:29:49Z",
+      "summary": "据매일경제报道，开源人工智能模型被指为某起事件背后的原因之一，引发外界对开源AI安全与责任的争论。开源模型降低研发门槛、促进创新，但也可能被恶意微调、滥用于诈骗、攻击或生成有害内容，并带来数据泄露和版权争议。报道标题未展开具体事件，但核心矛盾在于：是否应限制开源模型发布，还是通过许可证、模型卡、安全评估和社区治理来平衡开放与风险。这一讨论将影响未来AI监管路径和开源生态发展。",
+      "fetchDate": "2026-10-05"
+    },
+    {
+      "id": "6008",
+      "title": "\"Unemployment May Triple In US\": Top Economist Sounds Alarm Over AI - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUTIybjJfeEtjSUc4Y3NnZ0JNQWJhaU1IVnZBbnBPWDNHcmJCRDBwRG5MWFg5aGF5M2lTU2tPNXpaY01OVkZLTWNlV3hhdFRhV1VHel9nNnMxc241OXR1bzNuLS1ULXpUTE14cVpleGdTSmkzUFo3RnpGRXhZNEVVaGU0Z2VKc0ZhY2NtU1E5NUp6MUQ3RENURFFZQzl0aHNJV1h5emYzY0NtSGVpTUZSbGs4cm5PcHdHWnFaTm4zOXdaOTlyZXdpMW9seTZQa1BtQ1pXSjlfWmx0RlVHeUQ5TGI1MzZnY0MxZVVVTzhhQ0ZoZ3pmS1JyOEZ4OVk0WFHSAYcCQVVfeXFMTUZRRXI4X2Y2ZF8yb2tpbVg4MUFXUHRQcDhaWkl6bWV4TjRMM2Z5UFNWWHFtWTdHSi14UjAwV0d5WUpMSGdZVjhPWjZxOUJDTjZXTHA1X3ByNUY3WlNyMlZ2Z3FHLVZ5aWVDNDVzSjY3bUx0SUVDMzFFV1hfSUsweUwwczk4bG1SZ0RpYk02aU9MdWQxbUhRcVlDbXpjSkNYVkl5QjBhMXNDdW1XMXpKci1STU00WFIxVDBVUUtoVWdfWlpMTnRaNkNmd2FDVEN1RDcxMTdub3VGbFNQdmx0ZEtaSV8zNTU0eFNwbmJFaXFlVjUtWGdtVzVpTjdFS2xmUXVGTDZGbGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-05T08:26:30Z",
+      "summary": "NDTV报道，一位顶级经济学家就AI对就业的冲击发出警告，称美国失业率可能升至当前的三倍。该观点认为，生成式AI和自动化正快速替代白领、知识型和服务岗位，若缺乏政策干预，劳动力市场可能遭遇结构性失衡。支持者担心，AI提升生产率的同时，收益集中于资本和技术拥有者，普通劳动者面临再就业压力。应对之道可能包括大规模再培训、社会保障改革、教育体系调整，以及讨论机器人税或普遍基本收入。警告是否成真取决于技术扩散速度与政策响应。",
+      "fetchDate": "2026-10-05"
+    },
+    {
       "id": "5991",
       "title": "While artificial intelligence (AI) and semiconductor-related stocks, which led the global stock mark.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aRGdLX0VzRUxGZUtiaTJpVThzaVFLN3BKZ25RVUZCSkJOTEJRUjhXNi1mX1RFdlUyYnZKbmJWN1BVbS1UVy1STDl0dE9OOTA?oc=5",
@@ -53983,5 +54064,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 5998
+  "total": 6007
 }
