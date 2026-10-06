@@ -1,132 +1,97 @@
 {
-  "updatedAt": "2026-10-05 23:27:16 UTC",
-  "totalArticles": 18,
+  "updatedAt": "2026-10-06 03:42:40 UTC",
+  "totalArticles": 13,
   "articles": [
     {
-      "title": "ABC has no plans to create AI newsreaders - WAtoday",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVBhcnlpdXJqc0RhbXg3WDFZZ1FRZVNtYUR5OE80eV8yeUNvbjdUVFFxc0NJMVA1THNhVXRscXM3bjI1eE9FbEVEWWthUDQ5ejZKUmVPbmg2bHVFNXBuVVdBMmRyV3U3Q1NVbW5TVHhtOHl4cDJ0eXhkUTVERFNfWjhWR1VOZEJjYU9YSkptM3pHNGpjQXptaDdGVFEwZEVLY01PTjJkRHBxdGwx?oc=5",
+      "title": "Illegal parking management technology through artificial intelligence (AI) cameras has reduced illeg.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mUEdVNHZUdXg4Q2t6NjkyeHF3b3NDYzZYUkVUazg5ZlNXaHY5TnFRZ0oxanlsWVNKY0R3Z1lGWWxua0ZsQnhrVUlNUXdmcHpDYjJLVExB?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-05T23:10:20Z",
-      "summary": "澳大利亚广播公司（ABC）表示，目前没有计划创建AI新闻播音员，也不会用人工智能取代真人主播。尽管媒体行业正积极探索AI在内容生产、剪辑和分发中的应用，但ABC强调新闻播报涉及公信力、伦理责任和公众问责，仍需由人类记者与主持人把关。此举回应了外界对AI冲击新闻岗位的猜测，也体现出公共广播机构在采用AI时的审慎立场：可在幕后辅助提效，但前台呈现仍保持人类主导。"
+      "publishedAt": "2026-10-06T02:44:19Z",
+      "summary": "韩国利用AI摄像头技术整治非法停车，取得显著成效。该系统通过智能图像识别自动检测违停车辆，替代传统人工巡查，提升了执法效率与覆盖面，减少了非法停车现象。这一案例显示AI在智慧城市交通管理中的实际落地价值，有助于缓解城市拥堵、改善道路秩序，也为其他城市提供了可借鉴的低成本、可规模化的治理方案。"
+    },
+    {
+      "title": "South Korea plans to develop $3.5 billion frontier AI model starting next year - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVTlQeGh2U2VmYkk3NEs1b0hUVzRHZ1FYLTdNNTNUUkgxbGlmekt5OW9fNmVNU1pRVnZKc1pDY1JLak9fVTBKVzV2Rm1GUE5xczNDSUFnRGEzMGtTekU4T1c0UGVmZDg2UDhQdVpINDVnbGtjVlRjZEJ1OHRhelBaRmxXRVRTWWtJbW1LRV9vODl4NzZNU1dpV0t5X0o3a3pNeEN0VmVzRXd6b2hDTGt3anBuNlFiaS1BR3IwbkZOcU9aT3g3Rmdkb0tsZGppN3J2anpVcFBSajFBZVN1WjRxU0NHdUVybmViT1Y2dWF2MkgzZ9IB9wFBVV95cUxQbHh4aVhEVW5LMUpfYU91YzRpQmdUeFN1cEZHRkMtNEIxU3BtT3ljcTZId3hhSkE0dEFFZkdyV0txcFVKSDk3M25hZjl6OVdHcDlianBxWEZ6TTJTNjJxRWZPcTFTMDEtUmRRMUFNTE5sZV9iWFVzMF83RmlWdXY3N2N1aG9HS1Uxb3g4d2lkQUtjUW5uODZ5aFVMdW9JNkc5UmVScDJqUmlDbzUxUU5QUlc5VG4wRkw1YVdDTXNCTGI3alRYRUkwUElMT3NPa0o3V1Q3a09xRkxCYU5wazBwVnJZclQ2U0hLMkh2dDhHcEU1SWRYV0xB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-06T02:31:11Z",
+      "summary": "韩国计划自明年起投入约35亿美元，开发前沿人工智能大模型。该计划体现韩国在全球AI竞赛中加大国家级投入、力争跻身第一梯队的战略意图，覆盖算力、数据、人才与产业生态等关键环节。通过自主研发前沿模型，韩国希望降低对海外模型的依赖，强化本土AI产业竞争力，并带动半导体、云计算等相关产业链发展。"
+    },
+    {
+      "title": "S.Korea eyes idle highway land, rest stops for AI data centers - KED Global",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZUhQMmQ1SVVuaEFIUHVZS0RraDV3clRIbThhR0ZMMWRmSE1QbHNRSHZlek0wamtmd1ROaDVDVFRjc1lVc0dCdUVPajg5ZWpqWWZSZHhlOWlXWVJuLUlxSG9ZbHN6V0hQMnRGZjl6ZVA0VENZNDBOREdqbi0yMFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-06T02:11:51Z",
+      "summary": "韩国正考虑将闲置的高速公路用地及服务区改造为AI数据中心选址。此举意在利用既有土地资源和交通、电力等基础设施，缓解数据中心建设用地紧张与审批周期长的问题，同时降低选址与建设成本。随着AI算力需求激增，数据中心扩张面临能耗与土地双重约束，韩国希望借此加快算力基础设施布局，支撑本土AI产业发展。"
+    },
+    {
+      "title": "While Nvidia has renewed its artificial intelligence (AI) rally by hitting an all-time high in the U.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NV0ZXaE5Kb1JuY2pnWnZ5b0xFS2s5cGpyQk5GVHR1TFhLSzBPVXg4MklENFVsd1FCLVhoRDdTSTFxS0xOWTc3SWFJOElCd1k?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-06T01:58:28Z",
+      "summary": "英伟达股价在美国市场创下历史新高，重新点燃了人工智能板块的上涨行情。作为AI算力的核心供应商，英伟达的强势表现被视为市场对AI需求持续旺盛的信心体现，也带动相关芯片、云服务与AI应用企业受到关注。这一走势表明，尽管市场对AI投资回报存在争论，资本仍看好算力基础设施在中长期的增长空间。"
+    },
+    {
+      "title": "Global artificial intelligence (AI) companies entering the Korean market are actively using the Amba.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12WnRnN1ExTE5GMDhFa2hqdXhJZEdvcFRiWkNTenZKNmhoWXROYzh0Snp4REswZ00xLUdHbncydmRRUVRmcWxiUVg0VQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-06T01:53:15Z",
+      "summary": "进入韩国市场的全球人工智能公司正积极采用相关云与AI平台服务，以快速落地本地业务。借助成熟的云端模型与开发工具，这些企业可以降低基础设施搭建成本，缩短产品上线周期，并更灵活地满足韩国企业在语言、合规与本地化方面的需求。这一趋势也反映出韩国AI市场对外开放度提升，本土云与平台服务商面临更激烈的竞争。"
+    },
+    {
+      "title": "AI whistleblowers encourage NYC Council to enforce more regulation - New York Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHBQVDBnOWRNRW5CTGFuSkdRVGpaRFFRRFo2eDR5U2xiM3ZrQ2VPd3o5VEVFNU1iZTE1OTc0WWtQQWNseGk0RGNqd0F0QTZpaURabHprU3gtNTFEMHF5M01RVE5TNnhvTGxRTHpGbDk2UV9OODEyUFliSjJaRDJsZGJZS1RlQ3UyeWtEc2Z1dmlJai0yaXQ1bW9qUmZrWHdFREZWVS1NblZPZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-06T00:34:44Z",
+      "summary": "多位AI领域举报人向纽约市议会发声，呼吁加强对人工智能的监管。他们基于自身从业经历，指出AI系统在数据使用、算法决策和透明度等方面可能存在风险，主张通过立法明确企业责任、强化审计与披露要求。此举反映出社会对AI治理的关注正从技术讨论转向制度约束，也为地方政府在缺乏联邦统一规则的背景下先行监管提供了推动力。"
+    },
+    {
+      "title": "He Botched The Epstein Files. Now He’s Trump’s Intelligence And AI Lead. - levernews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeHdZejB5OVM5WHpVWTNHNUFJYjV1SkFWMFFXZTNpcDBrQWZURGRORnRJckM4d196OGxzWDJCWGJEbjRJNzA1Ynp6Mlgzejk5V1oyX0w2US1oSFF6MVZRbDdFdXZxY3hyUURlaUQ0bXdJTlVCWDRSTDdsODh0NjVCdW5JMEFsckk0TjBPN0hjX2JjMXFwSnd6bGJ1Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-06T00:26:04Z",
+      "summary": "有报道称，一位曾因处理爱泼斯坦相关文件不当而受批评的人物，如今出任特朗普团队的情报与人工智能事务负责人。该任命引发外界对AI政策与国家安全决策专业性的质疑，也凸显AI议题正深度嵌入美国政治与情报体系。评论认为，关键岗位的人事安排将影响未来美国在AI监管、出口管制及安全应用等方面的走向。"
+    },
+    {
+      "title": "AWS seeks to automate cloud optimization with new AI agent - cio.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSHVCYmZvTnJaZk9EYTVtZHZoR2x3d2lOamdkb3VnWjE0RU94NV9VSjlmVHE1UjlpVTItQ2xvckw5OGU2bm96VVBSWS16eEhMRUh4QWhUeUtzR1dEOWNjaUVvalphVFpEWTJEeDA0SVZXQ1pPbE5XVHVERk0yRURiNXlzNEhYdXZicnRGaTRTcm9NcXFLRkR5TGZaZU5lLTdG?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-06T00:09:58Z",
+      "summary": "AWS推出新的AI代理，旨在实现云资源优化的自动化。该代理可自动分析云环境中的使用情况，识别资源配置不合理与成本浪费问题，并给出优化建议甚至执行调整，从而帮助企业降低云支出、提升性能与运维效率。这反映出云厂商正把AI代理能力嵌入基础设施管理，推动云成本治理从人工巡检转向智能化、持续化的自动运营。"
+    },
+    {
+      "title": "AI Agents Expand Cyber Liability, Putting Corporate Safeguards in Focus - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb0xGeFdGOFFWZlJZSzhjZDRNWUtxSUpJa1BNa1dOZDFTcUxjRUprcVVoRzRqMWZvTWpHQU15WHBtZXpmbFhaVTV6TkQtZXdUSVlWakJMbDM0Z052MXpfY011M1Iyb0drbXhuaUxJS3VFYWg5RzBvUGwzRkd5bE1NN0Rkenl6dGd0RDZUc3dmUkNTcWdBVXpodUgyRURTQWFFdDlqaWs1eTFhWjB0ZU5kX2VIX1BOMkp5Y183TXhJU3NzY052ZUh3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-06T00:02:09Z",
+      "summary": "随着AI代理在企业中广泛应用，其自主执行任务的能力扩大了网络安全责任边界，企业防护措施成为关注焦点。AI代理可访问系统、调用接口并代表用户操作，一旦被攻击或误用，可能造成数据泄露、越权操作等风险。业内建议企业明确权限边界、加强身份验证与行为审计，并建立针对AI代理的安全策略与应急机制，以控制新型责任风险。"
+    },
+    {
+      "title": "Mohamed bin Zayed University of Artificial Intelligence places 1st fellow of Ruwwad AI Scholars Fellowship at University of Oxford - مكتب أبوظبي الإعلامي",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWW5id1ltX3I3cnVWRENSYmZncjYtb0s1bVZYZzBvbmxiOW1lbTdBWmtVN3lyeGstaHQwVHpsUnBnUnBodTR1djUxQkxma0VVMHR6S1NFUmdvTjNnQmlsUnAzVkM1T3F2aDh3cVlibnZJUTVFbHVOUU9mSkgwLTFyLVQwS1FmYUxSSFBaVGliZ0VkTGczbkRndTR2MTh0Nk5ndXlUWjNIbVUzRlpVV3FWcWtPMTZEZUVHdjRiZk5lTXdPYzYtSU11ZVpTSGx4VVNSelJJUVROWC1yakZlVlhyeVQtRDRiajhrb2hPQUhTakJGRThPN0tKZkNkMnozbnMtbFBGX2dweTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-05T23:16:55Z",
+      "summary": "穆罕默德·本·扎耶德人工智能大学宣布，其Ruwwad AI学者奖学金的首位研究员已赴牛津大学开展研究。该项目旨在培养AI领域的高端人才，通过与国际顶尖高校合作，为学者提供跨机构研究平台与资源。此举体现阿联酋在AI人才战略上的持续投入，也反映出全球AI学术合作网络不断扩大，中东高校正积极参与国际AI研究生态建设。"
     },
     {
       "title": "Which is the real threat: climate or AI? Both — and downplaying either is a risky gamble - Crikey",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnlaZ2FMaHFOOUZFZHB1WXJOck9DSVhRWXJieWVIaHpTeDlZTTRDc0tPdG4zY1pDMmdGUkxubk9HbFRpelJFcldvMnZOb0VWZG1aVHlBVE15TVVsdU5xZ29sQS03QlB1VW01SW9VOXhSQjBsSE9sclVTLXQ2cW0yN01wWU4ycy1Zb1N6OEV0OThYaFVYel9CMnkxZ2I?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-05T22:58:46Z",
-      "summary": "文章指出，气候危机与人工智能风险并非二选一，两者都是真实且紧迫的威胁，低估任何一方都是危险赌博。将注意力在气候与AI之间相互转移，可能延误减排和AI治理。AI带来能源消耗、虚假信息、安全失控等新问题，气候变化则持续加剧生态与社会风险。政策制定者需要同时推进气候行动和AI监管，而不是用其中一个议题掩盖另一个，否则将付出更高代价。"
+      "summary": "Crikey刊文探讨“气候与人工智能，谁才是真正威胁”这一议题，指出将二者对立是伪命题：气候变化与AI风险同时存在且相互交织，任何一方被轻视都可能带来高昂代价。文章认为，把注意力集中在单一威胁上、以此淡化另一方，本质上是一场风险极高的赌博。其核心主张是，社会应在推进AI治理与减排行动之间保持平衡，既需警惕AI在能耗、虚假信息与失控风险上的负面影响，也应避免以技术乐观主义为由拖延气候行动。"
     },
     {
       "title": "NYC already battling AI attacks as council prepares to grill artificial intelligence leaders - Brooklyn Eagle",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sOXk1dGpmSkxqaEFsbFNKWmNBc0VLUzF3WDdhRVVNRHBDM09LMWxOODB3WXRaSndyMmV4UFhZQTJia2RzaG1TVmlQNUlnVVlJUkhzMWFYcC1uVE8zRHVKN1IxMlFYSlRp?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-05T22:01:59Z",
-      "summary": "随着人工智能被用于网络攻击、欺诈和虚假信息等活动，纽约市已经在应对多起AI相关安全事件。市议会准备质询人工智能领域的负责人和相关官员，聚焦AI对公共安全、数据隐私、政府采购和城市服务的影响。报道显示，地方政府正从观望转向审查，希望明确AI系统的责任归属、风险防控和监管框架。听证可能推动更严格的政策，以确保AI部署透明、可问责，并保护市民权益。"
+      "summary": "据Brooklyn Eagle报道，纽约市已在实际应对与人工智能相关的攻击行为，与此同时市议会正准备对AI企业负责人展开质询。报道显示，AI带来的安全威胁已从理论讨论进入城市治理的现实层面，涉及公共服务、数据与关键基础设施等领域。市议会的听证意在厘清AI开发商的责任边界、风险披露与防护措施，并推动监管落地。这一动向反映出地方政府在AI快速渗透背景下，正从被动应对转向主动问责与制度约束。"
     },
     {
       "title": "Tech execs are getting wise about ROI from AI - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU3h0Rml6N1JzTENrVDRVa0tEM0lMd3dZd1VnNUZIMG1RUHY5NjR6VlUwRHljUm5md1JGRHFJeVoyRHh4SjRSaUc1X1M3cExCN21jU3pueThpZTRXajVaX1VSWGZ4bHVEUExmNmJkQ1dudUtSNW5QMWtScVFHcXJZZ1c3UGx1TWVvejQ3UzQ2SklaMVJfOGV6a0cyeW8?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-05T21:55:07Z",
-      "summary": "科技公司高管正对AI投资回报率变得更加清醒，不再仅仅因热潮而增加预算。企业开始追问生成式AI和自动化项目究竟带来多少收入增长、成本下降或效率提升，并关注数据治理、人才、集成难度和规模化瓶颈。许多试点项目难以转化为实际业务价值，促使高管设定明确KPI，砍掉回报不明项目。文章认为，AI投资正从概念验证阶段进入务实评估阶段，ROI将成为决定预算和部署节奏的关键标准。"
-    },
-    {
-      "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-05T20:54:09Z",
-      "summary": "英伟达支持的Reflection发布首个AI模型，旨在挑战中国开源模型。该模型以开放权重和较低算力成本为卖点，面向企业和主权国家，支持机构利用自有专有数据训练定制化、本地化AI系统，即所谓“AI工厂”。这反映出开源模型竞争加剧，以及市场对数据主权、成本可控和私有部署的需求上升。Reflection希望借此在由中美模型主导的AI格局中占据一席，并推动企业级AI从通用服务走向自主可控。"
-    },
-    {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-05T20:36:48Z",
-      "summary": "OpenAI宣布将在欧盟为ChatGPT以及Codex生成的文本添加水印，以遵守欧盟《人工智能法案》。水印是不可见标记，用于帮助识别内容是否由AI生成，提升透明度和可追溯性。不过OpenAI提醒，用户对文本进行编辑后，水印可能变得更难检测，说明该技术仍有局限。此举显示，在监管压力下，AI内容溯源正成为合规重点，平台需要在生成、标注和检测环节建立更可靠机制，同时平衡用户体验与隐私。"
-    },
-    {
-      "title": "Security teams are starting to treat AI like staff, and that means managing it - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGlsdTlSZHRIcHpzWDh4OVV5RlRKWC0ya1hjY3Y5S1RfQUJZcDdLdHFHMVl3NGlMT3d1RG45aVotS1owY2NVZmRwSzQxeU9LeHVVU2ZfQ1FOQkJqZEtLaUg0MDVDUXZOMVBRWmItYmNEaHM0dGFQSXBUOVdDUEFrbzRrOVE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-05T20:15:34Z",
-      "summary": "安全团队开始把AI代理当作“员工”来管理，这意味着需要为AI建立身份、权限、访问控制和行为审计体系。随着AI能够自主执行任务、调用工具并接触敏感数据，传统安全边界被打破，企业必须像管理员工一样管理其生命周期：入职、授权、监控、问责和离职。文章强调，零信任、最小权限和持续监控将成为AI治理核心，防止AI被滥用、越权或造成内部威胁，同时确保自动化效率不牺牲安全性。"
-    },
-    {
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-05T19:33:53Z",
-      "summary": "Reflection推出开放权重AI模型Beam，主打以更低算力成本对标中国开源模型。该模型面向企业和主权国家，并通过“AI工厂”方案，让机构在自有专有数据上训练Reflection模型，构建定制化、本地化AI系统。其卖点包括数据主权、成本效率和可控部署，试图满足政府对安全与自主性的需求，以及企业对私有AI的需求。这显示开源与主权AI竞争升温，厂商正从卖通用模型转向提供可本地训练和部署的基础设施。"
-    },
-    {
-      "title": "AI is the greatest grievance machine ever - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGRPTG9ZeXR4aFluRTlLYVBpWGx0dzJwTFJZUHB0ejdWTDJuaWNrYmI3aXhWZy1YMmNOXzN2MksyUWQtNDNrOG1mU19ocFo4ZDlmeklvakZoNUx3NkVOazdRckJ2QVlDNTJhamdWOU5SZFNUaVdMaVpVLTdhYWxCakJQNm0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-05T19:33:40Z",
-      "summary": "文章认为，AI已成为有史以来最强大的“怨恨制造机”。生成式AI和算法推荐能够以极低成本批量生产愤怒、受害叙事和极化内容，并精准触达受众，放大社会不满与对立。不满政治因此更易蔓延，公共讨论被情绪操控和虚假信息侵蚀。核心风险不只是技术本身，而是其被用于煽动、动员和牟利。应对需要平台治理、内容溯源、媒体素养和监管，降低AI放大社会裂痕的能力。"
-    },
-    {
-      "title": "Preventing artificial intelligence from triggering a world war - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xWC1TRmswNHZVd0RwV0lJMGdEZTA5ZHZ0aEs0WkZjazVGT1E4SWVuNDlPbGF5M3UxU1pHVTY5R1dQSjhnV3N2R1phX3V0eXdwVnBpa1dyeHg1ZXNuNThST0Nubkd1dTlCb2JNM21GbFNFbjZGdjlfSTln?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-05T19:19:54Z",
-      "summary": "文章讨论如何防止人工智能触发世界大战。随着AI进入军事指挥、情报分析、核威慑和自主武器系统，误判、升级失控和意外冲突的风险上升。若AI在高压环境下快速决策，可能压缩人类判断时间，甚至绕过外交危机沟通。文章主张加强国际对话与军控，确保人类对致命武力的最终控制，提升AI系统透明度与可解释性，并建立危机沟通和事故预防机制。治理必须跟上技术，才能维护战略稳定。"
-    },
-    {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-05T18:54:30Z",
-      "summary": "Instinct将其AI智能体引入群聊场景，支持没有账号的朋友共同参与。用户可在群聊中调用AI协作完成旅行规划、拼车安排、活动协调等任务。公司强调个人账户仍相互隔离，个人智能体在共享信息或代为执行操作前必须获得用户授权，试图在便利性与隐私安全之间取得平衡。"
-    },
-    {
-      "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns - CoastTV",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZFJyZXIxcm5zWkNSbUIyNU1SMFNMY2pZdkhmUEpsSUh6U1NkQW95VXQ4LXdtMTdYQzBsMW5LNVQyTU04cVJSRjE2anBkTzREeWExVGF3Q1FNSUtyWTRnTWVreC1nTWRFdktNNXl0eE9YNzQ1eE1CZjd0dzRVSXB3ejgyWDA4cFl6d1JLN2sxYlJ3M0VzRDU5SHNHUzVfMFZwNmVycVRlbk9MN0RsWlZ5alJMbU9CVEYxUUQ1TGdVbzViU0NaZHBPNXo4dkNmbElGT1NPS3QzRzcwSXVQYW9FTUJDeUpNSHZUaGF0cV9HZndjMk5mX0xZeDFPdHRtamtjdUMxZEtCN0NqaklycUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-05T18:45:54Z",
-      "summary": "随着地方政府开始关注AI安全议题，AI行业内部人士在纽约市议会发出警告，表达对相关风险的担忧。新闻显示，围绕AI安全的地方监管正在升温，行业专家可能就模型滥用、隐私、偏见、就业冲击或系统性风险等向立法者作证，推动城市层面采取听证、审查或政策应对。该事件反映AI治理正从联邦与全球层面下沉至地方，地方政府在安全监管与创新平衡中扮演更积极角色。"
-    },
-    {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-05T18:29:00Z",
-      "summary": "TikTok推出AI购物助手与一键结账功能，进一步加码电商闭环。其Shopping Assistant被定位为对话式AI智能体，可根据用户需求帮助发现商品、提供推荐并促成购买；一键结账则简化支付流程，缩短从种草到下单的路径。此举显示社交平台正利用生成式AI与智能体技术提升购物转化率，同时可能加剧与亚马逊、Temu等在社交电商和对话式商务领域的竞争。"
-    },
-    {
-      "title": "Mohamed bin Zayed University of Artificial Intelligence places 1st fellow of Ruwwad AI Scholars Fellowship at University of Oxford - mediaoffice.abudhabi",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWW5id1ltX3I3cnVWRENSYmZncjYtb0s1bVZYZzBvbmxiOW1lbTdBWmtVN3lyeGstaHQwVHpsUnBnUnBodTR1djUxQkxma0VVMHR6S1NFUmdvTjNnQmlsUnAzVkM1T3F2aDh3cVlibnZJUTVFbHVOUU9mSkgwLTFyLVQwS1FmYUxSSFBaVGliZ0VkTGczbkRndTR2MTh0Nk5ndXlUWjNIbVUzRlpVV3FWcWtPMTZEZUVHdjRiZk5lTXdPYzYtSU11ZVpTSGx4VVNSelJJUVROWC1yakZlVlhyeVQtRDRiajhrb2hPQUhTakJGRThPN0tKZkNkMnozbnMtbFBGX2dweTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-05T18:08:11Z",
-      "summary": "穆罕默德·本·扎耶德人工智能大学宣布，其Ruwwad AI Scholars Fellowship的首位研究员已赴牛津大学开展研究。该奖学金旨在培养AI领域高端人才，推动阿联酋与国际顶尖高校的学术合作。将首位学者派驻牛津，体现该校全球化人才布局和科研网络建设，也反映中东地区正加大对AI基础研究、人才培养与国际交流的投入，以提升在全球AI竞争中的地位。"
-    },
-    {
-      "title": "AI Agents Expand Cyber Liability, Putting Corporate Safeguards in Focus - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb0xGeFdGOFFWZlJZSzhjZDRNWUtxSUpJa1BNa1dOZDFTcUxjRUprcVVoRzRqMWZvTWpHQU15WHBtZXpmbFhaVTV6TkQtZXdUSVlWakJMbDM0Z052MXpfY011M1Iyb0drbXhuaUxJS3VFYWg5RzBvUGwzRkd5bE1NN0Rkenl6dGd0RDZUc3dmUkNTcWdBVXpodUgyRURTQWFFdDlqaWs1eTFhWjB0ZU5kX2VIX1BOMkp5Y183TXhJU3NzY052ZUh3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-05T18:04:25Z",
-      "summary": "随着AI智能体在企业场景中承担更多自动化任务，其带来的网络安全责任边界正在扩大，企业防护措施成为关注焦点。报道指出，AI代理可访问系统、调用工具并执行交易，一旦被攻击、误用或出现越权行为，可能造成数据泄露、金融损失和合规风险。因此企业需建立身份权限、行为审计、实时监控和应急响应机制，明确责任归属，在提升效率的同时控制新型网络责任。"
-    },
-    {
-      "title": "Plenty of people believe that AI can be God. Just not the Pope - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkU4a3FJbmRDOVd2UzRPcURnWDhhemlKNno4Q1NVUDVpbmtIeHRIODFOckEwY3dKU2Q4T0xld1FvekFIdk5tNFNnYV9tM2cxa3piM2VoNGJUYm02aGhsNlVGNFNpcFhqajVOaGl1dnJQSU5ReUo3X2NVY0owaHJ1Wk10aU05UTJ5STNoNFBMR3V5bnE0SEp6cnpSRFZRTjRXM1IwNkU0WlVaR1o0d1AxT0lPYm0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-05T18:00:00Z",
-      "summary": "悉尼晨锋报报道，许多人相信AI可能具有类似神明或超越人类的力量，但教皇并不认同这一观点。新闻聚焦宗教与AI的碰撞：一方面，部分公众对通用人工智能抱有近乎信仰的期待，甚至赋予其精神权威；另一方面，梵蒂冈或教皇对AI持审慎态度，强调人类尊严、伦理边界与信仰不可被技术取代。这反映出AI文化影响已深入宗教与哲学领域，也引发关于技术崇拜的讨论。"
-    },
-    {
-      "title": "How Australia’s underworld is weaponising AI for drug imports - SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQblozYk9MXzlkbkx2cmhQeFlYSlZNMEFCSzdmTUNESnJQSmg3MjZ0TmtlaDNPQ0x5YVpfeGk1NHBMWlRLZkNvZHpoSjBHTmxlMmt3elY4SFEwbC11Y3djWXRmTmg5X09xZXJHNzVlR0QwZ0pLTkcwbng3dnd5dEp0TDF1VzNjMG8tTzY0OWprMXJMWjdjSlJvVzNrVnNrUWxZQlF3eFhKa180UTU2bE9CS3gyVnhBeHRsTFE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-05T18:00:00Z",
-      "summary": "悉尼晨锋报调查报道揭示，澳大利亚地下犯罪集团正将AI武器化，用于毒品进口等非法活动。犯罪者可能利用AI进行加密通信、规避执法检测、优化走私路线、伪造文件或分析海关风险，从而提升犯罪效率并降低被查获概率。该趋势显示生成式AI与自动化工具正被滥用，给边境安全、执法侦查和平台治理带来新挑战，也促使监管机构加强对高风险AI应用的监控与打击。"
-    },
-    {
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-05T17:29:22Z",
-      "summary": "Hot Girl Hotline被形容为AI时代的Dear Abby情感问答专栏，由两姐妹创立。该产品利用AI为年轻女性提供个性化的约会与恋爱建议，覆盖关系咨询、沟通策略和情感支持等场景。团队特别强调安全与避免情感依赖，试图在提供即时陪伴和建议的同时，防止用户过度依赖AI。它反映了情感陪伴类AI应用的兴起，以及行业对伦理边界的初步回应。"
+      "summary": "Computerworld报道指出，科技企业高管对人工智能投资回报率（ROI）的态度正趋于理性务实。此前不少公司热衷追逐AI概念并大规模投入，如今管理层更关注成本、落地场景与可量化收益，开始审视哪些项目能真正带来效率提升和业务增长。这一转变意味着AI采购与部署将更强调商业价值验证，供应商也需以实际成效证明投入合理性。文章提示，AI正从“概念驱动”阶段进入以ROI为核心的务实评估期。"
     }
   ]
 }
