@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "6091",
+      "title": "Despite Warnings Global AI Development Is Racing On - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHlsQjJZV1NUOWlxZDhMQmNncGd1WkdDUTREanBBQUdJSVQ2UGIzOHItdi1aeDdkTmZTdDRaV3JFUnZKUTRkTXBHakZsOGQxT1AtcGRFeW1obzlYd2FhdHd2Slh3a2JXajRwX0JWUTVBdFh1Xy1GRjc0bjg1TEExVGF2dFpBNzN0N2dlaURpTWFVelhxZzBxbktpY3k2Tzc2am9oSHI4TDXSAbABQVVfeXFMTVlpcFg3YnhTVnd4X25nbXpxYnl0dGJMRjdia01Ubks5dXJHbkdPT3c0TFo1T0ZUOEJsNUZPaHN0QXBXVHpnaWtDaFpFUEg0c2l0a3NoXzNGQkxtLUN2LU1wYlFNSGwxdWo3NXgzcDVWMU1mMHE0djRVRjJGM3lKejBYRGFwUGp1WkVUNWEySTR3aVFtNGNvbENCTHN1ejNVckt6TjNlaXdNU0QteXBxLUo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T06:57:19Z",
+      "summary": "NDTV报道称，尽管业界、学界和监管机构不断对AI安全、伦理与失控风险发出警告，全球人工智能研发与部署仍在加速推进。各国科技公司持续投入大模型、算力与多模态能力，竞争格局从技术突破延伸到应用落地。与此同时，治理框架和监管规则相对滞后，安全评估与责任归属尚不完善。报道揭示出当前AI发展的核心矛盾：创新速度与风险控制之间的张力日益突出，全球AI竞赛短期内难以放缓。",
+      "fetchDate": "2026-10-07"
+    },
+    {
+      "id": "6092",
+      "title": "South Korean megachurches probe suspected AI-linked cyberattacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHBENnFFZExrOWJJY3plamJVNVUtU1d0bXA5RW1Va1ZBbjc0VWgzemdxZGZWakYwZW01T2lzWE9WMGpiYmc0aENrNmh6QmotUGZrQTl4THlKUzVEa1kyS1lfVlJ4V3dNSG41aXBOcEdHRTdobEhaOXgyY0RhNjBSOTFfWmFiVWdEcWF5SGN5OG9hX2pVT05VU2FZeEdlc3I0TnRZd2FPQ3RvLVBpV1ZBaGo4VWlvSmdp?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T03:00:00Z",
+      "summary": "路透社报道，韩国多家大型教会正在调查疑似与AI有关的网络攻击事件。此类攻击可能利用AI技术生成钓鱼邮件、深度伪造内容或自动化漏洞扫描，从而提升攻击的欺骗性与规模。宗教机构通常掌握大量信众个人信息和捐款数据，容易成为黑客目标。目前事件仍在调查中，具体攻击手法和影响范围尚未完全披露。该案凸显AI被滥用于网络犯罪的现实风险，也促使机构加强网络安全防护与AI威胁监测。",
+      "fetchDate": "2026-10-07"
+    },
+    {
       "id": "6081",
       "title": "NVIDIA, the leader of artificial intelligence (AI) semiconductor market, hit an all-time high on the.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBR0dWbm93X2hJQ1k3d3dIbUJSQmdhX3ltOFlJdndCMXBHUC1WU2dlaE5lNS11MktaV2RobU1JU3ZpNUFISWZfaTQ3OVotUUU?oc=5",
@@ -54802,5 +54820,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6089
+  "total": 6091
 }
