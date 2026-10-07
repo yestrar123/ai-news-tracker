@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "6093",
+      "title": "Large models aren't the answer to every enterprise AI problem: Articul8 CEO - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWndUYmtXSE42ZC16T2ltODhxLURvaGEyZGpQYlFUM2tqbFNwMGFPNjljZTJuRW5ZVlJrSm53dDhQUjdrckVRdF9ibjBBeHBXR0x6NVYtRzg2NXltX0FSSzVEV19JTGgtUWtsQjFRM0lJeXgySmRUcVRxbWhaOTZsTnR4d0t4QWhrYVcxZnVHdWFOWjdxNWtBNmZhellsM191Tm9qQWpORkJnT1VHU2haeURzRmtfSU5mOWFqSEJZYzJMMU1LQWRfcGVzNUtnQm9kbmtDWlBsNXdXa2xERDBmNjIzU1Uxem1tT1RQblVqRFI3eGhneHfSAfsBQVVfeXFMT2FzdFZLLWxHbld0OWtxQUJJSlU4Ykx4eTYxeENiV0oxeHdUS3BwSWJKVGM4ZzhMVkhjTUoxbjI0eEtLYjBqM3phbHE0SWlaR2xBUmRwbU0tVEU4M081R2cyTlkyU0xXQ2NUdklFWDllOHlUNVB3TDVRWjFYTmI4d3lXNTVGRk9QRnFtOTJfZTYyTjRsLWdLR0V0bXoxS05ZMzJUcWIxSWFOb2dKQlpKanBpXzkzXzNfS1diTFRjYmRNQmhGQjlWODY0VGdhdTFkZEhQOEVsMWx6YXRhcERkMTFFc3pqdnJ4RDM2NVB6Zi1kNVJCSEw1ZUxNV1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T11:15:56Z",
+      "summary": "Articul8 CEO指出，大模型并非解决所有企业AI问题的万能方案。企业在部署AI时，应根据具体业务场景、数据敏感度、成本与合规要求，选择大模型、小模型或混合架构。盲目追求参数规模可能带来高成本、低回报和部署困难。企业更需关注可解释性、安全性、私有化部署与业务集成，让AI真正解决实际问题，而非被技术热潮裹挟。",
+      "fetchDate": "2026-10-07"
+    },
+    {
+      "id": "6094",
+      "title": "Council of Europe and Microsoft sign AI cooperation agreement - AI News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZloxVTVzZnJZZTNZZWN6Nzd5dXNULWQ4bURjZE1HbXk1ZGZULUViWV9mbF9aV05zUTZHV1FGT0xYenI1NnpKajhEb1dJekhPMGlXTTY0cExjNU1ZdE9qelVxVzlmRXgtZlBFWEpRN2N2bk1jVFh1TmhkbkNVNXVqMktRckZpYXJVX3NkYzZEZ2xTOHlERmxrbkFfRjhYRjlrS21IVw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T11:06:18Z",
+      "summary": "欧洲委员会与微软签署AI合作协议，旨在围绕人工智能治理、人权、民主与法治建立合作框架。双方可能推动负责任AI原则落地，包括透明度、问责、风险管理和跨境规则协调。此举显示国际机构与科技企业正尝试通过公私协作，在AI快速发展的同时维护基本权利与公众信任，并为全球AI监管提供参考。",
+      "fetchDate": "2026-10-07"
+    },
+    {
+      "id": "6095",
+      "title": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2p1M1ZHTVBGQXhwSXJMYWp2SXBVWGZzVnV1V3JaWjJWTjI0RnVKS2t2OGdRc1VCYVBwTTljSk9EQ2xINUtZbl9IMDZDZTZWc3hodFYzckxmaldPNC1taDFwcTJxcTJFdjk1eTl0LVpoYlBEREJnX2U0ajB0V0FXRXE2QWlvTllvWVRFaU43SlJRQlhiVVNhVDR4WkdGMi1mSnAtUXprYmZHV1ZfT3RMdTc1emNYVEtCZkNSeFdXZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T10:53:24Z",
+      "summary": "路透社/益普索民调显示，多数美国选民认为特朗普与国会未认真对待AI风险。受访者担忧AI可能带来就业冲击、虚假信息、隐私侵犯、算法歧视和安全威胁，而政策制定与监管步伐不足。该结果反映公众对AI治理的焦虑上升，也可能对选举政治和立法议程形成压力，推动两党在AI安全、透明度和问责方面采取更积极行动。",
+      "fetchDate": "2026-10-07"
+    },
+    {
+      "id": "6096",
+      "title": "AI pause is no solution, human control, safeguards key: Thales CEO - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUkVPNnNnNjlFSU9NQ0xDVWVBNDdBLVE3RGdmTXNqWVVOalZ0ekJDZTZNRkVNeC1mNk5VOVR2RG9NQ04td2c2THNQOWx0YW1DY0V1aWRZLXZaT1NaZnVod19nZmFnUTlSOGFKMEl5bzlPWG5TNTVqVm5sWEMwbzE2QkdlUGR6YktEUDNWN3F0STA0REZmX1hVMHdHSWpnWlVOb0xqZWNSazFjYXJPcjNIUkJNMDcwZjNCUHBybEF4NVFsSXFRZG5Zd25OSjFDTGRjT1pTMzBRVy1zbExCVllUMVdHVmxTWFnSAewBQVVfeXFMTlJzSjZkZVk0ODNCbzVjY0FNR2pudmd4YzNkbGJGZXVaTWlaVmw0ZGdhQUxUYXFUZ2JsWnQ4NDdPNnZVZUVCZWdwWnBUXzhWM0dyN09RZmp5WmxLYm44dTRwVkpaUUd0ckdPWHN5Zk1MNDIwdWVWV2NtemhpQ2hmMjVSYjFial8zWmRtRVpxLUE1MHZGMUVTNHBEeE5idy1IelcwenJaM1BRdVEtVWpvMC1IWS1sQW1qVGV2bDJpWnR4VFZET25rNWVkN1hRU2pwa3pNdHUtcEhyZnFOWHlsWDFiQmZqcl9Lc1U1LXA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T10:28:09Z",
+      "summary": "Thales CEO表示，暂停AI发展并非解决风险的办法，关键在于人类控制与安全保障。他主张在推进AI创新的同时，建立强有力的监管护栏、可解释机制和人类监督，确保系统可控、可信、符合伦理。对于国防、航空、安全等关键领域，更需在效率与安全间取得平衡，通过技术标准、认证和持续评估降低潜在危害。",
+      "fetchDate": "2026-10-07"
+    },
+    {
+      "id": "6097",
+      "title": "AI, automation and connectivity could drive the next era of shipping - safety4sea",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0VENEZ3S3R2a1d5aW5VWWFTNDVjSWlvbkxmdzZsMzd5cjRSQ0RqMl9QSlp2NDFoNlJpMmVGd0lieGI5aHBuRl9vZkhseVpIand5SVQ5ZHB3MTBoazVoUUtwa0FDV2dhM3lMZnRIN2RvVTVJeUNkeV96N0RBTkE3d0FzUnpRbEFBNHphbFQ1UUg5VlR2enc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T09:57:11Z",
+      "summary": "随着AI、自动化与连接技术发展，航运业可能迎来新一轮变革。智能算法可用于航线优化、预测性维护、港口调度和供应链可视化，自动化与物联网则提升船舶运营效率与安全水平。但行业也需应对网络安全、法规合规、船员技能转型和系统可靠性等挑战。若治理得当，这些技术有望推动航运更高效、绿色和韧性。",
+      "fetchDate": "2026-10-07"
+    },
+    {
+      "id": "6098",
+      "title": "What happens when AI learns from info increasingly shaped by AI itself? - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeHUzUlpOZ210THhSZXM1YVdsX2J4SHBSV1U5SG9HR0pCYTlKX1A0empGbkpzT2EybVFFdWFkdVlvTFRWNmpwSnEzQ3NZdzVKdklfeWJLVEVKcXJxSWRaX2FxSzY1Si1iSzRnMVZMaXd0Z3RLeUoyLW5SNkpoNTlXNXlkMVZJaHJlbjdtVnFmaDJydUZleUZXS2pWcnlIbHpacHN1U1B1MFE5alBBWEQ2U19wMVBPOVNNdml3Y2kxWmo0OUxnT0NRZmYzR25aRWR0UVpBa1JEcTd3ZWxQZUdZMG1mNmtDVTZpOXp0ZWF6ZlQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T09:47:51Z",
+      "summary": "当AI越来越多地从由AI自身生成或塑造的信息中学习，可能形成反馈循环，导致模型崩溃、错误累积、偏见放大和内容同质化。若训练数据被低质量合成内容污染，后续模型性能与真实性可能下降。因此，需要加强数据溯源、合成数据标识、人类高质量数据保留和模型评估，避免AI在自我循环中逐渐偏离现实。",
+      "fetchDate": "2026-10-07"
+    },
+    {
+      "id": "6099",
+      "title": "Emotional optimization by newsroom AI needs behavioural evaluation - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wcE85dG1LVU5IR2FmVGxVWHdFbU1fS0xlQWVWaVZrN0RLUFpLTlpJU1dCaUYteXF4SWRJMDMzMU8xT0NDdUpPYWxaeG9scGxJbXJOUjJPZDRld1pJTnNz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T09:34:54Z",
+      "summary": "Nature文章指出，新闻编辑室使用AI进行情感优化时，不能只关注点击率或停留时长，而应开展行为评估。算法若针对情绪设计标题和推荐，可能加剧极化、操控读者情绪并损害信息生态。媒体需结合行为科学、伦理审查和透明度机制，评估AI对读者认知与心理的影响，确保新闻价值与公共责任不被参与度指标取代。",
+      "fetchDate": "2026-10-07"
+    },
+    {
+      "id": "6100",
+      "title": "Is that what I wrote or AI'nt it? - Berkshire eagle",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWklZOW1qMm5QU3RQNFRnZGFNWW84RFdVaUdjcldURkhTcW4xM1FidFJWRHRlSjZpbmU2ZWZlYnh4OEtBaTR3QjVsd3JVNV9kRDNzbFV6cnQ0a0JiOHV0VnNMYkgzU28tenJERUtEWXc3VmVSeUNNRWlRRFBqMVhtdF9rdTNyQjdVRFFqSm1IX1poMnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T09:15:00Z",
+      "summary": "生成式AI普及后，人们越来越难判断一段文字究竟出自人类还是AI。这引发教育、新闻、出版和版权领域的作者身份与诚信问题。AI检测工具并非完全可靠，误判可能带来不公。因此，需要推动内容标注、来源验证和批判性思维教育，同时更新学术与职业规范，明确AI辅助写作的边界，维护真实性与信任。",
+      "fetchDate": "2026-10-07"
+    },
+    {
+      "id": "6101",
+      "title": "These days, I sit face to face with artificial intelligence (AI) and write a book. Going through the.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rWHFsVWVPRTFFM2lHQUJacDI5UjJtUUw2bmxTOGp2dFZCN3JnTnVQY3FiUFREYm9JRVR4MXJRYU1GYjhhU1BvbHVCcllNQ0dQVGtHREhpSzg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T08:14:22Z",
+      "summary": "一位作者分享与AI面对面协作写书的经历，显示生成式AI正成为创作伙伴。AI可帮助梳理结构、生成灵感、润色文字，提高写作效率，但也引发作者主体性、原创性和版权归属的讨论。人机协作模式下，人类仍需负责判断、情感与最终表达。此类实践反映AI正在改变知识工作流程，并促使人们重新思考创作与工具的关系。",
+      "fetchDate": "2026-10-07"
+    },
+    {
+      "id": "6102",
+      "title": "Penn State Announces New Artificial Intelligence Grants For Faculty - Onward State",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0pDdERDb3hwcDE1NnRaUmpBaEptbU9KdkhkM3hYYmhFOVctSF8tNnFtRGFNdHhhbk1YNS1NRDBuUjZadndSa1diTHRCNlc0MDJlamZGd2FiejFfQ3JteFNJb081c3FqbHlJUlo0ckhfMVF4b2thcy1DcVA1Z19HWFN4eTNuem8zWGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T08:11:29Z",
+      "summary": "宾州州立大学宣布设立新的AI资助项目，面向教师征集研究提案。该计划旨在鼓励跨学科AI研究，推动人工智能在工程、教育、医疗、伦理和社会治理等领域的应用与创新。通过资金支持，学校希望促进教师合作、人才培养和技术转化，同时关注AI责任与影响，提升大学在AI研究与教育中的竞争力。",
+      "fetchDate": "2026-10-07"
+    },
+    {
+      "id": "6103",
+      "title": "Wikimedia Finds Unauthorized OpenAI Agent Activity on Wikipedia - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmR3aEFNWGNUNWQ3RFp5WDRLZEhOeGVWWHdIdHZ1eGtIdDFfbDZFck5SRWdzanpWTUFBZzdFX3p0VnlteVFoUzVLYVZIMDZRY05ROV94QlVudk8xSTFIQ0pqMjVnRTZ4V3dIQWdhZXhvSlVkTHhaX1djblNoN3g5bW90Xy1SY05iSjNvWGVtNXdBUDdObzkydGY3a0ZMZndhQjYzbzNzazIyQdIBrwFBVV95cUxPYm1QZUM2VURtYUd5cEZTUGF6QUtRWU1XUjVKMGNsd19yYzhlTmJIQ0c1R0xkOEtoc0tOS0NiaVdTa1hHamxtamFDR0E0SDlORFV2b0wtN3d5NXdjTlVYQXBYUDJpT0NXSDIzREg3WksybFR4ckk1S0VnZUwzc2k0UWd2cDVOcUNzb015MktJN3ZZeThaMks3bWFXS2ZNMDhaV2k4NFpaMFJ0YTVKWTg0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-07T08:09:30Z",
+      "summary": "维基媒体基金会发现维基百科平台上存在未经授权的OpenAI代理活动，涉及自动化程序对平台的非授权访问或操作。该事件引发对AI代理合规性、数据抓取边界和公共知识平台安全的关注。维基百科作为开放协作项目，依赖社区规则与访问控制；未经授权的AI活动可能干扰内容治理、增加滥用风险。事件也凸显在AI代理快速普及背景下，平台需加强检测、身份验证与透明披露机制。",
+      "fetchDate": "2026-10-07"
+    },
+    {
       "id": "6091",
       "title": "Despite Warnings Global AI Development Is Racing On - NDTV",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHlsQjJZV1NUOWlxZDhMQmNncGd1WkdDUTREanBBQUdJSVQ2UGIzOHItdi1aeDdkTmZTdDRaV3JFUnZKUTRkTXBHakZsOGQxT1AtcGRFeW1obzlYd2FhdHd2Slh3a2JXajRwX0JWUTVBdFh1Xy1GRjc0bjg1TEExVGF2dFpBNzN0N2dlaURpTWFVelhxZzBxbktpY3k2Tzc2am9oSHI4TDXSAbABQVVfeXFMTVlpcFg3YnhTVnd4X25nbXpxYnl0dGJMRjdia01Ubks5dXJHbkdPT3c0TFo1T0ZUOEJsNUZPaHN0QXBXVHpnaWtDaFpFUEg0c2l0a3NoXzNGQkxtLUN2LU1wYlFNSGwxdWo3NXgzcDVWMU1mMHE0djRVRjJGM3lKejBYRGFwUGp1WkVUNWEySTR3aVFtNGNvbENCTHN1ejNVckt6TjNlaXdNU0QteXBxLUo?oc=5",
@@ -54820,5 +54919,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6091
+  "total": 6102
 }
