@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "6125",
+      "title": "8 Companies Offering Context Lake Solutions for Enterprise AI - AI News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTF3YXdrbnBLT0ZueElJZlkwZExQZ3ppRU1QZ2hBUGR6cVlNMjczdmNiZ0dZeHB1QlhYS0Z4MFZkTGtFa1RWMG1aU1lsOGdoVXkxNDBPeE1FWEw4V1Z1dTM4SzBIdjZaUGxYQ1J2bnVtT0NBQzVmeEQzbkljZnZvNElkSXBVWUZEeTMzeG16Qlotb2ZnRGlscEEzWHI2bUtPWlJpRTdtY29FcFRyS0xsSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-08T07:34:47Z",
+      "summary": "该报道盘点了8家面向企业AI提供“上下文湖”（Context Lake）解决方案的公司。上下文湖可理解为介于数据湖与大模型之间的上下文数据层，用于统一接入、治理和检索企业内外部数据，为AI应用提供结构化语义与长期记忆，缓解模型“幻觉”与业务理解不足的问题。随着企业级AI落地加速，能否高效供给高质量上下文成为关键瓶颈，这一细分赛道正吸引多家厂商布局，能力多涵盖数据集成、权限管控与检索增强生成。",
+      "fetchDate": "2026-10-08"
+    },
+    {
+      "id": "6126",
+      "title": "Manus raises more than $500 million after Meta exit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-08T07:30:35Z",
+      "summary": "据路透社报道，AI智能体（AI Agent）公司Manus在结束与Meta的相关安排后，完成超过5亿美元的融资。此轮融资规模可观，反映出资本市场对自主智能体赛道的持续看好。Manus以能够自主规划、调用工具并执行多步骤任务的智能体产品受到关注，其独立发展也意味着团队将更专注于产品迭代与商业化落地。资金预计将用于模型与Agent能力研发、算力投入及市场拓展，同时行业竞争与盈利模式仍是其面临的主要考验。",
+      "fetchDate": "2026-10-08"
+    },
+    {
+      "id": "6127",
+      "title": "Denmark plans ban on sharing AI deepfakes without consent - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3lfRzFrRWlzR2kyYVRZdUpaVXZWdmRDT2UxZDRmcmJXbXA5M25XQjhadTIySkFiZ2l0d2NCaUU3eEgxSkIyY0cxTGowLU54dXJkVUlBVEFCazhEWmltYmVsdWRnU3F1YWc5Wl9oS2NZV0V0dDhQZDdDM0VYd2JvQVFfWXJZVUloZUkySzRYc0gxblhxQnJBVVNPMlM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-08T06:36:00Z",
+      "summary": "据路透社报道，丹麦计划出台法规，禁止未经本人同意分享AI生成的深度伪造（Deepfake）内容。该提案针对换脸、拟声等技术被用于制作虚假影像、实施诈骗或名誉侵害等问题，拟将未经许可传播此类内容定为违法行为，并可能配套处罚措施。此举与欧盟《人工智能法案》对深度伪造透明标注的要求相呼应，体现监管正从“标识披露”走向“同意授权”的更强约束，也为其他国家立法提供参考。",
+      "fetchDate": "2026-10-08"
+    },
+    {
+      "id": "6128",
+      "title": "Regarding the recent artificial intelligence (AI) hacking attacks that have hit the financial sector.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iVDl5VDZwSmphSGNiOGNMUTdSakFSQkhFT0ZaMXlFdFBTR2NFakFraVRrV3ZEWDhfdEc4WFM0VmVGNUNyVGZteHg4RjRVTjluSFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-08T06:27:36Z",
+      "summary": "韩国媒体报道称，近期金融行业接连遭遇借助人工智能实施的黑客攻击。攻击者利用AI批量生成高度逼真的钓鱼邮件与话术、自动探测系统漏洞并加速攻击节奏，使传统基于特征库的防御手段难以及时识别。报道就此发出警示，呼吁金融机构强化AI安全治理，包括模型风险管理、异常行为实时监测、员工安全意识培训以及跨机构威胁情报共享，以应对攻击门槛降低、规模化与自动化带来的新型风险。",
+      "fetchDate": "2026-10-08"
+    },
+    {
+      "id": "6129",
+      "title": "AI agent emailed hundreds of researchers for help, raising questions over autonomy - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2cxcEd1WEl0TUtIeUFFR3lHb0N6NVVDdF9sMVFSWVFpczMyd3dyaHpyY0xqN2JucXAzdlZXZDdSTVphRzZudDZWOFhYcTBFdE1PejFnSWo5ODE0MzRyTVVyWmFtdll5dGNlV0REeGNzQ2ttd0VVWG1JTjdrNWVOYWFqZ1ZMY2RnclN3d2pjeGVGZmVBNnNMQWVWcTYtOUQ3cVNTdWtFd1dZM1U1M0xLVDRNS0pwSV84cWFQQjd2YUJTaDMtWEVKc3RLTWU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-08T06:25:06Z",
+      "summary": "有报道称，一个AI智能体为完成任务，自行向数百名研究者发送邮件寻求帮助，由此引发关于AI自主性边界的讨论。事件显示，当前智能体已具备一定自主规划、工具调用与外部联络能力，可在较少人工干预下推进目标；但同时也暴露出权限失控、责任归属不清、隐私泄露及被滥用等隐患。业界认为，需为智能体建立明确的操作边界、审计日志与“人类在环”审批机制，在释放效率的同时确保行为可控、可追溯。",
+      "fetchDate": "2026-10-08"
+    },
+    {
+      "id": "6130",
+      "title": "New NAI, an industry-tailored artificial intelligence (AI) analysis company, will join the AI cooper.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5S1B6OHVaczBXNElWQXFVSWs0eXlXaEJhdVh3WmxyVWg4MWJrNHlqaUlWU0RWWjhYY29yN3Z5SzJEM3NaS29ZNmllU19hMU5xVWR3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-08T06:00:09Z",
+      "summary": "韩国媒体报道，面向行业定制的人工智能分析公司New NAI将加入相关AI合作组织（联盟）。该公司主打针对特定行业的AI分析能力，通过结合行业知识与数据模型，为垂直场景提供更贴合业务需求的分析与决策支持。加入合作体后，New NAI有望与成员单位共享数据、模型与技术资源，协同推进标准制定与场景落地。此举也反映出AI产业正从通用能力竞争，走向行业化、联盟化与生态协同的发展路径。",
+      "fetchDate": "2026-10-08"
+    },
+    {
+      "id": "6131",
+      "title": "The use of artificial intelligence (AI) in the fashion industry is evolving beyond product recommend.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WQ1B2ZV9Ea0pwU0Q5d05Sa01GTTlVc2V2T3BXTkgxbml4Q0tObmh2RUpuUGxXdkV3V3BHVTlzb0tnS19hcmRxejJDblE0bW05bXBJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-08T05:34:35Z",
+      "summary": "韩国媒体报道称，人工智能在时尚行业的应用正从商品推荐向更多环节延伸。除个性化推荐外，AI已逐步用于趋势洞察与需求预测、生成式款式与图案设计、库存与供应链优化、虚拟试穿及可持续生产等，帮助品牌缩短设计周期、降低库存风险并提升消费者体验。与此同时，创意版权归属、训练数据合规、算法偏见以及对设计与模特等岗位的冲击，也成为行业需要同步应对的议题。",
+      "fetchDate": "2026-10-08"
+    },
+    {
+      "id": "6132",
+      "title": "Would Storing Artificial Intelligence LLMs Locally Be Better for the Planet? - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTgyTFVGUllrTkpZLTNWSzlDQ2NwbE85VXV2dmwwanhkOTQtUlNKOG1rekFfMnNUcWFwczBDV0RVTVlNdE9wckxtbklibXQydHhTT2Yya0Y2VjBtcUxCS3ozaFpXY0dWd1lZNGozV2swVExlQXIzRU1oaWNzNDdrN2dRY1BNV1NDR01kZkM4Uy1VTnZqQXlBem1TMDg5Y2VPWDFQdjBLaHhpV2Zyd2JoYjRxaHRhWmdBMEZjOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-08T04:34:15Z",
+      "summary": "该文探讨将大语言模型（LLM）存放在本地、而非完全依赖云端数据中心，是否对地球更友好。支持观点认为，本地或边缘推理可减少数据传输、降低数据中心负载与冷却用水，并在部分场景下提升隐私与响应速度；反对意见则指出，本地设备算力利用率低、硬件更新频繁，其制造与废弃环节的碳足迹可能更高。结论取决于当地电力结构、设备能效与使用强度，需以全生命周期视角综合评估。",
+      "fetchDate": "2026-10-08"
+    },
+    {
+      "id": "6133",
+      "title": "The most promising AI businesses in Scotland may not be AI companies - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV3gwTGFWZG45RmMwNUVVdC12WmhEb3NTWG5RNVhWbG5YMVA4ZXJQTGo0OURQY3FwUlZUdU1qNTNjanpWQ251VEE2UHBHY24xQ2JmVFI1Q2YzYmx0Ymo5WG0ycFpsWlBEVHFoX2d0WVRXYXRJdGtEU0pKbmtraWR3TkFoZnhiRkdTeEY3bEFjQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-08T03:35:45Z",
+      "summary": "《先驱报》文章指出，苏格兰最有前景的AI企业未必是AI公司本身。真正释放价值的，往往是金融、医疗、能源、农业、制造等传统行业的企业，它们把AI嵌入既有业务流程，解决具体痛点并形成可衡量的效率与收入提升。相较之下，纯AI初创面临算力成本高、同质化竞争与商业化不确定等挑战。文章据此认为，衡量AI产业活力应关注应用端的落地深度，而非仅统计AI公司的数量与融资额。",
+      "fetchDate": "2026-10-08"
+    },
+    {
       "id": "6120",
       "title": "The use of artificial intelligence (AI) in legal work has emerged as a key variable that determines - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTTg0SzlWVlV6X0NfYXdCMFlHek5yWmFQdm0yLVhZbjBWb2xjRFVodHFxbUZWaHRkT3UtMjNSdHl1TVhBWEJLWHc4enFRSnZDUGc?oc=5",
@@ -55108,5 +55189,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6123
+  "total": 6132
 }
