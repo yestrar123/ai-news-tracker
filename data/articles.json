@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "6163",
+      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDdDTFdpS2hCa1RXNkFyczlOSUFIbWZfd2lTUjFNOV9HVDRKOWRZak9vcF9MMWNaRWZnMHQ5TC1LTTZqRU4tV19iZkNXbDdjWE8wZThvQXRza19EVWJaTTdUOFA0SU1ycDVHanM3bVdNMEk5Q0NuYkE5WmptNDl6RG9YQ1BMdUZESlNKQXBMUjloV0VzN3ZVRjktenFNa0NmU2xhcWowZm9RZFFNMTM2UjRYRWpuWjJIZGVJNTYwc0VJQjFHcUJzME00Y0U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-09T02:47:19Z",
+      "summary": "据报道，在韩国一家银行遭遇黑客攻击后，一名中国开发者将ARTEX AI智能体项目由开源转为闭源。此举凸显AI代理在金融等关键行业中的网络安全风险：自主智能体可能被滥用进行自动化攻击、权限绕过或数据窃取。闭源可限制恶意访问并降低代码被利用的概率，但也带来透明度下降、安全审计困难和社区协作受限等问题。事件反映AI供应链安全、开源责任边界与金融监管需要更紧密结合，开发者、平台和机构应加强漏洞披露、访问控制和应急响应机制。",
+      "fetchDate": "2026-10-09"
+    },
+    {
+      "id": "6164",
+      "title": "MISA IGOV ONE AI Artificial Intelligence Application Training - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVU1PZFR2NTRzV0luZ0xNVEZEd1dtSmJnOVFiSzVMejdvNnI5TW1rQkQ4dUdFUEtKVkJwY1RKdFlBTHRvMWFwWjFORS10VlB2VDExSnNvRVhaY1EyUFNxREV2eGlwWTB1eXdRcHU3QzJfTF9wbUVpNE1PbjR1azdWRzJqYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-09T02:29:10Z",
+      "summary": "越南软件企业MISA围绕IGOV ONE平台开展人工智能应用培训，主题聚焦AI在电子政务与公共管理中的落地。培训可能涵盖AI基础、智能问答、文档处理、数据分析和流程自动化等内容，帮助公务员和机构人员提升AI工具使用能力。此举体现越南推动政府数字化转型、将生成式AI或智能助手引入行政服务的趋势，同时也需关注数据安全、隐私保护和模型可靠性等治理问题。通过培训提升组织AI素养，有助于公共部门更规范、高效地采用人工智能技术。",
+      "fetchDate": "2026-10-09"
+    },
+    {
+      "id": "6165",
+      "title": "BigBear.ai vs. Nebius: Which Tech Stock Is a Better Buy in 2026? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPczI0ZVR3bTl6NnM5d3B4OUoyNHM4RGNndTc5bDFQbUFxYUc1aERsY28tV2JlSFE4Y0QzZG5HRXhOTGRDcWNUOFhiY2FxN0tIb3hBcGhPSWZoU3lWVHg2bFM5WThrS2xvUGZlVlRqLXVUczBGc1Y3SzNVNlpEOHJ6LTFwcDd4YXZqWHg3VThEZzJFTTNPNU5oc0F0amtxczBRZGh4LUlPbE15c3lQTFAwX2JMS3E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-09T01:14:46Z",
+      "summary": "Motley Fool比较BigBear.ai与Nebius两只科技股，评估2026年哪只更值得买入。BigBear.ai聚焦AI决策智能、国防安全和供应链分析，偏向应用与政府合同；Nebius提供GPU云、AI基础设施和模型服务，受益于算力需求增长。文章可能从增长前景、盈利能力、估值、客户集中度、算力投资和风险等角度对比。投资者需区分AI应用公司与基础设施公司的商业模式，并关注高估值、持续亏损、竞争加剧及宏观环境对股价的影响。",
+      "fetchDate": "2026-10-09"
+    },
+    {
+      "id": "6166",
+      "title": "Talk to My Agent: Is AI Ready For Black Friday? - WWD",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0Y0WHp3Uk9oLXlJMWJEWjVScFB2d0hWZ19nMFF5M0xfOV94T003TFBVQ0J4X3BEM25JZUxuVk8yVDhXb0J6UXFCb3Y0OVRaMkgxVVZNVUdBd29CTGdkT3hMSG0zdVZpRkI2S3oyMGJjaVY4Z1VUMTRsRmhkX2w5UUtFN3kzYnJid0xWVF9KNWNoNTZrUVVfeFpCb2czd3VlVi1hLW1yRloxRTlWUjdSUUZn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-09T00:55:53Z",
+      "summary": "WWD探讨AI代理是否已准备好应对黑五购物季。随着智能体可代表消费者比价、推荐、下单和客服，零售商面临流量入口、个性化营销与转化率变化。但AI代理在支付授权、库存实时性、退换货、欺诈识别、品牌体验和平台兼容性方面仍存挑战。文章可能评估代理式商务的成熟度，以及品牌应如何优化数据、API和客服系统，迎接AI驱动的假日购物流量。若执行可靠，AI代理有望重塑电商入口和消费者决策路径，但信任与安全仍是前提。",
+      "fetchDate": "2026-10-09"
+    },
+    {
+      "id": "6167",
+      "title": "The Kardashians Use Artificial Intelligence to Make a Weird Sketch - Vulture",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CS0VrY1l4cnBraTVJX0F0WWpyVzJITlBmbDhENWRqQWs3RmV0ODJOREFXMDh4czVHVG9IbHpmQjVpWk5DMjlMdkJxODBFQXF5aEV6ZmFoV0t6bkpvc011MHJaNDNabXFPLVZhOUx3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-09T00:26:35Z",
+      "summary": "Vulture报道卡戴珊家族利用人工智能制作了一段风格怪异的短剧或小品。该内容可能将家族成员形象、声音或剧情通过生成式AI进行合成与再创作，体现AI在娱乐内容生产、名人IP运营和社交媒体传播中的新玩法。此类应用降低创作门槛并制造话题，但也引发关于肖像权、深度伪造、版权、真实性和伦理边界的讨论。观众对AI生成内容的接受度、平台标注义务与监管要求，仍是名人及娱乐公司采用AI时需权衡的关键问题。",
+      "fetchDate": "2026-10-09"
+    },
+    {
+      "id": "6168",
+      "title": "Lawmakers eye more federal action on AI standards, security, disclosures - Federal News Network",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSTRiSVFEX0lvdmVTWk1oSGEtY1ZaMTB0SktCNFZ0UkpIMkwwN0hETXI3TUVNc2xqNEM1TjVIaEJqWmREZktuMlhsQnJXVWNfeGQ1bnJzdzVpMFAzcGtlTmJHU3lWSVdoNXBEaTRMaWN5aHZTeXRUb0NqNW9wRFF4bk1IRFIxTHB6eUF3RVhtTDduSkpJNVN6MFA2N3F0c2VzWnF3b0dRSGFNMVpMblZXRjg1bHBwUFh4UG42U0hGaXA1ZlJqTjZMRmhNVUE0UWM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-08T23:51:45Z",
+      "summary": "美国联邦立法者正考虑在AI标准、安全和信息披露方面采取更多联邦行动。背景是AI系统在政府与关键基础设施中加速部署，带来算法透明度、数据安全、偏见、问责和采购规范等问题。相关举措可能包括制定统一标准、要求风险披露、加强网络安全测试、明确机构职责，并平衡创新与监管。对政府承包商和AI供应商而言，合规、审计和透明度要求可能提高，联邦AI治理框架或进一步成形，并影响公共部门采用AI的速度与方式。",
+      "fetchDate": "2026-10-09"
+    },
+    {
+      "id": "6169",
+      "title": "Physician edits to artificial intelligence (AI)-generated messages to patients were associated with different response time burdens - 2 Minute Medicine",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWlocTM0X0VSLTh4SEVXTXZNejZxRERHR0NHVzNwRkl6bHRkYm1sRnJ2U1g5V1FEZkNlMmdDSmxycDFGdFJCWEpkTW44ZG9kTms3aUQ4REU0ME5Nek5fcEZROW5fM0Jzalg4OTJMMGZaR1RZa2U4WUdGOTdpU2RHT1dkcmx2UEpQVWtWWkkwQnBBSWRJNGFBUG5xLVpvaWVtUS1LNzgyUmJINTVfS1dKUnYzNmNqTW5UamRuQ3h5VkRQX0FxZGJJenNrVE1RclVtdjFGSGF5NjRFOGNjempkQ0lUWGc4UjFEZU0xVjU5WDE5bERi?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-08T22:54:35Z",
+      "summary": "一项研究关注医生对AI生成的患者沟通信息进行编辑修改，与其后续响应时间负担之间的关联。随着医疗系统使用生成式AI起草回复、患者教育和随访消息，医生仍需审核和个性化调整内容。研究发现，不同编辑方式或修改程度可能对应不同的时间成本，说明AI可减轻部分文书负担，但若输出质量不稳、需大量人工修正，反而增加工作量。医疗AI需优化准确性、语气和工作流整合，并评估其对医生认知负荷和患者沟通质量的真实影响。",
+      "fetchDate": "2026-10-09"
+    },
+    {
       "id": "6140",
       "title": "Australia's AI dependence leaves us exposed to geopolitical storms. We need alternatives, and fast - Crikey",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRDB3Q3g3UXNsTWhaT0JGOEE5RWhfTUJmbTJ1bGVGaTRvYVFja2YxVm11X3pkeXhta3hDVnB1TUVhOXBSc29tOWdxeEhNWEhuRUpURXBueWxjM1BObThSanJqVnhOdnJJVGFoa0hxQlpFbjRSMzF0TFVvZWFSSXJUQm5ST3pIdGswQzVWVFBOdWpFQ01tcHN3WXYtUjJVaXYtaFJyaDB1eFJEdUVtcWVkaTBrYWFNNWM?oc=5",
@@ -55450,5 +55513,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6161
+  "total": 6168
 }
