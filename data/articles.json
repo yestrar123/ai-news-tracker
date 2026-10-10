@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "6253",
+      "title": "Fake female photos made with artificial intelligence (AI) and social network service (SNS) accounts - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhNHFVZEl4ZmpaTVJOeUpfMVZEbzkzNHhqcXdUclp3R2hXSktvZlI5RUN5Ql92dnJmZ0hteTY4VEQ1OFZocGZaLXZDR3M1bjNRRGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-10T10:55:20Z",
+      "summary": "韩国《每日经济》报道，有不法分子利用人工智能（AI）生成虚假女性照片，并配合社交网络服务（SNS）账号进行传播。该报道揭示，AI图像生成技术降低了伪造身份的门槛，假照片与虚假账号结合后，可能被用于诈骗、诱导关注或非法牟利。这类行为不仅侵犯当事人肖像权与名誉权，也加剧了网络空间的信息失真，给平台审核与身份验证带来新挑战。报道提示，社交平台需加强AI生成内容的识别与标注，并完善账号实名与治理机制。",
+      "fetchDate": "2026-10-10"
+    },
+    {
+      "id": "6254",
+      "title": "UK must not be beholden to foreign AI, says head of Alan Turing Institute - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3ZZVGp0NnVEbEwyN3lJeUFnVHRkNW9oRnZDQk15SmhZWEJLNThBWXhZaG5HOFFwRXBKR0h2SDRkdGI3MFpaM1ZVaTdrTjBVQzdmVFNhWlJVTXlxLXBiV1BvRWdRampPdUFyaV9ITGhkUjRNRXRQVFh6SVJUZFdaeE9LQUJwM09SdVBBZWFvWHl5VXlxQkhNTHZOLXZCVjhURnFIUGVRWFFMWkwyNHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-10T10:00:00Z",
+      "summary": "据《卫报》报道，英国艾伦·图灵研究所负责人警告，英国不应在人工智能领域受制于外国技术，而应加强自主能力建设。其核心关切在于，AI正成为关键基础设施与战略资源，若核心技术、模型和算力过度依赖海外供应商，将带来经济安全与国家安全风险。此番表态反映出英国乃至欧洲对AI主权的高度重视，主张通过加大本土研发投入、支持本国企业与研究机构，确保在AI规则制定与技术竞争中保有话语权和自主权。",
+      "fetchDate": "2026-10-10"
+    },
+    {
       "id": "6204",
       "title": "AI system submits false homicide tip to Philadelphia police - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnNQNmNTNVdsTjFlRHpYcmhLN2pZQjZQdFB6ZWEyUkt0OTZ6R1dUSlR2SnV4VWxIMm1vOURfUnM0SnJiSXI3N3R4bDBqTjYyQmdSaDFUVXJmM1Y1c29INVRJVTBPRGkwZUdrTTdJTVI4RkFQb1Q1bFRudFJwdFpsc2p2SFVuaHBxNE5mR3BHZzl4d2VsdG5Hd2xocURSbVlxQnJGN1BYM1B0d0g5QVBj?oc=5",
@@ -56260,5 +56278,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6251
+  "total": 6253
 }
