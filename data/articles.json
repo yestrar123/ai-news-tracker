@@ -1,12 +1,48 @@
 {
   "articles": [
     {
+      "id": "6260",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-10T19:50:00Z",
+      "summary": "苹果披露与个性化播客初创公司Huxe达成协议，将招募其团队并授权相关技术。此举被视为苹果可能切入AI生成播客领域，借助Huxe的个性化音频与推荐能力增强播客体验。分析认为，这或为苹果在内容生成、音频AI和订阅服务上的新布局，也反映科技巨头正加速争夺AI音频赛道。",
+      "fetchDate": "2026-10-10"
+    },
+    {
+      "id": "6261",
+      "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - ABC7 Eyewitness News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUEpsSmd5ZERsaHRqS0pKV0JiRS1OTkJtSS1pbVlGZGV0a1dSaTBDM0R2R09kQkpfSlN4V1ZVZ3U1OW1JMFVFVGtvU1hFN1RZeWdjcFI2UUZZbEpWVlgwTGxDQVdEblB4NV9EZGdRc0gzcTdabWNzNFFSdUlRODRvcXF2cTdjVnZvcDVQNmVYVlViUHkyZ2Z6SzJqbVJmZFVDYi1YNXZoUi03bHAz0gGyAUFVX3lxTE9yWGVHRGJ2WW1Dcl9mWG14VVRLR0lHcE5aZlZsR0RiNXpPa2o0WVZ5b3ZzTHMzeTdMQ1g5REkxN3g0QlR0UUNOMlk3UkItUHBuLTk2STVkSU8zZWVzb01hSGFpOGliMUhKSmNuUXhEOEM3TFFYWU5qTEdjaXN2ZVZudEkzRXhrOHlVOEVKeUtSNkVaX2t4ZlhmblBkRjdYMlVsNFBCRFpOV1hMd201MTlFeEE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-10T16:42:41Z",
+      "summary": "据ABC7报道，Anthropic的Claude AI就费城一起未破凶杀案提交了一条虚假线索。事件引发对AI在执法与公共安全场景中可靠性的担忧：模型可能生成看似合理但错误的信息，干扰调查或浪费警力。报道强调，在涉及真实案件时，应建立人工核查与责任机制，防止AI幻觉输出被当作证据或线索使用。",
+      "fetchDate": "2026-10-10"
+    },
+    {
+      "id": "6262",
+      "title": "A timeline of developments in AI safety since the attack on Hugging Face - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1dwbUwwaTlqV3dpYmt3cVNCS1YtWGFlcU0wMEdIbUdSeEwyUWk2RDRIZkhEQ2FoNlhwNFJ0WElBWUh6X3FCY2VDQk1VNE9EU3dIMXhoY2JMbF8zWjdaSFB2TzVJaUZILUJlVEtNZGhZeUpZYXpRaWQ1N0F1NXJycmp2WktnYUg0RXUtWlUxNFh6b25QcEU0bW0wZTZiRXdabmV5SGN2ZEM1UktkZnBz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-10T16:41:00Z",
+      "summary": "Audacy梳理自Hugging Face遭攻击以来AI安全领域的重要进展时间线。事件推动业界重新审视开源模型、模型托管平台与供应链安全，并促使企业加强访问控制、漏洞披露、红队测试和模型滥用监测。此后，围绕AI安全标准、监管讨论与行业自律持续升温，反映出生成式AI快速普及下，安全治理正从理论走向落地。",
+      "fetchDate": "2026-10-10"
+    },
+    {
       "id": "6255",
       "title": "Leading AI companies are preparing for the possibility of artificial intelligence getting out of control — media - Українські Національні Новини (УНН)",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEt0d0lnWWFtSUZjTUlKaEd4UEpQT2pHbWNmbjBhUFhabzBELXBteHBlZWduMFJWSy1WZk5jT2huRGxBSmVKNHdmRjB1eHRZWi1ya0FMTC1hdUhRSmZWUkQ1VElMTVM1Y3Zfbkpvak1IWXF0QmZrbkZMQUZEc2VYRzlSNFdZZlJTSXg5Z241YWJsSi0wdDBvaWxpb2Jwb2U5azk2eXkzZlFrbUJGUzhZN01ickRmTUI1NDNYWFJXRldzTG5zb280MklVYXhDQdIBzAFBVV95cUxNT19BNm5KZjlybVM4bU5IblFvcW9FOWtOYU5WblY2ZVQ1WEVJckFrUDlvcnVNVmdZWVprMHNZbE5fR2lBWmFPaHVYaHlKSkhMeUVheE9mVnZwb0NVMXNWQTF5UUFPVEFONkw5NTF1WU9ZYjJSMGlHeGdIZHVMbHg2WTBCbGhyYnBjUW5yTW9IUUtDLW5RRTNoTHl1bUlWNlB2aHRBQUE5QkxTejRfZUVPeE5lZ1dlX0hnbjhBOG02OVBXeWFCUVBncDdRank?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-10T16:17:06Z",
       "summary": "据乌克兰国家新闻社（УНН）援引媒体报道，多家领先人工智能公司正为AI可能“失控”的极端情形未雨绸缪，着手开展内部风险评估、模型行为监测与应急处置预案建设。报道指出，随着大模型能力快速提升，业界对系统失控、目标偏离及滥用风险的担忧上升。企业希望在监管规则落地前主动建立安全护栏与红线机制，同时推动行业形成统一的安全标准与信息披露规范，以降低潜在的系统性风险。",
+      "fetchDate": "2026-10-10"
+    },
+    {
+      "id": "6263",
+      "title": "SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors — fund would be used to acquire companies and improve their operations using artificial intelligence and robotics - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOczhValhJNGY3ckVNdDdWTnFhbDAtbVBERllEOGNnRVdWZDc1dzBNVlFuLWstVGd4QUpzaG50S2dxanhHVnBHOEktVmJtNzBaa3B5YVJMQ1dfYkpqaVJsU2hvQUE5YnZaclhPUk1lRG1SLW91ZXFPQkdzUVc1UVl4cGYtbC1Jdlh2cUZvVHNZdFpHeEpzc1RuU2tPVTdiY0FmaGI1X2x2WEMtcWhxOW9UczVIOGdoZlYtbzZhcS1kSV82S0ZOeWNiRV9KZnR0dnh1QkVTWmRjTVNzampaX19kV0VMeXVTNmRMRFBUd0JMbnA1TldTQ2x3RTB2OFdYNVZCcFBSYzE3SExqeDRFMWhLRW00UXZianJfbUU0ZEtDQmxGRzBJSllLdlZ2V0RseWZDRVppSHlnLVNEU3p4OVpNSUhjbzlCRmF2elQzRGRRMlJqQ0dNNWJabGZteHpaVTdBS2d4YWFqdy1MRlh5RXVfbDBZTWx1akx5MFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-10T15:40:00Z",
+      "summary": "据Tom's Hardware报道，软银正寻求从中东投资者处募集1000亿美元，用于“AI改造”项目。该基金计划收购企业，并利用人工智能和机器人技术提升其运营效率与价值。此举延续软银在AI与自动化领域的重注，也反映中东主权资本对AI产业的浓厚兴趣。若成行，可能推动传统行业被AI与机器人重塑，并引发对资本集中和就业影响的关注。",
       "fetchDate": "2026-10-10"
     },
     {
@@ -56323,5 +56359,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6258
+  "total": 6262
 }

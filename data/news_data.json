@@ -1,48 +1,55 @@
 {
-  "updatedAt": "2026-10-10 16:32:07 UTC",
-  "totalArticles": 6,
+  "updatedAt": "2026-10-10 20:49:59 UTC",
+  "totalArticles": 7,
   "articles": [
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-10T19:50:00Z",
+      "summary": "苹果披露与个性化播客初创公司Huxe达成协议，将招募其团队并授权相关技术。此举被视为苹果可能切入AI生成播客领域，借助Huxe的个性化音频与推荐能力增强播客体验。分析认为，这或为苹果在内容生成、音频AI和订阅服务上的新布局，也反映科技巨头正加速争夺AI音频赛道。"
+    },
+    {
+      "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - ABC7 Eyewitness News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUEpsSmd5ZERsaHRqS0pKV0JiRS1OTkJtSS1pbVlGZGV0a1dSaTBDM0R2R09kQkpfSlN4V1ZVZ3U1OW1JMFVFVGtvU1hFN1RZeWdjcFI2UUZZbEpWVlgwTGxDQVdEblB4NV9EZGdRc0gzcTdabWNzNFFSdUlRODRvcXF2cTdjVnZvcDVQNmVYVlViUHkyZ2Z6SzJqbVJmZFVDYi1YNXZoUi03bHAz0gGyAUFVX3lxTE9yWGVHRGJ2WW1Dcl9mWG14VVRLR0lHcE5aZlZsR0RiNXpPa2o0WVZ5b3ZzTHMzeTdMQ1g5REkxN3g0QlR0UUNOMlk3UkItUHBuLTk2STVkSU8zZWVzb01hSGFpOGliMUhKSmNuUXhEOEM3TFFYWU5qTEdjaXN2ZVZudEkzRXhrOHlVOEVKeUtSNkVaX2t4ZlhmblBkRjdYMlVsNFBCRFpOV1hMd201MTlFeEE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-10T16:42:41Z",
+      "summary": "据ABC7报道，Anthropic的Claude AI就费城一起未破凶杀案提交了一条虚假线索。事件引发对AI在执法与公共安全场景中可靠性的担忧：模型可能生成看似合理但错误的信息，干扰调查或浪费警力。报道强调，在涉及真实案件时，应建立人工核查与责任机制，防止AI幻觉输出被当作证据或线索使用。"
+    },
+    {
+      "title": "A timeline of developments in AI safety since the attack on Hugging Face - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1dwbUwwaTlqV3dpYmt3cVNCS1YtWGFlcU0wMEdIbUdSeEwyUWk2RDRIZkhEQ2FoNlhwNFJ0WElBWUh6X3FCY2VDQk1VNE9EU3dIMXhoY2JMbF8zWjdaSFB2TzVJaUZILUJlVEtNZGhZeUpZYXpRaWQ1N0F1NXJycmp2WktnYUg0RXUtWlUxNFh6b25QcEU0bW0wZTZiRXdabmV5SGN2ZEM1UktkZnBz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-10T16:41:00Z",
+      "summary": "Audacy梳理自Hugging Face遭攻击以来AI安全领域的重要进展时间线。事件推动业界重新审视开源模型、模型托管平台与供应链安全，并促使企业加强访问控制、漏洞披露、红队测试和模型滥用监测。此后，围绕AI安全标准、监管讨论与行业自律持续升温，反映出生成式AI快速普及下，安全治理正从理论走向落地。"
+    },
     {
       "title": "Leading AI companies are preparing for the possibility of artificial intelligence getting out of control — media - Українські Національні Новини (УНН)",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEt0d0lnWWFtSUZjTUlKaEd4UEpQT2pHbWNmbjBhUFhabzBELXBteHBlZWduMFJWSy1WZk5jT2huRGxBSmVKNHdmRjB1eHRZWi1ya0FMTC1hdUhRSmZWUkQ1VElMTVM1Y3Zfbkpvak1IWXF0QmZrbkZMQUZEc2VYRzlSNFdZZlJTSXg5Z241YWJsSi0wdDBvaWxpb2Jwb2U5azk2eXkzZlFrbUJGUzhZN01ickRmTUI1NDNYWFJXRldzTG5zb280MklVYXhDQdIBzAFBVV95cUxNT19BNm5KZjlybVM4bU5IblFvcW9FOWtOYU5WblY2ZVQ1WEVJckFrUDlvcnVNVmdZWVprMHNZbE5fR2lBWmFPaHVYaHlKSkhMeUVheE9mVnZwb0NVMXNWQTF5UUFPVEFONkw5NTF1WU9ZYjJSMGlHeGdIZHVMbHg2WTBCbGhyYnBjUW5yTW9IUUtDLW5RRTNoTHl1bUlWNlB2aHRBQUE5QkxTejRfZUVPeE5lZ1dlX0hnbjhBOG02OVBXeWFCUVBncDdRank?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-10T16:17:06Z",
-      "summary": "据乌克兰国家新闻社（УНН）援引媒体报道，多家领先人工智能公司正为AI可能“失控”的极端情形未雨绸缪，着手开展内部风险评估、模型行为监测与应急处置预案建设。报道指出，随着大模型能力快速提升，业界对系统失控、目标偏离及滥用风险的担忧上升。企业希望在监管规则落地前主动建立安全护栏与红线机制，同时推动行业形成统一的安全标准与信息披露规范，以降低潜在的系统性风险。"
+      "summary": "据乌克兰国家新闻等媒体报道，多家领先AI公司正在为人工智能可能失控的情景做准备，包括制定内部安全预案、模型评估、紧急关停机制和风险沟通流程。报道称，这些公司既担心前沿模型被滥用，也担心自主系统行为偏离预期。相关动向显示，AI安全已从学术议题上升为企业战略，但如何在创新与管控间取得平衡仍存争议。"
+    },
+    {
+      "title": "SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors — fund would be used to acquire companies and improve their operations using artificial intelligence and robotics - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOczhValhJNGY3ckVNdDdWTnFhbDAtbVBERllEOGNnRVdWZDc1dzBNVlFuLWstVGd4QUpzaG50S2dxanhHVnBHOEktVmJtNzBaa3B5YVJMQ1dfYkpqaVJsU2hvQUE5YnZaclhPUk1lRG1SLW91ZXFPQkdzUVc1UVl4cGYtbC1Jdlh2cUZvVHNZdFpHeEpzc1RuU2tPVTdiY0FmaGI1X2x2WEMtcWhxOW9UczVIOGdoZlYtbzZhcS1kSV82S0ZOeWNiRV9KZnR0dnh1QkVTWmRjTVNzampaX19kV0VMeXVTNmRMRFBUd0JMbnA1TldTQ2x3RTB2OFdYNVZCcFBSYzE3SExqeDRFMWhLRW00UXZianJfbUU0ZEtDQmxGRzBJSllLdlZ2V0RseWZDRVppSHlnLVNEU3p4OVpNSUhjbzlCRmF2elQzRGRRMlJqQ0dNNWJabGZteHpaVTdBS2d4YWFqdy1MRlh5RXVfbDBZTWx1akx5MFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-10T15:40:00Z",
+      "summary": "据Tom's Hardware报道，软银正寻求从中东投资者处募集1000亿美元，用于“AI改造”项目。该基金计划收购企业，并利用人工智能和机器人技术提升其运营效率与价值。此举延续软银在AI与自动化领域的重注，也反映中东主权资本对AI产业的浓厚兴趣。若成行，可能推动传统行业被AI与机器人重塑，并引发对资本集中和就业影响的关注。"
     },
     {
       "title": "Trump’s AI liability push opens blame game for models gone rogue - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObEpXOW1oNWhPd000QmtNVXlvSWp0YXU3QjdoSjBvUzRYRlBCaXhhc0QzdlJmR24tS0UyZG9uS1J2RDdYOE9tWGdab25XR1JmS2hRY1FLMXJ4NWJ0OU1pakphUXVSejhUb1V2THM5akFzWURPN2c4c2pFVWxzblMzckEyWWNIWkVGS3BrZWZ4RWJJVHNDX1JkbjItcGprX2t1cXQyR2ZSN25oUGt3SUVPMkxaR2p6bkpQa3JQTFdIaEIzVUd0UFlBSFNSWXhIYWoxekZ4YjdlVHcxUkpHZFMw0gHkAUFVX3lxTE1xTlpmY0pjMmFEc1Q2elhfMW5TcnpUcFIxSURkRDc2c3VuR1ZWWkhueEQ3UWtCbHBlam95NGdYSWFQbF94RTNkZGlHMDlfanZUTVprRXJNX1NaUkZaMGgyX21DUTM1TnpYdTMySDVNQ29hb1pWalFSSUFBcXFtR3FPVmRrQ3FfQmpfb2tjbW05V3VGRmUzMjVXMUJsYTlKR0h0UHdfZDZ6SFFsTWtvZDUyYmhRRC1jZDd5ZjE3OWg2YzZXMVhCN2F0MG1oZmpDd0g2Zk9YMWF0ZEhiOTZKcFZUWm1iUA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-10T15:13:22Z",
-      "summary": "《经济时报》报道，特朗普政府推动AI责任相关立法，围绕模型“失控”造成损害时该由谁担责，引发开发方、部署方与用户之间的责任之争。核心争议在于：基础模型厂商、应用集成商与终端使用者应如何分摊责任，开源模型又该如何界定。该动向显示美国正试图以法律责任框架约束AI风险，但也引发合规成本上升、责任边界模糊乃至抑制创新的担忧。"
+      "summary": "据《经济时报》报道，特朗普推动AI责任追究，令“模型失控”后的责任归属成为争论焦点。开发者、部署者、平台与用户之间如何分摊责任，现有法律框架尚不清晰。该动向可能促使企业加强合规、审计与风险披露，同时引发对创新成本、言论自由和监管边界的讨论。AI责任规则若落地，将深刻影响模型开发与商用部署。"
     },
     {
       "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
       "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-10T15:00:00Z",
-      "summary": "TechCrunch Disrupt 2026将于10月13日至15日在旧金山举行，距开幕仅剩3天。大会将汇集300多家初创企业，向1万余名科技业界领袖展示最新产品与技术，并邀请250多位演讲嘉宾在200多场议程中分享行业洞察。活动聚焦初创公司走向主流前的关键窗口期，被视为观察AI等前沿赛道新势力与投资风向的重要场合，提前注册可享最高100美元优惠及第二张门票五折。"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-10T14:00:00Z",
-      "summary": "TechCrunch梳理了一批可“住进”短信应用的AI智能体，用户无需额外安装App，通过短信或iMessage即可直接对话调用。名单覆盖通用型助理，以及面向家庭、差旅和办公场景的专用智能体，功能包括日程安排、行程规划、信息查询与团队协作等。此类产品降低了AI使用门槛，把对话入口嵌入最高频的通讯工具，但也对隐私保护、消息平台政策与商业化模式提出新挑战。"
-    },
-    {
-      "title": "India entering tech transformation era with AI advances: AEC chief - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDRrak4zVGZJQmQ1R1VZbGNQQ1hCSVJIUXVXdlppdnBjdW9QYWN6ZEF1bzNDMDJ3QTk4NzJvWGtnMWNRMVk3Vzd0Q2FkRFlraFZHTkZxNjNiR09Rd29uSHhPNnZhT1pHUTlfVHFZU0Q0d2pkLWRUX2E2WWRvQmxJX0JCUldzRHBMbnh3TEJiMWR3N3ZzODBVTklFM1FIQ2hOcFNpZFhfc0V0NmpLaEtRb0k3a25ON2R6R3ZLa09PNjlBVnZudl9oVzVPTFlYSmhJcFBJQVJPdVdQd3VLaUZ0NzRLQ0RjcDBCZ1HSAe8BQVVfeXFMUFN5a05KU3hMNWFROXpFWHJnSTc5MmtSakZ3UUoxd0hsRVpnR2dMRDJlWXNBb3BFT0R6eDdyUGg1aFpmQUZZUTdndmFEaWNMR09DR2lVQnc5Qy1UN1Y5cHNDM3BrZWNWZlVJV2NBOUFzNm4wR1dBb2tPVWJzbUZmWFU3eXNlZmRCU1pEejFDS0Z0anJFeWFGRWVxMDNydkdFbkx3c2I4SEZwbEFvcF84WlEtVDg3X2l1TGFZVW9UbkUzWFMtZWFDVWRNWnIyMnN2UlBwNzlVWmJxVTJieE16dzlMN3B2aFBWMnp6TDB0TXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-10T11:42:39Z",
-      "summary": "据《商业标准报》报道，印度AEC负责人表示，随着人工智能技术加速落地，印度正进入技术转型时代。该表态强调AI将在产业升级、生产效率与公共服务等领域带来深刻变革，印度需在人才培养、基础设施与政策环境上同步发力，以抓住这一轮技术红利。报道反映出印度官方与行业对AI战略价值的高度重视，也显示其希望在数字经济竞争中确立更有利的位置。"
-    },
-    {
-      "title": "Fake female photos made with artificial intelligence (AI) and social network service (SNS) accounts - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhNHFVZEl4ZmpaTVJOeUpfMVZEbzkzNHhqcXdUclp3R2hXSktvZlI5RUN5Ql92dnJmZ0hteTY4VEQ1OFZocGZaLXZDR3M1bjNRRGc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-10T10:55:20Z",
-      "summary": "据韩国《每日经济》报道，利用人工智能生成的虚假女性照片正与社交网络账号结合，被用于制造虚拟人设乃至实施诈骗等不法行为。此类图像往往难以凭肉眼辨别，配合批量注册的SNS账号，可能被用于婚恋诈骗、引流营销或舆论操纵，对个人隐私与平台信任造成侵害。报道呼吁平台加强AI生成内容识别与标注，完善账号实名与审核机制，并推动法规约束深度伪造滥用行为。"
+      "summary": "TechCrunch Disrupt 2026将于10月13日至15日在旧金山举行，距开幕仅剩3天。届时300多家初创公司将向1万名科技领袖展示成果，250多位演讲嘉宾将在200多场议程中分享洞察。大会被视为发现尚未主流化创业公司的重要窗口。当前注册可节省最高100美元，并可获第二张通行证五折优惠。"
     }
   ]
 }
