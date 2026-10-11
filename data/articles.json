@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "6269",
+      "title": "Slow down AI before it evolves beyond our control| Letters - Tampa Bay Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHF3UFdJajlWUTZoVDExbUkyUjJQb2J3ajFiQ1lIZEd0ZXB4OGh0V0tnRTZtZTI5aGZHYUpNdWFoT0RPN1Y3d0YzcmNVOHRjSWhQbGI4UmRrbGw4U1k5eEdwUTdycGx4Y3Q1ZjhOdDhxM3lmOUJtZmV5Z2VzY3JSWXFqRnA4czE0dThYMDdGTWFPSDhEd1NUYjlxUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-11T09:44:50Z",
+      "summary": "《坦帕湾时报》刊发读者来信，呼吁在人工智能进化到超出人类控制之前主动放缓发展步伐。文章认为，当前AI能力提升迅速，若缺乏有效监管、安全评估与伦理约束，可能带来不可逆的系统性风险。因此，政府、企业和研究机构应加强合作，建立透明、审慎的治理框架，在推动创新的同时优先确保可控性、可解释性与人类价值对齐。",
+      "fetchDate": "2026-10-11"
+    },
+    {
+      "id": "6270",
+      "title": "The International Monetary Fund (IMF) warned that cyberattacks using artificial intelligence (AI) ha.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCdVc2NThqeDVHd2dhT3lnc0YtZ3AxYzVKTUxjcFFQWFBkUHJtMWpyWHBQa29kWGdoT3M0WFJYNkFpMTkzYUJxU3QwRUNhQWxNaVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-11T08:26:50Z",
+      "summary": "国际货币基金组织（IMF）警告称，利用人工智能实施网络攻击的情况正在增加，可能对全球金融稳定和机构安全构成威胁。AI降低了攻击门槛，使钓鱼、深度伪造、自动化漏洞利用更具规模化和隐蔽性。IMF呼吁各国监管机构、金融机构和科技公司加强协作，提升AI安全防御、威胁情报共享和跨境监管，以应对新型网络风险。",
+      "fetchDate": "2026-10-11"
+    },
+    {
+      "id": "6271",
+      "title": "As competition for artificial intelligence (AI) development between global big tech intensifies, sec.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TYm1nNm5MS015Q3hidlBQRlAzcktkRnVHQ0xxVnh6em80SFZPWDRkTmN5OXo5cXhLcW8xTDhMV0VvRWZrZXZzNEt0YTNzaW8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-11T08:08:34Z",
+      "summary": "随着全球大型科技公司在人工智能领域的竞争不断加剧，安全与监管问题日益受到关注。文章指出，各大企业争相推出更强模型和产品，可能忽视数据安全、隐私保护、模型滥用及地缘技术竞争等风险。业界呼吁在加速创新的同时，建立更严格的安全标准、审查机制和国际协调框架，避免AI军备竞赛带来不可控后果。",
+      "fetchDate": "2026-10-11"
+    },
+    {
       "id": "6267",
       "title": "AI banking agent — How Artificial Intelligence Is Ending the Laziness Tax and Transforming Global Finance - The Korea Daily",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xaGtkU0VUNFkya290US1ZVXNIQlVUdnpGYlFXSEdQbFFJeUNaM1F0c3J3YWxlQWNXS3Jnai1qV0dhNzlfSGV0SDkwUVhVWGEta2VTRU0tN3dvNHRaVllNWWdPa1psYlVQaXN4c3I2VFlndw?oc=5",
@@ -56404,5 +56431,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6267
+  "total": 6270
 }
