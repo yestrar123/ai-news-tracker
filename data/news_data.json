@@ -1,13 +1,76 @@
 {
-  "updatedAt": "2026-10-12 13:48:04 UTC",
-  "totalArticles": 1,
+  "updatedAt": "2026-10-12 23:55:42 UTC",
+  "totalArticles": 10,
   "articles": [
     {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "title": "COMMENTARY: Wall Street’s AI bet is now too big to hit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUJzWDBxTFE4NlN1aVdfYW5aMU9kS1BXTXdsOGd4WHRnR1BYcHZ0ZVlKSkRhMi1rWDYzSHExOW93R3Y5ejZqVnVCRzVSczJRZ1RtMG90WU5XSHJsaHJYSmdDdDZIdlFUbzd3a0FXTTBQQmJESHNJbl9fUGhQMndHUTlDSkhYZklNUmdjcGJJSHo1bkV3SEZjNjItcVBnX2ttY3NpOEhINmFCZFU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-12T23:30:24Z",
+      "summary": "路透评论认为，华尔街对人工智能的押注规模已大到难以兑现。市场对AI企业估值、资本开支和商业化前景预期极高，若收入增长不及预期，可能引发估值回调与连锁风险。文章提醒投资者，AI虽是长期趋势，但当前定价已包含大量乐观假设，需警惕泡沫与集中度过高带来的系统性风险。"
+    },
+    {
+      "title": "Artificial Intelligence (AI) is watching us, and ‘knows’ Pope Leo has noticed - Crux | Taking the Catholic Pulse",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTl9wbVJqejJPN0hXSXVJOXd6elpuQTZhcG9oVjItdHlhZkVNekR0SE5EdU1hVDd2N1NaV2lpX2MtUzk3REtaelZ0YmZKNHQ0OXV3aGVNUDNWMmhKREs3SnFLRlVTV2JFVDVfMVpWbFpHQzNCaXpwZFctU0YyazZqRFRGZXpaYnB3Y0RTYkJCYzgxMzRUNmlBcFVZR1V5RmFlV04zRTQzMzdCRW1PNmF6MXlaWG0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-12T22:07:05Z",
+      "summary": "天主教媒体Crux发文称，人工智能正在“注视”人类，并指出教宗良已注意到这一现象。文章可能从伦理、隐私与人类尊严角度审视AI的快速渗透，讨论算法监控、数据权力和信仰传统如何回应技术挑战。它强调，AI治理不仅是科技问题，也涉及道德与宗教层面的反思，需全社会共同参与。"
+    },
+    {
+      "title": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-12T20:10:00Z",
+      "summary": "《华尔街日报》报道，Meta宣称其新AI模型达到业界最先进水平，并将让Muse智能体更聪明。该模型预计在推理、任务规划和工具调用等能力上有所提升，从而增强智能体在复杂场景中的自主表现。Meta正加大AI投入，试图在模型能力与产品集成上追赶并挑战OpenAI、谷歌等竞争对手。"
+    },
+    {
+      "title": "US AI testing agency officials to move to White House, The Information reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3NjZGpMYnpWV3ZoWUNuOEFsWnROQzNvT3Y0dnRzdWhMLWZKS2NqY09USExBZWZlRFZmWndkM0sxRDlFOTBZQW1yNk5ZSk9jVURtbldzUFU2SFoydGRLaUp5cEZodnFBZHYyRmxsOTJoRnBHUnNQekdEQ1JmRUFlUk9HTy1QTmVWYkZ0ZlF5R2VYYTZhUU1VaEM0cGgxM1p1R3JTd255NDZEQ3Y1b29IQ1RfTW5RU0U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-12T20:09:55Z",
+      "summary": "据The Information报道，美国AI测试机构官员将迁至白宫。此举可能意味着AI安全评估、标准制定与政策协调进一步向白宫集中，强化联邦层面对AI测试、监管和国家安全的统筹。人事与机构调整或影响美国AI治理架构，也反映政府希望在技术创新与风险防控之间掌握更大主导权。"
+    },
+    {
+      "title": "Intel's Crescent Island AI accelerator officially powers new GPU D-Series products — chip delivers 1.3 peak PFLOPS of FP8 compute and 1.5 TB/s of memory bandwidth - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQOXd1M3pZdFA0UGZVOXF0RFhrM1YxdjAzakxEdFN5YWNUWmVoRlBkaEVPRUZnaXc1SGVEZlVQTmtreGVPd29sVDh3UkpQYWEzb1pHb1hZbUhOSUIxWEozb00xZFBUcTBRR3kzcVRuR2FabGRrS19YMUR0blhnSDdEbWlZLTVxbGxkNFMzSUNreUtBaUQ2aUpXZzBVUWtDWnlYU3g1Y0hhT0s2QTRPTXhjVnRmaWUyMVFsRElSdFNLTHBfYWdTZWpiYnZEMm5PbHFfQjY2NGx3eWpTVFZNUVFGSmJtc1BiYmluWks5UGFhNDgyUmFqUzJ5aHpaTWFEMk42cXcwU2oyT2dSamc5R1FMMGQwdDk3VFRKcm83bWlsaURaS0cxTmhaOHFvMzRxanBSOU5zU3k3VVYzb0pCQW1QN0UwUVZxNGZqZ0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-12T19:48:14Z",
+      "summary": "英特尔Crescent Island AI加速器正式用于新款GPU D系列产品。该芯片提供1.3 PFLOPS FP8峰值算力与1.5 TB/s内存带宽，面向AI推理和高性能计算场景，旨在提升数据中心与云端的AI处理效率。此举显示英特尔正加快在AI加速器市场的布局，与英伟达等厂商展开竞争。"
+    },
+    {
+      "title": "Microsoft’s Smith and Nadella call for emergency brakes on rogue AI - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51M1N4Z1lHc3lsQnlqWWN6bklyTkpDVHVvUW9Wak5nQmJuVmlPbVJ1Z1dkYTRNck9UWVVYUzRMYVNQWExKeE01RFJ2SlRFQmJaWlVDaEVfMS1IRGlNRm5fVDcwbjM5YTZyTVZoSS0zMGl1QTZ3TnFJNXR0TDI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-12T19:14:57Z",
+      "summary": "微软副董事长兼总裁史密斯与CEO纳德拉呼吁，为失控的AI设置“紧急刹车”机制。他们主张在AI系统出现恶意、意外或高风险行为时能够及时干预，并强调行业需建立安全阀、责任框架与跨部门协调。这反映头部科技公司对AI安全治理的担忧，也推动监管与自律并行。"
+    },
+    {
+      "title": "FILE PHOTO: Illustration shows \"AI Artificial Inteligence\" words - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb0ZVaGUzdTJMNUpWT29XUXM4NHZxdTg1dXJFcEZzSFRsS1VjN19tVzYwbUhyR1pmSmlWRWM4M2VVYWgtNTVsUzZhV0ZEenB4UER1Vmp5TlppV3B0VEpzNHhpUEpEVE5kTl9fUUtQYXBUNGNVNjk2MVE1OFNuMVlWaTJwVzY2Z29CY0RjNHpNV1BzQ3dtWXdzeEZPb0p4WEVXT3ItUTVDMnk0LWxTOEZ1RkkxZEx1S3cwV1lCcF9vaXVoYWJ3QUNfTU5ud1htbHJ3cTcwMGtGRW0zcEkzbnZuTzNXUG9JODctRmV5djNQeHQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-12T19:09:28Z",
+      "summary": "该报道为一张资料图片，画面展示“AI Artificial Intelligence”字样，属于媒体在报道人工智能议题时常用的配图。图片本身不包含新的技术发布、企业动态或政策信息，主要作用是提示AI主题，为相关新闻提供视觉辅助。由于缺乏具体正文，无法进一步判断其涉及的AI应用场景或事件背景。"
+    },
+    {
+      "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlpRZ2kyazdNYi1HNzVmMWRabFlRVUNHb28yOEphakthbjdmdXctZjRVVG40TEZuN2lOMUgtRUdCY0pfeGhKVjAxNjIyQWZTbWZnOUdGd2p2OWhQUVdWQ3R3QUlnTXF4OThxdmU5S3JMQ3MwTDFYRkt4c2hnRVdaTkVPVkpBNDhMeF9ZNWk4UFlHSTFMRDd1MnU3N0pYcTFjMkV6SEZEcjEtRkk0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-12T18:20:00Z",
+      "summary": "雅虎财经文章回顾称，巴菲特一年前买入某只人工智能股票，并认为该股当前仍值得买入。文章可能从护城河、盈利增长、AI变现潜力和估值角度分析其长期价值，认为该公司能持续受益于AI浪潮。不过，文章未在标题中点名具体公司，投资者仍需结合基本面和估值审慎判断。"
+    },
+    {
+      "title": "Facebook parent Meta has unveiled a new artificial intelligence (AI) model that will compete with Op.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Sc3N0RnY0QzlhOWYxQlo4dV9Hb3dzZmpJSkpSV0tNQVR2NGJGcndSbnlXVGhfNTAxVGQyenBsZHd1OFVodS1OaVhqNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-12T18:17:53Z",
+      "summary": "韩国《每日经济》报道，Meta推出新的人工智能模型，将与OpenAI等领先者展开竞争。该模型被视为Meta在生成式AI和智能体领域的重要布局，可能具备更强推理与复杂任务处理能力。Meta希望通过模型开放与产品集成扩大生态影响力，并改变当前由少数厂商主导的前沿模型竞争格局。"
+    },
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-12T12:47:59Z",
-      "summary": "前Plaud高管创办的AI公司Ambi完成2600万美元融资，正在开发一款可在后台持续“聆听”的AI应用。该产品将登陆iPhone、Mac和Apple Watch，主打环境捕捉（ambient capture）能力，即在不打断用户的情况下持续记录周围声音，并可能借助AI进行整理与调用。此轮融资显示资本对常驻式AI助手及个人环境记忆赛道的关注。"
+      "publishedAt": "2026-10-12T17:56:56Z",
+      "summary": "TechCrunch报道，Meta发布首个前沿模型Muse Wonder。与主打轻量、低延迟的Muse Spark不同，Wonder系列规模更大、能力更强，在基准测试中得分更高，并在编码等复杂任务上表现更好。这显示Meta正进军高性能前沿模型赛道，强化智能体与生成式AI竞争力，也将加剧与OpenAI等公司的竞争。"
     }
   ]
 }
