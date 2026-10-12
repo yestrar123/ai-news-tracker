@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "6299",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-12T12:47:59Z",
+      "summary": "前Plaud高管创办的AI公司Ambi完成2600万美元融资，正在开发一款可在后台持续“聆听”的AI应用。该产品将登陆iPhone、Mac和Apple Watch，主打环境捕捉（ambient capture）能力，即在不打断用户的情况下持续记录周围声音，并可能借助AI进行整理与调用。此轮融资显示资本对常驻式AI助手及个人环境记忆赛道的关注。",
+      "fetchDate": "2026-10-12"
+    },
+    {
       "id": "6289",
       "title": "AI less regulated than milk, Microsoft president says in warning over safety - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakhDNFlaMk9mSGQwbi0zcWlFSW1hQVRUckFFekhNbWF0MUVHSFVFNUhDYXRicUpQV1dTcEFka2RsNXk2a2tYV21NcUJOWWFJU09NTjNMVlBjOHBHa0tfRW1UTUJpRFl3bE96LUZTZzhFUm8waHR0dTdHZmlmd2E4dTQ4bWRKY3dlWUR2RkpUOW42clIwUUxYa0ZsTHNZT0JyRW9NNWY3c0c0Rk5QSTFJcm9McnFfMThhdnoydEE5WQ?oc=5",
@@ -56674,5 +56683,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6297
+  "total": 6298
 }
