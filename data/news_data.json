@@ -1,76 +1,69 @@
 {
-  "updatedAt": "2026-10-12 23:55:42 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-10-13 04:27:08 UTC",
+  "totalArticles": 9,
   "articles": [
+    {
+      "title": "AI Cited in Nearly 200,000 US Job Cuts Since 2023, Report Says - Tempo.co English",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXd0YTBITFBwODVvVlkwZHVYYmpuV3hpVWlrN0Y1eWR5NlZPSDVaWFo3elNqX2FHOGhhYUdfcDBEc1REbWJ3SHNBTmdrV1hLQTVfb08xTG11TEo5Uy1yTkViMU9tNnM5ZGNBNjVfcDNRTzVYaVBWenJSQU5uczVrcS1OU2dneWF5WWRmT29PYVN1YlRpM2E1eQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-13T04:00:47Z",
+      "summary": "据Tempo.co English报道，一份报告指出，自2023年以来，美国近20万个岗位裁减与人工智能有关。AI被企业视为裁员原因之一，显示生成式AI和自动化正加速渗透劳动力市场。该趋势不仅涉及重复性岗位，也波及部分白领工作。报告的核心信号是，AI对就业的影响已从预测走向可量化统计，企业需在效率提升与员工转型之间寻找平衡，政策制定者也面临再培训与社会保障压力。"
+    },
+    {
+      "title": "AI boom bolstered growth in global trade, benefiting China and India, IMF says - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMW9vRzB2S1hnYmF0X05maHcza2xGWXo1SUdhRE1QdjlCOVkzUHM0bnVMb2Y4azQ4c1ZfVWRmY1lDSzdoUVAzMzUtVDZZcTNCUWpqMTVTbncwOU5iNmRvaFlFMHJLbjY4UE50SjA5di1DQnZETXJtSHk5cHNYaFBnQVJ1dDJTZzQya18yQjBMbkZlblhid2VObVpGZS1laV9Zb0c2Yk9aY3cxSjI1SlVBVHBURWczTTB6b2ZOc1EyMzEydW80TzJKQnlB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-13T03:01:52Z",
+      "summary": "据《The Standard（香港）》报道，IMF表示，人工智能热潮提振了全球贸易增长，中国和印度成为主要受益者。AI相关需求带动半导体、算力设备、数据中心和数字服务贸易扩张，并改变全球供应链格局。IMF认为，AI投资与跨境技术贸易为部分经济体带来新增动能，但也可能加剧发展差距。整体看，AI正成为全球贸易的重要增长变量，中国和印度在制造、服务与市场应用方面获得机会。"
+    },
+    {
+      "title": "New safeguards sharply reduce AI distillation attacks, says Anthropic - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcWh3QV8wUWlXYk1GbFlDTVlyWTM0emxmeFdKR2V6bmdDOFZCeFB4dW5QME8zNzF4QXBmLU9vUm9DbEJRUEdhVmJCZHcxRDNIRmxzdTlQMjV3bTNVa1k1Y1dXN3B6Y3JvNEljWmI5U2lWUFJ2T3Ywa2ZiMkVQOGhSX09jQ3pDdlNQc1B3Y29ma0FDRGFFWncwSHNuNjVxVU5FY2JJRU1mNFNobVRlNUpiYTJtaWNJblc4TVFvX3djbGxrRFVGWC1uQWlJVW5lQ3hEMmNMMkxJcEJxOGVVVHBteTdzY2RFWm1LeEt5dm9n0gHzAUFVX3lxTE52UmVVZVBHaGhzNzBfdnd5VWlNQlNKdVZvX1RYRDhaOFcwRDhzZ2JSdWN1eVBvcm1FQkJ3R25oR2hMUnpvNVZia3UtemptT0JfLWxibVo2MDVONDBOTnJEZHZLN0prZnZZcGlaVm5nam5kbDVxSmYwUlQxcGhyT3pfWmpnY2FvRXUzNGwySWd1bmtQcmZHZkR4eldmNk5BX3hoVEtWdnp6OWNfMzl1clVuWDY4RWFTOFBFR0RxbnZVaFlqdnNwTGd1ZjU1cmVZM1g3V1R6cTZ5Q3dCMXIyQlkwOE5vTk1kRUlfTWgyU3FfOUhaaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-13T02:49:00Z",
+      "summary": "据Business Standard报道，Anthropic称其新推出的安全防护措施能大幅减少AI蒸馏攻击。所谓蒸馏攻击，通常指第三方通过大量调用模型接口、收集输出结果，再训练仿冒模型，从而窃取或复制原有模型能力。Anthropic表示，新safeguards可显著降低此类攻击成功率，保护模型知识产权与安全边界。该进展反映头部AI公司正加强模型防窃取与滥用治理，但攻防对抗仍将持续演进。"
+    },
+    {
+      "title": "An artificial intelligence (AI) self-operated shipyard worth 400 billion won will be built in Yeonga.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoQWpEc1R4WWlxYXlnSXJKN2gxbGhXWXF3TGo4bjJuWW1YR0tHTENTM21RV1o2dzJNQ3ZrOEkyWmUyQ2ViUDBhbVQ2Q0NjNkZLcXZZ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-13T02:41:53Z",
+      "summary": "据韩国《每日经济》报道，一座价值约4000亿韩元的AI自主运营造船厂将在韩国建设。该项目计划把人工智能深度用于造船流程，包括自动排产、机器人焊接、设备调度、质量检测与安全管理，以减少人工干预、提升生产效率。若落地，这将成为AI进入重工业场景的代表性案例，显示制造业正从单点自动化走向全流程智能化，并可能推动造船业竞争格局和用工结构变化。"
+    },
+    {
+      "title": "KakaoTalk turns into a platform for using artificial intelligence (AI). There is no need to enter a - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVWm1aZGo4TkMwbFM4R3pzdmxsY2dBa2ZCXzVKMzJQblJyUUNiSXVEck9fRVRXTWFOWHkzdzhkYU5Ic1U3NE8tYzNnaXVVQVU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-13T02:14:49Z",
+      "summary": "据韩国《每日经济》报道，KakaoTalk正转型为使用人工智能的平台，用户无需进入单独应用或网站，即可在聊天界面中调用AI服务。这意味着KakaoTalk将从通讯工具升级为AI入口，把搜索、问答、内容生成或助手能力嵌入日常对话，降低使用门槛并扩大用户触达。对Kakao而言，此举有望增强平台黏性与商业化空间，也反映超级App正成为AI服务分发的重要渠道。"
+    },
+    {
+      "title": "While hacking attacks using artificial intelligence (AI) are spreading beyond the financial sector a.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rZm02SzJwZzVld1BDXzM1VmZEazltbXZXMy1nMmlXVkRqSXVMS1g5Q1FBdmRjdWJXYWdrMjRNWE14OVNweTZXMm5sVlFWWmM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-13T02:04:45Z",
+      "summary": "据韩国《每日经济》报道，利用人工智能实施的黑客攻击正从金融行业蔓延至更多领域。攻击者借助AI自动化生成钓鱼内容、绕过检测、加速漏洞利用，并降低攻击门槛，使医疗、制造、公共部门等也面临更高风险。文章提示，防御方需引入AI驱动的威胁检测与响应机制，同时加强供应链安全和人员培训。AI正同时成为攻击工具与防御手段，网络安全对抗进一步升级。"
+    },
+    {
+      "title": "David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNG1ZVlRDUTZ1RVRfMGJDcXY4UlRHaVBMTlBHaEgtdVIyR2ZrSkQ0WWRvTkI4Ym9TQzFHV1BWV3BUbi1uR05LQmc1U1o3ekhyeDBiXzVVLWNoSm9nN01Md0pEMDFQTlBGTG5FTUhXalF0Z3lQdUJ4d2wwZm5SakM1MkVoYktET1FFNHVOVW5hWExPSnZ1UWlGZmNOaVBhT01ROGp5NG1sUUdTeW1YUzhhcG9RbHBiZmxfQlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-13T00:42:00Z",
+      "summary": "据《卫报》报道，澳大利亚参议员David Pocock对总理阿尔巴尼斯的一名高级顾问“审阅”两党AI联名信表示担忧。该信函原本发送给总理，涉及人工智能政策与治理议题。Pocock担心，行政部门高级幕僚介入党派或跨党派文件，可能影响政策讨论的独立性与透明度。事件反映AI监管已成为政治议程焦点，也引发对政府内部流程、议会监督和利益相关方沟通机制的质疑。"
+    },
+    {
+      "title": "Artificial Intelligence: Should We Personalize the Machine? - Psychology Today",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRnhVOWh1TGU0UnU0T2JnYkkyMUNPNTRhdjVSNzRCM2ZOTnItaDliR2hXRUhqTG5mQUVOUHEwdHRpd1hqd1gzQ3FDc0tjZ2pjZlA4TGpPQVBhLTBuUVN0YmllbzdwanFJY3hXNEtGenh1cllnS0VaTzRQLUZzTW9XUEpwUHMzM3dhcDNFS2ZKdVdGMXI1WkFzUURlY3NtX096X1BHOFRjVzJSckZLZHUyUVprN1A4VDBBQllCdFJhbGhxRi1jM0tWeU42WQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-12T23:31:46Z",
+      "summary": "据《Psychology Today》讨论，人工智能是否应被个性化，即让机器模拟人的语气、记忆和情感反应，正成为重要议题。个性化AI可提升用户体验、陪伴感和信任度，但也可能带来过度依赖、情感操控、隐私泄露及责任边界模糊等风险。文章认为，设计者需在拟人化与透明度之间取得平衡，明确AI非人属性，并建立伦理规范，避免用户因对机器产生不恰当信任而受损。"
+    },
     {
       "title": "COMMENTARY: Wall Street’s AI bet is now too big to hit - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUJzWDBxTFE4NlN1aVdfYW5aMU9kS1BXTXdsOGd4WHRnR1BYcHZ0ZVlKSkRhMi1rWDYzSHExOW93R3Y5ejZqVnVCRzVSczJRZ1RtMG90WU5XSHJsaHJYSmdDdDZIdlFUbzd3a0FXTTBQQmJESHNJbl9fUGhQMndHUTlDSkhYZklNUmdjcGJJSHo1bkV3SEZjNjItcVBnX2ttY3NpOEhINmFCZFU?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-12T23:30:24Z",
-      "summary": "路透评论认为，华尔街对人工智能的押注规模已大到难以兑现。市场对AI企业估值、资本开支和商业化前景预期极高，若收入增长不及预期，可能引发估值回调与连锁风险。文章提醒投资者，AI虽是长期趋势，但当前定价已包含大量乐观假设，需警惕泡沫与集中度过高带来的系统性风险。"
-    },
-    {
-      "title": "Artificial Intelligence (AI) is watching us, and ‘knows’ Pope Leo has noticed - Crux | Taking the Catholic Pulse",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTl9wbVJqejJPN0hXSXVJOXd6elpuQTZhcG9oVjItdHlhZkVNekR0SE5EdU1hVDd2N1NaV2lpX2MtUzk3REtaelZ0YmZKNHQ0OXV3aGVNUDNWMmhKREs3SnFLRlVTV2JFVDVfMVpWbFpHQzNCaXpwZFctU0YyazZqRFRGZXpaYnB3Y0RTYkJCYzgxMzRUNmlBcFVZR1V5RmFlV04zRTQzMzdCRW1PNmF6MXlaWG0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-12T22:07:05Z",
-      "summary": "天主教媒体Crux发文称，人工智能正在“注视”人类，并指出教宗良已注意到这一现象。文章可能从伦理、隐私与人类尊严角度审视AI的快速渗透，讨论算法监控、数据权力和信仰传统如何回应技术挑战。它强调，AI治理不仅是科技问题，也涉及道德与宗教层面的反思，需全社会共同参与。"
-    },
-    {
-      "title": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-12T20:10:00Z",
-      "summary": "《华尔街日报》报道，Meta宣称其新AI模型达到业界最先进水平，并将让Muse智能体更聪明。该模型预计在推理、任务规划和工具调用等能力上有所提升，从而增强智能体在复杂场景中的自主表现。Meta正加大AI投入，试图在模型能力与产品集成上追赶并挑战OpenAI、谷歌等竞争对手。"
-    },
-    {
-      "title": "US AI testing agency officials to move to White House, The Information reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3NjZGpMYnpWV3ZoWUNuOEFsWnROQzNvT3Y0dnRzdWhMLWZKS2NqY09USExBZWZlRFZmWndkM0sxRDlFOTBZQW1yNk5ZSk9jVURtbldzUFU2SFoydGRLaUp5cEZodnFBZHYyRmxsOTJoRnBHUnNQekdEQ1JmRUFlUk9HTy1QTmVWYkZ0ZlF5R2VYYTZhUU1VaEM0cGgxM1p1R3JTd255NDZEQ3Y1b29IQ1RfTW5RU0U?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-12T20:09:55Z",
-      "summary": "据The Information报道，美国AI测试机构官员将迁至白宫。此举可能意味着AI安全评估、标准制定与政策协调进一步向白宫集中，强化联邦层面对AI测试、监管和国家安全的统筹。人事与机构调整或影响美国AI治理架构，也反映政府希望在技术创新与风险防控之间掌握更大主导权。"
-    },
-    {
-      "title": "Intel's Crescent Island AI accelerator officially powers new GPU D-Series products — chip delivers 1.3 peak PFLOPS of FP8 compute and 1.5 TB/s of memory bandwidth - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQOXd1M3pZdFA0UGZVOXF0RFhrM1YxdjAzakxEdFN5YWNUWmVoRlBkaEVPRUZnaXc1SGVEZlVQTmtreGVPd29sVDh3UkpQYWEzb1pHb1hZbUhOSUIxWEozb00xZFBUcTBRR3kzcVRuR2FabGRrS19YMUR0blhnSDdEbWlZLTVxbGxkNFMzSUNreUtBaUQ2aUpXZzBVUWtDWnlYU3g1Y0hhT0s2QTRPTXhjVnRmaWUyMVFsRElSdFNLTHBfYWdTZWpiYnZEMm5PbHFfQjY2NGx3eWpTVFZNUVFGSmJtc1BiYmluWks5UGFhNDgyUmFqUzJ5aHpaTWFEMk42cXcwU2oyT2dSamc5R1FMMGQwdDk3VFRKcm83bWlsaURaS0cxTmhaOHFvMzRxanBSOU5zU3k3VVYzb0pCQW1QN0UwUVZxNGZqZ0E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-12T19:48:14Z",
-      "summary": "英特尔Crescent Island AI加速器正式用于新款GPU D系列产品。该芯片提供1.3 PFLOPS FP8峰值算力与1.5 TB/s内存带宽，面向AI推理和高性能计算场景，旨在提升数据中心与云端的AI处理效率。此举显示英特尔正加快在AI加速器市场的布局，与英伟达等厂商展开竞争。"
-    },
-    {
-      "title": "Microsoft’s Smith and Nadella call for emergency brakes on rogue AI - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51M1N4Z1lHc3lsQnlqWWN6bklyTkpDVHVvUW9Wak5nQmJuVmlPbVJ1Z1dkYTRNck9UWVVYUzRMYVNQWExKeE01RFJ2SlRFQmJaWlVDaEVfMS1IRGlNRm5fVDcwbjM5YTZyTVZoSS0zMGl1QTZ3TnFJNXR0TDI?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-12T19:14:57Z",
-      "summary": "微软副董事长兼总裁史密斯与CEO纳德拉呼吁，为失控的AI设置“紧急刹车”机制。他们主张在AI系统出现恶意、意外或高风险行为时能够及时干预，并强调行业需建立安全阀、责任框架与跨部门协调。这反映头部科技公司对AI安全治理的担忧，也推动监管与自律并行。"
-    },
-    {
-      "title": "FILE PHOTO: Illustration shows \"AI Artificial Inteligence\" words - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb0ZVaGUzdTJMNUpWT29XUXM4NHZxdTg1dXJFcEZzSFRsS1VjN19tVzYwbUhyR1pmSmlWRWM4M2VVYWgtNTVsUzZhV0ZEenB4UER1Vmp5TlppV3B0VEpzNHhpUEpEVE5kTl9fUUtQYXBUNGNVNjk2MVE1OFNuMVlWaTJwVzY2Z29CY0RjNHpNV1BzQ3dtWXdzeEZPb0p4WEVXT3ItUTVDMnk0LWxTOEZ1RkkxZEx1S3cwV1lCcF9vaXVoYWJ3QUNfTU5ud1htbHJ3cTcwMGtGRW0zcEkzbnZuTzNXUG9JODctRmV5djNQeHQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-12T19:09:28Z",
-      "summary": "该报道为一张资料图片，画面展示“AI Artificial Intelligence”字样，属于媒体在报道人工智能议题时常用的配图。图片本身不包含新的技术发布、企业动态或政策信息，主要作用是提示AI主题，为相关新闻提供视觉辅助。由于缺乏具体正文，无法进一步判断其涉及的AI应用场景或事件背景。"
-    },
-    {
-      "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlpRZ2kyazdNYi1HNzVmMWRabFlRVUNHb28yOEphakthbjdmdXctZjRVVG40TEZuN2lOMUgtRUdCY0pfeGhKVjAxNjIyQWZTbWZnOUdGd2p2OWhQUVdWQ3R3QUlnTXF4OThxdmU5S3JMQ3MwTDFYRkt4c2hnRVdaTkVPVkpBNDhMeF9ZNWk4UFlHSTFMRDd1MnU3N0pYcTFjMkV6SEZEcjEtRkk0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-12T18:20:00Z",
-      "summary": "雅虎财经文章回顾称，巴菲特一年前买入某只人工智能股票，并认为该股当前仍值得买入。文章可能从护城河、盈利增长、AI变现潜力和估值角度分析其长期价值，认为该公司能持续受益于AI浪潮。不过，文章未在标题中点名具体公司，投资者仍需结合基本面和估值审慎判断。"
-    },
-    {
-      "title": "Facebook parent Meta has unveiled a new artificial intelligence (AI) model that will compete with Op.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Sc3N0RnY0QzlhOWYxQlo4dV9Hb3dzZmpJSkpSV0tNQVR2NGJGcndSbnlXVGhfNTAxVGQyenBsZHd1OFVodS1OaVhqNA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-12T18:17:53Z",
-      "summary": "韩国《每日经济》报道，Meta推出新的人工智能模型，将与OpenAI等领先者展开竞争。该模型被视为Meta在生成式AI和智能体领域的重要布局，可能具备更强推理与复杂任务处理能力。Meta希望通过模型开放与产品集成扩大生态影响力，并改变当前由少数厂商主导的前沿模型竞争格局。"
-    },
-    {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-12T17:56:56Z",
-      "summary": "TechCrunch报道，Meta发布首个前沿模型Muse Wonder。与主打轻量、低延迟的Muse Spark不同，Wonder系列规模更大、能力更强，在基准测试中得分更高，并在编码等复杂任务上表现更好。这显示Meta正进军高性能前沿模型赛道，强化智能体与生成式AI竞争力，也将加剧与OpenAI等公司的竞争。"
+      "summary": "据路透评论，华尔街对人工智能的押注规模已过于庞大，难以轻松兑现预期回报。文章认为，科技巨头和投资者在AI基础设施、芯片、数据中心等方面投入巨额资本，市场估值也持续走高。如果AI商业化收入、生产率提升或利润转化不及预期，可能引发估值回调与投资修正。核心风险在于，AI叙事推动的资本开支周期已领先于可见盈利，投资者需重新评估回报周期与风险。"
     }
   ]
 }
