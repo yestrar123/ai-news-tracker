@@ -1,27 +1,76 @@
 {
-  "updatedAt": "2026-10-14 06:54:52 UTC",
-  "totalArticles": 3,
+  "updatedAt": "2026-10-14 10:47:58 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "Home consoles face extinction as cloud and AI boom, BI research says - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuaGJoTk90NjBucVl0UXhlRE40ck5IdkZzNUVCNGZ5di1vZHZiWnBFWHVKT2V1eVZ4dTdCTnNSUXlwSkREZVVVZnhibWNDZlQxdk94OWpHcUVkd2p0dkkzNW5TNFJ2TG9xX1RDQXh3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T10:00:26Z",
+      "summary": "BI研究指出，随着云游戏与人工智能技术快速成熟，家用游戏主机正面临被边缘化甚至消亡的风险。云计算使高端游戏无需本地硬件即可运行，AI则提升内容生成、动态体验和个性化推荐，进一步推动游戏向流媒体与订阅模式迁移。传统主机的硬件迭代和独占生态优势被削弱，厂商需转向平台、服务与跨端体验。该趋势虽未必短期成真，但将深刻改变游戏产业竞争格局。"
+    },
+    {
+      "title": "Fluent but flawed: Can AI replace human translators? - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWZvU01tOFJwSjlYdDZKaWM4SHFRSGRKT2RKMkY3VXZhVC1BcHRQWXUxc2FINkVaN3ZFc1pja2wzdjZKUnpqQTBMdmpvVGQ5alpQeVA2Y3c0a1pRdlFsS2NuVVZDbm1vbVFsTkpkNjRZNnd3ZHItcWhjZ0ZpTVNtZnBLLVc3TDlOempBMVE1VQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T09:49:09Z",
+      "summary": "文章探讨AI翻译能否取代人类译员。当前AI翻译在速度、成本和日常文本流畅度上进步显著，但在语境理解、文化隐喻、专业术语、法律与医疗准确性方面仍存在缺陷，可能产生看似流畅却错误的译文。人类译员的价值在于审校、本地化、创意转换和伦理判断。更现实的路径是人机协作：AI承担初稿和批量任务，人类负责质量控制与高价值场景，而非简单替代。"
+    },
+    {
+      "title": "Open-source AI models carry more cybersecurity risks: Anthropic executive - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeWNVb2hucHEyS1pwM0xYV3JPSnV1VU5aVERNTllqZXZRc05tTHBNakNTZ0I4YWZ0eGNFdUZON2xVV3h2NVN0T0dSZkNmQi1iOUxTRnlYODNrZVhjTWlRX0V5SDZ1aUctanpFcUpHQm5JWHJSYjl1VzlmU3BjN2JtWEdoVGlOOHRJc0o2RVNmd3V1WEtGWWNTYnMwWS1QX3dpMU40bVBuTzllYzdCLW5ISVlxa0dEYmpYZ0JobE9HNlFheXVMdHFzdTJUT2FvYjlTUkF6U0N0MEpIODMtdlBlb29DZDZETFdORElHSjNYZUttaWvSAfgBQVVfeXFMTUpaZXM1WnVLUS1XN29SSngybXlrdmVRR0VaZUdxRWs2TlRMNTVoMEgyZy1sWU5nZTFHSzNQQlZMcEt4UmwzLTNlbUJlakg2eS1KekY4NXNaOHVqSUVNQUt3WUxQc183d21GelUwZkFhNTYzUy1oTFNRSHlHVU5qSUJtQWpINU1oazdLOHBnVHJCUHRRbU80SThia3ZwRl9Ndzk4T3Z1ajlsSUdkQ0hqY1ZHOTc1Y05XczAtMC1KcV9yX2RwVHB3N0VZcE1lTFJoRDRDSW9XWDB1NFZvXy0ydVpjWkxVeGRxbkUzdmQ5M3Y1clhnR244Tkc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T09:41:49Z",
+      "summary": "Anthropic高管警告，开源AI模型可能带来更多网络安全风险。开源模型权重公开，易被恶意微调、滥用或植入后门，且难以集中监控和召回，可能被用于生成钓鱼内容、恶意代码或规避安全限制。闭源模型虽便于管控，但也存在透明度不足问题。文章认为，企业采用开源AI时需加强安全评估、访问控制、模型水印与红队测试，并在创新与风险之间建立治理框架。"
+    },
+    {
+      "title": "AI Could Start Improving Itself By 2027: Anthropic Co-Founder - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFpLMk8zblk2aDQ0MTRIMXZwejdtYnRLY2hmeGh0bV93QThRWFB6Nm8wOGg5OVgyb1NFci1sMzZwLURLWnJwZnJDRW42RkpqMTZHS3VsOWJENWs1YzA2N2w1bXpWaGwydHBFUGpIbGtoV1lvbGpCUzFRZl82NE5OQWtPaE1yVXFkUWRGMlI1d2lIVlJLQ0JfaWZFYV8teG1yVU9VckpCTUJuWEJBeUhWZllSaEHSAbwBQVVfeXFMTUdaVTRLaUQ2RTVwTC1zREdBcFhGaEhNLWdwWjh6SWRncncwRjMwQTFHdTZlVWwxZlJiN0FTNHBmZlYzc2NHUmZsVnAwQURyZ2dUMXNLVWM0eGRoZ3ZERnpBNVJmSEFsVEtpOEFRSmQzU0RGLVU3TEtJQ1pDNHVVMTJDZXBISFFGNk8wYlpieGNCbUdkZ3hGb2luRElvS0h2bzhSeF96amRSdmJaQXZfTkY3SFdHVW5SeVF2Nzg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T09:20:23Z",
+      "summary": "Anthropic联合创始人预测，AI可能在2027年前后开始自我改进，即利用AI加速AI研发，形成递归式能力提升。这有望大幅缩短模型迭代周期，推动科学、软件和工程突破，但也引发对齐、失控和监管滞后等安全担忧。若自我改进成真，现有治理与评估体系可能难以跟上。文章强调应提前投入可解释性、安全测试和国际协调，确保能力提升可控、可追溯。"
+    },
+    {
+      "title": "Trump Administration’s new website shifts AI narrative to ‘Super Intelligence’ with launch of SI.gov - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWkh0djR6R1RVV1JWYnlVNlZBWW5uTHRRaGUySzlUNTNiVFJpSlctNGhTNDhKTlZlWHZtS0M4RHVjN1lJYi02Z1U2bkxkRDVvRmQtYzBpSkYxTEkwTWdUMDRxOGFwYzFnVWd6VkxzWWc4eHJNVy1mSy1xd0hOcWVCc24wdkxiMURMQkdCclB3Y1kwakVyRDdoUmJDT2VMQ1JRN3pIb1BvU0tCV3psWi1Jc2hlalFubWFwWFd0QU9kX0JWNTZycmVBdC1JWVlJclk1VE1EcVNGUWFNejdPLVk5MkVkTVNMeDhXTHlacm5vaGhvT0U2aUZ0bkxrR3NMbjBCNEZDeFVmTmJDcUtKUTZ4WHFR0gGXAkFVX3lxTE11OXdjdVJORGhGZTY1SFZDUTBCYmVySmE0V0gwaC1uRTlraFY0MjdTS2dfUWkwRWhzVWJPRWh5Y29JU3lJM0JPUHA4bHRnOEhVUi1sLW5nMURpX2c3NEtSQXAwRkNEeFFHZV9QclAxOHdLQ2xVTzdwdVAtUV9sMEE0U0FKOUF4bWRXNmc4eW9yS0Y4NWp4V3Y4a3FQbUlXMVgyWm1lbjhXNWZ0SzluNUJ2T01wQWg1ZXJoUGlDa0RfRzY4akcxamhrWGs1YkMta2NMYVlWSkQ3eDRoX2UzZlBfQnFEd3V6U2hHYk5nVUhBWFNPeGdUd0tNekM4RkZpUTRNT1dYQ1VialU1OUlNMjdPS21EaDk3UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T09:11:13Z",
+      "summary": "特朗普政府推出新网站SI.gov，将AI政策叙事从常规人工智能转向“超级智能”，显示美国在AI竞争中的战略话语变化。该举措可能强调国家主导、加速发展和保持对华技术优势，而非仅聚焦安全与伦理。超级智能概念涉及远超人类的通用能力，既可能带来巨大经济与安全收益，也伴随失控风险。政策转向将影响监管、投资和国际合作，需关注其具体议程与执行。"
+    },
+    {
+      "title": "The artificial intelligence (AI) revolution is still in its infancy. I hope Korean investors don't m.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14WHhJTHpqbnBXbTFTQUJGMzkydWZaeC15OU1XbnJMVHVjWWhFU253YU1vU1pLNnp5Qnlsc1lLaEpHWERfREZoMVVIeDVoZms?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T09:08:34Z",
+      "summary": "评论认为，人工智能革命仍处于早期阶段，远未到成熟或饱和状态。尽管市场出现波动和泡沫争论，但AI在基础设施、应用和企业转型中的渗透才刚开始，长期投资机会广泛。文章希望韩国投资者不要因短期噪音误判趋势或错过布局窗口，应关注算力、数据、模型、行业解决方案及人才等关键环节，同时保持理性估值和风险管理。"
+    },
+    {
+      "title": "While the artificial intelligence (AI) bubble theory has emerged as a hot topic in the global financ.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCbVVqUEd5VzJ4aEhULTJNdmNLTmFfRENITVdpQUNrVnFsYWtDR01Bd0pKMFA4cjZGbmFSSWU2YTd4clAtVzYxUHpEXy1ad0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T08:44:59Z",
+      "summary": "在全球金融领域，AI泡沫论成为热议话题。批评者担忧AI相关股票估值过高、资本开支激进、商业化回报尚不明确，可能重演互联网泡沫。支持者则认为AI仍处早期，生产力提升和商业模式创新尚未完全定价。文章可能建议投资者区分炒作与基本面，关注真实收入、现金流、客户留存和落地场景，在乐观与谨慎之间寻找平衡。"
+    },
+    {
+      "title": "LG CNS aims high in global AX market in partnerships with Anthropic, Japan’s KDDI - KED Global",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UQmtrSlgxcnZwc0psUXBYWEhxazRpOXdnN2l6cnlWem5Md3NaM1VWRG9RYk5DSTBKQ2x6V2pPal9nOE44cWVLY0p4RmM0UkpTc19peFlVd1Y3dHpjdU45SWZHYlcwWE5mZEs5VVZaVFlELUlTaXlKcWNydUV4V1k?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T06:50:48Z",
+      "summary": "LG CNS宣布与Anthropic及日本KDDI合作，瞄准全球AI转型（AX）市场。三方拟结合LG CNS的行业交付能力、Anthropic的生成式AI模型与KDDI的日本企业渠道，提供从咨询、平台到行业应用的解决方案。此举反映IT服务商正加速竞逐企业AI落地，尤其在日本和亚洲市场。合作能否规模化，取决于本地化、数据合规与可衡量的业务价值。"
+    },
+    {
+      "title": "Cloud Data Engineering and the Foundations of Enterprise AI - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXY2YjFzNXE3UW1IQzRuN3VxYy1EcTdTZ2NiOUZPSW85SzhBTzJfVTlTWWNCMEVxY29JUlBxLUQyUGprODlrLUE3M1paOGxGRnpKNjdqWUNHaTRtSGdwanQ3LWJfSFh1LVkxOEpxTXpQN2xHSmtSVGZDR1pKUTVnZ2M4TXZ0ZEJZRzFETQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T06:46:59Z",
+      "summary": "文章指出，云数据工程是企业AI的基础。企业若要成功部署AI，必须先在云上构建可靠的数据管道、湖仓架构、数据治理、质量管理和安全体系，确保数据可发现、可信任、可实时流动。没有扎实的数据基础，模型难以产生稳定业务价值。文章强调将数据工程、MLOps与云平台整合，支持从实验到生产的全流程，为AI应用规模化铺路。"
+    },
     {
       "title": "Independent school pioneering AI says teaching comes first, tools second - The Herald",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHQ0TGVXQ3lMeFRPcUVmTW04c21WUzV4MW9odXpqTGgwWEExVTFZa0VnVE9SdlNpVFJzakcyYnBMWk85SzhuTWRHZnRVSVNYM09HRk1XQzhzVmZNMVlLMmU1ZS1sellkaVZEQzhxcWlQRGJXVzFJc0ZsLUt4UTdPbWV2YlA3cDBST3cxeHozTHFTbV9weHFkNUhnT1Ayd3VacXc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-14T05:07:46Z",
-      "summary": "苏格兰一所独立学校在AI教育应用上走在前列，但其核心立场是“教学优先、工具其次”。该校强调，人工智能应服务于教学目标与学生学习需求，而非主导课堂。引入AI工具时，需先明确课程目标、评估方式和伦理边界，再考虑技术部署。教师角色不可被替代，AI更多用于个性化学习、减负和辅助决策。此举为其他学校提供参考：教育创新须以教学法为本，技术只是支撑，避免为用而用。"
-    },
-    {
-      "title": "Scotland's fund managers face an AI test that could reshape the industry - The Herald",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGRNR2xNX1NFRkVKTDB5QVYwQmtVOWNmc2d5dlBma0NlM2liNzIxSzlqbVR6MzhCVXQwNHE0LTQ2WlBvZjBGeVdhX2lTblZFWVU2UERWdHpfZ1FKbVZDWXF3RU9KZWRyYjVuSkJ1RGtoQjJwb3NXX0YwTnlUMnFDdDNfeGxJTmREaFhYWmNDZzNVOWNIbmJJWkRwbFprQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T04:34:26Z",
-      "summary": "苏格兰基金管理行业正面临人工智能带来的关键考验，这一技术可能重塑行业格局。AI可提升投资研究、风险建模、交易执行、合规监控和客户服务效率，但也带来数据质量、模型可解释性、算法偏见与监管合规等挑战。基金公司需调整人才结构、技术架构与治理流程，否则可能在竞争中落后。文章认为，能否有效驾驭AI，将决定苏格兰资管业未来地位，并推动行业模式与价值链重构。"
-    },
-    {
-      "title": "Artificial intelligence threatens North Dakota security - KFYR-TV",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDJLVzR6SG5KNXA2dTRUbzN3c3FlOWNrdE5IZzZ5c0U0TU9aS3czUjJTQ3dCcFp6VUpFc3k3dDh0cDlaVEM5NHBiakhIMXNMYy1wTTNGYnJobVVkZHhwQk9tLWdzX2Qtd0lDWWw3cDFOOHpoMWFLdGplaWRfUDBGM2tHN3d3Mk1FaDNJWU4zcXMwM2VK0gGoAUFVX3lxTE1hUHp6WEJTeHotdm10OWtoSTJhckZsbEpwYURYS1BvOVlSdmY4cU40SGp4SUhjNTQ2elE1TlJNNEFVYTkycDB0UDkyMHVHLTNHZ1hpTXMwRGZabjBIcHpJdUgtQjlYay1TSXNUdFFGMEs1NlZreFNjb2hTSVdReHhZWk0wQ0lfWUhrZklzWjRSZHctSnZRMkNQMmozUkRYaWZGRkswQjNGUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T01:50:00Z",
-      "summary": "北达科他州面临人工智能带来的安全威胁。报道指出，AI技术可能被用于网络攻击、关键基础设施渗透、深度伪造、虚假信息传播及数据隐私侵犯，增加州级安全风险。随着AI工具门槛降低，恶意行为者更易发动自动化、规模化攻击，政府与企业需加强防御能力。应对措施可能包括完善监管政策、提升网络安全投入、推动跨部门协作、加强人员培训与公众意识，以降低AI滥用对公共安全和经济稳定的影响。"
+      "summary": "一所独立学校在AI教育应用中强调“教学第一、工具第二”。该校将AI用于个性化学习、教师备课和反馈，但坚持课程目标与教学法主导，避免为技术而技术。文章认为，AI可提升效率，但需关注隐私、公平、学术诚信和师生关系。成功关键在于教师培训、明确使用规范与批判性思维培养，为其他学校提供可借鉴的实践路径。"
     }
   ]
 }
