@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "6378",
+      "title": "Independent school pioneering AI says teaching comes first, tools second - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHQ0TGVXQ3lMeFRPcUVmTW04c21WUzV4MW9odXpqTGgwWEExVTFZa0VnVE9SdlNpVFJzakcyYnBMWk85SzhuTWRHZnRVSVNYM09HRk1XQzhzVmZNMVlLMmU1ZS1sellkaVZEQzhxcWlQRGJXVzFJc0ZsLUt4UTdPbWV2YlA3cDBST3cxeHozTHFTbV9weHFkNUhnT1Ayd3VacXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T05:07:46Z",
+      "summary": "苏格兰一所独立学校在AI教育应用上走在前列，但其核心立场是“教学优先、工具其次”。该校强调，人工智能应服务于教学目标与学生学习需求，而非主导课堂。引入AI工具时，需先明确课程目标、评估方式和伦理边界，再考虑技术部署。教师角色不可被替代，AI更多用于个性化学习、减负和辅助决策。此举为其他学校提供参考：教育创新须以教学法为本，技术只是支撑，避免为用而用。",
+      "fetchDate": "2026-10-14"
+    },
+    {
+      "id": "6379",
+      "title": "Scotland's fund managers face an AI test that could reshape the industry - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGRNR2xNX1NFRkVKTDB5QVYwQmtVOWNmc2d5dlBma0NlM2liNzIxSzlqbVR6MzhCVXQwNHE0LTQ2WlBvZjBGeVdhX2lTblZFWVU2UERWdHpfZ1FKbVZDWXF3RU9KZWRyYjVuSkJ1RGtoQjJwb3NXX0YwTnlUMnFDdDNfeGxJTmREaFhYWmNDZzNVOWNIbmJJWkRwbFprQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T04:34:26Z",
+      "summary": "苏格兰基金管理行业正面临人工智能带来的关键考验，这一技术可能重塑行业格局。AI可提升投资研究、风险建模、交易执行、合规监控和客户服务效率，但也带来数据质量、模型可解释性、算法偏见与监管合规等挑战。基金公司需调整人才结构、技术架构与治理流程，否则可能在竞争中落后。文章认为，能否有效驾驭AI，将决定苏格兰资管业未来地位，并推动行业模式与价值链重构。",
+      "fetchDate": "2026-10-14"
+    },
+    {
+      "id": "6380",
+      "title": "Artificial intelligence threatens North Dakota security - KFYR-TV",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDJLVzR6SG5KNXA2dTRUbzN3c3FlOWNrdE5IZzZ5c0U0TU9aS3czUjJTQ3dCcFp6VUpFc3k3dDh0cDlaVEM5NHBiakhIMXNMYy1wTTNGYnJobVVkZHhwQk9tLWdzX2Qtd0lDWWw3cDFOOHpoMWFLdGplaWRfUDBGM2tHN3d3Mk1FaDNJWU4zcXMwM2VK0gGoAUFVX3lxTE1hUHp6WEJTeHotdm10OWtoSTJhckZsbEpwYURYS1BvOVlSdmY4cU40SGp4SUhjNTQ2elE1TlJNNEFVYTkycDB0UDkyMHVHLTNHZ1hpTXMwRGZabjBIcHpJdUgtQjlYay1TSXNUdFFGMEs1NlZreFNjb2hTSVdReHhZWk0wQ0lfWUhrZklzWjRSZHctSnZRMkNQMmozUkRYaWZGRkswQjNGUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T01:50:00Z",
+      "summary": "北达科他州面临人工智能带来的安全威胁。报道指出，AI技术可能被用于网络攻击、关键基础设施渗透、深度伪造、虚假信息传播及数据隐私侵犯，增加州级安全风险。随着AI工具门槛降低，恶意行为者更易发动自动化、规模化攻击，政府与企业需加强防御能力。应对措施可能包括完善监管政策、提升网络安全投入、推动跨部门协作、加强人员培训与公众意识，以降低AI滥用对公共安全和经济稳定的影响。",
+      "fetchDate": "2026-10-14"
+    },
+    {
       "id": "6371",
       "title": "Report: State’s AI rules don’t effectively weigh risks - The Virginian-Pilot",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQME5PemplbUMzMzBVbFdrUHZPTEJjQmtBVm1JWGpDZkhhWjRzcktyMzVrQ3haYkx4X2FhdHpuMlpqNks5dld0em9BbnNIN0pnbFBLQkd0MkM4dlh6dUhNUlVWS1FjNDJBZ2hoU3MtZjRmOTlWYWp4RzR2VEdrSkpfLVdGWTYtQTl2S3NPaHdhVHZKLXMxNFE?oc=5",
@@ -57385,5 +57412,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6376
+  "total": 6379
 }
