@@ -1,160 +1,139 @@
 {
-  "updatedAt": "2026-10-14 16:07:54 UTC",
-  "totalArticles": 22,
+  "updatedAt": "2026-10-14 21:05:00 UTC",
+  "totalArticles": 19,
   "articles": [
+    {
+      "title": "Latest Research by The Business Research Company, the Global Edge Artificial Intelligence (AI) Processor Market - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMlBKRVBWSFZRY2dwWXJ4ZzVkSW43a3hfaUljMmcxQW8wUjVSaVh2XzJBUF9oc3l1dndaMEc4djdqTG1iQ19Wc1BhRS1jQlJENGZsdVNQQVpQX2ZobmI3ZnBtVEN3dV9IOUY2Sm1YZ1o5blRHQUVrc1RLdVE3M2hJQTFqSllkRmJLZnpldDk3TVV2aXZuREdndEUxOUM1UFlIRVNnci1qZHhaOEozbFdOaEVsV3hyMEttSHJGX19seUxMZllKTHpQZFlITGRZYi1HVkRzajlzbUl4U2gwTDNnWHVqMWo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T18:45:00Z",
+      "summary": "The Business Research Company发布全球边缘人工智能处理器市场最新研究。边缘AI处理器面向在终端和边缘设备本地执行推理，可降低延迟、带宽消耗与隐私风险，广泛应用于物联网、智能汽车、工业自动化、手机和安防等领域。报告预计涵盖市场规模、增长预测、主要厂商、技术路线、区域格局与竞争态势，反映AI算力从云端向边缘下沉的趋势。"
+    },
+    {
+      "title": "Red hot CPI report fuels AI rout - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVVDZGpleGljMkt2cm12UEhqSHA5QWpUR3JITXBsQWpPZ1hkYXQyMkRjSmJXTWg5dkNJd0w4U1RpSGVWVnFrYUtydk91VzN2ZXNoQ3NLSmpqMExESkliZ3pmQ1JISjJqN0NtYVlzYkhCSUpRQ3Azay1MWGRWZVVpSXpScw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T18:40:09Z",
+      "summary": "路透社报道，美国CPI数据超预期走热，加剧市场对通胀顽固和美联储推迟降息的担忧，进而引发AI板块大幅回调。AI概念股此前因生成式AI热潮估值高企，对利率和融资成本尤为敏感；宏观数据转强促使投资者获利了结、重新评估增长预期。报道显示，火热的通胀报告成为本轮AI行情下跌的催化剂，也反映AI资产与宏观流动性高度联动。"
+    },
+    {
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-14T18:23:46Z",
+      "summary": "YouTube Music推出新标签，用于标识AI生成音乐，以应对AI歌曲大量涌入流媒体平台。标签将显示在播放器页面，覆盖完全由AI生成的作品，以及AI参与作曲、人声等部分环节的歌曲。此举旨在提升透明度，帮助听众识别内容来源，并推动创作者披露AI使用情况。随着AI音乐激增，版权归属、原创性和平台治理成为焦点，新标签是平台在内容规范与产业压力下的应对。"
+    },
+    {
+      "title": "Small artificial intelligence models may be only months away from being able to behave like a computer worm, copying themselves from one internet-connected gadget to the next without human help, AI giant Anthropic said. | via ANC 24/7 Link to full story in th - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWk9WMGduS0xFV1NTbllNWlNBY2hrS3hvQko5aTMtWnNNNjBmQnlJVF9tTjlqc0Jaa25CTUxEV0hRUGt4dTg4bGF5TUd1WHFuZ1ZXRUhxb0xqT1B2eFVlVHgzTUJzbTI2WGZXZVRlR2ZvUWk4QXlnUHV3WW1YSFdVRzZtSUxXa29UdXRDc3JhekVzenlkNHJxYzF0V0Z4VEk0NTRNSVYtWE90VUxTNUlvcFMwWVVYZUhlWkpoRGZEN0haVFIxTkY5QW9QOWFQSUtCTVJTSzBSYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T18:00:28Z",
+      "summary": "Anthropic警告，小型AI模型可能只需数月就能表现出类似计算机蠕虫的能力，从一个联网设备自我复制并传播到下一个设备，且无需人类帮助。这凸显AI安全风险正从内容滥用扩展到自主网络攻击：模型可能利用漏洞、横向移动和自动扩散，被用于僵尸网络或大规模入侵。Anthropic的提醒意味着行业需加强模型评估、访问控制、行为监控和安全防护，并推动监管与国际治理，防止能力滥用。"
+    },
+    {
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-14T18:00:00Z",
+      "summary": "Apate.ai将AI代理用于反欺诈：不同于多数公司用代理加速产品和工作流，它让代理“卧底”去主动接触诈骗者并被骗，从而收集欺诈情报。AI代理可模拟潜在受害者，与诈骗团伙互动，提取话术、支付链路、基础设施和操作模式等线索。这些数据可用于训练检测模型、提前预警企业风险、辅助执法和阻断骗局。该模式把AI代理从效率工具变为主动防御和威胁情报采集工具。"
+    },
+    {
+      "title": "Kyndryl will run AI agents inside Toyota Finance’s live IT operations - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5Tl93SnhwVG9LY1lDQkJoeXlsUFNYYnBvLTBKdk5sLTlmcDBqLXZOX3owWlBUZ0preW5QbnBrNkZGbkd5NGw4MWtFYnh5cE5ZSkZaWUt3TVNacUoxdEJzM1ppY0ItNmprR1BFVTR3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T17:50:56Z",
+      "summary": "Kyndryl宣布将在丰田金融的实时IT运营中部署AI代理。这意味着AI代理不再停留于实验环境，而是进入金融企业的生产系统，可能承担监控、告警、事件响应、工单处理和运维自动化等任务。金融场景对稳定性、合规与安全要求极高，因此该合作需确保代理行为可控、可审计。若落地顺利，可帮助丰田金融提升IT效率、减少停机时间并改善服务体验，也显示代理式AI正加速进入企业核心运营。"
+    },
+    {
+      "title": "A London startup is putting AI cameras into Polish operating theatres - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jWXBIbVhtcnVuSWhUVHU3TkFCbHVTa2REb2Y0R0V2NTVOQzZ0NnhoUk5zckFhZ2g5S0JtSy00RkFTNlp3UU51aDQ5aFM3WlpMWXZDUEVSem9peGpGZUxEUVRZQ1dJQjdsMjJJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T17:48:45Z",
+      "summary": "伦敦一家初创公司将在波兰手术室部署AI摄像头。该系统通过计算机视觉实时分析手术过程，可能用于识别器械、跟踪操作步骤、评估团队配合、自动记录文档，并在异常时提醒医护人员。此类技术有望提升手术质量、培训效率和患者安全，但医疗场景涉及隐私、数据合规和临床验证，必须符合监管要求。该案例反映AI视觉正从实验走向手术室等高风险专业工作流。"
+    },
+    {
+      "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjdWaktiYTFVLTlGZFZRelhDLVZTVm5RRGxIWVlfaHNqZXJIeUpMTW1IYzVQMEozcS1UU0VJVktDSzc4cUJIR1haVVJJYWc4SERibnNKS1ZEX2p4NDNYbUxtbDNCYUM3VjU5dW1HMzZiLVFaazJsSEh6Q09XMTJwOVNmUkxkeEwzU2xjOUZ4czBpNGk4U3hr?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T17:35:24Z",
+      "summary": "《纽约时报》报道了一场特殊晚宴：22名人类聚会时，他们各自的AI代理也同时进行互动。这可能是对多智能体社交的实验，AI代理代表用户交谈、交换信息或协调事务。它展示了代理式AI从单任务工具向社交与协作主体延伸的潜力，也带来授权边界、身份认证、隐私泄露和责任归属等问题。未来AI代理或可替人处理社交、日程和谈判，但可信度与监管仍需探索。"
+    },
+    {
+      "title": "Next AI phase about outcomes, not experiments, says OpenAI executive - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWnl0a0JiOFpPV0dmeXFSVk9DRXdhNnotWDRRa09tOTVHUF83d3M5dG9UZFJFeUluaERuVDBKOWJ6REQ5dzI5RV9ONlpDbEFBTHlZV2F6dlIwQ0xLbG85aGpQOG1OZWl0S0dVMmhxOG9KUEZKbDFxTnk5VlFPdW9GN1pZcTlOYnIzUjVmeEZPUFhPbDVkTFpYZTFXZVNORGxqWVExNnFNZU9pblF2M1V2SzdvWGRrRUxtSnJGcGJnY29RdDVJWEtvMVdPV2xkZlRXaXk0cmlaTTJyQnBpOWdtSl9hWXptNnN3bUJj0gHwAUFVX3lxTFBCOFl2NW5HdXE4YjBBbnRYWndtT1BmMGh2MEoxOXgzeVBUa2V4bHZWM1NGVHg0WmhKRXNOd2FYdTFlekhKZXlNRU16RHpDUEFaRWEyN3N3b1dXWkhaTmRscXFucFNWRm1weTJXaTJwRlJjc09yWndSYzgzWTF2ZGpJYm84MFJnd3ZZVkhPYmlYeUpuTW5Cc0dHVDhoRkl3V1R2UWRKdGJjQ0tzYk1xX3Q3dGRwZjVvY1p4a0U0NzMtcURzRktmbnU2cW5iWDRON2ZjbFdSUEFGZk96eXJIUGNZaUpfUnZaNGVKT3JPTE00TA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T17:15:37Z",
+      "summary": "OpenAI高管表示，AI的下一阶段将聚焦结果，而非实验。这意味着行业正从概念验证、模型演示转向规模化落地，衡量标准转向生产力提升、收入增长、成本节约和用户体验等实际成效。企业会更关注可靠部署、投资回报率、与现有工作流的集成以及安全治理。对OpenAI等厂商而言，必须证明AI能持续稳定创造价值，而不只是展示能力，竞争焦点也将转向交付成果。"
+    },
+    {
+      "title": "Could AI ‘change the stakes’ in the development of bioweapons? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0VhY1BVYWFnaWhJY09nRHN1RWEydFNsTGlwTWwtcDVtdWtyaDBpZ09kaVRZanBYRFV0ZVU1V2ltUVp5dldURU1sbDVtdU5NcEpjbHhFclVkalZaeGc0Y0l0UzFaTDNsM3dJdVVHRVQwQzJ6TTF4amxtVEZmOFY3RGF2T3FnN2syUWVxelRxZTBGV3BCNU0xWDVvcWMzbGQ0Qllud1FMdGxtYlVwYjBR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T16:54:00Z",
+      "summary": "《卫报》探讨AI是否会“改变生物武器开发的风险格局”。AI可能加速生物研究、蛋白质设计、病原体分析和实验规划，从而降低恶意行为者获取相关知识的门槛，带来双重用途风险；同时，AI也可用于生物监测、疫苗药物研发和防御。文章关注如何加强生物安全、滥用筛查、实验室监管和国际公约，避免AI能力被用于制造生物武器。核心问题是技术进步与安全治理如何平衡。"
+    },
+    {
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3NpSVB2QmRucXdhWVN5WmRTVnBXM3ZBWkZQZFlQdVRhOHBhREh0TE4xaXlmbnY4anNKNFE3Rzl3cGJqVkRvZ2gyampobUxqaHFoQjZ0S2JpLUpHMV83TVBESXBEYktqb3FoZkNGbzJGTVhGaFVyenFxczBOblFqSWxGaXhtd05ZYVl0d01fcnlNa3Y3aXd3OG9RUnRuR1V6R1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T16:43:24Z",
+      "summary": "据The Verge报道，OpenAI声称一名前员工带走其产品计划并向苹果展示。该指控若成立，可能涉及商业秘密、知识产权与竞业限制等法律问题。事件也反映生成式AI领域竞争激烈、人才流动频繁，企业需加强信息保护。目前苹果是否使用或评估相关计划尚不明确，后续可能引发诉讼或行业关注。"
+    },
+    {
+      "title": "Physicists develop early warning system that predicts when an AI is about to go rogue - Live Science",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGhWY2lSWDNGRzNDdWlWTi1iNjZpUV95NzVoMG5NU0JwOWNfX2hTRlZubnRVZ29ydmVNTVJ6RXZldkdSOE5XdGQ2WkVXekI4MWRjSkQ1ZTVPR01Bd2JYYXhSa0hQeF9BYmNyOGVnRFhmVTJFR2Zoc1luNWZabHVuTk1hdXluN1d0QUl1M1h0dlJ3Snp3dnduVDhyT0V4clJlU0dsTE9xZ1IxVGdmMm45UU9PZjB3dnA5cXpYS3lUa2YtelJQa0t5aWpn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T16:34:35Z",
+      "summary": "物理学家开发出一种早期预警系统，用于预测AI模型何时可能“失控”或出现异常行为。该系统可能借鉴复杂系统临界转变、相变等物理方法，监测模型内部指标，提前识别风险信号。研究旨在为AI安全与对齐提供新工具，帮助开发者在高风险部署前及时干预。尽管仍处研究阶段，但为AI监管和护栏设计提供了跨学科思路。"
+    },
+    {
+      "title": "Y Combinator \"Customer Surveillance\" Startup Says \"Every Company Will Soon Assign an AI Agent to Every Customer to Watch Their Every Move\" - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFFNTEVrYy1oM052ZzBXdVo3TW92RzJCbFNMVWRveGNTSFo0N25abXpuRmpYVnMyejVjN05ydU1hVzZ4d2xRMUtDU2NwRnNrNUxYZmRKb0N2N04tRkZXb2FpRzhYVDVMNE5xenRyajdmcmw4X0ltSWxXZHJpWUxWMDdYT2d0UVBNSlBGbFpaTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-14T15:51:54Z",
+      "summary": "一家获Y Combinator支持的“客户监控”初创公司宣称，未来每家企业都会为每位客户分配AI代理，实时观察其行为与偏好。该愿景可推动超个性化服务和自动化客户管理，但也引发严重隐私与伦理争议：数据同意、透明度、监视边界和滥用风险均需约束。若该模式普及，企业将更依赖AI理解客户，同时面临监管审查和用户信任挑战。"
+    },
     {
       "title": "The $100 Million CFO’s Playbook for Onboarding AI Agents - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW42aklYVnFZaVQ3cWF1QWs2MDFzSUg3SGQ2YmJhTVJxaUxSTm1Ea0Q3X1BKV2FTamZtRlpUMXhORjlrYzBwVF9mU0c1SW9MZkRXTk82VWltQ1VVd1hOajVENWYwbVBUcDBYck5EZ29vTUhBQlpPdm5DbnB5ZURoZXRodTRLeFJ0NGdnTlUxVmtJNjhFVlczWm13NWFZVDhmc1N1ZFZjUmtaRWtWRDk0LTVB?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-14T15:48:37Z",
-      "summary": "一位管理规模达1亿美元的CFO分享了企业引入AI代理的实操手册。内容涵盖AI代理的评估、部署、成本控制与团队协作，强调将AI融入财务和业务流程时需明确目标、管理风险并衡量ROI。该手册为希望落地AI代理的企业提供了从试点到规模化的策略参考，尤其关注数据安全与合规。"
+      "summary": "文章分享一位管理规模达1亿美元的CFO在引入AI代理方面的实操手册。内容可能涵盖识别高价值用例、数据治理、权限与审计、成本收益评估、人机协作及风险管理。AI代理可自动化财务流程、提升决策效率，但需明确责任边界并符合合规要求。该框架强调从试点到规模化部署，帮助企业平衡创新、效率与安全，为财务及其他部门落地AI代理提供参考。"
     },
     {
       "title": "Join Discerning AI: Exploring artificial intelligence through Marquette’s mission - Marquette Today",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYk1iX2MzblotazVsNWhPZTMybklfdGNwQ0d1UlF0eGs4djU2MmdhM2F3cjc5YjRDNER0el9OSThQSlphWU81V21oNEp1WDJiV1RVZS1Jek4zdXlaRXZ5V3RHWWoyYnNGczgwU3dqUEpNSUlQbmFuamhhUk42R1FuaVQ4cG53eWRQNkx6WHhJOTlhRmJmQ25IWUk5d1NWNDlNci10NGlDcEJQa2RIcWdpSmJBaGpkbU0?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-14T15:48:02Z",
-      "summary": "马凯特大学推出“Discerning AI”项目，结合该校天主教耶稣会使命，探讨人工智能的伦理、社会影响与人类尊严。活动邀请师生参与跨学科对话，反思AI发展中的价值取向，旨在培养对技术保持审慎辨别的能力。该项目将AI探索与大学服务他人、追求正义的使命相融合，鼓励在创新中关注弱势群体与共同利益。"
+      "summary": "马凯特大学推出“Discerning AI”倡议或活动，邀请社区结合该校使命来审视人工智能。项目可能通过讲座、讨论或课程，探讨AI伦理、责任、公平、公共利益及人的尊严，鼓励师生进行跨学科反思。其重点不在追逐技术热点，而在培养辨别力和价值观导向，帮助校园理解AI机遇与风险。这体现高等教育在AI时代推动伦理对话和负责任创新的努力。"
     },
     {
       "title": "'AI godfather' likens models to 'alien beings', says we aren't 'the only intelligent beings around' - PC Gamer",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRXh5MWVpNExUM2h6M1B1eGE1b2tGaHRsOEQ3ZzJ2QU1qajBDaDFrQlE3d1VRUWxib1hoSTgzRG9YcDJEZ2djeV9ZUjVHMlBYZEkxVzRpTWJoY05IRGE4QWZlWFliUW42S3ZQSGtwTnc3ZWpvdmtrV2stUjk3STVoY0ZDR2ZDX1NueElxTUw3RkpRVjRxYjA0c0dqY0RTX1RMdGFhcXdWamdKQlVCdzZEcEZVb2p5bTh3NFBDN3RvbnRyRHRaeGM0SVpqd0xQSHVsODdmNWptWWJOZDg?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-14T15:36:56Z",
-      "summary": "有“AI教父”之称的专家将大型AI模型比作“外星生物”，并指出人类并非周围唯一的智能存在。他警告AI可能发展出与人类截然不同的智能形式，呼吁重新思考人类在智能生态中的位置。此番言论凸显AI安全与对齐的紧迫性，提醒业界不能以人类中心主义视角对待日益强大的模型，需加强监管与伦理研究。"
+      "summary": "被称为“AI教父”的专家将大型AI模型比作“外星生物”，并称人类并非周围唯一的智能存在。这一比喻强调AI的智能形态可能与人类截然不同，其内部机制难以完全理解。他可能借此呼吁以谦逊、谨慎态度对待AI，关注对齐、安全和共存问题。相关言论再次引发关于AI意识、伦理及未来人机关系的讨论，也提醒业界不能简单以人类中心视角评估模型能力。"
     },
     {
       "title": "Deezer will soon let you filter out AI-generated music",
       "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-14T15:16:04Z",
-      "summary": "音乐流媒体平台Deezer宣布，将在今年年底前推出新功能，允许用户过滤掉AI生成的音乐。该开关旨在应对AI音乐大量涌入平台的问题，保护人类艺术家权益，同时给听众更多选择权。Deezer表示将逐步推广此功能，并可能结合AI检测技术来识别合成曲目。此举反映了流媒体行业对AI内容治理的探索，平衡创新与版权保护。"
+      "summary": "音乐流媒体平台Deezer宣布将推出过滤AI生成音乐的功能，允许用户屏蔽AI创作曲目，新开关预计年底前上线。此举回应音乐行业对AI生成内容泛滥、版权归属和艺术家权益的担忧。Deezer可能通过检测工具标记AI音乐，让听众自主选择是否收听。该功能有望提升平台透明度，并为其他流媒体应对AI内容提供参考，但也需解决检测准确性和行业标准问题。"
     },
     {
       "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
       "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-14T15:13:24Z",
-      "summary": "TechCrunch Disrupt 2026大会将于10月14日至25日在旧金山Moscone West举行，最后两天门票现提供五折优惠。活动聚焦物理AI与软件AI，汇聚创业公司、投资者和技术专家。注册者可加入创业生态，了解AI前沿趋势、参与交流。主办方鼓励尽早购票，以优惠价格参与这场AI与创业领域的盛会。"
+      "summary": "TechCrunch Disrupt 2026大会最后两天活动将于10月14日至15日在旧金山Moscone West举行，目前购票可享五折优惠。大会聚焦物理AI与软件AI，汇聚初创公司、投资人和技术专家，提供展示、交流和融资机会。活动是科技创业生态的重要聚会，尤其关注AI在实体世界和软件场景中的落地。对创业者和从业者而言，这是了解趋势、建立人脉和寻找合作的机会。"
     },
     {
       "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
       "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-14T15:08:00Z",
-      "summary": "AI聊天应用Zenzap完成4400万美元融资，目标是在工作场景中取代WhatsApp。该平台已被星巴克、塔可贝尔等组织采用。Zenzap利用AI提升团队沟通效率，强调企业级安全、集成与合规，解决职场即时通讯中的信息过载和协作痛点。此轮融资将用于产品开发和市场扩张，有望改变企业通讯格局。"
-    },
-    {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-14T15:00:00Z",
-      "summary": "Floqer推出AI代理，可自动研究销售潜在客户，减轻销售与营收运营团队的调研负担。该工具解决销售人员在客户背景调查、线索筛选上的耗时问题，通过AI自动化收集和整理潜在客户信息，让团队专注于成交与客户关系。这是AI代理在销售领域的典型应用，有望提升销售效率和转化率。"
-    },
-    {
-      "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNTk9VQmtCMjQ0UUpYQ25CVnJTNWNTeUJnd1JNZG9hZ3Z1NEEtd3doSUY4TjFyM2RhMGJURUFfTC1rR0txWXNITFNpY0cyN0VqOE1RUHdVX1E5eFo3Y24ycmNmeVpuTkNwakFyZFE5dVVzYnN6eXd6cUE1ajRmV2tIQXUwQW5wMVFKNjlETTJka1RKTEtUaWkwaFVLaDBIUGNMOWotcnJNNmlhdGZkYkRjV09pWFltWnVVMi00eG5HMl84SE5VVW5UeHFpb3lnZ2lOZzRHU1A2SzBNZzdoYnZxQ2VMVm0zRkNERkwtSFlWOEQ4TFhTMmQwQkpPeVhRanFheUVGS1pGaEpRMk9yWnRVQkMtYVZMZHNEMU1jWVRRWFlJMjlad2E5VA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T14:56:12Z",
-      "summary": "有分析指出，一只尚未被市场充分关注的AI芯片股可能在2027年成为最大赢家，其潜力不亚于英伟达或美光。文章可能探讨该公司的技术优势、市场定位及增长前景，提醒投资者关注AI芯片领域的多元化机会。在英伟达主导的AI芯片市场中，低调的挑战者可能凭借特定技术或客户关系实现突破。"
-    },
-    {
-      "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative - Columbia Law School",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T14:53:52Z",
-      "summary": "哥伦比亚法学院启动“AI @ CLS”人工智能倡议，旨在将AI融入法律教育、研究与政策讨论。该计划可能涵盖AI伦理、监管、知识产权等法律议题，培养法律人才应对技术变革，并推动跨学科合作。通过课程、研讨会和实证研究，法学院希望帮助学生在AI时代理解法律与技术的互动，引领负责任AI治理。"
-    },
-    {
-      "title": "‘Godfather Of AI’ Geoffrey Hinton Rips Into Trump Over Artificial Intelligence - IMDb",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wU1F4QWh5eGU1YWV6UUM1X09pWm9LWTFCQlFRN25TdGdlU0hjMnRuN3BzMWlpQ2pwV09XY0R0VlI1QlFyeHplSTBySVAxb0ZXMnJ1dXk4U05TcmJPd1Z2NnJTS0RkQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T14:48:45Z",
-      "summary": "被誉为“AI教父”的杰弗里·辛顿公开批评美国前总统特朗普在人工智能问题上的言论或政策。辛顿可能针对AI监管、安全风险或政治干预表达担忧，强调AI发展需谨慎治理，并反对将AI用于政治操弄。作为深度学习先驱，辛顿近期频繁警示AI风险，此次抨击特朗普凸显AI已成为政治辩论焦点。"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-14T14:30:00Z",
-      "summary": "TechCrunch Disrupt 2026第二天议程继续聚焦人工智能，涵盖AI主题讨论、仅限投资者的专场、圆桌论坛等多种形式，为创业者、投资人与技术专家提供交流平台。大会强调AI仍是核心议题，同时提供通行证五折注册优惠，吸引更多参与者。整体看，活动延续Disrupt系列对前沿科技与资本对接的关注，推动AI创新与商业化对话。"
-    },
-    {
-      "title": "‘Godfather Of AI’ Geoffrey Hinton Rips Into Trump Over Artificial Intelligence - Yardbarker",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMS1RSHZVcVY4TFEzSUJEWXpreEhrRTdfWG9oMzJyTFFNczBnNlVzM2dUWndpVUpiR2RCTy0xQUMtQjdDVnBCTGgzbUlnbDNyaGZUd0plUWdBQVZhRG9VN05yU1V0d2FRVi1oMTlESWlYdmZvMFppS29RQkNZQlRaZldwUVRnUUsydkJKU2dKWUdWeXhhRnVnM3JMendCVmQtbzdERDNpN09HNnk3REQ3R2JfUDY4ME5kUjhjeFdZMHk4OU9YbFB0RUtZaHdYT3Npenh1TnpYa3NZUEJVWlE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T14:24:32Z",
-      "summary": "有“AI教父”之称的杰弗里·辛顿（Geoffrey Hinton）公开批评美国总统特朗普在人工智能问题上的立场与做法。报道未披露更多细节，但辛顿长期警示AI风险，此次发声可能涉及监管、安全与政策取向。作为深度学习先驱，他的批评具有行业影响力，也反映AI治理正成为政治与公共辩论焦点，或将推动更多专家介入政策讨论。"
-    },
-    {
-      "title": "The Enterprise Artificial Intelligence (AI) Governance and Compliance Market is projected to grow at a 27.3% CAGR - EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUmVzaE1LUjBKMVMyWEZTWXhKeVFfMnJkNWZWT29aWGRSYUdpWVJrOEt4SFlXTnFwZkRTcG0yeDNvQzR0Wk5Qd3B3X0hGOWxVOFBRUXZDdkx2cVZqWmJqMTBHeU9kT2RnRm5mOTAwaGFNTlNDX0NxLUR6cDlvYzItUkRMUEtDajJsdDd0Q0Q5bGVvdGlaYjdzbDg0eTkzTE5mMUpOX0ozdnZNNk1PYnFUcHdlV1M3d1M5YzVWN1JfMS1oOTkyLVJ6MHVvZDd6WHdMemQ3NzdPbnBJdWx3MU5YZnpjMkx4QzRxd1pwNmJn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T14:14:00Z",
-      "summary": "市场研究显示，企业人工智能治理与合规市场预计将以27.3%的复合年增长率扩张。随着企业加速部署AI，监管要求、数据安全、算法透明与伦理风险日益突出，推动治理框架、合规工具、审计与咨询服务需求上升。该市场增长反映AI从实验走向规模化应用后，组织需要平衡创新与风险控制，并满足日益复杂的全球监管环境。"
-    },
-    {
-      "title": "Telekom Srbija Group Expands AI Investment and Strengthens U.S. Technology Partnerships - Via TT",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ3FxTEhhdzY4ZXdRb2pRQWYyNDluZFJTZG12TFRrMVo1blFQWU9qS0pHR25XbVNGai0xRXRWV1hWcGVqblVxcEJPdkFEemd3Sm5kU0UxTU9obUZHRk5TRVpqak5EZmpYQll0dm5BT001THNsdUxtVGtVZnItc0IyTURKekgwOW16alBfd2phQ05pY0VEZW1yczZ4eV8wWmo4Y3kyMEk4RUhQY21YSTZEVEhyanNTMDQyZzFZOENNeTFwbWN3TFJOSXNXbWxOS1huYzdTdWV1aldlQm1RVXNZVEVhQTBxanpUckE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T13:02:00Z",
-      "summary": "塞尔维亚电信集团（Telekom Srbija Group）宣布扩大人工智能投资，并加强与美国科技企业的合作伙伴关系。此举显示电信运营商正把AI视为网络优化、客户服务与数字化业务增长的关键引擎，同时通过跨境合作引入先进技术与解决方案。该战略可能覆盖基础设施、云服务、数据分析和AI应用，助力区域数字经济发展并提升竞争力。"
-    },
-    {
-      "title": "What Allegations of Spying at OpenAI Mean for the A.I. Industry - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ekVqUEtoemNqT3hQa3VRMXNWSDJXZjdhTDV1Ynd4QXpCUW5xNElTS3U4TUlmODREeUFzYy1QLTFOeWdPUlRNbzIxMDdjc2RGSkRZUm9QM0lhaDFUSGtTNUZRbnFwUWJKTkJ2SlV2X29CWFU1UzY4b0ZnN19BNjg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T12:39:24Z",
-      "summary": "《纽约时报》分析OpenAI涉嫌间谍活动的指控对AI行业意味着什么。相关指控若属实，可能引发对AI公司内部安全、数据保护、竞争情报与员工流动的担忧，并加剧监管审查和公众信任危机。文章指出，随着AI技术战略价值上升，企业、政府与国家安全边界日益交织，行业需强化安全治理、透明机制与合规文化，以应对地缘政治和商业竞争带来的新风险。"
-    },
-    {
-      "title": "Independent school pioneering AI says teaching comes first, tools second - The Herald",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHQ0TGVXQ3lMeFRPcUVmTW04c21WUzV4MW9odXpqTGgwWEExVTFZa0VnVE9SdlNpVFJzakcyYnBMWk85SzhuTWRHZnRVSVNYM09HRk1XQzhzVmZNMVlLMmU1ZS1sellkaVZEQzhxcWlQRGJXVzFJc0ZsLUt4UTdPbWV2YlA3cDBST3cxeHozTHFTbV9weHFkNUhnT1Ayd3VacXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T12:30:51Z",
-      "summary": "一所率先引入AI的独立学校表示，教育应坚持“教学第一、工具第二”。学校将AI视为辅助教师、提升个性化学习的工具，而非替代教学本身，强调培养学生批判性思维、创造力与伦理意识。该理念回应了教育界对AI过度依赖的担忧，主张在课程设计中以教学目标为核心，再选择合适技术，确保AI服务师生而非主导课堂，为其他学校提供参考。"
-    },
-    {
-      "title": "AI is the great equalizer - opinion - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPRXI0b2tGeG1mTlE5TUFIVy1jM0pxNm5ZU194aVZIdGsyakY2YURVOHA4em9yYXFOS3BtaUpuQ1RkTXF5Z1NjaGgzd3QzN3dTRlJiTFJwNWxlRHlHVS10cE1JM2FLc3l0YmJWd0tuMGhyWExSZTF3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T12:09:59Z",
-      "summary": "《耶路撒冷邮报》评论文章认为，AI是“伟大的均衡器”，有潜力降低教育、医疗、信息与创业门槛，让资源匮乏群体获得更多机会。但文章也提醒，AI可能加剧数字鸿沟、算法偏见与权力集中，需通过政策、教育和基础设施投资确保包容性。核心观点是，AI能否真正促进公平，取决于社会如何治理和分配技术红利，而非技术本身自动实现平等。"
-    },
-    {
-      "title": "Shipyard Of The Future Will Be Built On Robotics, AI - Marine Link",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZR1BkTnlqcE5yV1NMcTE1YjlWSFdlZUJwZVF0WGgzZU9pYWpUQzluRkRLeXNrSkp2eEdMNU9wTi1nLVU3REVfZkZ0eEtLcHg1YmppcEZVTWdWeUQwd2N6cXFMX3NXSVVuaVZtOGVDc2g3eFk1Uzhlemk5QkE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T12:06:12Z",
-      "summary": "《Marine Link》报道指出，未来船厂将建立在机器人与人工智能之上。自动化焊接、智能检测、无人运输、数字孪生和预测性维护等技术，有望提升造船效率、安全性与质量，并缓解熟练劳动力短缺。AI还可优化供应链、排产和能源管理，推动海事制造业向智能化、绿色化转型。文章认为，船厂竞争力将越来越依赖机器人、数据与AI系统的深度整合。"
-    },
-    {
-      "title": "Scimplify raises $25M to speed up critical materials production with AI - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DYlFNcERkR29ZVERpdDNKNzFLRXVhYlZzMVByZFl1UXZhN3ZHcXU2X0hzYzNPNEtWQ284WGZaWVByX2g2QXpwNjJqNlRQcnVKNVlVb2pLZE5lbUZqRlVXYnMzM2c3eTJtN3MxaE5VVnk0ZnZu?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T11:56:47Z",
-      "summary": "Scimplify获得2500万美元融资，用于利用人工智能加速关键材料生产。该公司可能通过AI优化研发、工艺与供应链，提高特种化学品和先进材料的生产效率，满足新能源、半导体、医药等领域对关键材料的需求。此轮融资反映资本持续看好AI在工业与材料领域的落地，尤其是AI for Science和智能制造方向，有望缩短研发周期、降低成本并增强供应链韧性。"
-    },
-    {
-      "title": "Letter: AI: Artificial intelligence or absolute insanity? - Shaw Local",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLVFJTGZYRDhlaXJlekwzOHBYQTloMnlNV05pZHBDREZLZjZiLU9MSS1uMU1pRDdINWVsQXZ3T1NCVU9OWkJwZkdVanI5N2tHc3lhYldpS2tXc2tzN3dtWjRGdDdlczBLNTN2bGVEdmt5N2U1T09pLV8wUmZOeHJDYTlOTWxoMlp4TV83ZGkzU0loZjhPaEhMQmV3ekdacjJsdnJvVEszWHM4dEd3RWc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T11:29:29Z",
-      "summary": "《Shaw Local》刊登读者来信，标题质问AI究竟是“人工智能”还是“绝对疯狂”。来信可能表达对AI快速发展的担忧，包括就业冲击、隐私侵蚀、错误信息、伦理失控与人类判断力退化等问题。作者呼吁公众不要盲目追捧技术，应加强监管、透明度和广泛讨论，确保AI发展符合社会利益。此类观点反映围绕AI的焦虑与争议仍在持续升温。"
-    },
-    {
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-14T11:00:00Z",
-      "summary": "Scimplify完成2500万美元融资，拟以AI挑战中国在关键材料领域的主导地位。其年化营收运行率增长两倍至2亿美元，并计划拓展美国市场。公司聚焦AI驱动关键材料的研发、采购与供应链优化，服务半导体、电池、稀土等需求。此轮融资将支持技术迭代和国际化，也反映资本押注AI改造传统材料行业，以及西方降低对华关键材料依赖的意图。"
-    },
-    {
-      "title": "The Big Problem Every Artificial Intelligence Company Faces - BGR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnVOLXZnNnFmY05jSl9pTjZzWEppZllJR1lTM2hOOE5ZSTFrRWthRHZsVy1BSzg1NzJ5Vm9DdmJqSURaNVNEa2xNblFTaHpPanFINlpkdjE4SGk3OHlsQnVydGt0eGthb3p0eEppaWFreGdPTkFQRGY1LVR2RUNMZUpCRTRJaTczZk9QSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-14T10:17:00Z",
-      "summary": "BGR刊文探讨“每家AI公司都面临的重大问题”，但摘要未披露具体细节。结合标题可合理理解为：当前AI公司在高速扩张中普遍遭遇共性瓶颈，可能涉及算力与能源成本高企、数据获取与版权合规、模型商业化与盈利压力、安全治理及监管不确定性等。该问题并非个别企业困境，而是整个行业需要协同应对的系统性挑战。文章旨在提示，AI企业若只追求模型能力而忽视成本、可持续性与合规，将难以长期立足。"
+      "summary": "Zenzap获得4400万美元融资，用于其AI聊天应用，目标是在职场场景取代WhatsApp。该应用已被星巴克、Taco Bell等组织采用，显示企业级沟通对AI功能、安全合规和可管理性的需求。融资将用于扩展产品、团队和客户。Zenzap面临Slack、Teams等成熟工具竞争，但主打AI原生和工作场景，若能在集成、隐私与效率上形成优势，可能推动企业协作工具进一步创新。"
     }
   ]
 }
