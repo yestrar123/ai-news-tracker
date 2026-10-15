@@ -1,118 +1,90 @@
 {
-  "updatedAt": "2026-10-15 06:45:04 UTC",
-  "totalArticles": 16,
+  "updatedAt": "2026-10-15 10:30:58 UTC",
+  "totalArticles": 12,
   "articles": [
+    {
+      "title": "AI & Big Data Expo Europe sets out the next steps for enterprise AI - AI News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGNlRmI2R2xPRlhoX1RsaHZhbVNfRDdqRDZGQnFEOElOM2h4ZzlWclRiVXI2V2hyM3EtTXJfbld5TmZ4SDdyYTduYUFIXzJRWEtkRGJnZlhielhUVHg5NWJ6WkgtMFAyVFpzbnJldk1mTm9oU2pNa0pGNE4zcVRtNS1Gb3NLa2lrWTIyWHFaa2NJYWl0bDR0VGZkNHNqTzl1ME5XZTNvZHhhYWx3a1ZVWnJndkpoUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T10:15:17Z",
+      "summary": "欧洲AI与大数据博览会聚焦企业AI的下一阶段，核心议题包括生成式AI、大模型、数据治理、MLOps、安全合规与规模化落地。展会强调企业应从概念验证转向业务价值，打通数据孤岛，建立可审计的AI治理体系，并关注ROI、人才和伦理。对欧洲企业而言，如何在监管框架下部署可信AI、提升运营效率，是未来竞争关键。"
+    },
+    {
+      "title": "UPS explores AI to find alternative aircraft parts amid maintenance shortages - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnJsZUYxQmFHVTRxRXV2ZGlodUdpQ0FSUG1YaVZPWUpCYTFoVlhKZFJjbE5nV3U3eXNJVWxDZXRkV2ZkZEFIWDVBSUEyRG9uemE5UlhWRktrUU93WHM3Wm91T19TMHFBd2tRbE1RRnd6dTlaWVdraVZHbXdUbVNPZ2tNNzhBdkpkcktv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T10:11:52Z",
+      "summary": "UPS正探索利用人工智能寻找替代飞机零部件，以应对航空维修零部件短缺。技术可能涉及零件规格匹配、供应链数据搜索、库存预测和采购优化，从而缩短维修周期、减少停飞。对物流航空企业而言，AI可提升供应链韧性，但需保证适航合规与数据准确。该探索反映AI正深入航空运维和备件管理。"
+    },
+    {
+      "title": "Artificial intelligence (AI) is developing too fast. How far have you been using AI, which quickly i.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMM3I1akViOGp6TDJkR3hEZ0RjVVE1THhlclJPbEd6WUVTVU9fOEdpb25HcG9IdURacnNrNU41ZVlMTzk2dGE2LVNXaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T09:19:45Z",
+      "summary": "韩国媒体报道称，人工智能发展速度过快，正快速渗透工作与生活，并追问公众实际使用程度。报道可能关注生成式AI工具普及、企业采用率、技能差距以及监管适应问题。随着AI能力迭代，个人需要提升AI素养，企业需重新设计流程，政府则要平衡创新与风险。核心信息是AI普及迅猛，社会需跟上其变化。"
+    },
+    {
+      "title": "The Army has revealed its future combat performance using artificial intelligence (AI) and robots an.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tblJnWWhGdUpPYzhCLS1uWE1KcnpscVpLNE1ORW91a2xRVEF1ZWV4bXpDeU80akxmbzZMQjN5YzFaMElNLVNiT1gyQVZBMVNQUklz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T08:38:11Z",
+      "summary": "韩国陆军公布利用AI和机器人的未来战斗性能，展示有人与无人系统协同的作战概念。可能包括自主侦察、机器人作战平台、AI辅助决策、目标识别与火力打击等。其目标是提升战场感知和作战效率，同时降低士兵风险。相关发展也带来网络安保、自主武器伦理和指挥控制等挑战，显示军事AI正加速走向实战化。"
+    },
+    {
+      "title": "As agent services in which artificial intelligence (AI) works on behalf of users spread, the governm.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzRW93ajNKTGk0YnJ6YnJMSmtVWGJGdk9mWlFPTlpLVjVfVXhkUW1VSWppcGNvc2J4TzhoWXBvWnZvS291S3p5STRTNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T08:18:33Z",
+      "summary": "随着AI代理服务兴起，人工智能可代表用户执行搜索、预订、交易等任务，韩国政府开始关注其监管问题。代理服务提升便利性，但也带来隐私、安全、责任归属、消费者保护和市场公平等风险。政府可能推动透明度、授权机制和安全标准。核心趋势是AI从工具转向自主代理，治理框架需同步跟进，以建立可信生态。"
+    },
+    {
+      "title": "If you are caught wearing smart glasses equipped with artificial intelligence (AI) functions in the - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zN3RPV0o4RUs2V2NMbVh2XzhBLVdnTGVLV01mQVVRYnNoSmxJOEpwV2dWVnZab09GdDZwWmhWX2ZpWDQ4bTV3UkNTTG56QzhHWGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T07:37:41Z",
+      "summary": "韩国媒体报道，若在特定场所佩戴具备AI功能的智能眼镜被发现，可能面临限制或处罚。这反映AI智能眼镜因隐蔽拍摄能力引发隐私担忧。此类设备可实时识别、记录和传输信息，易被滥用。未来可能需要在场所管理、设备标识、拍摄提示和法律监管间取得平衡。核心是AI穿戴设备普及后，隐私保护与公共空间规则亟待明确。"
+    },
     {
       "title": "A new gene has been discovered that uses artificial intelligence (AI) to slow aging. Old mice admini.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UOWp1X19DNzEyTjZTQk9Dc2Z1cGY4aTg1UWxjVUx6UUdXOUNWUmVnSk1Gc3NtOW1HY3ppSFdOT0luTFZKTEtteWg0Unl2NzBNc1E?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-15T06:29:04Z",
-      "summary": "韩国《每日经济》报道，研究人员借助人工智能技术发现了一种与延缓衰老相关的新基因，并在老年小鼠身上进行了实验干预。该研究利用AI对大规模基因数据进行分析和靶点预测，从而加速了抗衰老相关基因的识别过程。若后续实验能进一步验证其作用机制与安全性，这一发现有望为开发延缓衰老的干预手段提供新思路。目前成果仍处于动物实验阶段，距离临床应用尚需更多验证。"
+      "summary": "一项研究借助人工智能发现可延缓衰老的新基因，并在老年小鼠中开展干预实验。技术路径可能包括机器学习分析基因组、筛选衰老相关靶点，再通过基因调控改善老年小鼠生理功能。该成果显示AI在生物医学和抗衰老研究中的潜力，但目前仍处动物实验阶段，距离临床应用尚远，需进一步验证安全性和有效性。"
     },
     {
-      "title": "Cost of AI default insurance spikes as data centre confidence wobbles - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTI5YzMzNWNEZ1ZoWEhxYTRuY0R0bU93Zl9oYnJRZENNbHRhWDByRGZrVnhwclVIVHNuTHBTUllzR2gyMmgtWklwcEFGTkF0UllWbEt0azAxV1RvWTVlUUR4ZVVjbl9UOWNFR2FFU3liV0lkTkRReEl5MDJIRXlBbmlEbDdCVnc1T0IyamFCSDR5T3VUcVY2c0g3SzdLN0NWaWFFR3pHdmdsSDJacDVqSndHcEE4SVV1bURpZUFqZXY?oc=5",
+      "title": "A 3-step buyer’s guide for evaluating radiology AI solutions - Radiology Business",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHNjNldPUW44VlJ2bGVjMHIxWm1GdlMyMmdFcXcyZjVNZDNOYTNJckRuUEUtVTRLcngyNjEzbXAyT1lFcDNvUE0zeHBlaWxIeUhwMWRUdGFUbDZYZVRVS1ktQ3YtZVVGQjV2RUVrVnJQSXhOUUdOaDQ5WGYxRHd4emNpUUlaX2pKMUMzdHJ5VVZMUTFOZlJGdEpHN3dIQ0QtTHIxVWZFanF4NzZ4T1o1dWp1Vmg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-15T06:14:58Z",
-      "summary": "香港《The Standard》报道，随着市场对AI数据中心投资前景的信心出现动摇，与AI相关的违约保险成本明显飙升。此类保险通常指与AI基础设施相关债务的信用违约互换等工具，其价格急升意味着投资者对AI数据中心巨额资本开支能否带来相应回报产生疑虑，并开始为潜在债务违约风险支付更高溢价。这一变化反映出金融市场对AI热潮中杠杆水平上升和产能过剩问题的担忧正在升温。"
+      "publishedAt": "2026-10-15T06:28:01Z",
+      "summary": "《放射学商业》发布评估放射学AI解决方案的三步采购指南，帮助医疗机构选择影像AI产品。指南可能涵盖明确临床需求、验证算法性能与泛化能力、审查供应商合规集成与成本回报。核心要点是：放射AI不能只看准确率，还需评估工作流契合、监管认证、数据安全和长期维护。系统化采购可降低风险，推动AI在影像科落地。"
     },
     {
-      "title": "As the spread of artificial intelligence (AI) and the school-age population decrease at the same tim.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5MndTa3pYRmFjRWdsWnV0RUQxaEw1ek9lNE9SM3hFaEJpVHlCaWlBZ2xJWkF1NVFLRUJDSU5qcnF5NWZyV1FNYjQ1b1RWZmN4Vnc?oc=5",
+      "title": "In Depth: How trustees can manage AI risks in their schemes - Pensions Expert",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjFzRlhzZ2NnTmxydzhUOFB3VW5VOFFYSWJLMFBvLVFaTDUzc1ZDVElpcnhmczI3YXNhckJiaXNNSS05dnMtWkl2cTVFaDdXRHlvN1hvUEJwamoyRW12YzVtM1ozZWZVaHNNLXhuQ212RzNjdmtSTVZGTWdtckNjdkNjNzFJQzdVV045U3Mzc0tLNVJBdXhPeFJiRTc1RFJNSEd4bk9IZ1ZyVTNjel8xSlRYdWhLZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-15T05:56:52Z",
-      "summary": "韩国《每日经济》报道指出，人工智能的快速普及与学龄人口持续减少正在同时发生，两者叠加将对教育体系产生深远影响。一方面，AI可承担部分教学、辅导与评估工作，推动个性化学习；另一方面，学生数量下降可能导致学校合并、教师需求结构变化等问题。报道认为，教育界需要重新思考人才培养目标与教学模式，在利用AI提升效率的同时，也要关注教师角色转变、教育公平以及学生数字素养等挑战。"
+      "publishedAt": "2026-10-15T06:18:33Z",
+      "summary": "《养老金专家》深入探讨养老金受托人如何管理计划中的AI风险。AI可用于投资分析、行政管理和客户服务，但受托人需识别模型偏差、数据隐私、网络安全、外包依赖和合规责任等风险。文章建议建立治理框架、定期审计、明确问责和供应商监督。核心信息是：采用AI提效的同时，受托人必须履行审慎义务，保护成员利益。"
     },
     {
-      "title": "AI credit default swap spreads widen sharply - Reuters",
+      "title": "COMMENTARY: AI investment boom may be papering over US economic cracks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS1Q2OXZIUkpRbEJQUVlCVUJzdDZQQ2pJelNhTmZVTGJYSEtCWGd6TXZtTzJnc01UUGR5bzdmZW4tZ2pLQ3hCSXQwMzV4TGdXQS1ZMkE3cDg0R2RjYXRQRF9ETERWNXpLS3JjcjViWk5ZLU14ajZjbmt0aWJaZHphdWhEV0tCZ2RiRU1ZLTQwRE1GWHo3dUxkeFM1aWEtRDNyWERYTTZJN05qUmRmSEJGU19oTGdEWnFOSElyTnp3ZFB3V0RrOEI4LUhVeWRhX3pHQ1NaZQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T06:00:00Z",
+      "summary": "路透评论认为，AI投资热潮可能掩盖美国经济裂缝。大规模AI资本开支和股市上涨支撑了增长与市场情绪，但高利率、消费放缓、财政赤字和部分行业疲软仍存。若AI回报不及预期，投资泡沫可能破裂并放大金融风险。核心观点是：AI支出短期提振经济，却不应被误读为整体经济健康，需关注生产率和真实盈利。"
+    },
+    {
+      "title": "Cost of AI default insurance spikes as data centre confidence wobbles - Reuters",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-15T05:18:00Z",
-      "summary": "路透社报道，AI相关信用违约互换利差近日大幅走阔，显示市场对AI相关企业及数据中心债务的信用风险担忧加剧。CDS利差扩大通常意味着投资者要求更高的风险补偿，或对相关主体偿债能力信心下降。在AI基础设施投资规模空前的背景下，融资杠杆上升、回报周期不确定等因素正被金融市场重新定价。这一动向被视为AI投资热潮可能面临融资环境收紧的信号，值得持续关注。"
+      "summary": "据路透社报道，随着市场对数据中心前景的信心出现动摇，与人工智能相关的违约保险成本大幅飙升。报道显示，投资者正通过信用违约互换等工具对冲AI基础设施领域的潜在风险，保险价格上行反映出市场对大规模数据中心投资回报能力、债务可持续性以及算力需求能否兑现的担忧正在加剧。这一信号表明，此前由AI热潮推动的乐观情绪开始降温，融资成本上升可能进一步影响数据中心的建设节奏与资本开支安排。"
     },
     {
       "title": "Figma CFO says design platform willing to put margins on the line to boost AI demand - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVl3TUpFMUJ3Qmd5RmRRLUtienRuSEJia1dtd24wVm5iMHFhbUQ0aFFRUk56cWVJQ01PZmJPVVZBN3JHVGpFTXVNX1ozNElOSGY3MFZ3WTJJYXEwZmIyc21NVjlKRFZRU3hHVTBxNVg5WGpxdmZJcm56cDAtdm1ob0llbmV0VllnNFdlbkcxTTJVUldIYTR6bXp0WHNteW93X0tyT1N4LUtEOGpORlU1eWRDZndJS2M?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-15T05:09:00Z",
-      "summary": "路透社报道，设计平台Figma首席财务官表示，公司愿意在利润率上作出一定牺牲，以推动市场对AI功能的需求。这意味着Figma可能通过加大研发投入、提供更具竞争力的定价或免费试用等方式，换取用户增长和AI功能渗透率。在生成式AI重塑设计工具竞争的背景下，SaaS公司普遍面临先抢占市场、后追求盈利的取舍。Figma的表态反映出其将AI视为核心增长引擎，并愿意以短期利润换取长期生态优势。"
-    },
-    {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15T04:30:00Z",
-      "summary": "TechCrunch报道，Figma宣布推出一系列新功能，旨在明确和规范AI代理在其平台上的工作方式，让开发者与设计师能够更好地定义智能代理可执行的操作与协作流程。与此同时，Figma还将其代码层功能开放公测，使用户可以在设计稿与代码之间建立更直接的联系。这些举措显示Figma正加速将AI代理和设计到代码的工作流整合进产品，以应对AI原生设计工具带来的竞争压力，并巩固其在协作设计领域的地位。"
-    },
-    {
-      "title": "Meta Spent Millions On Muse AI. A Chicken Sandwich Just Dethroned It - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1V4dGRfTExWMTZIX3Z4RUtLd2tQVHowRko2eUF5UnBtOXJzaXV5WDg2NVd0eVdoelNsMWxRTUQzM1UxbFJ4VEt2NGo2MUF6TUdOMk5EWkhQYm9aLU51QW44TmxuUnRSVjM5YTJXWTdvLV9iWGpOTDhTckk5aHpfUkcwMWZZb2FJZzZTc3NmRWZVOEtsWGlwQ2dJbFFOVExyNjM0T3dYMVVpLVNCY1Zva2RTSXJYQ0cyS0V6UDJB0gHGAUFVX3lxTE5ITVFTNDdHT2ZlbDVrUHlZdklYcHBPblNTY3NfUG1PekYtMWJNclhablNFbWR4dHowa1I4d21iTXdkMjdZZ2JfTlJrVzEwMC1PLVQ2TzhwOWttU0lONHFzbGt6SGtteFZ2RkFoQXRpdVJLOGIwY1BuSjhyUVVyTE82Tk55bzlBTUk3ZHB1QXd2eWdmemRiYkkxWGRSbkdMWUJPZGxTa291SDhfUFJKVU5GVzhFZ2lxbllpUlpSR1dyWkh2RW8wZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T04:13:08Z",
-      "summary": "NDTV报道，Meta曾斥资数百万美元推广其Muse AI相关项目，但一项看似无关的鸡肉三明治内容却在社交热度或榜单表现上将其超越。这一对比凸显出AI产品在公众传播中的注意力竞争并不完全由投入规模决定，社交媒体话题热度往往受趣味性、偶然性和算法推荐影响。对Meta而言，巨额投入未必能换来同等关注度，也说明AI营销需要更贴近用户真实兴趣，而非单纯依赖资源堆砌。"
-    },
-    {
-      "title": "AI in healthcare: from fighting epidemics to family doctors - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUd2Vk5RYno4cGZ2alFBci1CQmtya2xJcklHM1RkbWYyMFA0WTZiU216ak01UnBSUko0WE1nb0F4VE91ZmgxVmpmZWJ1V0F6YTU0TjBhWU5YdnRVT3prdDBEUjE5RE5HMVFldFIzMUM3cjIzajZEN3I1aDYtWEpSaHRHS0wzRWNTV2daWlFOY3hKeWIxWEZXSExn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T04:05:49Z",
-      "summary": "据Euronews报道，人工智能正在医疗健康领域发挥越来越广泛的作用，应用范围从公共卫生层面的流行病监测与应对，延伸到基层医疗中的家庭医生服务。AI可辅助疫情早期预警、病例识别和资源调配，也能在初级诊疗中帮助医生进行症状分析、分诊和健康管理。报道认为，这类技术有望提升医疗系统的效率与可及性，但同时也需要解决数据隐私、算法偏见和临床验证等问题，确保AI真正服务于患者。"
-    },
-    {
-      "title": "Global financial watchdog calls for more human oversight of agentic AI - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGFNeG9sS1g2RElieWFWS1l0a3FPSmRqT1BkSXpDbHc5LW9qY3c1UGFONlZNMHdGMHFPR1JPMzk2Rlg5OVlEM0pwaU5CZ2hyN3lzWTdPWVd2UlFaOVZPVVM4U1dPUzFFc2lEOU5hZ0V3ZG1ONm5LUHc5OUc3VVVHOHNNUUctRWNWQktSOGFDS01YUFd1Q1Atczh0ZFBlSlNGOGhNWTVWa2NPeE0wZDJqV2hyWkFoNDQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T04:02:00Z",
-      "summary": "路透社报道，全球金融监管机构呼吁对代理式AI加强人工监督。代理式AI能够自主执行多步骤任务，甚至代表用户作出决策，在金融领域可用于交易、风控、客服等场景。监管机构担心，若缺乏有效的人类复核与问责机制，这类系统可能放大操作风险、市场波动和合规漏洞。因此相关机构主张在关键环节保留人工判断，明确责任归属，并建立可审计、可干预的治理框架，以平衡创新与金融稳定。"
-    },
-    {
-      "title": "Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses - Financial Stability Board",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFl6MzRpNks5bGt0cE1adGdqbVhEX1hpUFBwSGlsSnhnM1FTd0RNUXVYZ3NqRjdrZDduazBRR1VFa2xhdElsdnRkTjlJLTI0VVlFMFFfd2RCOU1DM2RDUms0bmhLT0p3YVdIX0psdkFXT181dVM1TzBpS05LeHJvblRfXzY2V290TmRGUTNLWXFtOHB5d0RQaHFqckxfNzRjOXdyR0d2aFBud0tGRkVhQVQ0RnRnZ196czJSb2pobEpTeGpjLWR0ZFZSZWNwUVE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T04:00:07Z",
-      "summary": "金融稳定委员会发布了关于《负责任采用人工智能的稳健实践》的咨询回应概述，汇总各方对金融机构如何安全、负责采用AI的意见。文件聚焦治理与问责、风险管理、模型验证、数据质量、第三方依赖以及跨境合作等议题，强调在推动AI应用的同时须防范金融稳定风险。该概述为FSB后续制定最终指引提供依据，也反映出国际监管界正努力在AI创新与系统性风险之间建立统一原则和监管预期。"
-    },
-    {
-      "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI) - Financial Stability Board",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T04:00:07Z",
-      "summary": "金融稳定理事会（FSB）最终确定了关于负责任采用人工智能的稳健实践，旨在为金融体系各方提供非约束性指引。该实践预计覆盖治理与问责、风险管理、透明度、模型验证、第三方依赖、数据安全及跨境合作等关键议题，帮助金融机构在释放AI效率与创新潜力的同时，防范网络安全、模型缺陷、市场波动和系统性风险。FSB强调，AI adoption需与金融稳定目标保持一致，监管机构、企业和国际组织应加强协调，推动可信、安全、可解释的AI应用。"
-    },
-    {
-      "title": "Why trust in AI is hard to earn and easy to lose - The National",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzBnQlluYTI5OGhLRVU3RGdMaUh1eDZVMEhkQ3JHdk9SQ2luSGd4Z29FVXQwR0JlYS1TVWpta1kyTlRvNUpSTGlpVW5ZM25SX2hiWGcwNHlRVFVFcWVMQkRXbHMxcFRUaWlCZU5HMzVqYjU1dGxyYUthV1NTb2x3dXA2bkExSkVybWNPeDVmTmNoWjJLNXc3UllfbklXZzBMbzUxc2ZB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T03:36:45Z",
-      "summary": "文章探讨为何公众和机构对AI的信任难以建立却极易丧失。AI系统常因不透明、黑箱决策、数据偏见、隐私泄露、错误输出和安全漏洞而引发质疑；一旦发生重大事故或滥用事件，长期积累的信任可能迅速崩塌。因此，AI开发者需重视可解释性、可靠性、公平性、问责机制和持续监督，通过透明沟通、第三方审计与稳健治理来赢得信任。信任不是一次部署就能获得，而是长期表现与责任担当的结果。"
-    },
-    {
-      "title": "Breakingviews - COMMENTARY: Firmus CEO's Aussie scapegoating has iota of truth - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclc2dTRfN1RYdVJnel9qU3BTVW9tbFZtenRVa3kzTG1OWXU0aTYzeHo0MUpVdHk5TGRsc2Q5U2U5bGRUeTF0V1Mxak1maGMybWtKWFFiQVVmRVl1TUhGR3lUQ0VuTUtaeVhvZ0NxeV9JUnRnTGh3VlJndi0yZ2d3dU9xMlZyQjBkaEk5VHZ0ZjZEa2l1ekpJbm01X3RmWXBKdmNSRlVCQWc2WGc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T02:53:00Z",
-      "summary": "路透Breakingviews评论聚焦Firmus CEO对澳大利亚的批评，认为其“甩锅”澳大利亚虽带有转移矛盾色彩，但并非全无道理。文章可能围绕AI基础设施、算力投资、能源成本、监管环境或市场准入等争议展开，指出企业面临的结构性压力与政策摩擦。评论提醒，简单归咎单一国家无法解决问题，但澳大利亚在AI产业政策、审批效率、能源供给或竞争环境上的短板，确实可能影响投资信心，值得政策制定者审视。"
-    },
-    {
-      "title": "Artificial intelligence (AI) is shaking its position in the U.S. job market. This is because AI make.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XWTlrQTBHbkNaRnlaZ25zT1VHYXN1YzdtcDdEQk1VZnpQeUFVVXZ6VnBtVFJ2VTlnSktlWGFIVWZTSFVucWNjS1A5RQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T01:42:11Z",
-      "summary": "报道指出，人工智能正在动摇美国就业市场的既有格局。AI通过自动化处理文本、代码、客服、分析和创意等任务，提升生产效率，同时也可能替代部分岗位，改变招聘需求和技能结构。入门级和白领职位可能受冲击，而AI开发、数据治理、运维和复合型人才需求上升。文章强调，面对AI带来的就业极化与转型压力，政府、企业和教育机构需加强技能再培训、社会保障和劳动力政策，以平衡创新收益与就业稳定。"
-    },
-    {
-      "title": "US Federal Government And Anthropic: Considerations For AI Innovation And Competition - Analysis - Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMnY2SlJ0MW81Y0hjZ2pIejFwX1UzRTJyRm5jZU9tSlpwSlkxcW9qdUtYV0ZLVDFmTWVvSXR5c2VPMzJVTHdsVHU3N3lNaExLbV94akVQUkV1aTNyenZRQ3poUks4U3BMVmcwZThISEVXMlFndWozT0lMdGFxU2prRjJCMTlxMWhOOVpLVFlTYUhLZE1PNmc5SWd1eTBqZmdzNDNMSGR2VDEtOTdBcmdiLWdlNk9SajkzU2hEbmZnNS1iT1Y5VUhhMWoxTzk2Zw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T01:14:42Z",
-      "summary": "欧亚评论分析美国联邦政府与Anthropic之间的关系及其对AI创新与竞争的影响。作为强调安全与负责任开发的AI公司，Anthropic与政府在采购、模型安全、国家安全和监管合作方面存在交集。文章可能讨论：政府应如何利用前沿AI提升公共服务，同时避免偏袒特定企业、维护公平竞争，并在安全审查、出口管制、反垄断和创新激励之间取得平衡。政策制定需兼顾技术领先、产业竞争、公民权利与风险治理，确保AI生态开放且可信。"
-    },
-    {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15T01:01:32Z",
-      "summary": "Ricursive Intelligence正押注AI设计芯片，以缓解当前算力危机。其创始人介绍，公司开发的人工智能系统能够参与芯片设计，从每次迭代中学习，并不断改进后续设计方案，目标是自动化和加速传统上耗时昂贵的芯片设计流程。若该技术成熟，有望缩短芯片开发周期、降低门槛、提升性能与能效，从而增加算力供给。此举也代表AI在EDA和半导体领域的深度应用，但需验证设计质量、可靠性与商业化能力。"
+      "summary": "据路透社报道，Figma首席财务官表示，为拉动人工智能相关需求、推动AI功能在平台上的采用，公司愿意在短期内牺牲部分利润率。这意味着Figma将加大对AI能力的投入，并可能通过降价、免费额度或更激进的定价策略换取用户增长与使用规模。该表态反映出设计类SaaS厂商正把AI视为核心竞争点，在商业化早期优先抢占用户心智，而非单纯追求当期盈利表现。"
     }
   ]
 }

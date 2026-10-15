@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "6447",
+      "title": "AI & Big Data Expo Europe sets out the next steps for enterprise AI - AI News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGNlRmI2R2xPRlhoX1RsaHZhbVNfRDdqRDZGQnFEOElOM2h4ZzlWclRiVXI2V2hyM3EtTXJfbld5TmZ4SDdyYTduYUFIXzJRWEtkRGJnZlhielhUVHg5NWJ6WkgtMFAyVFpzbnJldk1mTm9oU2pNa0pGNE4zcVRtNS1Gb3NLa2lrWTIyWHFaa2NJYWl0bDR0VGZkNHNqTzl1ME5XZTNvZHhhYWx3a1ZVWnJndkpoUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T10:15:17Z",
+      "summary": "欧洲AI与大数据博览会聚焦企业AI的下一阶段，核心议题包括生成式AI、大模型、数据治理、MLOps、安全合规与规模化落地。展会强调企业应从概念验证转向业务价值，打通数据孤岛，建立可审计的AI治理体系，并关注ROI、人才和伦理。对欧洲企业而言，如何在监管框架下部署可信AI、提升运营效率，是未来竞争关键。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6448",
+      "title": "UPS explores AI to find alternative aircraft parts amid maintenance shortages - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnJsZUYxQmFHVTRxRXV2ZGlodUdpQ0FSUG1YaVZPWUpCYTFoVlhKZFJjbE5nV3U3eXNJVWxDZXRkV2ZkZEFIWDVBSUEyRG9uemE5UlhWRktrUU93WHM3Wm91T19TMHFBd2tRbE1RRnd6dTlaWVdraVZHbXdUbVNPZ2tNNzhBdkpkcktv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T10:11:52Z",
+      "summary": "UPS正探索利用人工智能寻找替代飞机零部件，以应对航空维修零部件短缺。技术可能涉及零件规格匹配、供应链数据搜索、库存预测和采购优化，从而缩短维修周期、减少停飞。对物流航空企业而言，AI可提升供应链韧性，但需保证适航合规与数据准确。该探索反映AI正深入航空运维和备件管理。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6449",
+      "title": "Artificial intelligence (AI) is developing too fast. How far have you been using AI, which quickly i.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMM3I1akViOGp6TDJkR3hEZ0RjVVE1THhlclJPbEd6WUVTVU9fOEdpb25HcG9IdURacnNrNU41ZVlMTzk2dGE2LVNXaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T09:19:45Z",
+      "summary": "韩国媒体报道称，人工智能发展速度过快，正快速渗透工作与生活，并追问公众实际使用程度。报道可能关注生成式AI工具普及、企业采用率、技能差距以及监管适应问题。随着AI能力迭代，个人需要提升AI素养，企业需重新设计流程，政府则要平衡创新与风险。核心信息是AI普及迅猛，社会需跟上其变化。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6450",
+      "title": "The Army has revealed its future combat performance using artificial intelligence (AI) and robots an.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tblJnWWhGdUpPYzhCLS1uWE1KcnpscVpLNE1ORW91a2xRVEF1ZWV4bXpDeU80akxmbzZMQjN5YzFaMElNLVNiT1gyQVZBMVNQUklz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T08:38:11Z",
+      "summary": "韩国陆军公布利用AI和机器人的未来战斗性能，展示有人与无人系统协同的作战概念。可能包括自主侦察、机器人作战平台、AI辅助决策、目标识别与火力打击等。其目标是提升战场感知和作战效率，同时降低士兵风险。相关发展也带来网络安保、自主武器伦理和指挥控制等挑战，显示军事AI正加速走向实战化。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6451",
+      "title": "As agent services in which artificial intelligence (AI) works on behalf of users spread, the governm.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzRW93ajNKTGk0YnJ6YnJMSmtVWGJGdk9mWlFPTlpLVjVfVXhkUW1VSWppcGNvc2J4TzhoWXBvWnZvS291S3p5STRTNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T08:18:33Z",
+      "summary": "随着AI代理服务兴起，人工智能可代表用户执行搜索、预订、交易等任务，韩国政府开始关注其监管问题。代理服务提升便利性，但也带来隐私、安全、责任归属、消费者保护和市场公平等风险。政府可能推动透明度、授权机制和安全标准。核心趋势是AI从工具转向自主代理，治理框架需同步跟进，以建立可信生态。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6452",
+      "title": "If you are caught wearing smart glasses equipped with artificial intelligence (AI) functions in the - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zN3RPV0o4RUs2V2NMbVh2XzhBLVdnTGVLV01mQVVRYnNoSmxJOEpwV2dWVnZab09GdDZwWmhWX2ZpWDQ4bTV3UkNTTG56QzhHWGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T07:37:41Z",
+      "summary": "韩国媒体报道，若在特定场所佩戴具备AI功能的智能眼镜被发现，可能面临限制或处罚。这反映AI智能眼镜因隐蔽拍摄能力引发隐私担忧。此类设备可实时识别、记录和传输信息，易被滥用。未来可能需要在场所管理、设备标识、拍摄提示和法律监管间取得平衡。核心是AI穿戴设备普及后，隐私保护与公共空间规则亟待明确。",
+      "fetchDate": "2026-10-15"
+    },
+    {
       "id": "6434",
       "title": "A new gene has been discovered that uses artificial intelligence (AI) to slow aging. Old mice admini.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UOWp1X19DNzEyTjZTQk9Dc2Z1cGY4aTg1UWxjVUx6UUdXOUNWUmVnSk1Gc3NtOW1HY3ppSFdOT0luTFZKTEtteWg0Unl2NzBNc1E?oc=5",
@@ -10,12 +64,39 @@
       "fetchDate": "2026-10-15"
     },
     {
+      "id": "6453",
+      "title": "A 3-step buyer’s guide for evaluating radiology AI solutions - Radiology Business",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHNjNldPUW44VlJ2bGVjMHIxWm1GdlMyMmdFcXcyZjVNZDNOYTNJckRuUEUtVTRLcngyNjEzbXAyT1lFcDNvUE0zeHBlaWxIeUhwMWRUdGFUbDZYZVRVS1ktQ3YtZVVGQjV2RUVrVnJQSXhOUUdOaDQ5WGYxRHd4emNpUUlaX2pKMUMzdHJ5VVZMUTFOZlJGdEpHN3dIQ0QtTHIxVWZFanF4NzZ4T1o1dWp1Vmg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T06:28:01Z",
+      "summary": "《放射学商业》发布评估放射学AI解决方案的三步采购指南，帮助医疗机构选择影像AI产品。指南可能涵盖明确临床需求、验证算法性能与泛化能力、审查供应商合规集成与成本回报。核心要点是：放射AI不能只看准确率，还需评估工作流契合、监管认证、数据安全和长期维护。系统化采购可降低风险，推动AI在影像科落地。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6454",
+      "title": "In Depth: How trustees can manage AI risks in their schemes - Pensions Expert",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjFzRlhzZ2NnTmxydzhUOFB3VW5VOFFYSWJLMFBvLVFaTDUzc1ZDVElpcnhmczI3YXNhckJiaXNNSS05dnMtWkl2cTVFaDdXRHlvN1hvUEJwamoyRW12YzVtM1ozZWZVaHNNLXhuQ212RzNjdmtSTVZGTWdtckNjdkNjNzFJQzdVV045U3Mzc0tLNVJBdXhPeFJiRTc1RFJNSEd4bk9IZ1ZyVTNjel8xSlRYdWhLZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T06:18:33Z",
+      "summary": "《养老金专家》深入探讨养老金受托人如何管理计划中的AI风险。AI可用于投资分析、行政管理和客户服务，但受托人需识别模型偏差、数据隐私、网络安全、外包依赖和合规责任等风险。文章建议建立治理框架、定期审计、明确问责和供应商监督。核心信息是：采用AI提效的同时，受托人必须履行审慎义务，保护成员利益。",
+      "fetchDate": "2026-10-15"
+    },
+    {
       "id": "6435",
       "title": "Cost of AI default insurance spikes as data centre confidence wobbles - The Standard (HK)",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTI5YzMzNWNEZ1ZoWEhxYTRuY0R0bU93Zl9oYnJRZENNbHRhWDByRGZrVnhwclVIVHNuTHBTUllzR2gyMmgtWklwcEFGTkF0UllWbEt0azAxV1RvWTVlUUR4ZVVjbl9UOWNFR2FFU3liV0lkTkRReEl5MDJIRXlBbmlEbDdCVnc1T0IyamFCSDR5T3VUcVY2c0g3SzdLN0NWaWFFR3pHdmdsSDJacDVqSndHcEE4SVV1bURpZUFqZXY?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-15T06:14:58Z",
       "summary": "香港《The Standard》报道，随着市场对AI数据中心投资前景的信心出现动摇，与AI相关的违约保险成本明显飙升。此类保险通常指与AI基础设施相关债务的信用违约互换等工具，其价格急升意味着投资者对AI数据中心巨额资本开支能否带来相应回报产生疑虑，并开始为潜在债务违约风险支付更高溢价。这一变化反映出金融市场对AI热潮中杠杆水平上升和产能过剩问题的担忧正在升温。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6455",
+      "title": "COMMENTARY: AI investment boom may be papering over US economic cracks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS1Q2OXZIUkpRbEJQUVlCVUJzdDZQQ2pJelNhTmZVTGJYSEtCWGd6TXZtTzJnc01UUGR5bzdmZW4tZ2pLQ3hCSXQwMzV4TGdXQS1ZMkE3cDg0R2RjYXRQRF9ETERWNXpLS3JjcjViWk5ZLU14ajZjbmt0aWJaZHphdWhEV0tCZ2RiRU1ZLTQwRE1GWHo3dUxkeFM1aWEtRDNyWERYTTZJN05qUmRmSEJGU19oTGdEWnFOSElyTnp3ZFB3V0RrOEI4LUhVeWRhX3pHQ1NaZQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T06:00:00Z",
+      "summary": "路透评论认为，AI投资热潮可能掩盖美国经济裂缝。大规模AI资本开支和股市上涨支撑了增长与市场情绪，但高利率、消费放缓、财政赤字和部分行业疲软仍存。若AI回报不及预期，投资泡沫可能破裂并放大金融风险。核心观点是：AI支出短期提振经济，却不应被误读为整体经济健康，需关注生产率和真实盈利。",
       "fetchDate": "2026-10-15"
     },
     {
@@ -58006,5 +58087,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6445
+  "total": 6454
 }
