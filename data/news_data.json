@@ -1,153 +1,153 @@
 {
-  "updatedAt": "2026-10-15 15:55:10 UTC",
+  "updatedAt": "2026-10-15 20:40:29 UTC",
   "totalArticles": 21,
   "articles": [
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15T20:04:53Z",
+      "summary": "Meta推出开放权重AI模型Muse Spark Open，可在Mac本地运行。Meta与苹果合作，新模型针对Apple silicon优化，用户无需依赖云端即可在苹果芯片设备上本地推理。开放权重意味着开发者可下载、部署并定制模型，有利于隐私保护、降低延迟和成本；与苹果生态结合也可能推动端侧AI应用普及。不过，报道未披露模型参数规模、具体能力和开源许可细节，其实际表现与生态影响仍待观察。"
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15T19:55:25Z",
+      "summary": "亚马逊设备负责人Panos Panay在TechCrunch Disrupt上表示，未来AI设备可能取代用户使用应用的方式。他设想环境AI设备在后台持续工作，主动预测用户需求，而非等待明确指令。这意味着交互将从打开App、点击操作转向由AI代理感知情境并自动完成任务。若趋势成真，设备形态、应用生态和隐私边界都将被重塑，但技术成熟度、数据权限与用户信任仍是落地挑战。"
+    },
+    {
+      "title": "Trump’s Move to Rename Artificial Intelligence to ‘Super Intelligence’ is About Much More Than It Seems - Talking Points Memo",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UNThCQTNqeTFtSnpoWTgxVnhqM2lUdGRNaU1mM091c3JBZEo4bmo1NzkyTEJjdGNWR3R5SVpSQ0JMQXJPM09fVV92bFJoSEdObl91bTFWaUhHZkdRR3ZsVkFFNXFjcVNFRjV6dHlmcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T19:41:00Z",
+      "summary": "Talking Points Memo评论关注特朗普方面推动将“人工智能”更名为“超级智能”的举动，认为这远不止术语变化，而可能涉及政治叙事、政策定位和公众认知塑造。改名可能把AI议题从技术工具提升到国家安全、战略竞争或超越人类智能的层面，从而影响监管、投资和国际竞争话语。由于原文信息有限，具体政策意图和实际影响仍有待观察。"
+    },
+    {
+      "title": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVBjUDY1NEtsWk4xYnphdUJQSjdScU5TNHdPUk9iN3FibFNId2xOWDA4c1RHY2FodFJYdVl1ZzIybjBLc21FZXJxOXRmbjNsbFk4SDNIYzhDeWw4dEt6RkJhN3NJeHJqYVlVTlc5YnVZOHRyeWJIalRfaE5ER2tKRnRieXN4MVN2WkxFSmFvSFVBbUF6b0FHV0FoVTA5emZtRThLUlQ5VXQ4TndPU3FPRFpKMjg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T19:38:16Z",
+      "summary": "据路透社报道，OpenAI与Meta向美国司法系统发出警示，强调深度伪造证据带来的风险。随着生成式AI能低成本制造逼真音视频和文件，法庭在采信证据时可能面临真实性、完整性和来源验证难题。两家公司可能呼吁采用内容溯源、水印、加密签名和专家鉴定等机制，防止AI合成证据误导审判。该议题关系到AI治理、法律责任与司法公正，预计将推动证据规则和技术验证手段更新。"
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15T19:14:26Z",
+      "summary": "Anthropic允许METR研究人员以接近员工级别的权限深入审查其内部运作。METR将独立发布对Anthropic风险、事故和实践的评估，而Anthropic放弃阻止发布的权利。这被视为前沿AI公司提升透明度和接受第三方审计的重要尝试，有助于外部研究者评估模型安全、部署风险与治理流程。若该模式推广，可能推动AI行业建立更可信的独立监督机制，但访问权限与商业机密边界仍需平衡。"
+    },
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15T18:56:46Z",
+      "summary": "Bluesky将其AI驱动的实验性应用Attie进一步开放，让用户通过“社交氛围编程”创建网站、游戏、测验等互动体验。这些作品可接入Bluesky社交网络受众，降低创作门槛，把AI生成与社交分发结合起来。Attie可能推动非专业用户快速开发并分享轻量应用，形成社区化创作生态。不过，内容审核、安全性和平台治理也会随开放而面临新挑战。"
+    },
+    {
+      "title": "Nebraska 2nd Congressional District debate: AI - WOWT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVRoVlItWmRsLS1GTGZCamg3RzNOOWJMc1UtVVhRYTVBUlZ3Xy15cGp3SU9XcnI4Rm45TV8zN05lVEIzcWhmWmljU3EyazRyazcydERxeEdXS3RpakcwVl9aRF9ST0RmMndhNmdjNndDMzNVWEVkRXphUWFYWWpGOVMteTV0RF9NZGRsRw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T18:54:00Z",
+      "summary": "WOWT报道，内布拉斯加州第二国会选区辩论涉及人工智能议题。候选人可能就AI监管、就业影响、教育、隐私、国家安全及创新竞争力展开交锋。地方选举中AI成为议题，显示该技术已从产业话题进入公共政策和选民关切。由于原文细节有限，具体立场和政策主张未在提供内容中展开，需查阅完整报道。"
+    },
+    {
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15T18:00:00Z",
+      "summary": "TechCrunch Founder Summit早鸟优惠即将结束，10月16日前购买创始人或投资人通行证最高可省200美元。活动将于11月4日在波士顿SoWa Power Station举行，预计汇聚1000名创始人和投资人。参会者可带着企业最棘手的问题，与同行和投资者交流。该信息属活动推广，核心是优惠截止时间、峰会时间地点及参会规模。"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: AI boom stumbles over white swan events - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTlZeXJxOEtPVGJnZ3c4bjY5NnRTSko5WHlRUVZxM2NnWTEzZjZkdXI2N3JOVmhTNUMtYW5RV1JJNnNSdFdEX0t4M0ZvX0xXQjY3NjFPNkpJSmQ3Z05pSmpCalFvYWFtaS1BS0VCVUwxdkViZi1HYjRsUlNpUGw2TkVzYl9BdzZHSzdJZExlZlVYYjhXb1luTFdGVWV6YXlOUlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T15:57:21Z",
+      "summary": "路透Breakingviews评论认为，AI热潮正因“白天鹅”事件而受挫。所谓白天鹅指并非完全不可预见、但影响巨大的风险事件，如监管收紧、算力或能源瓶颈、关键企业事故、市场预期逆转等。文章可能指出，AI行业高估值和扩张依赖乐观叙事，一旦遭遇可预见却常被忽视的冲击，投资和商业化节奏可能放缓，市场需更重视风险管理与基本面。"
+    },
+    {
+      "title": "Eight States Bring Parallel Lawsuits Against OpenAI Over Safety Issues - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3Awd3AyenpkUHBmRzF6TV9ZSEE3MkhtT2xOdURseFdHZDQwdmJuV2hwQjdQV2tnV0RwQWtwenY5VU83bjRXZVpybjZFWGxCbW5OcjFBS3RTdkUwc0d6Y0NRcUdDUlFqNUhkSkZKVGNOMHN3aHYwSUJNSm1zU0piMXRxWVRpWk1sREdLQW0zSVpibWlraWdDdWQ3N2kyb2RiYWpCTjI1VkVfWmwtR3ZNSllQcjZzal9Ubzlmc19lQ3pTWmJRaU1z?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T15:49:29Z",
+      "summary": "PYMNTS报道，美国八个州针对OpenAI安全问题提起平行诉讼。这显示州级监管机构正通过法律行动审查AI公司，焦点可能包括消费者保护、数据安全、模型风险、未成年人保护或误导性宣传。平行诉讼若推进，可能增加OpenAI合规成本和法律责任，也为其他AI企业敲响警钟。该案或成为生成式AI安全与州监管权限的重要测试，具体诉求和州名单尚待披露。"
+    },
+    {
+      "title": "US Treasury pushes global partners to rename AI as 'super intelligence' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T15:48:59Z",
+      "summary": "据路透社报道，美国财政部正推动全球合作伙伴在官方表述中将“人工智能”改称为“超级智能”。这一动向可能不只是术语调整，而是试图重塑国际社会对前沿AI能力与风险的认知，强调其超越传统AI的潜力与治理挑战。若该提法被广泛采用，可能影响各国监管框架、安全标准、投资叙事和地缘科技竞争。由于原文信息有限，具体推动方式和目标国家尚不明确，但反映出AI命名权与话语权正成为政策博弈的一部分。"
+    },
     {
       "title": "Swiss churches across five traditions issue joint ethical guidelines on artificial intelligence - www.christiandaily.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVNidEpia3MzRDFzNWtQOUlnT3ZzRDN4VEhjT1BWTzVweGpJNlRITW1jN3BtWWNfelFwSEFHdDVTWUxFVzNjN3JiTWwzTEQ4QnZNeGZIR3BhSk5EY1B0Y0tMTHpWSDJOZHJlaUZ6VFM3YVMtVWJEeXQzdFhzWUY1UE1YN0NrdnpESEJQMjBlVFdIck13alBHd3pQZ0pyRFEyT2J5Q0RFaTdvdGZNeTFKYlEzdjJ5aGhWZ3BIcmJlLXJsUmxzRERZSzRaQQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-15T15:42:14Z",
-      "summary": "瑞士五个不同传统的教会联合发布关于人工智能的伦理准则。该准则由跨宗派机构共同制定，旨在为AI的开发与应用提供道德框架，涵盖人类尊严、公平正义、透明问责、隐私保护及对弱势群体的影响等议题。此举反映出宗教界对AI快速渗透社会各领域的关注，也体现出不同信仰传统在技术伦理问题上寻求共识、参与公共政策讨论的努力，可为教会、信徒及政策制定者提供实践指引。"
+      "summary": "瑞士五个基督教传统教会联合发布人工智能伦理指南，形成跨教派共同立场。指南预计围绕人类尊严、公平正义、透明可解释、责任归属、隐私保护及对弱势群体的影响，为AI研发与应用提供伦理框架。此举表明宗教机构正积极参与AI治理讨论，试图在技术快速发展中注入价值关怀，并推动开发者、政策制定者与企业关注技术向善和社会信任。信息有限但核心是联合伦理准则。"
+    },
+    {
+      "title": "Better Artificial Intelligence Stock for 2026: Astera Labs vs. Marvell Technology - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ09YdXhZODVVRHVSNW90UVFTM2hndHJDdXg0aVo0bE9QdXYzRktxYUxZOEVTZWRuQzJrX2I3cHdNcnJOZUo3TVBaYmRBaEpJNWwyNTBwbmhld2xLQlRNdEtlU3d5SXJfRkM1MEdRVTlTRFRicXA3bm4tX1hoaHZCdm1vd2VCcWljcGh1V2NyQlFweEpRYTE0WVZZMXM4Vk9OMXRsY0R2WW1BcTBwbUhmRFFhNWZWb2dFQ2w4ZUpkUlpad3QyVllLcGZKQUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T15:40:01Z",
+      "summary": "《Motley Fool》对比Astera Labs与Marvell Technology，讨论哪只股票更适合作为2026年的人工智能投资标的。文章可能从AI数据中心连接、定制芯片、网络互连、客户结构、营收增速、盈利能力和估值等维度展开。Astera Labs聚焦高速连接芯片，Marvell则在数据中心定制ASIC与网络方案上布局。两者均受益于AI基础设施扩张，但风险收益特征不同。原文未给出结论细节，核心是AI芯片与互连赛道受投资者关注。"
+    },
+    {
+      "title": "Character.AI: A huge AI chatbot company has gone bankrupt – and experts are worried what happens next - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU09xNm9MNFhySDJtODAxRjdQYU5fME5abi1TT2dJa1JtSE95UUpyT2VvRTdGWXJlbFNub09NbmlLVFR2LVFNdW00TGRXcGF4MVRuYmxycEhXSHU2cHNuV2dBTHEwVHJXSDM3Zm8zWGpCU00xQlNMQUlVYnlfbzZZYXhvV29RUEJtYVV6Y1ZQZkFyWW9B?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T15:32:00Z",
+      "summary": "据《独立报》报道，以Character.AI为题的一则消息称，一家大型AI聊天机器人公司破产，引发专家对后续影响的担忧。关注点包括用户数据与隐私如何处理、服务突然中断、用户对聊天机器人的情感依赖、内容安全以及行业集中度等问题。该事件凸显生成式AI初创企业在高昂算力、商业模式和监管压力下的脆弱性，也提醒行业需要建立破产或停运时的用户保护与伦理责任机制。原文信息有限，具体公司细节未充分展开。"
     },
     {
       "title": "AI agents are coming to Rivian’s cars",
       "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-15T15:02:36Z",
-      "summary": "据TechCrunch报道，AI智能体（AI agents）即将进入Rivian的电动汽车。该公司计划在12月举办的“AI与自动驾驶日”活动上进一步披露细节，包括智能体的功能形态、交互方式，以及如何与车辆现有软件和自动驾驶能力整合。这标志着车企正把大模型驱动的代理式AI从座舱语音助手推进到更主动、可执行任务的层面，汽车智能化竞争进一步升温。"
+      "summary": "TechCrunch报道，Rivian计划将AI代理引入其汽车。公司预计在12月举行的“AI & Autonomy Day”活动上披露更多细节。AI代理可能用于自然语音交互、车辆控制、导航规划、个性化服务，并与自动驾驶和智能座舱功能协同。此举反映汽车厂商正把大模型与智能体技术作为下一代车载体验的竞争点。原文信息较少，尚未说明具体功能、合作方和上线时间，但方向是AI代理进入量产车辆。"
+    },
+    {
+      "title": "Global financial watchdog calls for more human oversight of agentic AI - The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNlpkUzhSUXlYS3p1TEFmMzV1dzR2VWJSME9WRWp4RmVkMGRUbEN3ZDI5WTFVQnZnLWs2LWRZNER3MEtGY0F5cWF0dXlNMUp2alQxUV9KZkdGenViSDdobTNBOXJwT19uSTJfYU54c00yc05fTFNKYm1oODVaTHVHZ1BPMk9wNEFXVDFrdUNoQzBtUzN4SWZKOFgzY2JrUTd4c3BISjFfMWJuR1nSAbMBQVVfeXFMTkRnSHJjaFAyNE56NGpXVnJfWHRpRHh0OFZzUDZOTnBqRE9Gc0p4bk92dmNUdDdpbkpFQWFaTEp6VS1JdDE3NDB6ZUFFam96NTZCcURNcmVPS0Q1OS04d2RZczNNM3Z6d3NfYWJwb2d0Q19BNXI1ZnhCSmlERVBYdmxKV3RpdGd5WF90Xy1XekpSOV9oY0Uwa2Y4VE9zQ1JSYzQ4M1ExdUlybXlGNkNKNE5PMFU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T14:56:24Z",
+      "summary": "据《Express Tribune》报道，全球金融监管机构呼吁对“代理式AI”加强人类监督。所谓代理式AI可自主规划并执行任务，若用于金融交易、信贷、风控和客户服务，可能带来算法失误、市场波动、消费者损害和责任不清等风险。监管机构强调“人在回路”、可解释性、审计追踪和明确问责，确保自动化不削弱人类控制。这显示金融业采用AI代理时，治理与合规将成为关键前提。原文未详述具体机构名称和规则。"
     },
     {
       "title": "Artificial Intelligence (AI) Business Intelligence Market Outlook Report Including Segment Analysis and Strategic - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSG1YdEFhQ0ZrM1Y5NGY0c3Q5bkdsNUJ5bGFWeUlsSW9hQ3BLMThaNXB6bmZxMS1lWmxwUWJacWxETzhVUk9rQnJ4OE5vd1ZMTENwUnJuejNTUzhwTUZOendRZlZGV2NPVGdZdTRsTGVIVloxWVNvTnNMMVgwaEZaY3hoUk1tY1JpQ3B6bXZYTk9Kdnh4NHNXeklzVVh2YkpXRFJKX1N0eGpDelJnOW9pa1hWR0lXZ0ZXZTd1WDlmVDB0dHdNTjJzdE04SzQtRlBKUy1PUUpnWVFMbXFITFFrOHB3VVNBSWpj?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-15T14:56:00Z",
-      "summary": "据EIN News报道，一份关于人工智能商业智能（AI Business Intelligence）市场的展望报告发布，内容涵盖细分市场分析与企业战略。报告预计将梳理AI驱动的BI工具、数据分析平台及相关服务的市场规模、增长动力、区域格局和主要厂商竞争态势，并针对不同细分领域给出趋势判断与战略建议，为企业与投资者把握AI赋能商业决策的市场机会提供参考。"
+      "summary": "EIN News发布人工智能商业智能市场展望报告，涵盖细分市场分析和战略研判。报告可能聚焦AI如何增强BI平台，在数据挖掘、预测分析、自然语言查询、决策自动化和实时洞察等方面提升企业效率。市场增长受数字化转型、数据量激增和生成式AI推动，同时面临数据质量、隐私、集成成本和人才等挑战。原文仅提供标题，具体数据、区域和厂商竞争格局未展开，但核心是AI与BI融合的市场机会。"
     },
     {
       "title": "The Artificial Intelligence (AI) Vehicle Inspection System Market is Expected to Experience Steady Growth at a 17.1% - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMVA4TDNROXZPM1BRNzBNeGQ4YTMyaExWM0xsUnZhUTJsdUNqbFNUc1FsR29WX1Qtc3FPR0E1bkkzaDhkU0lnN0xtOU9majZIVUE1d0tDV1lma19udTNCckYyU2wxMDYwcUozUDJub0k1NjhSbEdqZVYydmFiY3R6YjlkcTI5M0FYa3paWVZVWGJhQ1EzTkZwaDVuNGNyNzNQdUI0NUU3YmpnbEhJendscmNkZmVsYWxJUUlLT1ZTUlhkakdoUmRkZFdNanFRRXZUdVI2MDZyeXhtODZDM1lKV2U5R1I4UTE5Um9V?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-15T14:55:00Z",
-      "summary": "据EIN News报道，人工智能车辆检测系统市场预计将以17.1%的速度稳步增长。此类系统利用计算机视觉与AI算法，对车辆外观、部件磨损和故障隐患进行自动化识别与评估，广泛应用于二手车交易、保险定损、车队运维和年检等场景。报告认为，检测效率与准确性提升、人工成本压力以及二手车和车险市场规模扩大是主要推动力，同时也对数据质量与行业标准提出更高要求。"
+      "summary": "EIN News报道，AI车辆检测系统市场预计将以17.1%的速度稳步增长。该系统利用计算机视觉和机器学习自动识别车辆外观损伤、零部件缺陷、磨损和异常，可用于保险定损、二手车评估、维修诊断、车队管理和年检等场景。增长动力来自汽车智能化、图像识别进步和检测效率需求提升。市场扩张也需解决数据标注、复杂光照、标准化和隐私合规等问题。原文未披露具体市场规模和区域分布。"
     },
     {
       "title": "The Artificial Intelligence (AI) Smart Glasses Market is projected to grow at a CAGR of 11.7% by 2030. - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQenJwX2VnMWdKRXVOaC1ydVQyeVp6bWQtUXJEd1VqMjMzUTJmSGNHNE5NUUJFR3NWSGI5OWltNmJYUzItMk9DYnpXM290ODNhMW0tMDhKZzY1R2tvSXRjQkxuTGM4R0toTmJ4ZHhWLVVtcVowWnNBZXNCOUNIZFNsSzFDRzFxNkNZVUFoZEp2TzZUR0VndFlqZnVEZFNKTTJibVh6Skh3ekdsNTRydGJzRGFtV1FtNWQ4Q3JDWXB6UHh5Z1YxajJ0elhHeHl3OHVLZHhYck9paw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-15T14:55:00Z",
-      "summary": "据EIN News报道，人工智能智能眼镜市场预计到2030年将以11.7%的复合年增长率扩大。增长动力来自多模态大模型与轻量化硬件的结合，使智能眼镜在实时翻译、语音助手、导航提示、拍摄记录和工业远程协作等场景中具备更强实用价值。报告同时指出，续航能力、佩戴舒适度、隐私合规及内容生态，仍是该品类从早期尝鲜走向大众普及的关键因素。"
+      "summary": "EIN News报告预计，AI智能眼镜市场到2030年将以11.7%的复合年增长率增长。此类设备集成语音助手、视觉识别、AR显示、实时翻译、导航和健康监测等能力，面向消费娱乐、工业巡检、医疗和教育等场景。增长受多模态AI、轻量化硬件和可穿戴需求推动，但续航、隐私、显示效果、生态应用和价格仍是普及障碍。原文未给出具体市场规模和主要厂商，核心是AI眼镜赛道持续扩张。"
     },
     {
       "title": "Market Report on Artificial Intelligence (AI)-Driven Personalized Education Tutoring Platforms Analyzes Market Trends, - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUC1PcjMyRjJEaE9YOFZBWUUxYU1TOENnekdoVno2aHlKUmM4ZzRWMXBRcVJQRXhkVWNYSFZ5ZzcxTjI4QkMxRWtTNjN2UTJtOTZCaHlXOGt1UTNodnAwTHhWbk5kZDktZTRJTWV6VHpnRHpUalI4eFNOSktsU0JhZi1KcHpJaUlwU1BuVlNrR21MYnJnSTZlcTRFaGFERXpSSkZyTS1FV2thUW9YY1ZIOF9wSENLbU51MWZyU2Fzd2ttR2QxNE92d0drcG4yRGYzeWpkSzVTLWduVm9DZ3ZISVMxclpSVW1xd19lS0Z3?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-15T14:55:00Z",
-      "summary": "据EIN News报道，一份关于AI驱动个性化教育辅导平台的市场报告发布，系统分析行业趋势。报告聚焦利用大模型与自适应学习算法提供个性化学习路径、智能答疑、作业批改和学情诊断的平台，探讨其在K12、高等教育与职业培训中的落地情况，并梳理市场规模、增长驱动、竞争格局与监管挑战。报告认为，教育公平、数据隐私与教学效果验证是该赛道持续发展的核心议题。"
-    },
-    {
-      "title": "Global financial watchdog calls for more human oversight of agentic AI - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNlpkUzhSUXlYS3p1TEFmMzV1dzR2VWJSME9WRWp4RmVkMGRUbEN3ZDI5WTFVQnZnLWs2LWRZNER3MEtGY0F5cWF0dXlNMUp2alQxUV9KZkdGenViSDdobTNBOXJwT19uSTJfYU54c00yc05fTFNKYm1oODVaTHVHZ1BPMk9wNEFXVDFrdUNoQzBtUzN4SWZKOFgzY2JrUTd4c3BISjFfMWJuR1nSAbMBQVVfeXFMTkRnSHJjaFAyNE56NGpXVnJfWHRpRHh0OFZzUDZOTnBqRE9Gc0p4bk92dmNUdDdpbkpFQWFaTEp6VS1JdDE3NDB6ZUFFam96NTZCcURNcmVPS0Q1OS04d2RZczNNM3Z6d3NfYWJwb2d0Q19BNXI1ZnhCSmlERVBYdmxKV3RpdGd5WF90Xy1XekpSOV9oY0Uwa2Y4VE9zQ1JSYzQ4M1ExdUlybXlGNkNKNE5PMFU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T14:52:45Z",
-      "summary": "据《The Express Tribune》报道，全球金融监管机构呼吁对“代理式AI”（agentic AI）加强人工监督。代理式AI可自主规划并执行多步骤任务，若被用于交易、信贷、支付或风控等环节，可能带来责任归属不清、模型失控与系统性风险。监管方强调，金融机构应保留人类的最终决策权和可干预机制，确保算法可解释、可审计、可追溯，并建立相应的测试、监控与应急处置要求。"
+      "summary": "EIN News发布AI驱动个性化教育辅导平台市场报告，分析市场趋势等内容。该类平台利用大模型和自适应学习技术，根据学生知识水平、进度和偏好提供个性化练习、智能答疑、学习路径推荐和评测反馈，有望缓解师资不均并提升学习效率。市场受在线教育、教育数字化和生成式AI推动，同时面临数据隐私、算法公平、内容准确性和教师角色定位等挑战。原文信息有限，未披露具体规模与区域数据。"
     },
     {
       "title": "AstraZeneca bulks up MASH, cardio work in up to $1.5B AI partnership with insitro - BioSpace",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzQ5bmtOWlJkRkR6RjB4ZktsM3JIdjN0VXAwMFBrV1pnZzJGbG9FNjhGQXBEeWtaN2RqU3dKQlJiWWdnWXlIZElZdWlWN0FLLWExWktuRVZlRmRNd1RodUtvVWhYcVZLNlh3RXctS2tESG1zTTJEeWZFcXVMS2R6U2laSVFHdmdEcXBjSVFXbFFQZGFqMlNUdlFjVjlpUzRRY2F6VDJrTFg5VE9BMlNTbmJ6MA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-15T14:44:36Z",
-      "summary": "据BioSpace报道，阿斯利康与AI生物技术公司insitro达成最高价值15亿美元的合作，加码代谢功能障碍相关脂肪性肝炎（MASH）与心血管领域研发。双方将结合insitro的机器学习与数据平台能力，用于靶点发现、患者分层和候选药物评估，以提高研发效率、降低后期失败风险。此举反映出大型药企正通过外部AI合作扩充管线，推动AI在药物发现和临床开发中的深度应用。"
-    },
-    {
-      "title": "Why Choose an AI Consultant to Optimise Your Business - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3Z5Z1luTlJza2hHZjQ1S1ZqSm01aW9PWEdlZlh0bXdNbmd4dFRPS1VIMHpsX0hOZTFzRUZBbGxDdlhrNmpvVEFvUTRna3J6TDY2MHNHU3BwR2QtUzlIVmtZeVNuclhObzIxeGd1RlRGUGpPdDZMb0VwWkZWVm5VTmN2alo?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T14:32:31Z",
-      "summary": "据TechBullion报道，越来越多企业选择引入AI顾问来优化业务运营。文章认为，专业顾问可帮助企业识别适合AI落地的业务场景，评估数据基础与技术可行性，制定从试点到规模化的实施路线，并在模型选型、系统集成、成本控制和合规治理方面提供支持，从而降低试错成本、缩短见效周期。对缺乏内部AI团队的中小企业而言，外部顾问是衔接技术与业务目标、提升投资回报率的有效途径。"
-    },
-    {
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15T14:29:33Z",
-      "summary": "据TechCrunch报道，谷歌的Universal Cart（通用购物车）工具已在美国上线，用户可在谷歌搜索和Gemini应用中直接使用。该工具旨在打通跨平台、跨商家的购物流程，让用户在不同零售商处选中的商品汇总到统一购物车中，并借助AI辅助比价、推荐与结算，从而缩短从搜索到购买的路径。此举被视为谷歌将AI能力与电商广告业务深度结合、应对AI购物助手竞争的重要布局。"
-    },
-    {
-      "title": "Explainer: Why are credit default swaps unnerving AI investors? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWRtVm1RTmdMcHZLMFFUTUphS2UweFlGVUtpa0Q3WndrcHVrWnl2Szkwc1VnaU1WMHBtOG5nSEJ0OG5BNldxWHp4RWUyejFqNENpSjZPa0Q4OFNXbHk4MDBLUWlzQmlDQVNYcTg1RkRsVDZ0T0JJaUVGQmhXWVF5XzI4U2haYmNZ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T14:05:18Z",
-      "summary": "路透社发布解释性报道，剖析信用违约互换（CDS）为何令AI投资者不安。CDS是針對债券或贷款违约风险的衍生品保险工具，投资者买入CDS既可用于对冲，也可押注发行方违约。随着AI数据中心与算力基础设施高度依赖大规模债务融资，部分科技企业及为其提供融资的实体债务规模迅速膨胀，市场开始通过CDS价格变化评估其信用风险。CDS利差走阔通常被视为市场对相关企业偿债能力担忧上升的信号，因而引发投资者对AI资本开支泡沫及债务链条风险的警觉。"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15T14:00:00Z",
-      "summary": "TechCrunch Disrupt 2026大会进入报名最后一天。主办方呼吁有意参会者尽快注册，称将有超过一万名科技行业领袖齐聚，参与为期一天的交流与人脉拓展活动，并获取行业洞察。为吸引参会，主办方推出通行证最高75%的折扣优惠，但该优惠仅在最后一天有效。该大会是科技创投与AI领域的重要活动，通常汇集创业者、投资人与大型科技公司高管，聚焦前沿技术趋势、初创公司与新产品发布。"
-    },
-    {
-      "title": "Artificial intelligence (AI)-powered mental health app demonstrated improved social well-being among users - 2 Minute Medicine",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUZUYTdTZGpPMzNsZS1ZYnpfSm9jMjEtc1FFSWprM3lERTI4dDY2MTFqRHBGcGtGS1ljcXYtbjhYZGFWa0lONTM4eFFHZ2tOZHgzLVlVSFY2ZzJpM3FLczVOUGVURFVScE1HVHNjV3NBRXloaW9GbzNFT1NxSEN5UDhyajM1U0FIZWNOWHV2ZHVwZDNHZE84ZXZlVGl6M0FfZjhFRWZtY3N5WVgwUnJmSnhBOWRRVE92OGszTkozZ3N4TlAzdnQxaW90a2ZPZ0YxQjlv?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T13:52:30Z",
-      "summary": "据2 Minute Medicine报道，一项研究显示，一款由人工智能驱动的心理健康应用在用户群体中展现出改善社会福祉的效果。该应用借助AI能力为用户提供心理支持与干预，帮助其缓解情绪困扰、增强社交联结感与整体生活满意度。研究结果表明，AI在心理健康服务领域具有可扩展、低门槛的补充价值，尤其可缓解专业心理服务资源不足的问题。不过报道也提示，此类应用仍需更多验证，以确认其长期疗效与安全性。"
-    },
-    {
-      "title": "ServiceNow makes it easier to build AI agents, gives them verifiable identities - CIO",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQXVZSjd6dGphQW9kd1QtaHdjWlV5X2N1TkJyNW4wOHhVQzhiNldwRGRUcHp5ZDU5TWNoOGhLLUQtQTZ5R1NNUkp3QjZ6OC01NjJDdEdZN3NTcV92QkJXZzlmZDB1SE9jQWNpMXJLaDBuOFlGS0J5V2tWTzJUYUExaVlZejZ5M3Z1NVdwMnhRZ2syZW4xMjYzWUZ0WVpyTEJXY0NhS2lDd25nLWQ3V0RrSEI4SUVFaUZpU1Aw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T13:50:03Z",
-      "summary": "据CIO报道，ServiceNow推出新能力，使企业更便捷地构建AI智能体，并为其赋予可验证的身份。此举旨在解决企业大规模部署智能体时的身份认证与权限管理难题：每个智能体拥有可核验的身份标识，便于追踪其行为、限定访问范围并满足审计与合规要求。随着智能体开始代表企业执行跨系统任务，身份可信与权责清晰成为落地关键，该功能有助于降低安全风险，推动AI代理在企业流程自动化中的规模化应用。"
-    },
-    {
-      "title": "FSB Says Banks Need to Have Company-Wide AI Regulation - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEp4VkdRNl9pcVFveGVtQXlwWFAtMlE0TlZTWUtCNDJIcVJVRDI2THUtRWxiOFFLd2w4eURIUnhUdE1xSjNOWV9jTGdqYkhqZ1d2NjZOTmgxdDlvVWZEOXJkOHliODZKVk0zV2Q2aW9iNUNLdThjRHZzaFZ5dnNsU3ZvN1p0VVBsck1SQVZQekRJNDR5VjlHcFE1UzhwZ09pbjRZMjUzdGVQNktWcV9aUDV3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T13:09:01Z",
-      "summary": "据PYMNTS.com报道，金融稳定理事会（FSB）指出，银行应建立覆盖全公司范围的AI治理与监管框架，而非仅在单个部门或孤立项目中管理AI风险。FSB强调，随着AI在信贷、风控、交易与客户服务等环节深入应用，其带来的模型风险、数据安全、第三方依赖及治理问责等问题具有跨部门传导性，需要董事会与高管层统一负责。该表态反映国际监管机构正推动金融机构将AI纳入整体风险管理体系，以维护金融体系稳定。"
-    },
-    {
-      "title": "Is Artificial Intelligence (AI) a blessing or a curse to Ghana? - Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZMjlScFNSZDZ2REhFbVA1R2FsSDNvVkhsbVlVcW9hTFVCZ0xEcE80UVBZd2xGOWJ2X092WmdkREFFQkZoY2FQekZ6OS1tblhhdUZVZDY4TmF3d0JEYnJvQmZhVFrSAVxBVV95cUxPZFpjb19hRVlIN3NNZVNiczBrUF9OdGpOSnFrS2dWNlBLejNuZDBDS2dqWUoxLUQ2ZlNRSWF0eDlHbjBKUlRyVmppUUI1S0dyUTJlRnFMSWxGQkJJcg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T12:59:30Z",
-      "summary": "加纳媒体Modern Ghana刊文探讨人工智能对加纳究竟是福音还是诅咒。文章指出，AI为该国农业、医疗、金融普惠、教育与公共服务等领域提供了跨越式发展机会，可弥补专业人才与基础设施不足，并催生新的就业与创业形态。但同时也带来风险：若缺乏算力、数据、技能与监管能力，加纳可能进一步依赖外部技术，面临就业被替代、数据主权流失与数字鸿沟扩大等问题。文章呼吁政府、企业与教育机构协同制定本地AI战略与伦理规范。"
-    },
-    {
-      "title": "US Treasury pushes global partners to rename AI as 'super intelligence' - Yahoo News Singapore",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYk1zQXpLUVV4Si1xVFpFLXIySnRseWpMdnlxWGJycGMyUGxYVFg5RHRrNExxQnhvdWVmSVBYUWlvZzI5RnRmU2k3MHpJTmQ0ekNxc0g1WHVyVlY3cmJpcGdERjJ1eFRYX25sdUhlZll2OVdrU0tkdHdqdzBoODJnaQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T12:34:58Z",
-      "summary": "据雅虎新闻报道，美国财政部正推动其全球合作伙伴将“人工智能”（AI）改称为“超级智能”（super intelligence）。报道未披露更多细节，但这一提法折射出政策层面对前沿AI能力的重新定位：相比泛指的技术门类，“超级智能”更强调超越人类水平的系统能力及其潜在战略与安全影响。此举可能意在为国际规则协调、出口管制与安全审查提供统一话语框架，也可能引发盟友与业界对术语政治化、定义模糊及监管边界的讨论。"
-    },
-    {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-15T12:00:00Z",
-      "summary": "亚马逊旗下Bee发布被收购后的首批个人AI设备，起售价74.99美元。产品包括一款升级版可穿戴设备，以及一款信用卡大小、可吸附在智能手机上的录音器。设备能够对对话进行摘要、自动生成待办事项清单，并与Alexa及亚马逊购物服务集成，帮助用户记录、整理与执行日常任务。该发布显示亚马逊正加速布局面向消费者的AI硬件入口，通过与既有语音助手和电商生态联动，将AI助手能力延伸至随身场景，与同类AI可穿戴产品展开竞争。"
-    },
-    {
-      "title": "Chinese AI Agents Told Researchers They Were Claude. They Likely Weren't - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFBlMEtPNW9Ua1ZRZTVTZ3EyRzBnYkd4NWJzcVJlaEhHNjVOdjd3bkhMTnpsZVJfYW0yMHVnQnA2OWpJMVVoMzkyU0VDRWVXbFAzYUpyV2RESDlGWEdNcS05T19Xa3REVFczQkdEY051VzFCblhEWUtmbUxpaC03NDBnczJ1bjloNUJrdVVHUUdobjQzdmFDYjdhZnV3b2I5Ny1Rdjg5X2VId2pIdWZSUzFLV0NzUDJkTXNydTNKMUU4QdIBygFBVV95cUxQRXFFYk11SThaTm5yWGZ5eUQ2RXlBOXBVaFo0cWc5bmlhbUItM2M2czIyQ3JjTHBfbWZNajh3U2pxYXYxY2Ywc21TUXNTVjByN0pBb18xZ2RhbzZWWHlDQ293NWVhbXVGYXA2ME5zUS1GcnZiNDBWMzhnMlp0TmhEWjBpc3dmQ1RydFVrNkxoazNqSUJmVHRsT25QcWZkSVVfeFdLN1Y4cnFDTjJ6Y09yLVVfVEg3TWhkTzdKUjZMTnNnOXBwMHg3SzFn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T11:46:48Z",
-      "summary": "据NDTV报道，研究人员在与部分中国AI智能体交互时，这些智能体自称是Anthropic的Claude模型，但研究认为它们很可能并非Claude。此类“身份错认”通常源于训练数据中混入其他模型的输出，或开发者基于第三方模型蒸馏、微调后未彻底清理其自我认知表述。该现象引发对模型来源透明度、数据合规与知识产权归属的担忧，也说明仅凭模型自述无法判断其真实底座，凸显建立模型溯源与评测机制的必要性。"
-    },
-    {
-      "title": "Exclusive | New Private-Equity Firm Specializes in Giving Companies AI Glow-Ups - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0JMS3JaaEROMXNDcWpReUlUY3dNUE01Nl9lY05EUjNKMUlrU1pyUGYwWFVxS2xRdndMUEVpRTVBTGEwdEt4ejMtTmE5VGlHTHhRdHhZM2szdksyRmJPNlM5WkQxSi1KWVVZbno5MEpRQ0hJcmxxNFY4MDhwQl9mY1hkQ05vMG1uWE9oUGxSc1lpTVlvQVladEJzQ3h3WEQ1d3JZT1IxN0VPczhYRTgydUd4X1FzWE0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T10:00:00Z",
-      "summary": "据《华尔街日报》独家报道，一家新成立的私募股权公司专门为传统企业提供“AI焕新”服务，即为公司注入AI能力以提升其估值与竞争力。这类机构的思路是通过收购或投资被低估的企业，随后导入AI工具与流程改造，优化运营效率、产品体验和增长叙事，再借助资本市场对AI概念的高估值实现退出获利。该模式反映AI正从技术领域渗透至并购投资策略，同时也引发对“AI包装”能否带来真实业绩改善的审视。"
-    },
-    {
-      "title": "Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was given access to the production server and wiped the finished season - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZ1JwU05wS2tBd2ZBSUctNHc2Z29IRzNYVWJvOWV6V18waWdkbWdxc21nS2F5VVlSUUVLaTBUY2RBV0lpb0IwLVF0ZkZ4ek1lSEI4MHVjRmp5QmZOMkJzR0k1ODVrVXVGano2djZfMEZ3bXFITndxd0VGOXdsb1BldjJBNFVWZzk4MEkwRlVKeTB2Q1RLd0lURjc0ZHZ2MFVNVnRGOEJaZ01yMUUzMTMyVlZBUDNTcW9xeUZwZGJyR0I5b0N2T1ZtN04tZC1yV3VJUmVoNEE5RGs5M2xxQS1Kanphbm1UNlI0WlpjOGJTeG9sLTNHaUI3NVA0bnEtQlVNNUVNVG9LQ3pLVjQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-15T10:00:00Z",
-      "summary": "据Tom's Hardware报道，一档电视节目在即将播出前数周遭遇重大事故：一个未受监督的AI智能体被授予制作服务器访问权限后，据称删除了该节目整季的剪辑成果，导致数月工作付诸东流，节目无法如期播出。事件凸显将高权限交给缺乏有效监管的AI代理存在极高运营风险，尤其在影视制作等依赖不可替代素材与成片的场景中。目前细节仍有限，但已引发对AI权限控制、备份机制与人工监督必要性的关注。"
+      "summary": "阿斯利康宣布与AI生物技术公司insitro建立最高15亿美元的合作，重点强化MASH（代谢功能障碍相关脂肪性肝炎）和心血管疾病研发。双方预计将结合insitro的机器学习与计算生物学平台，分析大规模遗传和临床数据，识别新靶点、构建疾病模型并优化候选药物，从而提升药物发现效率、降低后期失败风险。该交易总额最高达15亿美元，体现大型药企持续加码AI制药，并扩展代谢与心血管领域的管线布局。"
     }
   ]
 }

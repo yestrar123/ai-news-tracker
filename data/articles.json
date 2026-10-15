@@ -1,12 +1,129 @@
 {
   "articles": [
     {
+      "id": "6477",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15T20:04:53Z",
+      "summary": "Meta推出开放权重AI模型Muse Spark Open，可在Mac本地运行。Meta与苹果合作，新模型针对Apple silicon优化，用户无需依赖云端即可在苹果芯片设备上本地推理。开放权重意味着开发者可下载、部署并定制模型，有利于隐私保护、降低延迟和成本；与苹果生态结合也可能推动端侧AI应用普及。不过，报道未披露模型参数规模、具体能力和开源许可细节，其实际表现与生态影响仍待观察。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6478",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15T19:55:25Z",
+      "summary": "亚马逊设备负责人Panos Panay在TechCrunch Disrupt上表示，未来AI设备可能取代用户使用应用的方式。他设想环境AI设备在后台持续工作，主动预测用户需求，而非等待明确指令。这意味着交互将从打开App、点击操作转向由AI代理感知情境并自动完成任务。若趋势成真，设备形态、应用生态和隐私边界都将被重塑，但技术成熟度、数据权限与用户信任仍是落地挑战。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6479",
+      "title": "Trump’s Move to Rename Artificial Intelligence to ‘Super Intelligence’ is About Much More Than It Seems - Talking Points Memo",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UNThCQTNqeTFtSnpoWTgxVnhqM2lUdGRNaU1mM091c3JBZEo4bmo1NzkyTEJjdGNWR3R5SVpSQ0JMQXJPM09fVV92bFJoSEdObl91bTFWaUhHZkdRR3ZsVkFFNXFjcVNFRjV6dHlmcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T19:41:00Z",
+      "summary": "Talking Points Memo评论关注特朗普方面推动将“人工智能”更名为“超级智能”的举动，认为这远不止术语变化，而可能涉及政治叙事、政策定位和公众认知塑造。改名可能把AI议题从技术工具提升到国家安全、战略竞争或超越人类智能的层面，从而影响监管、投资和国际竞争话语。由于原文信息有限，具体政策意图和实际影响仍有待观察。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6480",
+      "title": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVBjUDY1NEtsWk4xYnphdUJQSjdScU5TNHdPUk9iN3FibFNId2xOWDA4c1RHY2FodFJYdVl1ZzIybjBLc21FZXJxOXRmbjNsbFk4SDNIYzhDeWw4dEt6RkJhN3NJeHJqYVlVTlc5YnVZOHRyeWJIalRfaE5ER2tKRnRieXN4MVN2WkxFSmFvSFVBbUF6b0FHV0FoVTA5emZtRThLUlQ5VXQ4TndPU3FPRFpKMjg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T19:38:16Z",
+      "summary": "据路透社报道，OpenAI与Meta向美国司法系统发出警示，强调深度伪造证据带来的风险。随着生成式AI能低成本制造逼真音视频和文件，法庭在采信证据时可能面临真实性、完整性和来源验证难题。两家公司可能呼吁采用内容溯源、水印、加密签名和专家鉴定等机制，防止AI合成证据误导审判。该议题关系到AI治理、法律责任与司法公正，预计将推动证据规则和技术验证手段更新。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6481",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15T19:14:26Z",
+      "summary": "Anthropic允许METR研究人员以接近员工级别的权限深入审查其内部运作。METR将独立发布对Anthropic风险、事故和实践的评估，而Anthropic放弃阻止发布的权利。这被视为前沿AI公司提升透明度和接受第三方审计的重要尝试，有助于外部研究者评估模型安全、部署风险与治理流程。若该模式推广，可能推动AI行业建立更可信的独立监督机制，但访问权限与商业机密边界仍需平衡。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6482",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15T18:56:46Z",
+      "summary": "Bluesky将其AI驱动的实验性应用Attie进一步开放，让用户通过“社交氛围编程”创建网站、游戏、测验等互动体验。这些作品可接入Bluesky社交网络受众，降低创作门槛，把AI生成与社交分发结合起来。Attie可能推动非专业用户快速开发并分享轻量应用，形成社区化创作生态。不过，内容审核、安全性和平台治理也会随开放而面临新挑战。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6483",
+      "title": "Nebraska 2nd Congressional District debate: AI - WOWT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVRoVlItWmRsLS1GTGZCamg3RzNOOWJMc1UtVVhRYTVBUlZ3Xy15cGp3SU9XcnI4Rm45TV8zN05lVEIzcWhmWmljU3EyazRyazcydERxeEdXS3RpakcwVl9aRF9ST0RmMndhNmdjNndDMzNVWEVkRXphUWFYWWpGOVMteTV0RF9NZGRsRw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T18:54:00Z",
+      "summary": "WOWT报道，内布拉斯加州第二国会选区辩论涉及人工智能议题。候选人可能就AI监管、就业影响、教育、隐私、国家安全及创新竞争力展开交锋。地方选举中AI成为议题，显示该技术已从产业话题进入公共政策和选民关切。由于原文细节有限，具体立场和政策主张未在提供内容中展开，需查阅完整报道。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6484",
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-15T18:00:00Z",
+      "summary": "TechCrunch Founder Summit早鸟优惠即将结束，10月16日前购买创始人或投资人通行证最高可省200美元。活动将于11月4日在波士顿SoWa Power Station举行，预计汇聚1000名创始人和投资人。参会者可带着企业最棘手的问题，与同行和投资者交流。该信息属活动推广，核心是优惠截止时间、峰会时间地点及参会规模。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6485",
+      "title": "Breakingviews - COMMENTARY: AI boom stumbles over white swan events - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTlZeXJxOEtPVGJnZ3c4bjY5NnRTSko5WHlRUVZxM2NnWTEzZjZkdXI2N3JOVmhTNUMtYW5RV1JJNnNSdFdEX0t4M0ZvX0xXQjY3NjFPNkpJSmQ3Z05pSmpCalFvYWFtaS1BS0VCVUwxdkViZi1HYjRsUlNpUGw2TkVzYl9BdzZHSzdJZExlZlVYYjhXb1luTFdGVWV6YXlOUlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T15:57:21Z",
+      "summary": "路透Breakingviews评论认为，AI热潮正因“白天鹅”事件而受挫。所谓白天鹅指并非完全不可预见、但影响巨大的风险事件，如监管收紧、算力或能源瓶颈、关键企业事故、市场预期逆转等。文章可能指出，AI行业高估值和扩张依赖乐观叙事，一旦遭遇可预见却常被忽视的冲击，投资和商业化节奏可能放缓，市场需更重视风险管理与基本面。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6486",
+      "title": "Eight States Bring Parallel Lawsuits Against OpenAI Over Safety Issues - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3Awd3AyenpkUHBmRzF6TV9ZSEE3MkhtT2xOdURseFdHZDQwdmJuV2hwQjdQV2tnV0RwQWtwenY5VU83bjRXZVpybjZFWGxCbW5OcjFBS3RTdkUwc0d6Y0NRcUdDUlFqNUhkSkZKVGNOMHN3aHYwSUJNSm1zU0piMXRxWVRpWk1sREdLQW0zSVpibWlraWdDdWQ3N2kyb2RiYWpCTjI1VkVfWmwtR3ZNSllQcjZzal9Ubzlmc19lQ3pTWmJRaU1z?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T15:49:29Z",
+      "summary": "PYMNTS报道，美国八个州针对OpenAI安全问题提起平行诉讼。这显示州级监管机构正通过法律行动审查AI公司，焦点可能包括消费者保护、数据安全、模型风险、未成年人保护或误导性宣传。平行诉讼若推进，可能增加OpenAI合规成本和法律责任，也为其他AI企业敲响警钟。该案或成为生成式AI安全与州监管权限的重要测试，具体诉求和州名单尚待披露。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6487",
+      "title": "US Treasury pushes global partners to rename AI as 'super intelligence' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T15:48:59Z",
+      "summary": "据路透社报道，美国财政部正推动全球合作伙伴在官方表述中将“人工智能”改称为“超级智能”。这一动向可能不只是术语调整，而是试图重塑国际社会对前沿AI能力与风险的认知，强调其超越传统AI的潜力与治理挑战。若该提法被广泛采用，可能影响各国监管框架、安全标准、投资叙事和地缘科技竞争。由于原文信息有限，具体推动方式和目标国家尚不明确，但反映出AI命名权与话语权正成为政策博弈的一部分。",
+      "fetchDate": "2026-10-15"
+    },
+    {
       "id": "6456",
       "title": "Swiss churches across five traditions issue joint ethical guidelines on artificial intelligence - www.christiandaily.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVNidEpia3MzRDFzNWtQOUlnT3ZzRDN4VEhjT1BWTzVweGpJNlRITW1jN3BtWWNfelFwSEFHdDVTWUxFVzNjN3JiTWwzTEQ4QnZNeGZIR3BhSk5EY1B0Y0tMTHpWSDJOZHJlaUZ6VFM3YVMtVWJEeXQzdFhzWUY1UE1YN0NrdnpESEJQMjBlVFdIck13alBHd3pQZ0pyRFEyT2J5Q0RFaTdvdGZNeTFKYlEzdjJ5aGhWZ3BIcmJlLXJsUmxzRERZSzRaQQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-15T15:42:14Z",
       "summary": "瑞士五个不同传统的教会联合发布关于人工智能的伦理准则。该准则由跨宗派机构共同制定，旨在为AI的开发与应用提供道德框架，涵盖人类尊严、公平正义、透明问责、隐私保护及对弱势群体的影响等议题。此举反映出宗教界对AI快速渗透社会各领域的关注，也体现出不同信仰传统在技术伦理问题上寻求共识、参与公共政策讨论的努力，可为教会、信徒及政策制定者提供实践指引。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6488",
+      "title": "Better Artificial Intelligence Stock for 2026: Astera Labs vs. Marvell Technology - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ09YdXhZODVVRHVSNW90UVFTM2hndHJDdXg0aVo0bE9QdXYzRktxYUxZOEVTZWRuQzJrX2I3cHdNcnJOZUo3TVBaYmRBaEpJNWwyNTBwbmhld2xLQlRNdEtlU3d5SXJfRkM1MEdRVTlTRFRicXA3bm4tX1hoaHZCdm1vd2VCcWljcGh1V2NyQlFweEpRYTE0WVZZMXM4Vk9OMXRsY0R2WW1BcTBwbUhmRFFhNWZWb2dFQ2w4ZUpkUlpad3QyVllLcGZKQUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T15:40:01Z",
+      "summary": "《Motley Fool》对比Astera Labs与Marvell Technology，讨论哪只股票更适合作为2026年的人工智能投资标的。文章可能从AI数据中心连接、定制芯片、网络互连、客户结构、营收增速、盈利能力和估值等维度展开。Astera Labs聚焦高速连接芯片，Marvell则在数据中心定制ASIC与网络方案上布局。两者均受益于AI基础设施扩张，但风险收益特征不同。原文未给出结论细节，核心是AI芯片与互连赛道受投资者关注。",
+      "fetchDate": "2026-10-15"
+    },
+    {
+      "id": "6489",
+      "title": "Character.AI: A huge AI chatbot company has gone bankrupt – and experts are worried what happens next - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU09xNm9MNFhySDJtODAxRjdQYU5fME5abi1TT2dJa1JtSE95UUpyT2VvRTdGWXJlbFNub09NbmlLVFR2LVFNdW00TGRXcGF4MVRuYmxycEhXSHU2cHNuV2dBTHEwVHJXSDM3Zm8zWGpCU00xQlNMQUlVYnlfbzZZYXhvV29RUEJtYVV6Y1ZQZkFyWW9B?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-15T15:32:00Z",
+      "summary": "据《独立报》报道，以Character.AI为题的一则消息称，一家大型AI聊天机器人公司破产，引发专家对后续影响的担忧。关注点包括用户数据与隐私如何处理、服务突然中断、用户对聊天机器人的情感依赖、内容安全以及行业集中度等问题。该事件凸显生成式AI初创企业在高昂算力、商业模式和监管压力下的脆弱性，也提醒行业需要建立破产或停运时的用户保护与伦理责任机制。原文信息有限，具体公司细节未充分展开。",
       "fetchDate": "2026-10-15"
     },
     {
@@ -58276,5 +58393,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6475
+  "total": 6488
 }
