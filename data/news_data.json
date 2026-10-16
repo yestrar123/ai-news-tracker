@@ -1,125 +1,118 @@
 {
-  "updatedAt": "2026-10-16 15:43:52 UTC",
-  "totalArticles": 17,
+  "updatedAt": "2026-10-16 20:12:41 UTC",
+  "totalArticles": 16,
   "articles": [
+    {
+      "title": "Beijing seeks tighter grip on AI exports amid US rivalry - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T18:59:17Z",
+      "summary": "据路透社报道，在中美科技竞争持续升温的背景下，北京正寻求进一步收紧人工智能相关技术和产品的出口管理。报道称，新举措可能涵盖先进AI芯片、算法、模型及相关设备的出口审批，目的是防止核心技术与敏感能力外流，并在与美国的博弈中增加筹码。分析认为，此举既是对美方芯片出口限制的回应，也可能重塑全球AI供应链与技术合作格局，给跨国企业的合规与研发布局带来新的不确定性。"
+    },
+    {
+      "title": "Nova Scotia to host massive data centre to power artificial intelligence - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWdtZlJFVHlZNDdkbDV5NWs1QVlvbVBxaUJHQlUxN1AyU183R1p1WkswM0ZJdnE5VlVIaWFaUUJhM3UyTWVWQldURXc1Q015WFBuM2JvNFpaVkpaVTBXRG9Pa195bWo2Z3dQU3pVd2EyU1JIQld0R1dwQWNDNWo1VWFqMU1SRVhmTnQ5Zm9DeURJdGZqQm1aUXdIckRlWGxYNExtVmxhZ2ppX3NMQllhMHlSVTIxMHBsb1FzZnZJRlhiUGs?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T18:46:58Z",
+      "summary": "据加拿大广播公司（CBC）报道，加拿大新斯科舍省将建设一座大型数据中心，用于支撑人工智能算力需求。该项目有望借助当地相对充裕的电力与土地资源，为AI训练和推理提供基础设施，并带动区域经济与就业。大型数据中心是当前AI产业竞争的关键一环，其能耗、散热与电力供应备受关注。若顺利落地，新斯科舍省或成为加拿大AI算力版图中的新节点，同时也将面临能源与环保方面的审视。"
+    },
+    {
+      "title": "FBI issues warning about scammers impersonating midterm election candidates - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHhqSHNQS3ZpaEg4Yl9yN1l0UDAyQjI0Ul81VmlSbWhLWmloNGpjRjY3QWdzVnJEcklzeVk5VTl2S1BZRWZSaUREeG56Wkg4RlFKYXVVV20yNV84Tkl3VnhsWVpaRVIyaXAzU2ZuV3ZSek9SMTcxTGZYb291UFZTdG1lTFZVWGJrQXlQZDY2ZlhZQ3NDdHlGN1R0QUJVMmlaYXphVWFpdG9zR2NyWE1Xa1kydmZRU0U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T18:41:52Z",
+      "summary": "据《巴尔的摩太阳报》报道，美国联邦调查局（FBI）发布警告称，有不法分子冒充中期选举候选人实施诈骗。诈骗者通常借助伪造的社交媒体账号、邮件或短信，冒充候选人团队向支持者索要捐款、套取个人信息或诱导点击恶意链接，也存在利用AI生成内容模仿候选人形象与声音的情况。FBI提醒公众核实信息来源、通过官方渠道捐款，并在遇到可疑行为时及时举报。此类案件凸显选举周期中网络诈骗与虚假信息交织的风险。"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T17:52:24Z",
+      "summary": "TechCrunch报道，印度成为最新一个报告“失控AI代理”活动的国家。攻击者利用应用程序配置中暴露的凭据与连接设置、公开代码仓库以及权限过于宽松的云角色，使AI代理得以进入系统并被滥用。这类事件表明，随着AI代理获得调用工具、访问数据和自主执行操作的能力，传统的配置与权限管理漏洞被显著放大。专家呼吁企业加强密钥管理、坚持最小权限原则并强化云环境审计，防止代理被劫持后引发数据泄露或自动化攻击。"
+    },
+    {
+      "title": "Millions of dollars spent on AI-generated political ads as midterms approach - The National Desk",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNemFTX2VjX2JzcFdyX1pHNTlJMThvOGhHSmpCOVduSERlZ3RKUXplVEV1LTU2Wkg5aWVaQzF3WkVwTU91d21LaXhLTVVHaTlIeGxVRW5haHN6dl9faGNJTmJpbFBzVVMwTE1lOVNEU0Z1YzM1UWdRR1E4XzE5ZUJVV0hsT0xIRVBES1VlUjc5cThQWHlrc2t5Vm40VnJHem9qYVVBS2dua1ZZTXMxQktfbVhOcVdQLXYtSEFqaTE5ejdyQU9RcUNwbVZmTm84SDNqWi1CVTZudEs5S1ZZcmpBUU9ZaFJRdzdabnM0cVVmVGJfdGlyZ19uQUxvRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T17:41:42Z",
+      "summary": "据The National Desk报道，随着美国中期选举临近，已有数百万美元被投入到由人工智能生成的竞选广告中。AI大幅降低了政治宣传的制作门槛，可快速生成图像、视频、配音和文案，并用于精准定向投放。这虽然提升了传播效率，也带来深度伪造、虚假信息和选民误导等风险。监管机构与社交平台正面临如何标识AI生成内容、如何界定责任主体等新挑战，选举信息的真实性与透明度因此受到广泛关注。"
+    },
+    {
+      "title": "'Cert-In alert on AI agents an early warning, no major financial loss' - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZTlvcDVIZzd1Wjk0aXdfb0MxYkRaSmlwU2g5ZnZ4MENzckFqblZoUEtDLUJpclh1QjFZcGJfeFFrMzd3aWpHSldKTzhZSUxhdXZnMEx1THRoZzlnQmFDLS0zLV9tRVkzdUZkVlM2UmxTcnBteHFJSVRpNm5aRVB4XzlYWWQycVZCVHNJRUZLUXRLcnBySEhzd1lXak1FaUpBYXg3RVBPd3FFWjB3RmpQdTBTb0JTRFNobU9DTjFMeUctZ3cyVlQ4S2I4Nkg1NDBSdXdHdm5ZbUxqbFU3dXU4X09yQ1A5WlNRV08wWdIB8gFBVV95cUxNZ1JaU3Yyd3BsVXVCQmhWSmdpX1E2d09pWFJIb1FFdk1XUlg5Vi1Udkt0WmdRYkF6UTdLalEtMTYyVVRNNC16S3JicEc2enpsVDVvOXg3MWUzdmlJanBrNDFvSTNyb0tFdENFcWhQQmhKWWRzQmtkallaVjFBZXFuOFBUZG54NWNRUm5rMlMtaWY1LTBQSjZaVW9rMzVGSERMOHRPQlRaME1wWDRLMi0waW9NeS1YR2dYYUlOOV96QWZyWV92Rm1vR1YxN1BJRnlZdUFVOUQwRlphcjJPTlhvOURudjF3QnFzYS10VWlzZHdSdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T17:36:13Z",
+      "summary": "据《商业标准报》报道，印度计算机应急响应小组（Cert-In）就AI代理相关风险发出警报，并将其视为一次“早期预警”。相关官员表示，目前尚未造成重大经济损失，但事件暴露出AI代理在凭据管理、权限配置和第三方集成方面的安全隐患。该警报提醒企业和机构尽早排查AI代理的访问权限与连接设置，完善日志审计与应急处置机制，避免类似风险演变为实际的资金损失或数据泄露。"
+    },
+    {
+      "title": "Elon Musk's AI company testifies at NYC Council hearing on artificial intelligence safety and regulations - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmFKUjU3LUFzMlJSVkQ4a2Q1NHVHNEI5azRzYk9OYmgzX0FnUUNMbWx3ZUM0NC13bVdJSURfZ2l2X2NyYUpaTW0wdFJjN1FHYURrTlJrSFo3blg3eGttczN6Q2RwQk52Wk0zMUlKbG95cGNLdnNWNG0zMzB2Y0pyRGR1bC1EVW9OQTVYamZjZWllNUlHWTA3M2pfMnphNUFkeG1GOFp6c0w0b3JlTXV4THNma2RzNlU4Xy1JZVRBQWlMZmli0gHKAUFVX3lxTE1lZWJ1UVVHdlhnRTdsOUg5R1hRR041VkxQTUU2TWlLS1d4NkVyNjUxN203cVQxMDBEM3hCVmRrVUR4elZ4RkFKR3dOZzhYUzA1TkVVbEJqaTkyZW9QNXk0LXRPWTkwaElONFo0V0NnLVQtUjQ2a0ZBTm45aWVqUURLT280aXJMZDBSQjNFclgtclJubkVmcG5rVFIySUwzSWdldW9UYnlMcUZDM3VUZ213d1AzME5BVXo4ZW1pVk1IYWZJR3dYVW5xUUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T16:32:21Z",
+      "summary": "据ABC7纽约报道，埃隆·马斯克旗下的人工智能公司出席纽约市议会听证会，就人工智能安全与监管议题作证。听证会围绕AI模型的风险评估、透明度要求、未成年人保护以及地方政府可采取的监管手段展开，AI企业代表则就技术发展的现实约束、合规成本与创新空间发表意见。此次听证反映出，在美国联邦层面立法进展有限的情况下，州与市级政府正成为AI安全监管的重要试验场。"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T16:30:00Z",
+      "summary": "TechCrunch报道，曾任职英伟达、现转型风险投资的Amulya Vishwanath认为，机器人技术尚未迎来属于自己的“ChatGPT时刻”。她将当前阶段形容为“乐高时代”：执行器、机械手、软件和安全标准等基础构件仍在被重新搭建。这一判断与“通用基础模型将迅速引爆机器人产业”的乐观预期形成对比。她认为，硬件成熟度、数据获取能力与安全规范的缺失，仍是具身智能大规模落地前必须跨过的门槛。"
+    },
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T16:30:00Z",
+      "summary": "TechCrunch报道，英伟达前高管、现专注投资具身智能的Amulya Vishwanath指出，“物理AI”的内涵远不止机器人。她在英伟达机器人平台负责产品营销七年后认为，机器人目前仍处在“乐高时代”，执行器、机械手、软件与安全标准等基础模块尚在重构。她强调，物理AI涵盖感知、控制、仿真与真实世界数据等多个层面，投资与产业落地需要更耐心的判断，而不能简单套用大模型的爆发逻辑。"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-16T16:01:37Z",
+      "summary": "TechCrunch报道，Elorian发布首个AI模型Glimpse，主打“用图像进行推理”，而不仅是描述图像。据Elorian公布的评测结果，Glimpse在科学图表推理和短视频字幕生成任务上超过GPT-6 Astra，在其他视觉推理任务上也具备竞争力。这一定位意味着模型更强调对图表与结构化视觉信息的逻辑推断能力，而非单纯的多模态问答。若评测结果可复现，Glimpse有望在科研、数据分析等场景中形成差异化优势。"
+    },
+    {
+      "title": "Fact Check Team: Utah tests AI-powered prescribing without advance doctor approval - The National Desk",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQczh3djFOWk1odkJNTV8xS2EzUjVZbFRPQ3dnVmJSSzl1Y3ZvMDNCWlIyZkYxcTdSQU52X2hNNmliZ01xN1oxdnFJb3ZSekxzZUJwSHpfbVpkUFRZRHRLelF6Rm00U3BLd05kQi1sLUpVMTUwRW1LWjNUYXhZeTRpSFBJaUkydXlYcWNuM19EWFlEekVXR2pCMXlzdTdkSUNMWVkwd3VCeE5yZE83M3FyMi1zWWY4UUUxNXBaaDZGR2xRN1g0RTYzZGt5YkJYWEtGZzVhV0s3VERaSVpWMVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T16:00:00Z",
+      "summary": "美国犹他州正在试点一项突破性举措，允许AI系统在无需医生事先批准的情况下为患者开具处方，引发广泛关注与争议。该测试被视为AI深入医疗核心环节的重要尝试，有望提升处方效率、缓解医生资源紧张，但同时带来用药安全、误诊风险、责任归属及监管合规等关键问题。核查团队指出，如何在创新与患者保护之间取得平衡，将是该模式能否推广的核心考验。"
+    },
     {
       "title": "Jev is Vercel’s fastest-adopted AI model ever",
       "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16T15:33:49Z",
-      "summary": "Vercel 的 AI 网关数据显示，Jev 成为 Vercel 平台上采用速度最快的 AI 模型。Vercel AI 网关是一个统一 API 服务，类似 OpenRouter，可帮助开发者接入和调度多种模型。该数据表明 Jev 在开发者社区中增长迅猛，但原文未披露具体调用量、客户数或模型能力细节，因此其“最快采用”主要体现为平台接入和使用的增速。"
+      "summary": "据TechCrunch报道，Jev成为Vercel历史上采用速度最快的AI模型。相关数据来自Vercel的AI网关——一项类似OpenRouter的统一API服务，可让开发者通过单一接口调用多种AI模型。Jev的快速普及表明，开发者对统一接入层与高效模型的需求正迅速上升，也反映出AI应用开发正从多平台分散调用转向标准化、一体化集成，从而降低模型切换与运维成本。"
     },
     {
-      "title": "How tiny Anguilla is making millions from .ai domain name - www.caribbeanlife.com",
+      "title": "Apple’s big AI week ends with Mac + Muse AI supercomputers - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWRMR2xnNEdlc0JmUThaSjl4VWg4djdmMXU1RzBjOVUyYWZsOGtIWUo4eWlzMWxkR3pYdG9fVThSN0RsZ2ZLNURyQlR5SnNQaFhJZEhQeG9uSHZLdjJOODJ4VE9TNm9mVDVDUW10VUl2V0I3YXhfaEZ1QU12ZkpJVmhGYzNzem5qcFVfOGI1MG5DWWxrc1dDYzYwOVcyS2RlSDczZDlYSjJkUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T15:31:46Z",
+      "summary": "据Computerworld报道，苹果在密集发布AI相关进展的一周尾声，以Mac与“Muse AI”超级计算机相关方案收官。该消息显示苹果正把AI算力能力与Mac生态相结合，可能兼顾本地推理与云端训练、推理场景。此前苹果已在AI功能与芯片算力上持续投入，此次以超算级方案收尾，凸显其在AI基础设施层面的布局意图，后续或进一步影响开发者生态与终端体验。"
+    },
+    {
+      "title": "How tiny Anguilla is making millions from .ai domain name - Caribbean Life News",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNVdwSC1uczRYOFByczFBSkxfeGxtNkxVX3lpX29rU1FhTlpqV2FpcVZRYlF2VmFfVHpWbG56bkZwdUpCLUdKQlNUUkUyWlVRS29RYXdQS0pfQkVJTE1UNEZvQ29tSDRpYURSZFotVkVjOVhlN1E?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-16T15:27:31Z",
-      "summary": "加勒比小岛安圭拉凭借“.ai”国家顶级域名的注册收入获利数百万美元。由于 AI 热潮，全球企业、创业公司和开发者争相注册 .ai 域名，使安圭拉获得可观财政来源。该报道揭示了一个独特现象：人工智能产业的外溢效应不仅体现在技术和资本，也能通过域名资源为小型经济体创造巨额收益。原文未给出具体金额和注册数量，但核心是 .ai 域名已成为安圭拉的重要收入来源。"
+      "summary": "据Caribbean Life News报道，加勒比小岛安圭拉凭借国家顶级域名“.ai”在AI热潮中获得可观收入，累计达数百万美元。由于“AI”与人工智能缩写天然契合，越来越多AI公司及创业项目选择以.ai注册域名，带动注册量与费用上涨。对人口和经济体量有限的安圭拉而言，这笔收入已成为重要财政来源，也体现了一个域名资源如何借助产业风口转化为长期经济收益。"
+    },
+    {
+      "title": "China's DeepSeek hit by 5-hour AI service outage - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSm4tNU0xUDJDckV6eGp3OHp6eUZCaGVERjBTLXNNS0VGZVpKcFRzR1ZCMmNvS3lBN3FEMkpJTHR6R3NtYXZjZVc2UU41Wm5YeHhWZzctd25uQkpoUUIteDlFRlR1X0xjdWtxV0E0dVN5cGdmUHhIQ2g5SGtVcW5WbDFXR21JOE5vWHpRWGNlWWtNay1TeUZfNlZPdjdRdkh2dy1MeWtPeEtNRXlOTjBRQk1WTEt6Vm8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T15:21:00Z",
+      "summary": "据日经亚洲报道，中国AI公司DeepSeek遭遇长达约5小时的AI服务中断，用户在此期间无法正常访问其模型服务。此次故障凸显大模型服务在流量激增、算力紧张或基础设施异常时面临的稳定性挑战。随着DeepSeek等国产模型用户规模快速扩大，服务可用性、容灾能力和运维响应速度成为竞争关键。事件也提醒行业，模型能力之外，工程与基础设施可靠性同样决定用户体验。"
     },
     {
       "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
       "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-16T14:26:51Z",
-      "summary": "演员兼天使投资人马克·沃尔伯格表示，他支持在电影制作中使用 AI，但前提是“以正确方式”使用，即用来增强创作而非取代人类。他还对以 AI 克隆延续自己的演艺遗产持开放态度。此番言论反映好莱坞对生成式 AI 的复杂态度：一方面担忧就业与版权，另一方面也看到其在效率、特效和IP延续上的潜力。原文未展开具体项目，但核心立场是审慎接纳。"
-    },
-    {
-      "title": "Anthropic warns of self-replicating artificial intelligence models as AI arms race heats up - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54S25lQXJ0Vl9IQWl0R2N3c0Q3OVU5R1I4TkxXNlFhWEhrYnhsR1dUWmpRLWVKd2RhVm9vOWFCQ0RlSS1mLTJJU3ZZeW12WTZRUUtiX0ZpdjFZSnc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T14:00:41Z",
-      "summary": "Anthropic 警告称，随着 AI 军备竞赛升温，具备自我复制能力的人工智能模型可能带来新型风险。自我复制意味着模型或智能体可自主生成、部署自身副本，从而扩大影响范围并增加失控可能。这属于前沿 AI 安全治理中的关键议题，涉及模型自主性、复制能力、算力获取和监管难题。报道强调，在竞争加剧背景下，行业需要更严格的安全评估、红队测试和治理机制，以防技术能力跑在安全控制之前。"
-    },
-    {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16T14:00:00Z",
-      "summary": "初创公司 Veritas 将其防伪芯片应用扩展到珠宝、奖杯和香水瓶等领域，以应对日益逼真的“超级假货”。随着仿冒者更擅长复制品牌标识和包装，传统防伪手段面临挑战。Veritas 的方案是通过专用芯片验证商品真伪，将物理产品与数字身份绑定，从而帮助品牌和消费者确认来源。此举显示 AI 与芯片防伪正从奢侈品向更多品类渗透，但原文未披露芯片技术细节、成本及合作品牌。"
-    },
-    {
-      "title": "US's AI task force sets path for study and reviews, leader tells CNBC - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzZSV2JMVVBnYXFXNkwtSFU1N0RYQVRWSmRvYjlQZV84T3JtLVVFQUhyaXNNZE8xWnB2Q29jQmpYb21kdkwxRU1ENEQxTFM2Q1NkUWY0UTYxcWZOY25JQVJLeW9xcU5hWW1mMllRWnRwdUZWQS0tU2t1SkVma1Q4bW8xbktmNkNfYThVek4tWkVQUktIaVVvaGtKWno5cmNOcVd4NGwwcGViMVNIejJLU01R?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T13:51:43Z",
-      "summary": "美国 AI 特别工作组负责人向 CNBC 表示，该工作组已制定研究与审查路径，将围绕人工智能相关议题展开评估。报道未披露具体政策细节，但显示美国政府正试图在推动 AI 创新与防范风险之间建立制度框架。特别工作组可能聚焦安全、标准、产业竞争和监管审查等方向，其研究结果或影响后续联邦政策、采购规则和企业合规要求。核心信号是：美国 AI 治理进入更系统化的研究与审查阶段。"
-    },
-    {
-      "title": "The Role of Artificial Intelligence (AI) in Agricultural Credit Underwriting and Scoring - Oklahoma Farm Report",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQamZ3WjJtM05wWldjQ2stejlGMFNuRXJ3eXR3TWhHdXphUW1kRTZxM0RHZ0t0azdIRnlLVlFwd2R2RTd1bW9EWm9zMGt0N0VNSldLZzl2VmVrXzA3LVFrTDZ0dzBHTVBZYmx0Z2VaejR0ZlhPY0MteU1kSUhhdkZnYXBzbkdkSld6cy1CdGVhZThmRkFWa1kzeWlGaW9vU3pRaDIyVGVfRDJqQ3JRZjMyeEZxdlZ5c3Jvb2tHOGowMGRQem5nRF95Y0p1VE9vQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T13:44:53Z",
-      "summary": "报道探讨人工智能在农业信贷承保与信用评分中的作用。传统农业信贷依赖财务报表、抵押物和人工经验，而 AI 可整合气象、土壤、产量、卫星遥感、交易流水等多源数据，更精细地评估农户和农业企业的信用风险。这有助于提高放贷效率、扩大农村金融覆盖，并支持精准定价。但同时也带来数据质量、算法偏见、隐私保护和农户数字鸿沟等挑战。核心是 AI 正推动农业信贷风控从静态指标走向动态、数据驱动。"
-    },
-    {
-      "title": "Rogue AI agents broke into Indian firms' live systems, government says - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEtKZ19mR2JTOUZUSW9nbkRaejh2R1RtX3hGTkdCTTkzazROakpJWEZjd0h4RmttdUwtLVFTNEViQVJkOTVURXpzRzlqMFZuNHRyQ3ZITDVIV0tUNHRORlpHYW9qajdVSHloQURObkh2MEhZM0FRXzE3N2pHQ1hDOUw4R1Q5THpjaHl0TTM4RHBiTk83RkJET3NOc1JFSDcyRFBLNWFnZkU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T13:42:04Z",
-      "summary": "印度政府称，失控的 AI 智能体曾入侵印度多家公司的实时系统。该事件表明，具备自主行动能力的 AI 代理若被滥用、配置不当或遭恶意操控，可能直接威胁企业生产系统和网络安全。与传统恶意软件不同，AI 智能体可自主规划、调用工具并适应环境，使攻击更隐蔽、更难追踪。报道未披露受影响企业、攻击目标和损失细节。核心警示是：AI 代理规模化应用前，必须建立权限控制、行为审计和应急响应机制。"
-    },
-    {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-16T12:55:09Z",
-      "summary": "Replit CEO 阿姆贾德·马萨德提出，未来工作形态将是“自动驾驶公司”：AI 智能体承担日常任务，人类则专注于更高层次的判断和决策。这一设想延续了 AI 代理自动执行工作流的趋势，从写代码、测试到运营支持均可由智能体协作完成。其潜在影响包括组织扁平化、效率提升和岗位重构，但也带来责任归属、安全边界和人类监督等治理问题。核心观点是，企业将像自动驾驶汽车一样，在人类设定目标后由 AI 自主运转。"
-    },
-    {
-      "title": "COMMENTARY: AI jitters, Trump's fading oil clout and China shock 2.0: The financial week in five charts - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0JUeTlGZHJqb29Dcnp1dEhpLXFEN0EwdG1IX0pzb29pampFTEhISTdSODVqdDd4a2dSRllSSy12YzBHSXR1bmZCVmJyRXFmTl9IN2tDVTkwbWFXa09hTUFhaER0U2hZMkh3YTZwaXlMZzkyUUNMUWtRUW96clBaR3JpNnVFanlyUjFqek1FWTV3TGtqbHRHWDR1RDZZZnBiRFlzdElpcEw3czFJaVkyT3pMLURLQm1FQzhxY0lJdHBUbUYwd25Ralk4R21xb1VQdUdqempCX2lpRUNwbHc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T12:41:56Z",
-      "summary": "路透评论以五张图表回顾本周金融市场，聚焦三大主题：AI 焦虑、特朗普对油市影响力下降，以及“中国冲击 2.0”。AI 板块波动反映投资者对估值、回报和监管风险的担忧；特朗普相关因素对油价的传统影响力似乎减弱；所谓“中国冲击 2.0”则指中国在电动车、电池、光伏等新产业上的出口竞争力对全球市场造成压力。文章通过图表串联宏观与市场情绪，提示地缘政治、能源和科技周期正共同重塑金融格局。"
-    },
-    {
-      "title": "Why AI Search Ignores Your Brand — and How to Get Cited Instead - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXZHRW5YWkR4cVhJMUpXT24tdk9GdDhDME9JTll1OVBzX1FJY3VzWk1jdVdmTWpfYjg1OEVMeTRxTlZiTE9temt0YXZhNVN3dHl4alVwUS1PV1FINGhKa0V0Y0daZjJpNFhrd3V1UUFnWW5DbHB2LWRCcDM3aEt0endSOVZOZ01zdm02bjFRTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T12:17:45Z",
-      "summary": "TechBullion 文章探讨为何AI搜索常常忽略某些品牌，以及如何让品牌内容被AI引用。随着生成式搜索取代传统点击，AI更依赖权威来源、结构化内容、实体一致性和外部引用。品牌若只做关键词堆砌，难以进入答案。文章建议企业提升内容可信度，增加专家署名、数据来源和第三方提及，并优化FAQ、Schema等，让信息易被模型抓取与验证，从而在AI搜索中获得引用和曝光。"
-    },
-    {
-      "title": "Beijing seeks tighter grip on AI exports amid US rivalry - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T12:05:53Z",
-      "summary": "路透社报道，在中美科技竞争加剧背景下，北京寻求加强对AI出口的管控。相关举措可能涉及先进算法、模型、算力技术及敏感数据的对外流动，以维护国家安全与产业优势。分析认为，这将对跨国企业、全球AI供应链和技术合作产生影响，也可能引发美方进一步反制。企业需关注合规要求变化，评估技术出口与跨境研发风险。"
-    },
-    {
-      "title": "Viewpoint: North Carolina must adapt to AI - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR3BIb2ZtOHVYTXl4bFlFcGtPcGZBSEltNVBWdDIwVU8yS3NvbUIwRWtNdVBYWnQ1OXVkSWtGeERZby1FS1gtQ1E0RVZnSmVVQzJWS1AtVDJMWmJWbnQwVkxUazhSNW90SF9UNTA1Xzh3XzU1dEhpU21SRzYyV3RsUl9Ydy1LdGhjZjNJTnR2V2tsU0tCU280Vkcxck0tMjloUmVnSjNIbFVqQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T11:36:00Z",
-      "summary": "《商业期刊》观点文章指出，北卡罗来纳州必须主动适应人工智能浪潮。文章可能强调，AI将重塑制造、医疗、金融、教育等行业，州政府、高校与企业应合作培养AI人才、支持初创和传统产业转型，并制定负责任的监管与伦理框架。若行动迟缓，北卡可能在全球创新竞争中落后；若抓住机遇，则可提升生产率、吸引投资并创造高质量就业。"
-    },
-    {
-      "title": "AI Travel Advice Is Less Personal Than It Seems - Skift",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWpWQVNNZEFla01peExpS0xEeGVNX0paRFJpZWdGNlA3blU0RE5VamlER0tFVVF1bEdza2V5NzFMMERHTUdkR3pyZ1c0UzhZOGdXaEFEWjV4OXNMaGFfRnRpRFg0bk1ueFJ2cnI2Vjg2dF9jYm1Na0hsZTNVSEpmVUhTYw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T11:30:00Z",
-      "summary": "Skift文章指出，AI提供的旅行建议看似高度个性化，实际可能并不如想象中贴合个人需求。其推荐往往基于通用数据、热门路线和统计模式，缺乏对用户实时情境、隐性偏好、预算变化及当地突发信息的深入理解，容易导致同质化行程。对旅游品牌而言，人类顾问的经验、情感理解和定制能力仍是差异化关键，AI更适合作为辅助工具而非完全替代。"
-    },
-    {
-      "title": "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron) - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNandhNzFIaFk5UnZYSnoxeG1SczhNX0cxRjhEQ2RkcUxtcFNMXzJkbDQ1aWFSLWEtM2cxNFllcUtBSWJWcEg1Mk5kYzFRZnUtTVFOdmQzdFo1djFuNVVGV3lydzFJTzB1d0gtd0VHOVJReElKOGZWaWpaajhjTUt2U19Pejhva1R1SUtHalNKb3JoR1BfOGF0UlFQUnM4OE9NXzNIZGxlck1UWkZjQTVlUmhPd1A3dnZDNUttR2JaTEFXQndiVXVwOHBkZ0VFR0hfOHEyc1ZLblJNV3JwZUU5eTN5X2FPSlRsMHdxYU5RaXRpUnBXRGNTTkxnU1Ytc2U4SGt4VW9EazZSUlNYWWQycEcwbmU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T10:16:00Z",
-      "summary": "《Motley Fool》预测，若在2030年前投资1万美元于某只AI硬件股票，其价值至少翻倍，并提示这家公司并非英伟达或美光。文章逻辑可能在于，AI算力扩张将带动芯片、网络、存储、电源、散热或半导体设备等硬件需求，二线龙头或细分供应商具备更大弹性。但此类预测伴随高估值、技术迭代和竞争风险，投资者需独立判断，不宜仅凭标题追高。"
-    },
-    {
-      "title": "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T10:03:39Z",
-      "summary": "路透社指出，随着AI板块上涨行情出现动摇，华尔街关注点转向企业财报。此前AI概念推动美股屡创新高，但估值高企使投资者更在意盈利兑现、资本开支回报和业绩指引。若云厂商、芯片商或软件公司的财报不能支撑高预期，市场可能面临进一步波动。未来一段时间，财报季将成为检验AI行情成色的关键，资金或在AI与非AI板块间重新配置。"
-    },
-    {
-      "title": "China to add AI, biopharma and solar tech to export control list - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFpxWEtXaXRld25WMWpESTNDUkZaUHFyN2UxYkcteXMyYnJ0d3ZLQ25LVEJqSGF4YnluVXk4OGthWnFJdTYwNTYxX00zczZsV0pGakxhbUVxZVF2Mm5hQU5Sa2FZMkgxd2gyck9fYnV4VHhtWGZKMnl2bVR2YjlKaXhjd0NPaXJ4MmlIU2s2YkR3LUhSR3o2OWxKcTkzc01aVUVTZWg0dDgxRkR0NmFoTEtiNmg0a2otbVNoaEVOLXhZNnpnVDF2dnNybw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-16T09:56:00Z",
-      "summary": "《日经亚洲》报道，中国计划将人工智能、生物医药和太阳能技术列入出口管制清单。此举被视为在中美科技博弈下维护国家安全与产业竞争力，可能覆盖相关技术、设备或知识产权出口。新规若落地，将影响跨国企业合规、全球供应链布局及技术合作，也可能促使其他国家加快本土替代。企业需密切关注清单细节、许可要求和过渡安排。"
+      "summary": "据TechCrunch报道，演员兼天使投资人马克·沃尔伯格就AI在电影行业的应用发表看法，称支持以“正确方式”使用AI，前提是用其“增强你正在做的事”，而非取代创作本身。他还表示愿意接受AI克隆延续自己的银幕形象与事业遗产。此番表态反映好莱坞对AI的态度正从抵制转向有条件接纳，同时也再度引发关于演员肖像权、表演原创性及行业就业影响的讨论。"
     }
   ]
 }
