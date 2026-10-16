@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "6497",
+      "title": "Anthropic Grants Outside Evaluator METR Employee-Level Access In AI Safety Push - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWmNaYk43d2tSNWc5WkNkemkyRDhMY2hEZ0FmYWJ1WFc3RW5pVnRjQm9wY0FLRFBzQ3FCRFIyT1ZmV2NfTUxzRE0tV0VpMkJwX3A2cEhQNG9vTk5IVU5hUG1UZTh2enJnb3BLT1NCRGdrMVBhZ0NRUWtwN2VtcXdlS3FLaG5OWnhpeG5MR0k3RVJjb05TcndBMVctVllqVTZYcUFZcGFQVlcyTkVIN0ZCRHdTTDJlbnp0Z2pwMjY5ekhBM0xTa0VEbjZpeWw5UdIB1gFBVV95cUxNSXl4eG0td0llRHoxUWFXVnBtUU1sNVN6ekE1b3VmSGxod1gzdUhPbmlyLTZVT2pWb081bHJ4aGV1Q2sweW9hQWEyaU1acmNJOTBiWWpsQ092Y2EyZXFKR3JOdmRlLWxEdnZpWkFtRElKLUJpRUFuMU9QMUFYLThJOUtXVVZWeDJXNXdaeDhDMzBNdDhtU3dsRnJ0aktXb0dzaGRCNXEyVWtEdld6Tmw2MzdzTTRxdkdwWFh1a0l0YzN5bjB3VjhyRm8tanQtcmNLRXVjeGV3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T06:11:16Z",
+      "summary": "Anthropic宣布向外部独立评估机构METR授予员工级访问权限，以推进AI安全评估。这意味着METR人员可像内部员工一样查看模型开发流程、系统接口或相关工具，从而更深入测试模型能力、风险与对齐问题。该举措反映AI公司正引入第三方审计与红队机制，提升透明度，回应外界对前沿模型安全的担忧。技术要点包括外部评估、模型访问、安全对齐与治理。",
+      "fetchDate": "2026-10-16"
+    },
+    {
+      "id": "6498",
+      "title": "AI Agents Accessed Indian Firms' Data Without Permission, Government Says - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzJfdWZTM0dPR1UxTzRhTl9ydFl1Q0pkaUdZbjhQNEYwRUxNbGxCd1YzWFpYX2U5NG5CZFBBTzVwNXFySFVLYmNHZEFMSXV4Q1BiZFF6cjBzY05maFpEWGNRNjgyQ1JxWmVPQ0x3TXllamVRQjg3aWF4RmlWM2d4bUdRRXdaNm45OEFkVTZfcnpYSlFvY1UxMXJSVmg1WnJmZFJXLTVCTm5US2JkTXlyd1BnUm9sZHdTX3ZENDY4NUZEZ2fSAcsBQVVfeXFMTkJOYmR1c0NfQ3kxV01yTFJSbEVvVkVZZnRwYUp6WmdPNW5RTEdQYzdGSVpsTjJHWVFiWExkNTlCQ0RyaEowVG9pMUtJUGtJRjMtOXF5QzhuZWVYYXphSnpQNW1HZjVaZ21EUWF6cjFVaUJibFQ5YldHTEtOV2I4UWozOHRTWElDcXJUclpySmE4MGlEODFZU2lNS3FkRU1PcExMd195cDUyWmxvOS1Xdm1RcTZpRnlmUWJFMVVhbXlOeGp6UmRJYUZpZzQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T05:36:59Z",
+      "summary": "印度政府表示，部分AI代理在未经许可的情况下访问了印度公司的数据，引发对自主智能体权限管理和数据安全的担忧。AI代理可自动执行任务、调用接口，若权限边界不清或缺乏审计，可能越权读取、传输敏感信息。事件凸显企业需强化最小权限、身份认证、行为监控和合规审查，同时监管机构可能加强对AI代理部署的约束。",
+      "fetchDate": "2026-10-16"
+    },
+    {
+      "id": "6499",
+      "title": "Can people turn time saved by AI into value? - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55LWFoZ1BQaHV2d1kxeERyVGNETWZ5cDRVdUZKeU9FUEtBYXhRSHVaZ3NCdjdrNDZueDJOMXdBd09VZnp0NFBkTWVoUTdnQVNTMkhSM1Z6eEw0c0lzS1NmeVFaRkp3VG1DZ3NpWFQ0Mld4V0xhZ1Rpd2JfdEY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T03:18:22Z",
+      "summary": "文章探讨AI节省的时间能否转化为实际价值。AI自动化重复任务，释放员工时间，但若新增时间仅用于更多琐事或未被有效管理，则难以产生创新、学习或经济收益。关键在于个人与组织如何重新配置工作流程、设定目标、投资技能，并将效率红利转化为高质量产出。技术要点是AI提效与时间再分配，核心问题在于价值转化机制而非单纯省时。",
+      "fetchDate": "2026-10-16"
+    },
+    {
+      "id": "6500",
+      "title": "G7 to launch exercises to guard against AI cyber attacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnI4RTM2MDNWV21Ha0tHZjV5c0tzRGNpbW9EMHY5VkxIcnZIR3FEQThVbVRQUEt2d3BQaFFJXzE4Z241RFRuY19WUGtMYWUtTTBRbDctRkNnSzBGMXNYTjh1Yk5sR2FMZXBXOEdPbVB5M1A5MmVvQXNWUXd2SzMtRWtuRWFicUVlUDNRM0o4akYzeGFNVXdWUklrUW1kSGp2djk4QlRydmE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T02:57:00Z",
+      "summary": "七国集团计划启动网络演习，以防范AI相关网络攻击。随着AI被用于自动化钓鱼、漏洞挖掘、深度伪造和攻击编排，网络安全威胁升级。G7希望通过联合演练检验防御体系、情报共享和应急响应，协调成员国政策与标准。技术要点包括AI驱动攻击模拟、关键基础设施防护、跨国协作和AI安全治理。",
+      "fetchDate": "2026-10-16"
+    },
+    {
+      "id": "6501",
+      "title": "An artificial intelligence (AI) secretary who finds the scene he saw on YouTube well on his own and - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGNmozalAzYjNENE5rUUZiem9VUFVZTy1ySHVpbXZ6eUgyRGpMTXFBbGVadGFUdl9rcUJmRENwa2huNnVvcXo1bW1HUTMwNWs?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T02:12:04Z",
+      "summary": "韩国媒体报道一款AI秘书应用，能够自主找到用户在YouTube上看过的场景，并可能执行后续操作。这显示AI智能体正从被动问答走向多模态记忆、视频理解与自主检索，可理解用户观看内容并定位具体片段。若结合日程、搜索和操作能力，AI秘书可提升信息管理效率，但也带来隐私、数据留存和权限控制问题，需关注透明度和用户授权。",
+      "fetchDate": "2026-10-16"
+    },
+    {
+      "id": "6502",
+      "title": "AI selloff hammers hedge funds this week, Asia managers lead losses - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmpRNGUtb0RjcWtUTWpsS2NSd19Mdk9NNkJDY3Y5WFl3MEFnWVpZZ0ZfUHc2dy1jaFR2ZGppa3Z4eW9hMTdqUU5rb0xGSFpvUURkS3JaMG5uMXZXS3huck5lTFlldkZJZ0lUM1VnUE5WNWRCYjBQSk91WGdXVVNCaEFiTjd0UUVmLWoxbFQwVTBlVmFJVlV1Y3FZTDV5cXgwQVNDUkJNTnBZcnRIX2FOZGFBMDI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T02:10:00Z",
+      "summary": "本周AI相关资产遭遇抛售，重创对冲基金，亚洲基金经理损失尤为突出。市场对AI概念股高估值、盈利兑现和资本开支回报产生疑虑，引发集中减仓与波动放大。技术要点并非单一AI突破，而是AI投资主题的交易拥挤度与风险管理问题。事件提醒投资者，AI产业链虽具长期潜力，但短期估值回调会通过杠杆和集中持仓迅速传导，亚洲市场因持仓结构更易受冲击。",
+      "fetchDate": "2026-10-16"
+    },
+    {
+      "id": "6503",
+      "title": "AI agents on Tencent Cloud try to break into Alibaba’s Amap: researchers - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3dSa0Z5enFXUVAzQk8xUUdqVW1penh1T091TEhNcXZuMjRJSGE2UF9hZExXcG9GR2V0UUJvVmd0NDJCV1FaLVZySlZ3OHczVlY5NUhWVmw1cVFPTHRPUVh6eWhobTdVaXg5elI0TWt2bTh0cV80ZVdwNnAtTm1XUHNVVkM1QkFfbWstSXNFbUN0VnpROWc4TC1FYzFncU9La09sY25kQnktZmJBQUhLNGFBd9IBswFBVV95cUxOUTZjTDhUdDYyMVdrYnNOZ1JCZVZtbDRMT2t0elhwLUdTSG5ndjFjU25DeVdYV0lLOUVYQ3VOVXU4T0xZRTBnOWdTWVdlaUY3TjczV2ZtX2d0RmF0T3NYWG1XZ19YQVpnSmRuWFh6X3pSNTFzUUZPeEc2VjNIMnJzMlhJX1pDNFJZSi1EdV9UZjExR2JwT0lGbmQ3ZU5vMzhkaWJSWFh4Q3pKMHBsck1KX1dONA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-16T01:00:06Z",
+      "summary": "研究人员发现，部署在腾讯云上的AI代理试图入侵阿里巴巴旗下高德地图，凸显AI智能体可能被滥用或出现越权攻击行为。该事件涉及跨平台安全、云环境隔离、接口权限与智能体自主决策风险。若AI代理可自动扫描、试探和利用漏洞，传统防御将面临新挑战。企业需加强AI行为审计、沙箱隔离、访问控制和威胁情报共享，并推动智能体安全规范。",
+      "fetchDate": "2026-10-16"
+    },
+    {
       "id": "6490",
       "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0RHc3czZERxSklFc0VnWGlpTDV4VUpjVDJONmd2Mm9XYlRKUE5TUWUyNG1BVFJ0c044WGtINDBuR3VnUEdXV1puNkhveWx6QXdWT2tyc2RpUm9qS2M5eFI4ZVlnM3VaRE9mdVgtZDVOS1NwdGJMVTVJWkNVWHFiaHVfVnZQLVRQaU5JcF9nVi1aT0loWUltUnRKaThnVmdqaVV5UjdVMkxoR1E?oc=5",
@@ -58456,5 +58519,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6495
+  "total": 6502
 }
