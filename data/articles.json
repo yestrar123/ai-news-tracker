@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "6607",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-18T16:30:00Z",
+      "summary": "迪士尼同意聘用Character.AI的大部分员工，相关文件称，获得迪士尼工作邀请的Character.AI员工中“绝大多数”已接受。不过，该交易属于“马桩出价”，即初始竞标方案，仍可能有其他公司提出更高报价，因此最终结果仍存在变数。此举显示迪士尼正以吸纳人才的方式加码AI角色互动相关布局，但交易仍受竞标程序影响。",
+      "fetchDate": "2026-10-18"
+    },
+    {
+      "id": "6608",
+      "title": "AI trade reversal pierces star stocks across Asia - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhQ3M3SG9uWmxnbFM2Ymw4UVlkcGVEaG1KT1QxbEdtSUEwOXd5aUZyWE5TRkxWZng5YTlmdjYwODRfTmxnZVZCVGQ1OUNhMlBRMDdlenN6Q3pfcktybkhrMDhTS0dmeHg0WHkzX0hNWWZCTWUyRnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-18T16:00:00Z",
+      "summary": "据台北时报报道，亚洲市场AI交易出现反转，此前受追捧的AI明星股遭到明显冲击，显示AI板块情绪由强转弱、资金流向发生变化。标题强调调整波及亚洲多地的龙头标的，反映AI概念股在高估值交易后面临回撤压力。报道未披露具体个股与跌幅，但事件表明投资者对AI行情的信心出现波动，后续需关注板块调整范围及市场风险偏好变化。",
+      "fetchDate": "2026-10-18"
+    },
+    {
       "id": "6603",
       "title": "AI Tool Identifies Genetic Stroke Risk - Ratopati",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMTkxRXlUNTRqdVg2dmhFZW9kTTQyMEpaMlZoNGRUWHpxN3NHY2JJejl6VXlERnlZakVXazJkajcwMmxKcVRhNW9nTUVPVF9SQnhDRmNHUU9pZ1lKRXY0Q2NZU0tUa1BSUUhJeEFPNnRNdGhyZjRiWXNGTGw3dllscl9QZkZsNTdHU2pTWllmNC1zeHVkY1VMMERKeGxxVGFjNTBrVUpR?oc=5",
@@ -59446,5 +59464,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6605
+  "total": 6607
 }
