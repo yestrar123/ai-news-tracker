@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "6594",
+      "title": "As the NPU market, a low-power artificial intelligence (AI) semiconductor, grows, leading Korean con.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPTmNuS1E5aDBMaUpzckFJaXp5Z2EyWXZFS0t6QTQteHcwVTlLQmQtczUyU2F6RkZBOUlGMWQ4emxRMXJBd1VvTTBLTmJTWG5NZ21r?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-18T00:20:15Z",
+      "summary": "随着低功耗人工智能半导体NPU市场持续扩大，韩国主要企业正加快相关布局，围绕边缘计算和高效能AI推理展开竞争。NPU以低功耗、专用化为特点，适合在终端设备上运行AI任务，市场增长也带动芯片设计、制造与应用生态的投入。报道关注韩国厂商在这一新兴赛道中的机会与竞争态势。",
+      "fetchDate": "2026-10-18"
+    },
+    {
+      "id": "6595",
+      "title": "AI Could Reshape White-Collar Employment by 2030—and Wages May Be the Bigger Risk - CEOWORLD magazine",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXlvX1ozVFdyZHV0UWhDNE9YTkFFUWtaOGhpQm9ubENtYVJsTzY0VnBGRi1XWkppUm5XbGM0NVNjRngyVzlUdF82M1FTVkFVbENiR3NlTDJOQ1dzd2xKVUUzSDZlcXJjSU1oZjgwN0oxeVdJOWs5aGxRYXBhV2V4QUN6d3VCYjZLcEU0Qjk3YUw4ak50ZzBBTXFFR0dNT20tcENzR2lJUFQwamw3eEhpYTJLSUU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-17T22:30:58Z",
+      "summary": "有分析认为，到2030年人工智能可能重塑白领就业结构，自动化将改变部分岗位的任务构成和用工需求。相比岗位数量变化，工资压力可能是更大的风险：AI提升效率后，部分技能溢价下降，企业可能调整薪酬和招聘标准。文章呼吁关注劳动力市场分化、技能再培训和政策应对。",
+      "fetchDate": "2026-10-18"
+    },
+    {
+      "id": "6596",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-17T21:31:32Z",
+      "summary": "Meta删除了其服务条款中曾引发网页抓取和AI训练担忧的表述。Meta发言人强调，条款更新并不代表公司抓取网页的方式发生变化。此事反映出在生成式AI快速发展背景下，平台数据使用政策、内容抓取边界和AI训练合规性正受到外界高度关注，科技公司对相关条款的调整也更易引发争议。",
+      "fetchDate": "2026-10-18"
+    },
+    {
+      "id": "6597",
+      "title": "How artificial intelligence is helping the lobster industry - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODl4dGcxaFZwTEZfSFpwQ0dxUUo3OVRsTFhVS1J6RHViWUpDWkdFa0gtb19ib1VhT2wtREtZd1NGV3J5SDlXdGNfNXV1UnNJRHFoNUxsd0NXYlVjSm8xNEVWVnR1YUtNWVd3cmNnak0wZWF6LVV0aFVOLUFPU3VJRDNyb2VxZFByekxaS3ZYbW8ycHU2cW44dkViTTlMVUc1?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-17T21:22:29Z",
+      "summary": "澳大利亚广播公司报道，人工智能正被用于帮助龙虾产业提升生产与管理效率。尽管原文细节有限，可概括为AI技术正进入渔业场景，可能用于资源监测、捕捞管理、供应链优化或质量分级等环节。此类应用显示AI正从通用办公和互联网服务向传统农业与海产品行业渗透，助力行业数字化和可持续运营。",
+      "fetchDate": "2026-10-18"
+    },
+    {
+      "id": "6598",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-17T20:21:19Z",
+      "summary": "Anthropic表示，过去一年其员工结构和工作方式发生显著变化：团队中初级员工占比下降，员工花在会议上的时间增多。这反映出AI公司在快速扩张和业务复杂化过程中，对经验型人才的需求上升，同时组织协作成本增加。该变化也引发对AI企业效率、管理层级和人才培养路径的关注。",
+      "fetchDate": "2026-10-18"
+    },
+    {
       "id": "6578",
       "title": "Replit is no longer working with Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -59329,5 +59374,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6592
+  "total": 6597
 }
