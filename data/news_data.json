@@ -1,181 +1,153 @@
 {
-  "updatedAt": "2026-10-19 17:54:58 UTC",
-  "totalArticles": 25,
+  "updatedAt": "2026-10-19 21:49:51 UTC",
+  "totalArticles": 21,
   "articles": [
+    {
+      "title": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T21:30:28Z",
+      "summary": "路透社独家报道披露，一名黑客仅花费数千美元、借助AI代理工具，就成功入侵了数十个网站。该案例显示，AI代理可自动完成漏洞探测与攻击利用，大幅降低了网络攻击的技术门槛与成本，使规模化、低成本的黑客攻击成为现实，为企业与平台的安全防护敲响警钟。"
+    },
+    {
+      "title": "As AI dominates conversations, here are key terms to know - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUTNoVmZ5aXdxUlRxa3otUWZzaEg0NTdfSndITmJNTVZsY2pvdEtBcGFielBGSUdHTzhmUzFXMHRmYjNQaWc4a1kyT0JfclZ5WlU3bGtBOFdqSTJwdnA4TjgyQmJUMkRMVFNRSXhuT1BfSW85Z1d0VUFlSjlHaDA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T20:53:44Z",
+      "summary": "随着AI成为社会热议话题，CBS News梳理并介绍了理解AI所需的关键术语，涵盖机器学习、大语言模型、生成式AI等基础概念。该科普内容旨在帮助公众准确理解AI相关词汇，提升媒体与大众的AI素养，避免在讨论中被模糊或夸大的表述误导。"
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T20:09:24Z",
+      "summary": "亚马逊发布全新开发工具TorchNeuron，被视为迄今对英伟达最有力的一次挑战。PyTorch是构建大多数AI应用的主流免费工具包，亚马逊希望借此打破英伟达对该生态的掌控，引导更多开发者将AI应用迁移到自研芯片等替代硬件上运行，从而削弱英伟达在AI算力市场的主导地位。"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: Oxford summit rings the alarm on corporate AI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkRrNV8yV3ZZWGZNVHlFNnBaSkotODhadDNNRi1FVmFQajVrOHNVWGJEUUNfbTZzWTF2djNyMkdoVEwzdEJYQUJabktlRTJLY2RtOWlvZ1dNR25mNEhSWkN4c242RjNYTTVjTHNITjdiU2xlTzlQWEhIZWFZOG1NdC16NFhoVjNmNF93UzI0MkZKT3c5Zy1pQ1hxbGhDamRp?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T19:42:22Z",
+      "summary": "路透社Breakingviews评论指出，牛津峰会聚焦企业AI应用风险，向企业界发出警示。随着AI在企业中加速落地，治理机制、合规要求与潜在风险成为关注焦点。峰会呼吁企业审慎评估AI部署带来的挑战，在追求效率的同时建立相应的风险管控与责任体系。"
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T19:28:34Z",
+      "summary": "开源AI编程代理OpenCode遭黑客攻击，其部分在线平台被入侵，部分用户的API密钥被盗，导致用户AI账户产生额外费用。值得关注的是，该工具在处置过程中求助的AI模型拒绝查看恶意代码，暴露出AI编程工具在安全防护、密钥管理和应急响应机制上的明显不足。"
+    },
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T19:00:12Z",
+      "summary": "AI陪伴应用Tolan在活跃用户突破25万后再获3000万美元融资。该产品以AI伙伴的形式，帮助用户应对日常生活、梳理目标与情绪。本轮融资将用于扩大用户规模、完善产品能力，也反映出AI陪伴类应用在资本市场的持续热度与商业化潜力。"
+    },
+    {
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T18:49:04Z",
+      "summary": "Replika创始人Eugenia Kuyda推出新创公司Wabi，将她12年前在TechCrunch Disrupt大会上提出的个人AI助手构想真正落地。Wabi提供免费、可下载的个人AI助手，以差异化定位切入市场，体现了创始人十余年AI助手愿景的延续，也显示个人AI助理赛道竞争日趋激烈。"
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T18:37:27Z",
+      "summary": "英伟达挑战者Tenstorrent完成15亿美元融资，估值达到62亿美元，并表示将保持独立运营，加速开放权重AI芯片的规模化。该公司此前曾引发收购兴趣，此轮融资为其在AI芯片赛道与英伟达展开竞争提供了充足资金，也反映出资本对开放芯片路线的看好。"
+    },
+    {
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUFg0N3NNbGhmNmp4THlOVFFSOFdudlVRSzEzc2lzQzNMZldMOUFSbHhtd1l0X3JqZF90dnpBSUh1TFBUTHdUUXRLTlF0SThVN3huUFhJX0swMnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T18:21:54Z",
+      "summary": "在中美科技紧张持续升温的背景下，美国宣布禁止政府机构使用中国AI公司DeepSeek的产品。此举反映出各国对AI数据安全、隐私与供应链风险的担忧，也表明地缘政治因素正深刻影响AI技术的采用与监管，全球AI产业的分化与合规壁垒可能进一步加剧。"
+    },
+    {
+      "title": "Modal says Nvidia’s Vera CPU doubles throughput for its AI sandboxes - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15cU81T2JQRTMxaUdIelV4WWkyWVBldWVpZlBZWEJHU0Q0aTNZcWp4UGNYN3ZGaVd5LUM0eDJiVDUxdjJyWkFFdHc1ajNoLXpQYUF0ZEVtcGxDZC1oemhfM09rQzlaUXJNSEE4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T18:11:54Z",
+      "summary": "Modal表示，英伟达Vera CPU使其AI沙箱的吞吐量提升一倍。该数据表明英伟达在CPU领域的新品能为云端AI开发环境带来显著性能增益，有助于提升沙箱环境的运行效率。这也显示AI基础设施厂商正围绕算力效率与开发体验展开激烈竞争。"
+    },
+    {
+      "title": "ESMO Welcomes Leonardo Brunetti as Its First Artificial Intelligence Fellow - Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDdWg0TF9zRUZHbzJ3dHdxMlJyOXVTNEFrdE5CMnpKeVlZdUs1WXZJUjN6UVdTNi0zN2xhZkFKOTAzdEJtX0NnQno2NXJ5c2J2?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T18:09:14Z",
+      "summary": "欧洲肿瘤内科学会（ESMO）宣布莱昂纳多·布鲁内蒂成为其首位人工智能研究员，显示肿瘤学领域正加快培养AI交叉人才，并推动人工智能在临床研究、诊疗决策和转化医学中的应用。该任命也释放出专业学会拥抱AI技术、探索规范化临床落地的信号。"
+    },
     {
       "title": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVlRrRG5kWFc5dVFtSnNTaUZlcHR6akY5X09MLVR2RzZuQVJKNGVsS0VTSy1PenpGSklSZjk0cnF0M3dwUy1EZm5CbkRqSWJodEtIZHNoTHlYR2h0Qy1IakRmQjlHOVVkajBBM3NyVzRLZFdtcHhRSDR3VUNHQ3RYQjV4OTN4eFlOdGJzN1ZuaUVqMVFNeXRyVlBHZW1ieEtHWHVybmdPbkxQRksxNEVmcnlhTGZhaVpzUk9z?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-19T17:24:46Z",
-      "summary": "《Motley Fool》对比C3.ai与SentinelOne，评估哪家公司更值得作为2026年的人工智能投资标的。C3.ai聚焦企业级AI应用软件，SentinelOne则以AI驱动的网络安全和端点保护见长。文章预计从增长前景、盈利能力、估值水平、客户拓展和行业竞争等维度比较两家公司，帮助投资者判断谁更能受益于企业AI支出扩张。"
+      "summary": "《Motley Fool》对C3.ai与SentinelOne两只AI相关股票进行2026年投资前景对比，重点考察商业模式、增长动能、盈利路径、估值水平与风险因素。文章旨在帮助投资者判断哪家公司更能受益于企业级AI需求扩张，而非简单给出股价预测。"
     },
     {
       "title": "US bans Chinese AI DeepSeek from civilian government agency IT systems - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPY2wtZEtneWRXYWY4dFJxcVI0Wmo2UThmZUY2cWQ2dVpydGtTY1BJOEtjTHRIcHY4bTdXOVB4ZFdCYlRndUFaV2VWS0R2Z09tM183U1JUanNJSTNTZ3hPd0Z3UEdLQmc0dU14NlRWOHBWVjFBeExkMHhGeEhZMmR3YWRwTUVUMTEtWDhheFdlVGNBVmNYRGZYQUVkMHo1UlpUeGM0RlpEbFJaYzJoeDlkeXJKZTY1Z2d3UGdBQ2xkVFhuenhMYVhzTmpCbTdLaVk1WGNzNTVyWHdSTkl5OFk2UHRXTzV2SVZwR2FzYl94M1PSAfYBQVVfeXFMTmp0dFdGMWhSd0dBZXRON0tzMjNqUC04a3F0M1dKZ0w3TXZFbTVzdDR5dkFseXhHalMtVkM3MjFqVDVsZU1lUmNYa1cxQkdNWkR0Uy1qU3BQLTVNZHU0QnBYSHZreVNqQW1FeHBvcm0tRmQtN0lqVVFnd2hLQnMwOHZaa1RTTlRmVDFzd0ZacFBnZUVOMlNKMVN2c1BfdFlhZnEyWUhEdGRiYVpKZy1wQmVMNHlSM0VjRVNPeFhXZGNjN1NYUjZHX2hxNHV6aXdLbWdWanFtb1k0dHptOUllYzcyV0F2T20taVh5R2prXy1kZGtoaVdB?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-19T16:59:43Z",
-      "summary": "据《Business Standard》报道，美国已禁止中国人工智能公司DeepSeek进入民用政府机构的IT系统。此举反映美国政府对政府场景中使用中国AI模型的数据安全、隐私和供应链风险保持高度警惕。该限制可能影响相关机构的技术采购与部署选择，也显示AI模型正被纳入更严格的国家安全与政府IT审查框架。"
+      "summary": "美国禁止中国人工智能模型DeepSeek进入民用政府机构IT系统，主要出于数据安全、供应链和国家安全审查考虑。该措施将限制DeepSeek在美国联邦民用部门的采用，也反映中美AI技术竞争正从出口管制延伸至政府信息系统采购与使用环节。"
+    },
+    {
+      "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYko1ejBNd0luTGpNVV9CcXVGNFBndDFROVFxRHFSQ0Q0VzM5SG5JTENNMHFzY1l3eVVvdVFMTHRWQjR0NkVoRHRHVk9pU2RlU1RMNlVHQURuaW5WUlZUaTFtZTJoTEVEUUk5N3hGZ2t3c3ItTzl0dklta2h1VG4xM2tPVXh2cTNGSU91bHFoMjZFUUtRZzUxUXRYQTNyQ19VNzQ4cQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T16:53:00Z",
+      "summary": "《卫报》报道称，美国青少年仍可通过应用商店获取“脱衣”类AI应用，苹果和谷歌的家长控制未能有效阻断。报告揭示AI图像滥用与未成年人保护漏洞，呼吁平台加强年龄验证、应用审核和内容治理，防范深度伪造与性化图像伤害。"
     },
     {
       "title": "Illustration shows \"AI Artificial Intelligence\" words and keyboard - The Daily News | Texas' Oldest Newspaper",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUTdxa2x5SVZ6ZzZmdlN2c2N6WEh3ZXVxRW5mT0ZSUlpTdHJOMlJoY1N5dFhjLTdEU3VzRm9BendHMVpxeHhFMWhBQnhmYzdNdGVsNTcxUEtHOTdfRS1DMlVncXF3YjFXeXZDTVlBUHhIYlZuUGt2YVlxQzFHUVRSMmw5cVRja29MZTVTSHVRMzlPRTRwYWt4VVZxTXNLX1RiRUdTTmNLbHlvMndJWnYwTmFjZ2Iwd0hwaVFzZHExbjYtX3ZHTlZWZFJ3UnBLd1ZyLURBSF96WnRhcHRzRkh0VHZNei1NN0NVbERMeExIbjY?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-19T16:33:22Z",
-      "summary": "该条目是一则AI主题的新闻配图说明，图片展示“AI Artificial Intelligence”字样与键盘的组合，以视觉方式呈现人工智能与计算机输入、数字化办公之间的关联。除图片说明外，原文未提供具体事件、数据或技术细节，属于AI相关报道的通用视觉素材，通常用于专题版面或新闻配图。"
+      "summary": "该条目是一则以“AI Artificial Intelligence”文字和键盘为主题的插图新闻，未提供具体事件、产品或研究进展，主要作为人工智能概念的视觉呈现。它反映媒体在报道AI话题时常用键盘、文字等符号化元素，但读者无法从中获得可验证的技术或产业信息。"
+    },
+    {
+      "title": "How Deepgram optimized voice AI at scale with AWS Trainium - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbE80enFEZnV0TE5nemlxczczMnFzcUZUOXNyQ0RTRlNfbVhkaHF4RzI3UHVEWkt4RDRYdUZ4N1pMbmFxZlpFRWtHX0l6UEdLbWY1LVFYYVpBNF9MZHNMODFhX0cxU2dPVHZPWnN2QmdDTS1ZdFNHRlFHN1dlYUNWUVJGcDlpYUswdlRXb1JVTkNIQ1FRZDFBNV9QdjFHdzNYZFd3VFRjNXk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T16:23:22Z",
+      "summary": "Deepgram介绍其如何利用AWS Trainium专用芯片优化大规模语音AI，提升语音识别与生成模型的训练和推理效率，并改善成本结构。该案例显示，云厂商自研AI芯片正成为语音AI规模化部署的重要基础设施，也体现模型与硬件协同优化趋势。"
     },
     {
       "title": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0R4ajM1WGNGNnB0Sms4Uy1aWV8teXNzd0Z5YlllYzE1NlRvSm9oX01Ic1p2SmFDOE5mcmZtSEMtRmh4bU9xZGYyME5NMUdwdmY4cWIwWjU2RXMwUFVmek40YjVSd1E0dElQSmRpSVhNNkJaQndZRnZ4NzZqUWxNbmdxdE9vZTcyUXhKN2trMWVGejRXZldCcWVyTDRBWXJlMXFsRjVDMFZJSGR3N0xIMXVpenZfMHdvcjB4SzlSN3p0UQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-19T16:17:48Z",
-      "summary": "路透社报道，标普全球警告称，顶级超大规模云服务商的AI相关债务可能比目前公开披露的更多。随着数据中心、算力基础设施和AI资本开支快速扩张，相关融资安排可能更加复杂，部分债务或未完全体现在现有统计中。若债务透明度不足，市场可能低估这些企业的杠杆水平和信用风险。"
+      "summary": "标普全球警告称，主要超大规模云服务商可能持有比目前披露更多的AI相关债务，随着数据中心和算力投资激增，债务透明度与信用风险值得关注。该提示反映AI基础设施扩张背后的融资压力，可能影响科技巨头资产负债表与市场评估。"
     },
     {
       "title": "People are using AI to make their smart TVs dumb again",
       "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-19T16:13:22Z",
-      "summary": "TechCrunch报道，一些智能电视用户正反向利用AI代理来“去智能化”电视：通过AI工具识别并剥离预装软件、广告和追踪组件，简化卡顿的界面，从而重新掌控设备。这反映消费者对智能电视广告泛滥、隐私追踪和体验臃肿的不满，也显示AI代理正被用于系统清理、自动化配置和数字自主管理。"
+      "summary": "TechCrunch报道，一些智能电视用户因不满广告、追踪和卡顿界面，开始借助AI代理移除预装软件、精简系统并夺回设备控制权。这一现象反映消费者对智能设备“过度联网”的反感，也显示AI正被用于系统清理和隐私保护等反向用途。"
     },
     {
       "title": "How to Avoid AI Scams as Criminals Use Artificial Intelligence - AirGuide Business",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4ydHcxOEVJd3FXdE9kWF9WMi1oR2hDSUk0eHBha0xvVGhVRWdPaE5HcThLRzJCbzBIRFJpY0JSeDZiV3hvVkdfZ0drUzdBaUFNYVRNZHhuOA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-19T16:09:56Z",
-      "summary": "AirGuide Business刊文介绍如何防范AI诈骗。随着犯罪分子利用人工智能生成钓鱼邮件、深度伪造视频和语音克隆，冒充客服、领导或亲友实施诈骗，文章建议用户对紧急转账和敏感请求进行独立核实，保护个人生物特征与账户信息，启用多因素认证，并减少在公开渠道暴露语音、照片等可被滥用的素材。"
+      "summary": "AirGuide Business发布防AI诈骗指南，指出犯罪分子正利用人工智能实施钓鱼邮件、深度伪造、语音克隆等诈骗。文章建议用户加强身份核验、保护个人信息、警惕异常转账请求，并提升对AI生成内容的辨识能力；企业和个人均需建立多重验证与安全培训机制，以降低财产和隐私风险。"
     },
     {
       "title": "Researchers use artificial intelligence to design potential antiviral compounds - Phys.org",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUFljVXEtNWotXzF1SWdqbmRNdkxKd3piV1R6QzJCS0lLeGhOZlFNTW5RLXJQcDd2SWJHeXRoTXR6N2pKcC1Wc2VQd1VpSVpBc0ZrSE9SNkhvRVBrS2hYZ2FZSWo4cHJUbnE0cWpxYnJ1dGVmSWw5akpCVjNlZDFyVkcxRVdLRDdIVXFjM0lTUUtRZw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-19T16:00:06Z",
-      "summary": "Phys.org报道，研究人员利用人工智能设计潜在抗病毒化合物。AI可辅助生成、筛选和优化候选分子，在药物发现早期阶段加快对病毒靶点的探索，降低传统试错成本。该方法有望缩短抗病毒药物前期研发周期，但相关化合物仍需后续实验验证和临床前研究，距离实际药物上市仍有较长流程。"
+      "summary": "研究人员利用人工智能设计潜在抗病毒化合物，通过模型生成、筛选和优化候选分子，以缩短传统药物发现周期并降低试错成本。该方向有望加速抗病毒药物早期研发，为应对新发传染病和耐药病毒提供新的计算辅助路径，但仍需实验验证。"
     },
     {
       "title": "Recent Market Research on Businesses and Enterprise Artificial Intelligence (AI) by The Business Research Company - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWVpRMGtPWXhwRFpFdTlGN3ZsMGpqVlljMEYtYldjaFgzTzgtQktBMW1iamRIcVUzQW4yZ1N3aWJJQzhFZjNrckUyR3FwMVFlakc3SnZ4aUh0TklpelA4ZzZvRzBKVm9hLUJDdEExYnlkMnBDSzYyWkdrWWVpZVZDdzBPc1RJRG9IR3RHTUdtdTU3dXpVT01BYk9nSWNvdDVWU2oway1XcjYweEFubGFtVUppY0o2SXFjSy00X1BGb1pYSHFzV1FrdFFMZk1tTkY5V05zc2tFNU96TzVFdWtHNmtHamRDUGxX?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-19T16:00:00Z",
-      "summary": "EIN News推介The Business Research Company发布的企业人工智能市场研究。报告聚焦企业在业务运营中采用AI的市场规模、增长动力、行业应用和竞争格局，为企业和投资者提供市场参考。此类研究通常关注生成式AI、自动化、行业解决方案及企业数字化转型需求对AI支出的推动作用。"
-    },
-    {
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19T15:37:09Z",
-      "summary": "英伟达推出新的开放模型，用于在企业环境和PC上运行AI代理。公司正顺应企业希望在自有数据中心部署开放模型、掌握数据与模型控制权的需求，同时推动端侧私有AI代理落地。此举反映企业AI部署正从纯云端API转向本地化、私有化和混合模式，以兼顾隐私、成本与可控性。"
-    },
-    {
-      "title": "A Chinese hacker used AI agents to break into more than 100 company websites — Deere and SharkNinja among websites hit by open-source AI-powered problem-solving platform demo - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQWtnOE52WjhZZkQ4VTBSa1lWdVp3VDZTNmx1Rmo0NE5GVDNUS0ZnbUJCWGZKZEdkMU0wNzBBRFl0blYwZTdKSTJnS19WejR6OWxFd0NuRW1xWVVidndtcUl1SFIzaVpWZ2RwN1BhcFlOVkhaLVNRc3N3SzI0bExNeDl6VUFTLVpqRF9XRHA0a3V1aFE4UTVZQVFFdnNzTVE5WlNFcFhHMmRUd3hEeVpIMVVvMUlLeFdRbzZJWjl6cmVOTjlGVkV3OHJzaU02eFY5NTZwU29jMjN4SjBCYkxfYUJBSWpZUzN0T2tJWDhDczdmMjJnVHgwSm82cmdVcDdmZ2FmT2N6dzcwcmJBVGZrSGNzaHhRbHBPZ2Q2TTQ1dnVPejVlbmZOTjZQTVI0dmN6QUdKS3psYUlLMHZMWDRKTFZubmpHOVhsM2JFQ0tBLUx1SVNWTWJubllNNA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T15:36:50Z",
-      "summary": "Tom's Hardware报道，一名中国黑客利用AI代理和开源AI问题解决平台，入侵100多家公司网站，Deere和SharkNinja等网站受到影响。事件显示AI代理可被用于自动化探测漏洞、生成攻击路径和扩大入侵规模，降低网络攻击门槛。企业需加强暴露面管理、漏洞修复和AI滥用监测，防范代理型攻击。"
-    },
-    {
-      "title": "Not Nvidia. Not Micron. This Artificial Intelligence (AI) Chip Stock Has the Most Upside Through 2030. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0d2eFFKZlpsWTdhdUE4UkR6ZGpKS0pqTFZFelFhRU1XNTJZWXRzN0xjekZ4dXE2Rnp6Q0RZR0s4OHVhdVhjOV9Cb0VwYUQxWFRLamEyZ0xpQm9QWC0yR2tTVWk1TWVkY2wwQURNUGpQNmd4UFB6WThqY3hRRFhwOGZRTUVsNmVKdUxwaHk1MEdtN29SWnRTYg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T15:15:00Z",
-      "summary": "该文从投资视角指出，到2030年AI芯片板块中上行空间最大的并非英伟达或美光，而是另一家被看好的AI芯片公司。文章核心在于提示投资者关注AI算力需求长期扩张带来的结构性机会，而非只盯住当前龙头；但摘要未披露具体公司名称，因此重点可概括为：AI芯片投资逻辑正从单一GPU龙头向更广泛产业链扩散，长期需求可见度和估值弹性成为选股关键。"
-    },
-    {
-      "title": "Council for Science and Technology urges UK AI sovereignty plan - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWlRc01sYW1OOFNwcWU0V2xpNXdUU2JyU1Mwc19yRl9LOEpvWlcySFA3NHBSZV96OURQVFN0Y2JiTFVpY3NWdTBaOWo2UjBzMlJPTkxyWGVacnR4Si1JTEJvX0FZUVlwZVR5Z1prSFNCa3J3dDkxbm4yZTQyODk0cXhqTkhtNGhuMkFzSmJfOG9FZUhFcDQzY0l1cjZkakhvclZBTzFpZ2d6SEU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T15:14:38Z",
-      "summary": "英国科学技术委员会呼吁政府制定国家AI主权计划，以降低对海外模型、算力和关键技术的依赖，确保本国在AI基础设施、数据治理、安全监管和产业竞争力上的自主可控。该建议反映欧洲对AI战略自主的担忧升温：在生成式AI快速发展的背景下，英国希望把科研优势转化为政策与产业抓手，同时平衡开放合作与国家安全。"
-    },
-    {
-      "title": "Not Nvidia. Not Micron. This Artificial Intelligence (AI) Chip Stock Has the Most Upside Through 2030. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTjdHSXl2RmNZWlRCOTVnV2xLMV9DLWllNTA2TkZac1RiUDNvUmhqTy1iNnRaTXJRbUhrWWpTeDVyVlNIMHQtaU9GQ1FSZ3A3SUc4dWc3cXRrbGp3b2xPZkdRcXB4Y0x5ajVtUXRhc2xFVjI3dWZyZW9LR3RValJVNlVvUGV5cDdlYmdwNkdpaXRMSG1UNENlYl9xY2dQZWhiaTFiX3Uxb1BKU1NBc1lvSGtNSncwLTduMnV0TXJBREg2MVJfd09NUmN5TzNJMHp0NkluRkhFYzlXX0F6VnJzSlhzTlNKUHUwQzVKX29nSkktTDFRcDM5Q3FETjhnM2ZqNHVnbUg1VQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T14:51:26Z",
-      "summary": "《环球邮报》转载文章同样认为，到2030年最具上行空间的AI芯片股不是英伟达和美光，而是另一家受益于AI算力扩张的芯片企业。报道以长期需求为切入点，强调投资者应关注AI芯片产业链中尚未被充分定价的环节。由于未点名公司，核心信息是AI芯片投资机会并不局限于当前龙头，需从技术壁垒、客户黏性和产能布局评估长期潜力。"
-    },
-    {
-      "title": "Compliance Automation Using Artificial Intelligence (AI) Including Forecasts, Innovations, and Industry Insights - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMWxGNVkzRi1nWGNRVExfUFRvcFRIWHduaGRuNDlDQzZYdmExczF4Zm5IVWQ0UGhVWkFyMWthLXJhdnFvUHFVcFNXMFplOS0xYnJlQWpza0hkUmgzWVJjdWVLQzhUbnh4RkhYUEZLek9IY0hIemtmSzY0RDlzbExBM002dUJMaVYzMUFGc0hPSFBGMGMwaldfZUZlZThEM0NpX1Jab2dhZGo2c2RPeW9hVG5TS0xpSHRuSFlEcTlud3RGRmJXM3oxZzlTM3VCbkVxajFsUWhlRklWLW0waWVtci0wMVU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T14:15:00Z",
-      "summary": "该报道聚焦AI驱动的合规自动化市场，涵盖行业预测、技术创新和竞争洞察。核心趋势是金融机构和企业正利用AI提升反洗钱、监管报送、风险监测和审计等流程的效率与准确性，降低人工成本并增强合规响应速度。文章同时关注相关厂商的产品创新与市场机会，显示RegTech在AI赋能下正成为企业数字化治理的重要增长赛道。"
-    },
-    {
-      "title": "This Artificial Intelligence (AI) Stock Is Already Seeing Demand Stretching Into 2030 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORDhfdTBXR19MM2JFU2pXWGlIS1JmdXJaa2RrOXAzcmoxWUxmNmtkb2dHUDktOU5qV0ozWDN1cndMNHNCbHdJWEdmSTZmTE1RLTJFa2I4TktKVEdjM292N0MzTk5xUkV2NWtRNndkMkoxaDczUlNkTzBDWmRJb2stZUF2bTVOSlRwUU5sN2I2TEJxM1F0aTR6MnhVYXhST2NqN2ljcXdKaDdZRW93OFF1bDk2emR6TEZnVkUwMGlBMTJvbmtxdmtrb21ibGFtVW51ZzhqNk9LbkRCdWZ6YkVaeDVCXzV0b3ZEcEladzdiSnRSWGx4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T13:20:23Z",
-      "summary": "该文指出，一家AI公司已看到需求延续至2030年，显示AI相关订单和长期需求可见度较强。报道从投资角度强调，持续的需求能见度有助于支撑企业收入增长和估值预期，也反映AI基础设施、算力或相关服务仍处于扩张周期。由于未披露公司名称，核心信息可概括为：市场正关注那些能证明长期需求而非短期热度的AI标的。"
-    },
-    {
-      "title": "This Artificial Intelligence (AI) Stock Is Already Seeing Demand Stretching Into 2030 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZk1BY2tHZnFhVHhGTlRndkpYdXFoVWpERExzRl9TMVhlcDN6WkMzYXhabUEtM3FURkszS01IUEozUlNvb2dXTFNRX0xNTDBOU1FwcU1Ka0tmYzZQaEtqR3FWWVI3clRwMEY0N3pVTDBJWXYtdWwxREtjMkZrRndJeE1DZlF4UTRvX1FRbzU4QzJObUlDdE5MYllOQ3BrUU5RaVJnZHYwYi1SQXlqYTVVVzRLdVpzTWdsVjlCczZhb1JHdjA2?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T13:11:32Z",
-      "summary": "《Motley Fool》文章称，一家AI股票的需求已延伸至2030年，表明客户支出和产业需求具备较长周期。报道据此认为，长期订单能见度是评估AI公司成长性的关键指标，也有助于区分真实需求与阶段性炒作。虽然具体公司未在摘要中说明，但文章传递的投资逻辑是：AI产业链中拥有长期需求支撑的企业更可能穿越周期。"
-    },
-    {
-      "title": "Cracks are emerging in investment in artificial intelligence (AI) infrastructure, which has underpin.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ncXZIaFpicHh1MnBWWVVoY2kyUTJUa2JwSTRSM1c4dHRncWdBajVlekd2MzBfYmRiUlcwSjJNSkZsdTVBTk5MSVE3aHVPTk0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T13:05:04Z",
-      "summary": "韩国媒体报道称，支撑AI产业的基础设施投资开始出现裂痕，可能指数据中心、算力采购或相关资本开支的增速放缓与回报疑虑。文章提示，AI基础设施此前是推动行业扩张的重要基础，但若投资节奏放缓，可能影响芯片、服务器、云服务等环节。核心信息是市场需关注AI资本开支的可持续性，以及高投入背后能否形成足够商业回报。"
-    },
-    {
-      "title": "Artificial Intelligence (AI) in Materials Discovery Market is Expected to Experience Steady Growth with a 29.4% CAGR - EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRXU2ekNMZGFnbXhzOF95VUZ1emxGTGNJRjhMdm51TVhLdU94OTg0QXRYeUJudUtMU2FmbS13OWRSS2NHdU43UEo2b1RvNlZNY0d3dmprMzFiZGl6QmZSMGJhUU5kODdqV1JzY1BNeTB1emd5Z2tVUzd2Q1BrR1F4SVltZnhBWGFvXzFVV1lnOEJydFJaR255MHdlbVhmYm45ZDBmNVIyT01ORnNKdEVNX1ktWlNPbXZjZnFzdHgyUkozS1JLQUYyenY1VGZFWjViSkdBWXNIQWN1aTNaY0lkVFRzVndfTWNoT0J1QXVKbFhzZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T12:55:00Z",
-      "summary": "市场研究报告预计，AI在材料发现领域的应用将保持稳健增长，复合年增长率达29.4%。该领域利用机器学习、生成式模型和高通量计算加速新材料筛选、性能预测与实验设计，缩短研发周期并降低成本。报告涵盖市场预测、技术创新和行业洞察，显示AI正从通用工具走向材料科学研发核心环节，吸引化工、能源和先进制造企业布局。"
-    },
-    {
-      "title": "'I Don't Have To Be Nostra-dumbass to Know This Is Not Gonna End Well' - Ministry's Al Jourgensen Shares Concern Over the Future of Artificial Intelligence - Loudwire",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0ZzZFUtanliTVV5TUNWLU5aUjcxckgyTjUwT0lTQzUxUG9FOXpIZjZicFJ6d1RaUnZ0NXVRMktUS1hnMFF6VkVtZWttbThRb21haFpsNUlMcFcxVTJ3dWdGbkUtTS01RGprQXJ2dG9CZG1uYk1sOVV0NlduVW4yNkNTRWY2bE45Z0dNcVlBY3pFaklvbEFaVHZaTFJORXlVb2tSdUFtQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T12:37:41Z",
-      "summary": "音乐人Al Jourgensen公开表达对AI未来发展的担忧，称不必是“预言家”也能看出事情可能不会有好结果。报道以人物观点切入，反映艺术界对AI替代创作、版权归属、就业冲击和伦理风险的焦虑。核心信息是：随着生成式AI能力提升，社会对技术失控和人类创作价值的讨论正在升温，业界需要更明确的治理与责任框架。"
-    },
-    {
-      "title": "Microsoft, Nvidia push provenance checks as open-weight AI adoption accelerates - CSO Online",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWJ5cW1scWVFVS1tczZhTmtCS0JER21CcmFVOExwZ3lZRG9WaUFEYXhVSTlNd25zT25oUTdNSU5zWmJ1bEVJTVlrMnRXaG9BeVVSR3p5Ynhoc01IVnZ1dWl0VHVVUHlDcGktdmdNeFpFdkVGRVBzN09NVzh1QjNKV0J2cFhwMW82WW9VZWZqRllKVzJXQ1NzMmd6Uk04YVpObUd4SWs1dWJjeUoycVNmUVNkbHVPSVdPd0E0UWVZWjFDdkE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T12:35:55Z",
-      "summary": "随着开放权重AI模型采用加速，微软和英伟达推动来源溯源检查，以验证模型、数据集和AI生成内容的来源与完整性。报道关注开放模型普及带来的安全与合规挑战，如模型篡改、供应链风险和内容真实性。通过provenance机制，企业可提升AI系统的可审计性和信任度，反映行业正从追求能力转向兼顾安全、透明与治理。"
-    },
-    {
-      "title": "China's MiniMax launches updated AI model M3.1 Flash, claims major improvements - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU21KdExTcjNUellVV1E5dWlpbXZMR0dxb0NUdXNrN2pma29TRm5PcFBOMEZhS0hSOUVMNmdMZlNsUE9uTGxOYjFnTjIzVzZESmcxbnBYMHVMZjdNS1RvVkU3eHhZYUdlMmNORXdlR2l4ejVwQVVvdjVjTzZGQThwUmhZZ1JHSGNyUGlITjVabGdsTE9heHlnbjdvODlXSHk0Rk0yOEpxbW01dEg1THR3eFY2Sl8xRkUyVEFReC00SWFvVmx4NE5sejRSRQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T12:25:44Z",
-      "summary": "据路透社报道，中国AI公司MiniMax推出升级版模型M3.1 Flash，并称其在多项能力上有明显提升。报道未披露具体评测细节，但“Flash”命名通常指向更快推理与更高效率，显示MiniMax持续迭代轻量、高速模型，以在竞争激烈的中国大模型市场中强化产品供给。"
-    },
-    {
-      "title": "Artificial Intelligence (AI) in Crop Monitoring Market with Segment Analysis and Strategic Industry Insights - EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaF9WNHFXTmtLYU5VbVBXcmFfdlpJM1ZQRlc2X0pBY0o3QTdjQTc0U3BtaTZWN3c3SFczUDdLSG52S05YZS01V3ZGTkVIS092c3JacENmd25XamhvWkxQLVZYN1hWZnJ2dHVWWWZrazJzd2g0UUp4RjdWOVlWTDhMeWtyR2hFOFltYmhKdUtHSEZRNnp3WlJ2aUtPSGpucVBUWU1rU0I2ZFB1MzFrYXhQX0hmbVh0WjFlVWlzMWxzZS1uNTZJMGZmdDVhMFFZcTVFekpfQTdrODFrdlQ2LUV0Z05nR1Z2bzN1?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T12:23:00Z",
-      "summary": "EIN Presswire发布关于AI作物监测市场的分析，内容涵盖细分市场拆解与行业战略洞察。文章聚焦AI在作物长势、病虫害、产量预测等监测场景的应用，并梳理市场参与者、增长驱动与竞争格局，为农业科技企业和投资者提供参考。由于原文为市场研究摘要，未给出具体数据。"
-    },
-    {
-      "title": "Breakingviews - COMMENTARY: Oxford summit rings the alarm on corporate AI - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkRrNV8yV3ZZWGZNVHlFNnBaSkotODhadDNNRi1FVmFQajVrOHNVWGJEUUNfbTZzWTF2djNyMkdoVEwzdEJYQUJabktlRTJLY2RtOWlvZ1dNR25mNEhSWkN4c242RjNYTTVjTHNITjdiU2xlTzlQWEhIZWFZOG1NdC16NFhoVjNmNF93UzI0MkZKT3c5Zy1pQ1hxbGhDamRp?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T12:19:17Z",
-      "summary": "路透社Breakingviews评论称，牛津峰会就企业AI应用发出警示，强调企业在加速部署AI时需关注治理、风险与责任问题。文章认为，随着生成式AI深入业务流程，数据安全、合规、透明度和问责等挑战上升，企业应建立更完善的AI治理框架，避免盲目跟风带来运营与声誉风险。"
-    },
-    {
-      "title": "4 ways to tame shadow AI (hint: you need them all) - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2JRRE5JWmcwenRJOVI0U19HNldseFZ4UXA0MnhnTFByZEJfeGE1SGR1bktVQWw0ajJSTDNIWFRtSHFwQnBQaDA3bkVtVHJUT2FRWkJUbVFfUmllU1NVaEcxYy1rUHhyYW94Sk9qODQ2ZlBrY0lubmxQLTBsN1VzdWtlcGp2d3oxaXpXU3hhbEpUd3BzVUJ1QnVYdkMyZnI3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T12:01:01Z",
-      "summary": "Computerworld文章聚焦“影子AI”风险，即员工未经批准使用AI工具给企业带来的安全与合规挑战，并提出四种治理方式，强调需组合使用。核心思路包括提升AI使用可见性、制定明确政策、提供合规替代方案、加强培训与监控，以在鼓励创新和控制风险之间取得平衡。"
-    },
-    {
-      "title": "AI Stocks Face Earnings Gut Check As Spending Jitters Mount - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGVpajVNdGx2ano1UHBvN0RNS1NUekJHbzAxM2RWc1hKb1p0SDVXUzdJZGFOcVZHZXRGcWhzWWZMOFFfbGg5QXFCYnU5OUZtYU9PdEFycG1iNXNYU2VvOXltd0ZjN0VTV0VGdlVfZlNDbDM3V2twU2wzZzlNVklkbHV3S0Z2Ml9tdFJQSnUzQkw1Ry1OWnk2TXBpUDY4TmFubXlscw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T12:01:00Z",
-      "summary": "Investor's Business Daily报道称，随着市场对AI资本开支和投入回报的担忧升温，AI相关股票正面临财报季的关键检验。投资者将关注企业AI业务收入、利润率及支出计划能否支撑高估值；若业绩不及预期，板块可能承压，反映市场正从概念驱动转向对盈利兑现的审视。"
+      "summary": "据EIN News报道，The Business Research Company近期发布面向商业与企业人工智能（AI）的市场研究。该研究聚焦企业级AI应用与市场动态，可能涵盖市场规模、增长趋势、行业采用情况及竞争格局等核心信息，为企业评估AI部署与投资机会提供参考。原文公开摘要信息有限，具体数据与结论需查阅完整报告。"
     }
   ]
 }

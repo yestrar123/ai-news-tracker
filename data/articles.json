@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "6662",
+      "title": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T21:30:28Z",
+      "summary": "路透社独家报道披露，一名黑客仅花费数千美元、借助AI代理工具，就成功入侵了数十个网站。该案例显示，AI代理可自动完成漏洞探测与攻击利用，大幅降低了网络攻击的技术门槛与成本，使规模化、低成本的黑客攻击成为现实，为企业与平台的安全防护敲响警钟。",
+      "fetchDate": "2026-10-19"
+    },
+    {
+      "id": "6663",
+      "title": "As AI dominates conversations, here are key terms to know - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUTNoVmZ5aXdxUlRxa3otUWZzaEg0NTdfSndITmJNTVZsY2pvdEtBcGFielBGSUdHTzhmUzFXMHRmYjNQaWc4a1kyT0JfclZ5WlU3bGtBOFdqSTJwdnA4TjgyQmJUMkRMVFNRSXhuT1BfSW85Z1d0VUFlSjlHaDA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T20:53:44Z",
+      "summary": "随着AI成为社会热议话题，CBS News梳理并介绍了理解AI所需的关键术语，涵盖机器学习、大语言模型、生成式AI等基础概念。该科普内容旨在帮助公众准确理解AI相关词汇，提升媒体与大众的AI素养，避免在讨论中被模糊或夸大的表述误导。",
+      "fetchDate": "2026-10-19"
+    },
+    {
+      "id": "6664",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T20:09:24Z",
+      "summary": "亚马逊发布全新开发工具TorchNeuron，被视为迄今对英伟达最有力的一次挑战。PyTorch是构建大多数AI应用的主流免费工具包，亚马逊希望借此打破英伟达对该生态的掌控，引导更多开发者将AI应用迁移到自研芯片等替代硬件上运行，从而削弱英伟达在AI算力市场的主导地位。",
+      "fetchDate": "2026-10-19"
+    },
+    {
+      "id": "6665",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T19:28:34Z",
+      "summary": "开源AI编程代理OpenCode遭黑客攻击，其部分在线平台被入侵，部分用户的API密钥被盗，导致用户AI账户产生额外费用。值得关注的是，该工具在处置过程中求助的AI模型拒绝查看恶意代码，暴露出AI编程工具在安全防护、密钥管理和应急响应机制上的明显不足。",
+      "fetchDate": "2026-10-19"
+    },
+    {
+      "id": "6666",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T19:00:12Z",
+      "summary": "AI陪伴应用Tolan在活跃用户突破25万后再获3000万美元融资。该产品以AI伙伴的形式，帮助用户应对日常生活、梳理目标与情绪。本轮融资将用于扩大用户规模、完善产品能力，也反映出AI陪伴类应用在资本市场的持续热度与商业化潜力。",
+      "fetchDate": "2026-10-19"
+    },
+    {
+      "id": "6667",
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T18:49:04Z",
+      "summary": "Replika创始人Eugenia Kuyda推出新创公司Wabi，将她12年前在TechCrunch Disrupt大会上提出的个人AI助手构想真正落地。Wabi提供免费、可下载的个人AI助手，以差异化定位切入市场，体现了创始人十余年AI助手愿景的延续，也显示个人AI助理赛道竞争日趋激烈。",
+      "fetchDate": "2026-10-19"
+    },
+    {
+      "id": "6668",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T18:37:27Z",
+      "summary": "英伟达挑战者Tenstorrent完成15亿美元融资，估值达到62亿美元，并表示将保持独立运营，加速开放权重AI芯片的规模化。该公司此前曾引发收购兴趣，此轮融资为其在AI芯片赛道与英伟达展开竞争提供了充足资金，也反映出资本对开放芯片路线的看好。",
+      "fetchDate": "2026-10-19"
+    },
+    {
+      "id": "6669",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUFg0N3NNbGhmNmp4THlOVFFSOFdudlVRSzEzc2lzQzNMZldMOUFSbHhtd1l0X3JqZF90dnpBSUh1TFBUTHdUUXRLTlF0SThVN3huUFhJX0swMnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T18:21:54Z",
+      "summary": "在中美科技紧张持续升温的背景下，美国宣布禁止政府机构使用中国AI公司DeepSeek的产品。此举反映出各国对AI数据安全、隐私与供应链风险的担忧，也表明地缘政治因素正深刻影响AI技术的采用与监管，全球AI产业的分化与合规壁垒可能进一步加剧。",
+      "fetchDate": "2026-10-19"
+    },
+    {
+      "id": "6670",
+      "title": "Modal says Nvidia’s Vera CPU doubles throughput for its AI sandboxes - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15cU81T2JQRTMxaUdIelV4WWkyWVBldWVpZlBZWEJHU0Q0aTNZcWp4UGNYN3ZGaVd5LUM0eDJiVDUxdjJyWkFFdHc1ajNoLXpQYUF0ZEVtcGxDZC1oemhfM09rQzlaUXJNSEE4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T18:11:54Z",
+      "summary": "Modal表示，英伟达Vera CPU使其AI沙箱的吞吐量提升一倍。该数据表明英伟达在CPU领域的新品能为云端AI开发环境带来显著性能增益，有助于提升沙箱环境的运行效率。这也显示AI基础设施厂商正围绕算力效率与开发体验展开激烈竞争。",
+      "fetchDate": "2026-10-19"
+    },
+    {
+      "id": "6671",
+      "title": "ESMO Welcomes Leonardo Brunetti as Its First Artificial Intelligence Fellow - Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDdWg0TF9zRUZHbzJ3dHdxMlJyOXVTNEFrdE5CMnpKeVlZdUs1WXZJUjN6UVdTNi0zN2xhZkFKOTAzdEJtX0NnQno2NXJ5c2J2?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T18:09:14Z",
+      "summary": "欧洲肿瘤内科学会（ESMO）宣布莱昂纳多·布鲁内蒂成为其首位人工智能研究员，显示肿瘤学领域正加快培养AI交叉人才，并推动人工智能在临床研究、诊疗决策和转化医学中的应用。该任命也释放出专业学会拥抱AI技术、探索规范化临床落地的信号。",
+      "fetchDate": "2026-10-19"
+    },
+    {
       "id": "6637",
       "title": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVlRrRG5kWFc5dVFtSnNTaUZlcHR6akY5X09MLVR2RzZuQVJKNGVsS0VTSy1PenpGSklSZjk0cnF0M3dwUy1EZm5CbkRqSWJodEtIZHNoTHlYR2h0Qy1IakRmQjlHOVVkajBBM3NyVzRLZFdtcHhRSDR3VUNHQ3RYQjV4OTN4eFlOdGJzN1ZuaUVqMVFNeXRyVlBHZW1ieEtHWHVybmdPbkxQRksxNEVmcnlhTGZhaVpzUk9z?oc=5",
@@ -19,12 +109,30 @@
       "fetchDate": "2026-10-19"
     },
     {
+      "id": "6672",
+      "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYko1ejBNd0luTGpNVV9CcXVGNFBndDFROVFxRHFSQ0Q0VzM5SG5JTENNMHFzY1l3eVVvdVFMTHRWQjR0NkVoRHRHVk9pU2RlU1RMNlVHQURuaW5WUlZUaTFtZTJoTEVEUUk5N3hGZ2t3c3ItTzl0dklta2h1VG4xM2tPVXh2cTNGSU91bHFoMjZFUUtRZzUxUXRYQTNyQ19VNzQ4cQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T16:53:00Z",
+      "summary": "《卫报》报道称，美国青少年仍可通过应用商店获取“脱衣”类AI应用，苹果和谷歌的家长控制未能有效阻断。报告揭示AI图像滥用与未成年人保护漏洞，呼吁平台加强年龄验证、应用审核和内容治理，防范深度伪造与性化图像伤害。",
+      "fetchDate": "2026-10-19"
+    },
+    {
       "id": "6639",
       "title": "Illustration shows \"AI Artificial Intelligence\" words and keyboard - The Daily News | Texas' Oldest Newspaper",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUTdxa2x5SVZ6ZzZmdlN2c2N6WEh3ZXVxRW5mT0ZSUlpTdHJOMlJoY1N5dFhjLTdEU3VzRm9BendHMVpxeHhFMWhBQnhmYzdNdGVsNTcxUEtHOTdfRS1DMlVncXF3YjFXeXZDTVlBUHhIYlZuUGt2YVlxQzFHUVRSMmw5cVRja29MZTVTSHVRMzlPRTRwYWt4VVZxTXNLX1RiRUdTTmNLbHlvMndJWnYwTmFjZ2Iwd0hwaVFzZHExbjYtX3ZHTlZWZFJ3UnBLd1ZyLURBSF96WnRhcHRzRkh0VHZNei1NN0NVbERMeExIbjY?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-19T16:33:22Z",
       "summary": "该条目是一则AI主题的新闻配图说明，图片展示“AI Artificial Intelligence”字样与键盘的组合，以视觉方式呈现人工智能与计算机输入、数字化办公之间的关联。除图片说明外，原文未提供具体事件、数据或技术细节，属于AI相关报道的通用视觉素材，通常用于专题版面或新闻配图。",
+      "fetchDate": "2026-10-19"
+    },
+    {
+      "id": "6673",
+      "title": "How Deepgram optimized voice AI at scale with AWS Trainium - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbE80enFEZnV0TE5nemlxczczMnFzcUZUOXNyQ0RTRlNfbVhkaHF4RzI3UHVEWkt4RDRYdUZ4N1pMbmFxZlpFRWtHX0l6UEdLbWY1LVFYYVpBNF9MZHNMODFhX0cxU2dPVHZPWnN2QmdDTS1ZdFNHRlFHN1dlYUNWUVJGcDlpYUswdlRXb1JVTkNIQ1FRZDFBNV9QdjFHdzNYZFd3VFRjNXk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T16:23:22Z",
+      "summary": "Deepgram介绍其如何利用AWS Trainium专用芯片优化大规模语音AI，提升语音识别与生成模型的训练和推理效率，并改善成本结构。该案例显示，云厂商自研AI芯片正成为语音AI规模化部署的重要基础设施，也体现模型与硬件协同优化趋势。",
       "fetchDate": "2026-10-19"
     },
     {
@@ -59941,5 +60049,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6660
+  "total": 6672
 }
