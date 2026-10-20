@@ -1,132 +1,118 @@
 {
-  "updatedAt": "2026-10-20 15:58:45 UTC",
-  "totalArticles": 18,
+  "updatedAt": "2026-10-20 20:58:44 UTC",
+  "totalArticles": 16,
   "articles": [
+    {
+      "title": "SpaceX’s AI business is beating expectations",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T20:40:41Z",
+      "summary": "SpaceX第三季度实现盈利，净利润达44亿美元，AI业务表现超出预期并成为增长引擎。该消息显示航天与AI结合的业务正贡献显著财务回报，但原文未披露AI业务的具体收入结构、客户和利润率等细节。"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T20:35:10Z",
+      "summary": "OpenAI收购生物科技初创公司Orchestra Bio，将其团队与技术并入生命科学研究模型Rosalind及Rosalind Workbench工具。后者面向科研人员，支持实验规划与结果分析。此举显示OpenAI正加码AI for Science和生物医药垂直场景，通过并购补齐专业能力。"
+    },
+    {
+      "title": "Research report: Artificial intelligence-based analysis of digital media - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeE5WMVlsdXJrQzVJWklUN3ZyWVFnSE0zdVZENGMwZ0tfVDg4SnFuWWVMXzVOTi1IQzFlTzFlQXRaUElHUTFjUllvZUVEMEpTdWlGRFV2Y1dJcUoxbkdnV0RPT3lmdkpuSEhnb2ltR1FiMGlVWndOcmxCTmg2UUlDb0JtcWlsNVZwV3lQa1dkZDVyRWZKa2FYTHNZVTNWQWRPYVYwXzJoNFR6Y0lKTlNLUGpFODlNbmhsTDM3d2NhRFU4d09RakdhTnE2OGFxYU01ME45TG15Umt0TWhqdVNkZVdSZWRzV1l3VGtUYm83SHdiQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T20:03:40Z",
+      "summary": "该研究报告聚焦基于人工智能的数字媒体分析，主题涉及利用AI方法处理和分析数字媒体内容。由于原文仅提供标题和来源，未披露具体方法、数据来源和结论；可理解为对AI在媒体内容识别、分类或洞察等应用的研究综述或报告。"
+    },
+    {
+      "title": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZHSXNzSGtidllldW9LYndvMU15anU1a3ZRTjVzajh6aVI5YWM3NEJyNnFwM290OUNBazlLQVBPS1FsXzQ5bW9MZmVtdFNkSXBETk1OU1VwWHBoNW80Y1RBZ2Zjd0ZIYUdBdm82R2VWZ3hKQlJ3YnRLV1FDVUlHSGdvQ2NsYmpXTU5kQUtVcFBURksxcnY0cWNtZFhSaEp5?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T19:05:02Z",
+      "summary": "雅虎财经文章筛选出三只当前看似具备较好买入价值的AI股票，但原文未给出公司名称、估值指标和推荐逻辑。报道属于投资观点类内容，反映市场对AI板块的关注；投资者仍需结合财务数据、竞争格局和风险因素独立判断。"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T18:38:24Z",
+      "summary": "谷歌跟随亚马逊推出面向开发者的工具，帮助PyTorch用户更便捷地将AI应用从英伟达GPU迁移到其他硬件平台。此举旨在降低对英伟达生态的依赖，争夺AI应用开发者，并加剧云计算与AI芯片平台之间的竞争。原文未说明支持的具体硬件。"
+    },
+    {
+      "title": "ChatGPT now lets you lock your chats",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T18:36:53Z",
+      "summary": "ChatGPT新增聊天锁定功能，用户可将特定对话设为锁定，避免在把设备交给他人展示其他内容时被查看。该功能面向涉及个人隐私或惊喜计划等场景，体现OpenAI在生成式AI产品中强化隐私保护与用户控制的设计趋势。"
+    },
+    {
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T17:55:12Z",
+      "summary": "据彭博报道，前谷歌CEO埃里克·施密特持有AI实验室Anthropic约1%股份，约为CEO达里奥·阿莫代伊持股的一半。该信息反映知名科技人物对头部AI公司的财务参与，也引发外界对Anthropic股权结构和高管持股的关注。原文未披露具体估值。"
+    },
+    {
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T17:12:48Z",
+      "summary": "Meta的AI伴侣应用Muse上线40天在美国下载量突破1000万，成为少数达到该里程碑的应用之一，下载速度比肩Threads等产品。新数据还显示其用户留存率高于部分AI竞品，表明Meta在AI助手消费级市场的分发和用户运营上取得阶段性进展。"
+    },
+    {
+      "title": "Ahead of massive IPOs, AI companies are sketching plans to share their wealth - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zSzFVQUFOdnJ1TUJrUHk1V0xybVdyaG1uaS1aSDhWNHEyMnJhbUZ5bXp2OVJsX2lSd3JOaUkxa1BFbDBQaVVQYTRLNFNicnZLVXp2X0VJbWpUeWpqTXplRmVrRGVXZWx3REdNa2kzNHBxUVZfUVg4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T16:32:36Z",
+      "summary": "在大型IPO临近之际，多家AI公司开始筹划与员工、社区或其他利益相关方分享财富的方案。报道显示，随着AI企业估值和上市预期升温，股权激励、公益承诺或收益分配等安排正成为治理与公众沟通议题；原文未列明具体公司和方案细节。"
+    },
+    {
+      "title": "Is AI coming for your money—or all money? - The Pike County News Watchman",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVW4wMmEtQmQyTXBGdnlMUTY0bEc5alBMOHU5Y3hZdFM0TkljdWV3cXlsRS1zVE5zQm9jbnBHNUJaeEFYYmtFdTdOLXpveVdKMWIxNTgzZXozOHhCUEl6TmRLTjhucmtCMkEySlNQT2hPM214N0liSjZQWkRnS20xeE5MYTQtSFhVenFsNldqajVhck5WTjFNUHhoYjJ2T1NmYW96Z19VUDZBTl92T05OVDUzdzRPaWFJX0FvNWhSWmd2VHVVRU1RMFdacjNiLTlxdVdmeU5iVlA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T16:09:00Z",
+      "summary": "该评论文章以“AI会盯上你的钱，还是所有钱？”为题，探讨人工智能对个人财富、金融体系和更广泛经济利益的潜在影响。由于原文仅提供标题，未展开具体论点；可理解为对AI在金融投资、就业收入和财富分配中角色的风险讨论。"
+    },
+    {
+      "title": "Securing AI agent identity with X.509 PKI on AWS - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHhsNXRkRlZGY3UtajN2UGt6N1FQb2VWTUE2eHNiYU85aUsyRWxLQ2FHMjBDdDBFS3RTekE4S21FS01YN05JSzVwcEYxTEVTNjItbzFYMXdyQndvWnUySU5xeTZVaEltNGFpYndaaG1GbTdfcjJzS2hRZVpOQTZpdEVsdmRFRXQ2RDd5SnhKclZRVGlhNDE5SDJmaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T16:03:48Z",
+      "summary": "AWS 发布文章介绍如何基于 X.509 公钥基础设施（PKI）保障 AI 代理身份安全。方案围绕证书签发、密钥管理、身份验证和访问授权展开，使 AI 代理在多系统协作与自动化调用中可被可信识别，降低冒充、越权与身份滥用风险，为企业部署自主代理提供可落地的身份治理思路。"
+    },
+    {
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T16:00:00Z",
+      "summary": "初创公司 Electric Plant 利用植物茎秆中微弱电信号构建 AI 翻译模型，尝试解读植物“语言”，帮助人类理解植物状态与响应。该技术将电生理信号采集与机器学习结合，有望用于精准农业、环境监测和植物健康预警，但当前仍处于探索阶段，实际准确性与规模化应用有待验证。"
+    },
+    {
+      "title": "AI startup ASI valued at $3 billion in latest funding round - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjR1SjBuOXZkbzFpSXdTZHpVc0R5bVhDZlJGNWNEVkZOX3RCeDhSSEg4UkJUWlg0ZWkxNFhIb0VfdExYQWpRblJKSnZaY28tdDEtcU9wSk9xcy1CWTYxal9YRXRqV29FcTdFTlNPLVdpdGJ6VEFOX3Bfb1hGb0J0MUtUVE5LMm1hZ2RWQmdsOUJzTlVuYllaNWs1aE91QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T15:54:09Z",
+      "summary": "AI 初创公司 ASI 在最新一轮融资中估值达到 30 亿美元，显示资本市场对 AI 赛道及该公司增长潜力的持续看好。报道未披露具体融资金额、投资方和资金用途，但高估值反映其可能在基础模型、AI 应用或企业服务等方向具备差异化能力。后续需关注其商业化进展与估值可持续性。"
+    },
     {
       "title": "Artificial intelligence-enabled triage tools may reflect human biases : Newsroom - UT Southwestern",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZMdEpUSzJ3aWM3QmxFRVYwTGQyOFBlN0lUVDFOeGd3YWI4bkhMVm9OajNoMUk5ZnB1Rm1SV0NMSUdaM1ZockM2cGFWZ1NpbXMwNlFXWUxKcnYtRUxnaEtvcDJzX3NsSGJZclVFMXR3Q3ZmMERZYXZ4NzZ5T1UxdENXSXRXUjJuc1JtN3JqUUdoSDRTckozb0pRX291c0V1MEJDOU9mMA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-20T15:32:07Z",
-      "summary": "UT Southwestern报道指出，AI分诊工具可能继承人类偏见，进而影响医疗资源分配的公平性。相关系统在训练数据、算法设计和临床部署中需加强审查与监测，提升透明度和可解释性，并建立治理机制，减少对弱势群体造成不利影响。"
+      "summary": "UT Southwestern 研究指出，AI 驱动的分诊工具可能继承并放大人类偏见，影响医疗资源分配与患者优先级判断。核心风险在于训练数据、标签和临床决策流程中隐含的偏差，可能造成不公平结果。研究提示医疗机构在部署 AI 分诊系统时需加强数据审计、公平性评估和人工监督，确保算法决策透明可解释。"
     },
     {
       "title": "Through New Artificial intelligence (AI)-Powered Chatbots Developed by Lesotho Government, Farmers Will Now Access Vital Agricultural Information and Practical Solutions to Address National Challenges - Africa.com",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNT3hueHJnS0JIMEhNcy1iWElUZEYyZXBkcDhSMkl3WTRUeVZVQWdYTVBuUXVwNFAxZ3RqQ3lrdDM5V1J6b3FZeTBSZnIwT01xaVNZX2tXZWF5RDg4UTl5X3g2VkxudkdxNnhTdjlrSzVRMUhfUnE3TEE5TDItZHNQc1Z1UXROdDhNb2FBM3lBdUphaV81NmV2QVdtSE9RckR0MG5wNkVQVE82YzJIVnRlNVNPYTF4c2ZNYUVmUkFwSktQZi01ZExtcEJfQ3R1UlNEYkV1QnYyWUVWdlQ2QnJzemFZZDUzSi1FWUVNMHJHd09kWjh3V0tqejU1anRPSHFSQ2JWdHowWVRaYlRBby0xelRCNXZCQ3NTaDdYRVhwMTJNcUtIam1JNk9OUmdvTXRWVU52YTlqVXZMU2RJRUwteQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-20T15:31:04Z",
-      "summary": "莱索托政府推出AI聊天机器人，帮助农民获取关键农业信息和实用解决方案，以应对国家层面的农业挑战。该工具可降低信息获取门槛、提升生产决策效率，但推广仍需本地语言数据、数字接入和持续内容更新支持。"
+      "summary": "莱索托政府推出 AI 聊天机器人，为农民提供农业信息与实用解决方案，以应对国家层面的农业生产挑战。系统旨在降低信息获取门槛，让农户通过对话获取种植、病虫害防治和市场相关信息。该举措体现 AI 在公共农业服务中的普惠价值，但实际效果取决于本地语言支持、数据质量和农村网络覆盖。"
     },
     {
       "title": "Sebastian Schmidt, Digital Science: On grounding enterprise AI in scientific evidence - AI News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWR2U0tsREh6WXdDbHkzTFpiTDNDYVNtaHFNSFZTLVFmSGFkUmdlTGpCUzJCcmFPWHlNaC1wM3RJMEY0NnNkV2F4NUpBVkxUcFA2dWJwZVRWS0piRGFubUZJY0hMVkdFbENfd2d0cHJzZkl3d2xaV2ZlUDZza0tFM3F5alRIVjlZbGJWazdweDBHZkN3ZWZMcnEtQUVnWl96bGZsNXlIb0k0N19FcXVHMS1DenJyMl9yRGtpa1dSell1UWpGYmc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-20T15:25:36Z",
-      "summary": "Digital Science的Sebastian Schmidt谈企业AI应以科学证据为基础。他指出，将AI与可信科研数据、文献和知识体系结合，可减少幻觉、提升可追溯性和决策可靠性，推动企业及科研场景中的负责任落地，并需加强数据质量和评估机制。"
-    },
-    {
-      "title": "Germany and NVIDIA sign industrial AI declaration in Berlin - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODZoenhYRGtDQm4tTlRoMnpKTXRfenM3ODNGS2ZJNjJDdFJXOVFDZDZMVldzU0JMT19PZFFfbFU4WjllcThaN0huX0RhY2NRVUdsMlZROXpldUd5NmVHZlFTMEVlUjd6TmdOR2EweVRkNVlkcGROTXlCMXhDOVdrSkZKTUJMRmNNWjVYVTJwRVgtZzFJZEF4N3lQTTlxZXJSU2VkOGQzRXk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T15:02:56Z",
-      "summary": "德国与NVIDIA在柏林签署工业AI宣言，计划加强制造业、工业软件和算力基础设施等领域的合作，推动欧洲工业智能化与可信AI应用。该举措也体现各方对技术主权、产业竞争力和企业采用AI能力的重视，后续落地取决于具体项目和生态支持。"
-    },
-    {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T14:13:32Z",
-      "summary": "Figma联合创始人Dylan Field认为MCP并非完美协议。Figma计划支持尽可能多的标准，但在开放集成的同时不会暴露全部数据，需在互操作性与数据安全间取得平衡，显示AI工具连接协议仍待成熟，企业需评估权限与合规风险。"
-    },
-    {
-      "title": "KIVO Advances AI-Powered Prediction Markets Through AStarter Infrastructure - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTG9PWi1IcHNKTnVZNnFBNzVmQkFvMzBBYlNrbEVOVmljYy1YZ3ZTVU02dWU0QzV1cERBSTNvbFBGZGo0SFZKRUFZNDV3czRuV0V3R0cwNWR6WTdLaFB1Vkt6SEZOa2w5X1hOQ3JyT0FTQUl2QWl2aU5JVERBTjVVbnY4SzVjZ3F6TmhYR18tSkJqeTB3Z1NSYkhBeUpLVF8xcXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T14:04:33Z",
-      "summary": "KIVO通过AStarter基础设施推进AI驱动的预测市场，借助人工智能提升信息聚合、定价效率和市场参与体验。此类应用需兼顾合规、透明度和风险控制，避免模型偏差或操纵行为影响市场公正性，其实际效果取决于流动性与监管环境。"
-    },
-    {
-      "title": "COMMENTARY: When your browser starts speaking for you — who consented, the consumer or the AI? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOFV5cWJjYUhnNjRnNDExQ0lKVTQ2aW1mTFVrZ0xoSklqWkhKa25nQkdVaWx5NXZaeGFTcUFxREZFTlZlb051Wm1VSkdlemhZaUpEVFNETGJwZi1rdk5CQWFyT3ZHVEFHQ2o3ZDBYdUFDOWJEQzlGWUxqXzZ3QkVJY282dEViRFUxN1htTG9ySzF0OWF1dTVhYXdoV05taDBreG1tTmNnTVhVeVg3a01iZ3lSQld5MlNiUmdoX3RDcGIxZnFIZUlPcExR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T13:46:42Z",
-      "summary": "路透社评论关注AI浏览器代理替用户发声和操作时的同意问题：消费者是否充分知情授权，AI代表用户行为的边界与责任如何界定。文章强调需建立明确的同意机制、隐私保护和可审计记录，防止AI越权，监管也应及时跟进。"
-    },
-    {
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T13:07:24Z",
-      "summary": "美国政府以国家安全为由，要求联邦文职机构移除DeepSeek产品及基于其技术构建的第三方服务。此举反映AI供应链地缘政治风险上升，相关机构需排查系统依赖、评估数据安全并迁移至合规替代方案，企业也应关注跨境AI合规。"
-    },
-    {
-      "title": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVZENWdDM0ZndkV6V0FsQXF3SVNXLW01cXlOcmVoNWZaellJQUdRY0FTaUlCbC11VDZBY2c5ZVprMVdheURkV25zaGtWakVXQmZ4OWJ0Q1lQVlZUZHhsZ2pWcEtsMEtEU0dPSVp6WWNiY1hpMEtLQkRKNS11TTVMWWdMeUk1UFlKNlBsUFVWbFBCSVFLWHFmVA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T13:00:00Z",
-      "summary": "《Motley Fool》文章讨论在Anthropic、OpenAI等潜在巨型IPO前值得关注的AI股票，认为投资者不应只聚焦模型公司，而可关注受益于AI基础设施和应用落地的标的。文章属投资观点，需结合估值与风险审慎判断。"
-    },
-    {
-      "title": "Legal and Compliance Artificial Intelligence (AI) Market is Projected to Reach $151 Billion by 2030 - EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS0U4OFRoY1BCU0Q3WGRtWWhxc3RiQ3FobFRvRVlHUnQtOGdFTElNQ25GbUx3dS1FS1diQUgtczdHUWhCYTB1dGZYc2VMYVJoY3JGeXFXTDlWTWtJalZwV3FkM1FoLTdFaHJMVjhvb1VSREUxNGItQnd5a0c1ZGRnX21NU0xkLUhYbURnVXdrRlVidzg5QW1mLWNZTDNrNVppeWJWQjQxcDZ3cGFzdlBxbWs0SFJGbk1rMTNQeXpwcjJGalRPLW1CNFd1UndrVXVITXJ1dUNmSjNfUTA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T13:00:00Z",
-      "summary": "报告预测法律与合规AI市场到2030年将达1510亿美元，受监管复杂度上升、降本增效和自动化需求推动。合同审查、合规监测、法律检索等场景有望加速采用，但数据安全、模型责任和可解释性仍是关键挑战。"
-    },
-    {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T13:00:00Z",
-      "summary": "Eka Robotics凭借物理AI模型获得14.5亿美元估值，并引发业内专家热议。其机械臂在抓取多种物体方面表现突出，动作平滑、接近人类，被认为是首款真正擅长广泛物体抓取的机械臂，显示出物理AI在机器人精细操作与通用抓取上的突破潜力，也为其高估值提供支撑。"
-    },
-    {
-      "title": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPOF9zcWRJbVpWemIxMDVTM1hMbUtTUTBlZG16V2dpeG9RNk5obUVhLW5nTU93ZEd2QUMwWVFJV1JfYkoycWpJTmU3TWlfTlo5RzhuYzAyNTZDYU9JRTVWaEpYWWNYOEo1UDBLSk5MTFVNRWpzRGY5UWcxNG81dUpPTnpMeFNRMTFNY0tFb1U3aTdrenRDdmFTX1pfTFB1WXIwWkhXaWlzWGNJWElwc3EyZm5SU3hwZXMtdXJHeGlyTEFzUndGMUNvTllJTy1Tak5hcXVHNzZnS00zM2s1UXNqQ3RITzhKQlh2NENKZmttelROSUl6QmJ3OEM5c3IxcXlsWEc0X0ZHdC1JamZNVlE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T12:47:41Z",
-      "summary": "该文以“不是Anthropic，也不是OpenAI”为切入点，讨论在下一轮大型IPO前值得买入的AI股票，暗示投资者应关注OpenAI和Anthropic之外的AI相关上市公司。由于原文仅提供标题和有限摘要，未披露具体公司名称、估值及财务数据，核心信息是提示AI投资机会可能来自尚未被充分关注的标的。"
-    },
-    {
-      "title": "Canon Middle East to Make Cairo ICT Debut, Showcasing Artificial Intelligence (AI)-Enabled Print and Digital Transformation Solutions - Africa.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3ppN1lxT0ZwZEVhUUEzLU83WUdIZlVQcXIxUzFJVXBybW4tVHlZcnJSVHNqdFo0REV0XzdwQXpNd3R2UG1YODVFeVJXS2c2RjVPMDVvR2tEQlF5NXp5dkRZTnBFV3YxTjlJWXFJV3FkcGFkSjFsSzRLVGVDTDVSREhSR1lyTE9POTRCOXdoUENoZEhveEtmQzBBUUtsMlY0WkJKZC1GdGktVU9PdnZkMzZheGJFenpRZ2NQS0pZaDFJalNSbWp3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T11:03:58Z",
-      "summary": "Canon Middle East将首次参加开罗ICT展，重点展示由AI赋能的打印与数字化转型解决方案。新闻显示，佳能希望借助展会呈现AI在打印流程、数字化办公和企业转型中的应用，并拓展中东及非洲市场。原文未披露具体产品细节，但明确其参展主题围绕AI驱动的打印与数字化能力。"
-    },
-    {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T11:00:00Z",
-      "summary": "Yelp在应用中嵌入多项新AI功能，其中包括代替用户致电餐厅查询等位时间，以及根据用户偏好生成个性化推荐。该功能将AI语音代理与本地生活服务场景结合，减少用户手动查询成本，提升餐厅信息获取和推荐体验。原文未说明上线范围与准确率，但显示Yelp正加快把生成式AI和语音能力落地到核心应用。"
-    },
-    {
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T11:00:00Z",
-      "summary": "会议记录工具Otter.ai宣布从General Catalyst的Customer Value Fund获得3.2亿美元融资。该基金以不稀释股权的方式提供资金，并根据营销支出结果获得回报。Otter.ai表示，资金将用于企业级增长、市场推广、国际扩张和产品创新，显示AI会议助手赛道正加速商业化与企业化布局。"
-    },
-    {
-      "title": "FCA gets hundreds of applicants for two top artificial intelligence roles - Computer Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcVkzS082OWxpVHRsVjk3N3dvZDUzRnM5MWx0bGFXNllPZUlnaXFKanJRVkhySkNFNmIwRHo3STJhTkJZMk04WDZGOFB2MWtYWnNlZjk2Q2Q5S1BxWjNjZENUZUdLRkM2clVZTmh3czZiV3Y3MnRoc0tWSUlwQWNidVhrNnJGVUZvemY5NlpCM0M3QlpPR21PTHhIR1o3YjJNWXFZNWdGLS0wWGZaamQta2lENWxmTXppRmxJ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T10:20:42Z",
-      "summary": "英国金融行为监管局（FCA）两个高级人工智能岗位吸引数百名申请者，反映出监管机构对AI人才的需求升温。报道显示，FCA正加强AI在金融监管与内部运营中的应用能力，同时相关岗位竞争激烈。原文未披露岗位职责细节，但申请热度表明公共部门AI治理与监管科技正成为人才争夺的新领域。"
-    },
-    {
-      "title": "CIOs look to accelerate digital transformation with AI - CIO",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUhGTG1CdFRsanVFWWc3ak5ncmJhUjNqZERNQkNHVElQdkpmTVhWYi1kNlc4WU5uOHZLVENSYVB1VHVZVmM2UVhLZnBZSTZKT0JGcDJTX0Q0YjlFVDRZVG9qSEN1eXRSSXFELVpNZmk3YUVnYXl3MTVZQTlVSjRFRVNSYm5mTnJsMWI3LVUxRW5UQzk0b2RIUmEtRQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T10:04:56Z",
-      "summary": "CIO杂志报道称，首席信息官们正把AI作为加速数字化转型的核心抓手。文章关注企业如何利用AI优化流程、提升决策效率并重塑业务模式，同时CIO需平衡技术落地、数据治理和组织变革。原文摘要有限，但核心趋势明确：AI正从试点走向企业级战略，成为CIO推动数字化升级的重要引擎。"
-    },
-    {
-      "title": "Kay Bailey Hutchison: As AI rises, create opportunities for Texans - Dallas News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlI2NW0yc0ZQWkhnSHdId0JVV3VtNGl6MjNnZXFTREVoakxZT3pjeEMtZlFiWkMwZEJRRGQzZHFtZmZKNk10cS1XdnlOMVY5M1VaVTY3XzNDeUhLNG9fX1lKMEJNRkFidXpxc0lqV3RDNFRKY1NleXR2RWlHVUd5T0xsSV81RDUxVkRQSnk5YlI5b0pUOTJTWHdkVVJiRF9CVjA5MDYzRW5EM3JnOUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T10:02:31Z",
-      "summary": "Kay Bailey Hutchison在评论文章中讨论AI崛起对得克萨斯州的影响，呼吁在技术发展过程中为得州人创造更多机会。文章强调，AI带来产业变革与就业挑战，政策制定者、企业和教育机构应合作培养人才、促进投资，并确保本地劳动者能够参与AI驱动的经济增长。原文为评论文章，具体政策建议有限，但核心主张是主动布局、共享AI红利。"
+      "summary": "Digital Science 的 Sebastian Schmidt 讨论如何将企业 AI 建立在科学证据之上。核心是通过可信科研数据、文献与知识图谱增强模型输出，减少幻觉并提升决策可靠性。该思路强调数据溯源、证据链和领域知识治理，适用于研发、医疗与政策等高风险场景，为企业部署可信 AI 提供方法论参考。"
     }
   ]
 }

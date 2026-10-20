@@ -1,6 +1,123 @@
 {
   "articles": [
     {
+      "id": "6710",
+      "title": "SpaceX’s AI business is beating expectations",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T20:40:41Z",
+      "summary": "SpaceX第三季度实现盈利，净利润达44亿美元，AI业务表现超出预期并成为增长引擎。该消息显示航天与AI结合的业务正贡献显著财务回报，但原文未披露AI业务的具体收入结构、客户和利润率等细节。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6711",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T20:35:10Z",
+      "summary": "OpenAI收购生物科技初创公司Orchestra Bio，将其团队与技术并入生命科学研究模型Rosalind及Rosalind Workbench工具。后者面向科研人员，支持实验规划与结果分析。此举显示OpenAI正加码AI for Science和生物医药垂直场景，通过并购补齐专业能力。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6712",
+      "title": "Research report: Artificial intelligence-based analysis of digital media - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeE5WMVlsdXJrQzVJWklUN3ZyWVFnSE0zdVZENGMwZ0tfVDg4SnFuWWVMXzVOTi1IQzFlTzFlQXRaUElHUTFjUllvZUVEMEpTdWlGRFV2Y1dJcUoxbkdnV0RPT3lmdkpuSEhnb2ltR1FiMGlVWndOcmxCTmg2UUlDb0JtcWlsNVZwV3lQa1dkZDVyRWZKa2FYTHNZVTNWQWRPYVYwXzJoNFR6Y0lKTlNLUGpFODlNbmhsTDM3d2NhRFU4d09RakdhTnE2OGFxYU01ME45TG15Umt0TWhqdVNkZVdSZWRzV1l3VGtUYm83SHdiQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T20:03:40Z",
+      "summary": "该研究报告聚焦基于人工智能的数字媒体分析，主题涉及利用AI方法处理和分析数字媒体内容。由于原文仅提供标题和来源，未披露具体方法、数据来源和结论；可理解为对AI在媒体内容识别、分类或洞察等应用的研究综述或报告。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6713",
+      "title": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZHSXNzSGtidllldW9LYndvMU15anU1a3ZRTjVzajh6aVI5YWM3NEJyNnFwM290OUNBazlLQVBPS1FsXzQ5bW9MZmVtdFNkSXBETk1OU1VwWHBoNW80Y1RBZ2Zjd0ZIYUdBdm82R2VWZ3hKQlJ3YnRLV1FDVUlHSGdvQ2NsYmpXTU5kQUtVcFBURksxcnY0cWNtZFhSaEp5?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T19:05:02Z",
+      "summary": "雅虎财经文章筛选出三只当前看似具备较好买入价值的AI股票，但原文未给出公司名称、估值指标和推荐逻辑。报道属于投资观点类内容，反映市场对AI板块的关注；投资者仍需结合财务数据、竞争格局和风险因素独立判断。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6714",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T18:38:24Z",
+      "summary": "谷歌跟随亚马逊推出面向开发者的工具，帮助PyTorch用户更便捷地将AI应用从英伟达GPU迁移到其他硬件平台。此举旨在降低对英伟达生态的依赖，争夺AI应用开发者，并加剧云计算与AI芯片平台之间的竞争。原文未说明支持的具体硬件。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6715",
+      "title": "ChatGPT now lets you lock your chats",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T18:36:53Z",
+      "summary": "ChatGPT新增聊天锁定功能，用户可将特定对话设为锁定，避免在把设备交给他人展示其他内容时被查看。该功能面向涉及个人隐私或惊喜计划等场景，体现OpenAI在生成式AI产品中强化隐私保护与用户控制的设计趋势。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6716",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T17:55:12Z",
+      "summary": "据彭博报道，前谷歌CEO埃里克·施密特持有AI实验室Anthropic约1%股份，约为CEO达里奥·阿莫代伊持股的一半。该信息反映知名科技人物对头部AI公司的财务参与，也引发外界对Anthropic股权结构和高管持股的关注。原文未披露具体估值。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6717",
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T17:12:48Z",
+      "summary": "Meta的AI伴侣应用Muse上线40天在美国下载量突破1000万，成为少数达到该里程碑的应用之一，下载速度比肩Threads等产品。新数据还显示其用户留存率高于部分AI竞品，表明Meta在AI助手消费级市场的分发和用户运营上取得阶段性进展。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6718",
+      "title": "Ahead of massive IPOs, AI companies are sketching plans to share their wealth - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zSzFVQUFOdnJ1TUJrUHk1V0xybVdyaG1uaS1aSDhWNHEyMnJhbUZ5bXp2OVJsX2lSd3JOaUkxa1BFbDBQaVVQYTRLNFNicnZLVXp2X0VJbWpUeWpqTXplRmVrRGVXZWx3REdNa2kzNHBxUVZfUVg4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T16:32:36Z",
+      "summary": "在大型IPO临近之际，多家AI公司开始筹划与员工、社区或其他利益相关方分享财富的方案。报道显示，随着AI企业估值和上市预期升温，股权激励、公益承诺或收益分配等安排正成为治理与公众沟通议题；原文未列明具体公司和方案细节。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6719",
+      "title": "Is AI coming for your money—or all money? - The Pike County News Watchman",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVW4wMmEtQmQyTXBGdnlMUTY0bEc5alBMOHU5Y3hZdFM0TkljdWV3cXlsRS1zVE5zQm9jbnBHNUJaeEFYYmtFdTdOLXpveVdKMWIxNTgzZXozOHhCUEl6TmRLTjhucmtCMkEySlNQT2hPM214N0liSjZQWkRnS20xeE5MYTQtSFhVenFsNldqajVhck5WTjFNUHhoYjJ2T1NmYW96Z19VUDZBTl92T05OVDUzdzRPaWFJX0FvNWhSWmd2VHVVRU1RMFdacjNiLTlxdVdmeU5iVlA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T16:09:00Z",
+      "summary": "该评论文章以“AI会盯上你的钱，还是所有钱？”为题，探讨人工智能对个人财富、金融体系和更广泛经济利益的潜在影响。由于原文仅提供标题，未展开具体论点；可理解为对AI在金融投资、就业收入和财富分配中角色的风险讨论。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6720",
+      "title": "Securing AI agent identity with X.509 PKI on AWS - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHhsNXRkRlZGY3UtajN2UGt6N1FQb2VWTUE2eHNiYU85aUsyRWxLQ2FHMjBDdDBFS3RTekE4S21FS01YN05JSzVwcEYxTEVTNjItbzFYMXdyQndvWnUySU5xeTZVaEltNGFpYndaaG1GbTdfcjJzS2hRZVpOQTZpdEVsdmRFRXQ2RDd5SnhKclZRVGlhNDE5SDJmaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T16:03:48Z",
+      "summary": "AWS 发布文章介绍如何基于 X.509 公钥基础设施（PKI）保障 AI 代理身份安全。方案围绕证书签发、密钥管理、身份验证和访问授权展开，使 AI 代理在多系统协作与自动化调用中可被可信识别，降低冒充、越权与身份滥用风险，为企业部署自主代理提供可落地的身份治理思路。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6721",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T16:00:00Z",
+      "summary": "初创公司 Electric Plant 利用植物茎秆中微弱电信号构建 AI 翻译模型，尝试解读植物“语言”，帮助人类理解植物状态与响应。该技术将电生理信号采集与机器学习结合，有望用于精准农业、环境监测和植物健康预警，但当前仍处于探索阶段，实际准确性与规模化应用有待验证。",
+      "fetchDate": "2026-10-20"
+    },
+    {
+      "id": "6722",
+      "title": "AI startup ASI valued at $3 billion in latest funding round - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjR1SjBuOXZkbzFpSXdTZHpVc0R5bVhDZlJGNWNEVkZOX3RCeDhSSEg4UkJUWlg0ZWkxNFhIb0VfdExYQWpRblJKSnZaY28tdDEtcU9wSk9xcy1CWTYxal9YRXRqV29FcTdFTlNPLVdpdGJ6VEFOX3Bfb1hGb0J0MUtUVE5LMm1hZ2RWQmdsOUJzTlVuYllaNWs1aE91QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T15:54:09Z",
+      "summary": "AI 初创公司 ASI 在最新一轮融资中估值达到 30 亿美元，显示资本市场对 AI 赛道及该公司增长潜力的持续看好。报道未披露具体融资金额、投资方和资金用途，但高估值反映其可能在基础模型、AI 应用或企业服务等方向具备差异化能力。后续需关注其商业化进展与估值可持续性。",
+      "fetchDate": "2026-10-20"
+    },
+    {
       "id": "6692",
       "title": "Artificial intelligence-enabled triage tools may reflect human biases : Newsroom - UT Southwestern",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZMdEpUSzJ3aWM3QmxFRVYwTGQyOFBlN0lUVDFOeGd3YWI4bkhMVm9OajNoMUk5ZnB1Rm1SV0NMSUdaM1ZockM2cGFWZ1NpbXMwNlFXWUxKcnYtRUxnaEtvcDJzX3NsSGJZclVFMXR3Q3ZmMERZYXZ4NzZ5T1UxdENXSXRXUjJuc1JtN3JqUUdoSDRTckozb0pRX291c0V1MEJDOU9mMA?oc=5",
@@ -60373,5 +60490,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6708
+  "total": 6721
 }
