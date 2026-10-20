@@ -1,90 +1,34 @@
 {
-  "updatedAt": "2026-10-20 02:30:03 UTC",
-  "totalArticles": 12,
+  "updatedAt": "2026-10-20 06:52:39 UTC",
+  "totalArticles": 4,
   "articles": [
+    {
+      "title": "Gyeongju City is pushing for a manufacturing innovation project using AI (artificial intelligence) f.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55cnRhaXc3Y1V4SEdiV1VSRUFfTXhTbTFLeVJSY0FWNHdzd09FTWl1WVFEbnF6SGYyUnpYTmU5UzF0RFlldklPNC1ILXhlMmNwMFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T05:50:10Z",
+      "summary": "韩国庆州市正推进以人工智能为核心的制造业创新项目，计划把AI技术引入本地制造流程，推动产业智能化升级和竞争力提升。该项目被视为地方层面借助AI培育新增长动能的举措，但具体实施范围、参与企业和投资规模等细节尚未披露。整体来看，这反映出韩国地方城市正加快推动AI在实体制造场景中落地应用。"
+    },
+    {
+      "title": "Chinese AI tool behind cyberattacks in Japan: security firm - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR1NQNWxuRFlmZUpqRGowc1VOdDBBSDBGeWtFYVNiTC1UQVhaVUxneVZHYXFpZ05ZVGNzcU5GMkYtZ1BtaUtwVDQ4UEo4WU1FYi1HWnNfdUl4UG1fRnhYamQtV1Z6QUxnYXpzMVA1RVlzdXhxbktENDkwR0QydnRVM0YwWFJPM3FKTlRPbXd1VGVYemNnbDM4bGRUVE56S1VubnlGek9nTXc4a2MwWFZ3SlNKN05TQzhEelktZlFaVUNpOE9yRXd0RDFfZjJ2QWpBelRIQVNwaTPSAd4BQVVfeXFMUHBITmVscFFnanhRWVlwOTFnVjlHczJYSHVIZ2w2T0YzNURXTGtzTTI0bUF2OWRpVnZTbmZOMDhKbWJWSF83MHVPSjhtWWtpNUR1OXdJajJPaWVvUmQ4ajU3bTAzUEcydjB6SXg3ZUxyVXA1TThVMWhkVG1zOExuOUVhR1lKUDQxa0dRcDRCcUFWLU9fZDZ6Z2tSdjNEekJhLUVyeDk5ekstTkpObDdEb0RPOVFyZDFLQnZJRGxWTEpEVjV4Nnp5eFZMRlE0dGlHdEhVMnVqMzBxajFxTFNn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T04:58:07Z",
+      "summary": "据一家安全公司披露，日本近期发生的网络攻击事件背后涉及一款中国AI工具，攻击者可能借助大模型能力实现攻击流程的自动化与规模化。这一说法把AI安全风险与地缘政治议题叠加，引发外界对AI工具被滥用于网络攻防的关注。目前相关指控仍属企业单方面判断，具体攻击链条、受影响目标及技术细节尚待核实，各方宜审慎看待。"
+    },
     {
       "title": "Lunit will unveil the research results of its breast cancer artificial intelligence (AI) analysis pr.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oYlp2OUdEdUNmRDNGWmw3YzZEeUVIVHRNb1NqQVVFNXlEM3FqVlpLVWlzVUxsRlZud0xGbzk5RmhicXllNzlSbmV2RQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-20T01:45:38Z",
-      "summary": "据매일경제报道，Lunit将发布其乳腺癌人工智能分析项目的研究成果。该成果预计围绕乳腺影像的AI辅助检测与诊断展开，展示模型在病灶识别、判读准确性及临床工作流中的应用表现。若验证结果积极，将有助于推动乳腺癌早筛和影像诊断的智能化，并加速相关产品的商业化与监管落地。"
-    },
-    {
-      "title": "Artificial intelligence (AI) technology has been developed to predict the viability of cancer patien.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15ODlxcjg1X0ZGbzhCOGhnTm1IazNaZmlabUc4Rmc4alotM1drNjZXT3B6ZzJlamJBeWV6R0xEcFpQMmhZMS14R1Nhbw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T01:36:35Z",
-      "summary": "매일경제报道，一种新开发的人工智能技术可用于预测癌症患者的生存或存活可能性。该类研究通常基于患者临床数据、影像或病理信息，训练模型评估疾病进展与预后，辅助医生进行风险分层和治疗决策。若得到进一步验证，有望提升个体化癌症管理的准确性，但仍需解决数据质量、泛化能力和临床合规等问题。"
+      "summary": "韩国医疗AI企业Lunit宣布将公开其乳腺癌人工智能分析产品的研究成果。该产品聚焦乳腺影像的AI辅助判读，研究结果预计涵盖算法在病灶检出与诊断准确性方面的表现。这有助于推动AI辅助筛查在临床场景中的验证与落地，也可能为Lunit推进海外监管审批和商业化合作提供数据支撑；具体研究数据与发布场合尚未披露。"
     },
     {
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
       "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20T01:27:03Z",
-      "summary": "纽约市长佐兰·马姆达尼表示，联邦政府在AI治理上已“缺位”，呼吁纽约市民抵制“AI取代一切不可避免”的叙事，并要求加强监管，以保护公众、把技术权力重新交回民众手中。其表态反映地方层面对AI风险、就业冲击和权力集中的担忧，也预示城市层面可能推动更积极的AI政策与公众参与。"
-    },
-    {
-      "title": "AI-generated political ads are showing up on TV screens, experts say they are getting harder to spot - KSAT",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORWRUd0hhWTI0QTFSVGtHVFVYeWt6WDNkMXJyWXU2UW5lNVFCNUR4TjEtUXJPZHdQMjZaZHRXRlpmMm0takhLSEJyVU1kU2ZIRTNwcW5JZzd2TFhNS3lhdl9SU1FhaExYUTB0ckUxN21CRlFMbWsyc2hPUmNhTUpmRWs2MTMwRkhvdzV2N2RQRG1DR0E3anlXR2hrNnVpVGtRblU1c3RWSWFDR21MUFVlU0xzRUhqeWRHbGFaX3RtWms3N1RteVJkNEhaVzZyelkzeGRVbjJfaEFBSGs?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T00:38:46Z",
-      "summary": "专家指出，AI生成的政治广告已出现在电视屏幕上，且越来越难被普通观众识别。这类广告可能利用深度伪造、合成语音或图像误导选民，削弱政治传播的真实性与透明度。随着选举周期临近，监管机构、平台和媒体面临更大压力，需要加强标注、检测与核查机制，防止AI合成内容影响公众认知和选举公正。"
-    },
-    {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19T23:39:38Z",
-      "summary": "据报道，Nscale与Anthropic正就一项规模约450亿美元的计算资源交易进行谈判。若交易达成，将成为Anthropic过去一年中一系列巨额算力合作的最新一笔，凸显大模型公司对GPU和数据中心容量的持续渴求。此类交易有助于保障模型训练和推理能力，但也引发对算力集中、资本开支和能源消耗的关注。"
-    },
-    {
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19T22:49:27Z",
-      "summary": "Hugging Face政策负责人表示，在AI机构内部嵌入“中立”第三方评估者的方案并非易事。随着AI实验室接连出现安全事件，嵌入式评估被视为加强外部监督的尝试，但实际落地面临独立性、权限、利益冲突和评估标准等挑战。该表态提示，AI安全治理不能仅靠形式化监督，还需透明机制、外部审计和可执行的责任框架。"
-    },
-    {
-      "title": "Billionaire David Tepper’s Appaloosa Management Has 31% of its portfolio Invested in These 2 Artificial Intelligence (AI) Stocks - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV21ESEh2Rk9USUNKaHMxS1hYdURWeHJpZXhYVC1DNzZqTW56eTN3dG9ZbEtZSkY4My02blZGcS1ZVGktMHpHb0FCakE3Q0tCVEFsX0N6cGpnMndkY09HeEk5cU5YeVg2RkpTU0ZGcEV5ZG5xMEpsLUdTT29xSzZrMzNiNVdVc09RdWhaTmZNUTk2U2xRM1EzeHJYemJSTHdjQmVuTVlrR0NFUWgtZjEzZWJ0UVowWHBzX1RQLXBRWDBuMGRjd2FCMXdFYzg3Qy00bkhmLUwzX0daR1A3WWFwWVlyYk5fVjA4alR6cHRGRkJDUHgzZjdRdVVLOWY?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T22:44:00Z",
-      "summary": "据Motley Fool报道，亿万富翁David Tepper旗下Appaloosa Management将约31%的投资组合配置于两只AI股票，显示其对人工智能赛道的重仓押注。报道未在摘要中披露具体标的，但反映出知名对冲基金对AI算力、平台或应用公司增长前景的看好。高集中度也意味着更高波动风险，投资者需关注估值、业绩兑现和行业竞争。"
-    },
-    {
-      "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T22:30:00Z",
-      "summary": "《卫报》报道，一项研究显示新型AI工具可通过患者单张自拍预测癌症生存情况。该技术可能从面部图像中提取与健康状况相关的细微特征，辅助评估预后和风险分层。若经更大规模临床验证，有望提供低成本、非侵入式的筛查参考，但面部数据的隐私、人群偏差和临床可靠性仍需审慎评估。"
-    },
-    {
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19T22:04:28Z",
-      "summary": "微软警告，AI智能体可能像“内部威胁”一样带来安全风险，并称前沿模型“不可完全信任”。企业应密切监控员工使用的、由非OpenAI或Anthropic等AI实验室控制的系统上的智能体。这反映企业AI部署中权限管理、数据泄露和自动化操作失控等隐患，需建立最小权限、审计日志和人工复核机制。"
-    },
-    {
-      "title": "Billionaire David Tepper’s Appaloosa Management Has 31% of its portfolio Invested in These 2 Artificial Intelligence (AI) Stocks - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMk56NmR5dUZvRTVNTEdMLVJaTEs3dzBpcUZKalRzRTlyZExKb3ljREJ6VnFySFZfTjRFTEhsc3V0WThuajFCQTFFN3U4TEQ5b3BRZktpUnhGMzQxaXo1MHdQY0RwQWVUcWR5X1V5TXBEM0Q1c0xxLTNCdEI0UEtBUzZoOWVRSG50NUJvX2NmY21TLWQ4Xzh3YUt3UGdjVXhfbEpjU01pMkp5SEJDcFY4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T22:04:01Z",
-      "summary": "据Yahoo Finance转载报道，亿万富翁David Tepper旗下Appaloosa Management约31%的投资组合集中于两只AI股票，体现其对人工智能板块的高度看好。报道未在摘要中给出具体公司，但高比例持仓表明对该赛道长期增长的信心。与此同时，集中押注也带来显著波动和估值风险，需关注相关公司的业绩兑现与行业竞争格局。"
-    },
-    {
-      "title": "From Classrooms to Patient Care, Stony Brook Experts Explore AI’s Transformative Potential - SBU News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjU2TXd5dTY5bmVZN0hRbDJvWTdBTFFmV0t0aXRmVk1rU3YyR3NZNDUyUUozY2dXbDVISktlcWExTTgzV2JqSzhZcGxTU3phNHJlSXpiVWhQVFdMcktTdnFiVm1lWklGV2Z0Yl9TMkJZXzlKbG1nTklUWUdDbDhvaGtXVjBCN1NCNHNhWWNQWkVHbFQxaTdHRGUwaldfQ1JPWWFvUkhSbGt5WGtxXzVUanY0QUlCTzBtRkJPQ2U0NnAwT0dMWC1Z?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T21:04:00Z",
-      "summary": "石溪大学专家围绕人工智能的变革潜力展开探讨，重点关注其在教育课堂与患者护理等场景中的应用。文章指出，AI正从辅助教学、个性化学习延伸到临床诊疗和医疗服务，有望提升效率与决策质量，同时也需关注相关的实施与治理问题。"
-    },
-    {
-      "title": "As AI dominates conversations, here are key terms to know - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUTNoVmZ5aXdxUlRxa3otUWZzaEg0NTdfSndITmJNTVZsY2pvdEtBcGFielBGSUdHTzhmUzFXMHRmYjNQaWc4a1kyT0JfclZ5WlU3bGtBOFdqSTJwdnA4TjgyQmJUMkRMVFNRSXhuT1BfSW85Z1d0VUFlSjlHaDA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T20:53:00Z",
-      "summary": "随着人工智能成为公共讨论热点，CBS News梳理了理解AI所需的关键术语，帮助读者把握相关概念。该报道以科普方式解释常见AI词汇，涵盖技术、应用与风险等层面，旨在降低专业门槛，便于公众更准确地参与人工智能话题的讨论与判断。"
+      "summary": "纽约市长Zohran Mamdani周一晚表示，联邦政府在人工智能治理上已经失职；纽约市民不应接受“AI取代一切不可避免”的叙事，而应主动发声、推动监管。他呼吁把权力交回公众手中，要求制定保护民众权益的AI规则。此番表态凸显美国地方与联邦在AI监管路径上的分歧，也反映出社会对就业冲击和算法权力集中的担忧。"
     }
   ]
 }
