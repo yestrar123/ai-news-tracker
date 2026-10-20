@@ -1,153 +1,90 @@
 {
-  "updatedAt": "2026-10-19 21:49:51 UTC",
-  "totalArticles": 21,
+  "updatedAt": "2026-10-20 02:30:03 UTC",
+  "totalArticles": 12,
   "articles": [
     {
-      "title": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
+      "title": "Lunit will unveil the research results of its breast cancer artificial intelligence (AI) analysis pr.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oYlp2OUdEdUNmRDNGWmw3YzZEeUVIVHRNb1NqQVVFNXlEM3FqVlpLVWlzVUxsRlZud0xGbzk5RmhicXllNzlSbmV2RQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-19T21:30:28Z",
-      "summary": "路透社独家报道披露，一名黑客仅花费数千美元、借助AI代理工具，就成功入侵了数十个网站。该案例显示，AI代理可自动完成漏洞探测与攻击利用，大幅降低了网络攻击的技术门槛与成本，使规模化、低成本的黑客攻击成为现实，为企业与平台的安全防护敲响警钟。"
+      "publishedAt": "2026-10-20T01:45:38Z",
+      "summary": "据매일경제报道，Lunit将发布其乳腺癌人工智能分析项目的研究成果。该成果预计围绕乳腺影像的AI辅助检测与诊断展开，展示模型在病灶识别、判读准确性及临床工作流中的应用表现。若验证结果积极，将有助于推动乳腺癌早筛和影像诊断的智能化，并加速相关产品的商业化与监管落地。"
+    },
+    {
+      "title": "Artificial intelligence (AI) technology has been developed to predict the viability of cancer patien.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15ODlxcjg1X0ZGbzhCOGhnTm1IazNaZmlabUc4Rmc4alotM1drNjZXT3B6ZzJlamJBeWV6R0xEcFpQMmhZMS14R1Nhbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T01:36:35Z",
+      "summary": "매일경제报道，一种新开发的人工智能技术可用于预测癌症患者的生存或存活可能性。该类研究通常基于患者临床数据、影像或病理信息，训练模型评估疾病进展与预后，辅助医生进行风险分层和治疗决策。若得到进一步验证，有望提升个体化癌症管理的准确性，但仍需解决数据质量、泛化能力和临床合规等问题。"
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T01:27:03Z",
+      "summary": "纽约市长佐兰·马姆达尼表示，联邦政府在AI治理上已“缺位”，呼吁纽约市民抵制“AI取代一切不可避免”的叙事，并要求加强监管，以保护公众、把技术权力重新交回民众手中。其表态反映地方层面对AI风险、就业冲击和权力集中的担忧，也预示城市层面可能推动更积极的AI政策与公众参与。"
+    },
+    {
+      "title": "AI-generated political ads are showing up on TV screens, experts say they are getting harder to spot - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORWRUd0hhWTI0QTFSVGtHVFVYeWt6WDNkMXJyWXU2UW5lNVFCNUR4TjEtUXJPZHdQMjZaZHRXRlpmMm0takhLSEJyVU1kU2ZIRTNwcW5JZzd2TFhNS3lhdl9SU1FhaExYUTB0ckUxN21CRlFMbWsyc2hPUmNhTUpmRWs2MTMwRkhvdzV2N2RQRG1DR0E3anlXR2hrNnVpVGtRblU1c3RWSWFDR21MUFVlU0xzRUhqeWRHbGFaX3RtWms3N1RteVJkNEhaVzZyelkzeGRVbjJfaEFBSGs?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T00:38:46Z",
+      "summary": "专家指出，AI生成的政治广告已出现在电视屏幕上，且越来越难被普通观众识别。这类广告可能利用深度伪造、合成语音或图像误导选民，削弱政治传播的真实性与透明度。随着选举周期临近，监管机构、平台和媒体面临更大压力，需要加强标注、检测与核查机制，防止AI合成内容影响公众认知和选举公正。"
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T23:39:38Z",
+      "summary": "据报道，Nscale与Anthropic正就一项规模约450亿美元的计算资源交易进行谈判。若交易达成，将成为Anthropic过去一年中一系列巨额算力合作的最新一笔，凸显大模型公司对GPU和数据中心容量的持续渴求。此类交易有助于保障模型训练和推理能力，但也引发对算力集中、资本开支和能源消耗的关注。"
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T22:49:27Z",
+      "summary": "Hugging Face政策负责人表示，在AI机构内部嵌入“中立”第三方评估者的方案并非易事。随着AI实验室接连出现安全事件，嵌入式评估被视为加强外部监督的尝试，但实际落地面临独立性、权限、利益冲突和评估标准等挑战。该表态提示，AI安全治理不能仅靠形式化监督，还需透明机制、外部审计和可执行的责任框架。"
+    },
+    {
+      "title": "Billionaire David Tepper’s Appaloosa Management Has 31% of its portfolio Invested in These 2 Artificial Intelligence (AI) Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV21ESEh2Rk9USUNKaHMxS1hYdURWeHJpZXhYVC1DNzZqTW56eTN3dG9ZbEtZSkY4My02blZGcS1ZVGktMHpHb0FCakE3Q0tCVEFsX0N6cGpnMndkY09HeEk5cU5YeVg2RkpTU0ZGcEV5ZG5xMEpsLUdTT29xSzZrMzNiNVdVc09RdWhaTmZNUTk2U2xRM1EzeHJYemJSTHdjQmVuTVlrR0NFUWgtZjEzZWJ0UVowWHBzX1RQLXBRWDBuMGRjd2FCMXdFYzg3Qy00bkhmLUwzX0daR1A3WWFwWVlyYk5fVjA4alR6cHRGRkJDUHgzZjdRdVVLOWY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T22:44:00Z",
+      "summary": "据Motley Fool报道，亿万富翁David Tepper旗下Appaloosa Management将约31%的投资组合配置于两只AI股票，显示其对人工智能赛道的重仓押注。报道未在摘要中披露具体标的，但反映出知名对冲基金对AI算力、平台或应用公司增长前景的看好。高集中度也意味着更高波动风险，投资者需关注估值、业绩兑现和行业竞争。"
+    },
+    {
+      "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T22:30:00Z",
+      "summary": "《卫报》报道，一项研究显示新型AI工具可通过患者单张自拍预测癌症生存情况。该技术可能从面部图像中提取与健康状况相关的细微特征，辅助评估预后和风险分层。若经更大规模临床验证，有望提供低成本、非侵入式的筛查参考，但面部数据的隐私、人群偏差和临床可靠性仍需审慎评估。"
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-19T22:04:28Z",
+      "summary": "微软警告，AI智能体可能像“内部威胁”一样带来安全风险，并称前沿模型“不可完全信任”。企业应密切监控员工使用的、由非OpenAI或Anthropic等AI实验室控制的系统上的智能体。这反映企业AI部署中权限管理、数据泄露和自动化操作失控等隐患，需建立最小权限、审计日志和人工复核机制。"
+    },
+    {
+      "title": "Billionaire David Tepper’s Appaloosa Management Has 31% of its portfolio Invested in These 2 Artificial Intelligence (AI) Stocks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMk56NmR5dUZvRTVNTEdMLVJaTEs3dzBpcUZKalRzRTlyZExKb3ljREJ6VnFySFZfTjRFTEhsc3V0WThuajFCQTFFN3U4TEQ5b3BRZktpUnhGMzQxaXo1MHdQY0RwQWVUcWR5X1V5TXBEM0Q1c0xxLTNCdEI0UEtBUzZoOWVRSG50NUJvX2NmY21TLWQ4Xzh3YUt3UGdjVXhfbEpjU01pMkp5SEJDcFY4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T22:04:01Z",
+      "summary": "据Yahoo Finance转载报道，亿万富翁David Tepper旗下Appaloosa Management约31%的投资组合集中于两只AI股票，体现其对人工智能板块的高度看好。报道未在摘要中给出具体公司，但高比例持仓表明对该赛道长期增长的信心。与此同时，集中押注也带来显著波动和估值风险，需关注相关公司的业绩兑现与行业竞争格局。"
+    },
+    {
+      "title": "From Classrooms to Patient Care, Stony Brook Experts Explore AI’s Transformative Potential - SBU News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjU2TXd5dTY5bmVZN0hRbDJvWTdBTFFmV0t0aXRmVk1rU3YyR3NZNDUyUUozY2dXbDVISktlcWExTTgzV2JqSzhZcGxTU3phNHJlSXpiVWhQVFdMcktTdnFiVm1lWklGV2Z0Yl9TMkJZXzlKbG1nTklUWUdDbDhvaGtXVjBCN1NCNHNhWWNQWkVHbFQxaTdHRGUwaldfQ1JPWWFvUkhSbGt5WGtxXzVUanY0QUlCTzBtRkJPQ2U0NnAwT0dMWC1Z?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-19T21:04:00Z",
+      "summary": "石溪大学专家围绕人工智能的变革潜力展开探讨，重点关注其在教育课堂与患者护理等场景中的应用。文章指出，AI正从辅助教学、个性化学习延伸到临床诊疗和医疗服务，有望提升效率与决策质量，同时也需关注相关的实施与治理问题。"
     },
     {
       "title": "As AI dominates conversations, here are key terms to know - CBS News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUTNoVmZ5aXdxUlRxa3otUWZzaEg0NTdfSndITmJNTVZsY2pvdEtBcGFielBGSUdHTzhmUzFXMHRmYjNQaWc4a1kyT0JfclZ5WlU3bGtBOFdqSTJwdnA4TjgyQmJUMkRMVFNRSXhuT1BfSW85Z1d0VUFlSjlHaDA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-19T20:53:44Z",
-      "summary": "随着AI成为社会热议话题，CBS News梳理并介绍了理解AI所需的关键术语，涵盖机器学习、大语言模型、生成式AI等基础概念。该科普内容旨在帮助公众准确理解AI相关词汇，提升媒体与大众的AI素养，避免在讨论中被模糊或夸大的表述误导。"
-    },
-    {
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19T20:09:24Z",
-      "summary": "亚马逊发布全新开发工具TorchNeuron，被视为迄今对英伟达最有力的一次挑战。PyTorch是构建大多数AI应用的主流免费工具包，亚马逊希望借此打破英伟达对该生态的掌控，引导更多开发者将AI应用迁移到自研芯片等替代硬件上运行，从而削弱英伟达在AI算力市场的主导地位。"
-    },
-    {
-      "title": "Breakingviews - COMMENTARY: Oxford summit rings the alarm on corporate AI - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkRrNV8yV3ZZWGZNVHlFNnBaSkotODhadDNNRi1FVmFQajVrOHNVWGJEUUNfbTZzWTF2djNyMkdoVEwzdEJYQUJabktlRTJLY2RtOWlvZ1dNR25mNEhSWkN4c242RjNYTTVjTHNITjdiU2xlTzlQWEhIZWFZOG1NdC16NFhoVjNmNF93UzI0MkZKT3c5Zy1pQ1hxbGhDamRp?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T19:42:22Z",
-      "summary": "路透社Breakingviews评论指出，牛津峰会聚焦企业AI应用风险，向企业界发出警示。随着AI在企业中加速落地，治理机制、合规要求与潜在风险成为关注焦点。峰会呼吁企业审慎评估AI部署带来的挑战，在追求效率的同时建立相应的风险管控与责任体系。"
-    },
-    {
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19T19:28:34Z",
-      "summary": "开源AI编程代理OpenCode遭黑客攻击，其部分在线平台被入侵，部分用户的API密钥被盗，导致用户AI账户产生额外费用。值得关注的是，该工具在处置过程中求助的AI模型拒绝查看恶意代码，暴露出AI编程工具在安全防护、密钥管理和应急响应机制上的明显不足。"
-    },
-    {
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19T19:00:12Z",
-      "summary": "AI陪伴应用Tolan在活跃用户突破25万后再获3000万美元融资。该产品以AI伙伴的形式，帮助用户应对日常生活、梳理目标与情绪。本轮融资将用于扩大用户规模、完善产品能力，也反映出AI陪伴类应用在资本市场的持续热度与商业化潜力。"
-    },
-    {
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19T18:49:04Z",
-      "summary": "Replika创始人Eugenia Kuyda推出新创公司Wabi，将她12年前在TechCrunch Disrupt大会上提出的个人AI助手构想真正落地。Wabi提供免费、可下载的个人AI助手，以差异化定位切入市场，体现了创始人十余年AI助手愿景的延续，也显示个人AI助理赛道竞争日趋激烈。"
-    },
-    {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19T18:37:27Z",
-      "summary": "英伟达挑战者Tenstorrent完成15亿美元融资，估值达到62亿美元，并表示将保持独立运营，加速开放权重AI芯片的规模化。该公司此前曾引发收购兴趣，此轮融资为其在AI芯片赛道与英伟达展开竞争提供了充足资金，也反映出资本对开放芯片路线的看好。"
-    },
-    {
-      "title": "US bans DeepSeek AI from government use as tech tension with China continues - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pUFg0N3NNbGhmNmp4THlOVFFSOFdudlVRSzEzc2lzQzNMZldMOUFSbHhtd1l0X3JqZF90dnpBSUh1TFBUTHdUUXRLTlF0SThVN3huUFhJX0swMnc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T18:21:54Z",
-      "summary": "在中美科技紧张持续升温的背景下，美国宣布禁止政府机构使用中国AI公司DeepSeek的产品。此举反映出各国对AI数据安全、隐私与供应链风险的担忧，也表明地缘政治因素正深刻影响AI技术的采用与监管，全球AI产业的分化与合规壁垒可能进一步加剧。"
-    },
-    {
-      "title": "Modal says Nvidia’s Vera CPU doubles throughput for its AI sandboxes - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15cU81T2JQRTMxaUdIelV4WWkyWVBldWVpZlBZWEJHU0Q0aTNZcWp4UGNYN3ZGaVd5LUM0eDJiVDUxdjJyWkFFdHc1ajNoLXpQYUF0ZEVtcGxDZC1oemhfM09rQzlaUXJNSEE4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T18:11:54Z",
-      "summary": "Modal表示，英伟达Vera CPU使其AI沙箱的吞吐量提升一倍。该数据表明英伟达在CPU领域的新品能为云端AI开发环境带来显著性能增益，有助于提升沙箱环境的运行效率。这也显示AI基础设施厂商正围绕算力效率与开发体验展开激烈竞争。"
-    },
-    {
-      "title": "ESMO Welcomes Leonardo Brunetti as Its First Artificial Intelligence Fellow - Oncodaily",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDdWg0TF9zRUZHbzJ3dHdxMlJyOXVTNEFrdE5CMnpKeVlZdUs1WXZJUjN6UVdTNi0zN2xhZkFKOTAzdEJtX0NnQno2NXJ5c2J2?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T18:09:14Z",
-      "summary": "欧洲肿瘤内科学会（ESMO）宣布莱昂纳多·布鲁内蒂成为其首位人工智能研究员，显示肿瘤学领域正加快培养AI交叉人才，并推动人工智能在临床研究、诊疗决策和转化医学中的应用。该任命也释放出专业学会拥抱AI技术、探索规范化临床落地的信号。"
-    },
-    {
-      "title": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVlRrRG5kWFc5dVFtSnNTaUZlcHR6akY5X09MLVR2RzZuQVJKNGVsS0VTSy1PenpGSklSZjk0cnF0M3dwUy1EZm5CbkRqSWJodEtIZHNoTHlYR2h0Qy1IakRmQjlHOVVkajBBM3NyVzRLZFdtcHhRSDR3VUNHQ3RYQjV4OTN4eFlOdGJzN1ZuaUVqMVFNeXRyVlBHZW1ieEtHWHVybmdPbkxQRksxNEVmcnlhTGZhaVpzUk9z?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T17:24:46Z",
-      "summary": "《Motley Fool》对C3.ai与SentinelOne两只AI相关股票进行2026年投资前景对比，重点考察商业模式、增长动能、盈利路径、估值水平与风险因素。文章旨在帮助投资者判断哪家公司更能受益于企业级AI需求扩张，而非简单给出股价预测。"
-    },
-    {
-      "title": "US bans Chinese AI DeepSeek from civilian government agency IT systems - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPY2wtZEtneWRXYWY4dFJxcVI0Wmo2UThmZUY2cWQ2dVpydGtTY1BJOEtjTHRIcHY4bTdXOVB4ZFdCYlRndUFaV2VWS0R2Z09tM183U1JUanNJSTNTZ3hPd0Z3UEdLQmc0dU14NlRWOHBWVjFBeExkMHhGeEhZMmR3YWRwTUVUMTEtWDhheFdlVGNBVmNYRGZYQUVkMHo1UlpUeGM0RlpEbFJaYzJoeDlkeXJKZTY1Z2d3UGdBQ2xkVFhuenhMYVhzTmpCbTdLaVk1WGNzNTVyWHdSTkl5OFk2UHRXTzV2SVZwR2FzYl94M1PSAfYBQVVfeXFMTmp0dFdGMWhSd0dBZXRON0tzMjNqUC04a3F0M1dKZ0w3TXZFbTVzdDR5dkFseXhHalMtVkM3MjFqVDVsZU1lUmNYa1cxQkdNWkR0Uy1qU3BQLTVNZHU0QnBYSHZreVNqQW1FeHBvcm0tRmQtN0lqVVFnd2hLQnMwOHZaa1RTTlRmVDFzd0ZacFBnZUVOMlNKMVN2c1BfdFlhZnEyWUhEdGRiYVpKZy1wQmVMNHlSM0VjRVNPeFhXZGNjN1NYUjZHX2hxNHV6aXdLbWdWanFtb1k0dHptOUllYzcyV0F2T20taVh5R2prXy1kZGtoaVdB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T16:59:43Z",
-      "summary": "美国禁止中国人工智能模型DeepSeek进入民用政府机构IT系统，主要出于数据安全、供应链和国家安全审查考虑。该措施将限制DeepSeek在美国联邦民用部门的采用，也反映中美AI技术竞争正从出口管制延伸至政府信息系统采购与使用环节。"
-    },
-    {
-      "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYko1ejBNd0luTGpNVV9CcXVGNFBndDFROVFxRHFSQ0Q0VzM5SG5JTENNMHFzY1l3eVVvdVFMTHRWQjR0NkVoRHRHVk9pU2RlU1RMNlVHQURuaW5WUlZUaTFtZTJoTEVEUUk5N3hGZ2t3c3ItTzl0dklta2h1VG4xM2tPVXh2cTNGSU91bHFoMjZFUUtRZzUxUXRYQTNyQ19VNzQ4cQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T16:53:00Z",
-      "summary": "《卫报》报道称，美国青少年仍可通过应用商店获取“脱衣”类AI应用，苹果和谷歌的家长控制未能有效阻断。报告揭示AI图像滥用与未成年人保护漏洞，呼吁平台加强年龄验证、应用审核和内容治理，防范深度伪造与性化图像伤害。"
-    },
-    {
-      "title": "Illustration shows \"AI Artificial Intelligence\" words and keyboard - The Daily News | Texas' Oldest Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUTdxa2x5SVZ6ZzZmdlN2c2N6WEh3ZXVxRW5mT0ZSUlpTdHJOMlJoY1N5dFhjLTdEU3VzRm9BendHMVpxeHhFMWhBQnhmYzdNdGVsNTcxUEtHOTdfRS1DMlVncXF3YjFXeXZDTVlBUHhIYlZuUGt2YVlxQzFHUVRSMmw5cVRja29MZTVTSHVRMzlPRTRwYWt4VVZxTXNLX1RiRUdTTmNLbHlvMndJWnYwTmFjZ2Iwd0hwaVFzZHExbjYtX3ZHTlZWZFJ3UnBLd1ZyLURBSF96WnRhcHRzRkh0VHZNei1NN0NVbERMeExIbjY?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T16:33:22Z",
-      "summary": "该条目是一则以“AI Artificial Intelligence”文字和键盘为主题的插图新闻，未提供具体事件、产品或研究进展，主要作为人工智能概念的视觉呈现。它反映媒体在报道AI话题时常用键盘、文字等符号化元素，但读者无法从中获得可验证的技术或产业信息。"
-    },
-    {
-      "title": "How Deepgram optimized voice AI at scale with AWS Trainium - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbE80enFEZnV0TE5nemlxczczMnFzcUZUOXNyQ0RTRlNfbVhkaHF4RzI3UHVEWkt4RDRYdUZ4N1pMbmFxZlpFRWtHX0l6UEdLbWY1LVFYYVpBNF9MZHNMODFhX0cxU2dPVHZPWnN2QmdDTS1ZdFNHRlFHN1dlYUNWUVJGcDlpYUswdlRXb1JVTkNIQ1FRZDFBNV9QdjFHdzNYZFd3VFRjNXk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T16:23:22Z",
-      "summary": "Deepgram介绍其如何利用AWS Trainium专用芯片优化大规模语音AI，提升语音识别与生成模型的训练和推理效率，并改善成本结构。该案例显示，云厂商自研AI芯片正成为语音AI规模化部署的重要基础设施，也体现模型与硬件协同优化趋势。"
-    },
-    {
-      "title": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0R4ajM1WGNGNnB0Sms4Uy1aWV8teXNzd0Z5YlllYzE1NlRvSm9oX01Ic1p2SmFDOE5mcmZtSEMtRmh4bU9xZGYyME5NMUdwdmY4cWIwWjU2RXMwUFVmek40YjVSd1E0dElQSmRpSVhNNkJaQndZRnZ4NzZqUWxNbmdxdE9vZTcyUXhKN2trMWVGejRXZldCcWVyTDRBWXJlMXFsRjVDMFZJSGR3N0xIMXVpenZfMHdvcjB4SzlSN3p0UQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T16:17:48Z",
-      "summary": "标普全球警告称，主要超大规模云服务商可能持有比目前披露更多的AI相关债务，随着数据中心和算力投资激增，债务透明度与信用风险值得关注。该提示反映AI基础设施扩张背后的融资压力，可能影响科技巨头资产负债表与市场评估。"
-    },
-    {
-      "title": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-19T16:13:22Z",
-      "summary": "TechCrunch报道，一些智能电视用户因不满广告、追踪和卡顿界面，开始借助AI代理移除预装软件、精简系统并夺回设备控制权。这一现象反映消费者对智能设备“过度联网”的反感，也显示AI正被用于系统清理和隐私保护等反向用途。"
-    },
-    {
-      "title": "How to Avoid AI Scams as Criminals Use Artificial Intelligence - AirGuide Business",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4ydHcxOEVJd3FXdE9kWF9WMi1oR2hDSUk0eHBha0xvVGhVRWdPaE5HcThLRzJCbzBIRFJpY0JSeDZiV3hvVkdfZ0drUzdBaUFNYVRNZHhuOA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T16:09:56Z",
-      "summary": "AirGuide Business发布防AI诈骗指南，指出犯罪分子正利用人工智能实施钓鱼邮件、深度伪造、语音克隆等诈骗。文章建议用户加强身份核验、保护个人信息、警惕异常转账请求，并提升对AI生成内容的辨识能力；企业和个人均需建立多重验证与安全培训机制，以降低财产和隐私风险。"
-    },
-    {
-      "title": "Researchers use artificial intelligence to design potential antiviral compounds - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUFljVXEtNWotXzF1SWdqbmRNdkxKd3piV1R6QzJCS0lLeGhOZlFNTW5RLXJQcDd2SWJHeXRoTXR6N2pKcC1Wc2VQd1VpSVpBc0ZrSE9SNkhvRVBrS2hYZ2FZSWo4cHJUbnE0cWpxYnJ1dGVmSWw5akpCVjNlZDFyVkcxRVdLRDdIVXFjM0lTUUtRZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T16:00:06Z",
-      "summary": "研究人员利用人工智能设计潜在抗病毒化合物，通过模型生成、筛选和优化候选分子，以缩短传统药物发现周期并降低试错成本。该方向有望加速抗病毒药物早期研发，为应对新发传染病和耐药病毒提供新的计算辅助路径，但仍需实验验证。"
-    },
-    {
-      "title": "Recent Market Research on Businesses and Enterprise Artificial Intelligence (AI) by The Business Research Company - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWVpRMGtPWXhwRFpFdTlGN3ZsMGpqVlljMEYtYldjaFgzTzgtQktBMW1iamRIcVUzQW4yZ1N3aWJJQzhFZjNrckUyR3FwMVFlakc3SnZ4aUh0TklpelA4ZzZvRzBKVm9hLUJDdEExYnlkMnBDSzYyWkdrWWVpZVZDdzBPc1RJRG9IR3RHTUdtdTU3dXpVT01BYk9nSWNvdDVWU2oway1XcjYweEFubGFtVUppY0o2SXFjSy00X1BGb1pYSHFzV1FrdFFMZk1tTkY5V05zc2tFNU96TzVFdWtHNmtHamRDUGxX?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-19T16:00:00Z",
-      "summary": "据EIN News报道，The Business Research Company近期发布面向商业与企业人工智能（AI）的市场研究。该研究聚焦企业级AI应用与市场动态，可能涵盖市场规模、增长趋势、行业采用情况及竞争格局等核心信息，为企业评估AI部署与投资机会提供参考。原文公开摘要信息有限，具体数据与结论需查阅完整报告。"
+      "publishedAt": "2026-10-19T20:53:00Z",
+      "summary": "随着人工智能成为公共讨论热点，CBS News梳理了理解AI所需的关键术语，帮助读者把握相关概念。该报道以科普方式解释常见AI词汇，涵盖技术、应用与风险等层面，旨在降低专业门槛，便于公众更准确地参与人工智能话题的讨论与判断。"
     }
   ]
 }
