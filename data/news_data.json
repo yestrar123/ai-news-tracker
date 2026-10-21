@@ -1,118 +1,76 @@
 {
-  "updatedAt": "2026-10-20 20:58:44 UTC",
-  "totalArticles": 16,
+  "updatedAt": "2026-10-21 02:23:46 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "Itsen Global announced on the 21st that its multi-artificial intelligence (AI) agent management plat.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4RWd2MjJZSlhUUzBHbFhJbjhjQ2hVT3phT2s1NXctZk1WRDctcG1ONjJpc0FWS1c0UFp5WDA5d0RpWEVIdDBvZTY5Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T01:36:08Z",
+      "summary": "Itsen Global于21日宣布推出多人工智能代理管理平台。该平台旨在统一管理多个AI代理，提升企业级AI应用的协调性与可控性。尽管原文披露信息有限，但可看出其重点在于解决多代理环境下的集成与管理难题，反映出AI代理正从单点工具走向平台化治理趋势。"
+    },
+    {
+      "title": "UK FCA exec wants to require disclosure of ‘significant AI failures and near-misses’ - CIO UK",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNjNVMEFERnZULTVpTU5PM3pCYm5TcWVaRWtrbFhSQjI5U1BZcUVVVG9mTmJ5am5WZ080TXVXOE9HU2lqUi1ER00zXzdxSHdNNUMxU1B3emE1eVBIdHp3X0xQUmlHMVhQYWV6Y3dpb3NjRVo2Zlh0MUhodmtOLUdfSVRxM05YU0FLTHo0SzZnUk5LNEdrVlFtM1J0dG1DVmZjVTdZNjZaS1ZMeEZpQ2RGampuZ2F2TlM3ZjNlY1NmdnY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T01:06:11Z",
+      "summary": "英国金融行为监管局（FCA）一名高管提出，应强制要求企业披露“重大AI失败和未遂事件”。该主张旨在提升AI系统透明度与问责性，使监管机构能够及时识别金融领域的AI风险。若落地，可能形成类似网络安全事件报告的制度，推动AI治理从原则倡导转向可操作的合规披露要求。"
+    },
+    {
+      "title": "AI On Track To ‘Crowd Out’ Human Decision-Making In Warfare - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMURWNm50Y2R6VGVyTHNSYVNxUTlISVJyQnpNQ1c4b3RpMWxSNEV5ZkRxZVdnMEF3VVVIZjM1YlVZT0d5eDZ4ZlNycm83cGd6eVhYRm5FR3hQbGZqRDVrTjJyQnlfYXRNOFdsNzV6ck9UUU1FVmJELW14WGpvOG52a1E1dkl0ZjJHel9lT2xOQk9pMVgyLTVDS3YxQWpDUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T23:34:24Z",
+      "summary": "有分析指出，人工智能正逐步在战争决策中“排挤”人类判断。随着AI在情报分析、目标识别和作战规划中的应用加深，人类可能从实质决策者退化为监督者甚至旁观者。该趋势引发对问责、伦理和冲突升级风险的担忧，凸显在军事场景中保持人类有效控制与审慎授权的重要性。"
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T23:01:23Z",
+      "summary": "Anthropic提出一项AI安全法案建议，主张当模型可能导致50人以上死亡时予以阻止。但TechCrunch指出，该政策表面提供AI失控防护，实际却规定联邦机构未经法官许可不得阻止模型发布。这一设计可能将公共安全干预门槛大幅提高，引发对监管有效性与行业游说影响的讨论。"
+    },
+    {
+      "title": "SpaceX Swings to a Profit, as A.I. Business Grows - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0d1bHRTNzNlX2RsWHg4dmdkQzBaNmFUaGtTUExMa19od3FMTTA4MzBBUXBKakU5VW9jT1U4OHk0dHlzTVNTWTJGWU03SndzVHhqbzFSdzlHOTBpcUtjZmxJUklFLVQ4d3JmUHlMU04yWFBvOHRJSXdITEJLNXB0UXRR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T22:37:38Z",
+      "summary": "SpaceX实现扭亏为盈，人工智能业务增长成为重要推动力。报道显示，其AI相关业务扩张改善了财务表现，并增强公司整体盈利能力。这表明SpaceX正从传统航天发射与卫星服务向AI计算或相关业务延伸，AI商业化或成为其新的收入增长点，也反映科技企业跨界布局AI的趋势。"
+    },
+    {
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T22:24:02Z",
+      "summary": "Hugging Face联合创始人兼CEO Clem Delangue警告，Netflix关于OpenAI黑客事件的纪录片《AI Gone Rogue》并不准确。作为片中受访者，他表示该片进入“彻底末日论模式”，存在夸大和失实。此番表态提醒观众审慎看待大众媒体对AI安全事件的戏剧化呈现，也反映AI社区对公共叙事准确性的关注。"
+    },
+    {
+      "title": "Ken Griffin Says AI ‘Almost Certainly’ in a Bubble Right Now - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGY2WVpwdzdubFFLSDJGWDBIQzdQUTdTeXoyVXMzVmJkSktBVG9hXzVHVWxfUC1GLVdDalp4X3VfNjFzM3ctWUtXYTYycFEyZkdJSHVMTGcwa2lxamJKS2Yzcy01dkNuQzNIUWlCbk1yNlRUX2p3ZFZabW92SWxLYURaamFpbnRPazZnS1BNZEVjS3djSXpaSVk1dmRSV2M3cFZiMUhfWVlWLWJHdGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T21:52:12Z",
+      "summary": "城堡投资创始人Ken Griffin表示，人工智能“几乎肯定”正处于泡沫之中。这一判断来自知名对冲基金负责人，反映部分金融界人士对AI估值过快上涨、投资回报尚待验证的担忧。该言论可能加剧市场对AI板块过热风险的讨论，但泡沫判断本身仍取决于技术落地、盈利能力和资本周期。"
+    },
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T21:25:22Z",
+      "summary": "Anthropic的云合作伙伴关系正变得复杂。报道称，随着基础设施支出在计划于11月IPO前膨胀，Anthropic难以从云厂商获得足够算力，因为这些厂商日益将其视为竞争对手。这凸显头部AI模型公司在算力依赖与竞争关系之间的矛盾，也可能影响其IPO前的成本结构和供应稳定性。"
+    },
     {
       "title": "SpaceX’s AI business is beating expectations",
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20T20:40:41Z",
-      "summary": "SpaceX第三季度实现盈利，净利润达44亿美元，AI业务表现超出预期并成为增长引擎。该消息显示航天与AI结合的业务正贡献显著财务回报，但原文未披露AI业务的具体收入结构、客户和利润率等细节。"
+      "summary": "SpaceX的AI业务表现超出预期。公司第三季度实现盈利，净利润达44亿美元，AI成为增长引擎。这表明SpaceX的AI相关业务已对财务业绩形成实质贡献，并可能与其航天、卫星通信和数据能力产生协同。该进展强化了市场对AI商业化前景的关注，也为公司后续投资提供支撑。"
     },
     {
       "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
       "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-20T20:35:10Z",
-      "summary": "OpenAI收购生物科技初创公司Orchestra Bio，将其团队与技术并入生命科学研究模型Rosalind及Rosalind Workbench工具。后者面向科研人员，支持实验规划与结果分析。此举显示OpenAI正加码AI for Science和生物医药垂直场景，通过并购补齐专业能力。"
-    },
-    {
-      "title": "Research report: Artificial intelligence-based analysis of digital media - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeE5WMVlsdXJrQzVJWklUN3ZyWVFnSE0zdVZENGMwZ0tfVDg4SnFuWWVMXzVOTi1IQzFlTzFlQXRaUElHUTFjUllvZUVEMEpTdWlGRFV2Y1dJcUoxbkdnV0RPT3lmdkpuSEhnb2ltR1FiMGlVWndOcmxCTmg2UUlDb0JtcWlsNVZwV3lQa1dkZDVyRWZKa2FYTHNZVTNWQWRPYVYwXzJoNFR6Y0lKTlNLUGpFODlNbmhsTDM3d2NhRFU4d09RakdhTnE2OGFxYU01ME45TG15Umt0TWhqdVNkZVdSZWRzV1l3VGtUYm83SHdiQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T20:03:40Z",
-      "summary": "该研究报告聚焦基于人工智能的数字媒体分析，主题涉及利用AI方法处理和分析数字媒体内容。由于原文仅提供标题和来源，未披露具体方法、数据来源和结论；可理解为对AI在媒体内容识别、分类或洞察等应用的研究综述或报告。"
-    },
-    {
-      "title": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZHSXNzSGtidllldW9LYndvMU15anU1a3ZRTjVzajh6aVI5YWM3NEJyNnFwM290OUNBazlLQVBPS1FsXzQ5bW9MZmVtdFNkSXBETk1OU1VwWHBoNW80Y1RBZ2Zjd0ZIYUdBdm82R2VWZ3hKQlJ3YnRLV1FDVUlHSGdvQ2NsYmpXTU5kQUtVcFBURksxcnY0cWNtZFhSaEp5?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T19:05:02Z",
-      "summary": "雅虎财经文章筛选出三只当前看似具备较好买入价值的AI股票，但原文未给出公司名称、估值指标和推荐逻辑。报道属于投资观点类内容，反映市场对AI板块的关注；投资者仍需结合财务数据、竞争格局和风险因素独立判断。"
-    },
-    {
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T18:38:24Z",
-      "summary": "谷歌跟随亚马逊推出面向开发者的工具，帮助PyTorch用户更便捷地将AI应用从英伟达GPU迁移到其他硬件平台。此举旨在降低对英伟达生态的依赖，争夺AI应用开发者，并加剧云计算与AI芯片平台之间的竞争。原文未说明支持的具体硬件。"
-    },
-    {
-      "title": "ChatGPT now lets you lock your chats",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T18:36:53Z",
-      "summary": "ChatGPT新增聊天锁定功能，用户可将特定对话设为锁定，避免在把设备交给他人展示其他内容时被查看。该功能面向涉及个人隐私或惊喜计划等场景，体现OpenAI在生成式AI产品中强化隐私保护与用户控制的设计趋势。"
-    },
-    {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T17:55:12Z",
-      "summary": "据彭博报道，前谷歌CEO埃里克·施密特持有AI实验室Anthropic约1%股份，约为CEO达里奥·阿莫代伊持股的一半。该信息反映知名科技人物对头部AI公司的财务参与，也引发外界对Anthropic股权结构和高管持股的关注。原文未披露具体估值。"
-    },
-    {
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T17:12:48Z",
-      "summary": "Meta的AI伴侣应用Muse上线40天在美国下载量突破1000万，成为少数达到该里程碑的应用之一，下载速度比肩Threads等产品。新数据还显示其用户留存率高于部分AI竞品，表明Meta在AI助手消费级市场的分发和用户运营上取得阶段性进展。"
-    },
-    {
-      "title": "Ahead of massive IPOs, AI companies are sketching plans to share their wealth - Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zSzFVQUFOdnJ1TUJrUHk1V0xybVdyaG1uaS1aSDhWNHEyMnJhbUZ5bXp2OVJsX2lSd3JOaUkxa1BFbDBQaVVQYTRLNFNicnZLVXp2X0VJbWpUeWpqTXplRmVrRGVXZWx3REdNa2kzNHBxUVZfUVg4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T16:32:36Z",
-      "summary": "在大型IPO临近之际，多家AI公司开始筹划与员工、社区或其他利益相关方分享财富的方案。报道显示，随着AI企业估值和上市预期升温，股权激励、公益承诺或收益分配等安排正成为治理与公众沟通议题；原文未列明具体公司和方案细节。"
-    },
-    {
-      "title": "Is AI coming for your money—or all money? - The Pike County News Watchman",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVW4wMmEtQmQyTXBGdnlMUTY0bEc5alBMOHU5Y3hZdFM0TkljdWV3cXlsRS1zVE5zQm9jbnBHNUJaeEFYYmtFdTdOLXpveVdKMWIxNTgzZXozOHhCUEl6TmRLTjhucmtCMkEySlNQT2hPM214N0liSjZQWkRnS20xeE5MYTQtSFhVenFsNldqajVhck5WTjFNUHhoYjJ2T1NmYW96Z19VUDZBTl92T05OVDUzdzRPaWFJX0FvNWhSWmd2VHVVRU1RMFdacjNiLTlxdVdmeU5iVlA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T16:09:00Z",
-      "summary": "该评论文章以“AI会盯上你的钱，还是所有钱？”为题，探讨人工智能对个人财富、金融体系和更广泛经济利益的潜在影响。由于原文仅提供标题，未展开具体论点；可理解为对AI在金融投资、就业收入和财富分配中角色的风险讨论。"
-    },
-    {
-      "title": "Securing AI agent identity with X.509 PKI on AWS - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHhsNXRkRlZGY3UtajN2UGt6N1FQb2VWTUE2eHNiYU85aUsyRWxLQ2FHMjBDdDBFS3RTekE4S21FS01YN05JSzVwcEYxTEVTNjItbzFYMXdyQndvWnUySU5xeTZVaEltNGFpYndaaG1GbTdfcjJzS2hRZVpOQTZpdEVsdmRFRXQ2RDd5SnhKclZRVGlhNDE5SDJmaw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T16:03:48Z",
-      "summary": "AWS 发布文章介绍如何基于 X.509 公钥基础设施（PKI）保障 AI 代理身份安全。方案围绕证书签发、密钥管理、身份验证和访问授权展开，使 AI 代理在多系统协作与自动化调用中可被可信识别，降低冒充、越权与身份滥用风险，为企业部署自主代理提供可落地的身份治理思路。"
-    },
-    {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-20T16:00:00Z",
-      "summary": "初创公司 Electric Plant 利用植物茎秆中微弱电信号构建 AI 翻译模型，尝试解读植物“语言”，帮助人类理解植物状态与响应。该技术将电生理信号采集与机器学习结合，有望用于精准农业、环境监测和植物健康预警，但当前仍处于探索阶段，实际准确性与规模化应用有待验证。"
-    },
-    {
-      "title": "AI startup ASI valued at $3 billion in latest funding round - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjR1SjBuOXZkbzFpSXdTZHpVc0R5bVhDZlJGNWNEVkZOX3RCeDhSSEg4UkJUWlg0ZWkxNFhIb0VfdExYQWpRblJKSnZaY28tdDEtcU9wSk9xcy1CWTYxal9YRXRqV29FcTdFTlNPLVdpdGJ6VEFOX3Bfb1hGb0J0MUtUVE5LMm1hZ2RWQmdsOUJzTlVuYllaNWs1aE91QQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T15:54:09Z",
-      "summary": "AI 初创公司 ASI 在最新一轮融资中估值达到 30 亿美元，显示资本市场对 AI 赛道及该公司增长潜力的持续看好。报道未披露具体融资金额、投资方和资金用途，但高估值反映其可能在基础模型、AI 应用或企业服务等方向具备差异化能力。后续需关注其商业化进展与估值可持续性。"
-    },
-    {
-      "title": "Artificial intelligence-enabled triage tools may reflect human biases : Newsroom - UT Southwestern",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZMdEpUSzJ3aWM3QmxFRVYwTGQyOFBlN0lUVDFOeGd3YWI4bkhMVm9OajNoMUk5ZnB1Rm1SV0NMSUdaM1ZockM2cGFWZ1NpbXMwNlFXWUxKcnYtRUxnaEtvcDJzX3NsSGJZclVFMXR3Q3ZmMERZYXZ4NzZ5T1UxdENXSXRXUjJuc1JtN3JqUUdoSDRTckozb0pRX291c0V1MEJDOU9mMA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T15:32:07Z",
-      "summary": "UT Southwestern 研究指出，AI 驱动的分诊工具可能继承并放大人类偏见，影响医疗资源分配与患者优先级判断。核心风险在于训练数据、标签和临床决策流程中隐含的偏差，可能造成不公平结果。研究提示医疗机构在部署 AI 分诊系统时需加强数据审计、公平性评估和人工监督，确保算法决策透明可解释。"
-    },
-    {
-      "title": "Through New Artificial intelligence (AI)-Powered Chatbots Developed by Lesotho Government, Farmers Will Now Access Vital Agricultural Information and Practical Solutions to Address National Challenges - Africa.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNT3hueHJnS0JIMEhNcy1iWElUZEYyZXBkcDhSMkl3WTRUeVZVQWdYTVBuUXVwNFAxZ3RqQ3lrdDM5V1J6b3FZeTBSZnIwT01xaVNZX2tXZWF5RDg4UTl5X3g2VkxudkdxNnhTdjlrSzVRMUhfUnE3TEE5TDItZHNQc1Z1UXROdDhNb2FBM3lBdUphaV81NmV2QVdtSE9RckR0MG5wNkVQVE82YzJIVnRlNVNPYTF4c2ZNYUVmUkFwSktQZi01ZExtcEJfQ3R1UlNEYkV1QnYyWUVWdlQ2QnJzemFZZDUzSi1FWUVNMHJHd09kWjh3V0tqejU1anRPSHFSQ2JWdHowWVRaYlRBby0xelRCNXZCQ3NTaDdYRVhwMTJNcUtIam1JNk9OUmdvTXRWVU52YTlqVXZMU2RJRUwteQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T15:31:04Z",
-      "summary": "莱索托政府推出 AI 聊天机器人，为农民提供农业信息与实用解决方案，以应对国家层面的农业生产挑战。系统旨在降低信息获取门槛，让农户通过对话获取种植、病虫害防治和市场相关信息。该举措体现 AI 在公共农业服务中的普惠价值，但实际效果取决于本地语言支持、数据质量和农村网络覆盖。"
-    },
-    {
-      "title": "Sebastian Schmidt, Digital Science: On grounding enterprise AI in scientific evidence - AI News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWR2U0tsREh6WXdDbHkzTFpiTDNDYVNtaHFNSFZTLVFmSGFkUmdlTGpCUzJCcmFPWHlNaC1wM3RJMEY0NnNkV2F4NUpBVkxUcFA2dWJwZVRWS0piRGFubUZJY0hMVkdFbENfd2d0cHJzZkl3d2xaV2ZlUDZza0tFM3F5alRIVjlZbGJWazdweDBHZkN3ZWZMcnEtQUVnWl96bGZsNXlIb0k0N19FcXVHMS1DenJyMl9yRGtpa1dSell1UWpGYmc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-20T15:25:36Z",
-      "summary": "Digital Science 的 Sebastian Schmidt 讨论如何将企业 AI 建立在科学证据之上。核心是通过可信科研数据、文献与知识图谱增强模型输出，减少幻觉并提升决策可靠性。该思路强调数据溯源、证据链和领域知识治理，适用于研发、医疗与政策等高风险场景，为企业部署可信 AI 提供方法论参考。"
+      "summary": "OpenAI收购初创公司Orchestra Bio，以增强其生物技术业务。OpenAI表示，将把Orchestra的团队和技术纳入生命科学研究模型Rosalind及相关工具Rosalind Workbench，后者旨在帮助研究人员规划实验并分析结果。此举显示OpenAI正加快向AI for Science垂直领域扩张，推动AI在生物医药研发中的应用。"
     }
   ]
 }

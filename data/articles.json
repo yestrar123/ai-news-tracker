@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "6723",
+      "title": "Itsen Global announced on the 21st that its multi-artificial intelligence (AI) agent management plat.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4RWd2MjJZSlhUUzBHbFhJbjhjQ2hVT3phT2s1NXctZk1WRDctcG1ONjJpc0FWS1c0UFp5WDA5d0RpWEVIdDBvZTY5Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T01:36:08Z",
+      "summary": "Itsen Global于21日宣布推出多人工智能代理管理平台。该平台旨在统一管理多个AI代理，提升企业级AI应用的协调性与可控性。尽管原文披露信息有限，但可看出其重点在于解决多代理环境下的集成与管理难题，反映出AI代理正从单点工具走向平台化治理趋势。",
+      "fetchDate": "2026-10-21"
+    },
+    {
+      "id": "6724",
+      "title": "UK FCA exec wants to require disclosure of ‘significant AI failures and near-misses’ - CIO UK",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNjNVMEFERnZULTVpTU5PM3pCYm5TcWVaRWtrbFhSQjI5U1BZcUVVVG9mTmJ5am5WZ080TXVXOE9HU2lqUi1ER00zXzdxSHdNNUMxU1B3emE1eVBIdHp3X0xQUmlHMVhQYWV6Y3dpb3NjRVo2Zlh0MUhodmtOLUdfSVRxM05YU0FLTHo0SzZnUk5LNEdrVlFtM1J0dG1DVmZjVTdZNjZaS1ZMeEZpQ2RGampuZ2F2TlM3ZjNlY1NmdnY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T01:06:11Z",
+      "summary": "英国金融行为监管局（FCA）一名高管提出，应强制要求企业披露“重大AI失败和未遂事件”。该主张旨在提升AI系统透明度与问责性，使监管机构能够及时识别金融领域的AI风险。若落地，可能形成类似网络安全事件报告的制度，推动AI治理从原则倡导转向可操作的合规披露要求。",
+      "fetchDate": "2026-10-21"
+    },
+    {
+      "id": "6725",
+      "title": "AI On Track To ‘Crowd Out’ Human Decision-Making In Warfare - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMURWNm50Y2R6VGVyTHNSYVNxUTlISVJyQnpNQ1c4b3RpMWxSNEV5ZkRxZVdnMEF3VVVIZjM1YlVZT0d5eDZ4ZlNycm83cGd6eVhYRm5FR3hQbGZqRDVrTjJyQnlfYXRNOFdsNzV6ck9UUU1FVmJELW14WGpvOG52a1E1dkl0ZjJHel9lT2xOQk9pMVgyLTVDS3YxQWpDUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T23:34:24Z",
+      "summary": "有分析指出，人工智能正逐步在战争决策中“排挤”人类判断。随着AI在情报分析、目标识别和作战规划中的应用加深，人类可能从实质决策者退化为监督者甚至旁观者。该趋势引发对问责、伦理和冲突升级风险的担忧，凸显在军事场景中保持人类有效控制与审慎授权的重要性。",
+      "fetchDate": "2026-10-21"
+    },
+    {
+      "id": "6726",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T23:01:23Z",
+      "summary": "Anthropic提出一项AI安全法案建议，主张当模型可能导致50人以上死亡时予以阻止。但TechCrunch指出，该政策表面提供AI失控防护，实际却规定联邦机构未经法官许可不得阻止模型发布。这一设计可能将公共安全干预门槛大幅提高，引发对监管有效性与行业游说影响的讨论。",
+      "fetchDate": "2026-10-21"
+    },
+    {
+      "id": "6727",
+      "title": "SpaceX Swings to a Profit, as A.I. Business Grows - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0d1bHRTNzNlX2RsWHg4dmdkQzBaNmFUaGtTUExMa19od3FMTTA4MzBBUXBKakU5VW9jT1U4OHk0dHlzTVNTWTJGWU03SndzVHhqbzFSdzlHOTBpcUtjZmxJUklFLVQ4d3JmUHlMU04yWFBvOHRJSXdITEJLNXB0UXRR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T22:37:38Z",
+      "summary": "SpaceX实现扭亏为盈，人工智能业务增长成为重要推动力。报道显示，其AI相关业务扩张改善了财务表现，并增强公司整体盈利能力。这表明SpaceX正从传统航天发射与卫星服务向AI计算或相关业务延伸，AI商业化或成为其新的收入增长点，也反映科技企业跨界布局AI的趋势。",
+      "fetchDate": "2026-10-21"
+    },
+    {
+      "id": "6728",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T22:24:02Z",
+      "summary": "Hugging Face联合创始人兼CEO Clem Delangue警告，Netflix关于OpenAI黑客事件的纪录片《AI Gone Rogue》并不准确。作为片中受访者，他表示该片进入“彻底末日论模式”，存在夸大和失实。此番表态提醒观众审慎看待大众媒体对AI安全事件的戏剧化呈现，也反映AI社区对公共叙事准确性的关注。",
+      "fetchDate": "2026-10-21"
+    },
+    {
+      "id": "6729",
+      "title": "Ken Griffin Says AI ‘Almost Certainly’ in a Bubble Right Now - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGY2WVpwdzdubFFLSDJGWDBIQzdQUTdTeXoyVXMzVmJkSktBVG9hXzVHVWxfUC1GLVdDalp4X3VfNjFzM3ctWUtXYTYycFEyZkdJSHVMTGcwa2lxamJKS2Yzcy01dkNuQzNIUWlCbk1yNlRUX2p3ZFZabW92SWxLYURaamFpbnRPazZnS1BNZEVjS3djSXpaSVk1dmRSV2M3cFZiMUhfWVlWLWJHdGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-20T21:52:12Z",
+      "summary": "城堡投资创始人Ken Griffin表示，人工智能“几乎肯定”正处于泡沫之中。这一判断来自知名对冲基金负责人，反映部分金融界人士对AI估值过快上涨、投资回报尚待验证的担忧。该言论可能加剧市场对AI板块过热风险的讨论，但泡沫判断本身仍取决于技术落地、盈利能力和资本周期。",
+      "fetchDate": "2026-10-21"
+    },
+    {
+      "id": "6730",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-20T21:25:22Z",
+      "summary": "Anthropic的云合作伙伴关系正变得复杂。报道称，随着基础设施支出在计划于11月IPO前膨胀，Anthropic难以从云厂商获得足够算力，因为这些厂商日益将其视为竞争对手。这凸显头部AI模型公司在算力依赖与竞争关系之间的矛盾，也可能影响其IPO前的成本结构和供应稳定性。",
+      "fetchDate": "2026-10-21"
+    },
+    {
       "id": "6710",
       "title": "SpaceX’s AI business is beating expectations",
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
@@ -60490,5 +60562,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6721
+  "total": 6729
 }
