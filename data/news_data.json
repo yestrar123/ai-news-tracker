@@ -1,90 +1,125 @@
 {
-  "updatedAt": "2026-10-21 16:15:34 UTC",
-  "totalArticles": 12,
+  "updatedAt": "2026-10-21 20:59:33 UTC",
+  "totalArticles": 17,
   "articles": [
     {
-      "title": "Libya Links Artificial Intelligence (AI) and Connectivity to its Next Production Cycle - Africa.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeXlad25iU1NJNGNBbzFVdVZhcEVRNU16NUwxMXRYSThOV3pVNU1JVDNXcjV5cjlwenpOcm9zbjE4cjBIWnlUdUdQemY5cjNpSTFmWDZBemNyaEhEYVRpbXpqbi1WX0p5SmtOTS1iRjRHLTROQUtHS284ODUycjVNM2lSemZLa2F4U2w4?oc=5",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21T20:27:41Z",
+      "summary": "AI初创公司Recursive发布免费编码模型Flint，其最大特点是可在笔记本电脑本地运行，且研发过程大部分由公司自研的AI研究系统完成。Recursive将其定位为“AI自我改进”能力的早期验证，意在探索由AI辅助甚至主导AI研发的路径。该模型面向代码场景，强调轻量化与本地部署，降低对云端算力的依赖，也回应了开发者对隐私与成本的需求。"
+    },
+    {
+      "title": "AI expert John Lee breaks down how artificial intelligence is changing our everyday lives - FOX 2 Detroit",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aTTZfd2ZJTnJ2WlBfN2hMb0RjOVB2QkdZMzVWeVZDLTBPaHJrMlRVT0pQLXdVbmFvOVFOS0dkYXFZWkRqNnBjTGh6MkRHTlBGZEUzMmxXV0xhclBnZ08yM2NZUHDSAWpBVV95cUxPNEJ1NnV5SGlwSG9EcHZWOTVtOXd5c2JxVi1zX1lJNnJXMEpjendlcTV2NjZYVmdmN0RBdHNhbVBSUGhVNGVXaTROWVJmMmJlSUw3TDNKUmUzZjdIT2NGNDIxOTVSbVUtbkF3?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-21T15:34:03Z",
-      "summary": "文章指出利比亚将人工智能与网络连接纳入下一轮生产周期，强调以AI和互联基础设施推动产业升级。由于原文细节有限，可理解为政策层面把数字化、智能化能力作为提升生产效率和连接水平的关键抓手，后续需关注具体落地项目、资金与监管安排。"
+      "publishedAt": "2026-10-21T20:18:53Z",
+      "summary": "在FOX 2 Detroit的节目采访中，AI专家John Lee分析了人工智能如何渗透并改变普通人的日常生活。他从媒体、教育、工作等常见场景切入，讲解AI工具已从实验室走向大众应用，并提醒公众关注随之而来的隐私、信息真实性与就业结构变化等问题。节目旨在帮助非技术受众理解AI的实际影响，并给出理性看待与使用AI的建议。"
+    },
+    {
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-21T19:30:00Z",
+      "summary": "电商平台对AI购物代理态度分化：亚马逊选择封锁AI代理在其站点自动购物，沃尔玛则反其道而行，推出新技术允许AI代理代表用户完成下单。沃尔玛的方案内置消费额度限制与交易审批机制，用户可对AI的购买行为保留控制权。此举被视为零售业对“代理式电商”的押注，也凸显平台在自动化购物浪潮中不同的风险与收益权衡。"
+    },
+    {
+      "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGlZd3RlaXVuVjhMelBmck4zd3JEWDZPV1ZONERYWjdBNUhGSGZUV3dqSm5mVXZVdFRxS240UGppMGRxSGVzZ0lidTNxbVAxVmU2a0VPVWJUeTFLUXRFaVNLY3g0c0Qyc1ZJMUVmQloxX09yRWV6UkRPR045U1ZyWGwzeVUyd1k?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T19:03:46Z",
+      "summary": "《纽约时报》报道称，大量AI生成的选举相关视频正在巴西社交平台扩散，引发对其可能干扰选民判断、影响投票结果的担忧。这类内容制作成本低、传播速度快，真假难辨，给选举信息生态带来压力。报道探讨了平台审核、事实核查与监管手段能否有效应对，以及AI虚假信息在选举周期中对公众信任和政治进程的潜在冲击。"
+    },
+    {
+      "title": "Anthropic Proposes AI Safety Bill With 50-Person Death Threshold - Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjJZd3ZIc3hERXFQQlRHeVVaQ3VJRVdqM1BzR1VaWGE2MF9HcGdpcHEwTnR3RjR1SzVrMWxSLXYyYUN4UTVmaFlsMllOTldvTVBvWVRNbm9HZXBfWU9WaFJvTm4xVWthRl9DT012Mjg4bldoclRqcVhMeHZmUGdjOUlWcy1GaF91U1I4aVhJUnRHVlU4OWlwTlhkV2Y5d2dyNzRQWU96dzFXVVpGNU9nTk1XNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T18:36:31Z",
+      "summary": "据Morocco World News报道，AI公司Anthropic提出一项AI安全法案建议，以“造成50人死亡”作为触发严格监管或责任追究的阈值设定。该提案试图为高风险AI系统划定量化红线，明确何种危害程度需承担法律后果。报道未披露完整条款细节，但该阈值设计反映出业界与立法者在AI风险分级、责任认定标准上的持续博弈。"
+    },
+    {
+      "title": "A Once-in-a-Generation Opportunity: 1 Artificial Intelligence (AI) Stock to Buy Before it Soars 1,233%, According to Cathie Wood - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlJVOExObGtsUUhVbDgwa0lHd3hOMTJqOFNaTjVheHVJMGdoT0dTc3hLMFRUeXIwYlpGY0xkTWtESDh1WlhiRm5OYmNyTHRFbWpKRk4xeUpRNWZ2cTh6OWk0WEpONzM1ckJ5TFQ3R3F2MkxYRVZocnNjLUtQajhxRFBjMlRtcF9xLXNkcEM5cFljMk1Rdy1LczhmczhxYVQzQWxZUzl4T18?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T18:35:00Z",
+      "summary": "雅虎财经报道，方舟投资创始人Cathie Wood将某只AI股票称为“一代一遇的机会”，并预测其股价有望上涨1233%。文章围绕Wood的看多逻辑，讨论AI产业长期增长空间及该公司的竞争位置，同时提示其预测的高波动性与不确定性。此类极端涨幅预期常被用作吸引投资者的叙事，需结合基本面与风险承受能力审慎判断。"
+    },
+    {
+      "title": "A Once-in-a-Generation Opportunity: 1 Artificial Intelligence (AI) Stock to Buy Before it Soars 1,233%, According to Cathie Wood - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWhoV290SHFuV281NGI0TG1RUk1PQXFObTRYeHlndWh2OHlOWnlWWEl4d1dnWTJIMVQ5VEd2NldSd1lJckpsVUpWNjV0NmM3clAxUnY3UDJtQVFieGtiTGVySUxuZTlTWFZoamtqejg2Rnk2b0dhODJWNWhDUDBsVy13RVU3akFuYUc0clU4VU5QN2QxT1pFcg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T18:26:09Z",
+      "summary": "《Motley Fool》刊文介绍Cathie Wood的判断：某AI股票存在“一代一遇”的投资机会，潜在涨幅高达1233%。文章梳理了Wood看好该公司的理由，涉及AI需求扩张与商业模式优势，并提醒投资者高预期背后伴随的估值与执行风险。该文与雅虎财经报道同一观点，侧重从散户投资视角解读这一激进预测的合理性与局限。"
+    },
+    {
+      "title": "Canada publisher says novelist Thelyson Orelien used AI to write novel - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVC1zNTE4X0RNM0V1SDRzUlZSYlpsYTBCYmZTUnFzdzl3MV9YUTFBVGVtVmZLQzBIZnZBWDA1Rm1EVW1JaDVzbXJNb0hTUUFRMUVGZEEtNXNwV1JuT0RxZmw1el9ieloxSUR4WjduSFJrZENLaHRYWkdnb3FBZkZZMGZqVV9URHl6WXJZblF5TGxMQjFPbXBlaFY4NVY5dkJJLVF3SlJOLVJROWgtSXFPSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T18:00:00Z",
+      "summary": "《海峡时报》报道，加拿大一家出版社指称小说家Thelyson Orelien在创作小说时使用了AI，引发对其作品原创性与作者署名的争议。该事件是出版业面对生成式AI冲击的最新案例，涉及作者是否披露AI辅助、出版社审核责任以及版权归属等敏感问题。业内正就AI参与创作的披露规范与伦理边界展开讨论，相关判定可能影响后续类似纠纷。"
+    },
+    {
+      "title": "OpenAI president seeks AI safeguards as group he funds opposes curbs - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObEpzcnlWWWR3bm9ZdGlYODgyb01Ic2NTQVpDSHBOR0xIOWRjOUY3QXNsLXRHb0x1ZGFzeUlrNS16WG1vVjdVR29TOTBrWDdReEd3LXpGVW1rN3hvV1JmNVhfYlVVWU1BdnZzdDFSd2otQ3VUdFc5cktmVm9xb3pzbUJmLW00aUpLVEd1R21MdjJINGNkbklCWkdQa0RwN2xtX3d4cXk4ejdnYXU0akdEVXJYVGRjMmhzSFdwUlhOcTExQmZnRjA5SjhTbkNWUGROdlZFa2JaV0hQb19VWG5VemR2eE9lc0liUVdNLU5R0gHzAUFVX3lxTFBSTnV2UHNBNWt0SFMtN3FDQllCZEpmUTA1VnluNHhNQ2JYa2NtbXc1YllHcTB2c1Z2YnktNmtWeUhZdWNOOHJYYi1SQTkyUVRTbnhKZnBvVVhlQzZoaldTbUFGZlo5cjZlY2w1OWlXVVVlNzNqN3U1cjBTRU91UjhYLV9QZnNSR3BrR3duTGRDTFVHR1JGRFhIejQ2UjhYdC11RWNmVEdyc2VmOFkxUEF6anFlUHVpYUxQNlBWVHZpcUxJb19CcmpxRWx5Qk5lSWdtNHVVVlJybWVrZUE3N2NtVm53NnBFaDRWdDRLU1dCV2EyZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T17:51:58Z",
+      "summary": "据《Business Standard》报道，OpenAI总裁公开呼吁为AI建立安全防护与监管措施，但媒体指出，他本人资助的一个团体却在游说反对相关限制，形成立场上的反差。报道借此讨论AI企业在安全倡导与商业利益之间的张力，以及行业参与者在立法进程中既推动监管又试图影响规则走向的复杂角色，凸显AI治理议题中的利益冲突质疑。"
+    },
+    {
+      "title": "Florida lawyer referred for possible discipline over filing that judges called 'AI slop' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNlk2SDVXYUp4YlFmSkl1UTBXQjhCSDJyMWNQbTZuUFZHNWYzNnRITDJYVXg5ZDVrbXB1VlY0Q1h0dV8zd3hmMlJDdk1WdS03elVrOTkxS19pMzlrQXNSYkNnTTY4ZTFoWkh3YmszSEZicEM4WWpPdmxPQW1oLVY0Q016U1dVVGtqSWNnd0JOLWVHVlk0bjJVOWpQWFc3REdIVnA5RmJIVmRVdF9weG9RNnI2V0FxZWFxa295ZzFqX0cwNVlXWmt5cnV3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T17:42:19Z",
+      "summary": "路透社报道，美国佛罗里达州一名律师因提交的法庭文件被法官称为“AI垃圾”（AI slop），已被移交接受可能的纪律处分。事件源于其在诉讼材料中使用生成式AI，产生虚假或不可靠内容，违反律师对提交材料的核实义务。该案是司法系统对AI辅助文书加强审查的代表性案例，凸显AI幻觉对法律职业规范与可信度的现实风险。"
+    },
+    {
+      "title": "Santa Fe College awarded $3M federal grant to advance AI education - Gainesville Sun",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWWg0RTdSN3liWFVVYkFkQkpIWFFjR1E4Z2RQQWR6LVN0TlFONFl1OWdaSzVOYUFuSlVvLVdzYktpbDdvVmU2alg5eXItaHdhbmtjU2xCZURTb0tGV3RtVEFGUzNUUWlEWkpuRXlkbEk1aHBwcTFhamxkc1pqb2lyelZQZ002bi13bjA5eVEzRTk5aUJnU0xMc0FDc21jSk0zUUpFd0wzZy10M2N0UU5oQW5tVnNpM0wyRGZ5RlJHZHoySU4tZWVCM0NXNFJJU0Zzcy14OQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T17:41:00Z",
+      "summary": "据Gainesville Sun报道，圣菲学院获得300万美元联邦拨款，用于推进人工智能教育。资金预计将支持AI课程开发、师资培训和学生实践机会，扩大AI人才培养覆盖面，并加强与社区及产业需求对接。此举反映联邦层面正加大对社区学院AI教育的投入，以缓解相关技能人才短缺。"
+    },
+    {
+      "title": "AI-Generated Evidence in Drug Discovery: Reliability, Legal Risk & FDA Compliance - Crowell & Moring LLP",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPXzNkV2c5dk43d1d5alhkOW9BbkJyY2h1VHNEd283dVJZdEc5dGhqbkpjNU1jUHpjXzZDRk5PTndtUmtUZ0hIVWxuRmlLMzN5OGczVlB4b1dWZDloMkV2eWc5ZEJVRkRvNkZ3MXYyOC1QMFRqTWJzTUZkVUl6cHJ1VVVyMk9TZ0xDOGs5eGRMWFVCWFZHUF9TLWJfMnhSbGNrSVVyWWJicGtNT3BvQmRJYlFGT1pkTVJuQWlITUg5MHRKMlRtREprc2xBTEZ2Wno3NU5yQlhYZGNrd3I3bzFlY2NhQWZtazhrWW1nbktxTlNDakE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T17:14:26Z",
+      "summary": "Crowell & Moring LLP的文章聚焦药物发现中AI生成证据的可靠性、法律风险与FDA合规问题。随着AI参与靶点识别、化合物筛选和数据分析，其输出可能进入监管申报与诉讼证据链，因此需确保数据可追溯、模型可验证、结果可复现，并建立文档与治理机制，以应对责任认定、知识产权和数据完整性等风险。"
+    },
+    {
+      "title": "Artificial Intelligence In The Hearing Room: How AI Use Is Reshaping Arbitration Practice - JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1A5ZHRlT2tTZ2FUaEJyMEhGTl9zeFdQRGtDdENrTzJ2OHVDbzN4ZlV2c01zbWZ6Z2hSY1FoUFdpMG1KWW9qcC1uaTdub296VGpDQmxEdFFxaUFaZHpvWkpOeG4tMGR2bENMdkU1Szg3MVI0NlpkS19VNm5FMW0tMUIybnUzX3k3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T17:02:46Z",
+      "summary": "JD Supra文章探讨AI进入听证室后如何重塑仲裁实践。AI可用于文件审阅、法律检索、时间线梳理和庭审准备，提高效率并降低成本，但也带来保密性、正当程序、算法偏见、披露义务和律师伦理等挑战。仲裁参与方需就AI使用范围、数据安全和责任边界形成规则，确保技术应用不损害程序公正。"
+    },
+    {
+      "title": "Build Your First AI Agent in a Weekend: A Beginner’s Roadmap - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM0tKTVRncXp3ZlQ5SUpfemZfalVPZldtMWM3SF9UaUgwOWpmbnc1azl5c3N5ZTJNOVFKT3BNbVZPbHRZcjJTcG94WEE5cUUyRTc0dmJrd183X1IzdGFmcjh3amJsZUZfa0VoME5JWU9ZOUVKYU4wWmlMN1ZyOFVLTndJV1ZSdXBWcldZ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T16:33:26Z",
+      "summary": "TechBullion发布面向初学者的周末路线图，指导构建首个AI代理。文章建议从明确单一任务开始，选择合适的语言模型与工具接口，设计提示词和工作流，接入搜索、数据库或API，再进行测试、迭代和简单部署。重点是以低成本原型验证想法，逐步加入记忆、工具调用和监控，避免一开始就追求复杂系统。"
     },
     {
       "title": "An artificial intelligence model demonstrates the potential for improving the efficiency of structural heart disease screening using electrocardiograms - 2 Minute Medicine",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONTZHa09jSmZnb2hfTlNDWDZfX0RZbDRteWs5NDlBQjJjanZjaUpIS3Zkc1RkdHBuLXNaRnU1MV9zalp6cDk5TGRxaGFHQmswdjZWMkhaVFFzbmdwZURYX1l6alpKT1BoMnBUQ2NlbGthejFZY0YzUjhnRnotNHUtb3g1TXk1c1RjTkFOaVBYZDBjZTVSWmJnQWtuWWJCd0tSMl9PcWlHVDlrTF9RQzFQWXpPUGJleFBfR085VzVrZV9sSDBUdjl6aUdXV3phY3pZY3FpR19SU2xIT0x2ZlpzWVNiTnJ3ZnRWVUxqRXk1OTlIWUpZQld4Mnd3WUxXZ0NzZml0d1RTVl9Bb1Q0eTRzQXR3?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-21T15:33:45Z",
-      "summary": "一项AI模型研究显示，利用心电图数据进行结构性心脏病筛查具有提升效率的潜力。其核心在于用算法识别心电图中的细微模式，辅助早期发现和分流患者，从而减轻筛查负担。不过原文未披露模型规模与临床验证细节，实际应用仍需更多前瞻性研究确认准确性和泛化能力。"
+      "summary": "2 Minute Medicine报道，一项AI模型显示可利用心电图提高结构性心脏病筛查效率。该模型或能自动识别高风险患者、辅助医生进行转诊决策，从而减少漏诊并优化医疗资源使用。文章认为，这体现AI在心血管筛查中的潜力，但临床应用仍需进一步验证准确性、泛化能力和工作流整合效果。"
+    },
+    {
+      "title": "AI in 401(k) Retirement Plans: Advice, Admin & Engagement - 401k Specialist",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWFBDRkVqUzNfRjZQSks1QjIxRlhTVURDSGc5RUsyaGFEWWlfSTU4NzRGdWlOZ25JYS04ekRoa1hsLUtPU01sczE3TVNMYWRVWWZ6QlVWWWZRclZpSXd0c1VqcGZ5ejQ1b1dRZl8zdUY3ckxGQXVVcDd3ZlgyYTNBYWVrNndEWEhoeW4yVDlfdFlMdEMyRFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-21T15:29:47Z",
+      "summary": "401k Specialist文章讨论AI在401(k)退休计划中的应用，涵盖个性化建议、计划管理自动化和参与者互动。AI可帮助分析参与者行为、生成定制化沟通并提升行政效率，但同时需关注合规审查、受托责任、数据隐私和算法偏差。文章强调，技术应服务于改善退休储蓄结果，并置于适当治理框架下。"
     },
     {
       "title": "What “AI” leaves out — and why it matters - Korea JoongAng Daily",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlBKTU1YVmhMbTRwb2pVSmw5OS14X2dScHVFYzM1NHFDcWI4MnRKVmF4ZkVYZVZZMFVrUUpncU9oVzZpal9wMGRBWXJLTlVlTElzV0dYbmhVSzA5aDBwcHhPMzNWeVBjM2lmaHRIbjBaM2VoSTJoQ21XNWV2VkpuRjZUNTRuM2s?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-21T15:04:38Z",
-      "summary": "文章讨论“AI”这一标签所遮蔽的内容及其影响，提醒人们关注被概括性术语忽略的技术边界、数据来源、劳动投入和治理问题。核心观点是，笼统谈AI容易淡化具体系统之间的差异，也会影响公众理解和政策判断，因此需要更细致地辨析应用场景、局限与责任。"
-    },
-    {
-      "title": "Concerns mount over artificial intelligence as Silicon Valley sees AI boom - Focus - France 24",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORXk0Mk1aRWhVMERVZ2tCYnBKT21yLUdpS1VVOUkxUmMwZ1BZNnAtaGtwUGJ2NDFsUHJJSmRGWmZRMUVuWDFJalJMcVJfdy02c3VXanBLS0Vsc2JVVXN3N2xRTlBUX2JxWnctMTJhT3Y0Z2R1RWR6MEJsWTQ3dWtJLXRvYTZpaE1fTUdFbzloQUtKQ2RDZm03YkdUaWVvaDJvRm00OVpvQnA0SkpiaThsM2l2UE1oaXZpenVVUGU0TzNWbHhj?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-21T14:15:12Z",
-      "summary": "在硅谷AI热潮持续升温之际，France 24报道称外界对人工智能的担忧也在增加。文章聚焦AI快速发展带来的风险与争议，包括对就业、信息安全、社会影响和行业泡沫等问题的关注。核心信息是，资本与创新加速的同时，监管和公众审视正在同步上升。"
-    },
-    {
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-21T14:00:00Z",
-      "summary": "TechCrunch报道，一项调查显示超过50%的管理者认为采用AI后更难评估员工工作。文章指出，AI虽承诺提升生产率，但目前给管理带来更多困扰，原因包括产出过程不透明、贡献难以归因和评价标准滞后。核心问题是，企业需要重建与AI协作相匹配的绩效衡量和管理机制。"
-    },
-    {
-      "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGlZd3RlaXVuVjhMelBmck4zd3JEWDZPV1ZONERYWjdBNUhGSGZUV3dqSm5mVXZVdFRxS240UGppMGRxSGVzZ0lidTNxbVAxVmU2a0VPVWJUeTFLUXRFaVNLY3g0c0Qyc1ZJMUVmQloxX09yRWV6UkRPR045U1ZyWGwzeVUyd1k?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-21T13:24:12Z",
-      "summary": "纽约时报报道，AI生成的选举相关视频正在巴西大量传播，引发其是否会影响选民判断的担忧。文章关注深度伪造和合成内容在选举周期中的扩散风险，以及平台审核、事实核查和监管应对的挑战。核心问题是，生成式AI降低虚假信息制作门槛，可能干扰选举信息生态。"
-    },
-    {
-      "title": "3 ways to get your data ready for AI - CIO",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTzRabkVBOUNvZHh0OFpOaFlxZGNsbFAzMUVTWlhoREJTNXVkMnIyenZMazV3XzZZSTFhREg3U0lWNkZKc0ZzdE9QcGlLdnFwWDNxTzZDUGpqQUVnZmxVYnZfSVhlMHBLektNYVRULTlFaG1GVlUyQ2RMYl9Lbm52dEdMMA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-21T13:07:51Z",
-      "summary": "CIO文章提出企业为AI准备数据的三种方式，核心是围绕数据质量、可用性和治理打好基础。报道强调，AI项目成效很大程度取决于数据是否准确、一致、可访问，并符合安全合规要求。企业需梳理数据资产、建立治理机制并提升数据集成能力，避免在模型上线后才发现数据瓶颈。"
-    },
-    {
-      "title": "COMMENTARY: Five AI quirks and conundrums to watch this earnings season - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd1B1bUZjZ09QOC1FaEFmZVZkMWpPT1ZINU5VVnl4RUZUc3VFWDE3UFFWeXNpZ3pBSEFwYVlObjJkd2dOVFgwbXVqSzVLb3ZHWVVBbERZX0V4ZWRNTTI4c19RUHFZbmdHMkt5QjJVVkptaXN4TDYzc2tFdjdqTU8wbnlQT1BsOVdwNnQ1aEE4YXFSa0FSZDRBS0NKZ2NURS1ON0dxUWZicDJSeWdaRXFPMmNhQVI3QzhlMW5SeWdR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-21T13:01:50Z",
-      "summary": "路透社评论指出，本财报季有五个与AI相关的“怪象与难题”值得关注，涉及企业如何披露AI投入与回报、成本如何影响利润、以及市场对AI叙事的审视。核心信息是，AI热潮进入业绩验证阶段，投资者将更关注实际收入、资本开支和商业化进展，而非仅凭概念判断。"
-    },
-    {
-      "title": "SpaceX Boosts the A.I. Rally - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLTdFWU01NlhUUHR4RGdCd2xtbHRZZ0pubFBnLVBpcm9TVUVuLVhEMksxblN5NVZjczQ4QldLNkJ2X09SaDJkNVYzOW9xV1pIVzF6LUpuUUdJMkFSR091dk5ZQnROcy16b05pZEJUTVotWDZDaUhTUHpoUGV4X2F4Vw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-21T12:23:14Z",
-      "summary": "纽约时报报道，SpaceX相关进展提振了AI板块的上涨势头，显示航天与人工智能叙事在资本市场上产生联动。文章可能关注科技企业估值、投资情绪和AI概念扩散。核心信息是，市场对AI的乐观预期仍受重大科技事件和龙头企业动态推动，但也需警惕情绪驱动下的波动风险。"
-    },
-    {
-      "title": "As fans reject AI-generated music, even boosters are drawing the line - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWpDT0oyLXU5X0JiSzlqaG52YjJwQnRvMnNlbU5KNklENnhaUll5dEpTaDk4b0dWemtQbG9CMmcyMmthTU5LWmdCczdYYnRxRjZxWVBpLXEtU1cxM0NJb1lEY2FKWjdWV2t4ZWprRzljVFphNGp5cGRZVm1yam93X0JiVU1fdkI0eFNfanY2TEtiZ3BhUmJhZQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-21T12:00:00Z",
-      "summary": "卫报报道，随着乐迷对AI生成音乐出现排斥，连一些AI支持者也开始划清界限。文章聚焦生成式AI在音乐创作中的版权、原创性和艺术价值争议，以及听众对“机器代笔”的接受度。核心信息是，AI音乐虽降低创作门槛，但公众更在意透明度、授权和人类创作的主体性。"
-    },
-    {
-      "title": "Epic launches Connectors to link its AI tools with third-party apps - Fierce Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFhaNU9xU0NZM0NUZ0NIbVRoRHk3Y2c2YUpxUkl0QzVtZTVScmdjdGt5Y2pJTUF4eF9RTE1fQk1QbmxNQ0lYTU9XOHdCd3I1UnZZODdLZkg0S04yREVqM09FY084YU1NVjhzU01BUmp1aWs2dV8zS1NMaEVack41QTlrblBPZjJzWUl0U2FFM1lwaFN2RkNLU1Y4SWlsNTNCWHZ4cEJ4Rk0ya0FqWVVNWVViMXRaMk0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-21T12:00:00Z",
-      "summary": "据Fierce Healthcare报道，Epic推出Connectors，用于将其AI工具与第三方应用对接。该举措意在打通Epic的AI能力与外部应用，降低集成门槛，使医疗机构可在既有工作流中调用第三方AI功能，提升互操作性与扩展性。具体支持范围、上线时间和合作方尚未披露。"
-    },
-    {
-      "title": "Who controls intelligence? Open-weight models, institutional AI | Daily Sabah - Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEJaSE9lc0ZwNjJIeG9ZdHMzQzVNMlVWOU5UVUVHSkFXMUVvVVpwZ1hJSXlUTFY1WWdfckxEU3htVU1lMHJZcnZ1a1FycjQwNGpPektiQkY4ZTJJRHlNNnFSWnpDZHdOU1o4MWVPcjNCUHQ0V2VkZGJLdVdRTjM2UVZhZzlaNVo3ZHdPem4tSDVQVUJ1VmpWQWV3Ym40X3NsQTAtNtIBqgFBVV95cUxQRW1SLWgydUxyNkFNTGFQTUtuaktaX0JHaWJTdTkzTHdfSlQ4Si00TGNQODlXV21NVlRTdHoxV0NmSms0UVVQZzlqS0RwdE54VTU5VGpnYnRCS2kxUUZJNzlwYkhmOE9QaVktcUxNaW9JUFEyeUEza1FGa1ZXcm5hUmliRHVRc0tzM0toMmVWQ3hkUEZLUEtod2Y0LW5CWTlMS3kyWGp0QXA2QQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-21T10:28:00Z",
-      "summary": "Daily Sabah文章围绕“谁控制智能”展开，讨论开放权重模型与机构化AI对智能控制权的影响。开放权重模型可降低开发门槛、促进透明与竞争，但也带来滥用和安全风险；机构AI则强调治理、责任与合规。文章核心在于平衡开放创新与制度监管，厘清AI权力分配与治理边界。"
+      "summary": "Korea JoongAng Daily评论指出，“AI”这一统称常掩盖技术背后的数据来源、人工劳动、算力消耗、环境成本和权力关系。若只讨论抽象标签，容易忽略具体系统在具体场景中的收益与风险。文章主张转向可解释、可问责的应用层讨论，关注谁受益、谁承担成本，以及如何建立更透明的治理机制。"
     }
   ]
 }
