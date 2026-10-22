@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "6785",
+      "title": "Stillion (CEO Park Chan-am), an artificial intelligence (AI) security company, announced on the 22nd.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLa3hoQnJoZndZd3dqcmhXRDEyd2U0SEVNMV9vOGRNaDNFQnFITElycXpfUTFTc290MUZ3QzlOcEx4SHpabzI4THlDNTl3Q1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T05:41:14Z",
+      "summary": "韩国AI安全企业Stillion（代表朴灿岩）22日发布消息，但当前可见摘要未给出具体发布内容。结合其AI安全公司定位，该动态预计涉及人工智能安全产品、技术或业务进展。由于原文信息有限，具体合作方、技术指标与商业安排尚待披露。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6786",
+      "title": "As the artificial intelligence (AI) industry grows, efficient use of AI computing resources is becom.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TLUtQRHBvSTJJdVdpdUVyNjgtTWluZm5jRHFHZV9pRGxlN1NoZFJ4cEJNTWxSN1BBWjM4bmdXTHJuZnc5cUR1bURlUFRPWHpYekZZ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T05:33:20Z",
+      "summary": "随着AI产业规模扩大，AI算力资源的高效利用正成为关键议题。新闻摘要显示，行业关注点正从单纯扩大算力转向提升资源利用率、降低训练与推理成本。具体技术路径可能包括调度优化、异构计算、模型压缩与能效管理等，但原文可见信息有限，相关方案与数据尚待披露。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6787",
+      "title": "AI is not a legal entity and responsibility remains human, Law Society warns - Today's Family Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN01RTmQ1Z25WajU2M0YxU1pPSnI0MlQ1OWZxRDRkWmVTa2pBVFpVdVVRdDUzaUIxYmFkaVVkWTNtdVh5WVhJX3lITEtsSjZxbG9xaUM4eFJuUEZobWlaLWo2eEdDc21NVWRMN0RNY3JPWExuZTA4UkpqLXEzaUtqVlNxN0dibHFkNlJtWVRBZ29GQTZlSHJEZGN6aGhQV3NlVlhhTExMU3hUUFUyZHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T04:03:21Z",
+      "summary": "律师协会（Law Society）警告称，AI不具法律主体资格，使用AI产生的责任仍由人类承担。该表态强调在法律与专业服务中，不能将决策与问责转移给AI系统；机构需建立人工监督、合规审查与责任追溯机制，确保AI辅助工具在人类控制下使用。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6788",
+      "title": "Chinese-linked hackers use AI to compromise firms globally: Microsoft - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaFh5MGR5QWotbjc2VjQ3MGNvUVRBWENjZlhxbjBFZ2ZjMy1iRi1ZNTNSV2FkWV92SWRWR2Jva1FhaTZnTVBTa3dfdDlKcjNkTjdRc24xZkNzT1RTVTAwQXIxRXpxXy1OMVNxcGRYRzdQNEliQmd0c3VTc3NjaG15dTBPQTdhM2FTWERqZ3dMa2U2X2lhM0cwZTdFYUo0VWgxSjVVaW9kVHJzRmc5VUlxU2xVZmZmMzRQbFVSRGJma3Rjb3JJYndBa1ZmeE5KTTJaRFNBTlRraDY1MGtDaXRzRU1MWHFMbVBsTTdnMm930gHzAUFVX3lxTE1yV2ZtVkd5M3prdGtXRXlPZzJmUG4wVk5oWXVaY0wzb1g1SmVtR3FoeVk4QS1pUW14VFRXZHlaWGRDVDdVS3BGTHdFRktZLWw0OFhKTEo4YmZhTzVRQS1hSFFFMkJsUVNQeURMWTZmUXlFNlJjODNJYWFTY0tOTVZvNmo1SGdEUkhJd09uenNkaHlYWVFoNWQ3Y2RnX2xaME52MjRRak9pUmVDRW55ZVNoRGl2aHNDQkFfQXRFTEZMSFRhR3I3MzlRZnFyUUZwYXZQdlp1cGp5bGNFeWZiWEtqa0J6VFAtNFFXdGtoSkEtY2VCVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T03:58:03Z",
+      "summary": "微软指出，与中国有关联的黑客正利用AI技术攻击全球企业，提升攻击的自动化与欺骗性。报道称，此类行动可能借助AI生成钓鱼内容、筛选目标或辅助漏洞利用，从而扩大攻击规模并降低作案成本。企业需加强邮件与身份安全、威胁情报共享及AI驱动的检测响应，以应对日益复杂化的网络威胁。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6789",
+      "title": "Canadian publisher drops author, says he used AI to write novel - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVjJIQkJwUFhmWG1lV3R4dU40a0FEOVlrWHY3cEM5N042UGZlNHRlaFNVYjd4SE9QRlZLOEozVzdDSHVLS2ZBdTB6N2dnLUJzZi1wbWhYMjgyNmtsTEhiOThXbG0zT0dsSTZPbjlOdUJZaF9ZX2xEdUhfTHoydW5ORDdBeS1FdHJsYU1ERS1naHJsT041V0tmTzBfUFlJQmhMaDA5dk14bGNDNGFOYmZILTAwaDZwdUJwdnlVcEdhLUFQbDFHal9KMWs0TkRSSlBZYVNlbtIB1AFBVV95cUxQSWQwT0k3eVFXRFkxTE5VODdfa1o5b3g5VlNVcmJjNTdSWExLT25TbHlmbG5kdDVvRWY1RkUtTG1DSjNocDVkOUR0aXhTM1VUT19ucWpXajk4RTR0Ti1JT3JOMWczM0o4cVdQY05PWXdQUTJJeVBjTndUR2dlMjFMa1NQSHBxbTN3clBTeURJUEtlMUw2MXJad1hIQWlXdDJUODdNOUNfMzBYNjZ4bDh5SFN6b2E4R2k1RVVRZlZka3p4UlhXLWdQRy1PQTl6cDRwdUdnSA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T02:52:47Z",
+      "summary": "加拿大一家出版商宣布解除与一名作者的合作，指其在小说创作中使用AI。事件凸显出版行业对AI代写、作者署名与原创性的审查趋严。报道未披露作品名称与作者回应等细节，但显示出版商正加强对投稿和成稿的AI检测，并要求作者披露AI使用情况，以维护版权、合同与读者信任。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6790",
+      "title": "Cognitive Task Substitution, Cognitive Offloading, and Behavioral Dependency on Artificial Intelligence-Assisted Technologies: A Scoping Review - The Cureus Journal of Medical Science",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVndGOWlsZnJTSXZsNkllUUpIQ08yaFBRSmdyV2tGazU2X0Rvc3VMZDVKa1BfOUdTaVVNUmVKSlptU21nSTZERm03dktvUTlrQl8ydFhKSV9qSXlGaTh1ams5eXA3ampzOUJ1MFJaeENFeFFNZ3Y4UjVQQzFVNXU5emRmeTlCZ3lrX0tYbTVWcU9hSDY4Q09MMHZ3TkhNUHB0VTEwM3l5TkNmV2gtM1RWZDZHQ0xYQ2ZJVDR6Z1JVSDVieWRsZ0FTcTBUYTNoSGU3eEpCamRhZm1ycURmVnE0OHhSRjZrZExVdTVOVlY1SDNQZjJvYWhSaUVHSGZCY3BwZW5NWkFEcXU5b0U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T02:46:33Z",
+      "summary": "《Cureus》刊发范围综述，聚焦AI辅助技术带来的认知任务替代、认知卸载与行为依赖。文章梳理相关研究，关注人类将记忆、判断与决策任务交给AI后，可能出现的技能弱化、过度依赖及行为成瘾等问题。该综述强调需在提升效率与保持人类认知能力之间取得平衡，并为后续实证研究、产品设计和风险治理提供框架。",
+      "fetchDate": "2026-10-22"
+    },
+    {
       "id": "6774",
       "title": "Artificial intelligence (AI) startup Chokmah Labs (CEO Han Sung-in) will expand its contact point wi.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zNXpsVXNGY2Rmbm00M2FOV3FPYmZfYkcwbm85Sm5EZERHaFRuNFNhaHFvNGlLd2MzUXhhUkRWMnhyX0QyZDRCYUNhUy1LU1NLaHBv?oc=5",
@@ -61048,5 +61102,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6783
+  "total": 6789
 }
