@@ -1,12 +1,102 @@
 {
   "articles": [
     {
+      "id": "6818",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T19:07:09Z",
+      "summary": "1Password推出新功能，允许AI代理代替用户登录其个人账户，同时不向代理暴露用于保护账户的私密凭据。该机制的核心在于凭据隔离与代理授权：代理获得完成登录操作的能力，但无法读取或留存密码本身，从而在便利性与安全性之间取得平衡。此举被视为面向“代理式AI”的身份与访问管理基础设施探索，为AI代理代为执行各类在线任务提供了可审计、可控的授权路径，也回应了企业对代理滥用与凭据泄露的担忧。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6819",
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T19:00:00Z",
+      "summary": "Canva发布其首个自研图像生成模型，并向全部用户开放，而非仅限付费或测试用户。官方称新模型在生成质量、可定制性和成本三方面均有改善，能以更低价格提供更好且更贴合设计场景的效果。此举意味着Canva从集成第三方生成能力转向自建底层模型，有助于降低对外部供应商的依赖、控制推理成本，并把图像生成更深地嵌入其设计工作流，在竞争激烈的创意AI工具市场中强化差异化。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6820",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T19:00:00Z",
+      "summary": "OpenAI将其决策类模型向全球广泛开放，此前该模型能力受限或仅小范围可用。随着决策模型赛道升温，OpenAI此举被视为对同类竞品的正面回应，意在抢占企业级决策、分析与自动化场景的入口。报道以“能否与最初的竞品抗衡”为悬念，反映出该领域已从模型能力比拼转向可用性、生态与成本的综合竞争，模型开放范围本身成为争夺开发者与企业客户的关键手段。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6821",
+      "title": "Louisiana court buys AI servers to test how tech can streamline workload - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1NjUkxxaEV0Q0I5WTZmX1h5LW45dko5TlAxMmRKRW9BTDNtLU5KeThPY3U1eGZfOUVoSXU1SVRoano0aWgycFRsY0t2TkhQVFh4LVh0VHN2ZTY0VHNTNXJRRmY1WlpRRzNxT1FURElhTFZDbzZoQ1M5ZU1IV0JLUldUSzFrSnpJN2JOOElnUnNFUTFqUUljRXNfSkJMZi1IbURPR2VoNkNEc0ZMSDRfbnlHWnBPV18tSm5QT0ljRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T18:58:04Z",
+      "summary": "据路透社报道，美国路易斯安那州一家法院采购AI服务器，用于测试该技术能否简化并优化法院的日常工作负载。项目属于司法系统的技术试点，重点在探索AI在文书处理、案件流程管理等高频事务中的实际效果，而非直接参与裁判。法院系统对准确性与合规性要求极高，此类试点有望为司法机构引入AI提供成本、效率与风险控制方面的实证参考，也反映出公共部门对本地化算力部署的关注。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6822",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T18:43:53Z",
+      "summary": "微软AI负责人Mustafa Suleyman称，微软的新AI诊断系统在《Science》发表的研究中于疑难病例上表现优于全科医生，并将其目标描述为追求“医疗超级智能”。不过报道指出，性能提升主要来自底层基础模型本身，而非微软系统独有的设计，这引发对该系统实际增益的讨论。该进展显示AI在辅助诊断领域的潜力正被严肃评估，但结论仍需更多临床验证，且“超越医生”的表述需结合研究设计与适用场景谨慎解读。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6823",
+      "title": "Another Proposal to Rename AI - Communications of the ACM",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOTE0czl5am9tYUUzRnYwVG5yNzVxYno0QzJ5eTBRYmZzRXhiV3RIZHh4aEFBVW5TblpZcU5Gc2Q3Wmw3OXo2OG8wU2N1ZVl4Q0NGU2ZXa2wwSHFWSk5rRDBOYl9PME50SkhSeQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T17:51:02Z",
+      "summary": "《Communications of the ACM》刊文介绍又一项为“人工智能”更名的提议。文章关注“AI”这一术语在科学传播与公众理解中的模糊性：当前系统多为特定任务上的统计与生成能力，与“智能”一词所暗示的通用认知能力存在落差，容易造成过度期待与误读。更名提议旨在推动更精确的表述，以反映技术实际能力边界与风险特征。此类讨论虽不改变技术路线，但关系到监管话语、公众认知与学术表达的严谨性。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6824",
+      "title": "Microsoft, Opella partner on agentic AI content verification platform - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGdDQ3RuaUotV1JMZXk4YWt5bUp6RnprRVZCUXplWUhoMFluTjJGOHlQVHcwVFpHNTQzVzRuSnpTalFrTFRLVUcxTGdVVWdkdnFNUGE3SWxadTYzR084bkFTY09qdlIzRVVqekhKQTJDbFdfRGpsU3RHRDFKSHRjQkp6di1oeFN5LTczcjJzU3VqMFA2bXFmeEs4TUM0ZHk5Y1JSVDJJWS1TaG5DbEhMTVpyOWFrb3Bpc0hlRUc5QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T17:00:00Z",
+      "summary": "据Fierce Healthcare报道，微软与Opella合作推出基于代理式AI的内容验证平台，面向医疗健康领域的信息审核场景。平台借助可自主执行任务的AI代理，对内容进行核查与合规校验，以应对医疗信息量大、专业门槛高、错误代价大的挑战。该合作体现两个趋势：一是代理式AI从通用助手转向垂直行业的流程化应用；二是内容验证正成为医疗等强监管行业部署AI的前置条件，强调可追溯与人工复核的结合。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6825",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T16:47:17Z",
+      "summary": "微软将IT服务商ConnectWise遭入侵事件归因于一个与中国关联的黑客组织。攻击者借助ConnectWise的远程管理与服务通道，入侵其大量下游客户，并对数千家企业实施长期侦察与间谍活动。报道特别指出，该组织利用AI代理加速攻击流程，实现规模化探测与渗透。事件凸显软件供应链与MSP（托管服务商）模式的风险放大的效应，也表明AI正被攻击方用于提升自动化攻击效率，防御方需加强第三方访问控制与异常行为监测。",
+      "fetchDate": "2026-10-22"
+    },
+    {
       "id": "6808",
       "title": "Uber puts all 30,000 employees on ChatGPT Work",
       "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-22T16:00:00Z",
       "summary": "Uber宣布将ChatGPT Work推广至全部3万名员工，此前该公司仅在小范围团队中试点该企业级AI代理产品。此举意味着Uber从局部试验转向全公司规模化部署，成为大型企业采用生成式AI办公工具的标志性案例，也反映出企业级AI代理正从试点走向核心业务流程。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6826",
+      "title": "New Microsoft guidance warns that “trusted” AI agents carry serious security and safety implications - Windows Central",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSlJjWWNrckxrRV9lVmZmaG9Lcy1VTmpWaWlGU1NlYnJ2NmkyT01nVUVMTHF2UVNBRWxDY2FwQlI2aUQzZG4zbTFTRzBoek9HMXg0cVJqSkdNUTZodkYycHhheVNKVlBrWmdSbDVkWDdCRVNMa2xjbllkdWg0VlNaaG5wdENPOTN6S1R1eHowODNocnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T15:49:34Z",
+      "summary": "据Windows Central报道，微软发布新指南警告：即便是被标记为“可信”的AI代理，也会带来严重的安全与安全影响。指南指出，代理一旦获得较高权限并接入企业系统，其被提示注入攻击操纵、行为偏离预期或被滥用时的破坏范围会显著扩大，因此不能仅凭“可信”标签就放松管控。建议包括最小权限原则、细粒度授权、持续监控与审计、隔离高风险操作并要求关键动作人工确认，反映出代理式AI治理正从功能竞赛转向风险控制。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6827",
+      "title": "IMF, OECD warn AI could widen rich-poor country divide - The Arab Weekly",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmNBeXRvRUFtNTFrMTlCRmlUMWh3MGxHelJDdjdVMlViSVBUOVI3YnotRVJfaV9heWN3NFlHSlFUQUtOMG41ZXg0bE96dHZKcGMtem1PTUZlbXI2d2NIMEoxd1kzNUpaWFdYWmN0LXdhaVhEcmFIOXExUkc3ZVZ0dGRRRWc4dw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T15:17:48Z",
+      "summary": "国际货币基金组织（IMF）与经济合作与发展组织（OECD）警告，人工智能可能扩大富裕国家与贫穷国家之间的发展差距。核心风险在于AI技术、算力、投资和人才分布不均，发展中国家若缺乏基础设施、技能培训和治理能力，可能难以分享AI红利。两家机构呼吁各国加强政策协调、增加包容性投资，并建立合作机制，以降低AI加剧全球不平等的风险。",
       "fetchDate": "2026-10-22"
     },
     {
@@ -61345,5 +61435,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6816
+  "total": 6826
 }
