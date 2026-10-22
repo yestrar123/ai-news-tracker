@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "6808",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T16:00:00Z",
+      "summary": "Uber宣布将ChatGPT Work推广至全部3万名员工，此前该公司仅在小范围团队中试点该企业级AI代理产品。此举意味着Uber从局部试验转向全公司规模化部署，成为大型企业采用生成式AI办公工具的标志性案例，也反映出企业级AI代理正从试点走向核心业务流程。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6809",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T15:03:58Z",
+      "summary": "Spotify联合CEO古斯塔夫·瑟德斯特伦表示，公司当前的AI押注是让Spotify成为AI代理首选的音乐服务。随着AI代理逐步代替用户完成选歌、播放列表管理等操作，音乐平台的分发入口可能从人机界面转向代理调用接口。Spotify希望在这一转变中占据生态位，确保自身服务被代理识别、接入和优先选择。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6810",
+      "title": "Why AI’s Deepest Mind Believes the World Is About to Change Radically - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGl4TVIxUEZZUmFMMVhheHBMV1lCSnlGbGNCX25US2dMRDFCakdUVmJBQ1pOXzdZYmh1eFV0QzNOOXNQc244b1UtUkZIWEF6T2ZoOW5zOVM5Z1VVUUtUTWNoT3E5emdiTDcwcldYMjcxSjBoZWt5VmtaYjBmTGd5Wmw1MGotZ19t?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T13:55:45Z",
+      "summary": "《华尔街日报》报道聚焦一位被称为“AI界最深思想者”的人物对世界即将发生剧烈变化的判断。文章围绕其对人工智能发展速度、社会冲击与未来格局的观点展开，认为AI带来的变革可能远超渐进式改良，而具有根本性重构特征。由于原文细节有限，具体论证与受访者身份需以原报道为准。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6811",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T13:53:26Z",
+      "summary": "Anthropic推出名为Claude Duet的新应用，被视为其在AI代理方向上的重要布局。该应用目前通过候补名单向Pro和Max订阅用户开放。此举表明Anthropic正从单一对话模型向可执行任务、协同工作的代理型产品延伸，与行业整体向代理化演进的趋势一致。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6812",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T13:26:52Z",
+      "summary": "Nirva完成3300万美元融资，用于开发一款仅聆听佩戴者本人的环境式AI吊坠。该产品定价249美元，计划于今年年底前发货。其核心卖点在于始终在线的环境感知与隐私边界设计，只采集用户自身语音而非周围他人对话，反映出可穿戴AI硬件在个人助理场景中的新探索。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6813",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T13:11:13Z",
+      "summary": "据报道，DeepSeek在数日内完成约150亿美元融资，成为中国规模最大的融资轮之一。值得关注的是，此轮融资距美国以国家安全为由要求联邦机构移除其技术仅隔数日。这一事件凸显中国AI企业在外部限制压力下仍获资本强力支持，也折射出中美AI竞争与产业链脱钩的加剧态势。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6814",
+      "title": "Call for Abstracts — 2027 Petrie-Flom Center Annual Conference: Generative AI in Healthcare: Law & Regulation - Petrie-Flom Center",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVRTNVphTExLamVteHI4LWU4elZqSlBsdUE2UUQxTUdyNU5EeV9GNzFwbTlWOWhtWmZ1NWMyV0tKd2VBaC1VOHp1c3lTbkFTMHVvdGlnenJEcW9zYlo3ZWllZl9uUldZQVlRX21nZFhUVldBZWZuRk5VQjdfRUxnOXFyYXRzVUo3YjZuYW9SSWQwRHJrXzUzeXJGMk14ODlGTXdMMjdEZ1o0eGJtT01uRGlSazF5QTQtYUstdWFROEhObklFRC14Z3c5bG1PZUNNRUFtNFFfQlFScnlSTnhDT2Z2U0I?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T13:07:50Z",
+      "summary": "Petrie-Flom中心发布2027年年会论文摘要征集，会议主题为“医疗健康中的生成式AI：法律与监管”。征稿面向关注生成式AI在临床、医疗数据、责任认定与合规治理等议题的研究者，旨在汇集法学、医学与政策界的跨学科成果，为医疗AI的制度框架提供讨论平台。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6815",
+      "title": "Investing in Artificial Intelligence (AI) Stocks Can be Risky, but This Might be a Great Way to Do It - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMEVnSURSanliNF9TRWlPb3gtZzZGZ3pKTHNwc0dLeUZ0d1RMLUdINnRhU1l2ejNFcm5rRjNzMzlheFE0Um1lRmd4aXh6X01hT29rMFdPd0JwbFRyVXgxc1ppcGNBLTZUMmlYb2VlRzNGVjFTejRsa19pNzlKVW5tNjNteVpzWU5HRzY3OXlqZzhHVnpkSDZLcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T13:06:23Z",
+      "summary": "《傻瓜投资》文章指出，投资AI股票虽存在估值过高、技术落地不确定等风险，但通过分散化方式可降低单一标的风险。文中提出一种被认为相对稳健的参与路径，让普通投资者在控制敞口的同时分享AI产业增长红利。因原文信息有限，具体标的与策略需参照原文。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6816",
+      "title": "1Password lets AI agents use your passwords without seeing them - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdHN4YWJZaU5tc3RyZDcxRTFnci0wZVR2UnJyNjUtelM0c1czSmQtQTExR2RlMFFfWUNfVHNreHpWOWlZbUNyclNtTGZCMFRFbGt3Z1Zxem9HWlRXQ1FoTV9OTUNzaUdpX3NTUG5oSWdKQUJhNU83OUhYR0IwMVN6UHJBaS1tbjFMV1pmTTNsMENUeVl2S1hrYkYwOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T13:00:00Z",
+      "summary": "1Password推出新机制，允许AI代理在不直接获取明文密码的情况下代为完成登录等操作。该方案通过受控授权与凭据隔离，使代理能够使用密码而不“看见”密码，从而在提升自动化效率的同时降低泄露风险。这反映出代理普及后，身份与凭据管理正成为AI安全的关键环节。",
+      "fetchDate": "2026-10-22"
+    },
+    {
+      "id": "6817",
+      "title": "Beyond Generation: Why the Creative Workspace Is Becoming AI’s Next Frontier - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTlJdzlIYkJ0SkRxN2s4dkNHLVJYX0lzVGJXWDRCT2hBb01FLTFWeUxqUVR5YkJkeFBraXdvbjc3bmNyNXAxQS05NjczN1hFeG9TR2VwRmVTUlV4bUVZYU9KTVRUUWtoYzY0ODFrZFhWczBybGFBM3BPdVhTWnpiUjAzaU1PRWdfc3BRaDBqU2UycmhVM1ZZMjRiajZwbG92?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T11:15:07Z",
+      "summary": "TechBullion文章认为，AI在创意领域的下一前沿不再是单纯的内容生成，而是创意工作空间本身。随着生成能力趋于同质化，价值重心转向支持协作、素材管理、版本迭代与工作流整合的平台化环境。谁能承载完整创作流程，谁就更可能在创意AI竞争中形成壁垒。",
+      "fetchDate": "2026-10-22"
+    },
+    {
       "id": "6791",
       "title": "Barclays cutting 5,000 jobs in AI-led efficiency drive - Sky News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjhmc1ZRdF90YkRMeG0tMEx0SXNhSFV5eTRSeE1GbDhPRDJNbmVBeGR4TmxrMFJZOHlLVWgtSjQzVC15WlZ5OS1ZbURxX0xZM3dnYzdfbWltd0tBRGNJSC1DTS1ucDRnd2xPbGNVaHNmbm8zR0JjNWpJSGktNVhIaGdtaTFrS1NDR2N2QmRBMDBiMi1f?oc=5",
@@ -61255,5 +61345,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6806
+  "total": 6816
 }
