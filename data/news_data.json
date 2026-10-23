@@ -1,111 +1,76 @@
 {
-  "updatedAt": "2026-10-23 16:04:17 UTC",
-  "totalArticles": 15,
+  "updatedAt": "2026-10-23 20:45:22 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T19:06:23Z",
+      "summary": "TechCrunch将于2026年举办Founder Summit，并与Fidelity Private Shares合作。活动为全天议程，话题不限于融资和AI，还涵盖寻找客户、组建团队、打磨路演、培养创始人领导力，以及在传统创业中心内外扩张公司。演讲嘉宾来自Toast、Bessemer等机构，旨在为创始人提供实战经验与交流机会。"
+    },
+    {
+      "title": "UAE researchers win award for AI tool that helps surgeons during operations - The National",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdDh1M05SWm4xTGJ5QnM4a2hmLUFMbW9sTFhRUy1LRnQxOVFkc2U2a1NqeVhvcEEwSFRpMHJwOTFCZzhURlpUY2dUejRDNElQTC1ZU25XZDE5dHhYVW9YeDVhNUh3cXJBWk1xVHFob2E2Z0ZMMDVlZnRiWkdtNVQzMXFzWGdJa1FORXlfSUwtRDJpdWpCQ3ZCMmphOXF2Wk9aRGVRd0txb204eEdXSW5mb19RcXM4NGtOWDZiZjlaTkxPVUhPbmdZ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T18:22:30Z",
+      "summary": "阿联酋研究人员因开发一款可在手术过程中辅助外科医生的AI工具而获奖。报道未披露具体技术细节，但该工具面向手术实时支持场景，表明AI在临床外科中的应用正获得专业认可。此类技术有望帮助医生提升术中决策效率与操作精度，但其临床可靠性和安全性仍需进一步验证。"
+    },
+    {
+      "title": "Barclays Is Latest to Redirect Spending Toward AI as It Trims Its Workforce - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeUxOcEpjVHhVNGFPa1hLWVNlVzFZM2JmOUM5RkU3bTM5akRad3JFU0pxSjAwR1RmYlN1SThHSW9HQlJsNVJSVzZoLTM2NWdwdnd5empqY0ctUURuXzAta3lwaGg3d1ktcXJUYkY1ZmpxLXlOTHFQUHR0RkpXbVJnMDBGSE50OHFRSmVVdVdMZnREdGdHWHpjRmhsSU5udkQzWG5FdXFYamdjMGlBLUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T16:05:00Z",
+      "summary": "巴克莱银行成为最新一家将支出转向AI、同时裁减员工的金融机构。报道显示，银行正在控制人力成本并把资源投入人工智能，以提升运营效率和自动化水平。这一动向反映出金融业正加快AI部署，并由此重塑岗位结构与成本配置，相关劳动力影响值得关注。"
+    },
+    {
+      "title": "Cognitive surrender: Artificial intelligence’s threat to democracy - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHNiX1o5akZOX0tGVTFyaEpBUEdUUkVMeTBleFZNY3NJMHF2ZHV6RUVmVzdjdkZaaTZCWWpubHdWVzI2WHhKeEltZDhLQlE4Z21lRlFyU0NtSXg2Q0M2MElTSmVMMjNESTRmdGRwNUI2UkxrN3N1czZZTEhnemZwVVJoa9IBiAFBVV95cUxORnhpUTV6NUczREVla3ZqQ2JQZDR3WnNmVVJTbnBUMEdwMjIyY1NjYldaeEdiU1o0dG5OQWVsYVc2TDRhbWw3Z3lOUzdqelRfbnlKdkRMRndwTXVMVGFRU3dVd2JyZURXZU9CMjdZZXFtYjEyLTRWMElTbXpUWi1pYlg4OTIzU3dZ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T16:00:00Z",
+      "summary": "《国会山报》刊文提出“认知投降”概念，警告人工智能可能削弱公众独立思考和判断能力，进而威胁民主。文章认为，过度依赖AI生成信息和决策建议，可能使人放弃认知自主，放大错误信息、操纵和极化风险。文章呼吁重视AI对公共认知与民主治理的深层影响。"
+    },
     {
       "title": "OpenClaw creator spent $10 million on AI tokens last month - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlB3cXhKbHdmZGxMQ3cwR0hOV0gyZVBUbENXS3BrQjZOWjBJNTZBWFZibUJsMFpmU2hDTWxXSXJ4U19qNFBaTWpkNlVORXV3dnluMnRkVU9zR0x6NG5BWjB1bXB6eG9hMEFONkZFeThJSEFHYjdkYmJIUWRHU3NNd0VEVUhTbmkycnRvTUwzaWhMYmhzUW04N2JxbklzZzB0c2Znemg1QS1ZcHBwcDlJ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-23T15:46:25Z",
-      "summary": "据Computerworld报道，OpenClaw创始人透露其上月在AI token上的支出高达1000万美元。该数字凸显生成式AI与智能体应用在规模化运行时面临的推理成本压力，也说明token消耗已成为AI产品运营的重要成本项，模型调用优化、缓存与成本控制将直接影响商业可持续性。"
+      "summary": "报道称，OpenClaw创作者上个月在AI tokens上花费了1000万美元，凸显大模型和AI代理大规模调用的高昂成本。随着自动化任务增多，token消耗会快速累积，成本成为AI应用落地的重要变量。这也说明高性能AI工作负载虽能带来效率提升，但企业需精细管理调用规模与预算。"
     },
     {
       "title": "AI: From Artificial Intelligence to Automated Impact – aviation enters the age of the agent - Routesonline",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRjBnTGZJaThUbW5FQVlYVHlRUnFPQ3J2eVNMaWlSaFlOOVJxTHZ6X3VTYzJFZXJ3UXh4NXlSOVdoX2FZaElESHdDNkdtcVFsTUxHUDBsdU9aUWluR2ZScS11VGR4bTJNX3VpbFh0MnAwSjlsZUV3TWtoNWlXSUVKMVlSR3BnWGpLSFhlNmdYQXZIZHdpZ0Fobm1idllfeWdOcGFPaThTM0ROQVlxdHlEVXdpVUs4Q1J5TkxuX3BqOVp5eFdtSWpMRTNmaUNUaDI4QzNhMERqS3lnczdiQXFId1BrZjE0eWFvR05JbDd2b2xtQ01sc25EczJiWnJPbkpmSTR1dQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-23T15:22:00Z",
-      "summary": "Routesonline文章称，航空业正从传统人工智能迈向“自动化影响”与智能体时代，AI代理有望用于航线规划、运营调度、客户服务和收益管理等场景，推动流程自动化与决策优化，但落地仍需兼顾数据集成、监管合规和人机协同。"
-    },
-    {
-      "title": "NVIDIA chief backs Kazakhstan’s ambition to export AI computing - Cyprus Mail",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdG5GcllaU1FHSlhjVVBpR0FwTXNTZF9mVGJ5aENQYndROG12NjZOSHVScHpBbGhHTGJzU0NjR2xIMlVBWUhjdWFYZEJRVURTa3g1VXJMb29LWHZiOTRoMFZ4T244M3pVNGttVjRlbFQtaU9FNWgwTzBmQ0Q5WllNOU9lZkpPSVo2UkpNSHRVUDJSUFNHWm1XU056VVpTUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T15:05:42Z",
-      "summary": "NVIDIA负责人支持哈萨克斯坦出口AI算力的雄心，双方或在数据中心、GPU算力基础设施和AI人才培养方面合作。此举反映全球AI算力需求持续增长，资源与能源丰富国家正试图成为区域算力枢纽，并更深入融入全球AI供应链。"
+      "summary": "Routesonline文章指出，航空业正从“人工智能”迈向“自动化影响”的代理时代。AI代理可承担流程自动化、运营调度和决策支持等任务，提升效率并改变航空公司与旅客的交互方式。文章认为，随着代理技术成熟，航空业的服务和运营模式将出现更深入的自动化变革。"
     },
     {
       "title": "Artificial Intelligence Advances Precision Cardiovascular Care - European Medical Journal",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkw2NXBNckc2VlJvR2ZBc3NIVkZZbDFESkFFUXJvOUJseEI5UGMxNlNTLUtNRjhOcmFfaGw0ZVowR2plZ2pWWUFrU2xuZGEzX1g3SEdrUzZkd00xV09ZdENtTG1HRU9RTjJaLUU1SVpIWjNTLUtfVVFlWXF5UFBlUS1Ub09DeWQ5WnJVTGVqZTZ4dTlRMFp3dW1JRnNNQjk3dzJHYTJGV09Wdw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-23T15:04:01Z",
-      "summary": "European Medical Journal报道，人工智能正推动心血管精准医疗发展，可用于影像分析、风险预测、个体化治疗和临床决策支持。AI有望提升诊断效率与治疗精度，但临床落地仍需解决数据质量、可解释性、外部验证与监管等问题。"
+      "summary": "《欧洲医学杂志》报道，人工智能正在推动精准心血管诊疗发展。通过分析影像、生理信号和临床数据，AI可辅助风险分层、诊断和治疗决策，帮助实现更个性化的护理。文章同时指出，临床验证、数据质量和可解释性仍是AI在心血管领域大规模应用的关键挑战。"
     },
     {
       "title": "Mace Ai founders warn of AI double agents amid banks detecting unauthorized AI agents - TheStreet",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVl9xRld1ODFzc0hPXzdfel9pTUtpWEtEY2JhYkFFNmZHb1huYnI2X29vSy0tWkRtaS11ZGZTX2ROWWlXRndPZHlaOTRsT3NpdkNYMzUxVXA3dW45bnhOZTdTbmkxS1pFYWpPRzU1eVlNckNiazNLT05PMjNZUWhZaTh6bFJuM0kzWmYzZEZjQlNTRTUwYy1hR3hVY0hzU280aTJGR3hwNlFvUjR0Um82UGlUbjB0eDU4bnBHakpoQ29iRUtkUXlqMzRoX2F5VTU1Wmo4YWxEdUdmM28?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-23T15:00:00Z",
-      "summary": "Mace Ai创始人警告企业需防范“AI双面代理”风险；与此同时，银行正发现内部存在未经授权的AI代理。随着智能体接入企业系统，身份认证、权限控制、行为审计与安全监控成为关键，金融机构需建立AI代理治理机制以防数据泄露和越权操作。"
+      "summary": "Mace Ai创始人警告称，企业需警惕“AI双重间谍”风险。报道指出，银行已检测到未经授权的AI代理，说明随着自主代理进入企业系统，身份验证、权限控制和行为监控不足可能被利用，引发数据泄露或欺诈。AI代理治理与安全审计正成为金融业的新兴议题。"
     },
     {
-      "title": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVBtNDk4Y2NFbmh5eWczMWVfaDBnTGpPS002djZSY1FkMWkybFZxSkZGbWQ3Q0MzMGhtR1RKcFNoWWk5NnNfMmxCZEQ5dWFQS0p2d1lBdlF6Vk5CUkowem1Ya2M2VUVCZ3hzbzUtWTFSbDNtTHF3d2FMLU9BSTlaTmsxcnZNaVNOc2l0b2c5VGJ3d1dlMnRubQ?oc=5",
+      "title": "The risks of turning to AI for mental health advice, according to a psychiatrist - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcXRLTEV6RWxLZWUzVkQzZk9sSXUtakpRLWxZU3RoZUZZWVZXRlAtajNlZ2ExOFZwd1o2SF9sVDRKaHh6cGRGdmpIbEdnT2puZUdCaUQyVlhPRGJ0WVIwN1ZrVnJYLVdFaEtXbGhpaDJOc1VTWDlUSVB6RnVvTjhJTHBUZDFUVllOd21TQ2hzXzZrRGxidzVPb1VnUjAzNlR2SG1N?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-23T14:36:12Z",
-      "summary": "Motley Fool文章称，一家获NVIDIA支持但被市场低估的公司AI相关收入增长123%，并给出8美元买入观点。报道将其与Intel、CoreWeave对比，认为其在AI基础设施或算力供应链中具增长潜力；但此类荐股观点仍需结合估值、业绩与风险独立判断。"
+      "publishedAt": "2026-10-23T14:56:00Z",
+      "summary": "一名精神科医生在《独立报》撰文指出，向AI寻求心理健康建议存在风险。AI缺乏临床判断和对个体情境的理解，可能给出不准确甚至有害的建议，也无法替代专业评估。尤其在心理危机场景中，依赖聊天机器人可能延误及时治疗，用户应谨慎对待AI心理健康建议。"
     },
     {
-      "title": "Website Closers Successfully Handles the Sale of Emerging Artificial Intelligence Company AnnieAI - AiThority",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaEx5V3RRMncxQ1lmOXpTVWp1dExVV1VzMHhOVWNwQ25fa3NOa28zTXM4dnY5QmpPQWRodC1qNW8xT2hSOGJDZVF1djQwdWpaX1N5UWVheUc4bW1XdUI0RlllR0p2b1g0NEo3bVdXNzNFSDZLRE16elFnMldKOVowaHViX21jWldobXkxQmlYVmZqa3FDVnJzWDN6QjZTcmFyenA4Y2wwMExhc0Q1RlBVSGRRQkhLUGhQQW0wMGNMTjhIZGZYUjF1ZHY2X0ltNWJ6ZHBN?oc=5",
+      "title": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG9BQ0x2T2hkMERBYUQ5dm5NcE9aUEFFY2VEd2hZQnZONVlJSHJNYWQ1alZpdDNxMHlwa2ZScjUtNXZZOEJCYTRYdEZNRExTTkE1Q2V4ZHdCejVfLWRpTHJsRkptdlhLV1pOOG9VOVZkaVlSY29lckVVWVBGMmVtZHFibzNqZUVTcThXZm0yd1VKX2cwLVNsemVWZ0Y3X2U0MUVIV0Jrbw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-23T14:08:05Z",
-      "summary": "Website Closers宣布成功完成新兴AI公司AnnieAI的出售交易，显示AI初创企业并购与退出活动仍在进行。此类交易反映资本市场对具备特定技术或应用场景的AI资产保持兴趣，也说明专业中介在AI公司估值、买卖匹配和交易执行中发挥作用。"
-    },
-    {
-      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligent Matters - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmpXSEdxRG93Z3B2V3NtZFF3X01rRkR5d2M0MHpQcDFFLXdCMHNHb1Jza3FyQmF4ME9HMHRWSjNXX1FIeFpMa0JGVGM1RC1aTV9fUkZSMW56dDgwNXhUVE5MUEVDOGlOVVZ1Y2xaNGhJeFlnYzBGeEVId3l2OV85RWZJUFBOaUU2UVZRZGstN0VGVFZaU2Vkb0x5UVp1RWU3aURnc1Z3VVkxYkJUV2ZoT1lR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T13:46:47Z",
-      "summary": "Time文章讨论特朗普将“人工智能”重新表述为“超级智能”的政策与舆论含义，认为措辞变化可能影响公众认知、监管框架和国家安全讨论。文章关注AI概念政治化后对创新、风险治理与国际竞争叙事的影响，而不仅是术语替换。"
-    },
-    {
-      "title": "Wall Street Is Getting Very Nervous About AI - Jacobin",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGkya2xZTEx0YWNBVXRVNUxTaXRHazI4ZGQ0WlpsOUxBMzhvM1U3WmdVM3loM05TR0FDWWFYZl9MMVV2MGpHay1DeEZ5YkFUQkw5aTVxSUctdDhUblZRd3FBTjJRQmVfclNDUENjeU9ZUWF1ZXpkbmd5c3VCWXVJR3d3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T13:39:11Z",
-      "summary": "Jacobin文章称，华尔街对AI日益紧张，担忧高估值、巨额资本开支与商业化回报不匹配可能引发市场波动。报道从资本逻辑与泡沫风险角度审视AI热潮，指出投资者情绪变化可能影响融资环境，并波及科技公司与更广泛经济。"
-    },
-    {
-      "title": "Global Assemblies Turn to Artificial Intelligence to Modernize Lawmaking and Strengthen Oversight - NALTF",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HVEFOMTJLa2tLYWo0QUszTmhTNU96S3RBUUo5dURVSmJDWFpzUW5peHE1SG9hYlZTSGViSzV4ZlM5QUVMdjVDSW1kbVFiWFd4MGlRRHVLV2Vta0pwYUlN?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T13:34:07Z",
-      "summary": "NALTF报道称，全球多国议会正引入人工智能以推进立法现代化和强化监督，应用可能包括法案分析、文本处理、信息检索与行政效率提升。AI有助于提升立法机构能力，但也需确保透明度、问责、数据安全与人为决策主导。"
-    },
-    {
-      "title": "Is a job guarantee the solution to mass AI unemployment? - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ0xuWEoxc1JYYU5nTXB0dHJCakpfVFZRTm11enoxMWY0V0dONlk4Q01OSWpKd0piNlNRbmZ0VEstSWwybkhzRkxqTnU3YzZaOHVEeE12Rm1xZDEteUNBT2ZHN3pVNXRKYkktUnFDX1QtOURRb0l5WHNBdXJackluNXhoaUdSMEs5dHM3RVFR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T12:03:00Z",
-      "summary": "该报道聚焦人工智能可能引发的大规模失业问题，讨论“就业保障”能否成为应对方案。文章将AI自动化对岗位的替代效应置于公共政策辩论中心，涉及技术变革对劳动力市场的冲击、政府是否应直接创造就业，以及社会保障与财政成本等核心议题。其技术要点在于AI对重复性和认知型工作的替代速度可能快于市场再就业机制，因此需要评估就业保障作为兜底政策的可行性与局限。"
-    },
-    {
-      "title": "Retro gaming is being overrun with AI - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc1hBYTZWbDJ5MjVzeFRiWE1xN1ZNZXQ3NEo5Z1QxbVNUVVNELXBBbzJZRHBlNEJMblBDT0lfc0Y2V3cxcDNSSThZNHpvWExpRU1fSUpTa0NtOEdGcWM3WGRqT1B1QVBFaWsyTmRqU3J2eFdXYVJtQnlzNGdCcTRjM1pHcVBqaEdfV3BWUmFTUWJnQzBxNUZJVA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T12:00:00Z",
-      "summary": "该报道指出，AI正大量进入复古游戏领域，改变这一原本依赖玩家社区和手工修复的生态。相关应用可能涉及游戏内容生成、老游戏修复、模拟器优化和社区创作等场景，同时引发关于作品真实性、版权归属、内容质量以及玩家体验的争议。技术要点在于生成式AI降低了复古游戏相关内容的制作门槛，但也可能造成滥用和同质化，迫使社区与平台重新界定AI使用的边界。"
-    },
-    {
-      "title": "SAP lets AI play key role in its certification renewal process - CIO",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFl2S3dSSlk0dlRXNFFRVnZ2N0lHYmNJOE9GMzZfbmRFQjBVQzQtM1ZVVG5XbjhaY2s3dlNKdTI2eDZOTTFGWHN0Z2dOWGFtQ2xpdGVjQkhMeFVaZkhyMVZrcGxQSmhIQjc1S1dhc1l3engwTzBHSnFZQWEyOFVRU2hwMWlqdlJRZnpNNjZfTnZQOV9lZmhZVUxBdTYtd2x4OVVMRDln?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T11:39:42Z",
-      "summary": "该报道称，SAP在其认证续期流程中让AI发挥关键作用，推动企业认证管理走向自动化。技术要点包括利用AI辅助审核材料、识别合规风险、提升续期处理效率并减少人工负担。此举反映企业软件厂商正将AI嵌入内部运营与合规流程，以缩短认证周期、降低管理成本。同时，认证流程涉及专业判断与责任归属，AI的引入也需要配套的人工复核和治理机制，确保结果准确可信。"
-    },
-    {
-      "title": "Amid the difficulty of employment and the development of artificial intelligence (AI), some companie.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13ZmhoSW9vQTdsU1gzTDY3UkR4VXRocTd6SXdzMzdqNmNQbWMxbWxMcGxlblpTUXNuaGUxUGVFNUJLeUphUmVYSFBDUlJCS1FaVWc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T11:23:39Z",
-      "summary": "该报道关注在就业困难与人工智能快速发展的双重背景下，一些企业开始采取应对措施。虽然原文信息有限，但核心指向AI对招聘和岗位结构的冲击，以及企业通过调整用工、加强员工技能培训或引入AI工具来平衡效率与就业。技术要点在于AI应用可能替代部分岗位，同时催生新技能需求，企业需在自动化与人力配置之间重新规划，以缓解就业压力并适应技术转型。"
-    },
-    {
-      "title": "China urges government agencies to mitigate AI job displacement - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlVIUEhSdHd1VnZ4dUN2RE1iODlDNUs4YWJyTklNajFoYnhjSzNveTQtcmo3SDNhem5vSi1VNng0Y2YtdzlEM3JhcEZQM3U5elN5RWZHTFBwdFZ4UklWdzZkTEdvdkVhM21DTW1oMUdKYzloVnNiaE1LcEs1Z21rRXVkeHI3aldFM21RbEhmMzdDU3BQRm5HSWRaUkNMNkQ0V0lDZDU4VVVYRm1SSnJLQkhiQ0FkbGJzRmdv?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T10:25:29Z",
-      "summary": "该报道称，中国敦促政府机构采取措施缓解AI带来的就业替代问题。核心信息是政策层面已关注AI对劳动力市场的冲击，并要求公共部门在就业监测、技能培训、社会保障和岗位创造等方面发挥积极作用。技术要点在于AI自动化可能加速部分职业消失，政策需在促进技术应用与保障就业之间取得平衡。该信号表明，AI治理正从产业创新扩展到就业影响评估和劳动者保护。"
+      "publishedAt": "2026-10-23T14:50:00Z",
+      "summary": "Yahoo Finance文章推荐一家获英伟达支持但被低估的公司，称其AI收入增长123%，股价约8美元，并给出买入理由。报道将其与英特尔、CoreWeave对比，认为其AI业务增速突出。不过，此类荐股观点带有较强主观判断，投资者仍需结合公司基本面、估值和风险审慎决策。"
     }
   ]
 }
