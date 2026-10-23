@@ -1,98 +1,50 @@
 [
   {
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "source": "TechCrunch AI",
-    "publishedAt": "2026-10-22T19:07:09Z",
-    "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "publishedAt": "2026-10-23T00:45:37Z",
+    "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
     "content": ""
   },
   {
-    "title": "Canva releases its first image generation model",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "source": "TechCrunch AI",
-    "publishedAt": "2026-10-22T19:00:00Z",
-    "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "content": ""
-  },
-  {
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "source": "TechCrunch AI",
-    "publishedAt": "2026-10-22T19:00:00Z",
-    "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "content": ""
-  },
-  {
-    "title": "Louisiana court buys AI servers to test how tech can streamline workload - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1NjUkxxaEV0Q0I5WTZmX1h5LW45dko5TlAxMmRKRW9BTDNtLU5KeThPY3U1eGZfOUVoSXU1SVRoano0aWgycFRsY0t2TkhQVFh4LVh0VHN2ZTY0VHNTNXJRRmY1WlpRRzNxT1FURElhTFZDbzZoQ1M5ZU1IV0JLUldUSzFrSnpJN2JOOElnUnNFUTFqUUljRXNfSkJMZi1IbURPR2VoNkNEc0ZMSDRfbnlHWnBPV18tSm5QT0ljRQ?oc=5",
+    "title": "When AI vies for literary glory - The Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHJUNXItTkU2aFV0WTJsYjlCTWgyckx0SDV6V1oybFZwdFdYcjFFVDRGcVNHZGVETXMyd1gtbE53Z1NvQks5TUdnMmJ4WGJ3TXNOUHJTTG5BSW5xbnhpSkpOdTB5eGFTd3I1ZGk3RWlqYXZ5VGZkOVd4ZVg3a0NtU0w2cFcxd0VIazMydlNubGVXaWt4a0ZVUUtYZ9IBogFBVV95cUxOSXczQTVIdnRIcl8yczNTYVc2UURtY3ljdHFKYzNtbGJ4dkp3X1RGSnVPYkJGc1FOeUxLelJuZXI2VFBfelQxekFBYU9UbWUweHlEdlBPcHRUeU8xR21fLUtpUVlnd0dxbmNCdWpza2dtNS0xN3ZKNHlmUGdPNWhfWWk1cGV0QXV6Nkx6eV9YVHNoUU1OZDdNeGt2Q1hRLTU5VXc?oc=5",
     "source": "Google News AI",
-    "publishedAt": "2026-10-22T18:58:04Z",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1NjUkxxaEV0Q0I5WTZmX1h5LW45dko5TlAxMmRKRW9BTDNtLU5KeThPY3U1eGZfOUVoSXU1SVRoano0aWgycFRsY0t2TkhQVFh4LVh0VHN2ZTY0VHNTNXJRRmY1WlpRRzNxT1FURElhTFZDbzZoQ1M5ZU1IV0JLUldUSzFrSnpJN2JOOElnUnNFUTFqUUljRXNfSkJMZi1IbURPR2VoNkNEc0ZMSDRfbnlHWnBPV18tSm5QT0ljRQ?oc=5\" target=\"_blank\">Louisiana court buys AI servers to test how tech can streamline workload</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+    "publishedAt": "2026-10-23T00:45:20Z",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHJUNXItTkU2aFV0WTJsYjlCTWgyckx0SDV6V1oybFZwdFdYcjFFVDRGcVNHZGVETXMyd1gtbE53Z1NvQks5TUdnMmJ4WGJ3TXNOUHJTTG5BSW5xbnhpSkpOdTB5eGFTd3I1ZGk3RWlqYXZ5VGZkOVd4ZVg3a0NtU0w2cFcxd0VIazMydlNubGVXaWt4a0ZVUUtYZ9IBogFBVV95cUxOSXczQTVIdnRIcl8yczNTYVc2UURtY3ljdHFKYzNtbGJ4dkp3X1RGSnVPYkJGc1FOeUxLelJuZXI2VFBfelQxekFBYU9UbWUweHlEdlBPcHRUeU8xR21fLUtpUVlnd0dxbmNCdWpza2dtNS0xN3ZKNHlmUGdPNWhfWWk1cGV0QXV6Nkx6eV9YVHNoUU1OZDdNeGt2Q1hRLTU5VXc?oc=5\" target=\"_blank\">When AI vies for literary glory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
     "content": ""
   },
   {
-    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "source": "TechCrunch AI",
-    "publishedAt": "2026-10-22T18:43:53Z",
-    "description": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-    "content": ""
-  },
-  {
-    "title": "Another Proposal to Rename AI - Communications of the ACM",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOTE0czl5am9tYUUzRnYwVG5yNzVxYno0QzJ5eTBRYmZzRXhiV3RIZHh4aEFBVW5TblpZcU5Gc2Q3Wmw3OXo2OG8wU2N1ZVl4Q0NGU2ZXa2wwSHFWSk5rRDBOYl9PME50SkhSeQ?oc=5",
+    "title": "Half Moon Bay City Council Hears Draft Artificial Intelligence (AI) Policy; Next Day City Website Shut Down After Worldwide PHP Programming Language Attack - coastside buzz",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPV2daU3hQLTZUckJtUjhWS2NvVkFJbHhGc09IZlIyQmt2WkVXZmRWV1g1WkhjUW5KOE9xalI5eWVOdUJQdnR5eGh2SzljTl96UDJheFRvUlNkR2NOTFVRUjZ6LW9zb19kYVNXUm8yQmgxQ0pQWGhIbHNEWmUtV1g3VXhRdFp5c2o4X1F1dm5tVEt1NjNsX3FTUmpIV2V2blVnTGNpQS1YWUotWVdRU1N0SzVQQjlDQzBtS0tnbHlvMmJibVp6c19BNFNSVm4zY2FqWjlRd0ZibXNnMW9IejRoajNRYXNMalk5REN6cldJQjVqVzFrVkVOM3lTUXJHRjd0aGxzdWthWWRWdDg?oc=5",
     "source": "Google News AI",
-    "publishedAt": "2026-10-22T17:51:02Z",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOTE0czl5am9tYUUzRnYwVG5yNzVxYno0QzJ5eTBRYmZzRXhiV3RIZHh4aEFBVW5TblpZcU5Gc2Q3Wmw3OXo2OG8wU2N1ZVl4Q0NGU2ZXa2wwSHFWSk5rRDBOYl9PME50SkhSeQ?oc=5\" target=\"_blank\">Another Proposal to Rename AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications of the ACM</font>",
+    "publishedAt": "2026-10-22T23:47:05Z",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPV2daU3hQLTZUckJtUjhWS2NvVkFJbHhGc09IZlIyQmt2WkVXZmRWV1g1WkhjUW5KOE9xalI5eWVOdUJQdnR5eGh2SzljTl96UDJheFRvUlNkR2NOTFVRUjZ6LW9zb19kYVNXUm8yQmgxQ0pQWGhIbHNEWmUtV1g3VXhRdFp5c2o4X1F1dm5tVEt1NjNsX3FTUmpIV2V2blVnTGNpQS1YWUotWVdRU1N0SzVQQjlDQzBtS0tnbHlvMmJibVp6c19BNFNSVm4zY2FqWjlRd0ZibXNnMW9IejRoajNRYXNMalk5REN6cldJQjVqVzFrVkVOM3lTUXJHRjd0aGxzdWthWWRWdDg?oc=5\" target=\"_blank\">Half Moon Bay City Council Hears Draft Artificial Intelligence (AI) Policy; Next Day City Website Shut Down After Worldwide PHP Programming Language Attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">coastside buzz</font>",
     "content": ""
   },
   {
-    "title": "Microsoft, Opella partner on agentic AI content verification platform - Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGdDQ3RuaUotV1JMZXk4YWt5bUp6RnprRVZCUXplWUhoMFluTjJGOHlQVHcwVFpHNTQzVzRuSnpTalFrTFRLVUcxTGdVVWdkdnFNUGE3SWxadTYzR084bkFTY09qdlIzRVVqekhKQTJDbFdfRGpsU3RHRDFKSHRjQkp6di1oeFN5LTczcjJzU3VqMFA2bXFmeEs4TUM0ZHk5Y1JSVDJJWS1TaG5DbEhMTVpyOWFrb3Bpc0hlRUc5QQ?oc=5",
-    "source": "Google News AI",
-    "publishedAt": "2026-10-22T17:00:00Z",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGdDQ3RuaUotV1JMZXk4YWt5bUp6RnprRVZCUXplWUhoMFluTjJGOHlQVHcwVFpHNTQzVzRuSnpTalFrTFRLVUcxTGdVVWdkdnFNUGE3SWxadTYzR084bkFTY09qdlIzRVVqekhKQTJDbFdfRGpsU3RHRDFKSHRjQkp6di1oeFN5LTczcjJzU3VqMFA2bXFmeEs4TUM0ZHk5Y1JSVDJJWS1TaG5DbEhMTVpyOWFrb3Bpc0hlRUc5QQ?oc=5\" target=\"_blank\">Microsoft, Opella partner on agentic AI content verification platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Healthcare</font>",
-    "content": ""
-  },
-  {
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
     "source": "TechCrunch AI",
-    "publishedAt": "2026-10-22T16:47:17Z",
-    "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "publishedAt": "2026-10-22T22:08:24Z",
+    "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
     "content": ""
   },
   {
-    "title": "Uber puts all 30,000 employees on ChatGPT Work",
-    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-    "source": "TechCrunch AI",
-    "publishedAt": "2026-10-22T16:00:00Z",
-    "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-    "content": ""
-  },
-  {
-    "title": "New Microsoft guidance warns that “trusted” AI agents carry serious security and safety implications - Windows Central",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSlJjWWNrckxrRV9lVmZmaG9Lcy1VTmpWaWlGU1NlYnJ2NmkyT01nVUVMTHF2UVNBRWxDY2FwQlI2aUQzZG4zbTFTRzBoek9HMXg0cVJqSkdNUTZodkYycHhheVNKVlBrWmdSbDVkWDdCRVNMa2xjbllkdWg0VlNaaG5wdENPOTN6S1R1eHowODNocnc?oc=5",
+    "title": "Canva’s first AI image model plans designs before generating them - The Verge",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR05XNUt3S2l1QkotOUJTMG1HZlpaeWFTXzFFbXZHOFpIa25pODdkTXdvd2VTS2tZb1pKY05ieHB6YUtPLW5DNUpPTzlPc3BDd0dFY3VDSVc3U05VcEV2LVAxVjNfaF9aZGk3bEVCVTlxQ0ZFUExzMWxjUHFTcVpPa1BseW5rdFl1dmN6REd2TkxVWjA?oc=5",
     "source": "Google News AI",
-    "publishedAt": "2026-10-22T15:49:34Z",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNSlJjWWNrckxrRV9lVmZmaG9Lcy1VTmpWaWlGU1NlYnJ2NmkyT01nVUVMTHF2UVNBRWxDY2FwQlI2aUQzZG4zbTFTRzBoek9HMXg0cVJqSkdNUTZodkYycHhheVNKVlBrWmdSbDVkWDdCRVNMa2xjbllkdWg0VlNaaG5wdENPOTN6S1R1eHowODNocnc?oc=5\" target=\"_blank\">New Microsoft guidance warns that “trusted” AI agents carry serious security and safety implications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font>",
+    "publishedAt": "2026-10-22T21:51:25Z",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQR05XNUt3S2l1QkotOUJTMG1HZlpaeWFTXzFFbXZHOFpIa25pODdkTXdvd2VTS2tZb1pKY05ieHB6YUtPLW5DNUpPTzlPc3BDd0dFY3VDSVc3U05VcEV2LVAxVjNfaF9aZGk3bEVCVTlxQ0ZFUExzMWxjUHFTcVpPa1BseW5rdFl1dmN6REd2TkxVWjA?oc=5\" target=\"_blank\">Canva’s first AI image model plans designs before generating them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font>",
     "content": ""
   },
   {
-    "title": "IMF, OECD warn AI could widen rich-poor country divide - The Arab Weekly",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmNBeXRvRUFtNTFrMTlCRmlUMWh3MGxHelJDdjdVMlViSVBUOVI3YnotRVJfaV9heWN3NFlHSlFUQUtOMG41ZXg0bE96dHZKcGMtem1PTUZlbXI2d2NIMEoxd1kzNUpaWFdYWmN0LXdhaVhEcmFIOXExUkc3ZVZ0dGRRRWc4dw?oc=5",
+    "title": "Trading Day: Maximum pAIn - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWk5UTd0blZlazE0LVQtWXNvMDBEMnJ6eUl5LUltU3NiZWM5TWd5RjNVNU9XRFpvZnZBNzJXam1IbXJ1SUxYcy1yOHQ1NmxsQkRrT2RING5sZHcybFZyeXhnQmhYQ3R6aHFPY0ZsSGJsX0VjTVlJanRpMHBqWm43Mi1OOF95T1BOTjdDMnFWY1Z2dHg4RWJGOFd3Z24xQjltWDhrT1pn?oc=5",
     "source": "Google News AI",
-    "publishedAt": "2026-10-22T15:17:48Z",
-    "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmNBeXRvRUFtNTFrMTlCRmlUMWh3MGxHelJDdjdVMlViSVBUOVI3YnotRVJfaV9heWN3NFlHSlFUQUtOMG41ZXg0bE96dHZKcGMtem1PTUZlbXI2d2NIMEoxd1kzNUpaWFdYWmN0LXdhaVhEcmFIOXExUkc3ZVZ0dGRRRWc4dw?oc=5\" target=\"_blank\">IMF, OECD warn AI could widen rich-poor country divide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arab Weekly</font>",
-    "content": ""
-  },
-  {
-    "title": "Spotify’s current AI bet is about being the music service that agents choose",
-    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-    "source": "TechCrunch AI",
-    "publishedAt": "2026-10-22T15:03:58Z",
-    "description": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+    "publishedAt": "2026-10-22T21:19:56Z",
+    "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObWk5UTd0blZlazE0LVQtWXNvMDBEMnJ6eUl5LUltU3NiZWM5TWd5RjNVNU9XRFpvZnZBNzJXam1IbXJ1SUxYcy1yOHQ1NmxsQkRrT2RING5sZHcybFZyeXhnQmhYQ3R6aHFPY0ZsSGJsX0VjTVlJanRpMHBqWm43Mi1OOF95T1BOTjdDMnFWY1Z2dHg4RWJGOFd3Z24xQjltWDhrT1pn?oc=5\" target=\"_blank\">Trading Day: Maximum pAIn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
     "content": ""
   }
 ]

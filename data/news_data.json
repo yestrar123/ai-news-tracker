@@ -1,90 +1,48 @@
 {
-  "updatedAt": "2026-10-22 20:57:21 UTC",
-  "totalArticles": 12,
+  "updatedAt": "2026-10-23 02:24:36 UTC",
+  "totalArticles": 6,
   "articles": [
     {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T19:07:09Z",
-      "summary": "1Password推出新功能，允许AI代理代替用户登录其个人账户，同时不向代理暴露用于保护账户的私密凭据。该机制的核心在于凭据隔离与代理授权：代理获得完成登录操作的能力，但无法读取或留存密码本身，从而在便利性与安全性之间取得平衡。此举被视为面向“代理式AI”的身份与访问管理基础设施探索，为AI代理代为执行各类在线任务提供了可审计、可控的授权路径，也回应了企业对代理滥用与凭据泄露的担忧。"
+      "publishedAt": "2026-10-23T00:45:37Z",
+      "summary": "MIT研究人员将13个AI智能体置于虚拟孤岛上，在无事可做的环境中观察其自主行为。它们自发发明游戏、为丢失的戒指举行哀悼，并在此过程中提升了任务表现。该实验展示了多智能体在开放环境中的社会性互动、目标演化与能力涌现，为理解AI自主协作和行为机制提供了新样本。"
     },
     {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T19:00:00Z",
-      "summary": "Canva发布其首个自研图像生成模型，并向全部用户开放，而非仅限付费或测试用户。官方称新模型在生成质量、可定制性和成本三方面均有改善，能以更低价格提供更好且更贴合设计场景的效果。此举意味着Canva从集成第三方生成能力转向自建底层模型，有助于降低对外部供应商的依赖、控制推理成本，并把图像生成更深地嵌入其设计工作流，在竞争激烈的创意AI工具市场中强化差异化。"
-    },
-    {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T19:00:00Z",
-      "summary": "OpenAI将其决策类模型向全球广泛开放，此前该模型能力受限或仅小范围可用。随着决策模型赛道升温，OpenAI此举被视为对同类竞品的正面回应，意在抢占企业级决策、分析与自动化场景的入口。报道以“能否与最初的竞品抗衡”为悬念，反映出该领域已从模型能力比拼转向可用性、生态与成本的综合竞争，模型开放范围本身成为争夺开发者与企业客户的关键手段。"
-    },
-    {
-      "title": "Louisiana court buys AI servers to test how tech can streamline workload - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1NjUkxxaEV0Q0I5WTZmX1h5LW45dko5TlAxMmRKRW9BTDNtLU5KeThPY3U1eGZfOUVoSXU1SVRoano0aWgycFRsY0t2TkhQVFh4LVh0VHN2ZTY0VHNTNXJRRmY1WlpRRzNxT1FURElhTFZDbzZoQ1M5ZU1IV0JLUldUSzFrSnpJN2JOOElnUnNFUTFqUUljRXNfSkJMZi1IbURPR2VoNkNEc0ZMSDRfbnlHWnBPV18tSm5QT0ljRQ?oc=5",
+      "title": "When AI vies for literary glory - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHJUNXItTkU2aFV0WTJsYjlCTWgyckx0SDV6V1oybFZwdFdYcjFFVDRGcVNHZGVETXMyd1gtbE53Z1NvQks5TUdnMmJ4WGJ3TXNOUHJTTG5BSW5xbnhpSkpOdTB5eGFTd3I1ZGk3RWlqYXZ5VGZkOVd4ZVg3a0NtU0w2cFcxd0VIazMydlNubGVXaWt4a0ZVUUtYZ9IBogFBVV95cUxOSXczQTVIdnRIcl8yczNTYVc2UURtY3ljdHFKYzNtbGJ4dkp3X1RGSnVPYkJGc1FOeUxLelJuZXI2VFBfelQxekFBYU9UbWUweHlEdlBPcHRUeU8xR21fLUtpUVlnd0dxbmNCdWpza2dtNS0xN3ZKNHlmUGdPNWhfWWk1cGV0QXV6Nkx6eV9YVHNoUU1OZDdNeGt2Q1hRLTU5VXc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-22T18:58:04Z",
-      "summary": "据路透社报道，美国路易斯安那州一家法院采购AI服务器，用于测试该技术能否简化并优化法院的日常工作负载。项目属于司法系统的技术试点，重点在探索AI在文书处理、案件流程管理等高频事务中的实际效果，而非直接参与裁判。法院系统对准确性与合规性要求极高，此类试点有望为司法机构引入AI提供成本、效率与风险控制方面的实证参考，也反映出公共部门对本地化算力部署的关注。"
+      "publishedAt": "2026-10-23T00:45:20Z",
+      "summary": "印度《Indian Express》文章聚焦AI参与文学创作与文学荣誉竞争的现象。随着生成式模型进入小说、诗歌和评奖场景，AI是否能创作出真正有文学价值的作品、作者身份如何界定、评奖规则与版权伦理如何调整，成为讨论焦点。文章折射出AI对传统文学创作生态和人类创造力评价体系的冲击与挑战。"
     },
     {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T18:43:53Z",
-      "summary": "微软AI负责人Mustafa Suleyman称，微软的新AI诊断系统在《Science》发表的研究中于疑难病例上表现优于全科医生，并将其目标描述为追求“医疗超级智能”。不过报道指出，性能提升主要来自底层基础模型本身，而非微软系统独有的设计，这引发对该系统实际增益的讨论。该进展显示AI在辅助诊断领域的潜力正被严肃评估，但结论仍需更多临床验证，且“超越医生”的表述需结合研究设计与适用场景谨慎解读。"
-    },
-    {
-      "title": "Another Proposal to Rename AI - Communications of the ACM",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WOTE0czl5am9tYUUzRnYwVG5yNzVxYno0QzJ5eTBRYmZzRXhiV3RIZHh4aEFBVW5TblpZcU5Gc2Q3Wmw3OXo2OG8wU2N1ZVl4Q0NGU2ZXa2wwSHFWSk5rRDBOYl9PME50SkhSeQ?oc=5",
+      "title": "Half Moon Bay City Council Hears Draft Artificial Intelligence (AI) Policy; Next Day City Website Shut Down After Worldwide PHP Programming Language Attack - coastside buzz",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPV2daU3hQLTZUckJtUjhWS2NvVkFJbHhGc09IZlIyQmt2WkVXZmRWV1g1WkhjUW5KOE9xalI5eWVOdUJQdnR5eGh2SzljTl96UDJheFRvUlNkR2NOTFVRUjZ6LW9zb19kYVNXUm8yQmgxQ0pQWGhIbHNEWmUtV1g3VXhRdFp5c2o4X1F1dm5tVEt1NjNsX3FTUmpIV2V2blVnTGNpQS1YWUotWVdRU1N0SzVQQjlDQzBtS0tnbHlvMmJibVp6c19BNFNSVm4zY2FqWjlRd0ZibXNnMW9IejRoajNRYXNMalk5REN6cldJQjVqVzFrVkVOM3lTUXJHRjd0aGxzdWthWWRWdDg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-22T17:51:02Z",
-      "summary": "《Communications of the ACM》刊文介绍又一项为“人工智能”更名的提议。文章关注“AI”这一术语在科学传播与公众理解中的模糊性：当前系统多为特定任务上的统计与生成能力，与“智能”一词所暗示的通用认知能力存在落差，容易造成过度期待与误读。更名提议旨在推动更精确的表述，以反映技术实际能力边界与风险特征。此类讨论虽不改变技术路线，但关系到监管话语、公众认知与学术表达的严谨性。"
+      "publishedAt": "2026-10-22T23:47:05Z",
+      "summary": "Half Moon Bay市议会听取了人工智能政策草案，讨论如何规范AI应用与治理；次日该市官网因全球性PHP编程语言攻击而关闭。两件事时间相邻但未必存在因果。事件凸显地方政府在推进AI政策的同时，也需同步强化网站基础设施、软件漏洞管理和网络安全应急能力，避免公共服务受攻击影响。"
     },
     {
-      "title": "Microsoft, Opella partner on agentic AI content verification platform - Fierce Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGdDQ3RuaUotV1JMZXk4YWt5bUp6RnprRVZCUXplWUhoMFluTjJGOHlQVHcwVFpHNTQzVzRuSnpTalFrTFRLVUcxTGdVVWdkdnFNUGE3SWxadTYzR084bkFTY09qdlIzRVVqekhKQTJDbFdfRGpsU3RHRDFKSHRjQkp6di1oeFN5LTczcjJzU3VqMFA2bXFmeEs4TUM0ZHk5Y1JSVDJJWS1TaG5DbEhMTVpyOWFrb3Bpc0hlRUc5QQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-22T17:00:00Z",
-      "summary": "据Fierce Healthcare报道，微软与Opella合作推出基于代理式AI的内容验证平台，面向医疗健康领域的信息审核场景。平台借助可自主执行任务的AI代理，对内容进行核查与合规校验，以应对医疗信息量大、专业门槛高、错误代价大的挑战。该合作体现两个趋势：一是代理式AI从通用助手转向垂直行业的流程化应用；二是内容验证正成为医疗等强监管行业部署AI的前置条件，强调可追溯与人工复核的结合。"
-    },
-    {
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T16:47:17Z",
-      "summary": "微软将IT服务商ConnectWise遭入侵事件归因于一个与中国关联的黑客组织。攻击者借助ConnectWise的远程管理与服务通道，入侵其大量下游客户，并对数千家企业实施长期侦察与间谍活动。报道特别指出，该组织利用AI代理加速攻击流程，实现规模化探测与渗透。事件凸显软件供应链与MSP（托管服务商）模式的风险放大的效应，也表明AI正被攻击方用于提升自动化攻击效率，防御方需加强第三方访问控制与异常行为监测。"
+      "publishedAt": "2026-10-22T22:08:24Z",
+      "summary": "OpenAI正筹备新一轮300亿美元融资，估值约1.25万亿美元，并计划在此之后推进IPO。若本轮估值超过1万亿美元，OpenAI将刷新纪录，成为史上估值最高的私营公司。该融资反映资本市场对通用人工智能前景的高度押注，也将影响其算力投入、产品扩张和行业竞争格局。"
     },
     {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T16:00:00Z",
-      "summary": "Uber将ChatGPT Work推广至全部约3万名员工，此前仅开展过小规模试点。此次全员部署意味着Uber把企业级AI代理作为通用办公工具纳入日常工作流，用于文档处理、信息检索与任务自动化等场景。这反映出大型企业对生成式AI的采用正从试验走向规模化落地，重点转向权限管理、数据合规、成本控制与员工培训等配套治理问题，也为其他企业评估AI办公工具的实际投资回报提供了参考样本。"
-    },
-    {
-      "title": "New Microsoft guidance warns that “trusted” AI agents carry serious security and safety implications - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSlJjWWNrckxrRV9lVmZmaG9Lcy1VTmpWaWlGU1NlYnJ2NmkyT01nVUVMTHF2UVNBRWxDY2FwQlI2aUQzZG4zbTFTRzBoek9HMXg0cVJqSkdNUTZodkYycHhheVNKVlBrWmdSbDVkWDdCRVNMa2xjbllkdWg0VlNaaG5wdENPOTN6S1R1eHowODNocnc?oc=5",
+      "title": "Canva’s first AI image model plans designs before generating them - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR05XNUt3S2l1QkotOUJTMG1HZlpaeWFTXzFFbXZHOFpIa25pODdkTXdvd2VTS2tZb1pKY05ieHB6YUtPLW5DNUpPTzlPc3BDd0dFY3VDSVc3U05VcEV2LVAxVjNfaF9aZGk3bEVCVTlxQ0ZFUExzMWxjUHFTcVpPa1BseW5rdFl1dmN6REd2TkxVWjA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-22T15:49:34Z",
-      "summary": "据Windows Central报道，微软发布新指南警告：即便是被标记为“可信”的AI代理，也会带来严重的安全与安全影响。指南指出，代理一旦获得较高权限并接入企业系统，其被提示注入攻击操纵、行为偏离预期或被滥用时的破坏范围会显著扩大，因此不能仅凭“可信”标签就放松管控。建议包括最小权限原则、细粒度授权、持续监控与审计、隔离高风险操作并要求关键动作人工确认，反映出代理式AI治理正从功能竞赛转向风险控制。"
+      "publishedAt": "2026-10-22T21:51:25Z",
+      "summary": "Canva推出其首个AI图像生成模型，特点是先进行设计规划再生成图像，而非直接出图。该模型可先理解版式、元素和风格需求，再据此生成更符合设计目标的内容，从而提升可控性、一致性和编辑效率。这显示AI图像工具正从单纯生成走向面向工作流的设计辅助。"
     },
     {
-      "title": "IMF, OECD warn AI could widen rich-poor country divide - The Arab Weekly",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmNBeXRvRUFtNTFrMTlCRmlUMWh3MGxHelJDdjdVMlViSVBUOVI3YnotRVJfaV9heWN3NFlHSlFUQUtOMG41ZXg0bE96dHZKcGMtem1PTUZlbXI2d2NIMEoxd1kzNUpaWFdYWmN0LXdhaVhEcmFIOXExUkc3ZVZ0dGRRRWc4dw?oc=5",
+      "title": "Trading Day: Maximum pAIn - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWk5UTd0blZlazE0LVQtWXNvMDBEMnJ6eUl5LUltU3NiZWM5TWd5RjNVNU9XRFpvZnZBNzJXam1IbXJ1SUxYcy1yOHQ1NmxsQkRrT2RING5sZHcybFZyeXhnQmhYQ3R6aHFPY0ZsSGJsX0VjTVlJanRpMHBqWm43Mi1OOF95T1BOTjdDMnFWY1Z2dHg4RWJGOFd3Z24xQjltWDhrT1pn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-22T15:17:48Z",
-      "summary": "国际货币基金组织（IMF）与经济合作与发展组织（OECD）警告，人工智能可能扩大富裕国家与贫穷国家之间的发展差距。核心风险在于AI技术、算力、投资和人才分布不均，发展中国家若缺乏基础设施、技能培训和治理能力，可能难以分享AI红利。两家机构呼吁各国加强政策协调、增加包容性投资，并建立合作机制，以降低AI加剧全球不平等的风险。"
-    },
-    {
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T15:03:58Z",
-      "summary": "Spotify联合首席执行官古斯塔夫·瑟德斯特伦表示，公司当前押注AI，重点是让Spotify成为AI代理（agents）优先选择的音乐服务。随着AI代理逐渐代替用户完成搜索、推荐和播放等任务，音乐平台需要优化接口、推荐与个性化能力，以便被代理识别和调用。他认为AI代理的兴起可能为Spotify带来新的分发入口和增长机会。"
+      "publishedAt": "2026-10-22T21:19:56Z",
+      "summary": "路透社交易日报以“Maximum pAIn”为题，标题将“最大痛苦”与AI双关，暗示市场正关注AI叙事下的交易波动与风险。报道可能围绕AI相关资产估值、投资者情绪及潜在回撤展开。在缺乏正文细节时，可确定其核心是审视AI热潮对市场定价、风险偏好和交易策略的影响。"
     }
   ]
 }

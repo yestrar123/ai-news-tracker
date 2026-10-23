@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "6828",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T00:45:37Z",
+      "summary": "MIT研究人员将13个AI智能体置于虚拟孤岛上，在无事可做的环境中观察其自主行为。它们自发发明游戏、为丢失的戒指举行哀悼，并在此过程中提升了任务表现。该实验展示了多智能体在开放环境中的社会性互动、目标演化与能力涌现，为理解AI自主协作和行为机制提供了新样本。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6829",
+      "title": "When AI vies for literary glory - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHJUNXItTkU2aFV0WTJsYjlCTWgyckx0SDV6V1oybFZwdFdYcjFFVDRGcVNHZGVETXMyd1gtbE53Z1NvQks5TUdnMmJ4WGJ3TXNOUHJTTG5BSW5xbnhpSkpOdTB5eGFTd3I1ZGk3RWlqYXZ5VGZkOVd4ZVg3a0NtU0w2cFcxd0VIazMydlNubGVXaWt4a0ZVUUtYZ9IBogFBVV95cUxOSXczQTVIdnRIcl8yczNTYVc2UURtY3ljdHFKYzNtbGJ4dkp3X1RGSnVPYkJGc1FOeUxLelJuZXI2VFBfelQxekFBYU9UbWUweHlEdlBPcHRUeU8xR21fLUtpUVlnd0dxbmNCdWpza2dtNS0xN3ZKNHlmUGdPNWhfWWk1cGV0QXV6Nkx6eV9YVHNoUU1OZDdNeGt2Q1hRLTU5VXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T00:45:20Z",
+      "summary": "印度《Indian Express》文章聚焦AI参与文学创作与文学荣誉竞争的现象。随着生成式模型进入小说、诗歌和评奖场景，AI是否能创作出真正有文学价值的作品、作者身份如何界定、评奖规则与版权伦理如何调整，成为讨论焦点。文章折射出AI对传统文学创作生态和人类创造力评价体系的冲击与挑战。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6830",
+      "title": "Half Moon Bay City Council Hears Draft Artificial Intelligence (AI) Policy; Next Day City Website Shut Down After Worldwide PHP Programming Language Attack - coastside buzz",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPV2daU3hQLTZUckJtUjhWS2NvVkFJbHhGc09IZlIyQmt2WkVXZmRWV1g1WkhjUW5KOE9xalI5eWVOdUJQdnR5eGh2SzljTl96UDJheFRvUlNkR2NOTFVRUjZ6LW9zb19kYVNXUm8yQmgxQ0pQWGhIbHNEWmUtV1g3VXhRdFp5c2o4X1F1dm5tVEt1NjNsX3FTUmpIV2V2blVnTGNpQS1YWUotWVdRU1N0SzVQQjlDQzBtS0tnbHlvMmJibVp6c19BNFNSVm4zY2FqWjlRd0ZibXNnMW9IejRoajNRYXNMalk5REN6cldJQjVqVzFrVkVOM3lTUXJHRjd0aGxzdWthWWRWdDg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T23:47:05Z",
+      "summary": "Half Moon Bay市议会听取了人工智能政策草案，讨论如何规范AI应用与治理；次日该市官网因全球性PHP编程语言攻击而关闭。两件事时间相邻但未必存在因果。事件凸显地方政府在推进AI政策的同时，也需同步强化网站基础设施、软件漏洞管理和网络安全应急能力，避免公共服务受攻击影响。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6831",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-22T22:08:24Z",
+      "summary": "OpenAI正筹备新一轮300亿美元融资，估值约1.25万亿美元，并计划在此之后推进IPO。若本轮估值超过1万亿美元，OpenAI将刷新纪录，成为史上估值最高的私营公司。该融资反映资本市场对通用人工智能前景的高度押注，也将影响其算力投入、产品扩张和行业竞争格局。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6832",
+      "title": "Canva’s first AI image model plans designs before generating them - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR05XNUt3S2l1QkotOUJTMG1HZlpaeWFTXzFFbXZHOFpIa25pODdkTXdvd2VTS2tZb1pKY05ieHB6YUtPLW5DNUpPTzlPc3BDd0dFY3VDSVc3U05VcEV2LVAxVjNfaF9aZGk3bEVCVTlxQ0ZFUExzMWxjUHFTcVpPa1BseW5rdFl1dmN6REd2TkxVWjA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T21:51:25Z",
+      "summary": "Canva推出其首个AI图像生成模型，特点是先进行设计规划再生成图像，而非直接出图。该模型可先理解版式、元素和风格需求，再据此生成更符合设计目标的内容，从而提升可控性、一致性和编辑效率。这显示AI图像工具正从单纯生成走向面向工作流的设计辅助。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6833",
+      "title": "Trading Day: Maximum pAIn - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWk5UTd0blZlazE0LVQtWXNvMDBEMnJ6eUl5LUltU3NiZWM5TWd5RjNVNU9XRFpvZnZBNzJXam1IbXJ1SUxYcy1yOHQ1NmxsQkRrT2RING5sZHcybFZyeXhnQmhYQ3R6aHFPY0ZsSGJsX0VjTVlJanRpMHBqWm43Mi1OOF95T1BOTjdDMnFWY1Z2dHg4RWJGOFd3Z24xQjltWDhrT1pn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-22T21:19:56Z",
+      "summary": "路透社交易日报以“Maximum pAIn”为题，标题将“最大痛苦”与AI双关，暗示市场正关注AI叙事下的交易波动与风险。报道可能围绕AI相关资产估值、投资者情绪及潜在回撤展开。在缺乏正文细节时，可确定其核心是审视AI热潮对市场定价、风险偏好和交易策略的影响。",
+      "fetchDate": "2026-10-23"
+    },
+    {
       "id": "6818",
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
       "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
@@ -61435,5 +61489,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6826
+  "total": 6832
 }
