@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "6843",
+      "title": "China urges government agencies to mitigate AI job displacement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlVIUEhSdHd1VnZ4dUN2RE1iODlDNUs4YWJyTklNajFoYnhjSzNveTQtcmo3SDNhem5vSi1VNng0Y2YtdzlEM3JhcEZQM3U5elN5RWZHTFBwdFZ4UklWdzZkTEdvdkVhM21DTW1oMUdKYzloVnNiaE1LcEs1Z21rRXVkeHI3aldFM21RbEhmMzdDU3BQRm5HSWRaUkNMNkQ0V0lDZDU4VVVYRm1SSnJLQkhiQ0FkbGJzRmdv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T10:25:29Z",
+      "summary": "据路透社报道，中国敦促政府机构采取措施缓解人工智能对就业的冲击。核心是在推进AI应用的同时，关注岗位替代风险，通过政策引导、技能培训和社会保障等方式降低转型成本。消息强调政府部门需在产业升级与就业稳定之间取得平衡，体现对AI社会影响的治理思路。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6844",
+      "title": "Is a job guarantee the solution to mass AI unemployment? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ0xuWEoxc1JYYU5nTXB0dHJCakpfVFZRTm11enoxMWY0V0dONlk4Q01OSWpKd0piNlNRbmZ0VEstSWwybkhzRkxqTnU3YzZaOHVEeE12Rm1xZDEteUNBT2ZHN3pVNXRKYkktUnFDX1QtOURRb0l5WHNBdXJackluNXhoaUdSMEs5dHM3RVFR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T10:00:00Z",
+      "summary": "《卫报》讨论在AI可能引发大规模失业背景下，就业保障是否应成为应对方案。文章聚焦AI自动化对劳动力市场的冲击，以及传统社会保障和再就业培训是否足以应对结构性失业。核心争议在于，政府是否应通过直接提供就业岗位来兜底，还是以收入支持、技能重塑和劳动市场改革为主。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6845",
+      "title": "Trustees must monitor AI risks building in investment portfolios, says TPR - Pensions Expert",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWV4b2ZZaEFwZkNxY2VxWERDaVdORDIzNWNhcGFoR28taHFrSDBQV2VCUllTd0ZCbUd2a290Qi1mdnU3NVI1d05nbDNtV2J6RWpNTlU2WXBYUm1EaEI5dnh6cFlBT0hvN0NZZHFfaEpfYkp6RDhiU0NNcWlTWVdQY0pRMWIyY1k2c0NXek5sR2p0TFBTZmxwYzU2ZjJZeHBmTS15TUNpYW9uMkFxSXVYb2FoWF95Vk5RU1dwRW0wWjBuX2xXbnNtU1lB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T08:31:57Z",
+      "summary": "据Pensions Expert报道，英国养老金监管机构TPR指出，受托人需持续监测投资组合中逐步累积的人工智能相关风险。随着养老金资金增加对AI产业及采用AI技术企业的配置，风险可能通过估值波动、集中度、治理与网络安全等渠道传导。受托人应提升尽调与风险管理能力，确保成员利益得到保护。",
+      "fetchDate": "2026-10-23"
+    },
+    {
       "id": "6834",
       "title": "The Technology Strategy 2030 Playbook: AI, Cloud, Data and Cybersecurity - TechBullion",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlhMMFp0WlE5cTZrMHd4NXVUcmI2RUhPWS1rWjNxNmUzRWxVQldDM1d2emtSZFEzdEx5SjhGRGpMQ2RBLVNmM0N2V0VHRVZWUklZaUVSdmVMQndnUk9OVUdZU3dTMjB1Y3NaeHZrVmcxRng2X1R3WWlhcUFWSjNYMnRaLWhoQUtOTGNLR21sNmkybFhwa3FsdTF3?oc=5",
@@ -61570,5 +61597,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6841
+  "total": 6844
 }
