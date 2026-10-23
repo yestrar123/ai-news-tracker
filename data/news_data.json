@@ -1,62 +1,111 @@
 {
-  "updatedAt": "2026-10-23 10:40:10 UTC",
-  "totalArticles": 8,
+  "updatedAt": "2026-10-23 16:04:17 UTC",
+  "totalArticles": 15,
   "articles": [
     {
-      "title": "China urges government agencies to mitigate AI job displacement - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlVIUEhSdHd1VnZ4dUN2RE1iODlDNUs4YWJyTklNajFoYnhjSzNveTQtcmo3SDNhem5vSi1VNng0Y2YtdzlEM3JhcEZQM3U5elN5RWZHTFBwdFZ4UklWdzZkTEdvdkVhM21DTW1oMUdKYzloVnNiaE1LcEs1Z21rRXVkeHI3aldFM21RbEhmMzdDU3BQRm5HSWRaUkNMNkQ0V0lDZDU4VVVYRm1SSnJLQkhiQ0FkbGJzRmdv?oc=5",
+      "title": "OpenClaw creator spent $10 million on AI tokens last month - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlB3cXhKbHdmZGxMQ3cwR0hOV0gyZVBUbENXS3BrQjZOWjBJNTZBWFZibUJsMFpmU2hDTWxXSXJ4U19qNFBaTWpkNlVORXV3dnluMnRkVU9zR0x6NG5BWjB1bXB6eG9hMEFONkZFeThJSEFHYjdkYmJIUWRHU3NNd0VEVUhTbmkycnRvTUwzaWhMYmhzUW04N2JxbklzZzB0c2Znemg1QS1ZcHBwcDlJ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-23T10:25:29Z",
-      "summary": "据路透社报道，中国敦促政府机构采取措施缓解人工智能对就业的冲击。核心是在推进AI应用的同时，关注岗位替代风险，通过政策引导、技能培训和社会保障等方式降低转型成本。消息强调政府部门需在产业升级与就业稳定之间取得平衡，体现对AI社会影响的治理思路。"
+      "publishedAt": "2026-10-23T15:46:25Z",
+      "summary": "据Computerworld报道，OpenClaw创始人透露其上月在AI token上的支出高达1000万美元。该数字凸显生成式AI与智能体应用在规模化运行时面临的推理成本压力，也说明token消耗已成为AI产品运营的重要成本项，模型调用优化、缓存与成本控制将直接影响商业可持续性。"
+    },
+    {
+      "title": "AI: From Artificial Intelligence to Automated Impact – aviation enters the age of the agent - Routesonline",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRjBnTGZJaThUbW5FQVlYVHlRUnFPQ3J2eVNMaWlSaFlOOVJxTHZ6X3VTYzJFZXJ3UXh4NXlSOVdoX2FZaElESHdDNkdtcVFsTUxHUDBsdU9aUWluR2ZScS11VGR4bTJNX3VpbFh0MnAwSjlsZUV3TWtoNWlXSUVKMVlSR3BnWGpLSFhlNmdYQXZIZHdpZ0Fobm1idllfeWdOcGFPaThTM0ROQVlxdHlEVXdpVUs4Q1J5TkxuX3BqOVp5eFdtSWpMRTNmaUNUaDI4QzNhMERqS3lnczdiQXFId1BrZjE0eWFvR05JbDd2b2xtQ01sc25EczJiWnJPbkpmSTR1dQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T15:22:00Z",
+      "summary": "Routesonline文章称，航空业正从传统人工智能迈向“自动化影响”与智能体时代，AI代理有望用于航线规划、运营调度、客户服务和收益管理等场景，推动流程自动化与决策优化，但落地仍需兼顾数据集成、监管合规和人机协同。"
+    },
+    {
+      "title": "NVIDIA chief backs Kazakhstan’s ambition to export AI computing - Cyprus Mail",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdG5GcllaU1FHSlhjVVBpR0FwTXNTZF9mVGJ5aENQYndROG12NjZOSHVScHpBbGhHTGJzU0NjR2xIMlVBWUhjdWFYZEJRVURTa3g1VXJMb29LWHZiOTRoMFZ4T244M3pVNGttVjRlbFQtaU9FNWgwTzBmQ0Q5WllNOU9lZkpPSVo2UkpNSHRVUDJSUFNHWm1XU056VVpTUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T15:05:42Z",
+      "summary": "NVIDIA负责人支持哈萨克斯坦出口AI算力的雄心，双方或在数据中心、GPU算力基础设施和AI人才培养方面合作。此举反映全球AI算力需求持续增长，资源与能源丰富国家正试图成为区域算力枢纽，并更深入融入全球AI供应链。"
+    },
+    {
+      "title": "Artificial Intelligence Advances Precision Cardiovascular Care - European Medical Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkw2NXBNckc2VlJvR2ZBc3NIVkZZbDFESkFFUXJvOUJseEI5UGMxNlNTLUtNRjhOcmFfaGw0ZVowR2plZ2pWWUFrU2xuZGEzX1g3SEdrUzZkd00xV09ZdENtTG1HRU9RTjJaLUU1SVpIWjNTLUtfVVFlWXF5UFBlUS1Ub09DeWQ5WnJVTGVqZTZ4dTlRMFp3dW1JRnNNQjk3dzJHYTJGV09Wdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T15:04:01Z",
+      "summary": "European Medical Journal报道，人工智能正推动心血管精准医疗发展，可用于影像分析、风险预测、个体化治疗和临床决策支持。AI有望提升诊断效率与治疗精度，但临床落地仍需解决数据质量、可解释性、外部验证与监管等问题。"
+    },
+    {
+      "title": "Mace Ai founders warn of AI double agents amid banks detecting unauthorized AI agents - TheStreet",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVl9xRld1ODFzc0hPXzdfel9pTUtpWEtEY2JhYkFFNmZHb1huYnI2X29vSy0tWkRtaS11ZGZTX2ROWWlXRndPZHlaOTRsT3NpdkNYMzUxVXA3dW45bnhOZTdTbmkxS1pFYWpPRzU1eVlNckNiazNLT05PMjNZUWhZaTh6bFJuM0kzWmYzZEZjQlNTRTUwYy1hR3hVY0hzU280aTJGR3hwNlFvUjR0Um82UGlUbjB0eDU4bnBHakpoQ29iRUtkUXlqMzRoX2F5VTU1Wmo4YWxEdUdmM28?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T15:00:00Z",
+      "summary": "Mace Ai创始人警告企业需防范“AI双面代理”风险；与此同时，银行正发现内部存在未经授权的AI代理。随着智能体接入企业系统，身份认证、权限控制、行为审计与安全监控成为关键，金融机构需建立AI代理治理机制以防数据泄露和越权操作。"
+    },
+    {
+      "title": "Not Intel. Not CoreWeave. This Underappreciated Nvidia-Backed Company Is Growing Artificial Intelligence (AI) Revenue by 123%. Here's Why It's a Buy Today for $8. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVBtNDk4Y2NFbmh5eWczMWVfaDBnTGpPS002djZSY1FkMWkybFZxSkZGbWQ3Q0MzMGhtR1RKcFNoWWk5NnNfMmxCZEQ5dWFQS0p2d1lBdlF6Vk5CUkowem1Ya2M2VUVCZ3hzbzUtWTFSbDNtTHF3d2FMLU9BSTlaTmsxcnZNaVNOc2l0b2c5VGJ3d1dlMnRubQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T14:36:12Z",
+      "summary": "Motley Fool文章称，一家获NVIDIA支持但被市场低估的公司AI相关收入增长123%，并给出8美元买入观点。报道将其与Intel、CoreWeave对比，认为其在AI基础设施或算力供应链中具增长潜力；但此类荐股观点仍需结合估值、业绩与风险独立判断。"
+    },
+    {
+      "title": "Website Closers Successfully Handles the Sale of Emerging Artificial Intelligence Company AnnieAI - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaEx5V3RRMncxQ1lmOXpTVWp1dExVV1VzMHhOVWNwQ25fa3NOa28zTXM4dnY5QmpPQWRodC1qNW8xT2hSOGJDZVF1djQwdWpaX1N5UWVheUc4bW1XdUI0RlllR0p2b1g0NEo3bVdXNzNFSDZLRE16elFnMldKOVowaHViX21jWldobXkxQmlYVmZqa3FDVnJzWDN6QjZTcmFyenA4Y2wwMExhc0Q1RlBVSGRRQkhLUGhQQW0wMGNMTjhIZGZYUjF1ZHY2X0ltNWJ6ZHBN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T14:08:05Z",
+      "summary": "Website Closers宣布成功完成新兴AI公司AnnieAI的出售交易，显示AI初创企业并购与退出活动仍在进行。此类交易反映资本市场对具备特定技术或应用场景的AI资产保持兴趣，也说明专业中介在AI公司估值、买卖匹配和交易执行中发挥作用。"
+    },
+    {
+      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligent Matters - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmpXSEdxRG93Z3B2V3NtZFF3X01rRkR5d2M0MHpQcDFFLXdCMHNHb1Jza3FyQmF4ME9HMHRWSjNXX1FIeFpMa0JGVGM1RC1aTV9fUkZSMW56dDgwNXhUVE5MUEVDOGlOVVZ1Y2xaNGhJeFlnYzBGeEVId3l2OV85RWZJUFBOaUU2UVZRZGstN0VGVFZaU2Vkb0x5UVp1RWU3aURnc1Z3VVkxYkJUV2ZoT1lR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T13:46:47Z",
+      "summary": "Time文章讨论特朗普将“人工智能”重新表述为“超级智能”的政策与舆论含义，认为措辞变化可能影响公众认知、监管框架和国家安全讨论。文章关注AI概念政治化后对创新、风险治理与国际竞争叙事的影响，而不仅是术语替换。"
+    },
+    {
+      "title": "Wall Street Is Getting Very Nervous About AI - Jacobin",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGkya2xZTEx0YWNBVXRVNUxTaXRHazI4ZGQ0WlpsOUxBMzhvM1U3WmdVM3loM05TR0FDWWFYZl9MMVV2MGpHay1DeEZ5YkFUQkw5aTVxSUctdDhUblZRd3FBTjJRQmVfclNDUENjeU9ZUWF1ZXpkbmd5c3VCWXVJR3d3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T13:39:11Z",
+      "summary": "Jacobin文章称，华尔街对AI日益紧张，担忧高估值、巨额资本开支与商业化回报不匹配可能引发市场波动。报道从资本逻辑与泡沫风险角度审视AI热潮，指出投资者情绪变化可能影响融资环境，并波及科技公司与更广泛经济。"
+    },
+    {
+      "title": "Global Assemblies Turn to Artificial Intelligence to Modernize Lawmaking and Strengthen Oversight - NALTF",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HVEFOMTJLa2tLYWo0QUszTmhTNU96S3RBUUo5dURVSmJDWFpzUW5peHE1SG9hYlZTSGViSzV4ZlM5QUVMdjVDSW1kbVFiWFd4MGlRRHVLV2Vta0pwYUlN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T13:34:07Z",
+      "summary": "NALTF报道称，全球多国议会正引入人工智能以推进立法现代化和强化监督，应用可能包括法案分析、文本处理、信息检索与行政效率提升。AI有助于提升立法机构能力，但也需确保透明度、问责、数据安全与人为决策主导。"
     },
     {
       "title": "Is a job guarantee the solution to mass AI unemployment? - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ0xuWEoxc1JYYU5nTXB0dHJCakpfVFZRTm11enoxMWY0V0dONlk4Q01OSWpKd0piNlNRbmZ0VEstSWwybkhzRkxqTnU3YzZaOHVEeE12Rm1xZDEteUNBT2ZHN3pVNXRKYkktUnFDX1QtOURRb0l5WHNBdXJackluNXhoaUdSMEs5dHM3RVFR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-23T10:00:00Z",
-      "summary": "《卫报》讨论在AI可能引发大规模失业背景下，就业保障是否应成为应对方案。文章聚焦AI自动化对劳动力市场的冲击，以及传统社会保障和再就业培训是否足以应对结构性失业。核心争议在于，政府是否应通过直接提供就业岗位来兜底，还是以收入支持、技能重塑和劳动市场改革为主。"
+      "publishedAt": "2026-10-23T12:03:00Z",
+      "summary": "该报道聚焦人工智能可能引发的大规模失业问题，讨论“就业保障”能否成为应对方案。文章将AI自动化对岗位的替代效应置于公共政策辩论中心，涉及技术变革对劳动力市场的冲击、政府是否应直接创造就业，以及社会保障与财政成本等核心议题。其技术要点在于AI对重复性和认知型工作的替代速度可能快于市场再就业机制，因此需要评估就业保障作为兜底政策的可行性与局限。"
     },
     {
-      "title": "Trustees must monitor AI risks building in investment portfolios, says TPR - Pensions Expert",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWV4b2ZZaEFwZkNxY2VxWERDaVdORDIzNWNhcGFoR28taHFrSDBQV2VCUllTd0ZCbUd2a290Qi1mdnU3NVI1d05nbDNtV2J6RWpNTlU2WXBYUm1EaEI5dnh6cFlBT0hvN0NZZHFfaEpfYkp6RDhiU0NNcWlTWVdQY0pRMWIyY1k2c0NXek5sR2p0TFBTZmxwYzU2ZjJZeHBmTS15TUNpYW9uMkFxSXVYb2FoWF95Vk5RU1dwRW0wWjBuX2xXbnNtU1lB?oc=5",
+      "title": "Retro gaming is being overrun with AI - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc1hBYTZWbDJ5MjVzeFRiWE1xN1ZNZXQ3NEo5Z1QxbVNUVVNELXBBbzJZRHBlNEJMblBDT0lfc0Y2V3cxcDNSSThZNHpvWExpRU1fSUpTa0NtOEdGcWM3WGRqT1B1QVBFaWsyTmRqU3J2eFdXYVJtQnlzNGdCcTRjM1pHcVBqaEdfV3BWUmFTUWJnQzBxNUZJVA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-23T08:31:57Z",
-      "summary": "据Pensions Expert报道，英国养老金监管机构TPR指出，受托人需持续监测投资组合中逐步累积的人工智能相关风险。随着养老金资金增加对AI产业及采用AI技术企业的配置，风险可能通过估值波动、集中度、治理与网络安全等渠道传导。受托人应提升尽调与风险管理能力，确保成员利益得到保护。"
+      "publishedAt": "2026-10-23T12:00:00Z",
+      "summary": "该报道指出，AI正大量进入复古游戏领域，改变这一原本依赖玩家社区和手工修复的生态。相关应用可能涉及游戏内容生成、老游戏修复、模拟器优化和社区创作等场景，同时引发关于作品真实性、版权归属、内容质量以及玩家体验的争议。技术要点在于生成式AI降低了复古游戏相关内容的制作门槛，但也可能造成滥用和同质化，迫使社区与平台重新界定AI使用的边界。"
     },
     {
-      "title": "The Technology Strategy 2030 Playbook: AI, Cloud, Data and Cybersecurity - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlhMMFp0WlE5cTZrMHd4NXVUcmI2RUhPWS1rWjNxNmUzRWxVQldDM1d2emtSZFEzdEx5SjhGRGpMQ2RBLVNmM0N2V0VHRVZWUklZaUVSdmVMQndnUk9OVUdZU3dTMjB1Y3NaeHZrVmcxRng2X1R3WWlhcUFWSjNYMnRaLWhoQUtOTGNLR21sNmkybFhwa3FsdTF3?oc=5",
+      "title": "SAP lets AI play key role in its certification renewal process - CIO",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFl2S3dSSlk0dlRXNFFRVnZ2N0lHYmNJOE9GMzZfbmRFQjBVQzQtM1ZVVG5XbjhaY2s3dlNKdTI2eDZOTTFGWHN0Z2dOWGFtQ2xpdGVjQkhMeFVaZkhyMVZrcGxQSmhIQjc1S1dhc1l3engwTzBHSnFZQWEyOFVRU2hwMWlqdlJRZnpNNjZfTnZQOV9lZmhZVUxBdTYtd2x4OVVMRDln?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-23T05:47:59Z",
-      "summary": "TechBullion文章提出面向2030年的技术战略框架，将人工智能、云计算、数据和网络安全列为企业转型的四大支柱。核心观点是，AI应用依赖高质量数据与云基础设施，同时必须建立安全与合规体系。文章强调企业应制定长期路线图，统筹技术投入、组织能力和风险治理，以提升韧性并实现可持续创新。"
+      "publishedAt": "2026-10-23T11:39:42Z",
+      "summary": "该报道称，SAP在其认证续期流程中让AI发挥关键作用，推动企业认证管理走向自动化。技术要点包括利用AI辅助审核材料、识别合规风险、提升续期处理效率并减少人工负担。此举反映企业软件厂商正将AI嵌入内部运营与合规流程，以缩短认证周期、降低管理成本。同时，认证流程涉及专业判断与责任归属，AI的引入也需要配套的人工复核和治理机制，确保结果准确可信。"
     },
     {
-      "title": "Large U.S. banks have detected a series of external artificial intelligence (AI) agents that have ac.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iaGdiMTQtcUlSTnJpZGluVnBYc0pOSHVZUXItU1BBSWpmZ0RUTTdPVlkwWFJLMXBESFpVM1FpTDJMVmhPbko1Y0w1SkVLazFNaXc?oc=5",
+      "title": "Amid the difficulty of employment and the development of artificial intelligence (AI), some companie.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13ZmhoSW9vQTdsU1gzTDY3UkR4VXRocTd6SXdzMzdqNmNQbWMxbWxMcGxlblpTUXNuaGUxUGVFNUJLeUphUmVYSFBDUlJCS1FaVWc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-23T05:35:44Z",
-      "summary": "据《每日经济》报道，美国大型银行已检测到一系列外部人工智能代理的活动。消息指向金融机构正面临新型AI代理带来的安全与合规挑战，这些外部代理可能尝试访问系统或获取信息。银行需要加强对AI代理的身份识别、权限控制和行为监测，以防范自动化工具被滥用引发的网络风险。"
+      "publishedAt": "2026-10-23T11:23:39Z",
+      "summary": "该报道关注在就业困难与人工智能快速发展的双重背景下，一些企业开始采取应对措施。虽然原文信息有限，但核心指向AI对招聘和岗位结构的冲击，以及企业通过调整用工、加强员工技能培训或引入AI工具来平衡效率与就业。技术要点在于AI应用可能替代部分岗位，同时催生新技能需求，企业需在自动化与人力配置之间重新规划，以缓解就业压力并适应技术转型。"
     },
     {
-      "title": "AI-Powered Government Services: How Digital Assistants Are Changing Public Access - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkR0NWxvQnMtcUNKM3Y3ZjVvcmpVdUxHZ0U3eEJhRVVYZ05zZWZ6UDg4QXZMTExRQ0ZlQ0E2VkUxTWVPTENkeVFrWjlMZzRxZW9hZ1A2anpvWTZIZkppTnpibkxzZ2twWGJnVHhSVkFzSXU4UXdCaEZUV2NTc0d2NE1tcW1nbGRJV3A3aDVCYkd0X2FyTW1KaFA1elRVb2txS2xXWGFLMjI?oc=5",
+      "title": "China urges government agencies to mitigate AI job displacement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlVIUEhSdHd1VnZ4dUN2RE1iODlDNUs4YWJyTklNajFoYnhjSzNveTQtcmo3SDNhem5vSi1VNng0Y2YtdzlEM3JhcEZQM3U5elN5RWZHTFBwdFZ4UklWdzZkTEdvdkVhM21DTW1oMUdKYzloVnNiaE1LcEs1Z21rRXVkeHI3aldFM21RbEhmMzdDU3BQRm5HSWRaUkNMNkQ0V0lDZDU4VVVYRm1SSnJLQkhiQ0FkbGJzRmdv?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-23T05:27:36Z",
-      "summary": "TechBullion文章探讨AI驱动的政府服务如何通过数字助手改变公众获取公共服务的方式。数字助手可提供全天候咨询、办事指引和表单辅助，降低使用门槛并提升效率。文章同时关注数据隐私、算法透明度和数字鸿沟等挑战，强调政府应在提升可及性的同时建立信任与责任机制。"
-    },
-    {
-      "title": "The artificial intelligence (AI) diagnostic system developed by Microsoft (MS) has recorded more tha.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UeUd6NWZNODNRbGJucVNWbmJ3dGhPcUItZ2VYZTh4X0t4NkFLSkdDbXotTHkxdEx5c3UtU1FPSm5adEYwcFdjajEtUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T04:42:15Z",
-      "summary": "据《每日经济》报道，微软开发的人工智能诊断系统已录得超过一定规模的使用或诊断记录。该消息显示AI在医疗辅助诊断领域的应用正加速落地，可能覆盖影像识别、症状分析或临床决策支持等场景。核心看点在于系统规模应用后的准确性、临床验证、数据安全与监管合规问题。"
-    },
-    {
-      "title": "Hancom will introduce its artificial intelligence (AI) workforce platform \"Nomadian\" in beta in the - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vb0lWeHNodlBDWXNxdGxkR3FzVDJDd2F4dGdFNW1kaS1xU2YwRVBGSTRqU2Y1T2J5ellLT1U5Y3lPLWU4YmNpNGxXTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T04:41:01Z",
-      "summary": "据《每日经济》报道，韩国Hancom公司将推出人工智能劳动力平台Nomadian的测试版。该平台预计面向企业员工管理与协作场景，利用AI提升人力资源配置、任务自动化和知识工作效率。测试版发布表明Hancom正加快布局企业级AI办公与劳动力管理市场，后续表现取决于功能成熟度和客户采纳。"
+      "publishedAt": "2026-10-23T10:25:29Z",
+      "summary": "该报道称，中国敦促政府机构采取措施缓解AI带来的就业替代问题。核心信息是政策层面已关注AI对劳动力市场的冲击，并要求公共部门在就业监测、技能培训、社会保障和岗位创造等方面发挥积极作用。技术要点在于AI自动化可能加速部分职业消失，政策需在促进技术应用与保障就业之间取得平衡。该信号表明，AI治理正从产业创新扩展到就业影响评估和劳动者保护。"
     }
   ]
 }
