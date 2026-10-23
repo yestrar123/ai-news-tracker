@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "6834",
+      "title": "The Technology Strategy 2030 Playbook: AI, Cloud, Data and Cybersecurity - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlhMMFp0WlE5cTZrMHd4NXVUcmI2RUhPWS1rWjNxNmUzRWxVQldDM1d2emtSZFEzdEx5SjhGRGpMQ2RBLVNmM0N2V0VHRVZWUklZaUVSdmVMQndnUk9OVUdZU3dTMjB1Y3NaeHZrVmcxRng2X1R3WWlhcUFWSjNYMnRaLWhoQUtOTGNLR21sNmkybFhwa3FsdTF3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T05:47:59Z",
+      "summary": "文章提出面向2030年的技术战略框架，围绕人工智能、云计算、数据与网络安全四大支柱展开，强调企业应将AI能力与云基础设施、数据治理和安全体系协同布局，并给出组织、投资与风险管理的实施建议，以提升韧性、合规水平与长期竞争力。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6835",
+      "title": "Large U.S. banks have detected a series of external artificial intelligence (AI) agents that have ac.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iaGdiMTQtcUlSTnJpZGluVnBYc0pOSHVZUXItU1BBSWpmZ0RUTTdPVlkwWFJLMXBESFpVM1FpTDJMVmhPbko1Y0w1SkVLazFNaXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T05:35:44Z",
+      "summary": "美国大型银行检测到一系列外部AI代理的活动迹象，可能涉及对银行系统、账户或数据的访问尝试。这一动向凸显金融机构正面临新型AI驱动安全威胁，需加强身份验证、行为监测、访问控制以及针对自动化代理的治理。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6836",
+      "title": "AI-Powered Government Services: How Digital Assistants Are Changing Public Access - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkR0NWxvQnMtcUNKM3Y3ZjVvcmpVdUxHZ0U3eEJhRVVYZ05zZWZ6UDg4QXZMTExRQ0ZlQ0E2VkUxTWVPTENkeVFrWjlMZzRxZW9hZ1A2anpvWTZIZkppTnpibkxzZ2twWGJnVHhSVkFzSXU4UXdCaEZUV2NTc0d2NE1tcW1nbGRJV3A3aDVCYkd0X2FyTW1KaFA1elRVb2txS2xXWGFLMjI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T05:27:36Z",
+      "summary": "文章探讨AI数字助手在政府公共服务中的应用：通过自然语言交互帮助公众查询信息、办理事务，提升服务可及性与效率。同时指出，政府需兼顾隐私保护、算法公平、透明度和人工兜底，避免数字鸿沟与信任风险。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6837",
+      "title": "Vespin Global, a company specializing in artificial intelligence (AI) services and solutions, announ.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5MG9SUWtqM3FpLVN5MVRKNF94R0FnYzNoUGk0amJjbVdfVVpaRFpBVjY5QmE2dkw1RXVTTjhrR2dDSUlfS3pxT0JTaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T04:43:11Z",
+      "summary": "专注于AI服务与解决方案的Vespin Global发布最新公告，但公开摘要未披露具体产品与合作细节。结合其业务定位，公司仍在围绕企业AI服务、行业解决方案和智能化转型需求布局，公告可能涉及新平台、项目或生态合作，具体内容有待进一步披露。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6838",
+      "title": "The artificial intelligence (AI) diagnostic system developed by Microsoft (MS) has recorded more tha.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UeUd6NWZNODNRbGJucVNWbmJ3dGhPcUItZ2VYZTh4X0t4NkFLSkdDbXotTHkxdEx5c3UtU1FPSm5adEYwcFdjajEtUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T04:42:15Z",
+      "summary": "微软开发的AI诊断系统已累计完成超过一定规模的诊断或使用记录，显示AI辅助医疗正从试点走向规模化应用。此类系统有望提升诊断效率与医疗可及性，但仍需经过临床验证、监管审批，并明确责任边界。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6839",
+      "title": "Nvidia CEO Jensen Huang, who leads the artificial intelligence (AI) semiconductor market, dismissed - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BT1d2WE9vUVBBVFhZSnA5Yk9Ja3RfWUNRcXZpUFo5V0JRUnhHUWl3VEFtejl4UTQzVzFySXpvRDlCY1NQMTh6enBPbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T04:42:03Z",
+      "summary": "英伟达CEO黄仁勋在相关表态中淡化或驳斥了外界对AI半导体市场的一项担忧，强调AI计算需求仍具韧性。该表态有助于稳定市场预期，但受摘要截断影响，其具体观点和背景尚未完全披露，业界关注其对需求、竞争与泡沫争论的回应。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6840",
+      "title": "Hancom will introduce its artificial intelligence (AI) workforce platform \"Nomadian\" in beta in the - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vb0lWeHNodlBDWXNxdGxkR3FzVDJDd2F4dGdFNW1kaS1xU2YwRVBGSTRqU2Y1T2J5ellLT1U5Y3lPLWU4YmNpNGxXTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T04:41:01Z",
+      "summary": "韩国Hancom将推出AI劳动力平台“Nomadian”测试版，定位为企业级AI员工或数字劳动力管理，可能支持任务自动化、知识协作与工作流集成。这体现AI代理正从单点工具走向组织级平台，企业需同步考虑治理与安全。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6841",
+      "title": "State legislatures become de facto AI regulators as Congress stalls - Artificialintelligence-news.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUl1cmJkckQ1TTZ5b0xFOUJWb2FrWkwwNFk2ZnpGSTVaaWNISllxVGZscWxBUWNleUI0ZTdDNlNYS3VxQzBtOXEtTG1DdEROeWMzdjJBWnprQ3NZWXVuNTR5VU9wN3ZiaW5oRUhlYXNHeUlnNUctMnJScVZoSUJDLWhPUGN5ajAtN3FEcDNVQmZsUHNNYjh0cDRPQU5JdjZXcjRiOVFlNGdlb3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T04:30:00Z",
+      "summary": "由于美国国会AI立法进展停滞，各州议会通过本地法案成为事实上的AI监管者，形成分散化监管格局。企业将面对多州规则差异与合规成本，这也可能反过来推动联邦层面统一AI治理框架的讨论。",
+      "fetchDate": "2026-10-23"
+    },
+    {
+      "id": "6842",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T04:00:00Z",
+      "summary": "Uber竞争对手inDrive计划与Pony.ai、英伟达合作，于2027年上半年在哈萨克斯坦首都启动Robotaxi测试。该合作将自动驾驶方案与AI芯片结合，探索中亚地区无人驾驶出行落地，并为后续商业化运营积累数据与监管经验。",
+      "fetchDate": "2026-10-23"
+    },
+    {
       "id": "6828",
       "title": "Left alone with nothing to do, AI agents started playing",
       "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
@@ -61489,5 +61570,5 @@
       "fetchDate": "2026-06-20"
     }
   ],
-  "total": 6832
+  "total": 6841
 }

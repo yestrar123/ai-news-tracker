@@ -1,48 +1,76 @@
 {
-  "updatedAt": "2026-10-23 02:24:36 UTC",
-  "totalArticles": 6,
+  "updatedAt": "2026-10-23 06:45:48 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "The Technology Strategy 2030 Playbook: AI, Cloud, Data and Cybersecurity - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlhMMFp0WlE5cTZrMHd4NXVUcmI2RUhPWS1rWjNxNmUzRWxVQldDM1d2emtSZFEzdEx5SjhGRGpMQ2RBLVNmM0N2V0VHRVZWUklZaUVSdmVMQndnUk9OVUdZU3dTMjB1Y3NaeHZrVmcxRng2X1R3WWlhcUFWSjNYMnRaLWhoQUtOTGNLR21sNmkybFhwa3FsdTF3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T05:47:59Z",
+      "summary": "文章提出面向2030年的技术战略框架，围绕人工智能、云计算、数据与网络安全四大支柱展开，强调企业应将AI能力与云基础设施、数据治理和安全体系协同布局，并给出组织、投资与风险管理的实施建议，以提升韧性、合规水平与长期竞争力。"
+    },
+    {
+      "title": "Large U.S. banks have detected a series of external artificial intelligence (AI) agents that have ac.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iaGdiMTQtcUlSTnJpZGluVnBYc0pOSHVZUXItU1BBSWpmZ0RUTTdPVlkwWFJLMXBESFpVM1FpTDJMVmhPbko1Y0w1SkVLazFNaXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T05:35:44Z",
+      "summary": "美国大型银行检测到一系列外部AI代理的活动迹象，可能涉及对银行系统、账户或数据的访问尝试。这一动向凸显金融机构正面临新型AI驱动安全威胁，需加强身份验证、行为监测、访问控制以及针对自动化代理的治理。"
+    },
+    {
+      "title": "AI-Powered Government Services: How Digital Assistants Are Changing Public Access - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkR0NWxvQnMtcUNKM3Y3ZjVvcmpVdUxHZ0U3eEJhRVVYZ05zZWZ6UDg4QXZMTExRQ0ZlQ0E2VkUxTWVPTENkeVFrWjlMZzRxZW9hZ1A2anpvWTZIZkppTnpibkxzZ2twWGJnVHhSVkFzSXU4UXdCaEZUV2NTc0d2NE1tcW1nbGRJV3A3aDVCYkd0X2FyTW1KaFA1elRVb2txS2xXWGFLMjI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T05:27:36Z",
+      "summary": "文章探讨AI数字助手在政府公共服务中的应用：通过自然语言交互帮助公众查询信息、办理事务，提升服务可及性与效率。同时指出，政府需兼顾隐私保护、算法公平、透明度和人工兜底，避免数字鸿沟与信任风险。"
+    },
+    {
+      "title": "Vespin Global, a company specializing in artificial intelligence (AI) services and solutions, announ.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5MG9SUWtqM3FpLVN5MVRKNF94R0FnYzNoUGk0amJjbVdfVVpaRFpBVjY5QmE2dkw1RXVTTjhrR2dDSUlfS3pxT0JTaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T04:43:11Z",
+      "summary": "专注于AI服务与解决方案的Vespin Global发布最新公告，但公开摘要未披露具体产品与合作细节。结合其业务定位，公司仍在围绕企业AI服务、行业解决方案和智能化转型需求布局，公告可能涉及新平台、项目或生态合作，具体内容有待进一步披露。"
+    },
+    {
+      "title": "The artificial intelligence (AI) diagnostic system developed by Microsoft (MS) has recorded more tha.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UeUd6NWZNODNRbGJucVNWbmJ3dGhPcUItZ2VYZTh4X0t4NkFLSkdDbXotTHkxdEx5c3UtU1FPSm5adEYwcFdjajEtUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T04:42:15Z",
+      "summary": "微软开发的AI诊断系统已累计完成超过一定规模的诊断或使用记录，显示AI辅助医疗正从试点走向规模化应用。此类系统有望提升诊断效率与医疗可及性，但仍需经过临床验证、监管审批，并明确责任边界。"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang, who leads the artificial intelligence (AI) semiconductor market, dismissed - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BT1d2WE9vUVBBVFhZSnA5Yk9Ja3RfWUNRcXZpUFo5V0JRUnhHUWl3VEFtejl4UTQzVzFySXpvRDlCY1NQMTh6enBPbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T04:42:03Z",
+      "summary": "英伟达CEO黄仁勋在相关表态中淡化或驳斥了外界对AI半导体市场的一项担忧，强调AI计算需求仍具韧性。该表态有助于稳定市场预期，但受摘要截断影响，其具体观点和背景尚未完全披露，业界关注其对需求、竞争与泡沫争论的回应。"
+    },
+    {
+      "title": "Hancom will introduce its artificial intelligence (AI) workforce platform \"Nomadian\" in beta in the - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vb0lWeHNodlBDWXNxdGxkR3FzVDJDd2F4dGdFNW1kaS1xU2YwRVBGSTRqU2Y1T2J5ellLT1U5Y3lPLWU4YmNpNGxXTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T04:41:01Z",
+      "summary": "韩国Hancom将推出AI劳动力平台“Nomadian”测试版，定位为企业级AI员工或数字劳动力管理，可能支持任务自动化、知识协作与工作流集成。这体现AI代理正从单点工具走向组织级平台，企业需同步考虑治理与安全。"
+    },
+    {
+      "title": "State legislatures become de facto AI regulators as Congress stalls - Artificialintelligence-news.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUl1cmJkckQ1TTZ5b0xFOUJWb2FrWkwwNFk2ZnpGSTVaaWNISllxVGZscWxBUWNleUI0ZTdDNlNYS3VxQzBtOXEtTG1DdEROeWMzdjJBWnprQ3NZWXVuNTR5VU9wN3ZiaW5oRUhlYXNHeUlnNUctMnJScVZoSUJDLWhPUGN5ajAtN3FEcDNVQmZsUHNNYjh0cDRPQU5JdjZXcjRiOVFlNGdlb3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-23T04:30:00Z",
+      "summary": "由于美国国会AI立法进展停滞，各州议会通过本地法案成为事实上的AI监管者，形成分散化监管格局。企业将面对多州规则差异与合规成本，这也可能反过来推动联邦层面统一AI治理框架的讨论。"
+    },
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-23T04:00:00Z",
+      "summary": "Uber竞争对手inDrive计划与Pony.ai、英伟达合作，于2027年上半年在哈萨克斯坦首都启动Robotaxi测试。该合作将自动驾驶方案与AI芯片结合，探索中亚地区无人驾驶出行落地，并为后续商业化运营积累数据与监管经验。"
+    },
     {
       "title": "Left alone with nothing to do, AI agents started playing",
       "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-23T00:45:37Z",
-      "summary": "MIT研究人员将13个AI智能体置于虚拟孤岛上，在无事可做的环境中观察其自主行为。它们自发发明游戏、为丢失的戒指举行哀悼，并在此过程中提升了任务表现。该实验展示了多智能体在开放环境中的社会性互动、目标演化与能力涌现，为理解AI自主协作和行为机制提供了新样本。"
-    },
-    {
-      "title": "When AI vies for literary glory - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHJUNXItTkU2aFV0WTJsYjlCTWgyckx0SDV6V1oybFZwdFdYcjFFVDRGcVNHZGVETXMyd1gtbE53Z1NvQks5TUdnMmJ4WGJ3TXNOUHJTTG5BSW5xbnhpSkpOdTB5eGFTd3I1ZGk3RWlqYXZ5VGZkOVd4ZVg3a0NtU0w2cFcxd0VIazMydlNubGVXaWt4a0ZVUUtYZ9IBogFBVV95cUxOSXczQTVIdnRIcl8yczNTYVc2UURtY3ljdHFKYzNtbGJ4dkp3X1RGSnVPYkJGc1FOeUxLelJuZXI2VFBfelQxekFBYU9UbWUweHlEdlBPcHRUeU8xR21fLUtpUVlnd0dxbmNCdWpza2dtNS0xN3ZKNHlmUGdPNWhfWWk1cGV0QXV6Nkx6eV9YVHNoUU1OZDdNeGt2Q1hRLTU5VXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-23T00:45:20Z",
-      "summary": "印度《Indian Express》文章聚焦AI参与文学创作与文学荣誉竞争的现象。随着生成式模型进入小说、诗歌和评奖场景，AI是否能创作出真正有文学价值的作品、作者身份如何界定、评奖规则与版权伦理如何调整，成为讨论焦点。文章折射出AI对传统文学创作生态和人类创造力评价体系的冲击与挑战。"
-    },
-    {
-      "title": "Half Moon Bay City Council Hears Draft Artificial Intelligence (AI) Policy; Next Day City Website Shut Down After Worldwide PHP Programming Language Attack - coastside buzz",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPV2daU3hQLTZUckJtUjhWS2NvVkFJbHhGc09IZlIyQmt2WkVXZmRWV1g1WkhjUW5KOE9xalI5eWVOdUJQdnR5eGh2SzljTl96UDJheFRvUlNkR2NOTFVRUjZ6LW9zb19kYVNXUm8yQmgxQ0pQWGhIbHNEWmUtV1g3VXhRdFp5c2o4X1F1dm5tVEt1NjNsX3FTUmpIV2V2blVnTGNpQS1YWUotWVdRU1N0SzVQQjlDQzBtS0tnbHlvMmJibVp6c19BNFNSVm4zY2FqWjlRd0ZibXNnMW9IejRoajNRYXNMalk5REN6cldJQjVqVzFrVkVOM3lTUXJHRjd0aGxzdWthWWRWdDg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-22T23:47:05Z",
-      "summary": "Half Moon Bay市议会听取了人工智能政策草案，讨论如何规范AI应用与治理；次日该市官网因全球性PHP编程语言攻击而关闭。两件事时间相邻但未必存在因果。事件凸显地方政府在推进AI政策的同时，也需同步强化网站基础设施、软件漏洞管理和网络安全应急能力，避免公共服务受攻击影响。"
-    },
-    {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-22T22:08:24Z",
-      "summary": "OpenAI正筹备新一轮300亿美元融资，估值约1.25万亿美元，并计划在此之后推进IPO。若本轮估值超过1万亿美元，OpenAI将刷新纪录，成为史上估值最高的私营公司。该融资反映资本市场对通用人工智能前景的高度押注，也将影响其算力投入、产品扩张和行业竞争格局。"
-    },
-    {
-      "title": "Canva’s first AI image model plans designs before generating them - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR05XNUt3S2l1QkotOUJTMG1HZlpaeWFTXzFFbXZHOFpIa25pODdkTXdvd2VTS2tZb1pKY05ieHB6YUtPLW5DNUpPTzlPc3BDd0dFY3VDSVc3U05VcEV2LVAxVjNfaF9aZGk3bEVCVTlxQ0ZFUExzMWxjUHFTcVpPa1BseW5rdFl1dmN6REd2TkxVWjA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-22T21:51:25Z",
-      "summary": "Canva推出其首个AI图像生成模型，特点是先进行设计规划再生成图像，而非直接出图。该模型可先理解版式、元素和风格需求，再据此生成更符合设计目标的内容，从而提升可控性、一致性和编辑效率。这显示AI图像工具正从单纯生成走向面向工作流的设计辅助。"
-    },
-    {
-      "title": "Trading Day: Maximum pAIn - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWk5UTd0blZlazE0LVQtWXNvMDBEMnJ6eUl5LUltU3NiZWM5TWd5RjNVNU9XRFpvZnZBNzJXam1IbXJ1SUxYcy1yOHQ1NmxsQkRrT2RING5sZHcybFZyeXhnQmhYQ3R6aHFPY0ZsSGJsX0VjTVlJanRpMHBqWm43Mi1OOF95T1BOTjdDMnFWY1Z2dHg4RWJGOFd3Z24xQjltWDhrT1pn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-22T21:19:56Z",
-      "summary": "路透社交易日报以“Maximum pAIn”为题，标题将“最大痛苦”与AI双关，暗示市场正关注AI叙事下的交易波动与风险。报道可能围绕AI相关资产估值、投资者情绪及潜在回撤展开。在缺乏正文细节时，可确定其核心是审视AI热潮对市场定价、风险偏好和交易策略的影响。"
+      "summary": "MIT研究人员将13个AI代理置于虚拟孤岛，在无明确任务的情况下观察其自发行为，发现它们会发明游戏、表达类似“哀悼”的情绪，并逐步提升任务表现。研究揭示了AI代理在社会互动、自主行为演化方面的潜力与风险。"
     }
   ]
 }
