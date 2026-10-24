@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "6925",
+      "title": "‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOODF5SmRSOVBTbEx4ZFhMcjFmQmdxNEFMa2wtT2tOZmVIQUtUaFVBR04xZk1HV0lyQk1oVFVxQUhMX2JHMzZvY2otSXp3TXF0WlUyNzRCTUZEZlgwbXg0Z0hKYjYxdTcyUmlmbzVGOWZiZk1vYnZOeVJmV044Y1FzM0RPME0wZTFvbjAySWtSTjNRV1NSMnYwdm41Wl80RDNobVY3V1Z1ZTN4OWYyWGEyOHVjaTZjbFphbEJwaUNWX2UwLXR0OVhVNWxEMXp3ekVsWWlxZEVKWWdyclZO?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-24T19:01:00Z",
+      "summary": "澳大利亚足球运动员克里斯蒂安·沃尔帕托授权其AI克隆“合成替身”，成为最新一位将个人形象、声音等授权给AI数字分身的球员。文章探讨运动员为何开始许可AI克隆，涉及商业变现、肖像权控制、内容伦理与监管等问题，也反映体育明星在生成式AI时代对个人数字资产的管理趋势。",
+      "fetchDate": "2026-10-24"
+    },
+    {
+      "id": "6926",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-24T19:00:00Z",
+      "summary": "TechCrunch推出“AI墓地”清单，持续记录未能成功或未达预期的AI项目与初创公司。文章提及苹果多次延期的Siri AI、OpenAI混乱的“超级应用”发布等案例，盘点被关闭、搁置或市场表现不及预期的AI产品，为观察行业泡沫、产品落地与创业风险提供参照。",
+      "fetchDate": "2026-10-24"
+    },
+    {
+      "id": "6927",
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-24T16:00:00Z",
+      "summary": "Block发布一款新语音模型，称其听感“近乎真人”，并可在MacBook M4 Max上本地运行。该模型强调端侧部署能力，有望降低对云端算力的依赖，在隐私保护、实时交互和离线使用等场景具备潜力，也显示语音AI正从云端向本地设备延伸。",
+      "fetchDate": "2026-10-24"
+    },
+    {
       "id": "6920",
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
       "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
@@ -62308,5 +62335,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 6923
+  "total": 6926
 }
