@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "6919",
+      "title": "AI Job Growth Claims Outrun the Evidence - CEOWORLD magazine",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oSWM2ekdRRXRLVW1oMEZmaXdEUXJ2clBlajdiX2l4QTlQTFNXUDVBbnFlMGtTdWJ2OWVIZWw0TXZXTDhVLXVxU3FrRVVmTE1talUwbjNWTDVQOVZPakdLX2wzWmgzakpRdFRTb2NmT1NmY2Z1aFZpSFdXYTFhdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-24T05:11:54Z",
+      "summary": "CEOWORLD杂志刊文指出，当前关于人工智能将大规模创造就业岗位的种种论断，其证据基础并不牢固。文章认为，业界与媒体频繁引用AI带动新职业增长的乐观预测，但这些预测的数据来源、统计口径与测算方法往往经不起推敲，实际就业效应可能被明显高估。作者呼吁以更严谨的劳动力市场数据来评估AI对岗位结构的真实影响，厘清“宣称”与“可验证事实”之间的差距，避免企业战略与公共政策建立在未经证实的假设之上。对关注AI经济影响的读者而言，这是一则提醒审慎看待相关叙事的评论。",
+      "fetchDate": "2026-10-24"
+    },
+    {
       "id": "6865",
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -62254,5 +62263,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 6917
+  "total": 6918
 }
