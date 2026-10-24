@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "6920",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-24T15:00:00Z",
+      "summary": "一项新研究发现，在被迫二选一的选举场景中，Grok的AI模型明显倾向于推荐共和党候选人，而OpenAI的GPT则更偏向民主党候选人。在近500场选举中，两款模型在超过90%的选情上给出不同选择，显示出大模型在政治推荐上的显著分歧，也引发对AI中立性与选举信息可靠性的关注。",
+      "fetchDate": "2026-10-24"
+    },
+    {
+      "id": "6921",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-24T14:00:00Z",
+      "summary": "TechCrunch整理了一份可直接在短信中运行的AI代理清单，涵盖通用助手以及面向家庭、旅行和工作等细分场景的专用代理。这类产品让用户无需额外App，通过短信即可获得日程管理、信息查询、出行规划与协作支持，反映出AI代理正从独立应用向日常通信入口延伸，强调低门槛、对话式和场景化服务。",
+      "fetchDate": "2026-10-24"
+    },
+    {
+      "id": "6922",
+      "title": "Minuttia Study Finds Vendors Write Up to Half of AI-Cited Best Tools Lists - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDlVWUFIbHZHUE1ydGRhV3hjUkRvZmpxSnpkcmlaLU9GdU9pWndYbzZUYjE3RkdLWl9CamNCUmJfYWpacWd5YlpvWUp3OHExRXJCUE1LZ2FmakxPQTU4VXEwNE5kSV9vWVRCcXIyRmJjZjkwWjd6NEtNcDRWZHlTT09ndEp4LW1Jb3hTbFRYS0J1V0x3cDdrdG44WGEtejN6?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-24T13:01:20Z",
+      "summary": "Minuttia研究发现，在被AI引用或推荐的“最佳工具”榜单中，最高约有一半内容由工具厂商自己撰写。这意味着AI在生成推荐时可能引用带有明显商业利益的软文或营销内容，削弱榜单的独立性与可信度。该结果提醒用户和平台警惕AI搜索与推荐中的内容偏见，并加强对来源透明度和利益披露的审查。",
+      "fetchDate": "2026-10-24"
+    },
+    {
+      "id": "6923",
+      "title": "University of Nairobi student develops AI greenhouse system - Mjengo Hub",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFV3WFlQZUhDQnp3WG5BSTVqZGkzLVZVU2lTTWhPXzBzd211VjBPWk9nYlFGU2IwcTVGVVRfZWNSMDNQUTRfbW9sU3g0TzJBZXRXSXB2d3BwaXNUNlZRZDNxU0hDRnlCS0FYd2JEVFlTRnZQVDVyWmg5QnY0T1ltSFY5Z2JZMFYyaEJmYlhHV2N2S2xsVmtlX3hNaXFiMDNRNTd0eDV1aXQ1TFBXRG1Wd0xQMm1rMnV1cnNv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-24T12:54:15Z",
+      "summary": "据Mjengo Hub报道，内罗毕大学一名学生开发了AI温室系统。该系统有望利用传感器数据和智能算法监测并调节温室环境，优化灌溉、温湿度与作物生长条件，提升资源利用效率和产量。此类项目体现了AI在农业领域的应用潜力，尤其可为小农户应对气候变化、提高粮食生产稳定性提供低成本技术方案。",
+      "fetchDate": "2026-10-24"
+    },
+    {
+      "id": "6924",
+      "title": "Good news, photographers: Two-thirds of content buyers believe human-made is better than GenAI - Digital Camera World",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQc2dBeVJSSXpCMFRLR2lBVmRwc1NOYnRLM2UzUEpOMThhYTZwRmo3WmdJZjJqdE8wM2gyZ1JuU3YtVXZJakdtUF9nREc0cW95dXNzb2RPUVBkWl9VRGxjd2J1Z3NjMzdUcDl4T3pncUREejh4d3lSQWtjSUZPLUc1RXBoaU9uekRHV0xqWGNjQy1lZUpSSjRyMlpLS1BzUDVJc1M2T3hvSG9pdkpQVkJNTXUzMXRDcmZXeGRxQXQ1Um13Z1RVMUc2M09NNk5QXzlUSldfYjRpUzB0WEg3ekdvdU5DMnUzamQtVk56VjVMa2hoT1pwUzZpaFVKS0REZ3BLaWZVdG5zN25jNER5al96UnBDSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-24T10:00:00Z",
+      "summary": "一项面向内容买家的调查显示，约三分之二的受访者认为人类创作的内容质量优于生成式AI内容。这对摄影师等创意从业者是好消息，说明真实拍摄、人工创作在版权可信度、情感表达和专业品质上仍受市场认可；同时也提示AI生成内容虽提升效率，但在商业采购中仍需解决质量、原创性和信任问题。",
+      "fetchDate": "2026-10-24"
+    },
+    {
       "id": "6919",
       "title": "AI Job Growth Claims Outrun the Evidence - CEOWORLD magazine",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oSWM2ekdRRXRLVW1oMEZmaXdEUXJ2clBlajdiX2l4QTlQTFNXUDVBbnFlMGtTdWJ2OWVIZWw0TXZXTDhVLXVxU3FrRVVmTE1talUwbjNWTDVQOVZPakdLX2wzWmgzakpRdFRTb2NmT1NmY2Z1aFZpSFdXYTFhdw?oc=5",
@@ -62263,5 +62308,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 6918
+  "total": 6923
 }
