@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "6952",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-25T16:57:32Z",
+      "summary": "Apollo经济学家指出，尽管企业界对人工智能投入巨大且炒作热烈，但除科技行业外，美国企业目前尚未从AI获得可量化的财务回报，即所谓“零财务收益”。这一判断提醒市场关注AI投资与实际生产力、利润增长之间的落差，以及商业化落地不及预期带来的风险。",
+      "fetchDate": "2026-10-25"
+    },
+    {
+      "id": "6953",
+      "title": "Spanberger lays out framework for state AI plan, chides Trump for inaction - Augusta Free Press",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEV1bjF1R2xOVWlkZ3REOFJDTjJjYUkxTC1HdkJEUEJkVVpTRTRXZURjdVhKUkZvMG11SW5fdFhZVDhwUTk1dUFNdFltaktpNnBQTVpta2tNSUhoMm01S05WUGJiQlBkX2xCcEFYZjRKYmd0bk5pZHp6endFYWlVb3dRXzBYVkFlSDd3Q2d2THJORGJBQmZIRnBNNjYyX2RWSUNSWGRsenlsS0Vo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-25T15:21:32Z",
+      "summary": "斯潘伯格公布州级人工智能计划框架，提出州政府应主动布局AI政策与治理，同时批评特朗普在相关议题上缺乏行动。报道显示，该框架意在回应AI快速发展带来的监管与应用需求，并凸显州层面在制定AI战略、推动负责任落地方面的作用。",
+      "fetchDate": "2026-10-25"
+    },
+    {
       "id": "6948",
       "title": "The hottest AI wearables and gadgets you should know about",
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
@@ -62551,5 +62569,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 6950
+  "total": 6952
 }
