@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "6954",
+      "title": "JB Financial Group has created an artificial intelligence (AI) strategic investment fund worth up to.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KdUthR21PcWRPcjFwNFA2aXBlZ21MazlUSVVYbmZTaS1BbFNocW1Sa3lfX3NQc2U3b0ZRbHNPYmZUTmhWZ09TaVB1ZlQxMEhVbmc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T01:13:35Z",
+      "summary": "JB金融集团宣布设立人工智能战略投资基金，规模最高可达（原文未披露具体金额）。该基金旨在围绕AI相关产业与技术进行战略投资，体现金融机构通过资本布局抢占AI发展机遇、拓展新增长点的意图。此举也反映韩国金融集团正加大对人工智能生态的投资力度。",
+      "fetchDate": "2026-10-26"
+    },
+    {
+      "id": "6955",
+      "title": "Anthropic, an artificial intelligence (AI) company, is facing a copyright lawsuit over allegations t.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5NWhxdVA3R1R2ZkJtYkNtVjBUZl9ZZGljbktvYkpLWVUyODBIODdYRHhTaFp1SDlZbnF6cjVxREpQRlVzV0hlTFJQd2cyRWs?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T00:40:50Z",
+      "summary": "人工智能公司Anthropic正面临版权诉讼，核心争议指向其AI模型训练或内容使用中涉嫌侵犯版权。案件延续了生成式AI领域关于训练数据授权、合理使用边界与版权人权益的争论。若诉讼推进，可能影响Anthropic的模型开发与合规策略，也为其他AI企业的数据来源与版权治理提供参考。",
+      "fetchDate": "2026-10-26"
+    },
+    {
+      "id": "6956",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-25T21:31:16Z",
+      "summary": "Grok发布其AI生成作品《Odyssey》的前七分钟片段。报道评价画面“尚可”，但指出作品缺乏艺术性、灵感与人文关怀，显示当前AI视频生成在技术完成度上已有进展，但在叙事表达、审美深度和情感共鸣方面仍有限。该发布也引发对AI影视创作质量与边界的讨论。",
+      "fetchDate": "2026-10-26"
+    },
+    {
+      "id": "6957",
+      "title": "Jay-Z tells fans to question online criticism of his performances amid rise of AI - TheGrio",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRG50MEtKMUIzRGVjWVdXanloOTV3ZENIdHFGUzRSZkxQMHNQVHl6WWQ4dFhYN3FCRWI1eFpHMHRZN25PTkdxcThia3BrdEhwekJ4ME1qazZvQXdqSWg5ck1jdGZTNEtDVFY5bVJPck9RX2RPbnZLUlp5ZlpscWNfM012TU5SdlA1?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-25T21:19:41Z",
+      "summary": "Jay-Z提醒粉丝在AI兴起背景下，对网络上针对其演出的批评保持质疑。随着AI生成内容和深度伪造增多，网络评价与演出片段可能被合成、篡改或批量制造，公众需辨别信息真伪。该表态反映娱乐行业对AI虚假内容、网络舆论操纵及艺人声誉风险的关注。",
+      "fetchDate": "2026-10-26"
+    },
+    {
       "id": "6952",
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
@@ -62569,5 +62605,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 6952
+  "total": 6956
 }
