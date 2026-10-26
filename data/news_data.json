@@ -1,237 +1,146 @@
 {
-  "updatedAt": "2026-10-26 17:50:10 UTC",
-  "totalArticles": 33,
+  "updatedAt": "2026-10-26 22:02:40 UTC",
+  "totalArticles": 20,
   "articles": [
     {
-      "title": "AI book prize judges face a major speed-reading challenge - The Guardian",
+      "title": "The AI Singularity: How Artificial Intelligence Could Transform the Economy - The Acquirer's Multiple",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmNPSXlmSDdYX3NsSVlGajlWT09qZ1BVYmFPRzVEQ0hDbUY2UHNuU1RiLXhQZmtVbWV1cm1NUTI0eU1EbW9mRkp0Qzd6eEZXUkpWM3IzUlBQS1ZTNjZ3SFhMWks5NHZYQWJrU0FCUWlnRW5YLVdUVXlFRm83dkw4ME1lTGNSelZYU25YeE9tdG03QnlJZVBoaEZEalJOd0paU2JHam9HZ09vdkJTSlNINkZmNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T21:28:21Z",
+      "summary": "该报道探讨人工智能“奇点”可能对经济带来的深刻变革，核心在于当AI系统具备自我改进能力后，可能显著提升生产率、重塑产业结构并改变劳动力市场与投资逻辑。文章从宏观经济增长、企业盈利模式和资本市场定价等角度分析AI奇点的潜在影响，同时提示技术跃迁伴随的不确定性与风险。由于原文信息有限，可概括为对AI奇点经济后果的前瞻性讨论，强调其既可能带来效率红利，也可能加剧就业与分配矛盾，需要政策与市场共同应对。"
+    },
+    {
+      "title": "Using artificial intelligence may seem free, but it isn’t: these figures reveal how much electricity and water the technology requires - Revista Merca2.0",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZkFwSjhVTmRZWDBNQkcwbldEUUJMelZmYUxUM0JZNmQ5eFNjcHk4R0JXTlRmcWVqc1h2OVVZM0JCMGlTWVhjRHkwWmtodzVtWGhvRUFzWE9pc2xFSm9CYmQwamNCWU50U3BhRVhJN1djNXVDNGpJUnpGQ2tjbmtFOGlSSkVnWVVyT0tVRUI2UUh1YURYNnN1VWg2Y2xocTFDZlFMcWxZc1JsbkxyXzNzUnVLZzAyeGktUnRRUjBXZVQ5YV92SHFyd25WeWFBcDVZY3l0UHZMWlEwQk5RZEtaTGxLamVQZ2RKTVN5SQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T20:39:25Z",
+      "summary": "文章指出，使用人工智能看似免费，实则背后消耗大量电力与水资源。AI模型训练和推理依赖大规模数据中心，持续算力需求推高用电量，冷却系统还会消耗水资源，形成被忽视的环境成本。报道通过具体数据揭示AI服务的能源资源代价，提醒企业和公众关注技术使用的外部性。核心要点是AI并非无成本工具，其可持续发展需要提高能效、优化数据中心冷却、增加清洁能源供给，并推动算力成本与环境影响透明化。"
+    },
+    {
+      "title": "AI companies are barreling toward huge Wall Street debuts. A look at the biggest players - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWp3QlpSdWJKYVpsVXlJdldxblNaeC1wcEp3b1VxOWYzOHF2UmRLT3ZUMWlqUmVqN1E1bjkxQkNLT2JpcURMc1ZQRlRnWWFKSWxBSXl6M3JiUmMtWWJ0SVBqZ0wyU0M4cHEtN3JRcWpXUTNIWWxSN1VOMm9Hbzd1Z1ViNkJrQzJDeGNHTEV6cFg0dUR5MXVxdzVzY09DVnpfcS1aZ0JsTGVSdFoxUGxRSjhFLUc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T19:39:00Z",
+      "summary": "美联社报道称，人工智能公司正加速冲刺华尔街大规模IPO，资本市场对AI商业化前景寄予厚望。文章梳理了可能上市的最大参与者，涵盖基础模型、AI基础设施及相关应用企业，反映AI产业从风险投资驱动向公开市场融资延伸的趋势。核心信息是AI企业估值和上市节奏加快，但投资者也将更严格审视其收入质量、盈利路径和竞争壁垒。该趋势可能重塑科技股格局，并检验AI热潮能否转化为可持续的股东回报。"
+    },
+    {
+      "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2JSZ2N4T2xMRzVqSzc3M1Q1cnNFbFdIamtBUmVZUlNiZUlER0dLSVJkMmRPSVlFeHVkQUFueUtoWTVoU3MxUlRuSE1OMW0yZUxZdWRpTmVCQld1c0dLTGlWUTBkMzQ4cHhjZ3hQRXEwQ0w1VkdtdFdfcDJFbllOZ1NEWVE4TEV1RDNxWDEzZ1NpSjhRWkNRQ3c4NThwd0ZJMElWeG44cHFRdjBhRVBDSGIxd3JhaENwMC1tekUyd3RfNVZrYlhiS2pfdTZWM3JSbXJIMWdPc3pWaFNpVTNDMGdrM2o5WUhUeHFnUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T19:07:00Z",
+      "summary": "澳大利亚网络安全机构警告，随着网络威胁上升，民众应做好在线服务可能意外中断的准备。报道核心在于关键数字服务面临更高攻击风险，银行、政务、通信、医疗等依赖网络的系统可能出现突发故障或停摆。机构建议公众和企业提升网络韧性，包括备份重要数据、准备替代联系方式、关注官方通告，并加强身份验证与应急演练。该警告反映出网络安全已从技术问题扩展为社会基础设施风险管理问题，个人也需具备基本的断网应对意识。"
+    },
+    {
+      "title": "The Artificial Intelligence (AI) in Synthetic Data Market is expected to grow to $9.35 billion by 2030 - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa2tNbVlSSXJjTDZ2Um5IU1gyeTc4VUJseXQyd0dwcm5fV0lyRmhYQU14Wnk2UmpGYUxEdXZFVUktYnVob2ktZTNubnl5SUd3TmpuczJXSV9NQy1XUWlFMmtGX21PNzNmVHlocXRsX2xXcUl5Wjd0Q2VyRmQ0WG9lVHBhUnVtMGRqck5vaXZqeVMya1lXdzhLa2lMWmpZNkNwY0tmcDJuelRKUXRQN3ZOUzNQUWszMVFkVEs0Y2YzTF8yNUI2TmF4cUNseE9FUVFqUUF1cVQ0RWlqSmJtZVBJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T18:45:00Z",
+      "summary": "报道称，人工智能合成数据市场预计到2030年增长至93.5亿美元。合成数据通过生成式模型或仿真技术制造人工数据集，可缓解真实数据稀缺、隐私合规和标注成本高等问题，是训练AI特别是自动驾驶、金融风控和医疗等场景的重要补充。市场快速增长反映企业对高质量训练数据和隐私保护的双重需求。核心要点是合成数据在提升模型泛化能力的同时，也需解决数据偏差、真实性和评估标准等挑战，相关治理与工具链将同步发展。"
+    },
+    {
+      "title": "Trends and Forecast Analysis of the Artificial Intelligence (AI) Infrastructure Security Market Highlight Significant - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYUtCN0pmS1dHNmNoTnhfUUNGd3owSjhUaHVfRG95cXFtS2syMFBubHFDS2tZZTR5YnhZX1NHTXBEN0Z1V2JKMzdSVjMtamR0aHlrcGJpbWNXWUVXUUo1d0pLdThoWmF1ZVpaRnFQb3JtSHZSWS11RlZvdktIRWJvRlFISDZBaGttVTVqMjB3MlEzMXJDUy1oSXJxbURFUVJCcUVBNFZRYnNod2NITkdZVXBaU3Y3bVJhWm40U3BPcXRWUVphYkF0eEFRX3F3Mk1pRFVjNEhhNzdMTWFMQmJ2LW4xLVQwSWctb3JZMFJn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T18:45:00Z",
+      "summary": "该分析聚焦人工智能基础设施安全市场的趋势与预测。随着AI算力集群、云平台和数据中心规模扩张，基础设施面临攻击面扩大、供应链复杂化和模型资产保护等新挑战，推动安全防护需求上升。市场重点涵盖威胁检测、访问控制、数据保护、模型安全及合规审计等方向。文章认为该领域将迎来显著增长，核心逻辑是AI基础设施已成为关键数字资产，安全投入从附属成本转向保障AI系统稳定运行和可信部署的基础能力。"
+    },
+    {
+      "title": "Artificial Intelligence (AI)-Driven Contract Analysis Tools by The Business Research Company, Showcasing Future Industry - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaERSZmppVVVVckxlX2pTVEx1cU5CVHBLcGpnd2ZvRlVCYUZubXZ5akNrVTJ1anVjc01pWlRLSXRDQzlURTRLdVNaQVFpS2R5NTFDNEJrcWllbTB2eDBHSWFXMmVrNlJ4MkRuUGJKV2locnJJaGh6S1lrYkt0OTRGb0FENlE1Y0I0Rnl3eVItSWt3VFFWOE9BRk1JX1Jwck9VZ2NPSVpxMWlWanlDUFdBekZNOVUwVGJ2NG40QnFJWUNNNTNJUE9YS2lfM3QyWFBJLTdlQnlyOGhxMzhLQjNBb2h1WHl0Sl9ZTUZGVzZsYmo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T18:15:00Z",
+      "summary": "报道展示AI驱动的合同分析工具及其未来行业前景。此类工具利用自然语言处理和大型语言模型自动审阅合同、提取关键条款、识别风险点并生成摘要，帮助法务团队提升审阅效率、降低人工成本并减少遗漏。随着企业合同数据量增长和合规要求提高，AI合同分析正从辅助工具向法务工作流核心环节演进。核心要点是技术在提高效率的同时，仍需解决准确性、数据隐私、责任界定和人工复核等问题，市场前景被看好。"
+    },
+    {
+      "title": "The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR. - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMi1kNEphQ2xhWlk5U2J0RGMzaGYyLV9POGYzR0FhSFRTWWRnZXhEdFM4S3N1Y25fZHBYaXVVS3NxTDQ5aU9scVRGUWdHV3FKWHZQVXBsN0l6RlRqX2ZXS3h5RHdBWjRTQmNlZVJWRENkdnRZVEdEZlh5MDNtZ0dLQ0VTelQ2NXdMd2ZCOXR5TTZFOEY4R242WE5DbUN0Rm5YVS1TWEItbjlneHZVSElOSnVNYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T17:54:06Z",
+      "summary": "报道称，人工智能Copilot市场预计到2030年增长至1.2亿美元，年复合增长率为12%。AI Copilot作为嵌入办公、软件开发、客服和业务流程的智能助手，通过自然语言交互辅助用户完成写作、编程、检索和决策支持，提升工作效率。尽管绝对规模相对有限，但12%的增速显示该细分市场稳步扩张。核心信息是企业对AI辅助工具的需求持续增加，但市场仍处于早期阶段，产品差异化、数据安全和投资回报率将是竞争关键。"
+    },
+    {
+      "title": "The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030 - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXRpQ0N1T3VKMmtPbG53ME9YdElDVG1xOUhRZ2k4Y3FTbU40RmF5RDh6dXJwQTBuSllOeE8xeUFfYWlFaVVhN09PUmFmb2E4bzhER0pzTTE0REQ2RVNYTXNNaGxpZjFEaUpROGxIZVdwRk5hQ3M2QXh0VzBTLWFUejY4T0pFS0ZIVUFlU2FfNXRZNG1Ic0ZHVno3d0ludTFWVGY2SlRlaFZJTFhIU2FLNUN3Z2VzY00?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T17:54:02Z",
+      "summary": "报道预计，AI驱动的会议助手市场到2030年将达到118.6亿美元。此类工具利用语音识别、自然语言处理和生成式AI自动完成会议记录、实时转写、内容摘要、行动项提取和多语言翻译，帮助企业提升协作效率、减少会后整理成本。远程与混合办公普及、企业知识管理需求上升是主要驱动力。核心要点是会议助手正从单一记录工具发展为嵌入协作平台的工作流助手，同时需关注数据隐私、转录准确性和跨平台集成能力。"
+    },
+    {
+      "title": "The Artificial Intelligence (AI) Robots Market Is Projected to Grow Rapidly at a 16.9% CAGR Until 2030 - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMmduRW9DMEtLX2ppYzFjcnRJdTdsQ0Ffc3lUSGVsTnJTOXRZS3JJZkNtTVJyaXZUeTJQdDh6bk93dzJNTjd2ODFXRE16blNQTHZSZ3VOelE1TjMwUHVMLWpoVFpQQWU4X0lxOVRBeVRtM0dzS1YzX2s3Wm1POXlubkFQeHB5UEJ2X2Z3QTNtc3lGMGd2SnZRSy1UMjhueWQ5ZXBlVk9UTUQxQUJMQmRhcm1R?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T17:54:00Z",
+      "summary": "报道称，AI机器人市场预计到2030年前以16.9%的年复合增长率快速增长。AI机器人的核心在于将感知、决策与控制能力结合，使机器人能够适应更复杂、非结构化的环境，应用覆盖制造业、物流仓储、医疗、农业和服务业等场景。增长动力来自劳动力短缺、自动化需求上升以及机器学习与传感器技术进步。核心要点是AI正推动机器人从固定程序执行向自主智能演进，但安全性、可靠性和部署成本仍是规模化落地的重要考量。"
+    },
+    {
+      "title": "Artificial Intelligence & Machine Learning in Business Market Ana - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGV2eXVnWl9ZREhuZDJmYjBoOV9KMTZCM3ByTDdCeUlFbVBPMmc0c3RST2hJQlhyeHd1LTBtS1RpWmpxNEF6REF5WnBmQlQ4MnU2Wnd4Q1l6c1B3NFJNNjRBMXBFUVc2YTZfQm9TYnlSYzV2MHBHZ1I0NG1WZU9nd3VqOHF5X0tlakdsQnNucE9lRF9tTEdVTFhIcmZoYmU2NDFoWEhfSzlUUmJtbEtGNVpR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T17:53:56Z",
+      "summary": "文章关注人工智能与机器学习在商业市场中的应用与市场分析，内容可能涉及企业采用趋势、竞争格局、法律合规与治理要求。核心提示是，企业将AI/ML纳入业务时需同时评估市场机会、监管风险和数据责任，为决策者提供市场观察与合规参考。"
+    },
+    {
+      "title": "AI book prize judges face a major speed-reading challenge | Brief letters - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN0NQMHFYdjBZSEV5ZEViaW8yaVQzN3dreWJIbnd6V3VHNnNxWUxYb2dvU3NVcm9ITkFwQlpsNjc1Wkgyc0g5YXQySTZmeVYyZ19SanRjZ3pJbVY0SUVXV1g0ZXlDNVR4SkhzMmZGeGJjcUN0Nm1yb3JGNFRfWmx3LTZ1aVozU3dqZWx6QWRwYXFBUElybG0xbG5aYjVkQTdMSXo5Wld0WXNOQmNZ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-26T17:40:00Z",
-      "summary": "《卫报》报道，AI图书奖评审正面临严峻的快速阅读挑战。随着AI相关投稿和候选作品数量增加，评审需在有限时间内完成大量阅读与筛选，传统评审流程的效率和公正性受到考验，也引发外界对AI时代阅读、创作与评奖机制的关注。"
+      "summary": "《卫报》读者来信讨论AI参与图书奖评审带来的“速读”挑战：当AI能快速处理大量参赛作品，评审流程、公平性与人类判断的价值受到考验。核心议题是文学评奖如何在提高效率与保持深度阅读、审美判断和透明度之间取得平衡。"
+    },
+    {
+      "title": "Microsoft offers buyouts to 60,000 workers as it pours money into AI - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXJHaTJ5V1ZSN0VTUnlTaWg2a01sU21ybHExWjdCVDdEcU1QSUF0ZlVDRnd4NjRHOU1fdFl4SlNMc1hhQnN4ZDNiNi1JV2JJZmZ4S0N0SmdRVklSbjFQMnJqMnZjTy1WVTV4SGFZWnVDai1SaGw3RWJxbXR4NDZ6bTFtVUk4YjVvcFJIaHMwend2R1VoQ0JZeQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T17:39:00Z",
+      "summary": "微软向约6万名员工提供买断或自愿离职方案，同时持续加大对人工智能的投入。此举反映科技巨头在AI竞赛中重组人力与成本结构：把资源转向AI基础设施、模型和产品，并通过自愿离职削减传统岗位冗余，引发外界对就业结构调整的关注。"
+    },
+    {
+      "title": "Detected: How artificial intelligence is changing breast cancer detection - KKTV",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3hEbHEwOVJHdV9Tc1RURFh2d29KSWJlaXNPYnhOUHJhdHhBa2N4UXVsWjFlVXhFMTlCaThoekMyeThxakVGRzJRZVE0ZEd6Mno3dUJVMzQwcHg5U2h3RWdYcVJnTGhSUkZ2cWU0T1lLZnRIdm1VaTUxeWRYbU1VQkVsQ2JKcGR0bkx1Z0xJVENSR2t4a2RrMFRYWi1jdU5VazFHMi1saDQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T17:23:00Z",
+      "summary": "报道介绍人工智能如何改变乳腺癌检测，重点在医学影像辅助诊断：AI可帮助放射科医生更快识别乳腺影像中的可疑病灶，提高筛查效率并减少漏诊。但临床落地仍需验证准确性、可解释性、监管审批以及与医生工作流的整合。"
     },
     {
       "title": "As the US and China form AI blocs, countries are increasingly torn between them - Boston Herald",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hNDdwZENpQ29pWHJBczFkZXkxeU42WG1vWU1JX0IyZlIxaVczMkpsd1FnUTFoeDltVF9mcHFfejBvZ3JyUm5VUUY1QW1BQWpsSzBWbDl3cFA4bDFJZGQ1TC1ZS0NCZWZIX1liUlVB?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-26T17:21:08Z",
-      "summary": "随着美国和中国分别形成AI阵营，围绕芯片、模型、技术标准和供应链的影响力竞争加剧，其他国家日益陷入选边困境。这些国家既希望获取投资与先进技术，又需平衡安全、外交和产业自主诉求，全球AI生态呈现阵营化趋势。"
+      "summary": "随着美国和中国分别构建人工智能技术、标准与供应链阵营，其他国家在选边站上面临更大压力。报道关注各国在AI芯片、模型、数据治理与安全规则上的取舍：既希望获取两国技术与市场，又担心依赖、主权和安全风险，全球AI格局趋于阵营化。"
     },
     {
       "title": "Japan's Sakana AI to build homegrown model to cut US, China reliance - Nikkei Asia",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXphb1A1ZlpseVY0YlhIQTVGbUdzMmhEb0FYZUJ5WUZscTlVaXFxWHRDZ2YtX1c2dEdCS1BrUWFKQ1lud1picVhjQ3hwbU9ET1MzWl9Pa3F3UDJmSDF3QzFHUTFKa2daQ01ydGVTTG90ZVRlbGlXLVdVMWlKR3JwSE9va2F4bGdhOUgwRXVXZE1MbVdKd19ncWpDcFR0VlFuelhoQURJbFpzNWw0dkxzY1IzMmw3NXZkNGhmZnNRMjkzcUFnbDdhd3pLZmJIY0Nq?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-26T16:50:00Z",
-      "summary": "日本Sakana AI计划构建本土AI模型，以减少对美国和中国技术、平台及供应链的依赖。此举反映日本强化AI自主能力的战略诉求，也体现各国对算力、模型、数据主权和产业安全的重视，本土大模型竞争进一步升温。"
+      "summary": "日本Sakana AI计划构建本土人工智能模型，以减少对美国和中国技术的依赖。该举措反映日本希望强化AI主权与产业自主，可能借助本地数据、日语能力和本土算力生态形成差异化，同时降低外部模型、芯片与云服务供应风险。"
     },
     {
       "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
       "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-26T16:49:42Z",
-      "summary": "Anthropic的IPO文件披露其企业客户留存策略：在年付费超过10万美元的客户中，超过一半同时使用Claude平台和第一方应用。公司通过平台与应用交叉销售提升客户黏性，打法类似亚马逊，旨在强化企业级AI商业变现能力。"
+      "summary": "Anthropic的IPO文件显示，其超过半数年付费10万美元以上客户同时使用Claude平台和第一方应用，体现类似亚马逊的交叉销售策略。通过平台与应用组合提高企业客户黏性，扩大单客户收入，并强化其在企业AI市场的竞争力。"
     },
     {
       "title": "SpaceX locks in $40B GPU financing deal with Apollo",
       "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-26T16:46:36Z",
-      "summary": "SpaceX披露已与Apollo达成约400亿美元的约束性融资承诺，用于购买AI芯片及相关数据中心设备，并称这是史上最大规模的GPU融资。该交易显示航天企业正深度介入AI算力基础设施，算力军备竞赛进一步向航天领域延伸。"
-    },
-    {
-      "title": "The Artificial Intelligence (AI) Robots Market Is Projected to Grow Rapidly at a 16.9% CAGR Until 2030 - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQTZQVjVyLUhjTHdKUTFNY01Obk5LSjdDNDY4Z1JYZFlUdDZlNXNWbGdrQ0lxU2daTXRHQ2pUM1NmejBjX0x1VWRHQjA2a25pZ2M3R2NTeGlmQVJFZGpKSzdYd1lwdTVsQkxfYXFjVXd1OWI0anBTVW5udEpLN1BaQVdkMXhaOWdMV3c0RXNEb1hxaG5RN0JfdU52cjVYLUJGX21WTlpqMDlXc0hrVF9hZDY3eHF0Z0xiX0VpUXJKbGw3OWpXd3oyUDZrNWh0Um5ETjNyY2ZHLXM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T16:30:00Z",
-      "summary": "市场研究预计，AI机器人市场到2030年将以16.9%的复合年增长率快速增长。智能制造、服务机器人和自动化需求是主要驱动力，AI视觉、导航、决策与控制能力提升，正推动机器人从单一执行向自主化、智能化演进。"
-    },
-    {
-      "title": "The Artificial Intelligence (AI) Data Center Networking Market Is Projected to Experience a Steady 24.1% CAGR - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYlltekRMVUJ0RlpGdnBvMlFlaTE1Tm9uWWw1cUdIVVM4RkRMYU8yREJiRWZ4b2U2OFFLMlloTERVR1lmZ25xTnpXNnpRUm96dkJjNVRFaGlUcGdKZ0ZxYktvc2VvM1R0eTI1SWEtbTBIVVo1a0FROXAydl9PcWtPWnNwTWFOcUdNVV9XUGd5bkhlWFBRNGthV09VN05reF9KM1lGYUN6bXFLRS13eldXTHVuN1JJSEVQRlJmazJ2el9LR21jbEFOWDNFdjJNV1hTX1NNWkhGNmJYT01KSzBrcWhn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T16:30:00Z",
-      "summary": "报告预计AI数据中心网络市场将保持24.1%的复合年增长率。生成式AI和大模型训练推高数据中心内部互联带宽、低时延交换和高速网络需求，网络已成为AI基础设施投资重点，相关交换、光模块和互联技术有望持续受益。"
-    },
-    {
-      "title": "The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR. - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZHBKRk5tczBXd0FpWTdBRG5wMnl0SGtKenJvZGFkQzdvd29XX1dOZXlacmpNcjR1MEpyRDQybVBrSTI5YVNVMXN1OUdyNjZZRGNCaWRUYzAxMkNLcHUzYTdXcmEzcHJTYW5xbUtzcVZTRGNWN1dZeWxrajdybkFLRl9kTnFQczlvbDJGTGRxMzZLRUN5cmNnYjN5U1AwRVRpNFdqcHpfbFNXOXE0Nk9qS3RaUEZGakppTnFYZmt0QlJjTmFnRzZhcDBZNWxPZXFobFV0VTBUZ19LQzhqLVRycElBLXhJTlV4Zl9B?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T16:30:00Z",
-      "summary": "报告预计AI Copilot市场到2030年将增长至1.2亿美元，复合年增长率为12%。办公、软件开发和客户服务等场景对辅助式AI需求持续上升，但整体市场规模仍相对有限，表明AI Copilot商业化仍处于培育和扩展阶段。"
-    },
-    {
-      "title": "The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030 - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa0FiY3B6VFBKdDFaSmlsbVFpSWdrRWl6V1ZhZGVtdlp4VGdLU3h2Y1J2OUNvaVpraEtqaFZoc0RvOC1zcWpaaE4wMERXY2ExYU9Tb3phN3kxUXU5Z1FSOTJkRFlVdTM4N1BBc2g5bGZ2QTE4TUh5N2M4YnlEZjRjLWRPWXdMMDhzbjJVYjZNcDBpVUtwUVdsVk11ZTRNSE92Zk5DbV9sVFJRVkVvSGdWb0J1Um9IdkIwd0wwS19Hcmw4V080LWRydE1wb0MwRUtvRmdHY3Z6SmExTmVKNmhxb0sySVg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T16:30:00Z",
-      "summary": "报告预计AI会议助手市场到2030年将达到118.6亿美元。远程协作、自动纪要、语音转写和会议洞察等需求推动市场扩张，生成式AI正提升会议信息处理效率与知识留存能力，成为企业协作软件智能化升级的重要方向。"
+      "summary": "SpaceX与Apollo达成400亿美元GPU融资安排，为其快速扩张的AI业务提供新的资金来源。该交易使公司不必完全依赖传统债务市场即可筹集算力建设资金，反映AI基础设施投资正与多元金融工具结合，算力军备竞赛持续升温。"
     },
     {
       "title": "Unconventional AI buys Israeli chip startup NeuReality to speed product development - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU1FHdFMxQmVxandsdXFSYTBuVzBGUklybTJrbUpRZ3JaOHRoSmFKNFFxMTJJdTFmc1h2SmU0YzRweGszTm4takFQMmo2WWNpZkQzNlo1dHItQW9tOEFfMFFCcXI1aUFTcG5ENEVxSlRLUmVlUXFEUFp4TGxEQjFSQmFwaFNJSzAwdXdPTUpTQUN2a3pVWW5Kd1NkTFlRN1c4aXJqai1KQjFaWnFYck4wYV9DQjdhYVRVTDNEdU9fSmx6ZWc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-26T16:21:01Z",
-      "summary": "Unconventional AI收购以色列芯片初创公司NeuReality，以加速产品开发。交易反映AI芯片与推理硬件领域整合升温，专用加速技术成为提升AI系统性能和能效的重要抓手，也显示初创芯片公司在AI基础设施竞争中的战略价值。"
+      "summary": "Unconventional AI收购以色列芯片初创公司NeuReality，以加速产品开发。交易凸显AI公司通过并购获取芯片与推理硬件能力，缩短研发周期并优化软硬件协同，反映AI竞争正从模型层延伸到专用芯片和算力基础设施。"
     },
     {
-      "title": "Inside the biggest feud in artificial intelligence - AFR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWVlanJfeUI0LTFlTmxtX3VVYURzMUdnLUtOS1VueW5iWTkxSVhNQkRWaGd1Ulhhc1l2M1MtNGVQLUphcHVjZ2cyd1E2aXhYYmE3bVlLb1RoS0gxdHdGWTU1TlJPeF8tejJ6Q1dKMm1Oc3dqWTZ2MHcwT01keXc4NkF4Qko1c2wyOU5jNFVoczdtSjYzdDlqZXpIRDkzQQ?oc=5",
+      "title": "Adios Fatso sound the alarm on artificial intelligence with explosive new single “AI Is Taking Your Soul” - EARMILK",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT2dFQ3JVd0kyVXZUUHNiRXBzTk1xaW9MLWF2SXktWHQzWDczQ0Jhc1hCWnE0X2NwWnNqRWYxYThOejZaZ2MwbUV0NUZmLTlaeFp2cU9uMUJ3UzdkZXZFVTlUSmxjNTg3TlNHM3FhbXNqcDZ5aVBpb211VkZNak9IYUhlV2tjN2oyMVhOZWEtSVYwRHlMdVRJZUYwckh0Qm9uTlVJRldBNkd0Mk1zT2dIRk1DYnhZRnEwdmh2eElGMWpRaldaTGZ3dTVkX0pMWTFj?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-26T16:02:11Z",
-      "summary": "澳大利亚金融评论（AFR）刊文梳理人工智能领域最受关注的一场公开冲突，涉及行业内主要人物与机构在AI发展路线、安全理念和商业利益上的分歧。报道以这场纷争为线索，呈现AI产业在高速扩张背景下阵营分化、话语权争夺加剧的格局，反映出技术路线之争正与资本和市场竞争深度交织。"
-    },
-    {
-      "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTms2S29td1drTmE0MmxOb3F0OFpkOGNxcHJpOExnYWZadVFNVno1dHMzSjhUR3NqZ21nYXFvWjE3YTNtMEtNQ3g1RGN0UkJ4Yk5LbmJHaUdJNjNZZmlzQm9TeEJLSTBFY3lJQVdiYWZtNkVZOFQ5djVzY1loWU5LcWFIaDdRaUh5UmxJcnBaUDUyZVVSTjhoUDFKdVJnbEI1M09QODVHazQwWkZhYlByQnlvTUtKR3EyU01oaGhGb3JkLXFUR1d3cjVkRTdYSGtXbmdLN0lOR1NjY2NpOG1IcnVpWlJJUdIB6wFBVV95cUxNdHhfWlR4UWxsVTV5cUxQVDdnNUM0MGFRZTE4aF9HVWpKQTFRbUdpLWt2S2RfbDhhaXJBalV6dks2LWx4RjNxNV9jcjFNaGljTDBlTzRBTVdsSjJIU3JwaWlZU21OUGJyMEgzc2pVXzVyMFRzZmtoa3ZYekxYR3VDX1NWTmRFUnJ0VFBfUGxYd3pLRWw1U3RqRVRaUTZBV3ljQTMxZThRbGJVcnVvUjlhYVVkX3JJUHF5eWVLM2Q5cWZXZDZYa2RNU3ZEcHN2bHRiVjcwaXFwZkVSWE9YSVdNQ3Y5UHNOcC1aa1ow?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T16:01:12Z",
-      "summary": "Anthropic已提交IPO申请，有望成为史上规模最大的上市之一。公司CEO在推进上市的同时公开警告AI可能给人类带来风险，凸显其在商业化与安全主义定位之间的张力。此举被视为AI头部企业加速登陆资本市场的重要信号，也将使公司治理、安全承诺与投资者回报之间的平衡成为外界关注焦点。"
-    },
-    {
-      "title": "AI boom to burst soon? Artificial Intelligence meltdown in China but Anthropic IPO at US Stock Market tell - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPSG1tclc5ZjNWc0xVNkdqd0tGVjhKWE5Za0cwY0RsN0NNZ3BibmxjMVh1VzBDX0NxNGlUQXNfWEdLVlNrdmQ0S0dNRlRtMW4xMDlKMXpRdzFJa2hFS2dYV2xMQ2dkbEwtSHB6M1BqemppV1NZa1VMZXMtMWlNQm5Jbm5BMmV2RUVtMTdjRE5vdXhTSVBybVB4Y0VaTkVJSlFLY1R5clc1RFRRM0d4bXFNbE93a1pDQVF3RF9MYUJNYmRIZGVpOS12cHdoazlDV1FCbUtoUkp6MkVzM1VwUE1ZM3RZTjdGRmdyTkdxeDhJQjljMU5VbWJ2STdCNGVjblBEeVhXSE4wSkJzU1M2NzRja1RCaXZQWHhJQzczZnl5cG5EYk9OWVNNckhHX0RJeXhuSGlWS0dKRzRLd9IBvwJBVV95cUxQOF9kcFN5U293bXdwdE1CUXc4VzVHNmpJRV9HMVNtRVRxN0dQaU1rRXNhSXdUOUlXSVYtU1oyMDFpaVowSmRKbHVQUDJ6T0dWYUJRSTVhWS0yOUZCOWozODhUdWg3bWhJMHotWFpNajlTVFh2cUNVWnJLbjREU1NtZWpiOEtBQnI0bjlEaHJGa091b1ljZFhQX29iOHRnMG9QTmZFRmJpb1FmMVNPTEQ3NTBRMDBpYkpMbkVta2NCUHg1eHhTNzZHWkFKZnJ4V2dsQV96Ul9LTUFmcDE5THZDcXZkU21YX3cwWjA0WS11emw5NVZ1LVVHMW1FQmV4ZnM3Qnk1RDFKSk1jTDRtT0t1YmJHTWFRYW9ySnlrajhHS1RiNk9FOVFsS09JaUpDcjZzb3dKS1RDUHFSYVlEX3hn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T15:59:29Z",
-      "summary": "报道围绕“AI热潮是否即将破裂”的讨论展开，一方面提到中国市场出现AI概念降温或估值回调的迹象，另一方面以Anthropic在美国启动IPO作为对照，认为美国资本市场对AI的热情仍在延续。文章借此探讨中美AI产业在融资环境、市场预期和泡沫风险判断上的差异，提示投资者关注热潮背后的结构性分化。"
-    },
-    {
-      "title": "Idris Elba’s Akuna Group launches free Artificial Intelligence (AI) filmmaking programme for creators in five African countries, in collaboration with Google - Africa.com",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPS0ROUXpLdklGUXNudXBSeXBKQi0xRlhWcHM1STJaX25rN25sNi1tdzQ1Qm9Cei04a1N3c2YwcHBkaF93YXplNVlRTlhJSmltNWFybkFxNTRkSUZSX3loMzFoOVNUNUNER2FDM01ydWJ1bVZQNTdPRW5VNUlyaVN1TWtHNzNDRWdqZDZFX3pxVXIydkJJYW9BcnoxV3lpV2ZRU25PcnlIRzVRVkotNDVjNXcza1ItU2M1RC1TbXhhVjF3WUpERExVa0VxMVZnNlRIQjR5RjE0V2NDTUZQNXRMOGVacVRVQS00dTliNXFialdsYTNSVVVxVmpYX3FYSHNsRWpfcF8wdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T15:26:45Z",
-      "summary": "演员伊德里斯·艾尔巴旗下的Akuna Group与谷歌合作，面向五个非洲国家的创作者推出免费的AI电影制作培训项目。计划旨在降低AI影视创作门槛，帮助当地创作者掌握生成式AI工具，用于剧本、影像与后期制作等环节，从而拓展非洲内容产业的表达空间与人才储备，体现科技巨头与娱乐界联手推动AI技能普及的趋势。"
-    },
-    {
-      "title": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PbzlzS0lIOG1uTVhFNkR2U2NzSTJwc0xWX0xLOVFIRkVyblRlenRncmVaOHVlLTd3TkRuRTJBNGNoM3g5YlBWZUt0ZGxsdExtMncxdkhNc0I1b2RjSW9ybFB5SVd3Y1I3REctdVhsQW1Uc2hOMUJrTg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T15:24:56Z",
-      "summary": "随着Anthropic筹备IPO，纽约时报介绍了该公司的七位创始人，梳理其从OpenAI出走、创立Anthropic的经历与各自分工。报道呈现这支团队如何以“安全优先”的定位打造Claude系列模型，并在企业级市场站稳脚跟。创始人背景的曝光，也帮助外界理解公司治理结构、技术理念及上市后的决策走向。"
-    },
-    {
-      "title": "FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard - The Daily News | Texas' Oldest Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORXk5aklOWmxQSFlXRUNlTm1mbW10bWZIZkd4WHJiUXktNFNzM3lyd2s0ZDVqQlBNb3JmMWZjUG5QbVNBbVNDTXhTNmtEQnRneHBWYXU0dktmajFIX1Y4VTNuNXJCbXBTU0FHUl9FLUtYN0hPcFY4bE5OX3lGVFRtOEJlWm1nTEZCRnVjRVlORXI3TW1wcTVrWm83b2dmc0tYUVJFajducDdWclhvOXJSNlRkaDBKLWxrSVE3dnhtR1lsM2s5amtSV3VlTDRXX0JxSnJnQUFEd21yRm9VSE1uMF9UZlBOcm5xVzAwVExwbWkycWZjaENFRlhQU0tHM2c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T15:13:58Z",
-      "summary": "该条目为一张资料图片说明，画面以键盘和“AI Artificial Intelligence”字样构成视觉插画，用于配合人工智能相关报道。内容本身不含具体新闻事实，属于媒体在报道AI话题时常用的通用配图，反映AI已成为新闻编辑室高度关注的常规议题。"
-    },
-    {
-      "title": "Global Generative Artificial Intelligence (AI) in Gaming Market Sees Rapid Growth, Reports The Business Research Company - EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZjJwSmg3VWZLaXg1Wk9LR1U4SmcyZ3ByalN3N1BqRHR6UFhhZ3N0UGpaN0IyWGF4TkhJam9LWTJwUGZqRjZwcG56SFlRQzFfazIyNjFmSXJNRVFBZEZLUzFfckctaWxEcmI5U3JNeTZRN242NXk1cVd4SHZzM2pjRkUzOW9nNnBMS3VyQ0xTMGc4bjJUT0M2VExvcXNOSlRVb3VEdmRnRjc2U1VuQkJqVUFKOTlBWDROQzMxc2luYXpKeWt5ZG9BVE1XRmNJd1pHa3dWY2tiUlFpeVNpdjU2dmFqcDBFNVZteGIwelJhV2N0RGhKRkZR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T15:00:00Z",
-      "summary": "商业研究公司发布报告称，全球游戏领域的生成式AI市场正快速增长。报告指出，生成式AI正被用于游戏美术与关卡素材生成、NPC对话、剧情设计及本地化等环节，帮助厂商压缩开发周期与成本。市场增长动力来自玩家对内容更新的需求、开发工具链的成熟以及中小工作室对高效生产方式的采用。"
-    },
-    {
-      "title": "Competitive Analysis of Artificial Intelligence (AI) Applications for Smart Cities Market Among Top Global Companies - The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnNQaC1iT3lKNmJmY1Z6S1NVamh6VWRadlE4cV9RTkdwRlpyckpaU25xbk51TnAxZzE0TzVjWEZyeG1KcWJ2d04xZ0k0UmZ4VENzTjl4Z2hPc2Q4VFVjMzNhVmhZNzJOUzBvVTZnZDFIU2kzbnhSVFBNOGFhenhLVmFvcTJqcW5YMVk3VW15VjNJeFFlcGlNQ0dCdWxuQXhWTkp6cU1nMmI2M1NTMnZuWU5CRQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T14:54:54Z",
-      "summary": "报道对智慧城市领域AI应用市场进行竞争格局分析，梳理全球主要企业的产品布局、技术能力与市场地位。分析覆盖交通调度、公共安全、能源管理、城市治理等典型场景，指出头部厂商正通过平台化解决方案和政企合作扩大份额，同时数据隐私、系统互操作性和项目落地能力成为竞争关键。"
-    },
-    {
-      "title": "AI companies are barreling toward huge Wall Street debuts. A look at the biggest players - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZjMzWHJqNWt5dFdWa3VsQUVfdEE0Slh4ZmxETXhyZE9BdldFY18tLVF5TnNGRkFjUFlySlZfNE1yM2J5Ui1Pa3hiMmVLSmdlYktCSnF2TVoyZkY2UFRvN0draHhBU1JnYlNabWN6S19fd2VWTzBlVWhKY0I3OGJmTTFQcW9WdTl4UXNLVHcwS1RGUndqSEphX2ZXQnNKeUZkb01BTzFlOGlqeC0zTElXUXRjbUx4eVlOcURydkdDQXRzUTlJdEw2dWRZam1oVTg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T14:52:29Z",
-      "summary": "报道指出，多家AI公司正加速推进大规模上市，华尔街或将迎来一轮密集的AI新股发行。文章盘点最受关注的主要玩家，包括模型开发商及相关基础设施企业，分析其融资规模、营收状况与估值预期。整体来看，资本市场对AI的热情仍高，但盈利路径和估值合理性将成为投资者审视重点。"
-    },
-    {
-      "title": "How AI Search Is Quietly Changing the Way Patients Find a Clinic - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOW1Sb1NUT3N3bF9OajVaY2F0bl9rSmFzWTVjTTMtVDQ1THBaV01lMWJkYTFsSU5reWxyYVZuUEJud1o2S2xSTUhzd2NOb0VqMmUxd2hSdkhhR1JtaUJtSVcyU2RROS13d2w5eGplU2t3WlpQM2p4NXgtYmxDUm0zS3hXV25qTWMxVUhpWTdNdzNLdm8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T14:38:55Z",
-      "summary": "文章探讨AI搜索正在悄然改变患者寻找诊所和医疗服务的方式。越来越多用户通过对话式AI获取医生推荐、科室匹配和就医信息，而非传统搜索引擎列表。这一变化影响诊所的线上曝光与获客渠道，也带来信息准确性、医疗广告合规和患者隐私等新问题，促使医疗机构重新思考数字营销与信息呈现策略。"
-    },
-    {
-      "title": "Anthropic officially files for its public debut",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-26T14:35:22Z",
-      "summary": "Anthropic正式提交IPO申请，招股信息披露其营收快速增长、亏损持续扩大、企业客户采用度显著提升，并采用特殊治理结构以保留创始团队控制权、维护AI安全使命。该进展反映头部AI公司在资本扩张与安全治理之间的平衡，其财务状况、商业化能力和治理设计将成为市场关注焦点。"
-    },
-    {
-      "title": "Artificial intelligence bot accesses Georgia voting data - The Atlanta Journal-Constitution",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0ZUpOY0c1MmxaUm0tWU5SNlR4X0xlWXRFT21nZFQ0NTROT0xuYVk2ZzEwcTdnc1lwcjY2RU1XaFAybkFvM0t3RE1Kb0tCSVlHVE4xenZjaE1LU0hkRVlQcGl3OF9QSUlSMl9pTXJudUlWdmVqblJtTjZiaw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T14:31:22Z",
-      "summary": "据《亚特兰大宪章报》报道，一个AI机器人访问了佐治亚州投票数据。原文细节有限，但事件指向自动化程序触碰选举敏感信息的风险，可能引发对投票数据访问权限、日志审计、身份验证和AI使用合规的审查。该事件也提醒公共部门需加强对AI爬取与自动化访问的防护。"
-    },
-    {
-      "title": "The Artificial Intelligence (AI) Annotation Market is Projected to Experience Robust Growth with a 27.8% CAGR Forecast - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmR4a2hLOGZ2eGRIZ0MtcjhPdnRyR09xX0ZtOEx2SFBDRjdsWldGYzR4ZEE5VGx4bVR2Z05OVHZKQjNWRW1TbFItcWJYOGtvWEo5cGE4RmhsYzlhQ1I5TTRtYS1IZDhHRTZxanJMcjRZQkROWGlnZUNwajVQSm9FRTk1aWlqcksxNm9yQS1hU0hzWllkUklsVWl0QjFDYVNiTzRlZXhraWNvNl82MVo1Qkc2aXFfSm5JcVk3ZlBJTUh0Z01QXzFNN00wVHc4OXRfQk9oUU1ZeWJKQzJOaE9JbXRnTFhwSndWV1VmeEhR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T14:30:00Z",
-      "summary": "市场报告预测，AI数据标注市场将以27.8%的复合年增长率强劲扩张。增长动力主要来自大模型训练、多模态数据处理和垂直行业定制需求，标注质量、规模化供给与成本控制成为竞争关键。同时，行业仍需应对人力管理、隐私合规和数据质量控制等挑战。"
-    },
-    {
-      "title": "Your guide to AI degrees and certificates in Utah - Utah Business",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTEtLSm1zYmFTYUdIS0ZucXpOZ1NEa21sWGY4bWxvaWxsOUtWTEFpV2NjSHhueUMzX0xyaG1LLTBxY1lRNUtIZDExX0V5VC05YjdLelhzVGVsTDBBUmVkWGtwWUJZQWdydjZLeVEzbnQxaU1wR3J3UDVSeFJZbmZXc19BbmpSN1huX05PWTRBQWhCSmpUREw5T3oydGFrMkVRZHlLUHJ1dWxmUWNjdjV2VHJSY21pVkl6Uzc0WDg5REVqY3VNdmlQRWpYR1I4UQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T14:00:00Z",
-      "summary": "犹他州商业媒体发布AI学位与证书指南，梳理当地高校和培训机构提供的AI教育路径。内容面向不同基础的学习者，涵盖学位项目、职业证书和技能培训，反映AI人才需求上升及地方教育体系对产业需求的响应，为求职者和在职人员选择学习方向提供参考。"
-    },
-    {
-      "title": "Artificial Intelligence (AI) in Self-Driving Cars Analyzes Market Trends, Segment Details, and Business Strategies - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWlhEWWpObzFXTGlGUkhkdEJVc2otRWFLX3pSdU5rSHJmRFN0dWQ2NTd3djNvNEM4bjFzUDZqMFpuMXBBc1ZORkNaNU1QZm9sdE41b01XVXlaTE1TRk5PMnBWNjlUdlFreVNBLVJDZVN6VTdSOXdxdXZPOXRmX25iRVlOZ0xrSG5iLTRpZGoxTlpodTVGQ2RtLTdHSjVkeTFXNHZEOXRpek9qb0MtVzVnNDdoYUhVTnBaaElndl93MEZvdzhxclBNSlF5VUl4eGJhdXBsU0ZRVnlFMkd4VGF3eE9kaDdxdm8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T13:30:00Z",
-      "summary": "一份行业分析聚焦自动驾驶汽车中的AI应用，梳理市场趋势、细分领域与商业策略。AI主要用于环境感知、决策规划、行为预测和车队运营，市场发展受法规、算力、数据闭环和成本等因素影响。企业需在技术栈、场景落地和合作生态上形成差异化布局。"
-    },
-    {
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CQ3gzX1BJUTRvTnRNZk5UZEdnRTV5OUtUUkVxckZ1a0VnVGRWaFFtRTBORWlrbFJzaW05bzdabHJhV3dUUTJfZFZPUVlDTVhMNHAtQjRXQndrcXI5WlE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T13:27:43Z",
-      "summary": "BBC报道，Anthropic在重磅上市前警告AI对人类存在“灾难性风险”。公司强调对前沿模型进行安全评估、治理和监管的必要性，同时推进资本市场融资。这体现AI企业在商业扩张与安全承诺之间的张力，也使IPO披露中的风险因素和治理安排受到更多关注。"
-    },
-    {
-      "title": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkg2dkN4RXhnUnhBdkIzWENQYWJaVWNlb2M0dXVCMFptYVN6TEl3UGFRekt0TGYwRjQwc2V3RVlyaE0ya2xraGFOM1FHMG5EdGdFUmJ6UUJWRHhhaHZydXppeUtNN0swZE1rVFg0bEcyOXhlRWNQbnhQWTFpVDFhTlB4MWRYblZWZGZLNQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T13:21:06Z",
-      "summary": "《纽约时报》报道，Meta和SpaceX将再筹集数十亿美元，用于支持各自的AI雄心。资金预计投向算力、基础设施和AI研发等领域，反映AI竞赛正进入重资本投入阶段。市场将关注巨额融资的使用效率、投资回报，以及能源、供应链和监管约束。"
-    },
-    {
-      "title": "AI in Home Services: A 2026 Guide for Owners and Operators - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWlNoNlJXVzUtTEx6emFJOGVncVR6ZzFLXzR0aVFldXZOaW12SjBJNjF6MjhTNFB4ekNpc3ZXdjFGM2U1cUpXVXozdzVkZnZ2STEwdWp5RWpZU3B5bjBxWkVTSThTZURBaEFEUWc5aWprcUhkb0Y3RXNmWjBoNUlGamFyVG1jcEItVVE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T13:08:28Z",
-      "summary": "TechBullion发布2026年家庭服务行业AI指南，面向业主和运营者介绍AI在排班调度、客户服务、营销获客、报价和现场管理等环节的应用。指南强调AI可提升效率与客户体验，但企业也需关注数据隐私、实施成本、员工培训和实际落地效果。"
-    },
-    {
-      "title": "Vibe Code Audits: A New Quality Gate for AI-Generated Software - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWjMta09rOXlDeFBNT3duYV9HWG1uemE5S3IzOHgwNnROb19hYVdFM0lWaVhMZFFJa3F6NEZwOU12UGlkNXpMQ0ZYeVNQcFVUWF9sLXJPNFZ4dTBkZHZwTW9mcHpxRl9NXzB3R0FfdmdWZ29ZYUFYRlJQb3kxeUJqT29Xa1pjcFRWQUYycmRsOA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T12:58:16Z",
-      "summary": "TechBullion讨论“Vibe Code Audits”作为AI生成软件的新质量门禁。随着AI辅助编程普及，代码审计需重点检查安全性、可维护性、依赖风险和逻辑正确性。将AI生成代码纳入系统化审计流程，有助于团队降低缺陷、技术债与合规风险，提升软件交付质量。"
-    },
-    {
-      "title": "Murder suspect in India accused of using AI to fake his own death - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXJvSWpGZ3dJZS1iWGtyZmRPYUxTVnFPTDdXTGQ4RkpPV01kcUw5elF0RjM3MHlJUUF6WWN4ZG5pV1FndjNZVG1PaGdsYWRpRGRGaS1ib2VPN0lnUnNERW5IMUI1UHBWclVBLUV0Y2FkMnpjZmpRYmFVMmg2ZWdTTnpBTGxMNzA2NlZuSnpWdnVybTJtajdMQ0xQdnZFODVP?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T12:24:00Z",
-      "summary": "据《独立报》报道，印度一名谋杀案嫌疑人被控利用AI伪造自己的死亡，以逃避追查。原文未披露具体技术细节，但事件凸显深度伪造和生成式AI在身份伪造、司法调查中的滥用风险，可能推动执法机构加强AI取证、生物特征核验和数字身份验证。"
-    },
-    {
-      "title": "Illustration shows \"AI Artificial Intelligence\" words and keyboard - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSW5ibl92RHRsRWVBODI2WWQ4b2FXTkxLbHMzcWpIQllFOEtjNHJJSHRaLVhEZ3ZuUU1fZjdWM3RJbl8wc0pkN3hoTl9wX3laUlF6TGNtZm9lOUYxc3lXRUpPbU5WaV8yTWFmZTJoejdLRHZyejBNbEZFVjYtcDZuOTh0U0VCUGZPbWVDc2MtYzA2eFFRZUZnWW1ZT0VmdnJLX1FZSmNFbVNNMTE3S2FWSjQxVm1uZ0hkeGRrUE5neG1rTUw4dnBvdDNHUXlfNG5uMDQ4cmwtVS1TaGtFbi13UGNpSmpMYzdIeG1yZHJYQ1JGNVYw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T12:20:01Z",
-      "summary": "这条新闻以一张包含“AI Artificial Intelligence”字样与键盘的插图为核心内容，属于人工智能主题的视觉化新闻素材。图片将AI概念与计算机键盘并置，暗示人工智能与数字输入、软件操作及人机交互之间的关联。原文未披露具体事件、产品发布或技术细节，因此该条更偏向媒体配图或话题引子，而非完整报道。"
-    },
-    {
-      "title": "Topics - Artificial intelligence: Do your charity’s investments reflect the risks? - Charity Digital",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlFyU2ptUzQ4SkIyaFI5MmVNZzNjeE85aFp5cV83ZVVQUEswY2hQZkN2LUN3OW53MUk1U21EU2llWlpEMml2VGtYdEtFSExMaktHdjYwaHZJbHo5c2N3ODhzaURhRlgwd0lhYl9iLXJsRTI5ZXZPbXFtNFJVenVtd0JpdlNsdXR3dVFYcHR4cEU4MjRpdEZTZndzZ21Tb2lFblZ3QTN1Y2dhc2k5cXFadnpPMA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T12:00:00Z",
-      "summary": "Charity Digital 刊发专题，讨论慈善机构的投资组合是否充分反映人工智能带来的风险。文章以提问方式提醒慈善组织关注AI相关投资可能涉及的伦理、治理、市场波动和声誉风险，并审视投资决策与风险管理框架是否匹配。原文未展开具体案例或数据，但核心指向慈善机构应提升AI风险识别、尽职调查和投资透明度。"
-    },
-    {
-      "title": "OpenAI, Anthropic disclosures spotlight growing AI containment challenge - CSO Online",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkFIbUY3OUgzR2ZqMkNlSGZfR0FZV0FYWmJRbU45QkRXZ09RU3NjamMyaVltRnMwb2dOemVvbUxPWU9RUkxZZHBhcUhWQ2hadUhqWFJ2eVNGMXdzRlhmWGxELXpsSUdRNmhxaEw5NzliZmFFb1lBVzVmbV9Fd1RlcTZTTml3cEExMVBuWHZhOW56Wm5CV05RU21OZWpZZi15LUI4bTd3OTVrWFNLVHZhYnU4Z1VzX2Rfbmc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T11:58:25Z",
-      "summary": "CSO Online 报道称，OpenAI 与 Anthropic 的最新披露凸显AI“可控性/隔离”挑战日益加剧。随着模型能力提升，如何防止系统越界、被滥用或脱离预期行为，成为安全治理重点。披露内容可能涉及模型部署中的访问控制、监控、红队测试与安全边界设计，反映前沿AI公司在能力进步与风险遏制之间面临更大压力，也提示企业需加强AI安全防护和治理。"
+      "publishedAt": "2026-10-26T16:16:58Z",
+      "summary": "乐队Adios Fatso发布新单曲《AI Is Taking Your Soul》，以极具爆发力的音乐表达对人工智能的警惕。歌曲把AI对创造力、身份与人类灵魂的潜在冲击作为主题，属于艺术界对AI快速渗透的批判性回应，也反映流行文化对技术伦理的关注。"
     }
   ]
 }
