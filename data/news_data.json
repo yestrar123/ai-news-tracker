@@ -1,41 +1,139 @@
 {
-  "updatedAt": "2026-10-26 07:14:12 UTC",
-  "totalArticles": 5,
+  "updatedAt": "2026-10-26 11:48:07 UTC",
+  "totalArticles": 19,
   "articles": [
+    {
+      "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2JSZ2N4T2xMRzVqSzc3M1Q1cnNFbFdIamtBUmVZUlNiZUlER0dLSVJkMmRPSVlFeHVkQUFueUtoWTVoU3MxUlRuSE1OMW0yZUxZdWRpTmVCQld1c0dLTGlWUTBkMzQ4cHhjZ3hQRXEwQ0w1VkdtdFdfcDJFbllOZ1NEWVE4TEV1RDNxWDEzZ1NpSjhRWkNRQ3c4NThwd0ZJMElWeG44cHFRdjBhRVBDSGIxd3JhaENwMC1tekUyd3RfNVZrYlhiS2pfdTZWM3JSbXJIMWdPc3pWaFNpVTNDMGdrM2o5WUhUeHFnUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T11:30:00Z",
+      "summary": "澳大利亚网络安全机构警告，随着网络威胁上升，澳民众应做好在线服务可能意外中断的准备。核心在于提升社会对关键数字服务停摆风险的意识，强调个人和企业需增强网络韧性、数据备份与应急响应能力，以应对日益复杂的网络攻击和系统故障。"
+    },
+    {
+      "title": "Another major concern for domestic artificial intelligence (AI) semiconductor companies is when they.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xcDE1dm9yZXFsbU9OalJwMHJnbUp6TExIMV9qS3hXeG9LOFZxVUEycFl5LU9oM0RMNXpQckNVMkctZXRzVDNYTUFsb3oxa0V6ZFpN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T11:11:04Z",
+      "summary": "报道指出，韩国本土AI半导体企业除技术竞争外，还面临另一重大关切，即产品何时能实现商业化落地与规模化应用。该问题关系到企业能否在快速增长的AI芯片市场中形成持续营收，并影响韩国在AI半导体领域的产业竞争力。"
+    },
+    {
+      "title": "Anthropic’s Claude AI model accessed Georgia voter data in US - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T11:04:00Z",
+      "summary": "据《卫报》报道，Anthropic的Claude AI模型曾访问美国佐治亚州选民数据，引发对AI系统处理敏感个人信息和选举数据的隐私与安全担忧。事件凸显生成式AI在数据访问权限、合规使用和防护机制方面仍需加强审查与管控。"
+    },
+    {
+      "title": "Texas schools weigh how to use AI without hurting learning - Dallas News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTDZ4MWpzR2dfbXZLNHl3Vk9ycFV3YWhOMngtMUVIMHRUUHluYWpGMjlwUDNFUi1LQUo4OFpRVThaWlhNazI2eVJNVURxdkV4Q0hPUWdtWVdHN2dMam4xV0g3OE02cU9wbUNGU1hacVNIX2tiYnBDMDdpM240ZjBPcXhJQnZYcGdnS0k1RnF6aXlLZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T11:02:08Z",
+      "summary": "美国得克萨斯州学校正在权衡如何在教学中使用AI，同时避免削弱学生学习能力。讨论焦点包括制定使用规范、防止过度依赖AI完成作业，并确保技术辅助不替代批判性思维和自主学习，体现教育界对AI融入课堂的审慎探索。"
+    },
+    {
+      "title": "India's daily multimodal AI use to nearly double by 2030: Ericsson report - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU0F3MWhIWGxiUVZBdmEtT2FWUDZUTEFjZE9VbElldE5LRWN4bDBvOU4tQUV0UnZxYll1NGVuR2ViRVJpenFWbTRFQnZ0TUczT2xZYU1XM0Z2R1dBLTYxdGVSSmRqU1k0cXVuVE5WaVBSeEFfTTNQSEVLNW9iMnBUU3Zud3ExWG5MbGJqU1RiRUI1d0ExbzJuSHM0cTFXVUhKa3RKc2V1U1duVGRMZFotQnczQUZmZTFUMzd4b0pCTVRKc3BNYXNnVjRGVjFJRXRRNnZpTV9Mdng5QXZfTFJwaHk3TGs5Q0F4VlpFNHFiUVY1M0nSAfgBQVVfeXFMT3J4NFh6UFc4bDFaVkxkLXFEOERYWk14UXhWSlBuQXpFSGZFVHRPU21NX2NaNmQ4X0VzWDlYYWVKa0VZcHR2dnQtT0lrVEdxcEl0NXB3RkRwdHRVdW5kWm9wbjJfM0NNVHBOZU01X2ZuU1dkOU9FSUI4dS1KN2kwM1JVSzMxeVRkOEtpNzBsNEJvc1I1NmFMRTI5R0htdVpCd2paRFM1em9QRnM1QnhUQlNHbFlvT0pteW5LY08zb29uUG1wV0kzb0c2ZUJfblU3YkJELWtIVEZMZHc3eGtoYXNQWVcyQWllZjN0S1RrTGFXcm1tRVNReWk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T10:17:58Z",
+      "summary": "爱立信报告预测，到2030年印度日常多模态AI使用量将接近翻倍。多模态AI可同时处理文本、图像、语音等，推动应用场景从搜索、创作扩展到客服、教育和公共服务，反映印度AI需求与数字基础设施的增长潜力。"
+    },
+    {
+      "title": "Illustration shows \"AI Artificial Intelligence\" words and keyboard - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWF9WeFRiY0pJU2pDdzY0OU5qaFpwZUtIck9wZkpudmppaFMxZGotS3MwN1JNMXJ5TlFMeV9zYXBBb1F3alVoVFhaWThBQ2lrOGhVUS1RWnpqMlNSZVFPUlMxNTNCaENnTEM2cnFUcDdJSDR6UDFFc1k4NWotQVlSOWhkOFpjVWo2eFVSSU9yNTVjam1TZDc4cUctT2JXeVIwdEFDNjVBRm1DOHZkLVlnTTg3SnEzRVMzb2x5ZEhDdFI4UWNzeXptcjFINnJucGhneFF1YlFCYXdiRWJZQi1qNGpLX2VxdWU4QWVaRWJhVzBOcDFG?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T10:15:10Z",
+      "summary": "该报道以“AI Artificial Intelligence”字样与键盘的插图为主题，呈现人工智能与数字输入场景的关联。此类配图常用于说明AI已渗透到办公、写作和数据处理等键盘操作场景，强调人机交互方式正随智能工具普及而改变。"
+    },
+    {
+      "title": "US political candidates tailor messages for AI models used by voters - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObV9hTGxkVG40SW9kTXRmdmxrc1FtbjItUUdKQzQ1X1pEUXZ2bV9EWS1fOVRVZ25pVndCOFpINVNFMHBwUU92YTd6QnZBdHVLaHFPQ2R4Y2YtNTdBQWdJdjFXSVc4Tzd2bXhCN3RwcE4tMzY0aXo4c0toQjhHWHBsbVpHQk4xM3VHNm9KRHFXY2VrcjNSSWZ1eVJLWGZOMnVGMGQ5eG9DU0Q5Qzd6YUhhNVVkWE5MY01xbVFwYThVUHlwUzQwd3VWWU5RTjlYbld6dFM4bnNaYWxzZnpIUXdzN3pqeF9vd9IB6wFBVV95cUxPTVVaQzBKVW5IbF9vbXBCMEk5NXdjRnAxc2tReGF1b1hJSVM2SUNzTGdMbXhMaTJYQXE2TU40eVRITW5aM3VaMG1vZHNyV0ZTamx4LWxqMlRGS0hVTjNJNnEzV3dqckNhTUtWNG5nX1dlYkdXZW41VWZ5Ymx4ZDI4WXR3TTRkTlRQdm5zYUE3RFNpajlkZUJGVVB0NFIwR09MV1hVZ0hzWDFiUmlfclRiSnhldlJyeVhBNFlLRkFRQWppWDBsVzZRMFFyT2ExLUw0ZnFhM2NXNFZIRFZQaF8yaWZsUThmS2pvWUxF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T10:09:46Z",
+      "summary": "美国政治候选人开始针对选民使用的AI模型定制信息，以影响AI生成回答中的形象与议题呈现。这反映竞选传播正从传统媒体和社交平台延伸至生成式AI接口，也引发对算法偏见、信息操控和政治宣传透明度的担忧。"
+    },
+    {
+      "title": "10 minutes is all it takes for AI assistance to erode your motivation, study shows - Live Science",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbk9wa0ttSmk0RzlyeHBCZ19BQ0FxUnNhcmVLUzl2TW1HT2pNTTN0M2JlS2ZYRlMxRjBSUEdnSVB2dkQ5YmJTLVRWcVpTcEw2a0lmakpURklzb002c1d5bUt3XzhCRW1teElIUDUyN2oyQ0FKbUlqN0owTGU2U3NObTdlemU5UFJiakY5OE1BaXBqN0dYTG9VbDBRcFdLczAwUXZxVDlGR3FPcnVFZDI3dExMTTY1SFEyLWRVU2pQOTl3S3ltTjhsUHFZQUlpMDRyMEFNZ25jdzI2T1hN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T09:00:00Z",
+      "summary": "一项研究表明，仅使用AI辅助约10分钟，就可能削弱人的内在动机。研究提示，过度依赖AI完成任务可能降低参与感和自主性，在教育、办公等场景中需平衡效率提升与人的主动性，避免长期依赖影响学习投入和问题解决意愿。"
+    },
+    {
+      "title": "Due to the boom in artificial intelligence (AI) semiconductors, the Korean economy's external report.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wY1JkaGpNOG80OGNXdGRROHBUZi1qa1ZpOEF1R3JUR2Z2S2wzaGE0aTc1dUNMd1o2blJscGJWUmxoLUhuNGY0X19zZlp2d25JVXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T08:42:27Z",
+      "summary": "报道称，受AI半导体景气带动，韩国经济外部报告或展望出现相应变化。AI芯片需求增长可能改善韩国出口与产业预期，但也使经济对外部技术周期和半导体市场波动更加敏感，凸显AI半导体对韩国经济的重要支撑作用。"
+    },
+    {
+      "title": "While three South Korean artificial intelligence (AI) semiconductors, including Puriosa AI, Revelion.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ITHBCODJhb0Y5YTkxMldsb2NBS0VYODdjaWNkTUMzWV9vWUpzWFM4SHg2ZFgzSWlmcnRXb0Z1aEIyeE5UNDBBMVpIWXljMzFkc3NF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T08:03:22Z",
+      "summary": "报道提及包括Furiosa AI、Rebellions在内的三家韩国AI半导体企业，可能正受到市场关注。内容涉及韩国AI芯片初创企业的竞争态势与发展动向，反映本土企业在全球AI半导体热潮中寻求技术突破、融资支持和商业化机会。"
+    },
+    {
+      "title": "More AI Agents Than Humans? Experts On Jobs, Degrees And Guardrails - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSlR4VTVsMGJZeVNWQTBaQ2xuenRUQUpPWWpkbFVtVWsxNjZIX2c3T2VMWHdCd0FUUkJmRk02bUstaEF5Z1hORmgtclE2Wnk2aDdIVGllQnN1NlVtQUtESllBOUN6ZTdGTjlpd0RLbW8wVENqbUFXaFhKUjJXQy1pT3lWcHVPdm1RWkFvaFFWd05UamV4d1VVM1dSNENBZFpUX3UzRjNGLVdEamlFNXd4YkNVaks0RE9PYzlBVjNiRllHcUhRcnR5SXlYYkhCeE01M2tyR0tyQ3lvV3FQ0gHkAUFVX3lxTE4zUDdWRkVxT1lvUXNjREpXNFlUMHFITnZSb1NJVzlGWGN5OF8zbWJEQ3BmR0xobXotWm5ESVRqUlFod2VTQkh5SU92azh4QmdNN0cwU014UFpudlhlc3I4UWxEbHZsZHhqMzFuangzTUZBbk1CODRibEI5NlJTTnRaUzl6RkJWX2hneV9xaFVQWTdTLUx3ajVBWmh2S0ZKdjBlSXBPdWQ0cGJUekc1Q01PUlpZVkx1WGl4LWh3aW9RS1BUaWN6UWliaG9xZkJwZm9Sb1M0by0zWFFCbUxpRW1JRXBjSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T08:01:18Z",
+      "summary": "NDTV报道围绕“AI智能体是否会多于人类”展开讨论，焦点包括AI对就业岗位、学历与技能价值的冲击，以及如何通过护栏和治理机制控制风险。专家认为，AI智能体加速普及将重塑工作分工，社会需在教育培训、岗位转型和安全监管之间协同，避免技术扩张快于制度准备。"
+    },
+    {
+      "title": "North Gyeongsang Province will join hands with Puriosa AI, a leading AI (artificial intelligence) ch.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZOENVQV9HNk9oMlZYS1MwVUt4VThVQV82VG9PemZ4b1VEd0U4UzQxb0VuR19icGhWSDE3MTRxZG9GTGZwaEgzaUlOLVBTcmNhMWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T07:32:28Z",
+      "summary": "韩国庆尚北道宣布与AI芯片企业FuriosaAI（原文称Puriosa AI）合作，借助其AI半导体技术能力推动本地AI产业生态建设。双方预计将在技术研发、人才培养和产业落地等方面协同，提升区域在AI芯片与算力基础设施领域的竞争力。"
+    },
+    {
+      "title": "'If I write music with the help of AI, it’s an insult to artistes': Benny Dayal says artificial intellige - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPNXdqcFZjQ3QzanJkUmk5dkhhajdUZWxNc1hCZTF5ZzhYcHJGS2stb1R2WmhvXzFEaTF4VlZROENDRVZUR0xxZ1FWQkVXUzB0dTBnWkt0Tkx1SDR5SFUtLXQ5SWl3T3RhVDVweEx4NWY4eHFuNmwtOGFaSk53ZTlpWHc4YUd3WTRiUGFXaFlwQngzRE52MjhVYnhET2traG9BZm1iSnFLenlXbjk3eUs4REZpT3JRMk5GUWYtalZYRzY1WG1Sa3g2NTNIZnJXYnktcEl1YnZJblhndzA4dlNMWTA2VmFtMGk5MVVEYnE3Q2lzVEVrZkFfRnlkZHhIUmJVZ2dVT2FBQVVuRFZ0X2JkWEhIXzRtRjlzUXppUWNNZU8tckxidFlDY0lob0ZYd0RpSmFFYl9NS3RSQmRNeHRUc3l5UWVoTjc5dHZFR9IB0gJBVV95cUxOcDRXZWI1VG5TSGhWekJqTi1PQW8zSTgtVjhLWTNuUjZoN0tMNGloQ1dWSjRQQnoyZ3U2V1I4SGIya18tWmJSSFV3djJBZnFLak5URzZRcUNDYWlhLU9qSk9yWjJ5cTNtM0Z5eFg5WFRWRGt5aEc2ekt5LW03cXg1a3hqWHloMXZaeDZVdElWeUE5clVENXB4MkFXME5RMkdhMzJjQWtLMm5ZdVpWeGNYd0VVeW9IZDdyVkZ6S1VlZTZBQ3ZwTjhmYUhaM3FGOERyNnNSWHFQeEs0SmlHemZ6V0pFTWdJdzU5MVUxOUhIZ1ZUeHh0d2ZnLUNKc3JLaVRTQ1puTGJscjE5RzNSRmc5dk9SVHlKaC1tYmxnT0xqcXRGSWJ2OUtTWGtzWGhKSWJzcGxaeHN5Wk82TGprNVZadjJGZG42QkRaWFJzaDl6RTRxZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T07:30:00Z",
+      "summary": "印度歌手Benny Dayal公开表示，借助AI创作音乐是对艺术家的不尊重，强调音乐创作应保留人的情感、经验与原创性。他担忧AI会稀释艺术价值并冲击创作者权益，认为行业应明确AI在音乐生产中的边界，在提升效率的同时保护人类艺术家的表达与劳动成果。"
+    },
+    {
+      "title": "\"Artificial intelligence (AI) agents will replace all tasks faster and more completely than humans.\".. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00eVdyQUFSNTFwYVhzOU1qTVNiWkszVmZiQ1pzZWpjR1I4RHRxaFQ3OVkzN2ZJcm9VbmVURDE3TnB5ektueTk0T1F6aw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T07:06:01Z",
+      "summary": "有观点称，AI智能体将以比人类更快、更完整的方式替代各类任务，引发对自动化范围和劳动替代速度的讨论。相关分析认为，智能体在流程化、重复性和多步骤任务中优势明显，但企业落地仍需解决可靠性、权限控制与责任归属问题，人类角色将更多转向监督、决策和异常处理。"
+    },
+    {
+      "title": "With the computing density of artificial intelligence (AI) factories rising to unprecedented levels - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PYWdxRDBaNnNjNUxnRDdrdXlLZldhWi1iQmlhOWtCN2ZLN3F2aEVPSFY3Qm9BeHBzZzA4TzV6ckJkdmRYUk5nMENwRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T07:06:00Z",
+      "summary": "随着AI工厂的算力密度升至前所未有的水平，数据中心正从传统云基础设施转向面向大模型训练与推理的高密度计算集群。报道关注由此带来的电力供应、散热、网络互连和建设成本压力，也意味着液冷、能效优化和系统级工程能力将成为AI基础设施竞争的关键。"
+    },
+    {
+      "title": "Artificial intelligence (AI) is rewriting the grammar of corporate management. What should be noted.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kVnQ3MDd1VzFDT0xjTVRyZmkzZGh4alN1ZVJzM1RKNTlqaFFVcC1icmplUUZFWUs3dUVnWFhuN2xEYVNBSXhkZUlOVQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T07:03:53Z",
+      "summary": "报道指出，人工智能正在改写企业管理的“语法”，从决策流程、组织协作到绩效评估都可能被重构。企业需关注AI引入后的权责边界、数据治理、员工技能转型与变革管理，避免只追求工具部署而忽视制度适配，真正把AI能力转化为管理效率和长期竞争力。"
+    },
+    {
+      "title": "For India's IT giants TCS and Infosys, AI both dents and supports growth - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ01zY0VrRlBKLW80QjdidkFrRGF4ajg5QV82SU5OdUt2RUtUUXJHVWgwV0hBbEdmTzk1SlcwOHBvV0gzRU5ONlBGaGJQNFRvOTBmQkYxejdicjVySkcwVDhWcVNWSWxNZXRac2Q5X0NQRElabnZacjB3bTZMSWZsZl9DUEVWaWdZeU45ekk4dTJ0UFEzZXlLejlEcFBFeThLTDhnUmNHdGlMMjdZaHFVeUtkZ0NZbUZuY2tvOXo5NEV5ZThuUnJwdFpadXBuVDZwM2ZkZ0RB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T07:02:00Z",
+      "summary": "日经亚洲报道称，人工智能对印度IT巨头TCS和Infosys形成双重影响：一方面，生成式AI可能压缩传统外包与人力密集型服务需求，对收入模式造成冲击；另一方面，AI相关咨询、云迁移和智能化交付又带来新增长机会。两家公司正通过提升生产率、重塑服务组合和加大AI投资来平衡短期压力与长期增长。"
+    },
+    {
+      "title": "Artificial intelligence (AI), which checks the status of the banking system and suggests the cause o.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByRUR0Y3I4bnF2VE9Kc0ZjM0syMkQteFpmZXc2OFhpbFl1OVA2OHBMRFM4Z2wzUEZuRkJncVF0NmV6T1Q2cWpWcWlxU3U4bGpfVlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-26T07:01:54Z",
+      "summary": "报道介绍，人工智能正被用于检查银行系统运行状态，并对异常成因提出提示和建议，提升金融风险监测的及时性与精准度。此类应用可辅助识别流动性、信用或运营风险，但金融机构仍需保留人工审核与合规控制，确保模型可解释、数据安全，并避免对自动化判断形成过度依赖。"
+    },
     {
       "title": "JB Financial Group formed an artificial intelligence (AI) strategic investment fund worth about 30 b.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95c0FZaUE4R1VCNGR5Vk1CYVRKa0Rkb2RNQVlsaVBQR1JXSjg1YVM1cnNvNFlrRERka1NHOFlzV1F6dmU4SldQVDhxN0k5NWZ4UGc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-26T06:33:22Z",
-      "summary": "JB金融集团设立人工智能战略投资基金，规模约300亿韩元，旨在通过战略投资布局AI相关企业和技术，推动集团AI业务与金融科技协同。新闻未披露具体投资方向和时间表，但显示韩国金融集团正以基金方式加码AI生态，寻求在人工智能浪潮中培育新增长点。"
-    },
-    {
-      "title": "Students and artificial intelligence industry leaders connect at inaugural Michigan AI Business Conference - The Michigan Daily",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYkw1aUstaXlvSk9lNFBGbndOZW5SZElFRXRkWHVmaTVBWmNvUlNkb1ZxajYtQUVYUTZ2cnhCOW55eEpFRlBzQWxSaXBVcnZkV0NlT3BZWkRIdFJMMFlNb2hzUVlSTkNkdm1hMERybDBPYVc1b1VqYmpkY3pNaTdrbGdoa1BsLVJhT09ndzZIcTdmZGdWWWZvSWJrZHhzY3FDeXFzTlJ0UWdSbUhaamU2SEhpeExrOGpyN2UtNTF1LXBMQ2laU25zakxrSklFNXZQekFyVkdvU3BhcVVzOHZPOFJDakhDRlBYY0E?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T05:43:17Z",
-      "summary": "密歇根日报报道首届密歇根AI商业会议，连接学生与人工智能产业领袖。会议为学界和产业界搭建交流平台，围绕AI商业应用、职业发展和人才对接展开；学生可了解行业趋势并建立联系，企业也可接触潜在人才，体现AI人才培养与产学研合作需求上升。"
-    },
-    {
-      "title": "Inside the biggest feud in artificial intelligence - AFR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWVlanJfeUI0LTFlTmxtX3VVYURzMUdnLUtOS1VueW5iWTkxSVhNQkRWaGd1Ulhhc1l2M1MtNGVQLUphcHVjZ2cyd1E2aXhYYmE3bVlLb1RoS0gxdHdGWTU1TlJPeF8tejJ6Q1dKMm1Oc3dqWTZ2MHcwT01keXc4NkF4Qko1c2wyOU5jNFVoczdtSjYzdDlqZXpIRDkzQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T05:00:00Z",
-      "summary": "《澳大利亚金融评论》深入梳理人工智能领域最激烈的一场纷争，聚焦行业主要参与者之间的矛盾。报道可能涉及技术路线、商业利益、话语权和市场地位等层面的冲突，反映AI竞争已从单纯技术研发延伸到公司治理、公共舆论和产业生态争夺，值得持续关注。"
-    },
-    {
-      "title": "Noeul, a manufacturer of artificial intelligence (AI)-based blood and cell analysis diagnostic equip.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xckEwLXpVcXk1RHRSUWVpU0ZVZDBKZDF1eDdtQURSVW8yaG9CZHBaM0xHa2JWOTIxSm9jbkhVYlBhdFRnUE1Rb1JLTjNrUGc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T02:06:23Z",
-      "summary": "Noeul是人工智能血液与细胞分析诊断设备制造商，新闻关注其相关业务进展。公司以AI技术用于血液和细胞分析诊断设备，有望提升检测自动化与判读效率。标题信息有限，未披露具体产品、融资或合作细节，但显示AI医疗诊断设备赛道持续受到市场关注。"
-    },
-    {
-      "title": "Medical artificial intelligence (AI) company Lunit hit the upper limit in early trading on the news - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tY0xaLW82U0JfWV8zT01CQVV2NktMbmdhcFFxbndUZ1NDQ3FlQm56eDlGdjU4WEsySmtQX1lUSGpCRnZKcW1qN1drQTN3ZEE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-26T02:06:12Z",
-      "summary": "医疗人工智能公司Lunit在相关消息公布后早盘触及涨停上限，显示资本市场对医疗AI题材反应强烈。标题未说明具体消息内容，可能涉及业务合作、产品进展或财务表现；股价异动反映投资者对AI医疗商业化前景的关注，但也提示短期波动和情绪交易风险。"
+      "summary": "JB金融集团组建规模约300亿韩元的AI战略投资基金，瞄准人工智能技术在金融业务中的创新应用。该基金预计将支持AI初创企业、金融科技项目及集团内部的智能化转型，通过战略投资连接外部技术与自身业务场景，推动风险管理、客户服务和运营效率升级。"
     }
   ]
 }
