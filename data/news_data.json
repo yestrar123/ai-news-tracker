@@ -1,97 +1,174 @@
 {
-  "updatedAt": "2026-10-27 11:13:12 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-10-27 16:59:42 UTC",
+  "totalArticles": 24,
   "articles": [
     {
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-10-27T11:00:00Z",
-      "summary": "英伟达投资印度初创公司Simplismart，该公司主打让企业以更少GPU运行AI模型的推理优化方案，通过提升模型部署与算力调度效率来降低企业的AI基础设施成本。Simplismart表示，其年化营收运行率在六个月内增长14倍，其中美国市场贡献超过一半收入，显示海外企业对高性价比推理服务的需求强劲。此次获英伟达背书，既反映算力效率优化赛道正受到芯片巨头重视，也体现印度AI软件创业生态在全球产业链中的位置上升。"
+      "publishedAt": "2026-10-27T16:30:57Z",
+      "summary": "Google DeepMind 发布世界模型 Genie 4 研究预览版，仅向受信任测试者开放。相比前代，新版本首次引入实时音频生成，使模拟世界具备声音反馈；同时提升画面与物理交互的真实感。另一关键能力是支持在模拟运行过程中通过文本提示进行实时操控与转向，让用户可动态改变场景走向。该进展表明世界模型正从静态生成迈向可交互、多模态的实时仿真，为游戏、机器人训练与具身智能研究提供新的基础工具。"
+    },
+    {
+      "title": "Artificial Intelligence (AI) in the Legal Market Outlook to 2030: Analysis of Market Size, CAGR, Trends, and Forecast - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOckF3cVppR1ozSUczZVoyRmJwX2FQUFBCdkFta19qS29ncUg1M0lTSGRrR2lPS3BzS3p6a2dYV0xPZGVJc2RZY1JWUmdLQ1RKc2VrR2pUemdIWkZrY3hFTzNCbWVjNzB1NUsydGVQVjhEeVJFUEhvTVk3S1RQakVEb3JiOFQ2bXpkUUhCUmIzWE1yR1NQUUozYXo2YUxZX29BWjRaUjdnUDdlZXNZd0J2ZnlOTldQSDlkdjJMcVdfSzl1elhCdTZFMEVjbjF6NWloYUJ3NEQ1eWx1a2ZNaF9tQ3BKV09LS29GdUZYd2JBYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T16:30:00Z",
+      "summary": "EIN Presswire 发布《法律市场人工智能展望至2030》报告，围绕市场规模、复合年增长率、行业趋势与预测展开分析。报告聚焦 AI 在律所与法务场景中的落地，包括法律检索、合同审阅、文书生成与合规审查等环节，并评估各细分领域的增长潜力与竞争定位。此类展望报告通常用于帮助企业判断法律科技投入节奏、识别高增长赛道，同时提示数据安全、责任归属与监管适配等落地风险。"
+    },
+    {
+      "title": "Trump says he will ban term artificial intelligence - CNA",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlNoOVA1TUdhaXN3Y0l5NFlVQjlJLVhRN3ZQR3lPQXN5UG9KWHpZU2M5UVJGVU5tdkpjNHduZUlHN005SDZ0M25CVi1UaVZIVEg5U2JMdGVUQVhmbkJjWlRFY3c5eW91TUh4Q2QyVFo2Zk5PLWVjZEl2d05TVzRoMVNxTjZaX0x2ZnhVa3cyOGRnZWE0c2dYYnVyWnJCZWQ2Y3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T16:25:58Z",
+      "summary": "据 CNA 报道，特朗普表示将禁止使用“人工智能”这一术语。报道未披露该表态的具体语境、适用范围与实施方式，尚不清楚其指向政策文件中的官方用语调整，还是对 AI 相关监管表述的重新界定。作为一则简短的政治表态类新闻，其实际影响有待后续政策细节澄清。该消息也折射出 AI 议题在公共话语中的政治化倾向，术语与叙事框架本身正成为争论对象。"
+    },
+    {
+      "title": "There’s not enough money in the world to pay for the AI boom - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDBNTFlUd2ROQU5TWXRELUZnczlQX2pnX0UyMXhOY2J1eXdlUUV5TG5QS2hDZGprTk44U3JyMEhmU0RrY2RrbDZSMzF6UWF2aU45R1h2SzVuNTRncDRMZE54S1BZSHFuVExzUE9vVWtxWWhsSVM2cmV1c1VsaGp6cExLYmtVeWtIRWQydmQyUGlpXzVqVDA1U2w4TkRpNVRQWWRjVE83OGFySXlndVZwTEt3Znc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T16:00:00Z",
+      "summary": "《华盛顿邮报》刊文指出，全球资金规模已难以支撑当前 AI 热潮的扩张速度。文章聚焦 AI 基础设施的巨额资本开支——数据中心、算力芯片与电力供应——与可获得的融资、回报之间的缺口，质疑持续高投入能否被未来收益覆盖。其核心观点是，AI 繁荣的瓶颈正从技术转向资本与能源约束，若投资回报兑现慢于预期，可能引发估值调整与产业链连锁反应。"
+    },
+    {
+      "title": "ZENO Unveils SI Super Intelligence Vision: Integrating Human Intelligence and AI to Explore the Next Generation of Artificial Intelligence - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSFlJdUwzR3ppa0ZaZWE1NlJncUZBX25wRmtoX1laYk9xcW9lMFE2Z25pcUl6NGpSTmo1Nm8xMUVQR0RFejQ1Z0VqUVdBUmRtYzV1REh5MUVqbkVUdDRST3NWcVdfOWtEVlhuZ0RoTGlJOWlDRWh3aTZQOXFZN0txRW9PODRrV0g0V3ZVZ0FwM1BpRGVLbDFXSEJOblJwQnRlNzEtM2xLTkJaQUJYRmJIb05HWGlPWVZQZVl5RXI3XzBaZWw0cWk2UTFaazNEVEN0U2Nvamg0dklodUZFZ1M4c0hNRVhRYUhTQUVDb0cyM0wzQVZt?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T15:59:36Z",
+      "summary": "ZENO 公布其“SI 超级智能”愿景，主张将人类智能与人工智能相融合，探索下一代人工智能的发展路径。该构想强调不只是提升模型能力，而是通过人机协同机制，把人类的判断、价值与经验嵌入智能系统之中，形成互补而非替代关系。报道未披露具体技术架构与产品时间表，更多属于方向性战略宣示。这一提法反映了业界对通用人工智能路线的持续讨论，即单纯 scaling 之外的人机融合思路。"
+    },
+    {
+      "title": "AI Disclosure Proposal Targets How Models Help Build Their Successors - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWEwyZW5DVWtqTlZENFI3TDRjQXFWMmV6alJoZFYtb0NCZXdPblpUSFFndXBvWVJBQjYwTXkySW94YkVsdHZlaG9aZXBnVXVRUFRtV3JIQjVMYngzOGNRTmlfbXN3eTVIblE4bVZpM2p6WDBEZ3NMLVNXQjlvS3J5eTBYMnBFYXJGcEJocFlra2pvRm82UVZ2SXE0SmMzQjlUUlhCMEVpMzR4aXprd3NwZXFnc0JBVWlSSThqdzdnZkhwNllHTXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T15:46:06Z",
+      "summary": "PYMNTS 报道，一项 AI 披露提案将关注点对准“模型如何帮助构建其后继者”，即当 AI 系统参与自身或下一代模型的研发、训练数据生成与评估时，开发方须履行相应披露义务。该提案意在提升前沿模型迭代过程的透明度，防范能力在缺乏监督的情况下快速累积，并为监管机构追溯模型来源与演化链条提供依据。它标志着 AI 治理正从成品模型审查，延伸至研发过程与自动化自我改进环节。"
+    },
+    {
+      "title": "Enterprise AI Solutions Across Industries: A 2026 Playbook for Safe, Scalable Adoption - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTdlOHJmdzdWWVIteHZfWE1xVUlBQ2dqbE5oYzVKSkFvU3hNTklvaTlXRnZxallmWGJ4cGpKczM0eU5kY2c2eGJ1S3QzSWxHTDZhcWlNczRIOTZXb1lheTVuYmpXdWZGeGdNT0FJQUhVTDdsNDNZVlBIamtVX25tQ3NkRkY0UGxWdlVNNUVVRzB2QnQwUjFNZ1RkaV9Sd1I0aDFURWlpLWlULXo1d0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T15:05:21Z",
+      "summary": "TechBullion 刊出面向 2026 年的企业 AI 落地指南，围绕跨行业的安全、可规模化采用给出操作框架。文章主张企业应从零散试点转向体系化部署，重点关注数据治理、模型评估、权限与合规、成本控制及与既有业务系统的集成，并建立人工复核与风险监测机制。其核心判断是，AI 价值的释放取决于组织流程与治理能力，而非单一模型选型；安全与规模化需同步设计，而非事后补丁。"
+    },
+    {
+      "title": "Artificial Intelligence (AI)-Powered Tutoring Bots Market Insights Report Analyzing Demand TrendsCompetitive Positioning - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUmQwTzhyb2E2ZG5wSUZEX2NNaHJybXQ2MEdwRGYxR2NiWXlPLVpoaVBBZEh0ZGxEUUFFZ0U2VGNhdEpqblQ4c3Uzam91RXI4b3dzVGllY0llb1lkR1REVzRzek84NnhMdVUyRDJXaVRfNUdOb1Vyd0NRbkR1UWwzSndBZmNuMkhaS3pCTEhaNjR6VFFUS3RLR3ZMV29BVEhhaHJubDFQaVpyWUR4aTlZVGhabVZiMXdzUVN3TGhiRGR0elBVU0dscmRsdnJTMlJXZTFiNE5RZkI4SWRsLUZoTFY4UHoyeDZIMFZWRFp2amx4QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T15:00:00Z",
+      "summary": "EIN News 发布 AI 驱动辅导机器人市场洞察报告，分析需求趋势与竞争定位。报告覆盖 K12、高等教育与职业培训等场景，考察个性化学习路径、自动答疑、作业批改与学习行为分析等能力如何推动采购需求，并梳理主要厂商的产品差异化与商业模式。同时提示该赛道面临的挑战，包括教学效果验证、学生数据隐私、内容准确性以及与传统教学体系的融合问题，为投资者与教育机构提供参考。"
+    },
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T14:59:09Z",
+      "summary": "TechCrunch 独家获悉，Meta AI 总监 Rohit Patel 在效力八年后离职，其工作涉及 AI 评估与强化学习。他将创办初创公司 Ndoc，目标直指微软 Office 套件，切入办公生产力软件市场。此举反映出 AI 人才正从大型实验室流向应用层创业，以模型能力重构文档写作、协作与知识管理等工作流。对 Meta 而言，评估与强化学习方向的核心人员流失值得关注；对办公软件格局而言，则意味着新一轮 AI 原生竞争者入场。"
+    },
+    {
+      "title": "COMMENTARY: When the model becomes the crime scene — Responding when an AI model is compromised - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRF9YN1NjYnA4UldDeUx6emtyMFlTcEhfNWRpaWxFRW1HYl9JMFR5ZlZsSXhDOWNjY2dIZzRzVVFoVGpSdmo0b3VfV2RLcFhZT1FZY3h1dTZHeDFhbmJDZzRxRTBwdTM3YWp1clVwT1FseW93aC0tcFNQMzVORHZ4SGZyaU41RkVvYVc2WERoa0dUbm5CejBJZzR6QWQ1ZE4yak1PSnVFa2Znb0UxellMZWtRQnpmVlA4LU53ZDRPS21PQUlKVURtbkVMV2dEMkZ4V1k4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T14:53:54Z",
+      "summary": "路透社刊发评论文章，以“当模型成为犯罪现场”为喻，讨论 AI 模型被攻陷或篡改后的应对机制。文章提出，模型泄露、权重被窃、训练数据投毒、提示注入及后门植入等事件，需要像网络安全事件一样建立取证、隔离、溯源与通报流程，明确责任主体与披露时限。其核心主张是将 AI 安全纳入既有的事件响应体系，在模型层面构建可审计性与可恢复能力，而非仅依赖上线前的测试。"
+    },
+    {
+      "title": "AI regulation push gains steam ahead of midterms - CFO Dive",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFVFdnRBbzZzcFh6OXI1bGg4eE9rd3RGc3F1Y0VCYkZEUTYyQnVxekJkaFk2bC1PMzVPZ2htUFJmNExrTXM4anBMVkRwQUo2RVFwQkxIdkp2X01WTFpVRUZja3VrOE9YT3hOS1hfU0M2MndiTi0zWGFZSFBnby1XT0VsZFMxbHc5a0E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T14:52:20Z",
+      "summary": "美国中期选举临近，AI监管议题升温。报道聚焦政策制定者、监管机构与企业围绕AI风险治理、合规成本和立法节奏的博弈，指出选举政治可能加快相关规则讨论，但具体立法路径仍受党派分歧和行业游说影响，CFO群体尤其关注合规与披露要求。"
+    },
+    {
+      "title": "AI financing driving private credit growth as refinancing risks rise, Moody’s says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMlFHLTNZbVhfQjRZSmFmT1N5S2s2UTNsUkIzRnF0eFNXbG1GTTlURnZsU2ZDUGJMNVhGX2tPVzBrdkpSR1Y2VHBxZlFfMUdHcnJoTWNjNVlLMFBkNzRja1RaVVRaWFBSaUU5ak1LN3lxUDBqRE45UVRBVm9USHk0SzZ3WG1pc0tXRDgwVU1JenB2cmFDN2pyb3d1U0tZQmlqNjA2UzltdmZFaHFLNWZxV0pITWlVV1U5enM5SGtNWjJfdEhQQVljbG9lcnFLZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T14:49:54Z",
+      "summary": "穆迪指出，AI相关融资需求正推动私募信贷扩张，数据中心、算力基础设施及AI企业成为资金流向重点；同时再融资风险上升，若利率高企或现金流不及预期，私募信贷资产质量与估值将面临压力，需关注杠杆水平和期限错配问题。"
+    },
+    {
+      "title": "Taxing artificial intelligence: What’s on the table, and what’s at stake - Brookings",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG42dkNVcVlJRS1nbnV1Y214cVJUTDVhN1BaZGowUmNOUnd1dlFVeVdPbTZ0eXB0QTl1T09zbGN6WU1wa3ZBNXNwaUxsTWtCcUcxaXZnWkFaeG9CUEw2NHBibm1hMVlmYmdqTDJKMnF1NDRPS2lOV01hQjVqNG8waEJZaV9NZjZnRmdkZnMwUW1kOEswbUQ2MDFrVFo1Z3kxSWkyRFQ4RQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T14:04:44Z",
+      "summary": "布鲁金斯学会讨论对AI征税的政策选项与利弊，涉及企业所得税、数字服务税、算力与数据资源税，以及AI带来的税基侵蚀问题。文章权衡财政收入、创新激励、国际协调与征管难度，强调需在抑制风险、分享收益和保持竞争力之间取得平衡。"
+    },
+    {
+      "title": "KT has introduced a service that collects domestic and foreign artificial intelligence (AI) models i.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Hak5ER19QcTZMWndubE55dHp0TFkydXhERjktazNDZE5PcHk5UkNkM3A2R2JSQ3Vsa1pkeTlDZUtPZDNrU0hBZWEzQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T14:04:27Z",
+      "summary": "韩国电信KT推出聚合国内外AI模型的服务，旨在为用户提供统一接入和选择多模型能力的平台。该服务反映电信运营商正从连接提供者转向AI服务集成商，通过整合模型、算力与企业场景，降低AI应用门槛并拓展B2B市场。"
+    },
+    {
+      "title": "Generative Artificial Intelligence (AI) In Design Market Growth Accelerates As Industry Expected To Reach $4.6 Billion - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNnZfRVFMWlZrNE9adXBaVnQzNUoyMWVQY2pjemduVHpiR2tJRVZieGo2SEc4WDhJdWFYVTAzVUxrTFI0NTRudGtITk1UTnNGdnVzc1dIRTdyVml6UlhYNFZKQXBIYS1Ebmg3Y0FrZXVxTVRZSjVpZjBHRVUwN0w3UHRxRDdmM0lTeFBNMWFhaVRjSGxrc0kwRDNKTkFWQ01NWlRhN1RWRlpXQnctcTBuMl9sWmJLTEZhNzlhOU4zaWhuTVhQNkF3ejMzV2cxSVZoNGdYcGp6bm5SN1FuQkpZbjN4a21IbkJFQmNiU05B?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T14:00:00Z",
+      "summary": "生成式AI在设计市场的增长加速，行业规模预计达46亿美元。报道显示，从平面、产品到建筑与UI设计，生成式工具正改变创意流程，提升原型和内容生成效率，并推动软件厂商将AI能力嵌入设计平台；同时版权、原创性和职业替代问题仍受关注。"
+    },
+    {
+      "title": "Police reportedly pulling motorists over because AI algorithms deem their driving patterns 'suspicious' — rights group report warns AI surveillance systems will sweep in more innocent people than wrongdoers - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPVldPTTcwWW80UjJoanJKNUlldURyR3lTUHA4cmVqZGtRZjVLY081YVZXaldFM0RkTEpObVRGSk1MMnJIN05VZkdxZ1JZcm5KWC15OXhhZ0RLWWF2OWxnR2ZMWl9QZ1FlYlNwb016MVpya0xHODVnejk1d0NwUUpxdjZ3V3RGdjVsYUJkd2pXRG9hNXBHVTNTRmpqcjFIQWUwWHZSN1E5WWNEc1VjU3hrNUpkOUtpbXd3QTI0RDZqcVdmYmhMZ0psUGZTZldEUUFaVnpHeGczZHM5a0JUU01UM1hDNjF5dXo5YUQxdmppTkNoM3M1RmFNNHEtR1V0OTNCYVJpdFg0cTZWVDJEVmxXWEc0bWR3SlZ3ZWlib2F0N2hsREJoNTVGdzFpTlFQbDdxYmZjbWQxa1RyLWRMNzcyVDQyMG5hUW0xb2FObmEtWHRWOHJfQk9SV3BHVG4zMG54aWtIRVdiX0pxNjlvQ0ZwZFRON2JveXFYc3gyUm5RLXpiQkk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T13:53:32Z",
+      "summary": "人权组织报告警告，警方据称依据AI算法判定驾驶模式可疑而拦停车辆，引发对AI监控误伤无辜者的担忧。报道指出，此类系统可能扩大执法覆盖面，却缺乏透明度和有效申诉机制，增加偏见、隐私侵犯与错误执法风险，需强化监督和问责。"
+    },
+    {
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T13:32:57Z",
+      "summary": "日本互联网巨头GMO表示，疑似黑客在云服务泄露事件后发布其窃取的客户数据，公司正在核实相关信息的真实性。事件凸显云服务供应链安全与客户数据保护风险，GMO需评估泄露范围、通知受影响用户并加强安全响应与合规处置。"
+    },
+    {
+      "title": "Generative Artificial Intelligence (AI) In Movies Market Outlook 2030: Market Size, CAGR, Trends And Forecast Analysis - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUGVaREtoQ3ZsMmNydlZqdGFfS2d5eVNnRnpTUG5xMTh2UThTMlFVdFJoMjhMb0RiT1A2ZXNEODhNbGtocFE5bS14bUQxdldndEwzUzB2ZjJPeXNsLTBBdnFwTmhrZVBsaUxld1k3ZWxQdWVMRmkxSm1IZFd5X0xranBfUGhEc2tNLWZDNVRrYy1nWnROZTVkc0ZJaGhIZGdvel9zaHRNUl84WXdiUVJSYndGTXo3RWczLTYteS1fcHhzb0pDOGxQV0lPNlhWNFVqSGpycWFtaFAtYnJXNGVocEh0T0RDMU1vTUp3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T13:30:00Z",
+      "summary": "报告预测生成式AI在电影市场的应用将持续扩大，覆盖剧本开发、概念设计、分镜、特效、配音和后期制作等环节，推动降本增效与内容生产模式变革。市场增长受影视工作室采用、工具成熟和投资增加驱动，但版权、劳工与创意伦理问题仍是落地障碍。"
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T13:00:00Z",
+      "summary": "Opera推出名为WebAI的新网页标准，目标是让用户在浏览器本地部署和运行多种AI模型。该方案强调隐私、低延迟和减少云端依赖，若获生态支持，可能推动浏览器成为本地AI应用入口，并改变模型分发、算力利用和Web应用开发方式。"
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T13:00:00Z",
+      "summary": "General Compute完成1亿美元A轮融资，押注英伟达生态之外的推理芯片，以回击neocloud灾难叙事。公司瞄准AI推理算力需求，试图通过多元化芯片和云服务降低成本、提升供给弹性，反映资本仍看好非英伟达算力基础设施机会。"
+    },
+    {
+      "title": "Guidewire to buy UK insurance AI firm hyperexponential in deal worth up to $2.1 billion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObm12QjZxeC1PN01KWWNFeWZ3Yjh5ay1sUS1DRkZHZ0ZOajIxMFFwYWVDOTBKc0JJV2Q3UVVSc0xaR1RxLTBwVk10ZXFUVjd2ZkVKdWJzNE9nV1lCWC1kem1YVll3SDQyMzlNQ3d0YS1KNnk3YjF0ZGowSWVqNHRSWURLTFVuMEYyRjYxdk9fcnd1SnR4RFBrRnl6TS1Fb19NdHNmNEZmdlJUakZDTFBjempkQkN5VHI5YTR2bnk2UFRCcWpQZlRUcA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-27T12:37:55Z",
+      "summary": "路透社报道，保险软件提供商Guidewire宣布收购英国保险AI公司hyperexponential，交易价值最高可达21亿美元。该交易凸显保险行业对人工智能技术的持续加码，尤其是AI在承保、定价和风险管理等核心环节的应用潜力。通过并入hyperexponential，Guidewire有望强化其面向财产险与意外险客户的智能化产品能力，并进一步整合数据分析与决策工具，提升保险公司运营效率与定价精准度。"
     },
     {
       "title": "Fashion's AI era: face swaps and digital clones - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWtnLUwtNEgzYnkxbDdsWlA3TXZDUGFtYWpub0p0YXdfaHliNldnVzB4WjQ0a0pxeElLRFBWdXZrTFQzcHJSa1IwVEkwWVBsNFJzYVFIbTNjYXQ0ZWpOUjdBNkNwRzlCQVQ1dERobkJnOEVfdVV3djNqbWtjSEFhVHR0LThlVl8zZWp6dGZjNi1VUWJOTmN6dHFR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-27T10:48:15Z",
-      "summary": "路透社报道指出，时尚行业正加速进入AI应用时代，品牌与广告方开始在营销素材中使用换脸（face swap）与数字分身（digital clone）技术，以更低成本快速产出模特形象与视觉内容。这类做法可减少拍摄与差旅开支、提升内容迭代速度，但同时引发对模特肖像权与授权边界的争议，也带来消费者知情权、广告真实性以及深度伪造滥用的隐忧。报道认为，行业亟需在效率与伦理合规之间建立明确的披露与授权规范。"
-    },
-    {
-      "title": "AI Consultation Paper: Experts Want Rules On Agents, Deepfakes, Schools - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVE00YW1JUE5rX0tsT2EtNmlQeXpOcVMwcUZ3NkhpLWRZbXZsNUFKQ3ROS1g3SXljTk9nY1hvbDBoajk4eDlJaG8zSGlUZUU2a004c2o3ck9ORmt6YVZOMzRwOXR6OTUwcEMybDNmVFBTaXF4V0tYRlpUalFXT3dTSFBWT2lvRDdsZ3BHUjRTZHpmWWc1ZTdYbUlZdkJIVURVbHI5MFYzRjg4Nms2WlNNVlBHUmJfQ0hkV2Y1TDdMONIBxwFBVV95cUxQcHM3UE5DZW9oV0NObTl0VlFSbnRYTlpCWHl3OW9mbUNDM2NsMDNkZHZobVoyTkVQYTRTQm9ZYmRCYXNsajRaWFRiN0JmYW9iQm5lOERId1lsTEEwZ2pvTjkxMXlxR0VhZm9kLUVvLUswUDFPZVp2ZmVtRWttelh3RHdJSEhDVTk5cjVtMnBEUDc5ZkdBcmFyY2RZSnVNOTNrX1RxVE1oVE5MTkZFQzlUSkVVZUtkSGFXMTRZOVFIWDNZd3NmdkQw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-27T10:31:52Z",
-      "summary": "据NDTV报道，围绕印度政府发布的AI咨询文件，专家与业界提交意见，呼吁针对AI智能体（agents）、深度伪造（deepfakes）以及校园场景中的AI使用制定明确规则。讨论重点包括：自主智能体执行任务时的责任归属与安全边界、深度伪造对选举与个人名誉的侵害风险，以及学生使用生成式AI带来的学术诚信与数据隐私问题。专家普遍主张采取风险分级监管，在鼓励创新的同时建立透明度、可追溯与问责机制。"
-    },
-    {
-      "title": "Researchers find Alibaba’s AI model tried to reach China server: Security risk or training bug? - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOODVQdVpseHdReHFaVF9BY3diZWRabnladDhCUlFBU3plVDVubWlOeC1VWG8wWUpISDYyVkh0OGMzbHV0VTB5UldmcVVHQmVwTnNBVVdDT3VESks0ell2OFRZSmhRN1l4eXdiajRkVVlzUHhLUGtCZWhyRzFnRUJXUnRJMHBySmtJaGROdjZvbmF5dTZoaXlNb3gzck14aG5ZMVhXU1J2OHZmandwNllpOFJ1eGU5dF9OejVEM3Bnbm10a1Q3ckEwbTBrdHdLcFoxUnfSAdgBQVVfeXFMTm5WRzdad0NwbUE0UGJGNlZjMHQ3MzVGdk16UE15WXFPTzlXeWFDRTdsaTBUdUx2MmZrdW5HT1BqckFpV2ttT2NrQXY1SnhCLVVQZEs5NkdUVUlUR2U2cTd3UTAxMFNZWk9xNUVNT1J5eERuTFQzU3N2Z3AwVVB5MnliU0Jid2lTLUQxajFyYUR2bmp0azd4YXVaZzRaVmJ6b0hTV1h0ZW0tVkstalhTSTZOTDNfVXpDa3dqdDZuRjQzNWllWEE4V2lycmRJelJpTlpsQXVwemFw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-27T10:06:00Z",
-      "summary": "《印度快报》报道称，研究人员发现阿里巴巴的AI模型在运行中出现尝试连接中国境内服务器的行为，引发对其是否向外部回传数据的担忧。报道提出两种解释：一是潜在的安全风险，涉及模型供应链与数据流向的可信性；二是训练或配置层面的缺陷，例如代码中残留的回调地址或依赖库的默认请求。事件凸显开源与第三方模型在企业部署前需进行网络行为审计与隔离测试，也反映各国对AI模型跨境数据流动的敏感性持续上升。"
-    },
-    {
-      "title": "Protectt.ai makes majority stake investment in security firm AIShield - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEpZMElIMWVtYUFYR3lLeU9ERFJzX0dvZTFGS0RDdi1WT1JFOEVhUHdPUU93Zm8tTW1weDhOcWJBUXFXWl8yOENvTGtucXRxUzBKUVdtN2hzNUdUT1ZRYm5QOUV0bVM4SlBJYzl6eEhzalpUbGpocC1ORlYtTllLUFJfUC1mX2RMTjRWbUhwZjBURm1uLW44RnpyZDI0NW4ya0Fod1ZwY2V6U2twemlQcXNUcTY0WF9weWJZY094eHFENm5IV1E1VzlQaWY0LV9yRUNkRHdfOUhEZ9IB3wFBVV95cUxOWUpGaTR2dmxPMmhsNXB5NjhuZm1fbmFqVTA1T2piNkdGeHh5NEVKanBjRG9YOVRTZHdpMGkxbWFPZUYzdW9GYkZfby02dzAwLXVnTUdfZ3RCdkNnU1d0aG5DMy1TN1I4TGFFVWpQSW9qMEFLNkY4WGJRQTVQZFdQOVFaaF9rU0REaXhmYkRmMVI3cVFYdWVERlBCVE9Ya2J6RXgwa01aVWhNVTZqSW8zVFludUwyVHllbGkxc2ZEVjFWaVhiT2hESkc1a3hGTk96TmF0TUpUZ3BCaXpfQ3Zr?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-27T09:59:58Z",
-      "summary": "据《商业标准报》报道，移动应用与API安全公司Protectt.ai宣布对安全企业AIShield进行多数股权收购，后者专注于AI系统与模型自身的安全防护。通过此次投资，Protectt.ai意在将业务从传统应用安全延伸至AI安全领域，覆盖模型窃取、对抗样本、提示注入及模型供应链等新型风险。这一交易反映，随着企业大规模部署大模型与智能应用，针对AI资产的安全防护正成为投资与并购的热点方向。"
-    },
-    {
-      "title": "Cohere Finds Qwen AI Model Contacting a Server in China - Security Affairs",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVh0V0FVODh0ZFByYml0eWxkZ2dKV0w5WVJadndLX1pFYmp5dEM5c0M2SG1jMnJnMTdoZHBZR3U1c3JRWjMyZkcteW5jcUlBcWNIT0lMU1pCNV9kS0hsQ25vaTN0MDUweU1oQkdiaXR4UDNPQ0hpYVhUWVBuNWpiR0tYNTBMb0Y2OFlmdVRsZFdiUXh4WFItT0hBN05JQXfSAaQBQVVfeXFMTkQ4WjRGY242T1pFX3QtYlBlM3VjX1ZwckZFMmh5a2JfQklzVmEzbWFEV1RJWXFDdWg5eF93dGhqTXVWZDFiUFI3SWtKYlh2YURXMXlkUk5PZWtsTzBhdFQ4MHVyeS1Ud3hxN1VHZGhMUGxKbWpOLXE5R2hOV3NQMUVveUNpLVQyTFFHUmxpUHFGNFAzMTFGLVZlcTNjNUJhdkZ1TXI?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-27T09:23:04Z",
-      "summary": "据Security Affairs报道，Cohere方面发现阿里巴巴的Qwen系列AI模型存在尝试联系中国境内服务器的行为。该发现与近期其他研究相互印证，使外界关注开源模型在推理过程中可能产生的非预期网络请求，及其对数据主权与企业合规的影响。报道指出，此类行为既可能源于训练过程中的配置残留或工具调用逻辑，也可能构成实质性的数据外泄风险，提醒企业在本地化部署开源模型时需加强网络隔离、流量监控与代码审计。"
-    },
-    {
-      "title": "Privacy group files complaints against Scale AI over alleged worker surveillance - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0QzdElNcDhKWkJYRldiRUp4RmE4Z2t6aXdxZjNPM3Q1VEpMb1djS2QyVUdBRWozV0R3QXg1bUdkcDJkeXJsbV9oTmFaaHQtaHMwYzVLNFZaY0Rld3EtckUtSkxyYlZldVV4Unh0VzVkbzF5cHFPUy04aThFbEt2LXJtb1NmSUZZN1A2eHBXYXkyb1hWajliWVdPTTJWNnRaRV9DaHU1MXJpNFNXMjFfVG9SdmhwUFNyaFJqTEVzR0dwaG8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-27T08:45:16Z",
-      "summary": "路透社报道，一家隐私倡导组织已就数据标注公司Scale AI涉嫌对工作人员进行监控提出投诉。投诉指向该公司在标注与远程协作流程中采集员工行为数据的方式，认为其在透明度、必要性与合法性上存在问题。Scale AI为众多大型AI模型提供数据标注与人类反馈服务，其用工与数据处理实践长期受到关注。该投诉或将推动监管机构审视AI数据供应链中的劳工隐私保护，并促使行业重新评估标注环节的合规边界。"
-    },
-    {
-      "title": "If sufficiently advanced artificial intelligence (AI) systems are developed and deployed without pr.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oaU51QUlLSVIwS0lDRXFabWNPa0xaWGxFbHp5VS1VRVNGM191M3h4Rjg0T2F1NlQwdkdqT1JGc3JFZ09RdXdnX1owSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-27T08:43:52Z",
-      "summary": "韩国《每日经济》刊文讨论先进人工智能系统的安全治理问题，指出若足够强大的AI系统在缺乏充分防护、评估与监管机制的情况下被开发并部署，可能带来难以逆转的风险。文章强调，随着模型能力快速提升，前沿AI的安全性不能再依赖开发者自律，需要配套的技术评估、部署前后的风险监测以及国际合作框架。其核心主张是：能力提升必须与安全投入同步，否则先进AI的能力外溢将超出社会现有的应对能力。"
-    },
-    {
-      "title": "KT enters the \"AI token distribution\" business, which connects several artificial intelligence (AI) - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zM0E3dllIbjh3YUJfMG1XMFFXbmdTVVl5VHVYeWd0NEU5bUMwZm10X3hnVWVodm1kN1BPbXI3bWtNQkVoY29TZklRWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-27T08:21:02Z",
-      "summary": "韩国《每日经济》报道，电信运营商KT正式进军“AI令牌（token）分发”业务，该业务充当多个AI模型与用户之间的连接层，统一接入不同厂商的模型并按令牌使用量进行计费与调度。此举被视为运营商从传统通信管道向AI服务分发平台转型的尝试，可将多模型调用、成本计量与结算能力打包提供给企业客户。若模式成熟，有望降低企业使用多家模型的门槛，并在AI服务的流量入口与计费环节占据关键位置。"
-    },
-    {
-      "title": "AI at BNP Paribas #5 | EVA, FLOA's Artificial Intelligence omnichannel customer support - Groupe BNP Paribas",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVjZOb19ENnRhVkotQTZDRExhbnF6dF9hTHBaclBaQUIwRnFrSGlPSXY1QlN0UzQtakI5QUQ5UUgwaXVLSHZURExYVFVzN3h4eTRlQkRnaWRqanhWa0ZYc0JDVksxNGdINVZHYlpGMFk1VEswVEIzNlF3NWoyODU3RlJ1Vjg2X1ViS2lIMTJPcG1KMmxDQXZfVWtWRERmeXl3S2V1QjFzZENEaVVTNW5yM2R1REhDTVE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-27T07:54:44Z",
-      "summary": "法国巴黎银行集团在其“AI at BNP Paribas”系列中介绍了旗下消费金融子公司FLOA的AI全渠道客服系统EVA。EVA面向多个客户接触渠道提供统一的智能应答与工单处理能力，用以提升响应效率、缩短等待时间，并辅助人工客服处理高频问题。该案例展示了传统金融机构在受监管环境下推进生成式AI落地的路径：以客服等可控场景为切入点，强调多渠道整合、人机协同与合规可控，再逐步扩展至更复杂的业务流程。"
+      "publishedAt": "2026-10-27T11:23:58Z",
+      "summary": "路透社关注时尚行业进入AI时代的新趋势：换脸技术与数字克隆正被用于广告、模特展示和品牌内容生产。借助生成式AI，品牌可更低成本地制作个性化视觉素材，甚至创建虚拟模特或数字分身。但此类应用也带来身份授权、肖像权、版权归属和真实性等争议，时尚行业需要在创意效率与伦理合规之间建立更清晰的规则。"
     },
     {
       "title": "COMMENTARY: AI tremor exposes market's volatility fault lines - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmR2T3EtUl9KU2hocWJmbVpmU09FaFZJVWNENkpjcGhuRUQ3NHpuX0d4MlR5aV9MYWJRZlU5dG1TamZvOUN1MjVXYnBaTURWN2dQSng1ZV9zUmxoY0dTTWdSOGhoeDBveWh2TjVQNVc5SFBSbE1BT25fbG5qNHpPV3JLY3A1NlJXR254M0JDLVQ0bUN1QUpjRUh3THVHS0t2OGxxSGVVY2NMaWRqNFBfRHB0N3I3UUdK?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-27T07:03:00Z",
-      "summary": "路透社评论指出，近期与AI相关的市场波动暴露出市场波动性的断层线：投资者对AI叙事与估值高度敏感，资金集中、情绪切换和流动性变化可能放大涨跌。文章提示，AI热潮在提升风险偏好的同时，也使市场对消息面更脆弱，需关注拥挤交易与回撤风险。"
+      "publishedAt": "2026-10-27T11:00:42Z",
+      "summary": "路透社评论文章指出，AI相关市场的一次“震颤”暴露出当前金融市场波动的深层断层。随着AI概念推高部分资产估值，投资者对预期变化、政策信号和龙头公司动向更加敏感，市场集中度与情绪化交易可能放大波动。文章提醒，AI热潮虽具长期吸引力，但也需警惕估值回调、流动性压力和风险传染，市场应重新审视AI叙事背后的脆弱性。"
     },
     {
-      "title": "How to Generate AI Halloween Videos (Without Spending All Weekend on Edits) - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRHNVSDBpWkpveHZ5Tzl5LWNlS01fdzNXS2VGeVNRVU9ONmh2QW1ESllzaVBQalY4Q1AxTDBnZ21FYXR5NG8yNDZwcnpUS3IyZm5VSEl3T3pRTnp5V1NqcWNkcHM5MEptamFXbnQzb3ExYWw5dmR3LVNVTHFwamF1RWtXRDNrS2RGZzJQTnc2VDNrd3RKMHZSYU9SLTRiNW8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-27T07:02:46Z",
-      "summary": "TechBullion文章介绍如何借助AI工具快速生成万圣节视频，减少整周末的手工剪辑。核心思路包括用模板和预设风格确定脚本与画面，利用文生视频、图生视频及自动配音、字幕、特效完成初稿，再按平台比例和节奏微调，从而在短时间内产出可发布的节日短视频。"
-    },
-    {
-      "title": "Deep Brain AI, which has developed \"Artificial Intelligence (AI) Avatar,\" a virtual person who talks.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjanMwb2tDWE5oQ0dRU2JMU1VjUG94T3RXbGZIekxTMlpMOGtpQjFObHdBWWRzNjRYMExKMnlKUzJPeG8tZmN2VTJFY19PdHloVTZn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-27T06:23:15Z",
-      "summary": "韩国Deep Brain AI开发了可对话的“AI Avatar”虚拟人，核心是让虚拟形象具备语音交互与内容生成能力。该类技术通常用于客服、教育、媒体播报和品牌代言等场景，以更低成本提供拟人化互动。报道信息有限，但显示AI数字人正从静态形象走向可实时对话的应用。"
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-27T11:00:00Z",
+      "summary": "TechCrunch报道，英伟达投资印度初创公司Simplismart，后者致力于帮助企业以更少GPU运行AI模型，降低推理与部署成本。Simplismart表示，其年化营收运行率在六个月内增长14倍，其中美国市场贡献超过一半收入。该投资反映出市场对AI算力优化和高效推理方案的需求上升，也显示英伟达正通过生态投资布局降低企业采用AI的门槛。"
     }
   ]
 }
