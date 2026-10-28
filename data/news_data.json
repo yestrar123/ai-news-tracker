@@ -1,104 +1,132 @@
 {
-  "updatedAt": "2026-10-28 11:47:35 UTC",
-  "totalArticles": 14,
+  "updatedAt": "2026-10-28 17:34:56 UTC",
+  "totalArticles": 18,
   "articles": [
     {
-      "title": "Big Tech turning to equity to raise funds for AI - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTEJjdHM4cWc5bmdZd1NUckRYNjMwbDBGUEd3bDYzVXNIYlJsNHlfMWxnejFSUERFNTVlanRyQk1INmdYSEd0SDJ2dUFyYlFsQlhjVjFwLTR2c3NUMVFoX1RlN1NKVk1OQmdTQ3d6eHVTQ0xjUW1hQUNBV2JtRVk0U0ZTSFRCOUNzMGhLZEFsS09hTHNiVXJJSDN0WE9mak1iNDZUWkRqM2NWUThjRi1lb3g4REZqZkVvNTE2dmVOdEpsWVh3aGw1WHk3RdIB0AFBVV95cUxNSUZRODR1WHBFWWVYQkRFMzJTbk93R2lMVEs2azVpUm8yMWZwVTB0eXE0M1A0LTRrMUZZaWtjQ2gtTVplSmliREFONDk1MGxwVDBMOUF5ZWlQTHpmMExtVXFyWlpseXNsMEJObVdUeFZwcjA1M2xvR0xOQzJtQlNLdi1xRGxDeDJmRjN2YmJrVFllTVRxT3Q3aVc5SEUzcW5DMTUyUkVaWHFnUjFoX0NRVDlieFJhbEVvRVF5WFFRNV90T2tOelRMQ3kwSzBHRnMz?oc=5",
+      "title": "Why Enterprise AI Stalls After the Pilot: Srujana Sree Bathineni on Building AI That Delivers - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamdlblFZUmswSWlzMzhnS1Z1MzZaeXFmbTJpdjl2WXdKcWhSekRNZlY5WElGTEJlRVgyUk11TnJPVVFaUTcwTFVGdFJqUnBNcTZ2d2g0dFR2YWlkWjg2cVZYZWFHSFZsUzQxa1BJY0dxNHMyT1ZrSC1UTXo0QXBSMTNyTnlDdnlKUFVXREdKakhGb1A0c2J1WGFvZGVfNkRMWURWODdfWTQ4ZlBqOXdJdzFUYXk4T094?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-28T11:27:32Z",
-      "summary": "报道显示，大型科技公司正更多借助股权融资筹措AI相关资金，以应对数据中心、算力芯片和大模型研发带来的巨额资本开支。此举反映AI竞赛推高现金流压力，企业希望通过资本市场分散风险、补充弹药，并可能影响科技股融资结构与估值逻辑。"
+      "publishedAt": "2026-10-28T17:20:54Z",
+      "summary": "文章聚焦企业AI为何常在试点后停滞，并借Srujana Sree Bathineni的观点强调，AI要真正交付须围绕业务价值、数据与流程集成、组织采纳和可衡量ROI推进；企业不能停留在概念验证，而应通过工程化、治理和跨部门协作把模型能力转化为可持续的生产力。"
     },
     {
-      "title": "Opera launches local browser AI, testing enterprise privacy and AI PC strategies - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNEJkbUlkM1VJamVfaktKMUQzRExhWjJQSld3YktPSmE3cE9lMnNacmdpUkt2Ym5WbjdTcjZxWkdGN2F2S0tRVTdVdDNxVV90TGZ1X0tsci05TW5uN19XRzAwUk1wdkV5OWY5WUcwNzNnZjc5THBwd0I3ai1hQWM0clNBdEJNZjdHM2RBR0pHNlhLbUZCaU5uSnRKa3I2UDBMcC1ER3c2aHJ4dnc4Z2NtMUF2QjNtOFA2d3cxNS1ud0JYczhOaTVBbXFn?oc=5",
+      "title": "DOD Sets Contract Requirements for Procuring ‘Unbiased’ AI - Homeland Security Today",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGJZc0VsakdWMEpNSzdKaDFmaXFXZUYzOGEzT2V0VXJJZkZvckd6ZjFabGNuSWgyU0k2cnlaODRYMG42OFVoQ1BqS3ZXQnBMMjA3cnUtRTAtdFFTajdHcHFqYzBzQUlqM1AxOUk0bmVlTHp4RTFWZjBvVUVsb3k5ZlNFek16RGdPUFZVOUdIakJ2OWlzTnJRRGJPZDdHdmowN2FHRnRqRzRxdVRoYUFWWTlua0lhVHprY18wc2xRSQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-28T10:17:35Z",
-      "summary": "Opera推出本地运行的浏览器AI功能，强调在端侧完成推理以减少数据外传，兼顾企业隐私与合规需求。该产品也被视为对AI PC战略的测试：通过浏览器入口把本地模型能力嵌入日常办公与浏览场景，在性能、隐私和云端协同之间寻找平衡，并为企业客户提供新方案。"
+      "publishedAt": "2026-10-28T17:14:51Z",
+      "summary": "美国国防部为采购“无偏见”AI设定合同要求，拟将公平性、透明度、测试评估和风险管理纳入供应商交付与验收环节。这显示政府AI采购正从单纯追求能力，转向强调可审计、可问责和可控风险，也为AI供应商合规提出更高门槛。"
     },
     {
-      "title": "AI an economic equaliser, tech at its best when inclusive: Google India VP - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdWxreFJaMk5PZElKMXRoSzFXUzdjWVRTNWRGTkdudmNUY0o5cG1xVkFRMlBQQkNIbXBuLTVSMlo1RFNwdUJBMjFNSHBadVROV2RoQV9vVXU2ZXo0bkdVS2duVmVZNXRqRXdLVVgyZDZtSEQycFJyTW9ZM2dsR0xWY3V1ZE90NmJuNDlMNHNGd0owMmNHdi1jcFJVbi02bWFKY010NjUxRklRUnZ5U2Z5ZU9jalBQcmc0MzB6ZnVaWmozdnlraVdrejhWLW9WQk9rN1Bzd1VrRmFfYTA3R3RLb2ZBb05TTE9pT2hfdUJjaXBPM3fSAfgBQVVfeXFMTmFLMXlyWEpDelQtMVVTNkxSNFJtaTAyakhGSHBMVzVXOGF6TEt6NzFIVVZzR0RkZlk5cXlwUk8xUU12YlNKYkg0N1daeXhtWEUzZ05teVJNMmVrZjhkMnp6RFVJcFVuT2FSVVZVMG1vUnlOek5Sa3oxYlJ4djFQQlk5S3pWSzB1OVFOdWp4WmkwalFWaDVvQldnM0drLTUzS0dROWdMR1QwXzVDX1BFYzYtSWZNajZrMHpDN2VXb2pGYzFtcm5xdEFiMzUwV1JYa29LZURPS1VBakM3ZXpWN1I5bU9uelpfbTg4dFBDaFNHQnpPYXZzR0M?oc=5",
+      "title": "How AI Is Changing Digital Marketing for Small Businesses - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWp2OUpJZlhVLXFTaTR1OUMzdlNXaTJQMTg0YXRRLUI2LUJSaDF5RzYwV3ltS1gwYk16RDNBcGg1eGhzdWdXZlg5eHFEV2Y2MUpxcmU3cVhnenh2cm5TWDYzNHhfY2swTDh1TUdDLURjM25NWlJrSEZlbnU0azlNTUpiLWhLdzczQVE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-28T09:34:49Z",
-      "summary": "谷歌印度副总裁表示，AI有望成为经济均衡器，缩小机会差距；技术只有在包容性设计中才能发挥最大价值。相关表态强调让更多用户、中小企业和本地语言群体受益，并呼吁在数字技能、可及性和负责任部署方面加强投入，使AI红利更广泛地覆盖社会各阶层。"
+      "publishedAt": "2026-10-28T17:09:31Z",
+      "summary": "文章分析AI如何改变中小企业数字营销：生成式内容、自动化投放、客户洞察和个性化推荐可降低营销成本、提升转化效率。但中小企业也需关注数据质量、品牌一致性、平台依赖和隐私合规，避免因盲目采用工具而稀释长期客户关系。"
     },
     {
-      "title": "Chinese Academy Of Sciences Builds An AI To Protect Its Magnets - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16dkJaRXZUZHhSeEJLSTlFNHV4UnEzejJlYVNwUTBfcVl4UUo4TnJKbS03LTJ6eTZ6TkxldmNOdFl2c1VtMHV6ZlRUYlk1dXM5TDNtSmJpMm5SRE1GWVM3ei0wbmpBTE95V2VSazlBaGU3VUVNQ3pjNGI4NlNBQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T09:03:04Z",
-      "summary": "中国科学院相关团队构建AI系统用于保护磁体，可能通过监测运行数据、识别异常和预测风险，降低强磁场设备损耗与故障概率。该方向体现AI在科研基础设施运维中的应用：以数据驱动方式提升磁体安全性和稳定性，为大型科学装置和精密实验提供更可靠的保障。"
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T17:00:00Z",
+      "summary": "Chrome的AI自动填充功能现可在用户授权下读取Gmail中的航班确认、物流跟踪、订单详情等信息，用于自动填写网页表单，从而减少重复输入、提升效率。该更新也引发对个人数据访问范围、隐私授权和敏感信息保护的关注，便利与安全需平衡。"
     },
     {
-      "title": "European sovereign AI, cloud not yet ready for major banks, Temenos CEO says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVWw1UFVIWTdPSExHTUt6TmNtM3lSY3diRE11SGR6WGtWZjNRa18yWW5zNGhrcFgyQUMzTmN0cUpwRGpURHplZ0ZjZmk2czBWTlBKTEVEN0dfVEhxRzZMcXVNWGtYV2hpR3JiZXEySjlDaWkwa2czd19laEpOelBvMGVVY1FaeUgwWGVtcUxoaXhMeDZCUVNKUUlIUEpnMmFVeC1jSU5TNVprUnRDU1RMb05yNGJtdndLMFdrQWY4Ujk?oc=5",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T17:00:00Z",
+      "summary": "Google向更多应用开放Gemini和搜索能力，并推出开发者平台，让企业服务接入其AI体验。随着AI智能体改变网页交互和流量入口，应用发现、用户触达和平台生态竞争可能被重塑，开发者需重新思考与搜索及AI助手的分发关系。"
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T15:53:52Z",
+      "summary": "评论认为AI高管可能与普通公众脱节：一些科技领袖以用AI维系家庭联系等案例自证产品价值，反而暴露对真实用户需求理解不足。面向大众的AI产品应更关注可用性、成本、信任和日常场景，而不是用精英化叙事替代用户验证。"
+    },
+    {
+      "title": "Who Pays for AI’s Inputs? - Worth",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1a09Oc2h4WTVfa044bzNqX0xRZkR6TDNsYS1tdlB2eWpUY25Zbmh5VmIxdk43TTJ2ZzFCY0pWZHhPR0lfaTJ1d2ViN3F0djRBODl2Uw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-28T08:55:52Z",
-      "summary": "Temenos首席执行官表示，欧洲主权AI与云服务尚未完全准备好服务大型银行，主要受监管合规、数据主权、系统稳定性和迁移复杂度制约。大型银行对核心业务上云和采用本地AI模型仍持谨慎态度，供应商需在安全、审计和性能上进一步证明能力，才能满足金融业高标准。"
+      "publishedAt": "2026-10-28T15:45:00Z",
+      "summary": "文章讨论AI输入成本由谁承担，涉及训练数据、版权内容、算力、能源和基础设施等外部成本在开发者、平台、用户与社会之间的分配。随着AI规模扩张，如何建立更透明的定价、授权和责任机制，将成为产业可持续发展的关键治理议题。"
+    },
+    {
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T15:41:18Z",
+      "summary": "韩国金融业遭遇新一轮网络攻击，凸显亚洲AI驱动黑客活动上升的风险。金融机构需强化威胁监测、身份验证、供应链安全和应急响应，监管机构与行业也应加强信息共享和协同防御，以应对自动化、智能化攻击带来的系统性挑战。"
+    },
+    {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T15:00:00Z",
+      "summary": "Nvidia发布免费开源语音转写模型，支持多达40种语言，可推动会议记录和医疗转写等工具发展；但该模型目前只处理录音而非实时音频，实时场景仍由ElevenLabs等厂商占据。语音AI竞争正从模型能力扩展到开放生态与应用落地。"
+    },
+    {
+      "title": "The Fed's new headache: An AI boom that turns to bust - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTdHYXBUMEV4enBnVGx4aC1OeHZXZktKYklMcWEwQmZIMi13QzcyU1hQeC15bXpWVE95Zm9IbDRvbzRvS1QtV2JiZTFuMmlpR3FhSHRTeFM3Y2c3QjJ1amM1b0VxWEMyYlhNbUxMajlLeG9ETGRjeU5ubmFuODVNdHZzN0JkRXFMUWNTSlhR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T14:26:00Z",
+      "summary": "报道称，美联储面临AI热潮可能由盛转衰的新难题：AI投资和估值快速膨胀，若预期逆转，可能冲击金融市场、就业与经济增长。货币政策需在支持技术创新与防范系统性风险之间权衡，并关注AI资本开支周期对通胀和金融稳定的影响。"
+    },
+    {
+      "title": "Artificial Intelligence is killing jobs but also creating new roles. - Gray TV",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkh3VXFuVjA3cXRPb0Vjc0dVNEtSZlBZLVBoUVRsTHp4NzJvZ2dubUR0Q1I2Z29mdFlZQk9Pa1RiWGpBVE9zc2xGSS13N19FQk01YmlyNUMtVlVlQldhaDlHWHRBOW1KVnBEMFAxdm5YM2JEM0oySXhsMVY3SEZZdTFIRDZ3UXlIZmlZTkQ0NHdqS1JCR3JxcDRFZzIweWdLVkRjMVNSSUY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T13:46:00Z",
+      "summary": "报道指出，人工智能在替代部分岗位的同时，也在催生新的职业角色。自动化更可能重塑而非简单消灭工作，例行性任务被接手后，人类岗位将转向需要判断、协作与复合技能的方向。文章强调，劳动者、企业和政策制定者需关注技能迁移与再培训，以应对就业结构变化。"
+    },
+    {
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T13:00:00Z",
+      "summary": "TechCrunch Founder Summit将于11月4日在波士顿SoWa Power Station举行，距开幕仅7天。当前购票最高可省100美元。活动面向创业者、投资人和初创企业领导者，提供学习交流与直接对接经验人士的机会，售票优惠即将截止。"
+    },
+    {
+      "title": "Is AI Eschatology Respectable? - National Review",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Mdk10T2lUYjF3d1JiTGRNeC0waV9DZlYzV2VWejhYa3ZCelZzeE9zTWJpVlZCNE5Ibno2QVkzd2ZhcV8zOFFZdXhra2psSjhERDR1ZHdqdlRLZWdMVWEwSHNmWk9pMWVuOU93aEdNNVFkNV8yWjZZ0gF8QVVfeXFMTUNGU05iYnN0WkxCc1l4dG85eEVaZjhreWVkVHFxcGphdFZRSTRWMTJSUjRJQTFUc2VOVWtlaEZkMEFxcndMVWFpZHdkb3RXbEdLVEkzMG9sNGxOajJiSnhNbGxTWkpUbHQyWlNzcmhULS1LeTJyT0xzR01QRA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T12:59:16Z",
+      "summary": "美国《National Review》文章讨论“AI末世论”是否值得严肃对待。围绕人工智能可能带来的生存风险与乌托邦式承诺，文中审视相关末日叙事在公共讨论中的合理性，涉及技术不确定性、伦理责任与政策争论，反映AI风险话语正从技术圈进入主流思想辩论。"
+    },
+    {
+      "title": "Trump says he plans to officially ban terms 'AI' and 'artificial intelligence' - WHAS11",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORG1ZWUtIYlZ4amlYUUlKbmtCLTllNnkwaTNEb25CYjFmN05XMXdrSGlhRUFudmNIVTIwMERVTnZXYWJHOWpwTUxkZVc2R3JNVnoyVUJaS2RWZFg5QVlKMVgyNTV1Um1SRVpJdXVzX0N4aTk3cjNRVk9pUzVLcXdGck55c0R3WnNVMmNIV3kyM20yUUN3R001blVnZVBXNS1zLUpBalJGTnlfU09SSTAzSTZvTTRNRTZuaGZMd25QdWdjamp6N1AzQVE1bzNKRlZhSy1RalI3TU9sdjdGd2hvWDRSRGljV0ZnY1VZYlNSZUJ2YVZJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T12:43:00Z",
+      "summary": "据WHAS11报道，特朗普表示计划正式禁用“AI”和“artificial intelligence”这两个术语。报道未充分说明该计划的具体范围、法律依据与执行方式。此举可能影响政府文件、公共传播和行业用语，并引发关于言论表达、监管边界及AI政策沟通的讨论。"
+    },
+    {
+      "title": "‘There is no inevitable dystopia’: Jeanette Winterson on AI and the future of humanity - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHhoWTNGUmExLUN0c2w4SkJ5cUllajMta0Q1VEFlakdvOVMwVjV4TE0xNGoweFQxc28wSFV6THByeUVGcFZQWW5HXzkzUFdXTXJjU3Y4ems3MzZDWUNudHFwcWwxNnFSSUtSNGdYclQyc3VMM3VOVDJIeVVLd2VNYllkN0YyaGR6ZnAtTUUxenJPTUZQWDhVTGt3OWlxVHNYX1RmYS1TQjlNYXI4ZFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T12:29:00Z",
+      "summary": "《卫报》刊载作家珍妮特·温特森关于AI与人类未来的观点。她提出“没有注定的反乌托邦”，反对把技术发展视为不可逆的灾难宿命，强调人类选择、价值观和制度安排仍能塑造AI走向。文章呼吁在警惕风险的同时，保留对未来的能动性与希望。"
     },
     {
       "title": "China's new export curbs draw a line around its AI crown jewels - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-28T08:50:39Z",
-      "summary": "中国新一轮出口管制进一步划定AI关键技术和产品的边界，被视为围绕AI核心资产设置保护线。报道认为，相关措施可能涉及高端算力、芯片或关键技术，意在维护产业竞争优势，并可能影响全球AI供应链、企业采购和跨境研发合作，加剧技术碎片化与地缘博弈。"
+      "publishedAt": "2026-10-28T12:20:14Z",
+      "summary": "路透社报道，中国出台新的出口管制措施，围绕其人工智能“皇冠上的明珠”划定红线。文章认为，这些限制旨在保护中国在AI领域的核心技术与竞争优势，同时可能影响相关技术、产品和供应链的国际流动，折射出全球AI技术竞争与地缘博弈的加剧。"
     },
     {
-      "title": "Three Japan-Focused Cyberattacks Show How Hackers Use AI - Security Affairs",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlA1bUp3NFlDTU44NERjTnh4a0JZaEc4Y1pPRkRwWkgyY3ZGaG8ycE13UW5PdnQyNTltS1ZrM0FpMnFiejZwWkw2NTlPMEFMOXhDZUJmRVpQUjdfQUphc3pMUTQ3elFzdUVxY2hFSkJaaUVvWmkwcWMxZDVlV1dNdlNwRUNVUVZyYUkzLTNXNzhzUmdXV0xwWkpfckpCSjRi0gGmAUFVX3lxTFB0NzZwMjlKYVowTkplMTRES2pyc0tKM3h6Wk9uYzUxNDlEUjA1dkJ3S2ZSWFhKazJQLXZEdUQ4Wng3SV9aREtWR0J2dEpKRFl3TUxaNXVkTVViRWFqQWlQUXAyQlJsWGwtVGhRNlVob21nMzcyMjRMMHFWcHVWTlFEakQwQkNJRElwbjJaTWlqOTF6clNINlZwYTVYakhYVGxaZ3lncEE?oc=5",
+      "title": "So When Does Trump Start Jailing People for Daring to Still Call It Artificial Intelligence? - Jezebel",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZTR1SEFKX3VWT3BTcWY3OHFod2dUQWg5Q2xnVUx3OUQ5MWdzT21sa0gxSVZ1WE1aUG8yTS1TQU9Zcl84T1VSckd3Nnl6WVg4LVR6VlRxd1VHN0FoYkpjRzJ3eUhXZ3VET3Y3Zk51bS1HNEthWEREV19aX01KRFNKbFZmMENTZEZpYjVfMG5EWWFrY0dKWlVPN2I3Tll3V2k3QVVwXzZHVDZQNFEzTjFQSTVsVWEtVUJLMXJCejlXV1UxWFVHbUxJYQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-28T08:48:45Z",
-      "summary": "三起针对日本的网络攻击显示，黑客正把AI嵌入侦察、钓鱼、漏洞利用或规避检测等环节，提高攻击自动化与欺骗性。案例表明，AI降低了攻击门槛并缩短攻击周期，防守方需加强AI驱动威胁情报、异常检测和员工安全意识，同时关注本地化语言与社会工程攻击风险。"
+      "publishedAt": "2026-10-28T12:08:29Z",
+      "summary": "Jezebel以讽刺口吻评论特朗普计划禁用“AI”和“人工智能”术语一事，反问何时会因继续使用这些词而把人关进监狱。文章借此质疑该提议的可行性、执法边界与言论自由影响，认为围绕术语的禁令更像政治姿态，难以解决AI治理中的实质问题。"
     },
     {
-      "title": "Advanced industry companies such as artificial intelligence (AI), robots, and bio are making investm.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Celc0N0stVThGVmR5aVl3bW5MelFGOGpFazY2NEdYS0hDZ3hITGY1cURZNTQxbjE0SHJ2MTRiRHNzZlc3ajJTcTczWDNnUXhTQkE?oc=5",
+      "title": "In an AI-Dominated World, Schools Must Focus on Real Intelligence | Opinion - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdEF4aS12Z0hBTTBEcEJjVWhaQm9pVlZuUC13WVdtMUxLUWFPRThZNGgtaVNmWTNrbUxwaTBIZlRaakZfTlY1R1M3SUVndlhuTmtrdF8wX2VRaGtvUy0xdkpCVkNqeHBtWnYxVmFjQTI0dEludHVqUEFQclhadnlTTVVrZ2QzNU1YWGp2ZjQ3VkRZMjBlMUdHR0dyZHpvSXRyYlBKck9zZVpZLXhHRUJrOFA3WQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-28T08:28:04Z",
-      "summary": "韩国报道显示，人工智能、机器人和生物等先进产业企业正加大投资，布局下一阶段增长引擎。相关投资可能覆盖研发、产能扩张和生态合作，反映资本正从传统产业转向高技术密度领域，并推动AI与机器人、生物技术融合，形成新的产业竞争格局。"
-    },
-    {
-      "title": "The global economic landscape is changing rapidly. Artificial intelligence (AI) and advanced technol.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzVGhrNVFoWnZIR0JFOEhENGY3ZmtvTkJmRmNDVm53M0hRS0Fra256T2ZnQ1BQdlNob05LMzN2aVJ0T01RSGtFRGFBLWVhdDFFenpkX1VDNm0?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T08:26:12Z",
-      "summary": "全球产业与经济格局加速变化，人工智能和先进技术被视为重塑竞争力的关键变量。报道指出，各国和企业正围绕AI、先进制造和数字基础设施加大投入，以提升生产率、推动产业升级并应对供应链重组。技术扩散速度、人才和算力资源将成为影响国家与企业位势的重要因素。"
-    },
-    {
-      "title": "Hackers Used 44 AI Agents To Automate Cyberattacks, Researchers Say - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3lVc055blpGbHViOFh0cWpYTjREeFU0Nk14WXgySE1CeHpJUW1vLS1LWWhOb0Z2c2VSenZ5NkdWd3M1MnQwbGh5aXJ1cWFNY0J3cDlaa1hiTUcyeFY3OW1QT0M1a21RbHpIVG5qRTkzUmZYVEVNSG11UUoyczF0S1doNXE5LWNSd0RIWElaWGRFZURyZzZONEV4M1FEMW5GbEdjT1JfSjd4VVh1Skt0NWJRU0VYZ3I0WTY1adIBxAFBVV95cUxOemhKTVFYY0dLYXFfZmhPVER3LVJwV3VxenNFQkZVQnZIV09HOHdSVlQ3VWQwVWFvU1hVUHlISUtsYzBKUGVEYWtqZWhVRlM4aXJIeFZVVkVJWExrRVdldXdfNVNJSmJ4c2JDbktPODVRd3VKb1hKaEFaSjJYN1NSTE1KNXcweVJ3OUJxdVZmQ2J2M3J4NmU2R2M3SHhZSWNNTGdKczRzZGk4Nng0OVpQbzJJMUlyQjBzcVU2VzBQaVhobVlh?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T08:07:46Z",
-      "summary": "研究人员披露，黑客利用44个AI智能体协同自动化网络攻击，将侦察、钓鱼、漏洞探测和横向移动等步骤串联，显著提升攻击效率与规模。该案例显示AI智能体可被滥用为攻击基础设施，防守方需部署AI驱动的监测与响应机制，并加强对智能体工具链的治理和滥用防范。"
-    },
-    {
-      "title": "FILE PHOTO: Illustration shows the words \"AI Artificial Intelligence\" and a keyboard - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNejg1SVhlZ0VZSGFnRDF3NWVXVllBYlcwMHZaR1YxR2NnOTZqSUl3WDFTeEtOVVE4UE0zWVNHa3BQUDRTbWNSUHl1T2U2VExCbHNya1Y4U0tIV2t0VjQ0M25RdEJyQndsS0J2WUFkbHdaZWxIQ3FYRVZidV9ITnJQR21MVEJfRVVlbERIaEI1NlVuSVVtZ1FpNm8wdEtKZHo4a0h5MkdWZzJjSjVmY2VKSnlpYjQzWTJmbFpSMFRuRGZBUTgtbjN1TFdWcDFtajBFR2RlV1VnbW84djA3VGpud2FqVmFSSVFUdXl3bm5CY0FKLWpkVXRPaHhlQXliYmpoTnNxZTJFMTRkb2M?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T07:30:33Z",
-      "summary": "该报道为一张资料照片说明，画面展示“AI Artificial Intelligence”字样与键盘，来源为《Lufkin Daily News》。内容未涉及具体产品、公司或技术进展，更多是AI主题的视觉配图，信息量有限，难以据此判断行业动态。"
-    },
-    {
-      "title": "A One-Person Startup Just Got Bought By Anthropic - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRjZYNUtVSTd1SkR1cGNOd1JzalhVdlpDcFE1MERoRUdleW9FOWZ2T1ZYOFdUQ21OLVRtSW00OUJibGpDMFdTbzFPa1dwZGN4ZXlSSVEyYmhLYnNydlcyOV9zaFRfejU5SHhmZmhoYVluVzdHN21XRjZzRm1teHpzdXRpWXRWOExDZGZZOEFkblNrNTQ2aGNNMk5laTgxTzdzNWhoc1I3TVNSXzE5NTREUW16bGxGLWtyUWFwX0pNRGN2d1lPTzVDQUUwNjdwVE8zY3hORkwzemw1TndrOC1ja1hFSlhJOFdj0gHwAUFVX3lxTFAwMFNTSmJNa3hXb1hpcVZlWEVRdVpFbWpVMkc4WEJmTnpGTk1zVU9sc0VxUXRLblJzZG9iQWJGbVFBNTVvWVc1QzUzTnNoVFQ0NFFlamtTSjZPUzNPUEU1VGNrS0FWZjRreEdCWWVwVW5IRVFaNXNOVXA4RUlvcWc1TXJJWnFuUnR6LWRzakJ4ckQwNDNKM0V6LVVGT2RScUlCWGdWSFQxalVnWW9hNThlaUR1RXRXeXdYYmZ5UXoxVFhTdWxKbm5ZNUxsSWxDaVUxZUFROGlURU83bnZIQzBBUzg0dDBZaXhnb3J4SS1XVw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T07:02:44Z",
-      "summary": "据NDTV报道，Anthropic收购了一家仅由一人创办的初创公司。报道未披露交易金额、创始人背景及具体技术方向，但事件显示AI头部企业正通过并购吸纳小型团队与人才，个人开发者或极小团队在AI生态中的价值受到关注。"
-    },
-    {
-      "title": "Artificial intelligence use doubles in rural Nebraska, poll shows - Nebraska Today",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObU9RdUJMTFhST2ZiVG44ajZLYTcwejBXLV81MC14VHkyT0JKSzczeElCRWthVC1mRXhZdnQ3VEdaOE5pSFBFd3hvSERVamFic0pFU0x4ZHpnOGVQWHdaQ2JscHVtcnc1cUJTRUlPNjlDa0hlTURaM0xOUEhCZ2lzbGowYmtPQldkZjFXYkNFOHUxX2pnYzY1NA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T06:23:40Z",
-      "summary": "Nebraska Today报道的一项民调显示，内布拉斯加州农村地区的人工智能使用率较此前翻倍。报道未给出具体样本、使用场景与时间跨度，但趋势表明AI工具正从城市向农村扩散，农业、教育和小型企业等场景可能成为新的应用增长点。"
-    },
-    {
-      "title": "Trump to Officially Ban Use of Term 'Artificial Intelligence' - Tempo.co English",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2p4cy01Ymp5QnRzWUh4OFg0ZUJZYTlpZUtQZ0ljNTVIaGJPMFBVbGR5Um41MHNKOUJpbFA0RXhFM2I4Rjl2X0VKQ0MyT1BNTDZTMlFNYTB6UkRUYXJiMlBmQTQwLU1zb19ldHVMckV0VXRZcExjNUdqVi1xUHhZUlFuaGtfTTh5Q1c1TmZrcExFV1dqTHRV?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T06:14:13Z",
-      "summary": "Tempo.co英文版报道称，特朗普将正式禁止使用“人工智能”这一术语。标题未说明禁令的适用范围、替代说法、政策依据及实施时间，信息较为单一且表述异常，需结合原文或后续权威信源核实，不宜仅凭标题判断其实际政策含义。"
+      "publishedAt": "2026-10-28T11:45:00Z",
+      "summary": "《Newsweek》观点文章认为，在AI主导的世界中，学校教育更应聚焦“真正的智能”。文章主张，学校不能只教学生使用AI工具，而应培养批判性思维、判断力、创造力与人文素养等人类独特能力，帮助学生在技术普及的环境中保持独立思考与主体责任。"
     }
   ]
 }
