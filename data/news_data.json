@@ -1,76 +1,104 @@
 {
-  "updatedAt": "2026-10-28 07:44:43 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-10-28 11:47:35 UTC",
+  "totalArticles": 14,
   "articles": [
+    {
+      "title": "Big Tech turning to equity to raise funds for AI - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTEJjdHM4cWc5bmdZd1NUckRYNjMwbDBGUEd3bDYzVXNIYlJsNHlfMWxnejFSUERFNTVlanRyQk1INmdYSEd0SDJ2dUFyYlFsQlhjVjFwLTR2c3NUMVFoX1RlN1NKVk1OQmdTQ3d6eHVTQ0xjUW1hQUNBV2JtRVk0U0ZTSFRCOUNzMGhLZEFsS09hTHNiVXJJSDN0WE9mak1iNDZUWkRqM2NWUThjRi1lb3g4REZqZkVvNTE2dmVOdEpsWVh3aGw1WHk3RdIB0AFBVV95cUxNSUZRODR1WHBFWWVYQkRFMzJTbk93R2lMVEs2azVpUm8yMWZwVTB0eXE0M1A0LTRrMUZZaWtjQ2gtTVplSmliREFONDk1MGxwVDBMOUF5ZWlQTHpmMExtVXFyWlpseXNsMEJObVdUeFZwcjA1M2xvR0xOQzJtQlNLdi1xRGxDeDJmRjN2YmJrVFllTVRxT3Q3aVc5SEUzcW5DMTUyUkVaWHFnUjFoX0NRVDlieFJhbEVvRVF5WFFRNV90T2tOelRMQ3kwSzBHRnMz?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T11:27:32Z",
+      "summary": "报道显示，大型科技公司正更多借助股权融资筹措AI相关资金，以应对数据中心、算力芯片和大模型研发带来的巨额资本开支。此举反映AI竞赛推高现金流压力，企业希望通过资本市场分散风险、补充弹药，并可能影响科技股融资结构与估值逻辑。"
+    },
+    {
+      "title": "Opera launches local browser AI, testing enterprise privacy and AI PC strategies - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNEJkbUlkM1VJamVfaktKMUQzRExhWjJQSld3YktPSmE3cE9lMnNacmdpUkt2Ym5WbjdTcjZxWkdGN2F2S0tRVTdVdDNxVV90TGZ1X0tsci05TW5uN19XRzAwUk1wdkV5OWY5WUcwNzNnZjc5THBwd0I3ai1hQWM0clNBdEJNZjdHM2RBR0pHNlhLbUZCaU5uSnRKa3I2UDBMcC1ER3c2aHJ4dnc4Z2NtMUF2QjNtOFA2d3cxNS1ud0JYczhOaTVBbXFn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T10:17:35Z",
+      "summary": "Opera推出本地运行的浏览器AI功能，强调在端侧完成推理以减少数据外传，兼顾企业隐私与合规需求。该产品也被视为对AI PC战略的测试：通过浏览器入口把本地模型能力嵌入日常办公与浏览场景，在性能、隐私和云端协同之间寻找平衡，并为企业客户提供新方案。"
+    },
+    {
+      "title": "AI an economic equaliser, tech at its best when inclusive: Google India VP - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdWxreFJaMk5PZElKMXRoSzFXUzdjWVRTNWRGTkdudmNUY0o5cG1xVkFRMlBQQkNIbXBuLTVSMlo1RFNwdUJBMjFNSHBadVROV2RoQV9vVXU2ZXo0bkdVS2duVmVZNXRqRXdLVVgyZDZtSEQycFJyTW9ZM2dsR0xWY3V1ZE90NmJuNDlMNHNGd0owMmNHdi1jcFJVbi02bWFKY010NjUxRklRUnZ5U2Z5ZU9jalBQcmc0MzB6ZnVaWmozdnlraVdrejhWLW9WQk9rN1Bzd1VrRmFfYTA3R3RLb2ZBb05TTE9pT2hfdUJjaXBPM3fSAfgBQVVfeXFMTmFLMXlyWEpDelQtMVVTNkxSNFJtaTAyakhGSHBMVzVXOGF6TEt6NzFIVVZzR0RkZlk5cXlwUk8xUU12YlNKYkg0N1daeXhtWEUzZ05teVJNMmVrZjhkMnp6RFVJcFVuT2FSVVZVMG1vUnlOek5Sa3oxYlJ4djFQQlk5S3pWSzB1OVFOdWp4WmkwalFWaDVvQldnM0drLTUzS0dROWdMR1QwXzVDX1BFYzYtSWZNajZrMHpDN2VXb2pGYzFtcm5xdEFiMzUwV1JYa29LZURPS1VBakM3ZXpWN1I5bU9uelpfbTg4dFBDaFNHQnpPYXZzR0M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T09:34:49Z",
+      "summary": "谷歌印度副总裁表示，AI有望成为经济均衡器，缩小机会差距；技术只有在包容性设计中才能发挥最大价值。相关表态强调让更多用户、中小企业和本地语言群体受益，并呼吁在数字技能、可及性和负责任部署方面加强投入，使AI红利更广泛地覆盖社会各阶层。"
+    },
+    {
+      "title": "Chinese Academy Of Sciences Builds An AI To Protect Its Magnets - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16dkJaRXZUZHhSeEJLSTlFNHV4UnEzejJlYVNwUTBfcVl4UUo4TnJKbS03LTJ6eTZ6TkxldmNOdFl2c1VtMHV6ZlRUYlk1dXM5TDNtSmJpMm5SRE1GWVM3ei0wbmpBTE95V2VSazlBaGU3VUVNQ3pjNGI4NlNBQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T09:03:04Z",
+      "summary": "中国科学院相关团队构建AI系统用于保护磁体，可能通过监测运行数据、识别异常和预测风险，降低强磁场设备损耗与故障概率。该方向体现AI在科研基础设施运维中的应用：以数据驱动方式提升磁体安全性和稳定性，为大型科学装置和精密实验提供更可靠的保障。"
+    },
+    {
+      "title": "European sovereign AI, cloud not yet ready for major banks, Temenos CEO says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVWw1UFVIWTdPSExHTUt6TmNtM3lSY3diRE11SGR6WGtWZjNRa18yWW5zNGhrcFgyQUMzTmN0cUpwRGpURHplZ0ZjZmk2czBWTlBKTEVEN0dfVEhxRzZMcXVNWGtYV2hpR3JiZXEySjlDaWkwa2czd19laEpOelBvMGVVY1FaeUgwWGVtcUxoaXhMeDZCUVNKUUlIUEpnMmFVeC1jSU5TNVprUnRDU1RMb05yNGJtdndLMFdrQWY4Ujk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T08:55:52Z",
+      "summary": "Temenos首席执行官表示，欧洲主权AI与云服务尚未完全准备好服务大型银行，主要受监管合规、数据主权、系统稳定性和迁移复杂度制约。大型银行对核心业务上云和采用本地AI模型仍持谨慎态度，供应商需在安全、审计和性能上进一步证明能力，才能满足金融业高标准。"
+    },
     {
       "title": "China's new export curbs draw a line around its AI crown jewels - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-28T07:22:46Z",
-      "summary": "路透社报道，中国出台新的出口管制措施，为关键AI资产划出“红线”，限制核心AI技术、模型或相关能力对外输出，意在保护本国AI产业优势。此举可能影响全球AI供应链、跨境技术合作及中美科技竞争格局，相关企业和研究机构需重新评估合规与合作风险。"
+      "publishedAt": "2026-10-28T08:50:39Z",
+      "summary": "中国新一轮出口管制进一步划定AI关键技术和产品的边界，被视为围绕AI核心资产设置保护线。报道认为，相关措施可能涉及高端算力、芯片或关键技术，意在维护产业竞争优势，并可能影响全球AI供应链、企业采购和跨境研发合作，加剧技术碎片化与地缘博弈。"
+    },
+    {
+      "title": "Three Japan-Focused Cyberattacks Show How Hackers Use AI - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlA1bUp3NFlDTU44NERjTnh4a0JZaEc4Y1pPRkRwWkgyY3ZGaG8ycE13UW5PdnQyNTltS1ZrM0FpMnFiejZwWkw2NTlPMEFMOXhDZUJmRVpQUjdfQUphc3pMUTQ3elFzdUVxY2hFSkJaaUVvWmkwcWMxZDVlV1dNdlNwRUNVUVZyYUkzLTNXNzhzUmdXV0xwWkpfckpCSjRi0gGmAUFVX3lxTFB0NzZwMjlKYVowTkplMTRES2pyc0tKM3h6Wk9uYzUxNDlEUjA1dkJ3S2ZSWFhKazJQLXZEdUQ4Wng3SV9aREtWR0J2dEpKRFl3TUxaNXVkTVViRWFqQWlQUXAyQlJsWGwtVGhRNlVob21nMzcyMjRMMHFWcHVWTlFEakQwQkNJRElwbjJaTWlqOTF6clNINlZwYTVYakhYVGxaZ3lncEE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T08:48:45Z",
+      "summary": "三起针对日本的网络攻击显示，黑客正把AI嵌入侦察、钓鱼、漏洞利用或规避检测等环节，提高攻击自动化与欺骗性。案例表明，AI降低了攻击门槛并缩短攻击周期，防守方需加强AI驱动威胁情报、异常检测和员工安全意识，同时关注本地化语言与社会工程攻击风险。"
+    },
+    {
+      "title": "Advanced industry companies such as artificial intelligence (AI), robots, and bio are making investm.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Celc0N0stVThGVmR5aVl3bW5MelFGOGpFazY2NEdYS0hDZ3hITGY1cURZNTQxbjE0SHJ2MTRiRHNzZlc3ajJTcTczWDNnUXhTQkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T08:28:04Z",
+      "summary": "韩国报道显示，人工智能、机器人和生物等先进产业企业正加大投资，布局下一阶段增长引擎。相关投资可能覆盖研发、产能扩张和生态合作，反映资本正从传统产业转向高技术密度领域，并推动AI与机器人、生物技术融合，形成新的产业竞争格局。"
+    },
+    {
+      "title": "The global economic landscape is changing rapidly. Artificial intelligence (AI) and advanced technol.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzVGhrNVFoWnZIR0JFOEhENGY3ZmtvTkJmRmNDVm53M0hRS0Fra256T2ZnQ1BQdlNob05LMzN2aVJ0T01RSGtFRGFBLWVhdDFFenpkX1VDNm0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T08:26:12Z",
+      "summary": "全球产业与经济格局加速变化，人工智能和先进技术被视为重塑竞争力的关键变量。报道指出，各国和企业正围绕AI、先进制造和数字基础设施加大投入，以提升生产率、推动产业升级并应对供应链重组。技术扩散速度、人才和算力资源将成为影响国家与企业位势的重要因素。"
+    },
+    {
+      "title": "Hackers Used 44 AI Agents To Automate Cyberattacks, Researchers Say - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3lVc055blpGbHViOFh0cWpYTjREeFU0Nk14WXgySE1CeHpJUW1vLS1LWWhOb0Z2c2VSenZ5NkdWd3M1MnQwbGh5aXJ1cWFNY0J3cDlaa1hiTUcyeFY3OW1QT0M1a21RbHpIVG5qRTkzUmZYVEVNSG11UUoyczF0S1doNXE5LWNSd0RIWElaWGRFZURyZzZONEV4M1FEMW5GbEdjT1JfSjd4VVh1Skt0NWJRU0VYZ3I0WTY1adIBxAFBVV95cUxOemhKTVFYY0dLYXFfZmhPVER3LVJwV3VxenNFQkZVQnZIV09HOHdSVlQ3VWQwVWFvU1hVUHlISUtsYzBKUGVEYWtqZWhVRlM4aXJIeFZVVkVJWExrRVdldXdfNVNJSmJ4c2JDbktPODVRd3VKb1hKaEFaSjJYN1NSTE1KNXcweVJ3OUJxdVZmQ2J2M3J4NmU2R2M3SHhZSWNNTGdKczRzZGk4Nng0OVpQbzJJMUlyQjBzcVU2VzBQaVhobVlh?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T08:07:46Z",
+      "summary": "研究人员披露，黑客利用44个AI智能体协同自动化网络攻击，将侦察、钓鱼、漏洞探测和横向移动等步骤串联，显著提升攻击效率与规模。该案例显示AI智能体可被滥用为攻击基础设施，防守方需部署AI驱动的监测与响应机制，并加强对智能体工具链的治理和滥用防范。"
+    },
+    {
+      "title": "FILE PHOTO: Illustration shows the words \"AI Artificial Intelligence\" and a keyboard - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNejg1SVhlZ0VZSGFnRDF3NWVXVllBYlcwMHZaR1YxR2NnOTZqSUl3WDFTeEtOVVE4UE0zWVNHa3BQUDRTbWNSUHl1T2U2VExCbHNya1Y4U0tIV2t0VjQ0M25RdEJyQndsS0J2WUFkbHdaZWxIQ3FYRVZidV9ITnJQR21MVEJfRVVlbERIaEI1NlVuSVVtZ1FpNm8wdEtKZHo4a0h5MkdWZzJjSjVmY2VKSnlpYjQzWTJmbFpSMFRuRGZBUTgtbjN1TFdWcDFtajBFR2RlV1VnbW84djA3VGpud2FqVmFSSVFUdXl3bm5CY0FKLWpkVXRPaHhlQXliYmpoTnNxZTJFMTRkb2M?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T07:30:33Z",
+      "summary": "该报道为一张资料照片说明，画面展示“AI Artificial Intelligence”字样与键盘，来源为《Lufkin Daily News》。内容未涉及具体产品、公司或技术进展，更多是AI主题的视觉配图，信息量有限，难以据此判断行业动态。"
     },
     {
       "title": "A One-Person Startup Just Got Bought By Anthropic - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRjZYNUtVSTd1SkR1cGNOd1JzalhVdlpDcFE1MERoRUdleW9FOWZ2T1ZYOFdUQ21OLVRtSW00OUJibGpDMFdTbzFPa1dwZGN4ZXlSSVEyYmhLYnNydlcyOV9zaFRfejU5SHhmZmhoYVluVzdHN21XRjZzRm1teHpzdXRpWXRWOExDZGZZOEFkblNrNTQ2aGNNMk5laTgxTzdzNWhoc1I3TVNSXzE5NTREUW16bGxGLWtyUWFwX0pNRGN2d1lPTzVDQUUwNjdwVE8zY3hORkwzemw1TndrOC1ja1hFSlhJOFdj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRjZYNUtVSTd1SkR1cGNOd1JzalhVdlpDcFE1MERoRUdleW9FOWZ2T1ZYOFdUQ21OLVRtSW00OUJibGpDMFdTbzFPa1dwZGN4ZXlSSVEyYmhLYnNydlcyOV9zaFRfejU5SHhmZmhoYVluVzdHN21XRjZzRm1teHpzdXRpWXRWOExDZGZZOEFkblNrNTQ2aGNNMk5laTgxTzdzNWhoc1I3TVNSXzE5NTREUW16bGxGLWtyUWFwX0pNRGN2d1lPTzVDQUUwNjdwVE8zY3hORkwzemw1TndrOC1ja1hFSlhJOFdj0gHwAUFVX3lxTFAwMFNTSmJNa3hXb1hpcVZlWEVRdVpFbWpVMkc4WEJmTnpGTk1zVU9sc0VxUXRLblJzZG9iQWJGbVFBNTVvWVc1QzUzTnNoVFQ0NFFlamtTSjZPUzNPUEU1VGNrS0FWZjRreEdCWWVwVW5IRVFaNXNOVXA4RUlvcWc1TXJJWnFuUnR6LWRzakJ4ckQwNDNKM0V6LVVGT2RScUlCWGdWSFQxalVnWW9hNThlaUR1RXRXeXdYYmZ5UXoxVFhTdWxKbm5ZNUxsSWxDaVUxZUFROGlURU83bnZIQzBBUzg0dDBZaXhnb3J4SS1XVw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-28T07:02:44Z",
-      "summary": "Anthropic收购了一家仅有一名员工的初创公司，交易金额未披露。该交易反映AI头部企业正通过收购小型团队获取人才与特定技术，而非单纯追求规模扩张。单人公司也能凭技术亮点被巨头看中，显示AI创业生态中“人才收购”和早期技术整合趋势。"
+      "summary": "据NDTV报道，Anthropic收购了一家仅由一人创办的初创公司。报道未披露交易金额、创始人背景及具体技术方向，但事件显示AI头部企业正通过并购吸纳小型团队与人才，个人开发者或极小团队在AI生态中的价值受到关注。"
     },
     {
-      "title": "IBEX, an industrial physical artificial intelligence (AI) company, has been named as the \"2026 Korea.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41bEhuSHhFcGtydVpORVA5eGpzbURZdlZweWVFTlBwWmxEU213SUw0a1VmZkVBbmNvaFpQaEpKdFpwMHN5LVlrX1duWQ?oc=5",
+      "title": "Artificial intelligence use doubles in rural Nebraska, poll shows - Nebraska Today",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObU9RdUJMTFhST2ZiVG44ajZLYTcwejBXLV81MC14VHkyT0JKSzczeElCRWthVC1mRXhZdnQ3VEdaOE5pSFBFd3hvSERVamFic0pFU0x4ZHpnOGVQWHdaQ2JscHVtcnc1cUJTRUlPNjlDa0hlTURaM0xOUEhCZ2lzbGowYmtPQldkZjFXYkNFOHUxX2pnYzY1NA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-28T06:50:24Z",
-      "summary": "韩国产业物理AI企业IBEX被选为“2026 Korea…”相关项目或奖项，具体名称在标题中未完整披露。IBEX聚焦工业场景的物理AI，将人工智能与真实生产设备、机器人等结合。入选体现韩国对具身智能和工业AI落地的重视，或提升其在智能制造领域的关注度。"
+      "publishedAt": "2026-10-28T06:23:40Z",
+      "summary": "Nebraska Today报道的一项民调显示，内布拉斯加州农村地区的人工智能使用率较此前翻倍。报道未给出具体样本、使用场景与时间跨度，但趋势表明AI工具正从城市向农村扩散，农业、教育和小型企业等场景可能成为新的应用增长点。"
     },
     {
       "title": "Trump to Officially Ban Use of Term 'Artificial Intelligence' - Tempo.co English",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2p4cy01Ymp5QnRzWUh4OFg0ZUJZYTlpZUtQZ0ljNTVIaGJPMFBVbGR5Um41MHNKOUJpbFA0RXhFM2I4Rjl2X0VKQ0MyT1BNTDZTMlFNYTB6UkRUYXJiMlBmQTQwLU1zb19ldHVMckV0VXRZcExjNUdqVi1xUHhZUlFuaGtfTTh5Q1c1TmZrcExFV1dqTHRV?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-28T06:14:13Z",
-      "summary": "据Tempo.co English报道，特朗普将正式禁止使用“Artificial Intelligence”一词，可能要求官方表述改用其他术语。具体适用范围、替代词及政策依据尚不明确。若落实，将影响政府文件、采购和监管话语体系，并引发对政治干预技术术语的讨论。"
-    },
-    {
-      "title": "Samsung Electronics has started to share artificial intelligence (AI)-based safety technology with d.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CeDJacWsyUzVvbEtkYjJiZ19uWHBlc1UxWi14a1ZTaUNrU0pUaHR1MUpDazR6WUdsRXhFQ2JNQkVmR1oxR01Cb01wOWVxX1QtRUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T06:07:18Z",
-      "summary": "三星电子开始向合作方分享基于人工智能的安全技术，具体对象在标题中未完整显示。该技术可能用于工业安全风险识别与事故预防，通过AI分析提升安全管理效率。开放共享有助于供应链伙伴提升安全水平，也体现三星扩大AI安全方案生态、推动技术落地的策略。"
-    },
-    {
-      "title": "Artificial intelligence use doubles in rural Nebraska, poll shows - Nebraska Today",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObU9RdUJMTFhST2ZiVG44ajZLYTcwejBXLV81MC14VHkyT0JKSzczeElCRWthVC1mRXhZdnQ3VEdaOE5pSFBFd3hvSERVamFic0pFU0x4ZHpnOGVQWHdaQ2JscHVtcnc1cUJTRUlPNjlDa0hlTURaM0xOUEhCZ2lzbGowYmtPQldkZjFXYkNFOHUxX2pnYzY1NA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T05:05:30Z",
-      "summary": "内布拉斯加州农村地区的人工智能使用率翻倍，民调显示AI工具正加速进入农业、小企业和日常生活。这一趋势可能缩小城乡数字鸿沟，但也提示需关注网络基础设施、数字素养、隐私保护和就业影响。政策制定者应确保农村地区获得培训与可信AI服务。"
-    },
-    {
-      "title": "Futurist Ray Kurzweil is developing an artificial intelligence (AI) alter ego that reproduces his ap.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QT0doeWlJYUpLcHZEY2FUdXZQTmdXRG1iYTE2d0QtYWVIWjVaSHFKMlI3UHRIUV9iajhWT3AwMFR1WXVYdUctT21CTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T04:01:59Z",
-      "summary": "未来学家雷·库兹韦尔正在开发一个AI“另一个自我”，复现其外观、表达或思维方式。该项目体现数字分身和个人AI代理趋势，可能用于延续个人知识、交互与思想传播，但也引发身份真实性、数据授权、伦理规范及“数字人格”归属等讨论。"
-    },
-    {
-      "title": "OpenAI plans to buy chips from Google as part of its AI build-out - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR1hpckloVjY3U0IzcmFSUzRLT0llUmg2a3dYejdyNTFaR0pqcGFORFBBaTlNbU9uRGowRUtraHh2TFFJNUkxeDdoeHlZUmo2LThNTDlDdTE3WHVHNDRQWDV4QnhtdkNTOEZMREF1Wkt1QlhDbF9TWmNteTZUMnlaZFhFYzJGS3FHSWxTNFFhOFNVVFBwdWRfZUdpTFh2ZGlUN0N0d29OQzUyNFJYVGVTRnAtZVhCR0F5ZzVPb1ZXOUs2WjRHVTBsczRPOGc4cDdSWjJFX0tmZjVweDRsV1dNRHZPQ2Fhb0JpRkHSAe8BQVVfeXFMTlFyQW16X3VWRl9WYmN3RW96bUdRV0FJS1FadHRMekxmYkg2eEFmeTl2cXJJTDJaY2ZONG5KdTZOSk1MUnhTMHRaci1kcXFtM2VOcjhIczV3cUZFQjFJOVBqMTF1UWw3NlZISFpxUVNNbjZ0b1dBSFpuSG4zWjNzU203dTJiT2F3TDdONzhLU3k4Y0xPS3Ffb2JFQ1RCOGx6bFVKal9DR3Y5LWVLLTFCaUxWTVFpUnlISGw2XzNzaFNpM01fbWQzWUN6cklpMEFrUWdTSWtrczhaMU5tTEk5VUg0MTFpdFhPN0pzTDQxazA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T03:37:16Z",
-      "summary": "OpenAI计划从谷歌购买芯片，用于其AI基础设施建设，显示其正多元化算力供应、降低对单一供应商的依赖。若交易推进，将加剧AI芯片与云算力市场竞争，也反映头部模型公司对训练和推理算力的巨大需求，以及谷歌自研芯片的对外吸引力。"
-    },
-    {
-      "title": "Breakingviews - COMMENTARY: Anthropic offers glimmer of hope for China AI labs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRlYtVEVtWEVQbkRhMmk2RWluNUdpTHl3Wnp1MlhNV2ctQzVSTEdJbHJrQjNnRnBmc0czRWR4RjNLelhuOVhvcUpuRVNmcVd0Q2hFSkJNZnpKdEtDTzVvdzIwT0h6V3NvYzM1Vl90dVd0cHd0T2paZEpxOGpnNmx4WDEwVm8zS3FkX3ZYZWJCUGNMWWhrVlRvTVNoV0VvUjFtZXgwNkpqbw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T03:28:00Z",
-      "summary": "路透Breakingviews评论认为，Anthropic的动向为中国AI实验室带来一线希望。标题信息有限，评论可能关注其技术路径、安全研究或商业模式对中国的启示。在出口管制和算力约束下，中国实验室可寻找差异化发展空间，但仍需应对地缘政治与合规挑战。"
-    },
-    {
-      "title": "Vicious cycle: Editorial on AI investment and the risks of speculative spending - Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcGVGcllwR0dQcVRiNGl2Qk5nY0x6dUQ5YXZHcGNVdFE1U29KTGhwbFZHbkRsWnJOamZFWjFKNW5GRUUwa0hCSWU4bmxRVmhEQW5fbW9ONndVNUpvc1poUEpNc0pMRS1fdkJyY3FZdVJJMFo2SE1GeHpqazg4dEFMNmQ0RU9nV3kxb19tV0lVbWhVanNYcEZRdTFHdHNmZFB0YnJHMjFVSWZXTUxzcXlDN04yWWpzRHJ2U084NVdMODdYb3BWTXVlNV94UzcyMG_SAdQBQVVfeXFMTXJhS2NLcUdieVZrOVhtWWp5d29oR2FvNzZEcG93XzdCTGM0R3k2TlhuRDJJcm53dnl1QlRfREVvbnAtXzdIbTRrdGRUVk1icFZ1aWtOamtfMVlNU1V6ZzZpcUh0VXFvS25raVVVTklZV2wyOThmRU5HVVFoQV9iUmJCdldMOFhzZzJCVGFwcVcwZ0FMMDB5WmFEX2l4WDNkc2NzRTRDM2U2TXNHMk56TDJIcUM5X3Z6WlA0VENBMHVaQzc5TXRkQ0NyNVJlZFdfd05iMjA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T02:49:23Z",
-      "summary": "印度《电讯报》社论警告，AI投资热潮可能形成恶性循环：资本追逐高估值，企业竞相扩张算力与模型，若商业回报不及预期，可能引发投机性支出和金融风险。文章呼吁理性评估AI投资回报，关注泡沫、资源错配和监管问题，避免短期炒作损害长期创新。"
+      "summary": "Tempo.co英文版报道称，特朗普将正式禁止使用“人工智能”这一术语。标题未说明禁令的适用范围、替代说法、政策依据及实施时间，信息较为单一且表述异常，需结合原文或后续权威信源核实，不宜仅凭标题判断其实际政策含义。"
     }
   ]
 }
