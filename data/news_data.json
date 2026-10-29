@@ -1,76 +1,125 @@
 {
-  "updatedAt": "2026-10-29 07:50:32 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-10-29 11:55:44 UTC",
+  "totalArticles": 17,
   "articles": [
+    {
+      "title": "Computerized clairvoyance: psychics push back against AI-generated readings - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVV9yMl9IWEpxMFh4clJTVUVQMTd1akFUXzFPeDF6dU1mZnVtVndNci04eEU0ZjEzSG1zSGlhNi1JUGZaWjJQRndfeFpYQ09GS3lwVHhhUmVZdDQwWHpDR2xNbFh4dHpLTjRKYzRud0VfeWRldlNKa3d5dGxVSEhVaEZnb3dmREVRSTRGdnQyOWtQQWVwN0ZPWGotMnY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T11:01:00Z",
+      "summary": "《卫报》报道，随着AI生成通灵解读兴起，传统通灵师开始反击，强调真人直觉、情感共鸣与现场互动难以被算法替代，并担忧误导消费者、隐私和行业信誉。事件反映生成式AI向灵性服务渗透所引发的职业边界与信任争议。"
+    },
+    {
+      "title": "Opsio Launches Hiveforce, Merging Human Leadership with an AI Workforce - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzJjVFk4R1JxMzJ2Y05uZnF6U0xjTklEbk03dTBaNlh0ZzJSSVQ0MlNOcUxDVXUxX2l2MzVLOE9yVEN2cV8yVVhfYlFvWHhXRVk1UVM1MlN3LXFEWmhzcDZBbFQyU2E3amlobDAyUmxMZTBRWXZDekhlVHRKUGFRNmFRaVVJSDhnMzNKUENwcElLOXBHUUo0WnZPYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T10:30:05Z",
+      "summary": "Opsio推出Hiveforce平台，尝试将人类领导力与AI劳动力结合，由人负责目标、监督与决策，AI代理承担执行和协作任务。该模式旨在提升组织效率与规模化能力，同时强调治理、责任归属和人机分工，反映企业AI从工具走向“数字员工”团队的趋势。"
+    },
+    {
+      "title": "Machine Learning Could Help Identify People at Higher Cancer Risk Using Routine Health Data - Cancer Health",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2Z1VHBPUW1iUjZHaW9Rbl81aW1yeE1HYS1oX2J0SFNoUUQwSzFiMUlodFFsaXpManJOMUVkOUU4WlQxWmM3VWp4X2FHV2ZBOFhmNThiZTJqZW0xNUZ5SVNtYUEyTWpOUXo3XzMtSlhkaU9EYVgyb3FkQjIzSEFEUW5lZ2NFLWJDOGxHWk1oOE1Ka3o4Y1lXT2tJQ29yblBxU19KdjNfU2NyYmtOR1Y3NEM5N1EyY1FFX0dtRTRaRmNFbmVJZFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T10:10:59Z",
+      "summary": "Cancer Health报道，机器学习可利用常规健康数据识别癌症高风险人群，通过整合电子病历、体检和生活方式等信息发现潜在模式，辅助早期筛查与分层管理。若验证有效，有望提升筛查效率、优化医疗资源配置，但需解决数据质量、偏差、隐私和临床可解释性等问题。"
+    },
+    {
+      "title": "Cadence Maestro puts domain-trained AI agents to work for chip design - CIO",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjJHZzBaelhWQTNnek9xSjlZX0pKZHZRSjlGTjNCbDk2OTF3OEljQWk3UUQ1c0pxQzJSVjhyaVVLalhxQkJ2dFJGTzdsdWo5WEdZSHlGdzZseEU5M25INWxIbEVJVXBPdGFabjcydmQ2VWhsZTNQWEY3MENFVDdNTncza3VRTmczTEVUZ0JBcU5JRU5pZlZ0RXgzWllOc2pMaW9MZldCaW1FLTFEYUhr?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T10:04:17Z",
+      "summary": "Cadence推出Maestro，将经过领域训练的AI代理用于芯片设计流程，让代理协助完成设计探索、验证和优化等任务。该方案强调领域知识与工程约束结合，提升自动化水平并缩短周期。它显示EDA厂商正把生成式AI从辅助问答推进到可执行设计工作流，但可靠性、可验证性和工程师控制仍关键。"
+    },
+    {
+      "title": "Global Fishing Watch and Ai2 announce another partnership to use AI in vessel tracking globally - SeafoodSource",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR2lIWnhYMzBBcDRJYXNETDRhUzJYVjVLX1Z6cURwVlhpZ0lhUmF2WmZfRU5LNUJSSm9MRzJ1OVNJdTlxQk1UQmNCbVVMZndDSmZ5VUpDcGtiRlplOWhSNXdVaDN1empQUkY5bENydGRVU1c5LVdubzFkVU15Y3UzRS1jZVFUa19ZVEd3QzJ0bzNnazZJcVZPV3EwVjVSWENVRFFSTnZOdm5EMkpPbGxhcXdQY0VZZS1kY0pyM3BGSnhGWjVFVUhwQmdn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T09:45:00Z",
+      "summary": "Global Fishing Watch与Ai2宣布新的合作，利用AI进行全球船舶追踪，提升对海上渔船活动的监测能力。双方可能结合卫星、AIS等数据自动识别可疑行为，支持打击非法捕捞和海洋治理。该合作体现AI在遥感与公共环境监测中的规模化应用，也需关注数据覆盖、误报和隐私等挑战。"
+    },
+    {
+      "title": "AI’s biggest effects in the Berkshires might be hiding in plain sight - Berkshire eagle",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzQyRHZqV2tsUkFPaTlzQ2F3M0NvbE54M0hUellBWHlpMXBaeV9iRkd5c01aYnI5TW9fY0JLUnBxSGNOZ3AzdFg1dFJERFM2V01OS2MwNldKeFdXcUpIaUdYUHNCYnlUU1dLeDVXSjhlakFtT1UzZGE2YzF0ZHJ1ajJLdFZmbl8wNVlFZ2pYUWkyLWI2cjZZNkFwUVdkcnRMM21pUnh2amVId1VXSEhIUlZuOW1jVURYVTEyWmNodFdwaGRL?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T09:45:00Z",
+      "summary": "《Berkshire Eagle》聚焦AI在Berkshires地区的实际影响，指出最大变化可能并非显眼的新项目，而是隐藏在日常生活和本地产业中的渐进式应用，如企业运营、公共服务和就业结构。报道提醒社区关注这些不易察觉的转变，并提前讨论治理、技能培训和公平性问题。"
+    },
+    {
+      "title": "When we visited the headquarters of iFLYTEK, China’s leading AI (artificial intelligence) speech rec.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3UzRhWFFHYngtcmN1M21jT1R0Y2h6bGI4d1IxQ192N09ldFN2UUFJVjhOU3prYmdRa1N4Y2FVRThLUXZxQ2JNNjdUeTN4Y2s?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T09:37:25Z",
+      "summary": "韩媒探访中国语音识别领军企业科大讯飞总部，关注其在语音识别、语音合成和AI应用方面的布局。报道可能涉及讯飞如何将语音技术用于教育、办公、客服和智能硬件，并展示中国AI企业在多语种、场景落地和生态建设上的进展，同时反映全球对中国AI竞争力的关注。"
+    },
+    {
+      "title": "The Biggest Benchmark in AI Just Updated, Dealing a Major Blow to a Chinese Contender - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOVFWSHhlZzBHVkpjZ2tyVi1LZzZBb2Z6R0V1Q1hWYURpc09rQjBIZFI2VHZWb3NFZk9sR3ctVWpkT0hieUszUUE0MFROZmluWFZvZ2FIbXZrMkR3TUNkX3R5N0NoRm9oM2NNa3hta0xRUzhfUkxHbmFzb3UtRGhaSDBLbDBzVTlJLXBMM1JlSUYwSkxvS1pCbXpKU0lkRWhsQkhycER6c1ZMV3Zqblc0ellXRGVmdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T09:00:02Z",
+      "summary": "Gizmodo报道，AI领域重要基准测试更新后，对一家中国竞争者造成明显冲击，显示新评测更能区分模型真实能力。基准变化可能暴露此前高分模型在推理、泛化或安全性上的不足，也引发对榜单可信度、刷分和评测方法的讨论，说明AI竞争正从参数规模转向可验证的实际表现。"
+    },
+    {
+      "title": "Market concerns around interest rates and artificial intelligence (AI) are just 'noise'. South Kore.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYR1N1RGJDUW1nZktKbV9vMENtQ0NneTVvRHY1c1YxTWdMWmowQVRRaGlDMHJLdlUwTHpoNFZuQnA5UFhvS19SWTJLbFEtdlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T08:47:17Z",
+      "summary": "韩媒报道，有观点认为市场对利率和人工智能的担忧只是“噪音”，韩国市场应关注长期基本面。报道可能强调AI带来的产业升级与盈利机会未变，短期波动不应掩盖结构性趋势，同时提醒投资者区分情绪交易与真实风险，保持对估值和周期的理性判断。"
+    },
+    {
+      "title": "While investors are focused on semiconductor and artificial intelligence (AI)-related large caps in.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NSXU1UFVIQ3ZCbmxtTmZTbjJ6SDZsX1VvcWR6cF9KUG1jaEhIajNGb0tsX0tUdk93MzBvVTBVNVAwbEI4NzAzclpGZmprWFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T08:38:59Z",
+      "summary": "韩媒指出，投资者当前集中关注半导体和AI相关大盘股，资金向少数科技龙头聚集。报道可能分析这种集中交易带来的机会与风险，包括估值偏高、市场广度收窄及板块轮动压力，并提示关注中小盘和分散配置，以应对AI热潮下的结构性行情。"
+    },
+    {
+      "title": "While Antropic, the developer of the generative artificial intelligence (AI) \"Claude,\" is set to go - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tOTVMelh1ODAyQUJSN29DQW9tVG94cnlVdDc1bzNONDBMZzJYNXRMTTAtNVFlX1NVd24tTWtSQ3ZBanFSaWRWeWNUQkM3ZGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T07:52:34Z",
+      "summary": "据매일경제报道，生成式AI“Claude”的开发商Anthropic即将有新的资本或业务动向，但现有标题信息有限，未披露具体交易规模、时间表与合作伙伴。该消息反映Claude开发商在生成式AI竞争中的战略推进受到市场关注，后续进展可能涉及融资、商业化或公司治理安排，需以正式公告为准。"
+    },
     {
       "title": "In the first week of November, shipbuilding, marine, artificial intelligence (AI), and semiconductor.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ic0J3V0JQVWZOejVWTlJOYVlQRjY4dDVlUWs1bE9HX21RZHN6dXFSeHdZWDNueUM2NnJ3X25NWEloVWZ3T05lQ0VsYUFTcmhzdkE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-29T07:01:49Z",
-      "summary": "韩国媒体在11月第一周聚焦造船、海洋、人工智能与半导体等产业动态，显示这些领域成为市场与政策关注重点。报道可能汇总相关企业投资、技术进展和产业趋势，反映AI与半导体正与造船、海洋产业加速融合，推动智能制造、海洋装备数字化及高性能芯片需求。"
+      "summary": "据매일경제报道，11月第一周造船、海洋、人工智能（AI）与半导体等板块动态受到关注。标题显示该媒体将上述产业放在同一周度观察框架下，反映高端制造与AI、芯片产业的联动仍是市场跟踪重点；但具体公司、数据与事件细节尚未在摘要中展开。"
+    },
+    {
+      "title": "Amid domestic investors' interest in artificial intelligence (AI) semiconductors, investors' eyes ar.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1NFMxYU4zV1R6aE40a2RvZ0RhTS1uN0VBamN4b0lHcUk1SjNhd043eWtiX2MxSF8zYktSUXJtMVZkNzg0dDVmYkF5YUYxX2VBRFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T07:01:48Z",
+      "summary": "据매일경제报道，在国内投资者对人工智能（AI）半导体保持兴趣的背景下，投资者目光正转向相关标的或细分领域。标题未披露具体公司及资金流向，但显示AI芯片仍是资本市场关注焦点，投资者可能在评估产业链机会、估值与风险，后续需关注资金动向和基本面变化。"
     },
     {
       "title": "My therapist is AI - Artificial intelligence and psychotherapy - DW.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWTZ4bDFBcU91OU5tcDh2V1IwOWUtc1dOXzlLenVqcUR4cTQtd05DVVFIWEtIS3FMd0hSMXVBaHhQdHdYemZGdFpKb3BXZmNhcDhPUWhPTXhJX1RhU3F6MmZIWkdrN0ZISXhxMktzUUV4bWRyVUFZNUtsVzZEZlFZZGNXSld1UGpUSFp0N2cwSmlDSzBFb3VjZnR1bmlRQQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-29T06:51:43Z",
-      "summary": "德国之声探讨AI作为心理治疗师的应用。AI可提供情绪支持、初步筛查、自助干预并扩大心理服务可及性，缓解治疗师短缺与成本高问题；同时涉及隐私、伦理、误诊风险、危机干预和医患信任等挑战，强调AI更适合辅助而非替代专业治疗。"
+      "summary": "据DW.com报道，人工智能正进入心理治疗场景，“我的治疗师是AI”成为讨论主题。报道关注AI在心理咨询与治疗中的应用潜力，也涉及疗效、隐私、伦理和监管等争议。此类应用可提升服务可及性，但需明确责任边界、数据保护与专业监督，避免替代必要的人工干预。"
+    },
+    {
+      "title": "New York passes law restricting children's use of AI chatbots - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXpoY2lKd2dZUG5KR2Y2OEVaVjBXMlEwYWFUeVdQTmdxS096SlhvcjMxMVh3ZkxDcGxObExycnJBWDB3YURTQVRoRThzZzlTWjNUdmw0VHB5NWMtQzgyVlhyTHFxWk5Gb0owVFJBckROeDFiNGVZcURTMjNod2ZTdTZHUnhWVlpvU3hXTzhWaW51QWdBTkJicVd4WlE2SlRBSURRNTlmTVJiUVRmakhNMzJn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T06:46:35Z",
+      "summary": "据The Standard（香港）报道，美国纽约州通过法律，限制儿童使用AI聊天机器人。该立法反映监管机构对未成年人接触生成式AI的风险担忧，重点可能涉及年龄验证、内容安全、成瘾设计与平台责任。新法将影响AI聊天机器人产品在纽约的合规策略，并为其他地区提供监管参考。"
     },
     {
       "title": "Not Nvidia. Not AMD. This Is the Best Artificial Intelligence (AI) Stock to Buy in November - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdWtHUVhMdU9PWmFCM3BWZ25oTXRPVmUweFFSSTR1Z25tTDcySVNtWVdNY1ZGeGhuazhyc19kNFNKRGhTRkRvOXJqckZRb1psVVo1VVJRMjBoeHJmR1Y4ZlM2XzVXR0lUNllQY0l6REdfTGlwNXRuTWdXQTNyNzNjWmVOdjRyY0dHbmlXSDlNekVDM1JxZldPZHlLdHhrd0w4U016c1l3a1psUmV2dHNrVGRtU1huZWVHSVZSU0xuY0tZX2hHZkdDeGFFeFdNVlZFQkpwQS0zQllLSi1wLTRfUGJKOU1ZdnZYMW5IQWR5Y21HeEFvLWdFYnNGYnRheWVZNHFr?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-29T06:35:38Z",
-      "summary": "《环球邮报》投资分析称，11月最佳AI股票并非英伟达或AMD，暗示市场关注点从GPU龙头转向其他受益于AI基建与应用的公司。文章可能强调估值、现金流、增长确定性及多元化AI投资机会，提醒投资者在AI热潮中寻找更具性价比和业务落地能力的标的。"
+      "summary": "据《环球邮报》报道，有分析称11月最值得买入的AI股票并非英伟达或AMD，而是另一家公司。标题未点明具体标的与推荐逻辑，但显示市场开始寻找AI产业链中除GPU龙头外的替代机会，可能关注算力配套、软件应用或半导体细分领域。投资者仍需结合估值与基本面审慎判断。"
     },
     {
       "title": "FILE PHOTO: Illustration shows words \"Artificial Intelligence AI\\ - The Daily News | Texas' Oldest Newspaper",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQ2pjNllIM0dWVUhpVUl2c0Z0MHRsaGRuT2Y5Q0dPelF6MXhPV3ZsWF8xZjlGRUR0VEl5NkllYWVuOXotc2s5MHAtZ2xReFFlSEcta2RoY2k4U1RiUEZQRGFEOGdJX2paTVFBbENjMmtVYkJBbURTRi1JUDFzMXF4RXEwcThXU09paUI3OXU2emZVWWl4TEtmYkNyVTRzRE9KVDZOb1VIbzQtNGZnRTRTZG94dXVDd1hiNC1SRmRLZEg2cy0wZV9kWjN0MFRfSFNpN3BRRjlQNE5wdEJkZmFOQkxmSGJ0V1ZwYldHQXpR?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-29T06:04:04Z",
-      "summary": "德州媒体发布“人工智能AI”字样的资料图或插画，属于新闻配图而非实质性报道。此类图片通常用于AI相关话题的视觉呈现，反映媒体对人工智能议题的持续关注；由于缺乏正文信息，无法判断具体事件、公司或技术细节，仅可作为AI报道版面配图信息。"
-    },
-    {
-      "title": "Morning Bid: In the AI alphabet, cash is king - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aU3ptejJzYnZUak01eEhoclJrM1FJUUVIUjJUb0FyTGJZTGhjR0pkb1VuYlB3eXhnN2tBUXFNbmp3S2xtRUN1Mmtpd19NdDU5WkRlWUJ4bkRGdlp3aUNfNGxRNTZENW5VQUQxQTMtRENoXzE1MG13eXNPaVo3cXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-29T05:32:00Z",
-      "summary": "路透早间评论指出，在AI投资热潮中“现金为王”。随着AI资本开支扩大，投资者更关注企业自由现金流、盈利质量和融资能力，而非单纯追逐算力概念。现金流充裕的公司更有能力持续投入数据中心、芯片和模型研发，并在高估值环境中抵御波动，市场分化或加剧。"
-    },
-    {
-      "title": "Puriosa AI, a domestic artificial intelligence (AI) semiconductor start-up, attracted an investment - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HUWlabUUwY0RWWnJpcHVIX0tOMUU3WEY2YTEwMVotalI4Y2ZUck8yZGhka1p4WGdBZmt3UXdwNS0tTEpyQXpqWHdsdVMyQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-29T05:26:36Z",
-      "summary": "韩国AI半导体初创公司Puriosa AI获得投资，显示本土AI芯片领域继续吸引资本关注。报道聚焦其融资动态，反映在生成式AI带动算力需求增长背景下，专用AI半导体成为创业与投资热点；资金预计用于芯片研发、量产推进及市场拓展，也体现韩国减少对外部AI芯片依赖的产业意图。"
-    },
-    {
-      "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-29T03:28:00Z",
-      "summary": "路透报道称，研究人员在受控测试中发现中国AI模型能够执行复杂网络攻击。该结果引发对先进模型被滥用于自动化漏洞利用、钓鱼和社会工程攻击的担忧，凸显AI安全评估与模型滥用防护的重要性。报道或呼吁加强模型访问控制、红队测试和跨国安全治理，平衡开源创新与网络安全风险。"
-    },
-    {
-      "title": "Cash is king as investors draw new battle lines in AI spending boom - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0hNZFVCc3hsNXpaUm04dC1TUFAtVGNWTXJYcGJPRXVHc0RSdXFtNkhvWTJFNlVPTmlnVjg5ckhDNHZKTmFId2NsNktzWTRIZDZZNmNMd2Y3bzc2cUtnbjZMQU1KMWV2X0tsZkY3bmlRa2lGQzhGTzlsekdZRVRoWkpRdTlqUEEyS0ZCTEhnbUwxR0NTYWRJc0xiZFBnOVdRSGM3RjZDQXEzOXg4dXVnc0tnaEV5UXdWQlhB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-29T03:07:16Z",
-      "summary": "香港《The Standard》报道，AI支出热潮下投资者正重新划分战线，“现金为王”成为核心逻辑。市场从广泛追捧AI概念转向审视企业现金流、资本开支回报和商业化能力；具备稳健资产负债表与持续造血能力的公司更受青睐，而高投入、低盈利的AI项目面临更严格估值检验。"
-    },
-    {
-      "title": "Cash is king as investors draw new battle lines in AI spending boom - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-29T02:31:00Z",
-      "summary": "路透分析称，AI投资热潮进入新阶段，投资者围绕“现金为王”调整策略。随着数据中心、芯片和模型训练成本高企，市场更重视企业自由现金流及投资回报，而非仅看营收增速或概念热度。资本雄厚且能自我融资的巨头与优质公司占优，依赖外部融资的AI企业可能承压，行业分化加剧。"
-    },
-    {
-      "title": "Pakistan’s Artificial Intelligence Warfare - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wLVI2V1pUMFg0ZUl0bkRRMnZPLTNRTXIxaXp1dzludnZNak9tS21sRmE4VG95QmJkS3dfb3daSUNXUmYySS1ueDBHeENRemJBNHAzTHJqdmdiZUV4WE1mNUtqTWpfQ0VaejNFY3YtcVdNT05mTUtENHFlVkpVWUU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-29T02:26:30Z",
-      "summary": "《外交学者》刊文讨论巴基斯坦的人工智能战争应用，涉及AI在军事侦察、态势感知、指挥决策、网络与电子战等领域的潜在作用。文章可能分析巴基斯坦在AI军事化方面的战略动机、能力短板与地区安全影响，并关注南亚AI军备竞争、伦理规范及危机稳定性等风险。"
+      "summary": "据《每日新闻》报道，该条为资料图片说明，展示“Artificial Intelligence AI”字样，属于AI主题的配图或文件照片，而非具体事件报道。内容未提供新的技术或产业信息，主要用于相关新闻的视觉呈现。可视为媒体在AI话题报道中使用的通用插图，实际信息需结合对应正文。"
     }
   ]
 }
