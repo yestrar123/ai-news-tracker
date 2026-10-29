@@ -1,160 +1,97 @@
 {
-  "updatedAt": "2026-10-28 21:58:44 UTC",
-  "totalArticles": 22,
+  "updatedAt": "2026-10-29 03:20:32 UTC",
+  "totalArticles": 13,
   "articles": [
+    {
+      "title": "AI token use may jump 78% as falling prices fail to guarantee lower costs - ET CIO",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPTUIydjhIRjhWNFBRZHB3cWhyLUZ1NnR3MUJQODBnUHhmZVV0cTFmYVY3RUVDaERBRVd0bEVGLTJod0haajR1dUl2QkpJbkpJOEk2b2tzS2dQajNDRDJLbkVwWFhBU1FURDhDNU1RenpQN1lOUWxFWE9qOE1IbnNFeGItam92TUtPZVcxM0YzYURLR2FlN2dsTmhqYWdwTmp2TzVBSk5kcHpWd0k4RFVZd1JYdzVfTjFyU0pMdnFRdUV6VXByRm9pWm9nVlhFS3VhV0k1Q2tFa2ZkVm5na05JWHkyUTZvQjlKa2FjM19zTXNST0pIQTQxTGpwVDZXMFJtTkNRUXJCY19Qb0M4WWFNSGxnZWd4M0FBVTlxU1R1MWl0OVYyLXo2QmZFc0hjZHPSAewBQVVfeXFMUEpWTkxWbjdydEs4bWR4YjN3Z2lVNmR0cFlmZEhobl9jaWJnUllpMkpkUFMtemtZbjZtWmZuTFBxTnV6QzVXUFVYX3ZCUkhPRDhySW1qdkUwal9TcERzQVJhT2JxVExlNzBhb2FMYkV5UXdOREN5OG9jQkZOaFhNbmdhUHNyOXVPTWoyb0lZcHBWR3d3QzlOZUMwQVJJTW9fd0EzbTNkaHB1d3cwbDZaUTNMTmUta3cyTWRpREF0NmFaeTZWMzZTUHVrS0N3Z2xVaTdhSVJiNjJvcXBJNjBmRjQ3QzJ6LUhGdmJycWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T02:32:00Z",
+      "summary": "尽管AI推理价格持续下降，但token使用量预计将增长约78%，企业的总支出未必随之降低。这说明单价下降会刺激更多使用场景与更复杂的工作负载，总成本反而可能上升。报道提示企业应从\"单价\"转向\"总成本\"视角管理AI预算，加强用量治理、模型路由与缓存优化，避免因价格走低而放松成本管控。"
+    },
+    {
+      "title": "Cash is king as investors draw new battle lines in AI spending boom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T02:31:00Z",
+      "summary": "在AI资本开支热潮中，投资者正以现金流为核心重新划分阵营。随着数据中心与算力投入激增，市场不再只看营收增速与概念叙事，而更关注自由现金流、投资回报周期与融资能力。文章认为，能自我造血的公司将获得溢价，而依赖外部融资持续烧钱的玩家面临更大压力，AI板块的估值分化因此加剧。"
+    },
+    {
+      "title": "When Central Banks Use AI, Who Is Accountable? - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ3pUcjg5LXdwWlVmM1RnSkVkQlg3SnhoNW5sODd3V01xYU0tdmN2UHprMjhaMXU4dTh1cHFlRTFSSnhZakNyU0x3WWdFdmtTT3ZFUkxFM1hodVpUWUVrTWZmRDAzMGxVblVDendQNUxoZFIybFozQ18zUFJ3OTZrU3Mzb1JtSW1HeVd6ZnQyZk84VTA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T02:03:22Z",
+      "summary": "文章探讨央行在货币政策分析、监管科技与支付清算中引入AI后的问责难题。当模型输出影响政策判断或金融服务时，责任链条变得模糊：应由模型开发者、数据提供方还是央行决策者承担？作者呼吁建立可解释性要求、审计留痕与人工复核机制，确保AI应用不削弱央行的公信力、透明度与决策合法性。"
+    },
+    {
+      "title": "Artificial intelligence (AI) company Antropics is spending tens of millions of dollars a year to pro.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iRlh2TXlIcVoxT0lmQ2RqaTdScnhnRnUwTHY0R1hveGVSbFljZEhkcHczZUYyS21veHExam9VRzZNdTY0U1gta08yRQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T01:58:50Z",
+      "summary": "据韩国《每日经济》报道，AI公司Anthropic（原文拼作Antropics）每年投入数千万美元用于特定业务推进。这反映头部大模型公司在模型训练之外，仍需在安全研究、企业市场拓展与生态建设上持续投入巨资。在算力与人才成本高企的背景下，如何平衡巨额开支与商业化收入，成为AI初创公司的核心挑战。"
+    },
+    {
+      "title": "2 Warren Buffett Artificial Intelligence (AI) Stocks That Could Soar Even if the Stock Market Crashes in 2027 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTlyUzdEd1pxNHJTdXpkZTZWVi1LMEVKT3RGd2VuUVNJdFFOaHI5cW1nWGU3eXVXX3VyanV1OERJdDRjdDdZNVd0Ykh0MG9vZTJDUjZQYVNNRGoxT3o0OGlSS3JfbUxSUnBsYlhqUUxwbU9yZ2FHZDVjc3VvTEJ3RXRXTzFuaU4tMkEwSGdXUlRiZDZFWWlNeTVWSFU4TUNpTnVHUEtTcHg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T01:20:00Z",
+      "summary": "该文以巴菲特式价值投资视角筛选出两只AI相关股票，认为即便2027年股市出现大幅回调，它们仍具备上涨潜力。其逻辑通常在于稳定的现金流、深厚护城河与合理估值，而非纯粹的AI概念炒作。文章提示投资者在AI热潮中关注财务稳健、盈利可见性高的标的，以抵御周期波动带来的风险。"
+    },
+    {
+      "title": "Kakao has unveiled artificial intelligence (AI) technology that connects users' questions and the co.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qZGtpRU93bzhlYXpXQ3hrNktUWjVGQmY5YmN5NTBYQkI0LVpTaXZMbGlJRnFtZVo0UUFNRnFXUjBDZG5fYlpfdjhDcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T01:15:46Z",
+      "summary": "Kakao公开了一项AI技术，可将用户提问与平台内容相连接，提升搜索与内容发现的精准度。这被视为其在大模型应用层的关键布局，意在把AI问答能力嵌入搜索、内容与本地服务生态，与全球搜索巨头及本土竞争者争夺用户入口，并探索广告、电商等变现路径。"
+    },
+    {
+      "title": "Artificial intelligence transforms the workforce, regulations - WWNY",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYWw1cTdvS2VkQkljVlFvUVpQSzVaV042b1c0V1ZLVE5pQmdja1l5bVNyY0I2dWNPa0ZYUm9FZTE4OGZlLWNUclhkS0VZRnc3bW1kWkJHR0NfR0xOMHhxRjhQR0U1eDhtbHdHakZ4d3BDeERZTnE2c3dqTk15cVFFeDZTcGZSOUZMMFU1Q0ZpT0VuRnVLVVHSAaoBQVVfeXFMT09jOC16eVdyZXZxVGt2bTJVSDlha1R6VUNWSUJWSnZ5a0F4MjBuVHBqdmxkajZBZzdnUHhQMjBNYzRKRmFyVU9rNTNqVmktVDFYWEQ3al9Nc25pV3FtaEk0Z21zMmRRbmRHRndRU1pwdG8wb1M1UG5EUDJJWHB2SWVrTTZFOGp3ZWUxZG9FLUJOaU56OU95SXZHa0otUkNEbll6WUV5aTNzZ3c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T23:00:00Z",
+      "summary": "报道聚焦AI对劳动力市场与监管框架的双重冲击。一方面，AI加速岗位结构调整，重复性任务被自动化，催生新的技能需求与职业培训压力；另一方面，监管机构正加快制定规则，应对数据隐私、算法偏见与就业影响等问题。文章强调，企业需在提升效率与员工再培训之间取得平衡，政策制定者则需在鼓励创新与防范风险之间把握尺度。"
+    },
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-28T21:58:32Z",
+      "summary": "微软首次以美元数字披露Azure季度营收，达332亿美元，此前仅公布增速。这一披露让外界得以直接比较其与AWS的规模差距，显示Azure正快速逼近市场龙头。在AI算力需求推动下，云业务已成为微软增长核心，但同时也面临资本开支攀升与产能供给瓶颈的挑战，投资者将更关注其AI投入的回报节奏。"
+    },
     {
       "title": "Google expands AI Search ads globally as core ad growth slows",
       "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-28T21:48:37Z",
-      "summary": "谷歌将AI搜索广告扩展至全球市场，此举正值其核心搜索广告增长放缓。母公司Alphabet第三季度营收达1276亿美元，同比增长25%。这表明谷歌正加快把生成式AI融入搜索商业化，以新广告形态对冲传统搜索广告增速压力，并重塑搜索变现路径。"
+      "summary": "谷歌宣布将AI搜索广告扩展至全球市场，此前该形式处于测试阶段。此举出台之际，母公司Alphabet第三季度财报显示营收同比增长25%至1276亿美元，但核心搜索广告增速放缓。谷歌希望借助AI概览等新广告位提升变现效率，在守住搜索广告基本盘的同时，为生成式AI时代的商业模式寻找新的增长点。"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: Google and Microsoft weave tangled AI webs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVm43cDBhVFBTTlpKaVFQWVMtbUhkRmtZOHFRV0Nrb2hYblRMSTZIaTZuTlJUVGJSWGhHOWl3a1RjclBvUm1uQnd5RVlUdW5ocTYtYTZMendCUWNGTmNzWjJkRzhyNTJGbWNzQ3hpUjdUTjVvbmVNRW0teER2WUktTnVVbzdHTnpxeEZZTm5uUGQ2T0pNUkNQVElBZER1V0dT?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-28T21:48:05Z",
+      "summary": "路透Breakingviews评论指出，谷歌与微软在AI领域的布局日益交织：双方既是云计算与基础模型的直接竞争对手，又通过投资、合作与客户关系相互依赖。这种错综复杂的关系使竞争与监管的边界更加模糊，也让投资者难以清晰评估各自AI业务的真实敞口与回报，增加了估值判断的难度。"
     },
     {
       "title": "It costs a lot more to use AI models in some languages - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGFmaGM2TkpmUU05ZmJFODBHbnZzUFloWGZ0MkRfdFNLNXBTMEFLLVhCZDY4NlRRaUd2Nmp2Uks2dU1KVDUxX1ZpOU9WSkpyQnZIdVh4MXFBNW9HVmUtTkJNSVdZZkIteVZ2X1ppMHBQSS1qOURRN2IwUVBmSXdXY3JKNFlxRktncm14aERMTXBVd2diZ01lYnRoZzdxQlJacTNmNm5UZ0MtSlFPbDVZ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-28T21:46:52Z",
-      "summary": "有报道称，使用AI模型处理不同语言的成本差异显著，部分语言的价格明显更高。这背后可能涉及分词效率、训练数据分布和推理资源消耗等因素，反映出AI服务在多语言场景下的定价不均与语言公平性问题，企业需重新评估多语言部署成本。"
+      "summary": "据Computerworld报道，使用AI模型处理不同语言的成本差异显著，部分语言的花费远高于其他语言。这一差异主要与分词（tokenization）效率和训练语料丰富程度有关：在语料稀缺的语言中，同样的内容常被切分为更多token，且模型能力相对较弱，往往需要更长的提示或更多次调用才能达到同等效果，从而推高API调用成本。报道提示，语言资源不均衡不仅影响AI的可用性与公平性，也直接转化为企业和开发者的实际支出差距。"
     },
     {
       "title": "Microsoft recorded $10 billion in revenue from OpenAI",
       "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-28T21:34:30Z",
-      "summary": "微软披露，截至9月30日的季度中，其通过与OpenAI的商业安排获得100亿美元收入，包括收入分成付款。这一数字凸显双方合作规模巨大，也说明微软在财务上仍高度依赖OpenAI。随着AI基础设施投入上升，这种深度绑定关系将持续影响微软的营收与成本结构。"
+      "summary": "微软披露，在截至9月30日的财季中，其与OpenAI的商业合作安排（包括收入分成付款）为其带来约100亿美元收入。TechCrunch指出，这一数字凸显双方在财务上仍存在巨大的相互依赖关系：微软一方面通过Azure算力与收入分成从OpenAI业务中获益，另一方面其AI产品线也高度依赖OpenAI的模型能力。这一披露让外界更清晰地看到OpenAI业务规模对微软财报的实际贡献。"
     },
     {
-      "title": "Google and Microsoft weave tangled AI webs - Breakingviews",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzFlZ1RtVFN0OTdOS0l3WHlCMHlXanNzNGlLeXVkak1wOEFRdG1rMFFuVjN6UFF6ckZONTRyTkpvdzZRUHJnckFEQUJBMmtEalh1NkZUUGVncERmUFIyZDVRSVJIN0VrM1hHblF6S0xfZHVsNzFpaUoxcEM2NGdrZkg0VWc1cW04VUREX0RocWptZzZwLUQ2Ti02Yi1NbXdvMGZiYg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T21:33:49Z",
-      "summary": "评论指出，谷歌与微软在AI领域正编织错综复杂的竞争与合作网络，双方既在云服务、模型能力和搜索广告等方向争夺市场，又通过投资、合作和客户关系相互交织。这种“竞合”格局使AI生态边界日益模糊，也给监管审查和商业决策带来更高复杂性。"
-    },
-    {
-      "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
       "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-28T21:25:30Z",
-      "summary": "微软连续第10个季度创下营收纪录，最新季度营收达923亿美元，同比增长19%。尽管AI未来仍存在不确定性，但当前AI相关需求和企业软件业务仍为微软带来强劲增长。连续破纪录的业绩显示，微软在云与AI基础设施上的投入正持续转化为商业回报。"
-    },
-    {
-      "title": "Trump pushes to rebrand AI as 'super intelligence' in bid to reshape tech narrative - WBFF",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaHo3bURoUkltMmIwQ0xSbV9kQ0h3WUhubmhpdmF4UjZNTVhlTTZIeEhKVmRuUERMQnhGaGM4bzczR08zUXd0Z2t1Zzc4QS1RaHEySlpLVkNvVkdLNzlma3ZQenEyVmhObG5LOGNIUHpmS3VnYVhVZ1pwVkpvZDdNRTlMaF9HelNCYmpIX0o5WWlOdk5MRml5RDhNbTk3eTNfR2pfbkxlQnVTTGhBQTM2OWNuc2hSZU1ydDFJX2hEd2ZOUDE5emhVUlV6X19PcGY2YktSOHdXUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T19:52:38Z",
-      "summary": "特朗普推动将AI重新表述为“超级智能”，试图借此重塑科技叙事。这一提法不仅是措辞变化，也可能影响公众对AI能力、风险与监管的认知。将AI升级为“超级智能”概念，可能为政策主张提供新框架，同时引发对安全、就业和科技竞争的新一轮讨论。"
-    },
-    {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-28T19:19:58Z",
-      "summary": "Anthropic推出新工具，帮助企业查看其AI支出具体换来了什么，提升模型使用与成本透明度。此举发生在公司计划IPO之前，显示其正回应企业客户对AI投入产出比的关注。通过展示用量和花费去向，Anthropic希望增强客户信任并推动企业级AI adoption。"
-    },
-    {
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-28T19:05:46Z",
-      "summary": "Wiz首席技术官谈及PHP2Shell漏洞和即将到来的“漏洞末日”。上周，支撑约70%网站的开源语言PHP出现两个严重漏洞，迫使企业紧急修复，部分网站甚至下线等待补丁。事件表明老旧基础设施风险集中，清理和修复远未结束，企业需加强供应链安全与应急响应。"
-    },
-    {
-      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-28T18:50:39Z",
-      "summary": "Wiz首席技术官警告，互联网老化代码正面临“漏洞末日”。PHP的两个严重漏洞影响约70%的网站，导致机构紧急打补丁，部分站点临时下线。事件虽已淡出信息流，但修复工作仍在继续，凸显广泛依赖陈旧开源组件所带来的系统性安全风险，需长期治理。"
-    },
-    {
-      "title": "Altman urges firms to prioritise AI security over productivity gains - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORU0waEVlWE54N1NKSFJabmZ6ZVZ1ejB6S3RtQklVeFlrUXJpSGNVVlRSWHhLSGg0T3ZxWnVkajRTLWR6OEdsVUNmOWlkblBJWGIxdnZuZFpOQ3VoYjZrdl96SW85ZHhwOF91elNMMHBJamNmNE1wcjJhWDdoQlpfaXJQUjYtc3FMZzZULUpTSTFwNkRyVC16Rl9reFBVTFVraVROeThDb0pnTktPWllrOUJlRGJoZ0lFUkM0bGQ2N0U1R24zLU9iNW10SUoxRDVqSEhsTmdnWWZ1ZVBzd25LbThSVWVRdEYxZmZ4MDZR0gHzAUFVX3lxTE8yY0Q3bTh5R1pEQlR3WmhSS3gtSGJUdG5QY3RIT0xpSG1GWXRfOWNnQXZSREhFVkJTTWtlR0FyaFRJOFRBS0Y1b2Y0RF96YkZUZEZWSzdXUDF2S2F4U0ZHQWpvWnZJQ2hZUWh2VmYxNzUzUVRsS1l5M2tLYmtFYjhCUkMwLXhRMmNFQmZpM1FHazV1MkNQb3BtNmlPWHdBOHdfNnhiTWxxS3NiZDcwMXcxZGlQeGRISEZQSnVwOEJkYUc1SVlyRFJ0TnFKWFdOMzlBNFFYdmRWeUNSMlBmaFQ0SG1mX3NfSDFYNkVzdklYWFdJMA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T18:50:06Z",
-      "summary": "OpenAI CEO奥特曼敦促企业将AI安全置于生产力提升之前。随着生成式AI加速进入业务系统，模型滥用、数据泄露和输出风险上升，企业若只追求效率可能积累隐患。该表态强调安全治理应成为AI部署的前置条件，而非事后补救，并推动企业建立更完善的风险控制机制。"
-    },
-    {
-      "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore | Amazon Web Services - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRldyOHdWSmREakNkdGgwUmZLMkhWdEt1NlpPWGZmaS1JVEhNeUV0UExEUktoaTk1Q091Rmh3VjlNMnI5a0V1RmFGUmJMTmZIUi1kVTZrQ1hZZmdYcVpfNzFKUXB5SzdjbUVyWUtRZ0V6dVMtZG54MGpJSllnWnF6dXVSc2ctUnpPU25aS1pHbGhGVVU2THFmWVpXTXUwWWZORGx2cU9Qa0VSUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T18:28:26Z",
-      "summary": "AWS发文介绍如何基于Amazon Bedrock AgentCore构建智能体AI平台，覆盖托管运行时、工具调用、记忆、身份与安全等能力，帮助企业降低多步骤智能体应用的开发和部署门槛，推动AI从单次模型调用走向可运营的智能体平台。"
-    },
-    {
-      "title": "OpenAI plans to buy Google's TPU chips, report says - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41YkZQZlZuVTJrYmJ5OTJuejJFR3BIS1pHOXJ6SFlSMGJaOXl4ZmdhVzI0TGpXNHFzRGlFVjd5VGhfSVJqUEdRanlWWXY0ZzNEZHlTc3A5VGNiWGROamp2dHd0Q2FTa0l1ajlVU01NZkdBbnZn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T18:10:23Z",
-      "summary": "据报道OpenAI计划采购谷歌TPU芯片，以减少对英伟达GPU的单一依赖并多元化算力供应。此举反映AI模型公司面临的算力成本压力，也凸显芯片厂商与云服务商之间的竞合关系，若落地可能影响训练和推理硬件格局。"
-    },
-    {
-      "title": "Law school puts AI 'Supreme Court' to the test - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObE1YWXdUWktpRFFvOU9LWFhnRHVIU2txei1wVkdRVHhqbWVfMzVRUEstelZQQTRrcG1keXNBZ3Y1dGZnNTlMRExsWDJhaVRZT0txeTcwOGZZRXN1TWczLXpkRml3VlU5Nzlqbks2ekpoVEpVb1cyeTVGVkZzVjczbnRUa3hES3I1VGdjT21DWW9iSm8z?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T18:02:17Z",
-      "summary": "一所法学院对AI“最高法院”系统开展测试，让AI模拟法庭审理和裁决，评估其法律推理、法条引用与程序遵循能力。该实验兼具教学和研究价值，也引发对AI辅助司法可靠性、责任边界及伦理风险的讨论。"
-    },
-    {
-      "title": "Could next-gen artificial intelligence help map out future space outposts? - Ohio State News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHdSQ0p2VlNlN0hhaGNFOGtTSFpNcTFEUjlpNXlSOXJyMV9YMnFsakdza1lxaGxZWXFYS1Z4cEdyd21LQndqa3ZFZlI0dVZIcVNZb0JRM1ZqQUg3QWllbnl5Y3ZuNkhQb3Zsb003LWdJVWZ2UTVyXzZTNEVsVEZGbGc2cVVaS3YwYUI4MHprdVJ2M2F3MFg4czQ1dw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T17:49:19Z",
-      "summary": "俄亥俄州立大学相关研究探讨下一代AI如何辅助规划未来太空前哨，可能结合地形、资源、辐射、能源和物流等约束进行选址与布局优化，为月球、火星等长期基地设计提供决策支持，提升太空任务的可行性。"
-    },
-    {
-      "title": "The infrastructure playbook for operational sovereignty: Why neoclouds need to offer sovereign AI - CIO",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaExQVkc0bXVVSXNaX18tQnVWVjVBZzlaakdLWG1ma3ZOVGMxSC0tTm4xaUFfYUhIV05YbnRvbU15Tm1HWnVWQmhPNGN4WU1pRDhZWGdPSHJrXzJvM2dWenN5dVZjalhoWmltTFJGVGNFcGYtUmdJRi1ZSVJwa3JTd2s2ZjNwWDJqaC1USXhsR0dNdVZaN0tma2ZQNFllRXVFN3BvdVUyNm5jc2ppTFdtTExHYmE4ZHBBZEotT3RyT044eVdSU2J5RHh3amFLZk5SNVhR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T17:38:29Z",
-      "summary": "CIO文章提出面向运营主权的基础设施策略，认为新型云服务商需要提供主权AI能力，满足数据驻留、合规审查和运营控制需求。文章建议从本地化算力、隔离云环境、治理机制与安全认证入手，服务政府和受监管行业。"
-    },
-    {
-      "title": "Securing the foundations of intelligence: Physical security and power sovereignty in AI factories - CIO",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOFdQaWIwWmpDR09waWRzUXlMc3paRUo5TXJWdDlKNllWNkh5VVFyUndKSG9pcGxTY3I3UTJ1SDZCa2ljXzlDNk9lYTlHbzY3VThSWDAwdXhadTUtbnhFWEVTdm9qYmJOcmt4aV9iVXJVS1JCS09Ka2IzSjJYUlNoaVMwZ01jR0JweXdSQWRjRVA3UGY3b1ZDNXd1ekxzMGVfbTQwRmw5WFJYdEFkbnVOZGJacDI3S3VUMnVqeUh6WVZTSllPdnZUN3h2OFFBbkVIejJr?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T17:27:36Z",
-      "summary": "CIO文章关注AI工厂的物理安全与电力主权，强调数据中心必须保障供电可靠性、电网韧性、访问控制和供应链安全。随着AI算力设施规模扩大，能源与设施安全正成为AI基础设施治理和连续运营的核心议题。"
-    },
-    {
-      "title": "AI-generated political ads fuel debate over deception and free speech ahead of midterms - KRCR",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOTmpsc0tJQUVxbkRCTERYVWhqaFpnX0Zsc3hFYXcwWE43VFlWQl9MX0NLY2ZIdjgyUUlLMGtQbjBHRTh1VkpnNzNyME0tNEVKVGwyNWxockRMTHZTTU5wMzdqa3hpRmJOd25GQUhCc1d2cGl4eTNtQndNMDQtbDFPOTVHYkQ1MUNMUDRyY1ZKbDFCSGZwdWp5VlBMMFBDQkVZanhyUkNiLWVvYVQteU9YV3h6blhRQndXb0NTYWJadGZhTVRad3VkbWhGeE95XzVxY3ZYZlRiUTF0c2FScXI2aERHVGN0alMtR3NQb0xROEpkMGFpRGZnYXBLNFBLR25lS0lNVWstOGFKM0U1N2QxVGtEV2hSNFpFeHE3WGtqRXVFRjRRT1k2WGVxWGQ5cV82LXVtbGZhSFlaSFhxRkdqZzZLQjBJV3hoODlkNXVXdmw2SkVlX21jQlUzSElINk44RG9xTGd5YWRoMkJXcS1VU0liYkZZS2h0RS1SZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T17:23:52Z",
-      "summary": "中期选举前，AI生成政治广告引发欺骗与言论自由争论。监管者关注深度伪造、披露标识和平台责任，而反对过度限制者担忧压制政治表达。争议凸显如何在维护选举信息真实性与保护第一修正案权利之间取得平衡。"
-    },
-    {
-      "title": "Why Enterprise AI Stalls After the Pilot: Srujana Sree Bathineni on Building AI That Delivers - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamdlblFZUmswSWlzMzhnS1Z1MzZaeXFmbTJpdjl2WXdKcWhSekRNZlY5WElGTEJlRVgyUk11TnJPVVFaUTcwTFVGdFJqUnBNcTZ2d2g0dFR2YWlkWjg2cVZYZWFHSFZsUzQxa1BJY0dxNHMyT1ZrSC1UTXo0QXBSMTNyTnlDdnlKUFVXREdKakhGb1A0c2J1WGFvZGVfNkRMWURWODdfWTQ4ZlBqOXdJdzFUYXk4T094?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T17:20:54Z",
-      "summary": "TechBullion访谈Srujana Sree Bathineni，分析企业AI在试点后停滞的原因，包括数据质量不足、流程集成困难、治理缺失和投资回报不清。她主张以业务价值为导向，构建可扩展架构并加强变更管理，推动AI进入生产环境。"
-    },
-    {
-      "title": "Superintelligence Is Super Dumb, Actually - National Review",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWTh5aEZjMTRlNWdBanR6RWlQcW9ZcHgxTE9DVF9tWUtKLXFQRG1IQjlwdFdFcDFvUWdHbUFVdG5KMkVzMHNUMnNYSER5WEVGTmlUTk4wNjV2ZDNJbVlQMXJZQ1Z6eUlNVmdrVTZDV25jZGpLQVNvdUNaWlJtd3psbm16Znd1Z9IBiwFBVV95cUxPXzZHNFFMRW5QdEZYZ2liRTFRM2FCckNKdlRiX0M1MFNOZ3NfMWtBTGpSNW90MHBvcXYybjR0Q1RuekVfWVFvMEZrVkZBZUcycnlVaWxzWHVfYXZGOWZkTkZhNkxJMjRwdFJxb1VKVkhEbUFTTzhSMlRtZTlaWWE5UnJadHJZYmRFU0Jn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T17:20:48Z",
-      "summary": "National Review评论文章质疑“超级智能”叙事，认为当前AI仍缺乏真正理解和可靠推理，所谓超级智能被明显夸大。文章主张理性看待AI能力边界、商业炒作与潜在风险，避免公共政策被科幻式假设主导。"
-    },
-    {
-      "title": "DOD Sets Contract Requirements for Procuring ‘Unbiased’ AI - Homeland Security Today",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGJZc0VsakdWMEpNSzdKaDFmaXFXZUYzOGEzT2V0VXJJZkZvckd6ZjFabGNuSWgyU0k2cnlaODRYMG42OFVoQ1BqS3ZXQnBMMjA3cnUtRTAtdFFTajdHcHFqYzBzQUlqM1AxOUk0bmVlTHp4RTFWZjBvVUVsb3k5ZlNFek16RGdPUFZVOUdIakJ2OWlzTnJRRGJPZDdHdmowN2FHRnRqRzRxdVRoYUFWWTlua0lhVHprY18wc2xRSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-28T17:14:51Z",
-      "summary": "美国国防部为采购“无偏见”AI设定合同要求，可能要求供应商披露训练数据、开展偏差测试、提供可解释性并持续监测模型表现，以确保国防场景中的可靠性与合规性，反映政府AI采购治理正趋于严格。"
-    },
-    {
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-28T17:00:00Z",
-      "summary": "Chrome 的 AI 自动填充功能现已支持在用户授权后读取 Gmail 邮件，从中提取航班确认、物流追踪、订单详情等信息，并自动填入网页表单。该更新提升了表单填写效率，但也意味着浏览器需访问个人邮箱数据，隐私授权与数据边界成为关注重点。"
-    },
-    {
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-28T17:00:00Z",
-      "summary": "Google 宣布向更多应用开放 Gemini 和 Search，并推出新的开发者平台，允许企业将自身服务接入 Google 的 AI 体验。随着 AI 智能体重塑网页交互，这一举措有望改变消费者发现和使用应用的方式，也意味着 Google 正加速构建围绕 Gemini 与搜索的 AI 应用生态。"
+      "summary": "微软周三公布最新财报，季度营收达923亿美元，同比增长19%，实现连续第10个季度创下营收纪录。TechCrunch评论称，无论AI的长期前景如何，微软当下仍是AI浪潮的明确受益者。持续破纪录的表现主要得益于云与AI相关业务的稳健需求，同时也为其后续在算力与模型上的巨额投入提供了财务支撑。"
     }
   ]
 }
