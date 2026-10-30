@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "7224",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T01:20:48Z",
+      "summary": "美国肯塔基大学管理人员戴维·杜尔曼获得职场使用AI的宗教豁免，引发关注。报道指出，申请此类豁免并不一定需要信仰神明，员工可基于宗教或良心理由拒绝在工作中使用AI。该案例凸显AI进入办公场景后，个人权利、雇主管理与合规边界之间的张力，也可能推动企业重新审视AI使用政策与豁免流程。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7225",
+      "title": "Artificial Intelligence - Friend or Foe? The real relationship between AI and penetration testers - teiss",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzQ4WC1IZWZWYmhCT1ptdVhCaXVkS0x2OG9ONEFxanhTMkpDOTAzSk5BN1FZQnpCSG5BTnJlV0QwT1NGMExzUGNJdm9YRW9jQXNqd1otYnJNbFNyN0pxd3ZLTkRDMThEUm84QXc5VURVM19Cb1NnT2o4Q3RrYXVaM01YUEYyczR0aVB6T1MxTFlBdXRPdEdTYlZKb2JOb04wME1waGM5bFlnblM3b05hRlpVT21WdE1kOWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T00:05:12Z",
+      "summary": "报道探讨AI与渗透测试人员之间的关系，认为AI既非单纯朋友也非敌人。AI可帮助安全人员提升漏洞发现、信息收集、报告生成和重复任务自动化效率，但也带来误报、数据泄露、攻击面扩大及过度依赖工具等风险。对渗透测试而言，关键在于把AI作为辅助工具，结合人工验证、专业判断和规范流程，在提升效率的同时控制安全与合规风险。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7226",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-29T23:42:22Z",
+      "summary": "亚马逊CEO贾西表示，AWS有望成为营收达1万亿美元的业务，但前提是继续大举投入。亚马逊希望在AI云计算领域占据主导地位，并成为首家营收突破万亿美元的企业，因此将持续扩大资本开支，用于数据中心和AI基础设施等。报道显示，AWS的增长雄心与高昂投入并行，短期利润压力和长期AI云市场卡位成为关注焦点。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7227",
+      "title": "Billionaire Bill Gates Just Issued a Blunt Warning About Artificial Intelligence - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNFpndUVPM0U5TldDNHZNVS1XNjRpb2dyazNWaTEyUTlCaGhTMm9mMDR1T19JOXdPcWUzQVdMM0tiOVNwRm1JaGhzdFFDMDNjaXFtQTJ0N2lkbWpWaUpjaE9pbTVDSGF6M0RMVXJxOXVDX2t5SUxrS3lUV3dtbFpzbWk3dlFrcDVlZF9vT2I4UGc2cERVdXRxN0FrbmZaaHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T22:20:00Z",
+      "summary": "比尔·盖茨就人工智能发出直率警告。相关报道称，盖茨在肯定AI带来医疗、教育等巨大机遇的同时，也提醒其可能被滥用、加剧不平等或带来失控风险，社会需要提前建立监管、伦理和安全机制。其核心观点是既要拥抱AI创新，也要保持审慎，确保技术收益更广泛共享并降低潜在负面影响。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7228",
+      "title": "Google just lost $500 billion in a panic over AI - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMVFIcUtySkZSRGVOR1dtcGEyWjlnblRKQ2p5RWp5YUtvdFJSVVcwdTl0THBjOE1wUElURXVGTUdPWEpXUFV6OWlJZ2xpTzZobVdRU2otVXdIZUFLcWFQbGZESjZ6ejNEdi1vcjhJLVVJcGdQd2pLTlRQbEFqbUp2VlpaZWpid3RSMTNRc3VXc18zLU1Ub0RoalFnLWhWTzNFWWE4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-29T22:14:00Z",
+      "summary": "报道称，围绕AI竞争的市场恐慌使谷歌市值蒸发约5000亿美元，反映投资者对谷歌在生成式AI浪潮中竞争地位的担忧。文章将市值波动与谷歌AI产品进展、搜索业务受冲击预期及竞争对手压力联系起来。事件凸显AI叙事对科技巨头估值的巨大影响，也表明市场正在重新评估传统搜索广告模式在AI时代的韧性与增长前景。",
+      "fetchDate": "2026-10-30"
+    },
+    {
       "id": "7212",
       "title": "AI-generated Fake News Threatens Nigeria’s National Security- Experts - The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnJvNXRrTjR4c1FmdnBIcTJxYlBMSWRfU1ZTV3ZWa1lGSGg0LUxwamVkTWdtWndFaXQ4SXRHV3MyRlotY0lHazVSLXUwU1BGdHc2Z0cyMHBZQkNkNV84d2FNYnhyLVNTVGNQUUpleloyUEdPQ1NOQjdUN0pYNEl5RUU3LVo0OW40MFdyNHpITDVjdlNIMnRZNA?oc=5",
@@ -64999,5 +65044,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7222
+  "total": 7227
 }
