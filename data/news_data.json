@@ -1,48 +1,62 @@
 {
-  "updatedAt": "2026-10-30 03:22:18 UTC",
-  "totalArticles": 6,
+  "updatedAt": "2026-10-30 07:54:23 UTC",
+  "totalArticles": 8,
   "articles": [
     {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T01:20:48Z",
-      "summary": "美国肯塔基大学管理人员戴维·杜尔曼获得职场使用AI的宗教豁免，引发关注。报道指出，申请此类豁免并不一定需要信仰神明，员工可基于宗教或良心理由拒绝在工作中使用AI。该案例凸显AI进入办公场景后，个人权利、雇主管理与合规边界之间的张力，也可能推动企业重新审视AI使用政策与豁免流程。"
-    },
-    {
-      "title": "Artificial Intelligence - Friend or Foe? The real relationship between AI and penetration testers - teiss",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzQ4WC1IZWZWYmhCT1ptdVhCaXVkS0x2OG9ONEFxanhTMkpDOTAzSk5BN1FZQnpCSG5BTnJlV0QwT1NGMExzUGNJdm9YRW9jQXNqd1otYnJNbFNyN0pxd3ZLTkRDMThEUm84QXc5VURVM19Cb1NnT2o4Q3RrYXVaM01YUEYyczR0aVB6T1MxTFlBdXRPdEdTYlZKb2JOb04wME1waGM5bFlnblM3b05hRlpVT21WdE1kOWc?oc=5",
+      "title": "The AI Tightrope: How the Artificial Intelligence Boom is Propelling Global Growth While Teetering on the Edge of Systemic Risk - Vocal",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN295X1hnVDc4cW9XWEZyX0l1NXNYN3BXUDZLM0dfN3prNlFCa2wwdzZBUzZDZGhlTVl2dVFBX2VnUGJ0OFRzQzRLQTFaSzhoblZJUUZUTmNLUl9JWWFkVGdEMVBlTmw1RmFQc0RUblZnampiTFlVdjBqZ2pOZGV2TmtjMEF6ZFRDNGZOU2xUQVU4R29xb3h5cU1XOVhIUFJCWlFGbDlPWjV2THZLcGhRaWtscDVLVVJOa0pKNUJ1Q3FDSHFlM3ctSVNubFVLN2ZLQWtHNjJJeldUNEZPX2ZYdlhIdw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-30T00:05:12Z",
-      "summary": "报道探讨AI与渗透测试人员之间的关系，认为AI既非单纯朋友也非敌人。AI可帮助安全人员提升漏洞发现、信息收集、报告生成和重复任务自动化效率，但也带来误报、数据泄露、攻击面扩大及过度依赖工具等风险。对渗透测试而言，关键在于把AI作为辅助工具，结合人工验证、专业判断和规范流程，在提升效率的同时控制安全与合规风险。"
+      "publishedAt": "2026-10-30T07:20:41Z",
+      "summary": "文章将AI热潮比作走钢丝：一方面，AI推动全球经济增长、提升生产率和产业创新；另一方面，市场集中、基础设施依赖与治理滞后可能累积系统性风险。核心是提醒政策制定者和企业必须在创新速度与金融稳定、安全监管之间取得平衡。"
     },
     {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-29T23:42:22Z",
-      "summary": "亚马逊CEO贾西表示，AWS有望成为营收达1万亿美元的业务，但前提是继续大举投入。亚马逊希望在AI云计算领域占据主导地位，并成为首家营收突破万亿美元的企业，因此将持续扩大资本开支，用于数据中心和AI基础设施等。报道显示，AWS的增长雄心与高昂投入并行，短期利润压力和长期AI云市场卡位成为关注焦点。"
-    },
-    {
-      "title": "Billionaire Bill Gates Just Issued a Blunt Warning About Artificial Intelligence - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNFpndUVPM0U5TldDNHZNVS1XNjRpb2dyazNWaTEyUTlCaGhTMm9mMDR1T19JOXdPcWUzQVdMM0tiOVNwRm1JaGhzdFFDMDNjaXFtQTJ0N2lkbWpWaUpjaE9pbTVDSGF6M0RMVXJxOXVDX2t5SUxrS3lUV3dtbFpzbWk3dlFrcDVlZF9vT2I4UGc2cERVdXRxN0FrbmZaaHc?oc=5",
+      "title": "North Korea Unveils AI Drones, Rocket System - Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmZ3Y2J3TGNxTThBTGxQemJsanltMG5qOXlSQkp0Sk9PT0FiWFdFUDhHTTcySmZRM0phQ3g5REhYbUJ0WUdiZXI4SXhteGZrV3hPQmp4NHMxWTR4c1NrZnVDNXUxRHF5d1Q0WDB0UGJ4RWdhZkxMZUhUbnRuZTVaNUxjSEFVeER4eTgwd0dpb2tHYXc4MkE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-29T22:20:00Z",
-      "summary": "比尔·盖茨就人工智能发出直率警告。相关报道称，盖茨在肯定AI带来医疗、教育等巨大机遇的同时，也提醒其可能被滥用、加剧不平等或带来失控风险，社会需要提前建立监管、伦理和安全机制。其核心观点是既要拥抱AI创新，也要保持审慎，确保技术收益更广泛共享并降低潜在负面影响。"
+      "publishedAt": "2026-10-30T07:13:15Z",
+      "summary": "朝鲜展示AI无人机与火箭系统，显示人工智能正加速进入军事无人平台和武器系统。报道虽未披露具体性能与部署规模，但此举可能加剧地区安全担忧，并引发对自主武器扩散、军控规则和战略稳定的关注。"
     },
     {
-      "title": "Google just lost $500 billion in a panic over AI - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMVFIcUtySkZSRGVOR1dtcGEyWjlnblRKQ2p5RWp5YUtvdFJSVVcwdTl0THBjOE1wUElURXVGTUdPWEpXUFV6OWlJZ2xpTzZobVdRU2otVXdIZUFLcWFQbGZESjZ6ejNEdi1vcjhJLVVJcGdQd2pLTlRQbEFqbUp2VlpaZWpid3RSMTNRc3VXc18zLU1Ub0RoalFnLWhWTzNFWWE4?oc=5",
+      "title": "Shock, vindication, regret: Scientists react to AI roiling life's work - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSy03QktweWhpejBGMmY0ejNWdmlFejNHRjUxVzBHUkxIckZqMHZzX2lkSm8zTWRKYlp5VmVPX0tSZk9NTGtFR0hmaWpRanA1U1BVR1JheHg0RGdDS01LSFgtZnhEeUVyMnFqaFFrYk43aVhWU1hncUFJTHFNM2dxNF9CLTRzYjBSaUdqU0Y1WUtIV0RlYUZ6ZTM2Qjl0d3RCZlN2akc0ZmlsX29mUndqbzZlQ2RweXZfaHc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-29T22:14:00Z",
-      "summary": "报道称，围绕AI竞争的市场恐慌使谷歌市值蒸发约5000亿美元，反映投资者对谷歌在生成式AI浪潮中竞争地位的担忧。文章将市值波动与谷歌AI产品进展、搜索业务受冲击预期及竞争对手压力联系起来。事件凸显AI叙事对科技巨头估值的巨大影响，也表明市场正在重新评估传统搜索广告模式在AI时代的韧性与增长前景。"
+      "publishedAt": "2026-10-30T06:04:00Z",
+      "summary": "报道呈现科学家对AI冲击其毕生研究的复杂反应：有人震惊于AI快速改变科研范式，有人因自身研究方向获得印证而欣慰，也有人感到遗憾和焦虑。核心是AI正重塑数据处理、发现流程与科研评价，科研共同体需回应原创性、责任和职业前景问题。"
     },
     {
-      "title": "2 Stocks That Could Quietly Become Big Winners in the Artificial Intelligence (AI) Revolution - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVW9QZTVPZGJwb25kRkhvUVZCd2FKQ01uVUpuYVZMWS1PZVFITmcyMUE2aTlWZ2p3bUxQelBldEdaNU5LeC1CYmRrU0ptc0pHN3RsbElpZHZGYnM0ekJYNXhXUm00ZmhCMUlJb0xCSVVqNkpFcjgteTRfNS1uRkZUTm5lMGRoMGpUS0Z4YVJ4dkZlVGNsQ0dEUHI5SkNBdFg5SUoxT0IxMDVEUmZrc0wzMVVrRk53VTlzc0lzYnBXN3N0M01qN3lla2pLaEZwUUE?oc=5",
+      "title": "Tencent is expanding its global cloud business with corporate artificial intelligence (AI). While Te.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82amhObTFaQTh0TjJkZHpzQk5RcGp1dHNaSFVPcU1lazlndHRKMlc0UjFQZUFMQmVoNXRmb1Zjcmc2cnlRZGN6TnJCbw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-29T22:02:00Z",
-      "summary": "Motley Fool文章筛选出两只可能在AI革命中悄然成为大赢家的股票，认为其业务与AI基础设施或应用趋势高度相关，但市场尚未充分定价。报道强调，投资者应关注公司实际盈利能力、竞争壁垒和AI带来的增量收入，而非追逐短期概念。文章旨在提示潜在机会，同时隐含风险管理与长期基本面分析的重要性。"
+      "publishedAt": "2026-10-30T04:47:28Z",
+      "summary": "腾讯正以企业级AI为切入点拓展全球云业务，推动云服务从基础资源向智能化行业解决方案升级。报道关注其在国际市场与主要云厂商的竞争，以及企业AI需求带来的增长机会、生态建设和数据合规挑战。"
+    },
+    {
+      "title": "Among major domestic companies that have introduced artificial intelligence (AI), more people have h.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VTTA5eDNrLUQ1MDR1UmlqWmNPSHJrUlBQUW5KbVFuOTl4QU9oTzZwYkh2NHF4cHRpakhrX0IxTUZ2WjZLSjl2QktMUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T04:45:54Z",
+      "summary": "报道围绕国内主要企业引入AI后的实际影响展开，标题显示员工态度出现值得关注的变化。核心是：企业AI部署正从试点走向规模化，但员工对岗位替代、技能转型和工作体验的感受分化，企业需配套培训、沟通与变革管理。"
+    },
+    {
+      "title": "Artificial intelligence news: AI-powered shoplifting detection expands in Chicago-area stores, but some raise concerns - ABC7 Chicago",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOHExeXEtTEVlTWNTMzE1QWNmZXVuVjJIVF9qcFE3MHNyV2xqNnhoVHBzbWVxRlNlUEJaYUtXOU1JZnk4ckdkWHhSUlNJR0tjYmZHNmdKOVk3VGM1VUpPYnlSUWs0Ul9FNDJsanhGa0trSFpiRDJiR25mT0FGblFBalJvWEJ2NmZrVGNYaWg2RE91WnMyQ1liWUp6NURKUVR1RDljWkdNSHllejBUc2JzSXY5U1FWYkVWeDlTVFlORDN0enRHLXhmX3F3YkRoMjVsNFZvcm9sZ2NPNGPSAeABQVVfeXFMUFNkUE1RQzhsRGxUT0hCV2t4SllhNkU1WEhxeFoxWGNLRGJGMjhKU2hnbW1rVkVIckN0NFFmU0JlUzhiaDhVZ2trdmVUNHdEVElRcWhvNGUxVkhGeUVheUxpM3ZSay0yWTA3bmd0dFp2Y3JzbDhYT0pJM3A4TnVKUi1odkRpbDVfUEZOWEJITjJkOHFrb293WC1STTVnQ1lxSU1VVDZNcHZJNWJhVVQ4c2FqZThVMEJTaU9XalJaRGRlXzR4aTRXNkJLUVl4SlNxaVVHLTNPZ2djeDFyTDJkZno?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T04:40:04Z",
+      "summary": "芝加哥地区更多商店部署AI防盗检测系统，利用视频分析识别疑似偷窃行为。支持者认为可减少零售损失并提升安全，但隐私倡导者担忧误判、算法偏见、监控扩张和数据滥用，凸显零售AI应用需要透明度与问责机制。"
+    },
+    {
+      "title": "‘It’s just a computer, right?’ How AI is tearing Gen Z in two - The Age",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUnU4U19EV2dkWUxEaWI1TGc3LUprMzBqV3l2QnJjUU1IdUxxYUZucE5jZ3UzTnJyZ3pNX0o1dW1abHdSMVhNZ2ZBdG80d1J1TjRFM1NoNWhTcXFCQlN6Zm5vWk8wQmN2Uzc4X1B6U3hwbjBpOEpYRm8zaWpJWHZoUzhVYXEwVkdfT092cXpjR19zdmljZTduc0R3aTVVeHh3eUotWkQyZ3lIZXBjRHNfWXVOVmZYN0c2NTI5WFE1cVNXaDlQRFBfMzByUE9qRUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T04:00:00Z",
+      "summary": "文章探讨AI如何让Z世代出现分化：一部分人积极把AI用于学习和工作，提高效率；另一部分人则担忧依赖、作弊、就业冲击和内容真实性。核心是同一代人对AI的态度两极，反映技术素养、教育公平与价值观差异。"
+    },
+    {
+      "title": "Day 28 | AI Governance: Who Is Accountable When Artificial Intelligence Goes Wrong? - The 420.in",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWtTRkdfUnktanNKMG1RWEhPQ0ZPLWhLYmkyODA0eXJXR1BoSlFUaElIQ1pjVHgyT0pURm9GekZ3RTM2WW5sVjdPUzNIa1NKRGFlZEd4X1hGVlg0TlNRMGkxVW9maTIydzRwcU9DSU9SNWR4d2JKZmp2Q244b1VzWGhsUEdfWVZldU1xREZMTEptam1WWG9TMQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T03:12:45Z",
+      "summary": "文章讨论AI出错时的责任归属问题：开发者、部署者、用户和监管机构应如何分担责任。核心是强调建立清晰的AI治理框架、审计与追溯机制、透明度规则和救济渠道，避免责任真空，确保AI系统可问责。"
     }
   ]
 }
