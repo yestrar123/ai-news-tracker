@@ -1,132 +1,97 @@
 {
-  "updatedAt": "2026-10-30 17:24:58 UTC",
-  "totalArticles": 18,
+  "updatedAt": "2026-10-30 21:46:09 UTC",
+  "totalArticles": 13,
   "articles": [
     {
-      "title": "HealWELL AI Inc. Class A (TSX:AIDX): Why Healthcare Artificial Intelligence Is Back on the S&P/TSX Composite Index Investor Radar - kalkine.ca",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWxjbGwtcVdQMmR1XzZvbTFlUjcxWTN1MVFialFRXzk1cnFUSUJybF8zNkJoRkRpRFdCNVdPdzh6a3JhWkozZGhXSW9velVaSWpIR29uaVlwYVAydVNIc25mLUVfWTNDTWRaTlRucGpwUlY1MTB1aE1ESUxGS3BWcWx5VzN5N3d0WDRjREJoMVZHMGhvdndGcGx4NlhWZ2tJWGIzM0VyRXh6Q25VeXQ5b1RZQmJDMFJFQ1Y4eTczOEpza2ZxWjlHbHY2blBBbHYzNHFMUFBFZC1SczFpeTAzbGdSdHhtaVZoRFJRS1h3?oc=5",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:26:59Z",
+      "summary": "这条万圣节内容面向科技爱好者，建议用近期AI与技术圈梗做临时装扮，例如伪装成“看似可爱”的AI智能体图标、PHP漏洞，或模仿注重睡眠养生的Bryan Johnson。它属于轻量趣味选题，显示AI话题正进入流行文化，但未提供实质技术信息。"
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:17:40Z",
+      "summary": "大型科技公司正投入数千亿美元建设AI基础设施，但债务上升、现金流为负以及投资者质疑升温，使AI支出热潮出现裂痕。报道关注高投入能否转化为可持续回报，以及资本开支、融资环境与市场预期之间的张力，对判断AI泡沫风险具有参考意义。"
+    },
+    {
+      "title": "AI Researchers Warn Human Misuse Outweighs Rogue Threats - Security Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUh5cGdtRXdqam5DcjJXcjMxSDY1X0Q3VXpQbUJFMkJLSzBWaHZJTXRkdVhGZXBfNnZTNjVQWFQtckVxekc5eXRUWHJpMVo1aWpVUjJpYWpaSVVvSldIYUJxb21rbFg5UkVrWTRpbGZMRFc0R2RjUkdyOXpvWERXTnBqODBhdDZXM3J1UVNPQzN5NVlZYmdxV1VXcllMVlJOTS1NM3huaDB4Wlk?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-30T17:12:00Z",
-      "summary": "HealWELL AI作为医疗人工智能公司，因重新进入标普/多伦多证券交易所综合指数投资者的关注视野而受到讨论。报道核心在于医疗AI板块的资本市场热度回升：投资者关注其临床决策支持、医疗数据分析等落地场景，以及指数相关曝光带来的流动性与估值影响。不过，医疗AI仍需证明商业化能力、临床有效性和合规性，短期股价关注不等于长期价值兑现。"
+      "publishedAt": "2026-10-30T20:48:58Z",
+      "summary": "AI安全研究者警告，相较于失控AI或“rogue”自主系统，人类对AI的滥用才是更现实、更主要的威胁。报道提示政策与治理应更多聚焦恶意使用、误导信息和责任归属，而不是只关注科幻式失控叙事，反映安全讨论正转向以人为中心的风险管理。"
+    },
+    {
+      "title": "TCAI’s Jai Jaisimha on artificial intelligence and mental health: How should AI be used? - Transparency Coalition",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU3FNVFQ3YzV1Y3lLT2Ixc3hQNHU3UDBacEVZbTlzUnlkZHR3Nk1XQUg1ejQ3aXhXY282LUdZRzFFa3dGYS11SmJMcm90ZXMtRklrRXdPcjQzTFo2Z2lMZlZvX2ZxVWxTU2JqaWZZLWlGak90Uy1vclZ3NjloeEY4aEx6bzRCa2JKTXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T20:31:14Z",
+      "summary": "在关于AI与心理健康的讨论中，TCAI的Jai Jaisimha探讨AI应如何被使用，涉及应用边界、伦理规范与责任机制。报道强调，AI可用于心理支持，但必须防止过度依赖、误诊和隐私风险，并确保透明度与专业监督，避免技术替代必要的人类照护。"
+    },
+    {
+      "title": "Character.AI moves ahead with asset sale over states' objections - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2pwTHBXOHJnamJiM25nX1RtYW9palh0cms2Uk5uTHRyV2xwYTR1OUFNVUM1MU1RTGVOazIxUzB5NVZBSk9VRmg5TUJOLXdYNkdVRml6WlJ6STRkcXlwOHY1MjFOajdTTmszLUhvSW1Wc2hzUTFDYllWTmZLb0RZN0NMTklMRnd1cHF5aVdqOTNKbWJ4S0tCYS03R3M0eFc0aUluWWs3R3dSRE1fekw2WFFWRjBlZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T19:24:51Z",
+      "summary": "Character.AI在多个州反对声中继续推进资产出售。该交易涉及AI角色聊天平台的重组，也触及州级监管、消费者保护和AI交易审查等争议。报道显示，AI公司在大规模商业化与合规压力之间寻求调整，相关资产处置可能影响平台服务与行业竞争格局。"
+    },
+    {
+      "title": "Pope Leo Comes Out Swinging Against AI Personhood - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zLWRsZk1hR05TUy1ZbGpkb0tBYVl3RnpIWVlqb2RsVlVHWjRjY3BncmZ3MUxrdFpWTTNtRWVrZ3k5VlIzcWdUZ3pGMk4ydU9yNnRqQ0c1cXVSNjJTZlgzZHFTRDhnSWdzS2hyMGdoZmRYZXZ5QlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T18:06:15Z",
+      "summary": "教皇利奥公开批评赋予AI“人格”或法律人格的主张，强调人类尊严与道德地位不应延伸至机器。此举加入AI伦理与法律地位辩论，反映宗教与公共舆论对AI权利化、责任归属和人机边界的担忧，可能影响未来AI治理讨论中的价值框架。"
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T17:47:12Z",
+      "summary": "Zest推出AI代理，可通过短信帮用户找餐厅并完成预订。它能汇总参与者的口味偏好，生成候选餐厅并组织投票，最后自动预订。产品瞄准“吃什么”这一高频决策场景，展示AI代理从信息查询走向多步骤任务执行和群体协调的应用趋势。"
+    },
+    {
+      "title": "Reddit will test mandatory logins as Google AI search drains its traffic - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rdXFTVkgyQ0lsdHVhWjhxZWlFUG9oTVNnUERUNl9rTTZuMkRfdUxMWkd1UWpRWFUyaHlvYTdlYVluNHZyRWFQOE05VXlTSjBlMDd3TzRaVE1DQWF4QzFuMS1PdmRTakJlYllyS2xOcTU5Y1NLT0dIRUFR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T17:41:49Z",
+      "summary": "Reddit将测试强制登录，背景是Google AI搜索摘要减少其自然流量。平台希望通过登录墙保护内容与用户数据、增强直接访问和商业化能力。此举反映生成式AI搜索正在改变内容平台流量分配，内容方与搜索平台围绕数据、版权和用户触达的矛盾加剧。"
+    },
+    {
+      "title": "Banks block AI agents as US open banking rule stalls - AI News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR0xGY1AwbWNaRnlWdEJtdHZQYzhTRE1yd204OWVoWmxZUzBNeXg4NmpRLWQzR0hvS0dZOWN5anF1UFpFNXF3SEl0bDJWenQ3Z0x4d0NpX1FXSmw4a2IxRHRPUklaREhRMXF5dmhPdWloMWluRUVjdndKWkVIdWhSckFtcWM3eEZ5dVY0Mk1FRk1SdWM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T17:36:13Z",
+      "summary": "在美国开放银行规则推进停滞之际，银行开始阻止AI代理访问账户和金融数据。报道指向数据共享、安全责任、欺诈风险与竞争格局等争议。AI代理若要在理财、支付等场景落地，需更清晰的合规框架与授权机制，否则金融数据壁垒将制约其应用。"
     },
     {
       "title": "Credit where it’s due to AI for uncovering the PHP flaw – and discredit to the leaker | Letters - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbFRvTWM2UTdmckk0YXBIUTNxTHcwWTFVZHJRbVFJb0htRlJlQURCYUphTW5uUEtLTHBEVjZFQjVIUUVrRmpVd2hZaGJIeUoweWc5clU5UF9adTY1bUpQNXNQdW1nQlNLcmVMdE9tckJGaThWcnZfR2NzVnAxa2Rmb1Zld1FsbGloNkFKU1ZjYmtBWFludjU0VzdEZXp6eVl1NVdBUE9pX1FTRUVySEo0TnZUNkYwNzQzUVVjSGxwbkhDM3JVQ01rQ2tYRXhUUQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-10-30T17:11:00Z",
-      "summary": "这封读者来信肯定AI在发现PHP漏洞方面的贡献，认为应给予技术上的认可；同时批评泄露漏洞信息的行为，强调漏洞披露必须遵循负责任披露原则。核心议题是AI辅助代码审计与漏洞挖掘能力正在提升，但安全研究不能以公开敏感细节、增加用户风险为代价。报道提醒业界在利用AI提升漏洞发现效率时，也要完善披露流程与伦理规范。"
+      "summary": "《卫报》读者来信认为，应肯定AI在发现PHP漏洞中的作用，同时谴责漏洞泄露者。来信区分了AI辅助安全研究的价值与不负责任披露的危害，强调漏洞发现应服务于修复而非炒作或攻击，反映AI参与网络安全研究时伦理与披露规范的重要性。"
     },
     {
       "title": "Google’s first data center satellite is online and writing poetry",
       "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-30T17:00:00Z",
-      "summary": "谷歌首个数据中心卫星已上线，并在轨运行谷歌DeepMind的Gemma 4模型，甚至生成打油诗。报道的关键技术点在于首块TPU进入太空并完成模型推理，验证了天基计算与卫星数据中心的可行性。若后续成熟，这类平台可减少数据回传依赖，为遥感、边缘计算和在轨智能处理提供新路径，但目前仍处早期验证阶段，商业化和可靠性有待观察。"
+      "summary": "谷歌首个数据中心卫星已上线运行，太空中首块TPU开始执行计算任务，并运行谷歌DeepMind的Gemma 4模型，已能生成诗歌。该进展将数据中心级算力延伸至太空，展示了TPU与Gemma模型在轨部署的可行性，也为未来空间计算、星上数据处理和低延迟AI服务提供了验证。不过目前公开信息有限，模型在轨性能、通信链路和实际应用规模仍待披露。"
+    },
+    {
+      "title": "$2 trillion wiped from tech stocks amid artificial intelligence spending fears - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFlZQTNQRndSbnpQdUVHODEyZTdibzYtNEZKS2ljZWZjSXNpZ0VJSzlNN1BDMmRpeV9qSU9XNl9WaW43VmM0azF1aDZZRzZSaVlQdjB0NV9ScnVFcVZjNVJNT1k1Y1lNT3VEWkFfaHRjM1VHUm1FVEVzek14bVpzLU5iOHc5VUJXLWpMUWxDY3NpWmhrdmlv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T16:08:00Z",
+      "summary": "受人工智能支出担忧影响，科技股遭遇大幅抛售，市值合计蒸发约2万亿美元。市场担心企业在AI基础设施和算力上的巨额投入短期难以转化为利润，进而压低科技板块估值。该报道反映出资本市场对AI投资回报周期、盈利能力和持续高投入的谨慎情绪，也显示AI热潮正从概念驱动转向对成本与收益的重新定价。"
     },
     {
       "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
       "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-30T16:03:45Z",
-      "summary": "Theranos吹哨人Tyler Shultz警告，AI热潮可能成为欺骗公众的“绝佳机会”。报道将其与Theranos事件类比：一些尚未盈利的公司仍以极高估值融资，容易滋生夸大技术能力、隐瞒风险和信息不透明等问题。核心提醒是，AI行业需要更严格的尽职调查、治理与披露机制，投资者和监管方应警惕叙事驱动估值，而不能只看宏大承诺。"
-    },
-    {
-      "title": "Meet the Underrated Artificial Intelligence (AI) Stock That Could Soar 255% in a Year, According to Wall Street - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPNFh5Z2syb1o5LWhoRF9WTnRrVy1zaHdrU25uQUQ4LVpOVHJjakJ0VzZKVVNWTGw3SlRINjRNSnFZSHlmWS1QZTRwaEZPZmg0dkFhdG40TXJPczVtSU5HbHltczYwbmJSc0s1dFd4dy1aRFp6WEU2eks2cktReUdWZ3dTNk1kb3AzWUtXTVl1Uk5idjljNjlPWEZ6VU0tOUhWZFhMMllTTkRQencwVVZRenJFa3JrWnctLUhCOE41eTJCZ1Y4bW5Sd2tmaGlEWjRRTnBWTzdtZFJWVFUydER5MjlzWHM5dmdHdUc3X0J2TkxxbFZ0UTM4bW84R05EclBqVTFJME94dkRUaGlCQnQ0U040ZDA5bTM0TEVXNGp3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T14:27:19Z",
-      "summary": "《环球邮报》报道称，华尔街分析师认为一只被低估的AI股票有望在一年内上涨255%。但摘要未披露公司名称、业务细节和盈利预测依据，因此核心信息更多反映市场对AI标的的高预期与估值分歧。对投资者而言，这类高回报预测应结合收入增长、客户黏性、技术壁垒和现金流验证，不宜把单一目标价视为确定性结论。"
-    },
-    {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T14:00:00Z",
-      "summary": "TechCrunch Founder Summit 2026将于11月4日在波士顿SoWa Power Station举行，并引入Braindate驱动的社交匹配，帮助参会者跳过寒暄，快速找到一对一或小组形式的深度会谈。该安排面向创业者、投资人和合作伙伴，意在提升会议连接效率。提前注册可节省最高100美元，并获得第二张免费通行证，适合有明确融资、招聘或合作需求的创始人参与。"
-    },
-    {
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T13:54:25Z",
-      "summary": "DoorDash表示，目前来自AI代理的订单仅有“数百单”，说明由智能体自动下单仍处于早期阶段。尽管如此，公司对与第三方代理开发商合作持开放态度，显示平台正在观察AI代理在搜索、下单和支付流程中的潜力。后续关键将包括身份验证、支付授权、商家体验和异常订单处理；短期规模虽小，但可能成为本地生活平台新的流量入口。"
-    },
-    {
-      "title": "Meet the Underrated Artificial Intelligence (AI) Stock That Could Soar 255% in a Year, According to Wall Street - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUNBUXp5dkdJa2V0ZUpWdVpibDFtZExaZmM4VFd2dWdlWGJkU2RXQ1hBVEhWamh0OTJMSWVfZVZWQnFVcG1VNDlFYkU0R2FRQXZNem1sSVdFc3FxZ1pXOFpSUWczN0NfWHVRNzBsbmNKdVc0SVZLLWd2ZXNpd3hQaXBVQzRKS2M2SnRScjFyQjd3R0JsS1ZianpaREdZM3hEM3hXZ0pTVW9vX0xicWF5dGh1Wkh6Z3NqMmRHczczSEI2b19YbHNuVEs5ZFlmdzhCaFQwc19oN2t2V0p3YUZEVWhvbGM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T13:53:13Z",
-      "summary": "Motley Fool刊文推介一只被低估的AI股票，称华尔街预计其一年内可能上涨255%。报道摘要未给出公司名称和具体财务依据，因此可确认的信息是市场对AI受益股仍抱有极高增长预期。投资者需要区分叙事与基本面，重点核查营收增速、利润率、订单可见度和竞争格局；单一年度涨幅预测波动极大，不能替代独立研究。"
-    },
-    {
-      "title": "Buy This Incredible Artificial Intelligence (AI) Stock Before It Soars 144% (Hint: It Will Outpace Nvidia’s Growth) - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSTUzYXYxNk1IU013eDdiUHdGNGZPUHVlQmp1Umtid3ZXbHNaYkU0TmN4bkhfWFFWZ3VTR1R6ejMxV3YwSFBwWTYyT2UyVS1aRTdSNmpxUm9LY3BTSWdKNEs3MTJTQUhhTEdCNVJzekFlc19mdVNEbmdEbjhGTjZGY0FXN3I4RzZxS19hUTFrYURiUDY0dkUxVlNUY1pDVHhxSU1kMGNaTDl4bEVsZWp2OWlSS1lkZ2FjU0RBT2UtcEJOQkNtYzRpYnN0SVBmWUNXQzQ0emVMc2ZJR3R1U0VkdjJWSmRKQjA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T13:04:00Z",
-      "summary": "Motley Fool刊文建议在暴涨144%前买入一只AI股票，并称其增长将超过英伟达。摘要未披露具体公司和估值模型，核心信息是市场正在寻找英伟达之外的AI增长标的。此类推荐反映AI投资从算力龙头向应用、基础设施或细分环节扩散，但“跑赢英伟达”的判断需要收入、利润和订单验证。高增长预期伴随高波动，投资者应关注基本面与估值匹配度。"
-    },
-    {
-      "title": "TPR flags pension trustee oversight gaps as AI adoption grows - Investment & Pensions Europe",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUl5RzNHdWVIbEd5OGtrLWxCbGk2T1lfdU9HZkpLRXk0U1QtSllwZ2ZvY3RVVDhPS3hTX2l2ZHEwbGFBa1FOR1R1QVY2eUw0YXV1a3lheFFQX1hOVkxRQkxXRWo0MjhLS2R4ZDJEbUhNT2RfTW44Tk5lY0ctNVZudV9OOWQzYWE1OERQRy05cWc4Tm1XdklHdGFRQmdsbFNMdDVwbGlR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T13:00:54Z",
-      "summary": "随着养老金领域加快采用AI，英国养老金监管机构TPR指出受托人在监督方面存在缺口。报道关注的是治理而非单一技术：受托人需要理解AI工具的风险，强化供应商管理、数据保护、模型偏差和决策可解释性审查，并确保投资与会员服务中的AI应用符合审慎义务。AI应用越快，监督框架和问责机制越需同步补强。"
-    },
-    {
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T13:00:00Z",
-      "summary": "TechCrunch Founder Summit 2026 将于11月4日在波士顿举行，目前距报名截止仅剩5天。参会者可享受最高100美元的注册优惠，并获得一张免费的第二张通行证。活动聚焦创业者之间的连接、业务规模化与成本节省，主办方呼吁有意者尽快注册以锁定名额。"
-    },
-    {
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T13:00:00Z",
-      "summary": "初创公司 Runware 正在建设一座工厂，以流水线方式生产预制化 AI 数据中心，试图把数据中心像汽车一样批量制造。该模式旨在缩短部署周期、降低建设成本，但真正的考验在于其能否在所需规模上稳定交付。"
-    },
-    {
-      "title": "New York Signs Law to Protect Children From Artificial Intelligence Chatbots - teleSUR English",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmFwZkRhbkI2QUxyejZ6UEZLTUVPaHR3X2hBcWs0TGw0U25JVkFTanR0MHRTdWdoUW9zQTR5Y1hOMjdDQ042eU1LdlVqWVExUUptMmJSZndtRjBFZjZka0RlbVY2a3dJYmdlazcyeF9YM3RSS1BOOERHTFBxR3dXVnhYUU5TNWFSQWM3bjhwY1cwYTVqb2ZfeVFncFU3NlRkQ3hVU2k5ajdtR1hj?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T12:31:57Z",
-      "summary": "美国纽约州签署新法律，旨在保护儿童免受人工智能聊天机器人带来的潜在伤害。这一立法反映出监管机构对未成年人使用生成式 AI 工具时面临的内容安全、隐私与心理健康风险的持续关注，也为其他地区的 AI 监管提供了参考。"
-    },
-    {
-      "title": "India proposes framework to unlock data for AI training, protect privacy - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTjJpZHlvV3hHZ0VRa2hFSldBS1pPQzdBZ3ZEb29pd1VkSEhzaTl2Z2t6YmJ2WVRvdVdvMGNsazAta08zVENJV2gwX1JtOWliS25fNFRfdmNMSXBXQ1htRC11T1M2b0gwd0E3Y05KdF9lV1FrUlRZclVyTV9FVWRvTGNMSDV3elNQX1JnelVKY2ROaWZ4NU1DVjEwZVItbVFqNm1hV0t1V05lRDRVOVEtekotQTUzNFh4MVhfSkw0SDAycGF0NkFJeFZ4d19vRGthWWxVNm9EU3EzX3RuVS1ES3hOR0M3R0JBSnZtaTNpOVBMZ9IB9wFBVV95cUxPWVJHR3A3dTVnYVNDeDlpd0ZRR0ctZUxablBfN0hXLVRpMjQ4VDVWa251dXhFZGpqLVZmeVFJM2ZMenlMdFl0d3E2TnQ1WUVsZzFNLXltbkxQYU5TaUNMQkxCRFF5ZFRvOXByWnpWVHRBZFhLV3pGZjdVN1RVbllDTGI1WS1XcU14SEFZbFdZQlQwd1FfeFJLd0VzVVF2MVJNWDJ2bnp2T2gxYmdsUWJ1SHZfenJrMTRRVm9NRUNTckpfSERNYmk0V2diOTFSZm5EMjMwOWZ4ZlVZVTRrRjJ6bS1Hc3hNNUhRd0dOWjF6QWFXYUpBaWl3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T12:31:27Z",
-      "summary": "印度提出一项数据治理框架，试图在释放数据用于 AI 模型训练的同时保护个人隐私。该框架意在平衡数据可用性与合规要求，为 AI 训练数据的获取与流通建立规则；若落地实施，将影响企业在印度开展 AI 研发时的数据使用方式。"
-    },
-    {
-      "title": "Anthropic AI model finds Linux kernel bug that leads to remote root access - CSO Online",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0I1UVQxSWpUXzlZWGNaZ19IZEEweHYzQUdhNUhBdENhUWRsNGdBcmI3NlFGbmI0N2hEU2toOU50ZEZ0aTBwN1hvdEdqX3F1dFFJbTJZUUFDRzBESjBwamJ2SzZQVDVrZUt6SXRXSjZqZUJvRUc4c1lzamFTQXVIdTQxbGlRWWozLUVFMjVPM2dBYW9URC1kbTdGYjBLSDRrMENTV3NuQkZCNUxWSTFhdDRoQlRVRzZmOGZodTFn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T12:29:06Z",
-      "summary": "Anthropic 的 AI 模型在 Linux 内核中发现一个可导致远程获取 root 权限的安全漏洞。这一发现表明，AI 在漏洞挖掘与代码审计方面正展现出实际能力，也凸显 AI 辅助安全研究在发现深层系统缺陷方面的潜力。"
-    },
-    {
-      "title": "Buy This Incredible Artificial Intelligence (AI) Stock Before It Soars 144% (Hint: It Will Outpace Nvidia’s Growth) - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnFIbGJlemJFaWtiY2hMaXpmYzA3QUI0Tmluc3JiejkzcUswYzJ2M1RlV20wbHRwM0ZEQVc1bW5LRUZ0VkxzWERKS0NIUDBzcWJRX01yUUlvWERwUWQwYVJnSUVBSDZOd2h3el9wNUhibHBaQlZaZE9rUDZmWllpRWtKcTFHeHdiY0VMUXFn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T12:24:02Z",
-      "summary": "有财经评论文章推荐买入某只 AI 股票，称其股价有望上涨 144%，增长势头甚至将超过英伟达。文章以“令人惊叹的 AI 股票”为卖点，强调其增长前景优于当前的 AI 芯片龙头，属于典型的看多观点，具体标的与基本面依据仍需投资者自行核实。"
-    },
-    {
-      "title": "Google value plunges by $500bn as its own AI search hits ad sales - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T12:04:02Z",
-      "summary": "据 BBC 报道，谷歌市值一度蒸发约 5000 亿美元，原因是其自研 AI 搜索功能对传统搜索广告业务造成冲击。市场担忧 AI 搜索会降低广告点击率与变现效率，进而动摇谷歌核心的搜索广告商业模式，反映出 AI 转型对既有业务的双刃剑效应。"
-    },
-    {
-      "title": "How AI Could Fuel Global Economic Growth by 2027: Analyst Explains - Tempo.co English",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTUFRTTJyakozMGdadTR1VzNKanBoT0dFb1c5d1pxU2MtYUN5bHZiZmpkZ1ByS2o4TXJDenBGZF9QM0dTSFhUTEluWWRtaGF0ZFFhTGhZem02LWZsSmRxZDdrcmVyZ0xHUldjNVFBalJ4NkZVRUhpNTkwbDZSdTR5a0RTcDlIaFh1RVFwLXNueTYzRXpDQ05tdnpYdmg4b1U?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T11:44:33Z",
-      "summary": "有分析师指出，到 2027 年人工智能有望成为推动全球经济增长的重要动力，通过提升生产效率、催生新产业与重塑投资结构等方式释放经济价值。分析同时提示，这一增长潜力的兑现取决于算力、数据、人才与政策等配套条件。"
+      "summary": "Theranos举报人泰勒·舒尔茨警告，当前AI热潮“是欺骗他人的绝佳机会”。他认为，Theranos式造假故事在AI时代具有新的警示意义：一些从未盈利的公司仍能以万亿美元估值融资，容易催生夸大宣传、技术承诺与资本叙事脱节等问题。舒尔茨的提醒指向AI行业需要更强尽调、透明披露和伦理约束，避免重演以虚假技术故事伤害投资者与公众的教训。"
     }
   ]
 }

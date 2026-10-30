@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "7265",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:26:59Z",
+      "summary": "这条万圣节内容面向科技爱好者，建议用近期AI与技术圈梗做临时装扮，例如伪装成“看似可爱”的AI智能体图标、PHP漏洞，或模仿注重睡眠养生的Bryan Johnson。它属于轻量趣味选题，显示AI话题正进入流行文化，但未提供实质技术信息。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7266",
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:17:40Z",
+      "summary": "大型科技公司正投入数千亿美元建设AI基础设施，但债务上升、现金流为负以及投资者质疑升温，使AI支出热潮出现裂痕。报道关注高投入能否转化为可持续回报，以及资本开支、融资环境与市场预期之间的张力，对判断AI泡沫风险具有参考意义。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7267",
+      "title": "AI Researchers Warn Human Misuse Outweighs Rogue Threats - Security Today",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUh5cGdtRXdqam5DcjJXcjMxSDY1X0Q3VXpQbUJFMkJLSzBWaHZJTXRkdVhGZXBfNnZTNjVQWFQtckVxekc5eXRUWHJpMVo1aWpVUjJpYWpaSVVvSldIYUJxb21rbFg5UkVrWTRpbGZMRFc0R2RjUkdyOXpvWERXTnBqODBhdDZXM3J1UVNPQzN5NVlZYmdxV1VXcllMVlJOTS1NM3huaDB4Wlk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T20:48:58Z",
+      "summary": "AI安全研究者警告，相较于失控AI或“rogue”自主系统，人类对AI的滥用才是更现实、更主要的威胁。报道提示政策与治理应更多聚焦恶意使用、误导信息和责任归属，而不是只关注科幻式失控叙事，反映安全讨论正转向以人为中心的风险管理。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7268",
+      "title": "TCAI’s Jai Jaisimha on artificial intelligence and mental health: How should AI be used? - Transparency Coalition",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU3FNVFQ3YzV1Y3lLT2Ixc3hQNHU3UDBacEVZbTlzUnlkZHR3Nk1XQUg1ejQ3aXhXY282LUdZRzFFa3dGYS11SmJMcm90ZXMtRklrRXdPcjQzTFo2Z2lMZlZvX2ZxVWxTU2JqaWZZLWlGak90Uy1vclZ3NjloeEY4aEx6bzRCa2JKTXc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T20:31:14Z",
+      "summary": "在关于AI与心理健康的讨论中，TCAI的Jai Jaisimha探讨AI应如何被使用，涉及应用边界、伦理规范与责任机制。报道强调，AI可用于心理支持，但必须防止过度依赖、误诊和隐私风险，并确保透明度与专业监督，避免技术替代必要的人类照护。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7269",
+      "title": "Character.AI moves ahead with asset sale over states' objections - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2pwTHBXOHJnamJiM25nX1RtYW9palh0cms2Uk5uTHRyV2xwYTR1OUFNVUM1MU1RTGVOazIxUzB5NVZBSk9VRmg5TUJOLXdYNkdVRml6WlJ6STRkcXlwOHY1MjFOajdTTmszLUhvSW1Wc2hzUTFDYllWTmZLb0RZN0NMTklMRnd1cHF5aVdqOTNKbWJ4S0tCYS03R3M0eFc0aUluWWs3R3dSRE1fekw2WFFWRjBlZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T19:24:51Z",
+      "summary": "Character.AI在多个州反对声中继续推进资产出售。该交易涉及AI角色聊天平台的重组，也触及州级监管、消费者保护和AI交易审查等争议。报道显示，AI公司在大规模商业化与合规压力之间寻求调整，相关资产处置可能影响平台服务与行业竞争格局。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7270",
+      "title": "Pope Leo Comes Out Swinging Against AI Personhood - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zLWRsZk1hR05TUy1ZbGpkb0tBYVl3RnpIWVlqb2RsVlVHWjRjY3BncmZ3MUxrdFpWTTNtRWVrZ3k5VlIzcWdUZ3pGMk4ydU9yNnRqQ0c1cXVSNjJTZlgzZHFTRDhnSWdzS2hyMGdoZmRYZXZ5QlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T18:06:15Z",
+      "summary": "教皇利奥公开批评赋予AI“人格”或法律人格的主张，强调人类尊严与道德地位不应延伸至机器。此举加入AI伦理与法律地位辩论，反映宗教与公共舆论对AI权利化、责任归属和人机边界的担忧，可能影响未来AI治理讨论中的价值框架。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7271",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T17:47:12Z",
+      "summary": "Zest推出AI代理，可通过短信帮用户找餐厅并完成预订。它能汇总参与者的口味偏好，生成候选餐厅并组织投票，最后自动预订。产品瞄准“吃什么”这一高频决策场景，展示AI代理从信息查询走向多步骤任务执行和群体协调的应用趋势。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7272",
+      "title": "Reddit will test mandatory logins as Google AI search drains its traffic - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rdXFTVkgyQ0lsdHVhWjhxZWlFUG9oTVNnUERUNl9rTTZuMkRfdUxMWkd1UWpRWFUyaHlvYTdlYVluNHZyRWFQOE05VXlTSjBlMDd3TzRaVE1DQWF4QzFuMS1PdmRTakJlYllyS2xOcTU5Y1NLT0dIRUFR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T17:41:49Z",
+      "summary": "Reddit将测试强制登录，背景是Google AI搜索摘要减少其自然流量。平台希望通过登录墙保护内容与用户数据、增强直接访问和商业化能力。此举反映生成式AI搜索正在改变内容平台流量分配，内容方与搜索平台围绕数据、版权和用户触达的矛盾加剧。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7273",
+      "title": "Banks block AI agents as US open banking rule stalls - AI News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR0xGY1AwbWNaRnlWdEJtdHZQYzhTRE1yd204OWVoWmxZUzBNeXg4NmpRLWQzR0hvS0dZOWN5anF1UFpFNXF3SEl0bDJWenQ3Z0x4d0NpX1FXSmw4a2IxRHRPUklaREhRMXF5dmhPdWloMWluRUVjdndKWkVIdWhSckFtcWM3eEZ5dVY0Mk1FRk1SdWM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T17:36:13Z",
+      "summary": "在美国开放银行规则推进停滞之际，银行开始阻止AI代理访问账户和金融数据。报道指向数据共享、安全责任、欺诈风险与竞争格局等争议。AI代理若要在理财、支付等场景落地，需更清晰的合规框架与授权机制，否则金融数据壁垒将制约其应用。",
+      "fetchDate": "2026-10-30"
+    },
+    {
       "id": "7247",
       "title": "HealWELL AI Inc. Class A (TSX:AIDX): Why Healthcare Artificial Intelligence Is Back on the S&P/TSX Composite Index Investor Radar - kalkine.ca",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWxjbGwtcVdQMmR1XzZvbTFlUjcxWTN1MVFialFRXzk1cnFUSUJybF8zNkJoRkRpRFdCNVdPdzh6a3JhWkozZGhXSW9velVaSWpIR29uaVlwYVAydVNIc25mLUVfWTNDTWRaTlRucGpwUlY1MTB1aE1ESUxGS3BWcWx5VzN5N3d0WDRjREJoMVZHMGhvdndGcGx4NlhWZ2tJWGIzM0VyRXh6Q25VeXQ5b1RZQmJDMFJFQ1Y4eTczOEpza2ZxWjlHbHY2blBBbHYzNHFMUFBFZC1SczFpeTAzbGdSdHhtaVZoRFJRS1h3?oc=5",
@@ -25,6 +106,15 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-30T17:00:00Z",
       "summary": "谷歌首个数据中心卫星已上线，并在轨运行谷歌DeepMind的Gemma 4模型，甚至生成打油诗。报道的关键技术点在于首块TPU进入太空并完成模型推理，验证了天基计算与卫星数据中心的可行性。若后续成熟，这类平台可减少数据回传依赖，为遥感、边缘计算和在轨智能处理提供新路径，但目前仍处早期验证阶段，商业化和可靠性有待观察。",
+      "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7274",
+      "title": "$2 trillion wiped from tech stocks amid artificial intelligence spending fears - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFlZQTNQRndSbnpQdUVHODEyZTdibzYtNEZKS2ljZWZjSXNpZ0VJSzlNN1BDMmRpeV9qSU9XNl9WaW43VmM0azF1aDZZRzZSaVlQdjB0NV9ScnVFcVZjNVJNT1k1Y1lNT3VEWkFfaHRjM1VHUm1FVEVzek14bVpzLU5iOHc5VUJXLWpMUWxDY3NpWmhrdmlv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T16:08:00Z",
+      "summary": "受人工智能支出担忧影响，科技股遭遇大幅抛售，市值合计蒸发约2万亿美元。市场担心企业在AI基础设施和算力上的巨额投入短期难以转化为利润，进而压低科技板块估值。该报道反映出资本市场对AI投资回报周期、盈利能力和持续高投入的谨慎情绪，也显示AI热潮正从概念驱动转向对成本与收益的重新定价。",
       "fetchDate": "2026-10-30"
     },
     {
@@ -65368,5 +65458,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7263
+  "total": 7273
 }
