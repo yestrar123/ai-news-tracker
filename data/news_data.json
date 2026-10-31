@@ -1,76 +1,48 @@
 {
-  "updatedAt": "2026-10-31 03:06:54 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-10-31 07:46:20 UTC",
+  "totalArticles": 6,
   "articles": [
     {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-31T01:20:05Z",
-      "summary": "英伟达正考虑为Nscale位于西弗吉尼亚州的AI数据中心项目贷款提供共同签署或担保。在投资者对AI资本开支愈发敏感之际，由芯片供应商为算力基础设施融资背书，有助于降低项目融资难度和资金成本，也反映AI数据中心扩张对金融支持的依赖。"
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T22:56:13Z",
-      "summary": "主打隐私保护的AI助手Ollie宣布将在约一周内关闭。其创始人称，随着AI助手数量激增、市场竞争加剧，产品难以持续运营。该事件凸显隐私优先型AI工具在商业化、用户规模与头部平台竞争中的压力，也引发对AI助手数据隐私价值的讨论。"
-    },
-    {
-      "title": "Character.AI moves ahead with asset sale over states' objections - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2pwTHBXOHJnamJiM25nX1RtYW9palh0cms2Uk5uTHRyV2xwYTR1OUFNVUM1MU1RTGVOazIxUzB5NVZBSk9VRmg5TUJOLXdYNkdVRml6WlJ6STRkcXlwOHY1MjFOajdTTmszLUhvSW1Wc2hzUTFDYllWTmZLb0RZN0NMTklMRnd1cHF5aVdqOTNKbWJ4S0tCYS03R3M0eFc0aUluWWs3R3dSRE1fekw2WFFWRjBlZw?oc=5",
+      "title": "OpenAI funding target cut by $10 billion as AI slumps, report says - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1BxdkxaZEl2djNYVXl5TVFMX09fMEtubHdBRGtHOGh3VlVNd0pWdTZFdk1MQ1ZsQlBOdnYtOWMwODNyTmdfYUxQTlpEQV9QUjZneXdwNWdJcWJmd2IxVFVHaEhQSkhzbXRVQWp6SDJZMlRVVU5kZmhOUEhHbzd0TkttY0UtSGZHX3BwZW5qWXpQYWUwZGlzQUxXd0tlWXIzZ0xQVW40Z2pUQ1NrRzdwRjVRanp4Slp4Rzg3aEsxSllfZHU3RVk2R1pRcHY1cldPUDNKWEZB0gHbAUFVX3lxTFA5RXRwOHdKRE90N2N4dE8tbTBBUUdwT2RXTDRTbjhGUjFyMVFSZVo1ZXl5ZF94S1pJR185UVY4dGJ0X0dUODBTOEp6dUIwQ3lxc1A0R1lONVlvRDlEOHVMNnY5aDRvSVVRUE1fMnBESlBJUzhJa012RURQR0lvVVNUejNDbl9VSjJsbzR1UVZjNW1fTDJ1RzNtbXFNaHFNTVlUZnJWUHdKczRTdTFaQVJDbjl0Z3V1a0Itdmk1aE1sN1RuejdwUFFDREdxVU00X21rZUdCVldPMU9rVQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-30T22:33:10Z",
-      "summary": "据路透社报道，Character.AI正推进资产出售，尽管多个州监管机构提出反对。交易细节尚未充分披露，但争议焦点涉及AI平台资产处置、用户数据与监管审查。此举显示AI聊天机器人公司在资本运作和合规压力下加速调整，也预示州级监管对AI交易的影响上升。"
+      "publishedAt": "2026-10-31T06:38:35Z",
+      "summary": "据媒体报道，OpenAI已将本轮融资目标下调约100亿美元，被视为人工智能投资热潮降温的最新信号。报道将此与市场对AI估值过高、商业化回报周期偏长的担忧联系起来。融资规模收缩可能影响OpenAI在算力采购、模型训练和数据中心建设上的扩张节奏，也折射出资本正从盲目追捧转向更关注成本结构与盈利路径。具体融资条款、投资方名单及官方回应尚未披露，后续进展仍待观察。"
     },
     {
-      "title": "Tech Leaders Kiss the Ring and Refuse to Call It \"AI\" After Trump Told Them Not to - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVBRLXVidUN4Q3NWZlhPVkRodk1qdnVNU1NaS1lRa3BGUFVyT0kzS2loOVJCLWlsZzQ3eFVST0hhTk8yOE00dW96b1VQaEF5UTdaUGIwUzNLSDN1QWNfZXAtSmhLZFRYdHdpY0NOLTY4NF9SZjF5dzNYTHRwRG0tVVlwZ0E0TGJqVFVyVw?oc=5",
+      "title": "AI May Have Disproved A 27-Year-Old Computer Science Theory: Report - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVJqektWUExlT2h4NkEyZUFlMzFOOHRMb0NwVWI2dkFRSnB5WEF5UDNuZmNMWmI5Wi1kVXB6c2xUY1MxOG1hWFVRYjZUV1dVLWtyZWh5ajdyUXdWVV9fX21HN08wd3FQTTV1a2hMTEFvR3JpVkNXdFJyWEprZzh2QXFTVEpkNFpyal9WUlRmdlpUWnlLMWlFdHlhWm1XNmVZRURHWS1pZTU0bmc2TGg3WDFCRk1yc2xpcTgtMNIBxAFBVV95cUxNTGZBX084YW9EMjUxSHlSREtPQkhwbXRvTnRQNGROMGVDQWJ1YWdTTjJPZlQ0UXRMZktuZENJcVZ2UmpkTE1QbGN5VjZOckNGTjZWenpCcmhaQjEzVE8xb2ExSGxxMWZ6VnkwMWw3Q1VuZDR2Qk9iZkpybmVsLTNHMkNFREI4NkZudFQyZF84N19abXpEZ1VTS0tielBzNGRQMjRQandWR3VmLVY5SlYwRDR0dFpqa1Qtb2lCVFJfWFNzb3Rv?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-30T22:15:00Z",
-      "summary": "在特朗普要求不要使用“AI”一词后，多位科技领袖在公开场合回避该表述，被解读为对政治压力的顺从。报道以讽刺口吻称其“亲吻戒指”。这反映AI政治话语环境变化：行业领袖在政策与舆论压力下调整措辞，可能影响AI叙事、监管沟通和公众认知。"
+      "publishedAt": "2026-10-31T06:17:59Z",
+      "summary": "有报道称，人工智能系统可能推翻了一项已存在27年的计算机科学理论，引发学界关注。若该结果经同行复现与严格审查后成立，将意味着AI不仅能解决工程与产品问题，还能参与基础理论的反证与探索，对算法设计、计算复杂性等研究方向产生潜在影响。目前相关结论仍需进一步验证，但其展示的“AI辅助科学发现”路径已引起广泛讨论。"
     },
     {
-      "title": "Here's why an AI-generated campaign ad depicting Gov. Shapiro is allowed on the air in Pennsylvania ahead of the 2026 election - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjhoX2hsQ3lQcmdDVHZZMHdnSWZZQ09ROEJBRG9RSWxDaVd2SXlQTERUaElUb2FkdjU4SmdmSXowQmNGTlF4V2syM0FZU2d2LXVfVldQSXh4bWo2SkRYMVBzZTNmeXRYRUhVS1RESE9KZFBPTDZHanBDWVFqZDVkUldwdVNUU0ZrNFlwMXFsS2hpelBJSUt2Z1lXSk5NaWszYWtESTJSRGNKTVAtMkR5VHFxOHlwMHVrTnRadkRMQ1o5VlR0azBBbWFvNWnSAdIBQVVfeXFMTnlhemFsejYzZUNlMTJGUW5pdGM1M3dXSG80WUM2UFVXQzdIOTVVWXhGeEFkeFBYa08wWkpMVlc2aWU5Wm9OekpoNElXaXZQRV9oT0h0WFBOLTRNVHdRTFpuYmZka2Q4UUUzb1VpVjN5NTA2ZVZ0TXZBNk1TYVJ2dVhMZDVuTlFERzBCczB6a0xuSTNKQmtXYjFIV3pLZHdQY3F2Y1ROM2lTaTkycDlQWm1Ob1EwX3ZVTm9wQmI3NmVTQ1IxanhBYVp5RjBFUTFiT1RB?oc=5",
+      "title": "AI Agents Are Creating a New Challenge for Software Companies: Proving They Can Be Trusted - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVFBV1d1QlNuWG9aMmJNUGZtNlE1MDY1NWg0OTNjeGZNZlVaQnRPOFhzQlZ6WFpGMjA1a2RkanVPWnRmM1pCSzR2VElmX2J0TV93TFpqQjlUVkZaTjRxMVhLTTBpMWdOa2tHdXhzUFdOSXd3NjhiM0hhYktkRE9xWXJ2VHMxRHV6Y2I4dDhnY1JrT1FNTXNrNVZaVTh0YzlGWVhhZ2hMcVNfQ2EzSXRTeFNYMjc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-30T22:02:27Z",
-      "summary": "宾夕法尼亚州将在2026年选举前播出涉及州长夏皮罗的AI生成竞选广告，引发关注。报道解释其获准播出与当地选举和广播监管规则有关，可能涉及广告披露、言论自由或平台责任边界。该案例凸显AI深度伪造进入政治传播后，现有法规在透明度和问责上的滞后。"
+      "publishedAt": "2026-10-31T05:38:25Z",
+      "summary": "随着AI智能体（Agent）在企业软件中承担越来越多自动化任务，软件公司面临一项新挑战：如何向客户证明这些具备自主决策能力的系统可信、可控。报道指出，厂商需要在权限边界、行为可审计性、错误处理机制与数据安全等方面提供透明方案，否则难以通过企业采购的合规与风险评估。可信度正从技术卖点转变为此类智能体商业化落地的必要条件。"
     },
     {
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T21:54:34Z",
-      "summary": "英特尔股价大跌，使美国政府所持股份市值缩水约120亿美元。报道指出，PC销售承压是重要原因：AI产业大量消耗内存等零部件，推高PC价格并抑制需求。这反映AI热潮对半导体供应链的挤出效应，以及英特尔在PC周期与AI算力竞争中的双重压力。"
-    },
-    {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T21:52:03Z",
-      "summary": "据《金融时报》报道，Anthropic在IPO后预计将获得信用评级机构较高的“垃圾级”评级。高收益债评级会提高其融资难度和成本，而公司仍需为大规模AI投入持续筹资。该消息反映市场对AI独角兽高支出、盈利前景和资产负债表可持续性的担忧。"
-    },
-    {
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T21:26:59Z",
-      "summary": "TechCrunch发布科技极客万圣节临时装扮指南，建议装扮成“看似可爱实则危险的AI代理图标”、PHP漏洞，或“困倦的Bryan Johnson”等科技梗。内容以轻松方式盘点科技圈流行符号，反映AI代理、开源安全漏洞和生物黑客式长寿话题已成为程序员文化的一部分。"
-    },
-    {
-      "title": "Cracks are emerging in the AI spending boom",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T21:17:40Z",
-      "summary": "AI支出热潮出现裂痕。大型科技公司仍在向AI基础设施投入数十亿美元，但债务上升、自由现金流为负以及投资者怀疑情绪加剧，令市场开始质疑这轮资本开支的可持续性。报道关注AI算力军备竞赛的财务代价，以及高投入能否转化为足够回报。"
-    },
-    {
-      "title": "AI Explained: URI launching new artificial intelligence program - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUdtMnlOQl93VlRFU045bktNTG5CSmdVc3RkdUNpX29iSVR2TzZhNWpRMUV5dXdRaEdyXy1BalZsREVwWFVYNHZzYktFTWZSRDBUTEt1UklfdVVGR2F4QVhXcVljZkkxTXRyYlF5c3hSZFFIbXctRzZNd1AxNUljcWxLRkl4T2xWR3hpM2Y1T1JkSkd3aUV4VkFQTnU?oc=5",
+      "title": "AI giants promise publishers new way to block some scraping - Al Arabiya English",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUV1Q1ZEbDNINHBEaFAyM3RvdjlaWVZpOW9EXzJCRW5Jd09iLVgwcXRSWmZnb3lIVThxSWVKWFl0YUx1U1BZSFBuY2VTQjJTcW9samEzZ2Q1WEh3WE9Gc1FzdXZLTXJJTEx4VFNYdWZ0Qm1mQjhOTEJTVHVaNThFSHowdHNpNFZoOVcxUXhidTNiRXYydUE4OGhfV0kzQ2dDeVZZNGk0N0Nidl9ra3FQZHRoY1Q1QWtNYzl4TdIBwgFBVV95cUxPYTd1RHUxTDN5VGd6VWk2bGlxZUpBZUkxeWxOa2cxamtQU3lOTy1wWFpaLVlpX0IzeTBkOXZyVDYtNkNWZ1hxY1ZwZ2ZvQWo4NFFOS015SnR3QWx1M21oQ0ZpWl85SDFHTnNxU3QtWGs1NFRqYzZtb1dtaHFDM2V3Z2tKenU1VUZHdU1RSGNJWktFMUk4dzFtM19lYlFJRlJaeFZsRV9xeTE4Ym9yZUNxZjJTN0V6MzVrMm1VMjd2LXdoUQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-30T21:09:58Z",
-      "summary": "据Yahoo报道，罗德岛大学（URI）将推出新的人工智能项目，作为“AI Explained”系列关注的高教动态。该项目旨在培养AI相关人才、扩展课程与研究能力，回应产业对AI技能的需求。具体课程设置和招生信息尚未充分披露，但显示高校正加快AI学科布局。"
+      "publishedAt": "2026-10-31T05:26:00Z",
+      "summary": "多家AI巨头表示，将为新闻出版机构提供新的技术手段，用于阻止其内容被部分抓取，以回应出版商对版权受损与流量流失的担忧。该机制有望让网站更精细地控制哪些爬虫可以访问内容，从而在模型训练数据获取与内容保护之间寻求平衡。不过，具体技术标准、执行方式以及是否具备实际约束力仍有待观察，出版方也在关注其真实效果。"
+    },
+    {
+      "title": "Google's 'Project Suncatcher' achieves first successful AI response from space - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUG5MRHVva0ctS3ViZzZLNnhtQWdGMlNIUTZRalAwaF9RdU85TkE0Tms2S1lZc3I2Z1BvYzhtZzBBLVZnRWptTlpOWGVBTFFVYV80YzliZi1lbnhDeG4yN2Ftc0VSRXdIZERuNzJob0F4Y2pwRkhiUGJpcXo3RERFX3djM0VFZTV2MjRiUHhad0RJektEaU9sNkh1SlRYT3lZeDZ6X3VEdUplTGRNaThQRmhNc3dYUHhwNVQxOVFiNHJ3M1NBN3BkWG1iMG0yX1QyemFKN094SE1LVXRyb3ZOWTVqQ1ZmLWxzWlhtbnV6b9IB9AFBVV95cUxNVk93UFhsdno1bXZIeGxTd3dJbDlGOENSUUpNN2M0RzZWVVhSREhWVTR4M1pMMkstaVZIUmpLRXA1OFI1cVpZTGl1aURLS1VTT2RsUG1QX0JiT2xRek96Y2N5TVlHQjd4Xy1NVkoxcU9mZHVrMlhTV21qdWRORTZJQ3hCSFlza2ZqZHN0NU5xbWFjbHFGNWd5SWlJdEV2d0pDa0xPaEh6UXVUeGJGaEpxTENnZ0F5MHdOeU5zUG9oWV8yZnRsWFhnVnd1TkpqOVgwOFFNcjN6SHZmQmhBdzUyRk1mb2h2eWE4ak9DUmZqMlMtTFJn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-31T05:07:23Z",
+      "summary": "谷歌宣布其“Project Suncatcher”项目取得进展，首次成功从太空获得AI模型响应。该项目探索将AI计算能力部署至卫星等太空平台，验证在轨推理与数据传输的可行性。若未来能够规模化，天基算力有望为遥感分析、偏远地区通信和实时数据处理提供新方案，但仍需克服能耗、散热、辐射环境适应性以及发射与运维成本等工程挑战。"
+    },
+    {
+      "title": "Ecuador Ambassador highlights growing role of Artificial Intelligence in modern diplomacy - ET Government",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNS01XS0hmV3hUY1dhOVVlUGNwQlF3RmlydVRLeWt0T1VfWVZ5NDBiZFBqSDR0NDBvczJDZkU5Z05rZEp4UHNzOURPMDNVVHFES2I0eUp1bTV6bVNIcGZPU3NTeUg2NDlhcmFlU0JiUjYzcFd3WlhXUEE1OGFwM1RabEdnMkhSVkNQMUhjdEphNjBKbUl6cUROWEZrS1VYTV92UTBzREgzTEhhellOaFZkVEJucGwwUjFjWVVtejc0THo0TUpvcVpfdGQzNDUyV1FYaFJyaVBtbGRiNS1nMHp2R2hFa1lvSko2U21MTmU0ZV9tT19tTEh1ZWJmRmhrRkxOSDQ1b0ZKV3p0NWtsaE9CNDJVdUVCV0FpUC1VTVF6cWpEcjI1bmw0cnp30gH0AUFVX3lxTFA4N0pwNkxMdHVsQ2YtMVdfWXVqUTNVc0VhZHdDSVRDNWlyXzljbkpsTVVQeWVQYnIzdTFpTy1YS0g4bW5xeDJlSXNpbmdOV3pVaXYzMEZ3QlRpOUQwTWtpUlpZUkhtbmxWVW5qM0dZYjJfSGd6ZkFpZ2dHS3czZUZBaHFaSHRmTHlocWtMUzF3dDVCbVhCbjkycVhuUFBlX2pDTHFhWVVYVzY2WnVCRWZLYzM4QnoyR3lVcFY5TXhUVTFvblc5VXVWTnhKbmNGVUFqS0pzZzZHb0lUcGhTZzdLUFdwT2d2b2hiRnhtcDl5OTA2ajM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-31T05:05:47Z",
+      "summary": "厄瓜多尔一位大使在公开活动中强调，人工智能在现代外交中的作用日益凸显，正在改变信息分析、舆情研判、多语言沟通和领事服务等工作方式。他指出，外交部门可借助AI提升决策效率与公共服务可及性，但同时需关注数据安全、算法偏见与伦理规范，并加强外交人员的数字素养，在技术应用与主权、隐私保护之间保持平衡。"
     }
   ]
 }
