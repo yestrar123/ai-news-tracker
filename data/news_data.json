@@ -1,97 +1,76 @@
 {
-  "updatedAt": "2026-10-30 21:46:09 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-10-31 03:06:54 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T01:20:05Z",
+      "summary": "英伟达正考虑为Nscale位于西弗吉尼亚州的AI数据中心项目贷款提供共同签署或担保。在投资者对AI资本开支愈发敏感之际，由芯片供应商为算力基础设施融资背书，有助于降低项目融资难度和资金成本，也反映AI数据中心扩张对金融支持的依赖。"
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T22:56:13Z",
+      "summary": "主打隐私保护的AI助手Ollie宣布将在约一周内关闭。其创始人称，随着AI助手数量激增、市场竞争加剧，产品难以持续运营。该事件凸显隐私优先型AI工具在商业化、用户规模与头部平台竞争中的压力，也引发对AI助手数据隐私价值的讨论。"
+    },
+    {
+      "title": "Character.AI moves ahead with asset sale over states' objections - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2pwTHBXOHJnamJiM25nX1RtYW9palh0cms2Uk5uTHRyV2xwYTR1OUFNVUM1MU1RTGVOazIxUzB5NVZBSk9VRmg5TUJOLXdYNkdVRml6WlJ6STRkcXlwOHY1MjFOajdTTmszLUhvSW1Wc2hzUTFDYllWTmZLb0RZN0NMTklMRnd1cHF5aVdqOTNKbWJ4S0tCYS03R3M0eFc0aUluWWs3R3dSRE1fekw2WFFWRjBlZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T22:33:10Z",
+      "summary": "据路透社报道，Character.AI正推进资产出售，尽管多个州监管机构提出反对。交易细节尚未充分披露，但争议焦点涉及AI平台资产处置、用户数据与监管审查。此举显示AI聊天机器人公司在资本运作和合规压力下加速调整，也预示州级监管对AI交易的影响上升。"
+    },
+    {
+      "title": "Tech Leaders Kiss the Ring and Refuse to Call It \"AI\" After Trump Told Them Not to - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVBRLXVidUN4Q3NWZlhPVkRodk1qdnVNU1NaS1lRa3BGUFVyT0kzS2loOVJCLWlsZzQ3eFVST0hhTk8yOE00dW96b1VQaEF5UTdaUGIwUzNLSDN1QWNfZXAtSmhLZFRYdHdpY0NOLTY4NF9SZjF5dzNYTHRwRG0tVVlwZ0E0TGJqVFVyVw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T22:15:00Z",
+      "summary": "在特朗普要求不要使用“AI”一词后，多位科技领袖在公开场合回避该表述，被解读为对政治压力的顺从。报道以讽刺口吻称其“亲吻戒指”。这反映AI政治话语环境变化：行业领袖在政策与舆论压力下调整措辞，可能影响AI叙事、监管沟通和公众认知。"
+    },
+    {
+      "title": "Here's why an AI-generated campaign ad depicting Gov. Shapiro is allowed on the air in Pennsylvania ahead of the 2026 election - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjhoX2hsQ3lQcmdDVHZZMHdnSWZZQ09ROEJBRG9RSWxDaVd2SXlQTERUaElUb2FkdjU4SmdmSXowQmNGTlF4V2syM0FZU2d2LXVfVldQSXh4bWo2SkRYMVBzZTNmeXRYRUhVS1RESE9KZFBPTDZHanBDWVFqZDVkUldwdVNUU0ZrNFlwMXFsS2hpelBJSUt2Z1lXSk5NaWszYWtESTJSRGNKTVAtMkR5VHFxOHlwMHVrTnRadkRMQ1o5VlR0azBBbWFvNWnSAdIBQVVfeXFMTnlhemFsejYzZUNlMTJGUW5pdGM1M3dXSG80WUM2UFVXQzdIOTVVWXhGeEFkeFBYa08wWkpMVlc2aWU5Wm9OekpoNElXaXZQRV9oT0h0WFBOLTRNVHdRTFpuYmZka2Q4UUUzb1VpVjN5NTA2ZVZ0TXZBNk1TYVJ2dVhMZDVuTlFERzBCczB6a0xuSTNKQmtXYjFIV3pLZHdQY3F2Y1ROM2lTaTkycDlQWm1Ob1EwX3ZVTm9wQmI3NmVTQ1IxanhBYVp5RjBFUTFiT1RB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T22:02:27Z",
+      "summary": "宾夕法尼亚州将在2026年选举前播出涉及州长夏皮罗的AI生成竞选广告，引发关注。报道解释其获准播出与当地选举和广播监管规则有关，可能涉及广告披露、言论自由或平台责任边界。该案例凸显AI深度伪造进入政治传播后，现有法规在透明度和问责上的滞后。"
+    },
+    {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:54:34Z",
+      "summary": "英特尔股价大跌，使美国政府所持股份市值缩水约120亿美元。报道指出，PC销售承压是重要原因：AI产业大量消耗内存等零部件，推高PC价格并抑制需求。这反映AI热潮对半导体供应链的挤出效应，以及英特尔在PC周期与AI算力竞争中的双重压力。"
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:52:03Z",
+      "summary": "据《金融时报》报道，Anthropic在IPO后预计将获得信用评级机构较高的“垃圾级”评级。高收益债评级会提高其融资难度和成本，而公司仍需为大规模AI投入持续筹资。该消息反映市场对AI独角兽高支出、盈利前景和资产负债表可持续性的担忧。"
+    },
     {
       "title": "Last-minute Halloween costumes for tech nerds",
       "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-30T21:26:59Z",
-      "summary": "这条万圣节内容面向科技爱好者，建议用近期AI与技术圈梗做临时装扮，例如伪装成“看似可爱”的AI智能体图标、PHP漏洞，或模仿注重睡眠养生的Bryan Johnson。它属于轻量趣味选题，显示AI话题正进入流行文化，但未提供实质技术信息。"
+      "summary": "TechCrunch发布科技极客万圣节临时装扮指南，建议装扮成“看似可爱实则危险的AI代理图标”、PHP漏洞，或“困倦的Bryan Johnson”等科技梗。内容以轻松方式盘点科技圈流行符号，反映AI代理、开源安全漏洞和生物黑客式长寿话题已成为程序员文化的一部分。"
     },
     {
       "title": "Cracks are emerging in the AI spending boom",
       "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-30T21:17:40Z",
-      "summary": "大型科技公司正投入数千亿美元建设AI基础设施，但债务上升、现金流为负以及投资者质疑升温，使AI支出热潮出现裂痕。报道关注高投入能否转化为可持续回报，以及资本开支、融资环境与市场预期之间的张力，对判断AI泡沫风险具有参考意义。"
+      "summary": "AI支出热潮出现裂痕。大型科技公司仍在向AI基础设施投入数十亿美元，但债务上升、自由现金流为负以及投资者怀疑情绪加剧，令市场开始质疑这轮资本开支的可持续性。报道关注AI算力军备竞赛的财务代价，以及高投入能否转化为足够回报。"
     },
     {
-      "title": "AI Researchers Warn Human Misuse Outweighs Rogue Threats - Security Today",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUh5cGdtRXdqam5DcjJXcjMxSDY1X0Q3VXpQbUJFMkJLSzBWaHZJTXRkdVhGZXBfNnZTNjVQWFQtckVxekc5eXRUWHJpMVo1aWpVUjJpYWpaSVVvSldIYUJxb21rbFg5UkVrWTRpbGZMRFc0R2RjUkdyOXpvWERXTnBqODBhdDZXM3J1UVNPQzN5NVlZYmdxV1VXcllMVlJOTS1NM3huaDB4Wlk?oc=5",
+      "title": "AI Explained: URI launching new artificial intelligence program - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUdtMnlOQl93VlRFU045bktNTG5CSmdVc3RkdUNpX29iSVR2TzZhNWpRMUV5dXdRaEdyXy1BalZsREVwWFVYNHZzYktFTWZSRDBUTEt1UklfdVVGR2F4QVhXcVljZkkxTXRyYlF5c3hSZFFIbXctRzZNd1AxNUljcWxLRkl4T2xWR3hpM2Y1T1JkSkd3aUV4VkFQTnU?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-30T20:48:58Z",
-      "summary": "AI安全研究者警告，相较于失控AI或“rogue”自主系统，人类对AI的滥用才是更现实、更主要的威胁。报道提示政策与治理应更多聚焦恶意使用、误导信息和责任归属，而不是只关注科幻式失控叙事，反映安全讨论正转向以人为中心的风险管理。"
-    },
-    {
-      "title": "TCAI’s Jai Jaisimha on artificial intelligence and mental health: How should AI be used? - Transparency Coalition",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU3FNVFQ3YzV1Y3lLT2Ixc3hQNHU3UDBacEVZbTlzUnlkZHR3Nk1XQUg1ejQ3aXhXY282LUdZRzFFa3dGYS11SmJMcm90ZXMtRklrRXdPcjQzTFo2Z2lMZlZvX2ZxVWxTU2JqaWZZLWlGak90Uy1vclZ3NjloeEY4aEx6bzRCa2JKTXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T20:31:14Z",
-      "summary": "在关于AI与心理健康的讨论中，TCAI的Jai Jaisimha探讨AI应如何被使用，涉及应用边界、伦理规范与责任机制。报道强调，AI可用于心理支持，但必须防止过度依赖、误诊和隐私风险，并确保透明度与专业监督，避免技术替代必要的人类照护。"
-    },
-    {
-      "title": "Character.AI moves ahead with asset sale over states' objections - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2pwTHBXOHJnamJiM25nX1RtYW9palh0cms2Uk5uTHRyV2xwYTR1OUFNVUM1MU1RTGVOazIxUzB5NVZBSk9VRmg5TUJOLXdYNkdVRml6WlJ6STRkcXlwOHY1MjFOajdTTmszLUhvSW1Wc2hzUTFDYllWTmZLb0RZN0NMTklMRnd1cHF5aVdqOTNKbWJ4S0tCYS03R3M0eFc0aUluWWs3R3dSRE1fekw2WFFWRjBlZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T19:24:51Z",
-      "summary": "Character.AI在多个州反对声中继续推进资产出售。该交易涉及AI角色聊天平台的重组，也触及州级监管、消费者保护和AI交易审查等争议。报道显示，AI公司在大规模商业化与合规压力之间寻求调整，相关资产处置可能影响平台服务与行业竞争格局。"
-    },
-    {
-      "title": "Pope Leo Comes Out Swinging Against AI Personhood - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zLWRsZk1hR05TUy1ZbGpkb0tBYVl3RnpIWVlqb2RsVlVHWjRjY3BncmZ3MUxrdFpWTTNtRWVrZ3k5VlIzcWdUZ3pGMk4ydU9yNnRqQ0c1cXVSNjJTZlgzZHFTRDhnSWdzS2hyMGdoZmRYZXZ5QlE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T18:06:15Z",
-      "summary": "教皇利奥公开批评赋予AI“人格”或法律人格的主张，强调人类尊严与道德地位不应延伸至机器。此举加入AI伦理与法律地位辩论，反映宗教与公共舆论对AI权利化、责任归属和人机边界的担忧，可能影响未来AI治理讨论中的价值框架。"
-    },
-    {
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T17:47:12Z",
-      "summary": "Zest推出AI代理，可通过短信帮用户找餐厅并完成预订。它能汇总参与者的口味偏好，生成候选餐厅并组织投票，最后自动预订。产品瞄准“吃什么”这一高频决策场景，展示AI代理从信息查询走向多步骤任务执行和群体协调的应用趋势。"
-    },
-    {
-      "title": "Reddit will test mandatory logins as Google AI search drains its traffic - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rdXFTVkgyQ0lsdHVhWjhxZWlFUG9oTVNnUERUNl9rTTZuMkRfdUxMWkd1UWpRWFUyaHlvYTdlYVluNHZyRWFQOE05VXlTSjBlMDd3TzRaVE1DQWF4QzFuMS1PdmRTakJlYllyS2xOcTU5Y1NLT0dIRUFR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T17:41:49Z",
-      "summary": "Reddit将测试强制登录，背景是Google AI搜索摘要减少其自然流量。平台希望通过登录墙保护内容与用户数据、增强直接访问和商业化能力。此举反映生成式AI搜索正在改变内容平台流量分配，内容方与搜索平台围绕数据、版权和用户触达的矛盾加剧。"
-    },
-    {
-      "title": "Banks block AI agents as US open banking rule stalls - AI News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR0xGY1AwbWNaRnlWdEJtdHZQYzhTRE1yd204OWVoWmxZUzBNeXg4NmpRLWQzR0hvS0dZOWN5anF1UFpFNXF3SEl0bDJWenQ3Z0x4d0NpX1FXSmw4a2IxRHRPUklaREhRMXF5dmhPdWloMWluRUVjdndKWkVIdWhSckFtcWM3eEZ5dVY0Mk1FRk1SdWM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T17:36:13Z",
-      "summary": "在美国开放银行规则推进停滞之际，银行开始阻止AI代理访问账户和金融数据。报道指向数据共享、安全责任、欺诈风险与竞争格局等争议。AI代理若要在理财、支付等场景落地，需更清晰的合规框架与授权机制，否则金融数据壁垒将制约其应用。"
-    },
-    {
-      "title": "Credit where it’s due to AI for uncovering the PHP flaw – and discredit to the leaker | Letters - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbFRvTWM2UTdmckk0YXBIUTNxTHcwWTFVZHJRbVFJb0htRlJlQURCYUphTW5uUEtLTHBEVjZFQjVIUUVrRmpVd2hZaGJIeUoweWc5clU5UF9adTY1bUpQNXNQdW1nQlNLcmVMdE9tckJGaThWcnZfR2NzVnAxa2Rmb1Zld1FsbGloNkFKU1ZjYmtBWFludjU0VzdEZXp6eVl1NVdBUE9pX1FTRUVySEo0TnZUNkYwNzQzUVVjSGxwbkhDM3JVQ01rQ2tYRXhUUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T17:11:00Z",
-      "summary": "《卫报》读者来信认为，应肯定AI在发现PHP漏洞中的作用，同时谴责漏洞泄露者。来信区分了AI辅助安全研究的价值与不负责任披露的危害，强调漏洞发现应服务于修复而非炒作或攻击，反映AI参与网络安全研究时伦理与披露规范的重要性。"
-    },
-    {
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T17:00:00Z",
-      "summary": "谷歌首个数据中心卫星已上线运行，太空中首块TPU开始执行计算任务，并运行谷歌DeepMind的Gemma 4模型，已能生成诗歌。该进展将数据中心级算力延伸至太空，展示了TPU与Gemma模型在轨部署的可行性，也为未来空间计算、星上数据处理和低延迟AI服务提供了验证。不过目前公开信息有限，模型在轨性能、通信链路和实际应用规模仍待披露。"
-    },
-    {
-      "title": "$2 trillion wiped from tech stocks amid artificial intelligence spending fears - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFlZQTNQRndSbnpQdUVHODEyZTdibzYtNEZKS2ljZWZjSXNpZ0VJSzlNN1BDMmRpeV9qSU9XNl9WaW43VmM0azF1aDZZRzZSaVlQdjB0NV9ScnVFcVZjNVJNT1k1Y1lNT3VEWkFfaHRjM1VHUm1FVEVzek14bVpzLU5iOHc5VUJXLWpMUWxDY3NpWmhrdmlv?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-30T16:08:00Z",
-      "summary": "受人工智能支出担忧影响，科技股遭遇大幅抛售，市值合计蒸发约2万亿美元。市场担心企业在AI基础设施和算力上的巨额投入短期难以转化为利润，进而压低科技板块估值。该报道反映出资本市场对AI投资回报周期、盈利能力和持续高投入的谨慎情绪，也显示AI热潮正从概念驱动转向对成本与收益的重新定价。"
-    },
-    {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-30T16:03:45Z",
-      "summary": "Theranos举报人泰勒·舒尔茨警告，当前AI热潮“是欺骗他人的绝佳机会”。他认为，Theranos式造假故事在AI时代具有新的警示意义：一些从未盈利的公司仍能以万亿美元估值融资，容易催生夸大宣传、技术承诺与资本叙事脱节等问题。舒尔茨的提醒指向AI行业需要更强尽调、透明披露和伦理约束，避免重演以虚假技术故事伤害投资者与公众的教训。"
+      "publishedAt": "2026-10-30T21:09:58Z",
+      "summary": "据Yahoo报道，罗德岛大学（URI）将推出新的人工智能项目，作为“AI Explained”系列关注的高教动态。该项目旨在培养AI相关人才、扩展课程与研究能力，回应产业对AI技能的需求。具体课程设置和招生信息尚未充分披露，但显示高校正加快AI学科布局。"
     }
   ]
 }

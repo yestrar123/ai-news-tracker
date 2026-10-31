@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "7275",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T01:20:05Z",
+      "summary": "英伟达正考虑为Nscale位于西弗吉尼亚州的AI数据中心项目贷款提供共同签署或担保。在投资者对AI资本开支愈发敏感之际，由芯片供应商为算力基础设施融资背书，有助于降低项目融资难度和资金成本，也反映AI数据中心扩张对金融支持的依赖。",
+      "fetchDate": "2026-10-31"
+    },
+    {
+      "id": "7276",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T22:56:13Z",
+      "summary": "主打隐私保护的AI助手Ollie宣布将在约一周内关闭。其创始人称，随着AI助手数量激增、市场竞争加剧，产品难以持续运营。该事件凸显隐私优先型AI工具在商业化、用户规模与头部平台竞争中的压力，也引发对AI助手数据隐私价值的讨论。",
+      "fetchDate": "2026-10-31"
+    },
+    {
+      "id": "7277",
+      "title": "Tech Leaders Kiss the Ring and Refuse to Call It \"AI\" After Trump Told Them Not to - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVBRLXVidUN4Q3NWZlhPVkRodk1qdnVNU1NaS1lRa3BGUFVyT0kzS2loOVJCLWlsZzQ3eFVST0hhTk8yOE00dW96b1VQaEF5UTdaUGIwUzNLSDN1QWNfZXAtSmhLZFRYdHdpY0NOLTY4NF9SZjF5dzNYTHRwRG0tVVlwZ0E0TGJqVFVyVw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T22:15:00Z",
+      "summary": "在特朗普要求不要使用“AI”一词后，多位科技领袖在公开场合回避该表述，被解读为对政治压力的顺从。报道以讽刺口吻称其“亲吻戒指”。这反映AI政治话语环境变化：行业领袖在政策与舆论压力下调整措辞，可能影响AI叙事、监管沟通和公众认知。",
+      "fetchDate": "2026-10-31"
+    },
+    {
+      "id": "7278",
+      "title": "Here's why an AI-generated campaign ad depicting Gov. Shapiro is allowed on the air in Pennsylvania ahead of the 2026 election - 6abc Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjhoX2hsQ3lQcmdDVHZZMHdnSWZZQ09ROEJBRG9RSWxDaVd2SXlQTERUaElUb2FkdjU4SmdmSXowQmNGTlF4V2syM0FZU2d2LXVfVldQSXh4bWo2SkRYMVBzZTNmeXRYRUhVS1RESE9KZFBPTDZHanBDWVFqZDVkUldwdVNUU0ZrNFlwMXFsS2hpelBJSUt2Z1lXSk5NaWszYWtESTJSRGNKTVAtMkR5VHFxOHlwMHVrTnRadkRMQ1o5VlR0azBBbWFvNWnSAdIBQVVfeXFMTnlhemFsejYzZUNlMTJGUW5pdGM1M3dXSG80WUM2UFVXQzdIOTVVWXhGeEFkeFBYa08wWkpMVlc2aWU5Wm9OekpoNElXaXZQRV9oT0h0WFBOLTRNVHdRTFpuYmZka2Q4UUUzb1VpVjN5NTA2ZVZ0TXZBNk1TYVJ2dVhMZDVuTlFERzBCczB6a0xuSTNKQmtXYjFIV3pLZHdQY3F2Y1ROM2lTaTkycDlQWm1Ob1EwX3ZVTm9wQmI3NmVTQ1IxanhBYVp5RjBFUTFiT1RB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T22:02:27Z",
+      "summary": "宾夕法尼亚州将在2026年选举前播出涉及州长夏皮罗的AI生成竞选广告，引发关注。报道解释其获准播出与当地选举和广播监管规则有关，可能涉及广告披露、言论自由或平台责任边界。该案例凸显AI深度伪造进入政治传播后，现有法规在透明度和问责上的滞后。",
+      "fetchDate": "2026-10-31"
+    },
+    {
+      "id": "7279",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:54:34Z",
+      "summary": "英特尔股价大跌，使美国政府所持股份市值缩水约120亿美元。报道指出，PC销售承压是重要原因：AI产业大量消耗内存等零部件，推高PC价格并抑制需求。这反映AI热潮对半导体供应链的挤出效应，以及英特尔在PC周期与AI算力竞争中的双重压力。",
+      "fetchDate": "2026-10-31"
+    },
+    {
+      "id": "7280",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-30T21:52:03Z",
+      "summary": "据《金融时报》报道，Anthropic在IPO后预计将获得信用评级机构较高的“垃圾级”评级。高收益债评级会提高其融资难度和成本，而公司仍需为大规模AI投入持续筹资。该消息反映市场对AI独角兽高支出、盈利前景和资产负债表可持续性的担忧。",
+      "fetchDate": "2026-10-31"
+    },
+    {
       "id": "7265",
       "title": "Last-minute Halloween costumes for tech nerds",
       "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
@@ -17,6 +71,15 @@
       "publishedAt": "2026-10-30T21:17:40Z",
       "summary": "大型科技公司正投入数千亿美元建设AI基础设施，但债务上升、现金流为负以及投资者质疑升温，使AI支出热潮出现裂痕。报道关注高投入能否转化为可持续回报，以及资本开支、融资环境与市场预期之间的张力，对判断AI泡沫风险具有参考意义。",
       "fetchDate": "2026-10-30"
+    },
+    {
+      "id": "7281",
+      "title": "AI Explained: URI launching new artificial intelligence program - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUdtMnlOQl93VlRFU045bktNTG5CSmdVc3RkdUNpX29iSVR2TzZhNWpRMUV5dXdRaEdyXy1BalZsREVwWFVYNHZzYktFTWZSRDBUTEt1UklfdVVGR2F4QVhXcVljZkkxTXRyYlF5c3hSZFFIbXctRzZNd1AxNUljcWxLRkl4T2xWR3hpM2Y1T1JkSkd3aUV4VkFQTnU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-30T21:09:58Z",
+      "summary": "据Yahoo报道，罗德岛大学（URI）将推出新的人工智能项目，作为“AI Explained”系列关注的高教动态。该项目旨在培养AI相关人才、扩展课程与研究能力，回应产业对AI技能的需求。具体课程设置和招生信息尚未充分披露，但显示高校正加快AI学科布局。",
+      "fetchDate": "2026-10-31"
     },
     {
       "id": "7267",
@@ -65458,5 +65521,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7273
+  "total": 7280
 }
