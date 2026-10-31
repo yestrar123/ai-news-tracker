@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "7291",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T16:12:55Z",
+      "summary": "据TechCrunch报道，OpenAI在新一轮融资中下调了原定募资目标，显示本轮融资表现未达公司预期。这一变化被视为AI一级市场热度回调的信号：在算力投入持续膨胀、商业化回报仍待验证的背景下，投资者对超高估值的态度趋于谨慎。融资目标缩水可能影响OpenAI后续的模型训练与基础设施扩张节奏，也说明头部AI公司在资本市场上正面临更严格的审视。",
+      "fetchDate": "2026-10-31"
+    },
+    {
+      "id": "7292",
+      "title": "Meta’s $97.5 billion AI funding plan, OpenAI’s scientific claims: This week’s tech highlights - L'Orient Today",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSEpJX2h1ZzIxV2NuY2ZwdFlGOUdrN2IxNlRrT2pFcXJueDhWa0M2TWxVSV91V0ZxYzdHR1pYYVRUNmh6eThyVzVfSGVtVjR2UDFaMTRKSnczUkZoTjlIdnhmM2xSbVBFS1dmRzN3cndRd0pJSGladTVxVk82RC1UM0NzSzE3clZHaXZaRHFybUppenRXbGNScW90eFVWOEQtN3NUeE1CekpIUXdMbXh1aWFsVFktM2dPaUd5eHBUTFJSbHRKQ1VLTWZJUWtZMUZfTXV1bDhB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-31T13:40:19Z",
+      "summary": "本周科技焦点集中于两大AI巨头的动向：Meta被披露涉及高达975亿美元的AI资金计划，规模空前的投入显示其将AI算力与基础设施列为长期战略核心；与此同时，OpenAI对外公布的科学能力主张引发讨论，业界关注其模型在科研场景中的真实水平与宣传边界。两条消息共同勾勒出当前AI竞赛的两条主线——资本密集的基建扩张，以及围绕模型能力与可信度的舆论博弈。",
+      "fetchDate": "2026-10-31"
+    },
+    {
+      "id": "7293",
+      "title": "AI can’t replace human soul in language, Japanese Ambassador tells students - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVjdyTDV3RVo0akU5RGM2ODN3Y2dIRUM2VDltbXZNQ25QaUNKNWJsUVFrWlFjdjhjZ1JOaFJId19kcGhUV1B6QkNrSHNJWGV2YUdpbVVRbVNIc2NzNVFpZVlzbDliSzJPeVJzeXVYdzNFQUl6VGpfbU9HUmRmb3VPeWlpZV94VW80Sl9MQ2g4TW1yd1NYOEp2ZDlfaXBfZ242?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-31T12:36:05Z",
+      "summary": "日本大使在与学生的交流中表示，人工智能无法取代语言中人的灵魂与情感内核，语言学习与交流仍需依赖人的理解、文化与共情。这一表态出现在AI翻译与生成工具快速普及的背景下，强调技术可提升效率、辅助沟通，却不能替代人文素养与跨文化理解。对教育界而言，这提示在引入AI工具的同时，应更重视语言背后的人文价值与思辨能力培养。",
+      "fetchDate": "2026-10-31"
+    },
+    {
+      "id": "7294",
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-31T12:20:00Z",
+      "summary": "据Tom's Hardware报道，Anthropic旗下Claude新增范围较广的使用限制，明确禁止用于电子游戏克隆与逆向工程，相关策略还波及部分正当开发者的常规需求，甚至连基础故障排查任务也受到限制。这反映模型厂商在知识产权与滥用风险上日趋保守，但一刀切的规则也带来误伤问题：合法开发与安全研究被迫寻找替代方案，如何在合规与可用性之间取得平衡成为待解课题。",
+      "fetchDate": "2026-10-31"
+    },
+    {
+      "id": "7295",
+      "title": "CBK identifies nearly 300 AI use cases as it looks to improve economic forecasting - TechTrendsKE",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rNTZXNDJfcDJzS3hZQlNNY2Y4RkwwYXFxVlNVQW1hMUEzVnFqaXNpczJ0QTN3dE1VcXRxSTE4eDU2MWx4bGVlZzBPMXZONjdyY1hrOTlkUXp1QTRXMFFUbThUamc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-31T11:26:44Z",
+      "summary": "肯尼亚中央银行（CBK）表示已梳理出近300个AI应用场景，重点用于提升经济预测与政策分析能力。这些场景覆盖数据处理、宏观指标研判、风险监测等环节，目标是借助机器学习提高对经济走势判断的精度与时效性。此举表明新兴市场央行正把AI纳入核心业务能力建设，同时也需同步完善数据质量、模型可解释性与合规治理，以避免自动化决策带来新的政策风险。",
+      "fetchDate": "2026-10-31"
+    },
+    {
+      "id": "7296",
+      "title": "Is AI slipping beyond human control? | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWpSNXQwOWpOUS1tUk5fUEhvVVN4Tld1RWI5a3hscXY5NU9rNWcxNXctN0l3MmhwRkdueVhfbGcxLUcxWUZvZ3BmWUhQOThVeXFEM0JpRHNNS1ZTc1VTT3FGaUpTR3l5MVYxWmdzeHhycFdoMmx6VEVJTmhXbHVrNjJJZTdxYlNTQjZiUFc4cVc3Ym5ic0t3djRqUnl5MThtNnFvUHNxcGVqRE1rSlpB0gG0AUFVX3lxTE1QQVpSaDFXLUZLdWFkT1gwd0tab1ExOVpUR1NuaHV3MGo3aFVNMDF4amFQV3JsQmt2eDhFenZGTTZkOG1yYkhHNXZKZlRrRi1hT01xc2w5akkxV0puaFFKcXZCU3lkN1l2bXVwd3lfWmFVTXBLV1RTclJNQlN4VGZuYU4wQkhTMmxXdXZ0UjJnWTZHSDRSeEJJdTlOSHZFZktKTUR5YkNCM0R4cmhlaGx4SlpLZA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-31T11:12:43Z",
+      "summary": "印度《Hindustan Times》刊文探讨AI是否正在滑出人类控制。文章围绕模型能力快速跃升、自主智能体增多以及监管滞后等现实，追问现有安全对齐手段能否跟上系统复杂度的增长，并讨论透明度、可中断机制与国际规则的必要性。其核心关切并非“机器觉醒”式的科幻想象，而是当AI深度嵌入金融、舆论与关键基础设施时，人类是否仍保有有效的监督与纠错能力。",
+      "fetchDate": "2026-10-31"
+    },
+    {
       "id": "7288",
       "title": "Human Dignity Needs Operating Rules, Not Another AI Slogan - CEOWORLD magazine",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ042NmVWekROTU5zLU1nOHFIUWlfRUM2NGdxX1EydFcyeXAyV1dtRHBfSU5xTlZrVXN3T3NTZ3ZWNElRTzNVRjBuZzlkVExGT3pmRzd0VlUzamVyZU5rMkFndldTd19YVEZTcjFxOGV1VGJ3MzZtSHdkdEN6NjNZUlV4SjJYMWhvV3dWOXlYNTVNVEFz?oc=5",
@@ -65602,5 +65656,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7289
+  "total": 7295
 }

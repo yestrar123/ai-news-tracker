@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-10-31 11:22:58 UTC",
+  "updatedAt": "2026-10-31 16:28:20 UTC",
   "totalArticles": 7,
   "articles": [
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T16:12:55Z",
+      "summary": "据TechCrunch报道，OpenAI在新一轮融资中下调了原定募资目标，显示本轮融资表现未达公司预期。这一变化被视为AI一级市场热度回调的信号：在算力投入持续膨胀、商业化回报仍待验证的背景下，投资者对超高估值的态度趋于谨慎。融资目标缩水可能影响OpenAI后续的模型训练与基础设施扩张节奏，也说明头部AI公司在资本市场上正面临更严格的审视。"
+    },
+    {
+      "title": "Meta’s $97.5 billion AI funding plan, OpenAI’s scientific claims: This week’s tech highlights - L'Orient Today",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSEpJX2h1ZzIxV2NuY2ZwdFlGOUdrN2IxNlRrT2pFcXJueDhWa0M2TWxVSV91V0ZxYzdHR1pYYVRUNmh6eThyVzVfSGVtVjR2UDFaMTRKSnczUkZoTjlIdnhmM2xSbVBFS1dmRzN3cndRd0pJSGladTVxVk82RC1UM0NzSzE3clZHaXZaRHFybUppenRXbGNScW90eFVWOEQtN3NUeE1CekpIUXdMbXh1aWFsVFktM2dPaUd5eHBUTFJSbHRKQ1VLTWZJUWtZMUZfTXV1bDhB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-31T13:40:19Z",
+      "summary": "本周科技焦点集中于两大AI巨头的动向：Meta被披露涉及高达975亿美元的AI资金计划，规模空前的投入显示其将AI算力与基础设施列为长期战略核心；与此同时，OpenAI对外公布的科学能力主张引发讨论，业界关注其模型在科研场景中的真实水平与宣传边界。两条消息共同勾勒出当前AI竞赛的两条主线——资本密集的基建扩张，以及围绕模型能力与可信度的舆论博弈。"
+    },
+    {
+      "title": "AI can’t replace human soul in language, Japanese Ambassador tells students - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVjdyTDV3RVo0akU5RGM2ODN3Y2dIRUM2VDltbXZNQ25QaUNKNWJsUVFrWlFjdjhjZ1JOaFJId19kcGhUV1B6QkNrSHNJWGV2YUdpbVVRbVNIc2NzNVFpZVlzbDliSzJPeVJzeXVYdzNFQUl6VGpfbU9HUmRmb3VPeWlpZV94VW80Sl9MQ2g4TW1yd1NYOEp2ZDlfaXBfZ242?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-31T12:36:05Z",
+      "summary": "日本大使在与学生的交流中表示，人工智能无法取代语言中人的灵魂与情感内核，语言学习与交流仍需依赖人的理解、文化与共情。这一表态出现在AI翻译与生成工具快速普及的背景下，强调技术可提升效率、辅助沟通，却不能替代人文素养与跨文化理解。对教育界而言，这提示在引入AI工具的同时，应更重视语言背后的人文价值与思辨能力培养。"
+    },
+    {
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-31T12:20:00Z",
+      "summary": "据Tom's Hardware报道，Anthropic旗下Claude新增范围较广的使用限制，明确禁止用于电子游戏克隆与逆向工程，相关策略还波及部分正当开发者的常规需求，甚至连基础故障排查任务也受到限制。这反映模型厂商在知识产权与滥用风险上日趋保守，但一刀切的规则也带来误伤问题：合法开发与安全研究被迫寻找替代方案，如何在合规与可用性之间取得平衡成为待解课题。"
+    },
     {
       "title": "Human Dignity Needs Operating Rules, Not Another AI Slogan - CEOWORLD magazine",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ042NmVWekROTU5zLU1nOHFIUWlfRUM2NGdxX1EydFcyeXAyV1dtRHBfSU5xTlZrVXN3T3NTZ3ZWNElRTzNVRjBuZzlkVExGT3pmRzd0VlUzamVyZU5rMkFndldTd19YVEZTcjFxOGV1VGJ3MzZtSHdkdEN6NjNZUlV4SjJYMWhvV3dWOXlYNTVNVEFz?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-31T09:50:22Z",
-      "summary": "文章指出，AI治理不能停留在“尊重人类尊严”的口号层面，而应转化为可执行的操作规则。作者主张为AI系统设计明确的边界、责任与审计机制，将抽象伦理原则嵌入产品开发、部署和监管流程，从而在技术快速落地时真正保障人的尊严与权利。"
+      "publishedAt": "2026-10-31T11:49:23Z",
+      "summary": "CEOWORLD杂志刊文指出，围绕“人的尊严”的讨论不应停留在AI领域反复出现的口号层面，而需转化为可执行的操作规则。文章主张把抽象价值承诺落到产品设计、数据治理、审计与问责机制中，明确谁在何种情况下对AI系统的决策负责，并建立可检验的标准。只有当尊严、公平等原则被写进流程与制度而非停留在宣言里，AI治理才可能真正生效。"
     },
     {
-      "title": "AI is advancing faster than we can explain it. Here's how to separate fact from hype. - Berkshire Eagle",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdTZWR1FuLTVhSWRTM3dtazBDZ0k4MjlfSTJ4QVJDZnZPdHhxeThrV2p1MWlsMlBIWUlnM1pmeGhvc21sR1gxdGIwM1RycEIxbFBsbVplZTd3MWprUFBXbjZEQ19YdVk5ckJPNWdlakx2VGlOd3JobGZUMGgtemhwYUdyNU96SEJ0dWhScmlQdHRfR0Z0RXZNUnp5TXM1MHBZTm5YdlZIMjV4Y2hESUFIMzhhbnRrXzNZbEk1RmRNdU9TRXRXSE4yTVRJaW5WcVc1UFBKcFNISQ?oc=5",
+      "title": "CBK identifies nearly 300 AI use cases as it looks to improve economic forecasting - TechTrendsKE",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rNTZXNDJfcDJzS3hZQlNNY2Y4RkwwYXFxVlNVQW1hMUEzVnFqaXNpczJ0QTN3dE1VcXRxSTE4eDU2MWx4bGVlZzBPMXZONjdyY1hrOTlkUXp1QTRXMFFUbThUamc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-31T09:00:00Z",
-      "summary": "文章认为AI能力正以超出公众理解的速度推进，导致事实与炒作混杂。作者提出应通过可复现的实验、独立评估和清晰的基准来辨别真实进展，避免被营销话术误导，同时呼吁建立更透明的信息机制，帮助公众和政策制定者理性判断AI的实际能力与局限。"
+      "publishedAt": "2026-10-31T11:26:44Z",
+      "summary": "肯尼亚中央银行（CBK）表示已梳理出近300个AI应用场景，重点用于提升经济预测与政策分析能力。这些场景覆盖数据处理、宏观指标研判、风险监测等环节，目标是借助机器学习提高对经济走势判断的精度与时效性。此举表明新兴市场央行正把AI纳入核心业务能力建设，同时也需同步完善数据质量、模型可解释性与合规治理，以避免自动化决策带来新的政策风险。"
     },
     {
-      "title": "Gates Foundation Announces 2027 Africa AI Fellowship: Applications Open for Artificial Intelligence Innovators - Global South Opportunities",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPeDU5cUVvZzZFckdSWk02WV9CN20xbnZDeThmQUotcTM4dndlZnlkOFJ0aE1lSTBPV0tOdXNBWS1qcG1QMUVHMTJ4WFFJUmxZeXM5YzBZSW5sTjIzYXpLeXJUNko4MWV2eXdMWXNKNDlsYmlu?oc=5",
+      "title": "Is AI slipping beyond human control? | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWpSNXQwOWpOUS1tUk5fUEhvVVN4Tld1RWI5a3hscXY5NU9rNWcxNXctN0l3MmhwRkdueVhfbGcxLUcxWUZvZ3BmWUhQOThVeXFEM0JpRHNNS1ZTc1VTT3FGaUpTR3l5MVYxWmdzeHhycFdoMmx6VEVJTmhXbHVrNjJJZTdxYlNTQjZiUFc4cVc3Ym5ic0t3djRqUnl5MThtNnFvUHNxcGVqRE1rSlpB0gG0AUFVX3lxTE1QQVpSaDFXLUZLdWFkT1gwd0tab1ExOVpUR1NuaHV3MGo3aFVNMDF4amFQV3JsQmt2eDhFenZGTTZkOG1yYkhHNXZKZlRrRi1hT01xc2w5akkxV0puaFFKcXZCU3lkN1l2bXVwd3lfWmFVTXBLV1RTclJNQlN4VGZuYU4wQkhTMmxXdXZ0UjJnWTZHSDRSeEJJdTlOSHZFZktKTUR5YkNCM0R4cmhlaGx4SlpLZA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-10-31T07:59:01Z",
-      "summary": "盖茨基金会宣布启动2027年非洲AI奖学金项目，面向人工智能创新者开放申请。该项目旨在支持非洲本地AI人才发展，推动技术在医疗、农业、公益等领域的应用，并加强非洲在全球AI创新网络中的参与度。具体申请条件和资助细节需参考官方信息。"
-    },
-    {
-      "title": "OpenAI funding target cut by $10 billion as AI slumps, report says - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc1BxdkxaZEl2djNYVXl5TVFMX09fMEtubHdBRGtHOGh3VlVNd0pWdTZFdk1MQ1ZsQlBOdnYtOWMwODNyTmdfYUxQTlpEQV9QUjZneXdwNWdJcWJmd2IxVFVHaEhQSkhzbXRVQWp6SDJZMlRVVU5kZmhOUEhHbzd0TkttY0UtSGZHX3BwZW5qWXpQYWUwZGlzQUxXd0tlWXIzZ0xQVW40Z2pUQ1NrRzdwRjVRanp4Slp4Rzg3aEsxSllfZHU3RVk2R1pRcHY1cldPUDNKWEZB0gHbAUFVX3lxTFA5RXRwOHdKRE90N2N4dE8tbTBBUUdwT2RXTDRTbjhGUjFyMVFSZVo1ZXl5ZF94S1pJR185UVY4dGJ0X0dUODBTOEp6dUIwQ3lxc1A0R1lONVlvRDlEOHVMNnY5aDRvSVVRUE1fMnBESlBJUzhJa012RURQR0lvVVNUejNDbl9VSjJsbzR1UVZjNW1fTDJ1RzNtbXFNaHFNTVlUZnJWUHdKczRTdTFaQVJDbjl0Z3V1a0Itdmk1aE1sN1RuejdwUFFDREdxVU00X21rZUdCVldPMU9rVQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-31T06:38:35Z",
-      "summary": "有报道称，在AI投资热潮降温的背景下，OpenAI将融资目标下调100亿美元。这一调整反映出市场对AI高估值和商业化前景的谨慎情绪上升，投资者更关注回报周期与成本控制。不过，相关消息仍需以公司官方披露为准，融资规模和条款可能继续变化。"
-    },
-    {
-      "title": "AI May Have Disproved A 27-Year-Old Computer Science Theory: Report - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVJqektWUExlT2h4NkEyZUFlMzFOOHRMb0NwVWI2dkFRSnB5WEF5UDNuZmNMWmI5Wi1kVXB6c2xUY1MxOG1hWFVRYjZUV1dVLWtyZWh5ajdyUXdWVV9fX21HN08wd3FQTTV1a2hMTEFvR3JpVkNXdFJyWEprZzh2QXFTVEpkNFpyal9WUlRmdlpUWnlLMWlFdHlhWm1XNmVZRURHWS1pZTU0bmc2TGg3WDFCRk1yc2xpcTgtMNIBxAFBVV95cUxNTGZBX084YW9EMjUxSHlSREtPQkhwbXRvTnRQNGROMGVDQWJ1YWdTTjJPZlQ0UXRMZktuZENJcVZ2UmpkTE1QbGN5VjZOckNGTjZWenpCcmhaQjEzVE8xb2ExSGxxMWZ6VnkwMWw3Q1VuZDR2Qk9iZkpybmVsLTNHMkNFREI4NkZudFQyZF84N19abXpEZ1VTS0tielBzNGRQMjRQandWR3VmLVY5SlYwRDR0dFpqa1Qtb2lCVFJfWFNzb3Rv?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-31T06:17:59Z",
-      "summary": "有报道称，AI可能推翻了一个存在27年的计算机科学理论。若属实，这将显示AI在数学与理论计算机科学探索中的潜力，即通过搜索和模式发现提出反例或新猜想。但此类结论仍需同行评审与形式化验证，不能仅凭初步结果就认定理论已被证伪。"
-    },
-    {
-      "title": "AI Agents Are Creating a New Challenge for Software Companies: Proving They Can Be Trusted - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVFBV1d1QlNuWG9aMmJNUGZtNlE1MDY1NWg0OTNjeGZNZlVaQnRPOFhzQlZ6WFpGMjA1a2RkanVPWnRmM1pCSzR2VElmX2J0TV93TFpqQjlUVkZaTjRxMVhLTTBpMWdOa2tHdXhzUFdOSXd3NjhiM0hhYktkRE9xWXJ2VHMxRHV6Y2I4dDhnY1JrT1FNTXNrNVZaVTh0YzlGWVhhZ2hMcVNfQ2EzSXRTeFNYMjc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-31T05:38:25Z",
-      "summary": "随着AI代理越来越多地代替用户执行任务，软件公司面临新的信任难题：如何证明代理行为可靠、安全且可审计。文章指出，企业需要建立权限控制、行为日志、测试评估和异常处理机制，并向客户清晰说明代理的能力边界，否则难以推动AI代理在关键业务中的规模化应用。"
-    },
-    {
-      "title": "AI giants promise publishers new way to block some scraping - Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUV1Q1ZEbDNINHBEaFAyM3RvdjlaWVZpOW9EXzJCRW5Jd09iLVgwcXRSWmZnb3lIVThxSWVKWFl0YUx1U1BZSFBuY2VTQjJTcW9samEzZ2Q1WEh3WE9Gc1FzdXZLTXJJTEx4VFNYdWZ0Qm1mQjhOTEJTVHVaNThFSHowdHNpNFZoOVcxUXhidTNiRXYydUE4OGhfV0kzQ2dDeVZZNGk0N0Nidl9ra3FQZHRoY1Q1QWtNYzl4TdIBwgFBVV95cUxPYTd1RHUxTDN5VGd6VWk2bGlxZUpBZUkxeWxOa2cxamtQU3lOTy1wWFpaLVlpX0IzeTBkOXZyVDYtNkNWZ1hxY1ZwZ2ZvQWo4NFFOS015SnR3QWx1M21oQ0ZpWl85SDFHTnNxU3QtWGs1NFRqYzZtb1dtaHFDM2V3Z2tKenU1VUZHdU1RSGNJWktFMUk4dzFtM19lYlFJRlJaeFZsRV9xeTE4Ym9yZUNxZjJTN0V6MzVrMm1VMjd2LXdoUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-10-31T05:26:00Z",
-      "summary": "多家AI巨头承诺为出版商提供新的技术手段，以阻止部分网页内容被抓取。此举旨在缓解内容创作者与AI训练数据使用之间的紧张关系，可能通过标准化协议或选择退出机制实现。但具体覆盖范围、执行效果及是否具有约束力仍有待观察，出版商与AI公司的博弈将持续。"
+      "publishedAt": "2026-10-31T11:12:43Z",
+      "summary": "印度《Hindustan Times》刊文探讨AI是否正在滑出人类控制。文章围绕模型能力快速跃升、自主智能体增多以及监管滞后等现实，追问现有安全对齐手段能否跟上系统复杂度的增长，并讨论透明度、可中断机制与国际规则的必要性。其核心关切并非“机器觉醒”式的科幻想象，而是当AI深度嵌入金融、舆论与关键基础设施时，人类是否仍保有有效的监督与纠错能力。"
     }
   ]
 }
