@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "7299",
+      "title": "Amid a series of test irregularities using artificial intelligence (AI) smart glasses, a study found.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yVkZwU0xRNXhSRVVxeEZaLUlTMTVhaVM1dm1GVGJ4ZmRkMUhGTUw0U1J0OVN1ZTk1SXNXUFN6UjNjSWtoeEVwd2dDVkhLX1d4ekE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-01T00:06:24Z",
+      "summary": "在AI智能眼镜被用于考试违规的事件接连出现后，一项相关研究对此展开分析。报道指出，研究或聚焦智能眼镜在考场中的滥用方式、识别难度及防范措施，为考试机构和监管方评估风险提供依据。随着AI可穿戴设备普及，如何平衡技术创新与考试公平、隐私保护，正成为亟待关注的治理议题。",
+      "fetchDate": "2026-11-01"
+    },
+    {
+      "id": "7300",
+      "title": "How AI can use health data to improve patient care - InSight+",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3BuLVhtZ3Z2T3RVeFV3cVBpaVU5dDFmMW54LTNvQ3FtTEdyeHZmM2gzaHlMbmNkNkVBZkxjcXFzT21BdU04V3FsQ3pqanl6Rk9NWXJIVGpzamlyYjBFdW1CR1QtVmRhVVphZlI2RTQ2MnNpWjVvWVFQMENqMnR2cjRIUjhMZ1lXS3ZBQXZTV284VVN3RVl4UkpGWV9oWVJU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-10-31T23:42:31Z",
+      "summary": "文章探讨AI如何利用健康数据改善患者护理。通过整合电子病历、监测数据等多源信息，AI可辅助临床决策、风险预警和个性化治疗，提升诊疗效率与护理质量。同时，数据隐私、安全合规和算法偏见仍是落地关键，需要在治理与临床验证之间取得平衡。",
+      "fetchDate": "2026-11-01"
+    },
+    {
+      "id": "7301",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T21:41:00Z",
+      "summary": "苹果CEO回应外界对公司AI进展的关注，表示苹果不会“为AI而AI”，强调AI应服务于真实用户体验和产品价值。其表态意在说明苹果更重视将AI能力融入现有生态，而非追逐参数或概念。面对竞争对手的密集发布，苹果仍在隐私、实用性和系统整合上坚持自身节奏。",
+      "fetchDate": "2026-11-01"
+    },
+    {
+      "id": "7302",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T21:36:07Z",
+      "summary": "TechCrunch Founder Summit进入开幕倒计时，活动将于11月4日在波士顿SoWa Power Station举行。大会面向创始人和初创团队，提供高质量社交、可落地的行业洞察及创业资源对接，帮助参会者拓展人脉、推动业务增长。主办方提醒，现场票价将上涨，建议提前注册。",
+      "fetchDate": "2026-11-01"
+    },
+    {
+      "id": "7303",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-31T21:17:03Z",
+      "summary": "美国法官裁定，NAACP针对xAI数据中心污染提起的诉讼可以继续推进。该诉讼指控这家由SpaceX拥有的AI公司违反《清洁空气法》，涉及数据中心运营带来的环境与公共健康影响。案件获准继续审理，意味着AI基础设施的环保合规和社区影响将受到更严格审视，也可能对行业数据中心建设产生示范效应。",
+      "fetchDate": "2026-11-01"
+    },
+    {
       "id": "7297",
       "title": "Best Artificial Intelligence Speakers 2027 | Scott Steinberg - https://www.futuristsspeakers.com/",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOTA5VjJJZXl5M1QteEE0VHdzMS1tcXZGOU51LXBXSFZodW1RZWUzbjVEX3JXTU1pY21SYmlKSkRGSFJCclVnd01hU3pKUThHeF9NSUJPWUp3bDVyZ2s4VU1KZlVYM0JPc2FOUWVXdld0dUM0Slg3VDN4RlJiTzBQYTJBaWJMSU1CMEtmaUpkdXJsZw?oc=5",
@@ -65674,5 +65719,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7297
+  "total": 7302
 }
