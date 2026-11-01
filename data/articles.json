@@ -1,12 +1,39 @@
 {
   "articles": [
     {
+      "id": "7305",
+      "title": "The pressure on artificial intelligence (AI) companies to raise funds is becoming a reality. Concern.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsSnkzaWZmVGRvR3dJUVpya1NDWmhPUmNpdzRMT1RUWWpORFFKRTJIT3FoRC1wdmFSclRMd2t0dlVWX25NY3pZZ25Hem1hTkk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-01T08:29:15Z",
+      "summary": "报道指出，人工智能企业面临的融资压力正逐步成为现实，市场对高估值、持续亏损和商业化前景的担忧升温。AI研发与算力投入巨大，企业需在扩张与控制成本之间取得平衡，并向投资者证明可持续的营收模式和盈利能力，否则后续融资难度可能进一步加大。",
+      "fetchDate": "2026-11-01"
+    },
+    {
       "id": "7304",
       "title": "Scotland must embrace AI revolution or risk missing out, warns minister - The Herald",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRERhVVdmc21GdzBwc081RWFuWW5fS1pPVldpOFA1bGw1cERIQW94MTBPUUlwYXl4elctV1VLdTQxalBNTjg4NU1Od3RRemlaZ0hqeXlDWmtOVUZ5b3otVzdHa19NZkU4RXJ6UjJzeFdBY2pGX0RrVHlEMzRNcEdIa3FqaHF3Y2pFUG84cTlWRi1UZzcxdHVTeV93a3ppUQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-01T07:52:46Z",
       "summary": "据《先驱报》报道，苏格兰一位部长警告称，苏格兰必须积极拥抱人工智能革命，否则可能错失发展机遇并在全球竞争中落后。该表态强调AI转型的紧迫性，呼吁政府、产业界和社会各界加快技术采用与战略布局，充分利用人工智能带来的经济和社会效益，避免在技术浪潮中被边缘化。",
+      "fetchDate": "2026-11-01"
+    },
+    {
+      "id": "7306",
+      "title": "AI dubbing to help Japanese companies expand global outreach - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTm9ZUTVkM29nMWhSc25VdjYyMTRsaDlycGdlOUNCaTktYlloRUVEeXpjTHdLYVBHeWNFSDIwQzhhTnRWbmFOaXF3U1NLTHhLYjl2V1NCOER5Y1pKQmVOczRsVE9QN1hqUnpKd1J6a1hVczRIejVGUnJKRGxZbVZvQXU4VWJKQk1LbTVrUE80SGFjSU1MaXB2TFZkUmxiVWdOZW00ZmRiejVnVktUWUdvY0FRSkxoN2hrWnlVeG5YTlM1a0JpN1lv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-01T07:31:00Z",
+      "summary": "日经亚洲报道，AI配音技术正帮助日本企业拓展海外市场。借助自动多语种配音，企业能够以更低成本、更快速度完成内容本地化，突破语言障碍，提升视频、影视和数字内容在国际市场的传播效果，为全球化布局提供新工具。",
+      "fetchDate": "2026-11-01"
+    },
+    {
+      "id": "7307",
+      "title": "Africa’s AI ambition outpaces execution - thenational.co.za",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTVvQXVMMHhIOG1YUnloREpCY21fWlFCR3pIN3VnclExNFp5ck5WOHpWdE5vNy0zMFZuYmJ0d2hsX3pRdnJEVXY1a0ZxM3NzakRaUFljRDJmZEFYb3otMnhMdzFnQkM4bndsYXVDam0zNDJRZXhjQVhLM0JkY2VHOUhnd3VLdmdtMV93eWJR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-01T07:00:00Z",
+      "summary": "报道指出，非洲在人工智能领域的雄心正超过实际执行能力。尽管多国战略规划和区域合作意愿强烈，但基础设施、算力、人才、资金和治理体系仍存在短板。非洲需将政策愿景转化为可落地项目，加强能力建设与跨境协作，才能把AI潜力转化为实际发展成果。",
       "fetchDate": "2026-11-01"
     },
     {
@@ -65728,5 +65755,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7303
+  "total": 7306
 }
