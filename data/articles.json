@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "7311",
+      "title": "The Artificial Intelligence (AI) Enhanced Remote Physiotherapy Market Is Projected to Grow to $6.44 Billion by 2030 - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdlNIYkQzeTAzalFwZ1ZRbGpEdGNPZkpaZmVESFVrQXg0OHlUNDRqNTlYNWppYW9pUVBlbnc2Q3RqcVQwX2N6Ul9ZenRoTEpIdDRYYThMeHY5M3ZWdDJJYXVfZU9lQk5MdFp1Y2J6STd3S0h6Z2wxNkhrelN1R0d2bHBVNUhjQmxCa1BSTVdySVRZRWFrYlFoUUM1VU9wTDdpRTFZNDBER2p0S1N4TWUyLWRoSjFkbGtyeVhScGZvQ0V3VUpVRE1XYWhjVzJ3bU9iT3NNTC1WVG9OZVdXRk4tYWpRY09HVV9PU19ucFZIUWY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-01T23:45:00Z",
+      "summary": "市场研究显示，人工智能增强的远程物理治疗市场预计到2030年将增长至64.4亿美元。该市场将AI技术与远程康复服务相结合，借助计算机视觉、可穿戴传感和算法评估等手段，为患者提供居家运动指导、动作纠正与进度追踪，缓解治疗师资源不足和地域限制问题。人口老龄化、慢性病康复需求上升以及远程医疗接受度提高，是推动其快速扩张的主要因素。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7312",
+      "title": "Betting big on small AI - Bangkok Post",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZHhwTEdmRXBPVzlONHA0YzhqSkVmc0NTVlgtcnpPWk95Wl9BOXY5ZDJKYjcyZGgxdnhTSGk0UnRkQzAwWjlTZUs4eWxveDB3LU85T1BSTTZCQTZEVG0yQy1WeC1GdWVDTnhmeHNrZ1AwNTJyckdjT1UxWEdWS2ZLa1dR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-01T22:20:00Z",
+      "summary": "《曼谷邮报》关注“押注小型AI”的趋势：在追求超大模型之外，业界开始重视参数量更小、更专用的AI模型。小型模型训练与推理成本更低，可部署在手机、边缘设备和本地服务器上，响应更快，数据不必上传云端，隐私与合规风险更小，也便于针对特定行业做定制。这一路线被视为AI商业化落地和普惠化的重要方向。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7313",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-01T21:55:23Z",
+      "summary": "TechCrunch报道，OpenAI可能将其数据中心重新命名为“AI算力园区”。报道指出，数据中心因能耗、用水和噪声等问题在公众中口碑不佳，改名意在改善形象、弱化争议。这反映出AI基础设施快速扩张下企业面临的舆论与监管压力，命名与传播策略正成为科技公司塑造公众认知、争取地方支持的手段之一。",
+      "fetchDate": "2026-11-02"
+    },
+    {
       "id": "7308",
       "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
       "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
@@ -65782,5 +65809,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7309
+  "total": 7312
 }
