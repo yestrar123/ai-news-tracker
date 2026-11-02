@@ -1,6 +1,123 @@
 {
   "articles": [
     {
+      "id": "7329",
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-02T13:57:53Z",
+      "summary": "OpenAI宣布将ChatGPT中的聊天（Chat）与工作（Work）标签进行合并，以简化产品界面并打通对话与工作场景。此次调整还涉及用量分配机制：合并后，ChatGPT与Codex将共享同一使用配额池，用户在不同功能间的调用将统一核算。此举有助于OpenAI整合产品线、提升跨场景体验，但也可能影响重度用户对配额的使用预期。目前官方尚未披露具体上线时间与更多细节。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7330",
+      "title": "Customs AI That Ignores the Operator is Built to Fail - Global Trade Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDJPdTZMOGx2YVROUDBSTzFKclZuc2w1aUp3TmpDdW9jUnBQbzlMYzJxdUZXY195aW9Cd3JrTzdPakd3M1lJSmtOc2t5UmFHQmYyNEVZSDg4a3FFSVlpYVdfSVNKWDJnQ1Ezb0FvN2xTa29lQjRsOE5YSXhpYlJCTUh0ZTI4dHl6T3pPSnBn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T13:38:56Z",
+      "summary": "《Global Trade Magazine》刊文指出，海关领域的人工智能系统若在设计上忽视一线操作员的判断与参与，注定难以成功。文章强调，海关业务涉及复杂的法规、风险判断和现场裁量，AI应定位为辅助工具而非替代人工决策。系统需要保持透明度、可解释性和可问责性，并让操作员参与流程设计与监督。只有当技术与人的专业经验形成协同，海关AI才能真正提升通关效率与监管质量。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7331",
+      "title": "How Businesses Can Approach AI Security Without the Technical Jargon: Interview With Simon Heath of The Final Step - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOVBrdlpWNzFvVm1ZQzFJNE1yeVRqQ3cxRDUwVlI3ckhIRHJ0LThvU25BLWxwM1NmQ3VVRkpFLWtvc2RaSmwzazY2MEFDTkRiSG5mSnd1eWlpT3hpSWZjeDBYWkRGZVI1c0VXR3JwenltdFloMjRmSDJxWDNEV3prX1JZVGxLYXJCNEpYc3Nnd2cxdldFZEM2QWVGTmY0SnV6TURDR2JSR2s3UmJSQld1SzFGN25DcVRUNWNsVDlJQ1lmV0tjWFNiYm1uNkJUWG9INVZvaQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T13:28:28Z",
+      "summary": "TechBullion刊发对The Final Step的Simon Heath的专访，探讨企业如何在不依赖技术术语的情况下推进AI安全。访谈核心在于把AI安全从技术议题转化为业务风险语言，让管理层和普通员工都能理解并参与。文章可能涉及建立AI治理框架、开展员工培训、评估第三方供应商风险，以及将安全要求嵌入日常业务流程。其观点强调，AI安全不仅是技术团队的责任，更需要组织层面的共识与制度保障。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7332",
+      "title": "Let’s Talk Warren County: Artificial Intelligence (AI) announced - The Warren Record",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNczVhSXpxVUw4dEF2S2V4dlJYNXJzSjMtajNlLVZsMXJBUlNUUlBraV9YOTlDVHAycktXRkItSHlGR1VaSWJ3RjJFOGFNU3pXc0kwWXNPa1dvRC02eUZTVEQ5WVh4UkE3UGVmRkZtWUVRS1hTbFhQcmpsV2JLUW9XVEUxXzBzX1lFZ0tn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T13:00:00Z",
+      "summary": "美国地方媒体《The Warren Record》在其“Let’s Talk Warren County”专栏中宣布了与人工智能相关的消息。由于公开摘要信息有限，具体内容尚未明确，可能涉及当地社区对AI技术的介绍、应用计划或相关活动安排。此类地方报道通常聚焦AI对居民生活、公共服务和地方经济的影响，反映AI议题正从科技行业向基层社区扩散。后续需关注该媒体完整报道以获取细节。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7333",
+      "title": "Beyond Traditional Editing: How Dola AI Video Is Opening New Creative Possibilities - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYzVqanVoV2UwVXRGM20wcHItVUllTk5jcXozbC10UXFiRHpuMG51OWpGb0xnaF9wM2FNd3NLSHdBak54QlhHcWF1bmNwVUlVZVkyZUVsbXNVUWtISUltOVhlVW9iWS1Cd2ZPMHJKR3FkdE54OEdUVE5UanctTHdzdjlJUGlqdmE3dHprTHNHaFdNOG1Ud0FKcHhWVXpCWFVaSVpsazhVTlBjTHM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T12:55:43Z",
+      "summary": "TechBullion刊文介绍Dola AI Video，称其正在超越传统视频编辑方式，为创作者打开新的创意空间。文章认为，传统剪辑依赖手动时间线操作，而AI视频工具可自动完成素材筛选、剪辑、字幕生成和风格化处理，降低制作门槛并提升效率。Dola AI Video的定位是让创作者将精力集中在创意构思上，而非重复性操作。具体功能细节和产品表现仍需结合实际使用评估，但其方向体现了生成式AI对视频创作流程的重塑。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7334",
+      "title": "AI Stocks Face Possible Ballot-Box Backlash As Financing Fears Mount - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck1JWkRIMEljUUdKUTBnTnduWmJGUS1KWENHZ2FRbFFLMGlvUFYtRHkwMWxobzFySTFPWFRhU202eU5FRVgya2p2RlRLYTNNVlpWUGdCcXcxR3pmSG1XVlZmYkN6Q1VoblhiaDZkclg3cW1xN29Zei10YVZ6bGVnQjljclMxamU5b3R3RHJaeGRSWmZHTDVtcGk4dWNTS3BTNHhNVg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T12:55:00Z",
+      "summary": "《Investor's Business Daily》报道，随着市场对AI相关融资的担忧加剧，AI股票可能面临来自选举政治的反弹风险。所谓“Ballot-Box Backlash”指选民和政界对AI产业高估值、能源消耗、就业冲击等问题的关注，可能转化为监管收紧或政策不确定性。投资者担忧，融资环境趋紧叠加政治压力，将放大AI板块的波动。文章提示，AI企业需关注政策与舆论风险，而不仅是技术迭代和营收增长。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7335",
+      "title": "As concerns over the artificial intelligence (AI) investment bubble grow, more and more people are l.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxd2xGa3QybWdZMy00Y19QWEhsU3lKbkFPd0R5NmVEdGEyekV5WTUxQjU5N0dLd3pXelhFUmc3Wkw5QWpQY09IdDBNWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T12:05:01Z",
+      "summary": "韩国《每日经济》报道，随着对人工智能投资泡沫的担忧不断升温，越来越多的人开始（采取谨慎行动）。由于原文摘要不完整，具体行为尚不明确，但整体反映出市场对AI领域高估值、巨额资本开支和回报周期的不安。文章可能讨论投资者减少敞口、企业放缓扩张或监管层关注风险等动向。这一情绪与全球AI投资热潮形成对照，提示行业需在资本投入与商业回报之间取得平衡。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7336",
+      "title": "Elon Musk is cutting people off from their personal ‘Grok Bots’ - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObDNBdzFjbTQzOS15QThDc3pjNWdvejJKVlBkM1Y1VUZxUkduenh4Q2JRNWROU01oNmh5UzkyeUtUamFLN2xmVF9HZmdSRHcxY2R3X1VRVjFxaWQ3ODFQUnNab192ai1KT051eVBfTlNUbDYzeU4yQTQxUDJyVFhzSVJ3MA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T11:56:00Z",
+      "summary": "《The Independent》报道，埃隆·马斯克正在切断用户与其个人“Grok Bots”的连接。此举涉及xAI旗下Grok聊天机器人的个人化机器人功能，可能意味着平台调整访问权限、限制自定义机器人，或重新规范用户对Grok的个性化使用。报道未给出完整细节，但反映出马斯克对AI产品生态和平台控制的持续收紧。对用户而言，个人化AI助手的可用性和数据归属将成为关注焦点。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7337",
+      "title": "South Korea announces record investments in artificial intelligence - Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjh6empZXzF0TFUzRGVsamg1S0NWQVM1ZFJPNlNLLW5JX0pnSHBPU2dsZTFYS0dFdVR1RjdWald5eUUzbmkwZUZub3hrN2FrVXFWbldmNlhRNUhlZkttUUEyS25lTWFLSXFhc1k3a3BqOEdtbU9UVWxjamJUNVVjczhmOWJGMm1JWlJfSmFDZldXdUVRV2xsbzlpVlc4RU9S?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T11:03:38Z",
+      "summary": "据Informat.ro报道，韩国宣布对人工智能领域进行创纪录的投资。该计划旨在提升韩国在全球AI竞争中的地位，资金可能投向AI基础设施、模型研发、人才培养和产业应用等方向。作为半导体和信息技术强国，韩国希望通过大规模公共投入带动私营部门投资，培育本土AI生态。此举也顺应各国竞相加码AI战略的趋势，但投资成效仍取决于执行效率、技术路线选择和国际合作。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7338",
+      "title": "Nearly 7 in 10 Indian firms to boost AI investments despite data readiness gap - ET CIO",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQajc0UFhzemZpUHFCZnF5SnZxRGhKLXJGWlJTZDlaWEVkNDZJMllaY3JYcVFDUTBIaDg2RXczOGFfWnZIT3hEYjJtaGlIaWthd3hBR2ZaWlRxNnZDRS1GUGJwUWY4NjJweGczZkFCbnpsUDVLMEptc2FlRDlpMHJyRkRLeEsyZkpoYXV0NDFVQU9xNnFFYUdLWVN5WEtDV1FjbzNXbGg4VzJrdzREU21EdlhDbzlGSVBVOVZJTkUwem9oNkZjQnBaQVVGWHRTeEdqeExVSURpdXBEVGV6SzZpOERXQVRkUS1hT2ZSYVNfb9IB9AFBVV95cUxONTVxaURoLTd5NEtDUWF3ZDhZcTVQcmFoTFppTGFwMU1SaG9oOUlfMXRnRmJ5aDRVeHFYMGZLSDNkWjByMldvb29ldktlMnJncWkwUC16RUk3VG9xNkZDZk05a1NEOVhHcVYza2xScVRTa2xDSzFLaGZsQUh5cmVlVVc5WGpiQnprRDdXbmpRcERNaGlCMTVwR0pBNFFTNDlOZjl1MDlmeVY2akpaM05UU1dGZWtGNmVUMXNxRG11T2ZoMTNjTjRVRDBaMlRHZkdHY19yY0FULVhHSndSTHlTY01SZDlqTEE4LTc1T0tpYXFiNGNU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T10:30:00Z",
+      "summary": "ET CIO报道，尽管存在数据准备度差距，近七成印度企业仍计划加大人工智能投资。调查显示，企业将AI视为提升效率和竞争力的关键，投资意愿强烈；但数据质量、治理体系和基础设施不足，可能制约AI项目的落地效果。这一矛盾表明，印度企业正从试验阶段迈向规模化部署，需同步补齐数据管理短板。文章建议企业在增加投入的同时，优先完善数据战略和人才储备，以降低项目失败风险。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7339",
+      "title": "AI video generator: How artificial intelligence is changing video creation - London Business News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTE5alVDVlFlam12YTYzOVpndHJod09lUEN4YnVGakVMc21GWFk1ZFItcDlFZndfQmZYamVMaEhHOVZWQ3hRdHpEWWJ0RkNGYnJ2Q1M5VFZKQnVoMUJ1QkRaNDNUOFhzcV9MSWxKQzNnZGpCeWpUV0FtaTBDUFgwSU5PUHk3SVpqeUZtV1otd1UxNEdpX3dqTkU1bmVnM01sdl9mNFVmdnVWUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T08:42:41Z",
+      "summary": "伦敦商业新闻报道，AI视频生成器正重塑视频创作流程，从脚本构思、素材生成到剪辑配音均可获得辅助，显著降低制作门槛与成本，提升个人和小团队的内容生产效率。与此同时，版权归属、内容真实性和质量控制等问题也随之而来，行业需要建立相应规范。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7340",
+      "title": "In the age of artificial intelligence (AI), bottlenecks continue to shift. You can't read the next - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fdDVoTURaNVlLbmhYaFRZN2FXWV9QcGVfYWNXTlA0U3ZoZXZDU3I3Zm1hZDdpcHpQMU9NblhHdTJoVG9YZFZMTXVMVXpzbWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T08:38:25Z",
+      "summary": "《每日经济新闻》指出，在AI时代，产业瓶颈并非固定不变，而会随着技术突破持续转移；算力、数据、能源、人才和场景落地等限制可能此消彼长。企业及政策制定者需动态识别新的关键约束，避免用旧框架判断下一阶段竞争。",
+      "fetchDate": "2026-11-02"
+    },
+    {
+      "id": "7341",
+      "title": "AI for artificial intelligence (AI) is developing faster than expected. But AI for humans is develo.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JbmRacnl5M0Y2Qm9aMzRsOXpaakM0djVZaXY3am84TVBQTS1RNTJiNVdMU3BKRkhjTHd3ak41WHBSc3dpN0drM0hLSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-02T08:33:12Z",
+      "summary": "《每日经济新闻》对比两类AI发展：用于提升AI自身能力的“AI for AI”进展快于预期，而面向人类需求、易用性和实际场景落地的“AI for humans”相对滞后。文章提示产业不能只追逐模型能力，还应重视人机交互、应用价值与普惠性。",
+      "fetchDate": "2026-11-02"
+    },
+    {
       "id": "7314",
       "title": "As concerns over the artificial intelligence (AI) investment bubble grow, more and more people are l.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lWG9tN20xbHU5Zk96SEV6ZU5Bak11UFJzWUNpMG5hS0d2T2F0aWFsZWhWUmFlcVlXZ05vOGNLOHp1eVJ6MDFWZUhpWQ?oc=5",
@@ -65944,5 +66061,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7327
+  "total": 7340
 }
