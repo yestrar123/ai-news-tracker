@@ -1,125 +1,111 @@
 {
-  "updatedAt": "2026-11-03 00:09:35 UTC",
-  "totalArticles": 17,
+  "updatedAt": "2026-11-03 08:50:41 UTC",
+  "totalArticles": 15,
   "articles": [
     {
-      "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028 - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVNSQVUzUFl2ZHdCNlAtOGQtRTVmekF0NUU4cDlHYlFTYkw3U1lPYUpRVmVGQ3hzWnFqcUVEdkV3dlNpWVJoWERHRFgzQVBJXzVjUTZIcUgyMTF1MG5ZZGlHaE52MXhXTEsxQmRxUDhvVkplSUd3MG5FRVUyeGtPczlqZWthYnZDY3NZcmVtUjVKUnZVUjUyNWQ5dFE1UzFNczVyNXQ4V0RGb0JTc214bkotWnRTMXZvbFV0d2o1VjdJOEpXc1hZ?oc=5",
+      "title": "OpenAI and Abu Dhabi join forces to build the world’s first AI-native government - Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOU1rNE9QRThfZlFlaE5ld0o3ZkxTZjFmV0x4cmhYeHc1RzJhdkIzdWVyaG1JSzdYTWdJOXcwckpXRTVfSmdEQU96VktDVnJiNEZWbVA4VTh1ZTdiamlJbnkxRXFGNUd2eXgxTXBBaHgxQU4zRkZudlNSQmVvNmhVYjU2ODhYdEVfWG02VW1QbUVYY2FYeHJGX3J3VHVxY0dHYU1wZUI0YlZHTmZNNG1lbnBqeG9qWGxBdzk5NUFZR1dyVjdJMk53UDNxY2xqYjdkUHVN?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-03T00:03:00Z",
-      "summary": "英国《卫报》报道，安全评估认为到2028年，AI驱动的恶意软件“极有可能”被用于攻击英国关键基础设施。核心风险在于生成式AI可降低恶意代码开发门槛、提升钓鱼与规避检测能力，使攻击更自动化、规模化，给能源、交通、医疗等基础设施安全带来更严峻挑战，需提前加强防御与监管。"
+      "publishedAt": "2026-11-03T08:10:07Z",
+      "summary": "OpenAI与阿布扎比宣布合作，计划建设全球首个“AI原生政府”。该项目将把人工智能深度嵌入公共服务与政府治理流程，探索AI在政策制定、服务交付和行政效率提升中的应用。此举被视为AI技术与国家级治理体系结合的重要标志，也为其他政府数字化转型提供参考。"
     },
     {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-02T23:13:53Z",
-      "summary": "Trajectory完成4500万美元融资，旨在让非技术专家也能训练AI模型，成立仅一年估值达3亿美元。公司瞄准企业AI落地中模型定制门槛高的问题，通过更易用的训练工具或平台让业务专家参与模型开发，反映资本看好降低AI应用门槛、推动垂直场景定制的方向。"
+      "publishedAt": "2026-11-03T07:20:00Z",
+      "summary": "苹果手表新增音频智能功能进入测试阶段，可通过AI回溯和复述对话内容，帮助用户回忆他人说过的话或记录对话要点。该功能体现可穿戴设备向个人记忆辅助和会议记录场景延伸，但测试阶段的具体可用范围与隐私处理方式仍待观察。"
     },
     {
-      "title": "Law firm's AI use doesn't warrant cutting legal fees, US appeals court rules - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdS1LX2NIT2xSeTRSSk00YUVVOENZMDFvdENwZV90MkN3U1VEcDhkQ0tPX2lyTzQ4YTdIZjd5VlJqWl9yUkM4ZG9tdDVaZ01jWlFXVGVtTkJyZF9QdlpMZWl1MTc4bXNCaGNUcFp1WXRFUHFITWJtS3FubGlLU2R0MFE1c3h3aGl3SVBkaW5hYUktYVZ5cHlRNzFMbExxNUE5cXR5RUh4M0dTU1ozM2VfcEtTYWp2VmVPZjBPajBzUnp3dk5u?oc=5",
+      "title": "Your AI Chatbot Has a Privacy Problem You May Not See - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWNpRlR1YkVHN3YzRk94RDgwcmxkWVItRjZJNEZwTUhlV2FhYlBwOXlaSDNhNlRkQXl5ZE1xZUwwbENSY2FuVlBjWFJoWU9DWExneTJPRHdwS2o3TDVlSWVwcXdTb3hXbXRQUnlTUkZOYmlLLUVpLTN6UDh6cWk0VE1jbVM?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-02T22:37:46Z",
-      "summary": "美国上诉法院裁定，律所使用AI并不构成削减律师费的正当理由。案件表明，法院不因律师借助AI提高效率而自动下调费用，仍会依据服务合理性、工作量和结果评估收费。该判决为法律行业采用AI提供一定信心，也提示收费与责任边界需更清晰。"
+      "publishedAt": "2026-11-03T07:15:34Z",
+      "summary": "文章指出AI聊天机器人存在不易察觉的隐私问题，涉及用户对话数据、上下文记忆和第三方集成等环节。用户在使用生成式AI服务时可能无意暴露敏感信息，而数据留存、训练使用和权限边界往往不透明。报道呼吁企业加强隐私设计，用户也需提高数据保护意识。"
     },
     {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "title": "Vespin Global, a company specializing in artificial intelligence (AI) services and solutions, announ.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91d0F5RVhlVjNGa2VKN1ZsclluS1N1RDduT1BIdW1ncFZ2dVpRd3hQdmNWWjVTQ0J3anRpQUhTVy1TTWY5VU5MTXYwZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-03T06:57:32Z",
+      "summary": "韩国AI服务与解决方案企业Vespin Global发布公告，但公开信息有限。该公司专注于人工智能服务与解决方案，此次动态可能涉及业务合作、产品发布或市场拓展。新闻反映AI解决方案供应商正加快商业化布局，具体内容仍需以公司正式披露为准。"
+    },
+    {
+      "title": "Ireland joins EU IPCEI-AI political declaration to support next-generation artificial intelligence under Europe’s common-interest framework - fundsforNGOs News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmd1UjY0NzVxSk5QVWpUTkU0Mktaald4ajJJRlEtS0hYVUpxelZDdE9iVDdaejllV0RxNUxGZU93RkpDU3ZtVUhVVFI0TF83X1UtRHZxSXNwZVMtSFBtU19BU3ZHNnF5T0NpSFFjZmZvUGpXWHljdHA1UWJ4VkdjVGUwak12LWZvR0pHQUdTYlZ5MTJaZU0w?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-03T06:50:29Z",
+      "summary": "爱尔兰加入欧盟IPCEI-AI政治宣言，支持在欧洲共同利益框架下发展下一代人工智能。该宣言旨在协调成员国资源，推动AI技术研发、产业应用和战略自主。爱尔兰的加入有助于融入欧盟AI创新网络，并参与跨境项目与共同投资，提升欧洲在全球AI竞争中的地位。"
+    },
+    {
+      "title": "3 genius artificial intelligence (AI) stocks to buy hand over fist before year-end - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc3g4d2VYLWhVSE8tOEk3cTV0U0pwUGxVeF9QbnBiOXhWdDBldDFuZVpXbTJXenBwQ3k4TUduU2pXVHBWU19PbE1FWElvMzdqMUpkZFZIMjFuaGtCcmFCLWwwaG1zOXQ4MXdub1pMYmVqU2pZRGtnbl9YS1hxMTgyLWdaN2lDaFhqWHhNWXg3SmtSMjZQYkNxZU4wQ0hrdlA4bklzS181MjE4SDdPQTdPazhJOVZRVUlHZkwyWG03VXdHTEFzZkY0cHhSY1FWVmMtcW9HR3dfbm9YMTdyT3piTUp5N3V3Vzk5UGdEWGJxZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-03T06:11:18Z",
+      "summary": "投资类文章推荐三只被认为具有潜力的AI股票，并建议投资者在年底前积极买入。报道从行业趋势和公司前景角度论证AI赛道机会，但未在摘要中披露具体公司。此类内容属于投资观点，投资者仍需结合估值、基本面和风险承受能力独立判断。"
+    },
+    {
+      "title": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVJnZjBKWi04YnlCcDEtMGZvTmIyUTQ2bDFSay1YMVdSa2E0aHdCMV9abmctblEtYnVNR3ZLRnpSTkszTmtNdDdsU3dMN0hVWVR6a1RhbjhISlFmb0dZN2xKLXZyR05QLXlhNV8tSDFxRzQ1aVlGYVd1X0RWbjc1emdLV094SmNRNzJQUnM1ZVM2eldlMms1QmU2V1pXVGNwcEJxSjdlX181ZDlLckdtN1JnZ1J2RnNZMjFYbWN2aG5WR09IdUJ6bjN4VjJHdWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-03T06:00:00Z",
+      "summary": "英国皇家检察署一名检察官在使用AI搜索后，向高等法院引用了不存在的虚构案例，被批为“严重失误”。事件暴露生成式AI在法律检索中的幻觉风险，也引发对司法系统采用AI工具时核验机制的关注。报道强调，法律专业人士不能将AI输出直接作为事实依据。"
+    },
+    {
+      "title": "AI Ride-Hailing Connects Users with Capacity as Chinese Robotaxi Leading Players​ CaoCao Mobility Broadens Commercialization Pathways - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPa0ExN1o4RzBkbTlkRk1DX0R4eWNtQzViX1BOSzFycGhGZjdtNWFxcWFSRWFuenphdzZSVGJYRnFmV1REX2tZMjg4TWxzTEdrZ1Z5bmxPbGYwaE9PNFdLWWlsSHRRNlBpTThOQjhPdk1iMDNORnBhcUdabXJLVnhZbDVfTW1lWDR1bFhUc0h1WmtHTllJSEh2QzVvay1Qd1hhMU1kRFZLWVdMRGxOdXgwNXdJUXFWX2ZqLVlWRDNzQ01pdWx1NzczejdOdEZlMUFreUZDd0VUZ1JvWXZTM0lGVVdCdFJhR3A2X2ZzM01R?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-03T05:38:17Z",
+      "summary": "曹操出行等中国Robotaxi领先企业正推动AI网约车与运力连接，扩大商业化路径。文章关注AI调度和自动驾驶出租车如何匹配用户需求与车辆供给，提升运营效率。随着Robotaxi试点和规模化探索推进，AI出行平台正寻求从技术验证走向可持续商业运营。"
+    },
+    {
+      "title": "3 Genius Artificial Intelligence (AI) Stocks to Buy Hand Over Fist Before Year-End - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3YxTEY0b2Joc05RTFAwcVdNak03dERaR01TdThzMzUzemtYTmoycGtRMzc1d1Jha2lTM05kcWFUVU1uR0h2MFgxODU1SzJYWjhGT19fXzA1NW4yZllkY2JyN2NoN3ZmbnotWUVoOU1wMWQwU0tHdGRMTFJnUWFybS04c1UtVmg4VHlSY0pXQkcxREEwTlM4TXJZYXhCTDB0RHc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-03T05:31:20Z",
+      "summary": "雅虎财经转载文章筛选三只AI股票，称其为年底前值得“重仓买入”的标的。文章围绕AI产业增长潜力和公司竞争力展开推荐，但摘要未列出具体股票名称。该内容属于媒体投资建议，不构成确定性收益承诺，读者应关注市场波动和个股风险。"
+    },
+    {
+      "title": "The Artificial Intelligence (AI)-Driven Spinal Surgery Market is Projected to Grow Rapidly at a 9.3% CAGR Through 2030 - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMFVEVktBSnJiQW5SRndFYXltT2JwUlBxaTNEWm5JdVl6ZlFNcGpJUzQxT0VjVVE1ekNZVURiNGVGMUhYaElJQlp6YmdfS293Ql9WeXJiYkdjN0FiLTV4ZDBaajNKeWh6cFc1b05TczRtVjdLM1FUckJQZHVqcmhqZ1NFS0wzeThWZXNSSG9HTnY2eWxHNkszVUUxNjdIVnhhVi02c0pTaUE1d2FlMEM4SFVyNElxUnd2dFVTS21rUmNiNDRSTnpzV05XY3djeVJoZlViTVo2OG5iaWJsY3N4WGw4alBUdWNqTUFJczhB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-03T05:27:00Z",
+      "summary": "市场报告预计，AI驱动的脊柱手术市场到2030年将以9.3%的复合年增长率快速增长。AI技术可用于术前规划、术中导航、机器人辅助和术后评估，提升手术精度与效率。该趋势反映医疗机器人、影像分析和智能决策系统在骨科手术中的商业化前景。"
+    },
+    {
+      "title": "Does AI actually save employees time? Data is contradictory - CIO",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVkNramJfX0Y5MnJEUkk4R1d3VFU1c1ZVWkhHUlRYM2hOWTdxUTc1X1FGZ29LOFp5SW9pb2d1dHN4QmNmUi1STGhXMm9VekV0ZmRxMlRWOWJNbmF4VEZxMEVUMkdHLVV2QkJJN0ZkbVlTOExQQ1MyRjF3MUloVHNQakVUWWhrLWhQX2l1WHN4aEJ5YmlFM09FUEFXbVFIN1ph?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-03T05:09:45Z",
+      "summary": "据CIO报道，关于AI是否真正节省员工时间，现有数据呈现矛盾：部分证据显示AI可提升效率，但另一些数据表明员工需投入时间学习、校验和整合AI输出，实际净收益并不明确。报道由此提示企业不应只看采用率或个案，而应结合具体岗位、流程和度量指标评估AI对工时与产出的真实影响。"
+    },
+    {
+      "title": "Pittsfield summit explores AI tools for nonprofits - Berkshire Eagle",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVFBYTFowa2N0bkpJM2RBR0lBNDdfcWNRdXlPVmVYcTNDM0d6VHJHc1kxcnRmSlAzSm9jM3Y3eWxfQXg2aU80c1pmTkFUX3dNN1VNOU82dzVYMVNtTHh4ZGx3cTcwa1JGaUZocF9mQ2NZbVdadHN6TVgtQ1NJVk9pbl9RcDU3VHJoWnJtYVlZNmMycm80SFRpWVhRUDdqY3lDeGFoVFdDNG4tTjFKRHFYbkxEUlQwX3h3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-03T05:01:00Z",
+      "summary": "Berkshire Eagle报道，Pittsfield举办峰会，聚焦非营利组织如何应用AI工具。会议围绕借助AI提升运营效率、服务交付和资源筹募等场景展开，同时探讨预算有限、数据治理与伦理等约束。此类活动旨在帮助非营利机构理解AI的可用工具与落地路径，缩小技术应用鸿沟，并推动以使命为导向的负责任采用。"
+    },
+    {
+      "title": "Hong Kong AI adoption hits 92pc, but over half worry about keeping up: Citi survey - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWE9hS29vV0w0ZEhsUXNyUzRRdnZXbFFoOThJVHg0aEJkdUZnVXpOeTZiSEotNlA1VUlsTlNGaFNuNlhYbG9TSE9PUmNTdWhGVzB1VGNtTUh2UENSbTZJMHBlTmtqOXB5c1I4YmphWmw0MHBBcjVwSGpvSGh6WHNWcmpZaFBoUC1wTFFoOG0zSGNOOUNyNW1naVhRMlBVV2YtdU5pUWMtX0hLQURXZWNjdEVIMFllclJSZnQ2WjhfX0t4VDUxVWx3UFJsbFAxZUxxU19r?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-03T04:37:21Z",
+      "summary": "《The Standard》援引花旗调查称，香港AI采用率已达92%，显示AI在当地企业或个人中的渗透度较高；但超过半数受访者担心难以跟上AI发展速度。该结果反映高采用率与能力焦虑并存：组织在推进AI应用时，需同步加强员工培训、治理框架与持续学习机制，以缓解技术迭代带来的适应压力。"
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-02T22:14:50Z",
-      "summary": "Anthropic警告其已非常接近RSI（递归自我改进）能力，即AI能显著提升自我训练效率，进而引发能力加速跃升。对AI末日论者而言，RSI被视为难以逆转的风险临界点。消息凸显前沿实验室在追求更强模型同时，对自我改进型AI的安全评估、可控性与治理需求日益紧迫。"
+      "publishedAt": "2026-11-03T03:30:00Z",
+      "summary": "TechCrunch报道，Google将其AI实验项目Dreambeans推向印度，旨在让AI生成的个人故事触达更广泛人群。该产品目前支持13种印度语言，体现Google通过多语言本地化降低使用门槛、拓展新兴市场的策略。Dreambeans以个性化故事生成为卖点，也反映出生成式AI在消费级内容创作和本地语言覆盖上的竞争。"
     },
     {
-      "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act: New Disclosure Requirements for AI-Generated Advertising - Consumer Finance Monitor",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRGpJYy1BOGF3QWFlRWJUbC1oSWlKZXpLNWpZTU5tdUlGeW9kZWFSWHViQm0zakFNVHB2ZVVMYnF0Q0wtd2lJemdEVF9hUlJMcW9GM0lfTTRNTXNYblMyY2JfQkdEd21EQmlXNUpQa25jZmkyU3NiVGdkM29iT2NXZnBmRDc2VVNYeHhiaTlFT1VTcXdGb0o4cjdKM19vbVB1bFVzZ3BScTJnRDBMRHB3ZHFaOW5qdUlGNGlaVmk3bnFWTFNPMHFObFVSd0dKVFloVHhrR3ZHTEtHWHluN2hIUVBGMkNHRlR3OTkyMzNqZlFQSS0yM0FpaVRMcVJZWmpKNTZzMkRXdzU?oc=5",
+      "title": "1 Lakh Telangana students to get free training in AI, cloud computing - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTTY2ZHpraWg5R1J6Q3FidnVBdnR6aE9BN2JfUGt1MkhxbFpOYWQtbEhyMHlTX3ZzSkltal9CUDdORUlsejRDbzZWWFpzajFxNG9ONERzSzlSTjdTRzVwVkVVeHY4UGptRWFSZi1VZkN2NWZYREhaMmdZVXhYWGJVMFZnVVVoSGlUdmJjaVI5SEg3czBmWlk3ckJyM0hHNTg2VmFLN0lfZUVJVzdGSjcxakVOZ2E0SzVVeFlTMUFrWGtxb3VQbXVQWWJn0gHXAUFVX3lxTFBxZllDRDkwQmI1NElRN0VVT2dDU21odlFsbkJQTHlsbENhaEVKUkJMYmV3OTlDS3dIWjlWVkhrdEM0TUItcjRuRG9MWXFnNFNXVExlVEt5Tk1hV1FwUFh0Ty1nQ1dVTUNuTWNlUUlSaDBSenVUUTlWdHE2aklwUEQ0Q3AwSmFnUUxxbjI0T0tOX01pOV96S2FIUEFZZ3B6N1pRLVhUdXVUVEVSdmp4dnhXSlAwZFlIb2o4akFhOHJBSVJ4cG9JWklIYkJWVjFUeTR2NzdVeERj?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-02T20:57:53Z",
-      "summary": "宾夕法尼亚州颁布《人工智能欺骗性广告法》，要求对AI生成的广告进行新的披露。法规核心是防止利用AI生成内容误导消费者，提升广告透明度与可追溯性。企业需在广告制作、投放与合规审查中识别AI生成素材并履行标识义务，否则可能面临执法风险。"
-    },
-    {
-      "title": "The 3 Best Artificial Intelligence (AI) Stocks to Buy in November - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjc3U3RxeFFGc0ZHUHl1TVZjWWZFcVdIOFdHWnNjT2t5d2lLOE8zdGd3Ukdjb0tXMkpzNlA1NW1neG5pbGllSGNFZ1JrMkNjTU5Jb2xYUllqVXBpRlpvNkpaZ3FjR2dLVUpna3dvdDFlMVRTRjhOTHlQQkRjZVo0dHFReF9KWkJmZW00cVFwbXU1VHRMd1FuQk5kaVlOZUU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-02T20:02:01Z",
-      "summary": "雅虎财经文章推荐11月值得买入的三只AI股票，反映市场持续关注AI投资机会。报道通常从算力、软件应用或商业化进展等维度筛选标的，强调AI需求对业绩增长的驱动。但此类选股建议带有媒体观点，投资者仍需结合估值、基本面和风险承受能力独立判断。"
-    },
-    {
-      "title": "The 3 Best Artificial Intelligence (AI) Stocks to Buy in November - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVgyclEzYW9fSDdrWUljZzJvMXpMU0JkcTRQOXcwWGNGeWNqUWllVGo3RHBhMnJ6cF9HSy1MbEtia0dQamdqdkpFd093d3RoaGxCUW9MVWxNem1CR0E3VVdsMjJxanpsVHoyWElDSzVuQWRDamsyRWNUMHdEdjdYRThvQ1NKdURlTi1HZnV2b2RhNDkxeHpV?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-02T19:42:00Z",
-      "summary": "《Motley Fool》发布11月三只最佳AI股票推荐，延续市场对AI产业链投资机会的关注。文章预计从芯片、云平台或AI应用公司中筛选受益者，分析增长潜力与估值匹配度。此类内容属于投资观点，不构成确定收益承诺，读者应关注行业周期、竞争格局与估值风险。"
-    },
-    {
-      "title": "Brookfield Sees AI Boom Creating Unexpected Winners Beyond Data Centers and Chipmakers - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNejM3RUdTWFZNY0RJeEhFTlRBclhYRXdaMG55N0Y5a05BODU4UWpDTnFob1BiZkJ0b2JPVlRIM3UwUENfb212ZVZibVFzbm8zQ0VRM3NTWWk1a1ZrZFVKNFNDOFc2ZkRfRHZ1S09qRU01ZUZBY0JXdk9ZTUdIZXRaYW5ybmd6NXFhTnJ2SDVkVWhuTWFaaVF6aE5aV3VJOFRVRmk0amtIZ0hzYUxMc1phRTRGMWJELXBnT0RHYTFvV1RLTkU1dFotN2ZoVTJhN1hleHFpZ1pORE1kX1FWbDg1UVZkSjY?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-02T19:40:08Z",
-      "summary": "Brookfield认为AI热潮的受益者将超出数据中心和芯片制造商，出现“意想不到的赢家”。其逻辑是AI基础设施建设会带动电力、能源、房地产、物流及工业等配套需求，相关资产价值可能重估。这显示资本正从热门算力环节扩展到更广泛的基础设施与实体产业链。"
-    },
-    {
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-02T19:25:59Z",
-      "summary": "网站托管与建站平台Squarespace宣布裁员19%，称这是组织广泛重组的一部分。裁员反映公司在增长放缓、竞争加剧和成本压力下调整运营结构，可能通过精简团队、聚焦核心产品和提升效率来改善盈利能力。事件也显示部分互联网基础设施企业正受宏观与行业周期影响。"
-    },
-    {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-02T19:19:17Z",
-      "summary": "《纽约时报》等媒体起诉隐私浏览器Brave，指控其抓取受版权保护内容并非法分发给客户，如Anthropic和Perplexity。案件聚焦AI时代内容抓取、版权授权与浏览器或搜索服务的责任边界，可能影响生成式AI训练数据获取及媒体内容商业化规则，成为内容版权争议的新案例。"
-    },
-    {
-      "title": "Artificial Intelligence In Africa : Majority Of Businesses Adopt AI Technology-Report Shows - pan african visions",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeEpLaGdoU1Nsa2lZNzZmbFVqTkx4ME1yVnZ6M040eVVXZ21qdWlUMDR5dmZISDgySHRfMGZfMmNJcWxOQXk3enVWV3ZKVW5pUXJ1Qk5OeHVub3EyQUJ1Z2gwckxDUTFlU0VUMEREM2lxREhobUJtVjRrYVZqNWpxS2UxSGV4ZW4yM05rTEUyVHh4SU96Tlk4X1hLUkU4aDJmZmFuSGtGYXUzRkNGb1VhSE9lSFpVVzdUR2dRUHNvcGNNQ19OM0Fz?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-02T19:13:59Z",
-      "summary": "一份最新报告显示，人工智能在非洲企业中的渗透率已显著提升，多数受访企业表示已在业务中采用AI技术。从客户服务、数据分析到运营效率优化，非洲企业正借助AI推动数字化转型，并在金融科技、农业和通信等领域形成新的增长点。与此同时，人才短缺、基础设施不足与数据治理能力仍是制约规模化落地的主要挑战。报告建议企业与政府加强合作，完善算力、技能培训与监管框架，以充分释放AI的经济潜力。"
-    },
-    {
-      "title": "What happens when voters turn to AI chatbots for election information? - MPR News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONFp2ay1tLVJJeHFITHFweDB1RVhHWHlCSTRHdUUzeXV4UFY0UEQ0NlBaRmtmcGgweDhGRU1MYjczYkdYcDZRZGExUzBDbjZYY0pIT3FKVTFUTGllLTVqdUhZTVYxTzFvcTVUdDQ0UzQxWFlmYjd2MEdheHUwZEtTN0ZFek5jVDZ3YTZUcFJ0ZnVtQ01lQktyOFZSWXl0VW1GWGhSUVQxc0JpbF9tZk5rWTBR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-02T18:34:00Z",
-      "summary": "随着选举季临近，越来越多选民转向AI聊天机器人获取候选人立场、投票流程等信息。MPR News的报道探讨了这一趋势的影响：聊天机器人能提供便捷、即时的解答，提升信息可及性，但也可能输出过时、不准确或带有偏见的内容，甚至被用于传播虚假信息。专家呼吁平台提高透明度、标注信息来源并加强事实核查，同时提醒选民将AI回答与官方选举网站等权威渠道交叉验证，避免被误导。"
-    },
-    {
-      "title": "Market Forecast Report on Artificial Intelligence (AI) in Regulatory Affairs Including Segment Analysis - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYkRsRjA0Nktvc0pkbVM3WGc5ZkJfVTBNa1dyR2JmZTJhX3BnUmpFLVEybGg4TUZIWDZVWjhlTUhYMWdmeTlQNHhXU1pJLXo4NkxnamQtbk96UEZ1cEJ6eVpvVkd0ZDQ5bkFjck9SLVVkSG1sTUpiY1hrTUhDcDlPY1VVRHlHNlVtQjU2cDFDZHl4QU9NY04zNFFhM2FxNm0ydXh0b0lsRlBNd1k3ZEhvN19jaDlxYTZJZG1DVzgxVk1RVFpheHI0Q1dQTW4zQ1dLYm4wbU1WREk3aGM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-02T18:30:00Z",
-      "summary": "市场研究报告对人工智能在监管事务（Regulatory Affairs）领域的应用进行了预测与细分分析，覆盖合规文档撰写、法规申报准备、审评数据整理、风险监测与监管情报追踪等场景。报告指出，面对日益复杂的多国法规要求和持续增长的申报量，制药、医疗器械等企业正借助AI提升效率与准确性。报告按地区、部署方式和行业给出细分市场评估，并分析了主要厂商的竞争格局与增长驱动因素。"
-    },
-    {
-      "title": "The Artificial Intelligence (AI) Market in Orthopedic Surgery: Examining Demand Patterns and Competitive Landscape - The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVUR4NDg0d21FTXRwYUpFYmZOcm9TcmhrTWgzOFpUdDc1RTNUeHRZNGIyY0ctWnIteDJJRDR1VkpkSTY2b3dSbHJBU2ZZaTB0SGZEdmFiRmphMWxiZ0lGMEljaVNySi00OWxkSHJtazlMaHNSb21pRFUtUTktRnFDYXZ3Z2JqS0cwdWNXT1dad1VoN1NpbFltUFBXVEUteVVMMllYbm5PLUJVQnJkSFE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-02T18:26:01Z",
-      "summary": "报告聚焦人工智能在骨科手术领域的市场，分析其需求模式与竞争格局。AI应用涵盖术前影像分割与三维规划、术中导航与机器人辅助、术后疗效预测及假体匹配等环节，有望提升手术精度、缩短手术时间并改善患者预后。随着人口老龄化和关节置换需求上升，医院与器械厂商加快布局。报告同时梳理了主要参与者的产品策略、监管审批进展，以及数据质量、责任归属和成本等制约因素。"
-    },
-    {
-      "title": "OpenAI to merge ChatGPT Chat and Work tabs and pool usage with Codex - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nSWkxWG93ZGc4a1c2MGVUX3RiMGlIVmJiRzFYemFINk5VaWJvRlJMZ1Q3ZVJ1bFJSNElPUG5ZSWwyTEt5ZUl2RlZZLUpSMjZmT1ZFc0VrSlhMWE5wWHZVSmpZVEo?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-02T18:24:04Z",
-      "summary": "据报道，OpenAI计划将ChatGPT中的“Chat”与“Work”标签页合并，并把相关使用额度与Codex统一计算。这一调整意味着面向个人对话与企业办公的功能入口将进一步整合，用户在写作、编程和任务自动化之间切换时不再受分散配额限制，Codex的代码生成能力也可能更深度地嵌入主对话体验。此举被视为OpenAI简化产品结构、提升付费用户使用效率并强化企业市场竞争力的重要举措。"
-    },
-    {
-      "title": "AI Can Give Students the Answers. But Can It Teach Them to Think and Learn? - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVpJOXd0MzhLSGVmd2huTXpMNWVIdFhJRUVYVE41cW1wODRpMDJ6T19OVklKanp3R0xJbUlSRko5WDM5Q1B3SXFSdlBUeGlnWmFFakpZYW1lS3gyTnFiY0xYWnk4cXltV2MzVUo5WFpMVTMwQVBWbnhuM3IwdWF3VkFFRk9OYjctbjZHTmJEU2N5Sk83NmNWTlJreXJOOUE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-02T18:16:56Z",
-      "summary": "TechBullion的文章探讨AI在教育中的角色：AI可以迅速给出答案、批改作业并实现个性化辅导，但真正的教育目标在于培养学生的批判性思维与自主学习能力。文章指出，若学生只把AI当作“答案机器”，可能削弱思考过程与知识内化；教师应设计引导式提问、过程性评价和明确的AI使用规范，让学生用AI验证假设、拓展思路而非替代思考，从而在技术效率与思维培养之间取得平衡。"
-    },
-    {
-      "title": "The Artificial Intelligence (AI) Market in Aging and Elderly Care Is Projected to Grow Rapidly at a 23.8% CAGR - EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY29GMkdTZ2t3dDJVNDY2REFlSkdXT0MtdDhWVzZIY1hoM3poYXZoVmRFdzBXS0lrN1V2MzZ6UDUtNFMxSVNHdHJONDFwWmZ6SGRUWncxdDVTRFQwR2ZGZEpqZFNQWnRNX25HM3F6ZW9qdEpEZFd6dGxXbVdFRExzanVpVnl0LU1FaGxVMktqUWNodm5jZ1ppdU95Tnh0OTZDV01peXN4VWppQ18xa04zekh4V0piM1c5dEZYUS1iQ0dBYjhLQWctbHVnY3lWZkxVYzVDb3pVRlZTOXBqTFdCaGxhUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-02T18:15:00Z",
-      "summary": "市场报告显示，人工智能在养老与老年照护领域的市场规模预计将以23.8%的年复合增长率快速扩张。相关应用包括跌倒与异常行为监测、健康数据管理与慢病预警、陪伴聊天机器人、用药提醒以及照护机构运营优化等。人口老龄化加剧与护理人力短缺是主要驱动力，传感器、可穿戴设备与大模型的结合正提升服务的实时性与个性化；报告也提示数据隐私、老年人数字素养与支付模式仍是推广难点。"
+      "publishedAt": "2026-11-03T02:55:58Z",
+      "summary": "据《The New Indian Express》报道，印度特伦甘纳邦将为约10万名学生提供AI与云计算免费培训，规模达“1 Lakh”。项目意在提升学生的数字技能与就业竞争力，为当地AI和云产业储备人才。报道体现地方政府通过校企或公共培训计划扩大技术教育覆盖，推动AI技能普及并缩小数字鸿沟。"
     }
   ]
 }
