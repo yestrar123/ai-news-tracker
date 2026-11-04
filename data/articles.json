@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "id": "7417",
+      "title": "Foundation targets increased jobs through stronger AI adoption - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUVc0MnJmWnpTT01PMnpHYlAtcUR3aDJ0LS1GU3h5ajViVUMzUDNIRjVhNTFyOXY1SHJyT2xhVWtlQnp5NTQtVmUtcmhVbzFiaGwxS3ZhZEpfTjJOb2JIMTl6dlROODVFQndIRm8yN0VPWWhvSC10VmRQU2hFalJxamRUdGNzeXVXemZ6ZkRFS2VtazAxOXAtakRtMjBIcTlo?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-04T03:00:03Z",
+      "summary": "据《卫报尼日利亚版》报道，一家基金会正推动更广泛的AI应用，以增加就业机会。其思路是通过企业采用AI工具、开展劳动力技能培训，提升生产效率和岗位匹配度，从而带动就业增长。报道强调，AI与就业并非简单替代关系，需要配套的能力建设与政策支持。原文未披露具体项目规模、覆盖行业及量化目标。",
+      "fetchDate": "2026-11-04"
+    },
+    {
+      "id": "7418",
+      "title": "iAsk.ai’s Road to One Billion Searches - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95US04eEdmeld5M0tadTZwV3ZzNEpwVm9FWXlub214LUw2RkJhczUxN0dfb0tadEItQURhQ2tNbHFYR3RYYjdYVlJINHR2dmZ4d3ozN1E0dWw1ZlZNVHkwNno2WG44UmRIUlpXSUNFWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-04T00:13:02Z",
+      "summary": "TechBullion报道，AI搜索与问答平台iAsk.ai正朝10亿次搜索目标迈进。该平台通过自然语言问答提供信息检索服务，报道将其进展视为AI搜索产品用户采用和规模化的一个信号。随着生成式AI搜索竞争加剧，产品需要在答案质量、可信度、用户体验和商业化之间取得平衡。原文未披露当前搜索量、增长数据及具体时间表。",
+      "fetchDate": "2026-11-04"
+    },
+    {
+      "id": "7419",
+      "title": "AUCyber launches new division to capitalise on sovereign AI services demand - ARNnet",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTDdyb2RnVzF6NEtoZTA0WUJBVWVLOTBWSTQyQXltV3VLREVzNEdja0R5eTFGSjBMM0dWeHVNTkVxWXR6cUY0NTZtN25JbU5Gc0JRT24xbzUyUTFNR1JRazF4S3hBUnpRMzhKNVgtSThjU3h1Z3puM0hUYWQ1UU1ESlB4Y3ZLME1XcjBOUndKdThJZWE2WE1FUVdGMEZXVWpPS2VqdXFNZlBWVDdpMjFJQzBEcEhnbE04enhMeC02Yw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-04T00:01:04Z",
+      "summary": "ARNnet报道，AUCyber宣布成立新部门，重点把握主权AI服务需求带来的市场机会。所谓主权AI，通常指在本地法律、数据治理和安全框架下部署和运营AI能力，满足政府对数据主权、合规与可控性的要求。新部门可能面向公共部门和受监管行业提供安全、合规的AI服务。原文未详细说明部门产品、投资规模与客户计划。",
+      "fetchDate": "2026-11-04"
+    },
+    {
+      "id": "7420",
+      "title": "Manifast, a startup that helps plan software with artificial intelligence (AI), won the Startup Awar.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GTTRSbjZJOGZxWm1kVlFaVm1zVERoTkszNnc5eXk3Ti10NXhKaTZ5LXY3N1VjWmt0TEJHcVVEbW9aRDQ5aWUxSm9vdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-03T23:49:37Z",
+      "summary": "韩国《每日经济》报道，初创公司Manifast凭借“用AI辅助软件规划”的产品获得Startup Award奖项。该工具面向软件项目前期规划环节，利用人工智能帮助团队梳理需求、设计方案或提升规划效率，从而降低开发前期的沟通与决策成本。获奖反映出AI在软件工程全流程中的应用正受到关注。原文未披露产品细节、融资金额及后续商业化计划。",
+      "fetchDate": "2026-11-04"
+    },
+    {
+      "id": "7421",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-03T22:41:03Z",
+      "summary": "TechCrunch报道，Anthropic正在开发名为FlashProve的系统，用于证明AI模型的身份。该系统可让任何人核验某条AI回复是否确实来自其声称的模型，从而提升模型来源的可验证性与透明度。随着多模型服务和API调用普及，模型身份认证有助于防范冒充、错误归因和内容溯源问题。原文未说明FlashProve的技术机制、上线时间及是否对外开放。",
+      "fetchDate": "2026-11-04"
+    },
+    {
       "id": "7384",
       "title": "Data centers are turning to old jet engines as the wait for power grows",
       "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
@@ -66736,5 +66781,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7415
+  "total": 7420
 }
