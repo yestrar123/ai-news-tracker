@@ -1,6 +1,204 @@
 {
   "articles": [
     {
+      "id": "7462",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-05T22:40:55Z",
+      "summary": "Airbnb宣布将于2027年上半年推出AI旅行代理，帮助用户规划行程、比较住宿与出行选项、管理预订，并在入住期间提供实时协助。该代理旨在把旅行前、中、后的多项服务整合到统一对话式界面中，提升个性化规划与预订管理体验，显示Airbnb正加速将生成式AI融入核心旅行服务。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7463",
+      "title": "Incoming Democratic majorities put AI giants on notice - WSYX",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ1BVdGxIdmZsTlNFWGdaczFfVHlZeHplQlhjUGFBTG1idUpwOXBfQU1yMjVTVUZmU3R2Z0JvZFBGTTA2S0E1RzFacUM2QVNVVk94bTlhM0NEU1h4dldiRjE5NXRQTDVCV2RKZ1FzQlA0VUUxWjlhWFRFX3FLSjdGVHJlVGNuNC1sb01DNWNzTmIzNGJGTXNpLUFJdWJaWWJ4RlQ0eE8yeTlza3otcnFfSUY0N2x0RXFOd1loaU5oS3FaQXhIRmx6NGh4eFljZGl5ZlI3eTB0X18yWGdfS2JaaU1wdDhuVWhWOHRyeUtkOA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T22:27:48Z",
+      "summary": "随着即将形成的民主党多数席位，美国AI巨头面临更明确的监管警示。报道显示，政策制定者可能加强对大型AI企业在隐私保护、市场竞争、算法安全与责任归属等问题的审查。尽管具体立法方向尚待观察，但政治格局变化预计将推动AI行业面临更高的合规与透明度要求。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7464",
+      "title": "A&O Shearman's $1.1 billion AI plan builds on law firms' tech investments - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQblM2cm9BNktXeTQ2NUhMOVkzNXpMSm04Yl81c1g5bW9iUzFEWVpJZXlzeDZQTFJub1pKaER6RmFTdmhDcVJfbkl4WlNzWWpxU2dCZ1FWakdKR0NlaG9zeEJLSVVJQnFTUWdDNGs1RWlVTTNITjIyeEF5OTdKSFhMZ29sakVMVUhaTjRCX1J1MXhqODBVLWFEejVybXJMNzhqYzd3Ym5Eb3drdDNKeThaUndKN0RwdThPRE9ibVBB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T21:45:06Z",
+      "summary": "国际律所A&O Shearman推出规模达11亿美元的AI计划，延续法律行业近年加大科技投入的趋势。该计划预计将推动法律服务智能化，提升文档审查、研究与合规等环节效率，并探索AI驱动的新业务模式，反映大型律所正把AI视为提升竞争力和重塑法律服务的重要战略方向。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7465",
+      "title": "Neocloud firm IREN tops quarterly revenue estimates, shares jump - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T21:36:09Z",
+      "summary": "新云服务商IREN季度营收超出市场预期，带动股价明显上涨。作为面向AI和高性能计算需求的新型云基础设施企业，IREN的业绩表现反映市场对算力租赁与云服务的强劲需求。投资者对其增长前景反应积极，也显示AI基础设施赛道仍受资本市场关注。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7466",
+      "title": "Elon faculty members named to leadership roles in CAA Academic Alliance AI initiative - Elon University",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnhuODY5SGROeXNRWElTM3B3Nnc5ODN2ZGllSzI1YkFyVXhTXzkxa25sUmlnblpma1lqMEZnRlJfZEVBR1JhN3BjYW05MTNuQ1pJeFlPZzJOQ1RkZUxnOXRtRFhIZFNQcHFhZEw0emdhOG1TU3F4NVpUZUpRNUpmTlphU1BhTHlFV1VqLU5KMUNhWEtQWE9QNjBVSkVJUUhQVlEtbVZDUHRkS0hNZENfRmlmeHVMMDN3bFpLalhTdHh2emM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T21:11:15Z",
+      "summary": "埃隆大学多位教师被任命为CAA学术联盟AI倡议的领导职务，将参与跨校AI教育、研究与合作项目。该任命有助于学校在区域高校AI协作中发挥更大作用，推动课程建设、教师发展和资源共享，并提升学生在AI时代的跨学科能力与就业准备。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7467",
+      "title": "Artificial intelligence-generated pre-visit summaries improved communication outcomes in neurosurgical consultations - 2 Minute Medicine",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObGFpRkFuLW5teTV6bkFUSm9rZ3o3Y04wcEhralFWR2didDZ2NW9xajR1bXR0UnlUbm1BbVJ3bGpJcGRHY2JjaUpOYWtpd25fRDMtVGg2eXNTd21jb1ZEWm5XV3ZFZDVjaHg4RWd4ZTJNQkdTNENvWFZfcEMwbnRSTHFjQUVqc2paMnM2RS1LdkQ2eGFNdDZLUGFlcVZMLVU0Z3ZfVVBsaFU3dEtsNkFhaVIyc3Vjb3lwcDI3SlhWdUh4WDNsUGt2Y3V5ZVBzN1lwemw5akFZcEFyX2ZtMWFEV2UwUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T20:48:45Z",
+      "summary": "一项研究显示，AI生成的就诊前摘要改善了神经外科会诊中的沟通效果。此类摘要可帮助医生在会诊前快速梳理患者信息，也让患者更容易理解病情与治疗方案，从而提升沟通效率和满意度。研究提示，AI在临床信息整理与医患沟通辅助方面具有应用潜力，但仍需关注准确性与安全。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7468",
+      "title": "Japan's Fuji TV goes all in with AI for drama production - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWxIWjJ5UWNJdjJ2TUE4TjEtUHFFaGZSNVZSYVdlRDRsUlRsMWJnNTBzd3ZQWW9XRVp6X05PVEdOeDdSQUJ6UVJIQ3ZmTklfdlM0Y0VCWmVqU3c3dVl1ekZkV2s5RWJWaHdHckJHb0dQQ1hDY1loWjdIQTJwMVMxNGV0N1ZGR1dzdUlObUNnQ2FxZkNJSWp1bjlfT0NIT3Bod1ZFMWs1eDVVWko5RlN2bmN2MTVQVTRNRXR3dUJSM3hHdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T20:32:00Z",
+      "summary": "日本富士电视台正全面将AI引入电视剧制作，探索从策划、分镜到视觉生成和后期制作等环节的智能化应用。此举旨在提高制作效率、降低成本并拓展内容表现方式，同时反映日本影视行业对生成式AI的兴趣上升。如何在效率与创意、版权和伦理之间取得平衡，仍是落地过程中的关键问题。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7469",
+      "title": "Elon AI Hub launches ‘Campus Voices’ interview series - Elon University",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmNWS3BZR1BFWXdZRDVtbkhhemJHSkluTDE2bS1QQ2NLUG5Bejl4X25QWVloelpKQnlrWmJJVW1WdHpFNWxoSnRiYndnOHo5TG1Kck1zY0VXc0JOTkhCY3Q2WW1mVzBidGJlUmlBT3JMTThXdDR6Nk9ndmNWd0gwUmp5dDdkYjIzM2FHZTlONjJOQ1dsTkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T20:22:27Z",
+      "summary": "埃隆大学AI Hub推出“Campus Voices”访谈系列，邀请校园师生分享AI相关观点、研究与实践。该系列旨在促进跨学科对话，展示AI在教学、科研和校园服务中的应用案例，并增强师生对AI机遇与风险的理解，推动形成更开放、协作的校园AI社区。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7470",
+      "title": "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US) - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTJNZjF3eUVyS1gxTjJhOVNvU1ltTUdKckJVOWpqLVJyRWNOVm55OGNLeHFlajQ0MERqNGxzeUx6YTJvME9aTEdvRVFXQTNzVkdGZXI3RUo0T21mSjNRNUtpRURVdHJOLXlkSllSbXNwVW9Vc24wdFU1LV9aSldSMXlyalN0SFNMVWZtNjJiSkFCdUh0NTllRVdRcTlSMTRjd0lobEtzM0NPRGxRM3dv0gG0AUFVX3lxTE9MeExLaHJncGRQZWlYWGRibWJSUGpyVm5LM0hVS0JMZzFGRWhCTHdaeEdjR2dEcFprME9wVzA0aDZ2Ty11NV9qVlhQaWpJVUdnZzFtWWZoOEFKSVRBeFB6ZEhtTjRCR1NnRDU1aEhtVDRXUTdVRFNPRUZxQ01WNS1MakpkOHk5bk94dHR5WXpQcEZ3dkxEbnoxMHNDay1NcHhsVzR5TUJFQTRocVBLVFNwQndhRA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T20:16:39Z",
+      "summary": "美国法律评论文章探讨员工真诚宗教信仰与职场使用AI发生冲突时的法律问题。文章涉及雇主应如何处理宗教便利请求、避免歧视风险，并在AI政策中平衡技术应用与员工权利。随着AI工具进入招聘、管理和日常工作流程，企业需要更谨慎地设计合规政策与豁免机制。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7471",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-05T19:48:28Z",
+      "summary": "Meta宣布美国用户现可通过可定制动画虚拟形象与Muse AI进行视频通话，该AI代理能以虚拟形象接听通话。此举被视为Meta推动AI社交交互的重要一步，并为后续类似Tamagotchi的可穿戴设备铺路，让Muse以更拟人化、陪伴式的方式融入用户日常沟通。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7472",
+      "title": "Top 5 Solutions for AI-Driven Reliability - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00bmg2UWM5V1gxZEx0d2Y2dVZ5TU1zSjRlczJtZUZ2R19raHJFOFZZbmxwd2tVQ0FETEJyNVdsMjRvNF9FOVR0MG1oX3c4b0pCR3EyVkFDQXhlWkNtV1ZWb3N0WTcxdzBJWklaUW1aZ0hwSUJj?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T19:46:33Z",
+      "summary": "TechBullion 刊发专题文章，盘点五款用于提升AI系统可靠性的解决方案。文章聚焦AI应用在生产环境中面临的稳定性挑战，如模型漂移、输出不确定性与故障排查困难，并介绍相应工具在可观测性、实时监控、性能评估与风险管控等环节的能力，为企业构建可信、可运维的AI系统提供选型参考。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7473",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-05T19:12:39Z",
+      "summary": "Meta 警告称，针对数据中心的选举期政治反弹可能拖慢其AI扩张步伐。随着大规模基础设施项目引发社区反对，数据中心选址与建设正成为敏感政治议题，地方抵制情绪上升。Meta 担心监管与舆论压力会抬高建设成本、延长交付周期，进而威胁未来在AI算力和基础设施上的持续投入。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7474",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-05T19:06:12Z",
+      "summary": "OpenAI 发布新的网络安全模型，试图以AI能力强化数字基础设施防护。报道指出，此举正值各国监管机构加强对AI实验室安全工作的审查，外界关注此类模型能否真正提升漏洞发现与威胁响应效率。文章提出的核心疑问是：仅靠一个模型，是否足以应对日益复杂的网络安全挑战。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7475",
+      "title": "Fact-Check: AI plays a growing role in email filtering - WTOK",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVRpRGpGbXkwQTFBbE9rdjhrVlpFQmN3Y0llMkdNZ2VlbGg0Y2paY3lQZEprV1lXTkI5LS10RHVwamxMeEFyUm9IbkpkbWNYUHdPWW1yaTducDNpcURBTml1NW1ObklDN0tlVVN4V3p0TFZXTzlydm9oeWhwZUwxN1E4bVRmMGd40gGcAUFVX3lxTE1mRUYtQ3F3R1N5ejJvMjNEU2ZUZFBpSEotZHNwT255ZXJHcVFRXzJVbmU0VGpHc3RSNmoyZ3JHVExjNWpfLW83WHJJX3pHNFRMSWprcjhxenk0c0RtUlY5bUc5MzFSXzJkN0lneDZKZXpTcnVTbGFYZGNtVkNwM1JlTXJtSlhwLTVMQUdwS09XdE8yVDB1ZzBSNGI4cg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T19:05:00Z",
+      "summary": "WTOK 的事实核查报道指出，AI 在电子邮件过滤中扮演的角色日益重要。垃圾邮件与钓鱼邮件识别系统越来越多依赖机器学习模型，对邮件内容、发件行为和链接特征进行实时判断，从而提升拦截准确率并减少误判。报道同时提醒，用户仍需对可疑邮件保持警惕，不能完全依赖自动过滤。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7476",
+      "title": "67% of UAE workers fear AI will replace jobs despite 85% already using it at work - Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbGI1WE83VU1TZFFYX2lCOW8xS0FKQk9tM01JNVFodDlDdS1mcHdCazdPRnJsRFRUZDQwUGNISkpsamtyM25oTzY1YlFJdW1zMVpLRzRTVWRjWFRXdXZlbXJpN29wQlh5UUx6aTVqQ1l4dUhxUUp1ZjJ1MVluMGhPZDBNRlpWcVBXZGNaYUI4S0x0VkpTb1BiOXNCdi1COEN3YjFuMU5FZ2hJbkFTZGM3dUtlblVrYmpWSHktRFQ0bmxKazJ4YklvbVNyYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T19:04:41Z",
+      "summary": "调查显示，尽管85%的阿联酋职场人士已在工作中使用AI工具，仍有67%的人担心AI会取代自己的岗位，呈现明显的\"用得多、怕得也多\"心态。这一数据反映出AI在提升效率的同时也带来职业安全感压力，员工对技能转型、岗位重定义以及企业再培训机制的诉求正在上升。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7477",
+      "title": "LiveX Brings Physical AI to Airports, Hospitals and Stores With the Launch of AI City - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbTljNW5DUjVFM3A2dGhiT0NsM3ZpbjYzY19KOFU3TmxVMUF1a3lKRjNZd253dnRPZEpVdG5qeGY2VG1fRE45Y2VOZTRxYlBzZEc0TS1tV1BTYnUwc2ZIdHFEZWEtbVYzLVlza2hUdURVa0VOZE54bUhuWGJHTkp3WDRDdF9BRUw4YS1RaGJvWFRSZURqeFd0Z2U1cFRXLWlFcUszMFJFOUJtR0ctMlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T18:45:31Z",
+      "summary": "LiveX 推出\"AI City\"平台，将物理AI（Physical AI）引入机场、医院和零售门店等真实场景。该方案通过在物理空间中部署感知与智能决策能力，让机器系统在客流引导、院内物流、门店运营等环节自主响应环境变化，标志着AI从软件层面向线下基础设施和实体运营场景进一步渗透。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7478",
+      "title": "AI Is Finding Software Flaws Faster Than The World Can Fix Them - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYVhoV0F2MVI4LXVGeDlZOE5nVUtLd0xGOVdRd3BrWmFQRlNESmQ5UVhDSlpKemU2MFV1THAxODZlU1VRVkJsbUtqOUt4YVRvWEFuV2JxVTM4UFlIcVJIMko2NlVVeUNCV1p6WUtPZmRjcUpuU1gySmRaZHhsYTlZai1QaDlyaWIwdFpNTHFzbTFkVXlIYWg1dmhVUWJNcEg0a0o2a2tEMmNxWjB2TlF2TzlOQmlUUXE10gHAAUFVX3lxTE52RGpyRzZvdEFlRHQyOEZuNDNIS05faVFqZ1Zqb1NJMlF2eXBmYmtlVDN0SlJzczBjVDd0eV9OdVNGMFJBbnZ1MzctYjlPTVBxd3lIS0JuNThkeEpjRWV5c3VQQlR4bGFBTlFUYlRzdzBKQ0VEZEwwMVdVdndSUm1oQ0FfcXNKNVNvcEhQRnJ3VkVBLUFWTmN3Ym1qbEp2OTRCd1ZPN0RLTzk1UDJpOXJDTzdGVFJsNkxHbVRmTl9qZQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T18:24:27Z",
+      "summary": "NDTV 报道指出，AI 正以远超人类修复速度的节奏发现软件漏洞。自动化漏洞挖掘工具能大规模扫描代码、快速定位安全缺陷，但开发团队的修补、验证与发布能力难以同步跟上，导致大量漏洞积压。这种\"发现快、修复慢\"的失衡正在扩大安全风险窗口，也对企业的漏洞管理流程提出新要求。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7479",
+      "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGRzTGJsV0ZFVVJ6NXlkNnB3emVFcDJmOGhCUjFsZTJEVWxJS3VxN1JDZ1VLOUVRSzZXTGJiTEV4LTR3TGFfQi1aeHhpdF9SY0hoZlUtSVByVDU1N2tyakZfdlk3ZEhFR21CdUI0dHg0ZjVXMDVfWUtNaGVZVTE5Z1hMMUxtNVZmN2dWN2FXdkFGcTkyYnFrOGpTRThrWHBtNDNQQ1EwU2pTeFhibVpVNlZyb0J6YXlwdjUtaA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T18:06:43Z",
+      "summary": "AWS 发布技术文章，介绍 Amazon Marketplace 如何借助 Amazon SageMaker AI 评估商品内容质量。该方案利用机器学习模型对商品标题、描述、图片等内容的规范性、完整性与合规性进行自动化审核，替代大规模人工抽检，提升审核效率与一致性，同时减少低质和违规内容对买家体验的影响。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7480",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-05T18:02:27Z",
+      "summary": "OpenAI 总裁 Greg Brockman 在《华尔街日报》科技会议上表示，公司有望在2027年具备IPO条件。他同时强调OpenAI在企业市场的进展，意在回应竞争对手Anthropic已在该领域取得先发优势的压力。此番表态显示OpenAI正加快商业化布局，并为潜在的资本市场动作释放信号。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7481",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-05T18:00:00Z",
+      "summary": "Claude 上线 Personal Finance 个人财务工具，用户可通过 Plaid 连接银行与信用卡账户，并以自然语言提问的方式分析自身消费结构与财务状况。该功能将AI助手从通用问答延伸至个人理财场景，在提升账单洞察便利性的同时，也让金融数据授权与隐私安全成为关注焦点。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7482",
+      "title": "Responsible use of artificial intelligence - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T17:15:00Z",
+      "summary": "《Nature》刊文讨论人工智能的负责任使用，强调在科研与出版等场景中应坚持透明、可问责和伦理合规，避免滥用与潜在风险。文章呼吁研究者、机构与出版方共同建立规范，确保AI应用可追溯、可审查，并在提升效率的同时维护科学诚信与公众信任。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7483",
+      "title": "Nothing says it is making an 'AI-first' device to help artificial intelligence have its iPhone moment - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXdaUXBaNEY3X3dWTVBDOHl5TmRmdUVDX0lsc1Y5cnFLSHRFZ3FGVGNmRC1vTzRHZ3JSbGREQU95TVk0T281VDdUV25SVHpQbFc2VWhMemlKMHpfQU4zcDRMZHZQUDQ4Zy1McF9LRUZLUUJxbFloVDNiRGJtdklNbzlVaXBFUlVMaUNiSXR4Zm45QW1ObXdYaWt0Q3Q?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T17:12:00Z",
+      "summary": "Nothing公司表示正在研发一款“AI优先”设备，目标是让AI像iPhone那样带来革命性体验。该设备预计以人工智能为核心进行软硬件设计，而非把AI作为附加功能，试图打造更自然、原生的智能交互入口。此举反映消费电子厂商正加速探索AI原生终端，但产品形态、功能和上市时间尚未明确。",
+      "fetchDate": "2026-11-05"
+    },
+    {
       "id": "7452",
       "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
       "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
@@ -67141,5 +67339,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7460
+  "total": 7482
 }
