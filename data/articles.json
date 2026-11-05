@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "7446",
+      "title": "Former Disney AI Executive Joins Studio Making Antonio Banderas Film With Artificial Intelligence - SoaplandTV",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObjE3S2JMZTQzSzdGZkh1TnRUakJzMEdzRzQ3ajU3b3A3Tlo0RTNhRC1HeVRUaGU2TlVOX1pXeE5GUTFacnRneWZ0dlljU1F4U2dLTVZXdVh5THpaeUU0ZU9yRjNvZERZaGtyWm9xSWd1ZWhMMDlsUUs3Vno1d3JFeHdGQWJLaTM5aDd2TU5CNVM3TVNsbWc0S0pWYURlbTRfNy1pT0NpRVhkd3QyQ1hXUXFFRkNjbExMRjY1VDhWNDFZeE1XZWEzR2Zn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-05T03:09:09Z",
+      "summary": "前迪士尼人工智能高管加入一家电影工作室，该工作室正利用AI技术制作由安东尼奥·班德拉斯主演的影片。此举显示生成式AI正加速渗透影视制作流程，从前期策划到后期制作均可能引入智能化工具。不过，具体AI应用环节和影片细节尚未披露，行业对AI替代人工创意的争议仍存。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7447",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-05T01:26:22Z",
+      "summary": "据TechCrunch报道，苹果公司正在削减其内部AI使用预算，显著降低工程团队在人工智能方面的支出。这一调整可能反映苹果在AI投入上趋于谨慎，或重新评估内部工具的成本效益。尽管苹果在设备端AI和生成式AI功能上持续布局，但预算收缩引发外界对其AI战略节奏的关注。",
+      "fetchDate": "2026-11-05"
+    },
+    {
+      "id": "7448",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-05T01:02:14Z",
+      "summary": "美国中期选举后，围绕数据中心的更大规模冲突可能到来。选举结果显示，数据中心反对声音跨越党派界限，地方社区对电力消耗、水资源使用和土地占用等问题日益担忧。随着AI算力需求推动数据中心扩张，政策制定者与选民可能就审批、监管和选址展开更激烈博弈。",
+      "fetchDate": "2026-11-05"
+    },
+    {
       "id": "7433",
       "title": "AI PACs spent millions trying to shape Congress. Here’s how they fared.",
       "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
@@ -66997,5 +67024,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7444
+  "total": 7447
 }
