@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "7487",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06T06:28:32Z",
+      "summary": "Palo Alto Networks正洽谈以约5亿美元收购AI智能体安全初创公司Clutch。Clutch曾获Lightspeed与SignalFire投资，上一轮估值约8500万美元，此次交易报价显著溢价。该收购反映网络安全厂商正加速布局AI Agent相关安全能力，以应对企业采用自主智能体带来的新型风险。",
+      "fetchDate": "2026-11-06"
+    },
+    {
+      "id": "7488",
+      "title": "AI in Your Pocket: 5 Ways Artificial Intelligence Is Changing Everyday Life in India - DD India",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVNNMWIwSVRySkpKSnphQlY3WTFmdFZLeno0eUlQZzZEQ3pXeFF3Y2hSbjhOM09ic0UxLW9fVnBJbk00cEpVUFR2dmZReWNTSW5WUlIxTmNqVGNWbGtZWmNUVUFKYUFnWDJwS1pWZmtQdERJLTVfYl9hLWJpdEdXRFdiaWJuem1iVWxLY2Zlak8xR05aR1BnaGNWS01QX09HWFN0LUFlTUZqUUJibWwyX1R3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T04:49:00Z",
+      "summary": "印度媒体DD India发表文章《口袋里的AI：人工智能正在改变印度日常生活的五种方式》，聚焦AI在印度普通用户日常场景中的落地，从五个方面梳理其带来的变化。报道标题凸显移动端与个人化AI应用的普及趋势，反映出人工智能正从产业技术逐步融入印度民众的日常生活。",
+      "fetchDate": "2026-11-06"
+    },
+    {
       "id": "7484",
       "title": "'Godfather of AI' Professor Geoffrey Hinton Says Humanity Might've Been Better Off Without It - News18",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZC0zdGk0bHRtdktIWmZmVzF6TmpYckhDTy1lTUpXNTVuRHI3WjAwbm5OUmt6aFFSaVlqSHNONzBFeHhRWnRjb29XakRFZ2c4eGJvQUM5OHJ4dGFmWVdLeU84Ukt1QnVFSVI2eFlIUDFHckhQb2lBR3A2NExMWmRjR0Zvcmpqc0RIeWQ5aE9DRzk2Q2k2Vk13c216TTJ2RGRqUkYwNUNINmVtY2xxREQyUi05cWtTYjFqLUN3T0tmRXNUdHlvbXRvVHlqb0ZoV2U1VkMxeWZiMHdpZlZoRnpHRGlmYmVjWWF6YVdPTlNMQVBvLWtMX0FxMlo2VGNUWkIt0gGGAkFVX3lxTE9fWF9YSnVPRm80Q2NvVU9zLXVob0JGaHRkLVZPZUpqMGJKMFVrSnN1SzA4bklhSDZVWnR4UWwtb25JMHN1YWlGTHRFX20tVUZ1QmtlcUYta0tWM29PQXZSNVIxQklMZTJ4RlVCVTQ2UFNOM2M2N09HaWJVRlY3TmViS3RXQVlSMkhMT2VDMjhzV2txYzNrdVRzbEZINFIwNHZ3ajdaMHZyVTQ4dFN3anllTFFuUGJBVjZIR2RjanVHWFo4YVdCOXBkZWtPS2luejB0RVh5LTdMcUp4MGczTndMTk9JalZ2RlptTFJwOFNDOTRZdHltYlFjeHNiR0s5UlgweG9XQXc?oc=5",
@@ -67366,5 +67384,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7485
+  "total": 7487
 }
