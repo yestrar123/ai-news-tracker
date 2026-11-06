@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "7489",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06T13:02:16Z",
+      "summary": "Underdog在新演示中展示了一个仅32MB的语音模型，突出其极小体积下仍能同时生成语音和音乐。该模型若能在端侧或低资源环境运行，将降低部署成本并拓展离线语音交互、音乐创作等场景。不过目前公开信息主要是演示层面，模型架构、音质、延迟、语言覆盖和商业化计划尚未披露，后续需观察其实际性能与可用性。",
+      "fetchDate": "2026-11-06"
+    },
+    {
+      "id": "7490",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06T13:00:00Z",
+      "summary": "Physicl获得1000万美元融资，目标是让数字世界对机器人足够真实，以缓解机器人从仿真到现实迁移中的“sim-to-real”差距。其技术管线最初用于在线商品营销，如今被改造用于生成高逼真虚拟环境，帮助机器人在低成本、可扩展的仿真中训练。该方向的关键在于缩小虚拟与现实差异，提升机器人训练效率和现实泛化能力。",
+      "fetchDate": "2026-11-06"
+    },
+    {
+      "id": "7491",
+      "title": "I Asked AI Who I Am. It Described Someone Else. Here’s Why That Happens - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaG1mMzFBb1BUVzJiSUEzV1h6cGgxWmlOcnRTNmpXeVFiODlnTUJhWjhWOWpKaTV5WFZ4bnE4N0k5ZnMxT195T0pKVVo3YkktUTA4QldBVE9nUVN0U2g1MzlGSlVVQmFWRlZvdW1rWHNLanpRS09WZlFQMDhNVXhCdmlQdzVZcFRMNXdFYXA0aGw3cEhBSzRFTw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T11:53:35Z",
+      "summary": "TechBullion文章讨论了一个常见现象：用户询问AI“我是谁”时，AI却描述了另一个人。文章解释，这通常与模型基于统计模式生成回答、缺乏用户个人上下文有关，也可能因相似姓名、公开信息混淆或“幻觉”导致身份错配。该现象反映出当前AI在个性化记忆、事实核验和隐私边界上的不足，也提醒用户对AI生成的个人身份信息保持审慎。",
+      "fetchDate": "2026-11-06"
+    },
+    {
+      "id": "7492",
+      "title": "Not Nvidia. Not Palantir. The Midterms Just Made This Magnificent Artificial Intelligence (AI) Stock the Safer Bet. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnFxQkVhemJOV3ZvbUdKVG11LXJBZ2xZUU9XTWY0cUttc2Jxbmk3cVYyR1RtYnQzRUxfaUF5MnpFT2Y2bFIxMnBncnE5SWdiUWVaVjhsbmRCQVFFRHhiMTRneUZLVk1SOVBVQWtGaFgzdHgxRkg5UkZTa2pNMk02ZGsyM3hpb1RJMzlYaTNGcl9xc1VnRzJvakFGekE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T11:20:00Z",
+      "summary": "Yahoo Finance文章称，中期选举后，一只“卓越的AI股票”成为更安全的押注，并强调它并非英伟达，也不是Palantir。文章的核心观点是政治与政策环境变化可能影响AI板块的风险偏好，使某些业务模式或监管暴露更低的公司相对受益。但摘要未披露具体公司及财务数据，投资者仍需结合估值、基本面和政策细节判断。",
+      "fetchDate": "2026-11-06"
+    },
+    {
+      "id": "7493",
+      "title": "Morocco, Korea Advance Customs Cooperation on AI, Digitalization - Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlhHcFg5eml6a09sVjdBY0lwWFZILTVoTi1TeEpJMkFkTGVpTk9lV1QyUlplZkd1WXRGMFhzcFVuUXFiaEp2V2otSkgxOTNqOWx5cmtRRm5TZG5vN193SWNrMDVDZ0wzbEgyMDN1LW5qUUdBYks2dVVXOF82YXpaYmEzRFVPUDJsVml0SG9WUERBUmJZdDBEVmMyRzhrcEI1b3lyNmpTQkM0M2xJQWdScA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T10:18:58Z",
+      "summary": "摩洛哥与韩国推进海关领域合作，重点围绕人工智能和数字化。双方预计将探索AI辅助通关、风险识别、数据交换和流程自动化，以提升海关效率与贸易便利化水平。此类合作也涉及跨境数据治理、系统兼容和人员培训。若落地顺利，有望降低通关成本、加强监管能力，并为两国数字海关建设提供示范。",
+      "fetchDate": "2026-11-06"
+    },
+    {
+      "id": "7494",
+      "title": "How the AI Doomers Won 2026 - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmEySUJ0aE1vd1N5bWF3TFRPWGVLNmRVQnhXaUZQTWRjWHZIa0tIR2Q4VXh3LWxIOXd0cDVFVTNkVFhwQmtVS2F1dzVDNVU1QnF0bHVGNDVlSEV4QnpRX0pMSG0yUTJNU1BZZFFEUXhRdm96VVd2MUFSQ0ExN0JKRWVhdFE4WDBXYVlRWVdLU19JUEdHQ1BlMENlVEtZalh1azZN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T10:00:00Z",
+      "summary": "Politico文章《AI末日论者如何赢得2026》分析称，AI安全与“末日论”叙事在2026年的政策辩论中影响力上升，推动监管者和公众更重视生存性风险、模型评估、部署限制与安全治理。这一趋势可能改变AI公司的合规环境和公众沟通策略，使“先安全后部署”的主张获得更多政治空间，但也可能引发对创新受阻的争议。",
+      "fetchDate": "2026-11-06"
+    },
+    {
+      "id": "7495",
+      "title": "Abu Dhabi AI startup uses autonomous drones to plant 10 million mangrove seeds - Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYVlKUkxCY3hMVnMtdUU3WGphTlRDVGczOUloQkVLWXlITS1seUlPRmh2R001ZmVHVkxNczM2QmtqaUZmdUNZWHg0U1ZXTzUxSVJQc0UzSFRBN3JKekI1UU95ZVRpM0RJcUpGNHBTN3VLcHpxYVRMLUhXRFZhTHlxRGFMT2Jqa0ZWcHg3cHFncHQ4WnRzdTV1T1VINlNzSFY3X0tuNG5UV0ctVE9iTWVxRGdJYTB1NHc1NTZOY1dtbkZiVmpqdFl1TFBB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T09:52:32Z",
+      "summary": "阿布扎比一家AI初创公司利用自主无人机种植1000万颗红树林种子，展示AI与无人机在生态修复中的规模化应用。该系统可能通过航线规划、精准投放和监测提升种植效率，降低人工成本，并支持红树林碳汇与海岸保护。项目成效仍取决于种子成活率、环境条件和长期监测，但为干旱地区生态治理提供了技术示范。",
+      "fetchDate": "2026-11-06"
+    },
+    {
+      "id": "7496",
+      "title": "Why edge-cloud AI inference pipelines are key - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0E3bkV0SDdWUFF5a0hZbWpvZGd5Y3hrTzZIMk1DMjIwcmlBT0owWG5FTmJRU05yR0xOb1FnWFhrWHdCQzBBRVRSbHJzeDhpb0tmVjRqUFA4clMzeHlDVkt6VzF2Q3VrdVNDNnR2Wm5hTFVMTmUxaHJGZ3BpRU1lSG5JNE5RSjZ4MzdiclhxRHQyeWhOemZ3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T09:16:26Z",
+      "summary": "InfoWorld文章指出，边缘-云AI推理管道正成为关键架构。其核心是将推理任务在边缘设备与云端之间协同分配：边缘侧负责低延迟、隐私敏感和带宽受限的实时处理，云端承担大规模模型、集中管理和复杂分析。统一编排可优化成本、延迟与可靠性，但也带来部署复杂度、数据同步和安全治理等挑战，企业需按场景设计管道。",
+      "fetchDate": "2026-11-06"
+    },
+    {
+      "id": "7497",
+      "title": "South Africa One of Three African Countries Meeting Commonwealth Youth AI Readiness Benchmark - iAfrica.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkdWcTk3aUQ2MWhtelExMlBXYUtHV21pVFJMT0JUQW1kbXVZekJYYXp6QlVKRldTLUZTYUVqUEJ3LXMwVTlwOXJfcDR5Y2h4S191SHVES2ZrbmpCdkFlQ1k2bUY0blRnR25HTlRjdThtNUhoZ2QyRVBpUXVKTGFtbnQ4MDJWVG82SWxqOWZuWmxSa3hNdV9leFlKV0FZQWNQazhDT0s2cXA5WS1yWnk3ZjgtdTY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T08:35:19Z",
+      "summary": "iAfrica报道称，南非成为三个达到英联邦“青年AI准备度”基准的非洲国家之一。该基准通常评估青年在AI知识、数字技能、教育资源和政策支持等方面的准备程度。南非达标反映其在AI教育和能力建设上取得进展，也为其他非洲国家提供参考。文章提示，青年AI readiness关乎未来劳动力竞争力和包容性数字经济发展。",
+      "fetchDate": "2026-11-06"
+    },
+    {
+      "id": "7498",
+      "title": "Local police have launched an investigation into Nvidia's artificial intelligence (AI) semiconductor.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtbHNpWGtxZ1NQbzlqbDhfZ3pYNm9GQUNXNlMyblRoaFMyOUxRNV9jclRIeUxQaWJqelJTM0MyWlBiTml6Vm5BMWpZWkJxSlU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T08:30:53Z",
+      "summary": "据韩国《每日经济》报道，当地警方已对英伟达人工智能半导体相关事项展开调查，但公开摘要未说明调查具体事由、对象和范围。事件凸显AI芯片供应链在快速增长中面临的合规、监管与法律风险，也可能影响相关企业和合作伙伴的运营预期。后续需关注警方通报及英伟达方面的回应，以判断事件性质和影响程度。",
+      "fetchDate": "2026-11-06"
+    },
+    {
+      "id": "7499",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T07:27:26Z",
+      "summary": "据BBC报道，全球科技股出现大幅下挫，美国中期选举结果进一步加剧了市场对人工智能热潮放缓的担忧。投资者担心，选举带来的监管与政策不确定性，可能影响科技企业的AI资本开支节奏和盈利预期，而此前正是AI概念支撑了科技板块的高估值。在AI投资回报周期存疑与宏观政策变数叠加的背景下，市场避险情绪升温，资金从高估值科技股撤离，引发集中抛售。报道认为，此轮下跌反映出市场对AI叙事可持续性的敏感度上升。",
+      "fetchDate": "2026-11-06"
+    },
+    {
       "id": "7487",
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
@@ -67384,5 +67483,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7487
+  "total": 7498
 }
