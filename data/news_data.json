@@ -1,83 +1,97 @@
 {
-  "updatedAt": "2026-11-06 13:24:24 UTC",
-  "totalArticles": 11,
+  "updatedAt": "2026-11-06 22:29:41 UTC",
+  "totalArticles": 13,
   "articles": [
     {
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "title": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUE9xeHV1eTYzM3BjTXBPUnVMcEZZczFuNDRyMlZSQmRqTDllM1hmZFhTQmV5MzF2YXhlbUlTX2tTYTFxVW5pbEROajVZekhfeFFLV1gzVlBaeWJTVWl5dV9wakhVamN1TjNqcGVuNTB1VGg4VjFEdmxBSC1idjh2QWJ0TlFVYzRMcDRXUWdqWnB2TnJMRHhzMUhRX0pxNkx2cmdRUzM1SExWcHB2ckNOTXpiMnExZ211N1lkbnBrRTZYYnUyRnJvSEppYTRGMWhycTczODNZMFFab05FSUFtUUV0UUl3MWtEclB0V19KNHJ1V2dEb2NoWGVROW1hUl9memlaSFpXaXJ0Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T21:25:09Z",
+      "summary": "有分析文章预测，华尔街对中期选举后的AI交易判断完全错误，可能低估政策变化、数据中心监管和板块分化对估值的影响。文章倾向于认为市场对AI行情的延续性或风险定价存在偏差，投资者需关注选举结果带来的监管与基础设施约束。"
+    },
+    {
+      "title": "AI stocks bounce back after trillions wiped from market values - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T21:06:25Z",
+      "summary": "BBC报道，AI相关股票在市值蒸发数万亿美元后出现反弹，显示AI板块仍具高波动性。市场在经历大幅回调后重新评估AI企业的估值、盈利前景与资本开支压力，短期情绪修复与长期基本面分歧并存。"
+    },
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWtVdXFGeWRka1lWSlphWF92UlhuTl95MFBpUTFwOWhrTnhlRzZqdzd1Rm5jUGF2bzJoTEl1MndGQ1Z3QmZfQW5LMnVLanZyazhQLXJreVNqdFRsU2tZX3JlSGo0bENVUGxrZ08xdmhMSm5FU2VCNDA1QVJlaVhGQlJKZTcxZWc2TlpTc2JvcWlSRnlvdDFPMkx4eWlSb1lLUU9kd0VrdWpRT3VGSjhxWVB3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T20:24:19Z",
+      "summary": "OpenAI推出面向网络安全的GPT-6 Cyber AI，据称在测试中发现81个Firefox漏洞和948个Linux漏洞，展示AI自动化漏洞挖掘与安全审计能力。该进展也引发对AI双用途、漏洞披露流程及安全工具监管的讨论。"
+    },
+    {
+      "title": "Claude Personal Finance reads bank accounts via Plaid - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PaUVTSFBuWHl1VkJidjRmMjlxWmJNRWcxN0sxTU5Jbm5UakVfR2NkRzFjRFFaSmYySmZabmw0Zjh3cWhjbUtHXy1IOWU5N1dhWmJpeFA1dG9NM3dyN2FuTE5FTWx1eWh0V2EwcTItb0Y1ejlkN3VJY0hJbHVxZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T19:06:07Z",
+      "summary": "Claude推出个人理财功能，可通过Plaid连接并读取银行账户数据，为用户提供财务分析与资金管理支持。该功能依赖用户授权连接金融账户，因而隐私保护、数据安全和金融信息访问边界成为关注重点。"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-06T13:02:16Z",
-      "summary": "Underdog在新演示中展示了一个仅32MB的语音模型，突出其极小体积下仍能同时生成语音和音乐。该模型若能在端侧或低资源环境运行，将降低部署成本并拓展离线语音交互、音乐创作等场景。不过目前公开信息主要是演示层面，模型架构、音质、延迟、语言覆盖和商业化计划尚未披露，后续需观察其实际性能与可用性。"
+      "publishedAt": "2026-11-06T18:44:38Z",
+      "summary": "安全研究人员发现，数百个托管Artex渗透测试工具的服务器公开暴露在互联网上，任何人都能访问这款AI黑客工具。事件凸显AI安全工具在部署、访问控制和资产管理方面的风险，可能被滥用于未授权测试或攻击。"
     },
     {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-06T13:00:00Z",
-      "summary": "Physicl获得1000万美元融资，目标是让数字世界对机器人足够真实，以缓解机器人从仿真到现实迁移中的“sim-to-real”差距。其技术管线最初用于在线商品营销，如今被改造用于生成高逼真虚拟环境，帮助机器人在低成本、可扩展的仿真中训练。该方向的关键在于缩小虚拟与现实差异，提升机器人训练效率和现实泛化能力。"
+      "publishedAt": "2026-11-06T18:44:20Z",
+      "summary": "Meta为Muse智能体推出Spaces，提供与AI助手协作和交互的新方式，并继续扩展Muse的功能与集成。该产品意在让AI代理更深入融入社交与工作流程，提升多场景协作体验，同时反映平台对AI代理生态的布局。"
     },
     {
-      "title": "I Asked AI Who I Am. It Described Someone Else. Here’s Why That Happens - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaG1mMzFBb1BUVzJiSUEzV1h6cGgxWmlOcnRTNmpXeVFiODlnTUJhWjhWOWpKaTV5WFZ4bnE4N0k5ZnMxT195T0pKVVo3YkktUTA4QldBVE9nUVN0U2g1MzlGSlVVQmFWRlZvdW1rWHNLanpRS09WZlFQMDhNVXhCdmlQdzVZcFRMNXdFYXA0aGw3cEhBSzRFTw?oc=5",
+      "title": "USDA to launch AI tool to check crop production data after errors - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmdKa3B2ZGQwNTl2RnhncGpick4xaDJtVnUydW5GVnRON2pNNTY0Smp6SVhaWmllWW1lalBsdmhNSWJQMU8tMWdVSFFEdUhobmJmeS11TmNYVXVxVnd5T1ZEaElFb19UR1AwM3NycXByUVZsRzVRUDVQVGFNSnhYVGNIYXpHNVZWRmdUMEdhMHM5aUpVQUhLZUlOUmNNNTZ2Z3ZfYnJyRElnQQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-06T11:53:35Z",
-      "summary": "TechBullion文章讨论了一个常见现象：用户询问AI“我是谁”时，AI却描述了另一个人。文章解释，这通常与模型基于统计模式生成回答、缺乏用户个人上下文有关，也可能因相似姓名、公开信息混淆或“幻觉”导致身份错配。该现象反映出当前AI在个性化记忆、事实核验和隐私边界上的不足，也提醒用户对AI生成的个人身份信息保持审慎。"
+      "publishedAt": "2026-11-06T18:23:43Z",
+      "summary": "美国农业部计划在作物产量数据出现错误后推出AI工具，用于核查作物生产数据。该工具旨在提升统计数据的准确性和一致性，减少人工审核压力，并改善农业数据发布质量，为市场和政策决策提供更可靠依据。"
     },
     {
-      "title": "Not Nvidia. Not Palantir. The Midterms Just Made This Magnificent Artificial Intelligence (AI) Stock the Safer Bet. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnFxQkVhemJOV3ZvbUdKVG11LXJBZ2xZUU9XTWY0cUttc2Jxbmk3cVYyR1RtYnQzRUxfaUF5MnpFT2Y2bFIxMnBncnE5SWdiUWVaVjhsbmRCQVFFRHhiMTRneUZLVk1SOVBVQWtGaFgzdHgxRkg5UkZTa2pNMk02ZGsyM3hpb1RJMzlYaTNGcl9xc1VnRzJvakFGekE?oc=5",
+      "title": "Artificial Intelligence AI Camera Market Forecast to 2035: Industrial Automation and Retail Analytics Demand to Accelerate Growth - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNUdWVFlXOHN4dFFWZmpVOFg4eFRBUjg4bVUyZXpTUE5tbW1VLUtqMUN1OEk1eUVpMHdNZFN4SDBDUEpsUWFsaGc5YkY2aWhTT3EzX195MktPODhhZzkzTFBWYnRhVm5qVzFhX0kxUjc5WHBSWG5wS3BIazVUbUp0VGE5ZExzMmZTWEVTY3lydjFENlVkLUJvN3VWNExCbjdMT1dPM2dRTFVkeFJMTFBtUVlmamJsUVJSTUR1UE1QdHFtd0kzMXV3WmdmRTVnZ2syTWJHM2RtdVF4eE5vNWYySUVqOGc0N2x3Ny1kdjZLdw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-06T11:20:00Z",
-      "summary": "Yahoo Finance文章称，中期选举后，一只“卓越的AI股票”成为更安全的押注，并强调它并非英伟达，也不是Palantir。文章的核心观点是政治与政策环境变化可能影响AI板块的风险偏好，使某些业务模式或监管暴露更低的公司相对受益。但摘要未披露具体公司及财务数据，投资者仍需结合估值、基本面和政策细节判断。"
+      "publishedAt": "2026-11-06T18:21:04Z",
+      "summary": "市场报告预测，AI摄像头市场到2035年将保持增长，工业自动化和零售分析需求是主要驱动力。随着视觉识别、边缘AI和实时分析能力提升，AI摄像头在制造、零售等场景的部署有望加速，带动产业链扩张。"
     },
     {
-      "title": "Morocco, Korea Advance Customs Cooperation on AI, Digitalization - Morocco World News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlhHcFg5eml6a09sVjdBY0lwWFZILTVoTi1TeEpJMkFkTGVpTk9lV1QyUlplZkd1WXRGMFhzcFVuUXFiaEp2V2otSkgxOTNqOWx5cmtRRm5TZG5vN193SWNrMDVDZ0wzbEgyMDN1LW5qUUdBYks2dVVXOF82YXpaYmEzRFVPUDJsVml0SG9WUERBUmJZdDBEVmMyRzhrcEI1b3lyNmpTQkM0M2xJQWdScA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-06T10:18:58Z",
-      "summary": "摩洛哥与韩国推进海关领域合作，重点围绕人工智能和数字化。双方预计将探索AI辅助通关、风险识别、数据交换和流程自动化，以提升海关效率与贸易便利化水平。此类合作也涉及跨境数据治理、系统兼容和人员培训。若落地顺利，有望降低通关成本、加强监管能力，并为两国数字海关建设提供示范。"
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06T18:00:00Z",
+      "summary": "TechCrunch分析称，民主党在中期选举中的历史性胜利可能重塑AI行业。41项数据中心相关公投中，除一项外多数支持对数据中心开发施加更严格限制；即使未直接列入选票，数据中心也成为地方政治议题，或影响AI基础设施扩张。"
     },
     {
-      "title": "How the AI Doomers Won 2026 - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmEySUJ0aE1vd1N5bWF3TFRPWGVLNmRVQnhXaUZQTWRjWHZIa0tIR2Q4VXh3LWxIOXd0cDVFVTNkVFhwQmtVS2F1dzVDNVU1QnF0bHVGNDVlSEV4QnpRX0pMSG0yUTJNU1BZZFFEUXhRdm96VVd2MUFSQ0ExN0JKRWVhdFE4WDBXYVlRWVdLU19JUEdHQ1BlMENlVEtZalh1azZN?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-06T10:00:00Z",
-      "summary": "Politico文章《AI末日论者如何赢得2026》分析称，AI安全与“末日论”叙事在2026年的政策辩论中影响力上升，推动监管者和公众更重视生存性风险、模型评估、部署限制与安全治理。这一趋势可能改变AI公司的合规环境和公众沟通策略，使“先安全后部署”的主张获得更多政治空间，但也可能引发对创新受阻的争议。"
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06T17:23:52Z",
+      "summary": "中期选举后，AI行业可能面临约两年的政策逆风。数据中心相关公投多数支持加严开发限制，即使未直接列入选票也成为竞选议题。地方审批、能源与土地约束上升，可能推高AI基础设施成本并放缓项目落地。"
     },
     {
-      "title": "Abu Dhabi AI startup uses autonomous drones to plant 10 million mangrove seeds - Arabian Business",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYVlKUkxCY3hMVnMtdUU3WGphTlRDVGczOUloQkVLWXlITS1seUlPRmh2R001ZmVHVkxNczM2QmtqaUZmdUNZWHg0U1ZXTzUxSVJQc0UzSFRBN3JKekI1UU95ZVRpM0RJcUpGNHBTN3VLcHpxYVRMLUhXRFZhTHlxRGFMT2Jqa0ZWcHg3cHFncHQ4WnRzdTV1T1VINlNzSFY3X0tuNG5UV0ctVE9iTWVxRGdJYTB1NHc1NTZOY1dtbkZiVmpqdFl1TFBB?oc=5",
+      "title": "AI for ALL: LVMH accelerates its transformation through Artificial Intelligence - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbkRTdEx6TnZOemdlN3dYWXdxWmNTaVREaEpueWlVdF9WNXJGZVFINkJEWmpuaFVVVzJRTkJuR19QLWJ2WXV0VHBiRXIwQjFuZk1tSTkwdWtNMnpfUl9JSl9FQWxNT0YyYnlVeG02SUM2U29iak9fbVV1T1NCV0VkV0dyWV9hMmxsaFVONTREalFWTFF0eEpLQ2FpZjdMZTZmQU1RS2UwakczQWVQZXhfZUt6TkhEbVFidWtBRkdZa0h3NThIdmMzUnVJNA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-06T09:52:32Z",
-      "summary": "阿布扎比一家AI初创公司利用自主无人机种植1000万颗红树林种子，展示AI与无人机在生态修复中的规模化应用。该系统可能通过航线规划、精准投放和监测提升种植效率，降低人工成本，并支持红树林碳汇与海岸保护。项目成效仍取决于种子成活率、环境条件和长期监测，但为干旱地区生态治理提供了技术示范。"
+      "publishedAt": "2026-11-06T17:20:05Z",
+      "summary": "据marketscreener.com报道，LVMH集团以“AI for ALL”为主题，宣布加速以人工智能驱动的全面转型，将AI能力向集团及旗下各品牌全员、全业务环节推广。该战略强调AI并非局限于技术部门，而是嵌入创意设计、供应链与库存管理、市场营销与客户体验等核心流程，以提升运营效率与决策质量。标题信息显示其定位为“面向所有人”的内部赋能计划，但原文未披露具体投入规模、合作方与落地时间表，实际成效仍待观察。"
     },
     {
-      "title": "Why edge-cloud AI inference pipelines are key - InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0E3bkV0SDdWUFF5a0hZbWpvZGd5Y3hrTzZIMk1DMjIwcmlBT0owWG5FTmJRU05yR0xOb1FnWFhrWHdCQzBBRVRSbHJzeDhpb0tmVjRqUFA4clMzeHlDVkt6VzF2Q3VrdVNDNnR2Wm5hTFVMTmUxaHJGZ3BpRU1lSG5JNE5RSjZ4MzdiclhxRHQyeWhOemZ3?oc=5",
+      "title": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjZ4RWJiRVZPeUdvemVDcHVpZHRTWUNkWnRXTzI3aERJZWl6NHVBaExrWUo5Sy14dExReUhjeWFzYnhnWHBvSzdOVmhpUV9aemlfaE4wYmxHeng5Ykl2Vm5YZVdkTUZYRlFqNXVRd0FxVGR3djNrenJPcU1qcG8tZWxDUzEwMi10Ti1EbUF4Y2VESlF4ZWFlbV9WNkVaWk8y?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-06T09:16:26Z",
-      "summary": "InfoWorld文章指出，边缘-云AI推理管道正成为关键架构。其核心是将推理任务在边缘设备与云端之间协同分配：边缘侧负责低延迟、隐私敏感和带宽受限的实时处理，云端承担大规模模型、集中管理和复杂分析。统一编排可优化成本、延迟与可靠性，但也带来部署复杂度、数据同步和安全治理等挑战，企业需按场景设计管道。"
+      "publishedAt": "2026-11-06T16:50:00Z",
+      "summary": "雅虎财经转载的评论文章提出一个逆向预测：华尔街对中期选举后的人工智能交易方向判断“完全错误”。文章认为，市场共识过度押注算力硬件与少数龙头标的，忽视了AI落地的现实约束，包括电力与数据中心基础设施瓶颈、企业端付费转化不及预期以及高估值带来的回调风险。作者据此推断，选举后政策与监管环境变化可能触发AI投资主线轮动，资金将从单纯的硬件叙事转向应用层与现金流可见度更高的环节。具体论据与标的信息原文披露有限。"
     },
     {
-      "title": "South Africa One of Three African Countries Meeting Commonwealth Youth AI Readiness Benchmark - iAfrica.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkdWcTk3aUQ2MWhtelExMlBXYUtHV21pVFJMT0JUQW1kbXVZekJYYXp6QlVKRldTLUZTYUVqUEJ3LXMwVTlwOXJfcDR5Y2h4S191SHVES2ZrbmpCdkFlQ1k2bUY0blRnR25HTlRjdThtNUhoZ2QyRVBpUXVKTGFtbnQ4MDJWVG82SWxqOWZuWmxSa3hNdV9leFlKV0FZQWNQazhDT0s2cXA5WS1yWnk3ZjgtdTY?oc=5",
+      "title": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOakxzWVNZU0tyOTVUU1dCbVlHTGN2S0Zpalg1dFV1emNhUkRtclhkS2ZyeUFkZjA5aUlRVUpPSy1CaTNnNm1ENzFKOVcwbm1RcEMxNF8zaHA5bkpKNWJkeWtaSy0wZnZBeWRhbERuYkJ5VkRvaWFIUXE0QXNOWmtYbHZsOXg5a3hMeDZmZGhjc3VuTGtnX0pDYw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-06T08:35:19Z",
-      "summary": "iAfrica报道称，南非成为三个达到英联邦“青年AI准备度”基准的非洲国家之一。该基准通常评估青年在AI知识、数字技能、教育资源和政策支持等方面的准备程度。南非达标反映其在AI教育和能力建设上取得进展，也为其他非洲国家提供参考。文章提示，青年AI readiness关乎未来劳动力竞争力和包容性数字经济发展。"
-    },
-    {
-      "title": "Local police have launched an investigation into Nvidia's artificial intelligence (AI) semiconductor.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtbHNpWGtxZ1NQbzlqbDhfZ3pYNm9GQUNXNlMyblRoaFMyOUxRNV9jclRIeUxQaWJqelJTM0MyWlBiTml6Vm5BMWpZWkJxSlU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-06T08:30:53Z",
-      "summary": "据韩国《每日经济》报道，当地警方已对英伟达人工智能半导体相关事项展开调查，但公开摘要未说明调查具体事由、对象和范围。事件凸显AI芯片供应链在快速增长中面临的合规、监管与法律风险，也可能影响相关企业和合作伙伴的运营预期。后续需关注警方通报及英伟达方面的回应，以判断事件性质和影响程度。"
-    },
-    {
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-06T07:27:26Z",
-      "summary": "据BBC报道，全球科技股出现大幅下挫，美国中期选举结果进一步加剧了市场对人工智能热潮放缓的担忧。投资者担心，选举带来的监管与政策不确定性，可能影响科技企业的AI资本开支节奏和盈利预期，而此前正是AI概念支撑了科技板块的高估值。在AI投资回报周期存疑与宏观政策变数叠加的背景下，市场避险情绪升温，资金从高估值科技股撤离，引发集中抛售。报道认为，此轮下跌反映出市场对AI叙事可持续性的敏感度上升。"
+      "publishedAt": "2026-11-06T16:30:00Z",
+      "summary": "该文为The Motley Fool原创、经新闻聚合渠道同步的评论，与雅虎财经版本属同一篇文章，核心观点仍是“华尔街把中期选举后的AI交易看反了”。文章以预测形式指出，当前市场对AI的定价集中于算力供给端和少数巨头，而忽略了应用落地节奏、基础设施电力约束与估值透支等变量的反向作用，认为选后行情可能出现主线切换而非单边延续。由于聚合页面仅提供标题与链接，具体数据、标的建议及论证细节未能获取，上述判断以原文标题立场为限。"
     }
   ]
 }
