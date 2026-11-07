@@ -1,97 +1,48 @@
 {
-  "updatedAt": "2026-11-06 22:29:41 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-11-07 03:38:00 UTC",
+  "totalArticles": 6,
   "articles": [
     {
-      "title": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUE9xeHV1eTYzM3BjTXBPUnVMcEZZczFuNDRyMlZSQmRqTDllM1hmZFhTQmV5MzF2YXhlbUlTX2tTYTFxVW5pbEROajVZekhfeFFLV1gzVlBaeWJTVWl5dV9wakhVamN1TjNqcGVuNTB1VGg4VjFEdmxBSC1idjh2QWJ0TlFVYzRMcDRXUWdqWnB2TnJMRHhzMUhRX0pxNkx2cmdRUzM1SExWcHB2ckNOTXpiMnExZ211N1lkbnBrRTZYYnUyRnJvSEppYTRGMWhycTczODNZMFFab05FSUFtUUV0UUl3MWtEclB0V19KNHJ1V2dEb2NoWGVROW1hUl9memlaSFpXaXJ0Zw?oc=5",
+      "title": "LA Council seeks citywide data privacy policy amid AI, ALRP tech - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3VUZmkyWXk3WEQ3d2tzbDRBYkFzQWVCUFlVZGVzTFgwLUZjQlRZY2owekIzNWRkU1pJSDFZd04xY05kdm5DZzdsUS04NjNUSE9pT3lmRUU4eW5jbkJ2b3ZKT3RYVl9BMGdTR3NHcFhYRlMtdVBQLTdZZ0hqSUJPajVMZlJEWXJaaE15bENhMy1iWFlVdENIb3RtZVNTejgwMFdB?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-06T21:25:09Z",
-      "summary": "有分析文章预测，华尔街对中期选举后的AI交易判断完全错误，可能低估政策变化、数据中心监管和板块分化对估值的影响。文章倾向于认为市场对AI行情的延续性或风险定价存在偏差，投资者需关注选举结果带来的监管与基础设施约束。"
+      "publishedAt": "2026-11-07T02:46:40Z",
+      "summary": "洛杉矶市议会正推动制定全市统一的数据隐私政策，以应对人工智能和ALRP等技术在城市治理与公共服务中应用带来的隐私风险。该政策预计将涉及数据收集、使用、共享、透明度和问责机制，平衡技术创新与公民权利保护，并为市政部门部署新兴技术设定合规边界。"
     },
     {
-      "title": "AI stocks bounce back after trillions wiped from market values - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-06T21:06:25Z",
-      "summary": "BBC报道，AI相关股票在市值蒸发数万亿美元后出现反弹，显示AI板块仍具高波动性。市场在经历大幅回调后重新评估AI企业的估值、盈利前景与资本开支压力，短期情绪修复与长期基本面分歧并存。"
-    },
-    {
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs - BleepingComputer",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWtVdXFGeWRka1lWSlphWF92UlhuTl95MFBpUTFwOWhrTnhlRzZqdzd1Rm5jUGF2bzJoTEl1MndGQ1Z3QmZfQW5LMnVLanZyazhQLXJreVNqdFRsU2tZX3JlSGo0bENVUGxrZ08xdmhMSm5FU2VCNDA1QVJlaVhGQlJKZTcxZWc2TlpTc2JvcWlSRnlvdDFPMkx4eWlSb1lLUU9kd0VrdWpRT3VGSjhxWVB3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-06T20:24:19Z",
-      "summary": "OpenAI推出面向网络安全的GPT-6 Cyber AI，据称在测试中发现81个Firefox漏洞和948个Linux漏洞，展示AI自动化漏洞挖掘与安全审计能力。该进展也引发对AI双用途、漏洞披露流程及安全工具监管的讨论。"
-    },
-    {
-      "title": "Claude Personal Finance reads bank accounts via Plaid - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PaUVTSFBuWHl1VkJidjRmMjlxWmJNRWcxN0sxTU5Jbm5UakVfR2NkRzFjRFFaSmYySmZabmw0Zjh3cWhjbUtHXy1IOWU5N1dhWmJpeFA1dG9NM3dyN2FuTE5FTWx1eWh0V2EwcTItb0Y1ejlkN3VJY0hJbHVxZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-06T19:06:07Z",
-      "summary": "Claude推出个人理财功能，可通过Plaid连接并读取银行账户数据，为用户提供财务分析与资金管理支持。该功能依赖用户授权连接金融账户，因而隐私保护、数据安全和金融信息访问边界成为关注重点。"
-    },
-    {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-06T18:44:38Z",
-      "summary": "安全研究人员发现，数百个托管Artex渗透测试工具的服务器公开暴露在互联网上，任何人都能访问这款AI黑客工具。事件凸显AI安全工具在部署、访问控制和资产管理方面的风险，可能被滥用于未授权测试或攻击。"
+      "publishedAt": "2026-11-07T01:40:28Z",
+      "summary": "Crusoe已将位于怀俄明州、开发受阻的数据中心项目出售给谷歌。该交易凸显大型AI数据中心建设面临的多重挑战，包括选址、能源供应、融资、建设周期和社区协调等。谷歌接手或有助于盘活项目资产，也反映AI基础设施扩张中头部企业通过并购整合资源、分担风险的动向。"
     },
     {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "title": "GreenField 89 — Solana Artificial Intelligence (AI) Token Sn - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CTFhoTUV5dEtvNEdCbWdSc29iRi1qOHRwYktvY3N1VTRNS2dTRkY1WWx3OUVBZjZtMDl2VUJhMloxWS1IX2lscmx5SW5jWGFhSHZNZ3EzdEdVdzgtbGlhSzNrS3I0Z2Z0VU55Q1hKRlAxUEk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-07T01:01:37Z",
+      "summary": "KuCoin相关页面出现GreenField 89的信息，该项目被标注为基于Solana的人工智能（AI）代币。由于原文信息有限，尚不清楚其具体机制、应用场景和代币经济模型。此事反映加密交易平台对AI概念资产的持续关注，但也提示投资者需审慎评估此类项目的透明度、合规性与市场风险。"
+    },
+    {
+      "title": "If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Stock Through a Democratic Congress, It Would Be This One - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclB3MlZiSWZrSGZaZ3hQRmlRUm5LLTVwN3Y0V3lheVV0NmhlLW9sbXdXbnFPTFF6VXFTTjJNMkQ0VFFTNXRtZ3RiTUpSZElycEgwZEFDaTJjTXBpVVlFcGdMa1c1LTZ4RDV3UUZBZnprSXZaeU1pUE9icFlWSS1LTXY3S3UyaXNOYk82RDFB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T23:11:44Z",
+      "summary": "雅虎财经刊发观点文章，讨论若只能买入并长期持有一只人工智能股票、且面对民主党控制国会的政治环境，会选择哪只标的。文章核心在于评估美国政治周期、监管政策与AI产业前景对投资决策的影响，属于个人投资观点，摘要未披露具体公司名称，强调长期持有中的政策风险与增长潜力权衡。"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-06T18:44:20Z",
-      "summary": "Meta为Muse智能体推出Spaces，提供与AI助手协作和交互的新方式，并继续扩展Muse的功能与集成。该产品意在让AI代理更深入融入社交与工作流程，提升多场景协作体验，同时反映平台对AI代理生态的布局。"
+      "publishedAt": "2026-11-06T22:53:46Z",
+      "summary": "OpenAI据报在尚未完成关闭的融资轮中额外筹集110亿美元，公司估值达到1.25万亿美元，预计融资将在未来几周完成。这一消息显示资本市场继续高度押注生成式AI龙头，融资规模与估值均处高位，也反映大模型研发、算力基础设施和人才竞争带来的巨额资金需求。"
     },
     {
-      "title": "USDA to launch AI tool to check crop production data after errors - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmdKa3B2ZGQwNTl2RnhncGpick4xaDJtVnUydW5GVnRON2pNNTY0Smp6SVhaWmllWW1lalBsdmhNSWJQMU8tMWdVSFFEdUhobmJmeS11TmNYVXVxVnd5T1ZEaElFb19UR1AwM3NycXByUVZsRzVRUDVQVGFNSnhYVGNIYXpHNVZWRmdUMEdhMHM5aUpVQUhLZUlOUmNNNTZ2Z3ZfYnJyRElnQQ?oc=5",
+      "title": "The New York Times Doesn’t Understand AI’s Role in Suppressing Wages - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUTNPZmNRMFZKODdnQjlWRVoxV1Y2eTc3VE1sRGR1cnpzT0dNc2d4QnI4LXBkRGNEenBFcFJwYkVzQm9UTlRwOENUdTFVOENTRjZNX01lTnF0b2U4cGppRmdFWlkxLW5mSDhFQXlVYzZSV1F4NEt2ZGJhYXRMa25mWVVUdE1kSjJuU3F5S1VvX0ZLMEl1S2thcFVtRm5XZw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-06T18:23:43Z",
-      "summary": "美国农业部计划在作物产量数据出现错误后推出AI工具，用于核查作物生产数据。该工具旨在提升统计数据的准确性和一致性，减少人工审核压力，并改善农业数据发布质量，为市场和政策决策提供更可靠依据。"
-    },
-    {
-      "title": "Artificial Intelligence AI Camera Market Forecast to 2035: Industrial Automation and Retail Analytics Demand to Accelerate Growth - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNUdWVFlXOHN4dFFWZmpVOFg4eFRBUjg4bVUyZXpTUE5tbW1VLUtqMUN1OEk1eUVpMHdNZFN4SDBDUEpsUWFsaGc5YkY2aWhTT3EzX195MktPODhhZzkzTFBWYnRhVm5qVzFhX0kxUjc5WHBSWG5wS3BIazVUbUp0VGE5ZExzMmZTWEVTY3lydjFENlVkLUJvN3VWNExCbjdMT1dPM2dRTFVkeFJMTFBtUVlmamJsUVJSTUR1UE1QdHFtd0kzMXV3WmdmRTVnZ2syTWJHM2RtdVF4eE5vNWYySUVqOGc0N2x3Ny1kdjZLdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-06T18:21:04Z",
-      "summary": "市场报告预测，AI摄像头市场到2035年将保持增长，工业自动化和零售分析需求是主要驱动力。随着视觉识别、边缘AI和实时分析能力提升，AI摄像头在制造、零售等场景的部署有望加速，带动产业链扩张。"
-    },
-    {
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-06T18:00:00Z",
-      "summary": "TechCrunch分析称，民主党在中期选举中的历史性胜利可能重塑AI行业。41项数据中心相关公投中，除一项外多数支持对数据中心开发施加更严格限制；即使未直接列入选票，数据中心也成为地方政治议题，或影响AI基础设施扩张。"
-    },
-    {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-06T17:23:52Z",
-      "summary": "中期选举后，AI行业可能面临约两年的政策逆风。数据中心相关公投多数支持加严开发限制，即使未直接列入选票也成为竞选议题。地方审批、能源与土地约束上升，可能推高AI基础设施成本并放缓项目落地。"
-    },
-    {
-      "title": "AI for ALL: LVMH accelerates its transformation through Artificial Intelligence - www.marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbkRTdEx6TnZOemdlN3dYWXdxWmNTaVREaEpueWlVdF9WNXJGZVFINkJEWmpuaFVVVzJRTkJuR19QLWJ2WXV0VHBiRXIwQjFuZk1tSTkwdWtNMnpfUl9JSl9FQWxNT0YyYnlVeG02SUM2U29iak9fbVV1T1NCV0VkV0dyWV9hMmxsaFVONTREalFWTFF0eEpLQ2FpZjdMZTZmQU1RS2UwakczQWVQZXhfZUt6TkhEbVFidWtBRkdZa0h3NThIdmMzUnVJNA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-06T17:20:05Z",
-      "summary": "据marketscreener.com报道，LVMH集团以“AI for ALL”为主题，宣布加速以人工智能驱动的全面转型，将AI能力向集团及旗下各品牌全员、全业务环节推广。该战略强调AI并非局限于技术部门，而是嵌入创意设计、供应链与库存管理、市场营销与客户体验等核心流程，以提升运营效率与决策质量。标题信息显示其定位为“面向所有人”的内部赋能计划，但原文未披露具体投入规模、合作方与落地时间表，实际成效仍待观察。"
-    },
-    {
-      "title": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjZ4RWJiRVZPeUdvemVDcHVpZHRTWUNkWnRXTzI3aERJZWl6NHVBaExrWUo5Sy14dExReUhjeWFzYnhnWHBvSzdOVmhpUV9aemlfaE4wYmxHeng5Ykl2Vm5YZVdkTUZYRlFqNXVRd0FxVGR3djNrenJPcU1qcG8tZWxDUzEwMi10Ti1EbUF4Y2VESlF4ZWFlbV9WNkVaWk8y?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-06T16:50:00Z",
-      "summary": "雅虎财经转载的评论文章提出一个逆向预测：华尔街对中期选举后的人工智能交易方向判断“完全错误”。文章认为，市场共识过度押注算力硬件与少数龙头标的，忽视了AI落地的现实约束，包括电力与数据中心基础设施瓶颈、企业端付费转化不及预期以及高估值带来的回调风险。作者据此推断，选举后政策与监管环境变化可能触发AI投资主线轮动，资金将从单纯的硬件叙事转向应用层与现金流可见度更高的环节。具体论据与标的信息原文披露有限。"
-    },
-    {
-      "title": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOakxzWVNZU0tyOTVUU1dCbVlHTGN2S0Zpalg1dFV1emNhUkRtclhkS2ZyeUFkZjA5aUlRVUpPSy1CaTNnNm1ENzFKOVcwbm1RcEMxNF8zaHA5bkpKNWJkeWtaSy0wZnZBeWRhbERuYkJ5VkRvaWFIUXE0QXNOWmtYbHZsOXg5a3hMeDZmZGhjc3VuTGtnX0pDYw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-06T16:30:00Z",
-      "summary": "该文为The Motley Fool原创、经新闻聚合渠道同步的评论，与雅虎财经版本属同一篇文章，核心观点仍是“华尔街把中期选举后的AI交易看反了”。文章以预测形式指出，当前市场对AI的定价集中于算力供给端和少数巨头，而忽略了应用落地节奏、基础设施电力约束与估值透支等变量的反向作用，认为选后行情可能出现主线切换而非单边延续。由于聚合页面仅提供标题与链接，具体数据、标的建议及论证细节未能获取，上述判断以原文标题立场为限。"
+      "publishedAt": "2026-11-06T22:10:23Z",
+      "summary": "Gizmodo文章批评《纽约时报》未能准确理解AI在压低工资方面的作用，认为其低估或误判了自动化对劳动力市场、工资结构和劳资议价能力的影响。争论焦点包括AI替代部分岗位、改变技能需求以及收益分配不均等问题，显示AI对经济和就业的影响仍存在显著分歧。"
     }
   ]
 }

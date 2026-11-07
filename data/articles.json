@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "7513",
+      "title": "LA Council seeks citywide data privacy policy amid AI, ALRP tech - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3VUZmkyWXk3WEQ3d2tzbDRBYkFzQWVCUFlVZGVzTFgwLUZjQlRZY2owekIzNWRkU1pJSDFZd04xY05kdm5DZzdsUS04NjNUSE9pT3lmRUU4eW5jbkJ2b3ZKT3RYVl9BMGdTR3NHcFhYRlMtdVBQLTdZZ0hqSUJPajVMZlJEWXJaaE15bENhMy1iWFlVdENIb3RtZVNTejgwMFdB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-07T02:46:40Z",
+      "summary": "洛杉矶市议会正推动制定全市统一的数据隐私政策，以应对人工智能和ALRP等技术在城市治理与公共服务中应用带来的隐私风险。该政策预计将涉及数据收集、使用、共享、透明度和问责机制，平衡技术创新与公民权利保护，并为市政部门部署新兴技术设定合规边界。",
+      "fetchDate": "2026-11-07"
+    },
+    {
+      "id": "7514",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-07T01:40:28Z",
+      "summary": "Crusoe已将位于怀俄明州、开发受阻的数据中心项目出售给谷歌。该交易凸显大型AI数据中心建设面临的多重挑战，包括选址、能源供应、融资、建设周期和社区协调等。谷歌接手或有助于盘活项目资产，也反映AI基础设施扩张中头部企业通过并购整合资源、分担风险的动向。",
+      "fetchDate": "2026-11-07"
+    },
+    {
+      "id": "7515",
+      "title": "GreenField 89 — Solana Artificial Intelligence (AI) Token Sn - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CTFhoTUV5dEtvNEdCbWdSc29iRi1qOHRwYktvY3N1VTRNS2dTRkY1WWx3OUVBZjZtMDl2VUJhMloxWS1IX2lscmx5SW5jWGFhSHZNZ3EzdEdVdzgtbGlhSzNrS3I0Z2Z0VU55Q1hKRlAxUEk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-07T01:01:37Z",
+      "summary": "KuCoin相关页面出现GreenField 89的信息，该项目被标注为基于Solana的人工智能（AI）代币。由于原文信息有限，尚不清楚其具体机制、应用场景和代币经济模型。此事反映加密交易平台对AI概念资产的持续关注，但也提示投资者需审慎评估此类项目的透明度、合规性与市场风险。",
+      "fetchDate": "2026-11-07"
+    },
+    {
+      "id": "7516",
+      "title": "If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Stock Through a Democratic Congress, It Would Be This One - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclB3MlZiSWZrSGZaZ3hQRmlRUm5LLTVwN3Y0V3lheVV0NmhlLW9sbXdXbnFPTFF6VXFTTjJNMkQ0VFFTNXRtZ3RiTUpSZElycEgwZEFDaTJjTXBpVVlFcGdMa1c1LTZ4RDV3UUZBZnprSXZaeU1pUE9icFlWSS1LTXY3S3UyaXNOYk82RDFB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T23:11:44Z",
+      "summary": "雅虎财经刊发观点文章，讨论若只能买入并长期持有一只人工智能股票、且面对民主党控制国会的政治环境，会选择哪只标的。文章核心在于评估美国政治周期、监管政策与AI产业前景对投资决策的影响，属于个人投资观点，摘要未披露具体公司名称，强调长期持有中的政策风险与增长潜力权衡。",
+      "fetchDate": "2026-11-07"
+    },
+    {
+      "id": "7517",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-06T22:53:46Z",
+      "summary": "OpenAI据报在尚未完成关闭的融资轮中额外筹集110亿美元，公司估值达到1.25万亿美元，预计融资将在未来几周完成。这一消息显示资本市场继续高度押注生成式AI龙头，融资规模与估值均处高位，也反映大模型研发、算力基础设施和人才竞争带来的巨额资金需求。",
+      "fetchDate": "2026-11-07"
+    },
+    {
+      "id": "7518",
+      "title": "The New York Times Doesn’t Understand AI’s Role in Suppressing Wages - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUTNPZmNRMFZKODdnQjlWRVoxV1Y2eTc3VE1sRGR1cnpzT0dNc2d4QnI4LXBkRGNEenBFcFJwYkVzQm9UTlRwOENUdTFVOENTRjZNX01lTnF0b2U4cGppRmdFWlkxLW5mSDhFQXlVYzZSV1F4NEt2ZGJhYXRMa25mWVVUdE1kSjJuU3F5S1VvX0ZLMEl1S2thcFVtRm5XZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-06T22:10:23Z",
+      "summary": "Gizmodo文章批评《纽约时报》未能准确理解AI在压低工资方面的作用，认为其低估或误判了自动化对劳动力市场、工资结构和劳资议价能力的影响。争论焦点包括AI替代部分岗位、改变技能需求以及收益分配不均等问题，显示AI对经济和就业的影响仍存在显著分歧。",
+      "fetchDate": "2026-11-07"
+    },
+    {
       "id": "7500",
       "title": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUE9xeHV1eTYzM3BjTXBPUnVMcEZZczFuNDRyMlZSQmRqTDllM1hmZFhTQmV5MzF2YXhlbUlTX2tTYTFxVW5pbEROajVZekhfeFFLV1gzVlBaeWJTVWl5dV9wakhVamN1TjNqcGVuNTB1VGg4VjFEdmxBSC1idjh2QWJ0TlFVYzRMcDRXUWdqWnB2TnJMRHhzMUhRX0pxNkx2cmdRUzM1SExWcHB2ckNOTXpiMnExZ211N1lkbnBrRTZYYnUyRnJvSEppYTRGMWhycTczODNZMFFab05FSUFtUUV0UUl3MWtEclB0V19KNHJ1V2dEb2NoWGVROW1hUl9memlaSFpXaXJ0Zw?oc=5",
@@ -67600,5 +67654,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7511
+  "total": 7517
 }
