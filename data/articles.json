@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "7533",
+      "title": "Americans are anxious about the AI boom going bust - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VmQjZaSFpBNlM4eXNWWGdfZ05kR1p6SnhJMVh2OURjd0t3Nl9kUHBiS3pXUzRfVDlOcUY4UUI2ejZ0RWZfd2gwbEl6WWhMWE5xNDd1SkxZVWhXVjNsWWRRRm45bl9VVFVCMkxQRjdDOU42ekhTWUoyMFhjZUtxazByTFhxYTVZb3l5RGlHT0xlaTFOQTVkbVpVLTJPeW8tRkZXbTFuQU5XSzNJTnF2dUo0MA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-08T02:00:00Z",
+      "summary": "《华盛顿邮报》报道称，美国民众对人工智能热潮可能走向破裂感到焦虑。报道聚焦AI投资与市场预期过快上涨所引发的泡沫担忧，反映公众对就业、经济稳定及技术落地前景的不确定感。尽管原文信息有限，但核心信号是：AI热潮正从单纯乐观转向对可持续性和风险的审视。",
+      "fetchDate": "2026-11-08"
+    },
+    {
+      "id": "7534",
+      "title": "Why ‘physical AI’ marks the next frontier in industrial applications - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMm1FOWdyNlU5QTlNaUhaNlRpck1nNklLTUZWSFdjU1g0SWxZNEFFdDA4dWpHdTFEM3pNTEoyd2VKWjFkZjV3SVZ2T1VGODViU3BYQlR2cHJ3bTlfNkJaMEgxSS13WlJZVldpcnRoMFlZNUFEWU40YTZoQUp0UjRqaVdiLUMxcDNhWmdMT3N0ckE2dU9rQjY0SGdkWXVhNWZqcnVRejNMX0pYZkZwcVIxdzB4VFd6WHpkejNNRXpBeFlyZ2VJS1dN0gHOAUFVX3lxTE42YWw5UUdabnp2LWJpNFFLRVJidkxvVnVuS0R3MkxJMkczdnZmM0JZeUJBT0VVcG0zRTU5RERISzhrMHIyRVV6WTRjTnhtb2hZRWxjWXR4U1drbzRLNTVIQ21yYWd4QVFaZGVla3FRTG4wWHJZQnBjZGp2cE5rRWgtd053Y2lKVUlFeVFEdHR2LXV3QXJlRkNtYUl2T0h3b0EzWjItTWNlRVJkdGFxdnc5OHExblBoU3c5Vl9DaXM3LTJFRjBPR1ZSTTN0WFlB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-08T00:46:11Z",
+      "summary": "《印度快报》文章指出，“物理AI”正成为工业应用的下一个前沿。与传统软件形态的AI不同，物理AI将感知、决策与执行能力嵌入机器人、自动化设备和工业系统，推动制造、物流等场景的智能化。其关键在于把模型能力与真实世界中的传感、控制和实时反馈结合，提升工业自动化的适应性与效率，同时也在安全、可靠性等方面提出新要求。",
+      "fetchDate": "2026-11-08"
+    },
+    {
+      "id": "7535",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-07T22:07:22Z",
+      "summary": "TechCrunch的Equity播客讨论了中期选举后科技行业面临的变化，指出埃隆·马斯克与数据中心行业的前景趋于不稳。选举结果可能改变政策与监管风向，使大型数据中心在能耗、土地、税收和社区影响等方面承受更多审视，马斯克相关业务也可能面临更高的政治与合规压力。原文信息较简，但核心是政治周期正给AI基础设施和科技巨头带来新的不确定性。",
+      "fetchDate": "2026-11-08"
+    },
+    {
+      "id": "7536",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-07T21:17:08Z",
+      "summary": "TechCrunch援引美国情报备忘录报道称，有备忘录指称中国国家安全部招募了一名女性科技高管，目的是对英伟达CEO进行间谍活动，涉事者与Megaspeed高管有关。该报道基于据称今年早些时候流传的备忘录，核心信息是围绕英伟达及AI芯片供应链的间谍风险指控。由于原文未提供更多证据细节，相关说法仍需谨慎看待，但事件凸显AI半导体领域的地缘政治与安全敏感性。",
+      "fetchDate": "2026-11-08"
+    },
+    {
       "id": "7528",
       "title": "Protests against Nova Scotia’s proposed AI data centre held across the province - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeG5sRDVqdjJ1Ry1kS3A3dEtOVWRPeU9WV3N3X3pIc3dQZmtBUmF5eHQ2ajQzamNxbExXQTJ3aDZaeklUcXI1U1dvam1zMXljZFBvSDllajJ1YVFLV0FqZ0hnWC0xdlpqei1TNFpFNEpNYU1pUlJja0pQSlh3TDZvamY4RnJRYVhaRTNzVFRPdGdVSmFZWGhhcXdqRjJOY2FCazhTUVVJRjVna21FeDVqcmtXWF9ZU3cxOEUyWVQ3OVJlUEtyM0M1cmtvV0xsQ0pLRl9YVHlzQzlEaHdwMXAzMGZsaTF2Zw?oc=5",
@@ -67780,5 +67816,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7531
+  "total": 7535
 }
