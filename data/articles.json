@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "7550",
+      "title": "As smart glasses equipped with artificial intelligence (AI) functions emerge as a new means of cheat.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10RndNZFhzY0NjVWpDRjJLaWVXVEs5VkJueXZSc2F3a2tCM2FvU2xNamNOUkowc2xYcnNHbmZrUl9EcjJocHNkQklCdlNHaGUtR2c?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T02:23:15Z",
+      "summary": "配备人工智能功能的智能眼镜正成为新的作弊手段，引发外界对考试与现场监管的担忧。此类设备外观接近普通眼镜，却能借助AI实时识别、传输信息，增加传统安检和监考识别难度。相关案例表明，AI硬件小型化与可穿戴化正在模糊辅助工具与作弊工具的边界，亟需在设备销售、考场规则和检测技术等方面完善治理。",
+      "fetchDate": "2026-11-09"
+    },
+    {
+      "id": "7551",
+      "title": "RBA expects artificial intelligence to affect jobs, but be inflation neutral - AFR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVk5HTzhBOG42UzI2RVBtbndZQXZ3SXRZQUs2SVRxMUExLTcxc0JLT3B0azVyU3ZjbHgtM1pHZlpYck5RQng4cXR2NjdNN2RZZkEtNk0tMldCcVFNNm1tQ2FiWmJ2cHNEMlczQk9iT2dNMHlOdmRvMFNkWU9xdllZcHJQWTdGQjVXVXNVdVpNdklGMXVLbHJ0QnRSN01KM3hOWWRPZkVEbzdxMm9zR2JNVS0wMkY4MFU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T01:26:00Z",
+      "summary": "澳大利亚储备银行预计，人工智能将影响就业结构和部分岗位需求，但整体上对通胀保持中性。其判断意味着AI带来的生产率提升与成本变化可能相互抵消，暂不构成明显的通胀压力。央行仍将关注AI对劳动力市场、工资和企业定价行为的传导，并将其纳入政策评估。",
+      "fetchDate": "2026-11-09"
+    },
+    {
+      "id": "7552",
+      "title": "Amid growing concerns over automation-driven layoffs, Senator Erwin Tulfo has filed a bill seeking to amend the Labor Code to protect Filipino workers from being displaced by artificial intelligence (AI). http://tiny.cc/sdcd101 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMlZvcEM3NmRlY1dDZlRwaFRzNk5FdnFsQ3Z2bDFkVDdENGktaWtuTlp2dHVHUlN6THZocFRacnJsUHFrUGJKSl8xU1Q4X2QyWmdrNUlheW9rSWhwT3B4V3BpV3lUV3VKY3ZLd2k2YUVWRGJvVFBhUllrV2NHUVgycVNyS0JDZS1hY3hDZExyZDMtenNxemV3c240ektHUmdjWF9YT190eHFPeTludVhDbTF6NlpiTC1xTE1BRWt6NXNnR1FDRHNtS3BMb0JJTTg1bzgtS0diN2ItUzNQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T00:40:12Z",
+      "summary": "在自动化导致裁员担忧升温的背景下，菲律宾参议员埃尔温·图尔福提出法案，拟修订《劳动法典》，保护可能被人工智能取代的菲律宾劳动者。该提案反映立法层面对AI冲击就业的回应，重点或包括岗位流失防护、转岗培训和社会保障。若推进，将为AI应用与劳工权益之间建立更明确的制度边界。",
+      "fetchDate": "2026-11-09"
+    },
+    {
+      "id": "7553",
+      "title": "2027: Experts back AI checks on voters’ register - Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NbnA0cXlPRVZoWlhwNTNPMW14b2dUMGxFa3phbjNBdWI3aV92MElQdlY4alg4T0p2blJzUTljMzJvMkZYWGdsa000aWFTUUlSODFDT2w4ZTYxOHlCVlF4UnlUUE5NYndxbnhkZ0JTSWNtLU9xNUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-08T23:27:27Z",
+      "summary": "针对2027年选举，专家支持利用人工智能核查选民登记册，以提高数据准确性和登记质量。AI可用于发现重复、异常或失效记录，辅助选举机构清理名册并提升透明度。报道显示，相关讨论聚焦于把技术审查嵌入选举准备流程，同时需兼顾数据保护、算法透明和人工复核，避免误判影响选民权利。",
+      "fetchDate": "2026-11-09"
+    },
+    {
       "id": "7547",
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
@@ -67933,5 +67969,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7548
+  "total": 7552
 }
