@@ -1,48 +1,62 @@
 {
-  "updatedAt": "2026-11-09 08:52:58 UTC",
-  "totalArticles": 6,
+  "updatedAt": "2026-11-09 14:37:36 UTC",
+  "totalArticles": 8,
   "articles": [
+    {
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-09T14:00:00Z",
+      "summary": "Automattic推出Spacefast平台，用于部署“氛围编程”（vibe coding）应用，直接对标Lovable等低门槛AI应用开发工具。该平台旨在让用户借助自然语言和AI生成应用并快速上线，反映在互联网形态变化下，应用开发与部署正走向更轻量、自动化和大众化。"
+    },
+    {
+      "title": "Artificial Intelligence Development Slowdown and Banning Super AI Will Backfire, Bans Are Impossible - Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbzFyMjJFY2MzRkFaLUJ3YU1IQ2JTU2g1ajBFa3ZfTzA0Vy1nYjh5LVJEZTZFVzFYWnJwSXo0NnljZzRiVC01R3dIUWUyZEZuT3FNZ05kMlRxTTNSMFdWWUJzVGJCTXlqTTZNSkdnNHhQeFZOejBWa0hneVNUYWY3UEkxcGVxZjJGMlhMNEx6QnRjek9SZzcyVkFod21samRtakdLQjlncW41Wl9mRTg3X0lrVWhkUlhCM2pobEhGVlBOb010UUlRcVhBS0VRNlF2cTVaV1BXMkNFTlk1bEw4amJ3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T13:28:15Z",
+      "summary": "文章认为，放缓人工智能研发、禁止超级AI不仅难以奏效，还可能适得其反。全面禁令在技术和执行层面几乎不可行，反而可能削弱透明度和安全治理，把前沿研发推向监管之外。作者主张以风险管理、审计和可控发展替代一刀切禁止。"
+    },
+    {
+      "title": "Not AMD. Not Intel. This Is the Artificial Intelligence (AI) Chip Stock Nvidia Should Fear Most. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnJabUV1dGNwV04yN1AtWTN4bVhYZVhvVjl6d0hhZWp5ZEhaTVczNGdoLXV5dnJRZ2ExUmFldmNvRnhwM0FpUDJzdVJLSVF3TDIwQkFOb3RxVTVtZkVRUHZ5eVV0NmU1WlFmbF9BNW1yUE9Dd2pqQWktSENMTHBVdmJPQWFPU0k4TjBEQ2tBdHoxVVhsd1RJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T12:20:00Z",
+      "summary": "文章称，英伟达在AI芯片领域最应警惕的对手并非AMD或英特尔，而是另一家芯片公司。报道从AI加速器竞争、客户自研趋势和算力需求变化切入，评估该公司对英伟达市场地位的潜在威胁，提示AI芯片竞争格局可能生变。"
+    },
+    {
+      "title": "Banks, investors grow wary of AI debt, spooked by market selloff - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2NkMjVWdzA1aHpUMkw4bWk1Qk0tODdZSVprMy1QLU1kUGVRdVpseG8yVHphU3lsaEh0dmxTLUVITGJCalBrT09obDZHcU9hNlhtcTh4OEhuOE02MmFOa3I4V2RFU1dWdDVjZGFLWGVmZzZSd29GR1lyVHlsS2kwc09iOVF2YVJFWXFDUEl3eGFNNmNxZFlKNS05ak9CbGk2MFhWMzdUMVIyRnZ5eGgtX0RCZG9kWlNxY0JIU3YwYXpTdTNEdkFuejV6NDJGV2pWZjBxaTF3ZWdQYmZCSVHSAeMBQVVfeXFMUFlUeldKSEozTFlxSy0wcHFrUmN2cU1vX3p2eXpKQjZoQW4zTEwxQk43YlNRYTVJUGxjS01PcV9NNW44S1dSdUU1UEdXdnd2cVJ2MG1rdVVTaTI1enBJdld6U25DMXQwQUJMQlJGME1zMVk5Z1FCa0tFeVZyVmdyTDJjQlpKOWM5cXdndENJbUZGQjlJQWVNbDhCRmRXaWNZc2JqUWpsRlZueFRkbVQ5TzZDQlZINXhnYldvakJlV2N0azdEWjVDOHp1cm8wVVdFeDZqN2RvSGVQa3E3anZNSW9HQXM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T11:08:27Z",
+      "summary": "在市场抛售冲击下，银行与投资者对AI相关债务的态度趋于谨慎，担心AI资本开支扩张、数据中心融资和债务杠杆带来信用风险与估值泡沫。市场情绪转弱可能推高AI项目融资成本，并促使资金重新评估AI产业链的回报与风险。"
+    },
+    {
+      "title": "AI in Practice 2026: Bringing Artificial Intelligence to Solve Real-World Problems - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0NqZ3dTa2pveGJpaDIwU1k3XzFoUG9vX0IxSzB4X1BOOFFFckJTdUhsVlRZYmRpWnJsbDJuQ05jbmJETDUxMTM4TWJ1eC1KYmxTTi05Uk9vV1NJRDl0TWN2Z2dkX3A5akV3clJyZ3VnZUFNSnc4b2twWHc1VDhIeHdZZHYtX255YzlPU056WjVCZG8tNUdWSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T11:06:58Z",
+      "summary": "报道围绕“AI in Practice 2026”主题，强调人工智能正从概念展示转向真实场景落地，用AI解决行业和社会的实际问题。内容关注可部署的解决方案、跨领域协作和规模化应用，体现AI价值正由技术指标转向实际生产力与业务成效。"
+    },
+    {
+      "title": "Explained: AI jailbreak - what is it, how does it work, why is it a concern - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbGJERTdiZXJzUDJYTjNvb1dxRmtYQjVoaVlzX3g3ZmRvQ1FmZW9RVEFLTDk2UVFMUmhCbldxUGJfN3M4NmxkNjJLaXk1SWVuMVc1NWpmczRkSURHYUhZNXJvUWVOSk1yV29sRnNHOGtXMWQ3OUxScThtcnFMdUl0dXBLUG92ampqWnlRbXI4ZjNfZGJ1UHMxVmlyN2o0SWxDTF9vckgyRTNHT2Ytd1BHVk96S0o4dWREUEpVS0RUTFFmdkl4YUNIWjJ2aDZJSjZpUWZJamowcml2Zl9QUjg3dlBsUjl5THVwVDRZREEtNHbSAfYBQVVfeXFMT1d5anVqMWdEMFUzZm56TG9EMkFzeFlQSjlRcko2WllBaVU4ZFNpVHB0S2JmcXRKM2NEZFptcnh3ZGx4RUhqa0NRNmh3ZWZlY1lUeWxTaFduVUg4Z3hUemdpbnlHLWd1LWJXRWE1Y3NoTUxrckpLcGs5SU5iX2lZREVKM3dDeDNHOTJMY2l6SDY5SE9pMDlibm1ueVhBVnpPSElTM2tZWDQyc0VzaHJ3TXhBYzVZcUVneGdYYTJIdHVEd3o1THZzaTNxUzRSOTVfWS1tSTVaTnRRTUlyQndNRG5XSERJdUpUaThfZ1NoZ1cxOVcyS1Vn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T10:10:31Z",
+      "summary": "文章解释，AI越狱指用户通过精心设计的提示词或上下文，绕过模型的安全对齐与内容限制，诱导其输出受限信息或执行被禁止的操作。此类行为可能导致有害内容生成、隐私泄露和系统滥用，凸显模型安全防护、红队测试与持续监控的重要性。"
+    },
+    {
+      "title": "As the artificial intelligence (AI) rally, which heated up the global stock market, was dampened, te.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yWHRyWmNRaHpMRlcyeWZXLUFUWHlRNDdsNGltbzhpYkJBaDBaaDlZWnE1RVpfeEhYbEhUWTlOT1MzQ1JfNkpCQzJYbjItSG8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T09:07:56Z",
+      "summary": "随着此前推高全球股市的AI行情降温，市场开始重新审视AI板块的高估值与盈利兑现节奏，投资者情绪转向谨慎，科技股和半导体相关资产波动加剧。报道关注AI热潮回调对资金配置、估值体系和产业链预期的影响。"
+    },
     {
       "title": "K Semiconductor startup Revelion will build an artificial intelligence (AI) infrastructure that uses.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KNTJOOFk5d0dCV2ZDNEdicXRNUzFKU29QdE54WFZEa05ZeXR5bS1FWG91ajEzek15bFc5WHhYNVBMSU9vMExtbko3aw?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-09T08:40:06Z",
-      "summary": "韩国半导体初创企业Revelion宣布将构建人工智能基础设施，计划以半导体技术为核心支撑AI算力部署。据매일경제报道，该公司瞄准AI基础设施领域，试图在芯片与算力供给之间建立结合点。目前公开信息有限，具体技术路线、投资规模与落地时间表尚未披露。此举反映出韩国初创企业正加快切入AI基础设施领域，围绕半导体资源与算力服务展开布局，与大型厂商形成互补或竞争。"
-    },
-    {
-      "title": "Nvidia is speeding up the development of artificial intelligence (AI) technology in semiconductors - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sRmdMd3JMeGNwdkhBajBwLVZlcVRlX2RBNURtWjVybUxITlJCM25wWE9SY09xZjRyYmVUZDBJS21xeUI0bU5PU2M3VQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-09T07:29:19Z",
-      "summary": "据매일경제报道，英伟达正在加快半导体领域人工智能技术的研发步伐，持续把AI能力嵌入芯片设计与计算平台之中。作为GPU与AI加速芯片的主导厂商，英伟达通过软硬件协同迭代，巩固其在训练与推理市场的优势。报道指出，这一加速态势将进一步抬高行业技术门槛，推动算力供给、制程与封装等环节升级，并促使竞争对手加快追赶，AI与半导体相互驱动的趋势愈发明显。"
-    },
-    {
-      "title": "As artificial intelligence (AI) and physical AI develop, we need to think about areas that technolo.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NcVBGb1pwdktPZW44bEM1X094TUNDT0xDRU1UR1hRUDJRSVpLeHI5ejlJMEMwc3BlWkEzREZIREx6Y1VsMzRIQ1BIWQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-09T07:18:49Z",
-      "summary": "随着人工智能与“物理AI”（具身智能）的发展，业界开始讨论技术应当进入哪些领域、又不该越过哪些边界。据매일경제报道，观点认为在机器人、自动驾驶等与真实物理世界交互的场景加速落地时，需要同步厘清责任归属、安全冗余与人机分工等问题。文章呼吁在推动商业化的同时提前建立伦理与监管框架，明确哪些应用应被限制或审慎推进，避免技术能力扩张快于社会共识与制度准备。"
-    },
-    {
-      "title": "RBA expects artificial intelligence to affect jobs, but be inflation neutral - AFR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVk5HTzhBOG42UzI2RVBtbndZQXZ3SXRZQUs2SVRxMUExLTcxc0JLT3B0azVyU3ZjbHgtM1pHZlpYck5RQng4cXR2NjdNN2RZZkEtNk0tMldCcVFNNm1tQ2FiWmJ2cHNEMlczQk9iT2dNMHlOdmRvMFNkWU9xdllZcHJQWTdGQjVXVXNVdVpNdklGMXVLbHJ0QnRSN01KM3hOWWRPZkVEbzdxMm9zR2JNVS0wMkY4MFU?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-09T06:54:00Z",
-      "summary": "澳大利亚储备银行（RBA）表示，人工智能将对就业结构产生明显影响，部分岗位可能被替代或重塑，但整体上对通胀保持中性。据AFR报道，央行认为AI带来的生产率提升有助于压低成本，而需求与薪资调整可能部分抵消这一效应，因此对物价的净影响有限。这一判断意味着货币政策无需因AI普及而大幅调整，但仍需密切关注劳动力市场结构变化与生产率数据的实际走势。"
-    },
-    {
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-09T05:26:29Z",
-      "summary": "据TechCrunch报道，英伟达董事会正在调查CEO黄仁勋与一名疑似中国间谍人员的关系，事件使其去留备受关注。耶鲁大学管理学者杰弗里·索南菲尔德估计，黄仁勋留任的概率“大约五五开”。作为全球AI芯片龙头，英伟达的领导层稳定性直接关系到公司战略连续性与市场信心。若调查升级或引发人事变动，可能对AI算力供应链、投资者预期及公司治理结构产生连锁影响。"
-    },
-    {
-      "title": "E8, a company specializing in ontology artificial intelligence (AI) and digital twins, announced on - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45ZmVpRVhiaDFnWlhreTNTWXBVdFBWWGhnYkRkY2ZuckdJT0JUaXRnOFdHVnF4a3N4aDl2RHV5c195TF9DUG1oYUs0RkpQRm8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-09T05:07:34Z",
-      "summary": "据매일경제报道，专注于本体论人工智能（ontology AI）与数字孪生技术的公司E8发布最新动态。该公司以本体论方法构建知识模型，使AI能够理解实体之间的语义关系，并将其与数字孪生结合，用于工业与城市等场景的建模、仿真与智能决策。这一路径体现出AI正从纯数据驱动转向知识结构化与物理世界映射相结合，为复杂系统的实时监测与优化提供支撑。"
+      "summary": "韩国半导体初创公司Revelion将建设AI基础设施，依托其半导体技术切入AI算力场景。此举反映初创企业正瞄准AI芯片与基础设施需求，试图在能效、专用计算或系统方案上形成差异化，并加入全球AI算力供应链竞争。"
     }
   ]
 }
