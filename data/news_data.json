@@ -1,41 +1,48 @@
 {
-  "updatedAt": "2026-11-09 03:31:18 UTC",
-  "totalArticles": 5,
+  "updatedAt": "2026-11-09 08:52:58 UTC",
+  "totalArticles": 6,
   "articles": [
     {
-      "title": "As smart glasses equipped with artificial intelligence (AI) functions emerge as a new means of cheat.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10RndNZFhzY0NjVWpDRjJLaWVXVEs5VkJueXZSc2F3a2tCM2FvU2xNamNOUkowc2xYcnNHbmZrUl9EcjJocHNkQklCdlNHaGUtR2c?oc=5",
+      "title": "K Semiconductor startup Revelion will build an artificial intelligence (AI) infrastructure that uses.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KNTJOOFk5d0dCV2ZDNEdicXRNUzFKU29QdE54WFZEa05ZeXR5bS1FWG91ajEzek15bFc5WHhYNVBMSU9vMExtbko3aw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-09T02:23:15Z",
-      "summary": "配备人工智能功能的智能眼镜正成为新的作弊手段，引发外界对考试与现场监管的担忧。此类设备外观接近普通眼镜，却能借助AI实时识别、传输信息，增加传统安检和监考识别难度。相关案例表明，AI硬件小型化与可穿戴化正在模糊辅助工具与作弊工具的边界，亟需在设备销售、考场规则和检测技术等方面完善治理。"
+      "publishedAt": "2026-11-09T08:40:06Z",
+      "summary": "韩国半导体初创企业Revelion宣布将构建人工智能基础设施，计划以半导体技术为核心支撑AI算力部署。据매일경제报道，该公司瞄准AI基础设施领域，试图在芯片与算力供给之间建立结合点。目前公开信息有限，具体技术路线、投资规模与落地时间表尚未披露。此举反映出韩国初创企业正加快切入AI基础设施领域，围绕半导体资源与算力服务展开布局，与大型厂商形成互补或竞争。"
+    },
+    {
+      "title": "Nvidia is speeding up the development of artificial intelligence (AI) technology in semiconductors - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sRmdMd3JMeGNwdkhBajBwLVZlcVRlX2RBNURtWjVybUxITlJCM25wWE9SY09xZjRyYmVUZDBJS21xeUI0bU5PU2M3VQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T07:29:19Z",
+      "summary": "据매일경제报道，英伟达正在加快半导体领域人工智能技术的研发步伐，持续把AI能力嵌入芯片设计与计算平台之中。作为GPU与AI加速芯片的主导厂商，英伟达通过软硬件协同迭代，巩固其在训练与推理市场的优势。报道指出，这一加速态势将进一步抬高行业技术门槛，推动算力供给、制程与封装等环节升级，并促使竞争对手加快追赶，AI与半导体相互驱动的趋势愈发明显。"
+    },
+    {
+      "title": "As artificial intelligence (AI) and physical AI develop, we need to think about areas that technolo.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NcVBGb1pwdktPZW44bEM1X094TUNDT0xDRU1UR1hRUDJRSVpLeHI5ejlJMEMwc3BlWkEzREZIREx6Y1VsMzRIQ1BIWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T07:18:49Z",
+      "summary": "随着人工智能与“物理AI”（具身智能）的发展，业界开始讨论技术应当进入哪些领域、又不该越过哪些边界。据매일경제报道，观点认为在机器人、自动驾驶等与真实物理世界交互的场景加速落地时，需要同步厘清责任归属、安全冗余与人机分工等问题。文章呼吁在推动商业化的同时提前建立伦理与监管框架，明确哪些应用应被限制或审慎推进，避免技术能力扩张快于社会共识与制度准备。"
     },
     {
       "title": "RBA expects artificial intelligence to affect jobs, but be inflation neutral - AFR",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVk5HTzhBOG42UzI2RVBtbndZQXZ3SXRZQUs2SVRxMUExLTcxc0JLT3B0azVyU3ZjbHgtM1pHZlpYck5RQng4cXR2NjdNN2RZZkEtNk0tMldCcVFNNm1tQ2FiWmJ2cHNEMlczQk9iT2dNMHlOdmRvMFNkWU9xdllZcHJQWTdGQjVXVXNVdVpNdklGMXVLbHJ0QnRSN01KM3hOWWRPZkVEbzdxMm9zR2JNVS0wMkY4MFU?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-09T01:26:00Z",
-      "summary": "澳大利亚储备银行预计，人工智能将影响就业结构和部分岗位需求，但整体上对通胀保持中性。其判断意味着AI带来的生产率提升与成本变化可能相互抵消，暂不构成明显的通胀压力。央行仍将关注AI对劳动力市场、工资和企业定价行为的传导，并将其纳入政策评估。"
+      "publishedAt": "2026-11-09T06:54:00Z",
+      "summary": "澳大利亚储备银行（RBA）表示，人工智能将对就业结构产生明显影响，部分岗位可能被替代或重塑，但整体上对通胀保持中性。据AFR报道，央行认为AI带来的生产率提升有助于压低成本，而需求与薪资调整可能部分抵消这一效应，因此对物价的净影响有限。这一判断意味着货币政策无需因AI普及而大幅调整，但仍需密切关注劳动力市场结构变化与生产率数据的实际走势。"
     },
     {
-      "title": "Amid growing concerns over automation-driven layoffs, Senator Erwin Tulfo has filed a bill seeking to amend the Labor Code to protect Filipino workers from being displaced by artificial intelligence (AI). http://tiny.cc/sdcd101 - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMlZvcEM3NmRlY1dDZlRwaFRzNk5FdnFsQ3Z2bDFkVDdENGktaWtuTlp2dHVHUlN6THZocFRacnJsUHFrUGJKSl8xU1Q4X2QyWmdrNUlheW9rSWhwT3B4V3BpV3lUV3VKY3ZLd2k2YUVWRGJvVFBhUllrV2NHUVgycVNyS0JDZS1hY3hDZExyZDMtenNxemV3c240ektHUmdjWF9YT190eHFPeTludVhDbTF6NlpiTC1xTE1BRWt6NXNnR1FDRHNtS3BMb0JJTTg1bzgtS0diN2ItUzNQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-09T00:40:12Z",
-      "summary": "在自动化导致裁员担忧升温的背景下，菲律宾参议员埃尔温·图尔福提出法案，拟修订《劳动法典》，保护可能被人工智能取代的菲律宾劳动者。该提案反映立法层面对AI冲击就业的回应，重点或包括岗位流失防护、转岗培训和社会保障。若推进，将为AI应用与劳工权益之间建立更明确的制度边界。"
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-09T05:26:29Z",
+      "summary": "据TechCrunch报道，英伟达董事会正在调查CEO黄仁勋与一名疑似中国间谍人员的关系，事件使其去留备受关注。耶鲁大学管理学者杰弗里·索南菲尔德估计，黄仁勋留任的概率“大约五五开”。作为全球AI芯片龙头，英伟达的领导层稳定性直接关系到公司战略连续性与市场信心。若调查升级或引发人事变动，可能对AI算力供应链、投资者预期及公司治理结构产生连锁影响。"
     },
     {
-      "title": "2027: Experts back AI checks on voters’ register - Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NbnA0cXlPRVZoWlhwNTNPMW14b2dUMGxFa3phbjNBdWI3aV92MElQdlY4alg4T0p2blJzUTljMzJvMkZYWGdsa000aWFTUUlSODFDT2w4ZTYxOHlCVlF4UnlUUE5NYndxbnhkZ0JTSWNtLU9xNUE?oc=5",
+      "title": "E8, a company specializing in ontology artificial intelligence (AI) and digital twins, announced on - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45ZmVpRVhiaDFnWlhreTNTWXBVdFBWWGhnYkRkY2ZuckdJT0JUaXRnOFdHVnF4a3N4aDl2RHV5c195TF9DUG1oYUs0RkpQRm8?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-08T23:27:27Z",
-      "summary": "针对2027年选举，专家支持利用人工智能核查选民登记册，以提高数据准确性和登记质量。AI可用于发现重复、异常或失效记录，辅助选举机构清理名册并提升透明度。报道显示，相关讨论聚焦于把技术审查嵌入选举准备流程，同时需兼顾数据保护、算法透明和人工复核，避免误判影响选民权利。"
-    },
-    {
-      "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOW1WLUp3ZVE4OWpCZFlzazVycDF6bWFRcVdKUE1kZ0lKdW92WEM2UnRLWUtvbTNhTDJUQ2ZLMEpDODZqbE1LbEdseW9TUHNEUUtfdmdaR0ZqRGhiMjNhOXNPTVhGcmlBcGUwbFl2VUtnM3N4SzRGTmZSaEp0R2tCNVNkNFZKMS1UMkRBUVp6Rm13Q1ZuYkhmcEl3UjVrbG9fX1ZRMFNjUjF0VFVUWmI5dVZ1aWMxSGZSUDl4Z1NtUHBzbEMwYnppWWdmczVGQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-08T22:51:00Z",
-      "summary": "英国多家公共机构正遭遇由聊天机器人批量生成的投诉潮，形成所谓“AI clog”，即AI造成的信息拥堵。大量格式化和高频投诉加重了工作人员筛查、回复与案件处理负担，可能挤占真实诉求的处理资源。该现象凸显生成式AI被滥用于行政流程的风险，公共部门需加强来源识别、自动分类和投诉治理机制。"
+      "publishedAt": "2026-11-09T05:07:34Z",
+      "summary": "据매일경제报道，专注于本体论人工智能（ontology AI）与数字孪生技术的公司E8发布最新动态。该公司以本体论方法构建知识模型，使AI能够理解实体之间的语义关系，并将其与数字孪生结合，用于工业与城市等场景的建模、仿真与智能决策。这一路径体现出AI正从纯数据驱动转向知识结构化与物理世界映射相结合，为复杂系统的实时监测与优化提供支撑。"
     }
   ]
 }
