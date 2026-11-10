@@ -1,111 +1,69 @@
 {
-  "updatedAt": "2026-11-10 08:59:16 UTC",
-  "totalArticles": 15,
+  "updatedAt": "2026-11-10 13:55:15 UTC",
+  "totalArticles": 9,
   "articles": [
+    {
+      "title": "Artificial intelligence is desperately seeking its narrative - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-10T13:12:58Z",
+      "summary": "《The Conversation》文章指出，人工智能产业正陷入“叙事缺失”的困境：技术能力与商业宣传快速推进，但公众理解、信任机制和监管框架尚未形成一致故事。文章认为，AI若要获得可持续的社会支持，需要更清晰地说明其价值、风险与边界，并在创新、透明度和责任治理之间建立平衡，而非仅靠炒作驱动。"
+    },
+    {
+      "title": "Israeli AI security startup Bay raises $50 million - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1FUM21STWZfakdFdy1yUEE3dHhGTUtoazJLcHAtZ3hlVXRvbEV5LVA0YXAwRlVGQ05qQ0Z1azV5Wk5wTWFVVXdKZ0FjSy04bkxlcDc5N2xsMFp2eUs5RzF6endfbXA0Ymt3WGo2UllEYzB1aWZmT0I2Smd1MVFBaHBtZzFWZC1pci1icms2cFJFZWxOTVg0aWpyaDU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-10T13:10:38Z",
+      "summary": "路透社报道，以色列AI安全初创公司Bay完成5000万美元融资。该公司聚焦人工智能与网络安全结合，具体投资方和产品细节尚未披露。此轮融资反映资本仍看好AI安全赛道，尤其是在攻击面扩大、企业安全需求上升的背景下，AI驱动的威胁检测与防御能力成为关注重点。"
+    },
+    {
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-10T13:00:00Z",
+      "summary": "Hugging Face高管Irene Solaiman警告，针对开放AI平台的网络攻击增多，可能迫使平台收紧安全限制。若为防范滥用而加强审查和访问控制，开源社区赖以发展的开放性与可及性将受影响。文章凸显AI安全治理的两难：既要保护模型和数据，又要维护开发者生态的协作与创新活力。"
+    },
+    {
+      "title": "Jumptuit Granted Artificial Intelligence (AI) Health Patent by the U.S. Patent and Trademark Office (USPTO) - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSWFTZ1FRUWhIMDlPVXU5VmVRUnhWdURBSGk3ZnVySmpsUllfVTNIa29nMTdOMXJlek9yeW9LZ0dTcTB4ak1UVWxCR0J5OTUzTzNsRVdwRVB6V21uWDdsRi0zWUdWb0Zob1hxYjJkUlhmSnhiT0huSGtaUUtJbm1pVzV4ZUpDckVYb3dZQ3JaVURvbDJwMndUQ1ZUamdmS0x2SjZrWUhuYTdJZFJESWlzbTc3dmJzZ2N5ZlZMdFgxMHdqbzFSeV9iTWR5cmw5LUd4QVQwNWIySmxuM3FtaFdWd1B6aWNDNy0zdktXdDlR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-10T12:42:00Z",
+      "summary": "Jumptuit宣布其人工智能健康相关专利获美国专利商标局授予。该专利涉及AI在健康领域的应用，但公告未披露具体技术路径和商业化计划。此次授权意味着公司在AI医疗健康方向获得知识产权保护，也反映出健康数据、智能诊断和个性化医疗等场景的专利竞争正在升温。"
+    },
+    {
+      "title": "2 things that could hit the brakes on the AI boom. Why hyperscalers could benefit. - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRUM4M1M0bTN1WW8xX2ozaFpOZ0g0Z1hESVUwSkU3VW9xbEE3SXkyZHlDbmJZTFFCX1pHaDhoSDVJdTRNNGpCa3JrbUdRb0lEaHFUemo3ZlJEUVRSRS1SWTB3YWQ2UlV2aGliOVozUHZvdlFXYzU2QWxQamNQS2ktOENIQnNua3haX0NUQ04xR19MUVQ3NlRzRmZzOUNKZjEzNzhwaUlYdW12azlVN3BJbmVCYl8zajNRanhWejl6QVdWTHMxQXZqMzdnUlrSAdIBQVVfeXFMUDBfSGo3QjRmaHo3bW8za09pSmhBLW1ZM0RoMGx1WFIyc3FoMkxDYnhPb0lQWGE5b3ZOLVJrZktuQ3FiSzFIVHJPVm52NEJyRGZuRTM5alhoVFREQnlOcWJxbkREWEtsMXkzOGhDU0VRbGl0REE4OXJPTmloQ2pvYnFFNXpiejBQREEyZnBkMC14Rl9ZS1FHQ3NUQ0RiWXdjejRWbll4TzhvNmtsSHcxcHBJSlJPSXZPTnVobmo5a3E3UHRXak9jRVlOZ09kU1JNbHFn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-10T12:27:57Z",
+      "summary": "Livemint文章讨论可能令AI热潮降温的两大因素，并分析为何超大规模云厂商仍可能受益。文章认为，AI发展面临资本开支、能源供给、监管或回报周期等约束，而云巨头凭借算力、数据和客户生态，更能消化成本与风险，在行业调整中巩固优势。具体因素需结合原文，但核心是AI繁荣并非无约束。"
+    },
+    {
+      "title": "Who Are the Topp AI expert witnesses - https://www.futuristsspeakers.com/",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1d3Vwa09MVG5FQVZXXzB0ZmhvX3ZEMmRoUjg5TXFiMkxPa1NDdkNYdEtsYmVrYjFHRm9EYTd3NzNIZklXUHJ6UzFHYWJoRHZ3bmtsaGY0dFBLYnJZVlVhdWNpVk9WMktUblNtRG05M21QcFht?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-10T12:26:57Z",
+      "summary": "Futuristsspeakers网站文章介绍顶尖AI专家证人资源，关注在诉讼、监管听证和商业争议中，具备AI技术背景的专家如何提供证词。随着AI应用普及，围绕算法责任、数据合规和知识产权纠纷增多，市场对既懂技术又能向法庭清晰解释的专家证人需求上升。"
+    },
+    {
+      "title": "H-E-B apologizes after shopper falsely accused of theft - MySA",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWZTZmdqc1lrb01NM2ZUbWw4c2dRQ3dFRnpGcTNnYllqdmxVdEJUaEUtR1RHX0lzM0F0T3k5ZlBsel9CUTJSZEhVT3ZIX2lRVHBJU05fLWhYTHJlZnJoNk9uTWduMDY3dVQ3TGpHT19qcDRINWlxZHRNZFVUZVBTV3dRNTdvWklzTWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-10T11:07:29Z",
+      "summary": "MySA报道，H-E-B在一名顾客被错误指控偷窃后公开道歉。事件虽未披露是否涉及自动化或AI防盗系统，但引发对零售商损失预防措施、顾客名誉权和误判风险的关注。商家在提升防盗效率的同时，也需建立复核、申诉和员工培训机制，避免给消费者造成伤害。"
+    },
     {
       "title": "Malcolm Tan Leads ZENO's Global Strategy: Driving Four AI Data Partnerships and Accelerating the Commercialization of Prediction Markets and Artificial Intelligence - TechBullion",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQVVEcTlLaGl1VURJSHFMUS16VGlic3JPeXZvTlhrS2hja2dhMi13bVA2WlpXend4YkdlRkxOcGtYZGdwUnNEWlNzRG1neDZPbTBTSXJhUDVlMVNXZ19QV3l5Um9IQ2FTVGFwX3FIcE1VMDl3dFlDZ01OOTFGQklmMUFBVV9RdWlZaUw0dGN6YjRFOXFOb002bExqRVpPaUNnT2ZDbDluNTZOX0RrdzBQT3p1WFR6VV82bFBKNDhaRWRmNEE2TlI4TEhOQUxNZU1tVW0wdXdSZEhuUEZhMTI2ZmZacjFCTEFLTkNzMTMydExVb2VDWWhWMzF5ZGdmcnpGZzlOblhBbUJ4WVFiSTgwYzdMVzRnUQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-10T08:28:10Z",
-      "summary": "ZENO宣布由Malcolm Tan主导其全球战略，重点推进四项AI数据合作伙伴关系，并加快预测市场与人工智能技术的商业化落地。该布局显示公司正通过外部数据合作扩展AI能力，同时寻找预测市场与AI结合的商业场景，以提升产品化和规模化速度。"
-    },
-    {
-      "title": "KT received a disappointing report card. The progress of artificial intelligence (AI), real estate - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94WV9LVTc2bkdJaXZLamlCVXFXbmhuUF9IUE1XRGZzU0Vxamx6dWR5djRwT2tTNnRZckxSa3VreWJleGVyV2lIcXRLcw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T08:21:10Z",
-      "summary": "据韩国媒体报道，KT在人工智能与房地产相关业务的进展评估中收到一份令人失望的“成绩单”，显示其相关战略推进不及预期。报道将AI与房地产并列为观察重点，反映市场对KT新业务落地速度、协同效应与经营表现的担忧，后续需关注其调整策略与执行进展。"
-    },
-    {
-      "title": "As automobiles are connected to external communication networks and artificial intelligence (AI) bec.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jcGtDV1J0U1g1SnpldjFuN3VfTnV2R3psX0NrUVVIM1BDRW9STWo0R2UtUy1kM2RsZEp5RnVSejA1TGdYMWZnMHJmdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T08:09:24Z",
-      "summary": "随着汽车接入外部通信网络并与人工智能结合，车辆正从单纯交通工具演变为具备联网与智能决策能力的移动终端。报道关注这一趋势带来的产业变化：车载系统可借助AI处理更多外部信息与服务，但也会牵涉网络安全、数据合规和实时通信可靠性等问题，需在创新与安全之间取得平衡。"
+      "summary": "TechBullion报道，Malcolm Tan领导ZENO全球战略，推动四项AI数据合作，并加速预测市场与人工智能的商业化。文章称，ZENO试图通过数据伙伴关系和AI能力拓展预测市场应用，提升产品化与规模化水平。具体合作方和交易条款未详细披露，但显示AI与预测市场结合正成为商业化探索方向。"
     },
     {
       "title": "Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXB1cDVaVkg4bmI2TnVwR2xHX3psTEdtMU5JeVBmNFNYOU5TZ2dIU0c3YWZzNkplSDgtVy1GbTRlaWVFZWFTVUdlZFN3bHVDSlpUUE40THZzWWppQVdKNTBZX2twajduendUcmZJOFhiQm1CQ2lWenZJSi0yd0EwOThRNUJoY3puOVBDRURsRXkxb0RrX3EyYzMtcnRGTGFValY1SXV0eFRrclU1VlViQXR5ck1MWXRTc1RMcGp30gHDAUFVX3lxTFB1VjZTM212MmsxVk03aU5feU5jcmRmWXVuZndaWW1fM1B4eDlpVFpNa011ZHNKeGpVVmxlcTNpSFNVT0JoV2N6NlB1cEExUTdfRlM5dllGZmd6VGhnTkV3cFlBa3VIYmdWRzFJY1B5amFDZV82MjdLMlhTczU4XzEtUW9ETTBnUFFjWDhJMHdHNkFIU0VSV1ZKWXRmNVZ3cjJuelZCUnNTRk10ZDNfQl9XZjllalltdDZxN29wSzBsWlJKMA?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-10T08:00:24Z",
-      "summary": "尽管AI监管风险仍在上升，华尔街仍认为近期AI板块的抛售反应过度。报道显示，投资者倾向于将回调视为短期情绪释放，而非行业基本面逆转；在长期需求、技术迭代和盈利预期仍具支撑的情况下，市场对AI资产的估值分歧加大，监管进展将成为后续波动的重要变量。"
-    },
-    {
-      "title": "A technology has emerged in which artificial intelligence (AI) not only determines whether or not to.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzME01T29Bc3pXbnRNSExGWFBad2Jwd3ZkTHZBVTJvY2lDQ19xVWY4QW1EME00cWpITTM1b191eWQ1UE52clZKOUt3cktlRmcyaXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T07:18:53Z",
-      "summary": "韩国媒体报道，一项新兴技术使人工智能不仅能够判断“是否”，还可进一步参与后续决策或执行流程，显示AI正从辅助判断走向更自动化的任务处理。原文信息有限，但该方向意味着AI系统在业务闭环中的权限扩大，同时也对准确性、可解释性和责任边界提出更高要求。"
-    },
-    {
-      "title": "Otter AI can now follow conversations across 30+ languages",
-      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T07:00:00Z",
-      "summary": "Otter AI新增27种语言支持，使其可覆盖30多种语言的对话转写与理解，并预告将推出可在说话者切换语言时持续跟踪对话的功能。这意味着多语种会议、跨国协作和混合语言交流场景的实时记录体验将进一步提升，也显示语音AI正从单语转写走向多语种无缝理解。"
-    },
-    {
-      "title": "The impossible standard we're setting for artificial intelligence - opinion - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54OFhpQ3Q3eE16WThqdzZEQmhOb3I1dFNlY0tjWU5mX19VMDZOYV9ndEJzQy1zNzVKZzJTTFdvOUZkUkFtYjktZFp4QTh0YWpib3AyY01mV3poNExFcG9CajBSOGZ1S1BtbTE0OA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T06:58:43Z",
-      "summary": "《耶路撒冷邮报》评论认为，社会正在为人工智能设定一种“不可能达到”的标准：既期待其高效可靠，又要求完全透明、可解释且零风险。文章主张，这种过高且相互矛盾的要求可能抑制创新，监管与公众应接受技术局限，建立更现实、可操作的治理与责任框架。"
-    },
-    {
-      "title": "Top 5 Artificial Intelligence Applications in the FinTech Industry - Nasscom",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGhWWl9lTkJIQm1IeVVXejY1T2RkUW1pT0U3MXdQR0JocWtBSTdIX3dJZjBWY1RMcU9rdEg1Z2JaRHNtSm9YbTV5ZFFpQVNZUF9hamFLUThYcURZYWlyLU9HNHYwMUduUlN3S0hnUHdxOFkzeVIxcXFjQ20yTHowbUx4dTcxUnYtM2c3aFJscmFfWW1GUW4tRUp4eXQtQVBCT1RoSjF3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T06:25:25Z",
-      "summary": "Nasscom文章梳理金融科技行业五大人工智能应用方向，指出AI正被用于提升金融服务效率、风险识别、客户体验与运营自动化等环节。报道认为，随着数据能力和模型服务成熟，AI将成为金融科技产品创新与竞争的重要驱动力，但机构也需同步关注合规、模型风险与数据治理。"
-    },
-    {
-      "title": "Australia to launch AI safety regulator after OpenAI's breach of a government portal - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOENZOXVwQ25uWnU4dnlBZExQcXl2WWI4SjlONWpLMS1fMVg0bmJfT00taWZQT2ZHVkpVTEo0SklvVjY4X01fV2RJX3FaQW5hdWR1WFZmaTJjRlF2OU1sR3Y2U1owNG81aE9OTTdNZ1lUcHRkRmRoZGMyR01qMmY2NGZZdVpSRVFHWXZzbk5pNGRmbmg3RVcxRnYxSlFiR190eVl4SkJKa24xNThTTEFLODdXUmJrV2N3ek95QnVrQmF0bkJSMTVwSkg5dlBWSWfSAdwBQVVfeXFMTlBsTGtqbW1pV25GeGNwelpDYUt3SkVMdWw4SjNMU2tVcC1uLWszZ1ZxQzlxeUYzV0UzLXE4ZkNRU20tLWFkejJhZEdUejExWVhacV9IU3BNNENiM25oanpzX3ppckk4UGtfUVVhdjFiTkxvRzBmeTdzbi02Y0JPTWVXeEo3MEczWWVhUFNCcHV0bXhvVEQ0d0xITzdEaTQ4d2F6dlZJTmpEZXlqVzRxd1VuSUFlZDMySi1iVkw4UUVnenN1WWVrZFFQWWh3ZG5BbHlOMGtJc3FjQ1g1VA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T05:23:00Z",
-      "summary": "在OpenAI被指突破政府门户之后，澳大利亚宣布将设立人工智能安全监管机构，以加强对AI系统安全性和合规性的审查。此举反映监管机构对政府门户、关键基础设施和敏感数据风险的担忧，预计将推动AI开发者与部署方承担更明确的安全责任，并提升事件报告与监管响应能力。"
-    },
-    {
-      "title": "Australia to adopt 'mandatory' AI safeguards - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDlybWlQZmpIN3JUdzFUUDhaRzNkQk9GWGtrdG1vdmNUNzFMY01CVkNMaVkxVE1IZkN0THlmQ29IN3VzZXZVeW5PX0g3T0FXaEJ2TUJ2Skd5NUtaOWpWZXR2VU15V1Z2dDRSYUJOTTU0TUE0Nm9heG02aGs5MGFhUlZ0dEpmYmc4UngwUE5peWVGVEJaSXdCZ2Jvdlhrdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T04:39:56Z",
-      "summary": "澳大利亚将采用强制性的AI保障措施，意味着相关监管正从自愿承诺转向硬性要求。报道显示，政府计划对AI开发与部署施加更明确的安全、透明和问责约束，以降低高风险应用带来的伤害。此举可能影响企业合规成本，也为其他国家的AI治理提供参考。"
-    },
-    {
-      "title": "AI and your job: Threat or opportunity? - Fox 10 News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04OV9nT1RLODZ1T25GZW9ZN1pKeGZuSENTUEp2QWU2T1J5c05pTDQxTU5hcXdSZDBYdXhqVVNEWlA1SEQtTUV4Q0YtOFQ4bGxkR0RBT3R0OS10TWFyRk1HU1duZmxVWUxlOTE0QUpuSnQ3WmdaLVIwMdIBjAFBVV95cUxNVlpsaS1peS1pcGVmblMtQUVabkl4bHhIV0hncUMtRnR1Wi1PTm5xLS1hWmNNd2FZZ0s5X09IQldlTUlfNjUycUJ1X2RGTjREb29tVDZUNGk2MkRZb3dSUkJxbXhZRnRWbVJjWVFfWnRHNkljZmlUZTFqRWdJcUdIU0tVVXpmemMyTzJMWA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T03:58:00Z",
-      "summary": "该报道聚焦人工智能对就业市场的影响，围绕“威胁还是机会”这一核心问题展开讨论。文章可能从岗位替代、技能转型和生产率提升等角度，分析AI技术对普通劳动者的双重作用：一方面自动化可能冲击部分重复性工作，另一方面也会催生新岗位和新工具。由于原文信息有限，整体属于面向公众的就业影响科普与观点讨论，强调需要理性看待AI带来的结构性变化。"
-    },
-    {
-      "title": "Australia plans new regulator for artificial intelligence after OpenAI hack - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2V1VXBUemdrc3RZUEVkdWhqN1paUkN0bzBhQ3BXZUQ3RU95ZFh0VExqMnM2VTg1TUtob0MyNXZpdGJyRTZhZkpzNTIxal9DTFVFUC0xUHVBUUJvd056VDhtZlZRSnl2RFNpN3p0OW83SldCVHhZZ3dscTdUeHg5eGpMMjJnUTZWYzNCSURtT0psY2I1dldZWllVRkNldEp1bFU0Y0Q2ZXAxVzVTUFVrSWJfc25jeVdJbHdqSFVvTk9uSlFsdm85YlBJTE4xWDY0cV8tLVJtdGpqbGc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T03:56:00Z",
-      "summary": "在OpenAI遭黑客攻击事件后，澳大利亚计划设立新的专门监管机构来管理人工智能。该举措反映出AI安全风险正从技术问题上升为公共治理议题，监管重点可能涵盖模型安全、数据保护、关键基础设施防护及企业合规。报道显示，澳大利亚希望通过专门机构加强对AI开发与应用的监督，以应对生成式AI快速发展带来的网络安全与伦理挑战，并为后续立法和执法提供组织基础。"
-    },
-    {
-      "title": "Did China Target Nvidia CEO Jensen Huang To Gain Access To America's AI Secrets? - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTXh4eE9HLXA1VU12QUV5bVgwZExwUk1fQTE0blVDNGtGeUZneVJOa3pzUl91Wm1vTWdoNVpsWGxMRUJtaXFWdzJwR0plZnhqWktYTUQ3S1FnT0Q1aXR0bFVRVGZiRkhWLVgzajhIRkxFUnVPNTdSclk1clllUmx1OVctTWNacFp5cFl1RnNMVDI3aVZkcDlicThFcW9qYm5qYkw3SWVxdlJCN1B0X05PWlk3MllYWVFvU3YyNUJ5NVNDYWtkMS1ZNElpX3HSAdQBQVVfeXFMT2JrNlJHTFd5X093RTdOQ1V3d3NJSERJNVMxc1F4Q0R6Y3R3dFZySWZ0Ym10NmhFTENPazVyMWxOUHFKV05SaGhCbXQ5RzJCeU5mck05QlRlOHZfeWNldHA0eE5ldzBUU0NsWFFLeWVwaUJPNGM4TURIdE9UM25yRXdVSHpfZ2RlRnUxQkNBbldfRE1qWFhSWnhuemllYWJERHFKQzVoSmU4dUhMTEJKUkRYMkFwX1QtQWVwWnd5RVJLNTB2Ui1CYU5hTjQ1SE5VcFpjTTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T03:46:46Z",
-      "summary": "该报道以疑问式标题引发关注：中国是否将英伟达CEO黄仁勋作为目标，以获取美国人工智能机密。文章涉及中美科技竞争、AI芯片出口管制和企业高管安全等敏感议题，但现有信息主要为标题层面的猜测性讨论，缺乏充分细节。其核心在于地缘政治背景下，围绕先进AI算力和技术机密的博弈正在加剧，相关指控与猜测也反映出外界对技术供应链安全的高度警惕。"
-    },
-    {
-      "title": "Criminal charges on the cards for AI-powered breaches - Yahoo News Australia",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IS3B5OXhza05DZUU5dXBpY3ZYWThZb3pqT25xS2h3N29FVldodEVqOHdsOUNOdUM1YXVacUpRMVpGcmY0RXlHRHcwSDh1ZFNVU2lrNEg0dmRQWkhnNmszc1pHTzFaWkVMN3BkWTRBanpzY3FEUXpRVjJRRXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T03:31:00Z",
-      "summary": "该报道讨论利用人工智能实施的网络入侵和违规行为可能面临刑事指控。随着AI被用于自动化攻击、绕过安全防护或扩大网络犯罪规模，监管机构和执法部门正考虑将此类行为纳入更明确的刑事责任范围。文章核心在于AI安全治理正从技术防护和行业规范延伸到法律追责层面，释放出对AI滥用行为加大惩处力度的信号，也提示企业需加强AI系统的安全合规与风险防控。"
-    },
-    {
-      "title": "Qantas just showed you how AI will kill white-collar jobs - AFR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZERXS3EtU2hQQVBMemN2Q1l0ZG9iaUhrUkRySk90YzltZlg1eTAyc1I3OWlDUG81cEoyaS05c1VhUHU2WjY3bFF4UEMxOWEtMnpDV0wzWTROaUlISXhEYVg1ZlVkVWQ4NEg5bkFQaXdneXBhSXBBbTFvY0h5dEgtRkRRZjVDS2NiTFkwRUZPVmFDeERJNWVkaEVXZzE3V3k4aE1zam93XzQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T03:22:00Z",
-      "summary": "该报道以澳航为例，说明人工智能可能对白领岗位产生实质性替代效应。文章核心观点是，AI不再局限于体力劳动或简单重复任务，而正进入客服、行政、分析和运营等白领工作场景，通过自动化提升效率并压缩人力需求。澳航的案例被视为一个信号：企业采用AI后，部分白领岗位可能被重塑甚至减少，劳动者需要关注技能升级和岗位转型。"
+      "summary": "Firstpost文章指出，尽管AI领域面临监管不确定性，华尔街仍认为近期AI相关抛售过度。投资者判断，AI基础设施需求和长期生产力提升逻辑未变，龙头公司盈利与现金流仍具支撑。文章反映市场在监管风险与增长预期之间重新定价，但整体对AI长期趋势保持相对乐观。"
     }
   ]
 }
