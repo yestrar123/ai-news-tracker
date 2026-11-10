@@ -1,62 +1,97 @@
 {
-  "updatedAt": "2026-11-09 14:37:36 UTC",
-  "totalArticles": 8,
+  "updatedAt": "2026-11-10 00:57:29 UTC",
+  "totalArticles": 13,
   "articles": [
     {
-      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLdVRudVhSejZlMXpvRlVhd1B0UlhUdmtmanU3NjNHNFhVVi1TUEMwVmpaZktkNG5XeV9CZ0ZOQ2duOEt2UlE5YWxSUkdwVU1acHBJTS13NndtS0U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T23:51:22Z",
+      "summary": "据BBC报道，围绕英伟达CEO黄仁勋与一名疑似中国间谍人士的关系传闻，外界正在梳理目前已知信息。报道聚焦双方关系如何被曝光、涉及哪些时间线，以及英伟达方面的回应。事件已从个人关系争议升级为涉及国家安全、公司治理与科技巨头声誉的敏感话题，但多项关键细节仍有待核实。"
+    },
+    {
+      "title": "FDA Artificial Intelligence & AI/ML Device Rules - CASRAI",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Tam1YcTFGYi1hM0xVY2FFZ0tjSVJnRjNLb1Y0M0lxblhJTWdXOG1obDc1QVlza2JsTkVXMVdBcG5VaVdESGppWE1PdFhLOFJ4cV92U2FnaTltbjU1akRTVVVvaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T23:46:52Z",
+      "summary": "CASRAI整理并发布有关美国FDA对人工智能及AI/ML医疗器械的监管规则。内容涉及AI医疗设备在审批、上市后监测、算法更新、风险分类与透明度等方面的合规要求。此类规则对医疗AI企业的产品开发和进入美国市场具有直接影响，也反映监管机构在鼓励创新与控制临床风险之间寻求平衡。"
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-09T14:00:00Z",
-      "summary": "Automattic推出Spacefast平台，用于部署“氛围编程”（vibe coding）应用，直接对标Lovable等低门槛AI应用开发工具。该平台旨在让用户借助自然语言和AI生成应用并快速上线，反映在互联网形态变化下，应用开发与部署正走向更轻量、自动化和大众化。"
+      "publishedAt": "2026-11-09T23:28:37Z",
+      "summary": "据TechCrunch援引Wired报道，黄仁勋据称一年前聘请了一家曾处理多起高知名度性丑闻的公关公司。此举发生在《纽约时报》2025年10月报道Alice Huang与黄仁勋商业往来后不久。报道将公关策略与英伟达近期围绕CEO关系的争议联系起来，显示公司正加强危机沟通，但相关聘请细节和具体公关目标尚未完全披露。"
     },
     {
-      "title": "Artificial Intelligence Development Slowdown and Banning Super AI Will Backfire, Bans Are Impossible - Crowdfund Insider",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbzFyMjJFY2MzRkFaLUJ3YU1IQ2JTU2g1ajBFa3ZfTzA0Vy1nYjh5LVJEZTZFVzFYWnJwSXo0NnljZzRiVC01R3dIUWUyZEZuT3FNZ05kMlRxTTNSMFdWWUJzVGJCTXlqTTZNSkdnNHhQeFZOejBWa0hneVNUYWY3UEkxcGVxZjJGMlhMNEx6QnRjek9SZzcyVkFod21samRtakdLQjlncW41Wl9mRTg3X0lrVWhkUlhCM2pobEhGVlBOb010UUlRcVhBS0VRNlF2cTVaV1BXMkNFTlk1bEw4amJ3?oc=5",
+      "title": "Is AI A Financial Bubble? – OpEd - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nSnJMQVVzd2pvUnBQUkdVdlRUaVpNcFk2azZyRi1NYXpLaWIzZEMtNEpONzk2ZGRFdWJuSW41NVlGcDZ3YlFzY19HX2N3S3ZzeGRBN0pIeWpkVDJyY1VnTkt0VURCVDhDV0ROLTdoTFBaR2kzLU1WOA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-09T13:28:15Z",
-      "summary": "文章认为，放缓人工智能研发、禁止超级AI不仅难以奏效，还可能适得其反。全面禁令在技术和执行层面几乎不可行，反而可能削弱透明度和安全治理，把前沿研发推向监管之外。作者主张以风险管理、审计和可控发展替代一刀切禁止。"
+      "publishedAt": "2026-11-09T23:10:01Z",
+      "summary": "《欧亚评论》刊发评论文章，探讨人工智能是否正在形成金融泡沫。文章围绕AI相关企业估值飙升、数据中心和算力投资过热、商业化回报周期过长等争议展开，讨论资本市场对AI叙事的高预期能否被实际盈利支撑。作者从投资周期、技术扩散和金融风险多角度审视，提醒在热潮中关注估值回调与资源错配风险。"
     },
     {
-      "title": "Not AMD. Not Intel. This Is the Artificial Intelligence (AI) Chip Stock Nvidia Should Fear Most. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnJabUV1dGNwV04yN1AtWTN4bVhYZVhvVjl6d0hhZWp5ZEhaTVczNGdoLXV5dnJRZ2ExUmFldmNvRnhwM0FpUDJzdVJLSVF3TDIwQkFOb3RxVTVtZkVRUHZ5eVV0NmU1WlFmbF9BNW1yUE9Dd2pqQWktSENMTHBVdmJPQWFPU0k4TjBEQ2tBdHoxVVhsd1RJ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-09T12:20:00Z",
-      "summary": "文章称，英伟达在AI芯片领域最应警惕的对手并非AMD或英特尔，而是另一家芯片公司。报道从AI加速器竞争、客户自研趋势和算力需求变化切入，评估该公司对英伟达市场地位的潜在威胁，提示AI芯片竞争格局可能生变。"
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-09T22:46:09Z",
+      "summary": "据TechCrunch报道，做空机构Culper Research在英伟达“间谍风波”爆发前六个月，就已质疑黄仁勋与一名中国高管关系异常密切。该机构提前关注这一关系，使市场对英伟达治理、信息披露和地缘政治风险的担忧升温。报道显示，做空方可能早于主流媒体捕捉到风险信号，而相关指控的真实性和影响仍待进一步调查。"
     },
     {
-      "title": "Banks, investors grow wary of AI debt, spooked by market selloff - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2NkMjVWdzA1aHpUMkw4bWk1Qk0tODdZSVprMy1QLU1kUGVRdVpseG8yVHphU3lsaEh0dmxTLUVITGJCalBrT09obDZHcU9hNlhtcTh4OEhuOE02MmFOa3I4V2RFU1dWdDVjZGFLWGVmZzZSd29GR1lyVHlsS2kwc09iOVF2YVJFWXFDUEl3eGFNNmNxZFlKNS05ak9CbGk2MFhWMzdUMVIyRnZ5eGgtX0RCZG9kWlNxY0JIU3YwYXpTdTNEdkFuejV6NDJGV2pWZjBxaTF3ZWdQYmZCSVHSAeMBQVVfeXFMUFlUeldKSEozTFlxSy0wcHFrUmN2cU1vX3p2eXpKQjZoQW4zTEwxQk43YlNRYTVJUGxjS01PcV9NNW44S1dSdUU1UEdXdnd2cVJ2MG1rdVVTaTI1enBJdld6U25DMXQwQUJMQlJGME1zMVk5Z1FCa0tFeVZyVmdyTDJjQlpKOWM5cXdndENJbUZGQjlJQWVNbDhCRmRXaWNZc2JqUWpsRlZueFRkbVQ5TzZDQlZINXhnYldvakJlV2N0azdEWjVDOHp1cm8wVVdFeDZqN2RvSGVQa3E3anZNSW9HQXM?oc=5",
+      "title": "A Blue Tsunami in State and Local Government Elections May Have Just Driven a Dagger Through the Artificial Intelligence (AI) Data Center Trade - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2RVM2NqZmMyTGF4SEw3SXhYYVJlVURnZXFhRHN6UGFHX2FNVHF0c3JjVUtoaS03UlFVZE15alNkRjIxanFxQzNNVEpORTluZ3Y3T1AwOEJ4MnJLX2F6MEFJbjg0LVF5UzZZOUhVVDBjRVdTWWZYbXNGdkx5S1FkWko2RjhTV0FscFlycWM4WFhBUFpPOGx1Mw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-09T11:08:27Z",
-      "summary": "在市场抛售冲击下，银行与投资者对AI相关债务的态度趋于谨慎，担心AI资本开支扩张、数据中心融资和债务杠杆带来信用风险与估值泡沫。市场情绪转弱可能推高AI项目融资成本，并促使资金重新评估AI产业链的回报与风险。"
+      "publishedAt": "2026-11-09T22:30:00Z",
+      "summary": "《Motley Fool》分析称，美国州和地方选举中的民主党“蓝色浪潮”可能对人工智能数据中心相关交易构成打击。文章认为，地方政治格局变化可能影响数据中心项目的审批、税收优惠、土地使用和社区接受度，进而改变AI基础设施投资的收益预期。对依赖大规模算力扩张的科技公司而言，政策与地方选举风险正成为不可忽视的变量。"
     },
     {
-      "title": "AI in Practice 2026: Bringing Artificial Intelligence to Solve Real-World Problems - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0NqZ3dTa2pveGJpaDIwU1k3XzFoUG9vX0IxSzB4X1BOOFFFckJTdUhsVlRZYmRpWnJsbDJuQ05jbmJETDUxMTM4TWJ1eC1KYmxTTi05Uk9vV1NJRDl0TWN2Z2dkX3A5akV3clJyZ3VnZUFNSnc4b2twWHc1VDhIeHdZZHYtX255YzlPU056WjVCZG8tNUdWSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-09T11:06:58Z",
-      "summary": "报道围绕“AI in Practice 2026”主题，强调人工智能正从概念展示转向真实场景落地，用AI解决行业和社会的实际问题。内容关注可部署的解决方案、跨领域协作和规模化应用，体现AI价值正由技术指标转向实际生产力与业务成效。"
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-09T22:23:42Z",
+      "summary": "据TechCrunch报道，英伟达董事会就黄仁勋与一名疑似中国间谍人士的关系启动调查后，公司股价下跌逾4%，围绕英伟达的诉讼竞争随即升温。证券法专家指出，公司此前坚称相关关系“正常”的表态，可能因调查结果与信息披露问题演变为高昂的法律责任。事件正从治理危机扩展至证券诉讼和投资者索赔风险。"
     },
     {
-      "title": "Explained: AI jailbreak - what is it, how does it work, why is it a concern - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbGJERTdiZXJzUDJYTjNvb1dxRmtYQjVoaVlzX3g3ZmRvQ1FmZW9RVEFLTDk2UVFMUmhCbldxUGJfN3M4NmxkNjJLaXk1SWVuMVc1NWpmczRkSURHYUhZNXJvUWVOSk1yV29sRnNHOGtXMWQ3OUxScThtcnFMdUl0dXBLUG92ampqWnlRbXI4ZjNfZGJ1UHMxVmlyN2o0SWxDTF9vckgyRTNHT2Ytd1BHVk96S0o4dWREUEpVS0RUTFFmdkl4YUNIWjJ2aDZJSjZpUWZJamowcml2Zl9QUjg3dlBsUjl5THVwVDRZREEtNHbSAfYBQVVfeXFMT1d5anVqMWdEMFUzZm56TG9EMkFzeFlQSjlRcko2WllBaVU4ZFNpVHB0S2JmcXRKM2NEZFptcnh3ZGx4RUhqa0NRNmh3ZWZlY1lUeWxTaFduVUg4Z3hUemdpbnlHLWd1LWJXRWE1Y3NoTUxrckpLcGs5SU5iX2lZREVKM3dDeDNHOTJMY2l6SDY5SE9pMDlibm1ueVhBVnpPSElTM2tZWDQyc0VzaHJ3TXhBYzVZcUVneGdYYTJIdHVEd3o1THZzaTNxUzRSOTVfWS1tSTVaTnRRTUlyQndNRG5XSERJdUpUaThfZ1NoZ1cxOVcyS1Vn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-09T10:10:31Z",
-      "summary": "文章解释，AI越狱指用户通过精心设计的提示词或上下文，绕过模型的安全对齐与内容限制，诱导其输出受限信息或执行被禁止的操作。此类行为可能导致有害内容生成、隐私泄露和系统滥用，凸显模型安全防护、红队测试与持续监控的重要性。"
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-09T20:09:06Z",
+      "summary": "据TechCrunch报道，在英伟达相关争议持续发酵之际，黄仁勋临时退出ElevenLabs Summit，此前也已取消出席Anthropic的一场活动。连续缺席重要行业活动显示，围绕其个人关系与公司治理的风波正影响其公开露面安排。英伟达和黄仁勋方面尚未充分说明退出原因，但事件已对CEO形象管理和公司与AI生态伙伴的互动造成压力。"
     },
     {
-      "title": "As the artificial intelligence (AI) rally, which heated up the global stock market, was dampened, te.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yWHRyWmNRaHpMRlcyeWZXLUFUWHlRNDdsNGltbzhpYkJBaDBaaDlZWnE1RVpfeEhYbEhUWTlOT1MzQ1JfNkpCQzJYbjItSG8?oc=5",
+      "title": "Instagram takes AI age checks global to catch teens using adult birthdays - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yVFJScUxfWGhhMFp1T1NuX1RsU2FOUE9DTlRQcVA3RnQybVZodXhiT0FmQUlTbTBiS0NRQlRPWVFfWmlvZEVzMmVMZVZLaDBldkhMd2d2dWdBbnBpR0ViWUtScw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-09T09:07:56Z",
-      "summary": "随着此前推高全球股市的AI行情降温，市场开始重新审视AI板块的高估值与盈利兑现节奏，投资者情绪转向谨慎，科技股和半导体相关资产波动加剧。报道关注AI热潮回调对资金配置、估值体系和产业链预期的影响。"
+      "publishedAt": "2026-11-09T19:49:12Z",
+      "summary": "据BetaNews报道，Instagram将AI年龄核验功能推广至全球，用于识别使用成人出生日期绕过年龄限制的青少年。该功能通过分析账号行为、互动模式和资料信号等推断用户年龄，并对疑似未成年账号采取更严格的隐私与内容限制。此举反映社交平台在监管压力下加强未成年人保护，但也引发对年龄推断准确性、误判和隐私的讨论。"
     },
     {
-      "title": "K Semiconductor startup Revelion will build an artificial intelligence (AI) infrastructure that uses.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KNTJOOFk5d0dCV2ZDNEdicXRNUzFKU29QdE54WFZEa05ZeXR5bS1FWG91ajEzek15bFc5WHhYNVBMSU9vMExtbko3aw?oc=5",
+      "title": "Hanselman's gputaskman shows what is filling your GPU memory - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yVDlCN1pZZ3VyV0xoMTQxMFVTTmhqZVA0Z0xBTEZ2Y1BrYzhjVUhMQTZXaTNQMUpWMzBFbEtoTEJFS0paWEYtU2hBWnRqYnRMc205bnZ1SnNGd0ZiWG1PNlVXdC1neUE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-09T08:40:06Z",
-      "summary": "韩国半导体初创公司Revelion将建设AI基础设施，依托其半导体技术切入AI算力场景。此举反映初创企业正瞄准AI芯片与基础设施需求，试图在能效、专用计算或系统方案上形成差异化，并加入全球AI算力供应链竞争。"
+      "publishedAt": "2026-11-09T19:45:32Z",
+      "summary": "据BetaNews报道，Hanselman推出gputaskman工具，可帮助用户查看究竟是什么在占用GPU显存。该工具面向开发者和AI从业者，提供类似任务管理器的可视化视角，便于定位显存泄漏、异常进程或模型运行带来的资源占用。在本地大模型和GPU计算日益普及的背景下，这类诊断工具有助于提升显存管理效率并降低调试成本。"
+    },
+    {
+      "title": "GCash pilots AI assistant Gabby - SunStar Publishing Inc.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51Slgyd3AtbHQ3WlByOXNLeGE3Qy1Eb2hKZHI3bkJXWFQwdjBrcW9Gb3lUbmtGQm55MjhGVXJXVmFtOEJGX2xvTmZLOHp6SlJKcVUySHpsY2JhSi1FYWtsanZYemFKWl9YaGg2RFpfb2JGNk5GTG1td1FkVGdrd9IBiwFBVV95cUxQdlRyemhHckJ4Q3FjT2lBRlBJVlFpSTdnOVR4c0VrSDBpdU1qWUJoWTRjZWFYYTlsUnF1N1dZcGRqMmdVTXN0eERBcno3VzVsTW9ibmJJWHphbUZnVGY0MHdEZ0llMWM3Um5yeGhrNDZKNzJVc3c5MlFYYmtXck1NNHJqd19FMEpORkp3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T19:25:58Z",
+      "summary": "菲律宾数字支付平台GCash正在试点其AI助手Gabby。据SunStar报道，该助手以对话式交互面向用户，意在将智能问答与自动化服务引入日常金融场景。目前项目仍处于小范围测试阶段，具体功能范围与正式上线时间尚未披露。此举表明当地金融科技企业正加快把生成式AI嵌入支付与理财入口，以提升服务效率、降低人工客服压力并改善用户体验。"
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-09T19:24:51Z",
+      "summary": "Anthropic发布名为Mythos与Fable的新一代模型，官方称其在编程、推理和视觉等能力上均有提升，与用户沟通时的表达也更加清晰。此次发布正值业界对“递归自我改进”（RSI）担忧升温之际，即AI是否可能自主加速自身研发进程。Anthropic未披露更多安全与评测细节，但新模型的推出显示头部厂商在能力迭代与风险管控之间的竞争持续加剧。"
+    },
+    {
+      "title": "With new Democratic Congress incoming, Illinois Gov. JB Pritzker calls for federal AI regulations - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3lRaU4xRnNaX09hOVVGN3JLVFhBcnc1SFgxZ2hnSW83aXNNeER1bmFRdUtCeWM5YXctNEJWeDRianpWTmxlQjF4MDFYeUhEQTVFUUI4NGptMUlISVJVMEFqLS0zZFBCaWYyRndMZzZTdE8wZkNpUnBoZ1lXOHNaWDc5N0JFSnlUNV9NSS1jOVYtM3h4TXBaMkphS1pQejNwYllvSGZRTU5fSlVEVHhTOGNRUkxLbkRybjBzMQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-09T19:05:16Z",
+      "summary": "随着新一届民主党主导的国会即将就任，美国伊利诺伊州州长JB Pritzker公开呼吁在联邦层面出台人工智能监管规则。据CBS新闻报道，他主张由联邦政府统一立法，避免各州各自为政造成监管碎片化和企业合规负担。此番表态反映出州级官员与联邦立法者正围绕AI治理权限展开博弈，也预示新国会可能将AI立法列为优先议题。"
     }
   ]
 }
