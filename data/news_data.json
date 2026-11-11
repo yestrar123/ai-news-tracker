@@ -1,139 +1,41 @@
 {
-  "updatedAt": "2026-11-10 22:38:22 UTC",
-  "totalArticles": 19,
+  "updatedAt": "2026-11-11 03:38:09 UTC",
+  "totalArticles": 5,
   "articles": [
+    {
+      "title": "Everybot, a physical artificial intelligence (AI) service robot company, announced on the 11th that - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mQTVnOUJBMWxYbkpnQVZVVlVmYzczQmhVYy1jWWVwekNTc3FwR2FyN0J1T2E3SjJsZU1zZlowME5Vb2NyZjFOOU1xVXFyeFU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-11T00:56:10Z",
+      "summary": "据매일경제报道，Everybot于11日发布公告。该公司定位为物理人工智能（Physical AI）服务机器人企业，强调将AI感知、决策能力与实体机器人执行能力结合，面向真实服务场景。由于原文正文未披露公告细节，具体产品或合作内容尚不明确，但消息显示其持续布局物理AI服务机器人赛道。此类方向通常涉及环境感知、自主决策、人机交互与任务执行，目标是提升服务机器人在复杂场景中的实用性和商业化能力。"
+    },
+    {
+      "title": "Survey: Patient comfort with AI varies by level of provider involvement - American Hospital Association",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVUwbWJYT3FpZTVoWm94VGl0WTA1NDlReW1jWEJkUUJqcFZSa0Z4VjEzU0l2V3ZkcFNVOENJN1lKWnNrLUVYal9mdVo5eXE5bWFPQ3RpTlgzaEpsQWowd3NhUUxHWlRKNnhDaFR2SDNRSXM5NGVSOXdYWUY0ajJTamtPcnMzY1NkODJqcmFtbm9tTnhtYThtNWdrR3VLUTZ5YnBSaWd5cw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-11T00:41:59Z",
+      "summary": "美国医院协会报道一项调查显示，患者对医疗AI的舒适度会随医疗服务提供者的参与程度而变化。调查表明，当AI作为辅助工具、由医生等专业人员监督、解释并承担最终责任时，患者接受度更高；若AI独立决策或专业人员参与不足，患者可能更不安。这提示医疗AI落地应强调人机协作、透明度和责任边界，在提升效率的同时保障患者信任与临床安全。"
+    },
+    {
+      "title": "Company says engineer stole secrets, asked AI how to get away with it - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdlJDb2pGcm9lYUxla19fekhhTzhnUWRIYThMRm4teTlwMURuU2RKa3B2a1JycmN1cXA2WVBfS3J3Yy11YU5KNUlqZGdUNXAteDRuUXRjZDFpbmJFcUxkR0ZUWFVOdDJVWGxNYnVCbjUtektwRURXZjZLd3NvNlFVdk1TUEs2RVVuUUlubmxONzlaMGoyOUVVdkktdFI3Vjh4V1puandFMTJNZ1F2SndDMW9IczhGUlhUMEFkRUlB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-10T22:55:00Z",
+      "summary": "据路透社报道，一家公司称其工程师涉嫌窃取商业机密，并曾向AI询问如何逃避追责。报道未披露公司名称和更多案件细节，但事件凸显生成式AI可能被滥用于咨询犯罪方法或规避调查，带来企业数据安全、内部控制和AI治理风险。对企业的启示包括加强权限管理、操作日志审计、敏感数据防泄漏，并在AI平台侧完善滥用检测和安全防护。"
+    },
+    {
+      "title": "Australia to launch AI safety regulator after OpenAI’s breach of a government portal - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2NGlHc0NjbS1qeHlVa3FhLXVCd055VVlVekJRSm5JSjF4Y09xcm8wM3VPeERJNnluRTd3TDVGeFgtZWZNTUFzLUUxemt5OVFoNVMyaXVXdkF6dHRmUjlGeG1pOFVvWEJ0SkV1cXN2eW9RV014ZGlWN0h3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-10T22:47:31Z",
+      "summary": "据波士顿先驱报报道，在OpenAI被指突破政府门户后，澳大利亚计划设立AI安全监管机构。此举反映政府对AI系统安全、关键基础设施和公共部门系统风险的关注。监管框架可能涉及AI安全评估、事件报告、访问控制和合规要求，以降低模型被滥用或系统被入侵的风险。事件也表明，AI治理正从原则倡导转向可执行的监管与安全审查。"
+    },
     {
       "title": "UPF Summit to Address Digital Infrastructure and AI in Fez-Meknes - Morocco World News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPczVzaWkwLW1iQlBqUEZkakI4RXY2bUdoNjUxcEVLUFdpNDdxT1NkVFprVDlNNU9VSlZuSTRWZTBDSEFXY1FKSGtndnBvR0MtV3ZIZUpmbE1vRFEzWlV4Mm5uYVpvUnFabm5MWTEzYjRIZ3hvbVE0bGh2UFZJaTBCaTYzR1VQRjRtOFdYVmVKc08xZnV0Ykh2T0xJc1lVMUt1RHA1d0RaS1ZSZ2x6VmFkeXcxeXc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-10T22:28:40Z",
-      "summary": "UPF峰会将在摩洛哥非斯-梅克内斯地区举行，重点讨论数字基础设施与人工智能。会议预计汇聚政策、产业和技术代表，推动区域数字连接、AI应用及投资合作。标题信息有限，但可看出摩洛哥正借助国际峰会平台，关注AI基础设施建设和区域数字经济发展。"
-    },
-    {
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLdVRudVhSejZlMXpvRlVhd1B0UlhUdmtmanU3NjNHNFhVVi1TUEMwVmpaZktkNG5XeV9CZ0ZOQ2duOEt2UlE5YWxSUkdwVU1acHBJTS13NndtS0U?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T21:22:36Z",
-      "summary": "BBC报道梳理了围绕英伟达CEO黄仁勋与一名疑似中国间谍人员关联的已知信息。报道聚焦事件时间线、人物关系及外界关注点，涉及国家安全与科技企业高管对外交往的敏感议题。相关指控和细节仍有待权威核实，事件也引发对科技行业安全审查的讨论。"
-    },
-    {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T21:08:52Z",
-      "summary": "OpenAI收购由Sonder创始人Francis Davidson创办的旅行初创公司Odessia。OpenAI尚未说明在旅行领域的具体计划，但创始人在旅宿行业经验丰富，交易或反映其探索AI与旅行服务结合、拓展消费场景的意图，也显示OpenAI正通过并购吸纳垂直行业人才和产品能力。"
-    },
-    {
-      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T20:52:13Z",
-      "summary": "纽约州AI安全法生效，OpenAI、Anthropic等大型开发者将面临注册、披露安全实践和报告重大事故等要求，违规可能被罚款。新规强化对前沿AI模型的监管，显示州层面正推动可问责的AI安全治理，也可能为其他地区立法提供参照。"
-    },
-    {
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T19:57:52Z",
-      "summary": "Anthropic七位联合创始人在IPO中计划出售相同数量股份，按发行价区间中值计算，每人可套现约2.5亿美元。交易后创始团队仍保持对公司控制权。报道反映AI独角兽上市造富效应，也引发市场对创始人减持、股权流动性及治理结构的关注。"
-    },
-    {
-      "title": "AI Short Dramas Are Booming: Why Human Connection Still Sells - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHQ1MVFDV3llNE02TzdreUJyREVFYXBhTzVrUW5ERUY2NWNHRG50SzRnaDQxZTN6c1ZVQlRuOVhxR2JmR0psUGFSWUhsYmdiTDd6am9tN0FkU1k1ZHZPRGp2TTRiSGxhbHktRzBxQm1IUVFlWFZNZUh3ZjFWaExkajQzbHRqMEUtdXFTVGd3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T19:47:18Z",
-      "summary": "AI短剧市场快速增长，制作效率和低成本推动内容供给扩张。TechBullion文章指出，尽管AI生成能力提升，观众仍看重真实情感、人物共鸣和人类连接，这些要素继续构成短剧吸引力的核心，也决定AI内容能否长期留存用户并形成可持续商业模式。"
-    },
-    {
-      "title": "Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEFQUlF5ejBFT3pFYzB6aVRiNlZnR0hNeW5GUko4RGl4cjBlLTNVZU5FNWV6cTE2emtjU2FBbERYZVVNRm4yNVB0SGt4TlE5YXJmQjFaMjNPOTVCdkk4OUMxWFNBTjhtcHRIS1paMUVBQnExMGFSc2FxQXpkcWVuTHZkVElnbURDWTk4cTlqRVdpczNnWm5sa0FB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T19:30:00Z",
-      "summary": "Yahoo Finance文章讨论投资者是否应暂时放下SpaceX，转而关注两只AI股票。标题未点名具体公司，核心是围绕AI赛道增长潜力、估值与风险进行投资对比，提示读者在热门航天资产与AI概念股之间权衡配置，并结合自身风险偏好作出判断。"
-    },
-    {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T19:23:34Z",
-      "summary": "智能戒指厂商Oura以6.25亿美元收购AI原生初级保健初创公司Counsel Health。交易发生在Oura以IPO市场不确定性为由无限期推迟最高22亿美元IPO之后，显示其正通过并购扩展健康服务能力，将可穿戴数据与AI医疗服务结合，寻找新的增长曲线。"
-    },
-    {
-      "title": "AI-powered hacking demands response within minutes, cybersecurity experts warn - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OcmE5ZFZpZUNzRUJoZ1RYcGZ5LTVSU1UwZklBMDN3SHB6a3Iyb2ItVzNpTDlfd2s0dFQtanJHa3JoN0lxYWlZTm03R2JRaThhem03MW81TnhRUHEtb2tJaW9ycw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T19:09:07Z",
-      "summary": "网络安全专家警告，AI驱动的黑客攻击速度和自动化程度显著提升，企业响应窗口已缩短至分钟级。传统人工巡检和慢速处置难以应对，需部署AI辅助检测、自动阻断和持续监控，并加强事件响应流程与跨部门协同，以降低攻击造成的影响。"
-    },
-    {
-      "title": "The US is winning the AI race. Jensen Huang could have blown it - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGs0bGlyZ3JydVZBNy1fTFJOX19FUS0tWnNwUjd0SnhwWnpZc3ZYZHloSDlCbVdHekxCd2x4YnNqc3FfMzZZcEI1UV8tcGVnc29RWUhFbF80T3NTcU4tZGFqdGl6aWM4VTlVbTk4bUFIc3NiMDhPTWF3Vzd1TkUwMkxtMFkwZTI0eWxHT1lqcmtvRVNlbHNvNQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T19:04:05Z",
-      "summary": "The Verge评论认为美国目前在AI竞赛中占优，但英伟达CEO黄仁勋的对华业务立场和政策游说可能削弱这一优势。文章围绕芯片出口管制、企业利益与国家安全张力展开，讨论科技巨头在AI地缘竞争中的角色与风险，以及政策制定应如何平衡创新与安全。"
-    },
-    {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T19:03:52Z",
-      "summary": "PSI正尝试将AI驱动的科学发现商业化。该公司利用一个尚未发布的Anthropic模型，回答了一个量子计算领域的基础性问题，而科学家此前已追寻近二十年。若该模式可复制，意味着前沿大模型不仅能辅助科研，还可能加速基础科学突破，并形成可收费的发现服务或平台。"
-    },
-    {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T18:49:52Z",
-      "summary": "OpenAI推出新的企业资料功能，使ChatGPT更接近谷歌式搜索入口。该功能旨在把ChatGPT打造成更强的消费发现引擎，并让企业通过资料页面和配套工具提升曝光、引导用户发现其产品与服务，从而增强平台内的商业连接和流量分发能力。"
-    },
-    {
-      "title": "Prediction: This Under-the-Radar Artificial Intelligence (AI) Stock Is Going to Double Over the Next 12 Months - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQTdjQzlaTkZVUFdzOHBZSlpJREQ0MkIwOFU0V2NCQVJGX2NVZ1NMbGJvSG53U3AwX3pHWWgwcWdiR0k2dkRxeERGanB3TW1pbTBULWMxTl8zNXN0cDQtTExNU0dRaEZQRmo2aHpoeEtRbXRZR1JKMUlMdjN5SXA4LTZZYTJQSWtTRmRxdF8tSjEwTmd4TEE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T18:31:00Z",
-      "summary": "《Motley Fool》发布预测称，一只尚未受到市场充分关注的人工智能股票有望在未来12个月翻倍。但现有摘要未披露公司名称、业务细节和估值依据，核心信息仅是文章给出乐观涨幅判断。对该类个股预测，投资者仍需结合基本面、风险与估值审慎判断。"
-    },
-    {
-      "title": "AI-powered cyberattacks outpace security patches, expert warns - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSEZ3QkVERE5kZ0J5Yy1xUkkyRTdCVFA1NzBiV1hsRVo0MGE2LTFJYmVkRHFFclpkSkMyWlpBcmxWMFVkOU9UVVVnSUVMVy1ENEk1c0xzOFN5TnlhOVVXQUpCUzVUNGdpc29adlNmY3l4bmQ3RFQ1bWtfYlRnRmE4LTVWMHQtdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T18:00:35Z",
-      "summary": "有安全专家警告，AI驱动的网络攻击正在加速演进，其更新和变异速度已超过安全补丁的修复节奏。攻击者可能利用自动化工具更快发现漏洞、生成攻击载荷并扩大攻击规模，给企业防御带来更大压力。这凸显出安全体系需向持续监测、快速响应和AI辅助防御转型。"
-    },
-    {
-      "title": "This crypto firm lets AI agents take the first vote on startup deals - TheStreet",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNm9OSUZQVENLZWhrdDRuY0hWSHNDZFVBR0ZralR1R2doWkh4RW1kb1pzTFVrcjVmSGxfYlVhSUJTOGhITXFtTmR2Z2FkRFpoeVdKWGs1WUo2OTFITXlpanpDTVRtZVg2bFpBVGhwUktYOXltLUJqMVEwclg3dkd0Q05rWE5pUU5vejVWTWtqYzRPWnZmMUNlUTktVktycEl4cnVkVTQzWWhLc1BmU2hVQWlWTHZremlhOWE1TTBkLVB1d3c?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T17:57:20Z",
-      "summary": "一家加密公司允许AI代理在创业投资交易中率先投票，即由AI对项目进行初步筛选和表决，再由人类参与后续决策。该做法试图用自动化代理提升投资流程效率，但也引发关于算法偏见、责任归属和治理透明度的讨论，反映AI正进入风投决策链条的早期环节。"
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T17:30:00Z",
-      "summary": "Anthropic推出Claude Meetings，面向职场会议场景，将讨论内容转化为计划和任务。会议进行时，Claude可起草讨论中的方案、在白板上生成时间线、在会议聊天中回答问题，并访问已连接的工作应用调取往年数据等信息，提升会议到执行环节的衔接效率。"
-    },
-    {
-      "title": "Australia Mandates Frontier AI Rules Following OpenAI Agent Infiltration - Security Today",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmo4blBGSllSa21DSlBROVJrRmdWS19LUXlSUHVmcnl6R2RKcGpoZVhlWFpGMHdsd3YybGJFWUxkMHRYem9kY0p6YUpHeFJCZWV6Z3RFVU9LZmF3aDZSNGJObHpiUXltYkxnN19qWEdUNHRaRVVITXBuOEVjaGpFb3RlbDR6UXFaMnRZeWx6Y2J0QUxvU21fSl94NlZYMEFNTi0wQ1VXam5DaF9ZUDgwRjM1TG1vcUFGNHZpSHUyNVA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T17:26:52Z",
-      "summary": "澳大利亚在发生OpenAI代理渗透事件后，推出针对前沿AI的强制性规则。报道显示，监管重点可能涉及先进模型的能力评估、部署安全与责任要求。此举反映各国对前沿AI代理带来的网络与安全风险日益警惕，并试图在鼓励创新和防范系统性风险之间建立监管框架。"
-    },
-    {
-      "title": "AI is supercharging Iran’s cyber threat, Dream CEO Shalev Hulio warns - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82Ny1ZSDI3RXRPc202WHFpNkxJeDVhSEM0TTFPOWZZU0VZMW5Wa0o2ZVcyMUdfT0hpa21tdmNNX0RkZVpGYjRkcFp0Z1g0N2s4WWx3QWduTXptdkE0M01sRUpRcw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-10T17:21:06Z",
-      "summary": "Dream公司CEO Shalev Hulio警告称，AI正在显著放大伊朗的网络威胁。生成式与自动化工具可能降低攻击门槛、提升钓鱼和社会工程攻击的逼真度，并加快攻击节奏。其言论提示，国家级网络行为体正借助AI增强能力，防御方需同步升级检测、响应和威胁情报体系。"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-10T17:04:19Z",
-      "summary": "TechCrunch梳理了英伟达CEO黄仁勋与一名被指为中国间谍的人士之间的绯闻时间线。报道称，该事件可能在美国与中国竞相发展最先进AI基础设施的背景下产生国家安全影响。摘要仅呈现报道所述时间线与潜在影响，相关指控和事实仍应以权威调查与司法结论为准。"
+      "summary": "据摩洛哥世界新闻报道，UPF峰会将在非斯-梅克内斯地区举行，重点讨论数字基础设施与人工智能。会议预计关注数据中心、网络连接、AI应用和区域数字化转型等议题，探讨基础设施如何支撑AI部署并带动地方经济发展。此类峰会通常旨在促进政策制定者、企业和机构间的合作，为AI项目落地提供网络与算力基础。"
     }
   ]
 }

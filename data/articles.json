@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "7619",
+      "title": "Everybot, a physical artificial intelligence (AI) service robot company, announced on the 11th that - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mQTVnOUJBMWxYbkpnQVZVVlVmYzczQmhVYy1jWWVwekNTc3FwR2FyN0J1T2E3SjJsZU1zZlowME5Vb2NyZjFOOU1xVXFyeFU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-11T00:56:10Z",
+      "summary": "据매일경제报道，Everybot于11日发布公告。该公司定位为物理人工智能（Physical AI）服务机器人企业，强调将AI感知、决策能力与实体机器人执行能力结合，面向真实服务场景。由于原文正文未披露公告细节，具体产品或合作内容尚不明确，但消息显示其持续布局物理AI服务机器人赛道。此类方向通常涉及环境感知、自主决策、人机交互与任务执行，目标是提升服务机器人在复杂场景中的实用性和商业化能力。",
+      "fetchDate": "2026-11-11"
+    },
+    {
+      "id": "7620",
+      "title": "Survey: Patient comfort with AI varies by level of provider involvement - American Hospital Association",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVUwbWJYT3FpZTVoWm94VGl0WTA1NDlReW1jWEJkUUJqcFZSa0Z4VjEzU0l2V3ZkcFNVOENJN1lKWnNrLUVYal9mdVo5eXE5bWFPQ3RpTlgzaEpsQWowd3NhUUxHWlRKNnhDaFR2SDNRSXM5NGVSOXdYWUY0ajJTamtPcnMzY1NkODJqcmFtbm9tTnhtYThtNWdrR3VLUTZ5YnBSaWd5cw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-11T00:41:59Z",
+      "summary": "美国医院协会报道一项调查显示，患者对医疗AI的舒适度会随医疗服务提供者的参与程度而变化。调查表明，当AI作为辅助工具、由医生等专业人员监督、解释并承担最终责任时，患者接受度更高；若AI独立决策或专业人员参与不足，患者可能更不安。这提示医疗AI落地应强调人机协作、透明度和责任边界，在提升效率的同时保障患者信任与临床安全。",
+      "fetchDate": "2026-11-11"
+    },
+    {
+      "id": "7621",
+      "title": "Company says engineer stole secrets, asked AI how to get away with it - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdlJDb2pGcm9lYUxla19fekhhTzhnUWRIYThMRm4teTlwMURuU2RKa3B2a1JycmN1cXA2WVBfS3J3Yy11YU5KNUlqZGdUNXAteDRuUXRjZDFpbmJFcUxkR0ZUWFVOdDJVWGxNYnVCbjUtektwRURXZjZLd3NvNlFVdk1TUEs2RVVuUUlubmxONzlaMGoyOUVVdkktdFI3Vjh4V1puandFMTJNZ1F2SndDMW9IczhGUlhUMEFkRUlB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-10T22:55:00Z",
+      "summary": "据路透社报道，一家公司称其工程师涉嫌窃取商业机密，并曾向AI询问如何逃避追责。报道未披露公司名称和更多案件细节，但事件凸显生成式AI可能被滥用于咨询犯罪方法或规避调查，带来企业数据安全、内部控制和AI治理风险。对企业的启示包括加强权限管理、操作日志审计、敏感数据防泄漏，并在AI平台侧完善滥用检测和安全防护。",
+      "fetchDate": "2026-11-11"
+    },
+    {
+      "id": "7622",
+      "title": "Australia to launch AI safety regulator after OpenAI’s breach of a government portal - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2NGlHc0NjbS1qeHlVa3FhLXVCd055VVlVekJRSm5JSjF4Y09xcm8wM3VPeERJNnluRTd3TDVGeFgtZWZNTUFzLUUxemt5OVFoNVMyaXVXdkF6dHRmUjlGeG1pOFVvWEJ0SkV1cXN2eW9RV014ZGlWN0h3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-10T22:47:31Z",
+      "summary": "据波士顿先驱报报道，在OpenAI被指突破政府门户后，澳大利亚计划设立AI安全监管机构。此举反映政府对AI系统安全、关键基础设施和公共部门系统风险的关注。监管框架可能涉及AI安全评估、事件报告、访问控制和合规要求，以降低模型被滥用或系统被入侵的风险。事件也表明，AI治理正从原则倡导转向可执行的监管与安全审查。",
+      "fetchDate": "2026-11-11"
+    },
+    {
       "id": "7601",
       "title": "UPF Summit to Address Digital Infrastructure and AI in Fez-Meknes - Morocco World News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPczVzaWkwLW1iQlBqUEZkakI4RXY2bUdoNjUxcEVLUFdpNDdxT1NkVFprVDlNNU9VSlZuSTRWZTBDSEFXY1FKSGtndnBvR0MtV3ZIZUpmbE1vRFEzWlV4Mm5uYVpvUnFabm5MWTEzYjRIZ3hvbVE0bGh2UFZJaTBCaTYzR1VQRjRtOFdYVmVKc08xZnV0Ykh2T0xJc1lVMUt1RHA1d0RaS1ZSZ2x6VmFkeXcxeXc?oc=5",
@@ -68554,5 +68590,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7617
+  "total": 7621
 }
