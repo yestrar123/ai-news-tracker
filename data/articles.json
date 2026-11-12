@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "id": "7680",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T22:42:51Z",
+      "summary": "美国国会民主党人针对英伟达对华销售以及黄仁勋与特朗普之间的所谓“安排”发起调查，并向相关方发出措辞严厉的信函。报道称，这是自涉嫌间谍事件曝光以来，针对英伟达的第二项国会调查，显示该公司正面临更严格的政治与监管审视，相关调查可能进一步影响其业务与政策环境。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7681",
+      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T22:22:28Z",
+      "summary": "Muse的AI现已可代表用户向美国企业拨打外呼电话，但该功能并非免费，需要付费使用。这标志AI语音代理从辅助工具走向可执行真实商业外呼的付费服务，潜在场景包括客户联系、预约和营销等，同时也引发对自动呼叫合规性、透明度及用户体验的关注。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7682",
+      "title": "Power Landlords Are Highlighting Bitcoin Mining Roots During AI Rout - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjIzNXgwQ2xiUlpYM3hNZkFtNUloQlJzc1Fpb19ENUtTWHMtVmczdFhZOXdMVkRfM3FrNE5OR3puQ1JFY2c0WlZQczZ6OF9NMkFCcDJhajhuVWRURjR5ZUlYbVpVbHRjUnZGdjRfVHVDc1VReko3VExtUlB4YTdYQ2N2RTRIVzl5dWNzYnZBMGtxZHJMV3NvQ2FXYjdVZTNSTmlzOXQxeVlNUlczSWRENFFxWnB4QWJJZ0lrNm9Kdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T22:00:01Z",
+      "summary": "彭博社报道称，在AI相关市场回调之际，电力资源出租方正强调其比特币挖矿渊源。这些“电力地主”借助既有挖矿基础设施和能源获取能力，转向服务AI数据中心需求；当AI投资降温时，比特币挖矿背景成为其业务韧性、能源资产价值和估值叙事的一部分。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7683",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T21:35:00Z",
+      "summary": "TechCrunch梳理黄仁勋丑闻时间线：黄仁勋因婚外情辞去英伟达职务，事件可能产生国家安全影响，尤其在中美竞相建设最先进AI基础设施的背景下。报道将个人丑闻与公司治理、出口管制及技术竞争风险联系起来，后续调查与政策反应仍待观察。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7684",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T21:27:10Z",
+      "summary": "Nebius正以“新云”模式推进400亿美元AI基础设施扩张，计划主要依靠客户预付款和贷款融资。报道同时指出，微软相关数据中心项目出现延误，使外界质疑其融资与交付模式能否顺利支撑大规模算力建设，也考验新云厂商在资本密集竞争中的执行力。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7685",
+      "title": "Source: https://lnkd.in/ejJ9gm87 #Nvidia #AI #Artificialintelligence #Cyberwar #China #AIRace - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGpybTQ1b05zZ2IxLV9mVjV4bmlnc2o4cHJLTzlQZFFIZ3VEQzhweDlYdGdZNVd4Rk1JVlBmZUlyMzBuSUdzN0JKcGJWUkFCNWpYaEVCcDMxMlRpNlpkQy1UZUJxTlhvQWo5SWZmaXNVd0ZxdHFYYXhpZHJNWHJpMmlySTNYRjZWbGo4YkZSRHY2U2FYcWZ4VE1LMnNiYjdiTTluNlcwUk0zdHQ4TFRIUW9OVkFVRTc3RzJteg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T20:49:42Z",
+      "summary": "一条LinkedIn帖子以英伟达、人工智能、网络战、中国和AI竞赛为标签，指向相关文章或讨论，主题涉及英伟达在中美AI竞争与网络安全背景下的角色。由于原文仅提供链接和标签，具体内容有限，但可看出讨论聚焦AI技术竞争、地缘安全与产业影响。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7686",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T20:26:47Z",
+      "summary": "路透社报道称，黄仁勋存在第三段婚外情。路透未公开与该事件相关的新员工姓名，但称她是英伟达员工。该报道进一步扩展了围绕黄仁勋个人行为、公司治理及英伟达声誉风险的丑闻叙事，也可能加剧外界对高管行为、利益冲突和企业审查机制的关注。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7687",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T19:27:45Z",
+      "summary": "谷歌搜索升级，AI Mode由Gemini 4 Hydrogen驱动，旨在更好理解复杂问题、提供更相关链接和更丰富的视觉回答。此次更新聚焦提升多步骤查询的答案质量与信息可追溯性，显示谷歌正把生成式AI更深整合进核心搜索体验，以应对日益激烈的AI搜索竞争。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7688",
+      "title": "AI Expert, Spelman College President’s New Book Offers a New Vision for the Future of Artificial Intelligence - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMEhRRk5xSmtfazloT0JMWkN0aWdFcmV5NTdranhhTUpYY3ozX09wZ0YtS2V5WFdwaHVEdXlHem5GREQxUTYwd2FtZk5Fb3Z1LWhfeHdJYWg3cG5kTVlYenJQc09QZVJmSE10LUNLMWxHVFltaVVycmkxMnB6VTI5ZVhGLS1HTGZhUnotTjZQZl9nTS1YUkE4eUprXzk5YkZ6OW1OUDRZV3FldTR1S0x6QnRlT25SLUFrRDdkV0Q3cjZqOWxEclZVNWRoWnlxWHJXRS1TVWUzcjdzQW5RVXMwYVQ1SHpnODFabVVobGJGNjZKd0h0ckpHQTNsR1dtODBBcjJtbDdVOER0YXllSFHSAZMCQVVfeXFMTzZVYUFreURvRXJKTDd4NFdTWjB6ZGZEWVZZNEZHTTZLLTloaEdFQTdjZ3lXTzBhaURUSEtGS1kyUTJUUm5ZZjdkcjBsd0ZXRlB3OFdEaVVENXdZaktWYzNjSEhnOFdVODlKdHRpdlJCSlgzOFVHLUllOFZvWFU0Q19JZVV2NTQ5Yll1VEhaTkZtTnBjampqbDU4bElVcDhzS2YyYndQcWhWcXZGbmZ0NmZ2YmlxdzRPMTZxNmF4Z0pDWXF3T3prRU5fa2U5TzhGNXhPRzV5MUZuZHJydGJMWDdJRnlDMC0wRDBuM2JfbHJDM2xBUHl6QmR2eDlwakJWb1k2Ukt5aEJKckRaNWpoYzNidVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T19:21:08Z",
+      "summary": "AI专家、斯佩尔曼学院校长出版新书，提出面向未来的人工智能新愿景。报道称，该书从教育、公平与社会影响等角度讨论AI发展方向，强调在技术快速演进中纳入多元视角和负责任治理，为AI如何服务公共利益提供框架性思考。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7689",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T19:11:00Z",
+      "summary": "Nectar推出AI代理，面向品牌自动化创作者营销流程，包括发现合适创作者、管理外联与合作伙伴关系，以及追踪活动效果。该工具旨在降低人工筛选和沟通成本，提高达人营销效率，反映AI代理正加速进入营销运营场景，并推动品牌与创作者合作流程自动化。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7690",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T18:39:23Z",
+      "summary": "黄仁勋离职引发外界对英伟达开源AI承诺的质疑，涉及其对Hugging Face的收购、开放权重模型以及对限制性监管的反对立场。文章认为，在领导层过渡期，英伟达是否延续既有开源战略存在不确定性，可能影响开放AI生态与公司政策走向。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7691",
+      "title": "US public workers are fighting to protect their jobs from AI – and some are winning - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUE1UE5vTU4zUERuR24tVGJhanBER3pxWHN2Wm9wb3VlRWVoZEdNaHFrVWZYUU5ZdHM3RzBYT2dtc2cxaS00dUpvX3NoRkdSYTlhcUJvb05MazVlSEFVV2lJNmpEVFFJakUzNGlYMDJNTUM2c2ZsUmVSUy1RR3dZcHVjeEViWmctakhr?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T18:10:00Z",
+      "summary": "美国公共部门员工正积极行动，保护自身岗位免受AI自动化冲击，部分员工和组织已取得阶段性成果。报道聚焦工会与政府围绕AI部署、岗位评估和劳动保护的博弈，显示AI应用正从技术议题延伸至公共就业与政策治理，一些工会开始推动透明度和人类监督要求。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7692",
+      "title": "DOJ AI Task Force Puts Business Users in Enforcement Spotlight - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGxuT3ctZXQ0VDJ5d1NVRDd6ZVUzNWxVWXg3UzkwaGFhQlcwNHQ2TWxPWDJQZEg1bUxfaU9wNmFIT21GcTBuZk4wRThTU081a0JKaDE0ajc3QlJXRWRfQkpBc0FsMnVNa1gyX0s0MWR3cnFnUkVUYXR4UzlWZU9Td3M3TGYtbzBBdXM0Z0N5R19wMWQ4R25iT2kxX1JCcWRxM0hBb05sRkFHWkpDelJtQVBKRWtDSkNL?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T18:04:51Z",
+      "summary": "美国司法部AI工作组正将企业AI使用者置于执法关注中心，释放出监管机构不仅审视开发者，也将审查企业在业务中部署AI行为的信号。报道认为，企业需加强AI合规、风险评估与问责机制，以应对潜在的执法调查和法律责任。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7693",
+      "title": "10 things I’ve been told about AI over 72 hours in San Francisco - AFR",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEo3djZ4VVB3c0RoQmoxNWxCQzd3YVUxRkdnNTZ2SzVZeWxIakhLR0wwNTdSN3ZzazI3OS1fOFZnNEM2U3BySnFBY2IwZ0dtdTUxaGNlNW1Zd3dMQnVObGVwVlB0aFkxZ2ZtbDA2bUswMi13T2M3TDdCbDNydkRDcWpVNTk1MUVNWDF4MEJIQUtBYkNMd0R6UXI2V3FKWFY0b3ZQYUdNb0UyOV90Y3BIbEViYmhFZzl4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T18:00:00Z",
+      "summary": "记者在旧金山72小时内收集到关于AI的十条观察，反映当地AI行业情绪、投资热度、技术落地、人才流动和监管讨论等。内容以一线见闻呈现旧金山作为AI创新中心的动态，也提示市场对AI预期与现实落地之间的张力。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7694",
+      "title": "Associate professor finds agricultural relevance in artificial intelligence — and a rare sense of place - Auburn University",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDFWOHg2bGZVdm1idWVYcF8zZTUzblFuRjNjdzJ3b3pyZnpoR1ZFUzNteE5wV1ROYl93cng1Ti04bTI0RXRGbXFpZmp4dzhzekhTVzZzd2QyOEhQY1VwakVqNUlkUWQwTUx3U2loaUdkREdBdmxPZmxyNEtERk04SXpSVF95anVHYkttVHhKT2E4NWlFemhVb0lsYmFaT2RTM3JZOWRHbUFleXFEUklCRERmalpReHdobW1YUEw3d0NzTjNXQXJqYzNVMUJWSXp2MllOcV9TbV8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T17:58:52Z",
+      "summary": "奥本大学副教授将AI与农业结合，探索其在作物、数据分析和农业决策中的相关应用，并在科研与地方社区之间找到罕见归属感。报道以个人经历展现AI跨学科应用如何服务农业现实需求，也强调地方场景对技术研究的意义。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7695",
+      "title": "IMF monitoring AI developments, too early to say if AI reassessment underway - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOajBjUkJzUkpMQjZLck00SEljVmF6U3lRNWRVY3l4S2RpdDhJUVZHY2tmTmNrbE85VFZTQjdWU0ZiU1U0Nl8td0haRzdKOVhEYWRjMFFKaDhfbVE2NkoyS1dOUm96czBjSmlhdmJzcTdVSk1oUzZqSW1UQzZFR21zRDBlOWd1V0oxRk1ObUVlYlVjT0RfOFhlWUVZM3R2ZGh5NVAteWY4RGdfcWdqYjFaaFJnRDJOUTFZSmx5eEZ0ZmFrYVpyZ1BUemRHM1VvQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T17:49:42Z",
+      "summary": "国际货币基金组织表示正在密切关注AI发展及其对经济和金融的潜在影响，但认为目前判断市场是否正在对AI进行重新评估还为时过早。IMF的表态显示，AI投资热潮与生产率预期仍存在不确定性，需持续观察宏观金融风险。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7696",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T17:36:40Z",
+      "summary": "Hugging Face首席执行官承诺在黄仁勋离职后继续为开源AI而战，并回应外界对英伟达以129亿美元收购Hugging Face交易的疑问。事件凸显开源社区对科技巨头战略连续性的担忧，也表明开放模型生态的倡导者将加大政策与产业层面的推动力度。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7697",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T17:17:58Z",
+      "summary": "美国联合航空以网络安全风险为由，禁止AI代理代为预订机票和管理行程。该决定反映企业在将AI代理接入支付、身份验证和订单系统时面临的安全与责任边界问题，也意味着旅行行业对自动化代理的开放仍持谨慎态度。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7698",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T17:00:52Z",
+      "summary": "软银因提前订购用于AI数据中心的天然气涡轮机而损失逾30亿美元，可能给AI驱动天然气发电扩张的雄心降温。报道分析称，这一亏损暴露AI算力基础设施建设中的能源押注风险，并将影响电力市场对数据中心需求与燃气投资的预期。",
+      "fetchDate": "2026-11-12"
+    },
+    {
+      "id": "7699",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T17:00:00Z",
+      "summary": "Phota Labs利用AI将日常照片转化为专业级效果，目标不是再做一个普通修图工具，而是自动完成编辑流程，让普通用户更轻松地提升照片质量。该产品体现AI图像处理从手动工具向自动化、消费级创作辅助演进的趋势。",
+      "fetchDate": "2026-11-12"
+    },
+    {
       "id": "7666",
       "title": "New age Joshua in Bihar: Christian missionaries turn to artificial intelligence for Digital Evangelisation - Organiser",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZnNndkNLaDQ3U09WZmw3aHRMOVBSbGladzZvQnJDSU5EYkVUNUVrQzZ3UmoxOFpDNDJLbHNNRWNveTlfY1hsaDNnOFZZNElzbXZXREJrNWxOdjFJenladUJlOUJwcl9yS2lHenUzNk9LYUdoRWZ6eXpsaEJTa2ZqOFdrWTkwUWJXUGN3QzdYVzk5OEM4dUh2NDhuZklaODhiZ0pIVVI5RWpFQ1VTQzk3blMtbEJlR0NSWkZqQTUyb1NxQi1obkFuZ0l2Z1BNUWtoVDk0SldpeW9UWEs3SWNWYnZsRGtEUElXRmRNRlo5b3PSAfYBQVVfeXFMTW82RXZqUHZqRkRXalMxcVZPRlFIM0didHBBRFV6SkpWY2ZMZnU3eTZNQ0RBTzlTNkpGamY3ZEhqS2J0R0lGd2lwU3p1RDdoOHVtUk5yd2xYU2F0cXVuZmtBTmo0dDVvLTRwOVdyRFEzaERwcHkxX2V4NnBFV0tnc2lySUpfYkN6d1AzQzItMnRuOU5iUFRfTlhzc1NyaWtMOVllcmw2eE1hNlRfLW5kU2gyRDh3aDF0R0syUmlkZWJHU0lCMS1qUlV1UjAxdDJxWU9va1JKQzR3VHlJNTVBcjc2ZUQ0R244ZlJ1Vl9TR3RkYTluTzlR?oc=5",
@@ -69103,5 +69283,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7678
+  "total": 7698
 }
