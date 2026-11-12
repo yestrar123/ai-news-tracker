@@ -1,104 +1,76 @@
 {
-  "updatedAt": "2026-11-11 23:48:34 UTC",
-  "totalArticles": 14,
+  "updatedAt": "2026-11-12 04:46:17 UTC",
+  "totalArticles": 10,
   "articles": [
+    {
+      "title": "AI: INTELLIGENCE WITHOUT WISDOM? | Can Artificial Intelligence Understand Consequences? | Tech News - News18",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdUNwajRRUnZJeXBmdnFIRjF1U21EUHZkQmFhNjNpRFlqYzRSRXpramZGbFV2Rk11VjFOVnBwc3FJZl93cFBMRkRLN1pJRjE2QzNJYmVBWmY4V21KYTFPMXhfb19KSVNLZGtuMzAzbUZIcVNzMUJXUlQxeXdKWXJaSGs1a2wzM005aUNETHU0UG1yV0lkMlZOektkcGU3eVhpdWU1cHdYUWxVZlY2c2g3eVVBLW9ZWGZsWG5kVnVqUXZYOTkxdnhPUmdVNFhRUVA5Rkh5cGVEWdIB3AFBVV95cUxQQ2xSSk5CZHZyclNqcWNzVUNHSGVNX1c0blpKbFRIVzRZSkFONHQycXd5dGlVV3NVSXRjY2FnZ2s1MV9FcnRNT3dWNVhub2d3TFl0NmpkZVZTUWJwNktEdnpXUmFrdzdLMUJCOTh1RjNlbzYwblcwb1RpRWp5RW10UHUtZXlVVnM0ZWNCaUtkY1JoYU9JZlFhVWhGakxndllLUlFPb1ZwYVcza1o0VWJVNjFEWWJLT21jaXFmQmVKVFlIZDFsTFd2WEZqOUtDaDlPd2NaQjJtUFdMYjQ3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T04:21:42Z",
+      "summary": "该报道围绕“人工智能是否只有智能而缺乏智慧”展开讨论，核心问题是AI能否真正理解行为后果。随着AI系统在复杂场景中承担更多决策任务，其因果判断、风险意识和责任边界受到关注。文章提示，单纯提升模型能力并不等于具备实践智慧，AI落地仍需人类监督与制度约束。"
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-12T03:13:10Z",
+      "summary": "TechCrunch以半调侃方式梳理可能接替黄仁勋的人选，背景是英伟达尚无明确继任计划，而现任CEO正陷入争议。报道称这份名单并非严谨预测，而是对英伟达治理结构和领导层风险的观察，反映市场对这家AI芯片巨头未来走向的高度关注。"
+    },
+    {
+      "title": "91% of students use AI for studies, global survey finds - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0gxb25wSWpMVFRDenNtSE9JRktlS3BJSXQtdmNwTVduR1FBd2k0R3pSVlM4ZEYyR2hRNkx0Ny1PYnJwOWRTR3VGaVZlQ1pPU1BVMzBMYkRDVzNuREYyS3RTbEU3b2R6bEQzaHRBd2V6RXhXS3BoMUt6VFl0SnlRdGFFb3VVTnVBSUJ1QjVtMmhFYUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T03:03:16Z",
+      "summary": "一项全球调查显示，91%的学生在学习中使用人工智能工具。该数据表明AI已深度进入教育场景，覆盖资料检索、写作辅助、解题与学习规划等环节。报道同时引发对学术诚信、过度依赖以及教育资源公平性的讨论，提示学校需在鼓励应用与规范使用之间建立边界。"
+    },
+    {
+      "title": "Google opens new horizons for developers: creating interactive map applications using artificial intelligence commands - صوت الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNEhOWjM1TmQ3bkZmLTFtcWp1MEZpeWtTdGYzVGlRdFd6cXpyczZveHZwNTdCUFk1TFZQNEN6S2IxTU1qaVV0a3M0d3k1UTJwbzBtMmZaaEs1dVA5b3V6czczUGczVE5Dd1owandxNk9YQTFoZ0U1enRkdHQ3ZjMwNFR3R3htR1lfaHhDZFptVXJkb0tsQ2s4dUZlSnYydGhwemNaVDM2SXNRMzZzOWx5bUloSTU1MFAyRllJNUFsbHhLQlItVWVVQlY4OU1FdjRCR1lwRTdlNS1XX1hVNTRqRzZrT3BNeTJxSGlDNGFMQkp6anNmZWZ5ZWZrZW03SjZqM0hTMjR5TnpQXzBQVWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T02:51:09Z",
+      "summary": "谷歌为开发者开放新的AI能力，允许通过自然语言指令创建交互式地图应用。该方向将生成式AI与地图服务结合，降低开发门槛，使开发者可用更直观的方式构建位置查询、路线展示和地图交互功能。报道认为，这将拓展AI在应用开发和地理信息服务中的落地空间。"
+    },
+    {
+      "title": "Peru's banks say AI agents can now do the work once assigned to junior analysts - Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmp4ZVY1N0FPR3NwSW5SYnV2MmcyUndMXzZUWWJ1cTlYdHY3N2YwMS0yWVZnVlppbDFfamZIWXJtelRfcGloeHREUmVwVlMwSkJXcFVnQlZzLU0wanM5WERlT3AzZ1otbGRmdThndjNsNjdFOWZMdkF5Qkg2TThNRzZIZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T02:48:32Z",
+      "summary": "秘鲁银行业表示，AI智能体已能承担过去交给初级分析师的部分工作，显示金融业自动化正从流程辅助走向任务执行。报道关注AI代理在数据处理、分析和日常业务中的替代效应，同时也引出岗位重构、质量控制与责任归属等问题，反映银行对AI提升效率的期待。"
+    },
+    {
+      "title": "Chinese banks have been using artificial intelligence (AI) for their work in earnest, from simple ta.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KU2lCbkU3YWFnc1BvMmszQXVTWDVRY0ZVaUV1cmJiWjNxQkswNWNPRjJORndxNk1XYVlaZENVcUlUeldOTlVJcWNiYkQyWEU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T01:40:46Z",
+      "summary": "有报道指出，中国银行业正认真推进人工智能应用，覆盖从简单任务到更复杂业务的多种场景。文章以银行实践为切入口，显示AI已逐步进入金融业务流程，用于提升运营效率和服务能力。随着应用深入，模型可靠性、合规风控与人机协作将成为银行部署AI的关键议题。"
+    },
+    {
+      "title": "The ranking of food and beverage brands recommended by generative artificial intelligence (AI) such - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lUTdEMUFFVUNuSW9kal9Fdkd0Qk1va2prWi1HUFdXZWQ5TDVOV0FpNkZKMU9TNEFrc1IzVGJpNC1KUW5kQVFRNGN4ZXY4bms3Q1JN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-12T01:05:37Z",
+      "summary": "报道聚焦生成式AI推荐食品饮料品牌时形成的排名，反映大模型正影响消费信息获取和品牌曝光方式。用户越来越可能通过AI问答获得品牌建议，使AI推荐结果具备类似“搜索排名”的入口价值。文章提示，品牌需要关注生成式AI中的可见度、推荐逻辑与信息真实性。"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-11T23:50:00Z",
+      "summary": "TechCrunch梳理黄仁勋争议事件时间线，指出相关风波可能产生国家安全层面的影响。报道将个人丑闻与美中竞相建设先进AI基础设施的背景联系起来，认为英伟达领导层的不确定性不仅关乎公司治理，也可能波及芯片供应、产业政策与国家安全议题。"
+    },
     {
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
       "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-11T23:28:45Z",
-      "summary": "据TechCrunch报道，英伟达股价因董事会据称准备罢免创始人兼CEO黄仁勋而下跌。报道称，董事会最早可能在周三晚间决定是否解除其已任职33年的CEO职务。该消息凸显英伟达公司治理与领导层稳定性面临突发不确定性，但相关计划仍属传闻，需以官方披露为准。"
+      "summary": "英伟达股价下跌，此前有报道称董事会正准备罢免CEO黄仁勋。报道称，董事会最早可能在周三晚间决定是否移除这位创立公司并执掌33年的CEO。消息凸显英伟达面临领导层动荡风险，市场担忧其战略连续性和AI芯片业务前景受到冲击。"
     },
     {
-      "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
       "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-11T23:17:05Z",
-      "summary": "TechCrunch报道称，黄仁勋被指与一名英伟达下属存在另一段婚外情。此前他已因承认与一名被指为中国情报人员的女性有婚外情而受到批评。该报道使英伟达CEO的个人争议进一步升级，并可能影响公司声誉与治理讨论；相关指控仍需核实，英伟达方面尚未在给定信息中回应。"
-    },
-    {
-      "title": "Law firm Latham earmarks cash for associates' AI contributions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWDRwZDBSVE5Wb3VXcDY4VU9nOWRJcWp0T1F0cEM5ZU1BaExpSHdZc1YwcllKNXZQM2ZVYURRSVZ2MnpyVTZwcGJmWV9zMENsYlo1VDlxMmJrVkhOT1lYT0YtcVE2elRtZk0xcVhfaXpoZkFaOHhtMXNuRDRfeE1tdk1JZVQtRElRLUg5NDVyamxmTHJxWXE2WU9VRGV6R085X3lpVzNEbXhvdzE3ejdr?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-11T22:22:56Z",
-      "summary": "路透社报道，美国律所Latham将专门拨出资金，用于奖励或补偿律师在AI方面的贡献。此举反映法律行业正把人工智能应用纳入绩效与激励体系，鼓励律师利用AI提升效率、开发新服务。报道未给出具体金额和细则，但显示头部律所正通过薪酬机制推动AI落地。"
-    },
-    {
-      "title": "Why the data center you dread might never even be built",
-      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11T20:15:15Z",
-      "summary": "TechCrunch指出，数据中心热潮正遭遇地方反对、审批延迟和电力供应紧张等现实障碍，但更基础的问题是，许多已宣布的项目可能根本不会开工建设。文章认为，在数十亿美元AI基础设施投资背后，项目落地率、选址与电网接入存在高度不确定性，市场需警惕纸面规划与实际建成之间的差距。"
-    },
-    {
-      "title": "Meta is losing its longtime head of  infrastructure",
-      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11T20:12:01Z",
-      "summary": "TechCrunch报道，Meta长期负责基础设施的高管Santosh Janardhan将卸任。他于2009年加入公司，长期主管支撑Meta大规模产品与AI业务的数据中心和基础设施体系。此次人事变动发生在Meta持续加码AI算力建设之际，可能引发外界对其基础设施战略连续性和执行节奏的关注。"
-    },
-    {
-      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11T20:02:14Z",
-      "summary": "TechCrunch分析称，在政治与监管环境变化后，数据中心扩建仍受社区反弹和繁琐审批拖累，并面临争抢电力的压力。更关键的是，大量已公布项目可能永远不会建成。文章强调，AI基础设施投资规模虽达数十亿美元，但从宣布到落地仍受许可、地方支持和能源条件制约，实际新增容量或低于市场预期。"
-    },
-    {
-      "title": "Suno AI Music Review 2026: Can Artificial Intelligence Create Professional Songs and Music Videos? - Rebellion Research",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2VwZTQxWVlRYktqWmQzNHZDUDE0Zlp0NG5pTVVKOW5LR0dBNVY4cTBrZVRpX09jTHMzcFV2Q0tWSWQ1WGNSbkM2TFJTM01RdEZWc1JlNkFrRjMwOUNqTlhXbk9SVVdiemZkbmM5OHVsUXpUMUlRSENSSkw4UndjaktHblVzeExweEpjX3hhdW5EN3FYcW1IeDl4a1l0MXhiUEk5WkdnWEhDNVdBakkxMFZjUkM0Y0FDWFNLU0NLb2MyRnZfVG9heVl3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-11T19:57:11Z",
-      "summary": "Rebellion Research发布对Suno AI音乐的2026年评测，探讨人工智能能否创作达到专业水准的歌曲和音乐视频。文章围绕Suno在旋律、编曲、人声生成及视频化呈现等方面的能力进行评估，并讨论AI音乐在制作效率与创意表达上的潜力及局限。由于原文信息有限，具体评分和结论未在摘要中体现。"
-    },
-    {
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11T19:54:00Z",
-      "summary": "TechCrunch援引CoreWeave第三季度财报称，该公司正更多要求客户预付费用，并基于特定合同进行借款，还考虑采用可能推高价格的短期合约，为AI业务扩张融资。此举反映AI云服务商在资本密集扩张中寻求改善现金流和降低风险，但也可能影响客户定价与合同稳定性。"
-    },
-    {
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11T19:34:55Z",
-      "summary": "TechCrunch报道，英国AI芯片初创公司Fractile完成7.2亿美元融资，成为专用AI芯片竞赛中融资规模领先的玩家之一。该轮资金将增强其研发与商业化能力，也显示资本仍持续押注面向AI负载定制芯片的赛道。报道未披露更多投资方和估值细节，但融资规模凸显欧洲在AI芯片领域的竞争野心。"
-    },
-    {
-      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-11T19:22:22Z",
-      "summary": "TechCrunch报道，美国国会将传唤英伟达CEO黄仁勋，就他与一名被指为中国间谍的女性存在婚外情的指控作出说明。众议院共和党人要求其在周三结束前回应闭门简报请求。该事件把公司高管的个人争议推向国会审查层面，可能加剧英伟达面临的监管与政治压力；相关指控和安排仍待进一步确认。"
-    },
-    {
-      "title": "Accelerating generative AI delivery with reusable assets - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbWtNdXFyV1R6aDVhN1MzSzFISWY5THlpRFdWWlFBckVNQkYwWWRWTVI4R191TXhMRXVnOU9lOV9YcXoxRFFYUzFNd0hmODdUMlRZUEVtcTRjSG1fLThnZFdldDlZeER0UVFubkNWZFQ2cU8teXVKYmFpd25wNUJwSkUzbTd0ZnpKWGYteHhWU3RDOFdib3VkbHV4S29FaWJsS3dnRE1R?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-11T19:19:21Z",
-      "summary": "AWS发布文章，介绍如何借助可复用资产加速生成式AI应用的落地交付。核心思路是把模型调用、提示模板、检索增强、安全护栏与参考架构等沉淀为标准化组件，在不同项目间重复使用，避免从零搭建，从而缩短从原型到生产环境的周期，并降低开发与运维成本。对希望规模化部署生成式AI的企业而言，资产复用意味着更一致的治理规范、更可控的成本和更快的业务验证速度，也体现出云厂商正从提供单一模型能力转向提供工程化、可组装的交付体系。"
-    },
-    {
-      "title": "Can A.I. Help Us Engage More Closely with Art? Some Museums Think So. - Observer",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0hKUUhkeVdINEZET244NExCVUd4c0Z2dzZIX2tuVkt4TzVfSkNnQ1dhdFJEOVdSMGJrcDdqalcxS2FXU051bkEycGdkREdmdW5wOWRJV050M2h5ZG10ZUtNNEpaVTVrRFdjTW5IY3dodURjQjVSS016SUV6ZWVxc2ViOXVwSkRjWHpyZXUydWc4VWJhemV6dzdB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-11T19:15:23Z",
-      "summary": "Observer报道，部分博物馆正在尝试用人工智能拉近公众与艺术的距离。相关实践包括个性化观展导览、对话式展品解读、多语言内容生成以及互动装置，让观众按自身兴趣与知识背景理解作品，从而提升参与感与停留时长。与此同时，业内也强调AI应作为辅助阐释工具而非替代策展判断，需谨慎处理作品版权、解读准确性与文化立场等问题。整体来看，博物馆正把AI视为拓展观众触达与教育功能的手段，而非单纯的流量噱头。"
-    },
-    {
-      "title": "CareSource launches $1M grant program to support AI-powered solutions - Fierce Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbXpXelNEb3lJeG5wQ3NLTmxVV2syZ0psaE9zakcwMTl1RWpqSm1xWTk0MGZ6MFJEakd3WXI5Mmt5dlVTOHkyek9OTzl5T2dZM2NteVJFODU2dlU1bXBQSWt4d2VXRUdxN1BlSjMwWDV2TU5KenJQZ3pXSFBlRk03d2JFV3Nuck5sWlNaNG1SbDRiMWdPNzhHaHZGcWNFeHVBRTN0WmxKdjg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-11T18:35:24Z",
-      "summary": "据Fierce Healthcare报道，健康保险机构CareSource推出总额100万美元的赠款计划，用于支持AI驱动的医疗健康解决方案。该项目面向能够利用人工智能改善护理可及性、健康公平与运营效率的机构或团队，重点关注服务弱势人群的实际应用场景。此举反映出支付方正从单纯采购技术转向以资金扶持培育生态，推动AI在慢病管理、会员服务与健康数据分析等环节落地，同时也在探索效果评估与合规风险控制机制。"
-    },
-    {
-      "title": "AI Search Is Changing How Customers Discover Local Businesses: What Calgary Companies Need to Know in 2026 - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOclFDV01GbVJXWHNCd3ZRQzN3UEFtQVJadjhXX1R0and5Z3lSZXhqRklabGdBUW1QZ0RxQW0yc1R0czBHeDBXN0hvN3pGWHFxYWdpb21ncFJSemNpTE54cnhUS1RwWExTRFE1OXgyMjcwVk1iemZnR2V0N0I4ZXhKTkI2MjhtcHBQX1gyOV9vd2VWRUtqVllmbHZXMGRBdWVCY28tMFhsQzNEN1M1OXlRMmJudnRxMGpmR2JVTGRLbmJZWHJiV1U4YkRR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-11T18:07:06Z",
-      "summary": "TechBullion文章指出，AI搜索正在改变消费者发现本地商家的方式，并提示卡尔加里企业在2026年前需要做好准备。随着生成式搜索与对话式助手给出整合性答案，用户越来越少逐条点击链接，商家能否被AI摘要引用，取决于结构化数据、营业信息一致性、真实评价与高质量本地内容的完整度。文章建议企业重视生成式引擎优化，完善网站与地图平台信息，积累口碑，并监测AI渠道带来的曝光与到店转化。"
+      "summary": "黄仁勋被指与一名英伟达高管存在另一段婚外情。此前他已因承认与一名被指为中国情报人员的女性有染而受到批评，如今又面临与公司下属发生单独关系的指控。报道使英伟达CEO的私人争议进一步升级，并加剧外界对公司治理与领导层稳定性的关注。"
     }
   ]
 }
