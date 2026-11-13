@@ -1,55 +1,97 @@
 {
-  "updatedAt": "2026-11-13 13:35:10 UTC",
-  "totalArticles": 7,
+  "updatedAt": "2026-11-13 22:59:15 UTC",
+  "totalArticles": 13,
   "articles": [
     {
-      "title": "Nvidia fallout throws spotlight on Southeast Asia's AI boom - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ09ZMDRyQUM2a1owblp2UDFyTkd4MVVmLWhSVkt3VXJOY1ZaS0lJWFJkNVpobXNrTGl3Um0xRGswX3E0dXdmSzBJdTFlYVF4aThXNE8xLWpFRnNxODJKSDgyOGRaMUFwWThVVGFfTXdReUR0bW5wb05hdE9FNGM1X3l5SEc3V2ZTS1F4dHNnTVJNWWJiQ2YtMUUwV1FWdWlEV19NTTBvaThsQzZNa1l5MWR0d3ZSdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-13T13:15:25Z",
-      "summary": "英伟达相关风波持续发酵，使外界重新审视东南亚AI热潮的机遇与风险。该地区数据中心和AI创业依赖英伟达GPU及供应链，在美国出口管制与供应不确定性下，既面临算力成本上升，也可能催生本地替代与区域合作机会。"
-    },
-    {
-      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-13T12:52:19Z",
-      "summary": "英伟达动荡引发以色列风投关注。由于英伟达在AI芯片领域的主导地位及其对以色列科技生态的重要性，当地初创企业担忧冲击；但风投认为，供应链与客户关系重塑将为挑战者创造切入机会，并推动本土AI芯片和替代方案发展。"
+      "publishedAt": "2026-11-13T22:43:00Z",
+      "summary": "TechCrunch报道，黄仁勋离开英伟达CEO岗位后，AI初创融资出现明显缺口。此前英伟达在黄仁勋主导下向AI初创投入数百亿美元；创始人和风投预计未来融资规模缩小、估值承压，行业将更关注商业化与现金流。"
     },
     {
-      "title": "When Human Imagination Meets Artificial Intelligence: Debashis Sen Presents His Sixth Solo Exhibition of AI-Generated Canvas Art - Big News Network.com",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOHVKcEpBQkNmQUdQcV9aZWROdzFlTjRxYWdQRjFPM1JWMklnMERnN0tBNHpIZ2VJRlhXbkY4eXE4UTNFZ0w4ZmV2bmxTVjdvVzRTWmdRU05fMl9uSWZBN2RpOFgxWnlaY1lMNHIzTHhPWDFiYXpoOFk4VmtLb3BPMFZrbW1jYU1WT1RQYTRndHNrQnhHNXNrS2Y4RXFwTUFnbUswR2xsaDZkUHQ5bXh5ZkhJYWJSdUJlRG8yVkVkaXNkeDVnc240NlFXdW85SG84emhIbG1oNUF0anktMXdTN015UGpZeVVySEd6blRQNElfdVQ1QWU1V1A5S1V1Nk95ZWRj?oc=5",
+      "title": "AI rockets to top of worries about financial system in latest Fed survey - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-13T12:30:00Z",
-      "summary": "艺术家Debashis Sen举办第六次个展，展出由AI生成的画布艺术作品，探讨人类想象力与人工智能协作的边界。展览将AI作为创作工具，呈现人机共同完成视觉表达的可能性，也引发关于作者身份、原创性和艺术价值的讨论。"
+      "publishedAt": "2026-11-13T22:26:58Z",
+      "summary": "路透社援引美联储最新调查称，AI相关风险已跃升为金融系统最受担忧的问题。市场关注AI投资过热、估值高企、技术依赖及潜在系统性冲击，监管机构可能加强对AI在金融领域应用的审查与风险监测。"
     },
     {
-      "title": "Jensen Huang didn’t show confidence in his successor, report says",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "title": "HUD OCIO Plans Data and Artificial Intelligence Division - ExecutiveGov",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDR1a002Y0NEYlEtZG1TTmV1bV9HcmtEWWM5MXhVVkVUbWR2UEk5OEJjTnBwR3VGVmlYbGRsMk9KWkhqLVJBNFhHY3JfSi1FMmlEdC1nT2VYdHZxcnp0NjVtcS12RjdqZjgxQ2lNYzhxS3ZEbjhYN0hzc2lKQ3VaX1FMR3E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-13T22:26:39Z",
+      "summary": "ExecutiveGov报道，美国住房与城市发展部（HUD）首席信息官办公室计划设立数据与人工智能部门，以统筹数据治理、AI应用和数字化能力建设。此举反映联邦机构正将AI纳入组织架构，推动数据驱动决策和公共服务效率提升。"
+    },
+    {
+      "title": "Malaysia and Singapore step up Nvidia AI chip probes as charges brought against Chinese national over 917 smuggled servers — firm at center of Jensen Huang controversy announces inventory audit to account for all restricted GPUs - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNLVRQRDJjLUYybzVveW5wWEV2cU9ka3VhQXpvV3dWN00yNS11bzBnb0VDOTNENTVFdjh0ZkdMVDF4bjYxTTFZM0s4YmlsMHFyNUZjREFSRTN2Vi1QVk9mMjNqQ3JpY2hKWGRLUFNFR3ljWl91LWQ3dXhmQlNjdnR1WkMteHV2RklKek9UMElmLWVMa3NPU21yUnJ3akNvVDFBQ05fbW1EMVVOMzloYk5YZnU4di1SZ2VlVWkzOE1iUDVJM3R1OVFfb0E3bXpBLWJiY1pDekhXWUtScUplMU9TYVRSYkxYcmRmNmJTeTdKZ2RsU3NlM3pTalVXLWdwMlU5TmZDc0EwaS1wN3E2ZThQWEtjWDRteGRWZktZNDBIbDN4XzhJckg5akw0NXJHU1hxbUpfenhPVEpQQVFDTEZjOFg4d1VTbmNXSzVsZnZQQ01NTjZsamZDb0F0dE1HaDVQRDRONDRhQzRrOXNhbVFHOHJ3YUNHbEl3TVdkamVvNTRMcnFlVXV6LXBOcmNBaWtEeFBtRkRuNWNjZ1VxWUczdFUxTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-13T21:45:29Z",
+      "summary": "马来西亚和新加坡加强对英伟达AI芯片走私调查。一名中国公民因涉及917台走私服务器被起诉，处于黄仁勋争议中心的企业宣布盘点所有受限GPU库存。事件凸显高端AI芯片出口管制下，东南亚转运与合规审查风险上升。"
+    },
+    {
+      "title": "AI risks are the biggest threat to the financial system, Fed survey finds - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-13T21:00:12Z",
+      "summary": "CNBC报道，美联储调查显示AI风险被视为金融系统最大威胁。受访者担忧AI模型、数据集中和第三方依赖可能放大市场波动与操作风险，同时AI投资热潮或推高估值泡沫。监管层料将强化AI风险监测和治理要求。"
+    },
+    {
+      "title": "Artificial intelligence is scary. But history reminds us that tech makes lives better, not worse. - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNang1SV9DYXYxazFLSThrNy11WDRLVDRPcndXMERvWWJMN2cyMmlVRm1CS2dpMU81cmcxd0o3TTdGcHZDNXU4RnpNS1JibHNkamVUU252UmxnVnAxbmt4OVFqTTl2V0JTZkpoZ01yT2pKOUlBUGRIdkpJQl9OLVc4S3ZNbVFMSHYtSVd5NUNRSlRlbVlubVU0NjY3WFl5bThjRDgzb3FlZTFJYlQ1dEdUaHhBcE83RWZxVk1qV2loWHk1c0d6aVJaLUtod3dtdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-13T20:35:00Z",
+      "summary": "纽约邮报评论认为，人工智能虽令人不安，但历史表明技术总体让生活更好而非更糟。文章主张以历史经验看待AI冲击，关注其提升生产率、医疗与便利性的潜力，同时通过规则和适应机制管理就业、安全与伦理风险。"
+    },
+    {
+      "title": "Gemini 4 Hydrogen tops Argon on independent AI index - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5laTh2akZ0QmZqdzN1RXlWMXl5dFB3MVhNaVZoX0lqRnprcmF0RlFNbG84ekRBM09QWFYtenVqZ2ZyT0JZVGloam14SFE3RERVNDBtOXhySHpDcVVPcDFpX1dfOXNSamM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-13T19:44:09Z",
+      "summary": "BetaNews报道，在独立AI指数评测中，Gemini 4 Hydrogen排名超过Argon。该结果反映模型能力竞争仍在快速演进，评测维度可能涵盖推理、知识、指令遵循等；独立基准为企业选型和开发者比较提供参考，但也需结合真实场景验证。"
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-13T12:28:23Z",
-      "summary": "有报道称，英伟达CEO黄仁勋在内部会议上对继任者Kress缺乏信心，并用“像被车灯照到的鹿”形容其表现。此事加剧外界对英伟达管理层接班安排和领导层稳定性的关注，也可能影响市场对公司治理与未来战略连续性的判断。"
+      "publishedAt": "2026-11-13T19:37:57Z",
+      "summary": "TechCrunch报道，AI智能体初创公司LangChain估值达到30亿美元。其模型与平台无关的智能体管理工具LangSmith已拥有7000家客户。融资与估值显示，企业级AI agent编排、观测和治理需求增长，成为生成式AI落地的重要赛道。"
     },
     {
-      "title": "Nvidia processors power Chinese AI data centre projects worth $3 billion despite US export controls: Report - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTRpWGx5Zk1JS0lxeEFWSERaOWVjdnczRnFkRnlYZlU2d0N0TWZEUV81TDVUSVVhbTJjeHdsdE5zV0Z4RWtLeXNpR1BpR0htejh4RlRQYk5aczRPbjJwWi1iT1BUaXlTZFFQX2tLNzVqejhxbHdjZXJ6c05GcXhraEp0MC1fZUlSc0FvWHRNRm14d0Z6Znlqcm5YdWxFVkpUcnhvNjEtSEZldTZDS3RJUEJ2bFpTYTZHV2EtYU1WdU1xay1QODVNMmxLUDU3MGdZcUJNLWZ2ZmpxOC1NN2ZOVVpINlJGOEsyekRCbUQwN3RBaDZDV2tLVjE1SGxhM1d6aENfYTB0YTLSAY4CQVVfeXFMT3ZzaWxKT2xJSzE5WGwzWFh1RVVMRFlFUzVzcEdZOG0xd3R5bXp0b3RoZTV4S3RBQVh5VHFadW5BWkNvdm1fVl9WZUFkVE9Yclk0WnVnR1RnUzdWelpaMGRidURKMUZMaHk0S3lKNjY5QXVhaVNKdUJkMnJobnl4Y0VleExCTjc5NVlRZmdsU0k1YkpMM1FHZlYzbWQ4cWljLXBEaVM4anMwbkEwVWdnSGhjZjB5UGxXejR2MVU2Zk5hY0FmQXNORGFWRVE1cmgxTm5CVmpMcGRudXFXUFltSUxNLTJUeWV5MUhPUlgyY2JvdFREdVpkTlN3RkZOYlQwVHUzdHYxR0FIM3BhZ3dn?oc=5",
+      "title": "Jensen Huang resigns as Nvidia CEO, Colette Kress steps in - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42RnVIQjBCRjFCeWM4cmRUVXNGQW5QUXlJei1TdGtXbnl0U25WS3ltWDdLTmNCVk9zbnprWlVjRThKb3pIV3dwdDNmaHlQSklIYktER2w4UU4tLXhqMU1MZ25WZjVscEVXSjRYd2tn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-13T12:22:49Z",
-      "summary": "有报告称，尽管美国实施出口管制，英伟达处理器仍为总价值约30亿美元的中国AI数据中心项目提供算力支持。相关项目显示高端GPU在禁令背景下仍通过多种渠道流入中国，凸显出口管制执行难度，以及中美AI算力竞争中的供应链博弈。"
+      "publishedAt": "2026-11-13T19:23:52Z",
+      "summary": "BetaNews报道，英伟达CEO黄仁勋辞职，由Colette Kress接任。消息正值英伟达AI芯片业务和全球算力供应链备受关注之际，管理层变动可能影响公司战略连续性、客户与投资者信心，以及AI基础设施投资节奏，后续需关注官方细节。"
     },
     {
-      "title": "Your Next Product Could Meet an AI Audience Before Its First Customer - TechBullion",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVzd6SEVhUU1MVlNnZHJrLXU2NnotTElDSzFuanZzWlEwRkVBOGZsMjhjS2VTMWNXVHpvYmN0dkg1dTFkMTk2blNHbDJOS2lJWWRVMEdNZGZpLVE1bU1oejd4V3dHWXUxTFQ4aTVybm5QVDBRUlF5cE1EUVlNa1Q3QTNHQTIyWW1oaFFmQUhBbm8yUXlfTFZPOVNR?oc=5",
+      "title": "Artificial Intelligence (AI) Avatars for REALTORS® - www.crea.ca",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wOXpIYWxvREVpeDNqZmtVdXlBUTZCaS1BNDlIQXlrZjRRbGpENDR6bE93a2RwellWS0VYRUEtNDJWTVVMSDM3ZnQ1UTdER3FHTExiZVhMdGl4bTF3TmFIOWpRaGdvM0JmSDRVVjc2MThpODd0RnNYT1VYLXg0Zw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-13T11:56:17Z",
-      "summary": "文章提出，产品在迎来首批真实客户前，可先接受“AI受众”测试：利用AI模拟目标用户，对概念、定价和卖点进行快速反馈。这种做法有望降低市场验证成本、缩短产品迭代周期，但也需警惕模拟偏差，不能完全替代真实用户调研。"
+      "publishedAt": "2026-11-13T19:08:13Z",
+      "summary": "加拿大房地产协会（CREA）网站介绍面向房地产经纪人的AI虚拟形象应用。该工具或用于生成营销内容、客户沟通和培训等场景，帮助经纪人提升效率并保持品牌一致性，同时需关注肖像授权、信息披露和消费者信任等合规问题。"
     },
     {
-      "title": "Jensen Huang’s Nvidia exit: Can a CEO scandal complicate America’s AI chip battle with China? - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOHFQYk9rVFVLckRqb3h2T3l1WV9PSTZIN2xGN2RLazM5bTJ3Vm9TR1FucjJocXhNZjNscUNma0RfYzhyTHZ4RjdnX2JUNGd3a0N2aXMwNTNRbmZiOFNaOU5iMHlUcUwwbFhvRW1QZ1RJZTlXSE1EYTAzd1NvcXlZaktIQ25CdngzWlRxVDZvUzJRUHBXZUpieFZfY2JweG1xR3pVNWxCbmV5eXdwLVhaYlFnWWtSVXY3YjdDcllvMnhMOUtWY0pMUlhUenZybDI0NS01VlcyZ1ZEX0FSalVUbWIwaWNhT0ZMUTNZeFZFTEJZMEMzSFHSAfsBQVVfeXFMUDV3ZnZCQ0x2OTVmZkpKNnhNZnpJUV8tYVlFdHR1bmNMakpjd2lwdTBmUjB4M1luU2IyMUNTTTR1aXlaTm1lUFlNb21MYXl1NS1aM0hxNFZQOGN3S0V1NERJSUx5UHN6ZXl3Ny1YS1kwQ21nTFNOU1Zub2Q5azlTWjVPM2hVLTF6cGNrN29FX25WX2czU0Z0cldaTmMwa3U0a2NiYzZzb29JRl92NFBkdlRMVGpYaFFmdWMtX1IwMC1WejZMY0dmRkE4TDg3Y0otUVdvZVdJb09uTFpPbkRCS0hrb01qUGd2SUpZbXM3ZHZqa3B0V0hsV2xSU0k?oc=5",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-13T18:40:30Z",
+      "summary": "TechCrunch报道，最新研究显示，中国目前最先进的人工智能模型，其训练所使用的正是被美国出口管制的英伟达芯片。这一发现直接挑战了出口限制能有效遏制中国AI发展的假设，也让英伟达CEO黄仁勋在政策层面陷入尴尬。报道暗示，相关芯片可能经由第三国转口等渠道流入，暴露出监管漏洞。此事或将促使美国进一步收紧管制、加强稽查力度，同时引发业界对算力出口管制实际效果的重新评估。"
+    },
+    {
+      "title": "FG seeks clearer rules for AI use in advertising - Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3ZMcGlXbFA1Zl9reGlLeVpWS1dZRFRrdkl1MHd4am5wZXFVQndFY3dTbUh4dWZLanhrUElRRldvbVFZOVVpdktNR3F1TU54ZzdLeTZDQ0ZtbEVlbzJOVEZtYXhvWHdXMndSX1BtUVRzejRSYTNtQ255bk9mYlN5dHVmWU5UQ0NodDJoYkpR?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-13T10:02:49Z",
-      "summary": "黄仁勋从英伟达离职及其CEO丑闻引发关注：这是否会干扰美国对华AI芯片竞争？英伟达处于美国AI芯片出口管制的核心，领导层变动可能影响政策沟通、客户信心和产品路线。事件也凸显企业治理风险可能外溢至国家科技竞争与供应链安全。"
+      "publishedAt": "2026-11-13T18:32:33Z",
+      "summary": "据尼日利亚商业新闻报道，尼日利亚联邦政府正推动为广告领域的人工智能应用制定更清晰的规则。随着生成式AI在广告创意、内容生成与投放环节快速普及，虚假宣传、深度伪造代言和误导消费者等风险随之上升。政府希望通过明确标准，界定AI生成广告内容的披露义务与责任归属，保护消费者权益并维护广告市场秩序。目前具体细则与监管主体尚未公布，后续可能涉及广告审查流程与行业合规指引。"
+    },
+    {
+      "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’ - Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT05UWGJTSFduUXhDT3l3QkdWNVBzcFBOb3p3blUzVFcwR3NQdFNGRUI4MV91cl9maVZTcmlfSW13VUd1X3k1REY3NE1jeFVlOC0wWkxLQXVHRVdTaW5JZER1VkVDQ2NfaEl5dkdGbWFDOHRhOHRPejJuOWVSa24xRFdCOE00V3VEbFBkZ0gxT29IZnVkdU83anc0QkozeldzU3FR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-13T17:02:32Z",
+      "summary": "据Breaking Defense报道，美国国防部将其主管人工智能的核心机构重新命名为“超级智能办公室”（Super Intelligence Office）。此次更名不只是品牌调整，更反映五角大楼AI战略定位的升级：从一般性AI应用转向追求更高级别、乃至超越人类水平的智能能力。该办公室将继续统筹美军AI研发、采购与部署，并协调与产业界的合作。更名同时释放信号，显示美方在与中国等对手的AI军事竞争中，力图保持技术领先与规则主导权。"
     }
   ]
 }
