@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "7748",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-14T21:41:22Z",
+      "summary": "包括马斯克在内的多位科技高管签署请愿，呼吁英伟达恢复黄仁勋的职务。截至周六下午，请愿已获超过11.5万个签名。事件凸显业界对英伟达领导层变动的高度关注，以及黄仁勋在公司与AI芯片生态中的影响力。目前请愿具体诉求和英伟达回应尚未披露。",
+      "fetchDate": "2026-11-14"
+    },
+    {
+      "id": "7749",
+      "title": "\"AI\" stole my job? Artificial intelligence explained in theater with quizzes and humor. - L'Unione Sarda",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDlCUE1HSENSZk9pN1NRZnF4SlB3R1lhSERYTjIyZnFmRFBpME52N0dkUmZRalRqVHZBYXJwaFFvbHpZWF9wZm5rMWp0YlJQWnlNb3JfVk5XQ240dl90QV9QSm42YmN3N2xaY2dqeElWN1IyWWNNWlBwaUtWRUUwOVlpSy05NTBfMW11ZUJ4dE9Ba05hWlN0cEt5TGNfZ0w0T3p1X3BleVNSYUZIZUhSMTk3N2VyWTl2VkhLNzNMck9TNnNGTzI5TDJCa9IBzwFBVV95cUxQT2FtbFFKQ2dRRDRvcl9IQUtLSkRwalpJUXpqeTdyNFNpdmwzc1NaT08zeW12X0dRYmdYZi1ERHZ6TVhwc0NmRkFLNnpRdVg4XzRhTmp5dmlDcTNqNkdVR1J3UklHZDBGVWs0anZVblN1cHREMVZkSHlkajVpamR5TlRKa1AzVUlKR05MdGVUOXRJZ2d6UElPam9vZDQtNXFBWnAwb080TW1acWFCUjdtY3NTeXF3MUthcVNtdXMyVW9iVUczbV9UeXR2dXc1ejg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-14T18:48:41Z",
+      "summary": "意大利媒体L'Unione Sarda报道，一场以“AI抢走我的工作？”为主题的剧场活动，用问答和幽默表演向公众解释人工智能。活动聚焦AI对就业的影响，以更通俗、互动的方式缓解公众焦虑，降低理解AI的门槛，体现AI议题正进入大众文化传播场景。",
+      "fetchDate": "2026-11-14"
+    },
+    {
+      "id": "7750",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-14T17:30:00Z",
+      "summary": "TechCrunch推出“AI墓地”持续清单，梳理已关闭或未达预期的AI项目与初创公司，案例包括苹果多次推迟的Siri AI、OpenAI混乱的“超级应用”发布等。该清单记录AI热潮中的失败与延期，反映高预期、快速迭代和商业化压力下，AI项目面临的技术与落地风险。",
+      "fetchDate": "2026-11-14"
+    },
+    {
+      "id": "7751",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-14T16:34:15Z",
+      "summary": "亚洲多国政府就英伟达CEO黄仁勋离职作出反应：一些政府着手确认芯片供应承诺，另一些则评估此事对本地AI项目的冲击，或推进相关调查。反应显示英伟达在区域芯片供应链和AI产业政策中的关键地位，以及领导层变动可能带来的不确定性。",
+      "fetchDate": "2026-11-14"
+    },
+    {
       "id": "7741",
       "title": "Is it AI or SI? Neither seems fully right. | Opinion - The Des Moines Register",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWW14TjI1ejFiQ0Y0WjZRc19RNm9aemNmR2w1X0FzSG1zWktFUzMyVElSa2hiOC1nSEFOSTJYcVBJY29qd1RPalJ6aWNSOWVEY05EcUpPb21ueVF3cmw0VlA1aE1rOWw1S3pFVUE0djhDckVVU0RMQTJaUWNLTzd4YUpKRGFLZDU5ZWV2UG91Z0hUWXhRWHF3aHVTU0V6YnFLdTZUZE05WmFXY1ZfSnhBd1diMlNkNjMxSzVrcXQyRWE4RDNiRmFlaVJaMGhxN0xsQ2Fv?oc=5",
@@ -69715,5 +69751,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7746
+  "total": 7750
 }
