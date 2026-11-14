@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "7737",
+      "title": "AI boom or bubble? Investors confront risks versus rewards - The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SQkp6ZTM4NUZoNFR5OEs1dC1pOWVHZzNna2xmU0o1aHVBVDJDenViRTlGLWV2T2llaUtDa2p1TERDMVNyRFByNFJBMV9TM0tI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-14T00:29:54Z",
+      "summary": "《The Edge Malaysia》报道，投资者正围绕AI究竟是产业繁荣还是估值泡沫展开争论，并在风险与回报之间重新权衡。一方面，AI算力投资、模型能力和企业应用持续扩张，支撑长期增长预期；另一方面，部分AI概念公司估值高企、盈利路径不明、资本开支回报周期偏长，令市场担忧情绪升温。报道认为，投资者的关注点正从“是否押注AI”转向“以何种价格、在哪些环节押注”，估值纪律与基本面验证将成为下一阶段的关键。",
+      "fetchDate": "2026-11-14"
+    },
+    {
+      "id": "7738",
+      "title": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence? - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDFpcDBqNkNOV0JPcjFPQVI0VUpIaE9EaE84Ni1BZU43cjRkOHlzUWpmOE9hZGZBX2pSN3FST3BEbzFPZTh1dkZSZWNPVU9wekdIdnVObjRVcFplRDNILUlZMklEOUNaOUtpbk1TaE5qS3hsSnF2ZW1oSVlzSkR5Yk1mQWFySGpyM25weDJn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-13T22:56:00Z",
+      "summary": "Futurism报道称，美国联邦航空管理局（FAA）推出AI空中交通管理工具数日后，全美空域出现关闭事件，报道对两者是否存在关联提出疑问。文章以时间上的接近为切入点，讨论在空管这类高安全等级场景中引入AI系统的风险边界、测试验证流程与人工兜底机制。需要指出的是，标题采用疑问式表述，并未确认AI工具与空域关闭之间存在因果关系，相关内容仍待官方调查与说明，读者不宜据此直接下结论。",
+      "fetchDate": "2026-11-14"
+    },
+    {
       "id": "7724",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
@@ -69616,5 +69634,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7735
+  "total": 7737
 }

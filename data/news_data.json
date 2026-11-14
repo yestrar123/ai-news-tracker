@@ -1,97 +1,48 @@
 {
-  "updatedAt": "2026-11-13 22:59:15 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-11-14 03:56:10 UTC",
+  "totalArticles": 6,
   "articles": [
+    {
+      "title": "Artificial Intelligence (AI) Avatars for REALTORS® - crea.ca",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wOXpIYWxvREVpeDNqZmtVdXlBUTZCaS1BNDlIQXlrZjRRbGpENDR6bE93a2RwellWS0VYRUEtNDJWTVVMSDM3ZnQ1UTdER3FHTExiZVhMdGl4bTF3TmFIOWpRaGdvM0JmSDRVVjc2MThpODd0RnNYT1VYLXg0Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-14T00:45:06Z",
+      "summary": "加拿大房地产协会（CREA）发布面向房地产经纪人的AI虚拟形象（AI Avatars）相关消息，拟将该技术引入行业服务与营销环节。AI虚拟形象可用于自动生成房源介绍视频、进行客户初步问答和品牌展示，帮助经纪人以更低成本产出多媒体内容并延长在线响应时间。此举反映出生成式AI与数字人技术正加速向房地产等传统服务行业渗透。不过，虚拟形象在信息准确性、客户信任和合规披露方面仍需规范，行业落地效果有待观察。"
+    },
+    {
+      "title": "AI boom or bubble? Investors confront risks versus rewards - The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SQkp6ZTM4NUZoNFR5OEs1dC1pOWVHZzNna2xmU0o1aHVBVDJDenViRTlGLWV2T2llaUtDa2p1TERDMVNyRFByNFJBMV9TM0tI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-14T00:29:54Z",
+      "summary": "《The Edge Malaysia》报道，投资者正围绕AI究竟是产业繁荣还是估值泡沫展开争论，并在风险与回报之间重新权衡。一方面，AI算力投资、模型能力和企业应用持续扩张，支撑长期增长预期；另一方面，部分AI概念公司估值高企、盈利路径不明、资本开支回报周期偏长，令市场担忧情绪升温。报道认为，投资者的关注点正从“是否押注AI”转向“以何种价格、在哪些环节押注”，估值纪律与基本面验证将成为下一阶段的关键。"
+    },
+    {
+      "title": "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence? - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDFpcDBqNkNOV0JPcjFPQVI0VUpIaE9EaE84Ni1BZU43cjRkOHlzUWpmOE9hZGZBX2pSN3FST3BEbzFPZTh1dkZSZWNPVU9wekdIdnVObjRVcFplRDNILUlZMklEOUNaOUtpbk1TaE5qS3hsSnF2ZW1oSVlzSkR5Yk1mQWFySGpyM25weDJn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-13T22:56:00Z",
+      "summary": "Futurism报道称，美国联邦航空管理局（FAA）推出AI空中交通管理工具数日后，全美空域出现关闭事件，报道对两者是否存在关联提出疑问。文章以时间上的接近为切入点，讨论在空管这类高安全等级场景中引入AI系统的风险边界、测试验证流程与人工兜底机制。需要指出的是，标题采用疑问式表述，并未确认AI工具与空域关闭之间存在因果关系，相关内容仍待官方调查与说明，读者不宜据此直接下结论。"
+    },
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-13T22:43:00Z",
-      "summary": "TechCrunch报道，黄仁勋离开英伟达CEO岗位后，AI初创融资出现明显缺口。此前英伟达在黄仁勋主导下向AI初创投入数百亿美元；创始人和风投预计未来融资规模缩小、估值承压，行业将更关注商业化与现金流。"
+      "summary": "TechCrunch AI报道，风险投资人和创始人均表示，黄仁勋的离开给AI初创企业融资留下巨大缺口。此前在黄仁勋主导下，英伟达向AI初创公司投入了数百亿美元，成为该生态最重要的资金来源之一。如今创始人开始为更小的支票金额和更低的估值做准备，行业融资环境趋于收紧。这一变化可能加速AI创业公司的分化：具备清晰商业化路径的团队仍能获得资本青睐，而依赖战略投资输血的早期项目将面临更大生存压力。"
     },
     {
       "title": "AI rockets to top of worries about financial system in latest Fed survey - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-13T22:26:58Z",
-      "summary": "路透社援引美联储最新调查称，AI相关风险已跃升为金融系统最受担忧的问题。市场关注AI投资过热、估值高企、技术依赖及潜在系统性冲击，监管机构可能加强对AI在金融领域应用的审查与风险监测。"
+      "summary": "路透社报道，美联储最新金融稳定调查显示，人工智能已跃升为受访者最担忧的金融体系风险之一。市场关注点集中在AI相关资产估值偏高、投资高度集中于少数大型科技企业、以及AI技术可能放大市场波动和操作风险等方面。调查结果表明，监管机构与市场参与者正将AI视为潜在的顺周期风险来源，而非单纯的技术机遇。若AI投资回报不及预期，可能通过股价、信贷和融资链条向更广泛的金融体系传导。"
     },
     {
-      "title": "HUD OCIO Plans Data and Artificial Intelligence Division - ExecutiveGov",
+      "title": "HUD OCIO Reorganization to Establish Data and AI Division - ExecutiveGov",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDR1a002Y0NEYlEtZG1TTmV1bV9HcmtEWWM5MXhVVkVUbWR2UEk5OEJjTnBwR3VGVmlYbGRsMk9KWkhqLVJBNFhHY3JfSi1FMmlEdC1nT2VYdHZxcnp0NjVtcS12RjdqZjgxQ2lNYzhxS3ZEbjhYN0hzc2lKQ3VaX1FMR3E?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-13T22:26:39Z",
-      "summary": "ExecutiveGov报道，美国住房与城市发展部（HUD）首席信息官办公室计划设立数据与人工智能部门，以统筹数据治理、AI应用和数字化能力建设。此举反映联邦机构正将AI纳入组织架构，推动数据驱动决策和公共服务效率提升。"
-    },
-    {
-      "title": "Malaysia and Singapore step up Nvidia AI chip probes as charges brought against Chinese national over 917 smuggled servers — firm at center of Jensen Huang controversy announces inventory audit to account for all restricted GPUs - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNLVRQRDJjLUYybzVveW5wWEV2cU9ka3VhQXpvV3dWN00yNS11bzBnb0VDOTNENTVFdjh0ZkdMVDF4bjYxTTFZM0s4YmlsMHFyNUZjREFSRTN2Vi1QVk9mMjNqQ3JpY2hKWGRLUFNFR3ljWl91LWQ3dXhmQlNjdnR1WkMteHV2RklKek9UMElmLWVMa3NPU21yUnJ3akNvVDFBQ05fbW1EMVVOMzloYk5YZnU4di1SZ2VlVWkzOE1iUDVJM3R1OVFfb0E3bXpBLWJiY1pDekhXWUtScUplMU9TYVRSYkxYcmRmNmJTeTdKZ2RsU3NlM3pTalVXLWdwMlU5TmZDc0EwaS1wN3E2ZThQWEtjWDRteGRWZktZNDBIbDN4XzhJckg5akw0NXJHU1hxbUpfenhPVEpQQVFDTEZjOFg4d1VTbmNXSzVsZnZQQ01NTjZsamZDb0F0dE1HaDVQRDRONDRhQzRrOXNhbVFHOHJ3YUNHbEl3TVdkamVvNTRMcnFlVXV6LXBOcmNBaWtEeFBtRkRuNWNjZ1VxWUczdFUxTQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-13T21:45:29Z",
-      "summary": "马来西亚和新加坡加强对英伟达AI芯片走私调查。一名中国公民因涉及917台走私服务器被起诉，处于黄仁勋争议中心的企业宣布盘点所有受限GPU库存。事件凸显高端AI芯片出口管制下，东南亚转运与合规审查风险上升。"
-    },
-    {
-      "title": "AI risks are the biggest threat to the financial system, Fed survey finds - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-13T21:00:12Z",
-      "summary": "CNBC报道，美联储调查显示AI风险被视为金融系统最大威胁。受访者担忧AI模型、数据集中和第三方依赖可能放大市场波动与操作风险，同时AI投资热潮或推高估值泡沫。监管层料将强化AI风险监测和治理要求。"
-    },
-    {
-      "title": "Artificial intelligence is scary. But history reminds us that tech makes lives better, not worse. - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNang1SV9DYXYxazFLSThrNy11WDRLVDRPcndXMERvWWJMN2cyMmlVRm1CS2dpMU81cmcxd0o3TTdGcHZDNXU4RnpNS1JibHNkamVUU252UmxnVnAxbmt4OVFqTTl2V0JTZkpoZ01yT2pKOUlBUGRIdkpJQl9OLVc4S3ZNbVFMSHYtSVd5NUNRSlRlbVlubVU0NjY3WFl5bThjRDgzb3FlZTFJYlQ1dEdUaHhBcE83RWZxVk1qV2loWHk1c0d6aVJaLUtod3dtdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-13T20:35:00Z",
-      "summary": "纽约邮报评论认为，人工智能虽令人不安，但历史表明技术总体让生活更好而非更糟。文章主张以历史经验看待AI冲击，关注其提升生产率、医疗与便利性的潜力，同时通过规则和适应机制管理就业、安全与伦理风险。"
-    },
-    {
-      "title": "Gemini 4 Hydrogen tops Argon on independent AI index - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5laTh2akZ0QmZqdzN1RXlWMXl5dFB3MVhNaVZoX0lqRnprcmF0RlFNbG84ekRBM09QWFYtenVqZ2ZyT0JZVGloam14SFE3RERVNDBtOXhySHpDcVVPcDFpX1dfOXNSamM?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-13T19:44:09Z",
-      "summary": "BetaNews报道，在独立AI指数评测中，Gemini 4 Hydrogen排名超过Argon。该结果反映模型能力竞争仍在快速演进，评测维度可能涵盖推理、知识、指令遵循等；独立基准为企业选型和开发者比较提供参考，但也需结合真实场景验证。"
-    },
-    {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-13T19:37:57Z",
-      "summary": "TechCrunch报道，AI智能体初创公司LangChain估值达到30亿美元。其模型与平台无关的智能体管理工具LangSmith已拥有7000家客户。融资与估值显示，企业级AI agent编排、观测和治理需求增长，成为生成式AI落地的重要赛道。"
-    },
-    {
-      "title": "Jensen Huang resigns as Nvidia CEO, Colette Kress steps in - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42RnVIQjBCRjFCeWM4cmRUVXNGQW5QUXlJei1TdGtXbnl0U25WS3ltWDdLTmNCVk9zbnprWlVjRThKb3pIV3dwdDNmaHlQSklIYktER2w4UU4tLXhqMU1MZ25WZjVscEVXSjRYd2tn?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-13T19:23:52Z",
-      "summary": "BetaNews报道，英伟达CEO黄仁勋辞职，由Colette Kress接任。消息正值英伟达AI芯片业务和全球算力供应链备受关注之际，管理层变动可能影响公司战略连续性、客户与投资者信心，以及AI基础设施投资节奏，后续需关注官方细节。"
-    },
-    {
-      "title": "Artificial Intelligence (AI) Avatars for REALTORS® - www.crea.ca",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wOXpIYWxvREVpeDNqZmtVdXlBUTZCaS1BNDlIQXlrZjRRbGpENDR6bE93a2RwellWS0VYRUEtNDJWTVVMSDM3ZnQ1UTdER3FHTExiZVhMdGl4bTF3TmFIOWpRaGdvM0JmSDRVVjc2MThpODd0RnNYT1VYLXg0Zw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-13T19:08:13Z",
-      "summary": "加拿大房地产协会（CREA）网站介绍面向房地产经纪人的AI虚拟形象应用。该工具或用于生成营销内容、客户沟通和培训等场景，帮助经纪人提升效率并保持品牌一致性，同时需关注肖像授权、信息披露和消费者信任等合规问题。"
-    },
-    {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-13T18:40:30Z",
-      "summary": "TechCrunch报道，最新研究显示，中国目前最先进的人工智能模型，其训练所使用的正是被美国出口管制的英伟达芯片。这一发现直接挑战了出口限制能有效遏制中国AI发展的假设，也让英伟达CEO黄仁勋在政策层面陷入尴尬。报道暗示，相关芯片可能经由第三国转口等渠道流入，暴露出监管漏洞。此事或将促使美国进一步收紧管制、加强稽查力度，同时引发业界对算力出口管制实际效果的重新评估。"
-    },
-    {
-      "title": "FG seeks clearer rules for AI use in advertising - Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3ZMcGlXbFA1Zl9reGlLeVpWS1dZRFRrdkl1MHd4am5wZXFVQndFY3dTbUh4dWZLanhrUElRRldvbVFZOVVpdktNR3F1TU54ZzdLeTZDQ0ZtbEVlbzJOVEZtYXhvWHdXMndSX1BtUVRzejRSYTNtQ255bk9mYlN5dHVmWU5UQ0NodDJoYkpR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-13T18:32:33Z",
-      "summary": "据尼日利亚商业新闻报道，尼日利亚联邦政府正推动为广告领域的人工智能应用制定更清晰的规则。随着生成式AI在广告创意、内容生成与投放环节快速普及，虚假宣传、深度伪造代言和误导消费者等风险随之上升。政府希望通过明确标准，界定AI生成广告内容的披露义务与责任归属，保护消费者权益并维护广告市场秩序。目前具体细则与监管主体尚未公布，后续可能涉及广告审查流程与行业合规指引。"
-    },
-    {
-      "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’ - Breaking Defense",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT05UWGJTSFduUXhDT3l3QkdWNVBzcFBOb3p3blUzVFcwR3NQdFNGRUI4MV91cl9maVZTcmlfSW13VUd1X3k1REY3NE1jeFVlOC0wWkxLQXVHRVdTaW5JZER1VkVDQ2NfaEl5dkdGbWFDOHRhOHRPejJuOWVSa24xRFdCOE00V3VEbFBkZ0gxT29IZnVkdU83anc0QkozeldzU3FR?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-13T17:02:32Z",
-      "summary": "据Breaking Defense报道，美国国防部将其主管人工智能的核心机构重新命名为“超级智能办公室”（Super Intelligence Office）。此次更名不只是品牌调整，更反映五角大楼AI战略定位的升级：从一般性AI应用转向追求更高级别、乃至超越人类水平的智能能力。该办公室将继续统筹美军AI研发、采购与部署，并协调与产业界的合作。更名同时释放信号，显示美方在与中国等对手的AI军事竞争中，力图保持技术领先与规则主导权。"
+      "summary": "ExecutiveGov报道，美国住房与城市发展部（HUD）首席信息官办公室（OCIO）将进行重组，新设数据与AI部门，以整合数据治理、数据分析和人工智能应用能力。该举措意在推动部门数据资产集中管理，为业务决策和公共服务提供技术支撑，并顺应美国联邦机构普遍设立AI专职组织的趋势。新部门的职能边界、人员配置和预算安排，以及能否在合规与隐私保护前提下实现AI落地，将是后续关注重点。"
     }
   ]
 }
