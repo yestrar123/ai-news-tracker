@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "7752",
+      "title": "Artificial intelligence and future battlefield: Lessons for Sri Lanka - Island.lk",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOODljOUdxYkdFN01vNlRjLV8xR0M0ZlFfMzVici1rYWdlN0wyenFvMUl0T2ptRm9xSHBSMWdPUjFjUjhQaUxNMzk5STMzbTczSjQ2X0h5SlQtei03QzFCSUxoa3V4REhPbEVEU2dRZ0xnSUIxc1l6cHJhd2h0bGJCLV83TlJRSExsUHdFTEFkM2E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-15T02:19:00Z",
+      "summary": "该文以“人工智能与未来战场”为主题，探讨AI在情报分析、指挥决策、无人系统等军事场景中的应用趋势，并结合斯里兰卡的安全环境提出启示：需重视技术能力建设、人才培养、伦理与法律约束，以及不对称威胁下的防御策略，避免在智能化军事变革中落后。",
+      "fetchDate": "2026-11-15"
+    },
+    {
+      "id": "7753",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-15T00:08:07Z",
+      "summary": "TechCrunch关注英伟达安全团队缺位问题：其安全主管于8月低调离职；在CEO黄仁勋因包括与一名涉嫌向中国输送芯片的公司高管的关系而辞职后，前情报官员指出，这类信息泄露常隐藏于日常沟通中，多数企业安全团队难以有效识别和防范。",
+      "fetchDate": "2026-11-15"
+    },
+    {
+      "id": "7754",
+      "title": "Artificial Intelligence: Why are traditional industries adopting it? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zY1FGalNabjR6cEZNQUtfeGZ5RzhJZDU3aUJiTGVZeFdZeEctRWx3QXNremY1VGwtSU8xUmNBdnhINGFmdE5UQkxfNmFxWUVPcWEzd2p3TDhLTWc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-15T00:00:55Z",
+      "summary": "BBC文章聚焦传统产业为何加速采用人工智能。核心原因包括提升生产效率与自动化水平、降低运营成本、利用数据优化决策、缓解劳动力短缺，以及在竞争中保持敏捷。报道还可能涉及落地中的数据质量、技能培训、安全合规与组织变革等挑战，说明AI正从试点走向行业基础设施。",
+      "fetchDate": "2026-11-15"
+    },
+    {
       "id": "7748",
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
@@ -69751,5 +69778,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7750
+  "total": 7753
 }
