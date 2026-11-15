@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "7761",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-15T21:56:35Z",
+      "summary": "TechCrunch讨论黄仁勋的负面消息是否也会成为AI行业的坏消息。文章指出，黄仁勋几乎等同于英伟达，而当前AI经济在很大程度上依赖英伟达，因此其个人或公司层面的不利消息可能外溢至整个人工智能产业链，引发对AI热潮可持续性的关注。",
+      "fetchDate": "2026-11-15"
+    },
+    {
+      "id": "7762",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-15T20:20:57Z",
+      "summary": "SNL本周把多位科技巨头搬上舞台，用约会和间谍技能等桥段进行讽刺。节目延续了“尴尬、怪异科技高管”的常设主题，让演员集中展示对科技大佬的模仿，以喜剧方式调侃科技精英的公众形象与行为风格。",
+      "fetchDate": "2026-11-15"
+    },
+    {
+      "id": "7763",
+      "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 8 - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZG1pRzhORzZoRWVaQlhsYUVuRzA1ZjlVaXgyRWZiMFlyX0tIVU9rUEJ2TW5pNXJTMXNQaS1VNzdqTUdsRXM3VkI3VTdpa2w3RV9KdWZSeXlyQTBVWXZtTEIwcE90QU04OXN3MHJDWjNoY1BNbElpdVBvTzFnN0tIc2FJRXZvQk0xYXNDZ0I4MUJtSUZfcjY5Y2dYRdIBoAFBVV95cUxOUXNyMGZXR1dPbVhuakJ3MU5aekY1ZjdiSGFXaEdqY1ROSlhnU3QtYkU5YzhVdmlObzNvd19BM2Y1WGFUWWFyZ2pLSkZZUTc2OGt5UVBtVVV2WGRtUG5aQzZjanh3TndDVlY0UzRBZDJTZ2pOZkgyMkV6WVhmSm9yUWpwNGtlbktscGNTUnlIZUJtRGgyYk9HZHdFcnBmbnJ2?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-15T16:19:02Z",
+      "summary": "Security Affairs发布第8期AI网络安全简报，汇总人工智能与网络安全交叉领域的最新动态。虽然标题未展开具体案例，但可合理概括为关注AI带来的安全风险、网络威胁情报及防护议题，为安全从业者提供阶段性观察与信息参考。",
+      "fetchDate": "2026-11-15"
+    },
+    {
       "id": "7758",
       "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTJZbzJTbkZObVJJNzkyOExaejBHV2s4X2VON2x1Y0tvb3F2UFJJYU1URnRHdENVSEstSi1ScEw0OVEwTlRfTUFONEdTYl9YYlpNa2RUQXU2VTl2R1RWM0F4MXJ4aUFlNWk0TTJtOTh0ZWNyNGZfNVNuRF9fcnpiYmlkNDhLcUJSNF9wcUF3Y2RQdWZ4YUdnc1RMMHo?oc=5",
@@ -69832,5 +69859,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7759
+  "total": 7762
 }
