@@ -1,34 +1,90 @@
 {
-  "updatedAt": "2026-11-15 22:14:54 UTC",
-  "totalArticles": 4,
+  "updatedAt": "2026-11-16 08:47:19 UTC",
+  "totalArticles": 12,
   "articles": [
     {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-15T21:56:35Z",
-      "summary": "TechCrunch讨论黄仁勋的负面消息是否也会成为AI行业的坏消息。文章指出，黄仁勋几乎等同于英伟达，而当前AI经济在很大程度上依赖英伟达，因此其个人或公司层面的不利消息可能外溢至整个人工智能产业链，引发对AI热潮可持续性的关注。"
-    },
-    {
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-15T20:20:57Z",
-      "summary": "SNL本周把多位科技巨头搬上舞台，用约会和间谍技能等桥段进行讽刺。节目延续了“尴尬、怪异科技高管”的常设主题，让演员集中展示对科技大佬的模仿，以喜剧方式调侃科技精英的公众形象与行为风格。"
-    },
-    {
-      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTJZbzJTbkZObVJJNzkyOExaejBHV2s4X2VON2x1Y0tvb3F2UFJJYU1URnRHdENVSEstSi1ScEw0OVEwTlRfTUFONEdTYl9YYlpNa2RUQXU2VTl2R1RWM0F4MXJ4aUFlNWk0TTJtOTh0ZWNyNGZfNVNuRF9fcnpiYmlkNDhLcUJSNF9wcUF3Y2RQdWZ4YUdnc1RMMHo?oc=5",
+      "title": "As anxiety over \"artificial intelligence (AI) cheating\" spread, the government is considering blocki.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LTkZnLTZjWk9jak1HclJIdHF4UFEzRUQ0QjVCZklUNWhNX2c2X2M0STg1WGpITlp0UGc0YmtpLVJlaEdsZGRUUHdoUTV4enNwYVE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-15T19:48:00Z",
-      "summary": "韩国税务考试最高分考生在160道题中仅错1题，却承认借助AI作弊。Guardian报道称，这一近乎完美的成绩反而引发质疑，事件暴露AI工具被用于考试作弊的现实风险，也促使外界讨论考试诚信、AI使用边界与监管责任。"
+      "publishedAt": "2026-11-16T08:40:14Z",
+      "summary": "随着“AI作弊”焦虑在社会扩散，韩国政府正考虑出台阻断或限制措施，以应对利用生成式AI实施舞弊的风险。报道显示，相关讨论已从教育考试延伸至更广泛职业场景，监管重点包括技术防控、使用规范与责任界定。如何在鼓励AI创新与防范滥用之间取得平衡，成为政策制定者面临的核心议题。"
     },
     {
-      "title": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 8 - Security Affairs",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZG1pRzhORzZoRWVaQlhsYUVuRzA1ZjlVaXgyRWZiMFlyX0tIVU9rUEJ2TW5pNXJTMXNQaS1VNzdqTUdsRXM3VkI3VTdpa2w3RV9KdWZSeXlyQTBVWXZtTEIwcE90QU04OXN3MHJDWjNoY1BNbElpdVBvTzFnN0tIc2FJRXZvQk0xYXNDZ0I4MUJtSUZfcjY5Y2dYRdIBoAFBVV95cUxOUXNyMGZXR1dPbVhuakJ3MU5aekY1ZjdiSGFXaEdqY1ROSlhnU3QtYkU5YzhVdmlObzNvd19BM2Y1WGFUWWFyZ2pLSkZZUTc2OGt5UVBtVVV2WGRtUG5aQzZjanh3TndDVlY0UzRBZDJTZ2pOZkgyMkV6WVhmSm9yUWpwNGtlbktscGNTUnlIZUJtRGgyYk9HZHdFcnBmbnJ2?oc=5",
+      "title": "In order for artificial intelligence (AI) to change the world, someone must build a data center and - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mMXNYQ3hBRVBlQlZaQ2VMZ1FmdE02YVExS2YwbHh4SG9GV0hmOUZ1OUYzaFNBdWl5U05UeXZoQXExTVI3OWUwX3ZHS2tnNkE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-15T16:19:02Z",
-      "summary": "Security Affairs发布第8期AI网络安全简报，汇总人工智能与网络安全交叉领域的最新动态。虽然标题未展开具体案例，但可合理概括为关注AI带来的安全风险、网络威胁情报及防护议题，为安全从业者提供阶段性观察与信息参考。"
+      "publishedAt": "2026-11-16T08:20:59Z",
+      "summary": "人工智能要真正改变世界，离不开数据中心、算力与能源等底层基础设施的持续投入。报道强调，AI能力提升不仅取决于模型算法，也依赖有人建设并运营大规模数据中心，保障电力、网络和冷却等条件。这凸显AI竞赛正从模型层延伸至基础设施层，资本开支、能源供给和供应链能力将成为决定产业格局的关键。"
+    },
+    {
+      "title": "What Artificial Intelligence (AI) research misses about African markets (By Bas Wijne) - Zawya",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcXRHSzlSeHhYWXhYRjNJN3lqeUQxQUZ0bHJzZ2ZrOHJvc3cwdUJudU9LWEhEa3RUQ09sQm5oS1JYRm4tMW1zTHJzT0h0dXJnN2liWS10ME53ZGF3bTVLVmpzOGlueGpzUzR4OTlGZlo2a01CVW91U0hNT3NmTXZYMEFBZkp0MmxxQ3k2Q1VSdUlSWEhLZVM1Z0pjanB4WS1iSUtJaXpMLVhzYWd2N3VMNXlDNmZUb2x4MUxpU3ZXdHJYZkNPdGo2RlM0T2hKWWM2STlsN01tdkdKOXhwaUk0aENtVFJZUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T08:11:00Z",
+      "summary": "针对非洲市场，现有AI研究仍存在明显盲区。报道指出，若AI产品与研究多基于发达市场数据和假设，可能忽视非洲在语言、支付、基础设施、监管与用户行为等方面的差异。要释放当地市场潜力，需加强本地数据、场景化研究和包容性设计，让AI解决方案更贴合非洲企业与消费者的实际需求，避免技术红利分配失衡。"
+    },
+    {
+      "title": "Following the controversy over cheating using artificial intelligence (AI) by senior tax accountants.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLcnlqM1cyT0l0TXpaM0JKQkd2S0daRDVBX1ZPXzFzNjRKa08tVlJBWkpOUFQwUExObW9MdDJ5djVsX1M5WWZwZzJ6Y1lqaVhZYnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T07:56:39Z",
+      "summary": "资深税务会计师利用AI作弊的争议发酵后，相关行业与监管方开始审视AI在专业服务中的使用边界。报道暗示，事件可能推动更严格的执业规范、技术检测和问责机制，防止从业人员借助生成式AI伪造材料、规避审查或获取不当优势。如何在提升效率的同时维护专业伦理与合规底线，成为税务及财会行业亟待回答的问题。"
+    },
+    {
+      "title": "Dubai Taxi Company to train 400 employees in AI under new DIFC partnership - Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9KSmZCcmtMWjlyLVV4SC1aUzBPNHIxU3ZWUTJtRHUxdDFlUGZSVUx3aFNrRmtUUHNPbzR1N3RyRXpIak5tNjdrVzgyUjZRdDR0dGxQcGNoN2lvNGFhNkw4aER0Uzh0M1NNRnd0cnNGeUkxdHlnUm1wSEhSVy1WbmhVdzVGcmktRXlNUVA1QXNsVXB2Nmp5cnFMUXBLZHlvQ3E3cXBJMEVKQmdZZUZsRG9UeW1PVkVDazdQT0g2bGtjaDBPMC12ZzJDSlU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T07:48:10Z",
+      "summary": "迪拜出租车公司与迪拜国际金融中心建立合作，计划培训400名员工掌握人工智能技能。该项目旨在提升员工对AI工具的理解与应用能力，推动交通出行服务在运营、客户服务和决策等环节的智能化转型。此举也反映中东企业正加快AI人才队伍建设，通过政企合作缩小技能差距，为行业数字化升级储备人力资本。"
+    },
+    {
+      "title": "China’s Moonshot AI puts Kimi models into race for science discoveries - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekpucXFHMllYak5sZ0xCX2gzaUttVldTLVhuMjdmTTBQMHBsYnlxUVNfYU05Y3ZrQzM4YWxnaG9ZRllhLUxNUXFObEtPTWdLZTQwR1J5NG9VYW5Hak1aT1VoV2Y3M2x3WnV5Nmp2d1VRUlp0blRYRUFJcGw1ZTlQdUl4S3BkeWFVUkY5N1EtbkJCb0JWeDU4MHhaYmotZjd0YThrTdIBpAFBVV95cUxPSDh1S2RyczlzTnc4RnNEVnNRMl9SWW1jQXVPZVNXVmEzVW1kWnFZT29oRFQ1R0hWTGFKenBWeTZOUkZvWERUUjNlWlVHY21iMnJDX2dueTFxT2dLRVozcGlkaG5BNFlGZ09FOFpubGIyRjJ5Tll1NDR3dkV6VUdfN1B6Y1JRMjUxaTRXb3Nodk8xcVFWUWJhNnFIZnExMTlDckg5UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T07:30:08Z",
+      "summary": "中国AI公司月之暗面将其Kimi模型投入科学发现竞赛，探索大模型在科研场景中的应用潜力。报道显示，Kimi正面向文献理解、假设生成、数据分析等研究环节提供支持，力图在AI辅助科学发现的新赛道中占据位置。此举反映中国大模型厂商正从通用聊天转向高价值专业领域，寻找差异化竞争与商业化落地机会。"
+    },
+    {
+      "title": "No YouTube video can be used to teach physical artificial intelligence (AI). We need a 'Egocentric' - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5WmlMN0ZUaXp6Skk4ZjQ5RllXbGppMEQ4Q1VZMnFUMnhHT3dLNkRtR0pfMTl5eVZvQ2EtT28wcGtOZzN2VkdSSVYxZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T07:14:37Z",
+      "summary": "报道指出，仅靠YouTube等第三人称视频难以有效训练具身智能或物理AI，行业需要更多“自我中心”视角数据。此类数据以第一人称记录人类操作与感知过程，更贴近机器人在真实环境中的学习需求，有助于提升动作理解、交互决策和泛化能力。这凸显具身智能发展受制于高质量真实世界数据，数据采集方式或成竞争关键。"
+    },
+    {
+      "title": "they aim to gain insights into the global development of artificial intelligence (AI) and inform South Africa’s approach to the adoption of AI. He further said this is vital as advances in AI are ch - taungdailynews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPd21JVVIteG1yZ09GQnFYN0o3T0k0T3RNZllVTUJRM25DTFpoRnpEZjZwR0lpa2hPV1FKaWVnSVlHZFBSQUs4Mkd4MmJ6TDJVOVB6Q3pVZVk2SFhtaXVoems2T2VETW1BYzFiTmp1TGVwc3JaT1FIOERPajhHTzNuRkdDamdWRUFESE9yTmF5R3ctaUIyM19QMGRTckk0ZTdIdFNsMzUyT1NlcDFTcjJRTk9wakQ0Sm9UekE2OF9fcVNXcGFpdHlBZmdDNHRIaVdpUHdkNWRseFZMbUFIVU53MTFFR3FPOTczOXh0Ylg3TUJhRDdNY3ZnRWpqUTkzU0xLaGVQUzc2VG9FR3RQZk05ei00dTM0bzI5a1FxdUlBYVAtaWNkRkJxLWxsM19ISlRCLUcyYi1zRnpaME5JUU1mZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T07:02:18Z",
+      "summary": "南非相关方面正试图深入了解全球人工智能发展趋势，为该国制定AI采纳路径提供参考。报道指出，在AI技术快速演进背景下，掌握全球发展动态对南非尤为重要，可帮助其识别机遇、风险和监管重点。此举反映新兴经济体希望在吸收国际经验基础上，形成符合本地条件的AI战略，推动技术应用与治理能力同步提升。"
+    },
+    {
+      "title": "Is AI widening the gender gap at work? Pew Research finds women's employment growth lagging behind men's - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQLXFlWHZxbmhnc0NDdVowdFg5MXE2MVJzcnJ1VHJxVUp5R1JBd1E0bFhweGhCYUZJLWY4WTYzZHlBQm81R0dvTU5IZmN3cUd6QTdLSkIzRk5oby01N2pma1RqMElQeERiYVhab1lGRjFKZ1JpNWZzYWJ0V0NzWVREZHlPRWFfOF9fNHVYTENRWl9vRVQ3RENZMU91V1VyVFYtNGpPWnltTmtZaXgwcGZMdUFBcFRtVFFFZjRNaXc2QUdDbGdaZTBSNGxQRFpNM1pFbTZEUUtKNkJ6aU1jaU9rSExLdzc1WUtmMzNZRlhXRk5yczAxeUdGbG9jNnZkdUxlQld6dUE1MXlsQ1ZwRHpDanprazQteVpLX2cyT3dxaHA5b1XSAagCQVVfeXFMTXZRd0NYSmd5dUx1elJvUXZhRE5OZG95RjlqXzZhNll1S2lKN3d2Z2NVYk0wR1gyekxPMnR6Z0NidGVSZzFWUWVZY3BUQzN5ZTdNajZhbkxUY2wyZGo5VXUyNUY2Yk5PZjM3U2t2V1JTSjFGM0JycnM5b3hrNWNNVzRUNnFhSjQ4NEhjaGVRVHl6M2VVTjVrOU9jNlNyQzlQczA4c3BnMGMzRmpQeHg4ektPOWhsRENVV1BRSnMtUEFxNHcyeGVEMjFnNDZwMmliRVlWRUxKdXYwWUJuZ19KcG45SUtKWDA5TV9rdmdCVklySlBFTzNPdFNmSFlnNjFzRkpYZXkwWGI2Mk5aTER4R2NhLTBlUWMzdUdidm1SMFcyVnEwc0EwRm0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T06:55:00Z",
+      "summary": "皮尤研究中心发现，在AI影响下，女性就业增长落后于男性，引发AI是否正在扩大职场性别差距的担忧。报道指出，AI对不同职业和技能的影响并不均衡，女性在部分易受自动化冲击或AI技能需求较高的岗位中可能处于劣势。若缺乏针对性培训、职业转型支持和包容性政策，技术变革可能加剧既有不平等，需各方关注。"
+    },
+    {
+      "title": "No matter how you ask, more Americans are negative than positive about AI - Our World in Data",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQlpuTFBKY1luenVJUVBENm5pbUxRNXR6TlR1Ym15OVZVY0R5UVdQWWpFenhfZUY5LWJzTHhqRUFnQzY5eVN4Nm90OWZiX3BuZUJCOUhscGozX3RIajlvUXF4bGJwYnNjNVpodDE2anRzdENuSEctekd3RTJWR1JqZU9ydFNHTXFQYXY3NVhKS0xaQXhwUjlDWGhqQ0FzVU9E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T05:37:29Z",
+      "summary": "Our World in Data指出，无论采用何种提问方式，美国公众对AI持负面态度者均多于正面态度者。报道表明，这种负面情绪并非由调查措辞偶然造成，而反映公众对就业冲击、隐私安全、错误信息和伦理风险等问题的持续担忧。对AI企业和政策制定者而言，提升透明度、可解释性与实际获得感，是改善社会信任的关键。"
+    },
+    {
+      "title": "AI agents could help banks generate nearly 3x returns over three years: McKinsey - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUFZFSm9kaFYzbDFtWFppTW4ybFUweFB1cmk3Yjk1NGhnWnhFOFNZVVd0bHNrR3NVVkZPdXIyODAzeUwwM0tyU2FoS3hBYzJKazdXTlNUUW1wVFVnZlNCZV95Z2tFaDBQS3o5clFrWG5lQkU0UHJNeUx2R0FTZTVLNXFMVTRGTEplcUJ0RVJBeVJNekphelVWZlQ0SWhiVFhSMmlrQnJOZjRYTzJaMzJHejNsWkt5XzJ1R2gwQzlFMktjUF9HSFpBekNRcEhpZnZWYjVZVW9qeHlhRUNkV3ctSGJRRDZETVBnTEJVbExhOVJabWx2M0d6d9IB_gFBVV95cUxQT0lzNFNUUGJGb3NnQnB0OHpibkR2SWRseHNqbngzYzQwSFI2TGdIdWE0SDVBNkh5SzcyWURqN3NjSkZRWGRzNDFXeVlQQWozN1JCVjlNSm04Uk14Y1ZnMnVKektoTzVJSkJCemZIVFllT01qSHhoUmJ1U2xYR0RNLXNaRGh3eUVfQ2lyRWgzUjNST3Vyb3NacHNIVURaUjVKbXMySk9WbGptekg4UXRSZGpWMVNtWC1MLVlpcWZsM1ZYZ1lnYklhUXlINkViZzBvcjA5cWU1WlkybURtcTJXLVNyYXI2d1lGdnQ3R2VQRXVjbUlrQ2JuWDkzSmZWZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T05:18:00Z",
+      "summary": "麦肯锡报告指出，AI代理有望在未来三年帮助银行实现接近三倍的回报。文章认为，AI代理可自动执行多步骤任务、提升流程效率并降低运营成本，是银行释放AI价值的重要方向。该预测凸显金融机构对AI代理规模化应用的关注，但其实际回报仍取决于数据、合规、系统集成与组织调整等落地条件。"
+    },
+    {
+      "title": "Anthropic’s $90 Billion IPO Tests Investor Confidence in the Global AI Boom - Sri Lanka Guardian",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNEhOYlJvYTBPYkhSeUdDanpla0VMdTV4UkJVVno2cHRsNGljVlFDdVYxRnRCVFowTXRJYUNjd2lteWRlQUdJdlZtZTI5SFZ6WTJScktvYW1wMDJJcmxUR3NBSHBUdXhBQ0kwdV9CLWluY3lXRlVheE5pSGllYVNWbVAtNnBwRzBHWnQwWi1ieHlQMXlkSW1CdWtCMGo1UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T03:36:44Z",
+      "summary": "Anthropic的900亿美元IPO被视为检验全球AI热潮中投资者信心的关键事件。市场关注其估值是否合理、商业化与盈利路径能否支撑高预期，以及IPO表现会否影响其他AI公司的融资与上市节奏。若发行顺利，或强化资本对AI长期增长的信心；反之，可能加剧对AI泡沫和高估值的担忧。"
     }
   ]
 }
