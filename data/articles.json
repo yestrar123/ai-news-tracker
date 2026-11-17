@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "7789",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-16T23:32:32Z",
+      "summary": "网络安全AI初创公司Corma在产品推出约三个月后完成1.25亿美元A轮融资，由NEA领投，估值达到10亿美元，迅速跻身独角兽行列。该公司聚焦AI驱动的网络安全能力，此轮融资显示资本市场对AI安全赛道的强烈关注。",
+      "fetchDate": "2026-11-17"
+    },
+    {
+      "id": "7790",
+      "title": "How worried should we be about AI superintelligence? - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWpvdllzOWJXT1FPNkNEZV8tN3lEdmd5UXFzSkoyY2N4Y2k2WEV2UFJXc2IwQjNGT05ZUzZxVnpPZkt6S01pcTRITDdnQ1JjT2dYbWdjTjlfWG9Ga1ZXazRMdVB2cWRZa2lMRlhyY0hTWHVELUlwU2g1QkRVc3ptM2x3cFZLZEFlZy1iOFdTdnBWRmFn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T22:28:05Z",
+      "summary": "美国《Orange County Register》刊文探讨公众应如何评估AI超级智能带来的风险。文章围绕超级智能可能引发的失控、安全与治理问题展开讨论，反映业界和社会对前沿AI能力快速提升的担忧，以及建立监管与安全机制的紧迫性。",
+      "fetchDate": "2026-11-17"
+    },
+    {
+      "id": "7791",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-16T22:03:02Z",
+      "summary": "英伟达将于周二公布第三季度财报，临时CEO兼长期CFO Colette Kress迎来关键时刻。文章指出，在公司处于动荡之际，外界有许多问题期待英伟达回应，但公司很可能不会全部作答，涉及业绩前景、AI芯片需求、供应链与治理等核心关切。",
+      "fetchDate": "2026-11-17"
+    },
+    {
+      "id": "7792",
+      "title": "New US rules aim to close loophole, restrict Chinese firms’ remote access to AI servers and infrastructure — seeks to combat cloud rental workarounds to export controls - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQcUk3QWgyeElRSjVVWmIwZDR4YURwWFl0am5NM1FtTjVrWlFUeEdOb2MxZzNhd1lIX3ctLVBibWRaWnpMQi13YU5HdWdha1RrcGtBUGgzeGZPYi13MFhzWWxlSlhiSDY5cHctWndFOWhfLUFiNmxKZ2tlRFczaGU2LWJWWTlTTUhYMlBKeEQwRnV2NGpGSHFLOHBBYVhRSXBkbERKanE5Z29RTU02N216OWJFd29MS202OXl3VFB1aXJxcEF0T205VmFVNTVmRklwSGVzWXRrQ0Y3SGw5UlY4dTFOaGZsLS1EZjZ6Y1g2el9PcmNlRHNFVjZaVzljOFpXWG9lT01XMFF4SVJMRDNmLVZ2TzUzMnczSVdLRUdmZnd6MHFiazVCN3dEdXFrcTA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T21:50:00Z",
+      "summary": "美国推出新规，旨在堵住出口管制漏洞，限制中国企业远程访问AI服务器和基础设施，尤其针对通过云租赁规避芯片与算力出口限制的做法。新规反映美方将管制范围从硬件出口延伸至云端算力服务，可能影响跨国云服务与AI算力供应链。",
+      "fetchDate": "2026-11-17"
+    },
+    {
+      "id": "7793",
+      "title": "Morocco Plans AI Push to Transform Public Services, Support Businesses - Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS05pUU1OQVRYN2ZEMFJvRzRYdVp5eHAwZnVkTEpRTHRZOHVQWTZwcjJOOEJsZzFWRjNyUDMwR1FWZ1V6MnpVMWtReHZMbG5jZjlOeVhfQVoxS0pxWF96Rmp5TkY2SnZ4RjlNS3daaDA5YWVhS2FzektEU2ZpSVpUMmtaa3BOZjhNZjJZYXcwV2d4R0REU2JPVmtvRUdSclFFMzNESlpJVnhjWlVuejBtWmpMVjVJazF0NlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T21:36:31Z",
+      "summary": "摩洛哥计划推动人工智能发展，以改造公共服务并支持企业。该举措旨在利用AI提升政府服务效率、促进商业创新和数字化转型，体现摩洛哥将AI作为国家发展抓手的政策方向，但具体投入、时间表和监管框架尚待明确。",
+      "fetchDate": "2026-11-17"
+    },
+    {
+      "id": "7794",
+      "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTZyc1B6TVRQcUpuT0tOU0J2QWo0X0VIdlNDVVVpVi04UExZUGs0X0gtMHVqTWI5UEgtWXlOOGZIMUlNTVVnMTlNcC1ncU5sTjV1MnFlZElVWU5YdmlFU1pXVUpNbkJRTW16QTJEdXhNRW0yQzNpMzhJY1g1dkdHWHNjOVhGbkpQeGJncA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T20:50:15Z",
+      "summary": "Gizmodo报道，美联储担忧自主AI代理在金融场景中的快速行动可能加剧市场波动，甚至触发银行挤兑。随着AI代理被用于交易、理财和资金调度，其集体行为、羊群效应和系统互联风险可能放大金融不稳定，监管机构正关注相关风险。",
+      "fetchDate": "2026-11-17"
+    },
+    {
+      "id": "7795",
+      "title": "Bracewell Explains – What Opposing Counsel Can Learn From Your Expert’s AI Chats [Video] - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUlfaDd2ZTUtZHJmbWsyWHprSERDU1MzUWpOSk9OaDBEb281RVcxSG91X2cyYjd0RXpQV1Y0aVh2STR1bnZXbXllNDhzRWZ0Wmo0MTdqVTRVMEVMb0xVWW9HSDkxR0h1akRkNE00OEwyb2dLVFNZNXc2ZVNJYy0yZjZKVmNKT2xSaU9oTU4wWHl0V21GWkZnV3BKZlJJRW9fVWpQcHVyZ01zZzFGek1NMNIBtgFBVV95cUxPbHU4Ui0wUnRBZzlsblNpN0lvZ1liUzc5Q2RERXhkWkVQWVI5N2pVdEJCbkotdEprUzFkOEM1ME9nSXE5YzNZd2ZBeWRaS1cyMEhEUkRfODBjSUMyekFtaEZRNld0emtVM3E1akNCYnJqNklDMW9lYUdTUXBYT0Z4WUlqbFBZdWNTaUJaYXBtVlJLSzhHVW5SSXJQSG50N2V6VGJMaVZMeVl4bFJSRmFwRHk3ODgtdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T20:27:00Z",
+      "summary": "Bracewell在法律视频节目中解析，对方律师可从专家证人的AI聊天记录中获取有价值信息，用于质询或攻击专家意见。这提醒法律从业者，专家使用生成式AI时可能留下可被披露的记录，需重视AI使用政策、保密与证据开示风险。",
+      "fetchDate": "2026-11-17"
+    },
+    {
+      "id": "7796",
+      "title": "Law firm HSF Kramer taps legal engineering team to fuel AI capabilities - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnBhNVZjM19VYjFrY2E4NDZYU0FpcWNEeUd6aWxUd3l0ZVVQSTRpNU1MZW5VeTNPZGJ2aFFJM3Y3ejYyR3VuTUF6QTNTYUtkeS1KQWp2SXV6b3RlZGhQaENJejBkMVEtRWduRGlJeC1oN3BtTlA1NkJmMHh4bm9DR0lTeTF3TExLakFzLUVXcmNyQnA2Y1lmNVZkazRIY1YzVmtuU3d4MkhRMWk2TTNvTVdaZFBjVUl0cmMzXzNQNGJlQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T20:17:20Z",
+      "summary": "律师事务所HSF Kramer引入法律工程团队，以增强其人工智能能力。该团队可能负责将法律专业知识与AI工具、数据和工作流程结合，开发面向法律服务的自动化与智能应用，反映律所正通过“法律工程”推动AI落地并提升服务效率。",
+      "fetchDate": "2026-11-17"
+    },
+    {
+      "id": "7797",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-16T20:07:13Z",
+      "summary": "加州总检察长对OpenAI提起诉讼，涉及“失控智能体”事件。这是首批尝试让AI实验室对失控AI代理事件承担法律责任的案例之一，可能为AI代理造成损害时的责任认定、产品安全与监管义务树立重要先例。",
+      "fetchDate": "2026-11-17"
+    },
+    {
+      "id": "7798",
+      "title": "California Sues OpenAI Over A.I. Safety Issues - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem9ndlRta0lVanRIcmJ3Q0VBby14WkZHd3VRanhRNVNjYS1hZTRORHQ3WWhXYmozTDRnQ0o4MTJ4Y1ZNR0RuV0ZDX3Jqc3dHMnVOd1FpM0t3elhoQXdNSWlyS2NXdGZvUm5jMkJNQ3hUWnZieHZpeER5bkJTQVc3UWYxSi0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T19:55:37Z",
+      "summary": "据《纽约时报》报道，美国加利福尼亚州已就人工智能安全问题对OpenAI提起诉讼。该案的核心争议在于，AI企业在模型开发与部署过程中应承担何种安全责任，以及现有安全承诺与治理措施是否足以防范潜在风险。作为ChatGPT的开发方，OpenAI此次被州级政府起诉，反映出监管机构对前沿AI系统透明度、风险披露和用户保护的要求正在收紧，也标志着AI安全争议正从行业自律和政策讨论转向司法与监管实践。案件后续进展可能对美国AI企业的合规路径和州层面立法产生示范效应。",
+      "fetchDate": "2026-11-17"
+    },
+    {
       "id": "7776",
       "title": "AI disruption wipes out $206 billion in market value of 10 listed companies; which businesses are most at risk? - Livemint",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPc3ZTUmVxX0lpU1E2Y01pOWhwN3dFYzVDMG1RT1g3ajNsd0JkR3o4Z2lITmxIZXljRV84cjlobmxHcXRkcklTR2tVc1FnY2VkVFJxdGx5aE9aWUNEbDZZRDd4VVJ1dHhYa29lNnFvWnpfNE9ybUJRakpGMGdfeXhKS3JtOWdaNm5NZllrbEdjUm1Ca0lBTkpjaGpNb0pzY01TTTRYOXhKSGhKN3hpenN0a0dGZklkU1o2a2pFeDV2Z3ZHYXVsUlBoWHZIcHBrX1pVX2RiMmM1amxTUGlTSW9ld0s1d3lNZUJzaVNWT2s3d3hiNHhvQjdrV1poNnVqcXlGN0FfcGpNcjBkUdIBjwJBVV95cUxNVEJVSU93SU1Yc09kY3FLeHpDOUw0TGc5S01nMTFDbDE4cWhuWk1taDdYT2xqd3F2OTkxNjZ4cmxYRGxHdWRSU01LYjB4emRRU2hjMlZWWUdYa18wMkpfLXRyQkRJX0RNSTZFRnJCdTB5RldDbTJmSzAtYlc4TnhOMEU5N3AtMU04YWFzTmI1ZVh1MExyb3JZakxMdV9mYjJNLVo2aDBXQTBCNDZTSWl5dlFvVGRNNktNQUFwdmtHRFRfeUJRS3NMdGJzWGVUTHhVQUhXTGNUUnoxZy1WRkwyVHd0WjM4UnJpd1ZvVUwzbzJldllHd3B5Wm45dzk2NVN2cm9VWjhPUzVYRktOWnBN?oc=5",
@@ -70084,5 +70174,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7787
+  "total": 7797
 }

@@ -1,97 +1,83 @@
 {
-  "updatedAt": "2026-11-16 14:13:43 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-11-17 01:15:25 UTC",
+  "totalArticles": 11,
   "articles": [
     {
-      "title": "AI disruption wipes out $206 billion in market value of 10 listed companies; which businesses are most at risk? - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPc3ZTUmVxX0lpU1E2Y01pOWhwN3dFYzVDMG1RT1g3ajNsd0JkR3o4Z2lITmxIZXljRV84cjlobmxHcXRkcklTR2tVc1FnY2VkVFJxdGx5aE9aWUNEbDZZRDd4VVJ1dHhYa29lNnFvWnpfNE9ybUJRakpGMGdfeXhKS3JtOWdaNm5NZllrbEdjUm1Ca0lBTkpjaGpNb0pzY01TTTRYOXhKSGhKN3hpenN0a0dGZklkU1o2a2pFeDV2Z3ZHYXVsUlBoWHZIcHBrX1pVX2RiMmM1amxTUGlTSW9ld0s1d3lNZUJzaVNWT2s3d3hiNHhvQjdrV1poNnVqcXlGN0FfcGpNcjBkUdIBjwJBVV95cUxNVEJVSU93SU1Yc09kY3FLeHpDOUw0TGc5S01nMTFDbDE4cWhuWk1taDdYT2xqd3F2OTkxNjZ4cmxYRGxHdWRSU01LYjB4emRRU2hjMlZWWUdYa18wMkpfLXRyQkRJX0RNSTZFRnJCdTB5RldDbTJmSzAtYlc4TnhOMEU5N3AtMU04YWFzTmI1ZVh1MExyb3JZakxMdV9mYjJNLVo2aDBXQTBCNDZTSWl5dlFvVGRNNktNQUFwdmtHRFRfeUJRS3NMdGJzWGVUTHhVQUhXTGNUUnoxZy1WRkwyVHd0WjM4UnJpd1ZvVUwzbzJldllHd3B5Wm45dzk2NVN2cm9VWjhPUzVYRktOWnBN?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-16T13:31:56Z",
-      "summary": "据Livemint报道，AI冲击已使10家上市公司合计蒸发2060亿美元市值，市场正重新评估哪些商业模式最易被AI替代。报道聚焦受影响企业及高风险行业，反映生成式AI对传统业务估值、竞争格局和投资者预期的显著冲击。"
-    },
-    {
-      "title": "Dataphyte Explores AI’s Role in Scaling Accountability Journalism at AIJC 2026 - Dataphyte",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRUNIYkNjV0dHRFktNFVRdnlPRm1uUzA3Vm14d1hpLUgzLXA4VzdDaFBYTWpzZjBmb0o2Y0l0Q2JuODlrb3pvOXYzNmxfNGFRVVdtVGViZWtSTHBMMUtNaE1HVVRTQndnNG1XX0ZNUkJWWUVCVHZBUE9OR2Z6RzkyU0IycjF5d3JoaUFjVkFvZWNydXFOYlN1Z0JiZHhTellfUmZ5ZWRkZ3ItNTh6X2tlLTFwMW43c1VUeU9JSg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-16T13:22:02Z",
-      "summary": "Dataphyte在2026年AI新闻学大会（AIJC 2026）上探讨AI如何规模化赋能问责新闻，利用AI辅助调查报道、数据处理与公共监督，提升报道效率与覆盖面，同时关注相关伦理、透明度和可信度问题。"
-    },
-    {
-      "title": "AI finds zero-day flaws for just $4 now – even mediocre hackers can cash in - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHczdU5hUDQ1RFJGYkppM0VLQ1lqZkl3THZEd3FmMzZiS25hUWxnX1NNWnBVQmJURGNydlc3LTNYN1c0ODAzUWprLXo0M3NZdDZxRHd3cDNRVm15SlRMUmoyZGlBSmpYMXI3Q0RiNWxIVUZFRDExbGJaVndBLVRISTVrc3BZSWlpM0RYbQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-16T13:14:25Z",
-      "summary": "ZDNET报道，AI将零日漏洞的发现成本降至约4美元，使技术水平一般的黑客也能借此获利。这显著降低了漏洞挖掘和利用门槛，可能扩大网络攻击面，迫使企业和安全团队加强AI驱动的漏洞管理与防御。"
-    },
-    {
-      "title": "How artificial intelligence is reshaping pension disputes - Pensions Expert",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTF5SUVLdkMxNV82aTFpc0MtNEhmdy1mdWl1UmFvRmxzcVVwLTdsbm1zZTNXOEtvWkZBTDVtcFZXSVQ2Ql9iT2djbWxCUzRmeWpDOFA2SHVqOGt0MmY0bjhhUE1odjQ4VDBTbmZiTEhKYm85QzNzdmZQN2s5dGowWW9kRzhocUt6Vlc4U2JiYlIzSk01NUU5bk9lb1hORkMwSzNoZ1pILWc5ZXpLNEsxQjI2dFQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-16T12:57:27Z",
-      "summary": "Pensions Expert刊文探讨AI如何重塑养老金纠纷处理，包括辅助案件分析、文件审查、风险预测和争议解决，以提升效率并降低成本；同时也带来透明度、公平性、数据保护和监管合规等新挑战。"
-    },
-    {
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-16T12:30:00Z",
-      "summary": "Freshworks前员工创立的Dreamteam完成5300万美元融资，推出AI原生CRM，直接挑战Salesforce和HubSpot。公司已在13个国家签约100多家客户，并有企业从成熟CRM迁移，显示AI原生客户关系管理正成为新的竞争方向。"
+      "publishedAt": "2026-11-16T23:32:32Z",
+      "summary": "网络安全AI初创公司Corma在产品推出约三个月后完成1.25亿美元A轮融资，由NEA领投，估值达到10亿美元，迅速跻身独角兽行列。该公司聚焦AI驱动的网络安全能力，此轮融资显示资本市场对AI安全赛道的强烈关注。"
     },
     {
-      "title": "13-Year-Old Taurus Uday Sonawane combines artificial intelligence and biology to develop cell tracking app, recognised by India book of records - Education Times",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNVUx5ZjE0c1MwU0d5UEU1R2ZVVUItRGgxS3FFRkpWa04wM0RDNWItY2xZcF9PX3QwQ0NLcTlITkxhU2ZQajBFNTBaWjJ5QkUtNXVPYl9naUc2Z1Z4ZFZBaVRfRkZBd05iZ2hfTFpkdUl2Wm9LNjZkNVZ0aU5yNEN3RmJTNUZ3NWN1SFY0Mi12M01ZTDVlbzZXRl9NYzRmYW96SDYtZ0ZoX0Yxblktcktqak9yLWM3d3ZubVpiZHM3Sy1KXzdMc1dXWlhLN2llMlB5TVdEdG9tTlpPTjFWWGsyaHN1d0dMZnBYUVdIZDRFdnRlTlJXWFdXSHBVbFNqZm1SZ1Q5M2NtcDdoTWRjUmFOXzhnREZuR0E1V3R2UGhiVjhJTndEQlNiWFBjS0pWZ3NSUkE?oc=5",
+      "title": "How worried should we be about AI superintelligence? - Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWpvdllzOWJXT1FPNkNEZV8tN3lEdmd5UXFzSkoyY2N4Y2k2WEV2UFJXc2IwQjNGT05ZUzZxVnpPZkt6S01pcTRITDdnQ1JjT2dYbWdjTjlfWG9Ga1ZXazRMdVB2cWRZa2lMRlhyY0hTWHVELUlwU2g1QkRVc3ptM2x3cFZLZEFlZy1iOFdTdnBWRmFn?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T12:09:00Z",
-      "summary": "13岁的Taurus Uday Sonawane将人工智能与生物学结合，开发出细胞追踪应用，并获得印度纪录大全认可。该案例展示青少年跨学科创新能力，也体现AI在生物医学图像分析和细胞研究中的潜在应用价值。"
+      "publishedAt": "2026-11-16T22:28:05Z",
+      "summary": "美国《Orange County Register》刊文探讨公众应如何评估AI超级智能带来的风险。文章围绕超级智能可能引发的失控、安全与治理问题展开讨论，反映业界和社会对前沿AI能力快速提升的担忧，以及建立监管与安全机制的紧迫性。"
     },
     {
-      "title": "FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard - The Daily News | Texas' Oldest Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdURYVldBQUNjck5FSkF2MWhETlo1b1pyNVdjUjdGbGkzVk5FTVUzc0ttU2p5aVFvUEpOWU9XbnBhTjhqeUVMRjRSUDN2VUdUbTNicG5YN0FxTmZwRDgxUHk2WXhFR09PWWVoSW5NenJNRnp2c3l6U2h4YWlQZWsyeTRuemdGMGd3emtPQThKckRtSGJsMl9RMTZMMjNLeHg5VU1tOWFXZllWMUQ0VGhieHllTmJLaDhRUHNDaEZ1ajB0dWQyM2NFT1RIemdybnpvREVmOXZuMUJQLUEwR2pJckJJZXdYbVBxcDl0WVl0aloybm4wdW1aTXF4VGNvcGs?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-16T11:18:47Z",
-      "summary": "该条目为资料图片报道，画面展示键盘上的“AI Artificial Intelligence”字样，用于配合人工智能相关议题的视觉说明。原文未提供具体新闻事件、企业动态或技术细节，内容主要作为AI主题的通用配图素材，新闻信息量有限。"
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-16T22:03:02Z",
+      "summary": "英伟达将于周二公布第三季度财报，临时CEO兼长期CFO Colette Kress迎来关键时刻。文章指出，在公司处于动荡之际，外界有许多问题期待英伟达回应，但公司很可能不会全部作答，涉及业绩前景、AI芯片需求、供应链与治理等核心关切。"
     },
     {
-      "title": "As AI scrutiny grows, tech companies strengthen internal safety evaluations - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZGpmaDZkcExnVXZMTDhNMjdlQjhGdXhnQUtLRkZhWGQzbmFjSC14WlBqWklFTDNKRGVYTUVXZlJyb1l5WVZ6dUF2ZUl4U1JpcjI4alpFbWZvRUlvc3ctTWd2eE14TF9kSzIxTWIwektpeG1sRHZiS3d4WjJfUDdJMTBFa2M4S3JKaHBKZFh3VG1naEtldkxfTUd5clNDbVJWYnFQbzZfcHYzbWpXSlQxVlY0bUVNWml6MzI2cVJBdUVyLWJ4TlFyNE00b0JpMm1tMTFCc3gtRF9odm5sNFFoZkk0enU5TWpQNWs2TGx3d0Z1OFZKSGfSAfsBQVVfeXFMUG0wbFVObUphVXZwOW1IVDNmdFM5Q05YRHFneTczTDZfNDQtNzJtbEc1ZVowNlRiM2FBWFpTNXRWZnVmU2tBVHNCZ00xX1VhZG1NLXFHY1MyN28wWDA3Y3Mzc2M3c0pIWHlMS1ZiQmtweVV3VG9CQzFTZXQ5dElZc3A2cWtybTZJSGxlR2ZYSTZTZTVUeXp2c1Joenk4RDNJYjlJaURiMGs5dVREcTlVMVNLbFMtV3g5UXE1dGxVMXgtRGh4eDRjSlBySzFPTVplWk9ITFVhZ1BYUERKVVpmcE12TDFvclVrQjlZSHRIWTN3OG1MaFZfUk9PMHM?oc=5",
+      "title": "New US rules aim to close loophole, restrict Chinese firms’ remote access to AI servers and infrastructure — seeks to combat cloud rental workarounds to export controls - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQcUk3QWgyeElRSjVVWmIwZDR4YURwWFl0am5NM1FtTjVrWlFUeEdOb2MxZzNhd1lIX3ctLVBibWRaWnpMQi13YU5HdWdha1RrcGtBUGgzeGZPYi13MFhzWWxlSlhiSDY5cHctWndFOWhfLUFiNmxKZ2tlRFczaGU2LWJWWTlTTUhYMlBKeEQwRnV2NGpGSHFLOHBBYVhRSXBkbERKanE5Z29RTU02N216OWJFd29MS202OXl3VFB1aXJxcEF0T205VmFVNTVmRklwSGVzWXRrQ0Y3SGw5UlY4dTFOaGZsLS1EZjZ6Y1g2el9PcmNlRHNFVjZaVzljOFpXWG9lT01XMFF4SVJMRDNmLVZ2TzUzMnczSVdLRUdmZnd6MHFiazVCN3dEdXFrcTA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T10:52:06Z",
-      "summary": "随着外界对AI的审查日益严格，科技公司正在加强内部安全评估，通过模型测试、风险识别、持续监控和合规机制，提升AI系统的安全性与透明度，以应对监管机构、用户和公众对负责任AI的更高要求。"
+      "publishedAt": "2026-11-16T21:50:00Z",
+      "summary": "美国推出新规，旨在堵住出口管制漏洞，限制中国企业远程访问AI服务器和基础设施，尤其针对通过云租赁规避芯片与算力出口限制的做法。新规反映美方将管制范围从硬件出口延伸至云端算力服务，可能影响跨国云服务与AI算力供应链。"
     },
     {
-      "title": "ARTEX: How Cybercriminals Use AI Agents to Scale Their Attacks - Security Affairs",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmJER1FmTmtmNElRbWtOTFYtUVlWOUEtT0xkaF9zcjZVODBlMmp0eEwxemVaVlZ6WVplb3hzVTdKb1YxUzZaMnBGTXIxOThfanZMWS1JaEtxSHBLN2NxYVRtSWV2N2Q0MHBBQkhGX2dJYzNKZWwyVXJDUFZrZDVvazJsMURadXpxQlpacng4QUg0VXFBUDNFRVhaQ19pemJDREZpVXF3SdIBrAFBVV95cUxNbGJKZldBMFJYVXVLeXluWTZIY3NSTUZmWHBzeFh3TDNjd0YyTWJ4SXpnMTZvUUJKSWdsYmZlX0RXN00xWHlJUkVwOUZMdklBVWFnM2I1LW5DajN1NXR4OTk1dnBhUlZLRG9KQ184eE9WNFpwV2NLdURwbExlV3FUODR2Q3FpSUIyWF9SUG10amRzaVVnTHk1OWFVVWMwcmJKVWhjTE5NS3pCdHp4?oc=5",
+      "title": "Morocco Plans AI Push to Transform Public Services, Support Businesses - Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS05pUU1OQVRYN2ZEMFJvRzRYdVp5eHAwZnVkTEpRTHRZOHVQWTZwcjJOOEJsZzFWRjNyUDMwR1FWZ1V6MnpVMWtReHZMbG5jZjlOeVhfQVoxS0pxWF96Rmp5TkY2SnZ4RjlNS3daaDA5YWVhS2FzektEU2ZpSVpUMmtaa3BOZjhNZjJZYXcwV2d4R0REU2JPVmtvRUdSclFFMzNESlpJVnhjWlVuejBtWmpMVjVJazF0NlE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T10:12:26Z",
-      "summary": "Security Affairs刊文介绍ARTEX研究，分析网络犯罪分子如何利用AI代理规模化实施攻击，将侦察、钓鱼、漏洞利用等环节自动化，降低攻击成本并提升速度，使防御方面临更复杂、更高频的安全威胁。"
-    },
-    {
-      "title": "An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai - The Daily News | Texas' Oldest Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNOGtTaWF4OW9WT1JhLVBOcjNJdmc1UWR5aF9WRlhCRkk1Qy1FNWlWbGwydzNWeWhaLWNtV0pFMzNpSHQ0V0xOWWIwYjNWTEFFd0Y2blZpNXJ1TWtxYTE4QXV4X1RQaHFzMTU3cjZzZ0NMbGI0UFduSmJCcDFqWTdZNnZtZG1qOTFSRUY4blZNLUhHa01ZSzkwY3V6RE5mTE95UDVxeE1LV0dtSnJPbU41QnFtSktzQjNfOTd1QmV3aUlENjd4X1ZzYlBvVXpuRWhjMDd1NkdFdGlnVEp0M3RWb0dzMkMyX3VEam5MMHVvT1JDc2NpcTd4WG00aWdKeHBRRExleFlJeGdVYW9kUVZiU2ZOTGFCdW5Qcy1JSVl3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-16T09:16:47Z",
-      "summary": "该新闻为资料图片报道，画面显示上海世界人工智能大会（WAIC）现场的“AI”标识，用于配合大会及人工智能产业相关报道。原文未提供具体产品发布、企业动态或技术细节，主要作为WAIC主题的视觉素材，新闻信息较为有限。"
-    },
-    {
-      "title": "Prediction: Berkshire Hathaway Could Use Its $377.4 Billion of Cash to Buy This Monopoly Artificial Intelligence (AI) Stock Next - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVmRTNDI2TV9QcDA5M205TzFTRkV5Wmw1bkpxZTFRckZ5b2dYSlN2TGYwUXFHdGlPY2ZNaU9FYzFCS2FRZ2F1djVJQlN3aVBFdG9UZTN5Z2hqbUU1UDBzUjlhakhPdWRUalNmQmdtekRKemZOWkcxQ2FFYU56cVQ2YTlnZ1M1RzB2cGRIWmVmUEdlNGZYVDRvU0J2SFQ5OTZEcGlZczZyTGlnZE5SaV9oQUNSbE1EamV6eGtmdUhONnRHZjFYX2Z4Rjg1MmlTRTdRWFBxRzBab3hPbTR5OVdLdEsxRDM4dllXNWhJRDNnTmlqSF81NVcyZXhJZThpQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-16T09:12:00Z",
-      "summary": "该报道是《Motley Fool》的一则预测性评论，认为伯克希尔·哈撒韦可能动用其3774亿美元现金储备，收购一家具有垄断地位的AI公司。文章以标题化方式抛出潜在标的，但正文摘要未披露具体公司、估值或交易时间表，因此应视为观点而非已确认消息，投资判断需结合原文与更多信息。"
+      "publishedAt": "2026-11-16T21:36:31Z",
+      "summary": "摩洛哥计划推动人工智能发展，以改造公共服务并支持企业。该举措旨在利用AI提升政府服务效率、促进商业创新和数字化转型，体现摩洛哥将AI作为国家发展抓手的政策方向，但具体投入、时间表和监管框架尚待明确。"
     },
     {
       "title": "US, allies team up to protect AI tech and infrastructure amid China rivalry - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T09:04:16Z",
-      "summary": "报道称，美国正与盟友合作保护人工智能技术和相关基础设施，以应对与中国的科技竞争。此举反映出AI竞争正从模型与芯片延伸至基础设施安全、供应链和盟友协同，可能涉及技术保护、投资审查或出口管制等政策工具。具体措施与参与方需以原文为准。"
+      "publishedAt": "2026-11-16T20:51:44Z",
+      "summary": "路透社报道，美国正与盟友合作保护人工智能技术和基础设施，以应对与中国的竞争。此举可能涉及出口管制、投资审查、技术标准与供应链安全等协调措施，显示AI已成为地缘科技竞争的核心领域，相关联盟化管控趋势值得关注。"
     },
     {
-      "title": "What Artificial Intelligence (AI) research misses about African markets (By Bas Wijne) - Social News XYZ",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSjVZU0E5dDlpX2hqVXBIaHBBZFBrc1AyOHBsQWF6UE5oaWhxZERpRlZOZlhXZllhanNRUTdaLS03OHR6R1ZHYXpKblpYMVB6djNHdHhkdGRLdjBFZEd1NG9Tb205MlpWZkpKVlNQemVQRlROYnRMR2lSWFJneFg3RzBjNmswaEdjZndPMkpRR1V6VnI2ZE1WU0JicFNidGtLMDN2MU4yaVZ5d1FEZkRuNHhzUWZaSVFYT2NDcUR30gG-AUFVX3lxTE1KNVlTQTl0OWlfaGpVcEhocEFkUGtzUDI4cGxBYXpQTmhpaHFkRGlGVk5mWFdmWWFqc1FRN1otLTc4dHpHVkdhekpuWlgxUHp2M0d0eGR0ZEt2MEVkR3U0b1NvbTkyWlZmSkpWU1B6ZVBGVE5idExHaVJYUmd4WDdHMGM2azBoR2Nmd08ySlFHVXpWcjZkTVZTQmJwU2J0a0swM3YxTjJpVnl3UURmRG40eHNRZlpJUVhPY0NxRHc?oc=5",
+      "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTZyc1B6TVRQcUpuT0tOU0J2QWo0X0VIdlNDVVVpVi04UExZUGs0X0gtMHVqTWI5UEgtWXlOOGZIMUlNTVVnMTlNcC1ncU5sTjV1MnFlZElVWU5YdmlFU1pXVUpNbkJRTW16QTJEdXhNRW0yQzNpMzhJY1g1dkdHWHNjOVhGbkpQeGJncA?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T09:03:42Z",
-      "summary": "文章由Bas Wijne撰写，讨论AI研究在非洲市场容易忽视的问题。标题显示，现有研究可能低估非洲市场的特殊性，包括本地数据、语言多样性、支付习惯、基础设施条件和非正式经济等。摘要未展开细节，但核心提醒是：AI产品与研究成果进入非洲需更贴近本地场景，避免以单一市场视角简单套用。"
+      "publishedAt": "2026-11-16T20:50:15Z",
+      "summary": "Gizmodo报道，美联储担忧自主AI代理在金融场景中的快速行动可能加剧市场波动，甚至触发银行挤兑。随着AI代理被用于交易、理财和资金调度，其集体行为、羊群效应和系统互联风险可能放大金融不稳定，监管机构正关注相关风险。"
+    },
+    {
+      "title": "Bracewell Explains – What Opposing Counsel Can Learn From Your Expert’s AI Chats [Video] - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUlfaDd2ZTUtZHJmbWsyWHprSERDU1MzUWpOSk9OaDBEb281RVcxSG91X2cyYjd0RXpQV1Y0aVh2STR1bnZXbXllNDhzRWZ0Wmo0MTdqVTRVMEVMb0xVWW9HSDkxR0h1akRkNE00OEwyb2dLVFNZNXc2ZVNJYy0yZjZKVmNKT2xSaU9oTU4wWHl0V21GWkZnV3BKZlJJRW9fVWpQcHVyZ01zZzFGek1NMNIBtgFBVV95cUxPbHU4Ui0wUnRBZzlsblNpN0lvZ1liUzc5Q2RERXhkWkVQWVI5N2pVdEJCbkotdEprUzFkOEM1ME9nSXE5YzNZd2ZBeWRaS1cyMEhEUkRfODBjSUMyekFtaEZRNld0emtVM3E1akNCYnJqNklDMW9lYUdTUXBYT0Z4WUlqbFBZdWNTaUJaYXBtVlJLSzhHVW5SSXJQSG50N2V6VGJMaVZMeVl4bFJSRmFwRHk3ODgtdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T20:27:00Z",
+      "summary": "Bracewell在法律视频节目中解析，对方律师可从专家证人的AI聊天记录中获取有价值信息，用于质询或攻击专家意见。这提醒法律从业者，专家使用生成式AI时可能留下可被披露的记录，需重视AI使用政策、保密与证据开示风险。"
+    },
+    {
+      "title": "Law firm HSF Kramer taps legal engineering team to fuel AI capabilities - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnBhNVZjM19VYjFrY2E4NDZYU0FpcWNEeUd6aWxUd3l0ZVVQSTRpNU1MZW5VeTNPZGJ2aFFJM3Y3ejYyR3VuTUF6QTNTYUtkeS1KQWp2SXV6b3RlZGhQaENJejBkMVEtRWduRGlJeC1oN3BtTlA1NkJmMHh4bm9DR0lTeTF3TExLakFzLUVXcmNyQnA2Y1lmNVZkazRIY1YzVmtuU3d4MkhRMWk2TTNvTVdaZFBjVUl0cmMzXzNQNGJlQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T20:17:20Z",
+      "summary": "律师事务所HSF Kramer引入法律工程团队，以增强其人工智能能力。该团队可能负责将法律专业知识与AI工具、数据和工作流程结合，开发面向法律服务的自动化与智能应用，反映律所正通过“法律工程”推动AI落地并提升服务效率。"
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-16T20:07:13Z",
+      "summary": "加州总检察长对OpenAI提起诉讼，涉及“失控智能体”事件。这是首批尝试让AI实验室对失控AI代理事件承担法律责任的案例之一，可能为AI代理造成损害时的责任认定、产品安全与监管义务树立重要先例。"
+    },
+    {
+      "title": "California Sues OpenAI Over A.I. Safety Issues - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem9ndlRta0lVanRIcmJ3Q0VBby14WkZHd3VRanhRNVNjYS1hZTRORHQ3WWhXYmozTDRnQ0o4MTJ4Y1ZNR0RuV0ZDX3Jqc3dHMnVOd1FpM0t3elhoQXdNSWlyS2NXdGZvUm5jMkJNQ3hUWnZieHZpeER5bkJTQVc3UWYxSi0?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-16T19:55:37Z",
+      "summary": "据《纽约时报》报道，美国加利福尼亚州已就人工智能安全问题对OpenAI提起诉讼。该案的核心争议在于，AI企业在模型开发与部署过程中应承担何种安全责任，以及现有安全承诺与治理措施是否足以防范潜在风险。作为ChatGPT的开发方，OpenAI此次被州级政府起诉，反映出监管机构对前沿AI系统透明度、风险披露和用户保护的要求正在收紧，也标志着AI安全争议正从行业自律和政策讨论转向司法与监管实践。案件后续进展可能对美国AI企业的合规路径和州层面立法产生示范效应。"
     }
   ]
 }
