@@ -1,83 +1,76 @@
 {
-  "updatedAt": "2026-11-17 01:15:25 UTC",
-  "totalArticles": 11,
+  "updatedAt": "2026-11-17 09:54:31 UTC",
+  "totalArticles": 10,
   "articles": [
     {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-16T23:32:32Z",
-      "summary": "网络安全AI初创公司Corma在产品推出约三个月后完成1.25亿美元A轮融资，由NEA领投，估值达到10亿美元，迅速跻身独角兽行列。该公司聚焦AI驱动的网络安全能力，此轮融资显示资本市场对AI安全赛道的强烈关注。"
-    },
-    {
-      "title": "How worried should we be about AI superintelligence? - Orange County Register",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWpvdllzOWJXT1FPNkNEZV8tN3lEdmd5UXFzSkoyY2N4Y2k2WEV2UFJXc2IwQjNGT05ZUzZxVnpPZkt6S01pcTRITDdnQ1JjT2dYbWdjTjlfWG9Ga1ZXazRMdVB2cWRZa2lMRlhyY0hTWHVELUlwU2g1QkRVc3ptM2x3cFZLZEFlZy1iOFdTdnBWRmFn?oc=5",
+      "title": "Amid the widespread controversy over the alleged \"artificial intelligence (AI) cheating,\" it was fou.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HVnIzR1ZGdnR6WGczcUM3aE9Zd1JGUy1fR3BSU3FsUGgzUllpUzlTRHAwakdVY2IzNm9MOXF0Uk9zVE1VaGw0RTkteXcwbTlPa0E?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T22:28:05Z",
-      "summary": "美国《Orange County Register》刊文探讨公众应如何评估AI超级智能带来的风险。文章围绕超级智能可能引发的失控、安全与治理问题展开讨论，反映业界和社会对前沿AI能力快速提升的担忧，以及建立监管与安全机制的紧迫性。"
+      "publishedAt": "2026-11-17T09:08:22Z",
+      "summary": "在围绕“AI作弊”的广泛争议中，最新调查发现相关情况浮出水面。事件凸显生成式AI在考试与评估场景中的滥用风险，也引发对检测手段、诚信规范和技术治理的讨论。如何平衡AI工具使用与公平性，成为教育机构和监管部门亟待回应的问题。"
     },
     {
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-16T22:03:02Z",
-      "summary": "英伟达将于周二公布第三季度财报，临时CEO兼长期CFO Colette Kress迎来关键时刻。文章指出，在公司处于动荡之际，外界有许多问题期待英伟达回应，但公司很可能不会全部作答，涉及业绩前景、AI芯片需求、供应链与治理等核心关切。"
-    },
-    {
-      "title": "New US rules aim to close loophole, restrict Chinese firms’ remote access to AI servers and infrastructure — seeks to combat cloud rental workarounds to export controls - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQcUk3QWgyeElRSjVVWmIwZDR4YURwWFl0am5NM1FtTjVrWlFUeEdOb2MxZzNhd1lIX3ctLVBibWRaWnpMQi13YU5HdWdha1RrcGtBUGgzeGZPYi13MFhzWWxlSlhiSDY5cHctWndFOWhfLUFiNmxKZ2tlRFczaGU2LWJWWTlTTUhYMlBKeEQwRnV2NGpGSHFLOHBBYVhRSXBkbERKanE5Z29RTU02N216OWJFd29MS202OXl3VFB1aXJxcEF0T205VmFVNTVmRklwSGVzWXRrQ0Y3SGw5UlY4dTFOaGZsLS1EZjZ6Y1g2el9PcmNlRHNFVjZaVzljOFpXWG9lT01XMFF4SVJMRDNmLVZ2TzUzMnczSVdLRUdmZnd6MHFiazVCN3dEdXFrcTA?oc=5",
+      "title": "Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkI0U3JNRUxtdWtVSE9OcnBsb0tPUVA3SlJfY2xYNzZuWXJ1cjVqZmRPdU1SSnQ0S3ZsZ01Ucjl2a1QtLVJfZzBBNmJGdzVYcTZxcExUcjJ5djd0ZnlZZ2F5dktBMEZMSnNqYWVjb0dQSjctTkJtWkZINXdwdkhGYVg3Z3YxTWZKZ3c3MGJNZHBGWTdnOG1WQzFfZzNoNU05?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T21:50:00Z",
-      "summary": "美国推出新规，旨在堵住出口管制漏洞，限制中国企业远程访问AI服务器和基础设施，尤其针对通过云租赁规避芯片与算力出口限制的做法。新规反映美方将管制范围从硬件出口延伸至云端算力服务，可能影响跨国云服务与AI算力供应链。"
+      "publishedAt": "2026-11-17T09:02:00Z",
+      "summary": "英国演员与相关机构达成AI保护协议，演员将对其“数字复制品”拥有更多权利，包括对形象和声音被AI克隆使用的知情同意、范围限制与报酬安排。此举被视为应对生成式AI冲击表演行业的重要一步，也为其他创意产业提供参考。"
     },
     {
-      "title": "Morocco Plans AI Push to Transform Public Services, Support Businesses - Morocco World News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS05pUU1OQVRYN2ZEMFJvRzRYdVp5eHAwZnVkTEpRTHRZOHVQWTZwcjJOOEJsZzFWRjNyUDMwR1FWZ1V6MnpVMWtReHZMbG5jZjlOeVhfQVoxS0pxWF96Rmp5TkY2SnZ4RjlNS3daaDA5YWVhS2FzektEU2ZpSVpUMmtaa3BOZjhNZjJZYXcwV2d4R0REU2JPVmtvRUdSclFFMzNESlpJVnhjWlVuejBtWmpMVjVJazF0NlE?oc=5",
+      "title": "The government's emergency measures to prevent \"artificial intelligence (AI) cheating\" in the Colleg.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UcEJybHIyTndBLU5qckJuRllyQjBjMUhkRXB6SjJSUW9kTFUwLXc0VWZhUFJhclYxMFlkUktJY0hOcDdWYncySW9pRzlIZFhzQlE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T21:36:31Z",
-      "summary": "摩洛哥计划推动人工智能发展，以改造公共服务并支持企业。该举措旨在利用AI提升政府服务效率、促进商业创新和数字化转型，体现摩洛哥将AI作为国家发展抓手的政策方向，但具体投入、时间表和监管框架尚待明确。"
+      "publishedAt": "2026-11-17T08:46:21Z",
+      "summary": "针对大学入学考试中利用AI作弊的风险，政府推出紧急防控措施，加强考场设备排查、信号管理与违规处罚，并完善监考流程。措施旨在维护考试公平与公信力，同时反映教育部门对AI技术滥用问题的高度警惕。"
     },
     {
-      "title": "US, allies team up to protect AI tech and infrastructure amid China rivalry - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw?oc=5",
+      "title": "Concerns are growing that test cheating using artificial intelligence (AI) may become virtually impo.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93aDE3aHlLODA3Xzh0TG9XTmZjQXlsLURPcnhJWnZaX3E0S2RUam9xNUVVRFl4R19wZ1pMN3hMUjIwMVZaOGxna1NGWjFwV3l5V3c?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T20:51:44Z",
-      "summary": "路透社报道，美国正与盟友合作保护人工智能技术和基础设施，以应对与中国的竞争。此举可能涉及出口管制、投资审查、技术标准与供应链安全等协调措施，显示AI已成为地缘科技竞争的核心领域，相关联盟化管控趋势值得关注。"
+      "publishedAt": "2026-11-17T08:43:56Z",
+      "summary": "随着AI工具日益普及，利用AI在考试中作弊可能变得几乎无法检测，引发外界对传统监考与反作弊机制有效性的担忧。教育机构正面临升级评估方式、加强过程性评价和引入AI检测工具的压力，以维护考试诚信。"
     },
     {
-      "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTZyc1B6TVRQcUpuT0tOU0J2QWo0X0VIdlNDVVVpVi04UExZUGs0X0gtMHVqTWI5UEgtWXlOOGZIMUlNTVVnMTlNcC1ncU5sTjV1MnFlZElVWU5YdmlFU1pXVUpNbkJRTW16QTJEdXhNRW0yQzNpMzhJY1g1dkdHWHNjOVhGbkpQeGJncA?oc=5",
+      "title": "An apartment will appear where artificial intelligence (AI) can adjust lighting and heating and cool.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tT3lPbU43M1Z6bHVyTVFtenV5VzcxX2EwZkY5ZWVyRklHOURwc3gxYUJvelRGYkhSakgzNTQzWm5MNUdxZHJPeWhjb1JqVGVPcW5Gam1R?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T20:50:15Z",
-      "summary": "Gizmodo报道，美联储担忧自主AI代理在金融场景中的快速行动可能加剧市场波动，甚至触发银行挤兑。随着AI代理被用于交易、理财和资金调度，其集体行为、羊群效应和系统互联风险可能放大金融不稳定，监管机构正关注相关风险。"
+      "publishedAt": "2026-11-17T08:35:42Z",
+      "summary": "一座可由AI自动调节照明、供暖和制冷的公寓即将出现。系统通过感知环境与住户习惯，动态优化室内舒适度和能耗，体现智能家居与AIoT技术在住宅场景的落地，也为节能建筑和智慧社区提供新样本。"
     },
     {
-      "title": "Bracewell Explains – What Opposing Counsel Can Learn From Your Expert’s AI Chats [Video] - The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUlfaDd2ZTUtZHJmbWsyWHprSERDU1MzUWpOSk9OaDBEb281RVcxSG91X2cyYjd0RXpQV1Y0aVh2STR1bnZXbXllNDhzRWZ0Wmo0MTdqVTRVMEVMb0xVWW9HSDkxR0h1akRkNE00OEwyb2dLVFNZNXc2ZVNJYy0yZjZKVmNKT2xSaU9oTU4wWHl0V21GWkZnV3BKZlJJRW9fVWpQcHVyZ01zZzFGek1NMNIBtgFBVV95cUxPbHU4Ui0wUnRBZzlsblNpN0lvZ1liUzc5Q2RERXhkWkVQWVI5N2pVdEJCbkotdEprUzFkOEM1ME9nSXE5YzNZd2ZBeWRaS1cyMEhEUkRfODBjSUMyekFtaEZRNld0emtVM3E1akNCYnJqNklDMW9lYUdTUXBYT0Z4WUlqbFBZdWNTaUJaYXBtVlJLSzhHVW5SSXJQSG50N2V6VGJMaVZMeVl4bFJSRmFwRHk3ODgtdw?oc=5",
+      "title": "As artificial intelligence (AI) glasses (smart glasses) are widely introduced into real life, alertn.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kbDZMSUxjdXM3VUJKUm9nRjQ4VlFSNWN0TkZINlEzcjA1bmVUZ3MwZVk1dFgxRVh1aFZKT3lhdUN2V2hxZi13NUh0VQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T20:27:00Z",
-      "summary": "Bracewell在法律视频节目中解析，对方律师可从专家证人的AI聊天记录中获取有价值信息，用于质询或攻击专家意见。这提醒法律从业者，专家使用生成式AI时可能留下可被披露的记录，需重视AI使用政策、保密与证据开示风险。"
+      "publishedAt": "2026-11-17T08:20:29Z",
+      "summary": "随着AI智能眼镜加速进入现实生活，围绕隐私偷拍、考试作弊和社交礼仪的警惕情绪上升。智能眼镜具备第一视角拍摄、实时信息叠加等能力，如何在产品创新、使用规范与法律监管之间取得平衡，成为各方关注焦点。"
     },
     {
-      "title": "Law firm HSF Kramer taps legal engineering team to fuel AI capabilities - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnBhNVZjM19VYjFrY2E4NDZYU0FpcWNEeUd6aWxUd3l0ZVVQSTRpNU1MZW5VeTNPZGJ2aFFJM3Y3ejYyR3VuTUF6QTNTYUtkeS1KQWp2SXV6b3RlZGhQaENJejBkMVEtRWduRGlJeC1oN3BtTlA1NkJmMHh4bm9DR0lTeTF3TExLakFzLUVXcmNyQnA2Y1lmNVZkazRIY1YzVmtuU3d4MkhRMWk2TTNvTVdaZFBjVUl0cmMzXzNQNGJlQQ?oc=5",
+      "title": "Analysis of the Artificial Intelligence (AI) in Packaging Market Focuses on Industry Growth and Prospects - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjVIT0RyQkFtamJRRVFtNHZ2RklCNm5QbmVjX2daYm94Ulh3NFRLWm9VcG9KNGNGcWJOWFY5aXdwSGdQcXZ0QTRGdk5aaUlMTDIyZm9wY0s0a2x4VUp5SkZqZTBjS1VRWGZueEMzMThCbF85QzRSbVUtcGhCRUZDeC1iM0FyN29XQnNRT1hpYktaSmszcVE?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T20:17:20Z",
-      "summary": "律师事务所HSF Kramer引入法律工程团队，以增强其人工智能能力。该团队可能负责将法律专业知识与AI工具、数据和工作流程结合，开发面向法律服务的自动化与智能应用，反映律所正通过“法律工程”推动AI落地并提升服务效率。"
+      "publishedAt": "2026-11-17T07:40:55Z",
+      "summary": "一份关于AI在包装行业的市场分析报告发布，重点关注行业增长动力与未来前景。报告涵盖智能质检、需求预测、自动化生产和可持续包装等应用，并分析市场机遇、技术趋势与竞争格局，为相关企业布局提供参考。"
     },
     {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-16T20:07:13Z",
-      "summary": "加州总检察长对OpenAI提起诉讼，涉及“失控智能体”事件。这是首批尝试让AI实验室对失控AI代理事件承担法律责任的案例之一，可能为AI代理造成损害时的责任认定、产品安全与监管义务树立重要先例。"
-    },
-    {
-      "title": "California Sues OpenAI Over A.I. Safety Issues - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem9ndlRta0lVanRIcmJ3Q0VBby14WkZHd3VRanhRNVNjYS1hZTRORHQ3WWhXYmozTDRnQ0o4MTJ4Y1ZNR0RuV0ZDX3Jqc3dHMnVOd1FpM0t3elhoQXdNSWlyS2NXdGZvUm5jMkJNQ3hUWnZieHZpeER5bkJTQVc3UWYxSi0?oc=5",
+      "title": "Concerns over cheating using artificial intelligence (AI) glasses are spreading just two days before.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wNU5hMUhRallwOVZpSFRDb05ZTE4wSlVodGJ5Sm1CanlXV3dpXzN2RUsxNkJFM0xnZFotZWtfQTdPbGtpZkhtQUFyd2ZrTTB4dE5n?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-16T19:55:37Z",
-      "summary": "据《纽约时报》报道，美国加利福尼亚州已就人工智能安全问题对OpenAI提起诉讼。该案的核心争议在于，AI企业在模型开发与部署过程中应承担何种安全责任，以及现有安全承诺与治理措施是否足以防范潜在风险。作为ChatGPT的开发方，OpenAI此次被州级政府起诉，反映出监管机构对前沿AI系统透明度、风险披露和用户保护的要求正在收紧，也标志着AI安全争议正从行业自律和政策讨论转向司法与监管实践。案件后续进展可能对美国AI企业的合规路径和州层面立法产生示范效应。"
+      "publishedAt": "2026-11-17T06:40:05Z",
+      "summary": "在考试前两天，利用AI眼镜作弊的担忧迅速蔓延。智能眼镜可隐蔽拍摄并传输信息，可能被用于考场违规，引发监考机构和考生关注。有关方面正加强入场检查、信号屏蔽和违规惩戒，以防范新型作弊手段。"
+    },
+    {
+      "title": "'Digital hostile environment': How artificial intelligence is secretly changing the Home Office - Big Issue",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWWVPUjhkVkt5Mm1pTkxfa3Jic09pZ1pnMk9xb3VqdnloSjk2a3pmek5MYUJpTGhud0F0TXJHYkNxR0dkZjJra2lfRDhrZUJUZ01MUmx1RDJXN2l5dkhleERKaURKaUs5a1BjSmJwMUNOWkFNY2hRN0pEX0hxclROaGRqX2ZZMTFvbk82NWFGaEQ2Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T06:04:36Z",
+      "summary": "报道称，英国内政部正在悄然引入AI系统，用于移民、庇护和公共服务等场景，形成所谓的“数字敌对环境”。自动化决策、数据监控和算法筛查可能加剧对弱势群体的风险，并引发透明度、问责与公平性质疑。"
+    },
+    {
+      "title": "AI is eyeing your wallet - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sWElsM0JqMTVNME0yODhrMS1zOXhIYkQtNHNCQjcyZk05YV9fR2lXNnNVREZPVTYxeTU4eV9TN1FBeVI5MVptakpnekg2dm50V1ZJ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T04:33:04Z",
+      "summary": "文章指出，AI正在瞄准用户钱包：从个性化推荐、订阅付费到AI增值服务，平台借助生成式AI提升转化率和变现效率。同时，诱导消费、隐私让渡和算法定价等问题值得警惕，消费者需增强数字素养与权益保护意识。"
     }
   ]
 }
