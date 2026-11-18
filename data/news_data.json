@@ -1,76 +1,125 @@
 {
-  "updatedAt": "2026-11-18 09:29:53 UTC",
-  "totalArticles": 10,
+  "updatedAt": "2026-11-18 14:44:55 UTC",
+  "totalArticles": 17,
   "articles": [
     {
-      "title": "Antropic, the favorite of generative artificial intelligence (AI), will finally be listed today and - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WMDFENUQ0cUszelU1Y3ktU1lLU3BQenBEMlpHTVN4SXBQbHA5aTd6cUN0U29oUTc5ajhsZllJTWwtaDVYc3g5LVNJcnBsM3hMdGJxVzNn?oc=5",
+      "title": "Hyderabad teen launches KIKA AI platform to help students build with AI - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeVExOWx4cWhIVVRZZXdCTlQ3dV9tUDZOTkZrdklMUFFLRUFpNDBranVIUmZ1WjVmSEJDNWE2eUdTTHlEYktXV3dkeDdUYXRhcGd4dmo5Qk1tVl9BMnVFZkpzZEhYamNob3JsWXk0cHRaSmd1QjhSNUdfeS1DZldGM01wdF9sdmZBSnUyamhkOHd2a05qTU10ZWRYWjNadUEtVWVVeWtQMGRVb3A4OU1fUFlUVVN0TzdmejNJUFZLTENLbVhZOVdaZ2Q5Z1h4SEZaazc1S0w0MWs4Szk2UWpMMFRYMEhBVm05bjZERUFzV1dwZ9IB9wFBVV95cUxQQjVacDhMeGZtNzByNmsyWWdrb0xvNUFONUdEMm0tYUNPTHZ1cHBQSnRYckltR1ctT2t5V25Scy15R1FEZnlyZGZCZE9KWm5aX1h1MmcyeWoxd0FtOXRTRzhWeVpTXzlVVEFqVy1lZUhhWUF5TVFsN3FzbXdiTnNsOTQ5QzNtaE9ybHdlZkRNdUZDSXppdVlacU5fRzBNNTJsbjNYTTNyb1U5UVRfa19GbHczUHY0SUIwVWs0RHdxVW9UYi1IUE5qdElRdU9lV2x0UmJFZ2Z5azAtNFprTzhiR1pOamF0TUFsTXgxQ2h1Z0lnWU8yVkVV?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-18T08:19:01Z",
-      "summary": "据매일경제报道，生成式AI领域备受关注的Anthropic将于今日正式上市，引发市场对其估值、融资前景及AI行业竞争格局的关注。报道未披露更多发行细节，但作为头部大模型公司，其上市被视为观察资本市场对生成式AI热情的重要窗口，也可能影响同类AI企业的融资与上市节奏。"
+      "publishedAt": "2026-11-18T13:43:55Z",
+      "summary": "印度海得拉巴一名青少年推出KIKA AI平台，面向学生提供AI学习与开发工具，旨在降低AI应用构建门槛，帮助学生通过实践理解并开发AI项目。平台强调教育场景与动手能力培养，反映AI教育向中学阶段下沉的趋势。"
     },
     {
-      "title": "Africa’s AI Runs On Rented Infrastructure - CIO Africa",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNktjaDdudW5aUUtncTZlNVc1Q21nYmEwVTlzUi1yOEp6SGlWcUh1RVZpNDFMMFVDclVCNkdzX0hVenEyVjBDcUduMTZXaVQxN2pySWZEWktZOWduamkwNG1DYzMxOHR2TkRUMWdZMA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T07:26:59Z",
-      "summary": "CIO Africa指出，非洲AI发展高度依赖租赁基础设施，本地算力、数据中心和云服务能力不足，企业多使用外部云资源。该模式降低初期门槛，却带来成本、数据主权、网络依赖和长期能力建设挑战；非洲需加大本地算力投资并完善政策生态，以支撑AI可持续发展。"
+      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T13:00:00Z",
+      "summary": "英伟达澄清对新型云服务商（neocloud）的融资支持边界：只有在neocloud获得独立融资、数据中心建成并安装英伟达设备后，英伟达才会承担相关贷款担保责任。临时CEO Colette Kress的表态显示，英伟达希望在推动AI算力基建的同时控制财务风险，避免无条件兜底。"
     },
     {
-      "title": "BigBear.ai vs. SoundHound AI: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYl9zYTgxbk5MMHVYeTA0VnFvUVM0bWJpZjZYRlFTX0dQbUlGUjRTWlRuSl9QQzVDNlRyTl9SVUlsZWt0V2NzY2FYMWFDdm9yQnFVcnpnTzRxdzE4ZTJoZWJsdU1lV1dGVGZYZ3hCVVFhMExwcjdQYjNVYmR6QVlIMHl2UmlXMk94TjRwaDI1YlJNYlZqWFI0VG02X3A1eFVkWVQ2MXpmNFFOYXNuS3FZM0pYZk4zdUFhay1TNmVNQXlhcEpOem5UR2l3cEU4dkZWeWp5YWJQQUN4M1hLT0RXX2FR?oc=5",
+      "title": "AI startup Humyn Labs raises $47 million in Series A funding round - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNXZSOGpKLWxTdFIzakN4c0JQS3BJdkM5MVNfRDA0QUZjVUdxMWZOSUdWbHROQ0ZYQmh6VjNSSm1xQmFXZnZGMVlyMHBSeTFtem1OTUhoMEtfZWZfRkZMdXduT2ZSQVNETV9rZGptWmJEckg4cU4yTVNES3hKU2NNY3gwaDR1Q0tESFRlSTZ3bTVUN1B5TTQtcFlhUHRrR2V5X2tlYkxJTTV4d2JvWjRMTnRnbHhMWkVHNWJPSFJTUWo0dlJpWGFEYjQxdTNodVnSAdQBQVVfeXFMUDBNU251cTZyY1huU29YVFhrd3lqUHNPNlBVRXNLR0I5T3d6aWpaazBPX1Q2NGcybjZ2ZTZoZG9lYjl3VnBLOHlRQkdHQzBmNWhyZmY2YTJPd1NiVk9zTjFYVXk4SXBodWotVlpQbTJlbUt6czliUzhDRlVqX1lNa29pZjl6SGx3dVFseFR3UUhXOXg2QllDMjdJM0xVZVM0OGpCVEFOQkFhbldrMmltRWdScXhWY0t6dTdCa3gxTWdFNVc0SmhGZG01cjB4SG9JQl9HRl8?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-18T07:20:00Z",
-      "summary": "《Motley Fool》对比BigBear.ai与SoundHound AI，讨论进入2027年哪只AI股票更值得买入。文章从业务模式、收入增长、盈利能力、客户结构和估值等维度分析：BigBear.ai侧重政府与国防AI分析，SoundHound AI聚焦语音交互；投资者需权衡增长潜力与盈利风险。"
+      "publishedAt": "2026-11-18T12:00:36Z",
+      "summary": "印度AI初创Humyn Labs完成4700万美元A轮融资，主要为美国机器人公司提供训练所需数据。公司成立于今年2月，与Mecka AI、XDOF等竞争，约90%收入来自美国市场，体现机器人数据服务和跨区域供给模式受到资本关注。"
     },
     {
-      "title": "IBM CEO Arvind Krishna On Children Using AI: \"Stopping Humans From Using Tools Is A Fool's Errand\" - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZlh6UkNNTVhQckwtTE4zbUtjVlQyYUl1a2Mxczk2cjJ1SXh4c2UyY0pndjQ0Nnlzc3Jvb3QyeXYtbjFLZFllcVlsZmNFMFdWYlM0blY3Vi1jOVJYd1EyOTZ6Mkk1djRpQWlzQWlRdFQ4RVFycldnbWdyeE9UTkp4THI2RlUtSGs5LUU2d054TldtM280a3VjVnduSmZ2dm5YbmRRX29zYzB2blBHRG0wc3ZHSllYY21QbjZGdE1WMHlSR0RmWmhFTHEydnZ0TGpJNzd0N1lyNFFpZVVydUNxcEZR0gHqAUFVX3lxTFBWSkEwQk5nR2VaejZiX05iamladXRWRENvaFBpVFFlSmY2Rno2bVdkbUV5YWxoNXB2b0pkNVFVMzZUbFNCSW44dXl4X3BkWnAtSWsxbS12dmJZUDJjY29LT29HbUtrQU5PZVN5Z0x6aUxvdDZTM2tMaU1WcHhhbWk3T2pFRTc0WkxXdHBRREFha25uSUhSTGxzVkVCVFBXcWlvZkk5NTBOWF9NenloMEwteUZfcDRfdGFickE3RW1OYzBjdFgzV2ljTFd6ekdtNjNHRFpMS2Z5cGJCRXlKWnZfTlEzeHowUGotdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T07:11:46Z",
-      "summary": "IBM CEO阿尔温德·克里希纳就儿童使用AI表示，阻止人类使用工具是徒劳的，简单禁用并非可行方案。他认为应把AI视为工具，重点开展安全、负责任使用教育，培养儿童的数字素养、批判思维与伦理意识，让其在可控环境中学习并受益于AI。"
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T12:00:00Z",
+      "summary": "Unsiloed AI获Felicis领投的750万美元融资，致力于将企业文档转化为AI智能体可用的结构化数据，解决文档解析与知识调用难题。团队仅7人，却计划在竞争激烈的AI文档处理市场与科技巨头及专业初创公司竞争，显示轻量团队切入企业AI数据基础设施的趋势。"
     },
     {
-      "title": "Google Warns 'Era Of Autonomous AI Attacks Has Arrived' - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemJ4ZGtiZ2dYVG1xanp0TjNHMVh5NW9GamIxYlNLb3NUeTlaVFlkNWVVQmRuMTBBRExVUlo4UVY1aXpoYVAtUVRNZU8tZ0NjUkhVVExoaUFiQW40Wk5sQTBUOTlTTWp1UzdXRXRiZThYZmlXMlloUVlHMjIxU0R3bDFhV0tXcDdaY0ZyTkhIb3N5b1VmSUJjY3V3dVRzTFFxQ05EOXgtQi1oYWfSAbMBQVVfeXFMTVhlVXNPMVlOVHdKbW9fTHdlTWNGdnVqMDRQZ0l4V2JFLWhBM0RVNXpvRXBOdF83UlVyTktmY1pqaDdDVVBfbFhhT3AycHRITVZjTW5UZlVfNGlxSVJKWmZjM1NHME10ZGVxRHFHeTVJZTZubVM4M2VmcnlqQkVSSEFEajdKQ1F0VEg1Ny05ZjlzWmtmaWExYjRYOS13NVlTd2k0NFVrZjlIeTZPckl5My1NRFE?oc=5",
+      "title": "Pentagon expands access to Eightfold AI’s Talent Intelligence Platform - HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSFFsLWFNdVczREJTMS11QUEtR3dsb3hNcXFEdlVSdy1OM3haZDdMN2steTMwbHhpZWR4bW84dUR4c2doSDlJb0hka1RYT1NfcTJjNllRWU95NEJzX3VtYmE3ZGQ4NWcydkpneWlnT0xaQXlfaXVBazhhTHVlZnZLSzZxVEs1a1hrd2JseDd5Yjd6aXlvR3gtaTBmajlMZ2kzUlJrMWxwSEJzaEMtUFhnYjBOdHJBbTNfMWc?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-18T06:41:27Z",
-      "summary": "Google警告，自主AI攻击时代已经到来。攻击者正利用AI自动化完成侦察、漏洞利用、钓鱼和规避检测，显著提升攻击速度与规模。防御方需部署AI驱动的安全运营、零信任架构和跨组织威胁共享，同时加强模型安全与治理，以应对持续升级的自动化攻击。"
+      "publishedAt": "2026-11-18T11:45:10Z",
+      "summary": "美国国防部扩大对Eightfold AI人才智能平台的访问权限，利用AI进行人才发现、技能匹配与劳动力分析。此举反映政府机构在招聘和人事管理中加速采用AI人才情报工具，以提升人才配置效率，同时也引发对数据安全、算法公平与合规的更高要求。"
     },
     {
-      "title": "Armenia launches new AI Portal to help teachers bring artificial intelligence into classrooms - Public Radio of Armenia",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ051X2dRODA2ZVU2RzlBZTJndTJYZTJpTmxLN09jT0kzS3NDOXhSRElLd0pEUlE5SElGNUh0bXIyXzNHRmp5bVFqQjZLQl9MTWYxdHNTeVB1QW8wZHhmaW9NUUEtbk9jUTUtaGMwRU5sWldOdGFqdXdDYkZlYVMzT0UzS2QtYmxYVF9MaXRMR2lhNXYydlM3VWNEQnJCZFVUVUNWNF8tOHN0aEV1VlhIQVE1elVMSkpubkY3NEZ4ekhmUXVmdExj?oc=5",
+      "title": "Tencent Profit Flatlines Amid Surging AI Investments, Revenue Growth Slows - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEg1QUlnRmtFd2NoV01JWWc5OV95U3hMMW9EVkhoR2c2cHllUDNETER4ejJKbXdpdWlKYTJuelpQcFdCWjRBZmdNc09EOWNsMXY2dGZZVEQxM2lTOVdIeW14U3M3VzU3UEZhc2F1eHR4RHJNYlNSY1NkcElfck5MbzVTWHNrRl8yM21iV1htZ01Ra0RtX0xzanYxX1dBMENZMnhKUkdUaEFvaHJtUXNj?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-18T06:15:57Z",
-      "summary": "亚美尼亚推出新的AI门户，帮助教师将人工智能引入课堂。该平台预计提供教学资源、AI工具和培训支持，辅助备课、个性化学习与课堂互动，并提升师生数字素养。此举体现政府推动教育AI应用、缩小数字鸿沟和建设教师能力的政策方向。"
+      "publishedAt": "2026-11-18T11:38:00Z",
+      "summary": "腾讯利润增长停滞，主要受AI投入大幅上升和营收增速放缓影响。公司持续加码AI基础设施、模型与应用，但相关成本拖累短期盈利表现。市场关注其能否通过AI提升广告、游戏和云业务效率，并在投入与回报之间取得平衡。"
     },
     {
-      "title": "US vs China AI War: IBM CEO Arvind Krishna Reveals Who Leads The Race For AI Dominance - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVG1UdlFleG5nc2FVTEw5QWE4UGJQeThuQTZJRjIwbXVJOExrTmdoVXRmdGstWFlkcGZ3WHpnWktSXzE2M1FTOTR3eDJLbTQ0SEoydDhId3R4WmtGcXppU3lZbFAwQnF2LWJ4czJnVU4teG8wVE9iMmFTZ2ZVenRxLWhlMkFNS0lncTZZTk40SE13Si1nRTdBa0VUaTV1SXVMODdjQUZVZl9jYWc1X1NsZmZVN214STVvQjZtZGdfZlRLOEgzSkkxdndHbUg2M3NJUXMyUHJ30gHeAUFVX3lxTE5sTVpVZmNXUHUzX3FjUnJVbEFoU3ZCRTI3Ulp3LTVfTWxpS3ZJMUFWQncyYUtsaWFQYmdxNUhtaktZTDlWLS1vN0pBM09wY1B3NF81UFFSZ20tcjYyU2lndUttRkwteVE0a2lyTTk0anFxWUVTYUJORlhISXQwcEZoenNqOFozeThlWEpKVDdXb0hxVXFQWjRMemp0dGVIV1Fodm81UUs1TXI4M3RhM3VlTVpsdGluWFNwZHJGbkFFaldmRm9wamdrbFpKaFEwUHFBVk9QMUQza2x4bmZsUQ?oc=5",
+      "title": "Got $500? Buy This Top Artificial Intelligence (AI) Chip Stock Following the Latest Sell-Off - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaXB0RzlROVJESzZob0J0dHVVZnVmZ0pZNVd0ek45UW5menpua0t5RkNTRFU5aWdaYTNjNXVyR0dDTEI2NW5LRmV6VGpZUk9RUDFXVHVCcDRITE9BcFBIbEREZDRhWmRMWDVBeFVUc3l2dGREdk1PTVhwTXcyc3dNQW5MamFILUI4M3JjV3I4ZUY2aS1BYjk0aWE5LTVVeWtzc1hpVXJqcjExazNrV3Q3RE93NHlOZkNQbTU4ZzdLLXl2Ylc2UzhhVjBQOXhsUTg?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-18T06:12:23Z",
-      "summary": "IBM CEO阿尔温德·克里希纳就中美AI主导权之争发表看法，从基础研究、算力、人才、数据与应用落地等维度比较两国优势，并判断竞争将长期化。他强调企业需在开放合作与安全治理之间取得平衡，AI领导力不仅取决于技术突破，也取决于产业化与生态能力。"
+      "publishedAt": "2026-11-18T11:36:00Z",
+      "summary": "在AI芯片股近期回调后，Motley Fool发文讨论是否应以500美元买入一只头部AI芯片股票。文章核心观点是，市场抛售可能为长期投资者提供布局AI算力龙头的机会，但需权衡估值、行业周期与需求波动风险。"
     },
     {
-      "title": "Insight launches agent store, engineering program to accelerate enterprise AI adoption - Reseller News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejNGVzVJNXVVWTNIZm5aYTFmNVJrSVBxZUgzenVJenpBaS1xWktPSDJmMUJldlBORGJQdTcxVGdjb2lCcUlRa1FMVzFVcmJRTFdydUdNUkNDVGNLeTlvUkdEc0phdF9rMzJ3TlB6UkYwTzl6cXZOaXdZcDR6TDVCd1lJUUFZMGY1QnBTeGtkQXlVY29qTEhPOEdkQmdBc001cUk2R0dkZ21yR3JfRklQNEdIS3NwcHBwNlRNdW5ZeEg1dkdHM3duTUJuekI1a0tT?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T04:15:09Z",
-      "summary": "Insight推出代理商店和工程计划，以加速企业采用AI。代理商店提供可复用的AI代理与解决方案，工程计划覆盖评估、集成、部署和运维支持，帮助企业降低落地门槛，推动AI从试点走向规模化，并提升自动化与决策效率。该举措反映企业AI竞争正转向平台化交付。"
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T11:30:00Z",
+      "summary": "印度Humyn Labs完成4700万美元融资，为美国机器人企业提供训练数据。公司今年2月成立，约90%收入来自美国，与Mecka AI、XDOF等竞争。其模式凸显机器人产业对高质量多模态数据的需求，以及印度团队承接全球机器人数据供应链的机会。"
     },
     {
-      "title": "Puran Choudhary Bengaluru: Global artificial intelligence (AI) and technology companies are increasingly - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVlhyVHRWaERjUUFUVkFtOU9SY29VYlFXMEdqeVNtNnNmMnpvLXZxWWtIT0tZNl9MR0d0Y1AyX1RiR1NBclpyZWVkXy13RFpMZk10TzFDaUV1RXVPQTgxUkFhSGJaZWRVNkozM2VHVVA4M1JvYTlWODkxS09mZmtLczVBVEJ1c2RIdEV3S3VLR0NNamtvUEhkS0JadDZnTjM4NVVETDZZOS02Wl9tTDNpRW5uZWhiTVpqR25TTWthNjBOdXBUMWRYa0lCaUI2LUFvNHdKSmE1bTRYaXpmNHZrTFhfalpadW9UMWVDczRXOA?oc=5",
+      "title": "Microsoft Perception joins AI cybersecurity push by OpenAI, Anthropic, more - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMmFLN3ZJUE90RzduOVRMTkNJWlJMTkthX3pYdGZRTTRYTVF6UVd3MnQ5dFF4M1pwZHFoSzhLTF9NdzZIQV9lQUlLMk53cXYwQUV5aEk0MVB4dmZLUzJsOUdJaFlVUHJUZ3FlYTRjcXNIUlBWQUFxUjNwUzFlaTR0NTY5T2wtQmlXWDQwQk44eGFxOEZfaE1JbXZLbFRqaE5KV3A3NTJPQ3o1WEVpMDJHRUR4R0hvVEpQMm12Mk1QaVZOcExZRGZjUXFYRnRpSG5uTURKcDYtdXNBRUhFVTdmVHRiUDYtSnQtSmNFNnpyYXo3VTBE0gH6AUFVX3lxTE91cE9FUjBJWkp1UjkyLWt3NnNBeFFFeFo2cVlfRFA3NXNxR1Qwd0h4LXNMTV9SaUc5VWcwRl93emFKYXlFczNHNC1JRjJsTTBIWExURzZQVnJtYms0Z1ZyNEpSUzE1VExvekJmRllYeUMxaHJQbzNMRmF0aFE0X3BZU0IzU0hWem5maE10T3Z4Mi1LZXJST252dzRqYTlTei1OUkl3aldLZDhVcDBBR09kckNRZEZZaExOUExoT0E5cWY0SzA3UDZMZjd5VHZ2RnlOd1ZjdXNfYUt5ejYyRl93UENTRGU0MFRFOFVxUEEzTW9QWHI5NUNHT3c?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-18T04:11:00Z",
-      "summary": "据TradingView相关报道，全球AI和科技公司正日益加大在印度班加罗尔的布局，借助当地工程人才、产业生态和成本优势设立研发与AI团队。这一趋势推动班加罗尔成为全球AI交付与创新节点，同时也带来人才争夺、基础设施压力和区域竞争等新挑战。"
+      "publishedAt": "2026-11-18T11:05:06Z",
+      "summary": "微软Perception加入OpenAI、Anthropic等推动的AI网络安全行动，聚焦利用AI增强威胁检测、漏洞发现与安全防御。该动向表明，头部AI公司正加强在网络安全领域的协作与产品布局，以应对AI带来的新型攻击面，并推动安全能力平台化。"
     },
     {
-      "title": "Navy, IAF push for secure, homegrown AI solutions for their needs - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX2VKeUZFRG10RnRoQm42NW1iaWRfX09jOTVPQk05bFBwSDFnbkZfaUVzQVAtY19VbWlkV2lmQXg4S1cyNWtYVkltZXVjX1NhQkNiZGE1VHRsdmtoWnduaHNha1Y5aDlJcDhDbnUyR044Q3BzdVlxc0JOWmwyNXl0ekdlRzhDSmRkNV9iZ1ZLdnhKOHVBMGtVTkcxNXBKVEFJRU1ZWncwamswZ0Z4V3lmakVLcGJTb0V4V25PTWJsQWYyZVHSAdABQVVfeXFMT3ZRcEozbzN2TGZieS1EMDEwclNCQ2tRYWJUcE55V1hXNUdNWUdhMkJTN3FOMXJ4UkVZOEFwR2ZmbGt3TEpUTUZCREJVZDVjY0l2NHJ0bWhrUTFTUTh0bDBtNFBMbUhEVy1vUGVfaVlKQmJCOURXUExoTzYzM19LNk9kbFdyVDkyMF9LUHJDLUJTbG95ajZtOFRBaUI2WnFvVlZKeFNudUx0ZEV3XzNiN2ptU2JzelZ0T1Bsd3c5clNsRk8wUjRTdVZaamJoLWNSdA?oc=5",
+      "title": "Hiding beyond the visible: How artificial intelligence is enhancing multispectral camouflage - AIP.ORG",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZF9LMkJwcDBHNlhOZkU3TUQxdkk0S2lmR05Fc2xINGFBSEpzdHZfVXkyWHJvSmFCZ3M1Q3JiSzIyUFhRMkxhNEotdHVCNU1SSmRaUVJHSkZybnFzc2ZUcjJLUDlUdGFFXzd5MklqYmd0X19YWVR1TGFqUVU5NFA3T0h3NDBSZFpfVmhiQ1ZncG5QSlJSVHZlRkFxLWRoSnhORlkyQXVIQnd0bXdSWEYyNHpjRG4zVjJ4bWVpbTd3?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-18T03:56:33Z",
-      "summary": "印度海军和空军正推动安全、自主可控的本土AI解决方案，用于情报分析、监视侦察、作战决策和后勤维护等场景。军方强调数据安全、供应链自主和国产化，减少对外部技术依赖，并鼓励本土企业参与国防AI研发，以提升作战效能和技术主权。"
+      "publishedAt": "2026-11-18T11:04:50Z",
+      "summary": "研究显示，人工智能正在提升多光谱伪装技术，使其不仅规避可见光探测，还能针对红外等多波段传感器进行优化。AI可用于分析探测特征、设计伪装材料与动态调整方案，从而增强目标在复杂战场环境中的隐蔽性，也推动反伪装与多光谱探测技术升级。"
+    },
+    {
+      "title": "AI's trust deficit is holding back enterprise adoption: Xoriant CEO - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb3NhX0h2NF9rZTJaM3NidDY3ZzhEd1pkMmlpeldiREpsWEtXbDdJT09tZzdWTG1RS19CclAySXFzc1FBajk5RjctLW9xV2xSNWxET0kyUDY0dFYtZXdTLTVnWmFYNjNWZERQcmNVQ01pbS1sLVgxNnNNMzM2VEd0OUVaalY3MVk2Y2xoR1BGOGhKdDFDcXRaYmFKS01RU1RBbVdpR3dTMG9OVVFQUjlQZW00aXRKME9DVXFwekxXVlF6UVdpVlVNTkNSMGQxUW1nZkRFTHozdEN2VXNWZTBueXRBc2pVc2w2OXo40gHwAUFVX3lxTE01QkdVWnpLZ29fcUkwVTlLblhzMEo0c0x0eEZIejRJYW81T0hkYXg2Mk0yWjYtbWdFY1NoSXd1YTQ2SlVsR0t6RWFmQWRPdWdUTDBIX0NXcGtxTFF3UTNVYXpmbWVuYUFhei13QlFZcTZPaXdDbm9ZOGhWM3QxaUgyMXZPdU5VQXVXRDM4T1NrTXktUUxCTy1DSmVtT1hCMnhrdHQ5NVpTM0pSbmdBWEk5U0t1RVdrNlh0OEFYZ2RISHZiTEdubHV2MEZvOXBEcmtyWV90ektycDdTQlM4VzluQl91bWdlYXhYaU56eHFKRg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-18T10:51:54Z",
+      "summary": "Xoriant首席执行官指出，AI信任赤字正阻碍企业级采用。企业对模型可靠性、决策透明度、数据安全与合规风险仍存疑虑，导致试点多、规模化少。要突破瓶颈，厂商需强化可解释性、审计与治理能力，并以可验证的业务价值建立信任。"
+    },
+    {
+      "title": "The Technology Behind AI Video Generation: How Artificial Intelligence Is Changing Digital Content Production - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaGxfbVNISi0xMTEwRHN3UGxoTFhOOHZwQzliVEZxWXF3MVhUSEdyRl9aTW1iTjUyREQtczB2ZnpOdm5ILTIxX0JOQ1Y2NTlHU0xzSTZvbUh5cUFRS0VMY2JMaDJQcUdvN0w3WFNBeVl2dmhRTVdOaHc1QVR5SjNvcXotMEpoYTZwaGJxX0w1SE5YdkQzd2J6eVJfNHc2anktbXNpLVdMVmlDZW9oTllnWHhoWGhpQ1BXQkJ4ZTRMZ0JQZkVqemVtNXBESTVnQU93TmhxaXpuTGY4LWN5ajZLWg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-18T10:43:29Z",
+      "summary": "文章解析AI视频生成背后的技术栈，包括扩散模型、多模态理解与时序一致性控制，并说明其如何重塑数字内容生产：从脚本、分镜到剪辑均可自动生成，显著降低制作成本、缩短周期，同时带来版权归属、深度伪造与内容真实性等治理挑战。"
+    },
+    {
+      "title": "FBI Warns Artex AI Hacking Tool Can Breach Corporate Networks in Under Three Hours - Convergence Now",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaG5vTzVTXzVwTVIzNnlqTE5lNm8yejh4Y2RGOTE4aUw5b3dEY1FzZk5wS0Rrd0ZaTG1tUlNuNkgtYkowMUtPcVlGejlxaC15cHpXcUNBSWk4QnhGQjRwSDJfM1k3eUIzU2NadHQ1eWtGRWhpTmZwMlMtOEtGb3FMV0Y2WUFDSGhvcFVIUlY4SUZtNDBUN3FrLVBfQkxOZ050ekpRMWlfWHBiY1c2TWVDRHRhRC1VZm5sNU1UcDdtUldWcGRvUEtibHJvUDUyMGF3Q1luZEtR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-18T10:26:20Z",
+      "summary": "FBI警告称，名为Artex的AI黑客工具可在不到三小时内突破企业网络，显示AI正被用于自动化侦察、漏洞利用与攻击链编排。攻击门槛和周期大幅降低，企业需加强暴露面管理、零信任架构、持续监测与应急响应。"
+    },
+    {
+      "title": "Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSm9HdEtWSkw3MWdlcXFoQXlpWkwzRmp3d0lQMldNQkxsQlE5SDhZdmNfYnlUVjdUWm1EcFp4V2dYM1JkNm5aTnE3dm85MlU2bDA1bDBXQUJLdXlvZGUxVVJKYmljdzdMaHFlaXU3c0ZjdDRlLTVrRWdsTzM2WHVTWjJZNjNPU19uWDJXM2Q3RmRjY2o1VFJ1ZUtJLThEVVp3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-18T10:10:02Z",
+      "summary": "该财经报道称，在近期AI板块抛售后，有一只AI相关股票有望在12月大幅反弹，并强调其并非美光或博通。由于标题未披露具体公司，文章核心在于提示市场回调后的估值修复机会，同时提醒投资者关注基本面与AI业务兑现能力。"
+    },
+    {
+      "title": "\"Human\" named Cambridge Dictionary's Word of the Year for 2026 amid the rise of AI - Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMVZ2ZTJVYnoySVI0cHJjbEZITjQ0WWRSUFNSaVVJSTNOLWxPZjZVTXBBeThJRUdPOVYtdHJjQ2lFTllIRHVWR0dzbnVLOXJQTmh0OTlDX1NXNV9NMGFRSHpIUjF2NVlLQjFOc0VSTENXX3VsdHJxbjlDZVMwQkVXNHcwMzh0ZEdXdjRyd0NsT3NQVFRyeDNOZlFhV2RWRlhONjBieNIBowFBVV95cUxNVkJsQks5SmNkaC1fdFNuMmgxTXJEWDVWcWVMQUFsQVk1di1vN29oU3RDeTlEelhxbFBDNU5ZMzZnLTdWV2k1YXVMR1p4NFBhV280WGFjamlRWm1jWVpyOXFwOHRMS0VZZ3pBT05TRmxFTk9yZU5Kazc2Qy1SdUJ6dUJiY2Q3STJwd3lIMkVwbHFqeHg3akp3NWNTeXNHUndhSk9J?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-18T09:42:53Z",
+      "summary": "剑桥词典将2026年度词汇定为“Human”（人类），以回应AI快速普及背景下人们对人类身份、创造力、情感与伦理边界的重新审视。该选择凸显“人机区分”正成为公共讨论焦点，也反映社会对AI影响语言与文化的持续关注。"
+    },
+    {
+      "title": "Knowledge, Attitudes, and Practices Regarding Artificial Intelligence Among Healthcare Professionals at a North Indian Tertiary Care Teaching Hospital: A Cross-Sectional Survey - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOa0QyUU9rR2ZaSjF4NE9lTEZ6V0JQUV9NcDNTOUNGZnRmUkExbnNlcWJ2U25KM0dLSVNMcXh1SkNCSGdOMEFRbVZDcUYyX24tUllVUl91ZjQtMThxTllUMlBYVXZLVkp0b0RORkZHUjFaTm93ZVdPR0tJaHFIbDYxS2FpRldoYUtQOXJfWDd4Zk5BV0h1OFE4M0pJYUE4N3FtbFV1ZFc4cV9JYVpBT2stZTVhWlIxb25ybzUxdHNFV3BKRy1VM1g0dVRyZnh1bmhzZG9tWDVrZ1d6VGxWMTJISHpKREhOQ0c5ZlFrQWRzUmh5Z3ozV1NEVDBsOGtPWk4yWXljYzQyTkdJYTN4dTRESmgwMGhhdTJLSlJaWWZJSVd6ajhGa1ZhU1MwQ1JLN2x5ZWlfa3FJTXZMbk9Ddy1VOTJjWFZqSFYzcDFUdGtJbFc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-18T09:31:39Z",
+      "summary": "一项发表于Cureus的横断面调查研究，评估印度北部某三级教学医院医护人员对人工智能的知识、态度与实践。研究聚焦临床人员对AI的认知水平、接受度及实际使用情况，为医疗AI培训、伦理治理和落地推广提供参考依据。"
+    },
+    {
+      "title": "Artificial Intelligence Becomes the Unofficial Theme of the 2026 ARIA Awards - The Music Network",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05aTdQVVo4T0Naa2JybWVXV2V2M0ZTaGNDZWNaNXAtbjFXOVBkM2tKM21HM1Qxc19YSnZXNUZZWTRMYk05NXB0TTVoYnJIODhERjZISFlPX2VvcnA4M21SMUhmbW5tRDY5TWF5R0NR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-18T09:01:19Z",
+      "summary": "2026年ARIA音乐奖将AI变为非官方主题，显示生成式AI正深入音乐创作、制作与表演环节。行业在拥抱效率与创意工具的同时，也围绕版权归属、原创性、艺术家署名及伦理规范展开讨论，AI对音乐产业的影响成为焦点。"
     }
   ]
 }
