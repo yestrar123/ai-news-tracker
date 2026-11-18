@@ -1,6 +1,195 @@
 {
   "articles": [
     {
+      "id": "7825",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-17T23:37:48Z",
+      "summary": "英伟达临时首席执行官表示，公司已决定不再向中国销售芯片，意味着在黄仁勋离任后英伟达正逐步退出中国芯片市场。报道未披露具体财务影响，但这一转变将波及英伟达营收、全球AI芯片供应格局及中国客户采购安排。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7826",
+      "title": "Microsoft launches ‘Autopilot’ AI agent, pitches human control to win enterprise trust - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTZkVE5VVVBTQlBrUktrazM3SWVRTzAtd2dndHYyZTczMTlFVU5XNHhxU01oZjl4S0VGdTZUWWJEcFVyMFJ1aUJaeS1ON2tiTHowSUc4R3I1N29wTU1FOGdzVDVVVzRmM0dlVWdaSmFaZDk0b29oZmV4aEdIRllsNEJ1RVdyWTdXTWVmNXJ2S2U4ZlNmVDcyZ0F6QkRWZm9NQ3kzTDhvR1JSMEtNQWR30gG0AUFVX3lxTE1laDNFQWVacnUwd014R1d0bE9jeVd5Zy1DU0IxZTVDNUlWN3RsNmpZZUxhamJ5em5ta1l2ZC1JU0hrem5kcHN5U1RHR0dkUGlvSDFYVUJMOEJSZjdwR3lXN1N2a2Z6T29rcWlJSGZHYUVyV1BJS0hqRjd3aU9tZW1nN095ZWNRTGNPbjRKUEotTmIxdm5WOFBCeldlczFIZVlZVmpjaDF6RE1uWW9TR3hfTTZ1LQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T23:30:46Z",
+      "summary": "微软发布“Autopilot”AI代理，主打人类可控与企业级信任。产品面向企业自动化场景，强调在AI执行任务过程中保留人工监督、审批和干预能力，以缓解企业对失控、合规与安全风险的担忧。原文未披露定价和具体功能范围。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7827",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-17T23:04:35Z",
+      "summary": "英伟达临时CEO重申，尽管黄仁勋突然离任，公司开源AI战略保持不变，并计划收购Hugging Face。此举显示英伟达希望继续通过开源生态和开发者社区巩固AI基础设施影响力，但收购细节及交易前景尚未披露。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7828",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-17T22:42:27Z",
+      "summary": "英伟达表示不计划重新任命黄仁勋为CEO。此前黄仁勋在上周辞职后提出愿意重返公司最高管理岗位，但公司明确排除其回归可能。该表态发生在英伟达管理层动荡和外界高度关注其战略连续性的背景下，后续继任安排仍待观察。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7829",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-17T22:29:05Z",
+      "summary": "Anthropic IPO后，亚马逊和谷歌合计将持有其近30%股份。其中亚马逊持股略低于15%，并保留进一步增持的选择权；谷歌以近14%紧随其后。两大云厂商通过资本纽带深度绑定这家AI公司，反映生成式AI竞争正向模型公司与云计算生态的股权合作延伸。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7830",
+      "title": "Is SK Hynix the Better Artificial Intelligence (AI) Memory Stock Compared With Micron? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3E0SHl0WTRXb0tJa1NEV2lQb0tqX0xtV3RlXzFXcHlObl9WVTNGV2QxSmlIbFp4VTN0c2FhSjhCdzRYeDRMblRVNVd3dkhkYnU1YnpVYW9kUktaNzdMRURVcU9xbmEwbTkzYmI2ZjRtUE1KSmlMT0NLbllWZWhidU5rTE5UYUNoZVNQTk5xMTJscmdUV0lLLUJyZmpMckMwSVpQOHlzWQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T22:05:03Z",
+      "summary": "文章比较SK海力士与美光在AI存储芯片领域的投资价值，讨论谁更可能受益于人工智能带来的高带宽内存等需求增长。原文标题提出“SK海力士是否是更好的AI存储股”这一问题，但未在摘要级信息中给出明确结论，需结合两家公司在HBM、产能和客户结构上的表现判断。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7831",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-17T21:48:07Z",
+      "summary": "据《华尔街日报》报道，美国证券交易委员会正对英伟达展开调查，背景是CEO黄仁勋离任。报道称黄仁勋承认与一名被指为中国间谍的人存在婚外情。调查具体范围尚未披露，但事件叠加管理层变动，可能给英伟达带来治理、合规与市场信心方面的压力。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7832",
+      "title": "Is SK Hynix the Better Artificial Intelligence (AI) Memory Stock Compared With Micron? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVVOLTVuWjdvVFFNZmkyTTNOOHFkTXV0OU9xY1E3Qi12SFhkZFg0bHRpRjZMa21oVnVXcWx2THJCRjNqVVpTV0VWaXMwRFJSMzBHcmc5WElNWTFzRm9oNUVLNkMteVdWU0lNQzRGVV9MWWtrSnFFQ3RpMmJNbHpvaG1BRE8wdmpSQ2I2c0JjWVdPMTFxa0FobVRSeTMxMUU3MDh0VjFBUmFtd1c4YlBjX3YteVRSYWRBWVdMM09Lb2k3NWJF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T21:45:00Z",
+      "summary": "该文同样讨论SK海力士与美光哪家是更优的AI存储芯片股票，核心变量包括AI服务器带动的高带宽内存需求、产品竞争力、产能扩张和估值水平。文章以设问方式呈现比较框架，未给出简单结论，投资者需结合两家公司在HBM市场和主要客户中的份额差异评估。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7833",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-17T21:34:50Z",
+      "summary": "在多家科技平台接连发生服务中断之际，谷歌反其道而行，主动宣布Gmail运行正常、并未出现故障。报道以调侃方式指出，谷歌借“没有宕机”加入科技中断话题，意在安抚用户并突出其服务稳定性；原文未提供更多技术或运营细节。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7834",
+      "title": "Cut generative AI costs: Code for rules, models for judgment - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVg3V1dEQVNwMUFueGFmczVVUzE2RUd4UUtkNWtBakFoMG9ILVhNU1M3WXVZSXNXdlpYRzFfVWx0X3pKX3NuM1RXckowRzktMUpzWHphbUJZWlJXX2ZOTk9JOE44U1hnNDZudU10dVI2UWhQV3hWcHNWVHpTLU4zV2VUZFAyZkFhYS1BWUVET3h4SHpyNW96aXdYVUxpMHZPeXRUMVc5LWM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T21:14:55Z",
+      "summary": "AWS提出降低生成式AI成本的思路：把确定性规则交给代码处理，把需要判断的任务交给模型。该文主张在架构中区分规则逻辑与模型推理，避免让大模型承担本可用传统代码完成的工作，从而减少token消耗、延迟和调用成本，提升生成式AI应用的经济性。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7835",
+      "title": "$65 Billion in AI Exposure: Why CalPERS Takes a Closer Look at Big Tech - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEgtX2kwUUpGcG1wRlJpaGtrR0FvSGtnZDBzR2JXeE5XSXZDQnBsSmZ0bTBiTHVvQXotdFIwMlY0YUJVVTloSEt5aHpQb2FJVFFYOEVQdy1DLWQ4RnBhRXpNZXdPTHg5ckZTUEdma2cxQ2ZEbzF0T3dtaHk3WGNRUDlKczV1OGJRb3VkbG5lMWtFbjJLSF9SOWtKdE4xWjNRSmI3endzRERBbnFLOXRMcDVqUWpOTzVCNTd4LTVWd2QzOXFaY1ViTlhqOTBHdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T21:12:31Z",
+      "summary": "加州公共雇员退休基金（CalPERS）正审视大型科技公司的AI风险敞口，涉及约650亿美元。作为重要机构投资者，其关注点可能包括AI估值泡沫、集中度风险、治理与长期回报。此举反映大型养老基金对AI投资热潮的风险审查趋于谨慎，并可能影响其科技股配置与投票策略。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7836",
+      "title": "Worried About Nvidia? 3 Artificial Intelligence (AI) Stocks That May Be Safer Buys Right Now - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONE5JNnJ1Z2hBT0I3UUhnU1FLa1ZvdjdaLWdJUVJmb0VOa0dlOHJrMFVRei1kTjNOdW5STHViOUw1SnRGNE9YOGtWTXgyNExtOWhQa2pjbkdwQU1OVjFocVZMYkFHcWNKM1F1N1pycWJIazYtaHJLcDNVUjJuZ3VxQnFPSHhaLUVDd1g0dndhTXFySDdQc0MtR1AxZm12dlpFR3piSkhHZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T20:50:02Z",
+      "summary": "文章在投资者担忧英伟达高估值与波动之际，提出三只可能更稳健的AI股票作为替代选择。虽未列明公司，核心逻辑是寻找估值合理、业务多元化、AI收入可见度较高的标的，以降低对单一芯片龙头的依赖。建议关注风险分散与基本面，而非追逐短期AI概念。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7837",
+      "title": "Artificial Intelligence and the New Colonialism in Latin America - LA Progressive",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2RuN3IzUjFvRDhzT1haUl9sN1JDVHNYeWhGeHYyOXl1LVBaaWFuSUhaSUxzM1poamQxSm1NMURSYkt2alhLMEphUVdHWmFKY0xmdzNpZlZEa0tXTFlQYmduNFFjLUF2U1RRcXVvYkFibDlEX29xUm9MaVdxOHd4UjFuQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T20:14:10Z",
+      "summary": "文章批评AI在拉美可能形成“新殖民主义”：数据、算力和模型由外部巨头主导，本地语言、劳动与知识被商品化，收益外流而治理缺位。作者呼吁关注数据主权、算法公平、本地能力建设与社区参与，避免AI扩大不平等并侵蚀文化自主。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7838",
+      "title": "November Journal of Cardiac Failure Focus Issue on Artificial Intelligence: AI Echo Raises HFpEF Detection to 78% - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYVBwZmN4ODhFTFdUQlBQeFloMmZxM1hYaDhlOTU3cnh6QXpJUGJlZDNicHRuX2JGRDBmZ255Ny1uTlcyZkk4ZDRWTDV6bHNpUTlwcGx0YW04MFRUNVlmV19HUDlUbFZadGQ2NWxza3g1dnRNUGJXMEJLUGZYaGxjLWNCVUoxZlJnbWt4N2hpaXQ3eC1kNE12dl9WNGRuR1Z6VXhFcWhyNEV1SHRndUxCUnp5bEJFd3RGNUNGNTYzVXhQakRuLUN1am1aQzY0dFpteUw2OHBGeXd0dG1uR3FIaWFfRUJrUGlMdVUxMHAyNXRWSE9rcGViMkhMaw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T20:14:00Z",
+      "summary": "《Journal of Cardiac Failure》11月AI焦点刊文显示，AI超声心动图工具将射血分数保留的心衰（HFpEF）检出率提升至78%。HFpEF常因症状不典型而漏诊，AI辅助影像分析可提高识别效率与一致性，支持早期诊断和分层管理。该结果凸显AI在心血管影像与心衰筛查中的临床转化潜力，但仍需外部验证与工作流整合。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7839",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-17T19:32:11Z",
+      "summary": "Model ML获2.5亿美元融资，用AI代理自动化投行与咨询中的基础性工作。其代理能理解交易全貌，在新进展影响分析时自动更新财务模型和演示文稿，减少人工重复劳动。该方向瞄准高价值专业服务场景，强调上下文理解与工作流嵌入，有望提升投行团队效率并改变初级分析师的工作方式。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7840",
+      "title": "Getting AI out of the demo and into businesses globally - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGx1eXVHdks2cG5HcHVCN243amZJUzRSNUlsS2NQT0w4YmRPRHpXTE1ZM1VYdmhlTFVIYkhvVHNOM2o2NllTbzJ5NVZJZmJvZlUxQlM4WXVSVVg3emF2MGdzWFRTZGw4cFdEUDFRN2ZOeFpLRFJmMVkyeE5fZ1VUbW5uNEJGWFV5N25vMVZZZFl0dzZmUjRaeWd3UWE2YTJZSDBIdA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T19:05:22Z",
+      "summary": "AWS文章讨论如何推动AI从演示阶段走向全球企业生产环境，重点在数据、模型、安全、成本与工程化落地。企业需将AI与业务流程、治理和云基础设施结合，解决可扩展性、可靠性与合规问题，才能从概念验证转向可衡量ROI的规模化应用。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7841",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-17T19:02:20Z",
+      "summary": "Google扩大Gemini Tasks功能的访问范围，任务模式可代用户协调通话、登录网站，甚至完成购买。该能力将生成式AI从问答推进到多步骤任务执行，涉及浏览器操作与账户权限，因而隐私、安全和用户授权成为关键。扩展访问意味着更多用户可测试AI代理式服务，也显示谷歌在AI助手商业化上的推进。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7842",
+      "title": "Anthropic forges ahead with its IPO even as AI fears mount and markets wobble - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeEpwb05wa1ltYkpmSENYcXM2VHI4dC1RczNwR2FSSHRSaS13dDZKSHNZOHRhVG5zRmdZZF9vNmwyZ1NkeEhIODROeFhCYV9jOGlGV3ljaDJLRjMzeFFDU2FyZ2xLYUxHamt0UFloUGxjUmUtRTdjLWdDcnYwVW1nbDFUMC0xa053aVZIQm1fN3JQbkFiVkYwSE1nRWJPREUwNHpoWWlPMVdzSFdheWp5TTlVQVFoSE81YTU0VHhUQzliZUJwOUdN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T18:55:00Z",
+      "summary": "报道称，尽管市场对AI泡沫的担忧升温、股市波动加剧，Anthropic仍推进IPO计划。此举被视为对自身增长前景和AI企业估值韧性的信心测试。在融资环境趋紧、监管与盈利质疑并存背景下，其上市进展将影响一级市场对AI独角兽的定价预期，并为行业提供重要风向标。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7843",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-17T18:48:23Z",
+      "summary": "Google将Gemini聊天记录保留期从72小时延长至两个月，即使关闭历史记录也适用，并将在未来数周全球推广。该变化可能提升上下文连续性与服务改进能力，但也引发隐私担忧。用户需更清楚了解数据保留、删除机制与默认设置，平台则需在功能体验和透明度之间取得平衡。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7844",
+      "title": "Artificial Intelligence (AI) in Healthcare - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlMySWVQR1FvLW9UbVlTaXc2WkJtS3ptTi1WNUNWT3VLRGh2THlSclVzRzVqYUgtalNVblFhM1RZS3FMVFdxRHhDQ1ZHeEF4TG9QQ1Zxc05FOXF5aTJLWG85eThBMWpzeGpWTDcwaThsTWhYLVM3cktTbjB4UGwxRHp0SlBCdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-17T18:16:26Z",
+      "summary": "Cureus文章综述AI在医疗健康领域的应用，涵盖疾病筛查、影像诊断、临床决策支持、药物研发与运营管理等方向。AI有望提升效率与可及性，但数据质量、算法偏见、临床验证、监管合规和隐私保护仍是落地关键。文章强调以临床价值为导向，推动多学科协作和负责任部署。",
+      "fetchDate": "2026-11-18"
+    },
+    {
+      "id": "7845",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-17T18:10:00Z",
+      "summary": "Sqwish Labs 提出决策模型定制化的新思路：允许企业用自有数据对决策模型进行训练，以最大化其能力表现。随着决策模型的应用规模快速攀升，定制化正被视为下一阶段的关键方向。其意义在于，通用决策模型往往难以贴合具体业务场景，而注入企业自有数据后，模型可更精准地适配实际决策需求。报道认为，这一趋势或将推动决策模型从标准化产品走向可定制的行业基础设施，不过定制化也意味着更高的数据质量要求与部署成本。",
+      "fetchDate": "2026-11-18"
+    },
+    {
       "id": "7809",
       "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
       "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
@@ -70408,5 +70597,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7823
+  "total": 7844
 }
