@@ -1,167 +1,104 @@
 {
-  "updatedAt": "2026-11-18 23:41:14 UTC",
-  "totalArticles": 23,
+  "updatedAt": "2026-11-19 04:55:20 UTC",
+  "totalArticles": 14,
   "articles": [
+    {
+      "title": "MAS explores AI agent protocol and tokenisation framework - Singapore Business Review",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRC1JOUF4SEQ3QmhMaE1DRE9nQzBKdk5jU05tYm53cGNTRDhMZWNuX0ZpZm1UN2QzT0Fmek1BMEFHT0Vjcnc2R2s1czBieHZKTzdVZHJCTkF0S3VlbUlrQzFDUDZQeW5FLVg5MkRUNGJjRDdVMUJsRHVuVlJDTWN6VHdtUWk4cmpU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T03:37:10Z",
+      "summary": "新加坡金融管理局（MAS）正探索AI智能体协议与代币化框架，意在为AI代理之间的交互建立标准，并推动资产代币化在金融业务中的落地。这反映监管机构对AI与区块链融合、互操作性和风险治理的前瞻布局，或为金融机构参与相关创新提供政策参考。"
+    },
+    {
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T02:20:15Z",
+      "summary": "AI公司Anthropic在筹备上市前估值最高达1.5万亿美元，显示资本市场对头部生成式AI企业增长前景的高度期待。该估值若成立，将使其跻身全球最具价值科技公司之列，也折射AI独角兽估值与公开市场加速接轨、行业泡沫与竞争风险并存的态势。"
+    },
+    {
+      "title": "AI’s Disruption of Cyber Defenses Demands White House Response, Senators Say (Nov 18, 2026) - VitalLaw.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOE9ZZHB6c24wMGRJemFHYW9kVmpKZktjT1pJdEVFYlpDSFdDZkhnSTR5TUxlQzVYREI0Ny16N2JYUVNna29vVm44U1E3bV9jdUM4dFhGbHVWYlNjVTdPOTJnN01FQk5vM1d1TzU3N0xDOVpySnR0QUFjWHd2VTYyVjY3ZmlnR3FRWkJOWWw4ampOZ2pKX25zY1pfX1JBU09WYXpWTzlxMEVqb05VV3pYMTFzRVg0d2s3RGh5am1rY0VsaFoyRFJBaFRmc1lxYnIyYWVfNmxyUUl0QnJN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T02:08:57Z",
+      "summary": "美国参议员称，AI正在颠覆网络防御格局，要求白宫作出回应。相关担忧可能集中在AI降低攻击门槛、扩大攻击面、加快漏洞利用，以及现有防御体系难以跟上等方面，凸显AI安全治理和联邦层面协调应对的紧迫性。"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19T00:42:56Z",
+      "summary": "微软CEO纳德拉解释，公司10月向6万名员工提供买断方案、鼓励自愿离职，而非再次大规模裁员。他表示原因与AI有关，但并非简单用AI替代人力，更可能涉及组织调整、技能重构和AI转型下的人力配置优化。"
+    },
+    {
+      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHEwVzdDdWRkNE1UNjJEaTFsTHN4cjFRMUtud0E5SFJ1UDQtaEFiM3dDN0lyYWw1Z3V2X2xVWGxweHV2NG90Z1pBeGJFMkN3cGo5bDN6YmtfcHNEcjF2T3FfZGFJaHZhcWQxbkZRZmM1eDJ5X0pJc3JMU0NpRmF0Wlo3a0owUTMxclZCZU5DcFl1dlhCZzhaa0dJNFp0SXVicncxMWY4ZGNtbHVJcHNia3Y1Uzc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T00:15:58Z",
+      "summary": "AWS介绍在SageMaker AI无服务器模型定制中支持全量微调（FFT）。该能力允许用户无需管理底层基础设施，即可对模型全部参数进行微调，在保持定制效果的同时获得弹性伸缩和按需资源，降低企业定制大模型的门槛。"
+    },
+    {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T23:45:00Z",
+      "summary": "在AI网络攻击担忧升温之际，微软CEO纳德拉指出，大量关键基础设施处于“无法打补丁”的状态，安全更新存在现实局限。他强调AI既带来防护机会，也扩大攻击面，因此需要更系统性的安全策略和跨部门协作来保护互联世界。"
+    },
+    {
+      "title": "Will the AI Bubble Transform Video Games? How Artificial Intelligence Could Revolutionize the Gaming Industry - Rebellion Research",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNmtIbWZWZjdaeE1lMzg2QkVOTVNCdFhuUDIyb21LR1NqeW9EdHdhSTVSLXZYQWhjSHo5cFU1MnR5VnpkNzRxRElkMk5iVmxTZTBhOUFlQU82OUEwOWw4ZXY0dXg1UzRsZ2NuVk0wMkt2MDNBNlEweTVwNF84TlkzMURXOFRpMTUxQ0xmVjdJb2ViUTlVbXphMk96WEhtYWZfSUVMQUcxeWFjblprWEE1Zkx5dUkza2JPWVNfMEQyV2NTSEJjSVFLM0RERDlaVVcwNjI2eFpKcHBaZw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-18T23:33:57Z",
+      "summary": "文章讨论AI泡沫是否会改变视频游戏产业，并分析人工智能可能如何革新游戏行业。重点包括生成式AI提升内容生产、NPC交互、关卡设计和开发效率，同时关注泡沫风险、成本结构及商业模式变化，判断AI对游戏产业链的深远影响。"
+    },
     {
       "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
       "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-18T23:25:17Z",
-      "summary": "马斯克表示，解雇英伟达CEO黄仁勋就像把迈克尔·乔丹踢出球队，强调黄仁勋对英伟达和AI芯片生态具有不可替代的价值。他还称不认为黄仁勋对美国不忠诚。此番表态意在力挺黄仁勋，回应外界关于其去留的猜测。"
+      "summary": "马斯克称，罢免黄仁勋就像把迈克尔·乔丹踢出球队，并表示不认为黄仁勋对美国不忠。在黄仁勋退出英伟达的背景下，这一表态凸显马斯克对黄仁勋领导力和英伟达行业地位的认可，也反映AI芯片龙头高层变动引发的广泛关注。"
+    },
+    {
+      "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZTcW1oQlltWWRFUy1hUzY4ODVqZXFKcl9McGNhUDZqam90WE9YQ3RqclV1czZJOVdKZURXeUxpTkRVM2FONklyQ2ZiS215WTBLTE14RFVZOWY1cnZUQTR5cDVNRlJ3bTVrWkJ5aGdxMG83NURiTjk1V0NLclhVM1NFcWctSVA0bUhad2dMYjg0czFSTk1KVUQyZXZTUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-18T23:23:06Z",
+      "summary": "纽约、洛杉矶和芝加哥学区正考虑因AI问题与谷歌搜索“分手”。相关考量可能涉及AI生成内容质量、隐私与数据安全、学生使用风险及对科技巨头的采购依赖，反映教育机构对AI服务审查趋严，并可能影响谷歌在教育市场的份额。"
     },
     {
       "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-18T23:17:28Z",
-      "summary": "微软CEO纳德拉在黄仁勋离任后仍对英伟达保持信心，并公开支持出任英伟达临时CEO的Colette Kress。此举旨在稳定市场预期，显示微软对英伟达管理层过渡及双方AI合作关系的持续看好。"
+      "summary": "黄仁勋退出后，微软CEO纳德拉仍对英伟达保持信心，并表达对临时CEO Colette Kress的支持。这显示微软与英伟达在AI算力供应链上的紧密关系，也传递出市场对英伟达领导层过渡和业务连续性的关注与预期。"
     },
     {
       "title": "AI regulation top of mind for Florida lawmakers - WCTV",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42c0JGd3BnbkM0RjBVRV9KN2pnb1JQM0tBYXIyQW9lcXMzVDJVMVoxQVFzSXhTYl9QaGRleG5FT0NJdFd2VUNKMXg3Q2RnM2FhOWRnSXZ6ODRHT09KYVBRZTlUNUw1SEFFaDh6blNnS2Nld0RXdDdwT0EwXzE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-18T23:15:00Z",
-      "summary": "据WCTV报道，佛罗里达州议员将人工智能监管列为重点议题，预计围绕AI安全、隐私保护、算法责任和产业创新等展开讨论。这反映州层面正加快探索AI治理框架，在防范风险与保持技术竞争力之间寻求平衡。"
+      "summary": "佛罗里达州议员将人工智能监管列为优先议题，显示州层面正加快讨论AI治理框架。相关关注点可能包括风险防范、透明度、消费者保护与责任划分，并在鼓励技术创新和维护公众利益之间寻求平衡。此举也反映美国地方立法机构对AI快速发展的政策回应。"
     },
     {
       "title": "Antropic, the favorite of generative artificial intelligence (AI), will finally be listed today and - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yQm5jQmgwY1MteTY2cWIwWVhXSE5KT3dpTkttOHNDSnpfem1ERHRSeDlPTmNrRmlqZlUxRzNTR0dnYUxDRkZsUGhIYWR4SEVDWHp2OTZR?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-18T23:14:57Z",
-      "summary": "据매일경제报道，生成式AI领域备受关注的Anthropic（报道拼写为Antropic）终于今日上市，成为资本市场焦点。作为AI明星公司，其上市进展备受关注，市场将重点关注其定价、估值及后续商业化表现。"
+      "summary": "据韩国《每日经济》报道，生成式AI领域备受关注的Anthropic（原文拼作Antropic）将正式上市，成为AI公司资本化的重要事件。市场将关注其估值水平、商业模式、与OpenAI等厂商的竞争，以及上市对AI行业融资环境和竞争格局的潜在影响。"
     },
     {
       "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
       "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-11-18T22:58:11Z",
-      "summary": "微软CEO纳德拉预测，AI智能体将重塑网络经济结构，可能冲击广告驱动的商业模式，迫使亚马逊等企业重新思考获客与竞争方式。随着AI代理替代部分用户搜索和购买决策，平台流量、广告变现和电商入口格局或迎来调整。"
+      "summary": "微软CEO萨提亚·纳德拉预测，AI智能体将重塑网络经济。他认为，AI代理可能颠覆广告驱动的商业模式，迫使亚马逊等企业重新思考获取客户和参与竞争的方式。这意味着未来流量入口、广告分发与用户交互可能由AI代理主导，平台经济和在线商业规则面临调整。"
     },
     {
       "title": "Artificial intelligence: loss scenarios and claims developments - Allianz Commercial",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFkyRGRTMThfdHUzZTFzRVBSenFIM0ZaMFlhbkxvV3ViNkYwcHlaN0xHRm5TYzQyMFhpX0VNczVzblkzNnVxX3B1eFRDR1ZZUUY0ZzJVaFN6R1lGYVcwRmhYbVhfN29BOFFvZGVrVjdIaS1oV0tIbnhNSWNfaWdUMUR3VmtDMFBlUEJDX0ln?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-18T22:57:48Z",
-      "summary": "安联商业发布报告，聚焦人工智能相关损失情景与理赔发展，分析AI系统在错误决策、数据泄露、网络安全、责任归属等方面的新兴风险。报告旨在帮助企业和保险机构理解AI应用带来的潜在索赔趋势，并完善风险管理和保障方案。"
-    },
-    {
-      "title": "Artificial intelligence (AI) company Antropics has set the initial public offering (IPO) price at $8.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fR3dPLWVQckxrTjIzXzB4Sm51Q0VNZjd1aXhYVXdGMFp5S0tkZzJoRFZkZ0J4MlVUZ2lvalpPN2paQlpJbXJnODhNSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T22:56:10Z",
-      "summary": "据매일경제报道，AI公司Anthropic（报道写作Antropics）已确定IPO发行价，标题显示为每股8美元（信息疑有截断）。市场关注这家生成式AI明星企业的上市定价、估值水平及后续融资表现，相关细节仍待更多披露。"
-    },
-    {
-      "title": "AI agents pose new risks to Nigerian banks, CBN warns - Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UNi0zM3poaE96RHhyLTBaWEJLbEdNTVYzQ2JkeGdMVTZvOFNSblc4RUtRejdOdE11SEt1bjZPbFIyVWpFMkNJQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T22:53:09Z",
-      "summary": "尼日利亚央行警告称，AI智能体可能给该国银行带来新的风险，包括操作失误、网络攻击、欺诈、数据隐私和合规漏洞等。央行敦促金融机构加强AI治理、模型监测与消费者保护，在推动创新的同时守住金融稳定底线。"
-    },
-    {
-      "title": "Anthropic prices its IPO at $83 per share, valuing the artificial intelligence giant at 1.5 trillion - News4JAX",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSFRscGtFTVhSa0d3RElKZ3JWZzVvZmdQN1k0TnlWMC1RdndFREZ5Mkl3eFVSUkVQaEZ1N2U4MFUwOUtGa2VtQTRKRm5aRlM0UGhUTWZoOGxZTEdnLVNjeERQaVZyTkVYZkJ6T0hCeHBmRDFUNklkUXg1cXM4ME1KVlhBVG1iQ0lDZXI1akY3YkVmRkk4NVBUVjJKMHBPQTVWZ3lhZHhNaVBWUE5TN3JkVC00cTNrY1NKdThWaXZETFRRT1d1eTUzT21udDJiYVJ4M3FOcnlBZGd5LWc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T22:24:43Z",
-      "summary": "据News4JAX报道，Anthropic将其IPO发行价定为每股83美元，按全面摊薄计算估值约1.5万亿美元。这一高估值凸显生成式AI头部企业的资本吸引力，也反映市场对AI商业化前景的强烈预期，成为AI行业上市热潮的重要标志。"
-    },
-    {
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T22:11:15Z",
-      "summary": "TechCrunch报道称，Anthropic的IPO发行价定为每股83美元，高于此前预期区间，按全面摊薄口径估值约1.5万亿美元。此次备受期待的上市显示投资者对生成式AI龙头的强烈兴趣，也将为AI行业估值和融资环境提供重要参照。"
-    },
-    {
-      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T21:57:40Z",
-      "summary": "英伟达未按惯例向美国证券交易委员会提交10-Q季度财报文件，引发市场关注与猜测。一名华尔街分析师追查其意外声明，公司称正式季度业绩文件将推迟数周提交。此事虽属程序性披露，但在AI芯片龙头备受关注的背景下放大了不确定性，具体原因及后续影响仍待厘清。"
-    },
-    {
-      "title": "Design responsible AI controls for Amazon Aurora PostgreSQL - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWNSVW9YNzVYUE5IbEw0V0pBZV8xTjlYb0xpQjFrbXJobFk3aFJEUjZnVDhPX1FBMmczVUhmY2lPVVZRSnpkOEFtbFFKZVJRNTZVcUFYY2xBTFdJWDJ4ck9lOG9FdUZGa2RQQkpjdTJwR2lvOWUtMElqWC1FajRlM0V3YWg2Tk1NODhveXJGdHI4T3VENGNEZnZ1eERZc1A4TTcyRnZHbTFOQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T21:38:22Z",
-      "summary": "AWS发布文章，讨论如何为Amazon Aurora PostgreSQL设计负责任的AI控制措施。内容预计围绕数据访问权限、敏感信息保护、审计监控和模型输出治理等环节，帮助企业在数据库层构建AI应用的安全合规框架，降低数据泄露、滥用与不当输出风险。"
-    },
-    {
-      "title": "Trusted AI by design, not by default - CIO",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGh6OWhUbW9vazVISV85clJKYlZSZ3dPQVR6WXdldXN4VXlUSFFtVWxla0wtWW1LbjA4ek9hUm1RMF9qOTFRZXVkTjg1WXpHZ3o3N1RKckZ3bWg4WV9PTzN6cXRZYjBiaWt0TmFudi12OTdpdlhHZzZPYzd5WFQyYlhB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T21:37:41Z",
-      "summary": "CIO文章强调，可信AI应内建于系统设计，而非依赖默认设置或事后补救。企业需在架构、数据治理、模型开发、部署和监控全流程嵌入透明性、可解释性、安全与合规机制，并通过持续评估和责任追踪确保AI可信，避免先上线再治理。"
-    },
-    {
-      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T21:34:13Z",
-      "summary": "Anduril联合创始人Palmer Luckey警告，AI驱动的网络攻击正超越现有防御能力，陈旧技术使系统更易受新一轮AI攻击。他呼吁尽快升级防御体系并加快响应，认为面对攻击自动化与加速化，组织不能再依赖过时的安全方案。"
-    },
-    {
-      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T21:31:21Z",
-      "summary": "Anduril CEO Palmer Luckey针对英伟达CEO黄仁勋被赶下台的说法表示，中国会乐见这一结果，并主张让黄仁勋复职。他认为把黄仁勋排除在外会削弱美国，尤其在AI与芯片竞争关键期，美国应保留顶尖产业领导者。"
-    },
-    {
-      "title": "Government Audit Finds Major AI Platforms Generate Viable Attack Plans - Security Today",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS3UzLWpnUklOM1VLTFVKMHhGUzZWVDRGSkhmM2dfUkFnNUNZQS1aSnI3dlYyTnd4RXJEYV9XWi1FM2xOQmpDaEh2akl3VWRxMVN1SkNzN0w3UG1xQzNDZXkxd1BOb1JyNEMzb2RDQVMtekU3b3ZJejJRYjRMWF8xRzNQXzhVajZscllyOC1VRHYxT2xXamJKSW9iaHZyc0hUOTRjVVd6ZUhreUs5ZFBDTmgwd0VBT25aREJzWTgwNFBGUERNWFBwb1l5dUI4LTA?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T21:25:42Z",
-      "summary": "政府审计发现，多家主流AI平台能够生成可行的攻击计划，引发对前沿模型滥用与安全防护的担忧。结果可能推动监管机构要求更严格的模型评估、滥用监测和访问控制，并促使AI厂商加强拒绝策略、红队测试与安全审计。"
-    },
-    {
-      "title": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjZHZUZJSFQ2V2t1ZFFIVEJ3ZXl5Z09YTjFnR21ZVzRkLUhzVFNpSUxnanMwVm5maEtwODBkLXhtVE9kX0pvQTlUVXBWXy1uUlM4TUJKenFQR0Z6Tm9wNk9haXU5MVlaU1ptN2ZsTEdZZk1jRGdOUlpDN1gyZnhiTWZnenUxdlNZT1dUdmF4Vll2cmstTDV6VzkzZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T21:24:08Z",
-      "summary": "《纽约时报》文章梳理AI如何改变日常语言，并盘点读者需要了解的新词汇。随着生成式AI进入工作与生活，提示词、幻觉、模型、智能体等术语快速普及，文章帮助读者理解这些表达背后的技术含义及社会影响。"
-    },
-    {
-      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T20:07:01Z",
-      "summary": "OpenAI CEO Sam Altman回应安德鲁·加菲尔德将在新片中饰演他，称自己的生活已足够离奇，这件事甚至排不进最奇怪的前十。其表态以轻松方式淡化影视化呈现，也反映AI行业领袖持续受到流行文化与公众关注。"
-    },
-    {
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T19:56:39Z",
-      "summary": "Snapchat允许开发者借助Claude Code、Cursor等AI编程助手构建AR Lens。创作者可用自然语言描述想要的Lens，AI助手据称可端到端处理开发流程，降低AR创作门槛并提升原型与发布效率，进一步扩展平台创作者生态。"
-    },
-    {
-      "title": "Will the AI Bubble Transform Video Games? How Artificial Intelligence Could Revolutionize the Gaming Industry - Rebellion Research",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNmtIbWZWZjdaeE1lMzg2QkVOTVNCdFhuUDIyb21LR1NqeW9EdHdhSTVSLXZYQWhjSHo5cFU1MnR5VnpkNzRxRElkMk5iVmxTZTBhOUFlQU82OUEwOWw4ZXY0dXg1UzRsZ2NuVk0wMkt2MDNBNlEweTVwNF84TlkzMURXOFRpMTUxQ0xmVjdJb2ViUTlVbXphMk96WEhtYWZfSUVMQUcxeWFjblprWEE1Zkx5dUkza2JPWVNfMEQyV2NTSEJjSVFLM0RERDlaVVcwNjI2eFpKcHBaZw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T18:54:06Z",
-      "summary": "文章探讨AI热潮是否会重塑电子游戏产业，分析人工智能在游戏开发、内容生成、NPC交互、测试与运营等环节的潜在变革。同时可能涉及泡沫风险、成本效率、创意与就业影响，判断AI能否从概念炒作转化为产业生产力。"
-    },
-    {
-      "title": "U.S. School Districts Weigh Breaking Up With Google Search Over A.I. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFZTcW1oQlltWWRFUy1hUzY4ODVqZXFKcl9McGNhUDZqam90WE9YQ3RqclV1czZJOVdKZURXeUxpTkRVM2FONklyQ2ZiS215WTBLTE14RFVZOWY1cnZUQTR5cDVNRlJ3bTVrWkJ5aGdxMG83NURiTjk1V0NLclhVM1NFcWctSVA0bUhad2dMYjg0czFSTk1KVUQyZXZTUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T18:11:27Z",
-      "summary": "据《纽约时报》报道，美国多个学区正考虑与谷歌搜索“分手”，原因是谷歌在搜索结果中大规模引入AI生成内容引发担忧。报道显示，教育工作者关注AI摘要可能带来的信息准确性、数据隐私以及对学生的潜在影响，因此部分学区开始评估替代搜索工具与平台。这一动向反映出生成式AI进入搜索后，公共教育机构对技术依赖、内容可靠性和学生数据保护的审查正在加强，也可能对谷歌在教育市场的长期主导地位构成压力。"
-    },
-    {
-      "title": "Google’s AI feature in Search gets its own incognito mode",
-      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-18T18:04:05Z",
-      "summary": "TechCrunch AI报道，谷歌为其搜索中的AI功能新增了独立的“无痕模式”。新推出的临时对话线程允许用户在AI Mode中进行交流，而相关内容不会被保存到搜索历史中，也不会影响后续的个性化推荐。该功能延续了谷歌在隐私保护上的一贯思路，把无痕机制从传统搜索延伸到生成式AI对话场景，回应用户对AI交互记录被留存和利用的顾虑，也为其AI搜索功能的推广应用提供更多隐私保障。"
-    },
-    {
-      "title": "How Artificial Intelligence (AI) is helping reinforce polio surveillance in Africa - Africa.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTDVuMEZ0VDAtaHlvbzUwdzRMOVJad0tZZmpzWnBQem8ycm83dDU4YVA4NmlTbXFqWjdnLUV2YjFERF9VNmlLUV9tZlRENzdZUFQ2TFh6aEZCT016WEZzQWttQjZoMGdDd1FZTk9Gakk0SGdOX09WUV9wcG82dnN1Q3J4Z1RQUQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-18T17:43:29Z",
-      "summary": "据Africa.com报道，人工智能正被用于强化非洲的脊髓灰质炎监测体系。相关应用主要围绕对监测数据的快速分析与整合，帮助卫生机构更及时地识别潜在病例和病毒传播信号，从而提升疫情发现的效率与覆盖面。在基础设施和人力有限的地区，AI可辅助缩短数据处理周期、弥补监测盲区，为公共卫生部门争取更早介入和应急处置的时间。这体现了AI在疾病监测与全球健康领域的实际落地价值，也凸显其在资源受限环境中补强传统流行病学监测的潜力。"
+      "summary": "安联商业发布报告，聚焦人工智能带来的损失情景与理赔发展。内容涉及企业应用AI可能面临的风险、责任认定及保险索赔问题，为承保和风险管理提供参考。这反映保险业正加强对AI风险的量化评估，关注新型责任边界和潜在索赔趋势。"
     }
   ]
 }

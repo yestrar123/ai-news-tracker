@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "7896",
+      "title": "MAS explores AI agent protocol and tokenisation framework - Singapore Business Review",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRC1JOUF4SEQ3QmhMaE1DRE9nQzBKdk5jU05tYm53cGNTRDhMZWNuX0ZpZm1UN2QzT0Fmek1BMEFHT0Vjcnc2R2s1czBieHZKTzdVZHJCTkF0S3VlbUlrQzFDUDZQeW5FLVg5MkRUNGJjRDdVMUJsRHVuVlJDTWN6VHdtUWk4cmpU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T03:37:10Z",
+      "summary": "新加坡金融管理局（MAS）正探索AI智能体协议与代币化框架，意在为AI代理之间的交互建立标准，并推动资产代币化在金融业务中的落地。这反映监管机构对AI与区块链融合、互操作性和风险治理的前瞻布局，或为金融机构参与相关创新提供政策参考。",
+      "fetchDate": "2026-11-19"
+    },
+    {
+      "id": "7897",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eVFIWE5uZFRSSHFUOTNCZWJySy1leGw3NHYxbVZkZVpFU01maWdFYW5FU1lrY25NSDEwQV9NRXBpaG5LSDB5dEhXcW83X3JTVEF4aGlIM0FrVm8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T02:20:15Z",
+      "summary": "AI公司Anthropic在筹备上市前估值最高达1.5万亿美元，显示资本市场对头部生成式AI企业增长前景的高度期待。该估值若成立，将使其跻身全球最具价值科技公司之列，也折射AI独角兽估值与公开市场加速接轨、行业泡沫与竞争风险并存的态势。",
+      "fetchDate": "2026-11-19"
+    },
+    {
+      "id": "7898",
+      "title": "AI’s Disruption of Cyber Defenses Demands White House Response, Senators Say (Nov 18, 2026) - VitalLaw.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOE9ZZHB6c24wMGRJemFHYW9kVmpKZktjT1pJdEVFYlpDSFdDZkhnSTR5TUxlQzVYREI0Ny16N2JYUVNna29vVm44U1E3bV9jdUM4dFhGbHVWYlNjVTdPOTJnN01FQk5vM1d1TzU3N0xDOVpySnR0QUFjWHd2VTYyVjY3ZmlnR3FRWkJOWWw4ampOZ2pKX25zY1pfX1JBU09WYXpWTzlxMEVqb05VV3pYMTFzRVg0d2s3RGh5am1rY0VsaFoyRFJBaFRmc1lxYnIyYWVfNmxyUUl0QnJN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T02:08:57Z",
+      "summary": "美国参议员称，AI正在颠覆网络防御格局，要求白宫作出回应。相关担忧可能集中在AI降低攻击门槛、扩大攻击面、加快漏洞利用，以及现有防御体系难以跟上等方面，凸显AI安全治理和联邦层面协调应对的紧迫性。",
+      "fetchDate": "2026-11-19"
+    },
+    {
+      "id": "7899",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-19T00:42:56Z",
+      "summary": "微软CEO纳德拉解释，公司10月向6万名员工提供买断方案、鼓励自愿离职，而非再次大规模裁员。他表示原因与AI有关，但并非简单用AI替代人力，更可能涉及组织调整、技能重构和AI转型下的人力配置优化。",
+      "fetchDate": "2026-11-19"
+    },
+    {
+      "id": "7900",
+      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHEwVzdDdWRkNE1UNjJEaTFsTHN4cjFRMUtud0E5SFJ1UDQtaEFiM3dDN0lyYWw1Z3V2X2xVWGxweHV2NG90Z1pBeGJFMkN3cGo5bDN6YmtfcHNEcjF2T3FfZGFJaHZhcWQxbkZRZmM1eDJ5X0pJc3JMU0NpRmF0Wlo3a0owUTMxclZCZU5DcFl1dlhCZzhaa0dJNFp0SXVicncxMWY4ZGNtbHVJcHNia3Y1Uzc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T00:15:58Z",
+      "summary": "AWS介绍在SageMaker AI无服务器模型定制中支持全量微调（FFT）。该能力允许用户无需管理底层基础设施，即可对模型全部参数进行微调，在保持定制效果的同时获得弹性伸缩和按需资源，降低企业定制大模型的门槛。",
+      "fetchDate": "2026-11-19"
+    },
+    {
+      "id": "7901",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-18T23:45:00Z",
+      "summary": "在AI网络攻击担忧升温之际，微软CEO纳德拉指出，大量关键基础设施处于“无法打补丁”的状态，安全更新存在现实局限。他强调AI既带来防护机会，也扩大攻击面，因此需要更系统性的安全策略和跨部门协作来保护互联世界。",
+      "fetchDate": "2026-11-19"
+    },
+    {
       "id": "7873",
       "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
       "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
@@ -71047,5 +71101,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7894
+  "total": 7900
 }
