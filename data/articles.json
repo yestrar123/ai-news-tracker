@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "7902",
+      "title": "Karnataka hosts 380 of world’s top 2,000 GCCs, accounts for 41% of India’s engineering and R&D talent: Priyank Kharge - The South First",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVWlCNmRRV2pkdkQ1Wng1MGNabFAxajV1TTlSSHI2bDNycTQ0bkVrSlhOQW9zSkFsdEliS0RrUTZhYWJzakhZbGRqcS1pNnZOZVNJZXdHU1VsQUQwNDNXYXhEMWN4cjZkdE4tOWVFRWVDUmRWWEllSHY3ZjhOaUlSNEVSODFHS3Ffb0NMYnpneVJ1bVBEVm8teHdnRE83c1FrX2U2UU9jeWFrZW5XOUJXVUVMeHcwLXNlVDE2WkFwS1RjTVhWRDF6c1VzQUJmNUNyYzVwd1lpSWkwd0dkQ2w0Mg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T09:22:35Z",
+      "summary": "印度卡纳塔克邦首席部长表示，该邦聚集了全球2000强全球能力中心（GCC）中的380家，约占19%，并贡献印度41%的工程与研发人才。这一数据凸显卡纳塔克邦，尤其是班加罗尔，作为全球技术和创新枢纽的地位，也反映跨国企业在印度设立研发与服务中心的趋势，为当地AI、软件和高端制造人才生态提供支撑。",
+      "fetchDate": "2026-11-19"
+    },
+    {
+      "id": "7903",
+      "title": "AI is changing the world. College of Computing and Artificial Intelligence wants to help decide how - The Daily Cardinal",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdHlrcTlxcmNUdGJsNVdHMHFidTlXeDFPenB1eDJmQm5NX1ZndE5XZEhwVEQ4NUdMNUpvY3ppa1laSzRKVGVRWmhDRmdMZTRVZXBMZmFQY3BlZndSRkZoNFp0R3RmYlhLRU5iRG9WLWxSTmJwbEUycGREV3NGVnc0Q093STdZOEdkVHF5ZzEwUGp6NXRDdWZBVXEzeHpVektqUFEtc1dtejBTTG9ONm40Vm1SOTVjV1lKUnpxQURXalp1SFE3QTFKWFFoSmN4QklQM1JhY2Vka3M1RTRW?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T09:06:37Z",
+      "summary": "美国一所高校成立计算与人工智能学院，旨在主动参与决定AI如何改变世界。学院将聚焦AI基础研究、跨学科应用、伦理与社会影响及人才培养，推动技术发展与治理框架同步。此举反映高校正从单一技术研发转向参与AI社会规则塑造，为负责任创新提供学术支撑。",
+      "fetchDate": "2026-11-19"
+    },
+    {
+      "id": "7904",
+      "title": "Attackers with artificial intelligence (AI) agents move too fast. The response after the attack cam.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PbDJfeXZMemNQc19Jc2FpV2VaRGtfUzVtV2xDWWtELTdBUzRGZjIwTklVLUQyemFYLVNvMHdBQzhEV0R5SVd2c2tpNA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T08:26:34Z",
+      "summary": "有报道指出，借助AI代理的攻击者行动速度过快，使传统“攻击后再响应”的安全模式难以奏效。事件表明，防御方需转向实时监测、自动化响应和持续威胁狩猎，并将AI用于安全运营与风险预警，同时加强AI代理的权限控制和审计，以缩短检测与处置时间。",
+      "fetchDate": "2026-11-19"
+    },
+    {
+      "id": "7905",
+      "title": "OpenAI cuts GPT-6.2 Astra API prices 20% as Sol takes on everyday work - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tMFZ5WkFRSm5OTzZkSGJHa0Z1b0s0aG1pZkY2NVVxcjFLRUpTSkRyTGJqelNNTXBpb3Q3d1E4SGFxdzl1TThPZWNDNXRSUDJFRDlPbTgyRWFTc1U3WklQaktMdnBnQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T08:25:08Z",
+      "summary": "OpenAI将GPT-6.2 Astra的API价格下调20%，并推动Sol承担日常工作任务。此举显示前沿模型推理成本继续下降、产品分工更细化，可能加剧大模型API价格竞争，降低开发者和企业部署AI应用的门槛，也将推动智能体在日常办公与业务流程中的落地。",
+      "fetchDate": "2026-11-19"
+    },
+    {
+      "id": "7906",
+      "title": "Trump Administration Weighs Forcing US Firms To Disclose Chinese AI use - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUZYVDRWT2pybk5reG85QW0wWHJwdi1wQWFBQzI5Qm91Z0V2Q2JrYnJxVWs0amJsV3VzUmplOUM5dW0tVG9mdWhWTkFKSmRPeHFxVHVOSUxEVWVkT2JHWWZlU0lRdl92MjAxN21zcTNrLWNDSjE3RVdrLUZjNVJ2SnFybktMcG1JNlZsUU04dlBSa2h1aWxqRFpXUU5HTjlTRUluZ0p5NzE0bms5c3puY25ZSjVVbVZ3Q2JiN0k3YnRzRV9jdTNEMWFMeXlxQ1BZ0gHYAUFVX3lxTE5Ha1ZCNVJKMHZWajhSWHdGZ1N4SWU2dkk1TVMzcW8zZ1EwaWhjdjdNTVNoY2RST2cxd2lUM05oU096eHAxYlhWUTlZeXJ5VkwtVGlTbVdRU1hncEdDTXh0N0ppWld2TENTSm1kbG9LT2lBRUFlN3RCY2J4cGtjUkpsMUpUSFlaQ0JfTXV5X0JpNGYwVVZrU24zM2pObmFycEVQQ0owWkEwSzBUU1kyR042Y1BBa3ZqT3B4MzFmSl9nSWpEOTU0Njl0RzN6TG5mdzNnd3ZHdDNXSA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T06:24:44Z",
+      "summary": "特朗普政府正考虑要求美国企业披露其使用中国AI技术的情况，可能以国家安全和供应链风险为由加强审查。若政策落地，将影响美企的AI采购、合规与跨境合作，增加中美科技竞争的不确定性，也可能促使企业调整模型来源和技术栈。",
+      "fetchDate": "2026-11-19"
+    },
+    {
+      "id": "7907",
+      "title": "The Department of Education (DepEd) has developed an artificial intelligence-powered screening tool that can identify possible learning and communication difficulties among Grade 2 pupils in about 15 minutes, Education Secretary Sonny Angara said. Read - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ3ZGUUdqNTZTbjVOSFBvWkZfY09yb1FRUFhvcEJld0xCb3dVTFhiaUljb0R1LTVzY0tpTUJjdmtfSzVlT3UwVEVCQ0VpbjNtdHVUY1JXcmw1NXJ1TEN5c1ZmVGwwUWRFblFRb1BDdHdvT3UtSU9mN0w0NEk2X2FHZmRlQnZYY2RNa2VZbGhSTXJZM0Q1SkFKSHBnXzNxaTIwUFg1OGVWYWcwR3JpREZ5akJDMXNNMFp5S1p0c05RWHpKX0VKRm5IRERvWlFPT3QxR09R?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-19T06:06:54Z",
+      "summary": "菲律宾教育部开发了一款AI驱动的筛查工具，可在约15分钟内识别二年级学生可能存在的学习和沟通困难。教育部长表示，该工具有助于教师尽早发现风险并开展干预，提升筛查效率，也体现AI在教育评估、特殊教育和普惠服务中的应用潜力。",
+      "fetchDate": "2026-11-19"
+    },
+    {
       "id": "7896",
       "title": "MAS explores AI agent protocol and tokenisation framework - Singapore Business Review",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRC1JOUF4SEQ3QmhMaE1DRE9nQzBKdk5jU05tYm53cGNTRDhMZWNuX0ZpZm1UN2QzT0Fmek1BMEFHT0Vjcnc2R2s1czBieHZKTzdVZHJCTkF0S3VlbUlrQzFDUDZQeW5FLVg5MkRUNGJjRDdVMUJsRHVuVlJDTWN6VHdtUWk4cmpU?oc=5",
@@ -71101,5 +71155,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7900
+  "total": 7906
 }
