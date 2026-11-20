@@ -1,97 +1,69 @@
 {
-  "updatedAt": "2026-11-20 05:56:54 UTC",
-  "totalArticles": 13,
+  "updatedAt": "2026-11-20 09:27:23 UTC",
+  "totalArticles": 9,
   "articles": [
+    {
+      "title": "Google will launch an artificial intelligence (AI) computing satellite in partnership with Amazon fo.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52aDZ4TVNZbFRMWUZTZDM0ZFBmalhPRldJMkRiNzRDdWN3alV5MjlZTjRDUUdueUdkVUJEdnNqaUFRdm4zLUdLeldpcw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T08:01:41Z",
+      "summary": "据매일경제报道，Google将与Amazon合作推进AI计算卫星计划，探索把AI算力与云端能力延伸至太空，在轨处理部分数据以降低延迟、提升覆盖。报道未披露发射时间表、卫星数量及具体技术架构，但显示科技巨头正把AI基础设施竞争从地面数据中心扩展至卫星与空间计算领域，未来可能服务于遥感、通信和全球连接等场景。"
+    },
+    {
+      "title": "Exclusive | Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T07:10:00Z",
+      "summary": "据《华尔街日报》报道，雀巢与微软、波士顿动力合作，把人工智能引入工厂生产和产品环节。合作有望结合微软的云与AI能力、波士顿动力的机器人技术，推动智能制造、自动化巡检、质量检测和供应链优化，并探索AI辅助产品研发。该动向反映传统食品企业正加速拥抱AI与机器人，以提升生产效率和创新能力。"
+    },
+    {
+      "title": "Anthropic IPO lifts US stock futures as investors bet on AI growth - Jamaica Gleaner",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFZvNkY1ZmIxTlB5NXZQWEQwQTR2ZjhnaVg1dnRxOUNkNzNuYUlHYTNXUVYyT1FqZm1RLW8xQWRMQUZEOHkydXRIRG16bnFtYl9PWGNCZWVnenFBUE1xRGVmWVB6UXhlZTRPWndIVlIzWVhKWDZUMUFvcGRLVW1hYlkwdnlOeklKSW81THpMWDZ4UHhXdmJlZzljTlEyeUY2Zlk3Rko5dnRlSVBOQldpakdjdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T06:06:16Z",
+      "summary": "据Jamaica Gleaner报道，Anthropic IPO消息提振美国股指期货，投资者借此押注AI增长前景。市场反应显示，资本市场对生成式AI企业商业化与上市融资保持较高期待，AI板块情绪受到带动。不过报道未披露IPO估值、发行规模和时间等细节，后续仍需关注其业务增长、盈利路径及对AI行业估值体系的实际影响。"
+    },
+    {
+      "title": "'Not AI's To Take': First Nations stories at centre of fight over artificial intelligence scraping - National Indigenous Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXNfZm9aWmRySWdDMHVuU1hPNUxfMElJaldQal80SkdYY1dOazlneHNPLUNoV2hZNU15WGRUcnRzWlVxOHZXaTZIX1VJTDBEc2laVjJadnRfZC1wR3NXOVZsZGxBZjREaDBGcGpRRG82WjNScWE0S0lDdkQ1azY1QzBUZlk3a1ZPaWs2T09PTjVITm04cGxVMUd2OHBPVndzblg1UjI4Q2Y2SnFPb0dnckUyUi1uRnVBeWU3ZU1ka2I3TlZldFBfT0tn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T06:00:00Z",
+      "summary": "据National Indigenous Times报道，原住民故事正成为围绕AI数据抓取争议的焦点。部分原住民群体强调其口述传统、文化知识和叙事内容“不应被AI随意取用”，主张数据主权、知情同意与合理补偿。争议涉及生成式AI训练数据的合法性、文化知识产权保护及平台责任，也凸显AI数据治理需更好尊重原住民社区权利。"
+    },
     {
       "title": "Steven Spielberg’s A.I. ARTIFICIAL INTELLIGENCE| Available on Limited Edition 4K UHD Steelbook December 15th - Why So Blu?",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXI3RTFaZGo3Y2FEOVJ0MlJlNzhrY2dLSUV5bUtFU3YzTWtfUTIyUjNYbFh6NUMwVGdVZTNxLUlSQ2dNMmlVQXFlRHhBNDVRa0RqNXBhWFNzZXVobUhZQ2lFUWsydllMMm5nNVBLZkZXTmN6NlFDUnVucFZlUzkySnFtcWpfNXhJRDJ6US1IV0hfMDV5S1ZuR3lpRnBPQWRjRDdfZ1N3Zl8zYVlUY2tLQ3BZeXRKSVUwZHE4SVBYcTBPWnRiUlE?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-20T05:26:15Z",
-      "summary": "斯皮尔伯格执导的科幻经典《人工智能》（A.I. Artificial Intelligence）将以限量版4K UHD钢盒套装形式发行，定档12月15日。此次发行采用4K超高清画质与钢盒包装，面向收藏级影迷和家庭影院用户，是该片在高端实体影碟市场的又一次亮相。报道主要聚焦发行时间、规格与限量属性，未披露具体修复细节与附加花絮内容。"
+      "summary": "据Why So Blu?报道，斯皮尔伯格执导的《人工智能》（A.I. Artificial Intelligence）将推出限量版4K UHD铁盒，于12月15日发售。该消息属于影视实体收藏发行资讯，主要面向影迷和收藏市场，并非AI技术进展。此次4K版本有望提升画质与音效体验，并延续经典科幻电影在家庭影音市场的热度。"
+    },
+    {
+      "title": "Artificial intelligence can support smarter electricity grid operations - TNB SCSRSO - The Star",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRVlFY055TlVFTjJRY1VpckJvVkJvblhBYm9wQnNnQkNsWUg0VDY3bmFlaFZRbWtEUFBGN3pjNGVxVTE3aHl5RE5DMFlwTmJIUVBBUFNycjU4SmZtdkx4VWFTODFUckFoZnYtRzVlcVo5bnVSTVBZNDR5X1VIN3hHSDhtdm9ONWg3aV9RSzVzVjRDRkRWOU9oZmQwMlZLSDZIQmRWR0l5ODl4TWt3UlkxSWVhQVpqT3RlbDd2dG5acnE1ay1lZHA2WjlBZVN1LWpYb2sxUUNTS3BoZ1NHcFE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T05:24:00Z",
+      "summary": "据The Star报道，TNB SCSRSO方面表示，人工智能可支持更智能的电网运营。AI可用于负荷预测、故障检测、设备维护、可再生能源并网和需求响应等环节，帮助电力系统提升稳定性、效率与调度精度。随着电网复杂度上升，AI与数据分析有望增强实时决策能力，但落地仍需解决数据质量、系统集成和网络安全等问题。"
     },
     {
       "title": "AI is giving hackers a head start. What's at risk for essential services? - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmdTd1Jpbl9EZlVaQmJRcll1dnA0LUc5TTJjeW90YTlTbWo2UkJFVUs3Q1lRd21uUy1JcFlMaW5lLWV5SmdyU0ZLcHBmMWJ1alhINGhnX2h3SGNwNkxsUmtENUJON1pmcHdIV0lncFA3X1pjZlBEMVVWd2NuOHo2Slg1UW1RLVNfQWtqNTkyTEFfNVRSUDdFMHI2MEZaMkc1ZXFWVG1LbXZRU0xDOEdMY2tGUG5pZ0FKWVdlWThIUndJNlFwWG1STFlLdXVsdWs4SGlsdzlwNlk1Q3fSAeABQVVfeXFMT18zekZEd25SMW83LVNNVHF3d2pnRnVOdHlrVV9WR2NmQ1FCeHBfTEdFWHpnT1hBSVNhS0wyemdhMFkxQTU2b05Odk1YM0EyR3ZZbGpZOG00d21GNnlYMHJ6U2pMS0wwR1ZXeDVtTUx0UkZfRzBadXRLWkJfQkxmSHI0eFBHcDVFT2NUdjVMbnZXWVJVSzF4U3NwYXZMQWhWV2g1RlFHUEMtS05qOTg5MTdEM2xPUWdsQ3gzRy16UWNBdkJTSWRiN2dnVzdSNVR0dEpVRVhmRU9QS0ZEWmZxRU0?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-20T05:09:02Z",
-      "summary": "据《商业标准报》报道，人工智能正被网络攻击者用来抢占先机：借助AI，攻击者能更快完成侦察、漏洞挖掘、钓鱼内容生成和恶意代码编写，从而压缩防御方的响应窗口。报道重点关注能源、水务、医疗、交通等关键服务部门面临的风险，指出这类基础设施一旦被攻破，影响将波及社会运行。文章呼吁相关机构加快AI驱动的威胁检测与防御部署，并加强跨部门情报共享与监管协同。"
+      "summary": "据Business Standard报道，AI正让黑客获得先发优势，关键服务面临更高网络安全风险。生成式AI可辅助编写钓鱼内容、加速漏洞发现、自动化攻击流程并降低攻击门槛，使能源、交通、医疗等关键基础设施更易受冲击。报道提示相关机构需加强AI驱动威胁监测、零信任防护、员工培训和应急响应，以降低系统性风险。"
+    },
+    {
+      "title": "Artificial Intelligence for Cardiovascular Disease Prevention in Resource-Limited Settings: A Review of the Literature - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTG5BY2Z1dkVOVE8wNkZtTkpnUjMwZjFENkJLNHVISElCVDJXbzdmbS1qTmhwMHJQY3BFelEzUWJ2UmRiVVNjdnVRYkIyY3p2SWpFZS12cWFqTkMtcUFPNDdIdTQ2VEdXdjNNOEhpN0NxUDI0WUZvVXhEa2JnNTN3MWJWa3V2WFRYc3lnY1hDX01mVk00dDdsZjl0X3R0NWZhS2MyYzg1SGc2QlVraTZUZEZ3cWxKUHQ5TVVldHFFZmFIZ25xMHFFdXdmakJMa25GSXZObzhiblpxNE5tSjZEdDdpUUh3SXJwa3c0Ug?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T04:54:16Z",
+      "summary": "据Cureus发表的一篇文献综述，研究聚焦AI在资源有限地区预防心血管疾病的应用。综述可能涵盖AI辅助风险预测、心电图与影像筛查、移动健康监测和早期预警等方向，以弥补医疗资源不足。文章同时关注数据质量、模型验证、公平性和部署成本等挑战，强调需结合本地数据与临床流程，确保AI工具安全有效。"
     },
     {
       "title": "LSK iRobot, a company specializing in artificial intelligence (AI) and robots, announced on the 20th.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rN0JabU56dVc1YUIzNUw5N0xDWXowMlQ4bDFBb1N1WUFDc040ajFJM2hpMWxTUWw5ektTZXdmM2F2VHlqUUhsYnVhbzQ0Umc?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-20T04:36:16Z",
-      "summary": "韩国AI与机器人专业企业LSK iRobot于20日发布消息。报道仅披露公司发布公告这一事实，未给出具体内容。结合其业务定位，公告可能涉及AI机器人产品、技术合作或业务进展。该公司聚焦人工智能与机器人融合领域，属于韩国服务机器人与智能自动化赛道的参与者。由于原文信息有限，具体细节仍有待公司后续披露。"
-    },
-    {
-      "title": "Aether, Thailand's Cho Thavee partner on Thai AI data center joint venture - The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3dTSjc2MmdlRUU2emNxcGE4b184SUVfUzEwZmx4YUI0NTFkV1BZeVc1Vl9jU2hBTXhhdEFod2FfMnR0SXBBRGtOc2hzMGZYYlpjNWdUejUxXzU4WGVMT2w2aXpOc25hNExPWVFDa0hLUlZpNnhvQmszTkdUZmVlTld3Z2owRXNBZVd1eVJQYU9rUDVQbXY3MUUyVkE0RnNlN0hLYnRsZm1Va1NlRUVOV25JU2RsckZRek5LMFphY3hoRHhPMUlnSQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-20T03:04:12Z",
-      "summary": "据香港《The Standard》报道，Aether与泰国企业Cho Thavee达成合作，将在泰国设立合资公司，共同建设AI数据中心。该项目指向东南亚快速增长的算力需求，借助泰国的区位与产业配套，为区域AI训练与推理提供基础设施支撑。此举也反映出在全球AI投资热潮下，数据中心正成为跨境合资与技术落地的重要载体，泰国正努力吸引相关资本与产业链落地。"
-    },
-    {
-      "title": "AI trade unwinds; India emerges as a diversification opportunity: Brokerage - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSG5tbG44WlJJLVhDOVRacGN1dU9Ba2JxNkVmZkVXT3BxdE1BZDFDenpSY1l6U2c0WHI1TDI4ZXN5RmZHYnlZcXVMRnFlWW9iUXVmZ3JBMEU4azNWLWRwOWY4SmZNSEhYZkRmdm9sOTJnM0o4NnRNWWNYUGdNZGN0RlVEcXFGQlgzbkRqUEs4OHc2ZjIxYVhORkhCRkRkQkptLUlPTVpKVi1pdlBzTHNLNHgyY0kxeGJPY2ZSTW9BUy1rYTNHbnBmdUVGeVR3TGNqSDlPdXduZ9IB3AFBVV95cUxNWmVtY0Q1YXI4WXJzLVMzQ2Exay0wNEhlZWxlakVCMEZobktzSHNhaGtYRVI3ajJmWm1QU3VScGVydXNPdS1jbWdrN2JaOU9OaGIwLWNOaldQd2VvWkx5YmVXMVRUVnFRcFo4cVlBUXlhY1lSR0RmTFVTRk5Ba3Y5VTVwTlVhY3BIalZhVmk4QTJ0Rmk3YzJXY0tnMEJZZmRpbFhjODJ4aFdSdFlfdWMxMm5kVXRvUWFRVWJKU2pWM2pwalNyaXVGOWoxYldoRndoODNVOWUwckN2dzFr?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-20T02:24:26Z",
-      "summary": "据《商业标准报》援引券商观点，此前高涨的AI相关交易正在降温并出现回撤，资金开始寻找分散化配置机会，印度市场因此被视为重要的多元化选择。报告认为，在AI主题估值偏高、波动加大的背景下，印度凭借经济增长前景、内需驱动和相对独立的产业结构，具备配置价值。这一判断折射出市场对AI单一主线拥挤度的担忧，以及全球资金再平衡的趋势。"
-    },
-    {
-      "title": "The artificial intelligence (AI) model scored a perfect score by getting all 40 questions correct in.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oYjRzbGp3MkZ0QnBuLWIxNVFZZzd2VUlWZWxob3BtVzZtbzRaVGpNX1RIRk9oQkMxdV92dU4yVDc3bHBiMVBjclo4eFA4SE9raXc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-20T02:14:09Z",
-      "summary": "据韩国《每日经济》报道，某人工智能模型在一项包含40道题的测试中全部答对，取得满分成绩。报道未披露该模型的具体名称、题目类型与评测机构，但从结果看，模型在知识问答或推理类任务上表现突出。此类满分表现通常被用来展示模型能力的提升，不过单一测试的高分也需结合题目难度、评测方法和数据污染等因素综合判断。"
-    },
-    {
-      "title": "$81 million boost to drive Australian Innovation and AI - Department of Industry Science and Resources",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHRoV0VaLUpYX1JTbndwUmRfU2F5X0tkajdBd2hHSUduWF9pRVdvcTdDN203ZTF2WFZXWnFOX20xTzJ5SzFMbUduMlFfeVBtRU9FWUc2RGpveTlJdW9aVkc3U1B3Nl8tSEtCbzIzRnZ5UXc2YjhKbXFSRzNwVExBcGhiNlZrOVRFY2JJLQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-20T00:59:28Z",
-      "summary": "澳大利亚工业、科学和资源部宣布投入8100万澳元支持本国创新与人工智能发展。该资金旨在增强AI研发与产业化能力，推动科研成果转化，并培育相关人才与本土企业。此举是澳大利亚在国家级AI战略下加码投入的最新动作，意在提升其在全球AI竞争中的地位，同时带动关键产业的技术升级与生产率提升。"
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20T00:56:01Z",
-      "summary": "据TechCrunch报道，苹果可能在研发一款能够操作Mac的AI智能体（agent），使其可自主执行跨应用任务。报道称，苹果构建的智能体将与Meta Muse、Instinct、Claude以及OpenAI Dots等产品展开竞争。若消息属实，意味着苹果正把AI能力从对话助手推进到可代用户执行操作的代理层，深度整合macOS生态，同时也将带来权限、隐私与安全控制方面的新挑战。"
-    },
-    {
-      "title": "4K Steelbook of ‘A.I. — Artificial Intelligence’ Due Dec. 15 From Alliance - Media Play News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVB4NlZmWXA5Z0d2eGpvOGNPc0lnRVBXbGdkekJBNXpndGpPRlBBTmpxUEIyMGZ0NWNtaFNPVUtzYlBtZlhtX09feWR1OVZZM0JnbEFUX2xMS1JEa1FoV2w3UTRJQk1UVEFhYXp6TGo0cFE1MWZoaWZRcXc5aHA1ZjViQ1l2dEU0UHJVRDVB?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-20T00:45:57Z",
-      "summary": "据Media Play News报道，由Alliance发行的《人工智能》（A.I. Artificial Intelligence）4K钢盒版将于12月15日推出。该片为斯皮尔伯格执导的科幻作品，此次以4K超高清画质加钢盒包装再版，瞄准实体影碟收藏市场。发行方Alliance负责该版本的面市，报道聚焦发行日期、格式与包装规格，未透露修复工艺及收录花絮等具体配置。"
-    },
-    {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-20T00:43:50Z",
-      "summary": "据TechCrunch报道，Anthropic的7位创始人在一次创纪录的IPO中合计套现近20亿美元。按上调后的每股83美元发行价计算，每位创始人各获得约2.8亿美元，公司层面则涉及近1050亿美元规模。这一交易被视为AI行业资本化的重要标志，既反映市场对头部大模型公司的追捧，也引发关于创始团队高位变现、公司估值合理性与AI泡沫风险的讨论。"
-    },
-    {
-      "title": "Artificial Intelligence Meets Numismatics: PNG to Explore AI at 2027 FUN Convention - CoinWeek",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzRNUGRZNllFYzdyTS03LXI0LVJhUkNFM3d6aHhHNkVESW4wUk00SWU4MTBiY1BfVzJ4MXdlRV80cmdlM0I3MGlzU29OTXhNOWJRVWZrdG9PNVROaTFWV3RCelBDektnbXBZT3BpUWZ2VjNpTGdrdUxTYWZWN1MzTTd3eVA3d1FrYWtpeTFiaHpHd3dmZTZYTlQ4VDJBVWdIMERhLS1Jdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-20T00:29:36Z",
-      "summary": "专业钱币学家协会（PNG）宣布将在2027年FUN钱币大会上探讨人工智能与钱币学的结合，议题预计涉及AI在钱币鉴定、评级、真伪识别、市场分析和收藏管理中的潜在应用。此举显示传统钱币行业正主动关注AI技术带来的效率提升与风险挑战。"
-    },
-    {
-      "title": "University of Waikato seeks AI data governance partner to tame 740TB of unstructured data - Reseller News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGsyYTJoTjlyc1ZZTmJrLTIxcXU4MnNaRjA5Yzc3TGRPU1VzYk5lcXV6SHlIbjlHSTZrUHZOUlpvcnBzUzZJN2VyTlB0aGhQYmR6SXU2SlVrdndtTi1vQmVQZTBTZ0owZU1xRVFqWnQ1c3o2TjVXdDZSbmt1M2tDZEZlY1JEZ0J0MG8tdTdNeW02dHZkVjFhVGtTS2NaNkFjWkwxckxFcHlDZzRsTFZ2WUtzbjBZQXV2VS0ya1VfdUhJNXpnM0V2LTRrNHFrM2NPSTRj?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-20T00:26:56Z",
-      "summary": "新西兰怀卡托大学正寻找AI数据治理合作伙伴，以管理约740TB非结构化数据。项目重点可能包括数据分类、元数据管理、访问控制、隐私与合规，以及利用AI实现检索、分析和价值挖掘。该需求反映高校在数据规模激增下，正通过外部合作建立可扩展的AI数据治理体系。"
-    },
-    {
-      "title": "Judge questions use of AI in police reports as Gilbert police defend practice - AZ Family",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2dxcUlmbkU0NUx0djd1VW9qVjZSU28zQXZCcE8yQS1NWjlkSS1rTTdxMDhjam1FNXprczJQNS1hYl85b3JUd2ZHbWFPV2NCcmQtRnJJeHBkbk00Q1VxNzc5MGxmQTg2UHNKcDQ2OWxYOElyNmcydW9CVzNIYzZZSkZ6UXZVbUIwQ0xZVi1zeFljQnRzWmRkMWt1RGxPbllNVHgtS1pKZnZ1X0NWWlo2ZQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-20T00:10:36Z",
-      "summary": "美国Gilbert警方因在警务报告中使用AI而遭法官质疑，警方则为该做法辩护。争议焦点在于AI辅助撰写的报告是否准确、透明，能否经得起法庭审查，以及执法记录的责任归属。案件凸显AI进入执法文书流程后，在证据可靠性、程序正义和公众信任方面引发的现实关切。"
+      "summary": "据매일경제报道，AI与机器人专业企业LSK iRobot于20日发布消息。由于报道摘要有限，具体产品、合作方和商业化计划尚未披露，但该动向显示公司正持续布局智能机器人相关业务。结合其AI与机器人定位，外界可关注其在机器人控制、智能感知或行业应用方面的后续进展，以及相关技术落地和市场规模。"
     }
   ]
 }
