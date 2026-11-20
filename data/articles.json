@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "id": "7967",
+      "title": "Artificial Intelligence in Cancer Screening: Laghouat as a Potential Pilot Region in Algeria - Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RYmhGUFFScHFES3ZMN19wSmFHbC1YenBxLVEwaDEtOEVFcGQ5Q3M1MUVJc3lIenI5S25sSXBHNmVRMUNNTkp1OXhWZGljbnNIaDgwUXd0ZGVsLUhGc0J2WHdtYXF2TDFVVnBubVQyb1IyUGxTN0pV?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T21:26:34Z",
+      "summary": "该报道探讨人工智能在癌症筛查中的应用前景，并将阿尔及利亚拉格瓦特省列为潜在试点地区。文章的核心在于借助AI图像识别与数据分析能力，提高癌症早期筛查的准确率和覆盖率，缓解医疗资源不足地区专业医师短缺的问题。若试点落地，可为阿尔及利亚乃至类似地区建立可复制的AI辅助筛查模式，同时涉及数据质量、临床验证与伦理监管等配套议题。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7968",
+      "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGdLSWZQWkNiLURFdnhoNmxwVV8yWVhYRUJvR2ZyVzZ0bWlQZlhVYzJLeUVMWElDUkVYX1k1Ym1YWE80S0piX1JhVVBHekcyZWtqVjNSRl9wNjNNM0VFNGQ5QkwteXhvUGpLNWVmVmstZy14ZkFOTUJoMTFCQkd4R3Rlbm0teW5lYXBhZ3lmVWJoU1R0d2JqSmtEVGZTNEtWb3FqSjJKeWhscW5JLVU0VHZFSFNPNnpoZF96LTRn?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T20:22:00Z",
+      "summary": "AWS宣布推出Amazon Textract Insights，将生成式AI能力引入文档处理场景，强调输出结果“可验证”。该服务可在Textract原有文字与表格提取基础上，对文档内容进行摘要、问答和洞察生成，并提供来源追溯，降低模型幻觉带来的风险。其目标客户为需要处理大量合同、发票、报表等非结构化文档的企业，有助于提升文档审核与信息提取的自动化水平和可信度。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7969",
+      "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ta1ZyUTJoeFlCYVB6Y3RLT3pUQVBSMGc5WXh5a3R0eDhCRGFYOGs0WHRBZ0c1NENGT25IR3kwd2xvMXEtZ2pLRENIZ1dBclRxVExqOF92emNPWE5XV2lnZl9iejdON002TlNv?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T20:19:02Z",
+      "summary": "据《纽约时报》报道，手工艺电商平台Etsy推出针对人工智能的新政策后，大量卖家选择关店退出。报道反映出平台在AI生成内容与商品治理上的争议：卖家担忧新规影响原创手工艺的认定、增加合规成本或改变平台生态。此事凸显生成式AI普及背景下，电商平台如何在鼓励技术应用与保护原创卖家利益之间取得平衡，正成为行业性难题。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7970",
+      "title": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2k1MHotX0Zkam5USm9jZmJ0NGU5Ym82RUNGVjlkRndWSnVMc1Iyc0RSaDg0OURqX1RyaEwzZmx3ZG16Rk1heVlrc0lTSlUzay00UVlNdmhKcWt5UnNyazd5emdVLUo5WGN5X3l4UHVrNVM0TDlyNkpYZjNqQkhkeGM0MUdfUUxnRl9nMEF1SEE0NmhGbHU4LWEwRDFDbnZRamVLQlJxdnl0Q0tLc3lwWUxOdVE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T20:11:00Z",
+      "summary": "《卫报》刊文讨论Claude开发商Anthropic高达1.3万亿美元的估值是否合理。文章围绕该公司的营收规模、商业模式、算力投入与市场竞争格局展开分析，审视资本市场对头部大模型公司的超高预期能否被基本面支撑。这一讨论折射出当前AI行业估值泡沫之争：投资者看好通用模型的长期价值，但盈利路径、成本压力和竞争加剧仍是关键不确定因素。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7971",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T19:53:41Z",
+      "summary": "TechCrunch报道，Spotify创始人Daniel Ek投资了由AI研究者创立的聚变能源初创公司Europa Fusion。该公司致力于探索聚变发电技术路线，并可能借助人工智能方法加速等离子体控制、实验设计与参数优化等研发环节。此举体现科技投资人将AI视为加速清洁能源突破的工具，也反映AI与硬科技交叉创业持续升温，但聚变商业化仍面临工程与成本方面的长期挑战。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7972",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T19:32:08Z",
+      "summary": "TechCrunch报道称，AI系统声称解决了悬置167年的黎曼猜想，与此同时一位人类数学家也给出了竞争性解法，令数学界震惊。黎曼猜想是数论中最著名的未解难题之一，与素数分布密切相关。该事件既展示了AI在数学推理与猜想探索上的潜力，也引发对证明验证、学术优先权及AI研究成果可信度的讨论，最终结论仍需同行严格审查。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7973",
+      "title": "Cyber Intellect as a Complete Replacement for Artificial Intelligence (AI) - BBN Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVZrREZNZG94RWRsMllNSU82MnJIZkFJbUFIUlFsRFFidHV0cHFzOElndUtfejF1UEdwLXJHZjRKTUdtdlNKZXlBTjY3UThTQVBjaGVVRGFMSEJWWVU0bzRZRkNIemlqejg1QjE1elFZdVh6R1hlLVFYZ2RPSXVsQmJ4OE9feDFQTzlha1NCZjYyZ1RuS1J6LURHT1JkalJSMVJoZUFDc1g?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T19:26:37Z",
+      "summary": "BBN Times刊文提出“网络智能”（Cyber Intellect）概念，并主张其可作为人工智能的完全替代方案。文章倾向于反思当前以数据驱动为核心的AI范式，探讨另一种智能形态在可解释性、自主性或人机关系上的优势。此类观点属于概念性讨论，尚缺乏成熟的技术路径与实证支撑，但反映出业界对AI发展路线和局限性的持续反思。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7974",
+      "title": "House Advances Bill to Track Artificial Intelligence in Jobs - Legis1",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aN0ZScUJQZGQ1RE9fX09MZTM2dUNhakFDUFdacDIyQ0Z2ZWktaFd3ZzZsc1FyZUszRnRxU2NyQTdXZXRsWGk3SzJ6Z1o4YnNOQ09YTEM1LUJLWnV2ZDQ3cDl6bWo3Wm1tak9vRS1tLXRJT3JMUm5V?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T19:16:09Z",
+      "summary": "据报道，美国众议院推进一项法案，要求对人工智能在就业岗位中的应用进行跟踪与统计。该立法旨在建立数据收集机制，评估AI技术对岗位结构、劳动需求和就业质量的影响，为后续劳动政策与技能培训安排提供依据。此举体现监管层对AI冲击劳动力市场的关注上升，也预示企业未来可能需承担更多与AI用工相关的信息披露义务。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7975",
+      "title": "UVA President Scott Beardsley charts University’s future in artificial intelligence - UVA Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjB5LWNHOTc5UUF0T0pkSFZ3Ylh3UHdVYzI1bXNFbDRYWEhnMk5RWm92dWR3djVwUWJreVB0cWF4dUVJbjdHRjZJMkFTdnZ2RGYwYVZxWnVQcUxabjl2dDRMZlcxR1Babk92NXlOYXhHUlBXUWxmaTBYdVpDYmZzOXZkeFZLLXc1QlpKOFNvdHRManNEX2FwbG5IOGZHT0pZMldEV1NvY1lGdmNZWXBoNDc5SQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T19:12:41Z",
+      "summary": "弗吉尼亚大学（UVA）校长Scott Beardsley阐述学校在人工智能领域的未来规划。报道显示，UVA正将AI纳入教学、科研与校园运营的整体战略，包括推动AI通识教育、支持跨学科研究与负责任使用规范。这反映高校应对AI浪潮的普遍做法：既培养学生的AI素养，又在学术诚信、数据伦理和治理框架上同步布局，以保持竞争力与公共责任。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7976",
+      "title": "The one workplace time-suck even artificial intelligence can’t fix - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU3NmVkcwanp0MEptcFhNUDdEWlZKYjM3SXBIZk9WRi1CSmg1YzRxNXUtaGJsNXpIeFd3N0xvYUwwZHgyRjFlbjEtVFpoUVVHbjZpQUNMRU9MbHRCeXNZVjVsM19VMzVvODdsX2lkV1RtdFJvTjZ3Y2dCal92UVpwWWNqM0hZb3E4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T19:10:09Z",
+      "summary": "Fast Company文章指出，职场中存在一种连人工智能也难以解决的“时间黑洞”。尽管AI可自动化文档、检索和部分沟通任务，但某些低效环节根源于组织流程、会议文化、审批层级和人际协调等结构性因素，技术工具难以触及。文章提醒企业，提升效率不能仅依赖AI，还需同步优化管理流程与协作机制，否则技术投入可能被既有组织惯性抵消。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7977",
+      "title": "SEC Faces Questions Over Artificial Intelligence in Capital Markets - Legis1",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JdjVkY1BxcU9ZSmZOeFprZHB4ZDl2czBmNjVHMkVoazFuRWdRdmZOMVFMcG1BMHlsUmc5dkpNbi1FbjI4Nk5nOWVNVkl5cGJmLTl2THRlaXVsM004dUR1XzJ1Q3VycTZKajhsRTMtS1dfQVk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T19:01:09Z",
+      "summary": "美国证券交易委员会（SEC）正面临针对人工智能在资本市场应用的质询。讨论焦点包括AI驱动的交易策略、算法风险、信息披露透明度，以及可能带来的市场操纵和系统性风险。监管机构需评估现有规则是否足以覆盖AI参与下的市场行为，并在鼓励创新与保护投资者之间寻找平衡。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7978",
+      "title": "Forget rogue robots, it’s tech billionaires and AI cricket that should really terrify us | Barney Ronay - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNk1CSjZrOUdhaGxJZXNqcDI5SDBxZzFHVG5SN1R5aGtWSHJBUEJpOU5DX1oxcktCS1lvdkN1aVZtN3h5Ty1NLU1aNW9JVzJQem5YSG1GbWIzZVhYY1dzamRoRkpkZ0lDREVjaFIwOVZJVlpGMU0wbXEyTzBvdkZoZkZlRWNYT041SWdsODg4VFhRSzRSYVhZUVNDVEdfMnJjTExySkFhU3JOMVoy?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T19:00:00Z",
+      "summary": "《卫报》评论文章指出，公众不应只担忧“失控机器人”这类科幻式风险，更应关注科技亿万富翁对AI技术与基础设施的集中控制，以及AI进入板球等体育场景后带来的权力失衡、商业化和伦理问题。文章强调，AI治理的核心在于约束少数科技巨头的影响力，而非停留在对机器反叛的想象。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7979",
+      "title": "Japan sovereign AI project faces $5bn cost surge on chip prices, weak yen - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYjBpczM2VEU3MjZYTGVlbmJaQWVVMHZhN1I3TXZUZ3ZGODF4ck82WjVMbndBN2VCbzN4dnM3dU0zR29kX2FsbERSeVZvV2c2S2ZqQ0Z2azFLRnZXRkExenktQlhYQ3MxenF2Y3NsZ1c1WDlOMzRWdEZfdEVkRXBjTXBabDVQY2dvS2ZXWm5Wc292dngwUGdsc0NyUTdwQVNTMUphaFE3S0s3MjNCMFJ3dXBSM0dZUGZNUWZoekRCZGlfMzF4NVBSekpTSDVCRi1sMjlaZl9B?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T18:06:00Z",
+      "summary": "日本主权人工智能项目因芯片价格上涨和日元持续疲软，面临约50亿美元的成本激增。该项目旨在建设本国可控的AI算力与基础设施，但全球AI芯片供应紧张、汇率波动和能源成本上升正在推高预算。成本压力可能影响项目推进节奏、政府财政安排以及日本在全球AI竞争中的部署能力。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7980",
+      "title": "If I Could Only Own 1 Trillion-Dollar Artificial Intelligence (AI) Stock Through 2030, It Would Be Anthropic, Nvidia, or Alphabet. Here’s My Top Pick. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWHEwZzB6MUFKZDF0OW41SjF6OGtoOWs3N3RhZ2NRVzBVVkhjV1hhVFhEeWtteTZxVjVVVVY0Zk96LUw4SlNiMEFsRnM1eXhDRi1ULTh0UXpicWYzZHlCTXlsVmhLSVp4YjByeHluMWpVYUNkbFBRN3dueGdrVzh3R0RGeGlITGFacmNDZkhzM28yNEdVMTlDRl9IY1BiTXEzLU9yeExrTXlGcVZsemVkQTlsRi1EVVNaYUdoOXdqVDJBX0lfbmJ2ZFc3aHZUcmM2MjViZXVFNFJydHJOODZzUmJnMHd4UTZoYUR2bEF4MjRGbHp1eFRDZF9jUDlPZFZrZnF5QlkzMzBkQTl3VllnbTFUVWU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T18:00:02Z",
+      "summary": "《Motley Fool》投资分析文章假设投资者到2030年只能持有一只万亿美元级AI股票，并在Anthropic、英伟达和Alphabet之间进行比较。文章从技术壁垒、商业模式、算力生态、盈利能力和估值等角度评估三者的长期增长空间，并给出作者的首选标的，强调AI投资需关注可持续竞争优势而非短期概念热度。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7981",
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-20T17:40:01Z",
+      "summary": "TechCrunch关注太空数据中心面临的融资难题：芯片虽能承受太空辐射等严苛环境，但贷款机构不愿接受可能被火箭送入轨道的设备作为抵押品。文章由此讨论太空数据中心的资产估值、保险、抵押品控制和退出机制等问题，指出技术可行性之外，金融与风险管理框架才是规模化部署的关键。",
+      "fetchDate": "2026-11-20"
+    },
+    {
+      "id": "7982",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGVzUFN6Uk45UC1rS1JqSUc0b2tyLWhHSXR2a2hKX08xWlZjcW9veHpJM2FRQUVuM1JRSk5LSEpZSkpBa2RkVklXTHBvclFHN09oa3dYMjBDeU9ScTRWelNYeW1fdk1iVDFFaVcxSVp1ZDNtOER5aDdnblhYelZMeWxzZjVIYkFYU2haQU1kVVhTV1l6dFdaeG0zMkI3MElBZURWNFkwUXFJeW4yVTBDYm9TQUFwNWQzM1E?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-20T17:30:00Z",
+      "summary": "安全媒体报道，黑客利用自主AI工具Cairn发现零日漏洞并成功接管服务器。该事件显示，AI已能辅助甚至自动化完成漏洞挖掘、利用链构建和攻击执行，显著降低攻击门槛并缩短攻击周期。防御方需加强对AI驱动攻击的监测，引入自动化漏洞修复、威胁狩猎和AI安全治理，以应对攻防不对称加剧。",
+      "fetchDate": "2026-11-20"
+    },
+    {
       "id": "7956",
       "title": "Six AI-powered gadgets that could make your home office smarter",
       "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
@@ -71686,5 +71830,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7965
+  "total": 7981
 }
