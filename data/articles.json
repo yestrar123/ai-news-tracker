@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "7983",
+      "title": "Can AI solve a 167-year-old maths problem? Anthropic researcher says Claude may have done it - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx0LUhWZUIxUzcxWkJ1QXhETTVwWjF1NXlleV96RTU4MUdiSlNINUFLMFdwUl9nZGdaQ2pDSUNKMGJSWVBlRzVlREl5OVQySmJBQzhOLUM2d00zRE5mS2N2WEF2NzVCR3NGemYtNmVXbmdTNmhQaVNTQk5IdDFpb3h2dENmd3puTlhiMDh5bkZ1dlRqT0I4d0xCOW1senpKUDNENkU4LXROTHBiZllTSG80c2V1SDlxSkR1VVpBVDFKdHR4akVIRtIBzwFBVV95cUxOb04zWlI1MjFqX3J4ZHEyVGVVVDRwb1JrTTBiUHdxLUdGeXFSZjEyZ1dOY003b29HTTNES0gzLXBkTWFNRXFLY2Y4STIzU19TWnd2Ni1MQUFtTnc1REVJaWVpOXJraUt5QlBwSHh6THBvN09pS1ljVFVtMkZUZUQ1UG05Z2JIb1hkWUZhQWl6S3Z5dVNIRnQ4SzY5TGdRMkpQNWpoX0JVX01PMVlUblRKem0zNmdkM0hQZEg1MERidWlRRVpDWnRSUFNteGhBQW8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-21T03:20:43Z",
+      "summary": "据《印度快报》报道，Anthropic的一名研究人员称，其AI模型Claude可能已经解决了一道悬置长达167年的数学难题。该说法一经提出，便迅速在AI与数学界引发关注；若属实，将成为大模型在原创性数学推理上的标志性突破，意味着AI不仅能辅助计算与证明，还可能提出全新的解题路径。不过，目前这一结论尚未经过同行评审与形式化验证，其正确性以及模型是否真正独立完成仍待进一步考证。",
+      "fetchDate": "2026-11-21"
+    },
+    {
+      "id": "7984",
+      "title": "It has been claimed that artificial intelligence (AI) has solved one of the biggest challenges in ma.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OMmZaMW1zWExXU3hiTUVRVE9vMTg0TjRwallXUEpCTklnYWY5ZVZkbHkyVFFhNS12dGVScm5rZ1J6TjdEcU14RGV6UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-21T02:21:22Z",
+      "summary": "韩国《每日经济》报道称，有主张认为人工智能已解决数学领域最重大的难题之一，这与Anthropic研究员关于Claude破解167年数学难题的说法相呼应。该报道以简讯形式转述上述主张，未披露具体问题、验证过程及技术细节。此类宣称通常需经数学界严格审查，包括证明可复现、逻辑无漏洞，并借助形式化工具检验；若最终获得确认，将再度引发关于AI科研能力边界、成果归属与学术验证机制的讨论。",
+      "fetchDate": "2026-11-21"
+    },
+    {
       "id": "7967",
       "title": "Artificial Intelligence in Cancer Screening: Laghouat as a Potential Pilot Region in Algeria - Oncodaily",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RYmhGUFFScHFES3ZMN19wSmFHbC1YenBxLVEwaDEtOEVFcGQ5Q3M1MUVJc3lIenI5S25sSXBHNmVRMUNNTkp1OXhWZGljbnNIaDgwUXd0ZGVsLUhGc0J2WHdtYXF2TDFVVnBubVQyb1IyUGxTN0pV?oc=5",
@@ -71830,5 +71848,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 7981
+  "total": 7983
 }
