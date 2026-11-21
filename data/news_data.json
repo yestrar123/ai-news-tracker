@@ -1,62 +1,41 @@
 {
-  "updatedAt": "2026-11-21 13:51:21 UTC",
-  "totalArticles": 8,
+  "updatedAt": "2026-11-21 22:33:01 UTC",
+  "totalArticles": 5,
   "articles": [
     {
-      "title": "International talks on controlling use of autonomous weapons collapse - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUNMSUo1X2dYS3gzSVJxMmttOF95YXNZSHVxdkVqcVNocWdsSzdqMVROd0hjdWZWM3ZDbFB3UVFiNVZtZjQtTjhvUVBIMDF1eXAzdXRhRGcwTmVHajZyS09KU2hZdFRfam5GZlZSNng4emstWlNWakpZUW91dU05aTVZcjdXMmRMX2VZYlEyUWZHbTFTcm1ueklldGNia0IzeG4yVW92RmJISUVIVlE?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-21T13:17:00Z",
-      "summary": "国际社会围绕限制自主武器系统使用的谈判宣告破裂。此类武器可在缺乏人类直接控制下选择并攻击目标，引发伦理、军控与安全风险担忧。谈判失败意味着在致命性自主武器规制上仍缺乏具约束力的国际共识，相关军备发展与治理分歧可能进一步扩大。"
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-21T21:37:10Z",
+      "summary": "Signal宣布在Android与iOS客户端限制用户截屏功能，以应对其所说的AI监控“生存性威胁”。随着多模态大模型具备快速识别、转录与归档截图内容的能力，聊天截图正成为隐私泄露的新入口。Signal此举意在强化端到端加密之外的控制环节，减少对话内容被外部AI工具批量采集和解析的风险，也折射出隐私通信产品在AI监控能力快速提升背景下的防御思路转变。"
     },
     {
-      "title": "Ridge High School Students to Explore Artificial Intelligence Through New SHARE AI Club - TAPinto",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX0F5X0p0b0Z0MWRBbjNOWWlTbTVfd2xicC1ncTRWUkVrU0F1dWhVbnM3M1VEUDAzWnE5dmRRNnlIN2dteXpxVmtwWjBlcDFBdHFObUV3clZ4dEgtcGlZYjFwZFVZeE1ZVzllbFhXbUQxaklBSHE4YjFVMG5vYTJNX2lxa0hNaVlYQm9GWk1kWm9wVHFnYmp3R29weGc4QzluNTZzbGFCbnZFS2tKTkRiN0Q4UFpxUGk2N1JQRHBKd2hqOFVySThNcnhsaG9ob1FQVlB1VEtSdl9TeVE0ZnZMcGFvTGFjZHYxSkJEX1EycVI?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-21T13:00:00Z",
-      "summary": "美国Ridge高中学生将通过新成立的SHARE AI Club探索人工智能。该社团旨在为学生提供了解AI概念、应用与伦理影响的机会，并以项目或交流形式培养技术素养。此类校园社团反映AI教育向中学阶段延伸，有助于学生在早期建立对人工智能的理性认知与实践能力。"
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-21T21:07:42Z",
+      "summary": "TechCrunch以“两个英伟达”为切入点，对比了围绕这家芯片巨头的两种截然不同的叙事：一边是最新财报呈现的业绩数据，另一边是科技界高管公开呼吁黄仁勋回归的声音。报道借此揭示市场对英伟达的评估正出现分化——财务表现与产业界情绪并不完全同步，反映出在AI算力需求高涨与竞争格局变化之下，外界对英伟达领导层与战略走向的高度关注。"
     },
     {
-      "title": "Principal: Juvenile used AI to make nude images of Chatham Co. charter school students & staff - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFc5YlVrdEhkT0Eyc0k5WVJYZE80djNlWXp1M3QzR2ZScVNjV2F5RE9IcGNYaFU2X0lDbHRRZ1FCVUJuSTlLSmVQZk1hWmJaMWIzUmtmNk5iY3BKTVJNdHI1T01rbW1mVE5wYWY2UTZBR0lKdmYzT2IwM2puWXEtNlFtemU0R002WDRHTkhmVVpabWpYMXFDLVdsRGRVSEs3ZVo3RXRyZU1kdVdHQjhfNzJKRUozaDZwVDFjYVNsM0l3Zw?oc=5",
+      "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHBvcGRNRkJZTDBhSGlMRi1BeXN2Um1nOXVjSjdSR1BSZDY2RnN6SE9McEprQmpyVnUyZldBTlFBd3B3eS0yNEd6Zy16djJRN1ZaODktU0pZaHFsV2hWbWlMTmVncF9pYTVZajA5S3dpWlA2VUFkdVh5eWpjbkRIMnJWeXluaEJkYTY1dDdoWXBndjVSbDNhYlBQSVY5RHNQdVVzTVdpNmZMZXNyUC1GZm1rQmhjdHR4NnNncG5tOENwUDR5c3h3Sw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-21T12:24:35Z",
-      "summary": "Chatham县一所特许学校负责人称，一名未成年人利用AI制作了涉及该校学生和教职员工的裸体图像。事件凸显生成式AI被滥用于制造非自愿性影像的风险，涉及未成年人隐私、校园安全与法律责任。学校已向社区通报，后续可能引发对AI工具监管、平台责任及学生数字素养教育的讨论。"
-    },
-    {
-      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day - SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-21T12:08:50Z",
-      "summary": "亚马逊披露，与中国有关联的黑客利用AI代理攻击医疗软件中的零日漏洞。该事件显示攻击者正借助AI提升漏洞发现、利用与自动化攻击能力，关键行业软件供应链安全面临新挑战。医疗数据敏感且系统关系生命安全，相关漏洞披露与防御响应值得关注。"
-    },
-    {
-      "title": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVJRd2tPMkloNFlVMzdDSGVDenFmcjZqUzF2Y1pHaUp3eDFabElrcGE4YnBYV216LUtVaFpFY3IwVUJwajJROVVUUUxocGRVMkZTTGZWcnJQLWRwWWZTaXVmOEZJZXk5QVlPZ1FpNDRUc0NrUWtQdWZTTmJ1eXZkWlFqanNWeTl0TWJuZg?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-21T12:00:00Z",
-      "summary": "一名牧师在评论文章中批评硅谷对AI“灵魂”的追寻令人深感不安。作者从宗教与伦理视角担忧，科技公司试图赋予AI类人内在属性，可能模糊人与机器的界限，并回避责任、尊严与意义等根本问题。文章反映围绕AI拟人化、价值对齐和技术伦理的公共争论。"
-    },
-    {
-      "title": "AI (artificial intelligence) - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-21T10:42:46Z",
-      "summary": "这是《卫报》人工智能专题页面，汇总该媒体对AI技术、产业与治理的报道与评论。页面内容涵盖AI应用、监管政策、伦理争议及社会影响等议题，为读者提供持续跟踪人工智能动态的入口。由于仅有栏目页信息，具体新闻事件需以页面内各篇文章为准。"
-    },
-    {
-      "title": "As U.S. artificial intelligence (AI) company Antropics entered the Nasdaq, related companies are als.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxX195RGxzR00yZEpob2dSaGExdG56UFNaNzZDN00zbjJtYVpvazlvQU55NncyeGxpODZpMXV6V0Jzb2RXeWhyVFlhN3RKbnc?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-21T10:12:12Z",
-      "summary": "韩国媒体报道称，美国AI公司Antropics（原文拼写）登陆纳斯达克，相关企业亦受到市场关注。消息反映AI企业加快进入资本市场，可能带动投资者对人工智能产业链公司的兴趣。报道未提供更多财务与交易细节，其上市安排及对相关板块的影响仍需进一步确认。"
+      "publishedAt": "2026-11-21T20:23:00Z",
+      "summary": "《卫报》报道了人与AI伴侣“分手”所引发的心理创伤：有用户描述自己出现发抖、哭泣、呼吸困难等强烈反应。报道指出，随着AI情感陪伴产品普及，用户与虚拟角色形成深度依恋，关系终止时的失落感可能接近真实人际分离，但这一领域的心理影响尚缺乏研究与支持体系。文章呼吁关注AI陪伴产品的伦理设计与用户心理健康风险。"
     },
     {
       "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence) - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-21T08:00:00Z",
-      "summary": "《卫报》文章讨论制造机械手的研究是否会令人类被取代，并以“人类的末日”设问。报道聚焦机器人手部灵巧操作技术进展，以及自动化对人机关系、劳动价值和人类独特性的潜在冲击。文章呈现技术乐观与生存性担忧之间的张力，促使读者思考机器人能力提升的边界与社会后果。"
+      "publishedAt": "2026-11-21T19:15:00Z",
+      "summary": "《卫报》探讨了机器人灵巧手研发竞赛背后的忧虑：随着机械手在灵活性、触觉感知与精细操作上不断突破，人们开始担心高度自动化的机器人是否会取代大量人类劳动，甚至被形容为“人类的末日”。报道将技术进展与社会焦虑并置，追问在追求拟人化操作能力的同时，如何评估其对就业结构、人类价值与安全边界的长期冲击。"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-21T17:00:00Z",
+      "summary": "TechCrunch梳理了当前可直接“住”在短信里的主流AI代理，覆盖通用助手以及面向家庭、旅行和办公场景的专用代理。这类产品以文本消息为交互入口，用户无需安装新应用即可通过对话完成日程安排、信息查询与任务协作。报道认为，短信式AI代理降低了使用门槛，正成为AI助手触达用户的重要形态，也带来隐私与平台生态方面的新问题。"
     }
   ]
 }
