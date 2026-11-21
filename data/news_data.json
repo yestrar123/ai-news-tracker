@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-11-21 04:40:20 UTC",
-  "totalArticles": 2,
+  "updatedAt": "2026-11-21 08:58:49 UTC",
+  "totalArticles": 3,
   "articles": [
+    {
+      "title": "AI (artificial intelligence) - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-21T06:38:48Z",
+      "summary": "该新闻为《卫报》人工智能专题或聚合页面，集中呈现AI领域最新报道，可能涵盖大模型技术进展、产业应用、伦理治理与社会影响等议题。由于原文未给出具体事件细节，只能概括为媒体对AI动态的持续跟踪与综合报道，读者可据此了解相关话题的报道脉络。"
+    },
+    {
+      "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "summary": "《卫报》文章以“人类的末日”为切入点，讨论研发高灵活度机械手是否会让人类被取代。报道可能涉及机器人灵巧操作、AI控制、人形机器人等关键技术，并延伸至自动化对就业、社会结构和人类主体性的冲击。标题以设问方式呈现技术乐观与伦理忧虑之间的张力。"
+    },
     {
       "title": "Can AI solve a 167-year-old maths problem? Anthropic researcher says Claude may have done it - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx0LUhWZUIxUzcxWkJ1QXhETTVwWjF1NXlleV96RTU4MUdiSlNINUFLMFdwUl9nZGdaQ2pDSUNKMGJSWVBlRzVlREl5OVQySmJBQzhOLUM2d00zRE5mS2N2WEF2NzVCR3NGemYtNmVXbmdTNmhQaVNTQk5IdDFpb3h2dENmd3puTlhiMDh5bkZ1dlRqT0I4d0xCOW1senpKUDNENkU4LXROTHBiZllTSG80c2V1SDlxSkR1VVpBVDFKdHR4akVIRtIBzwFBVV95cUxOb04zWlI1MjFqX3J4ZHEyVGVVVDRwb1JrTTBiUHdxLUdGeXFSZjEyZ1dOY003b29HTTNES0gzLXBkTWFNRXFLY2Y4STIzU19TWnd2Ni1MQUFtTnc1REVJaWVpOXJraUt5QlBwSHh6THBvN09pS1ljVFVtMkZUZUQ1UG05Z2JIb1hkWUZhQWl6S3Z5dVNIRnQ4SzY5TGdRMkpQNWpoX0JVX01PMVlUblRKem0zNmdkM0hQZEg1MERidWlRRVpDWnRSUFNteGhBQW8?oc=5",
       "source": "Google News AI",
       "publishedAt": "2026-11-21T03:20:43Z",
-      "summary": "据《印度快报》报道，Anthropic的一名研究人员称，其AI模型Claude可能已经解决了一道悬置长达167年的数学难题。该说法一经提出，便迅速在AI与数学界引发关注；若属实，将成为大模型在原创性数学推理上的标志性突破，意味着AI不仅能辅助计算与证明，还可能提出全新的解题路径。不过，目前这一结论尚未经过同行评审与形式化验证，其正确性以及模型是否真正独立完成仍待进一步考证。"
-    },
-    {
-      "title": "It has been claimed that artificial intelligence (AI) has solved one of the biggest challenges in ma.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OMmZaMW1zWExXU3hiTUVRVE9vMTg0TjRwallXUEpCTklnYWY5ZVZkbHkyVFFhNS12dGVScm5rZ1J6TjdEcU14RGV6UQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-21T02:21:22Z",
-      "summary": "韩国《每日经济》报道称，有主张认为人工智能已解决数学领域最重大的难题之一，这与Anthropic研究员关于Claude破解167年数学难题的说法相呼应。该报道以简讯形式转述上述主张，未披露具体问题、验证过程及技术细节。此类宣称通常需经数学界严格审查，包括证明可复现、逻辑无漏洞，并借助形式化工具检验；若最终获得确认，将再度引发关于AI科研能力边界、成果归属与学术验证机制的讨论。"
+      "summary": "《印度快报》报道称，Anthropic一名研究员表示，Claude可能解决了一个存在167年的数学难题。文章围绕AI能否参与高难度数学发现展开，讨论大模型在推理、证明生成方面的潜力，同时强调结论仍需数学界严格验证，不能仅凭AI自述认定突破。"
     }
   ]
 }
