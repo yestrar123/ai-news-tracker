@@ -1,27 +1,62 @@
 {
-  "updatedAt": "2026-11-21 08:58:49 UTC",
-  "totalArticles": 3,
+  "updatedAt": "2026-11-21 13:51:21 UTC",
+  "totalArticles": 8,
   "articles": [
+    {
+      "title": "International talks on controlling use of autonomous weapons collapse - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUNMSUo1X2dYS3gzSVJxMmttOF95YXNZSHVxdkVqcVNocWdsSzdqMVROd0hjdWZWM3ZDbFB3UVFiNVZtZjQtTjhvUVBIMDF1eXAzdXRhRGcwTmVHajZyS09KU2hZdFRfam5GZlZSNng4emstWlNWakpZUW91dU05aTVZcjdXMmRMX2VZYlEyUWZHbTFTcm1ueklldGNia0IzeG4yVW92RmJISUVIVlE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-21T13:17:00Z",
+      "summary": "国际社会围绕限制自主武器系统使用的谈判宣告破裂。此类武器可在缺乏人类直接控制下选择并攻击目标，引发伦理、军控与安全风险担忧。谈判失败意味着在致命性自主武器规制上仍缺乏具约束力的国际共识，相关军备发展与治理分歧可能进一步扩大。"
+    },
+    {
+      "title": "Ridge High School Students to Explore Artificial Intelligence Through New SHARE AI Club - TAPinto",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX0F5X0p0b0Z0MWRBbjNOWWlTbTVfd2xicC1ncTRWUkVrU0F1dWhVbnM3M1VEUDAzWnE5dmRRNnlIN2dteXpxVmtwWjBlcDFBdHFObUV3clZ4dEgtcGlZYjFwZFVZeE1ZVzllbFhXbUQxaklBSHE4YjFVMG5vYTJNX2lxa0hNaVlYQm9GWk1kWm9wVHFnYmp3R29weGc4QzluNTZzbGFCbnZFS2tKTkRiN0Q4UFpxUGk2N1JQRHBKd2hqOFVySThNcnhsaG9ob1FQVlB1VEtSdl9TeVE0ZnZMcGFvTGFjZHYxSkJEX1EycVI?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-21T13:00:00Z",
+      "summary": "美国Ridge高中学生将通过新成立的SHARE AI Club探索人工智能。该社团旨在为学生提供了解AI概念、应用与伦理影响的机会，并以项目或交流形式培养技术素养。此类校园社团反映AI教育向中学阶段延伸，有助于学生在早期建立对人工智能的理性认知与实践能力。"
+    },
+    {
+      "title": "Principal: Juvenile used AI to make nude images of Chatham Co. charter school students & staff - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZFc5YlVrdEhkT0Eyc0k5WVJYZE80djNlWXp1M3QzR2ZScVNjV2F5RE9IcGNYaFU2X0lDbHRRZ1FCVUJuSTlLSmVQZk1hWmJaMWIzUmtmNk5iY3BKTVJNdHI1T01rbW1mVE5wYWY2UTZBR0lKdmYzT2IwM2puWXEtNlFtemU0R002WDRHTkhmVVpabWpYMXFDLVdsRGRVSEs3ZVo3RXRyZU1kdVdHQjhfNzJKRUozaDZwVDFjYVNsM0l3Zw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-21T12:24:35Z",
+      "summary": "Chatham县一所特许学校负责人称，一名未成年人利用AI制作了涉及该校学生和教职员工的裸体图像。事件凸显生成式AI被滥用于制造非自愿性影像的风险，涉及未成年人隐私、校园安全与法律责任。学校已向社区通报，后续可能引发对AI工具监管、平台责任及学生数字素养教育的讨论。"
+    },
+    {
+      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS0RzYnRJVzA5MjhlSWJfODFMNDRMdDl3Zk81UkxlbklPbE8tQ2xMYWdzSElBdlF6eTJaeWRSdm9aa3JkYU5xbUZIUjUtc3VxZzlYUXhCOWplcHBDb1AzcEMzWXd1eTdndHdIVWlrUnVSMExWQnZaakd4Y3JYRkFZeE9POGNKTE5tRlhwTTJnWUs4QVBjM1l6OFpaYmVqNVZWa0ZIUU5R?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-21T12:08:50Z",
+      "summary": "亚马逊披露，与中国有关联的黑客利用AI代理攻击医疗软件中的零日漏洞。该事件显示攻击者正借助AI提升漏洞发现、利用与自动化攻击能力，关键行业软件供应链安全面临新挑战。医疗数据敏感且系统关系生命安全，相关漏洞披露与防御响应值得关注。"
+    },
+    {
+      "title": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVJRd2tPMkloNFlVMzdDSGVDenFmcjZqUzF2Y1pHaUp3eDFabElrcGE4YnBYV216LUtVaFpFY3IwVUJwajJROVVUUUxocGRVMkZTTGZWcnJQLWRwWWZTaXVmOEZJZXk5QVlPZ1FpNDRUc0NrUWtQdWZTTmJ1eXZkWlFqanNWeTl0TWJuZg?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "summary": "一名牧师在评论文章中批评硅谷对AI“灵魂”的追寻令人深感不安。作者从宗教与伦理视角担忧，科技公司试图赋予AI类人内在属性，可能模糊人与机器的界限，并回避责任、尊严与意义等根本问题。文章反映围绕AI拟人化、价值对齐和技术伦理的公共争论。"
+    },
     {
       "title": "AI (artificial intelligence) - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITEpPcjJTZG1IZVJXYTVWanhKNHZ6QmZ0QngyS1d5T1VzdFVmQ2lrUzJ2U3RQeWZHY3ExbU1DX3dJRFhFRGJoV2tyZmVuYkYzekRrTnZNOFg3Q2hPS3ZzbVlNQVgzcWJONnBIb3h2SW4?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-21T06:38:48Z",
-      "summary": "该新闻为《卫报》人工智能专题或聚合页面，集中呈现AI领域最新报道，可能涵盖大模型技术进展、产业应用、伦理治理与社会影响等议题。由于原文未给出具体事件细节，只能概括为媒体对AI动态的持续跟踪与综合报道，读者可据此了解相关话题的报道脉络。"
+      "publishedAt": "2026-11-21T10:42:46Z",
+      "summary": "这是《卫报》人工智能专题页面，汇总该媒体对AI技术、产业与治理的报道与评论。页面内容涵盖AI应用、监管政策、伦理争议及社会影响等议题，为读者提供持续跟踪人工智能动态的入口。由于仅有栏目页信息，具体新闻事件需以页面内各篇文章为准。"
     },
     {
-      "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? - The Guardian",
+      "title": "As U.S. artificial intelligence (AI) company Antropics entered the Nasdaq, related companies are als.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxX195RGxzR00yZEpob2dSaGExdG56UFNaNzZDN00zbjJtYVpvazlvQU55NncyeGxpODZpMXV6V0Jzb2RXeWhyVFlhN3RKbnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-21T10:12:12Z",
+      "summary": "韩国媒体报道称，美国AI公司Antropics（原文拼写）登陆纳斯达克，相关企业亦受到市场关注。消息反映AI企业加快进入资本市场，可能带动投资者对人工智能产业链公司的兴趣。报道未提供更多财务与交易细节，其上市安排及对相关板块的影响仍需进一步确认。"
+    },
+    {
+      "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence) - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-21T06:00:00Z",
-      "summary": "《卫报》文章以“人类的末日”为切入点，讨论研发高灵活度机械手是否会让人类被取代。报道可能涉及机器人灵巧操作、AI控制、人形机器人等关键技术，并延伸至自动化对就业、社会结构和人类主体性的冲击。标题以设问方式呈现技术乐观与伦理忧虑之间的张力。"
-    },
-    {
-      "title": "Can AI solve a 167-year-old maths problem? Anthropic researcher says Claude may have done it - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx0LUhWZUIxUzcxWkJ1QXhETTVwWjF1NXlleV96RTU4MUdiSlNINUFLMFdwUl9nZGdaQ2pDSUNKMGJSWVBlRzVlREl5OVQySmJBQzhOLUM2d00zRE5mS2N2WEF2NzVCR3NGemYtNmVXbmdTNmhQaVNTQk5IdDFpb3h2dENmd3puTlhiMDh5bkZ1dlRqT0I4d0xCOW1senpKUDNENkU4LXROTHBiZllTSG80c2V1SDlxSkR1VVpBVDFKdHR4akVIRtIBzwFBVV95cUxOb04zWlI1MjFqX3J4ZHEyVGVVVDRwb1JrTTBiUHdxLUdGeXFSZjEyZ1dOY003b29HTTNES0gzLXBkTWFNRXFLY2Y4STIzU19TWnd2Ni1MQUFtTnc1REVJaWVpOXJraUt5QlBwSHh6THBvN09pS1ljVFVtMkZUZUQ1UG05Z2JIb1hkWUZhQWl6S3Z5dVNIRnQ4SzY5TGdRMkpQNWpoX0JVX01PMVlUblRKem0zNmdkM0hQZEg1MERidWlRRVpDWnRSUFNteGhBQW8?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-21T03:20:43Z",
-      "summary": "《印度快报》报道称，Anthropic一名研究员表示，Claude可能解决了一个存在167年的数学难题。文章围绕AI能否参与高难度数学发现展开，讨论大模型在推理、证明生成方面的潜力，同时强调结论仍需数学界严格验证，不能仅凭AI自述认定突破。"
+      "publishedAt": "2026-11-21T08:00:00Z",
+      "summary": "《卫报》文章讨论制造机械手的研究是否会令人类被取代，并以“人类的末日”设问。报道聚焦机器人手部灵巧操作技术进展，以及自动化对人机关系、劳动价值和人类独特性的潜在冲击。文章呈现技术乐观与生存性担忧之间的张力，促使读者思考机器人能力提升的边界与社会后果。"
     }
   ]
 }
