@@ -1,41 +1,13 @@
 {
-  "updatedAt": "2026-11-21 22:33:01 UTC",
-  "totalArticles": 5,
+  "updatedAt": "2026-11-22 03:54:55 UTC",
+  "totalArticles": 1,
   "articles": [
-    {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-21T21:37:10Z",
-      "summary": "Signal宣布在Android与iOS客户端限制用户截屏功能，以应对其所说的AI监控“生存性威胁”。随着多模态大模型具备快速识别、转录与归档截图内容的能力，聊天截图正成为隐私泄露的新入口。Signal此举意在强化端到端加密之外的控制环节，减少对话内容被外部AI工具批量采集和解析的风险，也折射出隐私通信产品在AI监控能力快速提升背景下的防御思路转变。"
-    },
-    {
-      "title": "A tale of two Nvidias",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-21T21:07:42Z",
-      "summary": "TechCrunch以“两个英伟达”为切入点，对比了围绕这家芯片巨头的两种截然不同的叙事：一边是最新财报呈现的业绩数据，另一边是科技界高管公开呼吁黄仁勋回归的声音。报道借此揭示市场对英伟达的评估正出现分化——财务表现与产业界情绪并不完全同步，反映出在AI算力需求高涨与竞争格局变化之下，外界对英伟达领导层与战略走向的高度关注。"
-    },
     {
       "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHBvcGRNRkJZTDBhSGlMRi1BeXN2Um1nOXVjSjdSR1BSZDY2RnN6SE9McEprQmpyVnUyZldBTlFBd3B3eS0yNEd6Zy16djJRN1ZaODktU0pZaHFsV2hWbWlMTmVncF9pYTVZajA5S3dpWlA2VUFkdVh5eWpjbkRIMnJWeXluaEJkYTY1dDdoWXBndjVSbDNhYlBQSVY5RHNQdVVzTVdpNmZMZXNyUC1GZm1rQmhjdHR4NnNncG5tOENwUDR5c3h3Sw?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-21T20:23:00Z",
-      "summary": "《卫报》报道了人与AI伴侣“分手”所引发的心理创伤：有用户描述自己出现发抖、哭泣、呼吸困难等强烈反应。报道指出，随着AI情感陪伴产品普及，用户与虚拟角色形成深度依恋，关系终止时的失落感可能接近真实人际分离，但这一领域的心理影响尚缺乏研究与支持体系。文章呼吁关注AI陪伴产品的伦理设计与用户心理健康风险。"
-    },
-    {
-      "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence) - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-21T19:15:00Z",
-      "summary": "《卫报》探讨了机器人灵巧手研发竞赛背后的忧虑：随着机械手在灵活性、触觉感知与精细操作上不断突破，人们开始担心高度自动化的机器人是否会取代大量人类劳动，甚至被形容为“人类的末日”。报道将技术进展与社会焦虑并置，追问在追求拟人化操作能力的同时，如何评估其对就业结构、人类价值与安全边界的长期冲击。"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-11-21T17:00:00Z",
-      "summary": "TechCrunch梳理了当前可直接“住”在短信里的主流AI代理，覆盖通用助手以及面向家庭、旅行和办公场景的专用代理。这类产品以文本消息为交互入口，用户无需安装新应用即可通过对话完成日程安排、信息查询与任务协作。报道认为，短信式AI代理降低了使用门槛，正成为AI助手触达用户的重要形态，也带来隐私与平台生态方面的新问题。"
+      "publishedAt": "2026-11-21T22:25:00Z",
+      "summary": "《卫报》报道了用户与AI伴侣“分手”后出现的强烈心理创伤：有人描述自己颤抖、哭泣、呼吸困难。文章指出，随着AI伴侣深度介入情感生活，用户可能形成高度依赖，关系终止时会产生类似真实失恋甚至更复杂的痛苦。这一现象暴露出AI情感陪伴产品的心理风险、用户支持缺失及伦理监管空白，亟需关注AI关系对心理健康的潜在影响。"
     }
   ]
 }
