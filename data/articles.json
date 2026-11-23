@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "id": "8030",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T16:39:10Z",
+      "summary": "特朗普据报致电英伟达董事会会议，公开游说支持黄仁勋回归，并称已与董事会沟通、说服对方。该事件显示美国政府高层对英伟达管理层变动的直接介入，也使公司治理、政商关系及出口管制背景下的领导层稳定性成为关注焦点。",
+      "fetchDate": "2026-11-23"
+    },
+    {
+      "id": "8031",
+      "title": "Audience Machine Heuristic Beliefs Drive Credibility Ratings in Artificial Intelligence Journalism - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHZqVFlUcG9oSGV6cmktRnFKdXk2RllUWk8xY0lYdldKamo3dmZxc1NFZ0kyeWszQklPWllIcXJKSXRtdDh2X3JTdW5GVXVfSGk4VTNySHdxaktENWo1MUM4WmNoSlh4ekY1VUthbUtMaHdPdDRVZzROdlV0MERsTHduU1pwQzJDQnd6VTFGeHBWZTR5WWRhYW1RME1RTnhQZXY4RUdaSmt1UTh3czdpT201eS00a0hfQkVVdUhqdXA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-23T16:33:34Z",
+      "summary": "一项研究关注受众对机器/AI的启发式信念如何影响其对人工智能新闻可信度的评分。结果表明，受众并非仅依据内容质量判断，而会受对AI系统的既有印象、直觉规则和机器可信度认知驱动，这为AI新闻编辑与可信度设计提供了启示。",
+      "fetchDate": "2026-11-23"
+    },
+    {
+      "id": "8032",
+      "title": "LightSite AI Reports Gaps in Website Answers to AI Agent Requests - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTEV4b25fYXY2aHpkNVhuSTVTYUpwUHRhcUU4bC13N0plVGhtUUhFcEZtTjZTSV9OSVloSHRwdnAxWG5hWXk0TUpVUWNKMDBLT0JRRVlnSEItT2RJTHk2dUhycjRUMDhlQnQ3R0xYMVFiQ0RsZ3QxUUlzeDhDTHF1MGUwM19BYUEtbFBKS3dCRUhmZFlB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-23T15:08:19Z",
+      "summary": "LightSite AI报告指出，许多网站在应对AI代理请求时存在答案缺口，难以提供完整、结构化且可被代理理解的信息。这反映企业需针对AI代理访问优化内容、数据与接口，以免在自动化交互和AI搜索场景中失去可见性与服务能力。",
+      "fetchDate": "2026-11-23"
+    },
+    {
+      "id": "8033",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T15:04:01Z",
+      "summary": "特朗普公开支持黄仁勋回归英伟达，称美国未发现其存在不当行为，并援引司法部长表态；同时敦促英伟达继续推进出口管制相关调查。该表态将管理层回归、合规调查与美方出口政策交织在一起，凸显政治因素对企业治理的影响。",
+      "fetchDate": "2026-11-23"
+    },
+    {
+      "id": "8034",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T14:43:03Z",
+      "summary": "由前Salesforce联合CEO Bret Taylor参与创办的企业客户体验公司Sierra宣布完成17.5亿美元F轮融资，估值在六个月内翻倍至300亿美元。融资反映企业对AI驱动客户体验的需求快速上升，也显示资本市场继续押注AI客服与CX自动化赛道。",
+      "fetchDate": "2026-11-23"
+    },
+    {
+      "id": "8035",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T14:21:59Z",
+      "summary": "英伟达改变此前决定，重新任命黄仁勋为CEO。报道称这一惊人反转获得美国政府高级官员支持。事件凸显英伟达领导层变动背后的政商博弈，也引发外界对公司治理独立性、出口管制压力及管理层稳定性的关注，其后续影响仍有待观察。",
+      "fetchDate": "2026-11-23"
+    },
+    {
+      "id": "8036",
+      "title": "AI agent security concerns kick-start confidential computing - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbHZhbjZzcy1WaDMyNzJXYU16d254M3pFX1N5MkY1cDJVTnFPeFFrSm9PakZNNUZXNHlwS1B5WldUS2xhcGlqUkpPMzJXMW1nSnQ0cXhaRTZMQ20tS3U0UFdrcFJCRkZjczFKd3RGc1BGOWhpVVhiZmd2WVN0Z2Zoc0NGWjc2THdINlB5QVlzbTJTTUlJelR2TjRnNnpWMmh1dmlxSENIS3ZqRWxOVFBfbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-23T12:48:28Z",
+      "summary": "AI代理安全担忧正推动机密计算加速落地。随着代理需要访问敏感数据、工具和企业系统，企业开始借助机密计算在数据处理过程中隔离和保护代码与数据，降低泄露与滥用风险，为AI代理的可信部署提供底层安全支撑。",
+      "fetchDate": "2026-11-23"
+    },
+    {
+      "id": "8037",
+      "title": "Anti-cheating costs mount in S.Korea as AI-assisted misconduct sparks alarm - KED Global",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CWUowUjRxZGM2RlppTGtGbkotTnFfbzZNQnpIa3RETjZmMTY3djRIY2t5cUQwdWxpUEdFWlE2UUdtaFljVWR1aU1KYVR3Mnl1Y0lOTFJIMGtEaEdXbzFVenl6V2RnVXc2YTZ0Z3A2eGVET3VTYl9Qd1diTlJOalU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-23T11:30:00Z",
+      "summary": "韩国AI辅助作弊事件引发警觉，反作弊成本持续上升。AI工具使考试与评估中的不当行为更隐蔽，迫使教育机构和考试组织加大检测、监控与制度投入。该趋势凸显生成式AI对学术诚信和考试公平的冲击，也推动监管与技术治理跟进。",
+      "fetchDate": "2026-11-23"
+    },
+    {
+      "id": "8038",
+      "title": "Australia to treat AI as key foreign policy issue, warning of risks to democracy - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeTdtbWJacmZZaDVoVmlScEZLX3FTTGJqMDl1Y0FfLXpEZTEwTUVCVlRjYVRBVWhJdWp4cmxqczFIUmNMaXAycklLZzlhWnJwamFWY29sOVdpclJuMndxZlRqMXpxdmYyMkF6LUNuakc2ZjFLVFJGcnJDbGdVcXlnRHNSbHJEOFVFdmxndENRY0hrOWNtWlJzRlJiZmxjR1FQZm96c3p5S3JCaEJwbWxuVzNiT2hTcnNlSUpya1AwMUpNaDd4NTg5dEh30gHKAUFVX3lxTFBkNk1GQ1VlQUpNWkFiNHUxVmxXSnFPSDBIRE9SeXZKZ2lDZDh4RnpER3hnelF0YjRQdXlDTE16aElKMVdmVTZRZDhuTklTMlp4SVFkV0RzVUZTS0lXR2pSZGdFSWswUm5GQzFzdXBoUDAxWG92aGN1dmNlQWVrVHRCbnY1SHAxU21sVkhHMktEMmkyb2o4c2xrcV9yM29KcVlfdzRUMEVRcVVGdXRQS05aNDZyZWpLSTQ3S3dpNEVYbXZ4OXljRTFfYnc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-23T11:13:50Z",
+      "summary": "澳大利亚将AI列为关键外交政策议题，并警告其对民主制度构成风险。此举意味着AI不再只是技术或产业政策问题，而被纳入国家安全、信息生态和国际规则博弈；澳方或将通过外交协调、风险治理与合作机制应对AI带来的民主与安全挑战。",
+      "fetchDate": "2026-11-23"
+    },
+    {
+      "id": "8039",
+      "title": "Artificial Intelligence at Amgen – Two Use Cases - Emerj Artificial Intelligence Research",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tbkYxcmNfY2o2b3lFQk8yUlBjaklOdWs3Y2prMkYwc01NcHhTVU1Pc1pBM0poaVFNRkFRWWpMUHBBcjRjc1BMM2xFb2dNVTNQRjFsU0FuX3NfMmZ2MHJyXzliNGVJc0IyWFZqWG40ZDdmN28?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-23T11:01:02Z",
+      "summary": "Emerj研究梳理了安进（Amgen）在人工智能领域的两个应用案例，关注这家生物医药企业如何将AI嵌入研发与业务场景，以提升效率、支持决策并加速创新。案例为生命科学企业评估和落地AI提供了参考，也反映医药行业对AI应用的持续探索。",
+      "fetchDate": "2026-11-23"
+    },
+    {
+      "id": "8040",
+      "title": "The Death of Original Thought: Is AI Stripping Creativity from Education? - The Tab",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR1Vqazh1SUVWUUUxWEE2SEZ1d250RThHSEJkN0tDZ1RVTG1yNXRtVFNwY0ZzWGNueVBiU3pVc2VqVzlPTmQ0YThWT0N4LXBGbTJzVFlKTGxXd2w2OENvc0UwVkgwRXdUSHB3Z21wbWZhMXpWRk04aElKUG9aOHZ0bXpkeXdULUhnaUg3N3NVRFRfb0w3akhBWGVIdzNHdFFia3pN?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-23T10:57:06Z",
+      "summary": "该文讨论AI进入教育后是否正在削弱学生的原创思考与创造力。文章围绕生成式AI可能让学生依赖工具、减少独立构思和批判性思考的担忧展开，同时呈现AI辅助学习对创意表达的潜在影响。核心议题是：教育应在利用AI提升效率的同时，通过课程设计与评价方式保护并培养学生的原创性、批判性思维和创造力。",
+      "fetchDate": "2026-11-23"
+    },
+    {
       "id": "8016",
       "title": "Antropic, the developer of the artificial intelligence (AI) model \"Claude,\" has entered the U.S. sto.. - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HVlA3VW1ZNW5ZVkdRY09BSFd0b3YzNHk2QmhFYnMxVlJLcTF6X0w2NjljNG9UdjVNbERfZ0RvbWcxRVhRSFExZzJmV2Z3M3c?oc=5",
@@ -72253,5 +72352,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 8028
+  "total": 8039
 }
