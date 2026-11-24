@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "8041",
+      "title": "Governors Call for Increased, Aligned AI Policy Regulation - GovTech",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmNSZUs4RVBfajI0RWIzSXJyUFZiSUF2N0RnbGNmcE1rU2hEMGs5eWNtazB2VDhJcHc5YXlfa3pJZkxBNlpwNXZMQ3hXRDNaeXc3cTdzX1dBZ0tEX3lXRFhoQmZONkZVVFRNUWlvU05qZWNXWXR2STNLZm5oSzB0blJrZmFjYjY1bWwwekFuSUZTZ3M4dDRneFB0Z3laYWdfNFU1eTQ2blM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T00:13:32Z",
+      "summary": "美国多州州长呼吁加强人工智能政策监管，并推动各州规则相互协调。相关表态强调，面对AI快速应用，监管不能缺位，但也要避免各州政策碎片化造成合规负担。报道显示，州层面正寻求在创新与安全之间取得平衡，为AI治理提供更统一、可预期的政策环境。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8042",
+      "title": "New AI rule marks a first for US federal appeals courts - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFpmUkVHc2JjTWYtenpNaDMtVUhVNHBRS1ExTFhJRnFMNU9vWHYwSFlvZmoxcmZXUXhieGl0UGRqdzdJXy1pUGY1Ul90QW93OTBET21hWkRDd1pOWUlhTWQtcGdwZE9fOTAtTmVjYU11VWZTOGpMQXhiUlg4bzh6bEtVOHhBWEFFZGJxLVdveUd3MEdMOU1RU2JjTktnSU1UYTNTVzlCTkJBdUVGUF8tblk0RQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-23T23:57:13Z",
+      "summary": "美国联邦上诉法院系统出现首项人工智能规则，被视为司法领域AI治理的首次尝试。报道未披露规则全文，但此举表明联邦上诉法院开始正面回应AI在诉讼、文书和司法工作中的使用问题，可能为后续法院制定类似规范提供参考，也意味着司法系统对AI的监管进入实操阶段。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8043",
+      "title": "From fake deals to cloned voices, AI is changing holiday scams - KSAT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDIxNEZJdEhsTGpzX3puaS1pd2ROZm9ZYkplSDRuVnBjdXJKaExuUGMyMTNEQ3hsZzBfaGsxM2ZZa0cycmd5d19Ic2tISWU5VzRxNm44NHVRWkp3d2hlTEhhOVZpbVhtTnBpUWhjbXlldW8wOGtqRnZXOFhiU2VDd1hpcTNHblVfbWNMSlhSSFVqcE5EdTdoNVBmZWtfX1BlNHV4NUxLRms?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-23T23:18:07Z",
+      "summary": "随着假日购物季到来，AI正在改变诈骗手法：不法分子利用虚假交易页面、伪造优惠信息以及克隆语音等方式增强欺骗性。报道提示，这类骗局更具迷惑性，消费者需提高警惕，核实商家和来电身份，避免因“熟人声音”或“限时低价”而上当。平台和监管方也需加强对AI诈骗的识别与防范。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8044",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T22:05:50Z",
+      "summary": "Anthropic推出名为Claude Ship的开发者工具，允许AI代理对代码变更进行审查、修复和批准。随着AI生成代码数量快速增加，代码审核与合并成为新的效率瓶颈；该工具旨在让代理处理常规审批流程，减少人工负担，提升开发协作效率，同时仍需关注自动化审批带来的质量控制与安全风险。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8045",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T22:02:05Z",
+      "summary": "初创公司Supertake完成2000万美元融资，主打让AI代理把用户的市场判断转化为股票投资组合。用户无需自行挑选个股，只需表达对市场方向的看法，AI即可协助构建相应组合。该模式试图降低投资门槛，把主观预测与自动化配置结合，但也涉及投资建议合规、风险控制和AI决策透明度等问题。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8046",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-23T21:47:41Z",
+      "summary": "报道称，英伟达在涉及丑闻的背景下恢复黄仁勋的职务，埃隆·马斯克等人对此表示欢迎，马斯克称“错误已被纠正”。该消息引发外界关注，核心看点在于英伟达管理层变动及其对公司治理和声誉的影响。不过，现有摘要未披露丑闻细节和复职具体安排，后续影响仍有待观察。",
+      "fetchDate": "2026-11-24"
+    },
+    {
       "id": "8030",
       "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
       "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
@@ -72352,5 +72406,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 8039
+  "total": 8045
 }
