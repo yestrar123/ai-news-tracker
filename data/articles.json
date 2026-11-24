@@ -1,6 +1,123 @@
 {
   "articles": [
     {
+      "id": "8063",
+      "title": "Tech Executives, Investors Confront The AI PR Problem - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWpfVm9BcmJ5T2tkbUZTZ291S1BNdVcwUGxOV0xwTUdVZlBUSjB5R1dVamhDLUJ1b1U4UHlYYVZZb1JueHVPcGM3WWtBb1hEV3cxbkF5TkFvSEtxZUswT0xWV0pSdDJjQXlHU0NSUzhfQm0wdTZOc0hFaGdkVGRIVUlMempGVG53ZkptcUR1T1VrNEZvMC1GYzhRQkY?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T16:33:41Z",
+      "summary": "科技高管与投资者正面对AI的公关难题。随着AI产品快速落地，公众对就业冲击、隐私、安全和夸大宣传的疑虑上升，企业需要在投资者关系与公众沟通中更清晰地界定AI能力与风险，管理预期、修复信任，避免炒作反噬。该报道聚焦业界如何应对AI叙事带来的声誉与沟通挑战。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8064",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24T16:10:00Z",
+      "summary": "Crusoe的一位投资人押注太阳能与电池，为未来AI数据中心供电。下一代数据中心每年可能需要数十吉瓦电力，传统电网难以独立支撑。该投资人认为，太阳能加储能是满足AI算力能耗需求的最直接方案，也反映出AI基础设施竞争正延伸至能源供给与绿色电力布局。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8065",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24T16:02:37Z",
+      "summary": "Pinterest将允许家长限制青少年在信息流中看到的AI生成内容。与其他平台主要限制青少年使用AI聊天机器人不同，Pinterest聚焦于充斥信息流的AI内容。新功能赋予家长更多管控权，也显示社交平台正回应外界对青少年接触AI生成内容的担忧。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8066",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24T15:51:07Z",
+      "summary": "亚马逊收购Decart，交易金额据报道约75亿美元，意在通过软件优化提升自研Trainium芯片的效率，缩小与英伟达在AI芯片领域的差距。此举显示亚马逊在继续投入定制芯片的同时，更重视软件栈与编译优化，以降低对英伟达GPU的依赖并提升算力性价比。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8067",
+      "title": "WATCH: Senator Robin Padilla takes issue with groups \"demonizing\" artificial intelligence, urging the Bangko Sentral ng Pilipinas (BSP) to speak up in favor of AI adoption and foreign investment, during the Senate plenary session on Tuesday, November 24. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRl83MmZhTkV1YmFGUDdKRlc0UjhtVjE0N2lJTURIUXlWVFJnTXhNbUxXdmFmSXFDbHdiSURsWV9IUHdnaGJhVU1YQ0JtY2JacExib084SkN0ZnVoNGxDcGh2V1lTTkR2c2tvNFRmZUk4cnFQNVowUUNrRlctSFpMNE05T1VDOEhUcGNCanB3U0tkMzNuc3ZIeldpLXpNdC1KS21FaDNSUHN6VTBPZHplQlI2UXpnaEJRUnU2Q3RLTGFQNWhIWUZPUXktNUJsNThwRVlhMkl3RUxNU1U?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T15:37:02Z",
+      "summary": "菲律宾参议员Robin Padilla在参议院全体会议上批评将人工智能“妖魔化”的团体，并敦促菲律宾央行（BSP）公开支持AI采用与外国投资。他认为，过度负面叙事可能阻碍技术引进和投资，监管机构应释放支持创新的信号。该表态反映新兴市场在AI监管与吸引投资之间的平衡难题。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8068",
+      "title": "Artificial Intelligence Risk, Inc. Has Rebranded to Verapath - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTQzUi1xb0JpLXk0VnpDX0ItQndYS3lNazV3TnN1ZTVaelFOTnVEMnlVUXpWNzh2dXF4R3VTY2YxUi1pTU1VdUdVTm05ZTdXX0JNbmZZb2pDbEd0WXF4dktPYUd3bFVDMVZLaFJ0Ml9iMGtxWEpuTERmNlU0Z1dLVjhRMjRjWWg1NVp5dFJHdjgzVjBVZVlRTjVPR1FDSjBTU09ETlBaeDJ1dkx1S1hsNmZyanM?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T15:00:00Z",
+      "summary": "Artificial Intelligence Risk, Inc. 宣布更名为Verapath。该消息通过新闻稿发布，显示这家专注AI风险领域的公司正进行品牌重塑。更名通常意味着业务定位、市场策略或产品方向的调整，但原文未披露更多细节，尚不清楚新品牌将聚焦哪些具体服务。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8069",
+      "title": "Local Leadership in the Age of AI: How Artificial Intelligence is Transforming Locally Led Humanitarian Action. - ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkJiUzFzd3VvVVpFNXFpal9zNGpkbUR6eXRrcHRJbWxxNHZJejlkYjRCNnN5QldiTzFJVjR3NFo0aEJOQXBpcjlsNXd5RFpqd2NlcTRPQXQyV3RmdEVEZHhXX2l5Y0NsdXdQOHdYT3g0aENVNnBmVUVJRng4VmtwWHE0aENJODB4TG5IZ3RIVGxLcUNJM1k3dHFSQVlqdWJuMzdUVElBZ19IR2V5RHFTaTEtTnRJRG5TRXhyX0xLalI1SVNoWjltSnZzQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T14:27:31Z",
+      "summary": "ReliefWeb刊文探讨“AI时代的地方领导力”，分析人工智能如何改变由地方主导的人道主义行动。文章关注AI在提升救援效率、信息分析和资源调配方面的潜力，同时强调应确保地方组织在技术采用中拥有主导权，避免外部技术方案脱离当地实际。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8070",
+      "title": "UK cyber agency seeing ‘marked rise’ in AI-driven attacks - The Record from Recorded Future News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DUnZ3WE1wWDljSGFrTV9oRkxwc21PR0YxMnpCQ2lIUXo3dWg2SGdjU0ZOUnA2SnliX0wyc3ZraVRNaEY3YVp6SFR0TVc3R0l1eW4xZk9ZSldZR2Zvb193eTZORnU3Y3puTGc3WjhoUm8?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T14:02:20Z",
+      "summary": "英国网络安全机构表示，观察到AI驱动的网络攻击“显著增加”。攻击者可能利用AI自动化生成钓鱼内容、提升恶意软件规避能力并扩大攻击规模。该机构警告企业加强防御，同时反映AI双用途风险正从理论走向现实，给网络安全治理带来新挑战。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8071",
+      "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYURUekJ6Ym94MHJ2TlVhUlpyeVh2NW5yeFdCU0VMU3hBUEZ3MjluaFlPeEFCaXBCQWYwS0tGVGlEQTBndVRJYUptYXFDV0h6R3VkR3FSZHk3bGRpZ1UydGJYU3JpUzZXZWE1NHpNTjI3eUtDSFdfZkpxR2hEMHFKZ3BoMnEzaUFNVWg4WXBpeXVhUGFfM3JkOU9LQmNxdVU1TUlwNUhCQUw1aU1uS1VqSmF3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T12:45:00Z",
+      "summary": "《卫报》向读者提问：是否已下载Meta的AI助手Muse，或是否有下载计划？该互动话题反映公众对Meta新AI助手的关注度与采用意愿。通过收集读者反馈，媒体试图了解用户对AI助手的实际使用体验、隐私顾虑以及整合进社交平台后的接受程度。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8072",
+      "title": "AI Artificial Intelligence Ventures Inc. (TSXV:AIVC) Advances as Market Momentum Improves - kalkine.ca",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1BxcFg3aGUzX1lqOUxMTW4ySk1lcm43bXFnU1NxSXplMldMZjFJeXNpRlZTeXlUZFllLUJuOEVXalJEdnFQWHhUVy0wamRqdlZUZ0UwaXV0dE8yRWs1MjlrOW1XMEhQMTF3NUdndURRU3NlekRudXA4SkRFZGhCMVhQRG1KZmxQT0thMU8zbFdDRGt4eVkwb3NCUjM5ZDhqQVlxenhVaTRmdTlNY3hRbUpuT0pnM29CdFRfWEQ0TWRidEdwRUpXOHVCSGV4UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T11:53:00Z",
+      "summary": "据kalkine.ca报道，AI Artificial Intelligence Ventures Inc.（TSXV:AIVC）在市场动能改善的背景下取得进展，受到投资者关注。该新闻主要反映市场情绪与股价表现回暖，但未披露具体业务、财务或交易细节。作为AI相关风险投资标的，其后续表现仍取决于公司基本面、投资组合进展及市场风险偏好。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8073",
+      "title": "Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnFTMEt6QTl2eHk2Z1lKMVpZNW1ieWF6TGRSUENiWTF0QWFFekVRUDZxT0pmb29jaU1rM21uMk1TenFYdUNJck4wMGdFdmplMElnTlZIUVFGc1VCRG90cFdRVEFPWm9QQzNMaVZRX0k4UU5uNEt4ZTNOcUZjNjk0c3V4WGl3VmNod1ZNM21CaHo3Vy1ZMGRMeTZLaHZLVnczQ0JUcXdOZjlNeV9lSlhrUTZ0ZDFqbm04b0FZcTJReVpYOE02cUxqWTkzV3JaTUVUREx3?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T11:14:26Z",
+      "summary": "Anthropic推出Claude Ship，将AI辅助开发从代码生成进一步延伸至拉取请求审批环节。该工具可参与代码审查与批准流程，提升开发协作效率，并减少人工重复工作。但AI介入审批也带来权限控制、代码安全、责任归属和治理合规等挑战，企业需建立相应审查与审计机制。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8074",
+      "title": "Edinburgh tech 'unicorn' to cut 150 jobs as AI threatens flight comparison business - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0Y1WE5rYks1eUVjSEZsQ21ubzNlYllPYWRzQnltYmpwbTdQTzJMUVVhMW50b1oxUUNOTmlCdmVnMEpwV3RVbktZa1hPek1Bc2l2QlkxLU1hbWxnUVRKdm5uc091WUJqeXNudldIY3Y1dFRpVmZUMkw4Nk5oTGxiNXoyU29qNU5yNGEzZm56Vy0wT0N1RF9VTXVOYw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T10:54:20Z",
+      "summary": "爱丁堡一家科技“独角兽”宣布裁员150人，原因是AI正在威胁其航班比价业务。生成式AI与智能搜索改变用户获取航班信息和比价的方式，可能削弱传统比价平台的流量入口与商业模式。此次裁员反映公司正通过降本重组应对行业变局，但原文未披露具体公司名称及更多财务细节。",
+      "fetchDate": "2026-11-24"
+    },
+    {
+      "id": "8075",
+      "title": "Is the UK economy well placed to benefit from artificial intelligence? - Economics Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0dvRElHcGg0NW5DU2JxenJCeldlU0hKOGQ5Mm5CUjJla1YzWktBcENmMTFEUXdlNy1FODZ3NDhycnVzY2g0ZkFCb2o3MGttYVpERkdOWkQxUzFjWWk5SDJwR2FSSGRWSDlEYkZmTHAwb0NFS0JLM0owZ1RNOHNNbHVGc01ScmZBb1ZCSWtDSTI5RkZoTUZ3QlI4NFZGN045QlFHRWM0eXZqdw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T10:40:53Z",
+      "summary": "Economics Observatory刊文分析英国经济是否具备从人工智能中获益的条件。文章认为，英国在科研、金融和专业服务方面有优势，但AI红利能否转化为生产率，取决于企业采用率、数字基础设施、技能培训、投资力度及监管环境。若中小企业采用不足或技能缺口扩大，AI对经济增长的拉动可能受限。",
+      "fetchDate": "2026-11-24"
+    },
+    {
       "id": "8047",
       "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’ - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5LR1FKWHNxR05oVVVxRFVYM1R1VU55S1YtR3BRdUQxOGFWcnUxcms0U3dQOXRFcHdGSEJiUVVzZTUyWmRGTTVnLU1aSGh0SHB4UEw2QlFyZFh2bnZqTnIxTVpERDdjYmZsdER4LXI5TzhIcUxQMW96cEhXZkYxMGE1cThEUjJOX0dZV1ZBbnd1dkZGQmhvb2VOZW1HV2Voa2U1Y2d5TzJLWjcx?oc=5",
@@ -72550,5 +72667,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 8061
+  "total": 8074
 }
