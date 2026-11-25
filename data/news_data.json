@@ -1,104 +1,118 @@
 {
-  "updatedAt": "2026-11-24 16:40:10 UTC",
-  "totalArticles": 14,
+  "updatedAt": "2026-11-25 01:43:50 UTC",
+  "totalArticles": 16,
   "articles": [
     {
-      "title": "Tech Executives, Investors Confront The AI PR Problem - Bloomberg",
+      "title": "Artificial Intelligence (AI) Support in Mammography Screening: Evidence From the MASAI (Mammography Screening With Artificial Intelligence) Trial and Gaps in Device Regulation - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQR0t6RGI0UUFEaFBmeHl0X0ZiOXlQRmxySXdDU1FzR293cDdSeUJfcHNnMDhQQUpKeS0yajlLOXVsRDdvVFRCeUpncTlJZXFLVmNtck42YU1mSFRYNmlGd294R3FyOVlOaVN1VWdSNjNWbGlBTXRReHZQeHpQeG1nd2JtM2FVdmJPQmFxSjgzOTVUcXFjLVFSdDJtUmYwc1JGc1NNd3E3WDBkSnpON0lUODdVc0xQZUl3bUxFTE42WlNaX3NtSDVfdG1NXzhMMENsRjdJN0d1TEV2T0NJN01VZTNvNkY1eV9TM3IxUGt2LV9LenRDc2hwY0xqdnNoMnQ1Qzl2dDFzVmdILU5MY3EybzF2cmxkcTdhYmFrQ1BZbncyVEZ3M2l5VlZhN3dySGNjc3kw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T01:09:03Z",
+      "summary": "《Cureus》文章围绕MASAI试验评估AI辅助乳腺X线筛查的证据，讨论AI在提升检出率、优化放射科阅片流程方面的潜力，同时指出医疗器械监管在算法更新、临床验证和真实世界监测方面仍有缺口。文章强调，AI筛查要从试验证据走向常规应用，需完善审批、绩效评估和安全监测框架。"
+    },
+    {
+      "title": "DOJ’s New Super Intelligence Task Force Signals More Coordinated AI Enforcement - JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3M5NVlhTFR3T1hHeGpDeGNXQjVCQnEtWG1DS2JmUmVrUlR4QUpPZGloN1pXam9RSTJvSy1rRUpRZEl1OTFaMXJ1MVZ4Skt0ejE2TEVra1ZjUUUtWnJjLUZ0ZGF5ajlvMWI3LVBXTVBTd0tPbDE2UDdwZEtWbHRWUlY2U25ZcFhxcEE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T00:33:11Z",
+      "summary": "美国司法部新设“超级智能工作组”，释放出对AI领域加强跨部门、协同执法的信号。报道认为，该举措可能把反垄断、消费者保护、国家安全、欺诈与出口管制等议题纳入更统一的AI监管框架，企业面临的合规与执法风险随之上升。未来AI公司需更重视算法透明度、数据使用和跨境合规。"
+    },
+    {
+      "title": "Is AI destroying the arts? These Tampa Bay professors are mixed - Tampa Bay Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeXRGSlpZblZwOHFHV2NrSkVLT0I3ZEhmSmVXN3hOWlIzaU5STndrUmlvbWM1d2ticTU4NU43UUR2ZHlyQTFiamNjZ01ORDllempVZ09GVWZEUGRQeHZGMnpNT3ZVclB2OE01ZGlnSk9ncl9LbV90Zk5SRzdhSUFySkVQSlhDNnp1NERrNlNDZENLRG5pSGc?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T00:24:04Z",
+      "summary": "《坦帕湾时报》采访当地教授，讨论AI是否正在破坏艺术。受访者观点不一：有人担忧生成式AI冲击原创性、作者身份、版权和艺术劳动价值，导致同质化和伦理问题；也有人认为AI是新的创作工具，可扩展表达边界。争论核心在于如何在鼓励创新与保护艺术家权益之间建立规则。"
+    },
+    {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T00:12:02Z",
+      "summary": "耶鲁教授索南菲尔德批评英伟达并非美国工业实力的捍卫者，反而可能构成拖累。他警告，黄仁勋在白宫支持下重返英伟达CEO及董事会，可能给董事带来历史性的个人责任风险，并引发更多诉讼；同时质疑美国是否在庆祝一家曾推动先进芯片流入对手之手的公司。争议凸显AI芯片出口管制与公司治理风险。"
+    },
+    {
+      "title": "Tech Executives, Investors Confront The AI PR Problem - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWpfVm9BcmJ5T2tkbUZTZ291S1BNdVcwUGxOV0xwTUdVZlBUSjB5R1dVamhDLUJ1b1U4UHlYYVZZb1JueHVPcGM3WWtBb1hEV3cxbkF5TkFvSEtxZUswT0xWV0pSdDJjQXlHU0NSUzhfQm0wdTZOc0hFaGdkVGRIVUlMempGVG53ZkptcUR1T1VrNEZvMC1GYzhRQkY?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-24T16:33:41Z",
-      "summary": "科技高管与投资者正面对AI的公关难题。随着AI产品快速落地，公众对就业冲击、隐私、安全和夸大宣传的疑虑上升，企业需要在投资者关系与公众沟通中更清晰地界定AI能力与风险，管理预期、修复信任，避免炒作反噬。该报道聚焦业界如何应对AI叙事带来的声誉与沟通挑战。"
+      "publishedAt": "2026-11-25T00:03:41Z",
+      "summary": "彭博社报道，科技高管与投资者正面对日益突出的AI公关难题：公众对AI炒作、就业冲击、隐私和安全风险的不安上升，企业过去侧重能力宣传的做法难以建立信任。报道认为，AI公司需更透明地沟通局限、治理措施和社会影响，平衡市场预期与责任叙事，否则可能遭遇监管和舆论反弹。"
     },
     {
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24T16:10:00Z",
-      "summary": "Crusoe的一位投资人押注太阳能与电池，为未来AI数据中心供电。下一代数据中心每年可能需要数十吉瓦电力，传统电网难以独立支撑。该投资人认为，太阳能加储能是满足AI算力能耗需求的最直接方案，也反映出AI基础设施竞争正延伸至能源供给与绿色电力布局。"
+      "publishedAt": "2026-11-24T22:27:52Z",
+      "summary": "TechCrunch报道，黄仁勋仍认为制定正式接班人计划会在公司内部制造不必要的层级，不利于扁平化和快速决策。这一立场在英伟达刚经历“创始人缺席”考验的背景下显得格外引人注目。文章由此讨论，创始人中心型治理在AI芯片巨头高速扩张期虽能保持效率，但也带来关键人风险和继任不确定性。"
     },
     {
-      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "title": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZDRaRzNObjBnSjJ0T0VyUTlCajJkR1dMVmFqbHl6dTlZYVZQM1Q2WXJ0REtQZUg1UjJlZlBLb3dIX2c1em9TaTVGbTZrSlFJNXpGTThrX1JUZ2VpeXdZdXQyVmlscGhyUjd0YVUxZVZmUFZ6SnRwM2djOUJ2a2hQWEs3TlFfVmtZa2FqMWJMR3NZS2xaVHEtSWh3bnJ4ellETzdMaTJKOXR1cHVtVTAwZEZoVlBkT0g2ZzBxVUhwVllfSkMzV0Jxb2RIc3A1SDAxUFh6aENMWnJkVzJqSXRjTzdqUlhfUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T22:00:02Z",
+      "summary": "《Motley Fool》文章提醒，华尔街约1.4万亿美元的泡沫风险可能并非来自人工智能，市场不应把泡沫担忧简单归因于AI。报道认为，AI相关估值虽受关注，但需区分结构性机会与投机泡沫；投资者应关注盈利兑现、资本开支回报和利率环境，警惕其他资产板块积聚的风险。"
+    },
+    {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24T16:02:37Z",
-      "summary": "Pinterest将允许家长限制青少年在信息流中看到的AI生成内容。与其他平台主要限制青少年使用AI聊天机器人不同，Pinterest聚焦于充斥信息流的AI内容。新功能赋予家长更多管控权，也显示社交平台正回应外界对青少年接触AI生成内容的担忧。"
+      "publishedAt": "2026-11-24T21:48:27Z",
+      "summary": "TechCrunch报道，黄仁勋在全员会上向员工道歉，感谢白宫支持，并透露自己正在接受心理治疗。他表示感激获得第二次领导公司的机会。此番表态发生在英伟达经历治理与舆论风波之后，反映创始人在高压环境下的个人状态与公司内部沟通策略，也显示英伟达正试图修复员工信任和外部关系。"
     },
     {
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "title": "AI school — $75,000 Private Schools Replace Teachers with Artificial Intelligence - The Korea Daily",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUVY5QWF6am1lYm5RMDlkc2VnQ19tTExveDFpR3RieHlMQXpwSlVKU296YkQ0Z2ZDUkNIeEFRTVNId2pLUlZONXFfS29Dc0tlNmZta0VUdXZOR3ZpWGl3MXExelJub3AwQ0Z6QTRmQ3Nib1hIbkVfdFZiXzM0bzZ5R0JiZERyMmow?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-24T21:39:56Z",
+      "summary": "《韩国日报》报道，一些学费高达7.5万美元的私立学校正尝试用人工智能替代教师授课，以个性化学习和降低师生比作为卖点。该模式引发争议：支持者认为AI可提供自适应课程和即时反馈，批评者则担忧教学质量、学生社交情感发展、教师职业被削弱以及高收费背后的教育公平问题。其效果仍待长期验证。"
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "source": "TechCrunch AI",
-      "publishedAt": "2026-11-24T15:51:07Z",
-      "summary": "亚马逊收购Decart，交易金额据报道约75亿美元，意在通过软件优化提升自研Trainium芯片的效率，缩小与英伟达在AI芯片领域的差距。此举显示亚马逊在继续投入定制芯片的同时，更重视软件栈与编译优化，以降低对英伟达GPU的依赖并提升算力性价比。"
+      "publishedAt": "2026-11-24T21:33:29Z",
+      "summary": "TechCrunch报道，一项新基准测试显示，即便是最先进的AI智能体，在完成日常任务时仍难以做到可靠、安全，且可能引入新问题。随着个人AI助手普及，这一结果提醒业界：智能体从演示走向真实生活，需要更强的任务规划、环境适应、错误恢复和安全约束能力，距离真正可托付的日常自动化仍有差距。"
     },
     {
-      "title": "WATCH: Senator Robin Padilla takes issue with groups \"demonizing\" artificial intelligence, urging the Bangko Sentral ng Pilipinas (BSP) to speak up in favor of AI adoption and foreign investment, during the Senate plenary session on Tuesday, November 24. - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRl83MmZhTkV1YmFGUDdKRlc0UjhtVjE0N2lJTURIUXlWVFJnTXhNbUxXdmFmSXFDbHdiSURsWV9IUHdnaGJhVU1YQ0JtY2JacExib084SkN0ZnVoNGxDcGh2V1lTTkR2c2tvNFRmZUk4cnFQNVowUUNrRlctSFpMNE05T1VDOEhUcGNCanB3U0tkMzNuc3ZIeldpLXpNdC1KS21FaDNSUHN6VTBPZHplQlI2UXpnaEJRUnU2Q3RLTGFQNWhIWUZPUXktNUJsNThwRVlhMkl3RUxNU1U?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-24T15:37:02Z",
-      "summary": "菲律宾参议员Robin Padilla在参议院全体会议上批评将人工智能“妖魔化”的团体，并敦促菲律宾央行（BSP）公开支持AI采用与外国投资。他认为，过度负面叙事可能阻碍技术引进和投资，监管机构应释放支持创新的信号。该表态反映新兴市场在AI监管与吸引投资之间的平衡难题。"
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24T21:32:38Z",
+      "summary": "沃尔玛与Meta合作，将黑色星期五优惠接入Meta的AI代理Muse，用户可通过Muse浏览并购买沃尔玛促销商品。此举显示AI代理正从信息助手转向交易入口，也体现零售与社交平台在AI购物场景中的深度融合，为节日营销和智能商务商业化提供新样本。"
     },
     {
-      "title": "Artificial Intelligence Risk, Inc. Has Rebranded to Verapath - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTQzUi1xb0JpLXk0VnpDX0ItQndYS3lNazV3TnN1ZTVaelFOTnVEMnlVUXpWNzh2dXF4R3VTY2YxUi1pTU1VdUdVTm05ZTdXX0JNbmZZb2pDbEd0WXF4dktPYUd3bFVDMVZLaFJ0Ml9iMGtxWEpuTERmNlU0Z1dLVjhRMjRjWWg1NVp5dFJHdjgzVjBVZVlRTjVPR1FDSjBTU09ETlBaeDJ1dkx1S1hsNmZyanM?oc=5",
+      "title": "Tidal Is the First Streaming Service to Ban AI Music - Rolling Stone",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmhYMnVFVFRfeW1QTmNnV19tdFhheGg1UkhuY3B5RFhkb3hoOENXcktwSGpJajlmelJ2RmRhWTZBTTdvWFNnb1FmT2MzVURET29ieVZZVm5uUjhRVnlfRU42cmQ1YkVBMzhKVHltMFBybUpuMEZwVjN0SjdRZkROWV8zUQ?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-24T15:00:00Z",
-      "summary": "Artificial Intelligence Risk, Inc. 宣布更名为Verapath。该消息通过新闻稿发布，显示这家专注AI风险领域的公司正进行品牌重塑。更名通常意味着业务定位、市场策略或产品方向的调整，但原文未披露更多细节，尚不清楚新品牌将聚焦哪些具体服务。"
+      "publishedAt": "2026-11-24T21:20:28Z",
+      "summary": "Tidal成为首个禁止AI音乐的主流流媒体平台。据《滚石》报道，该平台将明确限制AI生成音乐，并可能下架相关曲目。此举反映音乐行业对版权归属、原创性和艺术家权益的担忧，也意味着流媒体平台开始以更严格政策回应生成式AI对内容生态的冲击。"
     },
     {
-      "title": "Local Leadership in the Age of AI: How Artificial Intelligence is Transforming Locally Led Humanitarian Action. - ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkJiUzFzd3VvVVpFNXFpal9zNGpkbUR6eXRrcHRJbWxxNHZJejlkYjRCNnN5QldiTzFJVjR3NFo0aEJOQXBpcjlsNXd5RFpqd2NlcTRPQXQyV3RmdEVEZHhXX2l5Y0NsdXdQOHdYT3g0aENVNnBmVUVJRng4VmtwWHE0aENJODB4TG5IZ3RIVGxLcUNJM1k3dHFSQVlqdWJuMzdUVElBZ19IR2V5RHFTaTEtTnRJRG5TRXhyX0xLalI1SVNoWjltSnZzQQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-24T14:27:31Z",
-      "summary": "ReliefWeb刊文探讨“AI时代的地方领导力”，分析人工智能如何改变由地方主导的人道主义行动。文章关注AI在提升救援效率、信息分析和资源调配方面的潜力，同时强调应确保地方组织在技术采用中拥有主导权，避免外部技术方案脱离当地实际。"
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-24T21:19:52Z",
+      "summary": "Maple获得530万美元融资，用于构建保护用户数据的AI产品。其核心是加密AI架构，设计目标是即使Maple自身也无法访问用户私人数据。该方案强调隐私增强与可信AI，契合企业对敏感数据合规和安全的需求，也为AI应用在隐私保护与功能可用性之间提供新思路。"
     },
     {
       "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’ - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW5LR1FKWHNxR05oVVVxRFVYM1R1VU55S1YtR3BRdUQxOGFWcnUxcms0U3dQOXRFcHdGSEJiUVVzZTUyWmRGTTVnLU1aSGh0SHB4UEw2QlFyZFh2bnZqTnIxTVpERDdjYmZsdER4LXI5TzhIcUxQMW96cEhXZkYxMGE1cThEUjJOX0dZV1ZBbnd1dkZGQmhvb2VOZW1HV2Voa2U1Y2d5TzJLWjcx?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-24T14:13:00Z",
-      "summary": "凯特·布什与格蕾丝·琼斯等音乐人敦促澳大利亚政府不要将AI“盗窃”合法化。她们反对在版权法改革中允许AI开发者未经授权使用受版权保护的作品训练模型，认为此举等同于合法化对创作者劳动成果的侵占。争议凸显生成式AI训练数据与版权保护之间的紧张关系。"
+      "publishedAt": "2026-11-24T20:31:00Z",
+      "summary": "Kate Bush和Grace Jones等音乐人敦促澳大利亚政府不要将AI“盗窃”合法化。她们担忧生成式AI在训练和生成过程中未经授权使用创作者作品，呼吁加强版权保护。事件凸显AI发展与创作者权益之间的紧张关系，也将推动政策制定者在创新激励与权利保护间寻求平衡。"
     },
     {
-      "title": "UK cyber agency seeing ‘marked rise’ in AI-driven attacks - The Record from Recorded Future News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DUnZ3WE1wWDljSGFrTV9oRkxwc21PR0YxMnpCQ2lIUXo3dWg2SGdjU0ZOUnA2SnliX0wyc3ZraVRNaEY3YVp6SFR0TVc3R0l1eW4xZk9ZSldZR2Zvb193eTZORnU3Y3puTGc3WjhoUm8?oc=5",
+      "title": "Tidal to remove millions of AI-generated songs from its platform in sweeping crackdown - TheGrio",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZElwQzRhY0JjNzZFRWVGV2JTWXBXZEJ3a1VyeFh6RUtnZGJxVDJ3Uk9WeVRldDNvcFBGcjlXT003bDVrZ1JXYUJuUFlGb1VKcmRRam9EQkNpLWh1Z2ZqdDFzcUlTME5zT1BFQmpNVjJCa3J0OGhlRVV5UmZMcnlhdzYxOVNJeDlzZjRsQjVtM29hWGY0azB6RlI3dmxaeExRcmJKOWxacmZrdmlyYWg0aGo1QnlnY3IzV2c?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-24T14:02:20Z",
-      "summary": "英国网络安全机构表示，观察到AI驱动的网络攻击“显著增加”。攻击者可能利用AI自动化生成钓鱼内容、提升恶意软件规避能力并扩大攻击规模。该机构警告企业加强防御，同时反映AI双用途风险正从理论走向现实，给网络安全治理带来新挑战。"
+      "publishedAt": "2026-11-24T20:29:15Z",
+      "summary": "Tidal宣布大规模清理平台，将移除数百万首AI生成歌曲，成为首个对AI音乐采取全面禁令的主流流媒体服务。该举措回应唱片业和艺术家对版权侵权、版税分配及作品真实性的担忧，可能促使其他平台重新评估AI音乐政策，并影响生成式音乐的分发生态。"
     },
     {
-      "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to? - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYURUekJ6Ym94MHJ2TlVhUlpyeVh2NW5yeFdCU0VMU3hBUEZ3MjluaFlPeEFCaXBCQWYwS0tGVGlEQTBndVRJYUptYXFDV0h6R3VkR3FSZHk3bGRpZ1UydGJYU3JpUzZXZWE1NHpNTjI3eUtDSFdfZkpxR2hEMHFKZ3BoMnEzaUFNVWg4WXBpeXVhUGFfM3JkOU9LQmNxdVU1TUlwNUhCQUw1aU1uS1VqSmF3?oc=5",
+      "title": "Artificial Intelligence (AI) Since Barbenheimer (or How Resources Make AI a Little Less Scary) - crea.ca",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRndzZGNrVU1fU2RlVzN4T1pIdkYzYkVpMVYtTi03dGZkVXNRaW43djdVdVQ4amQtOUtiX1ZjZHo5cGtvcjZfYWpjcDNlVlpEYnZQVWZtNndpRmxlSWtNS1NobWpHMTdhdm5Oem9CV2RfMW44Nkg0azJrajhLYkZjcWw5dHBjRGZ1a1daM0h2NldjemZSRGpKeUlJck02WThSWE9sbUF5N1ZDdGdKMVg4MlBoMHotV2c?oc=5",
       "source": "Google News AI",
-      "publishedAt": "2026-11-24T12:45:00Z",
-      "summary": "《卫报》向读者提问：是否已下载Meta的AI助手Muse，或是否有下载计划？该互动话题反映公众对Meta新AI助手的关注度与采用意愿。通过收集读者反馈，媒体试图了解用户对AI助手的实际使用体验、隐私顾虑以及整合进社交平台后的接受程度。"
-    },
-    {
-      "title": "AI Artificial Intelligence Ventures Inc. (TSXV:AIVC) Advances as Market Momentum Improves - kalkine.ca",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1BxcFg3aGUzX1lqOUxMTW4ySk1lcm43bXFnU1NxSXplMldMZjFJeXNpRlZTeXlUZFllLUJuOEVXalJEdnFQWHhUVy0wamRqdlZUZ0UwaXV0dE8yRWs1MjlrOW1XMEhQMTF3NUdndURRU3NlekRudXA4SkRFZGhCMVhQRG1KZmxQT0thMU8zbFdDRGt4eVkwb3NCUjM5ZDhqQVlxenhVaTRmdTlNY3hRbUpuT0pnM29CdFRfWEQ0TWRidEdwRUpXOHVCSGV4UQ?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-24T11:53:00Z",
-      "summary": "据kalkine.ca报道，AI Artificial Intelligence Ventures Inc.（TSXV:AIVC）在市场动能改善的背景下取得进展，受到投资者关注。该新闻主要反映市场情绪与股价表现回暖，但未披露具体业务、财务或交易细节。作为AI相关风险投资标的，其后续表现仍取决于公司基本面、投资组合进展及市场风险偏好。"
-    },
-    {
-      "title": "Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals - InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnFTMEt6QTl2eHk2Z1lKMVpZNW1ieWF6TGRSUENiWTF0QWFFekVRUDZxT0pmb29jaU1rM21uMk1TenFYdUNJck4wMGdFdmplMElnTlZIUVFGc1VCRG90cFdRVEFPWm9QQzNMaVZRX0k4UU5uNEt4ZTNOcUZjNjk0c3V4WGl3VmNod1ZNM21CaHo3Vy1ZMGRMeTZLaHZLVnczQ0JUcXdOZjlNeV9lSlhrUTZ0ZDFqbm04b0FZcTJReVpYOE02cUxqWTkzV3JaTUVUREx3?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-24T11:14:26Z",
-      "summary": "Anthropic推出Claude Ship，将AI辅助开发从代码生成进一步延伸至拉取请求审批环节。该工具可参与代码审查与批准流程，提升开发协作效率，并减少人工重复工作。但AI介入审批也带来权限控制、代码安全、责任归属和治理合规等挑战，企业需建立相应审查与审计机制。"
-    },
-    {
-      "title": "Edinburgh tech 'unicorn' to cut 150 jobs as AI threatens flight comparison business - The Herald",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0Y1WE5rYks1eUVjSEZsQ21ubzNlYllPYWRzQnltYmpwbTdQTzJMUVVhMW50b1oxUUNOTmlCdmVnMEpwV3RVbktZa1hPek1Bc2l2QlkxLU1hbWxnUVRKdm5uc091WUJqeXNudldIY3Y1dFRpVmZUMkw4Nk5oTGxiNXoyU29qNU5yNGEzZm56Vy0wT0N1RF9VTXVOYw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-24T10:54:20Z",
-      "summary": "爱丁堡一家科技“独角兽”宣布裁员150人，原因是AI正在威胁其航班比价业务。生成式AI与智能搜索改变用户获取航班信息和比价的方式，可能削弱传统比价平台的流量入口与商业模式。此次裁员反映公司正通过降本重组应对行业变局，但原文未披露具体公司名称及更多财务细节。"
-    },
-    {
-      "title": "Is the UK economy well placed to benefit from artificial intelligence? - Economics Observatory",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0dvRElHcGg0NW5DU2JxenJCeldlU0hKOGQ5Mm5CUjJla1YzWktBcENmMTFEUXdlNy1FODZ3NDhycnVzY2g0ZkFCb2o3MGttYVpERkdOWkQxUzFjWWk5SDJwR2FSSGRWSDlEYkZmTHAwb0NFS0JLM0owZ1RNOHNNbHVGc01ScmZBb1ZCSWtDSTI5RkZoTUZ3QlI4NFZGN045QlFHRWM0eXZqdw?oc=5",
-      "source": "Google News AI",
-      "publishedAt": "2026-11-24T10:40:53Z",
-      "summary": "Economics Observatory刊文分析英国经济是否具备从人工智能中获益的条件。文章认为，英国在科研、金融和专业服务方面有优势，但AI红利能否转化为生产率，取决于企业采用率、数字基础设施、技能培训、投资力度及监管环境。若中小企业采用不足或技能缺口扩大，AI对经济增长的拉动可能受限。"
+      "publishedAt": "2026-11-24T20:03:45Z",
+      "summary": "文章以“芭本海默”以来的AI热潮为切入点，讨论如何借助资源与教育材料降低公众对AI的恐惧。作者认为，面对快速演进的AI技术，理性理解和可靠信息有助于区分真实风险与炒作，让个人和组织更从容地评估AI的机会与挑战。"
     }
   ]
 }
