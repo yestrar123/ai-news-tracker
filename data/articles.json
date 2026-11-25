@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "id": "8098",
+      "title": "What PHP2Shell reveals about AI-assisted vulnerability analysis - AI News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPODhvb2daOEZpQU5uRmxMdDRWMTJUaEJGV1pKbjQyeEtIdFhhWkE5YkE5RE1fTEFURU43Mlpfb0pGRVY4MjQ3X1U5ZmdyRGdGN3hvV05JdkNNVTJ0bm00N2ZNMFFScHd0MU1URzhGY1VtMHh6TGJvVGczb2pmVWREZ0NTblpZNTlYSG5sTkpzdmJfc3JTVTAzYkFNRnFyVlZqUUljZWtpN0dFVllIVXdCemRKbw?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T16:20:17Z",
+      "summary": "该报道以PHP2Shell案例为切入点，讨论AI辅助漏洞分析的能力与边界。文章关注AI在代码审计、漏洞发现和利用链分析中的实际表现，并提示自动化结果仍需安全人员验证，避免误报与漏报。其核心议题是生成式AI如何改变漏洞研究流程，以及在真实安全场景中如何平衡效率、准确性与责任归属。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8099",
+      "title": "This May Be the Best Artificial Intelligence (AI) Stock to Buy in December (Hint: It’s Not Micron or Oracle) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLU04NkxmTUxkT0VjQmdFWHFtdVF6czdpd2ZsWXNtOE5yNmxBU2tRQVZIajNVMzY3aVBIeWRibmg1S19scVE0WXNQN0pkMXpNWGNFaGpJZkJ5WkE1aV9CandtcnRaTEllcWFUWVR1RXExRWJVc1hUa1F3VVl4RXphOU5ZZVZ4YXkwTXpIUlpPRU9DMmI4NlR0ZmpwSUpDQXJB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T16:13:02Z",
+      "summary": "雅虎财经文章评估12月值得关注的AI股票，并明确排除美光与甲骨文，暗示另一家更具吸引力的标的。报道可能从增长前景、估值、行业地位与风险等角度展开比较，提醒投资者在AI热潮中辨别真正受益者。由于原文未披露具体公司，核心信息是提供选股思路而非确定性推荐。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8100",
+      "title": "Cycode expands UK teams as it seeks to turn AI into a security advantage - AI News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb0gxWUp4eHhJQ0pET19RYURkUEMycWc3aExBdUx1ZFJra1NKLUFjd2h4c3NWN0NFWlFmYnN5bFhLUW9JZGZQdVhNa2w2SUdaS2tnUm52VXBrQTdSS0hITC0wWTg5X3lhalNuYlVhT0Y2ZlVRazlONTY1OU5uVlo3c3NnNTJjY09KQms5TWFGbjBvTW5DUEFENFhjLWZrdWYyVldpdA?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T16:09:58Z",
+      "summary": "应用安全公司Cycode扩大英国团队，试图把AI转化为安全优势。报道聚焦其利用AI增强代码安全、风险检测与修复效率，并借助本地团队拓展欧洲市场。此举反映安全厂商正把AI嵌入DevSecOps流程，以应对软件供应链和开发速度带来的压力，同时强调AI需与平台化安全能力结合。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8101",
+      "title": "This May Be the Best Artificial Intelligence (AI) Stock to Buy in December (Hint: It’s Not Micron or Oracle) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVFdVTmtVV3gyTE9QMmtQYnlLU0k5a0xVN25OSVBLNXB4elN4NklRdkZBWW83QjF0dWdTMFZzRXhDazBWdzVuZkxkckxqeDk1TjVfYUZqams2YzRxVlY3eUh2cVNFdktQaDg0SmtWYk5BTlhXVkdKaUFVV0ViZDJmaHRMTE1FT1NaSUxwNEJCSHNXNlJiazBEMkt2eko3OHQ2aFFsa2JQSl8yS0RZNzVHZTQ2bkR0QmF5OVRBYUJlY1lqVHhpSTJGazRXd0lqMTE5SGNJOEs0b0p4bkRFZ0ZR?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T15:53:02Z",
+      "summary": "Motley Fool文章讨论12月可能最值得买入的AI股票，并提示答案并非美光或甲骨文。文章预计通过对比业务质量、增长空间、估值与竞争壁垒，寻找AI浪潮中的长期受益者。原文未点名具体公司，因此核心是投资分析框架和风险提示，而非直接给出确定性的买卖建议。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8102",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T15:41:43Z",
+      "summary": "TechCrunch报道称，AI数据中心建设正变得更困难，neoclouds首当其冲。英伟达明确表示不会在数据中心接近可运行前提供兜底，而新云厂商正遭遇建设延期和债务成本上升。文章强调，土地、电力与已完工建筑比商业计划书更重要，反映出AI算力扩张正受制于基础设施与融资现实。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8103",
+      "title": "Sarvam hosting China AI models doesn't violate India AI Mission: Meity secy - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdXBTRHRpMEhOVGZwV0dpa2pVZnlic1dLYmZxRVFvV1U5eng5bG8zRTZPNDZoQmNaZ1NhUHNtcFBXZkhlY01KMnVCZ0RhcjFQZWpvT1NWX3Q2cUdKaVM0QWNCVHlWV21zLWxweW1senQ2TW9OM2NwTE9MdlA5RGd3VUd1blVvSWo3TXBHc0JaS21wb0V3d1ZWNE5mVml6ZXVOMW1kZ3pyZWl2cEZIMWNsUDRLWFo1T1NNVkJPaFhpQ1JPRmQ4UnJTRnpLMHU4UEJ6a05MdkhrdFJ4RGVzVjB0ZjFEdVU2aW1OVU8xa1g2OWVsX0sxY1HSAfsBQVVfeXFMTkl6YlE2a2p0dmhJSml4OHRqbXVEWUZBQUZZcW5lZS0wYmw5Wks2eUpLTTNyWFlSXzZLeFJ0eWVLLU5ZNC1FU005RGNERUlLZW05OS1DSW9hSEh6UHB0X0JuQmlwWl9Eay1WQ05EMFNWYUdtUzBka2pTdlIzbkNKazYwTnU3REE1YlFXWDVPU21CV3lGTUdFZXRONEFxb184R0pyQzZTT1h3RXNwS2VXZWNZUlNwQjFzSC1wOGJtc0FBMjFlcDBBUzRqcGlpUzBvX3NtdHpoa3c0V00tWk1IdC0xalAxejNnY3JsbTFqYjlNNDlIZ3NxczFkZkE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T15:05:12Z",
+      "summary": "印度电子和信息技术部秘书表示，Sarvam托管中国AI模型并不违反印度AI使命。报道涉及印度本土AI平台在模型来源、合规与政策边界上的争议，官方表态为跨国模型合作留出空间。核心信息是印度AI政策更关注使命目标与合规框架，而非简单限制模型来源，但相关数据与安全审查仍受关注。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8104",
+      "title": "What Comes After Artificial Superintelligence? Universal AI and The Limits of Machine Intelligence - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR2p4cXc5U3V4RTMtUmpsbkRhUXZhaXpFSWpuMFh6eGEweDVNclFOQ3ViV0tVUzl0a29MVWc4WFlacHRiV2F4TGtmMU43SEs4QktfNm9UaGpNelNVMnNfSkhOX19zUDBKcjJrR2dRTXpYYUs2XzZuU1dmNEt4MnhQZTJEbFp2aHdZQXV6MjE3WHRuaDFjZzN6ZGQ2VzBDM0dfMmRwUG9wM3hCY0x6andqNjJoWUxGSnpIMmxYSzF5cEpSRVQ1TDhfOGxHSUIzajBi?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T14:54:28Z",
+      "summary": "AI Insider文章探讨人工超级智能之后的下一个概念——“通用AI”，并审视机器智能的边界。报道可能讨论通用性、能力扩展、对齐与理论限制，反思超级智能叙事是否过于线性。核心信息是提醒业界区分更强模型与真正通用智能，关注机器智能在认知、伦理与现实部署上的根本约束。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8105",
+      "title": "From loan calls to checkout, fintechs put AI at the core of operations - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa2l4NWFlbS0zMEhQTFFla0xlTUYzWTNPejlGZVk0R0VTUk82VERyRXpyQU1lc2RNcnljZ0hqaTEwQU1fTzhDbnJhTjVybC15V0w0cnEwOUJoU0tsSFI3Nlg1VDFXSWpBYVVyYWE5SzA4cXdMcHFfVFpMaURGamRyQVNvM1ZubGM5UUQ4ZTNsN2dIbHYzejhMX3ZiRjR2aHdjWERyZWVsUTc4ZGtSRWtxTWEzT1ZSTjByRklLXy1WNTVaOTRvNER6emttU2F4aWJFSHZZOVhsT1ZwSDNSWUxVVG1RamJtczZpSVo1b0QyZ9IB9AFBVV95cUxQQWhHenZuX3VLSEVuWjdSNS1ibUQtU3M2T1padjgxQWpjdWxrUUlNN2xySC1UYjZBRTFlUGVnb1lqMGhBZzhkRFQzcl9idl9tT250bzRjRDl5VEhSWmxWR050V3lacWJCTzZOOWhjU3FwSy15SDZFSGNpYW00NHJYeUtMbm1sdjk2M2hQZVdObEVUNzdNdmM1OWhMdmFrSHo2WEJqdVhuMXlYRWZhc3YxVUdTdlNxRFFvZVBfSVFhbG00MTRHOTBJRTZmY3J2SW1STVU3R2lSdXg2TTFfYlE3YnRjX0FPdmpmeVlWWERVbnRMcVdk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T14:52:27Z",
+      "summary": "Business Standard报道，金融科技公司正把AI置于运营核心，覆盖贷款沟通、客服、风控到结账等环节。AI可提升响应速度、降低人工成本并改善用户体验，但也带来模型偏差、欺诈、隐私与合规风险。核心趋势是AI从辅助工具走向业务流程基础设施，监管与风控能力将决定其落地成效。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8106",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T14:10:18Z",
+      "summary": "TechCrunch报道，亚马逊与Meta正洽谈解除对AI代理Muse长达两个月的封锁。事件反映AI代理在平台生态中的访问权限、互操作性与商业竞争问题。若达成协议，可能为第三方AI代理接入大型平台确立先例，同时涉及数据使用、安全责任与平台治理等关键议题，值得关注后续监管与行业影响。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8107",
+      "title": "What to know before using AI agents for Black Friday shopping - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDlWaVNLMGhDTHpmeHc1MmJNNDVIcVZ0WVNDUnhyYlZlS3BGR1lGdThQYWppcW5NSkxpbXhscG4tZkttMUJqZmhRNmI2OHNYbjBJSnRjdG1fNXpxelg0dm5kTFJjOVhCQ255VWhNYmkydHpmRnlaRnh0aWFvZHhLVmVfSVBMLVh4Q2tPVUNJUjloT3NJLXFsTExDcGUzbF9TeXRxMDg0dFJJUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T13:51:56Z",
+      "summary": "NPR报道提醒消费者，在黑色星期五使用AI代理购物前需了解其能力边界与风险。文章可能涉及代理自动比价、下单和支付时的隐私、安全、退款及责任归属问题，并提示用户核查平台权限与商家条款。核心信息是AI购物代理可提升便利性，但消费者仍需保留判断，谨慎授权敏感信息。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8108",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T13:00:00Z",
+      "summary": "英伟达CEO黄仁勋因与一名涉嫌芯片走私者存在私人关系，持续面临美国国会和公司董事会的质询。相关争议围绕Megaspeed展开，外界关注英伟达在芯片出口管制、合规审查及高管个人关系披露方面是否尽责。黄仁勋和英伟达仍需就事件细节、内部治理及潜在风险作出进一步回答。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8109",
+      "title": "AI is forcing researchers to confront the possibility of artificial minds - New Scientist",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXBGVVdCQ2tCOGY1a0ttc1hJS0prc0hzNTFBeXcxX0s4NWFJdEp4d285N3pKaXFhRW1LdWNldS1zajFPOUp3Y2tmY1Y4cXJKTDhhbGZyY3RBSng5bDRYWUloYnhYNTZzckFzX2k3QkpiMU1DZ1BuNGV1NC1rODRlQTExa0pUV1ZuS1E1ZUIyamRoelBWdWdTbUI5Zkx2LXdpbUs1NHk1RzU5R2pjQ0t3VFVhTXZNNENvRXVF?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T12:49:37Z",
+      "summary": "随着AI系统表现出更强的推理、对话和自主性，研究者正被迫认真面对“人工心智”是否可能存在的问题。相关讨论不仅涉及机器是否具备意识，也推动学界重新审视智能、感知与道德地位的边界，并引发对AI伦理、责任归属和人类自身认知的更深层反思。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8110",
+      "title": "“Reimagining the judiciary in the age of artificial intelligence”: Justice Joymalya Bagchi explores AI’s evolving role in the justice delivery system at 1st DNLU JusTech National Conclave - SCC Online",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU0lqdUhTeXFwNGVOZWE5RkY0MDZmemwxa1o0Q3lsU24tVjRxNElvVHpqUlZELWJ6SUR6UUUyRm9jc1dtWFBpN3pzd0pybUxSNzdMMjJMU2Fyb1h6NnNnMjBBajV4TS13N20teVU1U2RxeXhsdlo1RmNMZ3ZqLXg1YU9VeHItek5uZUlSeG9WcmYxUTNqNGdkZ0EtN1hlWDI0ejk4OFRzWFJESG5PcTVtQnRFTTFlUQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T12:34:35Z",
+      "summary": "在印度DNLU JusTech全国会议上，法官Joymalya Bagchi围绕“人工智能时代重塑司法系统”主题，探讨AI在司法交付体系中不断演变的作用。讨论聚焦AI如何辅助法律检索、案件管理和司法效率，同时强调透明度、公平性、问责制及人类法官核心地位等治理议题。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8111",
+      "title": "Artificial intelligence being used in patient consultations at South Australian public hospital - 7NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa0F1MXhKYWpoMlVCQTlES2lOempvRl90MjF6b1lDV1kzSmpWeW1JNWoxOHI3WGNvbEhYM3lGbm4yZGJLSlAwa3JKbEJPT0dvYTRZSmRvYklHSE9mTDlLcUtGWlRNX2pQQkZfc0JmbmdsNDZ0aVdOdDdHMU1BN1U0TXptTWtyaXpOakdmUjMxcW9LMm54SjlDT2d0TEFPY1pPR2pVcjVnczIxRUZTSm9Da2lGc2w1V0hUSlRqUUYzWDVrcFphd2hfN2h6Nk1CQjNia2hVWF9NdnY5dnlRR2ZB0gHkAUFVX3lxTFBoVE9uVTNHaEhhaEozSFhVUndOSnJFV3Z6eUN1N2N1LTBhbDhWU3VpNk5oNHJsLWd2WHNMWWJ6NVVDRUxKVFJmRnk0NkJlTGpDNGxTZkpUYWpYdHlhTzBkQWZiM2VrMjBPbUxFSEg1NkdNQjk2UWUwMS1GN2dEeHROX0ZoN1BVRFdNSWlFanJ6RFU4SDRiV1RwR1c0NDdxS2JXNkdZWjNsakY4S3AwNGZwRDBYVElaQnd2bHZPYWk1V09YdjUyOXlBZlg5SkUwWFgwSlJZTEk4YUcyQnJVSHF5b1dXTQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T12:25:00Z",
+      "summary": "澳大利亚南澳一家公立医院已在患者问诊环节使用人工智能，显示AI正逐步进入临床沟通与医疗服务流程。该应用可能用于辅助记录、信息整理或诊疗支持，但也引发对患者隐私、医疗安全、责任界定及医生监督的关切，相关实践效果和监管框架值得持续关注。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8112",
+      "title": "NTT Data: Derry AI centre to create 200 new jobs - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JSzFUNVhkSWVBbWpKU1RJSUREbUFYbnV0OE10ZUNkV20zSF9mMC1BM2wtMlhlYkhkUU5pSGxndEZmdlFMSHdFNFlfdGwzenVzSXVTNjh6cEQwYVk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T11:30:37Z",
+      "summary": "NTT Data计划在北爱尔兰德里建设AI中心，预计创造200个新工作岗位。该项目体现企业对AI基础设施、数据服务和区域人才布局的持续投入，也有望带动当地数字经济和科技就业。新增岗位的具体类型、建设时间及投资规模等细节仍待进一步披露。",
+      "fetchDate": "2026-11-25"
+    },
+    {
+      "id": "8113",
+      "title": "Artificial intelligence: “No bursting bubble, but a potentially more sustainable growth pace” - newsroom.bnpparibasfortis.be",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVGhoZUNkT0FJZUZlQ3IwYVg3T1dJWVNmTHNLRVFwZHZCOFd3MTlvSl8zeUNPZFpGcjduY19Ud1JnTHNqSUJvdFVaZW1jT2h3MGlXZkNNSGlqVWQ5c1ZOMUdtUFdldTZPYW1FSW0tbTY1VWZDSXkxLXdPVERnOWFEd0dDX0NCQVRJVldfV2x2SUJBN1ZYMHhQdHlfZ2xnZTJUdDJMV2ZfN0VJYmlPN01JNmhTUmdjOThPcU01cmZmdGxtVngx?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T11:30:00Z",
+      "summary": "法国巴黎银行富通新闻室刊文认为，人工智能并未出现即将破裂的泡沫，但增长节奏可能转向更可持续。文章暗示，AI投资和应用仍具长期潜力，不过市场将从高速扩张逐步过渡到更理性、注重回报与落地效果的阶段，企业需关注商业化质量和风险管理。",
+      "fetchDate": "2026-11-25"
+    },
+    {
       "id": "8090",
       "title": "Amid the growing influence of artificial intelligence (AI) around the globe, stronger collaborations among newsrooms and safety nets on the use of new technologies must be prioritized, SunStar Cebu editor-in-chief Mildred Galarpe said during the 2026 Social - Facebook",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQjZrZU5qcExNME5xMEdZNGhONWtNbWo1b3JBZW9wdUVSWlRodVV1dE9uMXlIWi1rRW0zcHhwdzU0YkVHZmpTMXEzUW1hWjdvS3hBWWN0RGllcW1uMUxFTnN4RVNubjc4a2ZMT0VaZEdNRkVIV2ZkQThLNE9XMW1aZjF5ZEFmc0Fhcy1JUWs1SGoyaGNlNEU1d0diQjRKRHZ4LVhveDF5eTFnY1p5czVyYmlUemV6SkxiX19VVUcxMy1sdUZjQmUtLW96d0pkMTN6RkgtLWxZZzVBSzA?oc=5",
@@ -72865,5 +73009,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 8096
+  "total": 8112
 }
