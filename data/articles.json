@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": "8114",
+      "title": "Healthcare still playing catchup in industrial AI marathon - HealthExec",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWdMQmE4STRHWWEtU05oWnBUREsyR3pmQjdscU9tZEJmTlZ5cjNQU1VKV1hFXy01ZlFmWUp2UUU2R09rN2haUTJZLXN4bHBvOEpsWGltd2dxd2JCWG9hMFBFWTVORHdOSllRUmkwSFh5Y3VjX1RlaFFMQzFEakJVUUtZSElBRmFIeXlRU1YzcWRjQWxjX2ZZQXBTMl9jbnB0TVMtb0ZyUnZqR3hpdUE?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-26T00:46:54Z",
+      "summary": "该报道指出，医疗行业在工业人工智能竞赛中仍处于追赶阶段，应用进度落后于制造、能源等工业领域。文章认为，医疗AI受制于数据孤岛、严格监管、临床验证周期长以及工作流程整合困难，规模化落地速度较慢。尽管医疗拥有丰富数据和巨大潜在价值，但机构在治理、合规与临床证据方面仍面临挑战。要缩小差距，需要更完善的数据基础设施、明确的监管路径和跨机构协作。",
+      "fetchDate": "2026-11-26"
+    },
+    {
+      "id": "8115",
+      "title": "Green Bay considers rules for AI use in public art - WBAY",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNzlSWVhWbXIyOUZxTnVNa0NpUXVpSWJFbnkzZmFpNWQ3RHZoUHp6ejgtRW8ydjdFT0hVSjU4Y2Fqd1RhOXBFMXJMVTVMQkREZzZfaXNpenJpVFYxTXdaN010V3VFZzB3LVp1bWYzZU9SMHRDUER0aTlXMkpLRFE1M0530gGWAUFVX3lxTE9GcDllVWtpRXVOTEt0VXNJZVAtS0pUaDVDX3g3c2JiVmpEZmg5cWFzWmxwUzM2cjU3SkJxM25DZ0I3eGhqN3JzX0RCak1tVWxWaUNmY2NBWHl1TDNHeDVxT1R6enpwSTY0eGFqa0duX18zaFFHVXNXUy1sTHlycUp6T29NdW9NQUFtbklGaHg0M0JUb3F2QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T23:35:00Z",
+      "summary": "美国格林贝市正在考虑为公共艺术项目中使用人工智能制定规则。讨论重点包括AI生成作品在公共艺术中的透明度、原创性、版权归属和艺术家署名等问题。市方希望在不抑制创新的前提下，确保公共资金支持的艺术项目符合社区价值和伦理标准。该议题反映出地方政府正尝试应对生成式AI进入公共文化领域后带来的治理空白，并为其他城市提供参考。",
+      "fetchDate": "2026-11-26"
+    },
+    {
+      "id": "8116",
+      "title": "Anthropic CEO Denies Wanting to Surrender Human Free Will to AI - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZ2NzVE9nVDZOMU9MdVZYbk01bkFGWnB4ZTdRR1JaTnQ0OHJGZGd0eDNNMGpSbHlWTzJxXzlIVVJuNkIyU2lLNVd4TG1uVnQ2N3E3ZXpMZU5rU3pnc1psWGpDcTBXem9WWXM5VmFYVjdnTnlTaWd1b1dDYjFCYmx2bzFaLUQ3WUVYdFBQWGdCZy1MOVU3WldYZGMzeWlnUnpXQ1p5RUliT0U1UUtjMlJEX3FycW51UWJYeTgxb01XTUpEdlBQS3hMTnhUVVJRSnRZN1ZSZmJ1QzVQUGNpeExhRUdHdGdySWhwaF9sZkpjemotN1FIcE1EalVISXhDZnJKcG1sUDR5Tk95MjFRbGgtWVFjR3A?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T22:45:02Z",
+      "summary": "Anthropic首席执行官回应外界争议，否认其希望把人类自由意志或控制权交给AI。报道称，相关指控可能源于对AI安全主张的误读。Anthropic长期强调AI对齐、可解释性和人类监督，其CEO表示公司目标是构建可控、可信的AI系统，而非削弱人类主导权。此番表态发生在AI安全与治理争论升温之际，凸显领先AI公司需更清晰说明其安全立场。",
+      "fetchDate": "2026-11-26"
+    },
+    {
+      "id": "8117",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T22:44:32Z",
+      "summary": "标普正在考虑下调英伟达的信用评级，可能降至AA-，即第四高评级。原因包括公司治理问题以及对“关键人物”的依赖风险，尤其是创始人兼CEO黄仁勋在公司战略和技术路线中的核心作用。报道认为，尽管英伟达在AI芯片市场占据主导地位，但评级机构开始关注其治理结构和领导层集中度可能带来的长期风险。该动向反映资本市场对AI龙头企业治理质量的审视趋严。",
+      "fetchDate": "2026-11-26"
+    },
+    {
+      "id": "8118",
+      "title": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM3dkSXVjdmUxOExWZmdRZDhvcC1Rc29Dc3I2aTM4UFZGYmdBdzFLWmJtWFE2amlWdFkya0d5Tjk3V25jelFad01uekJocml0T3pyeGk0ckFrbDU1TWFnbk9NS1llNjBraDlWMnVSREZNTHBvM3g3czkxbS1yQ2pfYUsteUhKLVRSN2FFZVVKM1ZHQTZYYmJpVWhCa09UcTZhVy1RN1Vrd2w2bG1oVDJFLUZiTE5LcUZWX0pqRXBmMFBsbnJBeTE5WlhpRkxQS0NLRUNrSUFHZjB5UQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T21:31:01Z",
+      "summary": "《Motley Fool》文章认为，在美光与博通之外，仍有一只被市场过度抛售的人工智能股票值得在12月买入。作者的核心观点是，该AI相关标的当前估值已回调至具有吸引力的区间，基本面与长期AI需求仍未改变。文章强调，投资者应关注被短期情绪压制的优质AI公司，而非仅追逐热门芯片股。不过原文未在摘要中明确公司名称，整体属于偏乐观的选股观点。",
+      "fetchDate": "2026-11-26"
+    },
+    {
+      "id": "8119",
+      "title": "Claude artifacts can now install as standalone apps on Mac and Windows - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZDA2UV9BNUdrZzVmSW9aWm1kVUFIZjg5OFB3NkZVR290QkZGOTlXSjQ1X3pkRE9nNWMwWUl6cHQxVGZTeVV0a3ZJZ1JMUXE3MW42TVVTblgtVFB1VHZPeE9Ja25hWHB1M0dMVG5jMzk?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T20:18:23Z",
+      "summary": "BetaNews报道，Anthropic的Claude Artifacts功能现在可以作为独立应用安装到Mac和Windows桌面端。这意味着用户生成的交互式工件不再局限于网页对话界面，而能像本地应用一样启动和使用。该更新提升了Claude产出的实用性和可分发性，使AI生成的小工具、界面原型和轻量应用更接近真实软件产品，也显示AI助手正从对话工具向应用生成与桌面集成平台演进。",
+      "fetchDate": "2026-11-26"
+    },
+    {
+      "id": "8120",
+      "title": "Is artificial intelligence conscious? Why the debate over AI rights can no longer be ignored - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdjVta2JqOW9GWUFhSDNVNFE5dlBLa0x2Q2ZjbzlIcjJqNmx5dkxJQTVTWTV2SDJyT3k5U2lCRkVhakszUnpSTlBlMnNLalV5d1pJU3QxX3JEMmRZa2pWVTFYcjVSUHE5Q1pzLWREQVRhTlpiQi1jTTZ4NzJZZlJmcGVxcTdVb1RnajVKQmxSd3VRLU5Mb1RsaVJyZ3ZiamRoQWVWSmhrbEV0bHhVNDdadVJyZG8tUzM2NDhaenVNNjJDOGE0Yi1PM2t2QQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-25T20:13:49Z",
+      "summary": "Digital Journal探讨人工智能是否可能具有意识，并指出关于AI权利的辩论已无法回避。文章认为，随着大模型表现出更强的语言、推理和拟人化交互能力，公众容易将“像人”误认为“有意识”。但科学上仍缺乏判定AI意识的共识标准。争论涉及伦理、法律和哲学层面，包括AI是否应获得某种道德地位、如何防止过度拟人化，以及监管应如何回应社会关切。",
+      "fetchDate": "2026-11-26"
+    },
+    {
+      "id": "8121",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T20:03:27Z",
+      "summary": "OpenAI表示，随着ChatGPT将Chat和Work体验合并，平台将引入统一的使用量计量方式，重度用户可能更早触及使用限制。报道指出，这一调整旨在简化产品结构，但也意味着不同场景共享同一额度，频繁使用ChatGPT进行工作或开发的用户可能更快达到上限。该变化反映OpenAI在整合产品线、管理算力成本和优化订阅体验之间寻求平衡。",
+      "fetchDate": "2026-11-26"
+    },
+    {
+      "id": "8122",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T19:54:57Z",
+      "summary": "TechCrunch报道称，英伟达CEO黄仁勋被指违反公司行为准则，可能对员工信任和企业文化产生影响。文章认为，行为准则通常体现企业文化，而高管是否以身作则尤为关键。若领导者被认定绕过规则，即使短期业务不受影响，也可能削弱内部对合规制度的认同。该事件凸显AI芯片巨头在高速增长和高度关注下，治理与文化建设面临更严格审视。",
+      "fetchDate": "2026-11-26"
+    },
+    {
+      "id": "8123",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-25T19:44:24Z",
+      "summary": "Anthropic首席执行官Dario Amodei反驳竞争对手的指控，称其“将人类控制权交给AI”的说法“荒谬”。报道指出，在领先AI公司日益自动化自身研究和模型开发的背景下，外界担忧人类正在失去对AI系统的实际掌控。Amodei强调Anthropic仍坚持人类监督和安全优先，并否认主张放弃人类能动性。此番争论反映AI行业在自动化研发加速时，关于控制权与安全责任的紧张关系。",
+      "fetchDate": "2026-11-26"
+    },
+    {
       "id": "8098",
       "title": "What PHP2Shell reveals about AI-assisted vulnerability analysis - AI News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPODhvb2daOEZpQU5uRmxMdDRWMTJUaEJGV1pKbjQyeEtIdFhhWkE5YkE5RE1fTEFURU43Mlpfb0pGRVY4MjQ3X1U5ZmdyRGdGN3hvV05JdkNNVTJ0bm00N2ZNMFFScHd0MU1URzhGY1VtMHh6TGJvVGczb2pmVWREZ0NTblpZNTlYSG5sTkpzdmJfc3JTVTAzYkFNRnFyVlZqUUljZWtpN0dFVllIVXdCemRKbw?oc=5",
@@ -73009,5 +73099,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 8112
+  "total": 8122
 }
