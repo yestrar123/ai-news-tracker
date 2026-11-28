@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "8167",
+      "title": "Store of the Future: Staffing & AI - Convenience Store",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXNUR2NENjVoT1h6NXdqTHpiT2M1MjRydmJJa0ZwNldYZ0Q2dXE0MFRJY3E3cHhYcGdfMHh5NFZQdVFKcjdDYkNucEhOYVJpcmZMaU9oT245NllGVzRLYlU0cjNfdXB2RVoySDRwSG9TMnNuOS1pWTdyblVLTThCdS0xSDR3QUJDS1R0emFoZV9YeVJxOWtB?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-27T20:30:10Z",
+      "summary": "该报道聚焦便利店行业的“未来门店”议题，探讨人工智能在人员配置与门店运营中的应用。内容可能涉及用工短缺背景下，零售商如何借助AI优化排班、预测客流、辅助员工培训及提升服务效率，同时关注自动化对岗位结构和顾客体验的影响。对便利店而言，关键是在技术投入、员工能力与运营成本之间取得平衡，以构建更灵活、智能的门店人力体系。",
+      "fetchDate": "2026-11-28"
+    },
+    {
+      "id": "8168",
+      "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDNCYVhQbUE2MU94UkxyalQyWkk3aFNpSk53aTRTaG5YZVp4ME5CdU1wcEVIaFhmam9NdVRweks0Q1M4ZUpMTV9pcnVEWlcwT0NKVUNySE9WcHJLYTd1TVpzZXVGdWQ1eUFhQmFTakVZZkNpelIxa2xVdkxZNFJ6eExEN3ZZQQ?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-27T19:21:00Z",
+      "summary": "据《卫报》报道，随着美国零售商加速采用AI，业界和公众呼吁加强护栏与监管。AI被用于库存预测、客服、定价、监控等场景，但存在偏见、隐私、透明度和责任不清等问题，部分员工和消费者认为当前应用“没有帮助”。报道强调，零售AI需要在效率提升与权利保护之间取得平衡，建立审查、披露和问责机制，避免算法决策对员工和消费者造成隐性伤害。",
+      "fetchDate": "2026-11-28"
+    },
+    {
+      "id": "8169",
+      "title": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNck85T2V2MDhYbndMQnZoUE1qRHB4a0FnUmRfS3FhemZZMlJaZmtmb0hWVEhIaTZVX09TYlprdExOMGcyNFZlM2h5X1JQZXNuUHAtT1dDWGYwTjNRNkZLUm1tX082bjFLSThPYVF6ZW4xU085dWZOXzA2ZGRFUTlQekRtaDhzNEZmYldIM09oTjVuV1VfYlRmcm04T2FoTnlGMnIwMkQ0YmlaZnpTNDlfU2NnTnpjTHgwcG9YM3pCWFQzVW5SeXJEQjJYNzFnYWJlcC0tdElYb0lHUVlqMXk0NkVndTU?oc=5",
+      "source": "Google News AI",
+      "publishedAt": "2026-11-27T19:11:00Z",
+      "summary": "《卫报》社论以AI与黎曼猜想为切入点，讨论AI在数学等前沿智力领域的突破及其政治社会含义。文章一方面将AI的表现视为智能研究的胜利，另一方面强调其成果不应只由少数科技巨头掌握，而需接受民主监督和公共问责。核心议题包括：如何确保AI带来的知识进步服务于公共利益、保持科研透明，并防止技术权力集中侵蚀民主治理。",
+      "fetchDate": "2026-11-28"
+    },
+    {
       "id": "8164",
       "title": "Trustee’s view | Shaping changes from AI - New Civil Engineer",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT0ZHQjl0UEdwWjdGVmFtS254aGdsVHFjRmJkSGJQMHVDY3VYS01wY1JqcGRnd3llTVVYbG9OTnVQNlZ6YUtsbnB1eWRXV3N2cVdtdG5BeWptM0Y3dzExRE55dFhvRUVET3JyYzZsNWpMaGg5V2pxWUMweU14YzJyRXhKR2RfYXhlekRZQTk1UQ?oc=5",
@@ -73486,5 +73513,5 @@
       "fetchDate": "2026-10-24"
     }
   ],
-  "total": 8165
+  "total": 8168
 }
